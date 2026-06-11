@@ -38,6 +38,8 @@ This is not a static dump. It is a live AI builder intelligence vault.
 
 ---
 
+<!-- VAULT_STATS:START -->
+
 ## Vault Stats
 
 | Metric             | Count |
@@ -49,6 +51,10 @@ This is not a static dump. It is a live AI builder intelligence vault.
 | Learning paths     |     8 |
 | Build ideas        |     8 |
 | Best-of guides     |     6 |
+
+The stats shown here are generated from the current vault content. They refresh automatically when the bot finds meaningful changes, not just because a scheduled run happened.
+
+<!-- VAULT_STATS:END -->
 
 ---
 
