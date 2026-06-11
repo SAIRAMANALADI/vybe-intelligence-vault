@@ -18,39 +18,41 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 734 |
 | ai/research | 301 |
-| ai/rag | 177 |
-| ai/agents | 124 |
-| web-development/threejs | 27 |
+| ai/rag | 253 |
+| ai/agents | 161 |
+| web-development/threejs | 28 |
 | web-development/webgpu | 26 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
-| ai/community | 8 |
+| ai/community | 10 |
+| ai/resources | 10 |
 | web-development/gsap | 6 |
 | web-development/tailwind | 1 |
 | web-development/webgl | 1 |
+| ai/companies/anthropic | 1 |
 | ai/companies/deepmind | 1 |
 
 ## Most Common Tags
 
 | Tag | Count |
 |---|---:|
-| models | 181 |
-| rag | 178 |
-| agents | 166 |
-| frontend_ui | 94 |
-| threejs | 82 |
+| rag | 254 |
+| agents | 253 |
+| models | 213 |
+| frontend_ui | 100 |
+| threejs | 83 |
+| github-repo | 80 |
+| workflows | 62 |
+| hackernews | 45 |
+| python | 44 |
+| web-crawled | 43 |
 | animation | 33 |
-| workflows | 24 |
-| creative_dev | 11 |
-| scripts | 9 |
-| hackernews | 8 |
-| ai | 6 |
-| framer_motion | 6 |
-| anthropic | 2 |
-| webgpu | 1 |
-| blog-post | 1 |
+| scripts | 33 |
+| openai | 30 |
+| anthropic | 29 |
+| benchmark | 27 |
 
 ## Weekly Community Updates
 
@@ -62,6 +64,13 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 6. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)) (HN Score: 205) - `ai/community`
 7. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/HelixDB/helix-db/tree/main)) (HN Score: 122) - `ai/community`
 8. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
+9. [More AI-generated code doesn't make your team faster. It might slow you](../../../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source](https://twitter.com/awscloud/status/2064449711155589396)) (HN Score: 18) - `ai/community`
+10. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)) (HN Score: 8) - `ai/community`
+11. [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](../../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md) ([Source](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark)) - `ai/agents`
+12. [Building With AI Coding Agents: Best Practices for Agent Workflows | by Elisheba Builds | Medium](../../../ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md) ([Source](https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b)) - `ai/agents`
+13. [The Best AI Agents in 2026: Tools and Frameworks Compared | DataCamp](../../../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md) ([Source](https://www.datacamp.com/blog/best-ai-agents)) - `ai/agents`
+14. [10 AI agent benchmarks](../../../ai/rag/10-ai-agent-benchmarks-56ac4f.md) ([Source](https://www.evidentlyai.com/blog/ai-agent-benchmarks)) - `ai/rag`
+15. [10 Most Useful RAG Application & Use Cases [Real World Example]](../../../ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md) ([Source](https://botpenguin.com/blogs/most-useful-rag-application-and-use-cases)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -105,33 +114,33 @@ No updates collected under this section this week.
 
 ## Weekly Product Launches
 
-1. [shadcn-ui/ui](../../../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 116264, Language: TypeScript) - `web-development/shadcn-ui`
-2. [mrdoob/three.js](../../../web-development/threejs/mrdoob-three-js-578d9a.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 112954, Language: JavaScript) - `web-development/threejs`
-3. [vbenjs/vue-vben-admin](../../../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 32611, Language: Vue) - `web-development/shadcn-ui`
-4. [pmndrs/react-three-fiber](../../../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 31057, Language: TypeScript) - `web-development/threejs`
-5. [birobirobiro/awesome-shadcn-ui](../../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 19777, Language: TypeScript) - `web-development/shadcn-ui`
-6. [shadcn-ui/taxonomy](../../../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([Source](https://github.com/shadcn-ui/taxonomy)) (Stars: 19246, Language: TypeScript) - `web-development/shadcn-ui`
-7. [udecode/plate](../../../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([Source](https://github.com/udecode/plate)) (Stars: 16341, Language: TypeScript) - `web-development/shadcn-ui`
-8. [playcanvas/engine](../../../web-development/webgpu/playcanvas-engine-7a32aa.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 16003, Language: JavaScript) - `web-development/webgpu`
-9. [nextjs/saas-starter](../../../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([Source](https://github.com/nextjs/saas-starter)) (Stars: 15876, Language: TypeScript) - `web-development/shadcn-ui`
-10. [satnaing/shadcn-admin](../../../web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md) ([Source](https://github.com/satnaing/shadcn-admin)) (Stars: 12307, Language: TypeScript) - `web-development/shadcn-ui`
-11. [unovue/shadcn-vue](../../../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md) ([Source](https://github.com/unovue/shadcn-vue)) (Stars: 10088, Language: TypeScript) - `web-development/shadcn-ui`
-12. [jnsahaj/tweakcn](../../../web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md) ([Source](https://github.com/jnsahaj/tweakcn)) (Stars: 9993, Language: TypeScript) - `web-development/shadcn-ui`
-13. [pmndrs/drei](../../../web-development/react-three-fiber/pmndrs-drei-59e7dc.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 9685, Language: JavaScript) - `web-development/react-three-fiber`
-14. [huntabyte/shadcn-svelte](../../../web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md) ([Source](https://github.com/huntabyte/shadcn-svelte)) (Stars: 8835, Language: TypeScript) - `web-development/shadcn-ui`
-15. [ixartz/SaaS-Boilerplate](../../../web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md) ([Source](https://github.com/ixartz/SaaS-Boilerplate)) (Stars: 7180, Language: TypeScript) - `web-development/nextjs`
+1. [langgenius/dify](../../../ai/rag/langgenius-dify-24dc2b.md) ([Source](https://github.com/langgenius/dify)) (Stars: 144843, Language: TypeScript) - `ai/rag`
+2. [shadcn-ui/ui](../../../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 116264, Language: TypeScript) - `web-development/shadcn-ui`
+3. [mrdoob/three.js](../../../web-development/threejs/mrdoob-three-js-578d9a.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 112954, Language: JavaScript) - `web-development/threejs`
+4. [datawhalechina/hello-agents](../../../ai/rag/datawhalechina-hello-agents-150ed4.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 58466, Language: Python) - `ai/rag`
+5. [addyosmani/agent-skills](../../../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([Source](https://github.com/addyosmani/agent-skills)) (Stars: 53624, Language: Shell) - `ai/agents`
+6. [patchy631/ai-engineering-hub](../../../ai/rag/patchy631-ai-engineering-hub-efa40a.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 35679, Language: Jupyter Notebook) - `ai/rag`
+7. [github/awesome-copilot](../../../ai/agents/github-awesome-copilot-1c883b.md) ([Source](https://github.com/github/awesome-copilot)) (Stars: 34822, Language: Python) - `ai/agents`
+8. [vbenjs/vue-vben-admin](../../../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 32611, Language: Vue) - `web-development/shadcn-ui`
+9. [pmndrs/react-three-fiber](../../../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 31057, Language: TypeScript) - `web-development/threejs`
+10. [github/github-mcp-server](../../../ai/resources/github-github-mcp-server-21bbf0.md) ([Source](https://github.com/github/github-mcp-server)) (Stars: 30574, Language: Go) - `ai/resources`
+11. [NirDiamant/RAG_Techniques](../../../ai/rag/nirdiamant-rag-techniques-f0b34c.md) ([Source](https://github.com/NirDiamant/RAG_Techniques)) (Stars: 27860, Language: Jupyter Notebook) - `ai/rag`
+12. [Panniantong/Agent-Reach](../../../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source](https://github.com/Panniantong/Agent-Reach)) (Stars: 26259, Language: Python) - `ai/agents`
+13. [humanlayer/12-factor-agents](../../../ai/rag/humanlayer-12-factor-agents-b0ceeb.md) ([Source](https://github.com/humanlayer/12-factor-agents)) (Stars: 23188, Language: TypeScript) - `ai/rag`
+14. [birobirobiro/awesome-shadcn-ui](../../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 19777, Language: TypeScript) - `web-development/shadcn-ui`
+15. [SWE-agent/SWE-agent](../../../ai/agents/swe-agent-swe-agent-3962b1.md) ([Source](https://github.com/SWE-agent/SWE-agent)) (Stars: 19481, Language: Python) - `ai/agents`
 
 ## Most Updated Skills
 
-- [Automation](../../../skills/automation.md) (1479 updates)
-- [RAG](../../../skills/rag.md) (527 updates)
-- [LangGraph](../../../skills/langgraph.md) (125 updates)
-- [WebGPU](../../../skills/webgpu.md) (105 updates)
-- [Three.js](../../../skills/threejs.md) (84 updates)
-- [FastAPI](../../../skills/fastapi.md) (67 updates)
-- [GSAP](../../../skills/gsap.md) (60 updates)
+- [Automation](../../../skills/automation.md) (1594 updates)
+- [RAG](../../../skills/rag.md) (603 updates)
+- [LangGraph](../../../skills/langgraph.md) (166 updates)
+- [GSAP](../../../skills/gsap.md) (140 updates)
+- [WebGPU](../../../skills/webgpu.md) (107 updates)
+- [Three.js](../../../skills/threejs.md) (85 updates)
+- [FastAPI](../../../skills/fastapi.md) (72 updates)
 - [Framer Motion](../../../skills/framer-motion.md) (54 updates)
-- [React Three Fiber](../../../skills/react-three-fiber.md) (52 updates)
+- [React Three Fiber](../../../skills/react-three-fiber.md) (53 updates)
 - [Tailwind CSS](../../../skills/tailwind.md) (44 updates)
 
 ## Recommended Projects To Build
@@ -141,4 +150,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-11T12:51:35.437495+00:00
+2026-06-11T13:44:23.964111+00:00

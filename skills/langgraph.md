@@ -17,109 +17,207 @@ Cyclic execution, agent collaboration networks, and deterministic routing paths 
 
 ## Best Resources Found
 
-### 1. [Introducing Snowball Fight ☃️, our first ML-Agents environment](../ai/agents/introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md) ([Source URL](https://huggingface.co/blog/snowball-fight))
-- **Source**: Hugging Face Blog (huggingface)
+### 1. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([Source URL](https://github.com/addyosmani/agent-skills))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md`
+- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
 
-### 2. [What Makes a Dialog Agent Useful?](../ai/agents/what-makes-a-dialog-agent-useful-b02e06.md) ([Source URL](https://huggingface.co/blog/dialog-agents))
-- **Source**: Hugging Face Blog (huggingface)
+### 2. [github/awesome-copilot](../ai/agents/github-awesome-copilot-1c883b.md) ([Source URL](https://github.com/github/awesome-copilot))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/what-makes-a-dialog-agent-useful-b02e06.md`
+- **Local Path**: `ai/agents/github-awesome-copilot-1c883b.md`
 
-### 3. [Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md) ([Source URL](https://huggingface.co/blog/aivsai))
-- **Source**: Hugging Face Blog (huggingface)
+### 3. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source URL](https://github.com/Panniantong/Agent-Reach))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md`
+- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
 
-### 4. [Introducing Agents.js: Give tools to your LLMs using JavaScript](../ai/agents/introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md) ([Source URL](https://huggingface.co/blog/agents-js))
-- **Source**: Hugging Face Blog (huggingface)
+### 4. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([Source URL](https://github.com/SWE-agent/SWE-agent))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md`
+- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
 
-### 5. [Open-source LLMs as LangChain Agents](../ai/agents/open-source-llms-as-langchain-agents-23c172.md) ([Source URL](https://huggingface.co/blog/open-source-llms-as-agents))
-- **Source**: Hugging Face Blog (huggingface)
+### 5. [aden-hive/hive](../ai/agents/aden-hive-hive-a66674.md) ([Source URL](https://github.com/aden-hive/hive))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/open-source-llms-as-langchain-agents-23c172.md`
+- **Local Path**: `ai/agents/aden-hive-hive-a66674.md`
 
-### 6. [Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md) ([Source URL](https://huggingface.co/blog/jat))
-- **Source**: Hugging Face Blog (huggingface)
+### 6. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai-2237a9.md) ([Source URL](https://github.com/0x4m4/hexstrike-ai))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md`
+- **Local Path**: `ai/agents/0x4m4-hexstrike-ai-2237a9.md`
 
-### 7. [License to Call: Introducing Transformers Agents 2.0](../ai/agents/license-to-call-introducing-transformers-agents-2-0-ea3fc2.md) ([Source URL](https://huggingface.co/blog/agents))
-- **Source**: Hugging Face Blog (huggingface)
+### 7. [idosal/git-mcp](../ai/agents/idosal-git-mcp-132f8d.md) ([Source URL](https://github.com/idosal/git-mcp))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/license-to-call-introducing-transformers-agents-2-0-ea3fc2.md`
+- **Local Path**: `ai/agents/idosal-git-mcp-132f8d.md`
 
-### 8. [Our Transformers Code Agent beats the GAIA benchmark 🏅](../ai/agents/our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md) ([Source URL](https://huggingface.co/blog/beating-gaia))
-- **Source**: Hugging Face Blog (huggingface)
+### 8. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents-ea577d.md) ([Source URL](https://github.com/mergisi/awesome-openclaw-agents))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md`
+- **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
 
-### 9. [Introducing smolagents: simple agents that write actions in code.](../ai/agents/introducing-smolagents-simple-agents-that-write-actions-in-code-268d74.md) ([Source URL](https://huggingface.co/blog/smolagents))
-- **Source**: Hugging Face Blog (huggingface)
+### 9. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([Source URL](https://github.com/i-am-bee/beeai-framework))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/introducing-smolagents-simple-agents-that-write-actions-in-code-268d74.md`
+- **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
 
-### 10. [AI Agents Are Here. What Now?](../ai/agents/ai-agents-are-here-what-now-1dd7c4.md) ([Source URL](https://huggingface.co/blog/ethics-soc-7))
-- **Source**: Hugging Face Blog (huggingface)
+### 10. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([Source URL](https://github.com/snyk/agent-scan))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/ai-agents-are-here-what-now-1dd7c4.md`
+- **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
 
-### 11. [We now support VLMs in smolagents!](../ai/agents/we-now-support-vlms-in-smolagents-2eef7f.md) ([Source URL](https://huggingface.co/blog/smolagents-can-see))
-- **Source**: Hugging Face Blog (huggingface)
+### 11. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/we-now-support-vlms-in-smolagents-2eef7f.md`
+- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
 
-### 12. [DABStep: Data Agent Benchmark for Multi-step Reasoning](../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md) ([Source URL](https://huggingface.co/blog/dabstep))
-- **Source**: Hugging Face Blog (huggingface)
+### 12. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([Source URL](https://github.com/Kocoro-lab/Shannon))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md`
+- **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
 
-### 13. [Open-source DeepResearch – Freeing our search agents](../ai/agents/open-source-deepresearch-freeing-our-search-agents-4eeb27.md) ([Source URL](https://huggingface.co/blog/open-deep-research))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/open-source-deepresearch-freeing-our-search-agents-4eeb27.md`
+### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([Source URL](https://github.com/didilili/ai-agents-from-zero))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
 
-### 14. [Trace & Evaluate your Agent with Arize Phoenix](../ai/agents/trace-evaluate-your-agent-with-arize-phoenix-661714.md) ([Source URL](https://huggingface.co/blog/smolagents-phoenix))
-- **Source**: Hugging Face Blog (huggingface)
+### 14. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/trace-evaluate-your-agent-with-arize-phoenix-661714.md`
+- **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
 
-### 15. [Tiny Agents: an MCP-powered agent in 50 lines of code](../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md) ([Source URL](https://huggingface.co/blog/tiny-agents))
-- **Source**: Hugging Face Blog (huggingface)
+### 15. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([Source URL](https://github.com/caramaschiHG/awesome-ai-agents-2026))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md`
+- **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
 
-### 16. [Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md) ([Source URL](https://huggingface.co/blog/python-tiny-agents))
-- **Source**: Hugging Face Blog (huggingface)
+### 16. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([Source URL](https://github.com/cisco-ai-defense/mcp-scanner))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md`
+- **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
 
-### 17. [CodeAgents + Structure: A Better Way to Execute Actions](../ai/agents/codeagents-structure-a-better-way-to-execute-actions-ec6688.md) ([Source URL](https://huggingface.co/blog/structured-codeagent))
-- **Source**: Hugging Face Blog (huggingface)
+### 17. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([Source URL](https://github.com/affaan-m/agentshield))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/codeagents-structure-a-better-way-to-execute-actions-ec6688.md`
+- **Local Path**: `ai/agents/affaan-m-agentshield-e9a88d.md`
 
-### 18. [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/holo1-new-family-of-gui-automation-vlms-powering-gui-agent-surfer-h-5a760b.md) ([Source URL](https://huggingface.co/blog/Hcompany/holo1))
-- **Source**: Hugging Face Blog (huggingface)
+### 18. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/holo1-new-family-of-gui-automation-vlms-powering-gui-agent-surfer-h-5a760b.md`
+- **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
 
-### 19. [ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](../ai/agents/screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md) ([Source URL](https://huggingface.co/blog/screensuite))
-- **Source**: Hugging Face Blog (huggingface)
+### 19. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([Source URL](https://github.com/HKUDS/OpenPhone))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md`
+- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
 
-### 20. [ScreenEnv: Deploy your full stack Desktop Agent](../ai/agents/screenenv-deploy-your-full-stack-desktop-agent-875c92.md) ([Source URL](https://huggingface.co/blog/screenenv))
-- **Source**: Hugging Face Blog (huggingface)
+### 20. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([Source URL](https://github.com/duanyytop/agents-radar))
+- **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
-- **Local Path**: `ai/agents/screenenv-deploy-your-full-stack-desktop-agent-875c92.md`
+- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
 
 ## Best GitHub Repositories
 
-No GitHub repositories found matching this skill yet.
+### 1. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([GitHub](https://github.com/addyosmani/agent-skills))
+- **Stars**: 53624
+- **Language**: Shell
+- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
+
+### 2. [github/awesome-copilot](../ai/agents/github-awesome-copilot-1c883b.md) ([GitHub](https://github.com/github/awesome-copilot))
+- **Stars**: 34822
+- **Language**: Python
+- **Local Path**: `ai/agents/github-awesome-copilot-1c883b.md`
+
+### 3. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([GitHub](https://github.com/Panniantong/Agent-Reach))
+- **Stars**: 26259
+- **Language**: Python
+- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
+
+### 4. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([GitHub](https://github.com/SWE-agent/SWE-agent))
+- **Stars**: 19481
+- **Language**: Python
+- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
+
+### 5. [aden-hive/hive](../ai/agents/aden-hive-hive-a66674.md) ([GitHub](https://github.com/aden-hive/hive))
+- **Stars**: 10525
+- **Language**: Python
+- **Local Path**: `ai/agents/aden-hive-hive-a66674.md`
+
+### 6. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai-2237a9.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
+- **Stars**: 9511
+- **Language**: Python
+- **Local Path**: `ai/agents/0x4m4-hexstrike-ai-2237a9.md`
+
+### 7. [idosal/git-mcp](../ai/agents/idosal-git-mcp-132f8d.md) ([GitHub](https://github.com/idosal/git-mcp))
+- **Stars**: 8160
+- **Language**: TypeScript
+- **Local Path**: `ai/agents/idosal-git-mcp-132f8d.md`
+
+### 8. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents-ea577d.md) ([GitHub](https://github.com/mergisi/awesome-openclaw-agents))
+- **Stars**: 3631
+- **Language**: HTML
+- **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
+
+### 9. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
+- **Stars**: 3288
+- **Language**: Python
+- **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
+
+### 10. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([GitHub](https://github.com/snyk/agent-scan))
+- **Stars**: 2553
+- **Language**: Python
+- **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
+
+### 11. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- **Stars**: 2391
+- **Language**: Python
+- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
+
+### 12. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([GitHub](https://github.com/Kocoro-lab/Shannon))
+- **Stars**: 1995
+- **Language**: Go
+- **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
+
+### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+- **Stars**: 1887
+- **Language**: Python
+- **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
+
+### 14. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([GitHub](https://github.com/nixopus/nixopus))
+- **Stars**: 1446
+- **Language**: Go
+- **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
+
+### 15. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026))
+- **Stars**: 1069
+- **Language**: Unknown
+- **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
+
+### 16. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+- **Stars**: 961
+- **Language**: Python
+- **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
+
+### 17. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([GitHub](https://github.com/affaan-m/agentshield))
+- **Stars**: 847
+- **Language**: TypeScript
+- **Local Path**: `ai/agents/affaan-m-agentshield-e9a88d.md`
+
+### 18. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([GitHub](https://github.com/golf-mcp/golf))
+- **Stars**: 829
+- **Language**: Python
+- **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
+
+### 19. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([GitHub](https://github.com/HKUDS/OpenPhone))
+- **Stars**: 826
+- **Language**: Python
+- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
+
+### 20. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([GitHub](https://github.com/duanyytop/agents-radar))
+- **Stars**: 814
+- **Language**: TypeScript
+- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
 
 ## Projects To Build
 
@@ -138,4 +236,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T12:51:33.163240+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.731428+00:00.

@@ -17,42 +17,47 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 
 ## Best Resources Found
 
-### 1. [Introducing the Open Chain of Thought Leaderboard](../ai/models/introducing-the-open-chain-of-thought-leaderboard-b58f40.md) ([Source URL](https://huggingface.co/blog/leaderboard-cot))
+### 1. [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md) ([Source URL](https://benchlm.ai/llm-agent-benchmarks))
+- **Source**: Web Discovery (web)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md`
+
+### 2. [Introducing the Open Chain of Thought Leaderboard](../ai/models/introducing-the-open-chain-of-thought-leaderboard-b58f40.md) ([Source URL](https://huggingface.co/blog/leaderboard-cot))
 - **Source**: Hugging Face Blog (huggingface)
 - **Category**: ai/models
 - **Local Path**: `ai/models/introducing-the-open-chain-of-thought-leaderboard-b58f40.md`
 
-### 2. [Subliminal Learning Is Steering Vector Distillation](../ai/research/subliminal-learning-is-steering-vector-distillation-bc0b16.md) ([Source URL](https://arxiv.org/abs/2606.00995))
+### 3. [Subliminal Learning Is Steering Vector Distillation](../ai/research/subliminal-learning-is-steering-vector-distillation-bc0b16.md) ([Source URL](https://arxiv.org/abs/2606.00995))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/research
 - **Local Path**: `ai/research/subliminal-learning-is-steering-vector-distillation-bc0b16.md`
 
-### 3. [Generalization Hacking: Models Can Game Reinforcement Learning by Preventing Behavioral Generalization](../ai/research/generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md) ([Source URL](https://arxiv.org/abs/2606.12016))
+### 4. [Generalization Hacking: Models Can Game Reinforcement Learning by Preventing Behavioral Generalization](../ai/research/generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md) ([Source URL](https://arxiv.org/abs/2606.12016))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/research
 - **Local Path**: `ai/research/generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md`
 
-### 4. [Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data](../ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md) ([Source URL](https://arxiv.org/abs/2606.11961))
+### 5. [Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data](../ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md) ([Source URL](https://arxiv.org/abs/2606.11961))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/research
 - **Local Path**: `ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md`
 
-### 5. [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](../ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md) ([Source URL](https://arxiv.org/abs/2606.11869))
+### 6. [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](../ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md) ([Source URL](https://arxiv.org/abs/2606.11869))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md`
 
-### 6. [When Context Returns: Toward Robust Internalization in On-Policy Distillation](../ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md) ([Source URL](https://arxiv.org/abs/2606.11627))
+### 7. [When Context Returns: Toward Robust Internalization in On-Policy Distillation](../ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md) ([Source URL](https://arxiv.org/abs/2606.11627))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/research
 - **Local Path**: `ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md`
 
-### 7. [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](../ai/rag/apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md) ([Source URL](https://arxiv.org/abs/2606.11459))
+### 8. [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](../ai/rag/apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md) ([Source URL](https://arxiv.org/abs/2606.11459))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/rag
 - **Local Path**: `ai/rag/apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md`
 
-### 8. [BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts](../ai/research/biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md) ([Source URL](https://arxiv.org/abs/2606.11208))
+### 9. [BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts](../ai/research/biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md) ([Source URL](https://arxiv.org/abs/2606.11208))
 - **Source**: arXiv AI (arxiv)
 - **Category**: ai/research
 - **Local Path**: `ai/research/biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md`
@@ -78,4 +83,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T12:51:33.188160+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.769652+00:00.

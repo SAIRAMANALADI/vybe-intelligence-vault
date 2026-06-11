@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [Learn more](../ai/companies/deepmind/learn-more-eb1202.md) ([Source URL](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T12:45:53.090967+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-eb1202.md`
+### 1. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:44:17.608342+00:00
+- **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
 
-### 2. [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp-9a812e.md) ([Source URL](https://huggingface.co/blog/torch-mlp-fusion))
-- **Category**: ai/models
-- **Collected At**: 2026-06-11T12:44:27.350980+00:00
-- **Local Path**: `ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp-9a812e.md`
+### 2. [acuvity/minibridge](../ai/resources/acuvity-minibridge-9c0d37.md) ([Source URL](https://github.com/acuvity/minibridge))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:44:12.305890+00:00
+- **Local Path**: `ai/resources/acuvity-minibridge-9c0d37.md`
 
-### 3. [Show HN: HelixDB – A graph database built on object storage](../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source URL](https://github.com/HelixDB/helix-db/tree/main))
+### 3. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:44:07.253141+00:00
+- **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
+
+### 4. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp-a933ad.md) ([Source URL](https://github.com/jlbadano/ig-mcp))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:44:02.105912+00:00
+- **Local Path**: `ai/resources/jlbadano-ig-mcp-a933ad.md`
+
+### 5. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md) ([Source URL](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:43:57.152343+00:00
+- **Local Path**: `ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md`
+
+### 6. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([Source URL](https://github.com/redhat-data-and-ai/template-mcp-server))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:43:52.172651+00:00
+- **Local Path**: `ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md`
+
+### 7. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md) ([Source URL](https://github.com/SylphxAI/pdf-reader-mcp))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:43:47.111274+00:00
+- **Local Path**: `ai/rag/sylphxai-pdf-reader-mcp-703c5c.md`
+
+### 8. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server-7c2515.md) ([Source URL](https://github.com/mukul975/cve-mcp-server))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:43:41.985473+00:00
+- **Local Path**: `ai/resources/mukul975-cve-mcp-server-7c2515.md`
+
+### 9. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md) ([Source URL](https://github.com/WagnerAgent/awesome-mcp-servers-devops))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:43:37.120766+00:00
+- **Local Path**: `ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md`
+
+### 10. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp-b99839.md) ([Source URL](https://github.com/tavily-ai/tavily-mcp))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:43:32.058681+00:00
+- **Local Path**: `ai/resources/tavily-ai-tavily-mcp-b99839.md`
+
+### 11. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai-2237a9.md) ([Source URL](https://github.com/0x4m4/hexstrike-ai))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:43:26.984471+00:00
+- **Local Path**: `ai/agents/0x4m4-hexstrike-ai-2237a9.md`
+
+### 12. [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md) ([Source URL](https://github.com/SonarSource/sonarqube-mcp-server))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:43:22.479889+00:00
+- **Local Path**: `ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md`
+
+### 13. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe-bdc8e7.md) ([Source URL](https://github.com/FuzzingLabs/secpipe))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:43:17.217214+00:00
+- **Local Path**: `ai/agents/fuzzinglabs-secpipe-bdc8e7.md`
+
+### 14. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield-20928f.md) ([Source URL](https://github.com/riseandignite/mcp-shield))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:43:12.101946+00:00
+- **Local Path**: `ai/resources/riseandignite-mcp-shield-20928f.md`
+
+### 15. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security-fe516a.md) ([Source URL](https://github.com/cyproxio/mcp-for-security))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:43:07.180120+00:00
+- **Local Path**: `ai/resources/cyproxio-mcp-for-security-fe516a.md`
+
+### 16. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md) ([Source URL](https://github.com/FuzzingLabs/mcp-security-hub))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:43:02.202518+00:00
+- **Local Path**: `ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md`
+
+### 17. [semgrep/mcp](../ai/resources/semgrep-mcp-46c4f1.md) ([Source URL](https://github.com/semgrep/mcp))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:42:57.135737+00:00
+- **Local Path**: `ai/resources/semgrep-mcp-46c4f1.md`
+
+### 18. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([Source URL](https://github.com/snyk/agent-scan))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:42:52.075180+00:00
+- **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
+
+### 19. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([Source URL](https://github.com/cisco-ai-defense/mcp-scanner))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:42:47.141483+00:00
+- **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
+
+### 20. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md) ([Source URL](https://github.com/demcp/awesome-web3-mcp-servers))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:42:42.145659+00:00
+- **Local Path**: `ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md`
+
+### 21. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source URL](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T09:25:09.590362+00:00
-- **Local Path**: `ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md`
+- **Collected At**: 2026-06-11T13:41:22.925098+00:00
+- **Local Path**: `ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md`
 
-### 4. [Apache Burr: Build reliable AI agents and applications](../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md) ([Source URL](https://burr.apache.org/))
+### 22. [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source URL](https://twitter.com/awscloud/status/2064449711155589396))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T09:25:07.701591+00:00
-- **Local Path**: `ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md`
+- **Collected At**: 2026-06-11T13:41:08.760479+00:00
+- **Local Path**: `ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md`
 
-### 5. [L'Affaire Siloxane](../ai/community/l-affaire-siloxane-923f03.md) ([Source URL](https://mceglowski.substack.com/p/laffaire-siloxane))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:59.474306+00:00
-- **Local Path**: `ai/community/l-affaire-siloxane-923f03.md`
+### 23. [github/github-mcp-server](../ai/resources/github-github-mcp-server-21bbf0.md) ([Source URL](https://github.com/github/github-mcp-server))
+- **Category**: ai/resources
+- **Collected At**: 2026-06-11T13:11:44.216576+00:00
+- **Local Path**: `ai/resources/github-github-mcp-server-21bbf0.md`
 
-### 6. [Klondike Solitaire game for curses in 5k of C](../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source URL](https://nanochess.org/klondike_in_c.html))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:57.635037+00:00
-- **Local Path**: `ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md`
+### 24. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md) ([Source URL](https://github.com/girijesh-ai/ai-interview-codex))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:11:38.858262+00:00
+- **Local Path**: `ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md`
 
-### 7. [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md) ([Source URL](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:46.271705+00:00
-- **Local Path**: `ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md`
+### 25. [flashinfer-ai/flashinfer-bench-starter-kit](../ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md) ([Source URL](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:33.928245+00:00
+- **Local Path**: `ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md`
 
-### 8. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md) ([Source URL](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:44.427433+00:00
-- **Local Path**: `ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md`
+### 26. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([Source URL](https://github.com/HKUDS/OpenPhone))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:28.798940+00:00
+- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
 
-### 9. [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md) ([Source URL](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:43.478866+00:00
-- **Local Path**: `ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md`
+### 27. [Zijian-Ni/awesome-ai-agents-2026](../ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md) ([Source URL](https://github.com/Zijian-Ni/awesome-ai-agents-2026))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:23.893734+00:00
+- **Local Path**: `ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md`
 
-### 10. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md) ([Source URL](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T09:24:42.468947+00:00
-- **Local Path**: `ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md`
+### 28. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([Source URL](https://github.com/didilili/ai-agents-from-zero))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:11:18.771848+00:00
+- **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
 
-### 11. [jln13x/ui.jln.dev](../web-development/shadcn-ui/jln13x-ui-jln-dev-5151ca.md) ([Source URL](https://github.com/jln13x/ui.jln.dev))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578519+00:00
-- **Local Path**: `web-development/shadcn-ui/jln13x-ui-jln-dev-5151ca.md`
+### 29. [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md) ([Source URL](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:14.291808+00:00
+- **Local Path**: `ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md`
 
-### 12. [magicuidesign/portfolio](../web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md) ([Source URL](https://github.com/magicuidesign/portfolio))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578512+00:00
-- **Local Path**: `web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md`
+### 30. [razzant/ouroboros](../ai/agents/razzant-ouroboros-a5141e.md) ([Source URL](https://github.com/razzant/ouroboros))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:08.763661+00:00
+- **Local Path**: `ai/agents/razzant-ouroboros-a5141e.md`
 
-### 13. [sadmann7/file-uploader](../web-development/shadcn-ui/sadmann7-file-uploader-5ba7c3.md) ([Source URL](https://github.com/sadmann7/file-uploader))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578505+00:00
-- **Local Path**: `web-development/shadcn-ui/sadmann7-file-uploader-5ba7c3.md`
+### 31. [avinash201199/free-ai-agents-resources](../ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md) ([Source URL](https://github.com/avinash201199/free-ai-agents-resources))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:03.808788+00:00
+- **Local Path**: `ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md`
 
-### 14. [marmelab/atomic-crm](../web-development/shadcn-ui/marmelab-atomic-crm-83646e.md) ([Source URL](https://github.com/marmelab/atomic-crm))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578499+00:00
-- **Local Path**: `web-development/shadcn-ui/marmelab-atomic-crm-83646e.md`
+### 32. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([Source URL](https://github.com/caramaschiHG/awesome-ai-agents-2026))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:11:00.832523+00:00
+- **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
 
-### 15. [shadcn-ui/next-template](../web-development/shadcn-ui/shadcn-ui-next-template-424784.md) ([Source URL](https://github.com/shadcn-ui/next-template))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578492+00:00
-- **Local Path**: `web-development/shadcn-ui/shadcn-ui-next-template-424784.md`
+### 33. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md) ([Source URL](https://github.com/AlexPEClub/ai-coding-starter-kit))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:54.070873+00:00
+- **Local Path**: `ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md`
 
-### 16. [akash3444/shadcn-ui-blocks](../web-development/shadcn-ui/akash3444-shadcn-ui-blocks-5b0ed7.md) ([Source URL](https://github.com/akash3444/shadcn-ui-blocks))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578485+00:00
-- **Local Path**: `web-development/shadcn-ui/akash3444-shadcn-ui-blocks-5b0ed7.md`
+### 34. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([Source URL](https://github.com/Kocoro-lab/Shannon))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:48.648235+00:00
+- **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
 
-### 17. [bytefer/awesome-shadcn-ui](../web-development/shadcn-ui/bytefer-awesome-shadcn-ui-8d3768.md) ([Source URL](https://github.com/bytefer/awesome-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578476+00:00
-- **Local Path**: `web-development/shadcn-ui/bytefer-awesome-shadcn-ui-8d3768.md`
+### 35. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([Source URL](https://github.com/i-am-bee/beeai-framework))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:43.744593+00:00
+- **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
 
-### 18. [dan5py/react-vite-shadcn-ui](../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui-97ef45.md) ([Source URL](https://github.com/dan5py/react-vite-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578469+00:00
-- **Local Path**: `web-development/shadcn-ui/dan5py-react-vite-shadcn-ui-97ef45.md`
+### 36. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:38.645582+00:00
+- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
 
-### 19. [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md) ([Source URL](https://github.com/ObservedObserver/streamlit-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578462+00:00
-- **Local Path**: `web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md`
+### 37. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents-ea577d.md) ([Source URL](https://github.com/mergisi/awesome-openclaw-agents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:33.660238+00:00
+- **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
 
-### 20. [jnsahaj/tweakcn](../web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md) ([Source URL](https://github.com/jnsahaj/tweakcn))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578455+00:00
-- **Local Path**: `web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md`
+### 38. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents-b0ceeb.md) ([Source URL](https://github.com/humanlayer/12-factor-agents))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:10:28.657000+00:00
+- **Local Path**: `ai/rag/humanlayer-12-factor-agents-b0ceeb.md`
 
-### 21. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md) ([Source URL](https://github.com/dan5py/turborepo-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578448+00:00
-- **Local Path**: `web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md`
+### 39. [langgenius/dify](../ai/rag/langgenius-dify-24dc2b.md) ([Source URL](https://github.com/langgenius/dify))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T13:10:23.759653+00:00
+- **Local Path**: `ai/rag/langgenius-dify-24dc2b.md`
 
-### 22. [hsuanyi-chou/shadcn-ui-expansions](../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions-789bdf.md) ([Source URL](https://github.com/hsuanyi-chou/shadcn-ui-expansions))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578440+00:00
-- **Local Path**: `web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions-789bdf.md`
+### 40. [ed-donner/production](../ai/agents/ed-donner-production-61f359.md) ([Source URL](https://github.com/ed-donner/production))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:18.639837+00:00
+- **Local Path**: `ai/agents/ed-donner-production-61f359.md`
 
-### 23. [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([Source URL](https://github.com/vbenjs/vue-vben-admin))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578433+00:00
-- **Local Path**: `web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md`
+### 41. [aden-hive/hive](../ai/agents/aden-hive-hive-a66674.md) ([Source URL](https://github.com/aden-hive/hive))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:13.728949+00:00
+- **Local Path**: `ai/agents/aden-hive-hive-a66674.md`
 
-### 24. [ln-dev7/square-ui](../web-development/shadcn-ui/ln-dev7-square-ui-edae04.md) ([Source URL](https://github.com/ln-dev7/square-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578424+00:00
-- **Local Path**: `web-development/shadcn-ui/ln-dev7-square-ui-edae04.md`
+### 42. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([Source URL](https://github.com/addyosmani/agent-skills))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:10:08.550041+00:00
+- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
 
-### 25. [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([Source URL](https://github.com/nextjs/saas-starter))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578417+00:00
-- **Local Path**: `web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md`
+### 43. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([Source URL](https://github.com/SWE-agent/SWE-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:37.660045+00:00
+- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
 
-### 26. [salimi-my/shadcn-ui-sidebar](../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar-04320a.md) ([Source URL](https://github.com/salimi-my/shadcn-ui-sidebar))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578409+00:00
-- **Local Path**: `web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar-04320a.md`
+### 44. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source URL](https://github.com/Panniantong/Agent-Reach))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:35.664693+00:00
+- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
 
-### 27. [nank1ro/flutter-shadcn-ui](../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui-7f126e.md) ([Source URL](https://github.com/nank1ro/flutter-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578401+00:00
-- **Local Path**: `web-development/shadcn-ui/nank1ro-flutter-shadcn-ui-7f126e.md`
+### 45. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent-267a79.md) ([Source URL](https://github.com/coleam00/pydantic-ai-github-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:27.640603+00:00
+- **Local Path**: `ai/agents/coleam00-pydantic-ai-github-agent-267a79.md`
 
-### 28. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server-4d33af.md) ([Source URL](https://github.com/Jpisnice/shadcn-ui-mcp-server))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578392+00:00
-- **Local Path**: `web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server-4d33af.md`
+### 46. [idosal/git-mcp](../ai/agents/idosal-git-mcp-132f8d.md) ([Source URL](https://github.com/idosal/git-mcp))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:22.725868+00:00
+- **Local Path**: `ai/agents/idosal-git-mcp-132f8d.md`
 
-### 29. [udecode/plate](../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([Source URL](https://github.com/udecode/plate))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578384+00:00
-- **Local Path**: `web-development/shadcn-ui/udecode-plate-e7fbe2.md`
+### 47. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md) ([Source URL](https://github.com/Code-and-Sorts/awesome-copilot-agents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:17.709341+00:00
+- **Local Path**: `ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md`
 
-### 30. [huntabyte/shadcn-svelte](../web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md) ([Source URL](https://github.com/huntabyte/shadcn-svelte))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578377+00:00
-- **Local Path**: `web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md`
+### 48. [microsoft/agentsleague](../ai/agents/microsoft-agentsleague-d0a5dc.md) ([Source URL](https://github.com/microsoft/agentsleague))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:12.756927+00:00
+- **Local Path**: `ai/agents/microsoft-agentsleague-d0a5dc.md`
 
-### 31. [satnaing/shadcn-admin](../web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md) ([Source URL](https://github.com/satnaing/shadcn-admin))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578366+00:00
-- **Local Path**: `web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md`
+### 49. [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills-87b61a.md) ([Source URL](https://github.com/hoodini/ai-agents-skills))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:07.681475+00:00
+- **Local Path**: `ai/agents/hoodini-ai-agents-skills-87b61a.md`
 
-### 32. [unovue/shadcn-vue](../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md) ([Source URL](https://github.com/unovue/shadcn-vue))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578358+00:00
-- **Local Path**: `web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md`
-
-### 33. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([Source URL](https://github.com/shadcn-ui/taxonomy))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578349+00:00
-- **Local Path**: `web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md`
-
-### 34. [birobirobiro/awesome-shadcn-ui](../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([Source URL](https://github.com/birobirobiro/awesome-shadcn-ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578340+00:00
-- **Local Path**: `web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md`
-
-### 35. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([Source URL](https://github.com/shadcn-ui/ui))
-- **Category**: web-development/shadcn-ui
-- **Collected At**: 2026-06-11T08:45:48.578308+00:00
-- **Local Path**: `web-development/shadcn-ui/shadcn-ui-ui-5f0249.md`
-
-### 36. [EasyFrontendHQ/html-tailwindcss-components](../web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md) ([Source URL](https://github.com/EasyFrontendHQ/html-tailwindcss-components))
-- **Category**: web-development/tailwind
-- **Collected At**: 2026-06-11T08:45:45.631080+00:00
-- **Local Path**: `web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md`
-
-### 37. [asbhogal/Fyrre-Magazine](../web-development/nextjs/asbhogal-fyrre-magazine-422078.md) ([Source URL](https://github.com/asbhogal/Fyrre-Magazine))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851346+00:00
-- **Local Path**: `web-development/nextjs/asbhogal-fyrre-magazine-422078.md`
-
-### 38. [redpangilinan/next-entree](../web-development/nextjs/redpangilinan-next-entree-399cf8.md) ([Source URL](https://github.com/redpangilinan/next-entree))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851339+00:00
-- **Local Path**: `web-development/nextjs/redpangilinan-next-entree-399cf8.md`
-
-### 39. [pdsuwwz/nextjs-nextra-starter](../web-development/nextjs/pdsuwwz-nextjs-nextra-starter-bfee14.md) ([Source URL](https://github.com/pdsuwwz/nextjs-nextra-starter))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851331+00:00
-- **Local Path**: `web-development/nextjs/pdsuwwz-nextjs-nextra-starter-bfee14.md`
-
-### 40. [reliverse/relivator](../web-development/nextjs/reliverse-relivator-9e356e.md) ([Source URL](https://github.com/reliverse/relivator))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851322+00:00
-- **Local Path**: `web-development/nextjs/reliverse-relivator-9e356e.md`
-
-### 41. [gonzalochale/saas-landing-template](../web-development/nextjs/gonzalochale-saas-landing-template-c88c99.md) ([Source URL](https://github.com/gonzalochale/saas-landing-template))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851314+00:00
-- **Local Path**: `web-development/nextjs/gonzalochale-saas-landing-template-c88c99.md`
-
-### 42. [NotStark/portfolio](../web-development/nextjs/notstark-portfolio-4fd29c.md) ([Source URL](https://github.com/NotStark/portfolio))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851307+00:00
-- **Local Path**: `web-development/nextjs/notstark-portfolio-4fd29c.md`
-
-### 43. [danybeltran/nextjs-typescript-and-postgresql](../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql-09674a.md) ([Source URL](https://github.com/danybeltran/nextjs-typescript-and-postgresql))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851299+00:00
-- **Local Path**: `web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql-09674a.md`
-
-### 44. [enesien/venefish](../web-development/nextjs/enesien-venefish-8e5a2d.md) ([Source URL](https://github.com/enesien/venefish))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851291+00:00
-- **Local Path**: `web-development/nextjs/enesien-venefish-8e5a2d.md`
-
-### 45. [linkb15/turborepo-shadcn-ui-tailwind-4](../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md) ([Source URL](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851283+00:00
-- **Local Path**: `web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md`
-
-### 46. [ixartz/SaaS-Boilerplate](../web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md) ([Source URL](https://github.com/ixartz/SaaS-Boilerplate))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851276+00:00
-- **Local Path**: `web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md`
-
-### 47. [shadcnspace/shadcnspace](../web-development/nextjs/shadcnspace-shadcnspace-bdc319.md) ([Source URL](https://github.com/shadcnspace/shadcnspace))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851266+00:00
-- **Local Path**: `web-development/nextjs/shadcnspace-shadcnspace-bdc319.md`
-
-### 48. [jolbol1/nextjs-velite-blog-template](../web-development/nextjs/jolbol1-nextjs-velite-blog-template-5cada6.md) ([Source URL](https://github.com/jolbol1/nextjs-velite-blog-template))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851258+00:00
-- **Local Path**: `web-development/nextjs/jolbol1-nextjs-velite-blog-template-5cada6.md`
-
-### 49. [ChangoMan/nextjs-mdx-blog](../web-development/nextjs/changoman-nextjs-mdx-blog-46bb4d.md) ([Source URL](https://github.com/ChangoMan/nextjs-mdx-blog))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851251+00:00
-- **Local Path**: `web-development/nextjs/changoman-nextjs-mdx-blog-46bb4d.md`
-
-### 50. [saasykits/nextjs-sessionauth-template](../web-development/nextjs/saasykits-nextjs-sessionauth-template-f0c83f.md) ([Source URL](https://github.com/saasykits/nextjs-sessionauth-template))
-- **Category**: web-development/nextjs
-- **Collected At**: 2026-06-11T08:45:43.851242+00:00
-- **Local Path**: `web-development/nextjs/saasykits-nextjs-sessionauth-template-f0c83f.md`
+### 50. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([Source URL](https://github.com/duanyytop/agents-radar))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T13:07:02.545492+00:00
+- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
 
 ---
-*Index generated on 2026-06-11T12:51:36.416801+00:00*
+*Index generated on 2026-06-11T13:44:25.963504+00:00*

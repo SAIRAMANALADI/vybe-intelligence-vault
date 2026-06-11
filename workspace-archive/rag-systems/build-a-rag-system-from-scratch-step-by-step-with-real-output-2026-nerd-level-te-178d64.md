@@ -1,0 +1,44 @@
+---
+title: "Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://nerdleveltech.com/guides/rag-hands-on-tutorial"
+local_vault_path: "ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md"
+tags:
+  - agents
+  - benchmark
+  - dataset
+  - hackernews
+  - models
+  - openai
+  - paper
+  - rag
+  - reddit
+  - web-crawled
+---
+
+# Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: agents, benchmark, dataset, hackernews, models, openai, paper, rag
+- Archive category: RAG Systems
+
+## Summary
+
+{/* Last updated: 2026-04-10 | Verified on: Docker python:3.12-slim | LangChain 0.3.25 | LangGraph 1.1+ | ChromaDB 0.6.3 | RAGAS 0.2.15 */} Every code block in this guide was executed in a clean Docker container and produces real output. The terminal...
+
+## Use Cases
+
+- Building RAG pipelines
+- Document retrieval
+- Knowledge base creation
+
+## Source
+
+Original source: https://nerdleveltech.com/guides/rag-hands-on-tutorial
+
+## Local Vault File
+
+Path: ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md

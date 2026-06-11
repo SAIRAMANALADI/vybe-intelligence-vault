@@ -17,207 +17,207 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 
 ## Best Resources Found
 
-### 1. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([Source URL](https://github.com/shadcn-ui/ui))
+### 1. [langgenius/dify](../ai/rag/langgenius-dify-24dc2b.md) ([Source URL](https://github.com/langgenius/dify))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/langgenius-dify-24dc2b.md`
+
+### 2. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([Source URL](https://github.com/shadcn-ui/ui))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/shadcn-ui-ui-5f0249.md`
 
-### 2. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js-578d9a.md) ([Source URL](https://github.com/mrdoob/three.js))
+### 3. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js-578d9a.md) ([Source URL](https://github.com/mrdoob/three.js))
 - **Source**: GitHub Three.js Resources (github)
 - **Category**: web-development/threejs
 - **Local Path**: `web-development/threejs/mrdoob-three-js-578d9a.md`
 
-### 3. [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([Source URL](https://github.com/vbenjs/vue-vben-admin))
+### 4. [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents-150ed4.md) ([Source URL](https://github.com/datawhalechina/hello-agents))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/datawhalechina-hello-agents-150ed4.md`
+
+### 5. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([Source URL](https://github.com/addyosmani/agent-skills))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
+
+### 6. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub-efa40a.md) ([Source URL](https://github.com/patchy631/ai-engineering-hub))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/patchy631-ai-engineering-hub-efa40a.md`
+
+### 7. [github/awesome-copilot](../ai/agents/github-awesome-copilot-1c883b.md) ([Source URL](https://github.com/github/awesome-copilot))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/github-awesome-copilot-1c883b.md`
+
+### 8. [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([Source URL](https://github.com/vbenjs/vue-vben-admin))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md`
 
-### 4. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([Source URL](https://github.com/pmndrs/react-three-fiber))
+### 9. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([Source URL](https://github.com/pmndrs/react-three-fiber))
 - **Source**: GitHub Three.js Resources (github)
 - **Category**: web-development/threejs
 - **Local Path**: `web-development/threejs/pmndrs-react-three-fiber-22bdc5.md`
 
-### 5. [birobirobiro/awesome-shadcn-ui](../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([Source URL](https://github.com/birobirobiro/awesome-shadcn-ui))
+### 10. [github/github-mcp-server](../ai/resources/github-github-mcp-server-21bbf0.md) ([Source URL](https://github.com/github/github-mcp-server))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/resources
+- **Local Path**: `ai/resources/github-github-mcp-server-21bbf0.md`
+
+### 11. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques-f0b34c.md) ([Source URL](https://github.com/NirDiamant/RAG_Techniques))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/nirdiamant-rag-techniques-f0b34c.md`
+
+### 12. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source URL](https://github.com/Panniantong/Agent-Reach))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
+
+### 13. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents-b0ceeb.md) ([Source URL](https://github.com/humanlayer/12-factor-agents))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/humanlayer-12-factor-agents-b0ceeb.md`
+
+### 14. [birobirobiro/awesome-shadcn-ui](../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([Source URL](https://github.com/birobirobiro/awesome-shadcn-ui))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md`
 
-### 6. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([Source URL](https://github.com/shadcn-ui/taxonomy))
+### 15. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([Source URL](https://github.com/SWE-agent/SWE-agent))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
+
+### 16. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([Source URL](https://github.com/shadcn-ui/taxonomy))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md`
 
-### 7. [udecode/plate](../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([Source URL](https://github.com/udecode/plate))
+### 17. [udecode/plate](../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([Source URL](https://github.com/udecode/plate))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/udecode-plate-e7fbe2.md`
 
-### 8. [playcanvas/engine](../web-development/webgpu/playcanvas-engine-7a32aa.md) ([Source URL](https://github.com/playcanvas/engine))
+### 18. [playcanvas/engine](../web-development/webgpu/playcanvas-engine-7a32aa.md) ([Source URL](https://github.com/playcanvas/engine))
 - **Source**: GitHub WebGPU Resources (github)
 - **Category**: web-development/webgpu
 - **Local Path**: `web-development/webgpu/playcanvas-engine-7a32aa.md`
 
-### 9. [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([Source URL](https://github.com/nextjs/saas-starter))
+### 19. [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([Source URL](https://github.com/nextjs/saas-starter))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md`
 
-### 10. [satnaing/shadcn-admin](../web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md) ([Source URL](https://github.com/satnaing/shadcn-admin))
-- **Source**: GitHub shadcn/ui Resources (github)
-- **Category**: web-development/shadcn-ui
-- **Local Path**: `web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md`
-
-### 11. [unovue/shadcn-vue](../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md) ([Source URL](https://github.com/unovue/shadcn-vue))
-- **Source**: GitHub shadcn/ui Resources (github)
-- **Category**: web-development/shadcn-ui
-- **Local Path**: `web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md`
-
-### 12. [jnsahaj/tweakcn](../web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md) ([Source URL](https://github.com/jnsahaj/tweakcn))
-- **Source**: GitHub shadcn/ui Resources (github)
-- **Category**: web-development/shadcn-ui
-- **Local Path**: `web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md`
-
-### 13. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei-59e7dc.md) ([Source URL](https://github.com/pmndrs/drei))
-- **Source**: GitHub React Three Fiber Resources (github)
-- **Category**: web-development/react-three-fiber
-- **Local Path**: `web-development/react-three-fiber/pmndrs-drei-59e7dc.md`
-
-### 14. [huntabyte/shadcn-svelte](../web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md) ([Source URL](https://github.com/huntabyte/shadcn-svelte))
-- **Source**: GitHub shadcn/ui Resources (github)
-- **Category**: web-development/shadcn-ui
-- **Local Path**: `web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md`
-
-### 15. [ixartz/SaaS-Boilerplate](../web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md) ([Source URL](https://github.com/ixartz/SaaS-Boilerplate))
-- **Source**: GitHub Next.js Templates (github)
-- **Category**: web-development/nextjs
-- **Local Path**: `web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md`
-
-### 16. [ln-dev7/square-ui](../web-development/shadcn-ui/ln-dev7-square-ui-edae04.md) ([Source URL](https://github.com/ln-dev7/square-ui))
-- **Source**: GitHub shadcn/ui Resources (github)
-- **Category**: web-development/shadcn-ui
-- **Local Path**: `web-development/shadcn-ui/ln-dev7-square-ui-edae04.md`
-
-### 17. [Orillusion/orillusion](../web-development/webgpu/orillusion-orillusion-92a9b1.md) ([Source URL](https://github.com/Orillusion/orillusion))
-- **Source**: GitHub WebGPU Resources (github)
-- **Category**: web-development/webgpu
-- **Local Path**: `web-development/webgpu/orillusion-orillusion-92a9b1.md`
-
-### 18. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit-313dba.md) ([Source URL](https://github.com/pmndrs/uikit))
-- **Source**: GitHub React Three Fiber Resources (github)
-- **Category**: web-development/react-three-fiber
-- **Local Path**: `web-development/react-three-fiber/pmndrs-uikit-313dba.md`
-
-### 19. [ChartGPU/ChartGPU](../web-development/webgpu/chartgpu-chartgpu-be56dc.md) ([Source URL](https://github.com/ChartGPU/ChartGPU))
-- **Source**: GitHub WebGPU Resources (github)
-- **Category**: web-development/webgpu
-- **Local Path**: `web-development/webgpu/chartgpu-chartgpu-be56dc.md`
-
-### 20. [pmndrs/use-cannon](../web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md) ([Source URL](https://github.com/pmndrs/use-cannon))
-- **Source**: GitHub React Three Fiber Resources (github)
-- **Category**: web-development/react-three-fiber
-- **Local Path**: `web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md`
+### 20. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe-05af75.md) ([Source URL](https://github.com/datawhalechina/llm-universe))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/datawhalechina-llm-universe-05af75.md`
 
 ## Best GitHub Repositories
 
-### 1. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([GitHub](https://github.com/shadcn-ui/ui))
+### 1. [langgenius/dify](../ai/rag/langgenius-dify-24dc2b.md) ([GitHub](https://github.com/langgenius/dify))
+- **Stars**: 144843
+- **Language**: TypeScript
+- **Local Path**: `ai/rag/langgenius-dify-24dc2b.md`
+
+### 2. [shadcn-ui/ui](../web-development/shadcn-ui/shadcn-ui-ui-5f0249.md) ([GitHub](https://github.com/shadcn-ui/ui))
 - **Stars**: 116264
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/shadcn-ui-ui-5f0249.md`
 
-### 2. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js-578d9a.md) ([GitHub](https://github.com/mrdoob/three.js))
+### 3. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js-578d9a.md) ([GitHub](https://github.com/mrdoob/three.js))
 - **Stars**: 112954
 - **Language**: JavaScript
 - **Local Path**: `web-development/threejs/mrdoob-three-js-578d9a.md`
 
-### 3. [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([GitHub](https://github.com/vbenjs/vue-vben-admin))
+### 4. [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents-150ed4.md) ([GitHub](https://github.com/datawhalechina/hello-agents))
+- **Stars**: 58466
+- **Language**: Python
+- **Local Path**: `ai/rag/datawhalechina-hello-agents-150ed4.md`
+
+### 5. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([GitHub](https://github.com/addyosmani/agent-skills))
+- **Stars**: 53624
+- **Language**: Shell
+- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
+
+### 6. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub-efa40a.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+- **Stars**: 35679
+- **Language**: Jupyter Notebook
+- **Local Path**: `ai/rag/patchy631-ai-engineering-hub-efa40a.md`
+
+### 7. [github/awesome-copilot](../ai/agents/github-awesome-copilot-1c883b.md) ([GitHub](https://github.com/github/awesome-copilot))
+- **Stars**: 34822
+- **Language**: Python
+- **Local Path**: `ai/agents/github-awesome-copilot-1c883b.md`
+
+### 8. [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md) ([GitHub](https://github.com/vbenjs/vue-vben-admin))
 - **Stars**: 32611
 - **Language**: Vue
 - **Local Path**: `web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md`
 
-### 4. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
+### 9. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
 - **Stars**: 31057
 - **Language**: TypeScript
 - **Local Path**: `web-development/threejs/pmndrs-react-three-fiber-22bdc5.md`
 
-### 5. [birobirobiro/awesome-shadcn-ui](../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([GitHub](https://github.com/birobirobiro/awesome-shadcn-ui))
+### 10. [github/github-mcp-server](../ai/resources/github-github-mcp-server-21bbf0.md) ([GitHub](https://github.com/github/github-mcp-server))
+- **Stars**: 30574
+- **Language**: Go
+- **Local Path**: `ai/resources/github-github-mcp-server-21bbf0.md`
+
+### 11. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques-f0b34c.md) ([GitHub](https://github.com/NirDiamant/RAG_Techniques))
+- **Stars**: 27860
+- **Language**: Jupyter Notebook
+- **Local Path**: `ai/rag/nirdiamant-rag-techniques-f0b34c.md`
+
+### 12. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([GitHub](https://github.com/Panniantong/Agent-Reach))
+- **Stars**: 26259
+- **Language**: Python
+- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
+
+### 13. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents-b0ceeb.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+- **Stars**: 23188
+- **Language**: TypeScript
+- **Local Path**: `ai/rag/humanlayer-12-factor-agents-b0ceeb.md`
+
+### 14. [birobirobiro/awesome-shadcn-ui](../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md) ([GitHub](https://github.com/birobirobiro/awesome-shadcn-ui))
 - **Stars**: 19777
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md`
 
-### 6. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([GitHub](https://github.com/shadcn-ui/taxonomy))
+### 15. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([GitHub](https://github.com/SWE-agent/SWE-agent))
+- **Stars**: 19481
+- **Language**: Python
+- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
+
+### 16. [shadcn-ui/taxonomy](../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md) ([GitHub](https://github.com/shadcn-ui/taxonomy))
 - **Stars**: 19246
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md`
 
-### 7. [udecode/plate](../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([GitHub](https://github.com/udecode/plate))
+### 17. [udecode/plate](../web-development/shadcn-ui/udecode-plate-e7fbe2.md) ([GitHub](https://github.com/udecode/plate))
 - **Stars**: 16341
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/udecode-plate-e7fbe2.md`
 
-### 8. [playcanvas/engine](../web-development/webgpu/playcanvas-engine-7a32aa.md) ([GitHub](https://github.com/playcanvas/engine))
+### 18. [playcanvas/engine](../web-development/webgpu/playcanvas-engine-7a32aa.md) ([GitHub](https://github.com/playcanvas/engine))
 - **Stars**: 16003
 - **Language**: JavaScript
 - **Local Path**: `web-development/webgpu/playcanvas-engine-7a32aa.md`
 
-### 9. [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([GitHub](https://github.com/nextjs/saas-starter))
+### 19. [nextjs/saas-starter](../web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md) ([GitHub](https://github.com/nextjs/saas-starter))
 - **Stars**: 15876
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/nextjs-saas-starter-fd23cb.md`
 
-### 10. [satnaing/shadcn-admin](../web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md) ([GitHub](https://github.com/satnaing/shadcn-admin))
-- **Stars**: 12307
-- **Language**: TypeScript
-- **Local Path**: `web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md`
-
-### 11. [unovue/shadcn-vue](../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md) ([GitHub](https://github.com/unovue/shadcn-vue))
-- **Stars**: 10088
-- **Language**: TypeScript
-- **Local Path**: `web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md`
-
-### 12. [jnsahaj/tweakcn](../web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md) ([GitHub](https://github.com/jnsahaj/tweakcn))
-- **Stars**: 9993
-- **Language**: TypeScript
-- **Local Path**: `web-development/shadcn-ui/jnsahaj-tweakcn-158b52.md`
-
-### 13. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei-59e7dc.md) ([GitHub](https://github.com/pmndrs/drei))
-- **Stars**: 9685
-- **Language**: JavaScript
-- **Local Path**: `web-development/react-three-fiber/pmndrs-drei-59e7dc.md`
-
-### 14. [huntabyte/shadcn-svelte](../web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md) ([GitHub](https://github.com/huntabyte/shadcn-svelte))
-- **Stars**: 8835
-- **Language**: TypeScript
-- **Local Path**: `web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md`
-
-### 15. [ixartz/SaaS-Boilerplate](../web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md) ([GitHub](https://github.com/ixartz/SaaS-Boilerplate))
-- **Stars**: 7180
-- **Language**: TypeScript
-- **Local Path**: `web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md`
-
-### 16. [ln-dev7/square-ui](../web-development/shadcn-ui/ln-dev7-square-ui-edae04.md) ([GitHub](https://github.com/ln-dev7/square-ui))
-- **Stars**: 5452
-- **Language**: TypeScript
-- **Local Path**: `web-development/shadcn-ui/ln-dev7-square-ui-edae04.md`
-
-### 17. [Orillusion/orillusion](../web-development/webgpu/orillusion-orillusion-92a9b1.md) ([GitHub](https://github.com/Orillusion/orillusion))
-- **Stars**: 5179
-- **Language**: TypeScript
-- **Local Path**: `web-development/webgpu/orillusion-orillusion-92a9b1.md`
-
-### 18. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit-313dba.md) ([GitHub](https://github.com/pmndrs/uikit))
-- **Stars**: 3165
-- **Language**: TypeScript
-- **Local Path**: `web-development/react-three-fiber/pmndrs-uikit-313dba.md`
-
-### 19. [ChartGPU/ChartGPU](../web-development/webgpu/chartgpu-chartgpu-be56dc.md) ([GitHub](https://github.com/ChartGPU/ChartGPU))
-- **Stars**: 3126
-- **Language**: TypeScript
-- **Local Path**: `web-development/webgpu/chartgpu-chartgpu-be56dc.md`
-
-### 20. [pmndrs/use-cannon](../web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md) ([GitHub](https://github.com/pmndrs/use-cannon))
-- **Stars**: 2952
-- **Language**: TypeScript
-- **Local Path**: `web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md`
+### 20. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe-05af75.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
+- **Stars**: 13234
+- **Language**: Jupyter Notebook
+- **Local Path**: `ai/rag/datawhalechina-llm-universe-05af75.md`
 
 ## Projects To Build
 
@@ -235,4 +235,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T12:51:33.281156+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.926845+00:00.
