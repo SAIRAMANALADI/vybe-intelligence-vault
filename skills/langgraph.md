@@ -138,4 +138,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T12:46:17.112383+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T12:51:33.163240+00:00.

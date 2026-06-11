@@ -253,4 +253,4 @@ The 50 newest resources collected across the intelligence vault.
 - **Local Path**: `web-development/nextjs/saasykits-nextjs-sessionauth-template-f0c83f.md`
 
 ---
-*Index generated on 2026-06-11T12:46:20.303096+00:00*
+*Index generated on 2026-06-11T12:51:36.416801+00:00*
