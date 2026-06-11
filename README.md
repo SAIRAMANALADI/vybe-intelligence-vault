@@ -44,14 +44,14 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 1764 |
-| Archive files | 7669 |
+| Resources tracked | 1768 |
+| Archive files | 7679 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-11 19:39 UTC |
+| Last meaningful update | 2026-06-11 20:37 UTC |
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds meaningful changes, not just because a scheduled run happened.
 

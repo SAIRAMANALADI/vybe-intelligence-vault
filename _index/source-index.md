@@ -349,7 +349,9 @@ Resources organized by publisher feed and query sources.
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md)
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)
   - [Apache Burr: Build reliable AI agents and applications](../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md)
+  - [Building agents without harness engineering](../ai/community/building-agents-without-harness-engineering-c48d9b.md)
   - [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)
+  - [Ear Training Practice Exercises](../ai/community/ear-training-practice-exercises-28e3cd.md)
   - [How Terry Tao became an evangelist for AI in math](../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md)
   - [Klondike Solitaire game for curses in 5k of C](../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md)
   - [L'Affaire Siloxane](../ai/community/l-affaire-siloxane-923f03.md)
@@ -1209,6 +1211,7 @@ Resources organized by publisher feed and query sources.
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md)
   - [Agent Factory: Creating a blueprint for safe and secure AI agents | Microsoft Azure Blog](../ai/rag/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md)
+  - [All-in-RAG | 大模型应用开发实战：RAG技术全栈指南](../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md)
   - [Best Practices for AI Agent Implementations: Enterprise Guide 2026](../ai/rag/best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md)
   - [Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic AI Systems](../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md)
@@ -1260,6 +1263,7 @@ Resources organized by publisher feed and query sources.
   - [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md)
   - [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md)
   - [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md)
+  - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generation-b29059.md)
   - [The Best AI Agents in 2026: Tools and Frameworks Compared | DataCamp](../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md)
   - [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md)
@@ -1828,4 +1832,4 @@ Resources organized by publisher feed and query sources.
   - [Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic View](../ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)
 
 ---
-*Index generated on 2026-06-11T18:23:21.123647+00:00*
+*Index generated on 2026-06-11T20:37:53.905972+00:00*

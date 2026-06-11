@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1689 resources matched in the intelligence vault.
+Active signals: 1692 resources matched in the intelligence vault.
 Recently detected signals:
+- [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generation-b29059.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Building agents without harness engineering](../ai/community/building-agents-without-harness-engineering-c48d9b.md) (Source: Hacker News AI) - Collected 2026-06-11
+- [Ear Training Practice Exercises](../ai/community/ear-training-practice-exercises-28e3cd.md) (Source: Hacker News AI) - Collected 2026-06-11
 - [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) (Source: Web Discovery) - Collected 2026-06-11
 - [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) (Source: Web Discovery) - Collected 2026-06-11
-- [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md) (Source: Web Discovery) - Collected 2026-06-11
-- [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md) (Source: Web Discovery) - Collected 2026-06-11
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) (Source: Web Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.990957+00:00.697048+00:00.855552+00:00.454819+00:00.634217+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T20:37:49.826918+00:00.990957+00:00.697048+00:00.855552+00:00.454819+00:00.634217+00:00.

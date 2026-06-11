@@ -1198,6 +1198,33 @@
     "last_updated": "2026-06-11T08:37:53.523153+00:00"
   },
   {
+    "title": "Sovereign, Open Source Retrieval-Augmented Generation",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "anthropic",
+      "benchmark",
+      "dataset",
+      "hackernews",
+      "mistral",
+      "models",
+      "openai",
+      "rag",
+      "reddit",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://open-rag.ai",
+    "local_path": "ai/rag/sovereign-open-source-retrieval-augmented-generation-b29059.md",
+    "summary": "Understanding OpenRag Features Tech stack How it Works Webinar Understanding OpenRag Features Tech stack How it Works Webinar Contact Us Contact us Just type your contacts Inquiry Type - Select - Marketing HR Sales Inquiry Type Press & Relations publ",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T20:36:08.744493+00:00"
+  },
+  {
     "title": "[2510.12323] RAG-Anything: All-in-One RAG Framework",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -2979,6 +3006,23 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T12:52:39.564713+00:00"
+  },
+  {
+    "title": "All-in-RAG | 大模型应用开发实战：RAG技术全栈指南",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://datawhalechina.github.io/all-in-rag",
+    "local_path": "ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md",
+    "summary": "No summary provided. Reference resource: All-in-RAG | 大模型应用开发实战：RAG技术全栈指南",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-11T20:36:07.857316+00:00"
   },
   {
     "title": "Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts",
@@ -20835,6 +20879,23 @@
     "last_updated": "2026-06-11T13:41:08.760479+00:00"
   },
   {
+    "title": "Building agents without harness engineering",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "hackernews"
+    ],
+    "source_url": "https://rajitkhanna.com/agents/",
+    "local_path": "ai/community/building-agents-without-harness-engineering-c48d9b.md",
+    "summary": "Hacker News story by rajit. Score: 13, Comments: 0. Original Link: https://rajitkhanna.com/agents/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T20:35:31.610981+00:00"
+  },
+  {
     "title": "Show HN: Claw Patrol, a security firewall for agents",
     "category": "ai/community",
     "section": "automation-workflows",
@@ -20868,6 +20929,23 @@
     "archive_tier": "useful",
     "resource_kind": "workflow",
     "last_updated": "2026-06-11T18:00:44.489397+00:00"
+  },
+  {
+    "title": "Ear Training Practice Exercises",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://tonedear.com/",
+    "local_path": "ai/community/ear-training-practice-exercises-28e3cd.md",
+    "summary": "Hacker News story by mattbit. Score: 45, Comments: 28. Original Link: https://tonedear.com/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T20:35:30.840885+00:00"
   },
   {
     "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",

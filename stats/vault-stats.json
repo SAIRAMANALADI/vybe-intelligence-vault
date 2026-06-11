@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11T19:39:42.338410+00:00",
-  "last_updated": "2026-06-11 19:39 UTC",
-  "total_resources": 1764,
-  "total_markdown_files": 9560,
-  "archive_files": 7669,
+  "generated_at": "2026-06-11T20:37:59.034518+00:00",
+  "last_updated": "2026-06-11 20:37 UTC",
+  "total_resources": 1768,
+  "total_markdown_files": 9574,
+  "archive_files": 7679,
   "archive_categories": 33,
   "workspace_archive_categories": 33,
   "skill_files": 19,
@@ -13,9 +13,9 @@
   "learning_path_files": 8,
   "best_of_guides": 6,
   "examples_count": 8,
-  "search_index_entries": 1764,
-  "latest_resource_date": "2026-06-11T18:21:55.805434+00:00",
-  "latest_update_time": "2026-06-11T19:39:42.338459+00:00",
+  "search_index_entries": 1768,
+  "latest_resource_date": "2026-06-11T20:36:08.744493+00:00",
+  "latest_update_time": "2026-06-11T20:37:59.034541+00:00",
   "top_categories": [
     {
       "name": "project-ideas",
@@ -31,15 +31,15 @@
     },
     {
       "name": "vector-databases",
-      "count": 104
+      "count": 105
+    },
+    {
+      "name": "automation-workflows",
+      "count": 81
     },
     {
       "name": "webdev-3d-creative",
       "count": 81
-    },
-    {
-      "name": "automation-workflows",
-      "count": 78
     },
     {
       "name": "frontend-ai-ui",
@@ -66,9 +66,9 @@
     "evals-and-benchmarks": 8,
     "datasets": 127,
     "ai-tools-products": 5,
-    "automation-workflows": 78,
+    "automation-workflows": 81,
     "project-ideas": 1118,
-    "vector-databases": 104,
+    "vector-databases": 105,
     "ai-browser-computer-use": 113,
     "startup-builder": 13,
     "webdev-3d-creative": 81,
@@ -88,6 +88,7 @@
     "mistral.ai": 10,
     "arxiv": 548,
     "huggingface": 800,
+    "open-rag.ai": 1,
     "artificialanalysis.ai": 1,
     "medium.com": 8,
     "onereach.ai": 1,
@@ -108,6 +109,7 @@
     "pragatimehraa.medium.com": 1,
     "llm-stats.com": 1,
     "saumilsrivastava.ai": 1,
+    "datawhalechina.github.io": 1,
     "signoz.io": 1,
     "freeacademy.ai": 1,
     "evidentlyai.com": 3,
@@ -156,7 +158,9 @@
     "support.claude.com": 1,
     "burr.apache.org": 1,
     "twitter.com": 1,
+    "rajitkhanna.com": 1,
     "theverge.com": 1,
+    "tonedear.com": 1,
     "samhenrycliff.medium.com": 1,
     "businessinsider.com": 1
   }

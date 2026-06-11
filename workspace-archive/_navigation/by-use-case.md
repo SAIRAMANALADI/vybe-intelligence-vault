@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (Category: `project-ideas` | [`Local File`](file:///../../ai/models/bert-101-state-of-the-art-nlp-model-explained-f1900d.md))
 
 ---
-*Last updated: 2026-06-11 18:23 UTC*
+*Last updated: 2026-06-11 20:37 UTC*
