@@ -1,0 +1,37 @@
+---
+title: "IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11652"
+local_vault_path: "ai\rag\iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md"
+tags:
+  - agents
+  - rag
+---
+
+# IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small Multimodal Agents
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: agents, rag
+- Archive category: RAG Systems
+
+## Summary
+
+arXiv:2606.11652v1 Announce Type: new 
+Abstract: This paper investigates reinforcement learning (RL) methods for improving tool-calling capabilities in multimodal small language model (SLM) agents. While existing works have explored various reward designs to improve agentic tool-calling ability, these approaches face inherent limitations for SLM training, especially under multimodal scenarios. First, many existing methods evaluate tool use correctness through exact matching against certain groun
+
+## Use Cases
+
+- Building RAG pipelines
+- Document retrieval
+- Knowledge base creation
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11652
+
+## Local Vault File
+
+Path: ai\rag\iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md

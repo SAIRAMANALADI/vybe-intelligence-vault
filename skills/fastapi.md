@@ -145,4 +145,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T10:14:18.097350+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T10:48:01.600872+00:00.

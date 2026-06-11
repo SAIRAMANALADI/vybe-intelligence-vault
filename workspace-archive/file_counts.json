@@ -1,0 +1,21 @@
+{
+  "total_files": 1065,
+  "categories": {
+    "agents": 167,
+    "ai-skills": 419,
+    "ai-tools": 7,
+    "api-providers": 1,
+    "automation-workflows": 1,
+    "frontend-ui": 77,
+    "learning-paths": 5,
+    "local-llm": 12,
+    "mcp-servers": 15,
+    "prompts": 3,
+    "rag-systems": 226,
+    "system-prompts": 3,
+    "templates": 43,
+    "vector-databases": 1,
+    "webdev-3d": 85
+  },
+  "last_updated": "2026-06-11T10:48:08.464821+00:00"
+}

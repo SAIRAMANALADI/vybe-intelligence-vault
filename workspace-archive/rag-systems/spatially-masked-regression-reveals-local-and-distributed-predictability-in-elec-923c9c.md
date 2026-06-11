@@ -1,0 +1,36 @@
+---
+title: "Spatially Masked Regression Reveals Local and Distributed Predictability in Electrophysiological Recordings"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11415"
+local_vault_path: "ai\rag\spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md"
+tags:
+  - rag
+---
+
+# Spatially Masked Regression Reveals Local and Distributed Predictability in Electrophysiological Recordings
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: rag
+- Archive category: RAG Systems
+
+## Summary
+
+arXiv:2606.11415v1 Announce Type: cross 
+Abstract: Neural recordings are often interpreted as local measurements, yet the signal at any one sensor can also reflect structured activity distributed across the broader network. This raises a basic question: to what extent does an electrode's signal reflect local versus distributed information in the underlying system? More specifically, how much of an electrode's activity is carried by its immediate neighborhood, and how much is embedded more broadl
+
+## Use Cases
+
+- Building RAG pipelines
+- Document retrieval
+- Knowledge base creation
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11415
+
+## Local Vault File
+
+Path: ai\rag\spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md

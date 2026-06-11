@@ -1,0 +1,38 @@
+---
+title: "Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies"
+archive_category: "ai-skills"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2602.18291"
+local_vault_path: "ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md"
+tags:
+  - agents
+  - models
+  - rag
+---
+
+# Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: agents, models, rag
+- Archive category: AI Skills
+
+## Summary
+
+arXiv:2602.18291v2 Announce Type: replace 
+Abstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framework for efficient agent coordination. Crucially, enhancing policy expressiveness is pivotal for achieving superior performance. Diffusion-based generative models are well-positioned to meet this demand, having demonstrated remarkable expressiveness and multimodal representation in image generation and offline settings. Yet, their potential in online MARL remains largely unde
+
+## Use Cases
+
+- Learning AI concepts
+- Building AI features
+- Reference for AI projects
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.18291
+
+## Local Vault File
+
+Path: ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md

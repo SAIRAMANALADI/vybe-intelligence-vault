@@ -1,0 +1,36 @@
+---
+title: "MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios"
+archive_category: "agents"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2602.22638"
+local_vault_path: "ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md"
+tags:
+  - agents
+---
+
+# MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: AI Agents
+
+## Summary
+
+arXiv:2602.22638v2 Announce Type: replace 
+Abstract: Route-planning agents powered by large language models (LLMs) have emerged as a promising paradigm for supporting everyday human mobility through natural language interaction and tool-mediated decision making. However, systematic evaluation in real-world mobility settings is hindered by diverse routing demands, non-deterministic mapping services, and limited reproducibility. In this study, we introduce MobilityBench, a scalable benchmark for e
+
+## Use Cases
+
+- Building AI agents
+- Multi-agent systems
+- Agent orchestration patterns
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.22638
+
+## Local Vault File
+
+Path: ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md

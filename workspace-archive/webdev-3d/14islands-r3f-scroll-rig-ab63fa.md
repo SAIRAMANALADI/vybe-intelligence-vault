@@ -1,0 +1,36 @@
+---
+title: "14islands/r3f-scroll-rig"
+archive_category: "webdev-3d"
+source_category: "web-development/react-three-fiber"
+source_url: "https://github.com/14islands/r3f-scroll-rig"
+local_vault_path: "web-development\react-three-fiber\14islands-r3f-scroll-rig-ab63fa.md"
+tags:
+  - frontend_ui
+  - threejs
+---
+
+# 14islands/r3f-scroll-rig
+
+## Why This Is In The Archive
+
+- Matched source category: `web-development/react-three-fiber`
+- Tags: frontend_ui, threejs
+- Archive category: 3D Web Development
+
+## Summary
+
+A react-three-fiber scroll-rig for syncing 3D meshes and DOM elements.
+
+## Use Cases
+
+- 3D web experiences
+- WebGL/WebGPU projects
+- Three.js learning
+
+## Source
+
+Original source: https://github.com/14islands/r3f-scroll-rig
+
+## Local Vault File
+
+Path: web-development\react-three-fiber\14islands-r3f-scroll-rig-ab63fa.md
