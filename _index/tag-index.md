@@ -845,4 +845,4 @@ Resources organized by keyword tags.
   - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](../ai/agents/workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md)
 
 ---
-*Index generated on 2026-06-11T09:25:44.915212+00:00*
+*Index generated on 2026-06-11T09:47:08.705015+00:00*

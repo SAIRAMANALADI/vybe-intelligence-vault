@@ -253,4 +253,4 @@ The 50 newest resources collected across the intelligence vault.
 - **Local Path**: `web-development/nextjs/shadcnblocks-mainline-nextjs-template-4c40de.md`
 
 ---
-*Index generated on 2026-06-11T09:25:44.955023+00:00*
+*Index generated on 2026-06-11T09:47:08.735227+00:00*
