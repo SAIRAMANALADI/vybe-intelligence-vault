@@ -174,6 +174,10 @@ Resources organized by publisher feed and query sources.
   - [unovue/shadcn-vue](../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md)
   - [vbenjs/vue-vben-admin](../web-development/shadcn-ui/vbenjs-vue-vben-admin-ff293d.md)
 
+## Google DeepMind Blog (type: company_blog)
+
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
+
 ## Hacker News AI (type: hackernews)
 
   - [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md)
@@ -758,6 +762,7 @@ Resources organized by publisher feed and query sources.
   - [Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](../ai/models/prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md)
   - [Probabilistic Time Series Forecasting with 🤗 Transformers](../ai/models/probabilistic-time-series-forecasting-with-transformers-f7bb1c.md)
   - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to-torch-profiler-442e91.md)
+  - [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp-9a812e.md)
   - [Proximal Policy Optimization (PPO)](../ai/models/proximal-policy-optimization-ppo-35c9eb.md)
   - [Public AI on Hugging Face Inference Providers 🔥](../ai/models/public-ai-on-hugging-face-inference-providers-f9506c.md)
   - [Public Policy at Hugging Face](../ai/models/public-policy-at-hugging-face-b8a373.md)
@@ -1534,4 +1539,4 @@ Resources organized by publisher feed and query sources.
   - [Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic View](../ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)
 
 ---
-*Index generated on 2026-06-11T11:17:47.846838+00:00*
+*Index generated on 2026-06-11T12:46:20.295298+00:00*

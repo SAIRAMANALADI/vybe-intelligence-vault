@@ -1,0 +1,34 @@
+---
+title: "A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting"
+archive_category: "project-ideas"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.11390"
+local_vault_path: "ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md"
+---
+
+# A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Archive category: Project Ideas
+
+## Summary
+
+arXiv:2606.11390v1 Announce Type: cross 
+Abstract: Gaussian splatting methods have become increasingly popular for neural reconstruction of the real world. However, they are often limited in scale and resolution due to compute and memory constraints. We present a multi-GPU Gaussian splatting approach that scales reconstruction to higher resolutions and larger scenes while abstracting away the code complexity typically associated with distributing a model. To accomplish this, we propose a PyTorch
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11390
+
+## Local Vault File
+
+Path: ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md

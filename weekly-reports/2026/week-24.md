@@ -16,7 +16,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Category | Count |
 |---|---:|
-| ai/models | 733 |
+| ai/models | 734 |
 | ai/research | 301 |
 | ai/rag | 177 |
 | ai/agents | 124 |
@@ -30,6 +30,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | web-development/gsap | 6 |
 | web-development/tailwind | 1 |
 | web-development/webgl | 1 |
+| ai/companies/deepmind | 1 |
 
 ## Most Common Tags
 
@@ -37,7 +38,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | models | 181 |
 | rag | 178 |
-| agents | 165 |
+| agents | 166 |
 | frontend_ui | 94 |
 | threejs | 82 |
 | animation | 33 |
@@ -49,6 +50,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | framer_motion | 6 |
 | anthropic | 2 |
 | webgpu | 1 |
+| blog-post | 1 |
 
 ## Weekly Community Updates
 
@@ -139,4 +141,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-11T11:17:45.939911+00:00
+2026-06-11T12:46:19.311404+00:00

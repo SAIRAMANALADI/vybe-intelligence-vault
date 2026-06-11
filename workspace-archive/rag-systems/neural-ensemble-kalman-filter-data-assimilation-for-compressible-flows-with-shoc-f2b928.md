@@ -1,0 +1,36 @@
+---
+title: "Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks"
+archive_category: "rag-systems"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2602.23461"
+local_vault_path: "ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
+tags:
+  - models
+---
+
+# Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Tags: models
+- Archive category: RAG Systems
+
+## Summary
+
+arXiv:2602.23461v2 Announce Type: replace-cross 
+Abstract: Data assimilation (DA) for compressible flows with shocks is challenging because many classical DA methods generate spurious oscillations and nonphysical features near uncertain shocks. We focus here on the ensemble Kalman filter (EnKF). We show that the poor performance of the EnKF may be attributed to the bimodal forecast distribution that can arise in the vicinity of an uncertain shock location; this violates the assumptions underpinn
+
+## Use Cases
+
+- Building RAG pipelines
+- Document retrieval
+- Knowledge base creation
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.23461
+
+## Local Vault File
+
+Path: ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md

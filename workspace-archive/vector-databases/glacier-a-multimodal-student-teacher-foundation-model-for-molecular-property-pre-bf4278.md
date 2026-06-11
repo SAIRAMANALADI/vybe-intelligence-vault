@@ -1,0 +1,37 @@
+---
+title: "GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction"
+archive_category: "vector-databases"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11382"
+local_vault_path: "ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md"
+tags:
+  - models
+  - rag
+---
+
+# GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: models, rag
+- Archive category: Vector Databases
+
+## Summary
+
+arXiv:2606.11382v1 Announce Type: new 
+Abstract: Deep learning models facilitate the discovery of molecules with tailored properties among billions of candidate compounds. However, the computational burden to develop and deploy state-of-the-art models continuously increases, limiting their scalability. Most large-scale models are unimodal in nature and overlook the potential to leverage complementary molecular data modalities. To address these shortcomings, this paper introduces the Graph-Langua
+
+## Use Cases
+
+- Vector storage setup
+- Embedding management
+- Similarity search
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11382
+
+## Local Vault File
+
+Path: ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md

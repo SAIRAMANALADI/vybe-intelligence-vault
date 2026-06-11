@@ -1,0 +1,36 @@
+---
+title: "AI Agents Are Here. What Now?"
+archive_category: "ai-browser-computer-use"
+source_category: "ai/agents"
+source_url: "https://huggingface.co/blog/ethics-soc-7"
+local_vault_path: "ai\agents\ai-agents-are-here-what-now-1dd7c4.md"
+tags:
+  - agents
+---
+
+# AI Agents Are Here. What Now?
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: AI Browser and Computer Use
+
+## Summary
+
+No summary provided. Reference resource: AI Agents Are Here. What Now?
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://huggingface.co/blog/ethics-soc-7
+
+## Local Vault File
+
+Path: ai\agents\ai-agents-are-here-what-now-1dd7c4.md

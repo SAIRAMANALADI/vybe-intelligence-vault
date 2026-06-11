@@ -1,0 +1,38 @@
+---
+title: "Multi-agent rendezvous in fluid flows via reinforcement learning"
+archive_category: "project-ideas"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11274"
+local_vault_path: "ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md"
+tags:
+  - agents
+  - rag
+---
+
+# Multi-agent rendezvous in fluid flows via reinforcement learning
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: agents, rag
+- Archive category: Project Ideas
+
+## Summary
+
+arXiv:2606.11274v1 Announce Type: cross 
+Abstract: Rendezvous is a critical task for multi-agent systems, requiring agents to coordinate to meet at an unspecified location. However, achieving this in fluid environments presents a challenge, as it remains unclear how agents can exploit underlying fluid kinematics to facilitate convergence. In this study, we adopt a multi-agent reinforcement learning (MARL) approach to develop physics-informed rendezvous strategies in vortical flows. Compared to a
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11274
+
+## Local Vault File
+
+Path: ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md

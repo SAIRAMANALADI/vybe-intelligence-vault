@@ -97,6 +97,7 @@ Resources organized by keyword tags.
   - [Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents](../ai/agents/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md)
   - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](../ai/rag/llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md)
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
   - [Learning Object Manipulation from Scratch via Contrastive Interaction](../ai/rag/learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md)
   - [Learning to Inject: Automated Prompt Injection via Reinforcement Learning](../ai/agents/learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md)
   - [Libra: Efficient Resource Management for Agentic RL Post-Training](../ai/rag/libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)
@@ -220,6 +221,10 @@ Resources organized by keyword tags.
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)
   - [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)
 
+## blog-post
+
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
+
 ## creative_dev
 
   - [Codefreyy/joy-personal-portfolio](../web-development/framer-motion/codefreyy-joy-personal-portfolio-af70c1.md)
@@ -233,6 +238,10 @@ Resources organized by keyword tags.
   - [mohitvirli/mohitvirli.github.io](../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io-102190.md)
   - [realstoman/react-tailwindcss-portfolio](../web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md)
   - [sanidhyy/modern-portfolio](../web-development/framer-motion/sanidhyy-modern-portfolio-d35e15.md)
+
+## deepmind
+
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
 
 ## framer_motion
 
@@ -339,6 +348,10 @@ Resources organized by keyword tags.
   - [wrongakram/R3F-Chairs](../web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md)
   - [wrongakram/framermotion-react-router](../web-development/framer-motion/wrongakram-framermotion-react-router-b6236e.md)
   - [wrongakram/nextjs-page-transitions](../web-development/framer-motion/wrongakram-nextjs-page-transitions-83c0ab.md)
+
+## google-deepmind-blog
+
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
 
 ## hackernews
 
@@ -716,6 +729,10 @@ Resources organized by keyword tags.
   - [When is Your LLM Steerable?](../ai/rag/when-is-your-llm-steerable-23232c.md)
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md)
 
+## reddit
+
+  - [Learn more](../ai/companies/deepmind/learn-more-eb1202.md)
+
 ## scripts
 
   - [A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design](../ai/agents/a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md)
@@ -845,4 +862,4 @@ Resources organized by keyword tags.
   - [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](../ai/agents/workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md)
 
 ---
-*Index generated on 2026-06-11T11:17:47.796548+00:00*
+*Index generated on 2026-06-11T12:46:20.261573+00:00*

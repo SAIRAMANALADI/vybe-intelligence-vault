@@ -1,0 +1,33 @@
+---
+title: "Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components"
+archive_category: "rag-systems"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.11258"
+local_vault_path: "ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md"
+---
+
+# Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Archive category: RAG Systems
+
+## Summary
+
+arXiv:2606.11258v1 Announce Type: new 
+Abstract: Gradient-based inversion of reaction-diffusion systems is typically approached via surrogate models or physics-informed neural networks (PINNs), while the most direct route, backpropagation through the PDE's structure itself, has largely been avoided. We pursue this direct route as a diagnostic probe, backpropagating a steady-state loss through unrolled Gray-Scott simulation to recover its parameters, with no surrogate or neural-network augmentati
+
+## Use Cases
+
+- Building RAG pipelines
+- Document retrieval
+- Knowledge base creation
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11258
+
+## Local Vault File
+
+Path: ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md

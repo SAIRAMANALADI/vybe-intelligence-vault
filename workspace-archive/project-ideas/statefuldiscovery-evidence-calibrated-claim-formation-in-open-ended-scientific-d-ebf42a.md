@@ -1,0 +1,38 @@
+---
+title: "StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Scientific Discovery"
+archive_category: "project-ideas"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.11851"
+local_vault_path: "ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md"
+tags:
+  - agents
+  - models
+---
+
+# StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Scientific Discovery
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents, models
+- Archive category: Project Ideas
+
+## Summary
+
+arXiv:2606.11851v1 Announce Type: new 
+Abstract: Open-ended scientific discovery asks agents to move beyond executing analyses for predefined questions. Across multiple rounds of exploration, a discovery agent must decide which phenomena warrant investigation while avoiding overinterpretation, where emerging claims exceed the evidential scope of the analyses supporting them. This creates an evidence-calibration problem: the exploration trajectory must be coupled with claim status so that evidenc
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11851
+
+## Local Vault File
+
+Path: ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md

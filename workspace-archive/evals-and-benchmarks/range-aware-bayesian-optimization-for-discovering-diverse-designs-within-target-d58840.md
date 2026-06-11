@@ -1,0 +1,34 @@
+---
+title: "Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.11574"
+local_vault_path: "ai\research\range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md"
+---
+
+# Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Archive category: Evals and Benchmarks
+
+## Summary
+
+arXiv:2606.11574v1 Announce Type: new 
+Abstract: In many materials and product design problems, desirable candidates exhibit properties that fall within an acceptable range rather than achieve a single optimum. Recovering multiple, distinct solutions that satisfy such specifications is also practically valuable, as some candidates may be preferred for reasons of cost, processability, or robustness that are difficult to encode directly in an objective function. Here, we develop a range-aware Baye
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11574
+
+## Local Vault File
+
+Path: ai\research\range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md

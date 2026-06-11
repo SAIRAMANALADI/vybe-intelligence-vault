@@ -1,0 +1,39 @@
+---
+title: "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application"
+archive_category: "agent-frameworks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.12191"
+local_vault_path: "ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md"
+tags:
+  - agents
+  - models
+  - workflows
+---
+
+# Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents, models, workflows
+- Archive category: Agent Frameworks
+
+## Summary
+
+arXiv:2606.12191v1 Announce Type: cross 
+Abstract: Environments serve as interactive systems for large language model (LLM) based agents across diverse scenarios and play a crucial role in driving the continual evolution of model capabilities. Despite this importance, existing work lacks a systematic categorization and deep analysis. This paper systematically studies current researches on agentic environments from the perspective of the environment engineering lifecycle, covering their modeling,
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.12191
+
+## Local Vault File
+
+Path: ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md

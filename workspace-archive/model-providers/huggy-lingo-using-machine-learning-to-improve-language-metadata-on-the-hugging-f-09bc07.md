@@ -1,0 +1,33 @@
+---
+title: "Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub"
+archive_category: "model-providers"
+source_category: "ai/models"
+source_url: "https://huggingface.co/blog/huggy-lingo"
+local_vault_path: "ai\models\huggy-lingo-using-machine-learning-to-improve-language-metadata-on-the-hugging-f-09bc07.md"
+---
+
+# Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/models`
+- Archive category: Model Providers
+
+## Summary
+
+No summary provided. Reference resource: Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://huggingface.co/blog/huggy-lingo
+
+## Local Vault File
+
+Path: ai\models\huggy-lingo-using-machine-learning-to-improve-language-metadata-on-the-hugging-f-09bc07.md

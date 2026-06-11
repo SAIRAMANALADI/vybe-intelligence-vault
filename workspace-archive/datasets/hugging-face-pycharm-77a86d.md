@@ -1,0 +1,33 @@
+---
+title: "Hugging Face + PyCharm"
+archive_category: "datasets"
+source_category: "ai/models"
+source_url: "https://huggingface.co/blog/pycharm-integration"
+local_vault_path: "ai\models\hugging-face-pycharm-77a86d.md"
+---
+
+# Hugging Face + PyCharm
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/models`
+- Archive category: Datasets
+
+## Summary
+
+No summary provided. Reference resource: Hugging Face + PyCharm
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://huggingface.co/blog/pycharm-integration
+
+## Local Vault File
+
+Path: ai\models\hugging-face-pycharm-77a86d.md

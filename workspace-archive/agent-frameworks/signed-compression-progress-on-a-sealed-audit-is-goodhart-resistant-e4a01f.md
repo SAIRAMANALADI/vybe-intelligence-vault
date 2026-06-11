@@ -1,0 +1,37 @@
+---
+title: "Signed Compression Progress on a Sealed Audit is Goodhart-Resistant"
+archive_category: "agent-frameworks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.11417"
+local_vault_path: "ai\agents\signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md"
+tags:
+  - agents
+---
+
+# Signed Compression Progress on a Sealed Audit is Goodhart-Resistant
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: Agent Frameworks
+
+## Summary
+
+arXiv:2606.11417v1 Announce Type: cross 
+Abstract: Compression progress is a long-standing proposal for intrinsic motivation: reward an agent when its world model becomes better at predicting or compressing experience. The folk claim is that this reward is "credible" because it is paid only for learning. We make this precise and prove it. If intrinsic reward is the signed decrease of a fixed sealed-audit loss, r_t = E(theta_{t-1}) - E(theta_t), then cumulative reward telescopes exactly to endpoi
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11417
+
+## Local Vault File
+
+Path: ai\agents\signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md

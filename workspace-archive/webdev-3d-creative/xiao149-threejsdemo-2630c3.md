@@ -1,0 +1,36 @@
+---
+title: "xiao149/ThreeJsDemo"
+archive_category: "webdev-3d-creative"
+source_category: "web-development/threejs"
+source_url: "https://github.com/xiao149/ThreeJsDemo"
+local_vault_path: "web-development\threejs\xiao149-threejsdemo-2630c3.md"
+tags:
+  - threejs
+---
+
+# xiao149/ThreeJsDemo
+
+## Why This Is In The Archive
+
+- Matched source category: `web-development/threejs`
+- Tags: threejs
+- Archive category: Webdev 3D Creative
+
+## Summary
+
+This repository contains advanced 3D frontend assets, graphics rendering, shaders, or immersive configurations crucial for building modern visual experiences.
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://github.com/xiao149/ThreeJsDemo
+
+## Local Vault File
+
+Path: web-development\threejs\xiao149-threejsdemo-2630c3.md

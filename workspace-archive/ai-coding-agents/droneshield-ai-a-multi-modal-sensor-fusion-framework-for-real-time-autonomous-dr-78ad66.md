@@ -1,0 +1,38 @@
+---
+title: "DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace"
+archive_category: "ai-coding-agents"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.11687"
+local_vault_path: "ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md"
+tags:
+  - agents
+  - models
+---
+
+# DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents, models
+- Archive category: AI Coding Agents
+
+## Summary
+
+arXiv:2606.11687v1 Announce Type: cross 
+Abstract: Unmanned Aerial Vehicle (UAV) threats have emerged as a defining security challenge of the 21st century. This paper presents DroneShield-AI, a unified open framework integrating six processing layers: RF signal classification, acoustic motor-signature detection, YOLOv8-based visual detection, evidence-weighted sensor fusion, a Behavioral Intent Classification Engine (BICE), and a Graph Neural Network Swarm Intelligence Module (GNN-SIM). BICE int
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11687
+
+## Local Vault File
+
+Path: ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md

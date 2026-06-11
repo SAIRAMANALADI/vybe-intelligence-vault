@@ -1,0 +1,37 @@
+---
+title: "Global Geometry Is Not Enough for Vision Representations"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2602.03282"
+local_vault_path: "ai\rag\global-geometry-is-not-enough-for-vision-representations-cee586.md"
+tags:
+  - rag
+---
+
+# Global Geometry Is Not Enough for Vision Representations
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: rag
+- Archive category: Evals and Benchmarks
+
+## Summary
+
+arXiv:2602.03282v3 Announce Type: replace-cross 
+Abstract: A common assumption in representation learning is that globally well-distributed embeddings support robust and generalizable representations. This focus has shaped both training objectives and evaluation protocols, implicitly treating global geometry as a proxy for representational competence. While global geometry effectively encodes which elements are present, it is often insensitive to how they are composed. We investigate this limita
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.03282
+
+## Local Vault File
+
+Path: ai\rag\global-geometry-is-not-enough-for-vision-representations-cee586.md

@@ -1,0 +1,37 @@
+---
+title: "ATLAS: Active Theory Learning for Automated Science"
+archive_category: "agent-frameworks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.12386"
+local_vault_path: "ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md"
+tags:
+  - agents
+---
+
+# ATLAS: Active Theory Learning for Automated Science
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: Agent Frameworks
+
+## Summary
+
+arXiv:2606.12386v1 Announce Type: cross 
+Abstract: Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse en
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.12386
+
+## Local Vault File
+
+Path: ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md

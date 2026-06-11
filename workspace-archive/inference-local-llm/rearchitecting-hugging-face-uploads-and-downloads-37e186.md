@@ -1,0 +1,33 @@
+---
+title: "Rearchitecting Hugging Face Uploads and Downloads"
+archive_category: "inference-local-llm"
+source_category: "ai/models"
+source_url: "https://huggingface.co/blog/rearchitecting-uploads-and-downloads"
+local_vault_path: "ai\models\rearchitecting-hugging-face-uploads-and-downloads-37e186.md"
+---
+
+# Rearchitecting Hugging Face Uploads and Downloads
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/models`
+- Archive category: Inference and Local LLM
+
+## Summary
+
+No summary provided. Reference resource: Rearchitecting Hugging Face Uploads and Downloads
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://huggingface.co/blog/rearchitecting-uploads-and-downloads
+
+## Local Vault File
+
+Path: ai\models\rearchitecting-hugging-face-uploads-and-downloads-37e186.md

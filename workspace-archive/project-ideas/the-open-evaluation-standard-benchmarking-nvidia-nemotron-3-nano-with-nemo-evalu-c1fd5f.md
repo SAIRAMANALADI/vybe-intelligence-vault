@@ -1,0 +1,33 @@
+---
+title: "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator"
+archive_category: "project-ideas"
+source_category: "ai/models"
+source_url: "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe"
+local_vault_path: "ai\models\the-open-evaluation-standard-benchmarking-nvidia-nemotron-3-nano-with-nemo-evalu-c1fd5f.md"
+---
+
+# The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/models`
+- Archive category: Project Ideas
+
+## Summary
+
+No summary provided. Reference resource: The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe
+
+## Local Vault File
+
+Path: ai\models\the-open-evaluation-standard-benchmarking-nvidia-nemotron-3-nano-with-nemo-evalu-c1fd5f.md

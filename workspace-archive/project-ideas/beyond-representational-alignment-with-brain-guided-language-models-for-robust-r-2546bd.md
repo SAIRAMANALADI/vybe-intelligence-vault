@@ -1,0 +1,37 @@
+---
+title: "Beyond representational alignment with brain-guided language models for robust reasoning"
+archive_category: "project-ideas"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.11893"
+local_vault_path: "ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md"
+tags:
+  - models
+---
+
+# Beyond representational alignment with brain-guided language models for robust reasoning
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Tags: models
+- Archive category: Project Ideas
+
+## Summary
+
+arXiv:2606.11893v1 Announce Type: cross 
+Abstract: The correspondence between large language models (LLMs) and the neural mechanisms underlying human higher-order cognition remains insufficiently characterized. Given that language and reasoning in the human brain appear dissociable, an open question is whether LLMs align with neural signals from reasoning-related regions and whether such signals can improve them. Here, focusing on deductive reasoning, we show that LLM internal representations ar
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11893
+
+## Local Vault File
+
+Path: ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md

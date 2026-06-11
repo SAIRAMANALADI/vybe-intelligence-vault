@@ -1,0 +1,37 @@
+---
+title: "Resource-Aware LLM Reasoning for Mobile Edge General Intelligence"
+archive_category: "ai-browser-computer-use"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2509.23248"
+local_vault_path: "ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md"
+tags:
+  - agents
+---
+
+# Resource-Aware LLM Reasoning for Mobile Edge General Intelligence
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: AI Browser and Computer Use
+
+## Summary
+
+arXiv:2509.23248v3 Announce Type: replace 
+Abstract: The rapid advancement of large language models (LLMs) has enabled an emergence of agentic artificial intelligence (AI) with powerful reasoning and autonomous decision-making capabilities. This integration with edge computing has led to the development of Mobile Edge General Intelligence (MEGI), which brings real-time, privacy-preserving reasoning to the network edge. However, deploying LLM-based agentic AI reasoning in MEGI environments poses
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2509.23248
+
+## Local Vault File
+
+Path: ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md

@@ -1,0 +1,37 @@
+---
+title: "Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models"
+archive_category: "guardrails-security"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11409"
+local_vault_path: "ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md"
+tags:
+  - rag
+---
+
+# Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: rag
+- Archive category: Guardrails and Security
+
+## Summary
+
+arXiv:2606.11409v1 Announce Type: cross 
+Abstract: Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice, the computational expense of different attack strategies can vary by orders of magnitude. Consequently, ASR at a fixed budget can obscure the true effort required to jailbreak a model, thereby making it hard to determine whether an attack's cost ju
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11409
+
+## Local Vault File
+
+Path: ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md

@@ -1,0 +1,37 @@
+---
+title: "Towards a Bridge Layer Between Bibliographic and Formalized Mathematical Knowledge"
+archive_category: "project-ideas"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11430"
+local_vault_path: "ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md"
+tags:
+  - rag
+---
+
+# Towards a Bridge Layer Between Bibliographic and Formalized Mathematical Knowledge
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: rag
+- Archive category: Project Ideas
+
+## Summary
+
+arXiv:2606.11430v1 Announce Type: cross 
+Abstract: Mathematical knowledge is split between bibliographic databases (e.g., MathSciNet, zbMATH Open) and formal proof libraries (e.g., Lean mathlib), preventing unified access between published results and their formalizations. We propose a relational bridge-database that aligns publication metadata with formal artifacts, providing an interoperability layer between mathematical literature and machine-verifiable proofs. We introduce a paper-level form
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11430
+
+## Local Vault File
+
+Path: ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md

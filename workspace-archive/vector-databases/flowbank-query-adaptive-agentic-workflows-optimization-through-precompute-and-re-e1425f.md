@@ -1,0 +1,38 @@
+---
+title: "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse"
+archive_category: "vector-databases"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.11290"
+local_vault_path: "ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
+tags:
+  - agents
+  - rag
+  - workflows
+---
+
+# FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/rag`
+- Tags: agents, rag, workflows
+- Archive category: Vector Databases
+
+## Summary
+
+arXiv:2606.11290v1 Announce Type: cross 
+Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more compleme
+
+## Use Cases
+
+- Vector storage setup
+- Embedding management
+- Similarity search
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11290
+
+## Local Vault File
+
+Path: ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md

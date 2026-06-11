@@ -1,0 +1,37 @@
+---
+title: "BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.11208"
+local_vault_path: "ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md"
+tags:
+  - models
+---
+
+# BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/research`
+- Tags: models
+- Archive category: Evals and Benchmarks
+
+## Summary
+
+arXiv:2606.11208v1 Announce Type: cross 
+Abstract: Biomedical findings often seem to conflict across studies, but many of these differences are context-dependent rather than true contradictions. Variations in cohort, geography, assay protocol, disease subtype, and clinical setting can make both claims locally valid. Existing NLI and scientific claim-verification benchmarks reduce such cases to entailment, contradiction, or neutral, failing to capture the contextual structure behind divergence. T
+
+## Use Cases
+
+- Learning
+- Project building
+- Reference
+- Inspiration
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11208
+
+## Local Vault File
+
+Path: ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md
