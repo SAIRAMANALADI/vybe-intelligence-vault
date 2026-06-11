@@ -18,41 +18,41 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 734 |
 | ai/research | 301 |
-| ai/rag | 271 |
-| ai/agents | 177 |
+| ai/rag | 285 |
+| ai/agents | 195 |
 | web-development/threejs | 28 |
 | web-development/webgpu | 26 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
+| ai/resources | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
-| ai/community | 11 |
-| ai/resources | 10 |
+| ai/community | 14 |
 | web-development/gsap | 6 |
+| ai/companies/anthropic | 2 |
 | web-development/tailwind | 1 |
 | web-development/webgl | 1 |
-| ai/companies/anthropic | 1 |
 | ai/companies/deepmind | 1 |
 
 ## Most Common Tags
 
 | Tag | Count |
 |---|---:|
-| agents | 288 |
-| rag | 272 |
-| models | 224 |
-| frontend_ui | 108 |
-| github-repo | 100 |
+| agents | 315 |
+| rag | 286 |
+| models | 234 |
+| github-repo | 140 |
+| frontend_ui | 110 |
+| workflows | 90 |
 | threejs | 83 |
-| workflows | 79 |
-| python | 58 |
-| web-crawled | 57 |
-| hackernews | 57 |
-| benchmark | 47 |
-| scripts | 45 |
-| openai | 41 |
-| anthropic | 39 |
-| animation | 33 |
+| python | 73 |
+| benchmark | 73 |
+| hackernews | 65 |
+| web-crawled | 64 |
+| openai | 54 |
+| scripts | 49 |
+| anthropic | 48 |
+| reddit | 34 |
 
 ## Weekly Community Updates
 
@@ -62,15 +62,15 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 4. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane-923f03.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
 5. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md) ([Source](https://burr.apache.org/)) (HN Score: 216) - `ai/community`
 6. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)) (HN Score: 205) - `ai/community`
-7. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/HelixDB/helix-db/tree/main)) (HN Score: 122) - `ai/community`
-8. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
-9. [More AI-generated code doesn't make your team faster. It might slow you](../../../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source](https://twitter.com/awscloud/status/2064449711155589396)) (HN Score: 18) - `ai/community`
-10. [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../../../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md) ([Source](https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5)) (HN Score: 17) - `ai/community`
-11. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)) (HN Score: 8) - `ai/community`
-12. [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](../../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md) ([Source](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark)) - `ai/agents`
-13. [Building With AI Coding Agents: Best Practices for Agent Workflows | by Elisheba Builds | Medium](../../../ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md) ([Source](https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b)) - `ai/agents`
-14. [LangGraph Agents in Production: Architecture & Costs](../../../ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md) ([Source](https://www.alphabold.com/langgraph-agents-in-production)) - `ai/agents`
-15. [LangGraph vs fast-langraph: side-by-side benchmarks](../../../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md) ([Source](https://fast-langgraph.neullabs.com/articles/langgraph-vs-fast-langraph-benchmarks)) - `ai/agents`
+7. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md) ([Source](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 158) - `ai/community`
+8. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/HelixDB/helix-db/tree/main)) (HN Score: 122) - `ai/community`
+9. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
+10. [How Terry Tao became an evangelist for AI in math](../../../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md) ([Source](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/)) (HN Score: 47) - `ai/community`
+11. [Show HN: Claw Patrol, a security firewall for agents](../../../ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md) ([Source](https://github.com/denoland/clawpatrol)) (HN Score: 38) - `ai/community`
+12. [More AI-generated code doesn't make your team faster. It might slow you](../../../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source](https://twitter.com/awscloud/status/2064449711155589396)) (HN Score: 18) - `ai/community`
+13. [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../../../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md) ([Source](https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5)) (HN Score: 17) - `ai/community`
+14. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)) (HN Score: 8) - `ai/community`
+15. [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](../../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md) ([Source](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark)) - `ai/agents`
 
 ## Weekly Research Insights
 
@@ -132,16 +132,16 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (1628 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (1606 updates)
-- [RAG](../../../skills/rag.md) (320 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (272 updates)
-- [AI Agents](../../../skills/ai-agents.md) (245 updates)
+- [Workflow Automation](../../../skills/automation.md) (1678 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (1649 updates)
+- [RAG](../../../skills/rag.md) (334 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (286 updates)
+- [AI Agents](../../../skills/ai-agents.md) (264 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (83 updates)
-- [LLMOps](../../../skills/llmops.md) (74 updates)
-- [Local LLMs & Inference](../../../skills/local-llm.md) (35 updates)
-- [Model Context Protocol (MCP)](../../../skills/mcp.md) (30 updates)
-- [Prompt Engineering](../../../skills/prompt-engineering.md) (27 updates)
+- [LLMOps](../../../skills/llmops.md) (78 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (38 updates)
+- [Model Context Protocol (MCP)](../../../skills/mcp.md) (32 updates)
+- [Prompt Engineering](../../../skills/prompt-engineering.md) (28 updates)
 
 ## Recommended Projects To Build
 
@@ -150,4 +150,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-11T17:43:19.634250+00:00
+2026-06-11T18:11:53.554618+00:00

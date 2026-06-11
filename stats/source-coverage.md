@@ -6,8 +6,8 @@ The ingestion engine processes developer articles, preprints, and repositories a
 
 *   huggingface.co: 799 items
 *   arxiv.org: 543 items
-*   github.com: 235 items
-*   medium.com: 6 items
+*   github.com: 273 items
+*   medium.com: 7 items
 *   geeksforgeeks.org: 3 items
 
 All source URLs are preserved in the metadata header of all files.

@@ -8,6 +8,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 ## Top Matched Resources
 
+- [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (prompt - USEFUL Tier)
 - [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](https://arxiv.org/abs/2606.11869) (framework - USEFUL Tier)
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (framework - USEFUL Tier)
 - [Subliminal Learning Is Steering Vector Distillation](https://arxiv.org/abs/2606.00995) (prompt - USEFUL Tier)
@@ -17,6 +18,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 
 https://github.com/danielmiessler/fabric (Fabric)
 https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
+- [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform)
 
 ## Best Learning Resources
 
@@ -34,4 +36,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

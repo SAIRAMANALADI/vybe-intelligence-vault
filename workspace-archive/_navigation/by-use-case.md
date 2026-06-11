@@ -40,10 +40,10 @@ This index groups resources by direct developer use-cases and design goals.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `model-providers` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `model-providers` | [`Local File`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md))
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `inference-local-llm` | [`Local File`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
-- [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 
 ## Production Auditing & Prompt Injection Protection
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Category: `project-ideas` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 
 ---
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

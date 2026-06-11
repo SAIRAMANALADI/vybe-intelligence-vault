@@ -8,13 +8,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md))
+- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
 - [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
 
 ## BENCHMARK
 
@@ -104,11 +104,12 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](file:///../../ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md))
 - [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (Tier: `useful` | [`Local File`](file:///../../ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md))
-- [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](file:///../../ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md))
+- [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) (Tier: `useful` | [`Local File`](file:///../../ai\agents\dyronrh-awesome-agentops-landscape-95f0b2.md))
 
 ## REFERENCE
 
 - [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research) (Tier: `useful` | [`Local File`](file:///../../ai\companies\deepmind\learn-more-eb1202.md))
+- [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](https://www.anthropic.com/news/dxc-anthropic-alliance) (Tier: `useful` | [`Local File`](file:///../../ai\companies\anthropic\jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md))
 - [A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](https://arxiv.org/abs/2606.11390) (Tier: `useful` | [`Local File`](file:///../../ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md))
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (Tier: `useful` | [`Local File`](file:///../../ai\models\bert-101-state-of-the-art-nlp-model-explained-f1900d.md))
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) (Tier: `useful` | [`Local File`](file:///../../ai\models\building-deep-research-how-we-achieved-state-of-the-art-740a0c.md))
@@ -119,7 +120,6 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](https://arxiv.org/abs/2606.11390) (Tier: `useful` | [`Local File`](file:///../../ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md))
 - [Provable Recovery of Locally Important Signed Features and Interactions from Random Forest](https://arxiv.org/abs/2512.11081) (Tier: `useful` | [`Local File`](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md))
 - [A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](https://arxiv.org/abs/2606.11390) (Tier: `useful` | [`Local File`](file:///../../ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md))
-- [Provable Recovery of Locally Important Signed Features and Interactions from Random Forest](https://arxiv.org/abs/2512.11081) (Tier: `useful` | [`Local File`](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai\agents\haohao-end-openagent-402239.md))
 
 ---
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

@@ -20,6 +20,8 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 ## Best GitHub Repositories
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
+- [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [glgh/awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets)
 
 ## Best Learning Resources
 
@@ -37,4 +39,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

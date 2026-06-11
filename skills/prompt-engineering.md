@@ -18,19 +18,22 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 27 resources matched in the intelligence vault.
+Active signals: 28 resources matched in the intelligence vault.
 Recently detected signals:
+- [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md) (Source: Web Discovery) - Collected 2026-06-11
 - [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md) (Source: Hugging Face Blog) - Collected 2026-06-11
 - [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts-fc14db.md) (Source: Hugging Face Blog) - Collected 2026-06-11
 - [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysis-using-setfit-84e1be.md) (Source: Hugging Face Blog) - Collected 2026-06-11
-- [Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Stronger AI Agents](../ai/rag/bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md) (Source: arXiv Machine Learning) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-No GitHub repositories found matching this skill yet.
+### 1. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
+- Stars: 0
+- Language: Python
+- Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -52,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T17:36:17.483996+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.575440+00:00.483996+00:00.

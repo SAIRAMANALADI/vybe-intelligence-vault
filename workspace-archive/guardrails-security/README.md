@@ -22,8 +22,11 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [affaan-m/agentshield](https://github.com/affaan-m/agentshield)
+- [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
+- [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 
 ## Best Learning Resources
 
@@ -41,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:11 UTC*

@@ -28,6 +28,16 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization-95727e.md`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization-95727e.md`](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
@@ -58,16 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `84` | **Path**: [`embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md`](file:///../../ai\agents\embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [PRInTS: Reward Modeling for Long-Horizon Information Seeking](https://arxiv.org/abs/2511.19314)
-- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md`](file:///../../ai\agents\prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

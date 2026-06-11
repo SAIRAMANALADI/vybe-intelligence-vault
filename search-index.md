@@ -42,10 +42,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `github-repo`, `typescript`
   * Source URL: <https://github.com/affaan-m/agentshield>
 
+* **[agamm/awesome-ai-sre](ai/agents/agamm-awesome-ai-sre-61d3c8.md)** (`tool` | `useful` tier)
+  * Summary: A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.
+  * Tags: `agents`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/agamm/awesome-ai-sre>
+
 * **[Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](ai/agents/agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.12191v1 Announce Type: cross Abstract: Environments serve as interactive systems for large language model (LLM) based agents across diverse scenarios and play a crucial role in driving the continual evolution of model capabilities. Despite
   * Tags: `agents`, `models`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12191>
+
+* **[AgentOps-AI/agentops](ai/agents/agentops-ai-agentops-531eca.md)** (`framework` | `useful` tier)
+  * Summary: Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI
+  * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `meta-ai`, `mistral`, `models`, `openai`, `python`
+  * Source URL: <https://github.com/AgentOps-AI/agentops>
 
 * **[Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11869v1 Announce Type: cross Abstract: Custom AI agents areagents that live inside their own application, talk to their own data and tools, enforce their own security boundaries, and carry their own brand and audit trail. What separates th
@@ -116,6 +126,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `openai`, `unknown`
   * Source URL: <https://github.com/caramaschiHG/awesome-ai-agents-2026>
 
+* **[ChrisChen667788/Your-First-LLM-Studio](ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md)** (`benchmark` | `useful` tier)
+  * Summary: First LLM Studio: local-first LLM studio for Apple Silicon with MLX runtimes, Compare Lab, benchmark ops, replay, and runtime telemetry.
+  * Tags: `agents`, `benchmark`, `github-repo`, `typescript`
+  * Source URL: <https://github.com/ChrisChen667788/Your-First-LLM-Studio>
+
 * **[cisco-ai-defense/mcp-scanner](ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md)** (`mcp-server` | `useful` tier)
   * Summary: Scan MCP servers for potential threats & security findings.
   * Tags: `agents`, `github-repo`, `python`
@@ -141,10 +156,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`, `youtube`
   * Source URL: <https://github.com/coleam00/pydantic-ai-github-agent>
 
+* **[danielt69/awesome-agent-observability](ai/agents/danielt69-awesome-agent-observability-7eeb8b.md)** (`benchmark` | `useful` tier)
+  * Summary: A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.
+  * Tags: `agents`, `benchmark`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/danielt69/awesome-agent-observability>
+
 * **[duanyytop/agents-radar](ai/agents/duanyytop-agents-radar-6ba533.md)** (`product` | `useful` tier)
   * Summary: Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
   * Tags: `agents`, `github-repo`, `hackernews`, `producthunt`, `scripts`, `typescript`
   * Source URL: <https://github.com/duanyytop/agents-radar>
+
+* **[dyronrh/awesome-agentops-landscape](ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md)** (`prompt` | `useful` tier)
+  * Summary: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks and architecture guidance.
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`
+  * Source URL: <https://github.com/dyronrh/awesome-agentops-landscape>
 
 * **[ed-donner/production](ai/agents/ed-donner-production-61f359.md)** (`tutorial` | `useful` tier)
   * Summary: Repo for my course on Generative AI and Agentic AI in Production
@@ -170,6 +195,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11976v1 Announce Type: cross Abstract: Software engineering tools increasingly rely on LLM based agents to localize files to change to resolve a software issue. Most AI agents explore repositories linearly, that is, visiting one directory
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2606.11976>
+
+* **[FailproofAI/ai-reliability-standards](ai/agents/failproofai-ai-reliability-standards-6101a3.md)** (`framework` | `useful` tier)
+  * Summary: Architectural standards and best practices for building reliable AI Agents and LLM workflows. Defining the framework for AI Reliability Engineering (AIRE).
+  * Tags: `agents`, `benchmark`, `dockerfile`, `github-repo`, `workflows`
+  * Source URL: <https://github.com/FailproofAI/ai-reliability-standards>
 
 * **[FareedKhan-dev/production-grade-mcp-agentic-system](ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md)** (`mcp-server` | `useful` tier)
   * Summary: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
@@ -209,6 +239,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/golf-mcp/golf>
 
+* **[grafana/o11y-bench](ai/agents/grafana-o11y-bench-628889.md)** (`benchmark` | `useful` tier)
+  * Summary: Open benchmark on observability tasks built on Harbor
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`
+  * Source URL: <https://github.com/grafana/o11y-bench>
+
+* **[hammadhaqqani/awesome-devops-ai](ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md)** (`mcp-server` | `useful` tier)
+  * Summary: A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
+  * Tags: `agents`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/hammadhaqqani/awesome-devops-ai>
+
 * **[HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems](ai/research/hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11963v1 Announce Type: new Abstract: Neural operators provide a powerful framework for learning solution mappings of partial differential equations directly in function space. However, many existing architectures still struggle to represen
   * Source URL: <https://arxiv.org/abs/2606.11963>
@@ -232,6 +272,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.19502v2 Announce Type: replace Abstract: Agentic AI systems are increasingly capable of autonomous data science workflows, yet clinical prediction tasks demand domain expertise that purely automated approaches struggle to provide. We inves
   * Tags: `agents`, `workflows`
   * Source URL: <https://arxiv.org/abs/2602.19502>
+
+* **[humanlaya/OneMillion-Bench](ai/agents/humanlaya-onemillion-bench-43fc9d.md)** (`benchmark` | `useful` tier)
+  * Summary: Evals Harness for $OneMillion-Bench
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`
+  * Source URL: <https://github.com/humanlaya/OneMillion-Bench>
 
 * **[i-am-bee/beeai-framework](ai/agents/i-am-bee-beeai-framework-ec9cc6.md)** (`framework` | `essential` tier)
   * Summary: Build production-ready AI agents in both Python and Typescript.
@@ -258,10 +303,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11440>
 
+* **[iris-eval/mcp-server](ai/agents/iris-eval-mcp-server-ae72c8.md)** (`mcp-server` | `useful` tier)
+  * Summary: The agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets
+  * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `typescript`
+  * Source URL: <https://github.com/iris-eval/mcp-server>
+
 * **[iuyup/AgentFlow](ai/agents/iuyup-agentflow-fcffad.md)** (`benchmark` | `useful` tier)
   * Summary: Multi-Agent Collaboration Design Patterns Built on LangGraph with 10+ battle-tested patterns, each with complete code, architecture diagrams, and benchmarks.
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `workflows`
   * Source URL: <https://github.com/iuyup/AgentFlow>
+
+* **[jaypanchal18/production-ai-agents-and-llm-platform](ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md)** (`prompt` | `useful` tier)
+  * Summary: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large language models in production. It focuses on best practi
+  * Tags: `agents`, `github-repo`, `python`
+  * Source URL: <https://github.com/jaypanchal18/production-ai-agents-and-llm-platform>
+
+* **[jayta1314/awesome-ai-sre](ai/agents/jayta1314-awesome-ai-sre-480b87.md)** (`tool` | `useful` tier)
+  * Summary: Curate and explore a comprehensive list of AI-driven tools and resources tailored for Site Reliability Engineering tasks and challenges.
+  * Tags: `agents`, `github-repo`, `javascript`
+  * Source URL: <https://github.com/jayta1314/awesome-ai-sre>
 
 * **[Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents](ai/agents/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11349v1 Announce Type: new Abstract: In hierarchical reasoning, failures often originate at intermediate decision points where the agent commits to a wrong branch without recognizing that it lacks critical information. Rather than treating
@@ -331,6 +391,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
   * Tags: `agents`, `github-repo`, `go`
   * Source URL: <https://github.com/nixopus/nixopus>
+
+* **[NotPBShaw/awesome-ai-governance](ai/agents/notpbshaw-awesome-ai-governance-5252ed.md)** (`workflow` | `useful` tier)
+  * Summary: Curated list for policy-as-code, audit, agents, and LLM safety.
+  * Tags: `agents`, `github-repo`, `unknown`, `workflows`
+  * Source URL: <https://github.com/NotPBShaw/awesome-ai-governance>
+
+* **[nottelabs/open-operator-evals](ai/agents/nottelabs-open-operator-evals-3ce9be.md)** (`benchmark` | `useful` tier)
+  * Summary: Opensource benchmark evaluating web operators/agents performance
+  * Tags: `agents`, `benchmark`, `github-repo`, `python`, `scripts`
+  * Source URL: <https://github.com/nottelabs/open-operator-evals>
 
 * **[omrylcn/python-vs-js-langgraph](ai/agents/omrylcn-python-vs-js-langgraph-07de98.md)** (`benchmark` | `useful` tier)
   * Summary: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
@@ -421,6 +491,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11417>
 
+* **[sirius-zuo/devops-skills](ai/agents/sirius-zuo-devops-skills-7a2636.md)** (`prompt` | `useful` tier)
+  * Summary: A collection of DevOps skills designed for LLM-powered agents and AI workflows. This repository provides reusable capabilities, tools, prompts, and best-practice patterns to help automate infrastructure operations, CI/CD pipelines, cloud management,
+  * Tags: `agents`, `github-repo`, `scripts`, `shell`, `workflows`
+  * Source URL: <https://github.com/sirius-zuo/devops-skills>
+
 * **[Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task](ai/agents/skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11830v1 Announce Type: new Abstract: Background. Large language models and AI agents are increasingly used to support biomedical research, but native model outputs may omit key analytical steps, misuse methods, or overstate conclusions. We
   * Tags: `agents`, `models`
@@ -440,6 +515,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11632v1 Announce Type: cross Abstract: Agentic infrastructure introduces a critical control-plane authorization problem: non-deterministic reasoning systems can propose high-stakes mutations to production resources, yet existing security m
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11632>
+
+* **[sumanth-dhanya/llm-toolkit](ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md)** (`benchmark` | `useful` tier)
+  * Summary: A curated list of awesome LLM tools
+  * Tags: `agents`, `github-repo`, `python`
+  * Source URL: <https://github.com/sumanth-dhanya/llm-toolkit>
 
 * **[SWE-agent/SWE-agent](ai/agents/swe-agent-swe-agent-3962b1.md)** (`tool` | `useful` tier)
   * Summary: SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -461,6 +541,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12372>
 
+* **[vstorm-co/awesome-pydantic-ai](ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md)** (`framework` | `useful` tier)
+  * Summary: An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
+  * Tags: `agents`, `github-repo`, `unknown`
+  * Source URL: <https://github.com/vstorm-co/awesome-pydantic-ai>
+
 * **[wassim249/fastapi-langgraph-agent-production-ready-template](ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md)** (`template` | `essential` tier)
   * Summary: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services.
   * Tags: `agents`, `github-repo`, `python`
@@ -470,6 +555,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11816v1 Announce Type: cross Abstract: Forecasting real-world events requires language-model agents to reason under uncertainty from incomplete, time-bounded information. Yet evaluating whether agents genuinely forecast requires more than
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11816>
+
+* **[zhihao1998/LLM4NetLab](ai/agents/zhihao1998-llm4netlab-38cec0.md)** (`benchmark` | `useful` tier)
+  * Summary: An open benchmarking platform to build and evaluate AI agents on network troubleshooting with low operational effort. Lightening paper accepted at the ACM SIGCOMM 2025 1st Workshop on Next-Generation Network Observability (NGNO).
+  * Tags: `agents`, `benchmark`, `github-repo`, `paper`, `python`
+  * Source URL: <https://github.com/zhihao1998/LLM4NetLab>
 
 * **[Zijian-Ni/awesome-ai-agents-2026](ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md)** (`framework` | `useful` tier)
   * Summary: 🤖 A curated list of AI Agent frameworks, tools, platforms, and resources for 2026 — the year agents went mainstream
@@ -498,7 +588,29 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `hackernews`, `models`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents>
 
+## Ai — Resources
+
+* **[brandonhimpfen/awesome-llmops](ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md)** (`reference` | `reference` tier)
+  * Summary: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
+  * Tags: `github-repo`, `python`
+  * Source URL: <https://github.com/brandonhimpfen/awesome-llmops>
+
+* **[Mattbusel/awesome-llm-infra](ai/resources/mattbusel-awesome-llm-infra-c029cb.md)** (`reference` | `reference` tier)
+  * Summary: Curated list of production LLM infrastructure — runtimes, clients, observability, safety, memory, and finance
+  * Tags: `github-repo`, `unknown`
+  * Source URL: <https://github.com/Mattbusel/awesome-llm-infra>
+
+* **[tensorchord/awesome-llmops](ai/resources/tensorchord-awesome-llmops-c723f0.md)** (`reference` | `reference` tier)
+  * Summary: An awesome & curated list of best LLMOps tools for developers
+  * Tags: `github-repo`, `shell`
+  * Source URL: <https://github.com/tensorchord/awesome-llmops>
+
 ## Automation Workflows
+
+* **[10 LLM Observability Tools to Evaluate & Monitor AI in 2026 - Confident AI](ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md)** (`dataset` | `useful` tier)
+  * Summary: Jeffrey Ip, Co-founder @ Confident AICreator of DeepEval & DeepTeam. Building an unhealthy LLM evals addiction. Ex-Googler (YouTube), Microsoft AI (Office365).Last edited on May 31, 2026TL;DR — 10 LLM Observability Tools to Evaluate & Monitor AI in 2
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.confident-ai.com/knowledge-base/compare/10-llm-observability-tools-to-evaluate-and-monitor-ai-2026>
 
 * **[10 Most Useful RAG Application & Use Cases [Real World Example]](ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md)** (`dataset` | `useful` tier)
   * Summary: 10 RAG Use Cases and Real-World Applications with Examples (2026) AI-ML Updated On May 5, 2026 7 min to readArun Kumar Technology Lead Try BotPenguin Table of Contents What Is a RAG ? What is RAG Application Why Businesses are Switching to RAG Real-W
@@ -560,6 +672,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
+* **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rarisma. Score: 158, Comments: 148. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+  * Tags: `ai`, `anthropic`, `hackernews`
+  * Source URL: <https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail>
+
 * **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by lebovic. Score: 414, Comments: 212. Original Link: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
   * Tags: `anthropic`, `hackernews`
@@ -569,6 +686,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by anhldbk. Score: 216, Comments: 107. Original Link: https://burr.apache.org/
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://burr.apache.org/>
+
+* **[Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md)** (`dataset` | `useful` tier)
+  * Summary: Simran Kumari for OpenObserve Posted on Mar 25 • Edited on May 18 • Originally published at openobserve.ai Best Open Source LLM Observability Tools in 2026: Complete Guide #opentelemetry #observability #llm #ai What Is LLM Observability? LLM observab
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://dev.to/openobserve/best-open-source-llm-observability-tools-in-2026-complete-guide-kn5>
 
 * **[Best Practices for AI Agent Implementations: Enterprise Guide 2026](ai/rag/best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md)** (`benchmark` | `useful` tier)
   * Summary: Home > Blog > Best Practices for AI Agent Implementations October 31, 2025 10 min read Best Practices for AI Agent Implementations Alla Slesarenko AI Governance & Accountability Agentic Impact Agentic Infrastructure Share article There is a clear CXO
@@ -600,6 +722,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.askpython.com/python/examples/building-rag-applications-with-python>
 
+* **[ChiggyJain/PythonLangSmithTutorial](ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md)** (`benchmark` | `useful` tier)
+  * Summary: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, showcasing best practices for observability and tracing w
+  * Tags: `agents`, `github-repo`, `python`, `rag`, `workflows`
+  * Source URL: <https://github.com/ChiggyJain/PythonLangSmithTutorial>
+
 * **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by speckx. Score: 427, Comments: 378. Original Link: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
   * Tags: `ai`, `anthropic`, `hackernews`
@@ -624,6 +751,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate useful pentest reports for your websites.
   * Tags: `agents`, `anthropic`, `github-repo`, `python`, `rag`, `scripts`, `workflows`
   * Source URL: <https://github.com/fzn0x/watchtower>
+
+* **[How Terry Tao became an evangelist for AI in math](ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Tomte. Score: 47, Comments: 20. Original Link: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/>
 
 * **[How to Build a RAG System Companies Actually Use (Data Engineering View)](ai/rag/how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md)** (`tutorial` | `useful` tier)
   * Summary: Career Development|Success Stories|Tips and Tricks How to Build a RAG System Companies Actually Use (Data Engineering View) By: Chris Garzon | March 4, 2026 | 12 mins read Most people try to break into GenAI work by collecting tools like trophies. Th
@@ -770,6 +902,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12231>
 
+* **[Show HN: Claw Patrol, a security firewall for agents](ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rough-sea. Score: 38, Comments: 10. Original Link: https://github.com/denoland/clawpatrol
+  * Tags: `agents`, `hackernews`
+  * Source URL: <https://github.com/denoland/clawpatrol>
+
 * **[Show HN: HelixDB – A graph database built on object storage](ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by GeorgeCurtis. Score: 122, Comments: 36. Original Link: https://github.com/HelixDB/helix-db/tree/main
   * Tags: `hackernews`, `rag`
@@ -784,6 +921,26 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by 6stringmerc. Score: 17, Comments: 2. Original Link: https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5>
+
+* **[Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md)** (`dataset` | `useful` tier)
+  * Summary: ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don
+  * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.braintrust.dev/articles/top-10-llm-observability-tools-2025>
+
+* **[Top 7 LLM Observability Tools in 2026 - Confident AI](ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)** (`dataset` | `useful` tier)
+  * Summary: Kritin Vongthongsri, Co-founder @ Confident AILLM Evals & Safety Wizard. Previously ML + CS @ Princeton researching self-driving cars.Last edited on May 31, 2026TL;DR — Best LLM Observability Tools in 2026Confident AI is the best LLM observability to
+  * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.confident-ai.com/knowledge-base/compare/top-7-llm-observability-tools>
+
+* **[Top LLM Observability Tools in 2026 | SigNoz](ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md)** (`dataset` | `useful` tier)
+  * Summary: Top LLM Observability Tools in 2026Updated Feb 26, 202610 min readTL;DR SigNoz: Best for monitoring LLMs alongside full application observability. As a one-stop observability platform, it provides correlated traces, logs, and metrics, alerting, and u
+  * Tags: `agents`, `benchmark`, `dataset`, `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://signoz.io/comparisons/llm-observability-tools>
+
+* **[Top Open-Source LLM Observability Tools in 2025 | by The Practical Developer | Medium](ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md)** (`benchmark` | `useful` tier)
+  * Summary: Top Open-Source LLM Observability Tools in 2025The Practical Developer5 min read·Jun 20, 2025--ListenShareObjective overview with each tool listed.Press enter or click to view image in full sizeTop Open-Source LLM Observability ToolsTL;DRA curated li
+  * Tags: `anthropic`, `benchmark`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932>
 
 * **[VoltAgent/awesome-ai-agent-papers](ai/rag/voltagent-awesome-ai-agent-papers-1a1bc2.md)** (`benchmark` | `useful` tier)
   * Summary: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
@@ -998,6 +1155,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.00791v2 Announce Type: replace-cross Abstract: Verifying whether a language model is genuinely reasoning or pattern-matching remains an open problem: learned verifiers are expensive, and output-based heuristics are brittle. We show that va
   * Source URL: <https://arxiv.org/abs/2601.00791>
 
+* **[glgh/awesome-llm-human-preference-datasets](ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md)** (`dataset` | `useful` tier)
+  * Summary: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
+  * Tags: `dataset`, `github-repo`, `models`, `unknown`
+  * Source URL: <https://github.com/glgh/awesome-llm-human-preference-datasets>
+
 * **[GPO: Learning from Critical Steps to Improve LLM Reasoning](ai/research/gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2509.16456v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in various domains, showing impressive potential on different tasks. Recently, reasoning LLMs have been proposed to improve the \textit{reasoning}
   * Tags: `models`
@@ -1113,6 +1275,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11490v1 Announce Type: new Abstract: Indoor localization from wireless measurements remains challenging in large-scale deployments due to substantial variation in building geometry, the set of detectable access points (APs), and the hetero
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.11490>
+
+* **[onejune2018/Awesome-LLM-Eval](ai/rag/onejune2018-awesome-llm-eval-7498e7.md)** (`dataset` | `useful` tier)
+  * Summary: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. 一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.
+  * Tags: `benchmark`, `dataset`, `github-repo`, `leaderboard`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `unknown`
+  * Source URL: <https://github.com/onejune2018/Awesome-LLM-Eval>
 
 * **[OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models](ai/rag/openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.12169v1 Announce Type: cross Abstract: High-stakes clinical use of large vision-language models (LVLMs) requires reasoning that is grounded in visual evidence and clinical knowledge, not just correct final answers. We introduce OpenMedReas
@@ -1329,6 +1496,48 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11502v1 Announce Type: cross Abstract: Language models can state that "the Earth orbits the Sun" and, when role-playing Aristotle, assert the opposite. Recent work argues that persona adoption is fundamental to how language models operate,
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11502>
+
+## Evals And Benchmarks
+
+* **[abacaj/code-eval](ai/resources/abacaj-code-eval-d6eb4e.md)** (`benchmark` | `useful` tier)
+  * Summary: Run evaluation on LLMs using human-eval benchmark
+  * Tags: `benchmark`, `github-repo`, `python`
+  * Source URL: <https://github.com/abacaj/code-eval>
+
+* **[chris-koch-penn/gpt3_security_vulnerability_scanner](ai/resources/chris-koch-penn-gpt3-security-vulnerability-scanner-e952d6.md)** (`benchmark` | `useful` tier)
+  * Summary: GPT-3 found hundreds of security vulnerabilities in this repo - (this was the first real LLM cybersecurity eval!)
+  * Tags: `github-repo`, `php`
+  * Source URL: <https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner>
+
+* **[flexpa/llm-fhir-eval](ai/resources/flexpa-llm-fhir-eval-76465e.md)** (`framework` | `useful` tier)
+  * Summary: Benchmarking Large Language Models for FHIR
+  * Tags: `benchmark`, `github-repo`, `typescript`
+  * Source URL: <https://github.com/flexpa/llm-fhir-eval>
+
+* **[FormulaMonks/llm-benchmarker-suite](ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md)** (`benchmark` | `useful` tier)
+  * Summary: LLM Evals Leaderboard
+  * Tags: `benchmark`, `github-repo`, `leaderboard`, `python`
+  * Source URL: <https://github.com/FormulaMonks/llm-benchmarker-suite>
+
+* **[gpsandhu23/LLM_code_scanning_evals](ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md)** (`benchmark` | `useful` tier)
+  * Summary: Tests to measure effectiveness of LLMs at finding security issues in coede
+  * Tags: `github-repo`, `jupyter notebook`
+  * Source URL: <https://github.com/gpsandhu23/LLM_code_scanning_evals>
+
+* **[isumitsoni/awesome-ai-pm](ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md)** (`benchmark` | `useful` tier)
+  * Summary: A curated, opinionated list of resources for Product Managers navigating the AI era — tools, evals, learning resources, and practical guides. Updated by a practicing AI PM.
+  * Tags: `github-repo`, `unknown`
+  * Source URL: <https://github.com/isumitsoni/awesome-ai-pm>
+
+* **[itsderek23/awesome-eval-driven-development](ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md)** (`benchmark` | `useful` tier)
+  * Summary: A curated list of resources, projects, and products to help implement Eval-Driven-Development (EDD) for LLM-backed apps.
+  * Tags: `github-repo`, `unknown`
+  * Source URL: <https://github.com/itsderek23/awesome-eval-driven-development>
+
+* **[microsoft/a11y-llm-eval](ai/resources/microsoft-a11y-llm-eval-ad1fe4.md)** (`benchmark` | `useful` tier)
+  * Summary: An eval tool to benchmark how well LLMs generate accessible HTML
+  * Tags: `benchmark`, `github-repo`, `python`
+  * Source URL: <https://github.com/microsoft/a11y-llm-eval>
 
 ## Frontend Ai Ui
 
@@ -1577,6 +1786,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/vbenjs/vue-vben-admin>
 
+## Inference Local Llm
+
+* **[llamasearchai/OpenAGI-Customization](ai/resources/llamasearchai-openagi-customization-95727e.md)** (`api` | `essential` tier)
+  * Summary: Enterprise-grade LLM inference gateway providing a unified, production-ready API for OpenAI and Ollama. Built with best practices in observability, security, resilience, and performance.
+  * Tags: `github-repo`, `meta-ai`, `models`, `openai`, `unknown`
+  * Source URL: <https://github.com/llamasearchai/OpenAGI-Customization>
+
 ## Jobs Market
 
 * **[Probabilistic Salary Prediction with Graph Attention Networks and a Mixture Density Network](ai/research/probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md)** (`framework` | `useful` tier)
@@ -1638,10 +1854,20 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Model Providers
 
+* **[aigateway-sh/awesome-ai-gateway](ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md)** (`benchmark` | `useful` tier)
+  * Summary: A curated list of patterns, evals, and integrations for AIgateway and OpenAI-compatible gateways.
+  * Tags: `github-repo`, `openai`, `unknown`
+  * Source URL: <https://github.com/aigateway-sh/awesome-ai-gateway>
+
 * **[FuzzingLabs/mcp-security-hub](ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md)** (`mcp-server` | `useful` tier)
   * Summary: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
   * Tags: `anthropic`, `github-repo`, `python`
   * Source URL: <https://github.com/FuzzingLabs/mcp-security-hub>
+
+* **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/dxc-anthropic-alliance>
 
 * **[Learn more](ai/companies/deepmind/learn-more-eb1202.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
@@ -1657,6 +1883,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
   * Tags: `anthropic`, `github-repo`, `python`
   * Source URL: <https://github.com/mukul975/cve-mcp-server>
+
+* **[openai/evals](ai/resources/openai-evals-2c8be2.md)** (`framework` | `useful` tier)
+  * Summary: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+  * Tags: `benchmark`, `github-repo`, `openai`, `python`
+  * Source URL: <https://github.com/openai/evals>
 
 ## Project Ideas
 
@@ -6497,6 +6728,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/shadcnstore/shadcn-dashboard-landing-template>
 
+* **[Top LLM Observability platforms 2025](ai/rag/top-llm-observability-platforms-2025-2f1155.md)** (`dataset` | `useful` tier)
+  * Summary: PricingDocsBlogResourcesCommunityBook a demoGet startedGet startedPricingDocsBlogResourcesTutorialGet started with Agenta.aiChangelogView our latest releasesRoadmapView our strategyCommunityGithubSlackYoutubeLinkedinX / TwitterBook a demoBook a demoG
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://agenta.ai/blog/top-llm-observability-platforms>
+
 ## Vector Databases
 
 * **[adisystems/fmbench-assistant](ai/rag/adisystems-fmbench-assistant-a1c1b2.md)** (`benchmark` | `useful` tier)
@@ -6513,6 +6749,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.23243v2 Announce Type: replace-cross Abstract: We evaluate whether frontier LLMs are ready for cybersecurity through a dual-mode benchmark: white-box function-level vulnerability detection (VulnLLM-R, across C/Java/Python) and black-box we
   * Tags: `agents`, `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2605.23243>
+
+* **[Bhaskar-Kurasala/AI-Arch-Hub](ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md)** (`tool` | `useful` tier)
+  * Summary: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, quantization, and AI observability to bridge cutting-ed
+  * Tags: `github-repo`, `models`, `paper`, `rag`, `unknown`
+  * Source URL: <https://github.com/Bhaskar-Kurasala/AI-Arch-Hub>
 
 * **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md)** (`prompt` | `useful` tier)
   * Summary: On this pageOverviewConceptsPreviewSetupInstallationLangSmithComponents1. IndexingLoading documentsSplitting documentsStoring documents2. Retrieval and generationRAG agentsRAG chainsSecurity: indirect prompt injectionNext stepsTutorialsLangChainBuild
@@ -6739,6 +6980,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.12215>
 
+* **[modelscope/evalscope](ai/rag/modelscope-evalscope-8bc7f2.md)** (`framework` | `useful` tier)
+  * Summary: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
+  * Tags: `benchmark`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/modelscope/evalscope>
+
 * **[Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret](ai/rag/momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md)** (`api` | `useful` tier)
   * Summary: arXiv:2602.11995v2 Announce Type: replace Abstract: In large-scale data processing scenarios, data often arrive in sequential streams generated by complex systems that exhibit drifting distributions and time-varying system parameters. This nonstation
   * Tags: `rag`
@@ -6763,6 +7009,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.00424v2 Announce Type: replace Abstract: Continuous-time generative models for crystalline materials enable inverse materials design by learning to predict stable crystal structures, but incorporating explicit target properties into the ge
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.00424>
+
+* **[our-never-ending-job/awesome-rag-debugging](ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md)** (`framework` | `useful` tier)
+  * Summary: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
+  * Tags: `benchmark`, `github-repo`, `rag`, `unknown`
+  * Source URL: <https://github.com/our-never-ending-job/awesome-rag-debugging>
 
 * **[ParticleMedia/RAGTruth](ai/rag/particlemedia-ragtruth-356286.md)** (`dataset` | `useful` tier)
   * Summary: Github repository for "RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models"
@@ -6839,10 +7090,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant>
 
+* **[sbalnojan/ai-chaos-awesome](ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md)** (`benchmark` | `useful` tier)
+  * Summary: Awesome list for AI chaos engineering: experiments, evaluations, guardrails & observability for LLM/RAG.
+  * Tags: `benchmark`, `github-repo`, `rag`, `unknown`
+  * Source URL: <https://github.com/sbalnojan/ai-chaos-awesome>
+
 * **[Semantic search for 100M+ galaxy images using AI-generated captions](ai/rag/semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2512.11982v2 Announce Type: replace-cross Abstract: Finding scientifically interesting phenomena through slow manual labeling campaigns severely limits our ability to explore the billions of galaxy images produced by telescopes. In this work, w
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.11982>
+
+* **[sjseo298/spring-ai-template](ai/rag/sjseo298-spring-ai-template-cb838b.md)** (`template` | `useful` tier)
+  * Summary: A modern starter template for building AI agents and applications using Java 21, Spring Boot 4, and Spring AI 2.0.0-M1. Pre-configured with OpenAI support, Maven Wrapper, and best practices for creating robust, typed, and observable AI systems.
+  * Tags: `agents`, `github-repo`, `java`, `openai`, `rag`
+  * Source URL: <https://github.com/sjseo298/spring-ai-template>
 
 * **[Spatially Masked Regression Reveals Local and Distributed Predictability in Electrophysiological Recordings](ai/rag/spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11415v1 Announce Type: cross Abstract: Neural recordings are often interpreted as local measurements, yet the signal at any one sensor can also reflect structured activity distributed across the broader network. This raises a basic questio

@@ -14,10 +14,10 @@ Curated highlights from the current week's collection, representing high-quality
 *   [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Score: 70) - Category: `ai-coding-agents/`
 *   [aden-hive/hive](https://github.com/aden-hive/hive) (Score: 70) - Category: `ai-coding-agents/`
 *   [affaan-m/agentshield](https://github.com/affaan-m/agentshield) (Score: 70) - Category: `ai-coding-agents/`
+*   [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) (Score: 70) - Category: `ai-coding-agents/`
 *   [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/abs/2606.12191) (Score: 70) - Category: `ai-coding-agents/`
 *   [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](https://arxiv.org/abs/2606.05608) (Score: 70) - Category: `ai-coding-agents/`
+*   [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (Score: 70) - Category: `ai-coding-agents/`
 *   [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](https://arxiv.org/abs/2606.11869) (Score: 70) - Category: `ai-coding-agents/`
-*   [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Score: 70) - Category: `ai-coding-agents/`
-*   [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

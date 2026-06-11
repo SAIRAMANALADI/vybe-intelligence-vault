@@ -19,29 +19,39 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 74 resources matched in the intelligence vault.
+Active signals: 78 resources matched in the intelligence vault.
 Recently detected signals:
+- [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md) (Source: Web Discovery) - Collected 2026-06-11
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with-intel-technologies-e51135.md) (Source: Hugging Face Blog) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 1. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
+- Stars: 16
+- Language: Python
+- Description: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
+
+### 2. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 960
 - Language: Jupyter Notebook
 - Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 
-### 2. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
+### 3. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+- Stars: 13
+- Language: Python
+- Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
+
+### 4. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
 - Stars: 821
 - Language: Python
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 3. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+### 5. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
 - Stars: 0
 - Language: Jupyter Notebook
 - Description: No description provided.
@@ -66,4 +76,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T17:36:17.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.612142+00:00.770750+00:00.526983+00:00.

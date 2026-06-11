@@ -23,9 +23,9 @@ https://github.com/n8n-io/n8n (n8n)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [langgenius/dify](https://github.com/langgenius/dify)
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
+- [FailproofAI/ai-reliability-standards](https://github.com/FailproofAI/ai-reliability-standards)
 - [FuzzingLabs/secpipe](https://github.com/FuzzingLabs/secpipe)
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent)
-- [HeJiguang/codescan](https://github.com/HeJiguang/codescan)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-11 17:43 UTC*
+*Last updated: 2026-06-11 18:12 UTC*

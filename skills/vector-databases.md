@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 272 resources matched in the intelligence vault.
+Active signals: 286 resources matched in the intelligence vault.
 Recently detected signals:
-- [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [fzn0x/watchtower](../ai/rag/fzn0x-watchtower-8ee128.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template-cb838b.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md) (Source: Web Discovery) - Collected 2026-06-11
+- [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) (Source: GitHub Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -100,147 +100,172 @@ Recently detected signals:
 - Language: TypeScript
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 15. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag-4d6bd8.md) ([GitHub](https://github.com/XMUDeepLIT/MemGraphRAG))
+### 15. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template-cb838b.md) ([GitHub](https://github.com/sjseo298/spring-ai-template))
+- Stars: 0
+- Language: Java
+- Description: A modern starter template for building AI agents and applications using Java 21, Spring Boot 4, and Spring AI 2.0.0-M1. Pre-configured with OpenAI support, Maven Wrapper, and best practices for cre...
+
+### 16. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag-4d6bd8.md) ([GitHub](https://github.com/XMUDeepLIT/MemGraphRAG))
 - Stars: 91
 - Language: Python
 - Description: [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 
-### 16. [zjunlp/LightMem](../ai/rag/zjunlp-lightmem-98f76a.md) ([GitHub](https://github.com/zjunlp/LightMem))
+### 17. [zjunlp/LightMem](../ai/rag/zjunlp-lightmem-98f76a.md) ([GitHub](https://github.com/zjunlp/LightMem))
 - Stars: 918
 - Language: Python
 - Description: [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 
-### 17. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research-56aac8.md) ([GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research))
+### 18. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research-56aac8.md) ([GitHub](https://github.com/DavidZWZ/Awesome-Deep-Research))
 - Stars: 762
 - Language: Unknown
 - Description: [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources
 
-### 18. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
+### 19. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
 - Stars: 432
 - Language: Python
 - Description: Comprehensive ML/AI interview codex with iterative system design, production-ready code, and 2026 standards. Includes LLM/GenAI, RAG systems, agentic AI, and algorithms from scratch.
 
-### 19. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md) ([GitHub](https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System))
+### 20. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md) ([GitHub](https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System))
 - Stars: 16
 - Language: Python
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 20. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem-ee2903.md) ([GitHub](https://github.com/TIMAN-group/PlugMem))
+### 21. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem-ee2903.md) ([GitHub](https://github.com/TIMAN-group/PlugMem))
 - Stars: 146
 - Language: Python
 - Description: ICML 2026 · Plug-and-play long-term memory for LLM agents
 
-### 21. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower-8ee128.md) ([GitHub](https://github.com/fzn0x/watchtower))
+### 22. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower-8ee128.md) ([GitHub](https://github.com/fzn0x/watchtower))
 - Stars: 141
 - Language: Python
 - Description: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate...
 
-### 22. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag-a9feef.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+### 23. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag-a9feef.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
 - Stars: 8476
 - Language: Python
 - Description: RAG https://datawhalechina.github.io/all-in-rag/
 
-### 23. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
+### 24. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
 - Stars: 821
 - Language: Python
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 24. [HKUDS/VideoRAG](../ai/rag/hkuds-videorag-4b9ad5.md) ([GitHub](https://github.com/HKUDS/VideoRAG))
+### 25. [HKUDS/VideoRAG](../ai/rag/hkuds-videorag-4b9ad5.md) ([GitHub](https://github.com/HKUDS/VideoRAG))
 - Stars: 3056
 - Language: Python
 - Description: [KDD'2026] "VideoRAG: Chat with Your Videos"
 
-### 25. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe-05af75.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
+### 26. [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe-05af75.md) ([GitHub](https://github.com/datawhalechina/llm-universe))
 - Stars: 13234
 - Language: Jupyter Notebook
 - Description: https://datawhalechina.github.io/llm-universe/
 
-### 26. [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag-d454a8.md) ([GitHub](https://github.com/DEEP-PolyU/LinearRAG))
+### 27. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) ([GitHub](https://github.com/ChiggyJain/PythonLangSmithTutorial))
+- Stars: 0
+- Language: Python
+- Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
+
+### 28. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
+- Stars: 0
+- Language: Unknown
+- Description: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
+
+### 29. [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag-d454a8.md) ([GitHub](https://github.com/DEEP-PolyU/LinearRAG))
 - Stars: 505
 - Language: Python
 - Description: [ICLR 2026] LinearRAG: Linear Graph Retrieval Augmented Generation on Large-scale Corpora
 
-### 27. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth-356286.md) ([GitHub](https://github.com/ParticleMedia/RAGTruth))
+### 30. [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth-356286.md) ([GitHub](https://github.com/ParticleMedia/RAGTruth))
 - Stars: 252
 - Language: Python
 - Description: Github repository for "RAGTruth: A Hallucination Corpus for Developing Trustworthy Retrieval-Augmented Language Models"
 
-### 28. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag-15a159.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
+### 31. [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag-15a159.md) ([GitHub](https://github.com/datawhalechina/wow-rag))
 - Stars: 232
 - Language: Jupyter Notebook
 - Description: A simple and trans-platform rag framework and tutorial
 
-### 29. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag-37f2de.md) ([GitHub](https://github.com/wgcyeo/UniversalRAG))
+### 32. [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag-37f2de.md) ([GitHub](https://github.com/wgcyeo/UniversalRAG))
 - Stars: 170
 - Language: Python
 - Description: [ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
 
-### 30. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) ([GitHub](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant))
+### 33. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) ([GitHub](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant))
 - Stars: 0
 - Language: Python
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 31. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial-4a009e.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
+### 34. [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial-4a009e.md) ([GitHub](https://github.com/pixegami/langchain-rag-tutorial))
 - Stars: 961
 - Language: Python
 - Description: A simple Langchain RAG application.
 
-### 32. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2-0feb8c.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+### 35. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2-0feb8c.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 952
 - Language: Python
 - Description: An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and testing.
 
-### 33. [EternityJune25/ComoRAG](../ai/rag/eternityjune25-comorag-31b67e.md) ([GitHub](https://github.com/EternityJune25/ComoRAG))
+### 36. [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md) ([GitHub](https://github.com/sbalnojan/ai-chaos-awesome))
+- Stars: 6
+- Language: Unknown
+- Description: Awesome list for AI chaos engineering: experiments, evaluations, guardrails & observability for LLM/RAG.
+
+### 37. [EternityJune25/ComoRAG](../ai/rag/eternityjune25-comorag-31b67e.md) ([GitHub](https://github.com/EternityJune25/ComoRAG))
 - Stars: 337
 - Language: Python
 - Description: [AAAI 2026  Poster] ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long Narrative Reasoning
 
-### 34. [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials-26b315.md) ([GitHub](https://github.com/krishnaik06/RAG-Tutorials))
+### 38. [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials-26b315.md) ([GitHub](https://github.com/krishnaik06/RAG-Tutorials))
 - Stars: 331
 - Language: Jupyter Notebook
 - Description: No description provided.
 
-### 35. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat-f8d0fd.md) ([GitHub](https://github.com/SylphAI-Inc/GithubChat))
+### 39. [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat-f8d0fd.md) ([GitHub](https://github.com/SylphAI-Inc/GithubChat))
 - Stars: 99
 - Language: Python
 - Description: A practical RAG where you can download and chat with github repo
 
-### 36. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial-cf7e1b.md) ([GitHub](https://github.com/techwithtim/Langflow-RAG-Tutorial))
+### 40. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial-cf7e1b.md) ([GitHub](https://github.com/techwithtim/Langflow-RAG-Tutorial))
 - Stars: 94
 - Language: Unknown
 - Description: No description provided.
 
-### 37. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com-19eaaf.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
+### 41. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com-19eaaf.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
 - Stars: 30
 - Language: HTML
 - Description: raganwald.com jekyll source
 
-### 38. [malonge/RaGOO](../ai/rag/malonge-ragoo-da8e0a.md) ([GitHub](https://github.com/malonge/RaGOO))
+### 42. [malonge/RaGOO](../ai/rag/malonge-ragoo-da8e0a.md) ([GitHub](https://github.com/malonge/RaGOO))
 - Stars: 174
 - Language: Python
 - Description: RaGOO is no longer supported. Please use RagTag instead: https://github.com/malonge/RagTag
 
-### 39. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
+### 43. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
 - Stars: 6
 - Language: Python
 - Description: AI Assistant for FMBench (foundation model benchmarking tool)
 
-### 40. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow))
+### 44. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow))
 - Stars: 1
 - Language: Python
 - Description: icensraghomework-classroom01-rag2-hw02_workflow created by GitHub Classroom
 
-### 41. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md) ([GitHub](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository))
+### 45. [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md) ([GitHub](https://github.com/Bhaskar-Kurasala/AI-Arch-Hub))
+- Stars: 0
+- Language: Unknown
+- Description: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, qu...
+
+### 46. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md) ([GitHub](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository))
 - Stars: 0
 - Language: Python
 - Description: agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository created by GitHub Classroom
 
-### 42. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow))
+### 47. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow))
 - Stars: 0
 - Language: Python
 - Description: icensraghomework-classroom01-rag1-hw01_workflow created by GitHub Classroom
 
-### 43. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow-98cba9.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow))
+### 48. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow-98cba9.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
 - Language: Python
 - Description: icensraghomework-classroom01-rag3-hw03_workflow created by GitHub Classroom
@@ -265,4 +290,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T17:43:16.554606+00:00.718806+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.754784+00:00.935857+00:00.554606+00:00.718806+00:00.

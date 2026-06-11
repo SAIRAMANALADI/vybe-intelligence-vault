@@ -2678,6 +2678,24 @@
     "last_updated": "2026-06-11T13:06:57.795792+00:00"
   },
   {
+    "title": "agamm/awesome-ai-sre",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/agamm/awesome-ai-sre",
+    "local_path": "ai/agents/agamm-awesome-ai-sre-61d3c8.md",
+    "summary": "A curated list of 100+ AI-powered tools, platforms, and resources for Site Reliability Engineering (SRE) — agents, incident management, observability, AIOps, chaos engineering, and more.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tool",
+    "last_updated": "2026-06-11T18:10:49.248238+00:00"
+  },
+  {
     "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -2710,6 +2728,30 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.524424+00:00"
+  },
+  {
+    "title": "AgentOps-AI/agentops",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "github-repo",
+      "meta-ai",
+      "mistral",
+      "models",
+      "openai",
+      "python"
+    ],
+    "source_url": "https://github.com/AgentOps-AI/agentops",
+    "local_path": "ai/agents/agentops-ai-agentops-531eca.md",
+    "summary": "Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and CamelAI",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:05:13.379237+00:00"
   },
   {
     "title": "Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production",
@@ -3222,6 +3264,25 @@
     "last_updated": "2026-06-11T08:37:53.523300+00:00"
   },
   {
+    "title": "ChrisChen667788/Your-First-LLM-Studio",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "typescript"
+    ],
+    "source_url": "https://github.com/ChrisChen667788/Your-First-LLM-Studio",
+    "local_path": "ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md",
+    "summary": "First LLM Studio: local-first LLM studio for Apple Silicon with MLX runtimes, Compare Lab, benchmark ops, replay, and runtime telemetry.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:11:44.467119+00:00"
+  },
+  {
     "title": "cisco-ai-defense/mcp-scanner",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -3406,6 +3467,25 @@
     "last_updated": "2026-06-11T08:37:58.326148+00:00"
   },
   {
+    "title": "danielt69/awesome-agent-observability",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/danielt69/awesome-agent-observability",
+    "local_path": "ai/agents/danielt69-awesome-agent-observability-7eeb8b.md",
+    "summary": "A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:11:14.166191+00:00"
+  },
+  {
     "title": "DeepMath: A lightweight math reasoning Agent with smolagents",
     "category": "ai/agents",
     "section": "project-ideas",
@@ -3490,6 +3570,25 @@
     "archive_tier": "useful",
     "resource_kind": "product",
     "last_updated": "2026-06-11T13:07:02.545492+00:00"
+  },
+  {
+    "title": "dyronrh/awesome-agentops-landscape",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/dyronrh/awesome-agentops-landscape",
+    "local_path": "ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md",
+    "summary": "A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks and architecture guidance.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-11T18:10:54.145340+00:00"
   },
   {
     "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
@@ -3609,6 +3708,26 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.523065+00:00"
+  },
+  {
+    "title": "FailproofAI/ai-reliability-standards",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "dockerfile",
+      "github-repo",
+      "workflows"
+    ],
+    "source_url": "https://github.com/FailproofAI/ai-reliability-standards",
+    "local_path": "ai/agents/failproofai-ai-reliability-standards-6101a3.md",
+    "summary": "Architectural standards and best practices for building reliable AI Agents and LLM workflows. Defining the framework for AI Reliability Engineering (AIRE).",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:10:11.108505+00:00"
   },
   {
     "title": "FareedKhan-dev/production-grade-mcp-agentic-system",
@@ -3754,6 +3873,25 @@
     "last_updated": "2026-06-11T13:44:07.253141+00:00"
   },
   {
+    "title": "grafana/o11y-bench",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/grafana/o11y-bench",
+    "local_path": "ai/agents/grafana-o11y-bench-628889.md",
+    "summary": "Open benchmark on observability tasks built on Harbor",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:11:39.004438+00:00"
+  },
+  {
     "title": "Grounding Computer Use Agents on Human Demonstrations",
     "category": "ai/agents",
     "section": "project-ideas",
@@ -3769,6 +3907,24 @@
     "archive_tier": "useful",
     "resource_kind": "prompt",
     "last_updated": "2026-06-11T08:37:53.523998+00:00"
+  },
+  {
+    "title": "hammadhaqqani/awesome-devops-ai",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/hammadhaqqani/awesome-devops-ai",
+    "local_path": "ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md",
+    "summary": "A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "mcp-server",
+    "last_updated": "2026-06-11T18:10:59.034070+00:00"
   },
   {
     "title": "Haohao-end/openagent",
@@ -3978,6 +4134,25 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.523650+00:00"
+  },
+  {
+    "title": "humanlaya/OneMillion-Bench",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/humanlaya/OneMillion-Bench",
+    "local_path": "ai/agents/humanlaya-onemillion-bench-43fc9d.md",
+    "summary": "Evals Harness for $OneMillion-Bench",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:33.240349+00:00"
   },
   {
     "title": "i-am-bee/beeai-framework",
@@ -4215,6 +4390,26 @@
     "last_updated": "2026-06-11T08:37:58.332203+00:00"
   },
   {
+    "title": "iris-eval/mcp-server",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "github-repo",
+      "typescript"
+    ],
+    "source_url": "https://github.com/iris-eval/mcp-server",
+    "local_path": "ai/agents/iris-eval-mcp-server-ae72c8.md",
+    "summary": "The agent eval standard for MCP — score output quality, catch safety failures, enforce cost budgets",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "mcp-server",
+    "last_updated": "2026-06-11T18:05:53.306127+00:00"
+  },
+  {
     "title": "iuyup/AgentFlow",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -4249,6 +4444,42 @@
     "archive_tier": "useful",
     "resource_kind": "reference",
     "last_updated": "2026-06-11T08:37:58.327659+00:00"
+  },
+  {
+    "title": "jaypanchal18/production-ai-agents-and-llm-platform",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/jaypanchal18/production-ai-agents-and-llm-platform",
+    "local_path": "ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md",
+    "summary": "A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large language models in production. It focuses on best practi",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-11T18:10:23.981911+00:00"
+  },
+  {
+    "title": "jayta1314/awesome-ai-sre",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "javascript"
+    ],
+    "source_url": "https://github.com/jayta1314/awesome-ai-sre",
+    "local_path": "ai/agents/jayta1314-awesome-ai-sre-480b87.md",
+    "summary": "Curate and explore a comprehensive list of AI-driven tools and resources tailored for Site Reliability Engineering tasks and challenges.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tool",
+    "last_updated": "2026-06-11T18:11:24.016033+00:00"
   },
   {
     "title": "Jupyter Agents: training LLMs to reason with notebooks",
@@ -4596,6 +4827,45 @@
     "archive_tier": "useful",
     "resource_kind": "product",
     "last_updated": "2026-06-11T13:44:17.608342+00:00"
+  },
+  {
+    "title": "NotPBShaw/awesome-ai-governance",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "unknown",
+      "workflows"
+    ],
+    "source_url": "https://github.com/NotPBShaw/awesome-ai-governance",
+    "local_path": "ai/agents/notpbshaw-awesome-ai-governance-5252ed.md",
+    "summary": "Curated list for policy-as-code, audit, agents, and LLM safety.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T18:11:09.070572+00:00"
+  },
+  {
+    "title": "nottelabs/open-operator-evals",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "python",
+      "scripts"
+    ],
+    "source_url": "https://github.com/nottelabs/open-operator-evals",
+    "local_path": "ai/agents/nottelabs-open-operator-evals-3ce9be.md",
+    "summary": "Opensource benchmark evaluating web operators/agents performance",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:28.532546+00:00"
   },
   {
     "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
@@ -5076,6 +5346,26 @@
     "last_updated": "2026-06-11T08:37:53.522397+00:00"
   },
   {
+    "title": "sirius-zuo/devops-skills",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "scripts",
+      "shell",
+      "workflows"
+    ],
+    "source_url": "https://github.com/sirius-zuo/devops-skills",
+    "local_path": "ai/agents/sirius-zuo-devops-skills-7a2636.md",
+    "summary": "A collection of DevOps skills designed for LLM-powered agents and AI workflows. This repository provides reusable capabilities, tools, prompts, and best-practice patterns to help automate infrastructure operations, CI/CD pipelines, cloud management,",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-11T18:10:39.215657+00:00"
+  },
+  {
     "title": "Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory Multi-Model Human Evaluation in an NSCLC Transcriptomic Biomarker Task",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -5192,6 +5482,24 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-11T08:37:53.521868+00:00"
+  },
+  {
+    "title": "sumanth-dhanya/llm-toolkit",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/sumanth-dhanya/llm-toolkit",
+    "local_path": "ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md",
+    "summary": "A curated list of awesome LLM tools",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:04:38.459380+00:00"
   },
   {
     "title": "SWE-agent/SWE-agent",
@@ -5405,6 +5713,24 @@
     "last_updated": "2026-06-11T08:37:58.324130+00:00"
   },
   {
+    "title": "vstorm-co/awesome-pydantic-ai",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/vstorm-co/awesome-pydantic-ai",
+    "local_path": "ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md",
+    "summary": "An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:04:28.484032+00:00"
+  },
+  {
     "title": "wassim249/fastapi-langgraph-agent-production-ready-template",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -5520,6 +5846,26 @@
     "last_updated": "2026-06-11T08:37:53.522831+00:00"
   },
   {
+    "title": "zhihao1998/LLM4NetLab",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "github-repo",
+      "paper",
+      "python"
+    ],
+    "source_url": "https://github.com/zhihao1998/LLM4NetLab",
+    "local_path": "ai/agents/zhihao1998-llm4netlab-38cec0.md",
+    "summary": "An open benchmarking platform to build and evaluate AI agents on network troubleshooting with low operational effort. Lightening paper accepted at the ACM SIGCOMM 2025 1st Workshop on Next-Generation Network Observability (NGNO).",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:11:48.968551+00:00"
+  },
+  {
     "title": "Zijian-Ni/awesome-ai-agents-2026",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -5554,6 +5900,24 @@
     "archive_tier": "useful",
     "resource_kind": "workflow",
     "last_updated": "2026-06-11T09:24:43.478866+00:00"
+  },
+  {
+    "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "anthropic",
+      "hackernews"
+    ],
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "local_path": "ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md",
+    "summary": "Hacker News story by rarisma. Score: 158, Comments: 148. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T18:00:44.489397+00:00"
   },
   {
     "title": "Anthropic requires 30 day data retention for Fable and Mythos",
@@ -5607,6 +5971,23 @@
     "archive_tier": "useful",
     "resource_kind": "workflow",
     "last_updated": "2026-06-11T09:24:44.427433+00:00"
+  },
+  {
+    "title": "How Terry Tao became an evangelist for AI in math",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "local_path": "ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md",
+    "summary": "Hacker News story by Tomte. Score: 47, Comments: 20. Original Link: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T18:00:57.381924+00:00"
   },
   {
     "title": "Klondike Solitaire game for curses in 5k of C",
@@ -5675,6 +6056,23 @@
     "archive_tier": "useful",
     "resource_kind": "workflow",
     "last_updated": "2026-06-11T09:24:42.468947+00:00"
+  },
+  {
+    "title": "Show HN: Claw Patrol, a security firewall for agents",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "hackernews"
+    ],
+    "source_url": "https://github.com/denoland/clawpatrol",
+    "local_path": "ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md",
+    "summary": "Hacker News story by rough-sea. Score: 38, Comments: 10. Original Link: https://github.com/denoland/clawpatrol",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T18:00:54.101715+00:00"
   },
   {
     "title": "Show HN: HelixDB – A graph database built on object storage",
@@ -16151,6 +16549,35 @@
     "last_updated": "2026-06-11T13:05:21.887779+00:00"
   },
   {
+    "title": "10 LLM Observability Tools to Evaluate & Monitor AI in 2026 - Confident AI",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "dataset",
+      "frontend_ui",
+      "hackernews",
+      "meta-ai",
+      "models",
+      "openai",
+      "rag",
+      "reddit",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://www.confident-ai.com/knowledge-base/compare/10-llm-observability-tools-to-evaluate-and-monitor-ai-2026",
+    "local_path": "ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md",
+    "summary": "Jeffrey Ip, Co-founder @ Confident AICreator of DeepEval & DeepTeam. Building an unhealthy LLM evals addiction. Ex-Googler (YouTube), Microsoft AI (Office365).Last edited on May 31, 2026TL;DR — 10 LLM Observability Tools to Evaluate & Monitor AI in 2",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:23.219171+00:00"
+  },
+  {
     "title": "10 Most Useful RAG Application & Use Cases [Real World Example]",
     "category": "ai/rag",
     "section": "automation-workflows",
@@ -16690,6 +17117,32 @@
     "last_updated": "2026-06-11T08:37:53.523153+00:00"
   },
   {
+    "title": "Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "dataset",
+      "hackernews",
+      "meta-ai",
+      "models",
+      "openai",
+      "rag",
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://dev.to/openobserve/best-open-source-llm-observability-tools-in-2026-complete-guide-kn5",
+    "local_path": "ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md",
+    "summary": "Simran Kumari for OpenObserve Posted on Mar 25 • Edited on May 18 • Originally published at openobserve.ai Best Open Source LLM Observability Tools in 2026: Complete Guide #opentelemetry #observability #llm #ai What Is LLM Observability? LLM observab",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:12.578331+00:00"
+  },
+  {
     "title": "Best Practices for AI Agent Implementations: Enterprise Guide 2026",
     "category": "ai/rag",
     "section": "automation-workflows",
@@ -16740,6 +17193,26 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-11T13:05:25.059864+00:00"
+  },
+  {
+    "title": "Bhaskar-Kurasala/AI-Arch-Hub",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "github-repo",
+      "models",
+      "paper",
+      "rag",
+      "unknown"
+    ],
+    "source_url": "https://github.com/Bhaskar-Kurasala/AI-Arch-Hub",
+    "local_path": "ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md",
+    "summary": "A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, quantization, and AI observability to bridge cutting-ed",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tool",
+    "last_updated": "2026-06-11T18:10:34.074853+00:00"
   },
   {
     "title": "Bimanual Robot Manipulation via Multi-Agent In-Context Learning",
@@ -17084,6 +17557,26 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:55.799689+00:00"
+  },
+  {
+    "title": "ChiggyJain/PythonLangSmithTutorial",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "github-repo",
+      "python",
+      "rag",
+      "workflows"
+    ],
+    "source_url": "https://github.com/ChiggyJain/PythonLangSmithTutorial",
+    "local_path": "ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md",
+    "summary": "The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, showcasing best practices for observability and tracing w",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:10:29.017422+00:00"
   },
   {
     "title": "Code a simple RAG from scratch",
@@ -19308,6 +19801,25 @@
     "last_updated": "2026-06-11T08:37:53.521766+00:00"
   },
   {
+    "title": "modelscope/evalscope",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "python",
+      "rag"
+    ],
+    "source_url": "https://github.com/modelscope/evalscope",
+    "local_path": "ai/rag/modelscope-evalscope-8bc7f2.md",
+    "summary": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:05:03.247689+00:00"
+  },
+  {
     "title": "Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -19526,6 +20038,31 @@
     "last_updated": "2026-06-11T08:37:55.798720+00:00"
   },
   {
+    "title": "onejune2018/Awesome-LLM-Eval",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "benchmark",
+      "dataset",
+      "github-repo",
+      "leaderboard",
+      "meta-ai",
+      "models",
+      "openai",
+      "paper",
+      "rag",
+      "unknown"
+    ],
+    "source_url": "https://github.com/onejune2018/Awesome-LLM-Eval",
+    "local_path": "ai/rag/onejune2018-awesome-llm-eval-7498e7.md",
+    "summary": "Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. 一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界.",
+    "quality_score": 70,
+    "archive_score": 81,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:04:23.327201+00:00"
+  },
+  {
     "title": "Online Learning for Supervisory Switching Control",
     "category": "ai/rag",
     "section": "project-ideas",
@@ -19591,6 +20128,25 @@
     "archive_tier": "useful",
     "resource_kind": "dataset",
     "last_updated": "2026-06-11T08:37:53.523184+00:00"
+  },
+  {
+    "title": "our-never-ending-job/awesome-rag-debugging",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "rag",
+      "unknown"
+    ],
+    "source_url": "https://github.com/our-never-ending-job/awesome-rag-debugging",
+    "local_path": "ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md",
+    "summary": "A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:11:18.988984+00:00"
   },
   {
     "title": "Parquet Content-Defined Chunking",
@@ -20394,6 +20950,25 @@
     "last_updated": "2026-06-11T08:37:53.524200+00:00"
   },
   {
+    "title": "sbalnojan/ai-chaos-awesome",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "rag",
+      "unknown"
+    ],
+    "source_url": "https://github.com/sbalnojan/ai-chaos-awesome",
+    "local_path": "ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md",
+    "summary": "Awesome list for AI chaos engineering: experiments, evaluations, guardrails & observability for LLM/RAG.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:04:43.429936+00:00"
+  },
+  {
     "title": "SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation",
     "category": "ai/rag",
     "section": "project-ideas",
@@ -20474,6 +21049,26 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-11T08:37:53.522496+00:00"
+  },
+  {
+    "title": "sjseo298/spring-ai-template",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "agents",
+      "github-repo",
+      "java",
+      "openai",
+      "rag"
+    ],
+    "source_url": "https://github.com/sjseo298/spring-ai-template",
+    "local_path": "ai/rag/sjseo298-spring-ai-template-cb838b.md",
+    "summary": "A modern starter template for building AI agents and applications using Java 21, Spring Boot 4, and Spring AI 2.0.0-M1. Pre-configured with OpenAI support, Maven Wrapper, and best practices for creating robust, typed, and observable AI systems.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-11T18:10:44.121750+00:00"
   },
   {
     "title": "SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation",
@@ -20802,6 +21397,136 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-11T08:37:55.795997+00:00"
+  },
+  {
+    "title": "Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "creative_dev",
+      "dataset",
+      "hackernews",
+      "meta-ai",
+      "mistral",
+      "models",
+      "openai",
+      "rag",
+      "scripts",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://www.braintrust.dev/articles/top-10-llm-observability-tools-2025",
+    "local_path": "ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md",
+    "summary": "ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:16.945162+00:00"
+  },
+  {
+    "title": "Top 7 LLM Observability Tools in 2026 - Confident AI",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "benchmark",
+      "dataset",
+      "frontend_ui",
+      "hackernews",
+      "meta-ai",
+      "models",
+      "openai",
+      "rag",
+      "reddit",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://www.confident-ai.com/knowledge-base/compare/top-7-llm-observability-tools",
+    "local_path": "ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md",
+    "summary": "Kritin Vongthongsri, Co-founder @ Confident AILLM Evals & Safety Wizard. Previously ML + CS @ Princeton researching self-driving cars.Last edited on May 31, 2026TL;DR — Best LLM Observability Tools in 2026Confident AI is the best LLM observability to",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:29.799859+00:00"
+  },
+  {
+    "title": "Top LLM Observability platforms 2025",
+    "category": "ai/rag",
+    "section": "startup-builder",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "dataset",
+      "hackernews",
+      "openai",
+      "rag",
+      "reddit",
+      "scripts",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://agenta.ai/blog/top-llm-observability-platforms",
+    "local_path": "ai/rag/top-llm-observability-platforms-2025-2f1155.md",
+    "summary": "PricingDocsBlogResourcesCommunityBook a demoGet startedGet startedPricingDocsBlogResourcesTutorialGet started with Agenta.aiChangelogView our latest releasesRoadmapView our strategyCommunityGithubSlackYoutubeLinkedinX / TwitterBook a demoBook a demoG",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:17.950793+00:00"
+  },
+  {
+    "title": "Top LLM Observability Tools in 2026 | SigNoz",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "benchmark",
+      "dataset",
+      "openai",
+      "rag",
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://signoz.io/comparisons/llm-observability-tools",
+    "local_path": "ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md",
+    "summary": "Top LLM Observability Tools in 2026Updated Feb 26, 202610 min readTL;DR SigNoz: Best for monitoring LLMs alongside full application observability. As a one-stop observability platform, it provides correlated traces, logs, and metrics, alerting, and u",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:10:13.930739+00:00"
+  },
+  {
+    "title": "Top Open-Source LLM Observability Tools in 2025 | by The Practical Developer | Medium",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "anthropic",
+      "benchmark",
+      "meta-ai",
+      "models",
+      "openai",
+      "rag",
+      "web-crawled",
+      "workflows"
+    ],
+    "source_url": "https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932",
+    "local_path": "ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md",
+    "summary": "Top Open-Source LLM Observability Tools in 2025The Practical Developer5 min read·Jun 20, 2025--ListenShareObjective overview with each tool listed.Press enter or click to view image in full sizeTop Open-Source LLM Observability ToolsTL;DRA curated li",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:10:20.409727+00:00"
   },
   {
     "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
@@ -25513,6 +26238,24 @@
     "last_updated": "2026-06-11T08:37:55.798530+00:00"
   },
   {
+    "title": "abacaj/code-eval",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/abacaj/code-eval",
+    "local_path": "ai/resources/abacaj-code-eval-d6eb4e.md",
+    "summary": "Run evaluation on LLMs using human-eval benchmark",
+    "quality_score": 70,
+    "archive_score": 79,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:08.283937+00:00"
+  },
+  {
     "title": "acuvity/minibridge",
     "category": "ai/resources",
     "section": "mcp-registry",
@@ -25528,6 +26271,58 @@
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
     "last_updated": "2026-06-11T13:44:12.305890+00:00"
+  },
+  {
+    "title": "aigateway-sh/awesome-ai-gateway",
+    "category": "ai/resources",
+    "section": "model-providers",
+    "tags": [
+      "github-repo",
+      "openai",
+      "unknown"
+    ],
+    "source_url": "https://github.com/aigateway-sh/awesome-ai-gateway",
+    "local_path": "ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md",
+    "summary": "A curated list of patterns, evals, and integrations for AIgateway and OpenAI-compatible gateways.",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:04:53.364897+00:00"
+  },
+  {
+    "title": "brandonhimpfen/awesome-llmops",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/brandonhimpfen/awesome-llmops",
+    "local_path": "ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md",
+    "summary": "A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-11T18:11:34.046549+00:00"
+  },
+  {
+    "title": "chris-koch-penn/gpt3_security_vulnerability_scanner",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "github-repo",
+      "php"
+    ],
+    "source_url": "https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner",
+    "local_path": "ai/resources/chris-koch-penn-gpt3-security-vulnerability-scanner-e952d6.md",
+    "summary": "GPT-3 found hundreds of security vulnerabilities in this repo - (this was the first real LLM cybersecurity eval!)",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:43.337324+00:00"
   },
   {
     "title": "cyproxio/mcp-for-security",
@@ -25566,6 +26361,43 @@
     "last_updated": "2026-06-11T13:42:42.145659+00:00"
   },
   {
+    "title": "flexpa/llm-fhir-eval",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "typescript"
+    ],
+    "source_url": "https://github.com/flexpa/llm-fhir-eval",
+    "local_path": "ai/resources/flexpa-llm-fhir-eval-76465e.md",
+    "summary": "Benchmarking Large Language Models for FHIR",
+    "quality_score": 70,
+    "archive_score": 81,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:05:23.240939+00:00"
+  },
+  {
+    "title": "FormulaMonks/llm-benchmarker-suite",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "leaderboard",
+      "python"
+    ],
+    "source_url": "https://github.com/FormulaMonks/llm-benchmarker-suite",
+    "local_path": "ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md",
+    "summary": "LLM Evals Leaderboard",
+    "quality_score": 70,
+    "archive_score": 81,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:18.308816+00:00"
+  },
+  {
     "title": "FuzzingLabs/mcp-security-hub",
     "category": "ai/resources",
     "section": "model-providers",
@@ -25601,6 +26433,76 @@
     "last_updated": "2026-06-11T13:11:44.216576+00:00"
   },
   {
+    "title": "glgh/awesome-llm-human-preference-datasets",
+    "category": "ai/resources",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "github-repo",
+      "models",
+      "unknown"
+    ],
+    "source_url": "https://github.com/glgh/awesome-llm-human-preference-datasets",
+    "local_path": "ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md",
+    "summary": "A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.",
+    "quality_score": 70,
+    "archive_score": 79,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T18:04:18.336996+00:00"
+  },
+  {
+    "title": "gpsandhu23/LLM_code_scanning_evals",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "github-repo",
+      "jupyter notebook"
+    ],
+    "source_url": "https://github.com/gpsandhu23/LLM_code_scanning_evals",
+    "local_path": "ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md",
+    "summary": "Tests to measure effectiveness of LLMs at finding security issues in coede",
+    "quality_score": 70,
+    "archive_score": 79,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:48.399165+00:00"
+  },
+  {
+    "title": "isumitsoni/awesome-ai-pm",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/isumitsoni/awesome-ai-pm",
+    "local_path": "ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md",
+    "summary": "A curated, opinionated list of resources for Product Managers navigating the AI era — tools, evals, learning resources, and practical guides. Updated by a practicing AI PM.",
+    "quality_score": 70,
+    "archive_score": 79,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:04:48.282759+00:00"
+  },
+  {
+    "title": "itsderek23/awesome-eval-driven-development",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/itsderek23/awesome-eval-driven-development",
+    "local_path": "ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md",
+    "summary": "A curated list of resources, projects, and products to help implement Eval-Driven-Development (EDD) for LLM-backed apps.",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:04:33.461431+00:00"
+  },
+  {
     "title": "jlbadano/ig-mcp",
     "category": "ai/resources",
     "section": "mcp-registry",
@@ -25616,6 +26518,61 @@
     "archive_tier": "essential",
     "resource_kind": "mcp-server",
     "last_updated": "2026-06-11T13:44:02.105912+00:00"
+  },
+  {
+    "title": "llamasearchai/OpenAGI-Customization",
+    "category": "ai/resources",
+    "section": "inference-local-llm",
+    "tags": [
+      "github-repo",
+      "meta-ai",
+      "models",
+      "openai",
+      "unknown"
+    ],
+    "source_url": "https://github.com/llamasearchai/OpenAGI-Customization",
+    "local_path": "ai/resources/llamasearchai-openagi-customization-95727e.md",
+    "summary": "Enterprise-grade LLM inference gateway providing a unified, production-ready API for OpenAI and Ollama. Built with best practices in observability, security, resilience, and performance.",
+    "quality_score": 70,
+    "archive_score": 87,
+    "archive_tier": "essential",
+    "resource_kind": "api",
+    "last_updated": "2026-06-11T18:10:18.813915+00:00"
+  },
+  {
+    "title": "Mattbusel/awesome-llm-infra",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "github-repo",
+      "unknown"
+    ],
+    "source_url": "https://github.com/Mattbusel/awesome-llm-infra",
+    "local_path": "ai/resources/mattbusel-awesome-llm-infra-c029cb.md",
+    "summary": "Curated list of production LLM infrastructure — runtimes, clients, observability, safety, memory, and finance",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-11T18:11:04.140621+00:00"
+  },
+  {
+    "title": "microsoft/a11y-llm-eval",
+    "category": "ai/resources",
+    "section": "evals-and-benchmarks",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "python"
+    ],
+    "source_url": "https://github.com/microsoft/a11y-llm-eval",
+    "local_path": "ai/resources/microsoft-a11y-llm-eval-ad1fe4.md",
+    "summary": "An eval tool to benchmark how well LLMs generate accessible HTML",
+    "quality_score": 70,
+    "archive_score": 79,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T18:05:38.302033+00:00"
   },
   {
     "title": "mukul975/cve-mcp-server",
@@ -25634,6 +26591,25 @@
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
     "last_updated": "2026-06-11T13:43:41.985473+00:00"
+  },
+  {
+    "title": "openai/evals",
+    "category": "ai/resources",
+    "section": "model-providers",
+    "tags": [
+      "benchmark",
+      "github-repo",
+      "openai",
+      "python"
+    ],
+    "source_url": "https://github.com/openai/evals",
+    "local_path": "ai/resources/openai-evals-2c8be2.md",
+    "summary": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T18:04:58.846985+00:00"
   },
   {
     "title": "riseandignite/mcp-shield",
@@ -25685,6 +26661,41 @@
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
     "last_updated": "2026-06-11T13:43:32.058681+00:00"
+  },
+  {
+    "title": "tensorchord/awesome-llmops",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "github-repo",
+      "shell"
+    ],
+    "source_url": "https://github.com/tensorchord/awesome-llmops",
+    "local_path": "ai/resources/tensorchord-awesome-llmops-c723f0.md",
+    "summary": "An awesome & curated list of best LLMOps tools for developers",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-11T18:11:29.022995+00:00"
+  },
+  {
+    "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "category": "ai/companies/anthropic",
+    "section": "model-providers",
+    "tags": [
+      "anthropic",
+      "anthropic-news",
+      "blog-post"
+    ],
+    "source_url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "local_path": "ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md",
+    "summary": "Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+    "quality_score": 70,
+    "archive_score": 82,
+    "archive_tier": "useful",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-11T18:07:47.800041+00:00"
   },
   {
     "title": "May 28, 2026ProductIntroducing Claude Opus 4.8",
