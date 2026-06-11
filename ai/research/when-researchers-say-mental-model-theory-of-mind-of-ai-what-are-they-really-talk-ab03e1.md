@@ -1,0 +1,41 @@
+---
+title: When Researchers Say Mental Model/Theory of Mind of AI, What Are They Really
+  Talking About?
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2510.02660
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.523940+00:00'
+tags: []
+status: new
+---
+
+# When Researchers Say Mental Model/Theory of Mind of AI, What Are They Really Talking About?
+
+## Summary
+
+arXiv:2510.02660v2 Announce Type: replace-cross 
+Abstract: When researchers claim AI systems possess ToM or mental models, they are fundamentally discussing behavioral predictions and bias corrections rather than genuine mental states. This position paper argues that the current discourse conflates sophisticated pattern matching with authentic cognition, missing a crucial distinction between simulation and experience. While recent studies show LLMs achieving human-level performance on ToM laboratory tasks, these results are based only on behavioral mimicry. More importantly, the entire testing paradigm may be flawed in applying individual human cognitive tests to AI systems, but assessing human cognition directly in the moment of human-AI interaction. I suggest shifting focus toward mutual ToM frameworks that acknowledge the simultaneous contributions of human cognition and AI algorithms, emphasizing the interaction dynamics, instead of testing AI in isolation.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://arxiv.org/abs/2510.02660

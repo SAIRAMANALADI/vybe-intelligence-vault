@@ -1,0 +1,40 @@
+---
+title: 'SAGE: Scalable AI Governance & Evaluation'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2602.07840
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.524142+00:00'
+tags: []
+status: new
+---
+
+# SAGE: Scalable AI Governance & Evaluation
+
+## Summary
+
+arXiv:2602.07840v4 Announce Type: replace-cross 
+Abstract: Evaluating relevance in large-scale search systems is fundamentally constrained by the governance gap between nuanced, resource-constrained human oversight and the high-throughput requirements of production systems. While traditional approaches rely on engagement proxies or sparse manual review, these methods often fail to capture the full scope of high-impact relevance failures. We present \textbf{SAGE} (Scalable AI Governance \& Evaluation), a framework that operationalizes high-quality human product judgment as a scalable evaluation signal. At the core of SAGE is a bidirectional calibration loop where natural-language \emph{Policy}, curated \emph{Precedent}, and an \emph{LLM Surrogate Judge} co-evolve. SAGE systematically resolves semantic ambiguities and misalignments, transforming subjective relevance judgment into an executable, multi-dimensional rubric with near human-level agreement. To bridge the gap between frontier model reasoning and industrial-scale inference, we apply teacher-student distillation to transfer high-fidelity judgments into compact student surrogates at \textbf{92$\times$} lower cost. Deployed within LinkedIn Search ecosystems, SAGE guided model iteration through simulation-driven development, distilling policy-aligned models for online serving and enabling rapid offline evaluation. In production, it powered policy oversight that measured ramped model variants and detected regressions invisible to engagement metrics. Collectively, these drove a \textbf{0.25\%} lift in LinkedIn daily active users.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.07840

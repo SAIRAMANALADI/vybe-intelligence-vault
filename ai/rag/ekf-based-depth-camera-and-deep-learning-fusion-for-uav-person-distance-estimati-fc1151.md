@@ -1,0 +1,42 @@
+---
+title: EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation
+  and Following in SAR Operations
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2602.20958
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.524172+00:00'
+tags:
+- rag
+status: new
+---
+
+# EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations
+
+## Summary
+
+arXiv:2602.20958v2 Announce Type: replace-cross 
+Abstract: Vision-based Unmanned Aerial Vehicles (UAVs) frameworks aid human search tasks by detecting and recognizing specific individuals, then tracking and following them while maintaining a safe distance. A key safety requirement for UAV following is the accurate estimation of the distance between camera and target object under real-world conditions, achieved by fusing multiple image modalities. As part of the system for automatic people detection and face recognition using deep learning, in this paper we present the fusion of depth camera measurements and monocular camera-to-body distance estimation for robust tracking and following. Deep learning based filtering of depth camera data and estimation of camera-to-body distance from a monocular camera are achieved with YOLO-pose, enabling real-time fusion of depth information using the Extended Kalman Filter (EKF) algorithm. The proposed subsystem, designed for use in drones, estimates and measures the distance between the depth camera and the human body keypoints, to maintain the safe distance between the drone and the human target. Our system provides an accurate estimated distance, which has been validated against motion capture ground truth data. The system has been tested in real time indoors, where it reduces the average errors, RMSE and standard deviations of distance estimation up to 15,3% in three tested scenarios. Based on the test results, the EKF fusion-based approach increases the depth detection range by reducing the errors outside the optimal depth camera working range. It also shows improved robustness and precision in challenging conditions, such as reflections and poor visibility, making it suitable for SAR.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/rag
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- rag
+
+## Source
+
+Original source: https://arxiv.org/abs/2602.20958

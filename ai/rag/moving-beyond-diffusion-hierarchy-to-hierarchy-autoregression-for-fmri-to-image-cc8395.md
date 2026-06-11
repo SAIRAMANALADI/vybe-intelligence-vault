@@ -1,0 +1,42 @@
+---
+title: 'Moving Beyond Diffusion: Hierarchy-to-Hierarchy Autoregression for fMRI-to-Image
+  Reconstruction'
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2510.22335
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.523987+00:00'
+tags:
+- rag
+status: new
+---
+
+# Moving Beyond Diffusion: Hierarchy-to-Hierarchy Autoregression for fMRI-to-Image Reconstruction
+
+## Summary
+
+arXiv:2510.22335v2 Announce Type: replace-cross 
+Abstract: Reconstructing visual stimuli from fMRI signals is a central challenge bridging machine learning and neuroscience. Recent diffusion-based methods typically map fMRI activity to a single neural embedding, using it as static guidance throughout the entire generation process. However, this fixed guidance collapses hierarchical neural information and is misaligned with the stage-dependent demands of image reconstruction. In response, we propose MindHier, a coarse-to-fine fMRI-to-image reconstruction framework built on scale-wise autoregressive modeling. MindHier introduces three components: a Hierarchical fMRI Encoder to extract multi-level neural embeddings, a Hierarchy-to-Hierarchy Alignment scheme to enforce layer-wise correspondence with CLIP features, and a Scale-Aware Coarse-to-Fine Neural Guidance strategy to inject these embeddings into autoregression at matching scales. These designs make MindHier an efficient and cognitively aligned alternative to diffusion-based methods by enabling a hierarchical reconstruction process that synthesizes global semantics before refining local details, akin to human visual perception. Extensive experiments on the NSD dataset show that MindHier achieves superior semantic fidelity, 4.67$\times$ faster inference, and more deterministic results than the diffusion-based baselines.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/rag
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- rag
+
+## Source
+
+Original source: https://arxiv.org/abs/2510.22335

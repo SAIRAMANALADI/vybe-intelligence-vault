@@ -1,0 +1,42 @@
+---
+title: Task-Aligned Stability Analysis of Vision-Language Models for Autonomous Driving
+  Hazard Detection
+category: ai/agents
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.11889
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.522910+00:00'
+tags:
+- agents
+status: new
+---
+
+# Task-Aligned Stability Analysis of Vision-Language Models for Autonomous Driving Hazard Detection
+
+## Summary
+
+arXiv:2606.11889v1 Announce Type: cross 
+Abstract: Vision-language models (VLMs) are increasingly used for scene understanding in autonomous driving, but robustness analysis often relies on task-agnostic embedding stability alone. We study whether corruption-induced embedding drift predicts changes in a task-aligned hazard score derived from CLIP image-text similarities. Using controlled corruptions on BDD100K road scenes, we compare embedding drift against margin drift, defined as the change in hazard score under perturbation. The relationship is highly corruption-dependent: some families exhibit strong coupling between representation drift and decision drift, while others induce hazardous decision instability despite relatively modest embedding change. Furthermore, corruption families differ in failure direction: most suppress hazard detections via false negatives, while occlusion instead triggers false alarms, suggesting that benchmark design should account for asymmetric failure modes, not just overall instability rates. These results suggest that robustness benchmarks should include task-aligned stability measures in addition to embedding-level perturbation statistics.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/agents
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- agents
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11889

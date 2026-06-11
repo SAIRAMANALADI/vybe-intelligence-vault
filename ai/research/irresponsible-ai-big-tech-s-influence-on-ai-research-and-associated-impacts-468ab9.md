@@ -1,0 +1,40 @@
+---
+title: 'Irresponsible AI: big tech''s influence on AI research and associated impacts'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2512.03077
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.524005+00:00'
+tags: []
+status: new
+---
+
+# Irresponsible AI: big tech's influence on AI research and associated impacts
+
+## Summary
+
+arXiv:2512.03077v2 Announce Type: replace-cross 
+Abstract: The accelerated development, deployment and adoption of artificial intelligence systems has been fuelled by the increasing presence of big tech in the AI field. This trend has been accompanied by growing ethical concerns and intensified societal and environmental impacts. This position paper argues that irresponsible AI development is strongly driven by big tech's influence and involvement in the field. First, we examine the growing and disproportionate influence of big tech in AI research and argue that its drive for scaling and general-purpose systems is fundamentally at odds with the responsible, ethical, and sustainable development of AI. Second, we review key current environmental and societal negative impacts of AI and trace their connections to big tech's influence. Third, we discuss the underlying economic forces driving big tech's actions. Finally, as a call to action, we invite AI researchers to counter big tech's influence in irresponsible AI development through strategies that build on the responsibility of implicated actors and collective action.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://arxiv.org/abs/2512.03077

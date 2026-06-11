@@ -1,0 +1,41 @@
+---
+title: 'Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio
+  Separation Foundation Models'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.10046
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.524487+00:00'
+tags: []
+status: new
+---
+
+# Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models
+
+## Summary
+
+arXiv:2606.10046v2 Announce Type: replace-cross 
+Abstract: Flow-matching transformers achieve strong audio separation, yet their attention dynamics are opaque. We adapt established causal-intervention principles into a deterministic, inference-time probing protocol for SAM Audio. Orthogonal probing uncovers a dual-pathway text-conditioning mechanism: additive injections control semantic identity, while cross-attention refines acoustic structure. We observe an asynchronous layerwise convergence: stable layers build temporal scaffolds early, whereas fast layers continue resolving artifacts during sampling. The model also attenuates temporal segmentation cues to maintain continuous-flow stability. Using these insights, we propose Layer-Selective Attention Caching (LSAC), a training-free acceleration method that caches attention in stable layers. Across acoustic complexities, LSAC cuts self-attention computation by about ~25% with negligible quality loss and yields up to 6.7x higher quality retention than naive step reduction.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.10046

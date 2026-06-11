@@ -1,0 +1,42 @@
+---
+title: 'Litespark Inference For CPUs: Ultra-Fast SIMD Framework for Ternary (1.58-bit)
+  Language Models'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2605.06485
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.524284+00:00'
+tags:
+- models
+status: new
+---
+
+# Litespark Inference For CPUs: Ultra-Fast SIMD Framework for Ternary (1.58-bit) Language Models
+
+## Summary
+
+arXiv:2605.06485v2 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) have transformed artificial intelligence, but their computational requirements remain prohibitive for most users. Standard inference demands expensive datacenter GPUs or cloud API access, leaving over one billion personal computers underutilized for AI workloads. Ternary models offer a path forward: their weights are constrained to {-1, 0, +1}, theoretically eliminating the need for floating-point multiplication. However, existing frameworks fail to exploit this structure, treating ternary models as dense floating-point networks. We address this gap with custom SIMD kernels that replace matrix multiplication with simple addition and subtraction operations, targeting the integer dot product instructions available on modern CPUs. Our implementation, Litespark-Inference, is pip-installable and integrates directly with Hugging-Face, achieving 18.15x higher throughput, 7.15x faster time-to-first-token and 6.03x memory reduction compared to standard PyTorch inference on Apple Silicon, with comparable or higher throughput speedups up to 95.81x on Intel and AMD processors.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- models
+
+## Source
+
+Original source: https://arxiv.org/abs/2605.06485

@@ -1,0 +1,40 @@
+---
+title: 'T2MM: An LLM Supported Architecture For Inquiry-Based Modeling'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.11210
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.522070+00:00'
+tags: []
+status: new
+---
+
+# T2MM: An LLM Supported Architecture For Inquiry-Based Modeling
+
+## Summary
+
+arXiv:2606.11210v1 Announce Type: cross 
+Abstract: Model Construction is a foundational practice in science learning that relies on visualization and interactivity. Large Language Models, increasingly augmented with multimodal capabilities, have been integrated in education contexts to support learning. However, these tools lack visual interactivity that is required by some learning contexts. We introduce Text to Multimodal Model (T2MM), a robust, dynamic LLM supported architecture that assists in model construction within the open inquiry ecology-based modeling software Virtual Experimental Research Assistant (VERA). T2MM accounts for the current context of the learner's model and creates interactive models, rather than static images, enabling the model to remain responsive to manual adjustment. To measure technical feasibility, we evaluate T2MM through a custom procedurally generated dataset of natural language learner modeling requests and target models within the VERA system. T2MM outperforms a baseline model generation architecture implemented through LLM-supported full code generation, common in the literature, across all measured success metrics. Our contribution not only outlines LLM integration into a inquiry-based learning modeling tool, but also describes a possible architecture through which more interactive multimodal LLM tools can be created.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/research
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.11210

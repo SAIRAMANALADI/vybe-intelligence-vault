@@ -1,0 +1,41 @@
+---
+title: Runtime Enforcement of Hybrid System Properties
+category: ai/agents
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.12022
+published_at: '2026-06-10T22:30:00+00:00'
+collected_at: '2026-06-11T08:37:53.523096+00:00'
+tags:
+- agents
+status: new
+---
+
+# Runtime Enforcement of Hybrid System Properties
+
+## Summary
+
+arXiv:2606.12022v1 Announce Type: cross 
+Abstract: Runtime enforcement has emerged as a promising approach for ensuring the safety of autonomous and cyber-physical systems operating in uncertain and dynamic environments. Unlike traditional runtime verification, runtime enforcement actively intervenes during execution to prevent property violations by modifying unsafe system behaviors. Existing enforcement frameworks primarily focus on untimed or discrete-time specifications and are often limited to delaying or suppressing events, making them inadequate for reactive systems exhibiting complex continuous dynamics. In this paper, we propose a runtime enforcement framework where safety requirements are modeled using Hybrid Automata (HA). The framework combines discrete-event editing with continuous-time monitoring to support enforcement actions such as suppression, delay, and insertion of events at arbitrary time instants. Upon observing environmental inputs, the automaton is initialized, and runtime reachability analysis is used to synthesize safe corrective actions. We formally define the enforcement problem for safety hybrid automata, establish enforceability conditions, and present an online enforcement algorithm for reactive systems. A detailed case study on an Adaptive Cruise Control (ACC) system demonstrates the effectiveness of the proposed approach in maintaining safety properties under unsafe controller behaviors. Experimental results show that the framework introduces minimal computational overhead while ensuring continuous compliance with safety requirements in real time.
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: arXiv AI
+- Category: ai/agents
+- Published: 2026-06-10T22:30:00+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- agents
+
+## Source
+
+Original source: https://arxiv.org/abs/2606.12022
