@@ -19,6 +19,7 @@ An auto-updating open-source intelligence vault for AI agents, RAG systems, MCP 
 
 <p align="center">
   <a href="#why-this-vault-is-different">Why Different</a> ·
+  <a href="#vault-stats">Stats</a> ·
   <a href="#explore-the-vault">Explore</a> ·
   <a href="#living-skill-files">Living Skills</a> ·
   <a href="#start-building">Start Building</a> ·
@@ -27,17 +28,27 @@ An auto-updating open-source intelligence vault for AI agents, RAG systems, MCP 
 
 ---
 
-The AI internet moves fast.
+## The AI Internet Moves Fast
 
 New agents, tools, repos, prompts, papers, templates, workflows, and frameworks appear every day.
 
 Vybe Intelligence Vault tracks the signal and organizes it into a clean builder-friendly archive.
 
+This is not a static dump. It is a live AI builder intelligence vault.
+
 ---
 
-## What This Is
+## Vault Stats
 
-This is a public AI intelligence vault generated from public resources. It collects and organizes links, summaries, repositories, tools, templates, learning paths, project ideas, and skill signals across AI engineering and advanced web development.
+| Metric             | Count |
+| ------------------ | ----: |
+| Resources tracked  |  1742 |
+| Archive files      |  6837 |
+| Archive categories |    24 |
+| Builder maps       |     8 |
+| Learning paths     |     8 |
+| Build ideas        |     8 |
+| Best-of guides     |     6 |
 
 ---
 
@@ -67,6 +78,8 @@ This is a public AI intelligence vault generated from public resources. It colle
 | [Learning Paths](learning-paths/)       | 7-day learning paths for key skills                  |
 | [Examples](examples/)                   | How to use this vault with coding agents             |
 | [Stats](stats/)                         | Public vault stats and category counts               |
+| [Roadmap](ROADMAP.md)                   | Planned improvements and future direction            |
+| [Changelog](CHANGELOG.md)               | Latest meaningful vault updates                      |
 
 ---
 
@@ -91,38 +104,37 @@ This is a public AI intelligence vault generated from public resources. It colle
 
 The vault does not only save links. It continuously updates skill guides based on recent public GitHub repositories, tools, frameworks, docs, templates, and other useful public resources.
 
-Important:
 Stars and forks are bonus signals, not gatekeeping filters. A zero-star repository can still be included if it is fresh, relevant, and useful for builders.
 
 | Skill            | Updated signals                                  |
 | ---------------- | ------------------------------------------------ |
-| AI Agents        | frameworks, orchestration patterns, agent repos  |
-| RAG              | templates, vector databases, chunking, reranking |
-| MCP              | servers, tools, integrations, examples           |
-| LLMOps           | evals, tracing, monitoring, RAG evaluation       |
+| AI Agents        | Frameworks, orchestration patterns, agent repos  |
+| RAG              | Templates, vector databases, chunking, reranking |
+| MCP              | Servers, tools, integrations, examples           |
+| LLMOps           | Evals, tracing, monitoring, RAG evaluation       |
 | AI Coding Agents | Codex, Cursor, Windsurf, Claude Code, Cline      |
-| Frontend AI UI   | chat UI, dashboards, AI interfaces               |
-| 3D Web           | Three.js, R3F, WebGPU, shaders                   |
+| Frontend AI UI   | Chat UI, dashboards, AI interfaces               |
+| 3D Web           | Three.js, React Three Fiber, WebGPU, shaders     |
 | Automation       | n8n, Playwright, browser workflows               |
 
 ---
 
 ## Start Building
 
-| Start here               | Path                                                  |
-| ------------------------ | ----------------------------------------------------- |
-| Essential AI Engineering | workspace-archive/best-of/essential-ai-engineering.md |
-| Essential Agent Building | workspace-archive/best-of/essential-agent-building.md |
-| Essential RAG Stack      | workspace-archive/best-of/essential-rag-stack.md      |
-| Essential Frontend AI UI | workspace-archive/best-of/essential-frontend-ai-ui.md |
-| Essential 3D Web Dev     | workspace-archive/best-of/essential-3d-webdev.md      |
-| Essential Automation     | workspace-archive/best-of/essential-automation.md     |
-| Newest Resources         | workspace-archive/_navigation/newest.md               |
-| Skill Index              | _index/skill-index.md                                 |
+| Start here               | Path                                                                                                           |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Essential AI Engineering | [workspace-archive/best-of/essential-ai-engineering.md](workspace-archive/best-of/essential-ai-engineering.md) |
+| Essential Agent Building | [workspace-archive/best-of/essential-agent-building.md](workspace-archive/best-of/essential-agent-building.md) |
+| Essential RAG Stack      | [workspace-archive/best-of/essential-rag-stack.md](workspace-archive/best-of/essential-rag-stack.md)           |
+| Essential Frontend AI UI | [workspace-archive/best-of/essential-frontend-ai-ui.md](workspace-archive/best-of/essential-frontend-ai-ui.md) |
+| Essential 3D Web Dev     | [workspace-archive/best-of/essential-3d-webdev.md](workspace-archive/best-of/essential-3d-webdev.md)           |
+| Essential Automation     | [workspace-archive/best-of/essential-automation.md](workspace-archive/best-of/essential-automation.md)         |
+| Newest Resources         | [workspace-archive/_navigation/newest.md](workspace-archive/_navigation/newest.md)                             |
+| Skill Index              | [_index/skill-index.md](_index/skill-index.md)                                                                 |
 
 ---
 
-## Use with AI Coding Agents
+## Use With AI Coding Agents
 
 Use this vault with Codex, Cursor, Windsurf, Claude Code, Cline, and Aider.
 
@@ -148,12 +160,7 @@ Each run:
 
 If no meaningful changes are found, the workflow exits successfully without creating an empty commit.
 
-* **No server maintenance required**: The workflow executes on cloud runners (local laptop does not need to stay on).
-* **Public sources only**: Curates exclusively from public channels. No private, paywalled, or login-only content is collected.
-* **Source URLs preserved**: Origin links are kept intact within the metadata.
-* **Safety scanned before push**: Automatic credential and path scanners run before any update is committed.
-* **Private execution environment**: The core crawling logic, configurations, and API credentials remain private.
-* **No heartbeat noise**: Scheduled proof and heartbeat status checks are stored in GitHub Actions run artifacts, not committed to the vault history.
+The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scans updates before push.
 
 ---
 
@@ -179,20 +186,28 @@ If no meaningful changes are found, the workflow exits successfully without crea
 
 ## Contributing
 
-Found a useful AI repo, prompt library, MCP server, RAG template, dataset, API, or web-development resource? Open an issue or pull request. Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+Found a useful AI repo, prompt library, MCP server, RAG template, dataset, API, or web-development resource?
+
+Open an issue or pull request.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
 ## Attribution and Disclaimer
 
-This vault contains curated metadata, summaries, links, and notes from public resources. Original content belongs to respective authors. Source URLs are preserved wherever available. For details, read [ATTRIBUTION.md](ATTRIBUTION.md) and [DISCLAIMER.md](DISCLAIMER.md).
+This vault contains curated metadata, summaries, links, and notes from public resources. Original content belongs to respective authors. Source URLs are preserved wherever available.
+
+This repository does not claim ownership of external resources.
 
 ---
 
 ## License
 
-This intelligence vault and its curation logs are open-source and licensed under the [MIT License](LICENSE).
+This project is released under the MIT License where applicable. See [LICENSE](LICENSE).
 
 ---
+
+## Support the Vault
 
 If this vault helps you discover useful AI resources, consider starring the repo so more builders can find it.
