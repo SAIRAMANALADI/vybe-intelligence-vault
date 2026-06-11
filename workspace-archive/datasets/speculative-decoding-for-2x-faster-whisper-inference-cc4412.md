@@ -3,7 +3,7 @@ title: "Speculative Decoding for 2x Faster Whisper Inference"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/whisper-speculative-decoding"
-local_vault_path: "ai\models\speculative-decoding-for-2x-faster-whisper-inference-cc4412.md"
+local_vault_path: "ai/models/speculative-decoding-for-2x-faster-whisper-inference-cc4412.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/whisper-speculative-decoding
 
 ## Local Vault File
 
-Path: [speculative-decoding-for-2x-faster-whisper-inference-cc4412.md](file:///../../ai\models\speculative-decoding-for-2x-faster-whisper-inference-cc4412.md)
+Path: [speculative-decoding-for-2x-faster-whisper-inference-cc4412.md](file:///../../ai/models/speculative-decoding-for-2x-faster-whisper-inference-cc4412.md)

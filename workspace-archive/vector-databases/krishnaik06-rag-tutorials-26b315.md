@@ -3,7 +3,7 @@ title: "krishnaik06/RAG-Tutorials"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/krishnaik06/RAG-Tutorials"
-local_vault_path: "ai\rag\krishnaik06-rag-tutorials-26b315.md"
+local_vault_path: "ai/rag/krishnaik06-rag-tutorials-26b315.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/krishnaik06/RAG-Tutorials
 
 ## Local Vault File
 
-Path: [krishnaik06-rag-tutorials-26b315.md](file:///../../ai\rag\krishnaik06-rag-tutorials-26b315.md)
+Path: [krishnaik06-rag-tutorials-26b315.md](file:///../../ai/rag/krishnaik06-rag-tutorials-26b315.md)

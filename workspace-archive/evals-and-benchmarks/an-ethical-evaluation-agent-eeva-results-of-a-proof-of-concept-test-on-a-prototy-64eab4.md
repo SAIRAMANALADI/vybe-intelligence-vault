@@ -3,7 +3,7 @@ title: "An Ethical eValuation Agent (EeVA): Results of a Proof-of-Concept Test o
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11218"
-local_vault_path: "ai\agents\an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md"
+local_vault_path: "ai/agents/an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11218
 
 ## Local Vault File
 
-Path: [an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md](file:///../../ai\agents\an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md)
+Path: [an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md](file:///../../ai/agents/an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md)

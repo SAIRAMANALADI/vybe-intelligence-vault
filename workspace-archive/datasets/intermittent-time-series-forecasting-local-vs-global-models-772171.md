@@ -3,7 +3,7 @@ title: "Intermittent time series forecasting: local vs global models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14031"
-local_vault_path: "ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md"
+local_vault_path: "ai/research/intermittent-time-series-forecasting-local-vs-global-models-772171.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.14031
 
 ## Local Vault File
 
-Path: [intermittent-time-series-forecasting-local-vs-global-models-772171.md](file:///../../ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md)
+Path: [intermittent-time-series-forecasting-local-vs-global-models-772171.md](file:///../../ai/research/intermittent-time-series-forecasting-local-vs-global-models-772171.md)

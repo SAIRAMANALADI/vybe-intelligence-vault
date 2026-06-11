@@ -3,7 +3,7 @@ title: "Sustainability assessment using multimodal AI agents"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.17012"
-local_vault_path: "ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md"
+local_vault_path: "ai/rag/sustainability-assessment-using-multimodal-ai-agents-52afa1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2507.17012
 
 ## Local Vault File
 
-Path: [sustainability-assessment-using-multimodal-ai-agents-52afa1.md](file:///../../ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md)
+Path: [sustainability-assessment-using-multimodal-ai-agents-52afa1.md](file:///../../ai/rag/sustainability-assessment-using-multimodal-ai-agents-52afa1.md)

@@ -3,7 +3,7 @@ title: "SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11674"
-local_vault_path: "ai\research\spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md"
+local_vault_path: "ai/research/spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11674
 
 ## Local Vault File
 
-Path: [spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md](file:///../../ai\research\spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md)
+Path: [spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md](file:///../../ai/research/spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md)

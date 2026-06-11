@@ -3,7 +3,7 @@ title: "A Short Summary of Chinese AI Global Expansion"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/chinese-ai-expansion"
-local_vault_path: "ai\models\a-short-summary-of-chinese-ai-global-expansion-fbcd07.md"
+local_vault_path: "ai/models/a-short-summary-of-chinese-ai-global-expansion-fbcd07.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/chinese-ai-expansion
 
 ## Local Vault File
 
-Path: [a-short-summary-of-chinese-ai-global-expansion-fbcd07.md](file:///../../ai\models\a-short-summary-of-chinese-ai-global-expansion-fbcd07.md)
+Path: [a-short-summary-of-chinese-ai-global-expansion-fbcd07.md](file:///../../ai/models/a-short-summary-of-chinese-ai-global-expansion-fbcd07.md)

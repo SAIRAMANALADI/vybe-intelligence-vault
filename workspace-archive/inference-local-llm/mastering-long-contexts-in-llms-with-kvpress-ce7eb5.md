@@ -3,7 +3,7 @@ title: "Mastering Long Contexts in LLMs with KVPress"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/kvpress"
-local_vault_path: "ai\models\mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md"
+local_vault_path: "ai/models/mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/kvpress
 
 ## Local Vault File
 
-Path: [mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md](file:///../../ai\models\mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md)
+Path: [mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md](file:///../../ai/models/mastering-long-contexts-in-llms-with-kvpress-ce7eb5.md)

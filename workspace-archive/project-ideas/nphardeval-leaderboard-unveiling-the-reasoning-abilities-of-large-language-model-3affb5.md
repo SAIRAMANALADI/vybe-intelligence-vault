@@ -3,7 +3,7 @@ title: "NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Langu
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-nphardeval"
-local_vault_path: "ai\models\nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md"
+local_vault_path: "ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-nphardeval
 
 ## Local Vault File
 
-Path: [nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md](file:///../../ai\models\nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md)
+Path: [nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md](file:///../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md)

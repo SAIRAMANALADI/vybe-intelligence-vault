@@ -3,7 +3,7 @@ title: "Exploration Structure in LLM Agents for Multi-File Change Localization"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11976"
-local_vault_path: "ai\agents\exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md"
+local_vault_path: "ai/agents/exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11976
 
 ## Local Vault File
 
-Path: [exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md](file:///../../ai\agents\exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md)
+Path: [exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md](file:///../../ai/agents/exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md)

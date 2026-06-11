@@ -3,7 +3,7 @@ title: "emmelleppi/codrops-r3f-mirrors"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/emmelleppi/codrops-r3f-mirrors"
-local_vault_path: "web-development\react-three-fiber\emmelleppi-codrops-r3f-mirrors-91c97d.md"
+local_vault_path: "web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors-91c97d.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/emmelleppi/codrops-r3f-mirrors
 
 ## Local Vault File
 
-Path: [emmelleppi-codrops-r3f-mirrors-91c97d.md](file:///../../web-development\react-three-fiber\emmelleppi-codrops-r3f-mirrors-91c97d.md)
+Path: [emmelleppi-codrops-r3f-mirrors-91c97d.md](file:///../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors-91c97d.md)

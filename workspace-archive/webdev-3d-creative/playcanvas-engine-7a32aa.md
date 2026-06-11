@@ -3,7 +3,7 @@ title: "playcanvas/engine"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/playcanvas/engine"
-local_vault_path: "web-development\webgpu\playcanvas-engine-7a32aa.md"
+local_vault_path: "web-development/webgpu/playcanvas-engine-7a32aa.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/playcanvas/engine
 
 ## Local Vault File
 
-Path: [playcanvas-engine-7a32aa.md](file:///../../web-development\webgpu\playcanvas-engine-7a32aa.md)
+Path: [playcanvas-engine-7a32aa.md](file:///../../web-development/webgpu/playcanvas-engine-7a32aa.md)

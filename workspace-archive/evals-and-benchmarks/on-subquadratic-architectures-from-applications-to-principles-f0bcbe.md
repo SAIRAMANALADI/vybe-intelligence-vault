@@ -3,7 +3,7 @@ title: "On Subquadratic Architectures: From Applications to Principles"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12364"
-local_vault_path: "ai\research\on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md"
+local_vault_path: "ai/research/on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12364
 
 ## Local Vault File
 
-Path: [on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md](file:///../../ai\research\on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md)
+Path: [on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md](file:///../../ai/research/on-subquadratic-architectures-from-applications-to-principles-f0bcbe.md)

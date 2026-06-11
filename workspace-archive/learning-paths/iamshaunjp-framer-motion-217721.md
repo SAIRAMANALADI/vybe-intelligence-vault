@@ -3,7 +3,7 @@ title: "iamshaunjp/framer-motion"
 archive_category: "learning-paths"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/iamshaunjp/framer-motion"
-local_vault_path: "web-development\framer-motion\iamshaunjp-framer-motion-217721.md"
+local_vault_path: "web-development/framer-motion/iamshaunjp-framer-motion-217721.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/iamshaunjp/framer-motion
 
 ## Local Vault File
 
-Path: [iamshaunjp-framer-motion-217721.md](file:///../../web-development\framer-motion\iamshaunjp-framer-motion-217721.md)
+Path: [iamshaunjp-framer-motion-217721.md](file:///../../web-development/framer-motion/iamshaunjp-framer-motion-217721.md)

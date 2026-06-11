@@ -3,7 +3,7 @@ title: "Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Mo
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11324"
-local_vault_path: "ai\rag\embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md"
+local_vault_path: "ai/rag/embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11324
 
 ## Local Vault File
 
-Path: [embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md](file:///../../ai\rag\embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md)
+Path: [embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md](file:///../../ai/rag/embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md)

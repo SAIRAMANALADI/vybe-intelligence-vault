@@ -3,7 +3,7 @@ title: "GrowLoop: Self-Evolving Conversation Evaluation Seeded by Human"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.28882"
-local_vault_path: "ai\rag\growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md"
+local_vault_path: "ai/rag/growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2605.28882
 
 ## Local Vault File
 
-Path: [growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md](file:///../../ai\rag\growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md)
+Path: [growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md](file:///../../ai/rag/growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md)

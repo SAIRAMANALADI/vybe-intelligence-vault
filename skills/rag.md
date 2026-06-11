@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 335 resources matched in the intelligence vault.
+Active signals: 358 resources matched in the intelligence vault.
 Recently detected signals:
-- [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template-cb838b.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md) (Source: Web Discovery) - Collected 2026-06-11
-- [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) (Source: Web Discovery) - Collected 2026-06-11
+- [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md) (Source: Web Discovery) - Collected 2026-06-11
+- [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md) (Source: Web Discovery) - Collected 2026-06-11
+- [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md) (Source: Web Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.512658+00:00.700062+00:00.267329+00:00.452969+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.846327+00:00.512658+00:00.700062+00:00.267329+00:00.452969+00:00.

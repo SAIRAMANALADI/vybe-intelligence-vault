@@ -3,7 +3,7 @@ title: "TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Mod
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11625"
-local_vault_path: "ai\rag\timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md"
+local_vault_path: "ai/rag/timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11625
 
 ## Local Vault File
 
-Path: [timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md](file:///../../ai\rag\timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md)
+Path: [timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md](file:///../../ai/rag/timerouter-efficient-and-adaptive-routing-of-time-series-foundation-models-e0ecd9.md)

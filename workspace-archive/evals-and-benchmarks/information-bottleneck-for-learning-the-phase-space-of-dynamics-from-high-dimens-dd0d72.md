@@ -3,7 +3,7 @@ title: "Information bottleneck for learning the phase space of dynamics from hig
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.24662"
-local_vault_path: "ai\research\information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md"
+local_vault_path: "ai/research/information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2604.24662
 
 ## Local Vault File
 
-Path: [information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md](file:///../../ai\research\information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md)
+Path: [information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md](file:///../../ai/research/information-bottleneck-for-learning-the-phase-space-of-dynamics-from-high-dimens-dd0d72.md)

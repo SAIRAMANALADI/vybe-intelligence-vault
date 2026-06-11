@@ -3,7 +3,7 @@ title: "avinash201199/free-ai-agents-resources"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/avinash201199/free-ai-agents-resources"
-local_vault_path: "ai\agents\avinash201199-free-ai-agents-resources-fa2b3a.md"
+local_vault_path: "ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/avinash201199/free-ai-agents-resources
 
 ## Local Vault File
 
-Path: [avinash201199-free-ai-agents-resources-fa2b3a.md](file:///../../ai\agents\avinash201199-free-ai-agents-resources-fa2b3a.md)
+Path: [avinash201199-free-ai-agents-resources-fa2b3a.md](file:///../../ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md)

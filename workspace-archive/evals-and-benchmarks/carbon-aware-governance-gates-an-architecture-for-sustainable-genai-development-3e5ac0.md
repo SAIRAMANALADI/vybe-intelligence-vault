@@ -3,7 +3,7 @@ title: "Carbon-Aware Governance Gates: An Architecture for Sustainable GenAI Dev
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.19718"
-local_vault_path: "ai\research\carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md"
+local_vault_path: "ai/research/carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.19718
 
 ## Local Vault File
 
-Path: [carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md](file:///../../ai\research\carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md)
+Path: [carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md](file:///../../ai/research/carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md)

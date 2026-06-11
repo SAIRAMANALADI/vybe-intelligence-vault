@@ -3,7 +3,7 @@ title: "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompu
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11290"
-local_vault_path: "ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
+local_vault_path: "ai/rag/flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11290
 
 ## Local Vault File
 
-Path: [flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md](file:///../../ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md)
+Path: [flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md](file:///../../ai/rag/flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md)

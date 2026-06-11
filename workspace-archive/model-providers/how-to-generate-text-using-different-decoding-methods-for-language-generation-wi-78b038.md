@@ -3,7 +3,7 @@ title: "How to generate text: using different decoding methods for language gene
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/how-to-generate"
-local_vault_path: "ai\models\how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md"
+local_vault_path: "ai/models/how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/how-to-generate
 
 ## Local Vault File
 
-Path: [how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md](file:///../../ai\models\how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md)
+Path: [how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md](file:///../../ai/models/how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md)

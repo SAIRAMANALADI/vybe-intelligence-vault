@@ -3,7 +3,7 @@ title: "Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Str
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11998"
-local_vault_path: "ai\rag\bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md"
+local_vault_path: "ai/rag/bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11998
 
 ## Local Vault File
 
-Path: [bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md](file:///../../ai\rag\bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md)
+Path: [bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md](file:///../../ai/rag/bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md)

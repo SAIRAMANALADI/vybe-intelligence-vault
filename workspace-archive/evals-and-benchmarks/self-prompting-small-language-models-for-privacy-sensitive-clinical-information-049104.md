@@ -3,7 +3,7 @@ title: "Self-Prompting Small Language Models for Privacy-Sensitive Clinical Info
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04221"
-local_vault_path: "ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md"
+local_vault_path: "ai/research/self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.04221
 
 ## Local Vault File
 
-Path: [self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md](file:///../../ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md)
+Path: [self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md](file:///../../ai/research/self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md)

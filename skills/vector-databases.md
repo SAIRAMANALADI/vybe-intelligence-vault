@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 286 resources matched in the intelligence vault.
+Active signals: 306 resources matched in the intelligence vault.
 Recently detected signals:
-- [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template-cb838b.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md) (Source: Web Discovery) - Collected 2026-06-11
-- [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) (Source: Web Discovery) - Collected 2026-06-11
+- [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md) (Source: Web Discovery) - Collected 2026-06-11
+- [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md) (Source: Web Discovery) - Collected 2026-06-11
+- [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md) (Source: Web Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -160,15 +160,15 @@ Recently detected signals:
 - Language: Jupyter Notebook
 - Description: https://datawhalechina.github.io/llm-universe/
 
-### 27. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) ([GitHub](https://github.com/ChiggyJain/PythonLangSmithTutorial))
-- Stars: 0
-- Language: Python
-- Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
-
-### 28. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
+### 27. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
+
+### 28. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) ([GitHub](https://github.com/ChiggyJain/PythonLangSmithTutorial))
+- Stars: 0
+- Language: Python
+- Description: The tutorials progress from basic LLM interactions to advanced patterns like Retrieval-Augmented Generation (RAG), agents, and graph-based workflows. Each script builds upon the previous ones, show...
 
 ### 29. [DEEP-PolyU/LinearRAG](../ai/rag/deep-polyu-linearrag-d454a8.md) ([GitHub](https://github.com/DEEP-PolyU/LinearRAG))
 - Stars: 505
@@ -260,15 +260,15 @@ Recently detected signals:
 - Language: Python
 - Description: agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository created by GitHub Classroom
 
-### 47. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow))
-- Stars: 0
-- Language: Python
-- Description: icensraghomework-classroom01-rag1-hw01_workflow created by GitHub Classroom
-
-### 48. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow-98cba9.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow))
+### 47. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow-98cba9.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
 - Language: Python
 - Description: icensraghomework-classroom01-rag3-hw03_workflow created by GitHub Classroom
+
+### 48. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md) ([GitHub](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow))
+- Stars: 0
+- Language: Python
+- Description: icensraghomework-classroom01-rag1-hw01_workflow created by GitHub Classroom
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -290,4 +290,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.754784+00:00.935857+00:00.554606+00:00.718806+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:17.028148+00:00.754784+00:00.935857+00:00.554606+00:00.718806+00:00.

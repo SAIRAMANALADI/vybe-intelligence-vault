@@ -3,7 +3,7 @@ title: "iuyup/AgentFlow"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/iuyup/AgentFlow"
-local_vault_path: "ai\agents\iuyup-agentflow-fcffad.md"
+local_vault_path: "ai/agents/iuyup-agentflow-fcffad.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/iuyup/AgentFlow
 
 ## Local Vault File
 
-Path: [iuyup-agentflow-fcffad.md](file:///../../ai\agents\iuyup-agentflow-fcffad.md)
+Path: [iuyup-agentflow-fcffad.md](file:///../../ai/agents/iuyup-agentflow-fcffad.md)

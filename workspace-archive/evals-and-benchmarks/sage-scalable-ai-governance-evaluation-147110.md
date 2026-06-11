@@ -3,7 +3,7 @@ title: "SAGE: Scalable AI Governance & Evaluation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.07840"
-local_vault_path: "ai\research\sage-scalable-ai-governance-evaluation-147110.md"
+local_vault_path: "ai/research/sage-scalable-ai-governance-evaluation-147110.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.07840
 
 ## Local Vault File
 
-Path: [sage-scalable-ai-governance-evaluation-147110.md](file:///../../ai\research\sage-scalable-ai-governance-evaluation-147110.md)
+Path: [sage-scalable-ai-governance-evaluation-147110.md](file:///../../ai/research/sage-scalable-ai-governance-evaluation-147110.md)

@@ -3,7 +3,7 @@ title: "End-to-End Machine Learning for Depressive State Classification via EEG 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11555"
-local_vault_path: "ai\research\end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md"
+local_vault_path: "ai/research/end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11555
 
 ## Local Vault File
 
-Path: [end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md](file:///../../ai\research\end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md)
+Path: [end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md](file:///../../ai/research/end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md)

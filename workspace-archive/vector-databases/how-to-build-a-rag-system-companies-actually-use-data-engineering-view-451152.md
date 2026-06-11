@@ -3,7 +3,7 @@ title: "How to Build a RAG System Companies Actually Use (Data Engineering View)
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://dataengineeracademy.com/blog/production-rag-pipeline"
-local_vault_path: "ai\rag\how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md"
+local_vault_path: "ai/rag/how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://dataengineeracademy.com/blog/production-rag-pipelin
 
 ## Local Vault File
 
-Path: [how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md](file:///../../ai\rag\how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md)
+Path: [how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md](file:///../../ai/rag/how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md)

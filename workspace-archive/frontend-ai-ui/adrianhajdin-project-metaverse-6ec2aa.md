@@ -3,7 +3,7 @@ title: "adrianhajdin/project_metaverse"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/adrianhajdin/project_metaverse"
-local_vault_path: "web-development\framer-motion\adrianhajdin-project-metaverse-6ec2aa.md"
+local_vault_path: "web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/adrianhajdin/project_metaverse
 
 ## Local Vault File
 
-Path: [adrianhajdin-project-metaverse-6ec2aa.md](file:///../../web-development\framer-motion\adrianhajdin-project-metaverse-6ec2aa.md)
+Path: [adrianhajdin-project-metaverse-6ec2aa.md](file:///../../web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md)

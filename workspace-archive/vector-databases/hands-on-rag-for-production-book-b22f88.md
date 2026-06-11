@@ -3,7 +3,7 @@ title: "Hands-On RAG for Production [Book]"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.oreilly.com/library/view/hands-on-rag-for/9798341621701"
-local_vault_path: "ai\rag\hands-on-rag-for-production-book-b22f88.md"
+local_vault_path: "ai/rag/hands-on-rag-for-production-book-b22f88.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://www.oreilly.com/library/view/hands-on-rag-for/97983
 
 ## Local Vault File
 
-Path: [hands-on-rag-for-production-book-b22f88.md](file:///../../ai\rag\hands-on-rag-for-production-book-b22f88.md)
+Path: [hands-on-rag-for-production-book-b22f88.md](file:///../../ai/rag/hands-on-rag-for-production-book-b22f88.md)

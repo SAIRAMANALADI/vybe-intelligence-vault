@@ -3,7 +3,7 @@ title: "LeMaterial: an open source initiative to accelerate materials discovery 
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/lematerial"
-local_vault_path: "ai\models\lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md"
+local_vault_path: "ai/models/lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/lematerial
 
 ## Local Vault File
 
-Path: [lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md](file:///../../ai\models\lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md)
+Path: [lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md](file:///../../ai/models/lematerial-an-open-source-initiative-to-accelerate-materials-discovery-and-resea-00958e.md)

@@ -3,7 +3,7 @@ title: "RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra |
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280"
-local_vault_path: "ai\rag\rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md"
+local_vault_path: "ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://pragatimehraa.medium.com/rag-tutorial-2025-complete
 
 ## Local Vault File
 
-Path: [rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md](file:///../../ai\rag\rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md)
+Path: [rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md](file:///../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md)

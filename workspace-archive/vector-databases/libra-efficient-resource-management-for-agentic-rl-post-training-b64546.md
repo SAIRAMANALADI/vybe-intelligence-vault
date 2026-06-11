@@ -3,7 +3,7 @@ title: "Libra: Efficient Resource Management for Agentic RL Post-Training"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.03077"
-local_vault_path: "ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md"
+local_vault_path: "ai/rag/libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.03077
 
 ## Local Vault File
 
-Path: [libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md](file:///../../ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)
+Path: [libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md](file:///../../ai/rag/libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)

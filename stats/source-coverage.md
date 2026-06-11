@@ -5,9 +5,9 @@ The ingestion engine processes developer articles, preprints, and repositories a
 ## Primary Sourced Domains
 
 *   huggingface.co: 799 items
-*   arxiv.org: 543 items
+*   arxiv.org: 545 items
 *   github.com: 273 items
-*   medium.com: 7 items
-*   geeksforgeeks.org: 3 items
+*   anthropic.com: 10 items
+*   mistral.ai: 10 items
 
 All source URLs are preserved in the metadata header of all files.

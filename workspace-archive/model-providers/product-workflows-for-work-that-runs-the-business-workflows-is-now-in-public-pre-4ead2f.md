@@ -1,0 +1,50 @@
+---
+title: "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI"
+archive_category: "model-providers"
+source_category: "ai/companies/mistral"
+source_url: "https://mistral.ai/news/workflows"
+local_vault_path: "ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "high"
+tags:
+  - blog-post
+  - mistral
+  - mistral-ai-news
+  - models
+  - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
+---
+
+# Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Recent update from Mistral AI News Blog: Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://mistral.ai/news/workflows
+
+## Local Vault File
+
+Path: [product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md)

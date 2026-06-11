@@ -3,7 +3,7 @@ title: "Finally, a Replacement for BERT: Introducing ModernBERT"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/modernbert"
-local_vault_path: "ai\models\finally-a-replacement-for-bert-introducing-modernbert-d46587.md"
+local_vault_path: "ai/models/finally-a-replacement-for-bert-introducing-modernbert-d46587.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/modernbert
 
 ## Local Vault File
 
-Path: [finally-a-replacement-for-bert-introducing-modernbert-d46587.md](file:///../../ai\models\finally-a-replacement-for-bert-introducing-modernbert-d46587.md)
+Path: [finally-a-replacement-for-bert-introducing-modernbert-d46587.md](file:///../../ai/models/finally-a-replacement-for-bert-introducing-modernbert-d46587.md)

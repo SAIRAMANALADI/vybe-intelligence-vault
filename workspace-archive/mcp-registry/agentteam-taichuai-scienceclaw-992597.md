@@ -3,7 +3,7 @@ title: "AgentTeam-TaichuAI/ScienceClaw"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/AgentTeam-TaichuAI/ScienceClaw"
-local_vault_path: "ai\agents\agentteam-taichuai-scienceclaw-992597.md"
+local_vault_path: "ai/agents/agentteam-taichuai-scienceclaw-992597.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/AgentTeam-TaichuAI/ScienceClaw
 
 ## Local Vault File
 
-Path: [agentteam-taichuai-scienceclaw-992597.md](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md)
+Path: [agentteam-taichuai-scienceclaw-992597.md](file:///../../ai/agents/agentteam-taichuai-scienceclaw-992597.md)

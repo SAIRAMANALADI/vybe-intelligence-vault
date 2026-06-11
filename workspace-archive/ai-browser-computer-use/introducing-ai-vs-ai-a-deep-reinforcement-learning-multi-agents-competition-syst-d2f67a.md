@@ -3,7 +3,7 @@ title: "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/aivsai"
-local_vault_path: "ai\agents\introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md"
+local_vault_path: "ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai\agents\introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md)

@@ -3,7 +3,7 @@ title: "Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.13733"
-local_vault_path: "ai\rag\vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md"
+local_vault_path: "ai/rag/vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2604.13733
 
 ## Local Vault File
 
-Path: [vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md](file:///../../ai\rag\vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md)
+Path: [vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md](file:///../../ai/rag/vision-language-action-jump-starting-for-reinforcement-learning-robotic-agents-750df7.md)

@@ -3,7 +3,7 @@ title: "Deep Learning over the Internet: Training Language Models Collaborativel
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/collaborative-training"
-local_vault_path: "ai\models\deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md"
+local_vault_path: "ai/models/deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/collaborative-training
 
 ## Local Vault File
 
-Path: [deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md](file:///../../ai\models\deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md)
+Path: [deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md](file:///../../ai/models/deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md)

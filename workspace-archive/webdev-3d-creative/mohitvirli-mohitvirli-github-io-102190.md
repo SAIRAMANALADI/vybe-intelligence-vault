@@ -3,7 +3,7 @@ title: "mohitvirli/mohitvirli.github.io"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/mohitvirli/mohitvirli.github.io"
-local_vault_path: "web-development\react-three-fiber\mohitvirli-mohitvirli-github-io-102190.md"
+local_vault_path: "web-development/react-three-fiber/mohitvirli-mohitvirli-github-io-102190.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/mohitvirli/mohitvirli.github.io
 
 ## Local Vault File
 
-Path: [mohitvirli-mohitvirli-github-io-102190.md](file:///../../web-development\react-three-fiber\mohitvirli-mohitvirli-github-io-102190.md)
+Path: [mohitvirli-mohitvirli-github-io-102190.md](file:///../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io-102190.md)

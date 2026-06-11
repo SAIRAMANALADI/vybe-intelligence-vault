@@ -3,7 +3,7 @@ title: "Efficient MultiModal Data Pipeline"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mmdp"
-local_vault_path: "ai\models\efficient-multimodal-data-pipeline-436c96.md"
+local_vault_path: "ai/models/efficient-multimodal-data-pipeline-436c96.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: [efficient-multimodal-data-pipeline-436c96.md](file:///../../ai\models\efficient-multimodal-data-pipeline-436c96.md)
+Path: [efficient-multimodal-data-pipeline-436c96.md](file:///../../ai/models/efficient-multimodal-data-pipeline-436c96.md)

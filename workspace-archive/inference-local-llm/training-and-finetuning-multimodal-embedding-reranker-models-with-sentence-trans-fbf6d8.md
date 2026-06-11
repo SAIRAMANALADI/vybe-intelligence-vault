@@ -3,7 +3,7 @@ title: "Training and Finetuning Multimodal Embedding & Reranker Models with Sent
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/train-multimodal-sentence-transformers"
-local_vault_path: "ai\models\training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md"
+local_vault_path: "ai/models/training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/train-multimodal-sentence-trans
 
 ## Local Vault File
 
-Path: [training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md](file:///../../ai\models\training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md)
+Path: [training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md](file:///../../ai/models/training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md)

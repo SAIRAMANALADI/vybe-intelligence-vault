@@ -3,7 +3,7 @@ title: "AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026"
-local_vault_path: "ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md"
+local_vault_path: "ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://codersera.com/blog/ai-agent-benchmarks-state-of-lea
 
 ## Local Vault File
 
-Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md](file:///../../ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md)
+Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md](file:///../../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md)

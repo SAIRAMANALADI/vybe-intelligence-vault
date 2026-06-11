@@ -3,7 +3,7 @@ title: "MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.22638"
-local_vault_path: "ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md"
+local_vault_path: "ai/agents/mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.22638
 
 ## Local Vault File
 
-Path: [mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md](file:///../../ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md)
+Path: [mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md](file:///../../ai/agents/mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md)

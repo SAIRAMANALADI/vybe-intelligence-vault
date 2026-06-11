@@ -3,7 +3,7 @@ title: "Tiny Agents in Python: a MCP-powered agent in ~70 lines of code"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/python-tiny-agents"
-local_vault_path: "ai\agents\tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md"
+local_vault_path: "ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/python-tiny-agents
 
 ## Local Vault File
 
-Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md](file:///../../ai\agents\tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md)
+Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md](file:///../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-lines-of-code-e33440.md)

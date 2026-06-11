@@ -3,7 +3,7 @@ title: "Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freed
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Arm/ai-sound-gen-on-arm"
-local_vault_path: "ai\models\real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md"
+local_vault_path: "ai/models/real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Arm/ai-sound-gen-on-arm
 
 ## Local Vault File
 
-Path: [real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md](file:///../../ai\models\real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md)
+Path: [real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md](file:///../../ai/models/real-time-ai-sound-generation-on-arm-a-personal-tool-for-creative-freedom-afa572.md)

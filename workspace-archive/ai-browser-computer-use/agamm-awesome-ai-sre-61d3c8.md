@@ -3,7 +3,7 @@ title: "agamm/awesome-ai-sre"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/agamm/awesome-ai-sre"
-local_vault_path: "ai\agents\agamm-awesome-ai-sre-61d3c8.md"
+local_vault_path: "ai/agents/agamm-awesome-ai-sre-61d3c8.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/agamm/awesome-ai-sre
 
 ## Local Vault File
 
-Path: [agamm-awesome-ai-sre-61d3c8.md](file:///../../ai\agents\agamm-awesome-ai-sre-61d3c8.md)
+Path: [agamm-awesome-ai-sre-61d3c8.md](file:///../../ai/agents/agamm-awesome-ai-sre-61d3c8.md)

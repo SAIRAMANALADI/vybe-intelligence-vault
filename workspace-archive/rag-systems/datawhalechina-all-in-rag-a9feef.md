@@ -3,7 +3,7 @@ title: "datawhalechina/all-in-rag"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/all-in-rag"
-local_vault_path: "ai\rag\datawhalechina-all-in-rag-a9feef.md"
+local_vault_path: "ai/rag/datawhalechina-all-in-rag-a9feef.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/datawhalechina/all-in-rag
 
 ## Local Vault File
 
-Path: [datawhalechina-all-in-rag-a9feef.md](file:///../../ai\rag\datawhalechina-all-in-rag-a9feef.md)
+Path: [datawhalechina-all-in-rag-a9feef.md](file:///../../ai/rag/datawhalechina-all-in-rag-a9feef.md)

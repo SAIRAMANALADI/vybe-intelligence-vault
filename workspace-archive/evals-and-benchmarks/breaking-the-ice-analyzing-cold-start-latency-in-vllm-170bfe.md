@@ -3,7 +3,7 @@ title: "Breaking the Ice: Analyzing Cold Start Latency in vLLM"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07362"
-local_vault_path: "ai\research\breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md"
+local_vault_path: "ai/research/breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.07362
 
 ## Local Vault File
 
-Path: [breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md](file:///../../ai\research\breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md)
+Path: [breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md](file:///../../ai/research/breaking-the-ice-analyzing-cold-start-latency-in-vllm-170bfe.md)

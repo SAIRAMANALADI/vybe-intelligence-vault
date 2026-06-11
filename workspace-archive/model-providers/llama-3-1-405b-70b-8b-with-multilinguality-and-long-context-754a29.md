@@ -3,7 +3,7 @@ title: "Llama 3.1 - 405B, 70B & 8B with multilinguality and long context"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llama31"
-local_vault_path: "ai\models\llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md"
+local_vault_path: "ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/llama31
 
 ## Local Vault File
 
-Path: [llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md](file:///../../ai\models\llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md)
+Path: [llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md](file:///../../ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-long-context-754a29.md)

@@ -3,7 +3,7 @@ title: "pmndrs/triplex"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/triplex"
-local_vault_path: "web-development\react-three-fiber\pmndrs-triplex-e524fe.md"
+local_vault_path: "web-development/react-three-fiber/pmndrs-triplex-e524fe.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/triplex
 
 ## Local Vault File
 
-Path: [pmndrs-triplex-e524fe.md](file:///../../web-development\react-three-fiber\pmndrs-triplex-e524fe.md)
+Path: [pmndrs-triplex-e524fe.md](file:///../../web-development/react-three-fiber/pmndrs-triplex-e524fe.md)

@@ -3,7 +3,7 @@ title: "pixiv/three-vrm"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/pixiv/three-vrm"
-local_vault_path: "web-development\threejs\pixiv-three-vrm-5557a6.md"
+local_vault_path: "web-development/threejs/pixiv-three-vrm-5557a6.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/pixiv/three-vrm
 
 ## Local Vault File
 
-Path: [pixiv-three-vrm-5557a6.md](file:///../../web-development\threejs\pixiv-three-vrm-5557a6.md)
+Path: [pixiv-three-vrm-5557a6.md](file:///../../web-development/threejs/pixiv-three-vrm-5557a6.md)

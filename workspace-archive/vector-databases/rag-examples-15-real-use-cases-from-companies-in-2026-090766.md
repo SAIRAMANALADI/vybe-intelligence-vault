@@ -3,7 +3,7 @@ title: "RAG Examples: 15 Real Use Cases from Companies in 2026"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.startdesigns.com/blog/rag-examples"
-local_vault_path: "ai\rag\rag-examples-15-real-use-cases-from-companies-in-2026-090766.md"
+local_vault_path: "ai/rag/rag-examples-15-real-use-cases-from-companies-in-2026-090766.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.startdesigns.com/blog/rag-examples
 
 ## Local Vault File
 
-Path: [rag-examples-15-real-use-cases-from-companies-in-2026-090766.md](file:///../../ai\rag\rag-examples-15-real-use-cases-from-companies-in-2026-090766.md)
+Path: [rag-examples-15-real-use-cases-from-companies-in-2026-090766.md](file:///../../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2026-090766.md)

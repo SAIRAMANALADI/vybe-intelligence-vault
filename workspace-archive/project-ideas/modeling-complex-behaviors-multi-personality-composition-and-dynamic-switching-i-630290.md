@@ -3,7 +3,7 @@ title: "Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Sw
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11074"
-local_vault_path: "ai\research\modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md"
+local_vault_path: "ai/research/modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11074
 
 ## Local Vault File
 
-Path: [modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md](file:///../../ai\research\modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md)
+Path: [modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md](file:///../../ai/research/modeling-complex-behaviors-multi-personality-composition-and-dynamic-switching-i-630290.md)

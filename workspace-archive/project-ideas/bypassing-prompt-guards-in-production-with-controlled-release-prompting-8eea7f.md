@@ -3,7 +3,7 @@ title: "Bypassing Prompt Guards in Production with Controlled-Release Prompting"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.01529"
-local_vault_path: "ai\research\bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md"
+local_vault_path: "ai/research/bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2510.01529
 
 ## Local Vault File
 
-Path: [bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md](file:///../../ai\research\bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md)
+Path: [bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md](file:///../../ai/research/bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md)

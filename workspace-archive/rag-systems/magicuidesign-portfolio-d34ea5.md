@@ -3,7 +3,7 @@ title: "magicuidesign/portfolio"
 archive_category: "rag-systems"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/magicuidesign/portfolio"
-local_vault_path: "web-development\shadcn-ui\magicuidesign-portfolio-d34ea5.md"
+local_vault_path: "web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/magicuidesign/portfolio
 
 ## Local Vault File
 
-Path: [magicuidesign-portfolio-d34ea5.md](file:///../../web-development\shadcn-ui\magicuidesign-portfolio-d34ea5.md)
+Path: [magicuidesign-portfolio-d34ea5.md](file:///../../web-development/shadcn-ui/magicuidesign-portfolio-d34ea5.md)

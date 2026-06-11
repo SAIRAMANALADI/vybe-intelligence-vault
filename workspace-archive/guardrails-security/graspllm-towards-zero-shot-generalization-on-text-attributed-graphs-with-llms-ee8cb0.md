@@ -3,7 +3,7 @@ title: "GraspLLM: Towards Zero-Shot Generalization on Text-Attributed Graphs wit
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11898"
-local_vault_path: "ai\research\graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md"
+local_vault_path: "ai/research/graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11898
 
 ## Local Vault File
 
-Path: [graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md](file:///../../ai\research\graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md)
+Path: [graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md](file:///../../ai/research/graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md)

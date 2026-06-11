@@ -3,7 +3,7 @@ title: "Introducing the Ettin Reranker Family"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ettin-reranker"
-local_vault_path: "ai\models\introducing-the-ettin-reranker-family-e05bf9.md"
+local_vault_path: "ai/models/introducing-the-ettin-reranker-family-e05bf9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ettin-reranker
 
 ## Local Vault File
 
-Path: [introducing-the-ettin-reranker-family-e05bf9.md](file:///../../ai\models\introducing-the-ettin-reranker-family-e05bf9.md)
+Path: [introducing-the-ettin-reranker-family-e05bf9.md](file:///../../ai/models/introducing-the-ettin-reranker-family-e05bf9.md)

@@ -3,7 +3,7 @@ title: "Make your llama generation time fly with AWS Inferentia2"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inferentia-llama2"
-local_vault_path: "ai\models\make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md"
+local_vault_path: "ai/models/make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md](file:///../../ai\models\make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md)
+Path: [make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md](file:///../../ai/models/make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md)

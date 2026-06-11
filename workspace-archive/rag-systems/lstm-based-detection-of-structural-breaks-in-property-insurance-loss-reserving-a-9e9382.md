@@ -3,7 +3,7 @@ title: "LSTM-Based Detection of Structural Breaks in Property Insurance Loss Res
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11463"
-local_vault_path: "ai\research\lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md"
+local_vault_path: "ai/research/lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11463
 
 ## Local Vault File
 
-Path: [lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md](file:///../../ai\research\lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md)
+Path: [lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md](file:///../../ai/research/lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md)

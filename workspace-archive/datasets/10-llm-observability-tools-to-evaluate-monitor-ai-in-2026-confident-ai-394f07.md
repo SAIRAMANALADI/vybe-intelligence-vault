@@ -3,7 +3,7 @@ title: "10 LLM Observability Tools to Evaluate & Monitor AI in 2026 - Confident 
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://www.confident-ai.com/knowledge-base/compare/10-llm-observability-tools-to-evaluate-and-monitor-ai-2026"
-local_vault_path: "ai\rag\10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md"
+local_vault_path: "ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.confident-ai.com/knowledge-base/compare/10-llm-
 
 ## Local Vault File
 
-Path: [10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md](file:///../../ai\rag\10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md)
+Path: [10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md](file:///../../ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md)

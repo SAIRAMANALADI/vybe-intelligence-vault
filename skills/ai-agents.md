@@ -19,13 +19,13 @@ AI agents represent the transition from passive text generation to active, goal-
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 265 resources matched in the intelligence vault.
+Active signals: 268 resources matched in the intelligence vault.
 Recently detected signals:
+- [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) (Source: Web Discovery) - Collected 2026-06-11
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Learn more](../ai/companies/deepmind/learn-more-314226.md) (Source: Google DeepMind Blog) - Collected 2026-06-11
 - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab-38cec0.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [grafana/o11y-bench](../ai/agents/grafana-o11y-bench-628889.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [jayta1314/awesome-ai-sre](../ai/agents/jayta1314-awesome-ai-sre-480b87.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability-7eeb8b.md) (Source: GitHub Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -71,15 +71,15 @@ Recently detected signals:
 - Language: Python
 - Description: Runtime security monitoring and control for AI agents. Catches malicious tool use, prompt injection, and policy drift in real time, before the agent acts.
 
-### 9. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability-7eeb8b.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
-- Stars: 0
-- Language: Unknown
-- Description: A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.
-
-### 10. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) ([GitHub](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant))
+### 9. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) ([GitHub](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant))
 - Stars: 0
 - Language: Python
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
+
+### 10. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability-7eeb8b.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
+- Stars: 0
+- Language: Unknown
+- Description: A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.
 
 ### 11. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md) ([GitHub](https://github.com/WagnerAgent/awesome-mcp-servers-devops))
 - Stars: 95
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.490910+00:00.681064+00:00.247505+00:00.436873+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.825949+00:00.490910+00:00.681064+00:00.247505+00:00.436873+00:00.

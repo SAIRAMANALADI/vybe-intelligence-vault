@@ -3,7 +3,7 @@ title: "Overview of natively supported quantization schemes in 🤗 Transformers
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/overview-quantization-transformers"
-local_vault_path: "ai\models\overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md"
+local_vault_path: "ai/models/overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/overview-quantization-transform
 
 ## Local Vault File
 
-Path: [overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md](file:///../../ai\models\overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md)
+Path: [overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md](file:///../../ai/models/overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md)

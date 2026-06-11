@@ -3,7 +3,7 @@ title: "SetFit: Efficient Few-Shot Learning Without Prompts"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/setfit"
-local_vault_path: "ai\models\setfit-efficient-few-shot-learning-without-prompts-fc14db.md"
+local_vault_path: "ai/models/setfit-efficient-few-shot-learning-without-prompts-fc14db.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/setfit
 
 ## Local Vault File
 
-Path: [setfit-efficient-few-shot-learning-without-prompts-fc14db.md](file:///../../ai\models\setfit-efficient-few-shot-learning-without-prompts-fc14db.md)
+Path: [setfit-efficient-few-shot-learning-without-prompts-fc14db.md](file:///../../ai/models/setfit-efficient-few-shot-learning-without-prompts-fc14db.md)

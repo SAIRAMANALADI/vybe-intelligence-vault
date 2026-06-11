@@ -3,7 +3,7 @@ title: "Using LoRA for Efficient Stable Diffusion Fine-Tuning"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/lora"
-local_vault_path: "ai\models\using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md"
+local_vault_path: "ai/models/using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/lora
 
 ## Local Vault File
 
-Path: [using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md](file:///../../ai\models\using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md)
+Path: [using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md](file:///../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md)

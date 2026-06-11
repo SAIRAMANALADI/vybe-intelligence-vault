@@ -3,7 +3,7 @@ title: "Neural-Parameterized Cellular Automata for Wildfire Spread"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11676"
-local_vault_path: "ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md"
+local_vault_path: "ai/research/neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11676
 
 ## Local Vault File
 
-Path: [neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md](file:///../../ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md)
+Path: [neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md](file:///../../ai/research/neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md)

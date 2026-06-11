@@ -3,7 +3,7 @@ title: "Cross-Layer Discrete Concept Discovery for Interpreting Language Models"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2506.20040"
-local_vault_path: "ai\rag\cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md"
+local_vault_path: "ai/rag/cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2506.20040
 
 ## Local Vault File
 
-Path: [cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md](file:///../../ai\rag\cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md)
+Path: [cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md](file:///../../ai/rag/cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md)

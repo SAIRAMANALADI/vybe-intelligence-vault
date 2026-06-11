@@ -3,7 +3,7 @@ title: "A practical guide to building agents | OpenAI"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents"
-local_vault_path: "ai\rag\a-practical-guide-to-building-agents-openai-be0f25.md"
+local_vault_path: "ai/rag/a-practical-guide-to-building-agents-openai-be0f25.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://openai.com/business/guides-and-resources/a-practica
 
 ## Local Vault File
 
-Path: [a-practical-guide-to-building-agents-openai-be0f25.md](file:///../../ai\rag\a-practical-guide-to-building-agents-openai-be0f25.md)
+Path: [a-practical-guide-to-building-agents-openai-be0f25.md](file:///../../ai/rag/a-practical-guide-to-building-agents-openai-be0f25.md)

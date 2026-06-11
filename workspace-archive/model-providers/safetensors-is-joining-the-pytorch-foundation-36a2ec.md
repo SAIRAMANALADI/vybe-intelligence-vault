@@ -3,7 +3,7 @@ title: "Safetensors is Joining the PyTorch Foundation"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/safetensors-joins-pytorch-foundation"
-local_vault_path: "ai\models\safetensors-is-joining-the-pytorch-foundation-36a2ec.md"
+local_vault_path: "ai/models/safetensors-is-joining-the-pytorch-foundation-36a2ec.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/safetensors-joins-pytorch-found
 
 ## Local Vault File
 
-Path: [safetensors-is-joining-the-pytorch-foundation-36a2ec.md](file:///../../ai\models\safetensors-is-joining-the-pytorch-foundation-36a2ec.md)
+Path: [safetensors-is-joining-the-pytorch-foundation-36a2ec.md](file:///../../ai/models/safetensors-is-joining-the-pytorch-foundation-36a2ec.md)

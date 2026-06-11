@@ -3,7 +3,7 @@ title: "AI Coding Agents in Social Science: Methodologically Diverse, Empiricall
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11456"
-local_vault_path: "ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md"
+local_vault_path: "ai/agents/ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11456
 
 ## Local Vault File
 
-Path: [ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md](file:///../../ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md)
+Path: [ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md](file:///../../ai/agents/ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md)

@@ -3,7 +3,7 @@ title: "SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Rei
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11770"
-local_vault_path: "ai\research\svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md"
+local_vault_path: "ai/research/svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11770
 
 ## Local Vault File
 
-Path: [svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md](file:///../../ai\research\svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md)
+Path: [svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md](file:///../../ai/research/svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md)

@@ -3,7 +3,7 @@ title: "The PR you would have opened yourself"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformers-to-mlx"
-local_vault_path: "ai\models\the-pr-you-would-have-opened-yourself-03222d.md"
+local_vault_path: "ai/models/the-pr-you-would-have-opened-yourself-03222d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformers-to-mlx
 
 ## Local Vault File
 
-Path: [the-pr-you-would-have-opened-yourself-03222d.md](file:///../../ai\models\the-pr-you-would-have-opened-yourself-03222d.md)
+Path: [the-pr-you-would-have-opened-yourself-03222d.md](file:///../../ai/models/the-pr-you-would-have-opened-yourself-03222d.md)

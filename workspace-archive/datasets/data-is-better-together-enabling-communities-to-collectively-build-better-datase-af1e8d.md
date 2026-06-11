@@ -3,7 +3,7 @@ title: "Data is better together: Enabling communities to collectively build bett
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/community-datasets"
-local_vault_path: "ai\models\data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md"
+local_vault_path: "ai/models/data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/community-datasets
 
 ## Local Vault File
 
-Path: [data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md](file:///../../ai\models\data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md)
+Path: [data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md](file:///../../ai/models/data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md)

@@ -3,7 +3,7 @@ title: "Reinforcement Learning Disrupts Gradient-Based Adversarial Optimization"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12251"
-local_vault_path: "ai\research\reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md"
+local_vault_path: "ai/research/reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12251
 
 ## Local Vault File
 
-Path: [reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md](file:///../../ai\research\reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md)
+Path: [reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md](file:///../../ai/research/reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md)

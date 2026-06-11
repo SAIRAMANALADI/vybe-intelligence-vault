@@ -3,7 +3,7 @@ title: "CodeGemma - an official Google release for code LLMs"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/codegemma"
-local_vault_path: "ai\models\codegemma-an-official-google-release-for-code-llms-ce2711.md"
+local_vault_path: "ai/models/codegemma-an-official-google-release-for-code-llms-ce2711.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codegemma
 
 ## Local Vault File
 
-Path: [codegemma-an-official-google-release-for-code-llms-ce2711.md](file:///../../ai\models\codegemma-an-official-google-release-for-code-llms-ce2711.md)
+Path: [codegemma-an-official-google-release-for-code-llms-ce2711.md](file:///../../ai/models/codegemma-an-official-google-release-for-code-llms-ce2711.md)

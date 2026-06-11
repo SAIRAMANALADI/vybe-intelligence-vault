@@ -3,7 +3,7 @@ title: "Robustness of Mixtures of Experts to Feature Noise"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14792"
-local_vault_path: "ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md"
+local_vault_path: "ai/research/robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2601.14792
 
 ## Local Vault File
 
-Path: [robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md](file:///../../ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md)
+Path: [robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md](file:///../../ai/research/robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md)

@@ -3,7 +3,7 @@ title: "Consilium: When Multiple LLMs Collaborate"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/consilium-multi-llm"
-local_vault_path: "ai\models\consilium-when-multiple-llms-collaborate-0deb0a.md"
+local_vault_path: "ai/models/consilium-when-multiple-llms-collaborate-0deb0a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/consilium-multi-llm
 
 ## Local Vault File
 
-Path: [consilium-when-multiple-llms-collaborate-0deb0a.md](file:///../../ai\models\consilium-when-multiple-llms-collaborate-0deb0a.md)
+Path: [consilium-when-multiple-llms-collaborate-0deb0a.md](file:///../../ai/models/consilium-when-multiple-llms-collaborate-0deb0a.md)

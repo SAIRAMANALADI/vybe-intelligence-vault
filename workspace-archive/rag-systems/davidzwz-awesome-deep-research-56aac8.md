@@ -3,7 +3,7 @@ title: "DavidZWZ/Awesome-Deep-Research"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/DavidZWZ/Awesome-Deep-Research"
-local_vault_path: "ai\rag\davidzwz-awesome-deep-research-56aac8.md"
+local_vault_path: "ai/rag/davidzwz-awesome-deep-research-56aac8.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/DavidZWZ/Awesome-Deep-Research
 
 ## Local Vault File
 
-Path: [davidzwz-awesome-deep-research-56aac8.md](file:///../../ai\rag\davidzwz-awesome-deep-research-56aac8.md)
+Path: [davidzwz-awesome-deep-research-56aac8.md](file:///../../ai/rag/davidzwz-awesome-deep-research-56aac8.md)

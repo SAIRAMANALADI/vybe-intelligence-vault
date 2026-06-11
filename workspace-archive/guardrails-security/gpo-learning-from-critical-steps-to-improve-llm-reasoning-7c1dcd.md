@@ -3,7 +3,7 @@ title: "GPO: Learning from Critical Steps to Improve LLM Reasoning"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.16456"
-local_vault_path: "ai\research\gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md"
+local_vault_path: "ai/research/gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.16456
 
 ## Local Vault File
 
-Path: [gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md](file:///../../ai\research\gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md)
+Path: [gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md](file:///../../ai/research/gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md)

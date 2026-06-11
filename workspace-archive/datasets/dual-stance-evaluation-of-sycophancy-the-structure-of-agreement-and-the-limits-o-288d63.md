@@ -3,7 +3,7 @@ title: "Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11205"
-local_vault_path: "ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md"
+local_vault_path: "ai/research/dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11205
 
 ## Local Vault File
 
-Path: [dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md](file:///../../ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md)
+Path: [dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md](file:///../../ai/research/dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md)

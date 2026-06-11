@@ -3,7 +3,7 @@ title: "The Open Arabic LLM Leaderboard 2"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-arabic-v2"
-local_vault_path: "ai\models\the-open-arabic-llm-leaderboard-2-7a2ac9.md"
+local_vault_path: "ai/models/the-open-arabic-llm-leaderboard-2-7a2ac9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic-v2
 
 ## Local Vault File
 
-Path: [the-open-arabic-llm-leaderboard-2-7a2ac9.md](file:///../../ai\models\the-open-arabic-llm-leaderboard-2-7a2ac9.md)
+Path: [the-open-arabic-llm-leaderboard-2-7a2ac9.md](file:///../../ai/models/the-open-arabic-llm-leaderboard-2-7a2ac9.md)

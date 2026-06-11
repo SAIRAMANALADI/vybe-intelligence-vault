@@ -3,7 +3,7 @@ title: "Composing Linear Layers from Irreducibles"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.11688"
-local_vault_path: "ai\research\composing-linear-layers-from-irreducibles-310c21.md"
+local_vault_path: "ai/research/composing-linear-layers-from-irreducibles-310c21.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2507.11688
 
 ## Local Vault File
 
-Path: [composing-linear-layers-from-irreducibles-310c21.md](file:///../../ai\research\composing-linear-layers-from-irreducibles-310c21.md)
+Path: [composing-linear-layers-from-irreducibles-310c21.md](file:///../../ai/research/composing-linear-layers-from-irreducibles-310c21.md)

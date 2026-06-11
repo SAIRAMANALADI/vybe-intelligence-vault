@@ -3,7 +3,7 @@ title: "How to Build an AI Agent with LangGraph Python in 14 Steps [2026]"
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://tech-insider.org/langgraph-tutorial-ai-agent-python-2026"
-local_vault_path: "ai\rag\how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md"
+local_vault_path: "ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://tech-insider.org/langgraph-tutorial-ai-agent-python
 
 ## Local Vault File
 
-Path: [how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md](file:///../../ai\rag\how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md)
+Path: [how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md](file:///../../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md)

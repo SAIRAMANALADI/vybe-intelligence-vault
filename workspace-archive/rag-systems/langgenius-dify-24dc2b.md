@@ -3,7 +3,7 @@ title: "langgenius/dify"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/langgenius/dify"
-local_vault_path: "ai\rag\langgenius-dify-24dc2b.md"
+local_vault_path: "ai/rag/langgenius-dify-24dc2b.md"
 quality_score: 70
 archive_score: 87
 archive_tier: "essential"
@@ -50,4 +50,4 @@ Original source URL: https://github.com/langgenius/dify
 
 ## Local Vault File
 
-Path: [langgenius-dify-24dc2b.md](file:///../../ai\rag\langgenius-dify-24dc2b.md)
+Path: [langgenius-dify-24dc2b.md](file:///../../ai/rag/langgenius-dify-24dc2b.md)

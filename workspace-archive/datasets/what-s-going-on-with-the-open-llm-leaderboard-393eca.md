@@ -3,7 +3,7 @@ title: "What's going on with the Open LLM Leaderboard?"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-llm-leaderboard-mmlu"
-local_vault_path: "ai\models\what-s-going-on-with-the-open-llm-leaderboard-393eca.md"
+local_vault_path: "ai/models/what-s-going-on-with-the-open-llm-leaderboard-393eca.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-mmlu
 
 ## Local Vault File
 
-Path: [what-s-going-on-with-the-open-llm-leaderboard-393eca.md](file:///../../ai\models\what-s-going-on-with-the-open-llm-leaderboard-393eca.md)
+Path: [what-s-going-on-with-the-open-llm-leaderboard-393eca.md](file:///../../ai/models/what-s-going-on-with-the-open-llm-leaderboard-393eca.md)

@@ -3,7 +3,7 @@ title: "Quality Adaptive Angular Margin Learning for Respiratory Sound Classific
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11915"
-local_vault_path: "ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md"
+local_vault_path: "ai/research/quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11915
 
 ## Local Vault File
 
-Path: [quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md](file:///../../ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md)
+Path: [quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md](file:///../../ai/research/quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md)

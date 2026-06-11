@@ -3,7 +3,7 @@ title: "Announcing our new Content Guidelines and Policy"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/content-guidelines-update"
-local_vault_path: "ai\models\announcing-our-new-content-guidelines-and-policy-3c70ac.md"
+local_vault_path: "ai/models/announcing-our-new-content-guidelines-and-policy-3c70ac.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/content-guidelines-update
 
 ## Local Vault File
 
-Path: [announcing-our-new-content-guidelines-and-policy-3c70ac.md](file:///../../ai\models\announcing-our-new-content-guidelines-and-policy-3c70ac.md)
+Path: [announcing-our-new-content-guidelines-and-policy-3c70ac.md](file:///../../ai/models/announcing-our-new-content-guidelines-and-policy-3c70ac.md)

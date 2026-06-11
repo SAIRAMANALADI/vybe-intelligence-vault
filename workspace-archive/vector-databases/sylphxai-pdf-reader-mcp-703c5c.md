@@ -3,7 +3,7 @@ title: "SylphxAI/pdf-reader-mcp"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/SylphxAI/pdf-reader-mcp"
-local_vault_path: "ai\rag\sylphxai-pdf-reader-mcp-703c5c.md"
+local_vault_path: "ai/rag/sylphxai-pdf-reader-mcp-703c5c.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "essential"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/SylphxAI/pdf-reader-mcp
 
 ## Local Vault File
 
-Path: [sylphxai-pdf-reader-mcp-703c5c.md](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md)
+Path: [sylphxai-pdf-reader-mcp-703c5c.md](file:///../../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md)

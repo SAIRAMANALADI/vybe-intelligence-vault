@@ -3,7 +3,7 @@ title: "TIMAN-group/PlugMem"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/TIMAN-group/PlugMem"
-local_vault_path: "ai\rag\timan-group-plugmem-ee2903.md"
+local_vault_path: "ai/rag/timan-group-plugmem-ee2903.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/TIMAN-group/PlugMem
 
 ## Local Vault File
 
-Path: [timan-group-plugmem-ee2903.md](file:///../../ai\rag\timan-group-plugmem-ee2903.md)
+Path: [timan-group-plugmem-ee2903.md](file:///../../ai/rag/timan-group-plugmem-ee2903.md)

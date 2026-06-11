@@ -3,7 +3,7 @@ title: "phoenix0706/langgraph-agent-gaia-benchmark"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/phoenix0706/langgraph-agent-gaia-benchmark"
-local_vault_path: "ai\agents\phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md"
+local_vault_path: "ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/phoenix0706/langgraph-agent-gaia-benchma
 
 ## Local Vault File
 
-Path: [phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md](file:///../../ai\agents\phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md)
+Path: [phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md](file:///../../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md)

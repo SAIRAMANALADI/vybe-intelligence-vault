@@ -3,7 +3,7 @@ title: "AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Ben
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://benchmarkingagents.com/agent-benchmarks"
-local_vault_path: "ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md"
+local_vault_path: "ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://benchmarkingagents.com/agent-benchmarks
 
 ## Local Vault File
 
-Path: [ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
+Path: [ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)

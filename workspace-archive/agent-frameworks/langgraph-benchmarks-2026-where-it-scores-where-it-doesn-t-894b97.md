@@ -3,7 +3,7 @@ title: "LangGraph Benchmarks 2026: Where It Scores, Where It Doesn't"
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://benchmarkingagents.com/langgraph-benchmarks"
-local_vault_path: "ai\rag\langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md"
+local_vault_path: "ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://benchmarkingagents.com/langgraph-benchmarks
 
 ## Local Vault File
 
-Path: [langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md](file:///../../ai\rag\langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md)
+Path: [langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md](file:///../../ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md)

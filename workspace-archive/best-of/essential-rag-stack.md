@@ -8,65 +8,65 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
+### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
+- **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp-703c5c.md`](file:///../../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai/rag/langgenius-dify-24dc2b.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai/rag/yonatangross-orchestkit-239a6d.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template-3ea428.md`](file:///../../web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md)
+- **Score**: `87` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template-3ea428.md`](file:///../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md`](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai\rag\langgenius-dify-24dc2b.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp-703c5c.md`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
-- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
-- **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `85` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)
+- **Score**: `85` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md)
 - **Selection Reason**: Active open-source repository
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `85` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai\rag\langgenius-dify-24dc2b.md)
-- **Selection Reason**: Useful for project building
-
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `85` | **Path**: [`sylphxai-pdf-reader-mcp-703c5c.md`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md)
+- **Score**: `85` | **Path**: [`sylphxai-pdf-reader-mcp-703c5c.md`](file:///../../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md)
 - **Selection Reason**: Useful for project building
 
-### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
-- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `85` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md)
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `85` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai/rag/langgenius-dify-24dc2b.md)
 - **Selection Reason**: Useful for project building
 
 ### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `85` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
+- **Score**: `85` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai/rag/yonatangross-orchestkit-239a6d.md)
 - **Selection Reason**: Active open-source repository
 
-### [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
+### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
+- **Score**: `85` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md)
+- **Selection Reason**: Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 18:12 UTC*
+*Last updated: 2026-06-11 18:23 UTC*

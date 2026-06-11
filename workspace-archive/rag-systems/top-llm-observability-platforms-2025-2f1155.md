@@ -3,7 +3,7 @@ title: "Top LLM Observability platforms 2025"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://agenta.ai/blog/top-llm-observability-platforms"
-local_vault_path: "ai\rag\top-llm-observability-platforms-2025-2f1155.md"
+local_vault_path: "ai/rag/top-llm-observability-platforms-2025-2f1155.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://agenta.ai/blog/top-llm-observability-platforms
 
 ## Local Vault File
 
-Path: [top-llm-observability-platforms-2025-2f1155.md](file:///../../ai\rag\top-llm-observability-platforms-2025-2f1155.md)
+Path: [top-llm-observability-platforms-2025-2f1155.md](file:///../../ai/rag/top-llm-observability-platforms-2025-2f1155.md)

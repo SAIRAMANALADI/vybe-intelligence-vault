@@ -3,7 +3,7 @@ title: "Hugging Face Machine Learning Demos on arXiv"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/arxiv"
-local_vault_path: "ai\models\hugging-face-machine-learning-demos-on-arxiv-42f606.md"
+local_vault_path: "ai/models/hugging-face-machine-learning-demos-on-arxiv-42f606.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/arxiv
 
 ## Local Vault File
 
-Path: [hugging-face-machine-learning-demos-on-arxiv-42f606.md](file:///../../ai\models\hugging-face-machine-learning-demos-on-arxiv-42f606.md)
+Path: [hugging-face-machine-learning-demos-on-arxiv-42f606.md](file:///../../ai/models/hugging-face-machine-learning-demos-on-arxiv-42f606.md)

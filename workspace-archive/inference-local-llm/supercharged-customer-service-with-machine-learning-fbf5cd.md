@@ -3,7 +3,7 @@ title: "Supercharged Customer Service with Machine Learning"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning"
-local_vault_path: "ai\models\supercharged-customer-service-with-machine-learning-fbf5cd.md"
+local_vault_path: "ai/models/supercharged-customer-service-with-machine-learning-fbf5cd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/supercharge-customer-service-wi
 
 ## Local Vault File
 
-Path: [supercharged-customer-service-with-machine-learning-fbf5cd.md](file:///../../ai\models\supercharged-customer-service-with-machine-learning-fbf5cd.md)
+Path: [supercharged-customer-service-with-machine-learning-fbf5cd.md](file:///../../ai/models/supercharged-customer-service-with-machine-learning-fbf5cd.md)

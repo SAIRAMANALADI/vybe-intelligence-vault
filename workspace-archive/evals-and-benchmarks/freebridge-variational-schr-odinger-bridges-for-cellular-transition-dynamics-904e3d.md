@@ -3,7 +3,7 @@ title: "FreeBridge: Variational Schr\\"odinger Bridges for Cellular Transition D
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11286"
-local_vault_path: "ai\research\freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md"
+local_vault_path: "ai/research/freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11286
 
 ## Local Vault File
 
-Path: [freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md](file:///../../ai\research\freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md)
+Path: [freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md](file:///../../ai/research/freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md)

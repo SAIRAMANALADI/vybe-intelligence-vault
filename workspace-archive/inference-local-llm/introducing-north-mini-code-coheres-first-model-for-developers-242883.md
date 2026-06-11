@@ -3,7 +3,7 @@ title: "Introducing North Mini Code: Cohere’s First Model For Developers"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code"
-local_vault_path: "ai\models\introducing-north-mini-code-coheres-first-model-for-developers-242883.md"
+local_vault_path: "ai/models/introducing-north-mini-code-coheres-first-model-for-developers-242883.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/CohereLabs/introducing-north-mi
 
 ## Local Vault File
 
-Path: [introducing-north-mini-code-coheres-first-model-for-developers-242883.md](file:///../../ai\models\introducing-north-mini-code-coheres-first-model-for-developers-242883.md)
+Path: [introducing-north-mini-code-coheres-first-model-for-developers-242883.md](file:///../../ai/models/introducing-north-mini-code-coheres-first-model-for-developers-242883.md)

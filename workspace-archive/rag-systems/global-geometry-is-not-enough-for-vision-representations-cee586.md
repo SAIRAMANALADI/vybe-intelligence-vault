@@ -3,7 +3,7 @@ title: "Global Geometry Is Not Enough for Vision Representations"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.03282"
-local_vault_path: "ai\rag\global-geometry-is-not-enough-for-vision-representations-cee586.md"
+local_vault_path: "ai/rag/global-geometry-is-not-enough-for-vision-representations-cee586.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.03282
 
 ## Local Vault File
 
-Path: [global-geometry-is-not-enough-for-vision-representations-cee586.md](file:///../../ai\rag\global-geometry-is-not-enough-for-vision-representations-cee586.md)
+Path: [global-geometry-is-not-enough-for-vision-representations-cee586.md](file:///../../ai/rag/global-geometry-is-not-enough-for-vision-representations-cee586.md)

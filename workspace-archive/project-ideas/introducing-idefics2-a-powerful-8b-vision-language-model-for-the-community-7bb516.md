@@ -3,7 +3,7 @@ title: "Introducing Idefics2: A Powerful 8B Vision-Language Model for the commun
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/idefics2"
-local_vault_path: "ai\models\introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md"
+local_vault_path: "ai/models/introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/idefics2
 
 ## Local Vault File
 
-Path: [introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md](file:///../../ai\models\introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md)
+Path: [introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md](file:///../../ai/models/introducing-idefics2-a-powerful-8b-vision-language-model-for-the-community-7bb516.md)

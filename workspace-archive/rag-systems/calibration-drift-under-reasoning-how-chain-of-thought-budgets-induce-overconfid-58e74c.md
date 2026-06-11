@@ -3,7 +3,7 @@ title: "Calibration Drift Under Reasoning: How Chain-of-Thought Budgets Induce O
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11211"
-local_vault_path: "ai\research\calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md"
+local_vault_path: "ai/research/calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11211
 
 ## Local Vault File
 
-Path: [calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md](file:///../../ai\research\calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md)
+Path: [calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md](file:///../../ai/research/calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md)

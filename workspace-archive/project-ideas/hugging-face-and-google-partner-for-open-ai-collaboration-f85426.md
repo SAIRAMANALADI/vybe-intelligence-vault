@@ -3,7 +3,7 @@ title: "Hugging Face and Google partner for open AI collaboration"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gcp-partnership"
-local_vault_path: "ai\models\hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md"
+local_vault_path: "ai/models/hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gcp-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md](file:///../../ai\models\hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md)
+Path: [hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md](file:///../../ai/models/hugging-face-and-google-partner-for-open-ai-collaboration-f85426.md)

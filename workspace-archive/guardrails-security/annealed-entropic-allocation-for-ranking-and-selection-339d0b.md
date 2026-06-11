@@ -3,7 +3,7 @@ title: "Annealed Entropic Allocation for Ranking and Selection"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11347"
-local_vault_path: "ai\research\annealed-entropic-allocation-for-ranking-and-selection-339d0b.md"
+local_vault_path: "ai/research/annealed-entropic-allocation-for-ranking-and-selection-339d0b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11347
 
 ## Local Vault File
 
-Path: [annealed-entropic-allocation-for-ranking-and-selection-339d0b.md](file:///../../ai\research\annealed-entropic-allocation-for-ranking-and-selection-339d0b.md)
+Path: [annealed-entropic-allocation-for-ranking-and-selection-339d0b.md](file:///../../ai/research/annealed-entropic-allocation-for-ranking-and-selection-339d0b.md)

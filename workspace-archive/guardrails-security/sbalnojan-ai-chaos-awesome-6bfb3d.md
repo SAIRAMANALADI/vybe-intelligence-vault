@@ -3,7 +3,7 @@ title: "sbalnojan/ai-chaos-awesome"
 archive_category: "guardrails-security"
 source_category: "ai/rag"
 source_url: "https://github.com/sbalnojan/ai-chaos-awesome"
-local_vault_path: "ai\rag\sbalnojan-ai-chaos-awesome-6bfb3d.md"
+local_vault_path: "ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/sbalnojan/ai-chaos-awesome
 
 ## Local Vault File
 
-Path: [sbalnojan-ai-chaos-awesome-6bfb3d.md](file:///../../ai\rag\sbalnojan-ai-chaos-awesome-6bfb3d.md)
+Path: [sbalnojan-ai-chaos-awesome-6bfb3d.md](file:///../../ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md)

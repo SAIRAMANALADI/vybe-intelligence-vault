@@ -3,7 +3,7 @@ title: "mrdoob/three.js"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/mrdoob/three.js"
-local_vault_path: "web-development\threejs\mrdoob-three-js-578d9a.md"
+local_vault_path: "web-development/threejs/mrdoob-three-js-578d9a.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/mrdoob/three.js
 
 ## Local Vault File
 
-Path: [mrdoob-three-js-578d9a.md](file:///../../web-development\threejs\mrdoob-three-js-578d9a.md)
+Path: [mrdoob-three-js-578d9a.md](file:///../../web-development/threejs/mrdoob-three-js-578d9a.md)

@@ -3,7 +3,7 @@ title: "Dell Enterprise Hub is all you need to build AI on premises"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/dell-ai-applications"
-local_vault_path: "ai\models\dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md"
+local_vault_path: "ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/dell-ai-applications
 
 ## Local Vault File
 
-Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md](file:///../../ai\models\dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md)
+Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md](file:///../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md)

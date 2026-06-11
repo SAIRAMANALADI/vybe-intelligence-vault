@@ -3,7 +3,7 @@ title: "codebucks27/Apple-iphone-3d-landing-page-starter-Code"
 archive_category: "startup-builder"
 source_category: "web-development/gsap"
 source_url: "https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code"
-local_vault_path: "web-development\gsap\codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md"
+local_vault_path: "web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/codebucks27/Apple-iphone-3d-landing-page
 
 ## Local Vault File
 
-Path: [codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md](file:///../../web-development\gsap\codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md)
+Path: [codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md](file:///../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md)

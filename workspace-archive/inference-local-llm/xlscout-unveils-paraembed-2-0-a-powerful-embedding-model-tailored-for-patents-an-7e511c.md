@@ -3,7 +3,7 @@ title: "XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for P
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/xlscout-case-study"
-local_vault_path: "ai\models\xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md"
+local_vault_path: "ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/xlscout-case-study
 
 ## Local Vault File
 
-Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md](file:///../../ai\models\xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md)
+Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md](file:///../../ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md)

@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 78 resources matched in the intelligence vault.
+Active signals: 79 resources matched in the intelligence vault.
 Recently detected signals:
+- [TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md) (Source: arXiv Machine Learning) - Collected 2026-06-11
 - [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) (Source: GitHub Discovery) - Collected 2026-06-11
 - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) (Source: GitHub Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -76,4 +76,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.612142+00:00.770750+00:00.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.899215+00:00.612142+00:00.770750+00:00.526983+00:00.

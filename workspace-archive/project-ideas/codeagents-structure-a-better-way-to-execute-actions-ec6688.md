@@ -3,7 +3,7 @@ title: "CodeAgents + Structure: A Better Way to Execute Actions"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/structured-codeagent"
-local_vault_path: "ai\agents\codeagents-structure-a-better-way-to-execute-actions-ec6688.md"
+local_vault_path: "ai/agents/codeagents-structure-a-better-way-to-execute-actions-ec6688.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/structured-codeagent
 
 ## Local Vault File
 
-Path: [codeagents-structure-a-better-way-to-execute-actions-ec6688.md](file:///../../ai\agents\codeagents-structure-a-better-way-to-execute-actions-ec6688.md)
+Path: [codeagents-structure-a-better-way-to-execute-actions-ec6688.md](file:///../../ai/agents/codeagents-structure-a-better-way-to-execute-actions-ec6688.md)

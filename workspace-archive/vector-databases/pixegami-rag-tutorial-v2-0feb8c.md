@@ -3,7 +3,7 @@ title: "pixegami/rag-tutorial-v2"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/pixegami/rag-tutorial-v2"
-local_vault_path: "ai\rag\pixegami-rag-tutorial-v2-0feb8c.md"
+local_vault_path: "ai/rag/pixegami-rag-tutorial-v2-0feb8c.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/pixegami/rag-tutorial-v2
 
 ## Local Vault File
 
-Path: [pixegami-rag-tutorial-v2-0feb8c.md](file:///../../ai\rag\pixegami-rag-tutorial-v2-0feb8c.md)
+Path: [pixegami-rag-tutorial-v2-0feb8c.md](file:///../../ai/rag/pixegami-rag-tutorial-v2-0feb8c.md)

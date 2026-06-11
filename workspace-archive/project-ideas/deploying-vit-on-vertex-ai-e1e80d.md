@@ -3,7 +3,7 @@ title: "Deploying 🤗 ViT on Vertex AI"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deploy-vertex-ai"
-local_vault_path: "ai\models\deploying-vit-on-vertex-ai-e1e80d.md"
+local_vault_path: "ai/models/deploying-vit-on-vertex-ai-e1e80d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deploy-vertex-ai
 
 ## Local Vault File
 
-Path: [deploying-vit-on-vertex-ai-e1e80d.md](file:///../../ai\models\deploying-vit-on-vertex-ai-e1e80d.md)
+Path: [deploying-vit-on-vertex-ai-e1e80d.md](file:///../../ai/models/deploying-vit-on-vertex-ai-e1e80d.md)

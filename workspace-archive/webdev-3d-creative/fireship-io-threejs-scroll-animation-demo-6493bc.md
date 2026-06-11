@@ -3,7 +3,7 @@ title: "fireship-io/threejs-scroll-animation-demo"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/fireship-io/threejs-scroll-animation-demo"
-local_vault_path: "web-development\threejs\fireship-io-threejs-scroll-animation-demo-6493bc.md"
+local_vault_path: "web-development/threejs/fireship-io-threejs-scroll-animation-demo-6493bc.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/fireship-io/threejs-scroll-animation-dem
 
 ## Local Vault File
 
-Path: [fireship-io-threejs-scroll-animation-demo-6493bc.md](file:///../../web-development\threejs\fireship-io-threejs-scroll-animation-demo-6493bc.md)
+Path: [fireship-io-threejs-scroll-animation-demo-6493bc.md](file:///../../web-development/threejs/fireship-io-threejs-scroll-animation-demo-6493bc.md)

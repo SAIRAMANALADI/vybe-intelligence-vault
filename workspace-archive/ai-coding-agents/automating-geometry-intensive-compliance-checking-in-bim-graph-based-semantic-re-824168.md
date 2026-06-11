@@ -3,7 +3,7 @@ title: "Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Se
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12065"
-local_vault_path: "ai\agents\automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md"
+local_vault_path: "ai/agents/automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12065
 
 ## Local Vault File
 
-Path: [automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md](file:///../../ai\agents\automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md)
+Path: [automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md](file:///../../ai/agents/automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md)

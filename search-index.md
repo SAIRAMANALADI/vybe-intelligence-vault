@@ -578,6 +578,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.evidentlyai.com/blog/rag-examples>
 
+* **[A complete guide to RAG evaluation: metrics, testing and best practices](ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md)** (`dataset` | `useful` tier)
+  * Summary: 📚 LLM-as-a-Judge: a Complete Guide on Using LLMs for Evaluations. Get your copyProductLLM and AI AgentsEvaluate LLM quality and safetyPredictive ML Systems Track data drift and predictive qualityGitHubDocsResourcesBlogInsights on building AI products
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `models`, `openai`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.evidentlyai.com/llm-guide/rag-evaluation>
+
 * **[cyproxio/mcp-for-security](ai/resources/cyproxio-mcp-for-security-fe516a.md)** (`workflow` | `useful` tier)
   * Summary: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows.
   * Tags: `github-repo`, `scripts`, `typescript`, `workflows`
@@ -622,10 +627,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation>
 
+* **[15 Best Open-Source RAG Frameworks in 2026](ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md)** (`framework` | `useful` tier)
+  * Summary: Blog15 Best Open-Source RAG Frameworks in 2026Bex TuychievJan 02, 2026Introduction Last year, Llama 4 came out with 10 million tokens of context window. Naturally, people started wondering if that was the end of RAG because the models seem to crush n
+  * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.firecrawl.dev/blog/best-open-source-rag-frameworks>
+
 * **[2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md)** (`framework` | `useful` tier)
   * Summary: /Tech Blog/2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI2026-05-21 - QubitTool Tech TeamThe AI agent land
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://qubittool.com/blog/ai-agent-framework-comparison-2026>
+
+* **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md)** (`prompt` | `useful` tier)
+  * Summary: India's Most Futuristic AI Conference Is Back – Bigger, Sharper, Bolder d : h : m : s Get Details Free Courses Accelerator Program New GenAI Pinnacle Plus Agentic AI Pioneer DHS 2026 Login Switch Mode Logout Interview PrepCareerGenAIPrompt EnggChatGP
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `threejs`, `web-crawled`, `workflows`
+  * Source URL: <https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems>
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
@@ -731,6 +746,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by speckx. Score: 427, Comments: 378. Original Link: https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/>
+
+* **[Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md)** (`benchmark` | `useful` tier)
+  * Summary: Table of contents Exit editor mode Ask Learn Ask Learn Reading mode Table of contents Read in English Add Add to plan Edit Copy Markdown Print Note Access to this page requires authorization. You can try signing in or changing directories. Access to
+  * Tags: `agents`, `benchmark`, `hackernews`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide>
 
 * **[Evaluating AI Agents: Metrics & Benchmarks 2026](ai/rag/evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md)** (`benchmark` | `useful` tier)
   * Summary: AI EngineeringAI AgentsHow to Evaluate AI Agents: Metrics, Benchmarks & Testing 2026April 21, 2026•6 minutesShipping an AI agent that demos well is easy. Shipping one that survives a Tuesday morning of real users, flaky APIs, and ambiguous instructio
@@ -877,6 +897,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `ai`, `hackernews`
   * Source URL: <https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/>
 
+* **[Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md)** (`workflow` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`, `workflows`
+  * Source URL: <https://mistral.ai/news/workflows>
+
 * **[Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](ai/rag/production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)** (`framework` | `useful` tier)
   * Summary: Back to BlogAI ImplementationProduction-Ready RAG Systems: End to End GuideMay 16, 202537 min readSaumil SrivastavaEngineering LeaderTable Of ContentsLoading content outline...Executive SummaryThis guide provides a comprehensive framework for impleme
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -922,10 +947,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5>
 
+* **[The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md)** (`framework` | `useful` tier)
+  * Summary: Home » PostsThe Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation SystemsJanuary 6, 2026 · 5 min · 944 words · martinuke0Table of ContentsWhat is RAG and Why Frameworks MatterTop 5 Best RAG Framewo
+  * Tags: `agents`, `benchmark`, `dataset`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems>
+
 * **[Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md)** (`dataset` | `useful` tier)
   * Summary: ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don
   * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.braintrust.dev/articles/top-10-llm-observability-tools-2025>
+
+* **[Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md)** (`framework` | `useful` tier)
+  * Summary: Top 10 RAG Frameworks Github Repos 2025Rowan Blackwoon10 min read·May 15, 2025--ListenShareRetrieval-Augmented Generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models.RAG frameworks combine the str
+  * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Source URL: <https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355>
 
 * **[Top 7 LLM Observability Tools in 2026 - Confident AI](ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)** (`dataset` | `useful` tier)
   * Summary: Kritin Vongthongsri, Co-founder @ Confident AILLM Evals & Safety Wizard. Previously ML + CS @ Princeton researching self-driving cars.Last edited on May 31, 2026TL;DR — Best LLM Observability Tools in 2026Confident AI is the best LLM observability to
@@ -1053,6 +1088,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://nerdleveltech.com/guides/rag-hands-on-tutorial>
 
+* **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md)** (`dataset` | `useful` tier)
+  * Summary: Building Your Own RAG System from Scratch: A Step-by-Step GuideAnish Chitturu9 min read·Jan 13, 2025--ListenShareRecently, Retrieval-Augmented Generation (RAG) has emerged as a powerful paradigm in the field of AI and Large Language Models (LLMs). RA
+  * Tags: `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`
+  * Source URL: <https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14>
+
 * **[Calibration Drift Under Reasoning: How Chain-of-Thought Budgets Induce Overconfidence in Large Language Models](ai/research/calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11211v1 Announce Type: cross Abstract: The ability of large language models (LLMs) to express calibrated uncertainty is important for safe deployment. Chain-of-thought (CoT) reasoning is widely used to improve accuracy and reliability, but
   * Tags: `models`
@@ -1071,6 +1111,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.00181v3 Announce Type: replace-cross Abstract: We address two persistent gaps in Emotion Recognition in Conversation: which modeling choices materially affect performance, and how recognition findings connect to interpretable discourse-lev
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2601.00181>
+
+* **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](ai/research/certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2510.03520v2 Announce Type: replace-cross Abstract: Ensuring safety is a foundational requirement for large language models (LLMs). Achieving an appropriate balance between enhancing the utility of model outputs and mitigating their potential f
+  * Tags: `benchmark`, `hackernews`
+  * Source URL: <https://arxiv.org/abs/2510.03520>
 
 * **[Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching](ai/research/corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11925v1 Announce Type: cross Abstract: Sign language translation (SLT) converts sign language video into spoken language text and holds significant promise for improving accessibility and enabling communication between signing and non-sign
@@ -1335,6 +1380,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12211v1 Announce Type: cross Abstract: A central principle in quantum machine learning is that an ansatz should be expressive enough to represent the quantum data of interest. Yet, the expressibility is statistically meaningful only insofa
   * Source URL: <https://arxiv.org/abs/2606.12211>
 
+* **[RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md)** (`dataset` | `useful` tier)
+  * Summary: AI & Machine LearningOptimizing RAG retrieval: Test, tune, succeedDecember 18, 2024Hugo SelbieStaff Customer & Partner Solutions Engineer, GoogleTom PakemanCustomer Partner & Solutions EngineerTry Gemini Enterprise Business Edition todayThe front doo
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `models`, `rag`, `web-crawled`
+  * Source URL: <https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval>
+
+* **[RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md)** (`dataset` | `useful` tier)
+  * Summary: Published onApril 21, 2026 · 14 min readRAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026RAG is still the dominant architecture for grounding LLMs with external knowledge in 2026 — but the landscape has fractured in
+  * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `scripts`, `web-crawled`
+  * Source URL: <https://blog.starmorph.com/blog/rag-techniques-compared-best-practices-guide>
+
 * **[READER: Robust Evidence-based Authorship Decoding via Extracted Representations](ai/rag/reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.10794v2 Announce Type: replace Abstract: As agentic applications increasingly route user tasks through official and third-party LLM APIs, provenance becomes an operational question: which model generated a given black-box response? We stud
   * Tags: `agents`, `rag`
@@ -1439,6 +1494,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11640v1 Announce Type: cross Abstract: Few-shot tabular learning provides a cost-effective approach for real-world applications where annotation is costly and collecting sufficient samples for new tasks is difficult. Existing Traditional a
   * Source URL: <https://arxiv.org/abs/2606.11640>
 
+* **[TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.11844v1 Announce Type: new Abstract: Continual anomaly detection in tabular data is challenging and remains largely underexplored, particularly in settings with heterogeneous feature schemas, distribution shifts, and severe class imbalance
+  * Tags: `dataset`, `models`
+  * Source URL: <https://arxiv.org/abs/2606.11844>
+
 * **[Teaching Diffusion to Speculate Left-to-Right](ai/research/teaching-diffusion-to-speculate-left-to-right-b81988.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11552v1 Announce Type: cross Abstract: Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their autoregressive decoding process incurs substantial inference costs due to inherently sequential toke
   * Source URL: <https://arxiv.org/abs/2606.11552>
@@ -1446,6 +1506,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Tensor Methods: A Unified and Interpretable Approach for Material Design](ai/research/tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2602.10392v2 Announce Type: replace Abstract: When designing new materials, it is often necessary to tailor the material design to have some desired properties. As the set of design parameters grow, the search space grows exponentially, making
   * Source URL: <https://arxiv.org/abs/2602.10392>
+
+* **[The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md)** (`framework` | `useful` tier)
+  * Summary: Note: Code examples in this guide use LangChain 0.3+, LlamaIndex 0.11+, and OpenAI SDK 1.x+. Vector database examples cover Chroma, Pinecone, and pgvector. Always check official documentation for the latest API changes. Retrieval-Augmented Generation
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `web-crawled`
+  * Source URL: <https://nerdleveltech.com/guides/rag-systems>
 
 * **[The Power of Test-Time Training for Approximate Sampling](ai/research/the-power-of-test-time-training-for-approximate-sampling-3f21e5.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11437v1 Announce Type: cross Abstract: Efficiently sampling from a complex probability distribution is a fundamental problem which has become increasingly pertinent in recent years with the rise of generative AI, as sophisticated sampling
@@ -1473,6 +1538,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.09287v2 Announce Type: replace Abstract: Understanding how transformer representations evolve across layers, not merely what they encode, remains an open problem in mechanistic interpretability. We recast the transformer forward pass as a
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.09287>
+
+* **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](ai/research/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2512.22088>
 
 * **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.12138v1 Announce Type: cross Abstract: Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this q
@@ -1854,40 +1924,185 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Model Providers
 
+* **[AI Adoption](ai/companies/openai/ai-adoption-7bd0fb.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from OpenAI News Blog: AI Adoption
+  * Tags: `blog-post`, `openai`, `openai-news`
+  * Source URL: <https://openai.com/news/ai-adoption>
+
+* **[AI Now Summit 2026](ai/companies/mistral/ai-now-summit-2026-6d511a.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: AI Now Summit 2026
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/ai-now-summit-2026>
+
 * **[aigateway-sh/awesome-ai-gateway](ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md)** (`benchmark` | `useful` tier)
   * Summary: A curated list of patterns, evals, and integrations for AIgateway and OpenAI-compatible gateways.
   * Tags: `github-repo`, `openai`, `unknown`
   * Source URL: <https://github.com/aigateway-sh/awesome-ai-gateway>
+
+* **[AlphaEarthMap our planet in unprecedented detail](ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: AlphaEarthMap our planet in unprecedented detail
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail>
+
+* **[AlphaEvolveDesign advanced algorithms for math and applications in computing](ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: AlphaEvolveDesign advanced algorithms for math and applications in computing
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms>
+
+* **[Applied AI](ai/companies/openai/applied-ai-6f9918.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from OpenAI News Blog: Applied AI
+  * Tags: `blog-post`, `openai`, `openai-news`
+  * Source URL: <https://openai.com/news/applied-ai>
+
+* **[Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/claude-fable-5-mythos-5>
+
+* **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/accelerate-ai-native-industry>
+
+* **[Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI](ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models>
+
+* **[Engineering](ai/companies/openai/engineering-3549a0.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from OpenAI News Blog: Engineering
+  * Tags: `blog-post`, `openai`, `openai-news`
+  * Source URL: <https://openai.com/news/engineering>
 
 * **[FuzzingLabs/mcp-security-hub](ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md)** (`mcp-server` | `useful` tier)
   * Summary: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
   * Tags: `anthropic`, `github-repo`, `python`
   * Source URL: <https://github.com/FuzzingLabs/mcp-security-hub>
 
+* **[Global Affairs](ai/companies/openai/global-affairs-f72452.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from OpenAI News Blog: Global Affairs
+  * Tags: `blog-post`, `openai`, `openai-news`
+  * Source URL: <https://openai.com/news/global-affairs>
+
+* **[Introducing Search Toolkit](ai/companies/mistral/introducing-search-toolkit-3ecb58.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Introducing Search Toolkit
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/search-toolkit>
+
+* **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/confidential-draft-s1-sec>
+
 * **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/dxc-anthropic-alliance>
+
+* **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md)** (`product` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/services-track-partner-hub>
+
+* **[Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack>
+
+* **[Learn more](ai/companies/deepmind/learn-more-314226.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research>
 
 * **[Learn more](ai/companies/deepmind/learn-more-eb1202.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
   * Source URL: <https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research>
 
+* **[Learn more](ai/companies/deepmind/learn-more-92fbb6.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica>
+
+* **[Learn more](ai/companies/deepmind/learn-more-1d9b12.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://antigravity.google/blog/introducing-google-antigravity-2-0>
+
+* **[Learn more](ai/companies/deepmind/learn-more-b2201e.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership>
+
+* **[Learn more](ai/companies/deepmind/learn-more-0a9db6.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond>
+
+* **[May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/milan-office-opening>
+
+* **[May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation](ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/series-h>
+
 * **[May 28, 2026ProductIntroducing Claude Opus 4.8](ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 28, 2026ProductIntroducing Claude Opus 4.8
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/claude-opus-4-8>
+
+* **[Mistral Medium 3.5](ai/companies/mistral/mistral-medium-3-5-e4fb7f.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Mistral Medium 3.5
+  * Tags: `agents`, `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5>
+
+* **[Mistral Small 4](ai/companies/mistral/mistral-small-4-a1604c.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Mistral Small 4
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/mistral-small-4>
 
 * **[mukul975/cve-mcp-server](ai/resources/mukul975-cve-mcp-server-7c2515.md)** (`mcp-server` | `useful` tier)
   * Summary: Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
   * Tags: `anthropic`, `github-repo`, `python`
   * Source URL: <https://github.com/mukul975/cve-mcp-server>
 
+* **[NewsDiscover our latest AI breakthroughs, projects, and updates](ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: NewsDiscover our latest AI breakthroughs, projects, and updates
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog>
+
 * **[openai/evals](ai/resources/openai-evals-2c8be2.md)** (`framework` | `useful` tier)
   * Summary: Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
   * Tags: `benchmark`, `github-repo`, `openai`, `python`
   * Source URL: <https://github.com/openai/evals>
+
+* **[Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md)** (`api` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/physics-ai-research>
+
+* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy-f70da8.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
+
+* **[SIMA 2An agent that plays, reasons, and learns with you](ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: SIMA 2An agent that plays, reasons, and learns with you
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds>
+
+* **[Vibe gets to work.](ai/companies/mistral/vibe-gets-to-work-e11a89.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Vibe gets to work.
+  * Tags: `agents`, `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/vibe-agent>
+
+* **[Voxtral TTS](ai/companies/mistral/voxtral-tts-d3c30c.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Mistral AI News Blog: Voxtral TTS
+  * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
+  * Source URL: <https://mistral.ai/news/voxtral-tts>
 
 ## Project Ideas
 
@@ -6046,6 +6261,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: The Transformers Library: standardizing model definitions
   * Source URL: <https://huggingface.co/blog/transformers-model-definition>
 
+* **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md)** (`benchmark` | `useful` tier)
+  * Summary: The Ultimate List of Python RAG Projects on GitHub 2 March 2026·13 mins AI/ML DevOps Community Python RAG LangChain LlamaIndex RAGFlow Retrieval-Augmented Generation The landscape of Retrieval-Augmented Generation (RAG) in Python has evolved signific
+  * Tags: `agents`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://dasroot.net/posts/2026/03/python-rag-projects-github>
+
 * **[The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning](ai/research/the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2505.03296v2 Announce Type: replace-cross Abstract: We present Mixture of Discrete-time Gaussian Processes (MiDiGap), a novel approach for flexible policy representation and imitation learning in robot manipulation. MiDiGap enables learning fro
   * Source URL: <https://arxiv.org/abs/2505.03296>
@@ -6735,6 +6955,16 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Vector Databases
 
+* **[[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md)** (`benchmark` | `useful` tier)
+  * Summary: Computer Science > Computation and Language arXiv:2501.07391 (cs) [Submitted on 13 Jan 2025] Title:Enhancing Retrieval-Augmented Generation: A Study of Best Practices Authors:Siran Li, Linus Stenzel, Carsten Eickhoff, Seyed Ali Bahrainian View a PDF
+  * Tags: `hackernews`, `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
+  * Source URL: <https://arxiv.org/abs/2501.07391>
+
+* **[[2510.12323] RAG-Anything: All-in-One RAG Framework](ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md)** (`framework` | `useful` tier)
+  * Summary: Computer Science > Artificial Intelligence arXiv:2510.12323 (cs) [Submitted on 14 Oct 2025] Title:RAG-Anything: All-in-One RAG Framework Authors:Zirui Guo, Xubin Ren, Lingrui Xu, Jiahao Zhang, Chao Huang View a PDF of the paper titled RAG-Anything: A
+  * Tags: `benchmark`, `paper`, `paperswithcode`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
+  * Source URL: <https://arxiv.org/abs/2510.12323>
+
 * **[adisystems/fmbench-assistant](ai/rag/adisystems-fmbench-assistant-a1c1b2.md)** (`benchmark` | `useful` tier)
   * Summary: AI Assistant for FMBench (foundation model benchmarking tool)
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `rag`
@@ -6840,6 +7070,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.12245>
 
+* **[Documentation best practices for RAG applications - AWS Prescriptive Guidance](ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md)** (`tutorial` | `useful` tier)
+  * Summary: View a markdown version of this pageDocumentation best practices for RAG applications - AWS Prescriptive GuidanceDocumentationAWS Prescriptive GuidanceWriting best practices to optimize RAG applicationsDocumentation best practices for RAG application
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://docs.aws.amazon.com/prescriptive-guidance/latest/writing-best-practices-rag/best-practices.html>
+
 * **[EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations](ai/rag/ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.20958v2 Announce Type: replace-cross Abstract: Vision-based Unmanned Aerial Vehicles (UAVs) frameworks aid human search tasks by detecting and recognizing specific individuals, then tracking and following them while maintaining a safe dist
   * Tags: `rag`
@@ -6885,6 +7120,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11688>
 
+* **[Google Colab](ai/rag/google-colab-dc1bd5.md)** (`tutorial` | `useful` tier)
+  * Summary: General public resource representing technology updates, guides, or tutorials.
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb>
+
 * **[Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](ai/rag/grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11817v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been wide
   * Tags: `rag`
@@ -6919,6 +7159,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: [KDD'2026] "VideoRAG: Chat with Your Videos"
   * Tags: `github-repo`, `python`, `rag`, `youtube`
   * Source URL: <https://github.com/HKUDS/VideoRAG>
+
+* **[How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md)** (`tutorial` | `useful` tier)
+  * Summary: CourseLarge Language Models (LLMs) Concepts2 hr98.8KDiscover the full potential of LLMs with our conceptual course covering LLM applications, training methodologies, ethical considerations, and latest research.See DetailsRight ArrowStart Course
+  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Source URL: <https://www.datacamp.com/tutorial/how-to-improve-rag-performance-5-key-techniques-with-examples>
 
 * **[humanlayer/12-factor-agents](ai/rag/humanlayer-12-factor-agents-b0ceeb.md)** (`framework` | `useful` tier)
   * Summary: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -6974,6 +7219,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2510.16152v2 Announce Type: replace-cross Abstract: Scientific literature is increasingly fragmented by disciplinary boundaries, specialized terminology, and potentially sparse keyword systems, making it difficult to capture the evolving struct
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2510.16152>
+
+* **[Mastering Chunking Strategies for RAG: Best Practices & Code Examples](ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md)** (`framework` | `useful` tier)
+  * Summary: Metadata-Driven ETL Framework in Databricks (Part-1) by Rjt_de • Databricks Employee 265340 Views 33 comments 55 kudos 10-21-2024
+  * Tags: `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089>
 
 * **[MLT-Dedup: Efficient Large-Scale Online Video Deduplication via Multi-Level Representations and Spatial-Temporal Matching](ai/rag/mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12215v1 Announce Type: cross Abstract: The explosive growth of user-generated video content on online platforms is accompanied by the emergence of numerous near-duplicate videos--videos that are identical or highly similar but differ by pa
@@ -7065,10 +7315,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`, `youtube`
   * Source URL: <https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280>
 
+* **[RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md)** (`benchmark` | `useful` tier)
+  * Summary: Tutorials / RAG: Step-by-StepFree Tutorial Intermediate ~45 min readRAG Tutorial: A Step-by-Step Guide to Retrieval-Augmented GenerationBuild a complete RAG system from scratch — from loading your first document to returning cited answers grounded in
+  * Tags: `benchmark`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://superml.org/tutorials/rag-beginner>
+
 * **[raganwald/raganwald.github.com](ai/rag/raganwald-raganwald-github-com-19eaaf.md)** (`tool` | `useful` tier)
   * Summary: raganwald.com jekyll source
   * Tags: `github-repo`, `html`, `rag`
   * Source URL: <https://github.com/raganwald/raganwald.github.com>
+
+* **[Retrieval-Augmented Generation (RAG) — RAG multi model documentation](ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md)** (`prompt` | `useful` tier)
+  * Summary: RAG multi model Introduction Introduction Implimentation What is Retrieval-Augmented Generation (RAG)? Step-by-Step Breakdown: Python Code Explanation Installation and Guide Installation Instructions Step-by-Step Guide for Using the Application Guide
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://rag.readthedocs.io>
 
 * **[Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models](ai/rag/risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md)** (`template` | `useful` tier)
   * Summary: arXiv:2606.11409v1 Announce Type: cross Abstract: Adversarial robustness evaluations of large language models (LLMs) typically report attack success rate (ASR) under fixed query budgets, implicitly treating all attacks as equally costly. In practice,
@@ -7184,6 +7444,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: [ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/wgcyeo/UniversalRAG>
+
+* **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md)** (`benchmark` | `useful` tier)
+  * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
+  * Tags: `anthropic`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `web-crawled`
+  * Source URL: <https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm>
 
 * **[When is Your LLM Steerable?](ai/rag/when-is-your-llm-steerable-23232c.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.11599v1 Announce Type: cross Abstract: Activation steering offers a lightweight approach to control language models' behavior at inference time, but whether it succeeds or fails heavily depends on the prompt, concept, model, and steering c
@@ -7619,6 +7884,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: OrbitControls for React Three Fiber in React Native
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/TiagoCavalcante/r3f-native-orbitcontrols>
+
+* **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
+  * Tags: `threejs`
+  * Source URL: <https://huggingface.co/blog/transformersjs-v3>
 
 * **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](web-development/threejs/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,

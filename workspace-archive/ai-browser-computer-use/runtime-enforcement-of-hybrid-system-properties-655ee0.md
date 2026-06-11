@@ -3,7 +3,7 @@ title: "Runtime Enforcement of Hybrid System Properties"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12022"
-local_vault_path: "ai\agents\runtime-enforcement-of-hybrid-system-properties-655ee0.md"
+local_vault_path: "ai/agents/runtime-enforcement-of-hybrid-system-properties-655ee0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12022
 
 ## Local Vault File
 
-Path: [runtime-enforcement-of-hybrid-system-properties-655ee0.md](file:///../../ai\agents\runtime-enforcement-of-hybrid-system-properties-655ee0.md)
+Path: [runtime-enforcement-of-hybrid-system-properties-655ee0.md](file:///../../ai/agents/runtime-enforcement-of-hybrid-system-properties-655ee0.md)

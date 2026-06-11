@@ -3,7 +3,7 @@ title: "Noise-Aware Framework for Correcting Corrupted Labels"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11695"
-local_vault_path: "ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md"
+local_vault_path: "ai/research/noise-aware-framework-for-correcting-corrupted-labels-1bada2.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11695
 
 ## Local Vault File
 
-Path: [noise-aware-framework-for-correcting-corrupted-labels-1bada2.md](file:///../../ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md)
+Path: [noise-aware-framework-for-correcting-corrupted-labels-1bada2.md](file:///../../ai/research/noise-aware-framework-for-correcting-corrupted-labels-1bada2.md)

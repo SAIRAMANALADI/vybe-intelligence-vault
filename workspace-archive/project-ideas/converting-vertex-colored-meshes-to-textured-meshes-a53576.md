@@ -3,7 +3,7 @@ title: "Converting Vertex-Colored Meshes to Textured Meshes"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/vertex-colored-to-textured-mesh"
-local_vault_path: "ai\models\converting-vertex-colored-meshes-to-textured-meshes-a53576.md"
+local_vault_path: "ai/models/converting-vertex-colored-meshes-to-textured-meshes-a53576.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vertex-colored-to-textured-mesh
 
 ## Local Vault File
 
-Path: [converting-vertex-colored-meshes-to-textured-meshes-a53576.md](file:///../../ai\models\converting-vertex-colored-meshes-to-textured-meshes-a53576.md)
+Path: [converting-vertex-colored-meshes-to-textured-meshes-a53576.md](file:///../../ai/models/converting-vertex-colored-meshes-to-textured-meshes-a53576.md)

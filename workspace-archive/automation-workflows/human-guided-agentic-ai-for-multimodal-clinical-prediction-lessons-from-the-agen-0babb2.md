@@ -3,7 +3,7 @@ title: "Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.19502"
-local_vault_path: "ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md"
+local_vault_path: "ai/agents/human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.19502
 
 ## Local Vault File
 
-Path: [human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md)
+Path: [human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md](file:///../../ai/agents/human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md)

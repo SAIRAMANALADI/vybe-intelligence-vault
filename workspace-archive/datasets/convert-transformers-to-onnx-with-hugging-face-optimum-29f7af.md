@@ -3,7 +3,7 @@ title: "Convert Transformers to ONNX with Hugging Face Optimum"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/convert-transformers-to-onnx"
-local_vault_path: "ai\models\convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md"
+local_vault_path: "ai/models/convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/convert-transformers-to-onnx
 
 ## Local Vault File
 
-Path: [convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md](file:///../../ai\models\convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md)
+Path: [convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md](file:///../../ai/models/convert-transformers-to-onnx-with-hugging-face-optimum-29f7af.md)

@@ -3,7 +3,7 @@ title: "pmndrs/drei"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/drei"
-local_vault_path: "web-development\react-three-fiber\pmndrs-drei-59e7dc.md"
+local_vault_path: "web-development/react-three-fiber/pmndrs-drei-59e7dc.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/drei
 
 ## Local Vault File
 
-Path: [pmndrs-drei-59e7dc.md](file:///../../web-development\react-three-fiber\pmndrs-drei-59e7dc.md)
+Path: [pmndrs-drei-59e7dc.md](file:///../../web-development/react-three-fiber/pmndrs-drei-59e7dc.md)

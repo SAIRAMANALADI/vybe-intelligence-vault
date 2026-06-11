@@ -3,7 +3,7 @@ title: "chenjsh36/ThreeJSForFun"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/chenjsh36/ThreeJSForFun"
-local_vault_path: "web-development\threejs\chenjsh36-threejsforfun-a49cc5.md"
+local_vault_path: "web-development/threejs/chenjsh36-threejsforfun-a49cc5.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/chenjsh36/ThreeJSForFun
 
 ## Local Vault File
 
-Path: [chenjsh36-threejsforfun-a49cc5.md](file:///../../web-development\threejs\chenjsh36-threejsforfun-a49cc5.md)
+Path: [chenjsh36-threejsforfun-a49cc5.md](file:///../../web-development/threejs/chenjsh36-threejsforfun-a49cc5.md)

@@ -3,7 +3,7 @@ title: "WWDC 24: Running Mistral 7B with Core ML"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mistral-coreml"
-local_vault_path: "ai\models\wwdc-24-running-mistral-7b-with-core-ml-4d871c.md"
+local_vault_path: "ai/models/wwdc-24-running-mistral-7b-with-core-ml-4d871c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mistral-coreml
 
 ## Local Vault File
 
-Path: [wwdc-24-running-mistral-7b-with-core-ml-4d871c.md](file:///../../ai\models\wwdc-24-running-mistral-7b-with-core-ml-4d871c.md)
+Path: [wwdc-24-running-mistral-7b-with-core-ml-4d871c.md](file:///../../ai/models/wwdc-24-running-mistral-7b-with-core-ml-4d871c.md)

@@ -3,7 +3,7 @@ title: "Building a RAG Application - GeeksforGeeks"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/data-science/building-a-rag-application"
-local_vault_path: "ai\rag\building-a-rag-application-geeksforgeeks-372122.md"
+local_vault_path: "ai/rag/building-a-rag-application-geeksforgeeks-372122.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://www.geeksforgeeks.org/data-science/building-a-rag-a
 
 ## Local Vault File
 
-Path: [building-a-rag-application-geeksforgeeks-372122.md](file:///../../ai\rag\building-a-rag-application-geeksforgeeks-372122.md)
+Path: [building-a-rag-application-geeksforgeeks-372122.md](file:///../../ai/rag/building-a-rag-application-geeksforgeeks-372122.md)

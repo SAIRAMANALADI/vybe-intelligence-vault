@@ -3,7 +3,7 @@ title: "Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face mod
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/optimum-onnxruntime-training"
-local_vault_path: "ai\models\optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md"
+local_vault_path: "ai/models/optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/optimum-onnxruntime-training
 
 ## Local Vault File
 
-Path: [optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md](file:///../../ai\models\optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md)
+Path: [optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md](file:///../../ai/models/optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md)

@@ -3,7 +3,7 @@ title: "wassim249/fastapi-langgraph-agent-production-ready-template"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template"
-local_vault_path: "ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md"
+local_vault_path: "ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "essential"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/wassim249/fastapi-langgraph-agent-produc
 
 ## Local Vault File
 
-Path: [wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md)
+Path: [wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md](file:///../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md)

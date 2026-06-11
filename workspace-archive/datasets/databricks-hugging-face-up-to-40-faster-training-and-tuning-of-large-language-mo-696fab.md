@@ -3,7 +3,7 @@ title: "Databricks ❤️ Hugging Face: up to 40% faster training and tuning of 
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/databricks-case-study"
-local_vault_path: "ai\models\databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md"
+local_vault_path: "ai/models/databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/databricks-case-study
 
 ## Local Vault File
 
-Path: [databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md](file:///../../ai\models\databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md)
+Path: [databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md](file:///../../ai/models/databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md)

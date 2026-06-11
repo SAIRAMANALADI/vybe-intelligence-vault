@@ -3,7 +3,7 @@ title: "Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Mo
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/AI-MO/kimina-prover"
-local_vault_path: "ai\models\kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md"
+local_vault_path: "ai/models/kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/AI-MO/kimina-prover
 
 ## Local Vault File
 
-Path: [kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md](file:///../../ai\models\kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md)
+Path: [kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md](file:///../../ai/models/kimina-prover-applying-test-time-rl-search-on-large-formal-reasoning-models-d3ffeb.md)

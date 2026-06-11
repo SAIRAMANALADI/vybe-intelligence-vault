@@ -3,7 +3,7 @@ title: "How to train a new language model from scratch using Transformers and To
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/how-to-train"
-local_vault_path: "ai\models\how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md"
+local_vault_path: "ai/models/how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/how-to-train
 
 ## Local Vault File
 
-Path: [how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md](file:///../../ai\models\how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md)
+Path: [how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md](file:///../../ai/models/how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md)

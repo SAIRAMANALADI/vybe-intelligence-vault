@@ -3,7 +3,7 @@ title: "Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11671"
-local_vault_path: "ai\agents\runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md"
+local_vault_path: "ai/agents/runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11671
 
 ## Local Vault File
 
-Path: [runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md](file:///../../ai\agents\runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md)
+Path: [runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md](file:///../../ai/agents/runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md)

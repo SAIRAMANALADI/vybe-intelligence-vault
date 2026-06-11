@@ -3,7 +3,7 @@ title: "AgentOps-AI/agentops"
 archive_category: "observability"
 source_category: "ai/agents"
 source_url: "https://github.com/AgentOps-AI/agentops"
-local_vault_path: "ai\agents\agentops-ai-agentops-531eca.md"
+local_vault_path: "ai/agents/agentops-ai-agentops-531eca.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://github.com/AgentOps-AI/agentops
 
 ## Local Vault File
 
-Path: [agentops-ai-agentops-531eca.md](file:///../../ai\agents\agentops-ai-agentops-531eca.md)
+Path: [agentops-ai-agentops-531eca.md](file:///../../ai/agents/agentops-ai-agentops-531eca.md)

@@ -3,7 +3,7 @@ title: "Making sense of this mess"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformers-docs-redesign"
-local_vault_path: "ai\models\making-sense-of-this-mess-bb633b.md"
+local_vault_path: "ai/models/making-sense-of-this-mess-bb633b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [making-sense-of-this-mess-bb633b.md](file:///../../ai\models\making-sense-of-this-mess-bb633b.md)
+Path: [making-sense-of-this-mess-bb633b.md](file:///../../ai/models/making-sense-of-this-mess-bb633b.md)

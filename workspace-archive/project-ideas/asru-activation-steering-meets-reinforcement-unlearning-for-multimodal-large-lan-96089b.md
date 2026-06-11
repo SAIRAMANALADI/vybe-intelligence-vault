@@ -3,7 +3,7 @@ title: "ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal 
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.15687"
-local_vault_path: "ai\rag\asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md"
+local_vault_path: "ai/rag/asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.15687
 
 ## Local Vault File
 
-Path: [asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md](file:///../../ai\rag\asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md)
+Path: [asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md](file:///../../ai/rag/asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md)

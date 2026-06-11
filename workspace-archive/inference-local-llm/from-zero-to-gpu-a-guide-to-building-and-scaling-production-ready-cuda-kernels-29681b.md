@@ -3,7 +3,7 @@ title: "From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA 
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/kernel-builder"
-local_vault_path: "ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md"
+local_vault_path: "ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/kernel-builder
 
 ## Local Vault File
 
-Path: [from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md)
+Path: [from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md](file:///../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md)

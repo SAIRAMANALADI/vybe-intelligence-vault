@@ -3,7 +3,7 @@ title: "Introducing the Hugging Face Embedding Container for Amazon SageMaker"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sagemaker-huggingface-embedding"
-local_vault_path: "ai\models\introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md"
+local_vault_path: "ai/models/introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-embedding
 
 ## Local Vault File
 
-Path: [introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md](file:///../../ai\models\introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md)
+Path: [introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md](file:///../../ai/models/introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md)

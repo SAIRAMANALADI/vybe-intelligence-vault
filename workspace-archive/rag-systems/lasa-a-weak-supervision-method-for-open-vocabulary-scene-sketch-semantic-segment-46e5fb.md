@@ -3,7 +3,7 @@ title: "LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semanti
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11837"
-local_vault_path: "ai\rag\lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md"
+local_vault_path: "ai/rag/lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11837
 
 ## Local Vault File
 
-Path: [lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md](file:///../../ai\rag\lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md)
+Path: [lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md](file:///../../ai/rag/lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md)

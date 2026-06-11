@@ -3,7 +3,7 @@ title: "2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude S
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://qubittool.com/blog/ai-agent-framework-comparison-2026"
-local_vault_path: "ai\rag\2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md"
+local_vault_path: "ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://qubittool.com/blog/ai-agent-framework-comparison-20
 
 ## Local Vault File
 
-Path: [2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md](file:///../../ai\rag\2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md)
+Path: [2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md](file:///../../ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md)

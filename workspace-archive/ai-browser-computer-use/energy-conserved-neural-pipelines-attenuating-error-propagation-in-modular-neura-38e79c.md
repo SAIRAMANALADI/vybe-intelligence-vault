@@ -3,7 +3,7 @@ title: "Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modu
 archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11341"
-local_vault_path: "ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md"
+local_vault_path: "ai/rag/energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11341
 
 ## Local Vault File
 
-Path: [energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md](file:///../../ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md)
+Path: [energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md](file:///../../ai/rag/energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md)

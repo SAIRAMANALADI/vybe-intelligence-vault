@@ -3,7 +3,7 @@ title: "patchy631/ai-engineering-hub"
 archive_category: "mcp-registry"
 source_category: "ai/rag"
 source_url: "https://github.com/patchy631/ai-engineering-hub"
-local_vault_path: "ai\rag\patchy631-ai-engineering-hub-efa40a.md"
+local_vault_path: "ai/rag/patchy631-ai-engineering-hub-efa40a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/patchy631/ai-engineering-hub
 
 ## Local Vault File
 
-Path: [patchy631-ai-engineering-hub-efa40a.md](file:///../../ai\rag\patchy631-ai-engineering-hub-efa40a.md)
+Path: [patchy631-ai-engineering-hub-efa40a.md](file:///../../ai/rag/patchy631-ai-engineering-hub-efa40a.md)

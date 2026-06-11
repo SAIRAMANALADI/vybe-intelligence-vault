@@ -3,7 +3,7 @@ title: "BigCodeArena: Judging code generations end to end with code executions"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/bigcode/arena"
-local_vault_path: "ai\models\bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md"
+local_vault_path: "ai/models/bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/bigcode/arena
 
 ## Local Vault File
 
-Path: [bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md](file:///../../ai\models\bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md)
+Path: [bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md](file:///../../ai/models/bigcodearena-judging-code-generations-end-to-end-with-code-executions-b21233.md)

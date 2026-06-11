@@ -18,13 +18,13 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1649 resources matched in the intelligence vault.
+Active signals: 1653 resources matched in the intelligence vault.
 Recently detected signals:
+- [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md) (Source: Web Discovery) - Collected 2026-06-11
+- [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md) (Source: Web Discovery) - Collected 2026-06-11
+- [TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md) (Source: arXiv Machine Learning) - Collected 2026-06-11
 - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab-38cec0.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [grafana/o11y-bench](../ai/agents/grafana-o11y-bench-628889.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: GitHub Discovery) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T18:11:50.637884+00:00.796972+00:00.374759+00:00.550503+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.928655+00:00.637884+00:00.796972+00:00.374759+00:00.550503+00:00.

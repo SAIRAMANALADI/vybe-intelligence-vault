@@ -3,7 +3,7 @@ title: "Geometric Erasure by Contrastive Velocity Matching in Rectified Flows"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.00140"
-local_vault_path: "ai\research\geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md"
+local_vault_path: "ai/research/geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.00140
 
 ## Local Vault File
 
-Path: [geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md](file:///../../ai\research\geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md)
+Path: [geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md](file:///../../ai/research/geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md)

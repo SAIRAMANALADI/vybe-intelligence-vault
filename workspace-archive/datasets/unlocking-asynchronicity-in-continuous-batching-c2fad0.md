@@ -3,7 +3,7 @@ title: "Unlocking asynchronicity in continuous batching"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/continuous_async"
-local_vault_path: "ai\models\unlocking-asynchronicity-in-continuous-batching-c2fad0.md"
+local_vault_path: "ai/models/unlocking-asynchronicity-in-continuous-batching-c2fad0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [unlocking-asynchronicity-in-continuous-batching-c2fad0.md](file:///../../ai\models\unlocking-asynchronicity-in-continuous-batching-c2fad0.md)
+Path: [unlocking-asynchronicity-in-continuous-batching-c2fad0.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching-c2fad0.md)

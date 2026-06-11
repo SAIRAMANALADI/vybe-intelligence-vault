@@ -3,7 +3,7 @@ title: "An Introduction to Q-Learning Part 1"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-rl-q-part1"
-local_vault_path: "ai\models\an-introduction-to-q-learning-part-1-78d0e1.md"
+local_vault_path: "ai/models/an-introduction-to-q-learning-part-1-78d0e1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part1
 
 ## Local Vault File
 
-Path: [an-introduction-to-q-learning-part-1-78d0e1.md](file:///../../ai\models\an-introduction-to-q-learning-part-1-78d0e1.md)
+Path: [an-introduction-to-q-learning-part-1-78d0e1.md](file:///../../ai/models/an-introduction-to-q-learning-part-1-78d0e1.md)

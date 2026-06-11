@@ -3,7 +3,7 @@ title: "What Uncertainties Do We Need for Dynamical Systems?"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11988"
-local_vault_path: "ai\research\what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md"
+local_vault_path: "ai/research/what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11988
 
 ## Local Vault File
 
-Path: [what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md](file:///../../ai\research\what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md)
+Path: [what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md](file:///../../ai/research/what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md)

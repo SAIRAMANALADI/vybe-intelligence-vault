@@ -3,7 +3,7 @@ title: "PipelineRL"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ServiceNow/pipelinerl"
-local_vault_path: "ai\models\pipelinerl-ba34ad.md"
+local_vault_path: "ai/models/pipelinerl-ba34ad.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow/pipelinerl
 
 ## Local Vault File
 
-Path: [pipelinerl-ba34ad.md](file:///../../ai\models\pipelinerl-ba34ad.md)
+Path: [pipelinerl-ba34ad.md](file:///../../ai/models/pipelinerl-ba34ad.md)

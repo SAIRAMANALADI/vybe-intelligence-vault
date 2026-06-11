@@ -3,7 +3,7 @@ title: "redhat-data-and-ai/template-mcp-server"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/redhat-data-and-ai/template-mcp-server"
-local_vault_path: "ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md"
+local_vault_path: "ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md"
 quality_score: 70
 archive_score: 89
 archive_tier: "essential"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/redhat-data-and-ai/template-mcp-server
 
 ## Local Vault File
 
-Path: [redhat-data-and-ai-template-mcp-server-681d1d.md](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md)
+Path: [redhat-data-and-ai-template-mcp-server-681d1d.md](file:///../../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md)

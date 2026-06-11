@@ -3,7 +3,7 @@ title: "Sampath8989/langgraph-topology-benchmarks"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://github.com/Sampath8989/langgraph-topology-benchmarks"
-local_vault_path: "ai\agents\sampath8989-langgraph-topology-benchmarks-f8756a.md"
+local_vault_path: "ai/agents/sampath8989-langgraph-topology-benchmarks-f8756a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/Sampath8989/langgraph-topology-benchmark
 
 ## Local Vault File
 
-Path: [sampath8989-langgraph-topology-benchmarks-f8756a.md](file:///../../ai\agents\sampath8989-langgraph-topology-benchmarks-f8756a.md)
+Path: [sampath8989-langgraph-topology-benchmarks-f8756a.md](file:///../../ai/agents/sampath8989-langgraph-topology-benchmarks-f8756a.md)

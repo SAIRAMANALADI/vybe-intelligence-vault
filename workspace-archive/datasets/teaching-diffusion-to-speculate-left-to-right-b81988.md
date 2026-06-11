@@ -3,7 +3,7 @@ title: "Teaching Diffusion to Speculate Left-to-Right"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11552"
-local_vault_path: "ai\research\teaching-diffusion-to-speculate-left-to-right-b81988.md"
+local_vault_path: "ai/research/teaching-diffusion-to-speculate-left-to-right-b81988.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11552
 
 ## Local Vault File
 
-Path: [teaching-diffusion-to-speculate-left-to-right-b81988.md](file:///../../ai\research\teaching-diffusion-to-speculate-left-to-right-b81988.md)
+Path: [teaching-diffusion-to-speculate-left-to-right-b81988.md](file:///../../ai/research/teaching-diffusion-to-speculate-left-to-right-b81988.md)

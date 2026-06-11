@@ -3,7 +3,7 @@ title: "wrongakram/R3F-Chairs"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/wrongakram/R3F-Chairs"
-local_vault_path: "web-development\react-three-fiber\wrongakram-r3f-chairs-b66856.md"
+local_vault_path: "web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/wrongakram/R3F-Chairs
 
 ## Local Vault File
 
-Path: [wrongakram-r3f-chairs-b66856.md](file:///../../web-development\react-three-fiber\wrongakram-r3f-chairs-b66856.md)
+Path: [wrongakram-r3f-chairs-b66856.md](file:///../../web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md)

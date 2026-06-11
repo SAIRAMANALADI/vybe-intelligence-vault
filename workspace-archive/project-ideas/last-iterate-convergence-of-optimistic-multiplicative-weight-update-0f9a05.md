@@ -3,7 +3,7 @@ title: "Last-Iterate Convergence of Optimistic Multiplicative Weight Update"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11773"
-local_vault_path: "ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md"
+local_vault_path: "ai/research/last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11773
 
 ## Local Vault File
 
-Path: [last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md](file:///../../ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md)
+Path: [last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md](file:///../../ai/research/last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md)

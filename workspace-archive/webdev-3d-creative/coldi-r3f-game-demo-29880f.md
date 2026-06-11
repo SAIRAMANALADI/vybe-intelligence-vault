@@ -3,7 +3,7 @@ title: "coldi/r3f-game-demo"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/coldi/r3f-game-demo"
-local_vault_path: "web-development\react-three-fiber\coldi-r3f-game-demo-29880f.md"
+local_vault_path: "web-development/react-three-fiber/coldi-r3f-game-demo-29880f.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/coldi/r3f-game-demo
 
 ## Local Vault File
 
-Path: [coldi-r3f-game-demo-29880f.md](file:///../../web-development\react-three-fiber\coldi-r3f-game-demo-29880f.md)
+Path: [coldi-r3f-game-demo-29880f.md](file:///../../web-development/react-three-fiber/coldi-r3f-game-demo-29880f.md)

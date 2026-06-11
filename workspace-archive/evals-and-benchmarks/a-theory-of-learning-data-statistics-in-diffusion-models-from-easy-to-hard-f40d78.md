@@ -3,7 +3,7 @@ title: "A theory of learning data statistics in diffusion models, from easy to h
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.12901"
-local_vault_path: "ai\research\a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md"
+local_vault_path: "ai/research/a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2603.12901
 
 ## Local Vault File
 
-Path: [a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md](file:///../../ai\research\a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md)
+Path: [a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md](file:///../../ai/research/a-theory-of-learning-data-statistics-in-diffusion-models-from-easy-to-hard-f40d78.md)

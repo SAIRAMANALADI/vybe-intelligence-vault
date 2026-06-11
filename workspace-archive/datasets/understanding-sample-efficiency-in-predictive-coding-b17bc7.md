@@ -3,7 +3,7 @@ title: "Understanding Sample Efficiency in Predictive Coding"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.11911"
-local_vault_path: "ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md"
+local_vault_path: "ai/research/understanding-sample-efficiency-in-predictive-coding-b17bc7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.11911
 
 ## Local Vault File
 
-Path: [understanding-sample-efficiency-in-predictive-coding-b17bc7.md](file:///../../ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md)
+Path: [understanding-sample-efficiency-in-predictive-coding-b17bc7.md](file:///../../ai/research/understanding-sample-efficiency-in-predictive-coding-b17bc7.md)

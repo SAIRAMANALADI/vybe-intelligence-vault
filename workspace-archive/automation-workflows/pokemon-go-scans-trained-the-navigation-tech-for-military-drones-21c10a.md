@@ -3,7 +3,7 @@ title: "Pokémon Go Scans Trained the Navigation Tech for Military Drones"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
-local_vault_path: "ai\community\pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md"
+local_vault_path: "ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vant
 
 ## Local Vault File
 
-Path: [pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md](file:///../../ai\community\pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md)
+Path: [pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md](file:///../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md)

@@ -3,7 +3,7 @@ title: "APPO: Agentic Procedural Policy Optimization"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12384"
-local_vault_path: "ai\agents\appo-agentic-procedural-policy-optimization-1886e5.md"
+local_vault_path: "ai/agents/appo-agentic-procedural-policy-optimization-1886e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12384
 
 ## Local Vault File
 
-Path: [appo-agentic-procedural-policy-optimization-1886e5.md](file:///../../ai\agents\appo-agentic-procedural-policy-optimization-1886e5.md)
+Path: [appo-agentic-procedural-policy-optimization-1886e5.md](file:///../../ai/agents/appo-agentic-procedural-policy-optimization-1886e5.md)

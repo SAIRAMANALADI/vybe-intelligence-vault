@@ -3,7 +3,7 @@ title: "Transformer-based Encoder-Decoder Models"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/encoder-decoder"
-local_vault_path: "ai\models\transformer-based-encoder-decoder-models-9707f6.md"
+local_vault_path: "ai/models/transformer-based-encoder-decoder-models-9707f6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/encoder-decoder
 
 ## Local Vault File
 
-Path: [transformer-based-encoder-decoder-models-9707f6.md](file:///../../ai\models\transformer-based-encoder-decoder-models-9707f6.md)
+Path: [transformer-based-encoder-decoder-models-9707f6.md](file:///../../ai/models/transformer-based-encoder-decoder-models-9707f6.md)

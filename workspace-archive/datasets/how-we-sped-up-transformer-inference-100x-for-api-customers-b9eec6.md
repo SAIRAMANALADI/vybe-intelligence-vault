@@ -3,7 +3,7 @@ title: "How we sped up transformer inference 100x for 🤗 API customers"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/accelerated-inference"
-local_vault_path: "ai\models\how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md"
+local_vault_path: "ai/models/how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md](file:///../../ai\models\how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md)
+Path: [how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md](file:///../../ai/models/how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md)

@@ -3,7 +3,7 @@ title: "Ethics and Society Newsletter #6: Building Better AI: The Importance of 
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ethics-soc-6"
-local_vault_path: "ai\models\ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md"
+local_vault_path: "ai/models/ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-6
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md](file:///../../ai\models\ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md)
+Path: [ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md](file:///../../ai/models/ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md)

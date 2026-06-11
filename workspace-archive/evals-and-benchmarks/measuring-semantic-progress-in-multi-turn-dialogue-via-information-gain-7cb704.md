@@ -3,7 +3,7 @@ title: "Measuring Semantic Progress in Multi-turn Dialogue via Information Gain"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12332"
-local_vault_path: "ai\research\measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md"
+local_vault_path: "ai/research/measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12332
 
 ## Local Vault File
 
-Path: [measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md](file:///../../ai\research\measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md)
+Path: [measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md](file:///../../ai/research/measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md)

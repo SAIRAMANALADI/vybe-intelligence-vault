@@ -3,7 +3,7 @@ title: "HKUDS/VideoRAG"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/HKUDS/VideoRAG"
-local_vault_path: "ai\rag\hkuds-videorag-4b9ad5.md"
+local_vault_path: "ai/rag/hkuds-videorag-4b9ad5.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/HKUDS/VideoRAG
 
 ## Local Vault File
 
-Path: [hkuds-videorag-4b9ad5.md](file:///../../ai\rag\hkuds-videorag-4b9ad5.md)
+Path: [hkuds-videorag-4b9ad5.md](file:///../../ai/rag/hkuds-videorag-4b9ad5.md)

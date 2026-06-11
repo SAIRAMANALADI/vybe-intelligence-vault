@@ -3,7 +3,7 @@ title: "A New Perspective on Precision and Recall for Generative Models"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.02414"
-local_vault_path: "ai\research\a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md"
+local_vault_path: "ai/research/a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2511.02414
 
 ## Local Vault File
 
-Path: [a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md](file:///../../ai\research\a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md)
+Path: [a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md](file:///../../ai/research/a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md)

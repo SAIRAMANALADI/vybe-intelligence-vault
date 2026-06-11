@@ -3,7 +3,7 @@ title: "CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12352"
-local_vault_path: "ai\research\chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md"
+local_vault_path: "ai/research/chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12352
 
 ## Local Vault File
 
-Path: [chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md](file:///../../ai\research\chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md)
+Path: [chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md](file:///../../ai/research/chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md)

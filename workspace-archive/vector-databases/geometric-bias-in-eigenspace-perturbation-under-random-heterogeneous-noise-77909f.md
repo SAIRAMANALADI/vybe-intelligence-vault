@@ -3,7 +3,7 @@ title: "Geometric bias in eigenspace perturbation under random heterogeneous noi
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11263"
-local_vault_path: "ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md"
+local_vault_path: "ai/rag/geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11263
 
 ## Local Vault File
 
-Path: [geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md](file:///../../ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md)
+Path: [geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md](file:///../../ai/rag/geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md)

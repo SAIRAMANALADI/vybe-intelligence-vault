@@ -3,7 +3,7 @@ title: "Easily Build and Share ROCm Kernels with Hugging Face"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/build-rocm-kernels"
-local_vault_path: "ai\models\easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md"
+local_vault_path: "ai/models/easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/build-rocm-kernels
 
 ## Local Vault File
 
-Path: [easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md](file:///../../ai\models\easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md)
+Path: [easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md](file:///../../ai/models/easily-build-and-share-rocm-kernels-with-hugging-face-4208ed.md)

@@ -9,20 +9,20 @@ Discovering modern AI productivity tools allows developers to streamline their d
 ## Top Matched Resources
 
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (benchmark - USEFUL Tier)
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) (mcp-server - USEFUL Tier)
-- [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) (prompt - USEFUL Tier)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (workflow - USEFUL Tier)
-- [Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment](https://arxiv.org/abs/2606.11672) (benchmark - USEFUL Tier)
-- [Engineering Robustness into Personal Agents with the AI Workflow Store](https://arxiv.org/abs/2605.10907) (prompt - USEFUL Tier)
+- [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills) (prompt - USEFUL Tier)
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) (mcp-server - USEFUL Tier)
+- [10 AI agent benchmarks](https://www.evidentlyai.com/blog/ai-agent-benchmarks) (dataset - USEFUL Tier)
+- [A complete guide to RAG evaluation: metrics, testing and best practices](https://www.evidentlyai.com/llm-guide/rag-evaluation) (dataset - USEFUL Tier)
+- [10 RAG examples and use cases from real companies](https://www.evidentlyai.com/blog/rag-examples) (dataset - USEFUL Tier)
 - [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) (reference - USEFUL Tier)
-- [Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](https://huggingface.co/blog/fetch-eap-case-study) (reference - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/steven-tey/charlie (Charlie Directory App)
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
-- [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
+- [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills)
+- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 
 ## Best Learning Resources
 
@@ -39,4 +39,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-11 18:12 UTC*
+*Last updated: 2026-06-11 18:23 UTC*

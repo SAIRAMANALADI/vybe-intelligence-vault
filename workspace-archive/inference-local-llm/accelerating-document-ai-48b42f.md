@@ -3,7 +3,7 @@ title: "Accelerating Document AI"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/document-ai"
-local_vault_path: "ai\models\accelerating-document-ai-48b42f.md"
+local_vault_path: "ai/models/accelerating-document-ai-48b42f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/document-ai
 
 ## Local Vault File
 
-Path: [accelerating-document-ai-48b42f.md](file:///../../ai\models\accelerating-document-ai-48b42f.md)
+Path: [accelerating-document-ai-48b42f.md](file:///../../ai/models/accelerating-document-ai-48b42f.md)

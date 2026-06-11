@@ -3,7 +3,7 @@ title: "An Introduction to AI Secure LLM Safety Leaderboard"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-decodingtrust"
-local_vault_path: "ai\models\an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md"
+local_vault_path: "ai/models/an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-decodingtrust
 
 ## Local Vault File
 
-Path: [an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md](file:///../../ai\models\an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md)
+Path: [an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md](file:///../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md)

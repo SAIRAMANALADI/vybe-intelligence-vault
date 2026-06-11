@@ -3,7 +3,7 @@ title: "More AI-generated code doesn't make your team faster. It might slow you"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://twitter.com/awscloud/status/2064449711155589396"
-local_vault_path: "ai\community\more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md"
+local_vault_path: "ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://twitter.com/awscloud/status/2064449711155589396
 
 ## Local Vault File
 
-Path: [more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md](file:///../../ai\community\more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md)
+Path: [more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md](file:///../../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md)

@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 83 resources matched in the intelligence vault.
+Active signals: 85 resources matched in the intelligence vault.
 Recently detected signals:
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) (Source: Web Discovery) - Collected 2026-06-11
+- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md) (Source: Hugging Face Blog) - Collected 2026-06-11
 - [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md) (Source: GitHub Three.js Resources) - Collected 2026-06-11
 - [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md) (Source: GitHub GSAP Resources) - Collected 2026-06-11
 - [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone-9fb7dd.md) (Source: GitHub GSAP Resources) - Collected 2026-06-11
-- [Scthe/nanite-webgpu](../web-development/webgpu/scthe-nanite-webgpu-a8202e.md) (Source: GitHub WebGPU Resources) - Collected 2026-06-11
-- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill-d072ef.md) (Source: GitHub WebGPU Resources) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T17:43:16.409379+00:00.590509+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T18:23:16.966549+00:00.409379+00:00.590509+00:00.

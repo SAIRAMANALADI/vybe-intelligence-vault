@@ -3,7 +3,7 @@ title: "Putting ethical principles at the core of the research lifecycle"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ethical-charter-multimodal"
-local_vault_path: "ai\models\putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md"
+local_vault_path: "ai/models/putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethical-charter-multimodal
 
 ## Local Vault File
 
-Path: [putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md](file:///../../ai\models\putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md)
+Path: [putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md](file:///../../ai/models/putting-ethical-principles-at-the-core-of-the-research-lifecycle-c14fdf.md)

@@ -3,7 +3,7 @@ title: "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformer
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
-local_vault_path: "ai\models\paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md"
+local_vault_path: "ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/PaddlePaddle/paddleocr-transfor
 
 ## Local Vault File
 
-Path: [paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md](file:///../../ai\models\paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md)
+Path: [paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md](file:///../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tasks-with-a-transformers-backend-210dad.md)

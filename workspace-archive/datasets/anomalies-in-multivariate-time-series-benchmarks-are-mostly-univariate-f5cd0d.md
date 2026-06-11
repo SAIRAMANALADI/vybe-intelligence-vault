@@ -3,7 +3,7 @@ title: "Anomalies in Multivariate Time Series Benchmarks Are Mostly Univariate"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.02670"
-local_vault_path: "ai\research\anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md"
+local_vault_path: "ai/research/anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.02670
 
 ## Local Vault File
 
-Path: [anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md](file:///../../ai\research\anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md)
+Path: [anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md](file:///../../ai/research/anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md)

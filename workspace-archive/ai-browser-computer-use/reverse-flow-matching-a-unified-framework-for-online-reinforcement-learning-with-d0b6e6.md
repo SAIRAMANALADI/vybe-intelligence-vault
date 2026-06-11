@@ -3,7 +3,7 @@ title: "Reverse Flow Matching: A Unified Framework for Online Reinforcement Lear
 archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.08136"
-local_vault_path: "ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md"
+local_vault_path: "ai/rag/reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.08136
 
 ## Local Vault File
 
-Path: [reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md](file:///../../ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md)
+Path: [reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md](file:///../../ai/rag/reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md)

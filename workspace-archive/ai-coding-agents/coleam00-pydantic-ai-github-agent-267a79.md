@@ -3,7 +3,7 @@ title: "coleam00/pydantic-ai-github-agent"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/coleam00/pydantic-ai-github-agent"
-local_vault_path: "ai\agents\coleam00-pydantic-ai-github-agent-267a79.md"
+local_vault_path: "ai/agents/coleam00-pydantic-ai-github-agent-267a79.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/coleam00/pydantic-ai-github-agent
 
 ## Local Vault File
 
-Path: [coleam00-pydantic-ai-github-agent-267a79.md](file:///../../ai\agents\coleam00-pydantic-ai-github-agent-267a79.md)
+Path: [coleam00-pydantic-ai-github-agent-267a79.md](file:///../../ai/agents/coleam00-pydantic-ai-github-agent-267a79.md)

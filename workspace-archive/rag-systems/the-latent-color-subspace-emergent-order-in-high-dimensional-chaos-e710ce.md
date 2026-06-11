@@ -3,7 +3,7 @@ title: "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.12261"
-local_vault_path: "ai\research\the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md"
+local_vault_path: "ai/research/the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2603.12261
 
 ## Local Vault File
 
-Path: [the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md](file:///../../ai\research\the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md)
+Path: [the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md](file:///../../ai/research/the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md)

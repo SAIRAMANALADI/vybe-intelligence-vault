@@ -3,7 +3,7 @@ title: "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improv
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12406"
-local_vault_path: "ai\research\factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md"
+local_vault_path: "ai/research/factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12406
 
 ## Local Vault File
 
-Path: [factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md](file:///../../ai\research\factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md)
+Path: [factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md](file:///../../ai/research/factr-2-learning-external-force-sensing-for-commodity-robot-arms-improves-policy-ac53c4.md)

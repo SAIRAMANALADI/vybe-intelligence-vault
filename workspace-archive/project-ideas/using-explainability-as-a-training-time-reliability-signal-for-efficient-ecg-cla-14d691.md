@@ -3,7 +3,7 @@ title: "Using Explainability as a Training-Time Reliability Signal for Efficient
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12252"
-local_vault_path: "ai\research\using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md"
+local_vault_path: "ai/research/using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12252
 
 ## Local Vault File
 
-Path: [using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md](file:///../../ai\research\using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md)
+Path: [using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md](file:///../../ai/research/using-explainability-as-a-training-time-reliability-signal-for-efficient-ecg-cla-14d691.md)

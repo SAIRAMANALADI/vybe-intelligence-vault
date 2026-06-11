@@ -3,7 +3,7 @@ title: "Welcome PaliGemma 2 – New vision language models by Google"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/paligemma2"
-local_vault_path: "ai\models\welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md"
+local_vault_path: "ai/models/welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/paligemma2
 
 ## Local Vault File
 
-Path: [welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md](file:///../../ai\models\welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md)
+Path: [welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md](file:///../../ai/models/welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md)

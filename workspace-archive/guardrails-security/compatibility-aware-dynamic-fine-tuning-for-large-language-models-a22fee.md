@@ -3,7 +3,7 @@ title: "Compatibility-Aware Dynamic Fine-Tuning for Large Language Models"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11206"
-local_vault_path: "ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md"
+local_vault_path: "ai/research/compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11206
 
 ## Local Vault File
 
-Path: [compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md](file:///../../ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md)
+Path: [compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md](file:///../../ai/research/compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md)

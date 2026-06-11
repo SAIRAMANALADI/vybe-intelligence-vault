@@ -3,7 +3,7 @@ title: "Accelerated Inference with Optimum and Transformers Pipelines"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/optimum-inference"
-local_vault_path: "ai\models\accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md"
+local_vault_path: "ai/models/accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/optimum-inference
 
 ## Local Vault File
 
-Path: [accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md](file:///../../ai\models\accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md)
+Path: [accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md](file:///../../ai/models/accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md)

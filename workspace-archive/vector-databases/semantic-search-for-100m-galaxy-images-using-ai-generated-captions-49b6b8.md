@@ -3,7 +3,7 @@ title: "Semantic search for 100M+ galaxy images using AI-generated captions"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.11982"
-local_vault_path: "ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md"
+local_vault_path: "ai/rag/semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2512.11982
 
 ## Local Vault File
 
-Path: [semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md](file:///../../ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)
+Path: [semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md](file:///../../ai/rag/semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)

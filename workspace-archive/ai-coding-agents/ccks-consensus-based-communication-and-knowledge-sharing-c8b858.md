@@ -3,7 +3,7 @@ title: "CCKS: Consensus-based Communication and Knowledge Sharing"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12281"
-local_vault_path: "ai\agents\ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md"
+local_vault_path: "ai/agents/ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12281
 
 ## Local Vault File
 
-Path: [ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md](file:///../../ai\agents\ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md)
+Path: [ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md](file:///../../ai/agents/ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md)

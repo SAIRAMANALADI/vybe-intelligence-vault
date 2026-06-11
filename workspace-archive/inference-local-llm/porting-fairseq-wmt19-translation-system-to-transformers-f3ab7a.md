@@ -3,7 +3,7 @@ title: "Porting fairseq wmt19 translation system to transformers"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/porting-fsmt"
-local_vault_path: "ai\models\porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md"
+local_vault_path: "ai/models/porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/porting-fsmt
 
 ## Local Vault File
 
-Path: [porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md](file:///../../ai\models\porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md)
+Path: [porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md](file:///../../ai/models/porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md)

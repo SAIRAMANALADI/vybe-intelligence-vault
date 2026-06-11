@@ -3,7 +3,7 @@ title: "MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environme
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07909"
-local_vault_path: "ai\rag\memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md"
+local_vault_path: "ai/rag/memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.07909
 
 ## Local Vault File
 
-Path: [memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md](file:///../../ai\rag\memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md)
+Path: [memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md](file:///../../ai/rag/memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md)

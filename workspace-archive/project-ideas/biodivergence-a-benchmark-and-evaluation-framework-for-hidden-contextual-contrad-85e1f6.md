@@ -3,7 +3,7 @@ title: "BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextua
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11208"
-local_vault_path: "ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md"
+local_vault_path: "ai/research/biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11208
 
 ## Local Vault File
 
-Path: [biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md](file:///../../ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md)
+Path: [biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md](file:///../../ai/research/biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md)

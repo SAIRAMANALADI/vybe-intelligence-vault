@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab-38cec0.md) ([Source URL](https://github.com/zhihao1998/LLM4NetLab))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:48.968551+00:00
-- **Local Path**: `ai/agents/zhihao1998-llm4netlab-38cec0.md`
-
-### 2. [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md) ([Source URL](https://github.com/ChrisChen667788/Your-First-LLM-Studio))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:44.467119+00:00
-- **Local Path**: `ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md`
-
-### 3. [grafana/o11y-bench](../ai/agents/grafana-o11y-bench-628889.md) ([Source URL](https://github.com/grafana/o11y-bench))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:39.004438+00:00
-- **Local Path**: `ai/agents/grafana-o11y-bench-628889.md`
-
-### 4. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) ([Source URL](https://github.com/brandonhimpfen/awesome-llmops))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:11:34.046549+00:00
-- **Local Path**: `ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md`
-
-### 5. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) ([Source URL](https://github.com/tensorchord/awesome-llmops))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:11:29.022995+00:00
-- **Local Path**: `ai/resources/tensorchord-awesome-llmops-c723f0.md`
-
-### 6. [jayta1314/awesome-ai-sre](../ai/agents/jayta1314-awesome-ai-sre-480b87.md) ([Source URL](https://github.com/jayta1314/awesome-ai-sre))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:24.016033+00:00
-- **Local Path**: `ai/agents/jayta1314-awesome-ai-sre-480b87.md`
-
-### 7. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md) ([Source URL](https://github.com/our-never-ending-job/awesome-rag-debugging))
+### 1. [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) ([Source URL](https://docs.aws.amazon.com/prescriptive-guidance/latest/writing-best-practices-rag/best-practices.html))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:11:18.988984+00:00
-- **Local Path**: `ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md`
+- **Collected At**: 2026-06-11T18:21:55.805434+00:00
+- **Local Path**: `ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md`
 
-### 8. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability-7eeb8b.md) ([Source URL](https://github.com/danielt69/awesome-agent-observability))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:14.166191+00:00
-- **Local Path**: `ai/agents/danielt69-awesome-agent-observability-7eeb8b.md`
-
-### 9. [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance-5252ed.md) ([Source URL](https://github.com/NotPBShaw/awesome-ai-governance))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:11:09.070572+00:00
-- **Local Path**: `ai/agents/notpbshaw-awesome-ai-governance-5252ed.md`
-
-### 10. [Mattbusel/awesome-llm-infra](../ai/resources/mattbusel-awesome-llm-infra-c029cb.md) ([Source URL](https://github.com/Mattbusel/awesome-llm-infra))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:11:04.140621+00:00
-- **Local Path**: `ai/resources/mattbusel-awesome-llm-infra-c029cb.md`
-
-### 11. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md) ([Source URL](https://github.com/hammadhaqqani/awesome-devops-ai))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:59.034070+00:00
-- **Local Path**: `ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md`
-
-### 12. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) ([Source URL](https://github.com/dyronrh/awesome-agentops-landscape))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:54.145340+00:00
-- **Local Path**: `ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md`
-
-### 13. [agamm/awesome-ai-sre](../ai/agents/agamm-awesome-ai-sre-61d3c8.md) ([Source URL](https://github.com/agamm/awesome-ai-sre))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:49.248238+00:00
-- **Local Path**: `ai/agents/agamm-awesome-ai-sre-61d3c8.md`
-
-### 14. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template-cb838b.md) ([Source URL](https://github.com/sjseo298/spring-ai-template))
+### 2. [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) ([Source URL](https://www.evidentlyai.com/llm-guide/rag-evaluation))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:44.121750+00:00
-- **Local Path**: `ai/rag/sjseo298-spring-ai-template-cb838b.md`
+- **Collected At**: 2026-06-11T18:21:51.025758+00:00
+- **Local Path**: `ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md`
 
-### 15. [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills-7a2636.md) ([Source URL](https://github.com/sirius-zuo/devops-skills))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:39.215657+00:00
-- **Local Path**: `ai/agents/sirius-zuo-devops-skills-7a2636.md`
-
-### 16. [Bhaskar-Kurasala/AI-Arch-Hub](../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md) ([Source URL](https://github.com/Bhaskar-Kurasala/AI-Arch-Hub))
+### 3. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md) ([Source URL](https://rag.readthedocs.io))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:34.074853+00:00
-- **Local Path**: `ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md`
+- **Collected At**: 2026-06-11T18:21:50.854455+00:00
+- **Local Path**: `ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md`
 
-### 17. [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md) ([Source URL](https://www.confident-ai.com/knowledge-base/compare/top-7-llm-observability-tools))
+### 4. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md) ([Source URL](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:29.799859+00:00
-- **Local Path**: `ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md`
+- **Collected At**: 2026-06-11T18:21:46.687059+00:00
+- **Local Path**: `ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md`
 
-### 18. [ChiggyJain/PythonLangSmithTutorial](../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md) ([Source URL](https://github.com/ChiggyJain/PythonLangSmithTutorial))
+### 5. [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md) ([Source URL](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:29.017422+00:00
-- **Local Path**: `ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md`
+- **Collected At**: 2026-06-11T18:21:46.226599+00:00
+- **Local Path**: `ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md`
 
-### 19. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) ([Source URL](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:23.981911+00:00
-- **Local Path**: `ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md`
-
-### 20. [10 LLM Observability Tools to Evaluate & Monitor AI in 2026 - Confident AI](../ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md) ([Source URL](https://www.confident-ai.com/knowledge-base/compare/10-llm-observability-tools-to-evaluate-and-monitor-ai-2026))
+### 6. [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md) ([Source URL](https://www.datacamp.com/tutorial/how-to-improve-rag-performance-5-key-techniques-with-examples))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:23.219171+00:00
-- **Local Path**: `ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai-in-2026-confident-ai-394f07.md`
+- **Collected At**: 2026-06-11T18:21:45.137836+00:00
+- **Local Path**: `ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md`
 
-### 21. [Top Open-Source LLM Observability Tools in 2025 | by The Practical Developer | Medium](../ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md) ([Source URL](https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932))
+### 7. [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md) ([Source URL](https://blog.starmorph.com/blog/rag-techniques-compared-best-practices-guide))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:20.409727+00:00
-- **Local Path**: `ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md`
+- **Collected At**: 2026-06-11T18:21:44.866780+00:00
+- **Local Path**: `ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md`
 
-### 22. [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization-95727e.md) ([Source URL](https://github.com/llamasearchai/OpenAGI-Customization))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:10:18.813915+00:00
-- **Local Path**: `ai/resources/llamasearchai-openagi-customization-95727e.md`
-
-### 23. [Top LLM Observability platforms 2025](../ai/rag/top-llm-observability-platforms-2025-2f1155.md) ([Source URL](https://agenta.ai/blog/top-llm-observability-platforms))
+### 8. [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md) ([Source URL](https://nerdleveltech.com/guides/rag-systems))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:17.950793+00:00
-- **Local Path**: `ai/rag/top-llm-observability-platforms-2025-2f1155.md`
+- **Collected At**: 2026-06-11T18:21:43.385351+00:00
+- **Local Path**: `ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md`
 
-### 24. [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md) ([Source URL](https://www.braintrust.dev/articles/top-10-llm-observability-tools-2025))
+### 9. [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md) ([Source URL](https://arxiv.org/abs/2501.07391))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:16.945162+00:00
-- **Local Path**: `ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md`
+- **Collected At**: 2026-06-11T18:21:42.356498+00:00
+- **Local Path**: `ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md`
 
-### 25. [Top LLM Observability Tools in 2026 | SigNoz](../ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md) ([Source URL](https://signoz.io/comparisons/llm-observability-tools))
+### 10. [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) ([Source URL](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:13.930739+00:00
-- **Local Path**: `ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md`
+- **Collected At**: 2026-06-11T18:21:40.555518+00:00
+- **Local Path**: `ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md`
 
-### 26. [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md) ([Source URL](https://dev.to/openobserve/best-open-source-llm-observability-tools-in-2026-complete-guide-kn5))
+### 11. [Mastering Chunking Strategies for RAG: Best Practices & Code Examples](../ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md) ([Source URL](https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:10:12.578331+00:00
-- **Local Path**: `ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md`
+- **Collected At**: 2026-06-11T18:21:38.491661+00:00
+- **Local Path**: `ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md`
 
-### 27. [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards-6101a3.md) ([Source URL](https://github.com/FailproofAI/ai-reliability-standards))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:10:11.108505+00:00
-- **Local Path**: `ai/agents/failproofai-ai-reliability-standards-6101a3.md`
+### 12. [Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](../ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md) ([Source URL](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:37.556849+00:00
+- **Local Path**: `ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md`
 
-### 28. [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md) ([Source URL](https://www.anthropic.com/news/dxc-anthropic-alliance))
+### 13. [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md) ([Source URL](https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:37.237904+00:00
+- **Local Path**: `ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md`
+
+### 14. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md) ([Source URL](https://superml.org/tutorials/rag-beginner))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:30.039808+00:00
+- **Local Path**: `ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md`
+
+### 15. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md) ([Source URL](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:29.351504+00:00
+- **Local Path**: `ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md`
+
+### 16. [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md) ([Source URL](https://arxiv.org/abs/2510.12323))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:27.122841+00:00
+- **Local Path**: `ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md`
+
+### 17. [Google Colab](../ai/rag/google-colab-dc1bd5.md) ([Source URL](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:26.905462+00:00
+- **Local Path**: `ai/rag/google-colab-dc1bd5.md`
+
+### 18. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md) ([Source URL](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:26.439401+00:00
+- **Local Path**: `ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md`
+
+### 19. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md) ([Source URL](https://dasroot.net/posts/2026/03/python-rag-projects-github))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:26.152079+00:00
+- **Local Path**: `ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md`
+
+### 20. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md) ([Source URL](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T18:21:24.858187+00:00
+- **Local Path**: `ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md`
+
+### 21. [Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md) ([Source URL](https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.889780+00:00
+- **Local Path**: `ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md`
+
+### 22. [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md) ([Source URL](https://mistral.ai/news/workflows))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.889652+00:00
+- **Local Path**: `ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md`
+
+### 23. [Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md) ([Source URL](https://mistral.ai/news/accelerate-ai-native-industry))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.889553+00:00
+- **Local Path**: `ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md`
+
+### 24. [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md) ([Source URL](https://mistral.ai/news/physics-ai-research))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.889505+00:00
+- **Local Path**: `ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md`
+
+### 25. [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit-3ecb58.md) ([Source URL](https://mistral.ai/news/search-toolkit))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888721+00:00
+- **Local Path**: `ai/companies/mistral/introducing-search-toolkit-3ecb58.md`
+
+### 26. [Vibe gets to work.](../ai/companies/mistral/vibe-gets-to-work-e11a89.md) ([Source URL](https://mistral.ai/news/vibe-agent))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888688+00:00
+- **Local Path**: `ai/companies/mistral/vibe-gets-to-work-e11a89.md`
+
+### 27. [AI Now Summit 2026](../ai/companies/mistral/ai-now-summit-2026-6d511a.md) ([Source URL](https://mistral.ai/news/ai-now-summit-2026))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888654+00:00
+- **Local Path**: `ai/companies/mistral/ai-now-summit-2026-6d511a.md`
+
+### 28. [Voxtral TTS](../ai/companies/mistral/voxtral-tts-d3c30c.md) ([Source URL](https://mistral.ai/news/voxtral-tts))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888580+00:00
+- **Local Path**: `ai/companies/mistral/voxtral-tts-d3c30c.md`
+
+### 29. [Mistral Small 4](../ai/companies/mistral/mistral-small-4-a1604c.md) ([Source URL](https://mistral.ai/news/mistral-small-4))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888530+00:00
+- **Local Path**: `ai/companies/mistral/mistral-small-4-a1604c.md`
+
+### 30. [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5-e4fb7f.md) ([Source URL](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5))
+- **Category**: ai/companies/mistral
+- **Collected At**: 2026-06-11T18:20:58.888465+00:00
+- **Local Path**: `ai/companies/mistral/mistral-medium-3-5-e4fb7f.md`
+
+### 31. [Learn more](../ai/companies/deepmind/learn-more-92fbb6.md) ([Source URL](https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.250242+00:00
+- **Local Path**: `ai/companies/deepmind/learn-more-92fbb6.md`
+
+### 32. [Learn more](../ai/companies/deepmind/learn-more-1d9b12.md) ([Source URL](https://antigravity.google/blog/introducing-google-antigravity-2-0))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.250208+00:00
+- **Local Path**: `ai/companies/deepmind/learn-more-1d9b12.md`
+
+### 33. [Learn more](../ai/companies/deepmind/learn-more-314226.md) ([Source URL](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.250176+00:00
+- **Local Path**: `ai/companies/deepmind/learn-more-314226.md`
+
+### 34. [Learn more](../ai/companies/deepmind/learn-more-b2201e.md) ([Source URL](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.250137+00:00
+- **Local Path**: `ai/companies/deepmind/learn-more-b2201e.md`
+
+### 35. [Learn more](../ai/companies/deepmind/learn-more-0a9db6.md) ([Source URL](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.250096+00:00
+- **Local Path**: `ai/companies/deepmind/learn-more-0a9db6.md`
+
+### 36. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md) ([Source URL](https://deepmind.google/blog))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.249767+00:00
+- **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md`
+
+### 37. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md) ([Source URL](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.249718+00:00
+- **Local Path**: `ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md`
+
+### 38. [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md) ([Source URL](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.249685+00:00
+- **Local Path**: `ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md`
+
+### 39. [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md) ([Source URL](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds))
+- **Category**: ai/companies/deepmind
+- **Collected At**: 2026-06-11T18:20:58.249589+00:00
+- **Local Path**: `ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md`
+
+### 40. [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy-f70da8.md) ([Source URL](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy))
 - **Category**: ai/companies/anthropic
-- **Collected At**: 2026-06-11T18:07:47.800041+00:00
-- **Local Path**: `ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md`
+- **Collected At**: 2026-06-11T18:20:57.835074+00:00
+- **Local Path**: `ai/companies/anthropic/responsible-scaling-policy-f70da8.md`
 
-### 29. [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server-ae72c8.md) ([Source URL](https://github.com/iris-eval/mcp-server))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:05:53.306127+00:00
-- **Local Path**: `ai/agents/iris-eval-mcp-server-ae72c8.md`
+### 41. [May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](../ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md) ([Source URL](https://www.anthropic.com/news/milan-office-opening))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834894+00:00
+- **Local Path**: `ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md`
 
-### 30. [gpsandhu23/LLM_code_scanning_evals](../ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md) ([Source URL](https://github.com/gpsandhu23/LLM_code_scanning_evals))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:48.399165+00:00
-- **Local Path**: `ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md`
+### 42. [May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation](../ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md) ([Source URL](https://www.anthropic.com/news/series-h))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834815+00:00
+- **Local Path**: `ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md`
 
-### 31. [chris-koch-penn/gpt3_security_vulnerability_scanner](../ai/resources/chris-koch-penn-gpt3-security-vulnerability-scanner-e952d6.md) ([Source URL](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:43.337324+00:00
-- **Local Path**: `ai/resources/chris-koch-penn-gpt3-security-vulnerability-scanner-e952d6.md`
+### 43. [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md) ([Source URL](https://www.anthropic.com/news/confidential-draft-s1-sec))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834789+00:00
+- **Local Path**: `ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md`
 
-### 32. [microsoft/a11y-llm-eval](../ai/resources/microsoft-a11y-llm-eval-ad1fe4.md) ([Source URL](https://github.com/microsoft/a11y-llm-eval))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:38.302033+00:00
-- **Local Path**: `ai/resources/microsoft-a11y-llm-eval-ad1fe4.md`
+### 44. [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md) ([Source URL](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834752+00:00
+- **Local Path**: `ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md`
 
-### 33. [humanlaya/OneMillion-Bench](../ai/agents/humanlaya-onemillion-bench-43fc9d.md) ([Source URL](https://github.com/humanlaya/OneMillion-Bench))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:05:33.240349+00:00
-- **Local Path**: `ai/agents/humanlaya-onemillion-bench-43fc9d.md`
+### 45. [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md) ([Source URL](https://www.anthropic.com/news/services-track-partner-hub))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834723+00:00
+- **Local Path**: `ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md`
 
-### 34. [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals-3ce9be.md) ([Source URL](https://github.com/nottelabs/open-operator-evals))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:05:28.532546+00:00
-- **Local Path**: `ai/agents/nottelabs-open-operator-evals-3ce9be.md`
+### 46. [Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](../ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md) ([Source URL](https://www.anthropic.com/news/claude-fable-5-mythos-5))
+- **Category**: ai/companies/anthropic
+- **Collected At**: 2026-06-11T18:20:57.834549+00:00
+- **Local Path**: `ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md`
 
-### 35. [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval-76465e.md) ([Source URL](https://github.com/flexpa/llm-fhir-eval))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:23.240939+00:00
-- **Local Path**: `ai/resources/flexpa-llm-fhir-eval-76465e.md`
+### 47. [Applied AI](../ai/companies/openai/applied-ai-6f9918.md) ([Source URL](https://openai.com/news/applied-ai))
+- **Category**: ai/companies/openai
+- **Collected At**: 2026-06-11T18:20:53.917147+00:00
+- **Local Path**: `ai/companies/openai/applied-ai-6f9918.md`
 
-### 36. [FormulaMonks/llm-benchmarker-suite](../ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md) ([Source URL](https://github.com/FormulaMonks/llm-benchmarker-suite))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:18.308816+00:00
-- **Local Path**: `ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md`
+### 48. [AI Adoption](../ai/companies/openai/ai-adoption-7bd0fb.md) ([Source URL](https://openai.com/news/ai-adoption))
+- **Category**: ai/companies/openai
+- **Collected At**: 2026-06-11T18:20:53.917121+00:00
+- **Local Path**: `ai/companies/openai/ai-adoption-7bd0fb.md`
 
-### 37. [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops-531eca.md) ([Source URL](https://github.com/AgentOps-AI/agentops))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:05:13.379237+00:00
-- **Local Path**: `ai/agents/agentops-ai-agentops-531eca.md`
+### 49. [Global Affairs](../ai/companies/openai/global-affairs-f72452.md) ([Source URL](https://openai.com/news/global-affairs))
+- **Category**: ai/companies/openai
+- **Collected At**: 2026-06-11T18:20:53.917092+00:00
+- **Local Path**: `ai/companies/openai/global-affairs-f72452.md`
 
-### 38. [abacaj/code-eval](../ai/resources/abacaj-code-eval-d6eb4e.md) ([Source URL](https://github.com/abacaj/code-eval))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:05:08.283937+00:00
-- **Local Path**: `ai/resources/abacaj-code-eval-d6eb4e.md`
-
-### 39. [modelscope/evalscope](../ai/rag/modelscope-evalscope-8bc7f2.md) ([Source URL](https://github.com/modelscope/evalscope))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:05:03.247689+00:00
-- **Local Path**: `ai/rag/modelscope-evalscope-8bc7f2.md`
-
-### 40. [openai/evals](../ai/resources/openai-evals-2c8be2.md) ([Source URL](https://github.com/openai/evals))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:04:58.846985+00:00
-- **Local Path**: `ai/resources/openai-evals-2c8be2.md`
-
-### 41. [aigateway-sh/awesome-ai-gateway](../ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md) ([Source URL](https://github.com/aigateway-sh/awesome-ai-gateway))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:04:53.364897+00:00
-- **Local Path**: `ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md`
-
-### 42. [isumitsoni/awesome-ai-pm](../ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md) ([Source URL](https://github.com/isumitsoni/awesome-ai-pm))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:04:48.282759+00:00
-- **Local Path**: `ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md`
-
-### 43. [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md) ([Source URL](https://github.com/sbalnojan/ai-chaos-awesome))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:04:43.429936+00:00
-- **Local Path**: `ai/rag/sbalnojan-ai-chaos-awesome-6bfb3d.md`
-
-### 44. [sumanth-dhanya/llm-toolkit](../ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md) ([Source URL](https://github.com/sumanth-dhanya/llm-toolkit))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:04:38.459380+00:00
-- **Local Path**: `ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md`
-
-### 45. [itsderek23/awesome-eval-driven-development](../ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md) ([Source URL](https://github.com/itsderek23/awesome-eval-driven-development))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:04:33.461431+00:00
-- **Local Path**: `ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md`
-
-### 46. [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md) ([Source URL](https://github.com/vstorm-co/awesome-pydantic-ai))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T18:04:28.484032+00:00
-- **Local Path**: `ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md`
-
-### 47. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval-7498e7.md) ([Source URL](https://github.com/onejune2018/Awesome-LLM-Eval))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:04:23.327201+00:00
-- **Local Path**: `ai/rag/onejune2018-awesome-llm-eval-7498e7.md`
-
-### 48. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([Source URL](https://github.com/glgh/awesome-llm-human-preference-datasets))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T18:04:18.336996+00:00
-- **Local Path**: `ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md`
-
-### 49. [How Terry Tao became an evangelist for AI in math](../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md) ([Source URL](https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T18:00:57.381924+00:00
-- **Local Path**: `ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md`
-
-### 50. [Show HN: Claw Patrol, a security firewall for agents](../ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md) ([Source URL](https://github.com/denoland/clawpatrol))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T18:00:54.101715+00:00
-- **Local Path**: `ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md`
+### 50. [Engineering](../ai/companies/openai/engineering-3549a0.md) ([Source URL](https://openai.com/news/engineering))
+- **Category**: ai/companies/openai
+- **Collected At**: 2026-06-11T18:20:53.917036+00:00
+- **Local Path**: `ai/companies/openai/engineering-3549a0.md`
 
 ---
-*Index generated on 2026-06-11T18:11:54.817573+00:00*
+*Index generated on 2026-06-11T18:23:21.126428+00:00*

@@ -3,7 +3,7 @@ title: "Getting Started with Transformers on Habana Gaudi"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/getting-started-habana"
-local_vault_path: "ai\models\getting-started-with-transformers-on-habana-gaudi-357993.md"
+local_vault_path: "ai/models/getting-started-with-transformers-on-habana-gaudi-357993.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/getting-started-habana
 
 ## Local Vault File
 
-Path: [getting-started-with-transformers-on-habana-gaudi-357993.md](file:///../../ai\models\getting-started-with-transformers-on-habana-gaudi-357993.md)
+Path: [getting-started-with-transformers-on-habana-gaudi-357993.md](file:///../../ai/models/getting-started-with-transformers-on-habana-gaudi-357993.md)

@@ -3,7 +3,7 @@ title: "MobileFineTuner: A Mobile-Native Framework for On-Device LLM Fine-Tuning
 archive_category: "inference-local-llm"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2512.08211"
-local_vault_path: "ai\agents\mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md"
+local_vault_path: "ai/agents/mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2512.08211
 
 ## Local Vault File
 
-Path: [mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md](file:///../../ai\agents\mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md)
+Path: [mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md](file:///../../ai/agents/mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md)

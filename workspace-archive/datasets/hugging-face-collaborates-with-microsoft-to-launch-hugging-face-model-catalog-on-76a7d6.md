@@ -3,7 +3,7 @@ title: "Hugging Face Collaborates with Microsoft to launch Hugging Face Model Ca
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hugging-face-endpoints-on-azure"
-local_vault_path: "ai\models\hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md"
+local_vault_path: "ai/models/hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 
 ## Local Vault File
 
-Path: [hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md](file:///../../ai\models\hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md)
+Path: [hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md](file:///../../ai/models/hugging-face-collaborates-with-microsoft-to-launch-hugging-face-model-catalog-on-76a7d6.md)

@@ -3,7 +3,7 @@ title: "A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/phi2-intel-meteor-lake"
-local_vault_path: "ai\models\a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md"
+local_vault_path: "ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/phi2-intel-meteor-lake
 
 ## Local Vault File
 
-Path: [a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md](file:///../../ai\models\a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md)
+Path: [a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md](file:///../../ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lake-a384e4.md)

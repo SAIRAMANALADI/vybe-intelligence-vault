@@ -3,7 +3,7 @@ title: "Small Experiments, Cheaper Decisions: A Case Study in Staged Promotion f
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11387"
-local_vault_path: "ai\research\small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md"
+local_vault_path: "ai/research/small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11387
 
 ## Local Vault File
 
-Path: [small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md](file:///../../ai\research\small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md)
+Path: [small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md](file:///../../ai/research/small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md)

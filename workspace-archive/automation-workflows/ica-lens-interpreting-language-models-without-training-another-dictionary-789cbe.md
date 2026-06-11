@@ -3,7 +3,7 @@ title: "ICA Lens: Interpreting Language Models Without Training Another Dictiona
 archive_category: "automation-workflows"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11722"
-local_vault_path: "ai\research\ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md"
+local_vault_path: "ai/research/ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11722
 
 ## Local Vault File
 
-Path: [ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md](file:///../../ai\research\ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md)
+Path: [ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md](file:///../../ai/research/ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md)

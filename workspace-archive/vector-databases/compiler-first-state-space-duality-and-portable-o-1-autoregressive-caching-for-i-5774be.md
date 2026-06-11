@@ -3,7 +3,7 @@ title: "Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Ca
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.09555"
-local_vault_path: "ai\rag\compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md"
+local_vault_path: "ai/rag/compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.09555
 
 ## Local Vault File
 
-Path: [compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md](file:///../../ai\rag\compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md)
+Path: [compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md](file:///../../ai/rag/compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md)

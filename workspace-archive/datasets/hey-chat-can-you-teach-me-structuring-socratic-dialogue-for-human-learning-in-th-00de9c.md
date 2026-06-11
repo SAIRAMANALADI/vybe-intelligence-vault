@@ -3,7 +3,7 @@ title: "Hey Chat, Can You Teach Me? Structuring Socratic Dialogue for Human Lear
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11744"
-local_vault_path: "ai\research\hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md"
+local_vault_path: "ai/research/hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11744
 
 ## Local Vault File
 
-Path: [hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md](file:///../../ai\research\hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md)
+Path: [hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md](file:///../../ai/research/hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md)

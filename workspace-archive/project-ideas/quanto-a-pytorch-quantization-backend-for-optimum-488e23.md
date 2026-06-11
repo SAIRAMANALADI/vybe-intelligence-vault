@@ -3,7 +3,7 @@ title: "Quanto: a PyTorch quantization backend for Optimum"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/quanto-introduction"
-local_vault_path: "ai\models\quanto-a-pytorch-quantization-backend-for-optimum-488e23.md"
+local_vault_path: "ai/models/quanto-a-pytorch-quantization-backend-for-optimum-488e23.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/quanto-introduction
 
 ## Local Vault File
 
-Path: [quanto-a-pytorch-quantization-backend-for-optimum-488e23.md](file:///../../ai\models\quanto-a-pytorch-quantization-backend-for-optimum-488e23.md)
+Path: [quanto-a-pytorch-quantization-backend-for-optimum-488e23.md](file:///../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum-488e23.md)

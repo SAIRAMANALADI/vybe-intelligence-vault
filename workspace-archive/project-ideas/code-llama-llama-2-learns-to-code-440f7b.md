@@ -3,7 +3,7 @@ title: "Code Llama: Llama 2 learns to code"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/codellama"
-local_vault_path: "ai\models\code-llama-llama-2-learns-to-code-440f7b.md"
+local_vault_path: "ai/models/code-llama-llama-2-learns-to-code-440f7b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [code-llama-llama-2-learns-to-code-440f7b.md](file:///../../ai\models\code-llama-llama-2-learns-to-code-440f7b.md)
+Path: [code-llama-llama-2-learns-to-code-440f7b.md](file:///../../ai/models/code-llama-llama-2-learns-to-code-440f7b.md)

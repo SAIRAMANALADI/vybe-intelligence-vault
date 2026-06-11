@@ -3,7 +3,7 @@ title: "FuzzingLabs/secpipe"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/FuzzingLabs/secpipe"
-local_vault_path: "ai\agents\fuzzinglabs-secpipe-bdc8e7.md"
+local_vault_path: "ai/agents/fuzzinglabs-secpipe-bdc8e7.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/FuzzingLabs/secpipe
 
 ## Local Vault File
 
-Path: [fuzzinglabs-secpipe-bdc8e7.md](file:///../../ai\agents\fuzzinglabs-secpipe-bdc8e7.md)
+Path: [fuzzinglabs-secpipe-bdc8e7.md](file:///../../ai/agents/fuzzinglabs-secpipe-bdc8e7.md)

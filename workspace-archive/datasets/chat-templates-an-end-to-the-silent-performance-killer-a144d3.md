@@ -3,7 +3,7 @@ title: "Chat Templates: An End to the Silent Performance Killer"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/chat-templates"
-local_vault_path: "ai\models\chat-templates-an-end-to-the-silent-performance-killer-a144d3.md"
+local_vault_path: "ai/models/chat-templates-an-end-to-the-silent-performance-killer-a144d3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/chat-templates
 
 ## Local Vault File
 
-Path: [chat-templates-an-end-to-the-silent-performance-killer-a144d3.md](file:///../../ai\models\chat-templates-an-end-to-the-silent-performance-killer-a144d3.md)
+Path: [chat-templates-an-end-to-the-silent-performance-killer-a144d3.md](file:///../../ai/models/chat-templates-an-end-to-the-silent-performance-killer-a144d3.md)

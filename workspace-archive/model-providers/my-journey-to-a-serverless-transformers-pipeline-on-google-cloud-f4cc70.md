@@ -3,7 +3,7 @@ title: "My Journey to a serverless transformers pipeline on Google Cloud"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds"
-local_vault_path: "ai\models\my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md"
+local_vault_path: "ai/models/my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-goo
 
 ## Local Vault File
 
-Path: [my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md](file:///../../ai\models\my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md)
+Path: [my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md](file:///../../ai/models/my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md)

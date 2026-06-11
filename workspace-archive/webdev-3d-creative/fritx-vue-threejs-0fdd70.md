@@ -3,7 +3,7 @@ title: "fritx/vue-threejs"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/fritx/vue-threejs"
-local_vault_path: "web-development\threejs\fritx-vue-threejs-0fdd70.md"
+local_vault_path: "web-development/threejs/fritx-vue-threejs-0fdd70.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/fritx/vue-threejs
 
 ## Local Vault File
 
-Path: [fritx-vue-threejs-0fdd70.md](file:///../../web-development\threejs\fritx-vue-threejs-0fdd70.md)
+Path: [fritx-vue-threejs-0fdd70.md](file:///../../web-development/threejs/fritx-vue-threejs-0fdd70.md)

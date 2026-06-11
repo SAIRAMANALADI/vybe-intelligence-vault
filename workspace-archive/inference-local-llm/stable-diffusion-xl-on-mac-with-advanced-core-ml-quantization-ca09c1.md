@@ -3,7 +3,7 @@ title: "Stable Diffusion XL on Mac with Advanced Core ML Quantization"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/stable-diffusion-xl-coreml"
-local_vault_path: "ai\models\stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md"
+local_vault_path: "ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-xl-coreml
 
 ## Local Vault File
 
-Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md](file:///../../ai\models\stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md)
+Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md](file:///../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-quantization-ca09c1.md)

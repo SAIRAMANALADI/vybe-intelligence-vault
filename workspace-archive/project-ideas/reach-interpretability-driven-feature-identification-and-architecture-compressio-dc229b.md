@@ -3,7 +3,7 @@ title: "REACH: Interpretability-Driven Feature Identification and Architecture C
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11857"
-local_vault_path: "ai\research\reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md"
+local_vault_path: "ai/research/reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11857
 
 ## Local Vault File
 
-Path: [reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md](file:///../../ai\research\reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md)
+Path: [reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md](file:///../../ai/research/reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md)

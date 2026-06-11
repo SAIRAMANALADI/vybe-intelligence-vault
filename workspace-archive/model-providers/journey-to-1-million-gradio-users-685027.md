@@ -3,7 +3,7 @@ title: "Journey to 1 Million Gradio Users!"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-1m"
-local_vault_path: "ai\models\journey-to-1-million-gradio-users-685027.md"
+local_vault_path: "ai/models/journey-to-1-million-gradio-users-685027.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gradio-1m
 
 ## Local Vault File
 
-Path: [journey-to-1-million-gradio-users-685027.md](file:///../../ai\models\journey-to-1-million-gradio-users-685027.md)
+Path: [journey-to-1-million-gradio-users-685027.md](file:///../../ai/models/journey-to-1-million-gradio-users-685027.md)

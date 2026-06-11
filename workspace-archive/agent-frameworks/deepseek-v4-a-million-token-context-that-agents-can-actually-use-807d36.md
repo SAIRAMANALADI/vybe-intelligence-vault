@@ -3,7 +3,7 @@ title: "DeepSeek-V4: a million-token context that agents can actually use"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/deepseekv4"
-local_vault_path: "ai\agents\deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md"
+local_vault_path: "ai/agents/deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deepseekv4
 
 ## Local Vault File
 
-Path: [deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md](file:///../../ai\agents\deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md)
+Path: [deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md](file:///../../ai/agents/deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md)

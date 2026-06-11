@@ -3,7 +3,7 @@ title: "Agentic Environment Engineering for Large Language Models: A Survey of E
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12191"
-local_vault_path: "ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md"
+local_vault_path: "ai/agents/agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12191
 
 ## Local Vault File
 
-Path: [agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md](file:///../../ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md)
+Path: [agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md](file:///../../ai/agents/agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md)

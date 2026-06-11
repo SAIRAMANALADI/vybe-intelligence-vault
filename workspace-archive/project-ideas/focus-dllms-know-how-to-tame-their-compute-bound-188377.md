@@ -3,7 +3,7 @@ title: "FOCUS: DLLMs Know How to Tame Their Compute Bound"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.23278"
-local_vault_path: "ai\research\focus-dllms-know-how-to-tame-their-compute-bound-188377.md"
+local_vault_path: "ai/research/focus-dllms-know-how-to-tame-their-compute-bound-188377.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.23278
 
 ## Local Vault File
 
-Path: [focus-dllms-know-how-to-tame-their-compute-bound-188377.md](file:///../../ai\research\focus-dllms-know-how-to-tame-their-compute-bound-188377.md)
+Path: [focus-dllms-know-how-to-tame-their-compute-bound-188377.md](file:///../../ai/research/focus-dllms-know-how-to-tame-their-compute-bound-188377.md)

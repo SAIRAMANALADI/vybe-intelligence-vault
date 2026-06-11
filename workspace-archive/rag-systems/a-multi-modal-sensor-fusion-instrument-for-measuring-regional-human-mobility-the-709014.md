@@ -3,7 +3,7 @@ title: "A Multi-Modal Sensor Fusion Instrument for Measuring Regional Human Mobi
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.21639"
-local_vault_path: "ai\research\a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md"
+local_vault_path: "ai/research/a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2603.21639
 
 ## Local Vault File
 
-Path: [a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md](file:///../../ai\research\a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md)
+Path: [a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md](file:///../../ai/research/a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md)

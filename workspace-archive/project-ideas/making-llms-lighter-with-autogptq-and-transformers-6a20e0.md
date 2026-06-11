@@ -3,7 +3,7 @@ title: "Making LLMs lighter with AutoGPTQ and transformers"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gptq-integration"
-local_vault_path: "ai\models\making-llms-lighter-with-autogptq-and-transformers-6a20e0.md"
+local_vault_path: "ai/models/making-llms-lighter-with-autogptq-and-transformers-6a20e0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [making-llms-lighter-with-autogptq-and-transformers-6a20e0.md](file:///../../ai\models\making-llms-lighter-with-autogptq-and-transformers-6a20e0.md)
+Path: [making-llms-lighter-with-autogptq-and-transformers-6a20e0.md](file:///../../ai/models/making-llms-lighter-with-autogptq-and-transformers-6a20e0.md)

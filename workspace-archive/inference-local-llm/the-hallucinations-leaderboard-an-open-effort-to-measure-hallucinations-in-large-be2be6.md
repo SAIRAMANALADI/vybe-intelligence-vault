@@ -3,7 +3,7 @@ title: "The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-hallucinations"
-local_vault_path: "ai\models\the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md"
+local_vault_path: "ai/models/the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai\models\the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md)

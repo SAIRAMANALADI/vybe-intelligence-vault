@@ -3,7 +3,7 @@ title: "riseandignite/mcp-shield"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/riseandignite/mcp-shield"
-local_vault_path: "ai\resources\riseandignite-mcp-shield-20928f.md"
+local_vault_path: "ai/resources/riseandignite-mcp-shield-20928f.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/riseandignite/mcp-shield
 
 ## Local Vault File
 
-Path: [riseandignite-mcp-shield-20928f.md](file:///../../ai\resources\riseandignite-mcp-shield-20928f.md)
+Path: [riseandignite-mcp-shield-20928f.md](file:///../../ai/resources/riseandignite-mcp-shield-20928f.md)

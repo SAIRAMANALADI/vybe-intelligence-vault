@@ -3,7 +3,7 @@ title: "Apertus LLM Family Expansion via Distillation and Quantization"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.29128"
-local_vault_path: "ai\research\apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md"
+local_vault_path: "ai/research/apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.29128
 
 ## Local Vault File
 
-Path: [apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md](file:///../../ai\research\apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md)
+Path: [apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md](file:///../../ai/research/apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md)

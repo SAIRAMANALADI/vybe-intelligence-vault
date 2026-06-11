@@ -3,7 +3,7 @@ title: "Towards Responsibly Non-Compliant Machines"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12147"
-local_vault_path: "ai\agents\towards-responsibly-non-compliant-machines-76364d.md"
+local_vault_path: "ai/agents/towards-responsibly-non-compliant-machines-76364d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12147
 
 ## Local Vault File
 
-Path: [towards-responsibly-non-compliant-machines-76364d.md](file:///../../ai\agents\towards-responsibly-non-compliant-machines-76364d.md)
+Path: [towards-responsibly-non-compliant-machines-76364d.md](file:///../../ai/agents/towards-responsibly-non-compliant-machines-76364d.md)

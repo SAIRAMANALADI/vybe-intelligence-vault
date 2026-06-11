@@ -3,7 +3,7 @@ title: "LangGraph 2.0: The Definitive Guide to Building Production-Grade AI Agen
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://dev.to/richard_dillon_b9c238186e/langgraph-20-the-definitive-guide-to-building-production-grade-ai-agents-in-2026-4j2b"
-local_vault_path: "ai\rag\langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md"
+local_vault_path: "ai/rag/langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://dev.to/richard_dillon_b9c238186e/langgraph-20-the-d
 
 ## Local Vault File
 
-Path: [langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md](file:///../../ai\rag\langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md)
+Path: [langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md](file:///../../ai/rag/langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md)

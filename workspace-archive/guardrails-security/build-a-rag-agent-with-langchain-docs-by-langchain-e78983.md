@@ -3,7 +3,7 @@ title: "Build a RAG agent with LangChain - Docs by LangChain"
 archive_category: "guardrails-security"
 source_category: "ai/rag"
 source_url: "https://docs.langchain.com/oss/python/langchain/rag"
-local_vault_path: "ai\rag\build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md"
+local_vault_path: "ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://docs.langchain.com/oss/python/langchain/rag
 
 ## Local Vault File
 
-Path: [build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md](file:///../../ai\rag\build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md)
+Path: [build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md](file:///../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain-e78983.md)

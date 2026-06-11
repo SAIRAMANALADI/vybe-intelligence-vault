@@ -3,7 +3,7 @@ title: "Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-ch
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository"
-local_vault_path: "ai\rag\community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md"
+local_vault_path: "ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/Community-Dreams-Foundation/agentic-rag-
 
 ## Local Vault File
 
-Path: [community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md](file:///../../ai\rag\community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md)
+Path: [community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md](file:///../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te-d91d3e.md)

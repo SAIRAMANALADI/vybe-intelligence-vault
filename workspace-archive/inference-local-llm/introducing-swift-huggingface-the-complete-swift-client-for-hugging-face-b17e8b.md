@@ -3,7 +3,7 @@ title: "Introducing swift-huggingface: The Complete Swift Client for Hugging Fac
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/swift-huggingface"
-local_vault_path: "ai\models\introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md"
+local_vault_path: "ai/models/introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/swift-huggingface
 
 ## Local Vault File
 
-Path: [introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md](file:///../../ai\models\introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md)
+Path: [introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md](file:///../../ai/models/introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md)

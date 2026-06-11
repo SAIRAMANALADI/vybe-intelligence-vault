@@ -3,7 +3,7 @@ title: "Interpretable Neural Marked Statistics for Cosmological Inference"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11295"
-local_vault_path: "ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md"
+local_vault_path: "ai/research/interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11295
 
 ## Local Vault File
 
-Path: [interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md](file:///../../ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md)
+Path: [interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md](file:///../../ai/research/interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md)

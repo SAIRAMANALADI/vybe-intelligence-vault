@@ -3,7 +3,7 @@ title: "OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.21164"
-local_vault_path: "ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md"
+local_vault_path: "ai/research/ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2507.21164
 
 ## Local Vault File
 
-Path: [ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md](file:///../../ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md)
+Path: [ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md](file:///../../ai/research/ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md)

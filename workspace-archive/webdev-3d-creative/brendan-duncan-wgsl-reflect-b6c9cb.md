@@ -3,7 +3,7 @@ title: "brendan-duncan/wgsl_reflect"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/brendan-duncan/wgsl_reflect"
-local_vault_path: "web-development\webgpu\brendan-duncan-wgsl-reflect-b6c9cb.md"
+local_vault_path: "web-development/webgpu/brendan-duncan-wgsl-reflect-b6c9cb.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/brendan-duncan/wgsl_reflect
 
 ## Local Vault File
 
-Path: [brendan-duncan-wgsl-reflect-b6c9cb.md](file:///../../web-development\webgpu\brendan-duncan-wgsl-reflect-b6c9cb.md)
+Path: [brendan-duncan-wgsl-reflect-b6c9cb.md](file:///../../web-development/webgpu/brendan-duncan-wgsl-reflect-b6c9cb.md)

@@ -1,16 +1,17 @@
 ---
 title: "Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment"
 archive_category: "evals-and-benchmarks"
-source_category: "web-development/threejs"
+source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.03520"
-local_vault_path: "web-development\threejs\certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md"
+local_vault_path: "ai/research/certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
-  - threejs
+  - benchmark
+  - hackernews
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -21,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2510.03520
 
 ## Local Vault File
 
-Path: [certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md](file:///../../web-development\threejs\certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md)
+Path: [certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md](file:///../../ai/research/certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md)

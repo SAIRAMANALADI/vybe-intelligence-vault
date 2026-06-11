@@ -3,7 +3,7 @@ title: "reliverse/relivator"
 archive_category: "startup-builder"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/reliverse/relivator"
-local_vault_path: "web-development\nextjs\reliverse-relivator-9e356e.md"
+local_vault_path: "web-development/nextjs/reliverse-relivator-9e356e.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/reliverse/relivator
 
 ## Local Vault File
 
-Path: [reliverse-relivator-9e356e.md](file:///../../web-development\nextjs\reliverse-relivator-9e356e.md)
+Path: [reliverse-relivator-9e356e.md](file:///../../web-development/nextjs/reliverse-relivator-9e356e.md)

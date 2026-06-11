@@ -3,7 +3,7 @@ title: "Binary and Scalar Embedding Quantization for Significantly Faster & Chea
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/embedding-quantization"
-local_vault_path: "ai\models\binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md"
+local_vault_path: "ai/models/binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/embedding-quantization
 
 ## Local Vault File
 
-Path: [binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md](file:///../../ai\models\binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md)
+Path: [binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md](file:///../../ai/models/binary-and-scalar-embedding-quantization-for-significantly-faster-cheaper-retrie-5579b4.md)

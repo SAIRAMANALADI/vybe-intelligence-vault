@@ -3,7 +3,7 @@ title: "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelli
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
-local_vault_path: "ai\agents\introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md"
+local_vault_path: "ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-mul
 
 ## Local Vault File
 
-Path: [introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md](file:///../../ai\agents\introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md)
+Path: [introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md](file:///../../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-context-multimodal-intelligence-for-3fabcf.md)

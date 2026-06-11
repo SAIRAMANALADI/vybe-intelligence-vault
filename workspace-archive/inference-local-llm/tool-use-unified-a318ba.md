@@ -3,7 +3,7 @@ title: "Tool Use, Unified"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/unified-tool-use"
-local_vault_path: "ai\models\tool-use-unified-a318ba.md"
+local_vault_path: "ai/models/tool-use-unified-a318ba.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [tool-use-unified-a318ba.md](file:///../../ai\models\tool-use-unified-a318ba.md)
+Path: [tool-use-unified-a318ba.md](file:///../../ai/models/tool-use-unified-a318ba.md)

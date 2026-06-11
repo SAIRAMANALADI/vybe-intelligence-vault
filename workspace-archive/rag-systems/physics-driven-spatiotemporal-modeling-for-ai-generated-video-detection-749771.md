@@ -3,7 +3,7 @@ title: "Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.08073"
-local_vault_path: "ai\rag\physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md"
+local_vault_path: "ai/rag/physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2510.08073
 
 ## Local Vault File
 
-Path: [physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md](file:///../../ai\rag\physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md)
+Path: [physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md](file:///../../ai/rag/physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md)

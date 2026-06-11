@@ -3,7 +3,7 @@ title: "Open Materials Generation with Inference-Time Reinforcement Learning"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.00424"
-local_vault_path: "ai\rag\open-materials-generation-with-inference-time-reinforcement-learning-195513.md"
+local_vault_path: "ai/rag/open-materials-generation-with-inference-time-reinforcement-learning-195513.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.00424
 
 ## Local Vault File
 
-Path: [open-materials-generation-with-inference-time-reinforcement-learning-195513.md](file:///../../ai\rag\open-materials-generation-with-inference-time-reinforcement-learning-195513.md)
+Path: [open-materials-generation-with-inference-time-reinforcement-learning-195513.md](file:///../../ai/rag/open-materials-generation-with-inference-time-reinforcement-learning-195513.md)

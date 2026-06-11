@@ -3,7 +3,7 @@ title: "INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11440"
-local_vault_path: "ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md"
+local_vault_path: "ai/agents/inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11440
 
 ## Local Vault File
 
-Path: [inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md](file:///../../ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md)
+Path: [inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md](file:///../../ai/agents/inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md)

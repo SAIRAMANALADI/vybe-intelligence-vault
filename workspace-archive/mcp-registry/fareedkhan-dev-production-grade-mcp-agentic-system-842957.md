@@ -3,7 +3,7 @@ title: "FareedKhan-dev/production-grade-mcp-agentic-system"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system"
-local_vault_path: "ai\agents\fareedkhan-dev-production-grade-mcp-agentic-system-842957.md"
+local_vault_path: "ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/FareedKhan-dev/production-grade-mcp-agen
 
 ## Local Vault File
 
-Path: [fareedkhan-dev-production-grade-mcp-agentic-system-842957.md](file:///../../ai\agents\fareedkhan-dev-production-grade-mcp-agentic-system-842957.md)
+Path: [fareedkhan-dev-production-grade-mcp-agentic-system-842957.md](file:///../../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md)
