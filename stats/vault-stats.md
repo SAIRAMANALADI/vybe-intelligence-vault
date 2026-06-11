@@ -13,4 +13,4 @@ This document summarizes the sizes, categories, counts, and metadata for all pub
 | 7-Day Learning Paths | 8 |
 | Portfolio Build Ideas | 8 |
 | Curated Best-Of Guides | 6 |
-| Last Updated | 2026-06-11 15:18 UTC |
+| Last Updated | 2026-06-11 17:43 UTC |

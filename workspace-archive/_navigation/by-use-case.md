@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Category: `project-ideas` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 
 ---
-*Last updated: 2026-06-11 15:18 UTC*
+*Last updated: 2026-06-11 17:43 UTC*

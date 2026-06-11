@@ -1863,4 +1863,4 @@ Resources organized by keyword tags.
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent-267a79.md)
 
 ---
-*Index generated on 2026-06-11T14:04:13.786431+00:00*
+*Index generated on 2026-06-11T17:43:20.824267+00:00*

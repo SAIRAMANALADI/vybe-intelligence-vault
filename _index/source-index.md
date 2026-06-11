@@ -1101,6 +1101,13 @@ Resources organized by publisher feed and query sources.
   - [🧨 Stable Diffusion in JAX / Flax !](../ai/models/stable-diffusion-in-jax-flax-4894a8.md)
   - [🪆 Introduction to Matryoshka Embedding Models](../ai/models/introduction-to-matryoshka-embedding-models-e224ad.md)
 
+## Unknown Source (type: rss)
+
+  - [[BROKEN LINK] - ](../.github/ISSUE_TEMPLATE/broken-link.md)
+  - [[CATEGORY] - ](../.github/ISSUE_TEMPLATE/category-request.md)
+  - [[QUALITY] - ](../.github/ISSUE_TEMPLATE/quality-feedback.md)
+  - [[SUGGEST] - ](../.github/ISSUE_TEMPLATE/resource-suggestion.md)
+
 ## Web Discovery (type: web)
 
   - [10 AI agent benchmarks](../ai/rag/10-ai-agent-benchmarks-56ac4f.md)
@@ -1710,4 +1717,4 @@ Resources organized by publisher feed and query sources.
   - [Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic View](../ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)
 
 ---
-*Index generated on 2026-06-11T14:04:13.826691+00:00*
+*Index generated on 2026-06-11T17:43:20.851694+00:00*

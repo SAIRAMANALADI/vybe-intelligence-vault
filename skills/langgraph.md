@@ -236,4 +236,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T14:04:09.994647+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T17:26:28.941289+00:00.

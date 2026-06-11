@@ -31,18 +31,18 @@ Welcome to your private local Intelligence Vault.
 
 ## Skills
 
-- [Automation](../skills/automation.md)
+- [AI Agents](../skills/ai-agents.md)
+- [AI Coding Agents](../skills/ai-coding-agents.md)
+- [Workflow Automation](../skills/automation.md)
 - [FastAPI](../skills/fastapi.md)
-- [Framer Motion](../skills/framer-motion.md)
-- [GSAP](../skills/gsap.md)
-- [LangGraph](../skills/langgraph.md)
+- [Frontend AI & UI](../skills/frontend-ai-ui.md)
+- [LLMOps](../skills/llmops.md)
+- [Local LLMs & Inference](../skills/local-llm.md)
+- [Model Context Protocol (MCP)](../skills/mcp.md)
 - [Prompt Engineering](../skills/prompt-engineering.md)
 - [RAG](../skills/rag.md)
-- [React Three Fiber](../skills/react-three-fiber.md)
-- [shadcn/ui](../skills/shadcn-ui.md)
-- [Tailwind CSS](../skills/tailwind.md)
-- [Three.js](../skills/threejs.md)
-- [WebGPU](../skills/webgpu.md)
+- [Three.js & WebGL](../skills/threejs.md)
+- [Vector Databases](../skills/vector-databases.md)
 
 ## Navigation
 
@@ -52,4 +52,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-06-11T14:04:13.746228+00:00*
+*Index generated on 2026-06-11T17:43:20.795741+00:00*

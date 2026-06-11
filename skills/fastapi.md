@@ -15,169 +15,64 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 - OAuth2 and JWT Authentication Pipelines
 - Dependency Injection Systems
 
-## Best Resources Found
+## Current Signal
 
-### 1. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source URL](https://github.com/Panniantong/Agent-Reach))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
+<!-- GENERATED:CURRENT_SIGNAL_START -->
+Active signals: 17 resources matched in the intelligence vault.
+Recently detected signals:
+- [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) (Source: GitHub Discovery) - Collected 2026-06-11
+<!-- GENERATED:CURRENT_SIGNAL_END -->
 
-### 2. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
+## Best Repositories
 
-### 3. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server-7c2515.md) ([Source URL](https://github.com/mukul975/cve-mcp-server))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/resources
-- **Local Path**: `ai/resources/mukul975-cve-mcp-server-7c2515.md`
+<!-- GENERATED:BEST_REPOS_START -->
+### 1. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+- Stars: 2391
+- Language: Python
+- Description: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agen...
 
-### 4. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([Source URL](https://github.com/AgentTeam-TaichuAI/ScienceClaw))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/agentteam-taichuai-scienceclaw-992597.md`
+### 2. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
+- Stars: 54
+- Language: Python
+- Description: Production-ready Python template for building MCP servers with FastMCP, FastAPI, OAuth, and OpenShift deployment.
 
-### 5. [realstoman/react-tailwindcss-portfolio](../web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md) ([Source URL](https://github.com/realstoman/react-tailwindcss-portfolio))
-- **Source**: GitHub Framer Motion Resources (github)
-- **Category**: web-development/framer-motion
-- **Local Path**: `web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md`
+### 3. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+- Stars: 186
+- Language: TypeScript
+- Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 6. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) ([Source URL](https://github.com/yonatangross/orchestkit))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/rag
-- **Local Path**: `ai/rag/yonatangross-orchestkit-239a6d.md`
+### 4. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent-267a79.md) ([GitHub](https://github.com/coleam00/pydantic-ai-github-agent))
+- Stars: 65
+- Language: Python
+- Description: The agent I built for my AI Agents series on YouTube - breaking down my entire process of building AI agents from idea to production!
 
-### 7. [asbhogal/Fyrre-Magazine](../web-development/nextjs/asbhogal-fyrre-magazine-422078.md) ([Source URL](https://github.com/asbhogal/Fyrre-Magazine))
-- **Source**: GitHub Next.js Templates (github)
-- **Category**: web-development/nextjs
-- **Local Path**: `web-development/nextjs/asbhogal-fyrre-magazine-422078.md`
+### 5. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw))
+- Stars: 530
+- Language: Python
+- Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 8. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([Source URL](https://github.com/redhat-data-and-ai/template-mcp-server))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md`
+### 6. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+- Stars: 2
+- Language: Shell
+- Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
+<!-- GENERATED:BEST_REPOS_END -->
 
-### 9. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) ([Source URL](https://github.com/adisystems/fmbench-assistant))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/rag
-- **Local Path**: `ai/rag/adisystems-fmbench-assistant-a1c1b2.md`
+## Project Ideas
 
-### 10. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([Source URL](https://github.com/omrylcn/python-vs-js-langgraph))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/omrylcn-python-vs-js-langgraph-07de98.md`
-
-### 11. [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md) ([Source URL](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers))
-- **Source**: Web Discovery (web)
-- **Category**: ai/rag
-- **Local Path**: `ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md`
-
-### 12. [LangGraph Agents in Production: Architecture & Costs](../ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md) ([Source URL](https://www.alphabold.com/langgraph-agents-in-production))
-- **Source**: Web Discovery (web)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md`
-
-### 13. [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md) ([Source URL](https://www.langchain.com/langgraph))
-- **Source**: Web Discovery (web)
-- **Category**: ai/rag
-- **Local Path**: `ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md`
-
-### 14. [Evaluating AI Agents: Metrics & Benchmarks 2026](../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md) ([Source URL](https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026))
-- **Source**: Web Discovery (web)
-- **Category**: ai/rag
-- **Local Path**: `ai/rag/evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md`
-
-### 15. [How we sped up transformer inference 100x for 🤗 API customers](../ai/models/how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md) ([Source URL](https://huggingface.co/blog/accelerated-inference))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md`
-
-### 16. [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md) ([Source URL](https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md`
-
-### 17. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](../ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md) ([Source URL](https://huggingface.co/blog/intel-sapphire-rapids))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md`
-
-### 18. [Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](../ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-2-073c51.md) ([Source URL](https://huggingface.co/blog/intel-sapphire-rapids-inference))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-2-073c51.md`
-
-### 19. [How to Install and Use the Hugging Face Unity API](../ai/models/how-to-install-and-use-the-hugging-face-unity-api-f158d3.md) ([Source URL](https://huggingface.co/blog/unity-api))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/how-to-install-and-use-the-hugging-face-unity-api-f158d3.md`
-
-### 20. [Deploy MusicGen in no time with Inference Endpoints](../ai/models/deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md) ([Source URL](https://huggingface.co/blog/run-musicgen-as-an-api))
-- **Source**: Hugging Face Blog (huggingface)
-- **Category**: ai/models
-- **Local Path**: `ai/models/deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md`
-
-## Best GitHub Repositories
-
-### 1. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([GitHub](https://github.com/Panniantong/Agent-Reach))
-- **Stars**: 26259
-- **Language**: Python
-- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
-
-### 2. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
-- **Stars**: 2391
-- **Language**: Python
-- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
-
-### 3. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server-7c2515.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
-- **Stars**: 1003
-- **Language**: Python
-- **Local Path**: `ai/resources/mukul975-cve-mcp-server-7c2515.md`
-
-### 4. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([GitHub](https://github.com/AgentTeam-TaichuAI/ScienceClaw))
-- **Stars**: 530
-- **Language**: Python
-- **Local Path**: `ai/agents/agentteam-taichuai-scienceclaw-992597.md`
-
-### 5. [realstoman/react-tailwindcss-portfolio](../web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md) ([GitHub](https://github.com/realstoman/react-tailwindcss-portfolio))
-- **Stars**: 286
-- **Language**: JavaScript
-- **Local Path**: `web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md`
-
-### 6. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) ([GitHub](https://github.com/yonatangross/orchestkit))
-- **Stars**: 186
-- **Language**: TypeScript
-- **Local Path**: `ai/rag/yonatangross-orchestkit-239a6d.md`
-
-### 7. [asbhogal/Fyrre-Magazine](../web-development/nextjs/asbhogal-fyrre-magazine-422078.md) ([GitHub](https://github.com/asbhogal/Fyrre-Magazine))
-- **Stars**: 125
-- **Language**: TypeScript
-- **Local Path**: `web-development/nextjs/asbhogal-fyrre-magazine-422078.md`
-
-### 8. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
-- **Stars**: 54
-- **Language**: Python
-- **Local Path**: `ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md`
-
-### 9. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
-- **Stars**: 6
-- **Language**: Python
-- **Local Path**: `ai/rag/adisystems-fmbench-assistant-a1c1b2.md`
-
-### 10. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
-- **Stars**: 2
-- **Language**: Shell
-- **Local Path**: `ai/agents/omrylcn-python-vs-js-langgraph-07de98.md`
-
-## Projects To Build
-
-1. High-performance RAG query microservice
-2. Dynamic dashboard backend API with WebSockets
-3. Task scheduler automation management dashboard
+<!-- GENERATED:PROJECT_IDEAS_START -->
+- High-performance RAG query microservice
+- Dynamic dashboard backend API with WebSockets
+- Task scheduler automation management dashboard
+<!-- GENERATED:PROJECT_IDEAS_END -->
 
 ## Related Skills
 
-- None
+- backend
+- python
 
 ## Job Relevance
 
@@ -185,4 +80,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T14:04:10.011090+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T17:43:16.499884+00:00.675796+00:00.

@@ -58,6 +58,19 @@ Vybe Intelligence Vault tracks the signal and organizes it into a clean builder-
 | Random resources | Scored, categorized, safety-scanned resources |
 | Only AI tools | AI, agents, RAG, MCP, prompts, webdev, startup ideas |
 
+## Explore the Vault
+
+| Area                | Link            |
+| ------------------- | --------------- |
+| Search Index        | [search-index.md](search-index.md) |
+| Latest Updates      | [CHANGELOG.md](CHANGELOG.md)    |
+| Roadmap             | [ROADMAP.md](ROADMAP.md)      |
+| Examples            | [examples/](examples/)       |
+| Contribution Guide  | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| Broken Links Report | [broken-links.md](broken-links.md) |
+
+A website is not required to use this vault. The repository itself is designed to be browsable through GitHub.
+
 ---
 
 ## Start Building
@@ -171,6 +184,19 @@ This vault is refreshed automatically every 3 hours. A private harvester bot col
 *   **Source URLs preserved** — Origin URLs are kept in the metadata header of all files.
 *   **Safety scanned before push** — Local safety scans filter out user paths, configurations, or tokens.
 *   **Bot engine remains private** — The crawling code and credentials are run privately.
+
+---
+
+## Living Skill Files
+
+The guides in the [skills/](skills/) directory are living documents that update dynamically on every cycle. They track emerging developer signals by scanning recent public GitHub repositories, searching broadly to catch early-stage, zero-star, and template repositories alongside established high-momentum projects.
+
+Each skill sheet includes:
+- **Current Signal**: Real-time activity counts and links to the latest relevant resources inside this vault.
+- **Best Repositories**: High-quality and emerging GitHub repositories matching the skill, ranked dynamically based on keyword matching, recency, developer utility (e.g., templates, starters, examples), license availability, and stars/forks (which contribute strictly as bonus scores rather than gatekeeping filters).
+- **Project Ideas**: Practical blueprints to practice and build applications applying the specific skill.
+
+For the full catalog of active skills, refer to the [Skill Index](_index/skill-index.md).
 
 ---
 

@@ -132,16 +132,16 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Automation](../../../skills/automation.md) (1628 updates)
-- [RAG](../../../skills/rag.md) (621 updates)
-- [LangGraph](../../../skills/langgraph.md) (200 updates)
-- [GSAP](../../../skills/gsap.md) (160 updates)
-- [WebGPU](../../../skills/webgpu.md) (108 updates)
-- [Three.js](../../../skills/threejs.md) (85 updates)
-- [FastAPI](../../../skills/fastapi.md) (79 updates)
-- [Framer Motion](../../../skills/framer-motion.md) (54 updates)
-- [React Three Fiber](../../../skills/react-three-fiber.md) (53 updates)
-- [Tailwind CSS](../../../skills/tailwind.md) (45 updates)
+- [Workflow Automation](../../../skills/automation.md) (1628 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (1606 updates)
+- [RAG](../../../skills/rag.md) (320 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (272 updates)
+- [AI Agents](../../../skills/ai-agents.md) (245 updates)
+- [Three.js & WebGL](../../../skills/threejs.md) (83 updates)
+- [LLMOps](../../../skills/llmops.md) (74 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (35 updates)
+- [Model Context Protocol (MCP)](../../../skills/mcp.md) (30 updates)
+- [Prompt Engineering](../../../skills/prompt-engineering.md) (27 updates)
 
 ## Recommended Projects To Build
 
@@ -150,4 +150,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-11T14:04:12.632885+00:00
+2026-06-11T17:43:19.634250+00:00
