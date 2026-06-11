@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.startdesigns.com/blog/rag-examples"
 local_vault_path: "ai\rag\rag-examples-15-real-use-cases-from-companies-in-2026-090766.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,19 @@ tags:
   - producthunt
   - rag
   - reddit
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # RAG Examples: 15 Real Use Cases from Companies in 2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, hackernews, models, openai, paper, producthunt
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ Large language models are powerful, but they have one big problem: they do not a
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.startdesigns.com/blog/rag-examples
+Original source URL: https://www.startdesigns.com/blog/rag-examples
 
 ## Local Vault File
 
-Path: ai\rag\rag-examples-15-real-use-cases-from-companies-in-2026-090766.md
+Path: [rag-examples-15-real-use-cases-from-companies-in-2026-090766.md](file:///../../ai\rag\rag-examples-15-real-use-cases-from-companies-in-2026-090766.md)

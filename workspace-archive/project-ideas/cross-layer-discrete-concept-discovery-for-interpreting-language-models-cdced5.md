@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2506.20040"
 local_vault_path: "ai\rag\cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Cross-Layer Discrete Concept Discovery for Interpreting Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Interpreting language models remains challenging due to the existence 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2506.20040
+Original source URL: https://arxiv.org/abs/2506.20040
 
 ## Local Vault File
 
-Path: ai\rag\cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md
+Path: [cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md](file:///../../ai\rag\cross-layer-discrete-concept-discovery-for-interpreting-language-models-cdced5.md)

@@ -4,17 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.08136"
 local_vault_path: "ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Diffusion and flow policies are gaining prominence in online reinforce
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.08136
+Original source URL: https://arxiv.org/abs/2601.08136
 
 ## Local Vault File
 
-Path: ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md
+Path: [reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md](file:///../../ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md)

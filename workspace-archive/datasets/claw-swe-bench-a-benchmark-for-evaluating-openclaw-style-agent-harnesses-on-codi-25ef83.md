@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12344"
 local_vault_path: "ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: General-purpose agents such as OpenClaw are increasingly used as auton
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12344
+Original source URL: https://arxiv.org/abs/2606.12344
 
 ## Local Vault File
 
-Path: ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md
+Path: [claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md](file:///../../ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md)

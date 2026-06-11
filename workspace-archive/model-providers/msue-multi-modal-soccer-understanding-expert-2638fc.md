@@ -4,14 +4,26 @@ archive_category: "model-providers"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12106"
 local_vault_path: "ai\research\msue-multi-modal-soccer-understanding-expert-2638fc.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # MSUE: Multi-Modal Soccer Understanding Expert
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: This paper presents our solution to the 2026 SoccerNet VQA Challenge. 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12106
+Original source URL: https://arxiv.org/abs/2606.12106
 
 ## Local Vault File
 
-Path: ai\research\msue-multi-modal-soccer-understanding-expert-2638fc.md
+Path: [msue-multi-modal-soccer-understanding-expert-2638fc.md](file:///../../ai\research\msue-multi-modal-soccer-understanding-expert-2638fc.md)

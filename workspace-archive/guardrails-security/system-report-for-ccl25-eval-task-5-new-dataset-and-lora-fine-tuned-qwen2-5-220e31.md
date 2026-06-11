@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12392"
 local_vault_path: "ai\research\system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Recently, large language models (LLMs) have achieved promising progres
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12392
+Original source URL: https://arxiv.org/abs/2606.12392
 
 ## Local Vault File
 
-Path: ai\research\system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md
+Path: [system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md](file:///../../ai\research\system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md)

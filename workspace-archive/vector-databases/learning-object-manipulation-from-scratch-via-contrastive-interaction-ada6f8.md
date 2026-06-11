@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11525"
 local_vault_path: "ai\rag\learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Learning Object Manipulation from Scratch via Contrastive Interaction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Contrastive Reinforcement Learning (CRL) has seen recent success in a 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11525
+Original source URL: https://arxiv.org/abs/2606.11525
 
 ## Local Vault File
 
-Path: ai\rag\learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md
+Path: [learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md](file:///../../ai\rag\learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md)

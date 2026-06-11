@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.11081"
 local_vault_path: "ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "high"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Provable Recovery of Locally Important Signed Features and Interactions from Random Forest
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Feature and Interaction Importance (FII) methods are essential in supe
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.11081
+Original source URL: https://arxiv.org/abs/2512.11081
 
 ## Local Vault File
 
-Path: ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md
+Path: [provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md)

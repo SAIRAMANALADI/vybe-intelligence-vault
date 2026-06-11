@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.21396"
 local_vault_path: "ai\research\mechanisms-of-introspective-awareness-b5b473.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Mechanisms of Introspective Awareness
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Recent work has shown that LLMs can sometimes detect when steering vec
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.21396
+Original source URL: https://arxiv.org/abs/2603.21396
 
 ## Local Vault File
 
-Path: ai\research\mechanisms-of-introspective-awareness-b5b473.md
+Path: [mechanisms-of-introspective-awareness-b5b473.md](file:///../../ai\research\mechanisms-of-introspective-awareness-b5b473.md)

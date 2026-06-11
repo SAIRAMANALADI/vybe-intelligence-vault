@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11831"
 local_vault_path: "ai\research\from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # From Uniform to Learned Graph Priors: Diffusion for Structure Discovery
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Neural relational inference (NRI) methods discover interaction graphs 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11831
+Original source URL: https://arxiv.org/abs/2606.11831
 
 ## Local Vault File
 
-Path: ai\research\from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md
+Path: [from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md](file:///../../ai\research\from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md)

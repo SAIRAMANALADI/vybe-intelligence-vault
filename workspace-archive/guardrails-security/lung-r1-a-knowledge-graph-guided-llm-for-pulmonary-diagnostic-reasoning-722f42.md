@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11675"
 local_vault_path: "ai\research\lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Diagnosing pulmonary diseases requires integrating heterogeneous evide
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11675
+Original source URL: https://arxiv.org/abs/2606.11675
 
 ## Local Vault File
 
-Path: ai\research\lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md
+Path: [lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md](file:///../../ai\research\lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md)

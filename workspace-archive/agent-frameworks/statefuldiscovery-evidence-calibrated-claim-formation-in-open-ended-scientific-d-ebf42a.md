@@ -4,18 +4,27 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11851"
 local_vault_path: "ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Scientific Discovery
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: Open-ended scientific discovery asks agents to move beyond executing a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11851
+Original source URL: https://arxiv.org/abs/2606.11851
 
 ## Local Vault File
 
-Path: ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md
+Path: [statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md](file:///../../ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md)

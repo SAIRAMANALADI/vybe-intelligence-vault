@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/eva"
 local_vault_path: "ai\agents\a-new-framework-for-evaluating-voice-agents-eva-1648b1.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # A New Framework for Evaluating Voice Agents (EVA)
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,15 +33,14 @@ No summary provided. Reference resource: A New Framework for Evaluating Voice Ag
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://huggingface.co/blog/ServiceNow-AI/eva
+Original source URL: https://huggingface.co/blog/ServiceNow-AI/eva
 
 ## Local Vault File
 
-Path: ai\agents\a-new-framework-for-evaluating-voice-agents-eva-1648b1.md
+Path: [a-new-framework-for-evaluating-voice-agents-eva-1648b1.md](file:///../../ai\agents\a-new-framework-for-evaluating-voice-agents-eva-1648b1.md)

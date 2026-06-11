@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11215"
 local_vault_path: "ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The Environmental Cost of LLMs in AIED: Reporting and Practices
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Large Language Model (LLM) usage in recent years has become increasing
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11215
+Original source URL: https://arxiv.org/abs/2606.11215
 
 ## Local Vault File
 
-Path: ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md
+Path: [the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md](file:///../../ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md)

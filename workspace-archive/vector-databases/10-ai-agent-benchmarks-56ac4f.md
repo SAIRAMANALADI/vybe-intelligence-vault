@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.evidentlyai.com/blog/ai-agent-benchmarks"
 local_vault_path: "ai\rag\10-ai-agent-benchmarks-56ac4f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,19 @@ tags:
   - rag
   - web-crawled
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # 10 AI agent benchmarks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, leaderboard, models, openai, paper, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ tags:
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.evidentlyai.com/blog/ai-agent-benchmarks
+Original source URL: https://www.evidentlyai.com/blog/ai-agent-benchmarks
 
 ## Local Vault File
 
-Path: ai\rag\10-ai-agent-benchmarks-56ac4f.md
+Path: [10-ai-agent-benchmarks-56ac4f.md](file:///../../ai\rag\10-ai-agent-benchmarks-56ac4f.md)

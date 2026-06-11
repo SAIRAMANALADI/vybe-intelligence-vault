@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.14084"
 local_vault_path: "ai\agents\crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Editing
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Code agents must both reason over long-horizon repository state and ob
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.14084
+Original source URL: https://arxiv.org/abs/2605.14084
 
 ## Local Vault File
 
-Path: ai\agents\crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md
+Path: [crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md](file:///../../ai\agents\crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md)

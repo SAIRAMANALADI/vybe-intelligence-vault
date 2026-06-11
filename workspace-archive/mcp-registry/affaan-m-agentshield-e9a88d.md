@@ -4,20 +4,31 @@ archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/affaan-m/agentshield"
 local_vault_path: "ai\agents\affaan-m-agentshield-e9a88d.md"
+quality_score: 70
+archive_score: 79
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - typescript
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # affaan-m/agentshield
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, typescript
-- Archive category: MCP Registry
+- Matched archive category: `MCP Registry`
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ AI agent security scanner. Detect vulnerabilities in agent configurations, MCP s
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- IDE extension
+- Assistant tools discovery
+- Context injection config
 
 ## Source
 
-Original source: https://github.com/affaan-m/agentshield
+Original source URL: https://github.com/affaan-m/agentshield
 
 ## Local Vault File
 
-Path: ai\agents\affaan-m-agentshield-e9a88d.md
+Path: [affaan-m-agentshield-e9a88d.md](file:///../../ai\agents\affaan-m-agentshield-e9a88d.md)

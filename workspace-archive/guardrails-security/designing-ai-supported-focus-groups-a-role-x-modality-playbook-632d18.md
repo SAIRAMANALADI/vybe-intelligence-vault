@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11835"
 local_vault_path: "ai\research\designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Designing AI-Supported Focus Groups: A Role x Modality Playbook
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Collecting participants' lived experiences is central to design resear
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11835
+Original source URL: https://arxiv.org/abs/2606.11835
 
 ## Local Vault File
 
-Path: ai\research\designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md
+Path: [designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md](file:///../../ai\research\designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md)

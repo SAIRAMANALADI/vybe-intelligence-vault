@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/3lm-benchmark"
 local_vault_path: "ai\models\3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # 📚 3LM: A Benchmark for Arabic LLMs in STEM and Code
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: 📚 3LM: A Benchmark for Arabic LLMs i
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://huggingface.co/blog/tiiuae/3lm-benchmark
+Original source URL: https://huggingface.co/blog/tiiuae/3lm-benchmark
 
 ## Local Vault File
 
-Path: ai\models\3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md
+Path: [3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md](file:///../../ai\models\3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md)

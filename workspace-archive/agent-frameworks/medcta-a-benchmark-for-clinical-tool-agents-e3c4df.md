@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11702"
 local_vault_path: "ai\agents\medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # MedCTA: A Benchmark for Clinical Tool Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: To make clinically grounded decisions, medical AI agents are expected 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11702
+Original source URL: https://arxiv.org/abs/2606.11702
 
 ## Local Vault File
 
-Path: ai\agents\medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md
+Path: [medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md](file:///../../ai\agents\medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md)

@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.28882"
 local_vault_path: "ai\rag\growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # GrowLoop: Self-Evolving Conversation Evaluation Seeded by Human
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: With the rapid advancement of large language models, evaluating human-
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.28882
+Original source URL: https://arxiv.org/abs/2605.28882
 
 ## Local Vault File
 
-Path: ai\rag\growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md
+Path: [growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md](file:///../../ai\rag\growloop-self-evolving-conversation-evaluation-seeded-by-human-d1bb23.md)

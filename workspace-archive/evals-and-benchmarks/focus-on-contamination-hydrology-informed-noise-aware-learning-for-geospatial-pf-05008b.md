@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2502.14894"
 local_vault_path: "ai\research\focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # FOCUS on Contamination: Hydrology-Informed Noise-Aware Learning for Geospatial PFAS Mapping
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Per- and polyfluoroalkyl substances (PFAS) are persistent environmenta
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2502.14894
+Original source URL: https://arxiv.org/abs/2502.14894
 
 ## Local Vault File
 
-Path: ai\research\focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md
+Path: [focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md](file:///../../ai\research\focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md)

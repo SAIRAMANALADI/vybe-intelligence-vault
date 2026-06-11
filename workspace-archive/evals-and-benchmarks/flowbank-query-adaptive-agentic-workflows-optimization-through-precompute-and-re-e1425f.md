@@ -4,19 +4,30 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11290"
 local_vault_path: "ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, workflows
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11290
+Original source URL: https://arxiv.org/abs/2606.11290
 
 ## Local Vault File
 
-Path: ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md
+Path: [flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md](file:///../../ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md)

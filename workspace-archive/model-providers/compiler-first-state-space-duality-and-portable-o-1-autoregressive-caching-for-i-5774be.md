@@ -4,17 +4,28 @@ archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.09555"
 local_vault_path: "ai\rag\compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: High-throughput Mamba-2 inference is usually tied to fused CUDA and Tr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.09555
+Original source URL: https://arxiv.org/abs/2603.09555
 
 ## Local Vault File
 
-Path: ai\rag\compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md
+Path: [compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md](file:///../../ai\rag\compiler-first-state-space-duality-and-portable-o-1-autoregressive-caching-for-i-5774be.md)

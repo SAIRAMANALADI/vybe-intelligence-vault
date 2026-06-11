@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/aisheets"
 local_vault_path: "ai\models\introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Introducing AI Sheets: a tool to work with datasets using open AI models!
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Introducing AI Sheets: a tool to work w
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/aisheets
+Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: ai\models\introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md
+Path: [introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md](file:///../../ai\models\introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md)

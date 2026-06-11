@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11628"
 local_vault_path: "ai\research\lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Human Videos for Scalable Dexterous Robot Skill Acquisition
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: The most widely-adopted robot learning pipelines today learn skills fr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11628
+Original source URL: https://arxiv.org/abs/2606.11628
 
 ## Local Vault File
 
-Path: ai\research\lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md
+Path: [lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md](file:///../../ai\research\lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md)

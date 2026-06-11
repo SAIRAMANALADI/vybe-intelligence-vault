@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12278"
 local_vault_path: "ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Finding Sparse Subnetworks in One Training Cycle via Progressive Magnitude-Based Pruning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Neural network pruning reduces model size by removing less important p
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12278
+Original source URL: https://arxiv.org/abs/2606.12278
 
 ## Local Vault File
 
-Path: ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md
+Path: [finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md](file:///../../ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11206"
 local_vault_path: "ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Compatibility-Aware Dynamic Fine-Tuning for Large Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Supervised Fine-Tuning (SFT) is the predominant paradigm for aligning 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11206
+Original source URL: https://arxiv.org/abs/2606.11206
 
 ## Local Vault File
 
-Path: ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md
+Path: [compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md](file:///../../ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md)

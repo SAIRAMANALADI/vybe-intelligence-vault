@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11283"
 local_vault_path: "ai\research\fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Fixed-Parameter Tractability of Private Synthetic Data Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We study the problem of generating synthetic data under differential p
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11283
+Original source URL: https://arxiv.org/abs/2606.11283
 
 ## Local Vault File
 
-Path: ai\research\fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md
+Path: [fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md](file:///../../ai\research\fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11963"
 local_vault_path: "ai\research\hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Neural operators provide a powerful framework for learning solution ma
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11963
+Original source URL: https://arxiv.org/abs/2606.11963
 
 ## Local Vault File
 
-Path: ai\research\hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md
+Path: [hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md](file:///../../ai\research\hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md)

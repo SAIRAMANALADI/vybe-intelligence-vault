@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.12288"
 local_vault_path: "ai\research\tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # TokenRatio: Principled Token-Level Preference Optimization via Ratio Matching
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Direct Preference Optimization (DPO) is a widely used RL-free method f
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.12288
+Original source URL: https://arxiv.org/abs/2605.12288
 
 ## Local Vault File
 
-Path: ai\research\tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md
+Path: [tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md](file:///../../ai\research\tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md)

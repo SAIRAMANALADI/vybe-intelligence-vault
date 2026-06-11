@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system"
 local_vault_path: "ai\rag\planning-the-design-of-your-production-grade-rag-system-00bbb1.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - agents
   - hackernews
@@ -13,15 +18,21 @@ tags:
   - web-crawled
   - workflows
   - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Planning the design of your production-grade RAG system
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, hackernews, models, rag, scripts, web-crawled, workflows, youtube
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -29,14 +40,14 @@ Planning the design of your production-grade RAG system March 6, 20264-minute re
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system
+Original source URL: https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system
 
 ## Local Vault File
 
-Path: ai\rag\planning-the-design-of-your-production-grade-rag-system-00bbb1.md
+Path: [planning-the-design-of-your-production-grade-rag-system-00bbb1.md](file:///../../ai\rag\planning-the-design-of-your-production-grade-rag-system-00bbb1.md)

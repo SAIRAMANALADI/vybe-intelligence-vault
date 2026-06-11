@@ -4,6 +4,11 @@ archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026"
 local_vault_path: "ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,21 @@ tags:
   - openai
   - paper
   - producthunt
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, dataset, hackernews, leaderboard, models, openai
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,15 +42,14 @@ AI Benchmarks AI Agent Benchmark Roundup May 2026: Who's Actually Winning What M
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026
+Original source URL: https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026
 
 ## Local Vault File
 
-Path: ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md
+Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md](file:///../../ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md)

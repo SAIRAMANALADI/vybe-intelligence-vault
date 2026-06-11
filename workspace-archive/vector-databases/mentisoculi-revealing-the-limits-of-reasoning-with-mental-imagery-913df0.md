@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.02465"
 local_vault_path: "ai\rag\mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # MentisOculi: Revealing the Limits of Reasoning with Mental Imagery
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Frontier models are transitioning from multimodal large language model
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.02465
+Original source URL: https://arxiv.org/abs/2602.02465
 
 ## Local Vault File
 
-Path: ai\rag\mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md
+Path: [mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md](file:///../../ai\rag\mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md)

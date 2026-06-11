@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.16456"
 local_vault_path: "ai\research\gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # GPO: Learning from Critical Steps to Improve LLM Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Large language models (LLMs) are increasingly used in various domains,
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.16456
+Original source URL: https://arxiv.org/abs/2509.16456
 
 ## Local Vault File
 
-Path: ai\research\gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md
+Path: [gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md](file:///../../ai\research\gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08530"
 local_vault_path: "ai\research\gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizable Robotic Manipulation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Vision-Language-Action (VLA) models achieve strong benchmark performan
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.08530
+Original source URL: https://arxiv.org/abs/2606.08530
 
 ## Local Vault File
 
-Path: ai\research\gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md
+Path: [gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md](file:///../../ai\research\gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md)

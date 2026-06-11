@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2409.12707"
 local_vault_path: "ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Machine-learning-based multipoint optimization of fluidic injection parameters for improving nozzle performance
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Fluidic injection offers a promising solution to improve the performan
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2409.12707
+Original source URL: https://arxiv.org/abs/2409.12707
 
 ## Local Vault File
 
-Path: ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md
+Path: [machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md](file:///../../ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md)

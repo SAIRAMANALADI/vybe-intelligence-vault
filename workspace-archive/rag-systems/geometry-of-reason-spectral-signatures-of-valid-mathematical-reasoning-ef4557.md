@@ -4,14 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.00791"
 local_vault_path: "ai\research\geometry-of-reason-spectral-signatures-of-valid-mathematical-reasoning-ef4557.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +32,14 @@ Abstract: Verifying whether a language model is genuinely reasoning or pattern-m
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.00791
+Original source URL: https://arxiv.org/abs/2601.00791
 
 ## Local Vault File
 
-Path: ai\research\geometry-of-reason-spectral-signatures-of-valid-mathematical-reasoning-ef4557.md
+Path: [geometry-of-reason-spectral-signatures-of-valid-mathematical-reasoning-ef4557.md](file:///../../ai\research\geometry-of-reason-spectral-signatures-of-valid-mathematical-reasoning-ef4557.md)

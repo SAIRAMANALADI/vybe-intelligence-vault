@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12300"
 local_vault_path: "ai\research\natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Natural-Language Temporal Grounding in Hour-Long Videos is a Search Problem: A Benchmark and Empirical Decomposition
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Temporal grounding--returning the interval $[t_s, t_e]$ for a natural-
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12300
+Original source URL: https://arxiv.org/abs/2606.12300
 
 ## Local Vault File
 
-Path: ai\research\natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md
+Path: [natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md](file:///../../ai\research\natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md)

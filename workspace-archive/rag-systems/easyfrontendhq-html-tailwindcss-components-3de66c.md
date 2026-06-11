@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "web-development/tailwind"
 source_url: "https://github.com/EasyFrontendHQ/html-tailwindcss-components"
 local_vault_path: "web-development\tailwind\easyfrontendhq-html-tailwindcss-components-3de66c.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # EasyFrontendHQ/html-tailwindcss-components
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/tailwind`
-- Tags: frontend_ui
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,14 +33,14 @@ Free TailwindCSS HTML UI Components - built to create landing pages and websites
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/EasyFrontendHQ/html-tailwindcss-components
+Original source URL: https://github.com/EasyFrontendHQ/html-tailwindcss-components
 
 ## Local Vault File
 
-Path: web-development\tailwind\easyfrontendhq-html-tailwindcss-components-3de66c.md
+Path: [easyfrontendhq-html-tailwindcss-components-3de66c.md](file:///../../web-development\tailwind\easyfrontendhq-html-tailwindcss-components-3de66c.md)

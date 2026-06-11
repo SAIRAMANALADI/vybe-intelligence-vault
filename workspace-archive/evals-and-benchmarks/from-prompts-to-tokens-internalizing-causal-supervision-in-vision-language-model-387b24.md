@@ -4,17 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11745"
 local_vault_path: "ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Visual causal reasoning is essential for understanding and intervening
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11745
+Original source URL: https://arxiv.org/abs/2606.11745
 
 ## Local Vault File
 
-Path: ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md
+Path: [from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md](file:///../../ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md)

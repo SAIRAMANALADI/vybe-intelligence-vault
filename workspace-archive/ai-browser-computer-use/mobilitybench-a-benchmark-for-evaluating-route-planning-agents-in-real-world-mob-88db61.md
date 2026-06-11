@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.22638"
 local_vault_path: "ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Route-planning agents powered by large language models (LLMs) have eme
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.22638
+Original source URL: https://arxiv.org/abs/2602.22638
 
 ## Local Vault File
 
-Path: ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md
+Path: [mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md](file:///../../ai\agents\mobilitybench-a-benchmark-for-evaluating-route-planning-agents-in-real-world-mob-88db61.md)

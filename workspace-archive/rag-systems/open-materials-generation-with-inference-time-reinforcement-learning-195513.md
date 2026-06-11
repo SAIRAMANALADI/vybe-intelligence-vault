@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.00424"
 local_vault_path: "ai\rag\open-materials-generation-with-inference-time-reinforcement-learning-195513.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Open Materials Generation with Inference-Time Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Continuous-time generative models for crystalline materials enable inv
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.00424
+Original source URL: https://arxiv.org/abs/2602.00424
 
 ## Local Vault File
 
-Path: ai\rag\open-materials-generation-with-inference-time-reinforcement-learning-195513.md
+Path: [open-materials-generation-with-inference-time-reinforcement-learning-195513.md](file:///../../ai\rag\open-materials-generation-with-inference-time-reinforcement-learning-195513.md)

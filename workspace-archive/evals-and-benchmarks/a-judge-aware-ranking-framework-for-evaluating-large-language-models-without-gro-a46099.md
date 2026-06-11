@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.21817"
 local_vault_path: "ai\research\a-judge-aware-ranking-framework-for-evaluating-large-language-models-without-gro-a46099.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # A Judge-Aware Ranking Framework for Evaluating Large Language Models without Ground Truth
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Evaluating large language models (LLMs) on open-ended tasks without gr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.21817
+Original source URL: https://arxiv.org/abs/2601.21817
 
 ## Local Vault File
 
-Path: ai\research\a-judge-aware-ranking-framework-for-evaluating-large-language-models-without-gro-a46099.md
+Path: [a-judge-aware-ranking-framework-for-evaluating-large-language-models-without-gro-a46099.md](file:///../../ai\research\a-judge-aware-ranking-framework-for-evaluating-large-language-models-without-gro-a46099.md)

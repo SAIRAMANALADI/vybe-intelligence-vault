@@ -4,18 +4,27 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12320"
 local_vault_path: "ai\agents\a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: Enterprise security was built to govern data boundaries: the protected
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12320
+Original source URL: https://arxiv.org/abs/2606.12320
 
 ## Local Vault File
 
-Path: ai\agents\a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md
+Path: [a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md](file:///../../ai\agents\a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md)

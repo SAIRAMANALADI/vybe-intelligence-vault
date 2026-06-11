@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12346"
 local_vault_path: "ai\research\atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Hematoxylin and eosin (H&amp;E) staining is the cornerstone of histopa
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12346
+Original source URL: https://arxiv.org/abs/2606.12346
 
 ## Local Vault File
 
-Path: ai\research\atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md
+Path: [atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md](file:///../../ai\research\atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md)

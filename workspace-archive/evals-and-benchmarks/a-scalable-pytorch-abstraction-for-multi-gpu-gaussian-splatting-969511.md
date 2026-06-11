@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11390"
 local_vault_path: "ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Gaussian splatting methods have become increasingly popular for neural
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11390
+Original source URL: https://arxiv.org/abs/2606.11390
 
 ## Local Vault File
 
-Path: ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md
+Path: [a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md](file:///../../ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md)

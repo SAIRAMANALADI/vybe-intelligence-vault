@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12022"
 local_vault_path: "ai\agents\runtime-enforcement-of-hybrid-system-properties-655ee0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Runtime Enforcement of Hybrid System Properties
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Runtime enforcement has emerged as a promising approach for ensuring t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12022
+Original source URL: https://arxiv.org/abs/2606.12022
 
 ## Local Vault File
 
-Path: ai\agents\runtime-enforcement-of-hybrid-system-properties-655ee0.md
+Path: [runtime-enforcement-of-hybrid-system-properties-655ee0.md](file:///../../ai\agents\runtime-enforcement-of-hybrid-system-properties-655ee0.md)

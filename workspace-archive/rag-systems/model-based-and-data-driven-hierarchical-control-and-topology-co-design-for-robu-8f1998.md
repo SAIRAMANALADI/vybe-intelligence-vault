@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11596"
 local_vault_path: "ai\research\model-based-and-data-driven-hierarchical-control-and-topology-co-design-for-robu-8f1998.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Model-Based and Data-Driven Hierarchical Control and Topology Co-Design for Robust Networked Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: In this paper, we consider a class of networked systems comprising an 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11596
+Original source URL: https://arxiv.org/abs/2606.11596
 
 ## Local Vault File
 
-Path: ai\research\model-based-and-data-driven-hierarchical-control-and-topology-co-design-for-robu-8f1998.md
+Path: [model-based-and-data-driven-hierarchical-control-and-topology-co-design-for-robu-8f1998.md](file:///../../ai\research\model-based-and-data-driven-hierarchical-control-and-topology-co-design-for-robu-8f1998.md)

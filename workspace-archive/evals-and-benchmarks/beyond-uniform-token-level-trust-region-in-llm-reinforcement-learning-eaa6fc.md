@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10968"
 local_vault_path: "ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Reinforcement learning with verifiable rewards (RLVR) has become stand
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10968
+Original source URL: https://arxiv.org/abs/2606.10968
 
 ## Local Vault File
 
-Path: ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md
+Path: [beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md](file:///../../ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md)

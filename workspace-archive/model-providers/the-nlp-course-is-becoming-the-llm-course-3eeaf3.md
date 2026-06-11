@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llm-course"
 local_vault_path: "ai\models\the-nlp-course-is-becoming-the-llm-course-3eeaf3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The NLP Course is becoming the LLM Course
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: The NLP Course is becoming the LLM Cour
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/llm-course
+Original source URL: https://huggingface.co/blog/llm-course
 
 ## Local Vault File
 
-Path: ai\models\the-nlp-course-is-becoming-the-llm-course-3eeaf3.md
+Path: [the-nlp-course-is-becoming-the-llm-course-3eeaf3.md](file:///../../ai\models\the-nlp-course-is-becoming-the-llm-course-3eeaf3.md)

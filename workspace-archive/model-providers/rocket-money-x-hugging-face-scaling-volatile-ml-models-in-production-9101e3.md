@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/rocketmoney-case-study"
 local_vault_path: "ai\models\rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Rocket Money x Hugging Face: Scaling Vo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/rocketmoney-case-study
+Original source URL: https://huggingface.co/blog/rocketmoney-case-study
 
 ## Local Vault File
 
-Path: ai\models\rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md
+Path: [rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md](file:///../../ai\models\rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md)

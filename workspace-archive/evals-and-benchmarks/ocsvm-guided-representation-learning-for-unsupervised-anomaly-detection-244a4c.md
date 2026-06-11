@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.21164"
 local_vault_path: "ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Unsupervised anomaly detection (UAD) aims to detect anomalies without 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.21164
+Original source URL: https://arxiv.org/abs/2507.21164
 
 ## Local Vault File
 
-Path: ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md
+Path: [ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md](file:///../../ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md)

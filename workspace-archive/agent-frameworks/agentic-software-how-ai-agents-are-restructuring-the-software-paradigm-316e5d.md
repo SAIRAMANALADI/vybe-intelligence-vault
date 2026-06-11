@@ -4,17 +4,28 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.05608"
 local_vault_path: "ai\agents\agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Agentic Software: How AI Agents Are Restructuring the Software Paradigm
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: For over half a century, software engineering has operated on a founda
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.05608
+Original source URL: https://arxiv.org/abs/2606.05608
 
 ## Local Vault File
 
-Path: ai\agents\agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md
+Path: [agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md](file:///../../ai\agents\agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md)

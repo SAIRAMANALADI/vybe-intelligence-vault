@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2501.12942"
 local_vault_path: "ai\research\offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Offline Diffusion Policy for Multi-User Delay-Constrained Scheduling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Effective multi-user delay-constrained scheduling is crucial in variou
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2501.12942
+Original source URL: https://arxiv.org/abs/2501.12942
 
 ## Local Vault File
 
-Path: ai\research\offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md
+Path: [offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md](file:///../../ai\research\offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md)

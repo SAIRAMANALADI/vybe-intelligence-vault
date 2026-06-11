@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.31219"
 local_vault_path: "ai\rag\latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Latent Geometric Chords for Query-Efficient Decision-Based Adversarial Attacks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: While decision-based black-box adversarial attacks present a severe se
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.31219
+Original source URL: https://arxiv.org/abs/2605.31219
 
 ## Local Vault File
 
-Path: ai\rag\latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md
+Path: [latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md](file:///../../ai\rag\latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md)

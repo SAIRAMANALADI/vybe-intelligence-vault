@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.11911"
 local_vault_path: "ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Understanding Sample Efficiency in Predictive Coding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Predictive Coding (PC) is an influential account of cortical learning.
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.11911
+Original source URL: https://arxiv.org/abs/2605.11911
 
 ## Local Vault File
 
-Path: ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md
+Path: [understanding-sample-efficiency-in-predictive-coding-b17bc7.md](file:///../../ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md)

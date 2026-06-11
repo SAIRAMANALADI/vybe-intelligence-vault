@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10135"
 local_vault_path: "ai\research\biwm-advancing-open-source-interactive-video-world-models-with-bidirectional-aut-93e1a4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # BiWM: Advancing Open-Source Interactive Video World Models with Bidirectional Autoregression
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Transitioning bidirectional video diffusion models into an autoregress
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10135
+Original source URL: https://arxiv.org/abs/2606.10135
 
 ## Local Vault File
 
-Path: ai\research\biwm-advancing-open-source-interactive-video-world-models-with-bidirectional-aut-93e1a4.md
+Path: [biwm-advancing-open-source-interactive-video-world-models-with-bidirectional-aut-93e1a4.md](file:///../../ai\research\biwm-advancing-open-source-interactive-video-world-models-with-bidirectional-aut-93e1a4.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11243"
 local_vault_path: "ai\rag\prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Novo Protein Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: De novo protein generation has transformative potential in therapeutic
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11243
+Original source URL: https://arxiv.org/abs/2606.11243
 
 ## Local Vault File
 
-Path: ai\rag\prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md
+Path: [prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md](file:///../../ai\rag\prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md)

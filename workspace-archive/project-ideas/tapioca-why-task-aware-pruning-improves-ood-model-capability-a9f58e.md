@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.14738"
 local_vault_path: "ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # TAPIOCA: Why Task- Aware Pruning Improves OOD model Capability
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Recent work has promoted task-aware layer pruning as a way to improve 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.14738
+Original source URL: https://arxiv.org/abs/2605.14738
 
 ## Local Vault File
 
-Path: ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md
+Path: [tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md](file:///../../ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md)

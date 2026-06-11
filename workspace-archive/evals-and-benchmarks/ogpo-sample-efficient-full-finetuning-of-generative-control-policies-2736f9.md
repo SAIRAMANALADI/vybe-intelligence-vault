@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.03065"
 local_vault_path: "ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # OGPO: Sample Efficient Full-Finetuning of Generative Control Policies
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Generative control policies (GCPs), such as diffusion- and flow-based 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.03065
+Original source URL: https://arxiv.org/abs/2605.03065
 
 ## Local Vault File
 
-Path: ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md
+Path: [ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md](file:///../../ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md)

@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11471"
 local_vault_path: "ai\research\evaluating-and-combating-the-impact-of-concept-drift-on-the-performance-of-machi-9eb111.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Evaluating and Combating the Impact of Concept Drift on the Performance of Machine Learning-Based Phishing Detection Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: The expansion of the digital domain has resulted in a substantial incr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11471
+Original source URL: https://arxiv.org/abs/2606.11471
 
 ## Local Vault File
 
-Path: ai\research\evaluating-and-combating-the-impact-of-concept-drift-on-the-performance-of-machi-9eb111.md
+Path: [evaluating-and-combating-the-impact-of-concept-drift-on-the-performance-of-machi-9eb111.md](file:///../../ai\research\evaluating-and-combating-the-impact-of-concept-drift-on-the-performance-of-machi-9eb111.md)

@@ -4,14 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12279"
 local_vault_path: "ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Mathematical perspective on genetic algorithms with optimization guided operators
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Recent work in ML applies genetic algorithms at inference time to iter
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12279
+Original source URL: https://arxiv.org/abs/2606.12279
 
 ## Local Vault File
 
-Path: ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md
+Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)

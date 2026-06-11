@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.08073"
 local_vault_path: "ai\rag\physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: AI-generated videos have achieved near-perfect visual realism (e.g., S
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.08073
+Original source URL: https://arxiv.org/abs/2510.08073
 
 ## Local Vault File
 
-Path: ai\rag\physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md
+Path: [physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md](file:///../../ai\rag\physics-driven-spatiotemporal-modeling-for-ai-generated-video-detection-749771.md)

@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2307.01472"
 local_vault_path: "ai\agents\improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Improving Generalization and Data Efficiency with Diffusion in Offline Multi-agent RL
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We present a novel Diffusion Offline Multi-agent Model (DOM2) for offl
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2307.01472
+Original source URL: https://arxiv.org/abs/2307.01472
 
 ## Local Vault File
 
-Path: ai\agents\improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md
+Path: [improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md](file:///../../ai\agents\improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md)

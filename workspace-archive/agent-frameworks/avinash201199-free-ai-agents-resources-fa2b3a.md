@@ -4,19 +4,28 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/avinash201199/free-ai-agents-resources"
 local_vault_path: "ai\agents\avinash201199-free-ai-agents-resources-fa2b3a.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - unknown
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # avinash201199/free-ai-agents-resources
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, unknown
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +33,14 @@ Free AI Agents Resources – Your All-in-One 2026 Learning Hub
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://github.com/avinash201199/free-ai-agents-resources
+Original source URL: https://github.com/avinash201199/free-ai-agents-resources
 
 ## Local Vault File
 
-Path: ai\agents\avinash201199-free-ai-agents-resources-fa2b3a.md
+Path: [avinash201199-free-ai-agents-resources-fa2b3a.md](file:///../../ai\agents\avinash201199-free-ai-agents-resources-fa2b3a.md)

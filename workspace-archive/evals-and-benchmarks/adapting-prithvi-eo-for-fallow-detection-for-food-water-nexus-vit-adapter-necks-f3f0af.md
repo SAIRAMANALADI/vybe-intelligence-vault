@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12218"
 local_vault_path: "ai\research\adapting-prithvi-eo-for-fallow-detection-for-food-water-nexus-vit-adapter-necks-f3f0af.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Adapting Prithvi-EO for Fallow Detection for Food-Water Nexus: ViT-Adapter Necks and Parameter-Efficient Backbone tuning of Geospatial Foundation Model
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Understanding spatial distribution of fallow land is important for opt
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12218
+Original source URL: https://arxiv.org/abs/2606.12218
 
 ## Local Vault File
 
-Path: ai\research\adapting-prithvi-eo-for-fallow-detection-for-food-water-nexus-vit-adapter-necks-f3f0af.md
+Path: [adapting-prithvi-eo-for-fallow-detection-for-food-water-nexus-vit-adapter-necks-f3f0af.md](file:///../../ai\research\adapting-prithvi-eo-for-fallow-detection-for-food-water-nexus-vit-adapter-necks-f3f0af.md)

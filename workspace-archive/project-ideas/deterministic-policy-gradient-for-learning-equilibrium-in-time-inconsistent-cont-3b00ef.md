@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11798"
 local_vault_path: "ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Deterministic Policy Gradient for Learning Equilibrium in Time-Inconsistent Control Problems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: In this paper, we develop a continuous-time model-free reinforcement l
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11798
+Original source URL: https://arxiv.org/abs/2606.11798
 
 ## Local Vault File
 
-Path: ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md
+Path: [deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md](file:///../../ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md)

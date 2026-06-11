@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-pro"
 local_vault_path: "ai\models\inference-for-pros-6507dd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Inference for PROs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Inference for PROs
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/inference-pro
+Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: ai\models\inference-for-pros-6507dd.md
+Path: [inference-for-pros-6507dd.md](file:///../../ai\models\inference-for-pros-6507dd.md)

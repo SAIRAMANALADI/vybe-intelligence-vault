@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11210"
 local_vault_path: "ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # T2MM: An LLM Supported Architecture For Inquiry-Based Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Model Construction is a foundational practice in science learning that
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11210
+Original source URL: https://arxiv.org/abs/2606.11210
 
 ## Local Vault File
 
-Path: ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md
+Path: [t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md](file:///../../ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md)

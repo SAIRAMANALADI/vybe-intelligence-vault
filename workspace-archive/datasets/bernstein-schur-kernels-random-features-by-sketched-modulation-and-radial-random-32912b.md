@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11255"
 local_vault_path: "ai\research\bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Bernstein--Schur kernels are products of a finite-feature kernel (one 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11255
+Original source URL: https://arxiv.org/abs/2606.11255
 
 ## Local Vault File
 
-Path: ai\research\bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md
+Path: [bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md](file:///../../ai\research\bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md)

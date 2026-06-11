@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11739"
 local_vault_path: "ai\research\multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Multi-View In-Cabin Monitoring System for Public Transport Vehicles
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: We introduce a multi-view in-cabin monitoring dataset for public trans
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11739
+Original source URL: https://arxiv.org/abs/2606.11739
 
 ## Local Vault File
 
-Path: ai\research\multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md
+Path: [multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md](file:///../../ai\research\multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md)

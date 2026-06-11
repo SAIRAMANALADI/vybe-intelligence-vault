@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2506.01396"
 local_vault_path: "ai\research\mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Differential privacy (DP) has become an essential framework for privac
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2506.01396
+Original source URL: https://arxiv.org/abs/2506.01396
 
 ## Local Vault File
 
-Path: ai\research\mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md
+Path: [mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md](file:///../../ai\research\mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md)

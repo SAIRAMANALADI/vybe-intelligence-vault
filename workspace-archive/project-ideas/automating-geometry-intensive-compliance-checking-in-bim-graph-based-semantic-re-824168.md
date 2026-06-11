@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12065"
 local_vault_path: "ai\agents\automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Automating compliance check for geometry-intensive regulations remains
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12065
+Original source URL: https://arxiv.org/abs/2606.12065
 
 ## Local Vault File
 
-Path: ai\agents\automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md
+Path: [automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md](file:///../../ai\agents\automating-geometry-intensive-compliance-checking-in-bim-graph-based-semantic-re-824168.md)

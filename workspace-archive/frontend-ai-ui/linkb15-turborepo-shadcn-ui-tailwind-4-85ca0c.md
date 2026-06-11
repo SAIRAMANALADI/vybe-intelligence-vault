@@ -4,17 +4,28 @@ archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4"
 local_vault_path: "web-development\nextjs\linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # linkb15/turborepo-shadcn-ui-tailwind-4
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: frontend_ui
-- Archive category: Frontend AI UI
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,15 +33,14 @@ This template is for creating a monorepo with Turborepo, shadcn/ui, tailwindcss 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
 
 ## Source
 
-Original source: https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4
+Original source URL: https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4
 
 ## Local Vault File
 
-Path: web-development\nextjs\linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md
+Path: [linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md](file:///../../web-development\nextjs\linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md)

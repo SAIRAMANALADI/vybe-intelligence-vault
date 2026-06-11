@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/using-ml-for-disasters"
 local_vault_path: "ai\models\using-machine-learning-to-aid-survivors-and-race-through-time-2389fd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Using Machine Learning to Aid Survivors and Race through Time
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Using Machine Learning to Aid Survivors
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/using-ml-for-disasters
+Original source URL: https://huggingface.co/blog/using-ml-for-disasters
 
 ## Local Vault File
 
-Path: ai\models\using-machine-learning-to-aid-survivors-and-race-through-time-2389fd.md
+Path: [using-machine-learning-to-aid-survivors-and-race-through-time-2389fd.md](file:///../../ai\models\using-machine-learning-to-aid-survivors-and-race-through-time-2389fd.md)

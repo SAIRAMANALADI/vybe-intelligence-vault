@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11256"
 local_vault_path: "ai\agents\my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Designing molecules with target properties is most useful when candida
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11256
+Original source URL: https://arxiv.org/abs/2606.11256
 
 ## Local Vault File
 
-Path: ai\agents\my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md
+Path: [my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md](file:///../../ai\agents\my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md)

@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11691"
 local_vault_path: "ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Spectrally Regularized Latent Flow Matching for Turbulence Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Latent diffusion and flow matching have emerged as leading approaches 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11691
+Original source URL: https://arxiv.org/abs/2606.11691
 
 ## Local Vault File
 
-Path: ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md
+Path: [spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md](file:///../../ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md)

@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch"
 local_vault_path: "ai\rag\7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,21 @@ tags:
   - paper
   - rag
   - reddit
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # 7 Steps to Build a Simple RAG System from Scratch - KDnuggets
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, dataset, hackernews, meta-ai, models, openai, paper
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Da
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
+Original source URL: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
 
 ## Local Vault File
 
-Path: ai\rag\7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md
+Path: [7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md](file:///../../ai\rag\7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md)

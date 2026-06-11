@@ -4,17 +4,26 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llama3"
 local_vault_path: "ai\models\welcome-llama-3-meta-s-new-open-llm-921355.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Welcome Llama 3 - Meta's new open LLM
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: Welcome Llama 3 - Meta's new open LLM
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/llama3
+Original source URL: https://huggingface.co/blog/llama3
 
 ## Local Vault File
 
-Path: ai\models\welcome-llama-3-meta-s-new-open-llm-921355.md
+Path: [welcome-llama-3-meta-s-new-open-llm-921355.md](file:///../../ai\models\welcome-llama-3-meta-s-new-open-llm-921355.md)

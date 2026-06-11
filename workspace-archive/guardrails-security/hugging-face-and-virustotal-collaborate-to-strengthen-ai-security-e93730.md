@@ -4,14 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/virustotal"
 local_vault_path: "ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Hugging Face and VirusTotal collaborate to strengthen AI security
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Hugging Face and VirusTotal collaborate
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://huggingface.co/blog/virustotal
+Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md
+Path: [hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md](file:///../../ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md)

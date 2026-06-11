@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11770"
 local_vault_path: "ai\research\svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - framer_motion
+selection_reason:
+  - "Useful for project building"
 ---
 
 # SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Spatial reasoning remains a challenge for Multimodal Large Language Mo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11770
+Original source URL: https://arxiv.org/abs/2606.11770
 
 ## Local Vault File
 
-Path: ai\research\svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md
+Path: [svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md](file:///../../ai\research\svot-state-aware-visualization-of-thought-for-spatial-reasoning-via-reinforcemen-f85c14.md)

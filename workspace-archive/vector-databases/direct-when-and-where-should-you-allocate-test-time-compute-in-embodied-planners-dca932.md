@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12402"
 local_vault_path: "ai\rag\direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Vision-Language Models (VLMs) are increasingly deployed as high-level 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12402
+Original source URL: https://arxiv.org/abs/2606.12402
 
 ## Local Vault File
 
-Path: ai\rag\direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md
+Path: [direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md](file:///../../ai\rag\direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md)

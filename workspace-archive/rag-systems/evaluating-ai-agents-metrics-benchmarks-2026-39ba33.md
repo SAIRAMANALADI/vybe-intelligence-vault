@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026"
 local_vault_path: "ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -14,15 +19,21 @@ tags:
   - web-crawled
   - workflows
   - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Evaluating AI Agents: Metrics & Benchmarks 2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, hackernews, leaderboard, producthunt, rag, web-crawled, workflows
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -30,14 +41,14 @@ AI EngineeringAI AgentsHow to Evaluate AI Agents: Metrics, Benchmarks & Testing 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026
+Original source URL: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026
 
 ## Local Vault File
 
-Path: ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md
+Path: [evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md](file:///../../ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md)

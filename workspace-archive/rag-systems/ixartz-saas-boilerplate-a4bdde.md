@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/ixartz/SaaS-Boilerplate"
 local_vault_path: "web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ixartz/SaaS-Boilerplate
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: frontend_ui
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,14 +33,14 @@ tags:
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/ixartz/SaaS-Boilerplate
+Original source URL: https://github.com/ixartz/SaaS-Boilerplate
 
 ## Local Vault File
 
-Path: web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md
+Path: [ixartz-saas-boilerplate-a4bdde.md](file:///../../web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md)

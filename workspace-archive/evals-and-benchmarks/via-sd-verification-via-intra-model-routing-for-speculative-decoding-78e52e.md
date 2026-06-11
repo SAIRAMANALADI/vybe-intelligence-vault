@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12243"
 local_vault_path: "ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Speculative decoding (SD) addresses the high inference costs of LLMs b
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12243
+Original source URL: https://arxiv.org/abs/2606.12243
 
 ## Local Vault File
 
-Path: ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md
+Path: [via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md](file:///../../ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md)

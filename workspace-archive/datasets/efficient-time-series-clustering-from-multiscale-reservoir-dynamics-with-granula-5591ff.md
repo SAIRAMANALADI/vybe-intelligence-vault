@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12077"
 local_vault_path: "ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md"
+quality_score: 70
+archive_score: 76
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Efficient Time Series Clustering from Multiscale Reservoir Dynamics with Granular-Ball Anchoring Graph Optimization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Time-series clustering remains challenging due to the inherent trade-o
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12077
+Original source URL: https://arxiv.org/abs/2606.12077
 
 ## Local Vault File
 
-Path: ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md
+Path: [efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md](file:///../../ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md)

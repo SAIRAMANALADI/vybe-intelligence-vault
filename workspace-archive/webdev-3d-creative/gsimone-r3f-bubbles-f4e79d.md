@@ -4,18 +4,29 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/gsimone/r3f-bubbles"
 local_vault_path: "web-development\react-three-fiber\gsimone-r3f-bubbles-f4e79d.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - frontend_ui
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # gsimone/r3f-bubbles
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/react-three-fiber`
-- Tags: frontend_ui, threejs
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -23,15 +34,14 @@ A ⚡️ react-three-fiber and 🌭 drei demo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/gsimone/r3f-bubbles
+Original source URL: https://github.com/gsimone/r3f-bubbles
 
 ## Local Vault File
 
-Path: web-development\react-three-fiber\gsimone-r3f-bubbles-f4e79d.md
+Path: [gsimone-r3f-bubbles-f4e79d.md](file:///../../web-development\react-three-fiber\gsimone-r3f-bubbles-f4e79d.md)

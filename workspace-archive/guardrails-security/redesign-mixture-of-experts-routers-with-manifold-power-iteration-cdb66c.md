@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12397"
 local_vault_path: "ai\research\redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Redesign Mixture-of-Experts Routers with Manifold Power Iteration
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Router is the cornerstone component to the Mixture-of-Experts models. 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12397
+Original source URL: https://arxiv.org/abs/2606.12397
 
 ## Local Vault File
 
-Path: ai\research\redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md
+Path: [redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md](file:///../../ai\research\redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md)

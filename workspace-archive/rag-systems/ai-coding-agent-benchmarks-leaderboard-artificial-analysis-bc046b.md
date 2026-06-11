@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://artificialanalysis.ai/agents/coding-agents"
 local_vault_path: "ai\rag\ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,21 @@ tags:
   - reddit
   - web-crawled
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, hackernews, leaderboard, openai, rag, reddit
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ Artificial AnalysisArtificial AnalysisModelsCoding AgentsSpeech, Image, Video, M
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://artificialanalysis.ai/agents/coding-agents
+Original source URL: https://artificialanalysis.ai/agents/coding-agents
 
 ## Local Vault File
 
-Path: ai\rag\ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md
+Path: [ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md](file:///../../ai\rag\ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md)

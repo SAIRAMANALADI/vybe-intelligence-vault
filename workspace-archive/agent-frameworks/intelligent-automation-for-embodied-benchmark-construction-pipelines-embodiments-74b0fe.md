@@ -4,19 +4,28 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12207"
 local_vault_path: "ai\agents\intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - scripts
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, scripts, workflows
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +34,14 @@ Abstract: Embodied intelligence now spans navigation, household assistance, mani
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12207
+Original source URL: https://arxiv.org/abs/2606.12207
 
 ## Local Vault File
 
-Path: ai\agents\intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md
+Path: [intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md](file:///../../ai\agents\intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md)

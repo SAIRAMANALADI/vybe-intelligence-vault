@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12171"
 local_vault_path: "ai\research\beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Knowledge Distillation (KD) and mixup have proven effective at inducin
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12171
+Original source URL: https://arxiv.org/abs/2606.12171
 
 ## Local Vault File
 
-Path: ai\research\beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md
+Path: [beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md](file:///../../ai\research\beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md)

@@ -4,20 +4,31 @@ archive_category: "ai-coding-agents"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.22025"
 local_vault_path: "ai\rag\when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag, workflows
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -26,15 +37,14 @@ Abstract: Evaluating Large Language Model (LLM) applications differs from conven
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.22025
+Original source URL: https://arxiv.org/abs/2601.22025
 
 ## Local Vault File
 
-Path: ai\rag\when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md
+Path: [when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md](file:///../../ai\rag\when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md)

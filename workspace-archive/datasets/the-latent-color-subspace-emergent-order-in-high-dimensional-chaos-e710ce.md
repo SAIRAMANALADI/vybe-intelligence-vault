@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.12261"
 local_vault_path: "ai\research\the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The Latent Color Subspace: Emergent Order in High-Dimensional Chaos
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Text-to-image generation models have advanced rapidly, yet achieving f
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.12261
+Original source URL: https://arxiv.org/abs/2603.12261
 
 ## Local Vault File
 
-Path: ai\research\the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md
+Path: [the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md](file:///../../ai\research\the-latent-color-subspace-emergent-order-in-high-dimensional-chaos-e710ce.md)

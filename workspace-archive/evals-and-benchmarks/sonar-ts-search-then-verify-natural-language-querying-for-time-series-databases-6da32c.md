@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.17001"
 local_vault_path: "ai\research\sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series Databases
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Natural Language Querying for Time Series Databases (NLQ4TSDB) aims to
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.17001
+Original source URL: https://arxiv.org/abs/2602.17001
 
 ## Local Vault File
 
-Path: ai\research\sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md
+Path: [sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md](file:///../../ai\research\sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md)

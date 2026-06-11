@@ -4,18 +4,27 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.09365"
 local_vault_path: "ai\agents\experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: Medical agent systems are increasingly expected to support interactive
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.09365
+Original source URL: https://arxiv.org/abs/2606.09365
 
 ## Local Vault File
 
-Path: ai\agents\experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md
+Path: [experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md](file:///../../ai\agents\experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md)

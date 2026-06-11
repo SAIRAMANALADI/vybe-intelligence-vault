@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11463"
 local_vault_path: "ai\research\lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # LSTM-Based Detection of Structural Breaks in Property Insurance Loss Reserving: A Climate-Informed Approach
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Accurate loss reserving is foundational to insurer solvency, yet accel
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11463
+Original source URL: https://arxiv.org/abs/2606.11463
 
 ## Local Vault File
 
-Path: ai\research\lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md
+Path: [lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md](file:///../../ai\research\lstm-based-detection-of-structural-breaks-in-property-insurance-loss-reserving-a-9e9382.md)

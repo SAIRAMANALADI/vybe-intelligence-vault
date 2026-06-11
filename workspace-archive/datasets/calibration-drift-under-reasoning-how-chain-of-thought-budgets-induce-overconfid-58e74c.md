@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11211"
 local_vault_path: "ai\research\calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Calibration Drift Under Reasoning: How Chain-of-Thought Budgets Induce Overconfidence in Large Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: The ability of large language models (LLMs) to express calibrated unce
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11211
+Original source URL: https://arxiv.org/abs/2606.11211
 
 ## Local Vault File
 
-Path: ai\research\calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md
+Path: [calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md](file:///../../ai\research\calibration-drift-under-reasoning-how-chain-of-thought-budgets-induce-overconfid-58e74c.md)

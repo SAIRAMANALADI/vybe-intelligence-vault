@@ -4,19 +4,30 @@ archive_category: "llm-app-templates"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07909"
 local_vault_path: "ai\rag\memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: LLM App Templates
+- Matched archive category: `LLM App Templates`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Modern large language model (LLM) agents can use external tools to hel
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Rapid project starts
+- Boilerplate reference
+- FastAPI/Next.js architectures
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07909
+Original source URL: https://arxiv.org/abs/2606.07909
 
 ## Local Vault File
 
-Path: ai\rag\memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md
+Path: [memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md](file:///../../ai\rag\memtoolagent-leveraging-memory-for-tool-using-agents-based-on-environment-and-us-24a84a.md)

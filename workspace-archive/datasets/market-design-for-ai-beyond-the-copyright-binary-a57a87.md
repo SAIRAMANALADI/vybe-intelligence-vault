@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12260"
 local_vault_path: "ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Market Design for AI: Beyond the Copyright Binary
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: How can we design a market of human-generated content for use in train
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12260
+Original source URL: https://arxiv.org/abs/2606.12260
 
 ## Local Vault File
 
-Path: ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md
+Path: [market-design-for-ai-beyond-the-copyright-binary-a57a87.md](file:///../../ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md)

@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12211"
 local_vault_path: "ai\research\quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Based Quantum Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: A central principle in quantum machine learning is that an ansatz shou
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12211
+Original source URL: https://arxiv.org/abs/2606.12211
 
 ## Local Vault File
 
-Path: ai\research\quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md
+Path: [quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md](file:///../../ai\research\quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md)

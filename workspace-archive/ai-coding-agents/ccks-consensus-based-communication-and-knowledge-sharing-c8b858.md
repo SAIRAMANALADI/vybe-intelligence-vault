@@ -4,18 +4,27 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12281"
 local_vault_path: "ai\agents\ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # CCKS: Consensus-based Communication and Knowledge Sharing
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: In Decentralized Training and Decentralized Execution (DTDE) for coope
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12281
+Original source URL: https://arxiv.org/abs/2606.12281
 
 ## Local Vault File
 
-Path: ai\agents\ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md
+Path: [ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md](file:///../../ai\agents\ccks-consensus-based-communication-and-knowledge-sharing-c8b858.md)

@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12075"
 local_vault_path: "ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Categorical Robustness Assessment for Machine Learning based Network Intrusion Detection Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Network Intrusion Detection Systems (NIDS) heavily utlize Machine Lear
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12075
+Original source URL: https://arxiv.org/abs/2606.12075
 
 ## Local Vault File
 
-Path: ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md
+Path: [categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md](file:///../../ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md)

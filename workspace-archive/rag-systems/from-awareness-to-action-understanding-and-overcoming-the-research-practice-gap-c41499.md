@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11214"
 local_vault_path: "ai\rag\from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Algorithmic fairness is essential for responsible ML-driven public hea
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11214
+Original source URL: https://arxiv.org/abs/2606.11214
 
 ## Local Vault File
 
-Path: ai\rag\from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md
+Path: [from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md](file:///../../ai\rag\from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md)

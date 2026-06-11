@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11914"
 local_vault_path: "ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # NARRAS: Edge-Triggered Distributed Inference for CSI-Based Localization in Vehicular IoT Networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: CSI-based localization with spatially distributed antenna arrays expos
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11914
+Original source URL: https://arxiv.org/abs/2606.11914
 
 ## Local Vault File
 
-Path: ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md
+Path: [narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md](file:///../../ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md)

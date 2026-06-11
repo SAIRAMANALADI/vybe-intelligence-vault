@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.13196"
 local_vault_path: "ai\research\a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # A Physics-Inspired Optimizer: Velocity Regularized Adam
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: We introduce Velocity-Regularized Adam (VRAdam), a physics-inspired op
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2505.13196
+Original source URL: https://arxiv.org/abs/2505.13196
 
 ## Local Vault File
 
-Path: ai\research\a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md
+Path: [a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md](file:///../../ai\research\a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md)

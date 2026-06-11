@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12006"
 local_vault_path: "ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Tabular Foundation Models for Clinical Survival Analysis via Survival-Aware Adaptation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Predicting time-to-event outcomes such as mortality is a fundamental t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12006
+Original source URL: https://arxiv.org/abs/2606.12006
 
 ## Local Vault File
 
-Path: ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md
+Path: [tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md](file:///../../ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md)

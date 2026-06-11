@@ -4,17 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2506.08473"
 local_vault_path: "ai\research\asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Fine-tuning large language models (LLMs) improves performance but intr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2506.08473
+Original source URL: https://arxiv.org/abs/2506.08473
 
 ## Local Vault File
 
-Path: ai\research\asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md
+Path: [asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md](file:///../../ai\research\asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md)

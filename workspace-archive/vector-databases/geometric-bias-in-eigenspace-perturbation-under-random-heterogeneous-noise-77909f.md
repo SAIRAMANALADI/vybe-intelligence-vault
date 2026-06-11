@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11263"
 local_vault_path: "ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Geometric bias in eigenspace perturbation under random heterogeneous noise
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Spectral methods rely fundamentally on the stability of principal eige
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11263
+Original source URL: https://arxiv.org/abs/2606.11263
 
 ## Local Vault File
 
-Path: ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md
+Path: [geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md](file:///../../ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md)

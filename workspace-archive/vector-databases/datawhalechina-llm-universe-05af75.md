@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/llm-universe"
 local_vault_path: "ai\rag\datawhalechina-llm-universe-05af75.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - github-repo
   - jupyter notebook
   - rag
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # datawhalechina/llm-universe
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, jupyter notebook, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +33,14 @@ tags:
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/datawhalechina/llm-universe
+Original source URL: https://github.com/datawhalechina/llm-universe
 
 ## Local Vault File
 
-Path: ai\rag\datawhalechina-llm-universe-05af75.md
+Path: [datawhalechina-llm-universe-05af75.md](file:///../../ai\rag\datawhalechina-llm-universe-05af75.md)

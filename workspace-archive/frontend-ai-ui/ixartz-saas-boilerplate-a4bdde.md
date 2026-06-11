@@ -4,17 +4,28 @@ archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/ixartz/SaaS-Boilerplate"
 local_vault_path: "web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ixartz/SaaS-Boilerplate
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: frontend_ui
-- Archive category: Frontend AI UI
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,15 +33,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
 
 ## Source
 
-Original source: https://github.com/ixartz/SaaS-Boilerplate
+Original source URL: https://github.com/ixartz/SaaS-Boilerplate
 
 ## Local Vault File
 
-Path: web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md
+Path: [ixartz-saas-boilerplate-a4bdde.md](file:///../../web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md)

@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11337"
 local_vault_path: "ai\agents\can-ai-agents-synthesize-scientific-conclusions-ecea02.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "high"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Can AI Agents Synthesize Scientific Conclusions?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Scientific AI agents increasingly retrieve evidence, reason across sou
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11337
+Original source URL: https://arxiv.org/abs/2606.11337
 
 ## Local Vault File
 
-Path: ai\agents\can-ai-agents-synthesize-scientific-conclusions-ecea02.md
+Path: [can-ai-agents-synthesize-scientific-conclusions-ecea02.md](file:///../../ai\agents\can-ai-agents-synthesize-scientific-conclusions-ecea02.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.26418"
 local_vault_path: "ai\agents\when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adaptive Resource Control
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: A properly calibrated rule-based autoscaler can beat every one of six 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.26418
+Original source URL: https://arxiv.org/abs/2605.26418
 
 ## Local Vault File
 
-Path: ai\agents\when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md
+Path: [when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md](file:///../../ai\agents\when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md)

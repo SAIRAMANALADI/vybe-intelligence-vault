@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11837"
 local_vault_path: "ai\rag\lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Open-vocabulary scene sketch semantic segmentation aims to assign dens
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11837
+Original source URL: https://arxiv.org/abs/2606.11837
 
 ## Local Vault File
 
-Path: ai\rag\lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md
+Path: [lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md](file:///../../ai\rag\lasa-a-weak-supervision-method-for-open-vocabulary-scene-sketch-semantic-segment-46e5fb.md)

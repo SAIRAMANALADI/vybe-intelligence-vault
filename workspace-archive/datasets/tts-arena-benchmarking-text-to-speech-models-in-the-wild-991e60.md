@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/arena-tts"
 local_vault_path: "ai\models\tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # TTS Arena: Benchmarking Text-to-Speech Models in the Wild
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: TTS Arena: Benchmarking Text-to-Speech 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/arena-tts
+Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: ai\models\tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md
+Path: [tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md](file:///../../ai\models\tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md)

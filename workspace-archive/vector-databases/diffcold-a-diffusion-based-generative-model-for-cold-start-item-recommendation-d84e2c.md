@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12245"
 local_vault_path: "ai\rag\diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Cold-start item recommendation remains a persistent challenge in real-
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12245
+Original source URL: https://arxiv.org/abs/2606.12245
 
 ## Local Vault File
 
-Path: ai\rag\diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md
+Path: [diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md](file:///../../ai\rag\diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md)

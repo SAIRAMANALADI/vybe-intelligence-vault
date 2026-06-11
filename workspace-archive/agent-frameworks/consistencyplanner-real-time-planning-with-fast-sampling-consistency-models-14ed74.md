@@ -4,18 +4,27 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11569"
 local_vault_path: "ai\agents\consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: Closed-loop planning in complex, real-world driving scenarios presents
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11569
+Original source URL: https://arxiv.org/abs/2606.11569
 
 ## Local Vault File
 
-Path: ai\agents\consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md
+Path: [consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md](file:///../../ai\agents\consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md)

@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12240"
 local_vault_path: "ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Training
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Multivariate time-series data often exhibit complex temporal dependenc
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12240
+Original source URL: https://arxiv.org/abs/2606.12240
 
 ## Local Vault File
 
-Path: ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md
+Path: [multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md](file:///../../ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md)

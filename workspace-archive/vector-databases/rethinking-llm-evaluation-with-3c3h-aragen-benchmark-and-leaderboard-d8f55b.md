@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/leaderboard-3c3h-aragen"
 local_vault_path: "ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +31,14 @@ No summary provided. Reference resource: Rethinking LLM Evaluation with 3C3H: Ar
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://huggingface.co/blog/leaderboard-3c3h-aragen
+Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen
 
 ## Local Vault File
 
-Path: ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md
+Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md](file:///../../ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md)

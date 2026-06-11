@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.02414"
 local_vault_path: "ai\research\a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # A New Perspective on Precision and Recall for Generative Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: With the recent success of generative models in image and text, the qu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.02414
+Original source URL: https://arxiv.org/abs/2511.02414
 
 ## Local Vault File
 
-Path: ai\research\a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md
+Path: [a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md](file:///../../ai\research\a-new-perspective-on-precision-and-recall-for-generative-models-c329fc.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11990"
 local_vault_path: "ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Remaining Useful Life (RUL) prediction is essential for industrial pre
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11990
+Original source URL: https://arxiv.org/abs/2606.11990
 
 ## Local Vault File
 
-Path: ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md
+Path: [time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md)

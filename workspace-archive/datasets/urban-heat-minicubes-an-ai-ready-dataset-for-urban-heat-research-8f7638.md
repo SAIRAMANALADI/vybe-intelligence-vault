@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11534"
 local_vault_path: "ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Urban Heat MiniCubes: An AI-Ready dataset for urban heat research
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Urban heat is amplified by impermeable surfaces and heterogeneous buil
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11534
+Original source URL: https://arxiv.org/abs/2606.11534
 
 ## Local Vault File
 
-Path: ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md
+Path: [urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md](file:///../../ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md)

@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.18636"
 local_vault_path: "ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # LaQual: An Automated Framework for LLM App Quality Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Representing a new paradigm in software distribution, LLM app stores a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2508.18636
+Original source URL: https://arxiv.org/abs/2508.18636
 
 ## Local Vault File
 
-Path: ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md
+Path: [laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md](file:///../../ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md)

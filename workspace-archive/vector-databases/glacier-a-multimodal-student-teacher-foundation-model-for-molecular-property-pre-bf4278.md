@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11382"
 local_vault_path: "ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Deep learning models facilitate the discovery of molecules with tailor
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11382
+Original source URL: https://arxiv.org/abs/2606.11382
 
 ## Local Vault File
 
-Path: ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md
+Path: [glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md](file:///../../ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md)

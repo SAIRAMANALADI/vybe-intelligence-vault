@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12059"
 local_vault_path: "ai\research\attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Attention by Synchronization in Coupled Oscillator Networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We address transformer attention on energy-constrained physical substr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12059
+Original source URL: https://arxiv.org/abs/2606.12059
 
 ## Local Vault File
 
-Path: ai\research\attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md
+Path: [attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md](file:///../../ai\research\attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md)

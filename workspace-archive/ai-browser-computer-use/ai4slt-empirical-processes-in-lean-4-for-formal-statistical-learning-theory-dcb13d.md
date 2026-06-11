@@ -4,18 +4,27 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.02285"
 local_vault_path: "ai\agents\ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Useful for project building"
 ---
 
 # AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: We present the first comprehensive Lean 4 formalization of statistical
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.02285
+Original source URL: https://arxiv.org/abs/2602.02285
 
 ## Local Vault File
 
-Path: ai\agents\ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md
+Path: [ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md](file:///../../ai\agents\ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md)

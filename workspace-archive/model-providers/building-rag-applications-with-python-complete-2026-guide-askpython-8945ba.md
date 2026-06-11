@@ -4,6 +4,11 @@ archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://www.askpython.com/python/examples/building-rag-applications-with-python"
 local_vault_path: "ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md"
+quality_score: 70
+archive_score: 76
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - anthropic
   - dataset
@@ -15,15 +20,21 @@ tags:
   - paper
   - rag
   - reddit
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Building RAG Applications with Python: Complete 2026 Guide - AskPython
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: anthropic, dataset, hackernews, meta-ai, mistral, models, openai, paper
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,15 +42,14 @@ Building RAG Applications with Python: Complete 2026 GuideNinadJanuary 30, 2026P
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://www.askpython.com/python/examples/building-rag-applications-with-python
+Original source URL: https://www.askpython.com/python/examples/building-rag-applications-with-python
 
 ## Local Vault File
 
-Path: ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md
+Path: [building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md](file:///../../ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md)

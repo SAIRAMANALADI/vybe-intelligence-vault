@@ -4,20 +4,29 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12387"
 local_vault_path: "ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag, workflows
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -26,14 +35,14 @@ Abstract: Large Language Models (LLMs) have democratized database access through
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12387
+Original source URL: https://arxiv.org/abs/2606.12387
 
 ## Local Vault File
 
-Path: ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md
+Path: [tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md](file:///../../ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md)

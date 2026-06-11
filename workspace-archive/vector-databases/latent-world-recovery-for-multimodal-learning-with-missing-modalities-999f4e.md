@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12362"
 local_vault_path: "ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Latent World Recovery for Multimodal Learning with Missing Modalities
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: We study multimodal learning under missing modalities, with particular
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12362
+Original source URL: https://arxiv.org/abs/2606.12362
 
 ## Local Vault File
 
-Path: ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md
+Path: [latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md](file:///../../ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md)

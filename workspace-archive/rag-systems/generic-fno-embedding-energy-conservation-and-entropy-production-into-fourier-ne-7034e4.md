@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08343"
 local_vault_path: "ai\research\generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # GENERIC-FNO: Embedding Energy Conservation and Entropy Production into Fourier Neural Operators
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: We introduce GENERIC-FNO, the first neural operator to embed the full 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.08343
+Original source URL: https://arxiv.org/abs/2606.08343
 
 ## Local Vault File
 
-Path: ai\research\generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md
+Path: [generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md](file:///../../ai\research\generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md)

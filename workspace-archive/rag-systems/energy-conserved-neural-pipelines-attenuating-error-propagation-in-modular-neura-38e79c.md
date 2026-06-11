@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11341"
 local_vault_path: "ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Modular neural network pipelines suffer from error compounding: noise 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11341
+Original source URL: https://arxiv.org/abs/2606.11341
 
 ## Local Vault File
 
-Path: ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md
+Path: [energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md](file:///../../ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md)

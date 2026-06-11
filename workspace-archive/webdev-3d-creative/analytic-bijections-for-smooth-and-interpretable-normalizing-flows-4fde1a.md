@@ -4,14 +4,26 @@ archive_category: "webdev-3d-creative"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.10774"
 local_vault_path: "ai\research\analytic-bijections-for-smooth-and-interpretable-normalizing-flows-4fde1a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Analytic Bijections for Smooth and Interpretable Normalizing Flows
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: A key challenge in normalizing flows is finding expressive invertible 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.10774
+Original source URL: https://arxiv.org/abs/2601.10774
 
 ## Local Vault File
 
-Path: ai\research\analytic-bijections-for-smooth-and-interpretable-normalizing-flows-4fde1a.md
+Path: [analytic-bijections-for-smooth-and-interpretable-normalizing-flows-4fde1a.md](file:///../../ai\research\analytic-bijections-for-smooth-and-interpretable-normalizing-flows-4fde1a.md)

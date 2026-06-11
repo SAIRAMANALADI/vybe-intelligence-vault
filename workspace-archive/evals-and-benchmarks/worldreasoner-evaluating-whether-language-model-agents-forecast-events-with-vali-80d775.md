@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11816"
 local_vault_path: "ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # WorldReasoner: Evaluating Whether Language Model Agents Forecast Events with Valid Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Forecasting real-world events requires language-model agents to reason
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11816
+Original source URL: https://arxiv.org/abs/2606.11816
 
 ## Local Vault File
 
-Path: ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md
+Path: [worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md](file:///../../ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md)

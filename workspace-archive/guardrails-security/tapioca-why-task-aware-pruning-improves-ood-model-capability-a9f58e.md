@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.14738"
 local_vault_path: "ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # TAPIOCA: Why Task- Aware Pruning Improves OOD model Capability
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Recent work has promoted task-aware layer pruning as a way to improve 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.14738
+Original source URL: https://arxiv.org/abs/2605.14738
 
 ## Local Vault File
 
-Path: ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md
+Path: [tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md](file:///../../ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md)

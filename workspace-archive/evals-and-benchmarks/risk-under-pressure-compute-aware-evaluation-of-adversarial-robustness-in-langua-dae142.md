@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11409"
 local_vault_path: "ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Adversarial robustness evaluations of large language models (LLMs) typ
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11409
+Original source URL: https://arxiv.org/abs/2606.11409
 
 ## Local Vault File
 
-Path: ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md
+Path: [risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md](file:///../../ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md)

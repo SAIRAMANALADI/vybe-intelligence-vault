@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11719"
 local_vault_path: "ai\research\ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Ouroboros-Spatial: Closing the Data-Model Loop for Spatial Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Spatial reasoning remains a persistent challenge for multimodal large 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11719
+Original source URL: https://arxiv.org/abs/2606.11719
 
 ## Local Vault File
 
-Path: ai\research\ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md
+Path: [ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md](file:///../../ai\research\ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md)

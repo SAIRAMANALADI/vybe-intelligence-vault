@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2511.07332"
 local_vault_path: "ai\agents\grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Grounding Computer Use Agents on Human Demonstrations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Building reliable computer-use agents requires grounding: accurately c
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.07332
+Original source URL: https://arxiv.org/abs/2511.07332
 
 ## Local Vault File
 
-Path: ai\agents\grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md
+Path: [grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md](file:///../../ai\agents\grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md)

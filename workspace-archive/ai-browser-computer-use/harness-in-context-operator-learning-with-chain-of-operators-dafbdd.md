@@ -4,17 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12318"
 local_vault_path: "ai\research\harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Harness In-Context Operator Learning with Chain of Operators
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Neural operators approximate mappings between function spaces, but oft
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12318
+Original source URL: https://arxiv.org/abs/2606.12318
 
 ## Local Vault File
 
-Path: ai\research\harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md
+Path: [harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md](file:///../../ai\research\harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md)

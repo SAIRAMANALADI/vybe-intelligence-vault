@@ -4,20 +4,31 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/girijesh-ai/ai-interview-codex"
 local_vault_path: "ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md"
+quality_score: 70
+archive_score: 87
+archive_tier: "essential"
+resource_kind: "product"
+importance: "high"
 tags:
   - agents
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # girijesh-ai/ai-interview-codex
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, github-repo, python, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -25,14 +36,14 @@ Comprehensive ML/AI interview codex with iterative system design, production-rea
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/girijesh-ai/ai-interview-codex
+Original source URL: https://github.com/girijesh-ai/ai-interview-codex
 
 ## Local Vault File
 
-Path: ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md
+Path: [girijesh-ai-ai-interview-codex-a1ba98.md](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)

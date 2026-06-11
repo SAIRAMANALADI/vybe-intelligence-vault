@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12146"
 local_vault_path: "ai\rag\nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Rotary Position Embedding (RoPE) is widely adopted in Transformer mode
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12146
+Original source URL: https://arxiv.org/abs/2606.12146
 
 ## Local Vault File
 
-Path: ai\rag\nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md
+Path: [nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md](file:///../../ai\rag\nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md)

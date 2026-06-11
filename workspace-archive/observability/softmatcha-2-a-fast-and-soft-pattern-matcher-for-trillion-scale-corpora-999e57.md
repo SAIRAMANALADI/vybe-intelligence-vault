@@ -4,14 +4,26 @@ archive_category: "observability"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10908"
 local_vault_path: "ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Observability
+- Matched archive category: `Observability`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: We present SoftMatcha 2, an ultra-fast and flexible search algorithm t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Production trace tracking
+- LLM request cost audits
+- Latency profiling
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.10908
+Original source URL: https://arxiv.org/abs/2602.10908
 
 ## Local Vault File
 
-Path: ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md
+Path: [softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md](file:///../../ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md)

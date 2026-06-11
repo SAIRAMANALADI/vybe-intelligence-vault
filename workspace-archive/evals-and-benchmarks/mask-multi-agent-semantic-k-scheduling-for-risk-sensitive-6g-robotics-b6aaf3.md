@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11249"
 local_vault_path: "ai\agents\mask-multi-agent-semantic-k-scheduling-for-risk-sensitive-6g-robotics-b6aaf3.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # MASK: Multi-Agent Semantic K-Scheduling for Risk-Sensitive 6G Robotics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, threejs
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Realizing the vision of 6G connected robotics requires reconciling hig
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11249
+Original source URL: https://arxiv.org/abs/2606.11249
 
 ## Local Vault File
 
-Path: ai\agents\mask-multi-agent-semantic-k-scheduling-for-risk-sensitive-6g-robotics-b6aaf3.md
+Path: [mask-multi-agent-semantic-k-scheduling-for-risk-sensitive-6g-robotics-b6aaf3.md](file:///../../ai\agents\mask-multi-agent-semantic-k-scheduling-for-risk-sensitive-6g-robotics-b6aaf3.md)

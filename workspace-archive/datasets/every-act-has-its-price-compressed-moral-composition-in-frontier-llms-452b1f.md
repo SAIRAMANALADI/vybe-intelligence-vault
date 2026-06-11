@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11232"
 local_vault_path: "ai\research\every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Existing LLM moral benchmarks usually ask which isolated moral act, va
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11232
+Original source URL: https://arxiv.org/abs/2606.11232
 
 ## Local Vault File
 
-Path: ai\research\every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md
+Path: [every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md](file:///../../ai\research\every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md)

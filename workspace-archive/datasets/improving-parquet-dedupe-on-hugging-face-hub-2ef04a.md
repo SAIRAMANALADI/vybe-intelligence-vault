@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/improve_parquet_dedupe"
 local_vault_path: "ai\models\improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Improving Parquet Dedupe on Hugging Face Hub
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Improving Parquet Dedupe on Hugging Fac
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/improve_parquet_dedupe
+Original source URL: https://huggingface.co/blog/improve_parquet_dedupe
 
 ## Local Vault File
 
-Path: ai\models\improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md
+Path: [improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md](file:///../../ai\models\improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md)

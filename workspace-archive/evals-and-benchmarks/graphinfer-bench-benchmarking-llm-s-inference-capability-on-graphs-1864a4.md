@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11562"
 local_vault_path: "ai\rag\graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Graph analysis underlies many applications whose answers cannot be loo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11562
+Original source URL: https://arxiv.org/abs/2606.11562
 
 ## Local Vault File
 
-Path: ai\rag\graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md
+Path: [graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md](file:///../../ai\rag\graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md)

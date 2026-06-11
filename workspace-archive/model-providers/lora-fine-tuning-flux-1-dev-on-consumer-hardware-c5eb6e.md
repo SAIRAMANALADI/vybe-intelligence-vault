@@ -4,17 +4,26 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/flux-qlora"
 local_vault_path: "ai\models\lora-fine-tuning-flux-1-dev-on-consumer-hardware-c5eb6e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: (LoRA) Fine-Tuning FLUX.1-dev on Consum
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/flux-qlora
+Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: ai\models\lora-fine-tuning-flux-1-dev-on-consumer-hardware-c5eb6e.md
+Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware-c5eb6e.md](file:///../../ai\models\lora-fine-tuning-flux-1-dev-on-consumer-hardware-c5eb6e.md)

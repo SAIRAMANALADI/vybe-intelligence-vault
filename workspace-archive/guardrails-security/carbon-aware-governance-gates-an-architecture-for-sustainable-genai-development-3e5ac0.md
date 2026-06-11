@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.19718"
 local_vault_path: "ai\research\carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Carbon-Aware Governance Gates: An Architecture for Sustainable GenAI Development
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: The rapid adoption of Generative AI (GenAI) in the software developmen
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.19718
+Original source URL: https://arxiv.org/abs/2602.19718
 
 ## Local Vault File
 
-Path: ai\research\carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md
+Path: [carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md](file:///../../ai\research\carbon-aware-governance-gates-an-architecture-for-sustainable-genai-development-3e5ac0.md)

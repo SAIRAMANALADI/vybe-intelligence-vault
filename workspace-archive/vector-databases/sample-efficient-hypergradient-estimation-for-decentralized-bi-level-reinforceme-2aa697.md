@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.14867"
 local_vault_path: "ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Many strategic decision-making problems, such as environment design fo
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.14867
+Original source URL: https://arxiv.org/abs/2603.14867
 
 ## Local Vault File
 
-Path: ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md
+Path: [sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md](file:///../../ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md)

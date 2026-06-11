@@ -4,6 +4,11 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/Panniantong/Agent-Reach"
 local_vault_path: "ai\agents\panniantong-agent-reach-81fb0b.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -12,15 +17,21 @@ tags:
   - reddit
   - scripts
   - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # Panniantong/Agent-Reach
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, python, reddit, scripts, youtube
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -28,15 +39,14 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/Panniantong/Agent-Reach
+Original source URL: https://github.com/Panniantong/Agent-Reach
 
 ## Local Vault File
 
-Path: ai\agents\panniantong-agent-reach-81fb0b.md
+Path: [panniantong-agent-reach-81fb0b.md](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md)

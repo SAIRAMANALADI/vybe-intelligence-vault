@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.14427"
 local_vault_path: "ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Effective contact-rich manipulation requires robots to synergistically
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.14427
+Original source URL: https://arxiv.org/abs/2511.14427
 
 ## Local Vault File
 
-Path: ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md
+Path: [self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md](file:///../../ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md)

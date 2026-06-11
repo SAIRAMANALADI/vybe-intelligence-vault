@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11555"
 local_vault_path: "ai\research\end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # End-to-End Machine Learning for Depressive State Classification via EEG and fNIRS
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: The escalating demand for mental healthcare, driven by rising societal
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11555
+Original source URL: https://arxiv.org/abs/2606.11555
 
 ## Local Vault File
 
-Path: ai\research\end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md
+Path: [end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md](file:///../../ai\research\end-to-end-machine-learning-for-depressive-state-classification-via-eeg-and-fnir-c850d2.md)

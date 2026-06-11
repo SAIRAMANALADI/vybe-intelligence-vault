@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026"
 local_vault_path: "ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -14,15 +19,19 @@ tags:
   - web-crawled
   - workflows
   - youtube
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Evaluating AI Agents: Metrics & Benchmarks 2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, hackernews, leaderboard, producthunt, rag, web-crawled, workflows
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -30,14 +39,14 @@ AI EngineeringAI AgentsHow to Evaluate AI Agents: Metrics, Benchmarks & Testing 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026
+Original source URL: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026
 
 ## Local Vault File
 
-Path: ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md
+Path: [evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md](file:///../../ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md)

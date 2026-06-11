@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11635"
 local_vault_path: "ai\research\are-llms-bad-at-moral-reasoning-18a763.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Are LLMs Bad at Moral Reasoning?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: For highly capable AI systems to operate safely in dynamic, open-ended
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11635
+Original source URL: https://arxiv.org/abs/2606.11635
 
 ## Local Vault File
 
-Path: ai\research\are-llms-bad-at-moral-reasoning-18a763.md
+Path: [are-llms-bad-at-moral-reasoning-18a763.md](file:///../../ai\research\are-llms-bad-at-moral-reasoning-18a763.md)

@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.22725"
 local_vault_path: "ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Recent advances in diffusion models have significantly elevated the vi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.22725
+Original source URL: https://arxiv.org/abs/2601.22725
 
 ## Local Vault File
 
-Path: ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md
+Path: [openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md](file:///../../ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11893"
 local_vault_path: "ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Beyond representational alignment with brain-guided language models for robust reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: The correspondence between large language models (LLMs) and the neural
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11893
+Original source URL: https://arxiv.org/abs/2606.11893
 
 ## Local Vault File
 
-Path: ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md
+Path: [beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md](file:///../../ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md)

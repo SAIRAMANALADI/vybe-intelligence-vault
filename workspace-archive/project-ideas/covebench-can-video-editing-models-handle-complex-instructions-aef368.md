@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08415"
 local_vault_path: "ai\research\covebench-can-video-editing-models-handle-complex-instructions-aef368.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # CoVEBench: Can Video Editing Models Handle Complex Instructions?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: workflows
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: While recent text-guided video editing models excel at elementary task
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.08415
+Original source URL: https://arxiv.org/abs/2606.08415
 
 ## Local Vault File
 
-Path: ai\research\covebench-can-video-editing-models-handle-complex-instructions-aef368.md
+Path: [covebench-can-video-editing-models-handle-complex-instructions-aef368.md](file:///../../ai\research\covebench-can-video-editing-models-handle-complex-instructions-aef368.md)

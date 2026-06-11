@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/beating-gaia"
 local_vault_path: "ai\agents\our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Our Transformers Code Agent beats the GAIA benchmark 🏅
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: Our Transformers Code Agent beats the G
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://huggingface.co/blog/beating-gaia
+Original source URL: https://huggingface.co/blog/beating-gaia
 
 ## Local Vault File
 
-Path: ai\agents\our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md
+Path: [our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md](file:///../../ai\agents\our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md)

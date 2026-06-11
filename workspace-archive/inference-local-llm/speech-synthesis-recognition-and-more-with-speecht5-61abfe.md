@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/speecht5"
 local_vault_path: "ai\models\speech-synthesis-recognition-and-more-with-speecht5-61abfe.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Speech Synthesis, Recognition, and More With SpeechT5
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Speech Synthesis, Recognition, and More
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/speecht5
+Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: ai\models\speech-synthesis-recognition-and-more-with-speecht5-61abfe.md
+Path: [speech-synthesis-recognition-and-more-with-speecht5-61abfe.md](file:///../../ai\models\speech-synthesis-recognition-and-more-with-speecht5-61abfe.md)

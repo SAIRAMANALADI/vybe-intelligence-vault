@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.26294"
 local_vault_path: "ai\research\noise-guided-transport-for-imitation-learning-362342.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - framer_motion
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Noise-Guided Transport for Imitation Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We consider imitation learning in the low-data regime, where only a li
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.26294
+Original source URL: https://arxiv.org/abs/2509.26294
 
 ## Local Vault File
 
-Path: ai\research\noise-guided-transport-for-imitation-learning-362342.md
+Path: [noise-guided-transport-for-imitation-learning-362342.md](file:///../../ai\research\noise-guided-transport-for-imitation-learning-362342.md)

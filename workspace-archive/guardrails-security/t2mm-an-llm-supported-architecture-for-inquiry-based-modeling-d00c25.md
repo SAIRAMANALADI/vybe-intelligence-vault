@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11210"
 local_vault_path: "ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # T2MM: An LLM Supported Architecture For Inquiry-Based Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Model Construction is a foundational practice in science learning that
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11210
+Original source URL: https://arxiv.org/abs/2606.11210
 
 ## Local Vault File
 
-Path: ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md
+Path: [t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md](file:///../../ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md)

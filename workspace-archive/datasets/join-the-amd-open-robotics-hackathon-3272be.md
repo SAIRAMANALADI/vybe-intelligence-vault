@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/amd/openroboticshackathon"
 local_vault_path: "ai\models\join-the-amd-open-robotics-hackathon-3272be.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Join the AMD Open Robotics Hackathon
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Join the AMD Open Robotics Hackathon
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/amd/openroboticshackathon
+Original source URL: https://huggingface.co/blog/amd/openroboticshackathon
 
 ## Local Vault File
 
-Path: ai\models\join-the-amd-open-robotics-hackathon-3272be.md
+Path: [join-the-amd-open-robotics-hackathon-3272be.md](file:///../../ai\models\join-the-amd-open-robotics-hackathon-3272be.md)

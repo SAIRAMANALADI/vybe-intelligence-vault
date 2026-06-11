@@ -4,19 +4,30 @@ archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/nixopus/nixopus"
 local_vault_path: "ai\agents\nixopus-nixopus-416a1e.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - go
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # nixopus/nixopus
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, go
-- Archive category: MCP Registry
+- Matched archive category: `MCP Registry`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +35,14 @@ Run production apps without thinking about infrastructure. On your server or our
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- IDE extension
+- Assistant tools discovery
+- Context injection config
 
 ## Source
 
-Original source: https://github.com/nixopus/nixopus
+Original source URL: https://github.com/nixopus/nixopus
 
 ## Local Vault File
 
-Path: ai\agents\nixopus-nixopus-416a1e.md
+Path: [nixopus-nixopus-416a1e.md](file:///../../ai\agents\nixopus-nixopus-416a1e.md)

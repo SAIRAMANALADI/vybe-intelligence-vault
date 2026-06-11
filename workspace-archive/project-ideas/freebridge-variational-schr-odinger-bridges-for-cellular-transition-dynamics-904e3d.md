@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11286"
 local_vault_path: "ai\research\freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # FreeBridge: Variational Schr\"odinger Bridges for Cellular Transition Dynamics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: High-content imaging assays quantify cellular responses to chemical an
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11286
+Original source URL: https://arxiv.org/abs/2606.11286
 
 ## Local Vault File
 
-Path: ai\research\freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md
+Path: [freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md](file:///../../ai\research\freebridge-variational-schr-odinger-bridges-for-cellular-transition-dynamics-904e3d.md)

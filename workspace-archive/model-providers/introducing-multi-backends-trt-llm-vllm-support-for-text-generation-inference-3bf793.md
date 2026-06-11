@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tgi-multi-backend"
 local_vault_path: "ai\models\introducing-multi-backends-trt-llm-vllm-support-for-text-generation-inference-3bf793.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Introducing multi-backends (TRT-LLM, vL
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/tgi-multi-backend
+Original source URL: https://huggingface.co/blog/tgi-multi-backend
 
 ## Local Vault File
 
-Path: ai\models\introducing-multi-backends-trt-llm-vllm-support-for-text-generation-inference-3bf793.md
+Path: [introducing-multi-backends-trt-llm-vllm-support-for-text-generation-inference-3bf793.md](file:///../../ai\models\introducing-multi-backends-trt-llm-vllm-support-for-text-generation-inference-3bf793.md)

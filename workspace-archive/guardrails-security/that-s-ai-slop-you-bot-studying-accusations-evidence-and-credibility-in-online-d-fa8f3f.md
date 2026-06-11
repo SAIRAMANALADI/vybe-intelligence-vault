@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12073"
 local_vault_path: "ai\research\that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # "That's AI Slop, You Bot!" Studying Accusations, Evidence, and Credibility in Online Discourse Towards LLM-Generated Comments
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Generative AI has made fluent prose cheap to produce, breaking the old
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12073
+Original source URL: https://arxiv.org/abs/2606.12073
 
 ## Local Vault File
 
-Path: ai\research\that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md
+Path: [that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md](file:///../../ai\research\that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md)

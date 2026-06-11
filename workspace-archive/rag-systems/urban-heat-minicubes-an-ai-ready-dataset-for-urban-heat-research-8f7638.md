@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11534"
 local_vault_path: "ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Urban Heat MiniCubes: An AI-Ready dataset for urban heat research
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Urban heat is amplified by impermeable surfaces and heterogeneous buil
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11534
+Original source URL: https://arxiv.org/abs/2606.11534
 
 ## Local Vault File
 
-Path: ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md
+Path: [urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md](file:///../../ai\research\urban-heat-minicubes-an-ai-ready-dataset-for-urban-heat-research-8f7638.md)

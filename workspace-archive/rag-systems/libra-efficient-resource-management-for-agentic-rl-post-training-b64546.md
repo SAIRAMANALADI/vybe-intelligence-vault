@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.03077"
 local_vault_path: "ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Libra: Efficient Resource Management for Agentic RL Post-Training
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, threejs
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: Reinforcement learning (RL) has emerged as a standard post-training pa
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.03077
+Original source URL: https://arxiv.org/abs/2606.03077
 
 ## Local Vault File
 
-Path: ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md
+Path: [libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md](file:///../../ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)

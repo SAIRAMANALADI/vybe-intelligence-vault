@@ -1,0 +1,92 @@
+# Essential Automation
+
+Workflow automation, n8n integrations, browser automation via Playwright, public developer APIs, and script task scheduling.
+
+## Why This Matters
+
+This guide consolidates the highest-priority tools, frameworks, and reference files to accelerate development workflows.
+
+## Curated Top Resources
+
+### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit-3cedf1.md`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai\rag\langgenius-dify-24dc2b.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md`](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md`](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
+- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
+- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `USEFUL`
+- **Score**: `77` | **Path**: [`duanyytop-agents-radar-6ba533.md`](file:///../../ai\agents\duanyytop-agents-radar-6ba533.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
+### [FuzzingLabs/secpipe](https://github.com/FuzzingLabs/secpipe)
+- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `USEFUL`
+- **Score**: `77` | **Path**: [`fuzzinglabs-secpipe-bdc8e7.md`](file:///../../ai\agents\fuzzinglabs-secpipe-bdc8e7.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+
+## Recommended Learning Path
+
+1. **Write python script schedules using Task Scheduler or cron**
+2. **Automate browser flows, form submissions, and screenshot captures with Playwright**
+3. **Integrate API queries from public API lists into automation pipelines**
+4. **Orchestrate webhook-triggered AI summaries using local n8n servers**
+
+## Project Ideas to Build
+
+- Build an automated news harvester compiling weekly summaries into markdown
+- Design an n8n pipeline sorting email attachments and storing metadata in a log
+
+## Related Archive Folders
+
+[`automation-workflows`](../automation-workflows/), [`public-apis`](../public-apis/), [`ai-tools-products`](../ai-tools-products/)
+
+---
+
+*Curated by Harvester Engine*
+
+*Last updated: 2026-06-11 13:55 UTC*

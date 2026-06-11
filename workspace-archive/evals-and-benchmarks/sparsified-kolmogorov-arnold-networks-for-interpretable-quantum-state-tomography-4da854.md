@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11814"
 local_vault_path: "ai\research\sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Sparsified Kolmogorov-Arnold Networks for Interpretable Quantum State Tomography
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Machine-learning approaches to quantum state tomography can achieve hi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11814
+Original source URL: https://arxiv.org/abs/2606.11814
 
 ## Local Vault File
 
-Path: ai\research\sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md
+Path: [sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md](file:///../../ai\research\sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md)

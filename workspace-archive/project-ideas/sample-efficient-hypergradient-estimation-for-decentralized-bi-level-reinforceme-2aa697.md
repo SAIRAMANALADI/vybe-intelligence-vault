@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.14867"
 local_vault_path: "ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Many strategic decision-making problems, such as environment design fo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.14867
+Original source URL: https://arxiv.org/abs/2603.14867
 
 ## Local Vault File
 
-Path: ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md
+Path: [sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md](file:///../../ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md)

@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11556"
 local_vault_path: "ai\rag\privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Continuous electrocardiography (ECG) monitoring could surface rhythm a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11556
+Original source URL: https://arxiv.org/abs/2606.11556
 
 ## Local Vault File
 
-Path: ai\rag\privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md
+Path: [privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md](file:///../../ai\rag\privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md)

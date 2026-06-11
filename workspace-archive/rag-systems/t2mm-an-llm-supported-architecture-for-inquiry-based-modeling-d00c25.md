@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11210"
 local_vault_path: "ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # T2MM: An LLM Supported Architecture For Inquiry-Based Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Model Construction is a foundational practice in science learning that
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11210
+Original source URL: https://arxiv.org/abs/2606.11210
 
 ## Local Vault File
 
-Path: ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md
+Path: [t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md](file:///../../ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md)

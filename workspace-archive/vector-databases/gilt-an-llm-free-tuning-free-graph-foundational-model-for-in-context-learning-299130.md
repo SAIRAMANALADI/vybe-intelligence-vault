@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.04567"
 local_vault_path: "ai\rag\gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Graph Neural Networks (GNNs) are powerful tools for processing relatio
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.04567
+Original source URL: https://arxiv.org/abs/2510.04567
 
 ## Local Vault File
 
-Path: ai\rag\gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md
+Path: [gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md](file:///../../ai\rag\gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md)

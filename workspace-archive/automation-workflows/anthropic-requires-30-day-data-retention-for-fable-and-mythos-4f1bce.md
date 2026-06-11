@@ -4,18 +4,29 @@ archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
 local_vault_path: "ai\community\anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - anthropic
   - hackernews
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Anthropic requires 30 day data retention for Fable and Mythos
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/community`
-- Tags: anthropic, hackernews
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Original Link: https://support.claude.com/en/articles/15425996-data-retention-pr
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
+Original source URL: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
 
 ## Local Vault File
 
-Path: ai\community\anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md
+Path: [anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md](file:///../../ai\community\anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)

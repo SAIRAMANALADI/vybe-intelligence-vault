@@ -4,18 +4,27 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.10907"
 local_vault_path: "ai\agents\engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Engineering Robustness into Personal Agents with the AI Workflow Store
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: The dominant paradigm for AI agents is an "on-the-fly" loop in which a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.10907
+Original source URL: https://arxiv.org/abs/2605.10907
 
 ## Local Vault File
 
-Path: ai\agents\engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md
+Path: [engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md](file:///../../ai\agents\engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md)

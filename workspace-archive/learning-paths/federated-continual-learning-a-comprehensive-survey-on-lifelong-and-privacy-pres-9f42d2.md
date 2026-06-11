@@ -4,14 +4,26 @@ archive_category: "learning-paths"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11272"
 local_vault_path: "ai\research\federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Learning Paths
+- Matched archive category: `Learning Paths`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -21,14 +33,14 @@ Abstract: Federated Learning (FL) enables collaborative and privacy-preserving m
 
 ## Use Cases
 
-- Skill development
-- Learning roadmaps
-- Tutorial collections
+- AI developer roadmap
+- Webdev learning tracks
+- RAG systems path
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11272
+Original source URL: https://arxiv.org/abs/2606.11272
 
 ## Local Vault File
 
-Path: ai\research\federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md
+Path: [federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md](file:///../../ai\research\federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md)

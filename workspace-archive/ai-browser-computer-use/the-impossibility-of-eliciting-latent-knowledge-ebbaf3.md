@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12268"
 local_vault_path: "ai\agents\the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The Impossibility of Eliciting Latent Knowledge
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Advanced AI systems have extensive knowledge of their environments; in
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12268
+Original source URL: https://arxiv.org/abs/2606.12268
 
 ## Local Vault File
 
-Path: ai\agents\the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md
+Path: [the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md](file:///../../ai\agents\the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface-hub-v1"
 local_vault_path: "ai\models\huggingface-hub-v1-0-five-years-of-building-the-foundation-of-open-machine-learn-10e206.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: huggingface_hub v1.0: Five Years of Bui
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/huggingface-hub-v1
+Original source URL: https://huggingface.co/blog/huggingface-hub-v1
 
 ## Local Vault File
 
-Path: ai\models\huggingface-hub-v1-0-five-years-of-building-the-foundation-of-open-machine-learn-10e206.md
+Path: [huggingface-hub-v1-0-five-years-of-building-the-foundation-of-open-machine-learn-10e206.md](file:///../../ai\models\huggingface-hub-v1-0-five-years-of-building-the-foundation-of-open-machine-learn-10e206.md)

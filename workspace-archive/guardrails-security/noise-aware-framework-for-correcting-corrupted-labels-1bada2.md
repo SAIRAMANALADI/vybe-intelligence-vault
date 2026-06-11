@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11695"
 local_vault_path: "ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Noise-Aware Framework for Correcting Corrupted Labels
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: High-quality labeled data is essential for training reliable ML/DL mod
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11695
+Original source URL: https://arxiv.org/abs/2606.11695
 
 ## Local Vault File
 
-Path: ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md
+Path: [noise-aware-framework-for-correcting-corrupted-labels-1bada2.md](file:///../../ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md)

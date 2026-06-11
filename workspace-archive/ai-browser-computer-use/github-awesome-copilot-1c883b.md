@@ -4,19 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/github/awesome-copilot"
 local_vault_path: "ai\agents\github-awesome-copilot-1c883b.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - python
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # github/awesome-copilot
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, python
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +33,14 @@ Community-contributed instructions, agents, skills, and configurations to help y
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://github.com/github/awesome-copilot
+Original source URL: https://github.com/github/awesome-copilot
 
 ## Local Vault File
 
-Path: ai\agents\github-awesome-copilot-1c883b.md
+Path: [github-awesome-copilot-1c883b.md](file:///../../ai\agents\github-awesome-copilot-1c883b.md)

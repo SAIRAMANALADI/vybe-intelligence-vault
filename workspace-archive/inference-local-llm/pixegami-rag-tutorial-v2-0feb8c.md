@@ -4,19 +4,30 @@ archive_category: "inference-local-llm"
 source_category: "ai/rag"
 source_url: "https://github.com/pixegami/rag-tutorial-v2"
 local_vault_path: "ai\rag\pixegami-rag-tutorial-v2-0feb8c.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # pixegami/rag-tutorial-v2
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +35,14 @@ An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://github.com/pixegami/rag-tutorial-v2
+Original source URL: https://github.com/pixegami/rag-tutorial-v2
 
 ## Local Vault File
 
-Path: ai\rag\pixegami-rag-tutorial-v2-0feb8c.md
+Path: [pixegami-rag-tutorial-v2-0feb8c.md](file:///../../ai\rag\pixegami-rag-tutorial-v2-0feb8c.md)

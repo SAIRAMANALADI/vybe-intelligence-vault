@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12251"
 local_vault_path: "ai\research\reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Reinforcement Learning Disrupts Gradient-Based Adversarial Optimization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Gradient-based adversarial attacks remain a dominant threat to deep ne
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12251
+Original source URL: https://arxiv.org/abs/2606.12251
 
 ## Local Vault File
 
-Path: ai\research\reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md
+Path: [reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md](file:///../../ai\research\reinforcement-learning-disrupts-gradient-based-adversarial-optimization-74a9b0.md)

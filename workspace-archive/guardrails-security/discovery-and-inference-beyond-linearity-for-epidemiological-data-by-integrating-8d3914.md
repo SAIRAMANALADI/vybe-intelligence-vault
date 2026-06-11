@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.00571"
 local_vault_path: "ai\research\discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Discovery and inference beyond linearity for epidemiological data by integrating Bayesian regression, tree ensembles and Shapley values
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Machine Learning (ML) is gaining popularity in epidemiology and health
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2505.00571
+Original source URL: https://arxiv.org/abs/2505.00571
 
 ## Local Vault File
 
-Path: ai\research\discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md
+Path: [discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md](file:///../../ai\research\discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md)

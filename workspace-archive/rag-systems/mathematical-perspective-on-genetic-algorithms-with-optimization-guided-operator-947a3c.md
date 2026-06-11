@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12279"
 local_vault_path: "ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Mathematical perspective on genetic algorithms with optimization guided operators
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Recent work in ML applies genetic algorithms at inference time to iter
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12279
+Original source URL: https://arxiv.org/abs/2606.12279
 
 ## Local Vault File
 
-Path: ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md
+Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)

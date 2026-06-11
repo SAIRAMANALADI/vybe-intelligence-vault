@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11266"
 local_vault_path: "ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Seeing Before Colliding: Anticipatory Safe RL with Frozen Vision-Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: The cost signal that constrained-RL algorithms optimize against is alm
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11266
+Original source URL: https://arxiv.org/abs/2606.11266
 
 ## Local Vault File
 
-Path: ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md
+Path: [seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md](file:///../../ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md)

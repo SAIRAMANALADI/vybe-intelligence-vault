@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10725"
 local_vault_path: "ai\research\pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Pre-AF 13: An Interpretable Atrial Fibrillation Risk Score Mined from Discharge Reports
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Background. Atrial fibrillation (AF) is the most prevalent cardiac arr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10725
+Original source URL: https://arxiv.org/abs/2606.10725
 
 ## Local Vault File
 
-Path: ai\research\pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md
+Path: [pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md](file:///../../ai\research\pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md)

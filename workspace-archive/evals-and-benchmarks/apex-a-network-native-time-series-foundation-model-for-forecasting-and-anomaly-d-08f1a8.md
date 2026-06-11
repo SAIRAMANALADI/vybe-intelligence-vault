@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11553"
 local_vault_path: "ai\research\apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Generic time-series foundation models transfer poorly to wireless netw
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11553
+Original source URL: https://arxiv.org/abs/2606.11553
 
 ## Local Vault File
 
-Path: ai\research\apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md
+Path: [apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md](file:///../../ai\research\apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md)

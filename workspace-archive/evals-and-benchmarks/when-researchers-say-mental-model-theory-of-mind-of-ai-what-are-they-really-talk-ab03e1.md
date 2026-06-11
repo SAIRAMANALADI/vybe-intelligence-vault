@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.02660"
 local_vault_path: "ai\research\when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # When Researchers Say Mental Model/Theory of Mind of AI, What Are They Really Talking About?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: When researchers claim AI systems possess ToM or mental models, they a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.02660
+Original source URL: https://arxiv.org/abs/2510.02660
 
 ## Local Vault File
 
-Path: ai\research\when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md
+Path: [when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md](file:///../../ai\research\when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-mcp"
 local_vault_path: "ai\models\how-to-build-an-mcp-server-with-gradio-533ce0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # How to Build an MCP Server with Gradio
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: How to Build an MCP Server with Gradio
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/gradio-mcp
+Original source URL: https://huggingface.co/blog/gradio-mcp
 
 ## Local Vault File
 
-Path: ai\models\how-to-build-an-mcp-server-with-gradio-533ce0.md
+Path: [how-to-build-an-mcp-server-with-gradio-533ce0.md](file:///../../ai\models\how-to-build-an-mcp-server-with-gradio-533ce0.md)

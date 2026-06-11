@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/community"
 source_url: "https://github.com/HelixDB/helix-db/tree/main"
 local_vault_path: "ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - hackernews
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # Show HN: HelixDB – A graph database built on object storage
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/community`
-- Tags: hackernews, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +35,14 @@ Original Link: https://github.com/HelixDB/helix-db/tree/main
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/HelixDB/helix-db/tree/main
+Original source URL: https://github.com/HelixDB/helix-db/tree/main
 
 ## Local Vault File
 
-Path: ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md
+Path: [show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md](file:///../../ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md)

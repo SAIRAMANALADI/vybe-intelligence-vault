@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.11995"
 local_vault_path: "ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: In large-scale data processing scenarios, data often arrive in sequent
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.11995
+Original source URL: https://arxiv.org/abs/2602.11995
 
 ## Local Vault File
 
-Path: ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md
+Path: [momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md](file:///../../ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md)

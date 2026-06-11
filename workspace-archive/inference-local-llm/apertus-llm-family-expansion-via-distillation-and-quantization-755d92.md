@@ -4,17 +4,28 @@ archive_category: "inference-local-llm"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.29128"
 local_vault_path: "ai\research\apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Apertus LLM Family Expansion via Distillation and Quantization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: The wide adoption of LLMs has led to their use in great variety of app
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.29128
+Original source URL: https://arxiv.org/abs/2605.29128
 
 ## Local Vault File
 
-Path: ai\research\apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md
+Path: [apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md](file:///../../ai\research\apertus-llm-family-expansion-via-distillation-and-quantization-755d92.md)

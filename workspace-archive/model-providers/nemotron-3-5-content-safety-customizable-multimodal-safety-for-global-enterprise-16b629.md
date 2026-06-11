@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
 local_vault_path: "ai\models\nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Nemotron 3.5 Content Safety: Customizab
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 
 ## Local Vault File
 
-Path: ai\models\nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md
+Path: [nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md](file:///../../ai\models\nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md)

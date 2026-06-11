@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04221"
 local_vault_path: "ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Self-Prompting Small Language Models for Privacy-Sensitive Clinical Information Extraction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Clinical named entity recognition from dental progress notes is challe
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.04221
+Original source URL: https://arxiv.org/abs/2605.04221
 
 ## Local Vault File
 
-Path: ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md
+Path: [self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md](file:///../../ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md)

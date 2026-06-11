@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11445"
 local_vault_path: "ai\research\forecasting-future-behavior-as-a-learning-task-2446fe.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Forecasting Future Behavior as a Learning Task
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Trust in an AI system is often anchored by explanations of how it work
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11445
+Original source URL: https://arxiv.org/abs/2606.11445
 
 ## Local Vault File
 
-Path: ai\research\forecasting-future-behavior-as-a-learning-task-2446fe.md
+Path: [forecasting-future-behavior-as-a-learning-task-2446fe.md](file:///../../ai\research\forecasting-future-behavior-as-a-learning-task-2446fe.md)

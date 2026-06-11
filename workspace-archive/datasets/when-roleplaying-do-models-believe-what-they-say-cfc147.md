@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11502"
 local_vault_path: "ai\research\when-roleplaying-do-models-believe-what-they-say-cfc147.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # When Roleplaying, Do Models Believe What They Say?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Language models can state that "the Earth orbits the Sun" and, when ro
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11502
+Original source URL: https://arxiv.org/abs/2606.11502
 
 ## Local Vault File
 
-Path: ai\research\when-roleplaying-do-models-believe-what-they-say-cfc147.md
+Path: [when-roleplaying-do-models-believe-what-they-say-cfc147.md](file:///../../ai\research\when-roleplaying-do-models-believe-what-they-say-cfc147.md)

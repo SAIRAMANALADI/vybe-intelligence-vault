@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11208"
 local_vault_path: "ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Biomedical findings often seem to conflict across studies, but many of
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11208
+Original source URL: https://arxiv.org/abs/2606.11208
 
 ## Local Vault File
 
-Path: ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md
+Path: [biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md](file:///../../ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md)

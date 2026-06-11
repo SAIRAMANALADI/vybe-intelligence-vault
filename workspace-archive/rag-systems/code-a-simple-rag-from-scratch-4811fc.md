@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/ngxson/make-your-own-rag"
 local_vault_path: "ai\rag\code-a-simple-rag-from-scratch-4811fc.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - rag
   - web-crawled
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Code a simple RAG from scratch
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag, web-crawled
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.66k •
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://huggingface.co/blog/ngxson/make-your-own-rag
+Original source URL: https://huggingface.co/blog/ngxson/make-your-own-rag
 
 ## Local Vault File
 
-Path: ai\rag\code-a-simple-rag-from-scratch-4811fc.md
+Path: [code-a-simple-rag-from-scratch-4811fc.md](file:///../../ai\rag\code-a-simple-rag-from-scratch-4811fc.md)

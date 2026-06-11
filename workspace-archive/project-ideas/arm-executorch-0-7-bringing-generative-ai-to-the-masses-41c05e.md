@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Arm/executorch-0-dot-7"
 local_vault_path: "ai\models\arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Arm & ExecuTorch 0.7: Bringing Generative AI to the masses
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Arm & ExecuTorch 0.7: Bringing Generati
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/Arm/executorch-0-dot-7
+Original source URL: https://huggingface.co/blog/Arm/executorch-0-dot-7
 
 ## Local Vault File
 
-Path: ai\models\arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md
+Path: [arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md](file:///../../ai\models\arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md)

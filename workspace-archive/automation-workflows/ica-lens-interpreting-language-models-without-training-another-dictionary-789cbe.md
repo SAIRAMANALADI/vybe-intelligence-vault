@@ -4,18 +4,29 @@ archive_category: "automation-workflows"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11722"
 local_vault_path: "ai\research\ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # ICA Lens: Interpreting Language Models Without Training Another Dictionary
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Finding interpretable directions in language-model representations is 
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11722
+Original source URL: https://arxiv.org/abs/2606.11722
 
 ## Local Vault File
 
-Path: ai\research\ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md
+Path: [ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md](file:///../../ai\research\ica-lens-interpreting-language-models-without-training-another-dictionary-789cbe.md)

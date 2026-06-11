@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/DEEP-PolyU/LinearRAG"
 local_vault_path: "ai\rag\deep-polyu-linearrag-d454a8.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # DEEP-PolyU/LinearRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +33,14 @@ tags:
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/DEEP-PolyU/LinearRAG
+Original source URL: https://github.com/DEEP-PolyU/LinearRAG
 
 ## Local Vault File
 
-Path: ai\rag\deep-polyu-linearrag-d454a8.md
+Path: [deep-polyu-linearrag-d454a8.md](file:///../../ai\rag\deep-polyu-linearrag-d454a8.md)

@@ -4,18 +4,29 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11264"
 local_vault_path: "ai\rag\omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # OmniBioTwin: A System-of-Twinned-Systems Framework for Health Digital Twins
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Health digital twins (HDTs) promise patient-specific modeling and deci
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11264
+Original source URL: https://arxiv.org/abs/2606.11264
 
 ## Local Vault File
 
-Path: ai\rag\omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md
+Path: [omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md](file:///../../ai\rag\omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md)

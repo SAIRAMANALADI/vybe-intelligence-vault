@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
 local_vault_path: "ai\models\bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Bringing Robotics AI to Embedded Platfo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
+Original source URL: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms
 
 ## Local Vault File
 
-Path: ai\models\bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md
+Path: [bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md](file:///../../ai\models\bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md)

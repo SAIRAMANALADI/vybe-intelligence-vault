@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11209"
 local_vault_path: "ai\rag\processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # ProcessThinker: Enhancing Multi-modal Large Language Models Reasoning via Rollout-based Process Reward
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Visual question answering increasingly requires multi-step reasoning. 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11209
+Original source URL: https://arxiv.org/abs/2606.11209
 
 ## Local Vault File
 
-Path: ai\rag\processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md
+Path: [processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md](file:///../../ai\rag\processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md)

@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.23278"
 local_vault_path: "ai\research\focus-dllms-know-how-to-tame-their-compute-bound-188377.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # FOCUS: DLLMs Know How to Tame Their Compute Bound
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Diffusion Large Language Models (DLLMs) offer a compelling alternative
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.23278
+Original source URL: https://arxiv.org/abs/2601.23278
 
 ## Local Vault File
 
-Path: ai\research\focus-dllms-know-how-to-tame-their-compute-bound-188377.md
+Path: [focus-dllms-know-how-to-tame-their-compute-bound-188377.md](file:///../../ai\research\focus-dllms-know-how-to-tame-their-compute-bound-188377.md)

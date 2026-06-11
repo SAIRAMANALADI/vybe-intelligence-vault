@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08956"
 local_vault_path: "ai\research\from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Scientists have historically relied on mathematical models based on di
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.08956
+Original source URL: https://arxiv.org/abs/2606.08956
 
 ## Local Vault File
 
-Path: ai\research\from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md
+Path: [from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md](file:///../../ai\research\from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md)

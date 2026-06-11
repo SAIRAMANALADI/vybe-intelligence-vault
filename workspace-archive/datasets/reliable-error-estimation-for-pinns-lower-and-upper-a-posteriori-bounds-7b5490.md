@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12050"
 local_vault_path: "ai\research\reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Physics-informed neural networks (PINNs) combine machine learning with
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12050
+Original source URL: https://arxiv.org/abs/2606.12050
 
 ## Local Vault File
 
-Path: ai\research\reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md
+Path: [reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md](file:///../../ai\research\reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md)

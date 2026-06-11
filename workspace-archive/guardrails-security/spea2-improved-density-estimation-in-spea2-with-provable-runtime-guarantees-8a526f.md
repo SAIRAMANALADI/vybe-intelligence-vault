@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12382"
 local_vault_path: "ai\research\spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Guarantees
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: The Strength Pareto Evolutionary Algorithm 2 (SPEA2) is a popular and 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12382
+Original source URL: https://arxiv.org/abs/2606.12382
 
 ## Local Vault File
 
-Path: ai\research\spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md
+Path: [spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md](file:///../../ai\research\spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md)

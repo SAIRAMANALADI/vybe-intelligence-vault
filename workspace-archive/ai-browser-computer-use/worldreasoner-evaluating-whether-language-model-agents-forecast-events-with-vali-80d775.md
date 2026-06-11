@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11816"
 local_vault_path: "ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Useful for project building"
 ---
 
 # WorldReasoner: Evaluating Whether Language Model Agents Forecast Events with Valid Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Forecasting real-world events requires language-model agents to reason
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11816
+Original source URL: https://arxiv.org/abs/2606.11816
 
 ## Local Vault File
 
-Path: ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md
+Path: [worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md](file:///../../ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md)

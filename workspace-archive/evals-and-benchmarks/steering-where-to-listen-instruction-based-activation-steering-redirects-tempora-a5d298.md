@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11400"
 local_vault_path: "ai\research\steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Steering Where to Listen: Instruction-Based Activation Steering Redirects Temporal Attention in Large Audio-Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Large Audio-Language Models (LALMs) excel at audio understanding but e
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11400
+Original source URL: https://arxiv.org/abs/2606.11400
 
 ## Local Vault File
 
-Path: ai\research\steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md
+Path: [steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md](file:///../../ai\research\steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md)

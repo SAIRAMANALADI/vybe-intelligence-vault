@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://www.evidentlyai.com/blog/ai-agent-benchmarks"
 local_vault_path: "ai\rag\10-ai-agent-benchmarks-56ac4f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,21 @@ tags:
   - rag
   - web-crawled
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # 10 AI agent benchmarks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, leaderboard, models, openai, paper, rag
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ tags:
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://www.evidentlyai.com/blog/ai-agent-benchmarks
+Original source URL: https://www.evidentlyai.com/blog/ai-agent-benchmarks
 
 ## Local Vault File
 
-Path: ai\rag\10-ai-agent-benchmarks-56ac4f.md
+Path: [10-ai-agent-benchmarks-56ac4f.md](file:///../../ai\rag\10-ai-agent-benchmarks-56ac4f.md)

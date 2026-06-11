@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api"
 local_vault_path: "ai\models\few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Few-shot learning in practice: GPT-Neo 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
+Original source URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
 
 ## Local Vault File
 
-Path: ai\models\few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md
+Path: [few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md](file:///../../ai\models\few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md)

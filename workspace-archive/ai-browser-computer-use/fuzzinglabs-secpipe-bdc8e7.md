@@ -4,21 +4,30 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/FuzzingLabs/secpipe"
 local_vault_path: "ai\agents\fuzzinglabs-secpipe-bdc8e7.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - python
   - scripts
   - workflows
+selection_reason:
+  - "Useful for project building"
 ---
 
 # FuzzingLabs/secpipe
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, python, scripts, workflows
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -26,15 +35,14 @@ MCP server for AI-driven security pipelines
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://github.com/FuzzingLabs/secpipe
+Original source URL: https://github.com/FuzzingLabs/secpipe
 
 ## Local Vault File
 
-Path: ai\agents\fuzzinglabs-secpipe-bdc8e7.md
+Path: [fuzzinglabs-secpipe-bdc8e7.md](file:///../../ai\agents\fuzzinglabs-secpipe-bdc8e7.md)

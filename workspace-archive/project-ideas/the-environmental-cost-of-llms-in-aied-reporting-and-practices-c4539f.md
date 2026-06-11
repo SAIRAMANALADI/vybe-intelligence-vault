@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11215"
 local_vault_path: "ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # The Environmental Cost of LLMs in AIED: Reporting and Practices
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Large Language Model (LLM) usage in recent years has become increasing
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11215
+Original source URL: https://arxiv.org/abs/2606.11215
 
 ## Local Vault File
 
-Path: ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md
+Path: [the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md](file:///../../ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md)

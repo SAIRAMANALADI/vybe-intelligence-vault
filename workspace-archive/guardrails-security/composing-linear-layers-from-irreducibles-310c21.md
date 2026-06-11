@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.11688"
 local_vault_path: "ai\research\composing-linear-layers-from-irreducibles-310c21.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Composing Linear Layers from Irreducibles
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Contemporary large models often exhibit behaviors suggesting the prese
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.11688
+Original source URL: https://arxiv.org/abs/2507.11688
 
 ## Local Vault File
 
-Path: ai\research\composing-linear-layers-from-irreducibles-310c21.md
+Path: [composing-linear-layers-from-irreducibles-310c21.md](file:///../../ai\research\composing-linear-layers-from-irreducibles-310c21.md)

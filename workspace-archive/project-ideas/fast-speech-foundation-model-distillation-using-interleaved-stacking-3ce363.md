@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11766"
 local_vault_path: "ai\research\fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Fast Speech Foundation Model Distillation Using Interleaved Stacking
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Distilling a large speech foundation model (SFM) into an efficient stu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11766
+Original source URL: https://arxiv.org/abs/2606.11766
 
 ## Local Vault File
 
-Path: ai\research\fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md
+Path: [fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md](file:///../../ai\research\fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md)

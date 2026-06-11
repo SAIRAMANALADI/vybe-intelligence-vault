@@ -2,6 +2,7 @@
   "total_files": 6355,
   "categories": {
     "agent-frameworks": 177,
+    "agent-instructions": 0,
     "ai-browser-computer-use": 184,
     "ai-coding-agents": 177,
     "ai-tools-products": 10,
@@ -19,10 +20,11 @@
     "observability": 26,
     "project-ideas": 1119,
     "prompt-libraries": 4,
+    "public-apis": 0,
     "rag-systems": 603,
     "startup-builder": 12,
     "vector-databases": 253,
     "webdev-3d-creative": 82
   },
-  "last_updated": "2026-06-11T13:44:30.139101+00:00"
+  "last_updated": "2026-06-11T13:55:47.738082+00:00"
 }

@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11968"
 local_vault_path: "ai\research\efficient-multinomial-logistic-bandit-via-frequent-directions-3907a9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Efficient Multinomial Logistic Bandit via Frequent Directions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: This paper studies efficient online algorithms for multinomial logisti
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11968
+Original source URL: https://arxiv.org/abs/2606.11968
 
 ## Local Vault File
 
-Path: ai\research\efficient-multinomial-logistic-bandit-via-frequent-directions-3907a9.md
+Path: [efficient-multinomial-logistic-bandit-via-frequent-directions-3907a9.md](file:///../../ai\research\efficient-multinomial-logistic-bandit-via-frequent-directions-3907a9.md)

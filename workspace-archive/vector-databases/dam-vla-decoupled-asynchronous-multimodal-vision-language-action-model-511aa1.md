@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12105"
 local_vault_path: "ai\rag\dam-vla-decoupled-asynchronous-multimodal-vision-language-action-model-511aa1.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Vision-language-action (VLA) models inherit a shared synchronous clock
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12105
+Original source URL: https://arxiv.org/abs/2606.12105
 
 ## Local Vault File
 
-Path: ai\rag\dam-vla-decoupled-asynchronous-multimodal-vision-language-action-model-511aa1.md
+Path: [dam-vla-decoupled-asynchronous-multimodal-vision-language-action-model-511aa1.md](file:///../../ai\rag\dam-vla-decoupled-asynchronous-multimodal-vision-language-action-model-511aa1.md)

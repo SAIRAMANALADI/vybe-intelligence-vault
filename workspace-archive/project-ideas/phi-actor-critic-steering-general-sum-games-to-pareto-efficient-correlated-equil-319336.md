@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11284"
 local_vault_path: "ai\rag\phi-actor-critic-steering-general-sum-games-to-pareto-efficient-correlated-equil-319336.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Phi-Actor-Critic: Steering General-Sum Games to Pareto-Efficient Correlated Equilibria
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Real-world multi-agent systems, from traffic coordination to resource 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11284
+Original source URL: https://arxiv.org/abs/2606.11284
 
 ## Local Vault File
 
-Path: ai\rag\phi-actor-critic-steering-general-sum-games-to-pareto-efficient-correlated-equil-319336.md
+Path: [phi-actor-critic-steering-general-sum-games-to-pareto-efficient-correlated-equil-319336.md](file:///../../ai\rag\phi-actor-critic-steering-general-sum-games-to-pareto-efficient-correlated-equil-319336.md)

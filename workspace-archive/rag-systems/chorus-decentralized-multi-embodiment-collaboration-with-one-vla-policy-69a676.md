@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12352"
 local_vault_path: "ai\research\chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # CHORUS: Decentralized Multi-Embodiment Collaboration with One VLA Policy
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Multi-robot collaboration allows robots to efficiently take on a wide 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12352
+Original source URL: https://arxiv.org/abs/2606.12352
 
 ## Local Vault File
 
-Path: ai\research\chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md
+Path: [chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md](file:///../../ai\research\chorus-decentralized-multi-embodiment-collaboration-with-one-vla-policy-69a676.md)

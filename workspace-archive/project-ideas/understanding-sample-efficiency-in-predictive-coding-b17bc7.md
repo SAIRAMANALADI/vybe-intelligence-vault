@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.11911"
 local_vault_path: "ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Understanding Sample Efficiency in Predictive Coding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Predictive Coding (PC) is an influential account of cortical learning.
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.11911
+Original source URL: https://arxiv.org/abs/2605.11911
 
 ## Local Vault File
 
-Path: ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md
+Path: [understanding-sample-efficiency-in-predictive-coding-b17bc7.md](file:///../../ai\research\understanding-sample-efficiency-in-predictive-coding-b17bc7.md)

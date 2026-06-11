@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12243"
 local_vault_path: "ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Speculative decoding (SD) addresses the high inference costs of LLMs b
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12243
+Original source URL: https://arxiv.org/abs/2606.12243
 
 ## Local Vault File
 
-Path: ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md
+Path: [via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md](file:///../../ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md)

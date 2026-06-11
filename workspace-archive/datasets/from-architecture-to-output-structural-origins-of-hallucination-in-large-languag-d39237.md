@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07537"
 local_vault_path: "ai\research\from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # From Architecture to Output: Structural Origins of Hallucination in Large Language Models and the Amplifying Role of Data
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Large language models hallucinate--producing fluent, confident, factua
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07537
+Original source URL: https://arxiv.org/abs/2606.07537
 
 ## Local Vault File
 
-Path: ai\research\from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md
+Path: [from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md](file:///../../ai\research\from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md)

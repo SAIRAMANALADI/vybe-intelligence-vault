@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12120"
 local_vault_path: "ai\research\a-riemannian-approach-to-low-rank-optimal-transport-2b5ec4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # A Riemannian Approach to Low-Rank Optimal Transport
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Low-rank optimal transport (OT) mitigates the quadratic scaling of cla
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12120
+Original source URL: https://arxiv.org/abs/2606.12120
 
 ## Local Vault File
 
-Path: ai\research\a-riemannian-approach-to-low-rank-optimal-transport-2b5ec4.md
+Path: [a-riemannian-approach-to-low-rank-optimal-transport-2b5ec4.md](file:///../../ai\research\a-riemannian-approach-to-low-rank-optimal-transport-2b5ec4.md)

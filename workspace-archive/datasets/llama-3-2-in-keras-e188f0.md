@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/keras-llama-32"
 local_vault_path: "ai\models\llama-3-2-in-keras-e188f0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # “Llama 3.2 in Keras”
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: “Llama 3.2 in Keras”
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/keras-llama-32
+Original source URL: https://huggingface.co/blog/keras-llama-32
 
 ## Local Vault File
 
-Path: ai\models\llama-3-2-in-keras-e188f0.md
+Path: [llama-3-2-in-keras-e188f0.md](file:///../../ai\models\llama-3-2-in-keras-e188f0.md)

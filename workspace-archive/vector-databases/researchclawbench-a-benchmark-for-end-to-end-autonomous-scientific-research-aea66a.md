@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07591"
 local_vault_path: "ai\rag\researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: AI coding agents are increasingly used for scientific work, but their 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07591
+Original source URL: https://arxiv.org/abs/2606.07591
 
 ## Local Vault File
 
-Path: ai\rag\researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md
+Path: [researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md](file:///../../ai\rag\researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md)

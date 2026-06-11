@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11260"
 local_vault_path: "ai\research\rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Humans process rich auditory environments through tightly integrated c
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11260
+Original source URL: https://arxiv.org/abs/2606.11260
 
 ## Local Vault File
 
-Path: ai\research\rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md
+Path: [rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md](file:///../../ai\research\rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md)

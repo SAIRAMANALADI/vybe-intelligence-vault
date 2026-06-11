@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11208"
 local_vault_path: "ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # BioDivergence: A Benchmark and Evaluation Framework for Hidden Contextual Contradictions in Biomedical Abstracts
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Biomedical findings often seem to conflict across studies, but many of
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11208
+Original source URL: https://arxiv.org/abs/2606.11208
 
 ## Local Vault File
 
-Path: ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md
+Path: [biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md](file:///../../ai\research\biodivergence-a-benchmark-and-evaluation-framework-for-hidden-contextual-contrad-85e1f6.md)

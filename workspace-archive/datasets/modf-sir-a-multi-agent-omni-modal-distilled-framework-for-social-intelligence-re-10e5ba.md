@@ -4,18 +4,29 @@ archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12018"
 local_vault_path: "ai\agents\modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: We propose a multi-agent collaborative framework built upon a lightwei
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12018
+Original source URL: https://arxiv.org/abs/2606.12018
 
 ## Local Vault File
 
-Path: ai\agents\modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md
+Path: [modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md](file:///../../ai\agents\modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md)

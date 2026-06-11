@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
 local_vault_path: "ai\agents\beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic-287852.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +33,14 @@ No summary provided. Reference resource: Beyond LLMs: Why Scalable Enterprise AI
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption
+Original source URL: https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption
 
 ## Local Vault File
 
-Path: ai\agents\beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic-287852.md
+Path: [beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic-287852.md](file:///../../ai\agents\beyond-llms-why-scalable-enterprise-ai-adoption-depends-on-agent-logic-287852.md)

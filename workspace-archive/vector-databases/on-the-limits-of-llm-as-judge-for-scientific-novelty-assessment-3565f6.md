@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12071"
 local_vault_path: "ai\rag\on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # On the Limits of LLM-as-Judge for Scientific Novelty Assessment
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: LLMs are increasingly used to generate and judge scientific ideas. Thi
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12071
+Original source URL: https://arxiv.org/abs/2606.12071
 
 ## Local Vault File
 
-Path: ai\rag\on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md
+Path: [on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md](file:///../../ai\rag\on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md)

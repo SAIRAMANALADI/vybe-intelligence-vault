@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10820"
 local_vault_path: "ai\research\k-forcing-joint-next-k-token-decoding-via-push-forward-language-modeling-a76e38.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Autoregressive (AR) language modeling is the dominant paradigm for tex
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10820
+Original source URL: https://arxiv.org/abs/2606.10820
 
 ## Local Vault File
 
-Path: ai\research\k-forcing-joint-next-k-token-decoding-via-push-forward-language-modeling-a76e38.md
+Path: [k-forcing-joint-next-k-token-decoding-via-push-forward-language-modeling-a76e38.md](file:///../../ai\research\k-forcing-joint-next-k-token-decoding-via-push-forward-language-modeling-a76e38.md)

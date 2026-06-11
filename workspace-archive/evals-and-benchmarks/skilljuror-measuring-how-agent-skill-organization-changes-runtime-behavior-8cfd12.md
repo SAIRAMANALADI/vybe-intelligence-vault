@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11543"
 local_vault_path: "ai\agents\skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behavior
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Agent Skills augment large language model (LLM) agents with procedural
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11543
+Original source URL: https://arxiv.org/abs/2606.11543
 
 ## Local Vault File
 
-Path: ai\agents\skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md
+Path: [skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md](file:///../../ai\agents\skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md)

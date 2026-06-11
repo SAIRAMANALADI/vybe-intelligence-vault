@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.00181"
 local_vault_path: "ai\rag\causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Causal Emotion Recognition in Conversation: Context Saturation and Discourse-Marker Evidence
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: We address two persistent gaps in Emotion Recognition in Conversation:
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.00181
+Original source URL: https://arxiv.org/abs/2601.00181
 
 ## Local Vault File
 
-Path: ai\rag\causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md
+Path: [causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md](file:///../../ai\rag\causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md)

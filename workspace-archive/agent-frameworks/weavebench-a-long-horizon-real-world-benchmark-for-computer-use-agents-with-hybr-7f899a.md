@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.09426"
 local_vault_path: "ai\agents\weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Computer-use agents (CUAs) increasingly operate in runtimes that combi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.09426
+Original source URL: https://arxiv.org/abs/2606.09426
 
 ## Local Vault File
 
-Path: ai\agents\weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md
+Path: [weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md](file:///../../ai\agents\weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md)

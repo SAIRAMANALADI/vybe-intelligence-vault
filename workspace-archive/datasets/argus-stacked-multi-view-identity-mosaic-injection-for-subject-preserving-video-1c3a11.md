@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11670"
 local_vault_path: "ai\research\argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Subject-preserving video generation is not solved by frontal-face simi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11670
+Original source URL: https://arxiv.org/abs/2606.11670
 
 ## Local Vault File
 
-Path: ai\research\argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md
+Path: [argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md](file:///../../ai\research\argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md)

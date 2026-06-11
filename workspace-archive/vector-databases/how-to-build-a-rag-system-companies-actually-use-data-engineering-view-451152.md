@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://dataengineeracademy.com/blog/production-rag-pipeline"
 local_vault_path: "ai\rag\how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - agents
   - hackernews
@@ -13,15 +18,19 @@ tags:
   - web-crawled
   - workflows
   - youtube
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # How to Build a RAG System Companies Actually Use (Data Engineering View)
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, hackernews, openai, rag, reddit, web-crawled, workflows, youtube
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -29,14 +38,14 @@ Career Development|Success Stories|Tips and Tricks How to Build a RAG System Com
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://dataengineeracademy.com/blog/production-rag-pipeline
+Original source URL: https://dataengineeracademy.com/blog/production-rag-pipeline
 
 ## Local Vault File
 
-Path: ai\rag\how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md
+Path: [how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md](file:///../../ai\rag\how-to-build-a-rag-system-companies-actually-use-data-engineering-view-451152.md)

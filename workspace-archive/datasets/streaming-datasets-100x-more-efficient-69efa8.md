@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/streaming-datasets"
 local_vault_path: "ai\models\streaming-datasets-100x-more-efficient-69efa8.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Streaming datasets: 100x More Efficient
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Streaming datasets: 100x More Efficient
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/streaming-datasets
+Original source URL: https://huggingface.co/blog/streaming-datasets
 
 ## Local Vault File
 
-Path: ai\models\streaming-datasets-100x-more-efficient-69efa8.md
+Path: [streaming-datasets-100x-more-efficient-69efa8.md](file:///../../ai\models\streaming-datasets-100x-more-efficient-69efa8.md)

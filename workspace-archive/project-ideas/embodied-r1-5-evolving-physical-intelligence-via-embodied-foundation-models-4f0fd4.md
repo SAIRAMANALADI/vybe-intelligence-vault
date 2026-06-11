@@ -4,19 +4,30 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11324"
 local_vault_path: "ai\rag\embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: We introduce Embodied-R1.5, a unified Embodied Foundation Model (EFM) 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11324
+Original source URL: https://arxiv.org/abs/2606.11324
 
 ## Local Vault File
 
-Path: ai\rag\embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md
+Path: [embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md](file:///../../ai\rag\embodied-r1-5-evolving-physical-intelligence-via-embodied-foundation-models-4f0fd4.md)

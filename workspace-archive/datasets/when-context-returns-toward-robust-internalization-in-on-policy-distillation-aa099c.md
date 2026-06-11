@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11627"
 local_vault_path: "ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # When Context Returns: Toward Robust Internalization in On-Policy Distillation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Recent work has shown that on-policy distillation can internalize priv
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11627
+Original source URL: https://arxiv.org/abs/2606.11627
 
 ## Local Vault File
 
-Path: ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md
+Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)

@@ -4,21 +4,30 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/AlexPEClub/ai-coding-starter-kit"
 local_vault_path: "ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md"
+quality_score: 70
+archive_score: 85
+archive_tier: "essential"
+resource_kind: "template"
+importance: "high"
 tags:
   - agents
   - frontend_ui
   - github-repo
   - typescript
   - workflows
+selection_reason:
+  - "Useful for project building"
 ---
 
 # AlexPEClub/ai-coding-starter-kit
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, frontend_ui, github-repo, typescript, workflows
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: template
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -26,15 +35,14 @@ Production-ready Next.js template with AI-powered development workflow using 6 s
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://github.com/AlexPEClub/ai-coding-starter-kit
+Original source URL: https://github.com/AlexPEClub/ai-coding-starter-kit
 
 ## Local Vault File
 
-Path: ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md
+Path: [alexpeclub-ai-coding-starter-kit-3cedf1.md](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md)

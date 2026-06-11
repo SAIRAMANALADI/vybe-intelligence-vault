@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/virustotal"
 local_vault_path: "ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Hugging Face and VirusTotal collaborate to strengthen AI security
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Hugging Face and VirusTotal collaborate
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/virustotal
+Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md
+Path: [hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md](file:///../../ai\models\hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md)

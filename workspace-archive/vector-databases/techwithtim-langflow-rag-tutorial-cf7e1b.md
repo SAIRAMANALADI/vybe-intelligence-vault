@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/techwithtim/Langflow-RAG-Tutorial"
 local_vault_path: "ai\rag\techwithtim-langflow-rag-tutorial-cf7e1b.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - github-repo
   - rag
   - unknown
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # techwithtim/Langflow-RAG-Tutorial
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, rag, unknown
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +33,14 @@ No description provided.
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/techwithtim/Langflow-RAG-Tutorial
+Original source URL: https://github.com/techwithtim/Langflow-RAG-Tutorial
 
 ## Local Vault File
 
-Path: ai\rag\techwithtim-langflow-rag-tutorial-cf7e1b.md
+Path: [techwithtim-langflow-rag-tutorial-cf7e1b.md](file:///../../ai\rag\techwithtim-langflow-rag-tutorial-cf7e1b.md)

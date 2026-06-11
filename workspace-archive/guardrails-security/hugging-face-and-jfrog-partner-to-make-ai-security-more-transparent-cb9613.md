@@ -4,14 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/jfrog"
 local_vault_path: "ai\models\hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Hugging Face and JFrog partner to make AI Security more transparent
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Hugging Face and JFrog partner to make 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://huggingface.co/blog/jfrog
+Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: ai\models\hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md](file:///../../ai\models\hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md)

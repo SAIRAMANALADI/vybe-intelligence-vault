@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07001"
 local_vault_path: "ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: High-quality training data is essential to large language models (LLMs
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07001
+Original source URL: https://arxiv.org/abs/2606.07001
 
 ## Local Vault File
 
-Path: ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md
+Path: [dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md)

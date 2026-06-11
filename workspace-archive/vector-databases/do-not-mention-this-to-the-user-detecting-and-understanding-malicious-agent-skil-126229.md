@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.06547"
 local_vault_path: "ai\rag\do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # "Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: LLM-based coding agents increasingly rely on third-party extensions ca
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.06547
+Original source URL: https://arxiv.org/abs/2602.06547
 
 ## Local Vault File
 
-Path: ai\rag\do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md
+Path: [do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md](file:///../../ai\rag\do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md)

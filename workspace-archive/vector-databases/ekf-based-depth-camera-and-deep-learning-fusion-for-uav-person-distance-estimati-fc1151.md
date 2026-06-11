@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.20958"
 local_vault_path: "ai\rag\ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance Estimation and Following in SAR Operations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Vision-based Unmanned Aerial Vehicles (UAVs) frameworks aid human sear
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.20958
+Original source URL: https://arxiv.org/abs/2602.20958
 
 ## Local Vault File
 
-Path: ai\rag\ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md
+Path: [ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md](file:///../../ai\rag\ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md)

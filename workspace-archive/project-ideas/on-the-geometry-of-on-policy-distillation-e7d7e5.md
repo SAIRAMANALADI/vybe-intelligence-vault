@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07082"
 local_vault_path: "ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # On the Geometry of On-Policy Distillation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: On-policy distillation (OPD) is increasingly used to improve large lan
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07082
+Original source URL: https://arxiv.org/abs/2606.07082
 
 ## Local Vault File
 
-Path: ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md
+Path: [on-the-geometry-of-on-policy-distillation-e7d7e5.md](file:///../../ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md)

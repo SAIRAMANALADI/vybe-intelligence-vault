@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11275"
 local_vault_path: "ai\rag\rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # RoVE: Rotary Value Embeddings Attention for Relative Position-dependent Value Pathways
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Rotary Position Embeddings (RoPE) make attention scores position-relat
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11275
+Original source URL: https://arxiv.org/abs/2606.11275
 
 ## Local Vault File
 
-Path: ai\rag\rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md
+Path: [rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md](file:///../../ai\rag\rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md)

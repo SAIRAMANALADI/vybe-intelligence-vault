@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide"
 local_vault_path: "ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,19 @@ tags:
   - models
   - openai
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, dataset, hackernews, meta-ai, mistral, models
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -31,14 +40,14 @@ Back to BlogAI ImplementationProduction-Ready RAG Systems: End to End GuideMay 1
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide
+Original source URL: https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide
 
 ## Local Vault File
 
-Path: ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md
+Path: [production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)

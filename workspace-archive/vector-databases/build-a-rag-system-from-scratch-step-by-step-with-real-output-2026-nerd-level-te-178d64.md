@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://nerdleveltech.com/guides/rag-hands-on-tutorial"
 local_vault_path: "ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,21 @@ tags:
   - rag
   - reddit
   - web-crawled
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, hackernews, models, openai, paper, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ tags:
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://nerdleveltech.com/guides/rag-hands-on-tutorial
+Original source URL: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 
 ## Local Vault File
 
-Path: ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md
+Path: [build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md](file:///../../ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md)

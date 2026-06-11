@@ -4,18 +4,27 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.19502"
 local_vault_path: "ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "high"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: Agentic AI systems are increasingly capable of autonomous data science
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.19502
+Original source URL: https://arxiv.org/abs/2602.19502
 
 ## Local Vault File
 
-Path: ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md
+Path: [human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md)

@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12329"
 local_vault_path: "ai\rag\projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: AI coding assistants now support a growing share of software work, fro
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12329
+Original source URL: https://arxiv.org/abs/2606.12329
 
 ## Local Vault File
 
-Path: ai\rag\projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md
+Path: [projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md](file:///../../ai\rag\projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md)

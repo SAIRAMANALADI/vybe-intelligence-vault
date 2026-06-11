@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://www.anthropic.com/research/building-effective-agents"
 local_vault_path: "ai\rag\building-effective-ai-agents-anthropic-d4f17e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -12,15 +17,21 @@ tags:
   - rag
   - web-crawled
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Building Effective AI Agents \ Anthropic
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, hackernews, rag, web-crawled, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -28,14 +39,14 @@ Over the past year, we've worked with dozens of teams building large language mo
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://www.anthropic.com/research/building-effective-agents
+Original source URL: https://www.anthropic.com/research/building-effective-agents
 
 ## Local Vault File
 
-Path: ai\rag\building-effective-ai-agents-anthropic-d4f17e.md
+Path: [building-effective-ai-agents-anthropic-d4f17e.md](file:///../../ai\rag\building-effective-ai-agents-anthropic-d4f17e.md)

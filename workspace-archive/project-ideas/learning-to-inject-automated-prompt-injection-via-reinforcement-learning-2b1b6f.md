@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.05746"
 local_vault_path: "ai\agents\learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Learning to Inject: Automated Prompt Injection via Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Prompt injection is a critical vulnerability in LLM agents, yet the st
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.05746
+Original source URL: https://arxiv.org/abs/2602.05746
 
 ## Local Vault File
 
-Path: ai\agents\learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md
+Path: [learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md](file:///../../ai\agents\learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md)

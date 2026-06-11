@@ -4,18 +4,29 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/emmelleppi/codrops-r3f-mirrors"
 local_vault_path: "web-development\react-three-fiber\emmelleppi-codrops-r3f-mirrors-91c97d.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - frontend_ui
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # emmelleppi/codrops-r3f-mirrors
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/react-three-fiber`
-- Tags: frontend_ui, threejs
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -23,15 +34,14 @@ Creating mirrors in react-three-fiber & threejs
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/emmelleppi/codrops-r3f-mirrors
+Original source URL: https://github.com/emmelleppi/codrops-r3f-mirrors
 
 ## Local Vault File
 
-Path: web-development\react-three-fiber\emmelleppi-codrops-r3f-mirrors-91c97d.md
+Path: [emmelleppi-codrops-r3f-mirrors-91c97d.md](file:///../../web-development\react-three-fiber\emmelleppi-codrops-r3f-mirrors-91c97d.md)

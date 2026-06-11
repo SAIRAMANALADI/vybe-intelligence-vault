@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11490"
 local_vault_path: "ai\rag\omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # OmniLoc: A Geometry-Aware Foundation Model for Anchor-Free UE Localization Across Diverse Indoor Environments
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Indoor localization from wireless measurements remains challenging in 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11490
+Original source URL: https://arxiv.org/abs/2606.11490
 
 ## Local Vault File
 
-Path: ai\rag\omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md
+Path: [omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md](file:///../../ai\rag\omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md)

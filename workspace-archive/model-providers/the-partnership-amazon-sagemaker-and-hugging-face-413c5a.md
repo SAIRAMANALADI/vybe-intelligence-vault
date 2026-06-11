@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face"
 local_vault_path: "ai\models\the-partnership-amazon-sagemaker-and-hugging-face-413c5a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The Partnership: Amazon SageMaker and Hugging Face
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: The Partnership: Amazon SageMaker and H
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face
+Original source URL: https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face
 
 ## Local Vault File
 
-Path: ai\models\the-partnership-amazon-sagemaker-and-hugging-face-413c5a.md
+Path: [the-partnership-amazon-sagemaker-and-hugging-face-413c5a.md](file:///../../ai\models\the-partnership-amazon-sagemaker-and-hugging-face-413c5a.md)

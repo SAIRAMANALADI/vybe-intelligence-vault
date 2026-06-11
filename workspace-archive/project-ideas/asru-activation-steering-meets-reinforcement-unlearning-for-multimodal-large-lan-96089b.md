@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.15687"
 local_vault_path: "ai\rag\asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Multimodal large language models (MLLMs) may memorize sensitive cross-
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.15687
+Original source URL: https://arxiv.org/abs/2605.15687
 
 ## Local Vault File
 
-Path: ai\rag\asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md
+Path: [asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md](file:///../../ai\rag\asru-activation-steering-meets-reinforcement-unlearning-for-multimodal-large-lan-96089b.md)

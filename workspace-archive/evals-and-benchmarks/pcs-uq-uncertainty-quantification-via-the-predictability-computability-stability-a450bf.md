@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2505.08784"
 local_vault_path: "ai\rag\pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: As machine learning (ML) enters high-stakes domains, trustworthy uncer
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2505.08784
+Original source URL: https://arxiv.org/abs/2505.08784
 
 ## Local Vault File
 
-Path: ai\rag\pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md
+Path: [pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md](file:///../../ai\rag\pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md)

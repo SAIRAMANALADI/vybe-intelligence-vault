@@ -4,19 +4,30 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11520"
 local_vault_path: "ai\rag\ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Training capable OS agents requires data that simultaneously captures 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11520
+Original source URL: https://arxiv.org/abs/2606.11520
 
 ## Local Vault File
 
-Path: ai\rag\ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md
+Path: [ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md](file:///../../ai\rag\ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md)

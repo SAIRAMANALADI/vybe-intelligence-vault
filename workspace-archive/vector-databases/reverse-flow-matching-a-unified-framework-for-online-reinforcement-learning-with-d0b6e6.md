@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.08136"
 local_vault_path: "ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Reverse Flow Matching: A Unified Framework for Online Reinforcement Learning with Diffusion and Flow Policies
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Diffusion and flow policies are gaining prominence in online reinforce
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.08136
+Original source URL: https://arxiv.org/abs/2601.08136
 
 ## Local Vault File
 
-Path: ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md
+Path: [reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md](file:///../../ai\rag\reverse-flow-matching-a-unified-framework-for-online-reinforcement-learning-with-d0b6e6.md)

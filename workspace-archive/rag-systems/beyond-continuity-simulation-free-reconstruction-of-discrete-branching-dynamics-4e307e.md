@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.00545"
 local_vault_path: "ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Inferring cellular trajectories from destructive snapshots is complica
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.00545
+Original source URL: https://arxiv.org/abs/2605.00545
 
 ## Local Vault File
 
-Path: ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md
+Path: [beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md](file:///../../ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md)

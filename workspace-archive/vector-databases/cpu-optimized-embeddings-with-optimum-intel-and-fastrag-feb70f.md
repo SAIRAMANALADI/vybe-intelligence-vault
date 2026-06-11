@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/intel-fast-embedding"
 local_vault_path: "ai\rag\cpu-optimized-embeddings-with-optimum-intel-and-fastrag-feb70f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +31,14 @@ No summary provided. Reference resource: CPU Optimized Embeddings with 🤗 Opti
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://huggingface.co/blog/intel-fast-embedding
+Original source URL: https://huggingface.co/blog/intel-fast-embedding
 
 ## Local Vault File
 
-Path: ai\rag\cpu-optimized-embeddings-with-optimum-intel-and-fastrag-feb70f.md
+Path: [cpu-optimized-embeddings-with-optimum-intel-and-fastrag-feb70f.md](file:///../../ai\rag\cpu-optimized-embeddings-with-optimum-intel-and-fastrag-feb70f.md)

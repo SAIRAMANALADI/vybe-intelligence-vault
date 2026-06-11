@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph"
 local_vault_path: "ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - dataset
@@ -15,15 +20,19 @@ tags:
   - scripts
   - web-crawled
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # RAG System with LangChain and LangGraph - GeeksforGeeks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, dataset, hackernews, models, openai, rag, reddit, scripts
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ CoursesTutorialsPracticeJobsArtificial IntelligenceInterview QuestionsProject Id
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
+Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
 
 ## Local Vault File
 
-Path: ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md
+Path: [rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md](file:///../../ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md)

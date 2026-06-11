@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07226"
 local_vault_path: "ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creativity Assessment in Debate Scenarios
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Human creativity has emerged as a critical competency in the era of la
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07226
+Original source URL: https://arxiv.org/abs/2606.07226
 
 ## Local Vault File
 
-Path: ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md
+Path: [defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md](file:///../../ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md)

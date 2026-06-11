@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11042"
 local_vault_path: "ai\agents\workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Recent years have witnessed the rapid evolution of AI agents toward ha
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11042
+Original source URL: https://arxiv.org/abs/2606.11042
 
 ## Local Vault File
 
-Path: ai\agents\workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md
+Path: [workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md](file:///../../ai\agents\workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md)

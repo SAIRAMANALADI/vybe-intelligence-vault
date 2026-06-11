@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/asr-diarization"
 local_vault_path: "ai\models\powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Powerful ASR + diarization + speculativ
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/asr-diarization
+Original source URL: https://huggingface.co/blog/asr-diarization
 
 ## Local Vault File
 
-Path: ai\models\powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md
+Path: [powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md](file:///../../ai\models\powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md)

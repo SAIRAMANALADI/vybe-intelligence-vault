@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11870"
 local_vault_path: "ai\research\modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Modelling magnetic material properties with uncertainty-aware neural networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Machine learning is increasingly applied to accelerate the discovery o
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11870
+Original source URL: https://arxiv.org/abs/2606.11870
 
 ## Local Vault File
 
-Path: ai\research\modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md
+Path: [modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md](file:///../../ai\research\modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md)

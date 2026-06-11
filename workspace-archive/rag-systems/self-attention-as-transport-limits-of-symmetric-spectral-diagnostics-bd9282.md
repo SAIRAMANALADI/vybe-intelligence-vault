@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04893"
 local_vault_path: "ai\research\self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: When a language model processes a hallucinated response, its attention
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.04893
+Original source URL: https://arxiv.org/abs/2605.04893
 
 ## Local Vault File
 
-Path: ai\research\self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md
+Path: [self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md](file:///../../ai\research\self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md)

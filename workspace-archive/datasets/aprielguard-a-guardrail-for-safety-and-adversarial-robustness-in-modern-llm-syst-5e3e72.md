@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
 local_vault_path: "ai\models\aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: AprielGuard: A Guardrail for Safety and
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/ServiceNow-AI/aprielguard
+Original source URL: https://huggingface.co/blog/ServiceNow-AI/aprielguard
 
 ## Local Vault File
 
-Path: ai\models\aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md
+Path: [aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md](file:///../../ai\models\aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md)

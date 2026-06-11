@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2504.21072"
 local_vault_path: "ai\research\erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: The expansion of text-to-image diffusion models has raised concerns ab
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2504.21072
+Original source URL: https://arxiv.org/abs/2504.21072
 
 ## Local Vault File
 
-Path: ai\research\erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md
+Path: [erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md](file:///../../ai\research\erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md)

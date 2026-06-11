@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.19225"
 local_vault_path: "ai\rag\fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # FinTradeBench: A Financial Reasoning Benchmark for LLMs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Real-world financial decision-making is a challenging problem that req
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.19225
+Original source URL: https://arxiv.org/abs/2603.19225
 
 ## Local Vault File
 
-Path: ai\rag\fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md
+Path: [fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md](file:///../../ai\rag\fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md)

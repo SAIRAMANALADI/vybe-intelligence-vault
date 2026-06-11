@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11499"
 local_vault_path: "ai\rag\hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: The performance of modern language models depends critically on pretra
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11499
+Original source URL: https://arxiv.org/abs/2606.11499
 
 ## Local Vault File
 
-Path: ai\rag\hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md
+Path: [hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md](file:///../../ai\rag\hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md)

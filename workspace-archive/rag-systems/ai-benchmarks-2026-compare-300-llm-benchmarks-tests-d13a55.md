@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://llm-stats.com/benchmarks"
 local_vault_path: "ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,21 @@ tags:
   - models
   - openai
   - paper
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, deepmind, frontend_ui, hackernews, leaderboard, models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ AI Benchmarks 2026Compare 300+ AI and LLM benchmarks in one place — reasoning,
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://llm-stats.com/benchmarks
+Original source URL: https://llm-stats.com/benchmarks
 
 ## Local Vault File
 
-Path: ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md
+Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md](file:///../../ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md)

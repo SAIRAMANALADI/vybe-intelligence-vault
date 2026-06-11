@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mmdp"
 local_vault_path: "ai\models\efficient-multimodal-data-pipeline-436c96.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Efficient MultiModal Data Pipeline
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Efficient MultiModal Data Pipeline
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/mmdp
+Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: ai\models\efficient-multimodal-data-pipeline-436c96.md
+Path: [efficient-multimodal-data-pipeline-436c96.md](file:///../../ai\models\efficient-multimodal-data-pipeline-436c96.md)

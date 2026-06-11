@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
 local_vault_path: "ai\models\qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: QIMMA قِمّة ⛰: A Quality-First A
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
+Original source URL: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 
 ## Local Vault File
 
-Path: ai\models\qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md
+Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md](file:///../../ai\models\qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md)

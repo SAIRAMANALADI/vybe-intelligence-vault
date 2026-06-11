@@ -4,17 +4,26 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma3n"
 local_vault_path: "ai\models\gemma-3n-fully-available-in-the-open-source-ecosystem-1c1fde.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Gemma 3n fully available in the open-source ecosystem!
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: Gemma 3n fully available in the open-so
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/gemma3n
+Original source URL: https://huggingface.co/blog/gemma3n
 
 ## Local Vault File
 
-Path: ai\models\gemma-3n-fully-available-in-the-open-source-ecosystem-1c1fde.md
+Path: [gemma-3n-fully-available-in-the-open-source-ecosystem-1c1fde.md](file:///../../ai\models\gemma-3n-fully-available-in-the-open-source-ecosystem-1c1fde.md)

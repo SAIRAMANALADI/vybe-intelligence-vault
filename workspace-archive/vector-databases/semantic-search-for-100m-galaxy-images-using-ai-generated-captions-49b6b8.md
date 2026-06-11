@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.11982"
 local_vault_path: "ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Semantic search for 100M+ galaxy images using AI-generated captions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Finding scientifically interesting phenomena through slow manual label
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.11982
+Original source URL: https://arxiv.org/abs/2512.11982
 
 ## Local Vault File
 
-Path: ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md
+Path: [semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md](file:///../../ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)

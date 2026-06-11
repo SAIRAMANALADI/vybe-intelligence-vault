@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12016"
 local_vault_path: "ai\research\generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Generalization Hacking: Models Can Game Reinforcement Learning by Preventing Behavioral Generalization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Model post-training, and in particular reinforcement learning (RL), is
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12016
+Original source URL: https://arxiv.org/abs/2606.12016
 
 ## Local Vault File
 
-Path: ai\research\generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md
+Path: [generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md](file:///../../ai\research\generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md)

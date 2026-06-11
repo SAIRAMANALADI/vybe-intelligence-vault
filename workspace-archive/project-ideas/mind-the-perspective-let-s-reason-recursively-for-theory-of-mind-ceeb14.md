@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11724"
 local_vault_path: "ai\agents\mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Mind the Perspective: Let's Reason Recursively for Theory of Mind
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11724
+Original source URL: https://arxiv.org/abs/2606.11724
 
 ## Local Vault File
 
-Path: ai\agents\mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md
+Path: [mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md](file:///../../ai\agents\mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md)

@@ -4,18 +4,29 @@ archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://nanochess.org/klondike_in_c.html"
 local_vault_path: "ai\community\klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - ai
   - hackernews
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Klondike Solitaire game for curses in 5k of C
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/community`
-- Tags: ai, hackernews
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Original Link: https://nanochess.org/klondike_in_c.html
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://nanochess.org/klondike_in_c.html
+Original source URL: https://nanochess.org/klondike_in_c.html
 
 ## Local Vault File
 
-Path: ai\community\klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md
+Path: [klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md](file:///../../ai\community\klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md)

@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11456"
 local_vault_path: "ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: The deployment of LLM-based agents in scientific analysis raises oppos
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11456
+Original source URL: https://arxiv.org/abs/2606.11456
 
 ## Local Vault File
 
-Path: ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md
+Path: [ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md](file:///../../ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md)

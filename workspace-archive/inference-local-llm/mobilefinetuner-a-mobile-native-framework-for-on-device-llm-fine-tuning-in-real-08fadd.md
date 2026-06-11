@@ -4,18 +4,29 @@ archive_category: "inference-local-llm"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2512.08211"
 local_vault_path: "ai\agents\mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # MobileFineTuner: A Mobile-Native Framework for On-Device LLM Fine-Tuning in Real-World Embedded AI Applications
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Large language models (LLMs) are moving from cloud-centric services to
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.08211
+Original source URL: https://arxiv.org/abs/2512.08211
 
 ## Local Vault File
 
-Path: ai\agents\mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md
+Path: [mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md](file:///../../ai\agents\mobilefinetuner-a-mobile-native-framework-for-on-device-llm-fine-tuning-in-real-08fadd.md)

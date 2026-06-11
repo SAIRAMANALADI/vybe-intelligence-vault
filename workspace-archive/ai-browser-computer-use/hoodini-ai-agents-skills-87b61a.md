@@ -4,20 +4,29 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/hoodini/ai-agents-skills"
 local_vault_path: "ai\agents\hoodini-ai-agents-skills-87b61a.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - python
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # hoodini/ai-agents-skills
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, python
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -25,15 +34,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://github.com/hoodini/ai-agents-skills
+Original source URL: https://github.com/hoodini/ai-agents-skills
 
 ## Local Vault File
 
-Path: ai\agents\hoodini-ai-agents-skills-87b61a.md
+Path: [hoodini-ai-agents-skills-87b61a.md](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md)

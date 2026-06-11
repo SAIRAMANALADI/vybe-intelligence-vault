@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.00140"
 local_vault_path: "ai\research\geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - framer_motion
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Geometric Erasure by Contrastive Velocity Matching in Rectified Flows
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: While the rapid adoption of multimodal generative models offers immens
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.00140
+Original source URL: https://arxiv.org/abs/2606.00140
 
 ## Local Vault File
 
-Path: ai\research\geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md
+Path: [geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md](file:///../../ai\research\geometric-erasure-by-contrastive-velocity-matching-in-rectified-flows-dd088a.md)

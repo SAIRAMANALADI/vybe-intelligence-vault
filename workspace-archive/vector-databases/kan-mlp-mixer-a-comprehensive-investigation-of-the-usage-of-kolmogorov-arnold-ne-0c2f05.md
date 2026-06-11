@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.19031"
 local_vault_path: "ai\rag\kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Kolmogorov-Arnold Networks (KANs) have demonstrated an exceptional abi
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.19031
+Original source URL: https://arxiv.org/abs/2605.19031
 
 ## Local Vault File
 
-Path: ai\rag\kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md
+Path: [kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md](file:///../../ai\rag\kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md)

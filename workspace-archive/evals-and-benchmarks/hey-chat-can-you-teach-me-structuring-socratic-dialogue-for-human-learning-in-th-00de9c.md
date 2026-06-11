@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11744"
 local_vault_path: "ai\research\hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Hey Chat, Can You Teach Me? Structuring Socratic Dialogue for Human Learning in the Wild
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Large language models are now widely used for everyday learning, but t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11744
+Original source URL: https://arxiv.org/abs/2606.11744
 
 ## Local Vault File
 
-Path: ai\research\hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md
+Path: [hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md](file:///../../ai\research\hey-chat-can-you-teach-me-structuring-socratic-dialogue-for-human-learning-in-th-00de9c.md)

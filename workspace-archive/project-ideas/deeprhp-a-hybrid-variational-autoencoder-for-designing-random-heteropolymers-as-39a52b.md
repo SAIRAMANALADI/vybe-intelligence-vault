@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11651"
 local_vault_path: "ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Synthetic random heteropolymers (RHPs), consisting of a predefined set
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11651
+Original source URL: https://arxiv.org/abs/2606.11651
 
 ## Local Vault File
 
-Path: ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md
+Path: [deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md](file:///../../ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md)

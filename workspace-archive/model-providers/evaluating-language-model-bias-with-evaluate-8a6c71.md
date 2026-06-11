@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/evaluating-llm-bias"
 local_vault_path: "ai\models\evaluating-language-model-bias-with-evaluate-8a6c71.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Evaluating Language Model Bias with ðŸ¤— Evaluate
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Evaluating Language Model Bias with ðŸ¤
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/evaluating-llm-bias
+Original source URL: https://huggingface.co/blog/evaluating-llm-bias
 
 ## Local Vault File
 
-Path: ai\models\evaluating-language-model-bias-with-evaluate-8a6c71.md
+Path: [evaluating-language-model-bias-with-evaluate-8a6c71.md](file:///../../ai\models\evaluating-language-model-bias-with-evaluate-8a6c71.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hf-skills-training"
 local_vault_path: "ai\models\we-got-claude-to-fine-tune-an-open-source-llm-e4d18f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # We Got Claude to Fine-Tune an Open Source LLM
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: We Got Claude to Fine-Tune an Open Sour
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/hf-skills-training
+Original source URL: https://huggingface.co/blog/hf-skills-training
 
 ## Local Vault File
 
-Path: ai\models\we-got-claude-to-fine-tune-an-open-source-llm-e4d18f.md
+Path: [we-got-claude-to-fine-tune-an-open-source-llm-e4d18f.md](file:///../../ai\models\we-got-claude-to-fine-tune-an-open-source-llm-e4d18f.md)

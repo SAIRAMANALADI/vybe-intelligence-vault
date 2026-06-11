@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/series-c"
 local_vault_path: "ai\models\we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: We Raised $100 Million for Open & Colla
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/series-c
+Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: ai\models\we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md
+Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai\models\we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md)

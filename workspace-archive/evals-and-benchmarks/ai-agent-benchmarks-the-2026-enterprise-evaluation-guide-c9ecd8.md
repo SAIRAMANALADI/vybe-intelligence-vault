@@ -4,20 +4,31 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark"
 local_vault_path: "ai\agents\ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md"
+quality_score: 70
+archive_score: 76
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - benchmark
   - scripts
   - web-crawled
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, benchmark, scripts, web-crawled
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +36,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark
+Original source URL: https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark
 
 ## Local Vault File
 
-Path: ai\agents\ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md
+Path: [ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md](file:///../../ai\agents\ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md)

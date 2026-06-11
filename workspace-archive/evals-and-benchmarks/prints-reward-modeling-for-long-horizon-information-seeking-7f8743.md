@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2511.19314"
 local_vault_path: "ai\agents\prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "high"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # PRInTS: Reward Modeling for Long-Horizon Information Seeking
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Information-seeking is a core capability for AI agents, requiring them
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.19314
+Original source URL: https://arxiv.org/abs/2511.19314
 
 ## Local Vault File
 
-Path: ai\agents\prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md
+Path: [prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md](file:///../../ai\agents\prints-reward-modeling-for-long-horizon-information-seeking-7f8743.md)

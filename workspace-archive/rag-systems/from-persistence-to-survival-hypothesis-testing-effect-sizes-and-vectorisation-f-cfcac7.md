@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11911"
 local_vault_path: "ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Persistence diagrams are common representations in topological data an
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11911
+Original source URL: https://arxiv.org/abs/2606.11911
 
 ## Local Vault File
 
-Path: ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md
+Path: [from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md](file:///../../ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md)

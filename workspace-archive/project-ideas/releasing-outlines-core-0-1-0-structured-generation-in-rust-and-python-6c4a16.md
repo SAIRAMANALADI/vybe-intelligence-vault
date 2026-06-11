@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/outlines-core"
 local_vault_path: "ai\models\releasing-outlines-core-0-1-0-structured-generation-in-rust-and-python-6c4a16.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Releasing Outlines-core 0.1.0: structured generation in Rust and Python
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Releasing Outlines-core 0.1.0: structur
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/outlines-core
+Original source URL: https://huggingface.co/blog/outlines-core
 
 ## Local Vault File
 
-Path: ai\models\releasing-outlines-core-0-1-0-structured-generation-in-rust-and-python-6c4a16.md
+Path: [releasing-outlines-core-0-1-0-structured-generation-in-rust-and-python-6c4a16.md](file:///../../ai\models\releasing-outlines-core-0-1-0-structured-generation-in-rust-and-python-6c4a16.md)

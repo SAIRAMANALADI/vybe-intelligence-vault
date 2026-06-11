@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/keras-hub-integration"
 local_vault_path: "ai\models\announcing-new-hugging-face-and-kerashub-integration-b14ff9.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Announcing New Hugging Face and KerasHub integration
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Announcing New Hugging Face and KerasHu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/keras-hub-integration
+Original source URL: https://huggingface.co/blog/keras-hub-integration
 
 ## Local Vault File
 
-Path: ai\models\announcing-new-hugging-face-and-kerashub-integration-b14ff9.md
+Path: [announcing-new-hugging-face-and-kerashub-integration-b14ff9.md](file:///../../ai\models\announcing-new-hugging-face-and-kerashub-integration-b14ff9.md)

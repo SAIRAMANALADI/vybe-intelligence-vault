@@ -4,20 +4,29 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/affaan-m/agentshield"
 local_vault_path: "ai\agents\affaan-m-agentshield-e9a88d.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - typescript
+selection_reason:
+  - "Useful for project building"
 ---
 
 # affaan-m/agentshield
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, typescript
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +34,14 @@ AI agent security scanner. Detect vulnerabilities in agent configurations, MCP s
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/affaan-m/agentshield
+Original source URL: https://github.com/affaan-m/agentshield
 
 ## Local Vault File
 
-Path: ai\agents\affaan-m-agentshield-e9a88d.md
+Path: [affaan-m-agentshield-e9a88d.md](file:///../../ai\agents\affaan-m-agentshield-e9a88d.md)

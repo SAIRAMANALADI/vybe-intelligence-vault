@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.09533"
 local_vault_path: "ai\research\autoregressive-direct-preference-optimization-9d5541.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Autoregressive Direct Preference Optimization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Direct preference optimization (DPO) has emerged as a promising approa
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.09533
+Original source URL: https://arxiv.org/abs/2602.09533
 
 ## Local Vault File
 
-Path: ai\research\autoregressive-direct-preference-optimization-9d5541.md
+Path: [autoregressive-direct-preference-optimization-9d5541.md](file:///../../ai\research\autoregressive-direct-preference-optimization-9d5541.md)

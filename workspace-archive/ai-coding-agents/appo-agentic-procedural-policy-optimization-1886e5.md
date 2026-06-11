@@ -4,19 +4,28 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12384"
 local_vault_path: "ai\agents\appo-agentic-procedural-policy-optimization-1886e5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - models
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # APPO: Agentic Procedural Policy Optimization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models, workflows
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +34,14 @@ Abstract: Recent advances in agentic Reinforcement Learning (RL) have substantia
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12384
+Original source URL: https://arxiv.org/abs/2606.12384
 
 ## Local Vault File
 
-Path: ai\agents\appo-agentic-procedural-policy-optimization-1886e5.md
+Path: [appo-agentic-procedural-policy-optimization-1886e5.md](file:///../../ai\agents\appo-agentic-procedural-policy-optimization-1886e5.md)

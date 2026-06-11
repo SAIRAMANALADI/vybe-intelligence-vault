@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.11688"
 local_vault_path: "ai\research\composing-linear-layers-from-irreducibles-310c21.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Composing Linear Layers from Irreducibles
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Contemporary large models often exhibit behaviors suggesting the prese
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.11688
+Original source URL: https://arxiv.org/abs/2507.11688
 
 ## Local Vault File
 
-Path: ai\research\composing-linear-layers-from-irreducibles-310c21.md
+Path: [composing-linear-layers-from-irreducibles-310c21.md](file:///../../ai\research\composing-linear-layers-from-irreducibles-310c21.md)

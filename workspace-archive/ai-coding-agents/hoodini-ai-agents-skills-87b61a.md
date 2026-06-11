@@ -4,20 +4,31 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/hoodini/ai-agents-skills"
 local_vault_path: "ai\agents\hoodini-ai-agents-skills-87b61a.md"
+quality_score: 70
+archive_score: 85
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - python
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # hoodini/ai-agents-skills
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, python
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 85 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -25,15 +36,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/hoodini/ai-agents-skills
+Original source URL: https://github.com/hoodini/ai-agents-skills
 
 ## Local Vault File
 
-Path: ai\agents\hoodini-ai-agents-skills-87b61a.md
+Path: [hoodini-ai-agents-skills-87b61a.md](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md)

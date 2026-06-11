@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11605"
 local_vault_path: "ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Predicting process-property relationships in manufacturing is often ch
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11605
+Original source URL: https://arxiv.org/abs/2606.11605
 
 ## Local Vault File
 
-Path: ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md
+Path: [physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md](file:///../../ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md)

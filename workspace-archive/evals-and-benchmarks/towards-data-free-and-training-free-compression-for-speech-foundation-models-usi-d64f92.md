@@ -4,17 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11836"
 local_vault_path: "ai\research\towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: This paper presents a novel data-free and training-free compression ap
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11836
+Original source URL: https://arxiv.org/abs/2606.11836
 
 ## Local Vault File
 
-Path: ai\research\towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md
+Path: [towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md](file:///../../ai\research\towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md)

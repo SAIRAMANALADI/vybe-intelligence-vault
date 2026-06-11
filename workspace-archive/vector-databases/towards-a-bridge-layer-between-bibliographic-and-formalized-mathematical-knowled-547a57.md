@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11430"
 local_vault_path: "ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Towards a Bridge Layer Between Bibliographic and Formalized Mathematical Knowledge
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Mathematical knowledge is split between bibliographic databases (e.g.,
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11430
+Original source URL: https://arxiv.org/abs/2606.11430
 
 ## Local Vault File
 
-Path: ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md
+Path: [towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md](file:///../../ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md)

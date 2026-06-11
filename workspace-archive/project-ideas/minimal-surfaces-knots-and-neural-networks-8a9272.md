@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.26234"
 local_vault_path: "ai\research\minimal-surfaces-knots-and-neural-networks-8a9272.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Minimal surfaces, Knots, and Neural Networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: A recent conjecture by Joel Fine posits a relationship between the coe
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.26234
+Original source URL: https://arxiv.org/abs/2605.26234
 
 ## Local Vault File
 
-Path: ai\research\minimal-surfaces-knots-and-neural-networks-8a9272.md
+Path: [minimal-surfaces-knots-and-neural-networks-8a9272.md](file:///../../ai\research\minimal-surfaces-knots-and-neural-networks-8a9272.md)

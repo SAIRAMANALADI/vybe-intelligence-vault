@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12169"
 local_vault_path: "ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: High-stakes clinical use of large vision-language models (LVLMs) requi
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12169
+Original source URL: https://arxiv.org/abs/2606.12169
 
 ## Local Vault File
 
-Path: ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md
+Path: [openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md](file:///../../ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)

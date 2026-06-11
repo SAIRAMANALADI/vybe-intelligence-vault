@@ -4,20 +4,31 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/idosal/git-mcp"
 local_vault_path: "ai\agents\idosal-git-mcp-132f8d.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - typescript
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # idosal/git-mcp
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, typescript
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP ser
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/idosal/git-mcp
+Original source URL: https://github.com/idosal/git-mcp
 
 ## Local Vault File
 
-Path: ai\agents\idosal-git-mcp-132f8d.md
+Path: [idosal-git-mcp-132f8d.md](file:///../../ai\agents\idosal-git-mcp-132f8d.md)

@@ -4,18 +4,29 @@ archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11218"
 local_vault_path: "ai\agents\an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # An Ethical eValuation Agent (EeVA): Results of a Proof-of-Concept Test on a Prototype Agentic-like Workflow to Assist Ethical Deliberations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Ethical deliberation is often misunderstood as a search for single rig
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11218
+Original source URL: https://arxiv.org/abs/2606.11218
 
 ## Local Vault File
 
-Path: ai\agents\an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md
+Path: [an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md](file:///../../ai\agents\an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md)

@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11833"
 local_vault_path: "ai\rag\flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Flow matching and diffusion models enable conditional generation acros
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11833
+Original source URL: https://arxiv.org/abs/2606.11833
 
 ## Local Vault File
 
-Path: ai\rag\flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md
+Path: [flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md](file:///../../ai\rag\flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md)

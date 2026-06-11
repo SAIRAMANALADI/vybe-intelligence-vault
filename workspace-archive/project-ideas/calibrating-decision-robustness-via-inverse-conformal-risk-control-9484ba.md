@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.07750"
 local_vault_path: "ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Calibrating Decision Robustness via Inverse Conformal Risk Control
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Robust optimization safeguards decisions against uncertainty by optimi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.07750
+Original source URL: https://arxiv.org/abs/2510.07750
 
 ## Local Vault File
 
-Path: ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md
+Path: [calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md](file:///../../ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md)

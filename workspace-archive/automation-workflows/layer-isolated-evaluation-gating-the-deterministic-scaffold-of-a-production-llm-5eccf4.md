@@ -4,19 +4,30 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11686"
 local_vault_path: "ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, bu
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11686
+Original source URL: https://arxiv.org/abs/2606.11686
 
 ## Local Vault File
 
-Path: ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md
+Path: [layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md](file:///../../ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md)

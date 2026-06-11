@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11946"
 local_vault_path: "ai\rag\neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: The conventional approach to deep learning over relational databases a
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11946
+Original source URL: https://arxiv.org/abs/2606.11946
 
 ## Local Vault File
 
-Path: ai\rag\neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md
+Path: [neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md](file:///../../ai\rag\neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md)

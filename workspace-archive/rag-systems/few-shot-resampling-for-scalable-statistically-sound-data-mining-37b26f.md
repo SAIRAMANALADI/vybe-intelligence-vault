@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11235"
 local_vault_path: "ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Few-Shot Resampling for Scalable Statistically-Sound Data Mining
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: A key step in knowledge discovery is the evaluation of data mining res
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11235
+Original source URL: https://arxiv.org/abs/2606.11235
 
 ## Local Vault File
 
-Path: ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md
+Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)

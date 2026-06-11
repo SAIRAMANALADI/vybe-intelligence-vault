@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11646"
 local_vault_path: "ai\research\tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Tree-Structured Orthonormal Decomposition of the Aitchison Simplex
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Compositional data -- vectors encoding relative proportions -- arise a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11646
+Original source URL: https://arxiv.org/abs/2606.11646
 
 ## Local Vault File
 
-Path: ai\research\tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md
+Path: [tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md](file:///../../ai\research\tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md)

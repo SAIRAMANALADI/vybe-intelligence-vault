@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11251"
 local_vault_path: "ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - framer_motion
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Mechanical Field Networks: Structured Neural Dynamics for Multivariate Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Many multivariate dynamical systems are observed only through trajecto
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11251
+Original source URL: https://arxiv.org/abs/2606.11251
 
 ## Local Vault File
 
-Path: ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md
+Path: [mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md](file:///../../ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md)

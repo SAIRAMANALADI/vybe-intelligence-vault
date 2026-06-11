@@ -4,20 +4,31 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12387"
 local_vault_path: "ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -26,14 +37,14 @@ Abstract: Large Language Models (LLMs) have democratized database access through
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12387
+Original source URL: https://arxiv.org/abs/2606.12387
 
 ## Local Vault File
 
-Path: ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md
+Path: [tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md](file:///../../ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md)

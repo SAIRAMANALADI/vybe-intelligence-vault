@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.03296"
 local_vault_path: "ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: We present Mixture of Discrete-time Gaussian Processes (MiDiGap), a no
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2505.03296
+Original source URL: https://arxiv.org/abs/2505.03296
 
 ## Local Vault File
 
-Path: ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md
+Path: [the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md](file:///../../ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)

@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/streamlit-spaces"
 local_vault_path: "ai\models\hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Hosting your Models and Datasets on Hugging Face Spaces using Streamlit
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Hosting your Models and Datasets on Hug
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/streamlit-spaces
+Original source URL: https://huggingface.co/blog/streamlit-spaces
 
 ## Local Vault File
 
-Path: ai\models\hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md
+Path: [hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md](file:///../../ai\models\hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md)

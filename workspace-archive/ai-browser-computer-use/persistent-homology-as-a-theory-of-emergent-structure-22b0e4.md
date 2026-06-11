@@ -4,14 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.03065"
 local_vault_path: "ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Persistent Homology as a Theory of Emergent Structure
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Why do some macroscopic structures remain identifiable even though the
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.03065
+Original source URL: https://arxiv.org/abs/2507.03065
 
 ## Local Vault File
 
-Path: ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md
+Path: [persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md](file:///../../ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md)

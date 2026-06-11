@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11915"
 local_vault_path: "ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Quality Adaptive Angular Margin Learning for Respiratory Sound Classification
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We present a quality-adaptive angular-margin learning framework that i
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11915
+Original source URL: https://arxiv.org/abs/2606.11915
 
 ## Local Vault File
 
-Path: ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md
+Path: [quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md](file:///../../ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md)

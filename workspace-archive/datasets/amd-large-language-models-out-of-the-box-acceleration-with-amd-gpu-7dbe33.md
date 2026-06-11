@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface-and-optimum-amd"
 local_vault_path: "ai\models\amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: AMD + 🤗: Large Language Models Out-o
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/huggingface-and-optimum-amd
+Original source URL: https://huggingface.co/blog/huggingface-and-optimum-amd
 
 ## Local Vault File
 
-Path: ai\models\amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md
+Path: [amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md](file:///../../ai\models\amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md)

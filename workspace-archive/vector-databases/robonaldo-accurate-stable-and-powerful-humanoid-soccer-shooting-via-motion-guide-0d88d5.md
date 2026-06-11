@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11092"
 local_vault_path: "ai\rag\robonaldo-accurate-stable-and-powerful-humanoid-soccer-shooting-via-motion-guide-0d88d5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # RoboNaldo: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Elite humanoid soccer shooting requires whole-body stability, high-imp
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11092
+Original source URL: https://arxiv.org/abs/2606.11092
 
 ## Local Vault File
 
-Path: ai\rag\robonaldo-accurate-stable-and-powerful-humanoid-soccer-shooting-via-motion-guide-0d88d5.md
+Path: [robonaldo-accurate-stable-and-powerful-humanoid-soccer-shooting-via-motion-guide-0d88d5.md](file:///../../ai\rag\robonaldo-accurate-stable-and-powerful-humanoid-soccer-shooting-via-motion-guide-0d88d5.md)

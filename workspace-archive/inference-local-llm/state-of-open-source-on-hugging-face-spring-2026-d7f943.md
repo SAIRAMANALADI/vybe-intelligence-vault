@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
 local_vault_path: "ai\models\state-of-open-source-on-hugging-face-spring-2026-d7f943.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # State of Open Source on Hugging Face: Spring 2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: State of Open Source on Hugging Face: S
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
+Original source URL: https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 
 ## Local Vault File
 
-Path: ai\models\state-of-open-source-on-hugging-face-spring-2026-d7f943.md
+Path: [state-of-open-source-on-hugging-face-spring-2026-d7f943.md](file:///../../ai\models\state-of-open-source-on-hugging-face-spring-2026-d7f943.md)

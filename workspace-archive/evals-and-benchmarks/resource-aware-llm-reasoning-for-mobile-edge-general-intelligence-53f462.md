@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2509.23248"
 local_vault_path: "ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Resource-Aware LLM Reasoning for Mobile Edge General Intelligence
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: The rapid advancement of large language models (LLMs) has enabled an e
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.23248
+Original source URL: https://arxiv.org/abs/2509.23248
 
 ## Local Vault File
 
-Path: ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md
+Path: [resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md](file:///../../ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md)

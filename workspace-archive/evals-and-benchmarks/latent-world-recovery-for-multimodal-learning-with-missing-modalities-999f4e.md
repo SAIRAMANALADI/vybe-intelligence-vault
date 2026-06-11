@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12362"
 local_vault_path: "ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Latent World Recovery for Multimodal Learning with Missing Modalities
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We study multimodal learning under missing modalities, with particular
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12362
+Original source URL: https://arxiv.org/abs/2606.12362
 
 ## Local Vault File
 
-Path: ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md
+Path: [latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md](file:///../../ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md)

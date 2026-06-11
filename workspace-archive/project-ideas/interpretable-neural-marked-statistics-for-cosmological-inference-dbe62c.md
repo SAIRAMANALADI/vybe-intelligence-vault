@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11295"
 local_vault_path: "ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Interpretable Neural Marked Statistics for Cosmological Inference
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Recovering cosmological information beyond the power spectrum is a cen
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11295
+Original source URL: https://arxiv.org/abs/2606.11295
 
 ## Local Vault File
 
-Path: ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md
+Path: [interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md](file:///../../ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/helmet"
 local_vault_path: "ai\models\introducing-helmet-holistically-evaluating-long-context-language-models-4a648d.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing HELMET: Holistically Evaluating Long-context Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Introducing HELMET: Holistically Evalua
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/helmet
+Original source URL: https://huggingface.co/blog/helmet
 
 ## Local Vault File
 
-Path: ai\models\introducing-helmet-holistically-evaluating-long-context-language-models-4a648d.md
+Path: [introducing-helmet-holistically-evaluating-long-context-language-models-4a648d.md](file:///../../ai\models\introducing-helmet-holistically-evaluating-long-context-language-models-4a648d.md)

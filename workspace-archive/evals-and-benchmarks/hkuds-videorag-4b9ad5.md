@@ -4,20 +4,31 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/HKUDS/VideoRAG"
 local_vault_path: "ai\rag\hkuds-videorag-4b9ad5.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
   - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # HKUDS/VideoRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag, youtube
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -25,15 +36,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://github.com/HKUDS/VideoRAG
+Original source URL: https://github.com/HKUDS/VideoRAG
 
 ## Local Vault File
 
-Path: ai\rag\hkuds-videorag-4b9ad5.md
+Path: [hkuds-videorag-4b9ad5.md](file:///../../ai\rag\hkuds-videorag-4b9ad5.md)

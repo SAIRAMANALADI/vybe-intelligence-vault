@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11874"
 local_vault_path: "ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AutoMine Solution for AV2 2026 Scenario Mining Challenge
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: With the development of autonomous driving systems, mining high-value,
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11874
+Original source URL: https://arxiv.org/abs/2606.11874
 
 ## Local Vault File
 
-Path: ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md
+Path: [automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md](file:///../../ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md)

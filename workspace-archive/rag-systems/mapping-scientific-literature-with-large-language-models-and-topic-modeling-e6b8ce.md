@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.16152"
 local_vault_path: "ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Mapping Scientific Literature with Large Language Models and Topic Modeling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Scientific literature is increasingly fragmented by disciplinary bound
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.16152
+Original source URL: https://arxiv.org/abs/2510.16152
 
 ## Local Vault File
 
-Path: ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md
+Path: [mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md](file:///../../ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md)

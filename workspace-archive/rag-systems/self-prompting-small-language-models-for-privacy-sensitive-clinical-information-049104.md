@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04221"
 local_vault_path: "ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Self-Prompting Small Language Models for Privacy-Sensitive Clinical Information Extraction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Clinical named entity recognition from dental progress notes is challe
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.04221
+Original source URL: https://arxiv.org/abs/2605.04221
 
 ## Local Vault File
 
-Path: ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md
+Path: [self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md](file:///../../ai\research\self-prompting-small-language-models-for-privacy-sensitive-clinical-information-049104.md)

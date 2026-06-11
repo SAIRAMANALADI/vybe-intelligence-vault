@@ -4,18 +4,29 @@ archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/NotStark/portfolio"
 local_vault_path: "web-development\nextjs\notstark-portfolio-4fd29c.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - creative_dev
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # NotStark/portfolio
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: creative_dev, frontend_ui
-- Archive category: Frontend AI UI
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ A portfolio template built with Next.js, Tailwind CSS, and TypeScript.
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
 
 ## Source
 
-Original source: https://github.com/NotStark/portfolio
+Original source URL: https://github.com/NotStark/portfolio
 
 ## Local Vault File
 
-Path: web-development\nextjs\notstark-portfolio-4fd29c.md
+Path: [notstark-portfolio-4fd29c.md](file:///../../web-development\nextjs\notstark-portfolio-4fd29c.md)

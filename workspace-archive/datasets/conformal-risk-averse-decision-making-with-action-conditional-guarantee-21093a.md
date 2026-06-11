@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.05551"
 local_vault_path: "ai\research\conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Conformal Risk-Averse Decision Making with Action Conditional Guarantee
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Reliable decision making pipelines powered by machine learning models 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.05551
+Original source URL: https://arxiv.org/abs/2606.05551
 
 ## Local Vault File
 
-Path: ai\research\conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md
+Path: [conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md](file:///../../ai\research\conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md)

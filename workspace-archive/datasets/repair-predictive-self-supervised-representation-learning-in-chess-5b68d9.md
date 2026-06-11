@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11860"
 local_vault_path: "ai\research\repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # RePAIR: Predictive Self-Supervised Representation Learning in Chess
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: In this paper, we introduce Representation Prediction via Autoencoding
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11860
+Original source URL: https://arxiv.org/abs/2606.11860
 
 ## Local Vault File
 
-Path: ai\research\repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md
+Path: [repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md](file:///../../ai\research\repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md)

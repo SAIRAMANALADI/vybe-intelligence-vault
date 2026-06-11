@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.21639"
 local_vault_path: "ai\research\a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # A Multi-Modal Sensor Fusion Instrument for Measuring Regional Human Mobility: The Distributed Human Data Engine (DHDE)
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Accurately estimating human mobility in peripheral regional economies 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.21639
+Original source URL: https://arxiv.org/abs/2603.21639
 
 ## Local Vault File
 
-Path: ai\research\a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md
+Path: [a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md](file:///../../ai\research\a-multi-modal-sensor-fusion-instrument-for-measuring-regional-human-mobility-the-709014.md)

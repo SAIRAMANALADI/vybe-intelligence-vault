@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11930"
 local_vault_path: "ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Predicting psychological traits from asynchronous video interviews (AV
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11930
+Original source URL: https://arxiv.org/abs/2606.11930
 
 ## Local Vault File
 
-Path: ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md
+Path: [frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)

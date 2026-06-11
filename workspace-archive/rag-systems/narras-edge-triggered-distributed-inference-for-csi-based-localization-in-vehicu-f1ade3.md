@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11914"
 local_vault_path: "ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # NARRAS: Edge-Triggered Distributed Inference for CSI-Based Localization in Vehicular IoT Networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: CSI-based localization with spatially distributed antenna arrays expos
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11914
+Original source URL: https://arxiv.org/abs/2606.11914
 
 ## Local Vault File
 
-Path: ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md
+Path: [narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md](file:///../../ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md)

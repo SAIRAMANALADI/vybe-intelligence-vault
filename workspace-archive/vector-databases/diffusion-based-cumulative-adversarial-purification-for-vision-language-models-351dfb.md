@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2506.03933"
 local_vault_path: "ai\rag\diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Diffusion-based Cumulative Adversarial Purification for Vision Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Vision Language Models (VLMs) have shown remarkable capabilities in mu
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2506.03933
+Original source URL: https://arxiv.org/abs/2506.03933
 
 ## Local Vault File
 
-Path: ai\rag\diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md
+Path: [diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md](file:///../../ai\rag\diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md)

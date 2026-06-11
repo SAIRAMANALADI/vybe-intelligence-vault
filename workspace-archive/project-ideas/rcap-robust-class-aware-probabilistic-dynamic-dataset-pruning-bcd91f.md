@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11761"
 local_vault_path: "ai\rag\rcap-robust-class-aware-probabilistic-dynamic-dataset-pruning-bcd91f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Dynamic data pruning techniques aim to reduce computational cost while
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11761
+Original source URL: https://arxiv.org/abs/2606.11761
 
 ## Local Vault File
 
-Path: ai\rag\rcap-robust-class-aware-probabilistic-dynamic-dataset-pruning-bcd91f.md
+Path: [rcap-robust-class-aware-probabilistic-dynamic-dataset-pruning-bcd91f.md](file:///../../ai\rag\rcap-robust-class-aware-probabilistic-dynamic-dataset-pruning-bcd91f.md)

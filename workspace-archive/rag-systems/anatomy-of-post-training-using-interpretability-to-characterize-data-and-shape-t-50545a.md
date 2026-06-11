@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12360"
 local_vault_path: "ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Language-model post-training is the main stage at which model behavior
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12360
+Original source URL: https://arxiv.org/abs/2606.12360
 
 ## Local Vault File
 
-Path: ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md
+Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)

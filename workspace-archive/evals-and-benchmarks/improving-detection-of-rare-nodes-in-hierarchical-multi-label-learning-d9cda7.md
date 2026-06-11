@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.08986"
 local_vault_path: "ai\rag\improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Improving Detection of Rare Nodes in Hierarchical Multi-Label Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: In hierarchical multi-label classification, a persistent challenge is 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.08986
+Original source URL: https://arxiv.org/abs/2602.08986
 
 ## Local Vault File
 
-Path: ai\rag\improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md
+Path: [improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md](file:///../../ai\rag\improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md)

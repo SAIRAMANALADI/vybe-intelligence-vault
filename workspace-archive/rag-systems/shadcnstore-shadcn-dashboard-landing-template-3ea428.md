@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/shadcnstore/shadcn-dashboard-landing-template"
 local_vault_path: "web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md"
+quality_score: 70
+archive_score: 87
+archive_tier: "essential"
+resource_kind: "template"
+importance: "high"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # shadcnstore/shadcn-dashboard-landing-template
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: frontend_ui
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,14 +33,14 @@ Accelerate your development with a sleek, open-source admin dashboard and landin
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/shadcnstore/shadcn-dashboard-landing-template
+Original source URL: https://github.com/shadcnstore/shadcn-dashboard-landing-template
 
 ## Local Vault File
 
-Path: web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md
+Path: [shadcnstore-shadcn-dashboard-landing-template-3ea428.md](file:///../../web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md)

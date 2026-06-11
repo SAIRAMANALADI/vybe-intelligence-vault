@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.09715"
 local_vault_path: "ai\rag\does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Does the Question Really Matter? Training-Free Data Selection for Vision-Language SFT
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Visual instruction tuning is crucial for improving vision-language lar
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.09715
+Original source URL: https://arxiv.org/abs/2603.09715
 
 ## Local Vault File
 
-Path: ai\rag\does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md
+Path: [does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md](file:///../../ai\rag\does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md)

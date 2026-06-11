@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11797"
 local_vault_path: "ai\research\space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Space-sampled Value Decay: Forgetting Mechanisms for Non-stationary Deep Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Studies on rodents such as mice have shown the capabilities to adapt t
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11797
+Original source URL: https://arxiv.org/abs/2606.11797
 
 ## Local Vault File
 
-Path: ai\research\space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md
+Path: [space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md](file:///../../ai\research\space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md)

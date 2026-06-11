@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel"
 local_vault_path: "ai\rag\building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +31,14 @@ No summary provided. Reference resource: Building Cost-Efficient Enterprise RAG 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://huggingface.co/blog/cost-efficient-rag-applications-with-intel
+Original source URL: https://huggingface.co/blog/cost-efficient-rag-applications-with-intel
 
 ## Local Vault File
 
-Path: ai\rag\building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md
+Path: [building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md](file:///../../ai\rag\building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md)

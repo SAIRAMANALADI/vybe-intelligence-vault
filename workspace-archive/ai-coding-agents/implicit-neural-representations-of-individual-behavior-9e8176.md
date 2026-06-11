@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12200"
 local_vault_path: "ai\agents\implicit-neural-representations-of-individual-behavior-9e8176.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Implicit Neural Representations of Individual Behavior
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We study policy representation learning from unlabeled multi-policy be
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12200
+Original source URL: https://arxiv.org/abs/2606.12200
 
 ## Local Vault File
 
-Path: ai\agents\implicit-neural-representations-of-individual-behavior-9e8176.md
+Path: [implicit-neural-representations-of-individual-behavior-9e8176.md](file:///../../ai\agents\implicit-neural-representations-of-individual-behavior-9e8176.md)

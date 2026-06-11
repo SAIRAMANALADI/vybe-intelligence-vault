@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents"
 local_vault_path: "ai\rag\a-practical-guide-to-building-agents-openai-be0f25.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -14,15 +19,19 @@ tags:
   - scripts
   - web-crawled
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # A practical guide to building agents | OpenAI
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, hackernews, models, openai, rag, scripts, web-crawled
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -30,14 +39,14 @@ A practical guide to building agentsTry ChatGPT(opens in a new window)Contact sa
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents
+Original source URL: https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents
 
 ## Local Vault File
 
-Path: ai\rag\a-practical-guide-to-building-agents-openai-be0f25.md
+Path: [a-practical-guide-to-building-agents-openai-be0f25.md](file:///../../ai\rag\a-practical-guide-to-building-agents-openai-be0f25.md)

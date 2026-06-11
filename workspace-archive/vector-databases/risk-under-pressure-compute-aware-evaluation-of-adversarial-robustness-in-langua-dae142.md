@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11409"
 local_vault_path: "ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Adversarial robustness evaluations of large language models (LLMs) typ
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11409
+Original source URL: https://arxiv.org/abs/2606.11409
 
 ## Local Vault File
 
-Path: ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md
+Path: [risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md](file:///../../ai\rag\risk-under-pressure-compute-aware-evaluation-of-adversarial-robustness-in-langua-dae142.md)

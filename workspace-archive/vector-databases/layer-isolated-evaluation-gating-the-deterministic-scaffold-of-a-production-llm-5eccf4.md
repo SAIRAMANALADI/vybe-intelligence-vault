@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11686"
 local_vault_path: "ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, workflows
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +34,14 @@ Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, bu
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11686
+Original source URL: https://arxiv.org/abs/2606.11686
 
 ## Local Vault File
 
-Path: ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md
+Path: [layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md](file:///../../ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md)

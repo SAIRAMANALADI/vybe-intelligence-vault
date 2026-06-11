@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11671"
 local_vault_path: "ai\agents\runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - agents
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Runtime Skill Audit: Targeted Runtime Probing for Agent Skill Security
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, workflows
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Agent skills let LLM agents reuse instructions, resources, tools, and 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11671
+Original source URL: https://arxiv.org/abs/2606.11671
 
 ## Local Vault File
 
-Path: ai\agents\runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md
+Path: [runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md](file:///../../ai\agents\runtime-skill-audit-targeted-runtime-probing-for-agent-skill-security-a572b1.md)

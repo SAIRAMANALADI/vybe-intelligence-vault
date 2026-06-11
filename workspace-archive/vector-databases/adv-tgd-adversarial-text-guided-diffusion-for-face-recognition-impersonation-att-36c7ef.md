@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11615"
 local_vault_path: "ai\rag\adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: The widespread adoption of face recognition (FR) technologies raises s
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11615
+Original source URL: https://arxiv.org/abs/2606.11615
 
 ## Local Vault File
 
-Path: ai\rag\adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md
+Path: [adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md](file:///../../ai\rag\adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md)

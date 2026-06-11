@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.09105"
 local_vault_path: "ai\rag\graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Generating novel, feasible, and high-quality research ideas is an impo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.09105
+Original source URL: https://arxiv.org/abs/2606.09105
 
 ## Local Vault File
 
-Path: ai\rag\graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md
+Path: [graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md](file:///../../ai\rag\graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md)

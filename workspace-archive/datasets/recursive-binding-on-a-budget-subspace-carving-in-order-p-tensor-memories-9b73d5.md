@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11391"
 local_vault_path: "ai\research\recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Recursive Binding on a Budget: Subspace Carving in Order-p Tensor Memories
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Tensor Product Representations provide the structural fidelity require
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11391
+Original source URL: https://arxiv.org/abs/2606.11391
 
 ## Local Vault File
 
-Path: ai\research\recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md
+Path: [recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md](file:///../../ai\research\recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md)

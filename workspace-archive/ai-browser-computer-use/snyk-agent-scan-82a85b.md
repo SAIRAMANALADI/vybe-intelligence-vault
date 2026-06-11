@@ -4,19 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/snyk/agent-scan"
 local_vault_path: "ai\agents\snyk-agent-scan-82a85b.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - python
+selection_reason:
+  - "Useful for project building"
 ---
 
 # snyk/agent-scan
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, python
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Security scanner for AI agents, MCP servers and agent skills.
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://github.com/snyk/agent-scan
+Original source URL: https://github.com/snyk/agent-scan
 
 ## Local Vault File
 
-Path: ai\agents\snyk-agent-scan-82a85b.md
+Path: [snyk-agent-scan-82a85b.md](file:///../../ai\agents\snyk-agent-scan-82a85b.md)

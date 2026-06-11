@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.06596"
 local_vault_path: "ai\rag\sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: The performance of machine learning models depends heavily on training
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.06596
+Original source URL: https://arxiv.org/abs/2510.06596
 
 ## Local Vault File
 
-Path: ai\rag\sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md
+Path: [sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md](file:///../../ai\rag\sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md)

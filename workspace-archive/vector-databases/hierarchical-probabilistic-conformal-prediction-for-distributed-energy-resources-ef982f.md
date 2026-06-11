@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2411.12193"
 local_vault_path: "ai\rag\hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Hierarchical Probabilistic Conformal Prediction for Distributed Energy Resources Adoption
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: The rapid growth of distributed energy resources (DERs) presents both 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2411.12193
+Original source URL: https://arxiv.org/abs/2411.12193
 
 ## Local Vault File
 
-Path: ai\rag\hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md
+Path: [hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md](file:///../../ai\rag\hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md)

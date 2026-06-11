@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.20348"
 local_vault_path: "ai\rag\bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Bimanual Robot Manipulation via Multi-Agent In-Context Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: Language Models (LLMs) have emerged as powerful reasoning engines for 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2604.20348
+Original source URL: https://arxiv.org/abs/2604.20348
 
 ## Local Vault File
 
-Path: ai\rag\bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md
+Path: [bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md](file:///../../ai\rag\bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md)

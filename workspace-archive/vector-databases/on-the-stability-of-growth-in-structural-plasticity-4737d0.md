@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.15435"
 local_vault_path: "ai\rag\on-the-stability-of-growth-in-structural-plasticity-4737d0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # On the Stability of Growth in Structural Plasticity
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Standard deep-learning pipelines usually choose the network architectu
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.15435
+Original source URL: https://arxiv.org/abs/2605.15435
 
 ## Local Vault File
 
-Path: ai\rag\on-the-stability-of-growth-in-structural-plasticity-4737d0.md
+Path: [on-the-stability-of-growth-in-structural-plasticity-4737d0.md](file:///../../ai\rag\on-the-stability-of-growth-in-structural-plasticity-4737d0.md)

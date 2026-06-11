@@ -4,19 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/HKUDS/OpenPhone"
 local_vault_path: "ai\agents\hkuds-openphone-4661ce.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - python
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # HKUDS/OpenPhone
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, python
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +33,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://github.com/HKUDS/OpenPhone
+Original source URL: https://github.com/HKUDS/OpenPhone
 
 ## Local Vault File
 
-Path: ai\agents\hkuds-openphone-4661ce.md
+Path: [hkuds-openphone-4661ce.md](file:///../../ai\agents\hkuds-openphone-4661ce.md)

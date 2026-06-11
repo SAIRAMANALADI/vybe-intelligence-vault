@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11274"
 local_vault_path: "ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Multi-agent rendezvous in fluid flows via reinforcement learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Rendezvous is a critical task for multi-agent systems, requiring agent
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11274
+Original source URL: https://arxiv.org/abs/2606.11274
 
 ## Local Vault File
 
-Path: ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md
+Path: [multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md](file:///../../ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md)

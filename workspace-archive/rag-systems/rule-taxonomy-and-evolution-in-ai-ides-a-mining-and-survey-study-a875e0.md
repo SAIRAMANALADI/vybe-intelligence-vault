@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12231"
 local_vault_path: "ai\rag\rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - rag
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag, workflows
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: The adoption of AI-powered Integrated Development Environments (AI IDE
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12231
+Original source URL: https://arxiv.org/abs/2606.12231
 
 ## Local Vault File
 
-Path: ai\rag\rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md
+Path: [rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md](file:///../../ai\rag\rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md)

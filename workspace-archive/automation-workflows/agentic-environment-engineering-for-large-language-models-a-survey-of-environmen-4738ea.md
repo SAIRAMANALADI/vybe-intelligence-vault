@@ -4,19 +4,30 @@ archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12191"
 local_vault_path: "ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - models
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: Environments serve as interactive systems for large language model (LL
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12191
+Original source URL: https://arxiv.org/abs/2606.12191
 
 ## Local Vault File
 
-Path: ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md
+Path: [agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md](file:///../../ai\agents\agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md)

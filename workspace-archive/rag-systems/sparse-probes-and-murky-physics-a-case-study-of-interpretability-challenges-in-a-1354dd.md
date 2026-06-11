@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11657"
 local_vault_path: "ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Sparse probes and murky physics: a case study of interpretability challenges in a foundation model for continuum dynamics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Generative AI emulators are increasingly used in scientific domains wh
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11657
+Original source URL: https://arxiv.org/abs/2606.11657
 
 ## Local Vault File
 
-Path: ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md
+Path: [sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md](file:///../../ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md)

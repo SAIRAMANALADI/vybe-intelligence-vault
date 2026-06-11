@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07001"
 local_vault_path: "ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "high"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: High-quality training data is essential to large language models (LLMs
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.07001
+Original source URL: https://arxiv.org/abs/2606.07001
 
 ## Local Vault File
 
-Path: ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md
+Path: [dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md)

@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12054"
 local_vault_path: "ai\rag\simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Injecting noise into the optimization process is a well-established te
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12054
+Original source URL: https://arxiv.org/abs/2606.12054
 
 ## Local Vault File
 
-Path: ai\rag\simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md
+Path: [simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md](file:///../../ai\rag\simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md)

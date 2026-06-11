@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11635"
 local_vault_path: "ai\research\are-llms-bad-at-moral-reasoning-18a763.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Are LLMs Bad at Moral Reasoning?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: For highly capable AI systems to operate safely in dynamic, open-ended
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11635
+Original source URL: https://arxiv.org/abs/2606.11635
 
 ## Local Vault File
 
-Path: ai\research\are-llms-bad-at-moral-reasoning-18a763.md
+Path: [are-llms-bad-at-moral-reasoning-18a763.md](file:///../../ai\research\are-llms-bad-at-moral-reasoning-18a763.md)

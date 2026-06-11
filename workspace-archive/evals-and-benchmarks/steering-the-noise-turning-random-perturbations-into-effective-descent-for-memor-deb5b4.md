@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.04710"
 local_vault_path: "ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Steering the Noise: Turning Random Perturbations into Effective Descent for Memory-Efficient LLM Fine-Tuning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Fine-tuning large language models (LLMs) achieves strong performance b
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.04710
+Original source URL: https://arxiv.org/abs/2601.04710
 
 ## Local Vault File
 
-Path: ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md
+Path: [steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md](file:///../../ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10198"
 local_vault_path: "ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Density Ridge Selective Prediction for LLM and VLM Hallucination Detection under Calibration Label Scarcity
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Hallucination detection in large language and vision-language models i
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10198
+Original source URL: https://arxiv.org/abs/2606.10198
 
 ## Local Vault File
 
-Path: ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md
+Path: [density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md](file:///../../ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md)

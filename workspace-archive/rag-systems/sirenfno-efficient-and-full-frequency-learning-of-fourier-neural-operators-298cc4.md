@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11518"
 local_vault_path: "ai\rag\sirenfno-efficient-and-full-frequency-learning-of-fourier-neural-operators-298cc4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # SirenFNO: Efficient and Full Frequency Learning of Fourier Neural Operators
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Fourier neural operators (FNOs) are effective and efficient surrogates
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11518
+Original source URL: https://arxiv.org/abs/2606.11518
 
 ## Local Vault File
 
-Path: ai\rag\sirenfno-efficient-and-full-frequency-learning-of-fourier-neural-operators-298cc4.md
+Path: [sirenfno-efficient-and-full-frequency-learning-of-fourier-neural-operators-298cc4.md](file:///../../ai\rag\sirenfno-efficient-and-full-frequency-learning-of-fourier-neural-operators-298cc4.md)

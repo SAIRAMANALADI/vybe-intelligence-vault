@@ -4,20 +4,29 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system"
 local_vault_path: "ai\agents\fareedkhan-dev-production-grade-mcp-agentic-system-842957.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "mcp-server"
+importance: "medium"
 tags:
   - agents
   - anthropic
   - github-repo
   - python
+selection_reason:
+  - "Useful for project building"
 ---
 
 # FareedKhan-dev/production-grade-mcp-agentic-system
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, anthropic, github-repo, python
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +34,14 @@ Building a Production-Grade MCP Server Architecture with a Multi-Agent System
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system
+Original source URL: https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system
 
 ## Local Vault File
 
-Path: ai\agents\fareedkhan-dev-production-grade-mcp-agentic-system-842957.md
+Path: [fareedkhan-dev-production-grade-mcp-agentic-system-842957.md](file:///../../ai\agents\fareedkhan-dev-production-grade-mcp-agentic-system-842957.md)

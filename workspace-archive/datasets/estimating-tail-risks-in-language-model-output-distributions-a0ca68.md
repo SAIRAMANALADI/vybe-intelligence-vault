@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.22167"
 local_vault_path: "ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Estimating Tail Risks in Language Model Output Distributions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Language models are increasingly capable and are being rapidly deploye
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2604.22167
+Original source URL: https://arxiv.org/abs/2604.22167
 
 ## Local Vault File
 
-Path: ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md
+Path: [estimating-tail-risks-in-language-model-output-distributions-a0ca68.md](file:///../../ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md)

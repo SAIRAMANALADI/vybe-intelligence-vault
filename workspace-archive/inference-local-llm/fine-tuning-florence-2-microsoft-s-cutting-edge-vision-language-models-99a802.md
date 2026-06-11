@@ -4,17 +4,26 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/finetune-florence2"
 local_vault_path: "ai\models\fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: Fine-tuning Florence-2 - Microsoft's Cu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/finetune-florence2
+Original source URL: https://huggingface.co/blog/finetune-florence2
 
 ## Local Vault File
 
-Path: ai\models\fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md
+Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md](file:///../../ai\models\fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md)

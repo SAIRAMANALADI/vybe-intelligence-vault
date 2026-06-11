@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/DEEP-PolyU/LinearRAG"
 local_vault_path: "ai\rag\deep-polyu-linearrag-d454a8.md"
+quality_score: 70
+archive_score: 79
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # DEEP-PolyU/LinearRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +35,14 @@ tags:
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/DEEP-PolyU/LinearRAG
+Original source URL: https://github.com/DEEP-PolyU/LinearRAG
 
 ## Local Vault File
 
-Path: ai\rag\deep-polyu-linearrag-d454a8.md
+Path: [deep-polyu-linearrag-d454a8.md](file:///../../ai\rag\deep-polyu-linearrag-d454a8.md)

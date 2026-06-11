@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
 local_vault_path: "ai\models\alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Alyah ⭐️: Toward Robust Evaluation 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/tiiuae/emirati-benchmarks
+Original source URL: https://huggingface.co/blog/tiiuae/emirati-benchmarks
 
 ## Local Vault File
 
-Path: ai\models\alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md
+Path: [alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md](file:///../../ai\models\alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md)

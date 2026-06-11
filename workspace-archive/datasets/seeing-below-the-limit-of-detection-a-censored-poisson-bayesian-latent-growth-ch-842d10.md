@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11876"
 local_vault_path: "ai\research\seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Seeing Below the Limit of Detection: A Censored-Poisson Bayesian Latent-Growth Change-Point Detector (the Span Detector) for Serial ctDNA in HR+/HER2- Metastatic Breast Cancer
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Circulating-tumour DNA (ctDNA) carries evidence of drug resistance mon
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11876
+Original source URL: https://arxiv.org/abs/2606.11876
 
 ## Local Vault File
 
-Path: ai\research\seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md
+Path: [seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md](file:///../../ai\research\seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md)

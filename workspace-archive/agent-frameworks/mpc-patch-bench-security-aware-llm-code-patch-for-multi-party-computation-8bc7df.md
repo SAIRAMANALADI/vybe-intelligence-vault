@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11416"
 local_vault_path: "ai\agents\mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Useful for project building"
 ---
 
 # MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Repository-level benchmarks for evaluating Large Language Model (LLM) 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11416
+Original source URL: https://arxiv.org/abs/2606.11416
 
 ## Local Vault File
 
-Path: ai\agents\mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md
+Path: [mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md](file:///../../ai\agents\mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md)

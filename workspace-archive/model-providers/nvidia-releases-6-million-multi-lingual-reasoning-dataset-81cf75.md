@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1"
 local_vault_path: "ai\models\nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: NVIDIA Releases 6 Million Multi-Lingual
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/nvidia/multilingual-reasoning-v1
+Original source URL: https://huggingface.co/blog/nvidia/multilingual-reasoning-v1
 
 ## Local Vault File
 
-Path: ai\models\nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md
+Path: [nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md](file:///../../ai\models\nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md)

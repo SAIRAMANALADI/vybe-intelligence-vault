@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.23243"
 local_vault_path: "ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
   - scripts
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, scripts
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +34,14 @@ Abstract: We evaluate whether frontier LLMs are ready for cybersecurity through 
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.23243
+Original source URL: https://arxiv.org/abs/2605.23243
 
 ## Local Vault File
 
-Path: ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md
+Path: [are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md](file:///../../ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md)

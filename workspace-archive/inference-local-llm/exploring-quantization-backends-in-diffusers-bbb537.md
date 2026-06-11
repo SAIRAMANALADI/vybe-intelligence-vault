@@ -4,17 +4,28 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/diffusers-quantization"
 local_vault_path: "ai\models\exploring-quantization-backends-in-diffusers-bbb537.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Exploring Quantization Backends in Diffusers
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: models
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +33,14 @@ No summary provided. Reference resource: Exploring Quantization Backends in Diff
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/diffusers-quantization
+Original source URL: https://huggingface.co/blog/diffusers-quantization
 
 ## Local Vault File
 
-Path: ai\models\exploring-quantization-backends-in-diffusers-bbb537.md
+Path: [exploring-quantization-backends-in-diffusers-bbb537.md](file:///../../ai\models\exploring-quantization-backends-in-diffusers-bbb537.md)

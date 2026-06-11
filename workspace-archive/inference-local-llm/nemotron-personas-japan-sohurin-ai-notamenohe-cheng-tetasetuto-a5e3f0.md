@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja"
 local_vault_path: "ai\models\nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Nemotron-Personas-Japan: ソブリン AI のための合成データセット
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Nemotron-Personas-Japan: ソブリン A
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja
+Original source URL: https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja
 
 ## Local Vault File
 
-Path: ai\models\nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md
+Path: [nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md](file:///../../ai\models\nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md)

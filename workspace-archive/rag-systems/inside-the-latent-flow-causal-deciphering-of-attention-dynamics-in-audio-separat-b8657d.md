@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10046"
 local_vault_path: "ai\research\inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Flow-matching transformers achieve strong audio separation, yet their 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10046
+Original source URL: https://arxiv.org/abs/2606.10046
 
 ## Local Vault File
 
-Path: ai\research\inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md
+Path: [inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md](file:///../../ai\research\inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md)

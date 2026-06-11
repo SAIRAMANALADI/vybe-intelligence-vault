@@ -4,18 +4,29 @@ archive_category: "startup-builder"
 source_category: "web-development/gsap"
 source_url: "https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code"
 local_vault_path: "web-development\gsap\codebucks27-the-weirdos-nft-website-starter-code-534f84.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - animation
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # codebucks27/The-Weirdos-NFT-Website-Starter-Code
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/gsap`
-- Tags: animation, frontend_ui
-- Archive category: Startup Builder
+- Matched archive category: `Startup Builder`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Build a cool NFT Collection website landing page with React JS . This website is
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- SaaS boilerplate launching
+- Landing page design
+- MVP feature validation
 
 ## Source
 
-Original source: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
+Original source URL: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
 
 ## Local Vault File
 
-Path: web-development\gsap\codebucks27-the-weirdos-nft-website-starter-code-534f84.md
+Path: [codebucks27-the-weirdos-nft-website-starter-code-534f84.md](file:///../../web-development\gsap\codebucks27-the-weirdos-nft-website-starter-code-534f84.md)

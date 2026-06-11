@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11245"
 local_vault_path: "ai\research\position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Position: Hippocampal Explicit Memory Is the Cornerstone for AGI
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Large Language Models (LLMs) have demonstrated remarkable capabilities
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11245
+Original source URL: https://arxiv.org/abs/2606.11245
 
 ## Local Vault File
 
-Path: ai\research\position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md
+Path: [position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md](file:///../../ai\research\position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md)

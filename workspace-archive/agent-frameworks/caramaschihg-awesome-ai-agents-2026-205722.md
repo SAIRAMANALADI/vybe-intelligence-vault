@@ -4,20 +4,29 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/caramaschiHG/awesome-ai-agents-2026"
 local_vault_path: "ai\agents\caramaschihg-awesome-ai-agents-2026-205722.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - openai
   - unknown
+selection_reason:
+  - "Useful for project building"
 ---
 
 # caramaschiHG/awesome-ai-agents-2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, openai, unknown
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +34,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://github.com/caramaschiHG/awesome-ai-agents-2026
+Original source URL: https://github.com/caramaschiHG/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: ai\agents\caramaschihg-awesome-ai-agents-2026-205722.md
+Path: [caramaschihg-awesome-ai-agents-2026-205722.md](file:///../../ai\agents\caramaschihg-awesome-ai-agents-2026-205722.md)

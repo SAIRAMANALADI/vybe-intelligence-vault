@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2604.18543"
 local_vault_path: "ai\agents\clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # ClawEnvKit: Automatic Environment Generation for Claw-Like Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Constructing environments for training and evaluating claw-like agents
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2604.18543
+Original source URL: https://arxiv.org/abs/2604.18543
 
 ## Local Vault File
 
-Path: ai\agents\clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md
+Path: [clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md](file:///../../ai\agents\clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md)

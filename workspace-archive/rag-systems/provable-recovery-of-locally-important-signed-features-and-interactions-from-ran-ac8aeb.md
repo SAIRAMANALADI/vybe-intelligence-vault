@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.11081"
 local_vault_path: "ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Provable Recovery of Locally Important Signed Features and Interactions from Random Forest
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Feature and Interaction Importance (FII) methods are essential in supe
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.11081
+Original source URL: https://arxiv.org/abs/2512.11081
 
 ## Local Vault File
 
-Path: ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md
+Path: [provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md)

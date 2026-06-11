@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.11081"
 local_vault_path: "ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Provable Recovery of Locally Important Signed Features and Interactions from Random Forest
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Feature and Interaction Importance (FII) methods are essential in supe
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.11081
+Original source URL: https://arxiv.org/abs/2512.11081
 
 ## Local Vault File
 
-Path: ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md
+Path: [provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md)

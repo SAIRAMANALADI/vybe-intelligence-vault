@@ -4,21 +4,32 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/all-in-rag"
 local_vault_path: "ai\rag\datawhalechina-all-in-rag-a9feef.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - github-repo
   - meta-ai
   - models
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # datawhalechina/all-in-rag
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, meta-ai, models, python, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -26,14 +37,14 @@ tags:
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/datawhalechina/all-in-rag
+Original source URL: https://github.com/datawhalechina/all-in-rag
 
 ## Local Vault File
 
-Path: ai\rag\datawhalechina-all-in-rag-a9feef.md
+Path: [datawhalechina-all-in-rag-a9feef.md](file:///../../ai\rag\datawhalechina-all-in-rag-a9feef.md)

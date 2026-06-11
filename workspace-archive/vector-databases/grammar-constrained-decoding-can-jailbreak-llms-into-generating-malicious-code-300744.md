@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11817"
 local_vault_path: "ai\rag\grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Large Language Models (LLMs) are increasingly used for code generation
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11817
+Original source URL: https://arxiv.org/abs/2606.11817
 
 ## Local Vault File
 
-Path: ai\rag\grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md
+Path: [grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md](file:///../../ai\rag\grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md)

@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11235"
 local_vault_path: "ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Few-Shot Resampling for Scalable Statistically-Sound Data Mining
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: A key step in knowledge discovery is the evaluation of data mining res
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11235
+Original source URL: https://arxiv.org/abs/2606.11235
 
 ## Local Vault File
 
-Path: ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md
+Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)

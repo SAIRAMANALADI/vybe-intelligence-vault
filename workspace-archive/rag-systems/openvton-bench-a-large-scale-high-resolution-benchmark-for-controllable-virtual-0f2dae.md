@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.22725"
 local_vault_path: "ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Recent advances in diffusion models have significantly elevated the vi
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.22725
+Original source URL: https://arxiv.org/abs/2601.22725
 
 ## Local Vault File
 
-Path: ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md
+Path: [openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md](file:///../../ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md)

@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11711"
 local_vault_path: "ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Capacity-Constrained Online Convex Optimization with Delayed Feedback
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Online learning with delayed feedback typically assumes that the learn
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11711
+Original source URL: https://arxiv.org/abs/2606.11711
 
 ## Local Vault File
 
-Path: ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md
+Path: [capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md](file:///../../ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md)

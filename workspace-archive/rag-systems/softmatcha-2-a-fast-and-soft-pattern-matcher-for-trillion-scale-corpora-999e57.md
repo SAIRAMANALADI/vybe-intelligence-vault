@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10908"
 local_vault_path: "ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: We present SoftMatcha 2, an ultra-fast and flexible search algorithm t
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.10908
+Original source URL: https://arxiv.org/abs/2602.10908
 
 ## Local Vault File
 
-Path: ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md
+Path: [softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md](file:///../../ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md)

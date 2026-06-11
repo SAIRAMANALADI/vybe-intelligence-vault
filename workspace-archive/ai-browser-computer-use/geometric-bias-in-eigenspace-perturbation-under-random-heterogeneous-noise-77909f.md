@@ -4,17 +4,28 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11263"
 local_vault_path: "ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Geometric bias in eigenspace perturbation under random heterogeneous noise
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Spectral methods rely fundamentally on the stability of principal eige
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11263
+Original source URL: https://arxiv.org/abs/2606.11263
 
 ## Local Vault File
 
-Path: ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md
+Path: [geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md](file:///../../ai\rag\geometric-bias-in-eigenspace-perturbation-under-random-heterogeneous-noise-77909f.md)

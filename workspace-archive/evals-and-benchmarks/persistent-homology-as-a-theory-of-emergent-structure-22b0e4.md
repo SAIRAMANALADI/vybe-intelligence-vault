@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.03065"
 local_vault_path: "ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Persistent Homology as a Theory of Emergent Structure
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Why do some macroscopic structures remain identifiable even though the
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.03065
+Original source URL: https://arxiv.org/abs/2507.03065
 
 ## Local Vault File
 
-Path: ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md
+Path: [persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md](file:///../../ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md)

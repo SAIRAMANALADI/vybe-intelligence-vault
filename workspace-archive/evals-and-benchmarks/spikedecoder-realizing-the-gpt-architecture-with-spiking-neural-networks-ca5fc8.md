@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12287"
 local_vault_path: "ai\research\spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: The Transformer architecture is widely regarded as the most powerful t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12287
+Original source URL: https://arxiv.org/abs/2606.12287
 
 ## Local Vault File
 
-Path: ai\research\spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md
+Path: [spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md](file:///../../ai\research\spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md)

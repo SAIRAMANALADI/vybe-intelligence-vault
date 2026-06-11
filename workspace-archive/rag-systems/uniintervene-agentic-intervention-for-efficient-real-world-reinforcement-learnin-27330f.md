@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12372"
 local_vault_path: "ai\rag\uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # UniIntervene: Agentic Intervention for Efficient Real-World Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: Human-in-the-loop reinforcement learning (HiL-RL) has emerged as an ef
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12372
+Original source URL: https://arxiv.org/abs/2606.12372
 
 ## Local Vault File
 
-Path: ai\rag\uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md
+Path: [uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md](file:///../../ai\rag\uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md)

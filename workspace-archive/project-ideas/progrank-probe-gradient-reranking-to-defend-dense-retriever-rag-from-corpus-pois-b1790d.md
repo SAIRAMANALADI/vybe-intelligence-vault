@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.22934"
 local_vault_path: "ai\rag\progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # ProGRank: Probe-Gradient Reranking to Defend Dense-Retriever RAG from Corpus Poisoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Retrieval-Augmented Generation (RAG) improves large language model app
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.22934
+Original source URL: https://arxiv.org/abs/2603.22934
 
 ## Local Vault File
 
-Path: ai\rag\progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md
+Path: [progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md](file:///../../ai\rag\progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md)

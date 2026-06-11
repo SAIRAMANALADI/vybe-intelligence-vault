@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11205"
 local_vault_path: "ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Activation steering can shift LLM behaviour, but standard evaluations 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11205
+Original source URL: https://arxiv.org/abs/2606.11205
 
 ## Local Vault File
 
-Path: ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md
+Path: [dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md](file:///../../ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md)

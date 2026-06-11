@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11976"
 local_vault_path: "ai\agents\exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Exploration Structure in LLM Agents for Multi-File Change Localization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Software engineering tools increasingly rely on LLM based agents to lo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11976
+Original source URL: https://arxiv.org/abs/2606.11976
 
 ## Local Vault File
 
-Path: ai\agents\exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md
+Path: [exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md](file:///../../ai\agents\exploration-structure-in-llm-agents-for-multi-file-change-localization-3298bc.md)

@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/wow-rag"
 local_vault_path: "ai\rag\datawhalechina-wow-rag-15a159.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - github-repo
   - jupyter notebook
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # datawhalechina/wow-rag
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, jupyter notebook, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ A simple and trans-platform rag framework and tutorial
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/datawhalechina/wow-rag
+Original source URL: https://github.com/datawhalechina/wow-rag
 
 ## Local Vault File
 
-Path: ai\rag\datawhalechina-wow-rag-15a159.md
+Path: [datawhalechina-wow-rag-15a159.md](file:///../../ai\rag\datawhalechina-wow-rag-15a159.md)

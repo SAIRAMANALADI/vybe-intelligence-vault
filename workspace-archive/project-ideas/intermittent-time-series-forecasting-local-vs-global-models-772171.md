@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14031"
 local_vault_path: "ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Intermittent time series forecasting: local vs global models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Forecasting intermittent time series, which contain zeros, is a crucia
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.14031
+Original source URL: https://arxiv.org/abs/2601.14031
 
 ## Local Vault File
 
-Path: ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md
+Path: [intermittent-time-series-forecasting-local-vs-global-models-772171.md](file:///../../ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md)

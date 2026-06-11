@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11930"
 local_vault_path: "ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "high"
 tags:
   - models
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Predicting psychological traits from asynchronous video interviews (AV
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11930
+Original source URL: https://arxiv.org/abs/2606.11930
 
 ## Local Vault File
 
-Path: ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md
+Path: [frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/supercharge-customer-service-with-machine-learning"
 local_vault_path: "ai\models\supercharged-customer-service-with-machine-learning-fbf5cd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Supercharged Customer Service with Machine Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Supercharged Customer Service with Mach
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/supercharge-customer-service-with-machine-learning
+Original source URL: https://huggingface.co/blog/supercharge-customer-service-with-machine-learning
 
 ## Local Vault File
 
-Path: ai\models\supercharged-customer-service-with-machine-learning-fbf5cd.md
+Path: [supercharged-customer-service-with-machine-learning-fbf5cd.md](file:///../../ai\models\supercharged-customer-service-with-machine-learning-fbf5cd.md)

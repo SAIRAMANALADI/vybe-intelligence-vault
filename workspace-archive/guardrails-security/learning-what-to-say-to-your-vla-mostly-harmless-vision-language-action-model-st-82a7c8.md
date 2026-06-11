@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12299"
 local_vault_path: "ai\research\learning-what-to-say-to-your-vla-mostly-harmless-vision-language-action-model-st-82a7c8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Vision-Language-Action (VLA) models provide a natural language interfa
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12299
+Original source URL: https://arxiv.org/abs/2606.12299
 
 ## Local Vault File
 
-Path: ai\research\learning-what-to-say-to-your-vla-mostly-harmless-vision-language-action-model-st-82a7c8.md
+Path: [learning-what-to-say-to-your-vla-mostly-harmless-vision-language-action-model-st-82a7c8.md](file:///../../ai\research\learning-what-to-say-to-your-vla-mostly-harmless-vision-language-action-model-st-82a7c8.md)

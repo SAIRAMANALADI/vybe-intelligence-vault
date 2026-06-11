@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11107"
 local_vault_path: "ai\research\multimodal-brain-tumour-classification-using-feature-fusion-8d362c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Multimodal Brain Tumour Classification Using Feature Fusion
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Clinicians diagnose brain tumors by synthesizing patient symptoms, med
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11107
+Original source URL: https://arxiv.org/abs/2606.11107
 
 ## Local Vault File
 
-Path: ai\research\multimodal-brain-tumour-classification-using-feature-fusion-8d362c.md
+Path: [multimodal-brain-tumour-classification-using-feature-fusion-8d362c.md](file:///../../ai\research\multimodal-brain-tumour-classification-using-feature-fusion-8d362c.md)

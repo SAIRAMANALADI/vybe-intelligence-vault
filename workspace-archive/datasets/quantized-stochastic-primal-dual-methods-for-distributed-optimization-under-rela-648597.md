@@ -4,17 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11339"
 local_vault_path: "ai\research\quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Quantized Stochastic Primal-Dual Methods for Distributed Optimization under Relaxed Global Geometry
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We study distributed optimization with stochastic gradients and finite
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11339
+Original source URL: https://arxiv.org/abs/2606.11339
 
 ## Local Vault File
 
-Path: ai\research\quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md
+Path: [quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md](file:///../../ai\research\quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md)

@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/duanyytop/agents-radar"
 local_vault_path: "ai\agents\duanyytop-agents-radar-6ba533.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
 tags:
   - agents
   - github-repo
@@ -11,15 +16,21 @@ tags:
   - producthunt
   - scripts
   - typescript
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # duanyytop/agents-radar
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, hackernews, producthunt, scripts, typescript
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -27,14 +38,14 @@ Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Produ
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://github.com/duanyytop/agents-radar
+Original source URL: https://github.com/duanyytop/agents-radar
 
 ## Local Vault File
 
-Path: ai\agents\duanyytop-agents-radar-6ba533.md
+Path: [duanyytop-agents-radar-6ba533.md](file:///../../ai\agents\duanyytop-agents-radar-6ba533.md)

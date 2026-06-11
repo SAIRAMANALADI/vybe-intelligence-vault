@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/math_verify_leaderboard"
 local_vault_path: "ai\models\fixing-open-llm-leaderboard-with-math-verify-53f80f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Fixing Open LLM Leaderboard with Math-Verify
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Fixing Open LLM Leaderboard with Math-V
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/math_verify_leaderboard
+Original source URL: https://huggingface.co/blog/math_verify_leaderboard
 
 ## Local Vault File
 
-Path: ai\models\fixing-open-llm-leaderboard-with-math-verify-53f80f.md
+Path: [fixing-open-llm-leaderboard-with-math-verify-53f80f.md](file:///../../ai\models\fixing-open-llm-leaderboard-with-math-verify-53f80f.md)

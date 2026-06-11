@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11431"
 local_vault_path: "ai\research\mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Mirror Descent Beyond Euclidean Stability: An Exponential Separation in Initialization Sensitivity
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Mirror Descent (MD) extends Gradient Descent (GD) beyond Euclidean geo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11431
+Original source URL: https://arxiv.org/abs/2606.11431
 
 ## Local Vault File
 
-Path: ai\research\mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md
+Path: [mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md](file:///../../ai\research\mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md)

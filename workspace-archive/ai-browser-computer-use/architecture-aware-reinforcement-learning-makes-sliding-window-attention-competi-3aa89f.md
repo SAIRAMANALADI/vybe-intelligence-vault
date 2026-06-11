@@ -4,18 +4,27 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11634"
 local_vault_path: "ai\agents\architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +34,14 @@ Abstract: The rapid progress of reasoning and agentic large language models (LLM
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11634
+Original source URL: https://arxiv.org/abs/2606.11634
 
 ## Local Vault File
 
-Path: ai\agents\architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md
+Path: [architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md](file:///../../ai\agents\architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md)

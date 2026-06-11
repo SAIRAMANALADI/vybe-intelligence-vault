@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11542"
 local_vault_path: "ai\research\pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Pretrained self-supervised speech models can recognize unseen consonants
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Modern pretrained self-supervised automatic speech recognition models 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11542
+Original source URL: https://arxiv.org/abs/2606.11542
 
 ## Local Vault File
 
-Path: ai\research\pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md
+Path: [pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md](file:///../../ai\research\pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md)

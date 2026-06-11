@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.25359"
 local_vault_path: "ai\research\geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Geometric Metrics and LLMs: What They Measure and When They Work
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: We present a systematic stress-test of geometric metrics for LLM evalu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.25359
+Original source URL: https://arxiv.org/abs/2509.25359
 
 ## Local Vault File
 
-Path: ai\research\geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md
+Path: [geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md](file:///../../ai\research\geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md)

@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.06527"
 local_vault_path: "ai\rag\characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Characterizing the Impact of NVFP4 Quantization for Low-Power Edge AI Deployment
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Energy-efficient neural-network inference at the edge requires reducin
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.06527
+Original source URL: https://arxiv.org/abs/2606.06527
 
 ## Local Vault File
 
-Path: ai\rag\characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md
+Path: [characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md](file:///../../ai\rag\characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md)

@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.09289"
 local_vault_path: "ai\rag\intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Intention Driven Identification of In-Possession Match Phases in Association Football through Temporal Graph Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Understanding tactical organisation of association football, hereafter
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.09289
+Original source URL: https://arxiv.org/abs/2606.09289
 
 ## Local Vault File
 
-Path: ai\rag\intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md
+Path: [intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md](file:///../../ai\rag\intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md)

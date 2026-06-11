@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2509.14860"
 local_vault_path: "ai\rag\maric-multi-agent-reasoning-for-image-classification-67fbad.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # MARIC: Multi-Agent Reasoning for Image Classification
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Image classification has traditionally relied on parameter-intensive m
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.14860
+Original source URL: https://arxiv.org/abs/2509.14860
 
 ## Local Vault File
 
-Path: ai\rag\maric-multi-agent-reasoning-for-image-classification-67fbad.md
+Path: [maric-multi-agent-reasoning-for-image-classification-67fbad.md](file:///../../ai\rag\maric-multi-agent-reasoning-for-image-classification-67fbad.md)

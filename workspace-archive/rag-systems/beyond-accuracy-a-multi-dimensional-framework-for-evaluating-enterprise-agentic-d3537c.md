@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/html/2511.14136v1"
 local_vault_path: "ai\rag\beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,21 @@ tags:
   - models
   - openai
   - paper
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic AI Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, frontend_ui, hackernews, leaderboard, meta-ai, models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -31,14 +42,14 @@ Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/html/2511.14136v1
+Original source URL: https://arxiv.org/html/2511.14136v1
 
 ## Local Vault File
 
-Path: ai\rag\beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md
+Path: [beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md](file:///../../ai\rag\beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md)

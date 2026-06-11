@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag"
 local_vault_path: "ai\rag\what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - dataset
@@ -12,15 +17,21 @@ tags:
   - rag
   - reddit
   - web-crawled
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, dataset, hackernews, models, rag, reddit, web-crawled
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -28,14 +39,14 @@ CoursesTutorialsPracticeJobsNLP TutorialLibrariesPhasesText PreprosessingTokeniz
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag
+Original source URL: https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag
 
 ## Local Vault File
 
-Path: ai\rag\what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md
+Path: [what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md](file:///../../ai\rag\what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md)

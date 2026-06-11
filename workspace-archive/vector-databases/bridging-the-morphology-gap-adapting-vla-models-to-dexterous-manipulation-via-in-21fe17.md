@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12109"
 local_vault_path: "ai\rag\bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Vision-Language-Action (VLA) models have demonstrated remarkable zero-
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12109
+Original source URL: https://arxiv.org/abs/2606.12109
 
 ## Local Vault File
 
-Path: ai\rag\bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md
+Path: [bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md](file:///../../ai\rag\bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md)

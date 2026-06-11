@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.14764"
 local_vault_path: "ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # An XAI View on Explainable ASP: Methods, Systems, and Perspectives
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Answer Set Programming (ASP) is a popular declarative reasoning and pr
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.14764
+Original source URL: https://arxiv.org/abs/2601.14764
 
 ## Local Vault File
 
-Path: ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md
+Path: [an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md](file:///../../ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md)

@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/intel-starcoder-quantization"
 local_vault_path: "ai\models\accelerate-starcoder-with-optimum-intel-on-xeon-q8-q4-and-speculative-decoding-c703ce.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Accelerate StarCoder with 🤗 Optimum 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/intel-starcoder-quantization
+Original source URL: https://huggingface.co/blog/intel-starcoder-quantization
 
 ## Local Vault File
 
-Path: ai\models\accelerate-starcoder-with-optimum-intel-on-xeon-q8-q4-and-speculative-decoding-c703ce.md
+Path: [accelerate-starcoder-with-optimum-intel-on-xeon-q8-q4-and-speculative-decoding-c703ce.md](file:///../../ai\models\accelerate-starcoder-with-optimum-intel-on-xeon-q8-q4-and-speculative-decoding-c703ce.md)

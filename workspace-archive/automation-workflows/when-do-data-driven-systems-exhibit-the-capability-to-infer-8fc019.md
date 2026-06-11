@@ -4,17 +4,28 @@ archive_category: "automation-workflows"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11769"
 local_vault_path: "ai\research\when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # When Do Data-Driven Systems Exhibit the Capability to Infer?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: The European AI Act is the first comprehensive regulation of artificia
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11769
+Original source URL: https://arxiv.org/abs/2606.11769
 
 ## Local Vault File
 
-Path: ai\research\when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md
+Path: [when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md](file:///../../ai\research\when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md)

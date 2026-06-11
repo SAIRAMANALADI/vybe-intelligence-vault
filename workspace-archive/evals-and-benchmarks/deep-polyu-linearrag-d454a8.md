@@ -4,19 +4,30 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/DEEP-PolyU/LinearRAG"
 local_vault_path: "ai\rag\deep-polyu-linearrag-d454a8.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # DEEP-PolyU/LinearRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +35,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://github.com/DEEP-PolyU/LinearRAG
+Original source URL: https://github.com/DEEP-PolyU/LinearRAG
 
 ## Local Vault File
 
-Path: ai\rag\deep-polyu-linearrag-d454a8.md
+Path: [deep-polyu-linearrag-d454a8.md](file:///../../ai\rag\deep-polyu-linearrag-d454a8.md)

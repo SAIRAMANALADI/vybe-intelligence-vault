@@ -4,17 +4,28 @@ archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/pdsuwwz/nextjs-nextra-starter"
 local_vault_path: "web-development\nextjs\pdsuwwz-nextjs-nextra-starter-bfee14.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # pdsuwwz/nextjs-nextra-starter
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/nextjs`
-- Tags: frontend_ui
-- Archive category: Frontend AI UI
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,15 +33,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
 
 ## Source
 
-Original source: https://github.com/pdsuwwz/nextjs-nextra-starter
+Original source URL: https://github.com/pdsuwwz/nextjs-nextra-starter
 
 ## Local Vault File
 
-Path: web-development\nextjs\pdsuwwz-nextjs-nextra-starter-bfee14.md
+Path: [pdsuwwz-nextjs-nextra-starter-bfee14.md](file:///../../web-development\nextjs\pdsuwwz-nextjs-nextra-starter-bfee14.md)

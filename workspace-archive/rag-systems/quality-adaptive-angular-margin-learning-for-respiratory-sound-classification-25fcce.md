@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11915"
 local_vault_path: "ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Quality Adaptive Angular Margin Learning for Respiratory Sound Classification
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: We present a quality-adaptive angular-margin learning framework that i
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11915
+Original source URL: https://arxiv.org/abs/2606.11915
 
 ## Local Vault File
 
-Path: ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md
+Path: [quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md](file:///../../ai\research\quality-adaptive-angular-margin-learning-for-respiratory-sound-classification-25fcce.md)

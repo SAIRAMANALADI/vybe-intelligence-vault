@@ -4,17 +4,28 @@ archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/salimi-my/shadcn-ui-sidebar"
 local_vault_path: "web-development\shadcn-ui\salimi-my-shadcn-ui-sidebar-04320a.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # salimi-my/shadcn-ui-sidebar
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/shadcn-ui`
-- Tags: frontend_ui
-- Archive category: Frontend AI UI
+- Matched archive category: `Frontend AI UI`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -22,15 +33,14 @@ A stunning, functional and responsive retractable sidebar for Next.js built on t
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI chat bubbled views
+- Tailwind bento dashboards
+- Aesthetic layout templates
 
 ## Source
 
-Original source: https://github.com/salimi-my/shadcn-ui-sidebar
+Original source URL: https://github.com/salimi-my/shadcn-ui-sidebar
 
 ## Local Vault File
 
-Path: web-development\shadcn-ui\salimi-my-shadcn-ui-sidebar-04320a.md
+Path: [salimi-my-shadcn-ui-sidebar-04320a.md](file:///../../web-development\shadcn-ui\salimi-my-shadcn-ui-sidebar-04320a.md)

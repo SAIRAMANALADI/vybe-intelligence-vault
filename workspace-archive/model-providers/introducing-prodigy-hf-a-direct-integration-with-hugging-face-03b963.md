@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/prodigy-hf"
 local_vault_path: "ai\models\introducing-prodigy-hf-a-direct-integration-with-hugging-face-03b963.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing Prodigy-HF: a direct integration with Hugging Face
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Introducing Prodigy-HF: a direct integr
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/prodigy-hf
+Original source URL: https://huggingface.co/blog/prodigy-hf
 
 ## Local Vault File
 
-Path: ai\models\introducing-prodigy-hf-a-direct-integration-with-hugging-face-03b963.md
+Path: [introducing-prodigy-hf-a-direct-integration-with-hugging-face-03b963.md](file:///../../ai\models\introducing-prodigy-hf-a-direct-integration-with-hugging-face-03b963.md)

@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.09789"
 local_vault_path: "ai\research\carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # CaReTS: A Multi-Task Framework Unifying Classification and Regression for Time Series Forecasting
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Recent advances in deep forecasting models have achieved remarkable pe
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.09789
+Original source URL: https://arxiv.org/abs/2511.09789
 
 ## Local Vault File
 
-Path: ai\research\carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md
+Path: [carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md](file:///../../ai\research\carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md)

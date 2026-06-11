@@ -4,18 +4,27 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11672"
 local_vault_path: "ai\agents\can-open-source-llm-agents-replace-static-application-security-testing-tools-an-da5322.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, models
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +33,14 @@ Abstract: This paper explores the value of agentic AI tools for cybersecurity pu
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11672
+Original source URL: https://arxiv.org/abs/2606.11672
 
 ## Local Vault File
 
-Path: ai\agents\can-open-source-llm-agents-replace-static-application-security-testing-tools-an-da5322.md
+Path: [can-open-source-llm-agents-replace-static-application-security-testing-tools-an-da5322.md](file:///../../ai\agents\can-open-source-llm-agents-replace-static-application-security-testing-tools-an-da5322.md)

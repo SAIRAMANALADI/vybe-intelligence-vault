@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/playlist-generator"
 local_vault_path: "ai\models\building-a-playlist-generator-with-sentence-transformers-6e4f33.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Building a Playlist Generator with Sentence Transformers
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Building a Playlist Generator with Sent
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/playlist-generator
+Original source URL: https://huggingface.co/blog/playlist-generator
 
 ## Local Vault File
 
-Path: ai\models\building-a-playlist-generator-with-sentence-transformers-6e4f33.md
+Path: [building-a-playlist-generator-with-sentence-transformers-6e4f33.md](file:///../../ai\models\building-a-playlist-generator-with-sentence-transformers-6e4f33.md)

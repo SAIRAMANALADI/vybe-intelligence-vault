@@ -4,17 +4,28 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/luosijie/threejs-examples"
 local_vault_path: "web-development\threejs\luosijie-threejs-examples-84e1e7.md"
+quality_score: 70
+archive_score: 83
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # luosijie/threejs-examples
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/threejs`
-- Tags: threejs
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 83 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -22,15 +33,14 @@ This is a place where I post sketches, experiments and the like based on Three.j
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/luosijie/threejs-examples
+Original source URL: https://github.com/luosijie/threejs-examples
 
 ## Local Vault File
 
-Path: web-development\threejs\luosijie-threejs-examples-84e1e7.md
+Path: [luosijie-threejs-examples-84e1e7.md](file:///../../web-development\threejs\luosijie-threejs-examples-84e1e7.md)

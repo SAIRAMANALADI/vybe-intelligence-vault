@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.00044"
 local_vault_path: "ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Time-multiplexed layer reuse for physical neural networks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Physical neural networks (PNNs) are promising candidates for next-gene
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.00044
+Original source URL: https://arxiv.org/abs/2511.00044
 
 ## Local Vault File
 
-Path: ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md
+Path: [time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md](file:///../../ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md)

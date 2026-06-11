@@ -4,17 +4,28 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/mikbry/awesome-webgpu"
 local_vault_path: "web-development\webgpu\mikbry-awesome-webgpu-b31950.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # mikbry/awesome-webgpu
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/webgpu`
-- Tags: threejs
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -22,15 +33,14 @@ tags:
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/mikbry/awesome-webgpu
+Original source URL: https://github.com/mikbry/awesome-webgpu
 
 ## Local Vault File
 
-Path: web-development\webgpu\mikbry-awesome-webgpu-b31950.md
+Path: [mikbry-awesome-webgpu-b31950.md](file:///../../web-development\webgpu\mikbry-awesome-webgpu-b31950.md)

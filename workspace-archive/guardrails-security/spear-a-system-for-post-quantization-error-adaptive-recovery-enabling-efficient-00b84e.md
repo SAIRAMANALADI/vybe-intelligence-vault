@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11244"
 local_vault_path: "ai\research\spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling Efficient Low-Bit LLM Serving
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Efficient large language model (LLM) serving is increasingly constrain
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11244
+Original source URL: https://arxiv.org/abs/2606.11244
 
 ## Local Vault File
 
-Path: ai\research\spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md
+Path: [spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md](file:///../../ai\research\spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md)

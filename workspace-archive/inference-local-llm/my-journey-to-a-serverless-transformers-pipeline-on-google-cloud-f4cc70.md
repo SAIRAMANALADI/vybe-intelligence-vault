@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds"
 local_vault_path: "ai\models\my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # My Journey to a serverless transformers pipeline on Google Cloud
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: My Journey to a serverless transformers
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds
+Original source URL: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds
 
 ## Local Vault File
 
-Path: ai\models\my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md
+Path: [my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md](file:///../../ai\models\my-journey-to-a-serverless-transformers-pipeline-on-google-cloud-f4cc70.md)

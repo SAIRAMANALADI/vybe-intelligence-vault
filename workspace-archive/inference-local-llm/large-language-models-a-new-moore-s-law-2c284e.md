@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/large-language-models"
 local_vault_path: "ai\models\large-language-models-a-new-moore-s-law-2c284e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Large Language Models: A New Moore's Law?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Large Language Models: A New Moore's La
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/large-language-models
+Original source URL: https://huggingface.co/blog/large-language-models
 
 ## Local Vault File
 
-Path: ai\models\large-language-models-a-new-moore-s-law-2c284e.md
+Path: [large-language-models-a-new-moore-s-law-2c284e.md](file:///../../ai\models\large-language-models-a-new-moore-s-law-2c284e.md)

@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://llm-stats.com/benchmarks"
 local_vault_path: "ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -15,15 +20,19 @@ tags:
   - models
   - openai
   - paper
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, dataset, deepmind, frontend_ui, hackernews, leaderboard, models
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ AI Benchmarks 2026Compare 300+ AI and LLM benchmarks in one place — reasoning,
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://llm-stats.com/benchmarks
+Original source URL: https://llm-stats.com/benchmarks
 
 ## Local Vault File
 
-Path: ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md
+Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md](file:///../../ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md)

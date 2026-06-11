@@ -4,14 +4,24 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nanovlm"
 local_vault_path: "ai\models\nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # nanoVLM: The simplest repository to train your VLM in pure PyTorch
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: nanoVLM: The simplest repository to tra
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/nanovlm
+Original source URL: https://huggingface.co/blog/nanovlm
 
 ## Local Vault File
 
-Path: ai\models\nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md
+Path: [nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md](file:///../../ai\models\nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md)

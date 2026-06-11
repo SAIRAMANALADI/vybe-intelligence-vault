@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11258"
 local_vault_path: "ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Gradient-based inversion of reaction-diffusion systems is typically ap
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11258
+Original source URL: https://arxiv.org/abs/2606.11258
 
 ## Local Vault File
 
-Path: ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md
+Path: [loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md](file:///../../ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md)

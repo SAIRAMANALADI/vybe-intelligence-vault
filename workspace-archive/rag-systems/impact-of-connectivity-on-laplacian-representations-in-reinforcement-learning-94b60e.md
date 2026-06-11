@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.08558"
 local_vault_path: "ai\rag\impact-of-connectivity-on-laplacian-representations-in-reinforcement-learning-94b60e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Impact of Connectivity on Laplacian Representations in Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Learning compact state representations in Markov Decision Processes (M
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2603.08558
+Original source URL: https://arxiv.org/abs/2603.08558
 
 ## Local Vault File
 
-Path: ai\rag\impact-of-connectivity-on-laplacian-representations-in-reinforcement-learning-94b60e.md
+Path: [impact-of-connectivity-on-laplacian-representations-in-reinforcement-learning-94b60e.md](file:///../../ai\rag\impact-of-connectivity-on-laplacian-representations-in-reinforcement-learning-94b60e.md)

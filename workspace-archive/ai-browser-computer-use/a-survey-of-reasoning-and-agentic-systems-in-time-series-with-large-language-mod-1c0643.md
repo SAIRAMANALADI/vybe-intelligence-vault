@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2509.11575"
 local_vault_path: "ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Time series reasoning treats time as a first-class axis and incorporat
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.11575
+Original source URL: https://arxiv.org/abs/2509.11575
 
 ## Local Vault File
 
-Path: ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md
+Path: [a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md](file:///../../ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md)

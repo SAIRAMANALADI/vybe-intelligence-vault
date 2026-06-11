@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11382"
 local_vault_path: "ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Property Prediction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Deep learning models facilitate the discovery of molecules with tailor
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11382
+Original source URL: https://arxiv.org/abs/2606.11382
 
 ## Local Vault File
 
-Path: ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md
+Path: [glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md](file:///../../ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md)

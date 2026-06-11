@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/run-musicgen-as-an-api"
 local_vault_path: "ai\models\deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Deploy MusicGen in no time with Inference Endpoints
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Deploy MusicGen in no time with Inferen
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/run-musicgen-as-an-api
+Original source URL: https://huggingface.co/blog/run-musicgen-as-an-api
 
 ## Local Vault File
 
-Path: ai\models\deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md
+Path: [deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md](file:///../../ai\models\deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md)

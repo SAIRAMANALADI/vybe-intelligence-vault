@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/idefics"
 local_vault_path: "ai\models\introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Introducing IDEFICS: An Open Reproducti
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/idefics
+Original source URL: https://huggingface.co/blog/idefics
 
 ## Local Vault File
 
-Path: ai\models\introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md
+Path: [introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md](file:///../../ai\models\introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md)

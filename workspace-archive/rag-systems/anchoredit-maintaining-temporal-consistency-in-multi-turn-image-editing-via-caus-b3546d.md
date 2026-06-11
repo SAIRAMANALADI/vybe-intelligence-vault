@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11751"
 local_vault_path: "ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Multi-turn image editing is essential for iterative design, yet curren
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11751
+Original source URL: https://arxiv.org/abs/2606.11751
 
 ## Local Vault File
 
-Path: ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md
+Path: [anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md](file:///../../ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md)

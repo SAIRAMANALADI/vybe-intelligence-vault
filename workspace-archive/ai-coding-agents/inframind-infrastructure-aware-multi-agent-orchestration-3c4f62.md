@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11440"
 local_vault_path: "ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Useful for project building"
 ---
 
 # INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Existing multi-agent LLM orchestration methods, ranging from brute-for
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11440
+Original source URL: https://arxiv.org/abs/2606.11440
 
 ## Local Vault File
 
-Path: ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md
+Path: [inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md](file:///../../ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md)

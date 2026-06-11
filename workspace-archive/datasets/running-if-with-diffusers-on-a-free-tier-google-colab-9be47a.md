@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/if"
 local_vault_path: "ai\models\running-if-with-diffusers-on-a-free-tier-google-colab-9be47a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Running IF with 🧨 diffusers on a Free Tier Google Colab
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Running IF with 🧨 diffusers on a Fre
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/if
+Original source URL: https://huggingface.co/blog/if
 
 ## Local Vault File
 
-Path: ai\models\running-if-with-diffusers-on-a-free-tier-google-colab-9be47a.md
+Path: [running-if-with-diffusers-on-a-free-tier-google-colab-9be47a.md](file:///../../ai\models\running-if-with-diffusers-on-a-free-tier-google-colab-9be47a.md)

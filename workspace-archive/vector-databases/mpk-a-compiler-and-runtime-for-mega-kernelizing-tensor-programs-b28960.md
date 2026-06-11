@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.22219"
 local_vault_path: "ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: We introduce Mirage Persistent Kernel (MPK), the first compiler and ru
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.22219
+Original source URL: https://arxiv.org/abs/2512.22219
 
 ## Local Vault File
 
-Path: ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md
+Path: [mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md](file:///../../ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md)

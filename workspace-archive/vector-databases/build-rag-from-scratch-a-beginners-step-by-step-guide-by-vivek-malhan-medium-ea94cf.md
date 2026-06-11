@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd"
 local_vault_path: "ai\rag\build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - openai
   - rag
   - web-crawled
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: openai, rag, web-crawled
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +33,14 @@ Build RAG From Scratch: A Beginner’s Step-by-Step GuideVivek Malhan4 min read�
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
+Original source URL: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
 
 ## Local Vault File
 
-Path: ai\rag\build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md
+Path: [build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md](file:///../../ai\rag\build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11922"
 local_vault_path: "ai\research\lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Lung-SRAD: Spectral-Aware Regularized Audio DASS with Dual-Axis Patch-Mix Contrastive Learning for Respiratory Sound Classification
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Recent respiratory sound classification (RSC) studies largely rely on 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11922
+Original source URL: https://arxiv.org/abs/2606.11922
 
 ## Local Vault File
 
-Path: ai\research\lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md
+Path: [lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md](file:///../../ai\research\lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md)

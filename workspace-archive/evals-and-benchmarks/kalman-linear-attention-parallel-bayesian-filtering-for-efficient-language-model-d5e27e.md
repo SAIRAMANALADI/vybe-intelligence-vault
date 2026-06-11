@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10743"
 local_vault_path: "ai\research\kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modelling and State Tracking
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: State-space language models such as Mamba and gated linear attention (
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.10743
+Original source URL: https://arxiv.org/abs/2602.10743
 
 ## Local Vault File
 
-Path: ai\research\kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md
+Path: [kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md](file:///../../ai\research\kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md)

@@ -4,21 +4,32 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/humanlayer/12-factor-agents"
 local_vault_path: "ai\rag\humanlayer-12-factor-agents-b0ceeb.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - rag
   - reddit
   - typescript
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # humanlayer/12-factor-agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, github-repo, rag, reddit, typescript
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -26,14 +37,14 @@ What are the principles we can use to build LLM-powered software that is actuall
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/humanlayer/12-factor-agents
+Original source URL: https://github.com/humanlayer/12-factor-agents
 
 ## Local Vault File
 
-Path: ai\rag\humanlayer-12-factor-agents-b0ceeb.md
+Path: [humanlayer-12-factor-agents-b0ceeb.md](file:///../../ai\rag\humanlayer-12-factor-agents-b0ceeb.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/leaderboard-3c3h-aragen"
 local_vault_path: "ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +33,14 @@ No summary provided. Reference resource: Rethinking LLM Evaluation with 3C3H: Ar
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://huggingface.co/blog/leaderboard-3c3h-aragen
+Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen
 
 ## Local Vault File
 
-Path: ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md
+Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md](file:///../../ai\rag\rethinking-llm-evaluation-with-3c3h-aragen-benchmark-and-leaderboard-d8f55b.md)

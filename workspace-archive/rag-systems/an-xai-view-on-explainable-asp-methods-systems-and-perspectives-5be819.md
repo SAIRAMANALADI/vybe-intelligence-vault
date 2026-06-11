@@ -4,17 +4,28 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.14764"
 local_vault_path: "ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # An XAI View on Explainable ASP: Methods, Systems, and Perspectives
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +34,14 @@ Abstract: Answer Set Programming (ASP) is a popular declarative reasoning and pr
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.14764
+Original source URL: https://arxiv.org/abs/2601.14764
 
 ## Local Vault File
 
-Path: ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md
+Path: [an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md](file:///../../ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md)

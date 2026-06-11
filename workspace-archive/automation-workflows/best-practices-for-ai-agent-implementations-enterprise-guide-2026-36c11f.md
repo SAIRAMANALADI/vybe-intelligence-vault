@@ -4,6 +4,11 @@ archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://onereach.ai/blog/best-practices-for-ai-agent-implementations"
 local_vault_path: "ai\rag\best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - benchmark
@@ -13,15 +18,21 @@ tags:
   - scripts
   - web-crawled
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Best Practices for AI Agent Implementations: Enterprise Guide 2026
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, benchmark, hackernews, paper, rag, scripts, web-crawled, workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -29,14 +40,14 @@ Home > Blog > Best Practices for AI Agent Implementations October 31, 2025 10 mi
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://onereach.ai/blog/best-practices-for-ai-agent-implementations
+Original source URL: https://onereach.ai/blog/best-practices-for-ai-agent-implementations
 
 ## Local Vault File
 
-Path: ai\rag\best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md
+Path: [best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md](file:///../../ai\rag\best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md)

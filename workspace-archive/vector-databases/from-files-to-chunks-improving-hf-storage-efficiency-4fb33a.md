@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/from-files-to-chunks"
 local_vault_path: "ai\rag\from-files-to-chunks-improving-hf-storage-efficiency-4fb33a.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # From Files to Chunks: Improving HF Storage Efficiency
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +31,14 @@ No summary provided. Reference resource: From Files to Chunks: Improving HF Stor
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://huggingface.co/blog/from-files-to-chunks
+Original source URL: https://huggingface.co/blog/from-files-to-chunks
 
 ## Local Vault File
 
-Path: ai\rag\from-files-to-chunks-improving-hf-storage-efficiency-4fb33a.md
+Path: [from-files-to-chunks-improving-hf-storage-efficiency-4fb33a.md](file:///../../ai\rag\from-files-to-chunks-improving-hf-storage-efficiency-4fb33a.md)

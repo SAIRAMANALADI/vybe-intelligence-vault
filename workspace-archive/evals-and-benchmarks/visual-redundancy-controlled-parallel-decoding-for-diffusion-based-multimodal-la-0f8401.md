@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.25820"
 local_vault_path: "ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Diffusion-based multimodal large language models (dMLLMs) decode by it
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.25820
+Original source URL: https://arxiv.org/abs/2605.25820
 
 ## Local Vault File
 
-Path: ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md
+Path: [visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md](file:///../../ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md)

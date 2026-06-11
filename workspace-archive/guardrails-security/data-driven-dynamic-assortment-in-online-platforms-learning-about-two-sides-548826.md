@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11118"
 local_vault_path: "ai\research\data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Data-Driven Dynamic Assortment in Online Platforms: Learning about Two Sides
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: We study a dynamic assortment problem on a two-sided service platform 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11118
+Original source URL: https://arxiv.org/abs/2606.11118
 
 ## Local Vault File
 
-Path: ai\research\data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md
+Path: [data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md](file:///../../ai\research\data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.22962"
 local_vault_path: "ai\research\scaling-laws-of-global-weather-models-ec0ad2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Scaling Laws of Global Weather Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Data-driven models are revolutionizing weather forecasting. To optimiz
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.22962
+Original source URL: https://arxiv.org/abs/2602.22962
 
 ## Local Vault File
 
-Path: ai\research\scaling-laws-of-global-weather-models-ec0ad2.md
+Path: [scaling-laws-of-global-weather-models-ec0ad2.md](file:///../../ai\research\scaling-laws-of-global-weather-models-ec0ad2.md)

@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2508.21380"
 local_vault_path: "ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in a Chess-Playing Neural Network
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Recent mechanistic work has uncovered learned algorithms within neural
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://arxiv.org/abs/2508.21380
+Original source URL: https://arxiv.org/abs/2508.21380
 
 ## Local Vault File
 
-Path: ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md
+Path: [the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md](file:///../../ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md)

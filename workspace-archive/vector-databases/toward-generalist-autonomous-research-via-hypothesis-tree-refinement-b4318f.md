@@ -4,19 +4,28 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11926"
 local_vault_path: "ai\rag\toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Toward Generalist Autonomous Research via Hypothesis-Tree Refinement
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -25,14 +34,14 @@ Abstract: Scientific progress depends on a repeated loop of exploration, experim
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11926
+Original source URL: https://arxiv.org/abs/2606.11926
 
 ## Local Vault File
 
-Path: ai\rag\toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md
+Path: [toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md](file:///../../ai\rag\toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md)

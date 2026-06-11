@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.21594"
 local_vault_path: "ai\rag\visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Visualizing LLM Latent Space Geometry Through Dimensionality Reduction
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Large language models (LLMs) achieve state-of-the-art results across m
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.21594
+Original source URL: https://arxiv.org/abs/2511.21594
 
 ## Local Vault File
 
-Path: ai\rag\visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md
+Path: [visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md](file:///../../ai\rag\visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md)

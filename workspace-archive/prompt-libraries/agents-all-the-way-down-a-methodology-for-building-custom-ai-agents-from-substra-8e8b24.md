@@ -4,17 +4,28 @@ archive_category: "prompt-libraries"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11869"
 local_vault_path: "ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Prompt Libraries
+- Matched archive category: `Prompt Libraries`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -28,15 +39,14 @@ Abstract: Custom AI agents areagents that live inside their own
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- System prompt patterns
+- Structured prompt design
+- Few-shot examples
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11869
+Original source URL: https://arxiv.org/abs/2606.11869
 
 ## Local Vault File
 
-Path: ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md
+Path: [agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md](file:///../../ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md)

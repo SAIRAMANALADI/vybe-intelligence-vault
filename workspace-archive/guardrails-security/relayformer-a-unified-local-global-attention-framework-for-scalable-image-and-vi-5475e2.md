@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.09459"
 local_vault_path: "ai\research\relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # RelayFormer: A Unified Local-Global Attention Framework for Scalable Image and Video Manipulation Localization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Visual manipulation localization (VML) aims to identify tampered regio
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2508.09459
+Original source URL: https://arxiv.org/abs/2508.09459
 
 ## Local Vault File
 
-Path: ai\research\relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md
+Path: [relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md](file:///../../ai\research\relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md)

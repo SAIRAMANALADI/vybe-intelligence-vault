@@ -4,19 +4,30 @@ archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11238"
 local_vault_path: "ai\agents\artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - agents
   - scripts
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, scripts, workflows
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Ship finance is a data-intensive and document-heavy segment of asset-b
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11238
+Original source URL: https://arxiv.org/abs/2606.11238
 
 ## Local Vault File
 
-Path: ai\agents\artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md
+Path: [artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md](file:///../../ai\agents\artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md)

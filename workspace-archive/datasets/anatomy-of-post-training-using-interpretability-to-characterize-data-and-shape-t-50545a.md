@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12360"
 local_vault_path: "ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Language-model post-training is the main stage at which model behavior
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12360
+Original source URL: https://arxiv.org/abs/2606.12360
 
 ## Local Vault File
 
-Path: ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md
+Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)

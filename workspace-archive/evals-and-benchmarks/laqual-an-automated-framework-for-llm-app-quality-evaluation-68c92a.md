@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.18636"
 local_vault_path: "ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # LaQual: An Automated Framework for LLM App Quality Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Representing a new paradigm in software distribution, LLM app stores a
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2508.18636
+Original source URL: https://arxiv.org/abs/2508.18636
 
 ## Local Vault File
 
-Path: ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md
+Path: [laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md](file:///../../ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md)

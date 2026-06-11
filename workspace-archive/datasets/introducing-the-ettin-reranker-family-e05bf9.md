@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ettin-reranker"
 local_vault_path: "ai\models\introducing-the-ettin-reranker-family-e05bf9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing the Ettin Reranker Family
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Introducing the Ettin Reranker Family
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/ettin-reranker
+Original source URL: https://huggingface.co/blog/ettin-reranker
 
 ## Local Vault File
 
-Path: ai\models\introducing-the-ettin-reranker-family-e05bf9.md
+Path: [introducing-the-ettin-reranker-family-e05bf9.md](file:///../../ai\models\introducing-the-ettin-reranker-family-e05bf9.md)

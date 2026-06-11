@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12058"
 local_vault_path: "ai\research\phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - framer_motion
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Attention is the key mechanism underlying in-context learning in trans
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12058
+Original source URL: https://arxiv.org/abs/2606.12058
 
 ## Local Vault File
 
-Path: ai\research\phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md
+Path: [phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md](file:///../../ai\research\phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md)

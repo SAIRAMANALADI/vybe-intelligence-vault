@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11266"
 local_vault_path: "ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Seeing Before Colliding: Anticipatory Safe RL with Frozen Vision-Language Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: The cost signal that constrained-RL algorithms optimize against is alm
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11266
+Original source URL: https://arxiv.org/abs/2606.11266
 
 ## Local Vault File
 
-Path: ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md
+Path: [seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md](file:///../../ai\research\seeing-before-colliding-anticipatory-safe-rl-with-frozen-vision-language-models-5be101.md)

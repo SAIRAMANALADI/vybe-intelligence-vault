@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12365"
 local_vault_path: "ai\research\ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: We propose Ambient Diffusion Policy, a simple and principled method fo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12365
+Original source URL: https://arxiv.org/abs/2606.12365
 
 ## Local Vault File
 
-Path: ai\research\ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md
+Path: [ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md](file:///../../ai\research\ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md)

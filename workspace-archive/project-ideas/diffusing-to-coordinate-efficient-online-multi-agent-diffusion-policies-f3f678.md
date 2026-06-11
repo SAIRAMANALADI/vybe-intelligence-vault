@@ -4,19 +4,30 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.18291"
 local_vault_path: "ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, models, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -25,15 +36,14 @@ Abstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framew
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.18291
+Original source URL: https://arxiv.org/abs/2602.18291
 
 ## Local Vault File
 
-Path: ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md
+Path: [diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md](file:///../../ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md)

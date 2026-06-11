@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11676"
 local_vault_path: "ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Neural-Parameterized Cellular Automata for Wildfire Spread
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Traditional wildfire models rely on rigid, low-dimensional parameters 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11676
+Original source URL: https://arxiv.org/abs/2606.11676
 
 ## Local Vault File
 
-Path: ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md
+Path: [neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md](file:///../../ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md)

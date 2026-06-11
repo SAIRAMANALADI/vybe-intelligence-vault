@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.17012"
 local_vault_path: "ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "api"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Sustainability assessment using multimodal AI agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Reducing the rapidly growing environmental impact of the computing ind
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2507.17012
+Original source URL: https://arxiv.org/abs/2507.17012
 
 ## Local Vault File
 
-Path: ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md
+Path: [sustainability-assessment-using-multimodal-ai-agents-52afa1.md](file:///../../ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md)

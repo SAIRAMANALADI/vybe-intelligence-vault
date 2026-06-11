@@ -4,17 +4,28 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11854"
 local_vault_path: "ai\research\fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: There are two main Parameter-Efficient Fine-Tuning (PEFT) techniques f
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11854
+Original source URL: https://arxiv.org/abs/2606.11854
 
 ## Local Vault File
 
-Path: ai\research\fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md
+Path: [fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md](file:///../../ai\research\fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md)

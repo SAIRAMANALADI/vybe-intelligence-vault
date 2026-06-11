@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11295"
 local_vault_path: "ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Interpretable Neural Marked Statistics for Cosmological Inference
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Recovering cosmological information beyond the power spectrum is a cen
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11295
+Original source URL: https://arxiv.org/abs/2606.11295
 
 ## Local Vault File
 
-Path: ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md
+Path: [interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md](file:///../../ai\research\interpretable-neural-marked-statistics-for-cosmological-inference-dbe62c.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11804"
 local_vault_path: "ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defenses for Continuous Data Summarization
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Trustworthy AI requires reliable data-processing pipelines, not only r
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11804
+Original source URL: https://arxiv.org/abs/2606.11804
 
 ## Local Vault File
 
-Path: ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md
+Path: [toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md](file:///../../ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md)

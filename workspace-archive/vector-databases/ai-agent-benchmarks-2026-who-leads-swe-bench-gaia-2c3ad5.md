@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026"
 local_vault_path: "ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,19 @@ tags:
   - openai
   - paper
   - producthunt
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, dataset, hackernews, leaderboard, models, openai
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ AI Benchmarks AI Agent Benchmark Roundup May 2026: Who's Actually Winning What M
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026
+Original source URL: https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026
 
 ## Local Vault File
 
-Path: ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md
+Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md](file:///../../ai\rag\ai-agent-benchmarks-2026-who-leads-swe-bench-gaia-2c3ad5.md)

@@ -4,17 +4,28 @@ archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11207"
 local_vault_path: "ai\rag\from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We present SemantiClean, a modular framework for extracting structured
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11207
+Original source URL: https://arxiv.org/abs/2606.11207
 
 ## Local Vault File
 
-Path: ai\rag\from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md
+Path: [from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md](file:///../../ai\rag\from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md)

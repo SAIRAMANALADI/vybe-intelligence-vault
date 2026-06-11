@@ -4,17 +4,28 @@ archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.22219"
 local_vault_path: "ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Observability
+- Matched archive category: `Observability`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We introduce Mirage Persistent Kernel (MPK), the first compiler and ru
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Production trace tracking
+- LLM request cost audits
+- Latency profiling
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.22219
+Original source URL: https://arxiv.org/abs/2512.22219
 
 ## Local Vault File
 
-Path: ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md
+Path: [mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md](file:///../../ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md)

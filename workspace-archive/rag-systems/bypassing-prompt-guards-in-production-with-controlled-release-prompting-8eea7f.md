@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.01529"
 local_vault_path: "ai\research\bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Bypassing Prompt Guards in Production with Controlled-Release Prompting
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Ball et al. recently established that prompt filtering for AI alignmen
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.01529
+Original source URL: https://arxiv.org/abs/2510.01529
 
 ## Local Vault File
 
-Path: ai\research\bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md
+Path: [bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md](file:///../../ai\research\bypassing-prompt-guards-in-production-with-controlled-release-prompting-8eea7f.md)

@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.03326"
 local_vault_path: "ai\research\higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: PCA can be used for rotation invariant features, describing a shape wi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.03326
+Original source URL: https://arxiv.org/abs/2601.03326
 
 ## Local Vault File
 
-Path: ai\research\higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md
+Path: [higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md](file:///../../ai\research\higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md)

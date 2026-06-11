@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11869"
 local_vault_path: "ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -28,15 +37,14 @@ Abstract: Custom AI agents areagents that live inside their own
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11869
+Original source URL: https://arxiv.org/abs/2606.11869
 
 ## Local Vault File
 
-Path: ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md
+Path: [agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md](file:///../../ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md)

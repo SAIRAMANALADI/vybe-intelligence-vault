@@ -4,14 +4,26 @@ archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/togethercomputer/together-ft"
 local_vault_path: "ai\models\fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Fine-tune Any LLM from the Hugging Face Hub with Together AI
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://huggingface.co/blog/togethercomputer/together-ft
+Original source URL: https://huggingface.co/blog/togethercomputer/together-ft
 
 ## Local Vault File
 
-Path: ai\models\fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md
+Path: [fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md](file:///../../ai\models\fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md)

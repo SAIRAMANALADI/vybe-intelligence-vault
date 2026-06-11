@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.23461"
 local_vault_path: "ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Data assimilation (DA) for compressible flows with shocks is challengi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.23461
+Original source URL: https://arxiv.org/abs/2602.23461
 
 ## Local Vault File
 
-Path: ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md
+Path: [neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md](file:///../../ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md)

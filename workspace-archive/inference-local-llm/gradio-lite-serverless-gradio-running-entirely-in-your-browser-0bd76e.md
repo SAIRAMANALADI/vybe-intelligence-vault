@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-lite"
 local_vault_path: "ai\models\gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Gradio-Lite: Serverless Gradio Running Entirely in Your Browser
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Gradio-Lite: Serverless Gradio Running 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/gradio-lite
+Original source URL: https://huggingface.co/blog/gradio-lite
 
 ## Local Vault File
 
-Path: ai\models\gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md
+Path: [gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md](file:///../../ai\models\gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md)

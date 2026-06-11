@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12260"
 local_vault_path: "ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Market Design for AI: Beyond the Copyright Binary
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: How can we design a market of human-generated content for use in train
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12260
+Original source URL: https://arxiv.org/abs/2606.12260
 
 ## Local Vault File
 
-Path: ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md
+Path: [market-design-for-ai-beyond-the-copyright-binary-a57a87.md](file:///../../ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md)

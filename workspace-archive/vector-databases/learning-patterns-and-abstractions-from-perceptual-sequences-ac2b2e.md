@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2503.10973"
 local_vault_path: "ai\rag\learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Learning Patterns and Abstractions from Perceptual Sequences
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Cognition swiftly breaks high-dimensional sensory streams into familia
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2503.10973
+Original source URL: https://arxiv.org/abs/2503.10973
 
 ## Local Vault File
 
-Path: ai\rag\learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md
+Path: [learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md](file:///../../ai\rag\learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md)

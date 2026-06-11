@@ -4,17 +4,28 @@ archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.24787"
 local_vault_path: "ai\rag\higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Observability
+- Matched archive category: `Observability`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Slate recommendation, which presents users with a ranked item list in 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Production trace tracking
+- LLM request cost audits
+- Latency profiling
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.24787
+Original source URL: https://arxiv.org/abs/2512.24787
 
 ## Local Vault File
 
-Path: ai\rag\higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md
+Path: [higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md](file:///../../ai\rag\higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md)

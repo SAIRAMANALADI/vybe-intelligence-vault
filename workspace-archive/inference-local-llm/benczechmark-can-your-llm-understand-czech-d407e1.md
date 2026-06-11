@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/benczechmark"
 local_vault_path: "ai\models\benczechmark-can-your-llm-understand-czech-d407e1.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # 🇨🇿 BenCzechMark - Can your LLM Understand Czech?
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: 🇨🇿 BenCzechMark - Can your LLM U
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/benczechmark
+Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: ai\models\benczechmark-can-your-llm-understand-czech-d407e1.md
+Path: [benczechmark-can-your-llm-understand-czech-d407e1.md](file:///../../ai\models\benczechmark-can-your-llm-understand-czech-d407e1.md)

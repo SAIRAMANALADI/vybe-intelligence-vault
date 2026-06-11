@@ -4,19 +4,30 @@ archive_category: "startup-builder"
 source_category: "web-development/gsap"
 source_url: "https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code"
 local_vault_path: "web-development\gsap\codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "template"
+importance: "medium"
 tags:
   - animation
   - frontend_ui
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # codebucks27/Apple-iphone-3d-landing-page-starter-Code
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/gsap`
-- Tags: animation, frontend_ui, threejs
-- Archive category: Startup Builder
+- Matched archive category: `Startup Builder`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Create awesome landing page for Apple iPhone 14 using Three JS and React JS. Thi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- SaaS boilerplate launching
+- Landing page design
+- MVP feature validation
 
 ## Source
 
-Original source: https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code
+Original source URL: https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code
 
 ## Local Vault File
 
-Path: web-development\gsap\codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md
+Path: [codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md](file:///../../web-development\gsap\codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md)

@@ -4,18 +4,29 @@ archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11198"
 local_vault_path: "ai\rag\the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # The Structural Attention Tax: How Retrieval Format Hijacks In-Context Learning Independent of Content
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Model Providers
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Retrieval-augmented generation (RAG) systems inject external knowledge
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11198
+Original source URL: https://arxiv.org/abs/2606.11198
 
 ## Local Vault File
 
-Path: ai\rag\the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md
+Path: [the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md](file:///../../ai\rag\the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md)

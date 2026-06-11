@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.askpython.com/python/examples/building-rag-applications-with-python"
 local_vault_path: "ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - anthropic
   - dataset
@@ -15,15 +20,19 @@ tags:
   - paper
   - rag
   - reddit
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Building RAG Applications with Python: Complete 2026 Guide - AskPython
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: anthropic, dataset, hackernews, meta-ai, mistral, models, openai, paper
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ Building RAG Applications with Python: Complete 2026 GuideNinadJanuary 30, 2026P
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.askpython.com/python/examples/building-rag-applications-with-python
+Original source URL: https://www.askpython.com/python/examples/building-rag-applications-with-python
 
 ## Local Vault File
 
-Path: ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md
+Path: [building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md](file:///../../ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md)

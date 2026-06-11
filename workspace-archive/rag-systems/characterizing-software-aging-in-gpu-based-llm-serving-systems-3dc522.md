@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11916"
 local_vault_path: "ai\research\characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Characterizing Software Aging in GPU-Based LLM Serving Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: This paper proposes an empirical methodology to study software aging i
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11916
+Original source URL: https://arxiv.org/abs/2606.11916
 
 ## Local Vault File
 
-Path: ai\research\characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md
+Path: [characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md](file:///../../ai\research\characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md)

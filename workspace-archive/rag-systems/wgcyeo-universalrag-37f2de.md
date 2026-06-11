@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/wgcyeo/UniversalRAG"
 local_vault_path: "ai\rag\wgcyeo-universalrag-37f2de.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - github-repo
   - python
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # wgcyeo/UniversalRAG
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: github-repo, python, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,14 +35,14 @@ tags:
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/wgcyeo/UniversalRAG
+Original source URL: https://github.com/wgcyeo/UniversalRAG
 
 ## Local Vault File
 
-Path: ai\rag\wgcyeo-universalrag-37f2de.md
+Path: [wgcyeo-universalrag-37f2de.md](file:///../../ai\rag\wgcyeo-universalrag-37f2de.md)

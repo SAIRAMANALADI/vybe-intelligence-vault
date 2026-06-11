@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14792"
 local_vault_path: "ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Robustness of Mixtures of Experts to Feature Noise
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Despite their practical success, it remains unclear why Mixture of Exp
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.14792
+Original source URL: https://arxiv.org/abs/2601.14792
 
 ## Local Vault File
 
-Path: ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md
+Path: [robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md](file:///../../ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md)

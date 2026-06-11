@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11868"
 local_vault_path: "ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequencing from Mass Spectrometry
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: De novo peptide sequencing from tandem mass spectrometry is pivotal in
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11868
+Original source URL: https://arxiv.org/abs/2606.11868
 
 ## Local Vault File
 
-Path: ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md
+Path: [memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md](file:///../../ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md)

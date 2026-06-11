@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.07840"
 local_vault_path: "ai\research\sage-scalable-ai-governance-evaluation-147110.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # SAGE: Scalable AI Governance & Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Evaluating relevance in large-scale search systems is fundamentally co
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.07840
+Original source URL: https://arxiv.org/abs/2602.07840
 
 ## Local Vault File
 
-Path: ai\research\sage-scalable-ai-governance-evaluation-147110.md
+Path: [sage-scalable-ai-governance-evaluation-147110.md](file:///../../ai\research\sage-scalable-ai-governance-evaluation-147110.md)

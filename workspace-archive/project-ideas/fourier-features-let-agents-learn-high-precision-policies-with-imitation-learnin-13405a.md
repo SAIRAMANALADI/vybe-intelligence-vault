@@ -4,18 +4,29 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12334"
 local_vault_path: "ai\rag\fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Fourier Features Let Agents Learn High Precision Policies with Imitation Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: High-precision robotic manipulation requires fine-grained spatial reas
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12334
+Original source URL: https://arxiv.org/abs/2606.12334
 
 ## Local Vault File
 
-Path: ai\rag\fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md
+Path: [fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md](file:///../../ai\rag\fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md)

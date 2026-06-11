@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2410.24145"
 local_vault_path: "ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Projected random forests and conformal prediction of circular data
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: We apply conformal prediction techniques to regression problems with c
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2410.24145
+Original source URL: https://arxiv.org/abs/2410.24145
 
 ## Local Vault File
 
-Path: ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md
+Path: [projected-random-forests-and-conformal-prediction-of-circular-data-081521.md](file:///../../ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md)

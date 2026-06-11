@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.02726"
 local_vault_path: "ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-Based Concept Discovery
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Large language models (LLMs) encode rich semantic information in their
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.02726
+Original source URL: https://arxiv.org/abs/2602.02726
 
 ## Local Vault File
 
-Path: ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md
+Path: [vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md](file:///../../ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md)

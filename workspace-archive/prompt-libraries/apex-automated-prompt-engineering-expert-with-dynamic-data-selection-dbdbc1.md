@@ -4,18 +4,29 @@ archive_category: "prompt-libraries"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11459"
 local_vault_path: "ai\rag\apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Prompt Libraries
+- Matched archive category: `Prompt Libraries`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Large Language Models are highly sensitive to prompt formulation, nece
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- System prompt patterns
+- Structured prompt design
+- Few-shot examples
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11459
+Original source URL: https://arxiv.org/abs/2606.11459
 
 ## Local Vault File
 
-Path: ai\rag\apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md
+Path: [apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md](file:///../../ai\rag\apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md)

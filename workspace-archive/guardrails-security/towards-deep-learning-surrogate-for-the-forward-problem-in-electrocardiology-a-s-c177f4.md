@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.13765"
 local_vault_path: "ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Towards Deep Learning Surrogate for the Forward Problem in Electrocardiology: A Scalable Alternative to Physics-Based Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: The forward problem in electrocardiology, computing body surface poten
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.13765
+Original source URL: https://arxiv.org/abs/2512.13765
 
 ## Local Vault File
 
-Path: ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md
+Path: [towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md](file:///../../ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md)

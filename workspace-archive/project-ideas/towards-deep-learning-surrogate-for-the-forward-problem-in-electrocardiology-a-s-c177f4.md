@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.13765"
 local_vault_path: "ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Towards Deep Learning Surrogate for the Forward Problem in Electrocardiology: A Scalable Alternative to Physics-Based Models
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: The forward problem in electrocardiology, computing body surface poten
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2512.13765
+Original source URL: https://arxiv.org/abs/2512.13765
 
 ## Local Vault File
 
-Path: ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md
+Path: [towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md](file:///../../ai\research\towards-deep-learning-surrogate-for-the-forward-problem-in-electrocardiology-a-s-c177f4.md)

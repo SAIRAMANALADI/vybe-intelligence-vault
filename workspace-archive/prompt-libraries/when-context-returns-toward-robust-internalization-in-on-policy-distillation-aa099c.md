@@ -4,14 +4,26 @@ archive_category: "prompt-libraries"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11627"
 local_vault_path: "ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # When Context Returns: Toward Robust Internalization in On-Policy Distillation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Prompt Libraries
+- Matched archive category: `Prompt Libraries`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Recent work has shown that on-policy distillation can internalize priv
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- System prompt patterns
+- Structured prompt design
+- Few-shot examples
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11627
+Original source URL: https://arxiv.org/abs/2606.11627
 
 ## Local Vault File
 
-Path: ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md
+Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)

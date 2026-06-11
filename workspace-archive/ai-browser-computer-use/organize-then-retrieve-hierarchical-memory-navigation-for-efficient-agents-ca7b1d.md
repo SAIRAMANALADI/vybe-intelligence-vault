@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11680"
 local_vault_path: "ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Large language model (LLM) agents struggle with long-horizon tasks due
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11680
+Original source URL: https://arxiv.org/abs/2606.11680
 
 ## Local Vault File
 
-Path: ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md
+Path: [organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md](file:///../../ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md)

@@ -4,19 +4,30 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.23243"
 local_vault_path: "ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - rag
   - scripts
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag, scripts
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -25,14 +36,14 @@ Abstract: We evaluate whether frontier LLMs are ready for cybersecurity through 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.23243
+Original source URL: https://arxiv.org/abs/2605.23243
 
 ## Local Vault File
 
-Path: ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md
+Path: [are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md](file:///../../ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md)

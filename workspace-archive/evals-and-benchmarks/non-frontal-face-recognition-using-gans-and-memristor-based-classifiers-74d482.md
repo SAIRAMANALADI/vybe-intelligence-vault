@@ -4,14 +4,24 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12074"
 local_vault_path: "ai\research\non-frontal-face-recognition-using-gans-and-memristor-based-classifiers-74d482.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Non-frontal face recognition using GANs and memristor-based classifiers
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Face recognition systems have advanced significantly through deep lear
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12074
+Original source URL: https://arxiv.org/abs/2606.12074
 
 ## Local Vault File
 
-Path: ai\research\non-frontal-face-recognition-using-gans-and-memristor-based-classifiers-74d482.md
+Path: [non-frontal-face-recognition-using-gans-and-memristor-based-classifiers-74d482.md](file:///../../ai\research\non-frontal-face-recognition-using-gans-and-memristor-based-classifiers-74d482.md)

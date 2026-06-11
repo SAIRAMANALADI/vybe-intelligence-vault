@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/pguso/rag-from-scratch"
 local_vault_path: "ai\rag\pguso-rag-from-scratch-1f3a46.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - github-repo
@@ -11,15 +16,21 @@ tags:
   - meta-ai
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # pguso/rag-from-scratch
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, github-repo, javascript, meta-ai, models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -27,14 +38,14 @@ Demystify RAG by building it from scratch. Local LLMs, no black boxes - real und
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://github.com/pguso/rag-from-scratch
+Original source URL: https://github.com/pguso/rag-from-scratch
 
 ## Local Vault File
 
-Path: ai\rag\pguso-rag-from-scratch-1f3a46.md
+Path: [pguso-rag-from-scratch-1f3a46.md](file:///../../ai\rag\pguso-rag-from-scratch-1f3a46.md)

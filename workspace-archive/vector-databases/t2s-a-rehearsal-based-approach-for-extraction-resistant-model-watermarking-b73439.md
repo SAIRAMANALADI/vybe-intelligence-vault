@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11698"
 local_vault_path: "ai\rag\t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # T2S: A Rehearsal-Based Approach for Extraction-Resistant Model Watermarking
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Model watermarking safeguards AI model intellectual property by embedd
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11698
+Original source URL: https://arxiv.org/abs/2606.11698
 
 ## Local Vault File
 
-Path: ai\rag\t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md
+Path: [t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md](file:///../../ai\rag\t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md)

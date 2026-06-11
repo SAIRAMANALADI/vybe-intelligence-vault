@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.25018"
 local_vault_path: "ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
 tags:
   - scripts
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials and Future Directions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: scripts
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: The Internet of Everything (IoE) represents an evolution of the Intern
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2604.25018
+Original source URL: https://arxiv.org/abs/2604.25018
 
 ## Local Vault File
 
-Path: ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md
+Path: [internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md](file:///../../ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md)

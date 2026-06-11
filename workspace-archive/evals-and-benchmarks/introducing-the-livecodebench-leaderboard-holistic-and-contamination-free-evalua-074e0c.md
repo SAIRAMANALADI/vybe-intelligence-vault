@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-livecodebench"
 local_vault_path: "ai\models\introducing-the-livecodebench-leaderboard-holistic-and-contamination-free-evalua-074e0c.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +31,14 @@ No summary provided. Reference resource: Introducing the LiveCodeBench Leaderboa
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://huggingface.co/blog/leaderboard-livecodebench
+Original source URL: https://huggingface.co/blog/leaderboard-livecodebench
 
 ## Local Vault File
 
-Path: ai\models\introducing-the-livecodebench-leaderboard-holistic-and-contamination-free-evalua-074e0c.md
+Path: [introducing-the-livecodebench-leaderboard-holistic-and-contamination-free-evalua-074e0c.md](file:///../../ai\models\introducing-the-livecodebench-leaderboard-holistic-and-contamination-free-evalua-074e0c.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11828"
 local_vault_path: "ai\research\feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Feature-Aligned Speech Watermarking for Robustness to Reconstruction Distortions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Audio watermarking aims to embed identifiable information into audio w
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11828
+Original source URL: https://arxiv.org/abs/2606.11828
 
 ## Local Vault File
 
-Path: ai\research\feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md
+Path: [feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md](file:///../../ai\research\feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md)

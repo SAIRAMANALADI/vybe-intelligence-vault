@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11257"
 local_vault_path: "ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: Retrieval-Augmented Generation (RAG) pipelines are compute-intensive, 
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11257
+Original source URL: https://arxiv.org/abs/2606.11257
 
 ## Local Vault File
 
-Path: ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md
+Path: [energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md](file:///../../ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md)

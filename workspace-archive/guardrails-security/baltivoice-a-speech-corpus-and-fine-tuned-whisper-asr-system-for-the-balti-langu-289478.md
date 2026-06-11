@@ -4,17 +4,26 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.03504"
 local_vault_path: "ai\research\baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # BaltiVoice: A Speech Corpus and Fine-tuned Whisper ASR System for the Balti Language
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: We present BaltiVoice, a 16.8-hour read-speech corpus for Balti (ISO 6
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.03504
+Original source URL: https://arxiv.org/abs/2606.03504
 
 ## Local Vault File
 
-Path: ai\research\baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md
+Path: [baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md](file:///../../ai\research\baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md)

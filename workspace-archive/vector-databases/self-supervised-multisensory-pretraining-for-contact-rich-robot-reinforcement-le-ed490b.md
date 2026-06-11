@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.14427"
 local_vault_path: "ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforcement Learning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: Effective contact-rich manipulation requires robots to synergistically
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2511.14427
+Original source URL: https://arxiv.org/abs/2511.14427
 
 ## Local Vault File
 
-Path: ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md
+Path: [self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md](file:///../../ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md)

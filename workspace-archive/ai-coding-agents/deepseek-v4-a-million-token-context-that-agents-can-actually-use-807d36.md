@@ -4,17 +4,26 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/deepseekv4"
 local_vault_path: "ai\agents\deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # DeepSeek-V4: a million-token context that agents can actually use
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: DeepSeek-V4: a million-token context th
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://huggingface.co/blog/deepseekv4
+Original source URL: https://huggingface.co/blog/deepseekv4
 
 ## Local Vault File
 
-Path: ai\agents\deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md
+Path: [deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md](file:///../../ai\agents\deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md)

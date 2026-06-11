@@ -4,14 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11898"
 local_vault_path: "ai\research\graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # GraspLLM: Towards Zero-Shot Generalization on Text-Attributed Graphs with LLMs
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Research on Text-Attributed Graphs (TAGs) has gained significant atten
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11898
+Original source URL: https://arxiv.org/abs/2606.11898
 
 ## Local Vault File
 
-Path: ai\research\graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md
+Path: [graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md](file:///../../ai\research\graspllm-towards-zero-shot-generalization-on-text-attributed-graphs-with-llms-ee8cb0.md)

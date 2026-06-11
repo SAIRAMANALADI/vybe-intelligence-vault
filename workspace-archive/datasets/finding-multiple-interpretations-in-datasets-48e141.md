@@ -4,14 +4,26 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12277"
 local_vault_path: "ai\research\finding-multiple-interpretations-in-datasets-48e141.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Finding Multiple Interpretations in Datasets
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: In this paper, we propose an approach to finding sets of similar-perfo
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12277
+Original source URL: https://arxiv.org/abs/2606.12277
 
 ## Local Vault File
 
-Path: ai\research\finding-multiple-interpretations-in-datasets-48e141.md
+Path: [finding-multiple-interpretations-in-datasets-48e141.md](file:///../../ai\research\finding-multiple-interpretations-in-datasets-48e141.md)

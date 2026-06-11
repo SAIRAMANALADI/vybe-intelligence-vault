@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/langgenius/dify"
 local_vault_path: "ai\rag\langgenius-dify-24dc2b.md"
+quality_score: 70
+archive_score: 87
+archive_tier: "essential"
+resource_kind: "framework"
+importance: "high"
 tags:
   - agents
   - github-repo
@@ -13,15 +18,21 @@ tags:
   - scripts
   - typescript
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # langgenius/dify
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, github-repo, models, openai, rag, scripts, typescript, workflows
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 87 (essential)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -29,14 +40,14 @@ Production-ready platform for agentic workflow development.
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://github.com/langgenius/dify
+Original source URL: https://github.com/langgenius/dify
 
 ## Local Vault File
 
-Path: ai\rag\langgenius-dify-24dc2b.md
+Path: [langgenius-dify-24dc2b.md](file:///../../ai\rag\langgenius-dify-24dc2b.md)

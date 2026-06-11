@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/classification-use-cases"
 local_vault_path: "ai\models\how-hugging-face-accelerated-development-of-witty-works-writing-assistant-ec4309.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # How Hugging Face Accelerated Development of Witty Works Writing Assistant
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: How Hugging Face Accelerated Developmen
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/classification-use-cases
+Original source URL: https://huggingface.co/blog/classification-use-cases
 
 ## Local Vault File
 
-Path: ai\models\how-hugging-face-accelerated-development-of-witty-works-writing-assistant-ec4309.md
+Path: [how-hugging-face-accelerated-development-of-witty-works-writing-assistant-ec4309.md](file:///../../ai\models\how-hugging-face-accelerated-development-of-witty-works-writing-assistant-ec4309.md)

@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11430"
 local_vault_path: "ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Towards a Bridge Layer Between Bibliographic and Formalized Mathematical Knowledge
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Mathematical knowledge is split between bibliographic databases (e.g.,
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11430
+Original source URL: https://arxiv.org/abs/2606.11430
 
 ## Local Vault File
 
-Path: ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md
+Path: [towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md](file:///../../ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md)

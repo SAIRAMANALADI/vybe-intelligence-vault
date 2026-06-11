@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12047"
 local_vault_path: "ai\research\metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "prompt"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: prompt
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: In this paper, we address the problem of zero-shot understanding of ac
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12047
+Original source URL: https://arxiv.org/abs/2606.12047
 
 ## Local Vault File
 
-Path: ai\research\metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md
+Path: [metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md](file:///../../ai\research\metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md)

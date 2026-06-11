@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11349"
 local_vault_path: "ai\agents\knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: In hierarchical reasoning, failures often originate at intermediate de
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11349
+Original source URL: https://arxiv.org/abs/2606.11349
 
 ## Local Vault File
 
-Path: ai\agents\knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md
+Path: [knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md](file:///../../ai\agents\knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md)

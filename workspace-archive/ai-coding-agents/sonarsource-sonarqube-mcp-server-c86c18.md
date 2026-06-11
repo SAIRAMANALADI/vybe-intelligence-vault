@@ -4,19 +4,28 @@ archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/SonarSource/sonarqube-mcp-server"
 local_vault_path: "ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md"
+quality_score: 70
+archive_score: 85
+archive_tier: "essential"
+resource_kind: "mcp-server"
+importance: "high"
 tags:
   - agents
   - github-repo
   - java
+selection_reason:
+  - "Useful for project building"
 ---
 
 # SonarSource/sonarqube-mcp-server
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, java
-- Archive category: AI Coding Agents
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +33,14 @@ Official SonarQube MCP Server for code quality and security in AI agents
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
 
 ## Source
 
-Original source: https://github.com/SonarSource/sonarqube-mcp-server
+Original source URL: https://github.com/SonarSource/sonarqube-mcp-server
 
 ## Local Vault File
 
-Path: ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md
+Path: [sonarsource-sonarqube-mcp-server-c86c18.md](file:///../../ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md)

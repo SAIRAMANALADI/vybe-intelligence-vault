@@ -4,17 +4,26 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/snowball-fight"
 local_vault_path: "ai\agents\introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing Snowball Fight ☃️, our first ML-Agents environment
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,15 +31,14 @@ No summary provided. Reference resource: Introducing Snowball Fight ☃️, our 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://huggingface.co/blog/snowball-fight
+Original source URL: https://huggingface.co/blog/snowball-fight
 
 ## Local Vault File
 
-Path: ai\agents\introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md
+Path: [introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md](file:///../../ai\agents\introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md)

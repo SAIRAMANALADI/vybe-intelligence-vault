@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sc2-instruct"
 local_vault_path: "ai\models\starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: StarCoder2-Instruct: Fully Transparent 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://huggingface.co/blog/sc2-instruct
+Original source URL: https://huggingface.co/blog/sc2-instruct
 
 ## Local Vault File
 
-Path: ai\models\starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md
+Path: [starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md](file:///../../ai\models\starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.05907"
 local_vault_path: "ai\research\knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Knowledge Manifold: A Riemannian Geometric Framework for Semantic Mapping and Geodesic Analysis of Scientific Literature
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: We present the knowledge manifold: a Riemannian geometric space in whi
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.05907
+Original source URL: https://arxiv.org/abs/2606.05907
 
 ## Local Vault File
 
-Path: ai\research\knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md
+Path: [knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md](file:///../../ai\research\knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md)

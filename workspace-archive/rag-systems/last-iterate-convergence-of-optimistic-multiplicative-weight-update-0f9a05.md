@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11773"
 local_vault_path: "ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Last-Iterate Convergence of Optimistic Multiplicative Weight Update
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Optimistic Gradient Descent Ascent (OGDA) and Optimistic Multiplicativ
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11773
+Original source URL: https://arxiv.org/abs/2606.11773
 
 ## Local Vault File
 
-Path: ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md
+Path: [last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md](file:///../../ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md)

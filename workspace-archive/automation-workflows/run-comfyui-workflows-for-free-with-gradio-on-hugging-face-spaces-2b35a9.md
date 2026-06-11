@@ -4,17 +4,28 @@ archive_category: "automation-workflows"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/run-comfyui-workflows-on-spaces"
 local_vault_path: "ai\models\run-comfyui-workflows-for-free-with-gradio-on-hugging-face-spaces-2b35a9.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Tags: workflows
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +33,14 @@ No summary provided. Reference resource: Run ComfyUI workflows for free with Gra
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
+Original source URL: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
 
 ## Local Vault File
 
-Path: ai\models\run-comfyui-workflows-for-free-with-gradio-on-hugging-face-spaces-2b35a9.md
+Path: [run-comfyui-workflows-for-free-with-gradio-on-hugging-face-spaces-2b35a9.md](file:///../../ai\models\run-comfyui-workflows-for-free-with-gradio-on-hugging-face-spaces-2b35a9.md)

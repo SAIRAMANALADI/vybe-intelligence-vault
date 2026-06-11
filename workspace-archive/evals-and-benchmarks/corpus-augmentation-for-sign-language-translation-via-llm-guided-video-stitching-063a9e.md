@@ -4,18 +4,29 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11925"
 local_vault_path: "ai\research\corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - framer_motion
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: framer_motion, models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: Sign language translation (SLT) converts sign language video into spok
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11925
+Original source URL: https://arxiv.org/abs/2606.11925
 
 ## Local Vault File
 
-Path: ai\research\corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md
+Path: [corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md](file:///../../ai\research\corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md)

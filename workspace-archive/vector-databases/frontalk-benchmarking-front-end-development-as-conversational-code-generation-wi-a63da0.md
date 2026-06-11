@@ -4,18 +4,27 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.04203"
 local_vault_path: "ai\rag\frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -24,14 +33,14 @@ Abstract: We present FronTalk, a benchmark for front-end code generation that pi
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2601.04203
+Original source URL: https://arxiv.org/abs/2601.04203
 
 ## Local Vault File
 
-Path: ai\rag\frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md
+Path: [frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md](file:///../../ai\rag\frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md)

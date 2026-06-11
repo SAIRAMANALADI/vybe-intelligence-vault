@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11387"
 local_vault_path: "ai\research\small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Small Experiments, Cheaper Decisions: A Case Study in Staged Promotion for Micro-Pretraining
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: Short pretraining runs can reduce experimental cost, but they can also
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11387
+Original source URL: https://arxiv.org/abs/2606.11387
 
 ## Local Vault File
 
-Path: ai\research\small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md
+Path: [small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md](file:///../../ai\research\small-experiments-cheaper-decisions-a-case-study-in-staged-promotion-for-micro-p-25dfc2.md)

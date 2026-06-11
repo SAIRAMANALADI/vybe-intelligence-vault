@@ -4,18 +4,29 @@ archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10794"
 local_vault_path: "ai\rag\reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - agents
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # READER: Robust Evidence-based Authorship Decoding via Extracted Representations
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, rag
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -24,15 +35,14 @@ Abstract: As agentic applications increasingly route user tasks through official
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.10794
+Original source URL: https://arxiv.org/abs/2606.10794
 
 ## Local Vault File
 
-Path: ai\rag\reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md
+Path: [reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md](file:///../../ai\rag\reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md)

@@ -4,14 +4,24 @@ archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11192"
 local_vault_path: "ai\research\restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Restless bandits with imperfect binary feedback: PCL-indexability analysis and computation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Datasets
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: We study restless bandits with binary latent states and imperfect bina
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11192
+Original source URL: https://arxiv.org/abs/2606.11192
 
 ## Local Vault File
 
-Path: ai\research\restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md
+Path: [restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md](file:///../../ai\research\restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md)

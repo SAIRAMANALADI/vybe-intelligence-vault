@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-r1"
 local_vault_path: "ai\models\open-r1-a-fully-open-reproduction-of-deepseek-r1-713386.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Open-R1: a fully open reproduction of DeepSeek-R1
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Open-R1: a fully open reproduction of D
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/open-r1
+Original source URL: https://huggingface.co/blog/open-r1
 
 ## Local Vault File
 
-Path: ai\models\open-r1-a-fully-open-reproduction-of-deepseek-r1-713386.md
+Path: [open-r1-a-fully-open-reproduction-of-deepseek-r1-713386.md](file:///../../ai\models\open-r1-a-fully-open-reproduction-of-deepseek-r1-713386.md)

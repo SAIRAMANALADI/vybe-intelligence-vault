@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.20241"
 local_vault_path: "ai\research\energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Energy Use of AI Inference, Efficiency Pathways, and Test-Time Scaling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: As AI inference scales to billions of queries, estimates of per-query 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2509.20241
+Original source URL: https://arxiv.org/abs/2509.20241
 
 ## Local Vault File
 
-Path: ai\research\energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md
+Path: [energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md](file:///../../ai\research\energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md)

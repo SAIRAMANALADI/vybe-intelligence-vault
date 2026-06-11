@@ -4,6 +4,11 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph"
 local_vault_path: "ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - agents
   - dataset
@@ -15,15 +20,21 @@ tags:
   - scripts
   - web-crawled
   - workflows
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # RAG System with LangChain and LangGraph - GeeksforGeeks
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, dataset, hackernews, models, openai, rag, reddit, scripts
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +42,14 @@ CoursesTutorialsPracticeJobsArtificial IntelligenceInterview QuestionsProject Id
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
+Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
 
 ## Local Vault File
 
-Path: ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md
+Path: [rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md](file:///../../ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md)

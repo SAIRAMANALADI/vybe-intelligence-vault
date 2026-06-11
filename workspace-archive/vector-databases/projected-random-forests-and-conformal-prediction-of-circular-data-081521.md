@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2410.24145"
 local_vault_path: "ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Projected random forests and conformal prediction of circular data
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: We apply conformal prediction techniques to regression problems with c
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2410.24145
+Original source URL: https://arxiv.org/abs/2410.24145
 
 ## Local Vault File
 
-Path: ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md
+Path: [projected-random-forests-and-conformal-prediction-of-circular-data-081521.md](file:///../../ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md)

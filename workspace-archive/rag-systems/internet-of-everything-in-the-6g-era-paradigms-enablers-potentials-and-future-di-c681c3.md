@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.25018"
 local_vault_path: "ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "product"
+importance: "medium"
 tags:
   - scripts
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials and Future Directions
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: scripts
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: product
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: The Internet of Everything (IoE) represents an evolution of the Intern
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2604.25018
+Original source URL: https://arxiv.org/abs/2604.25018
 
 ## Local Vault File
 
-Path: ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md
+Path: [internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md](file:///../../ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md)

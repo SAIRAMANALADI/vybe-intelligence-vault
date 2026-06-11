@@ -4,17 +4,28 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/josdirksen/learning-threejs-third"
 local_vault_path: "web-development\threejs\josdirksen-learning-threejs-third-438c8c.md"
+quality_score: 70
+archive_score: 81
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # josdirksen/learning-threejs-third
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/threejs`
-- Tags: threejs
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 81 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -22,15 +33,14 @@ Ongoing project for learning Three.js third edition
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/josdirksen/learning-threejs-third
+Original source URL: https://github.com/josdirksen/learning-threejs-third
 
 ## Local Vault File
 
-Path: web-development\threejs\josdirksen-learning-threejs-third-438c8c.md
+Path: [josdirksen-learning-threejs-third-438c8c.md](file:///../../web-development\threejs\josdirksen-learning-threejs-third-438c8c.md)

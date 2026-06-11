@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/storage-buckets"
 local_vault_path: "ai\rag\introducing-storage-buckets-on-the-hugging-face-hub-96e678.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Introducing Storage Buckets on the Hugging Face Hub
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -22,14 +31,14 @@ No summary provided. Reference resource: Introducing Storage Buckets on the Hugg
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://huggingface.co/blog/storage-buckets
+Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: ai\rag\introducing-storage-buckets-on-the-hugging-face-hub-96e678.md
+Path: [introducing-storage-buckets-on-the-hugging-face-hub-96e678.md](file:///../../ai\rag\introducing-storage-buckets-on-the-hugging-face-hub-96e678.md)

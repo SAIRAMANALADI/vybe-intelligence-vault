@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2304.13905"
 local_vault_path: "ai\rag\lstm-based-iot-device-identification-4a55c5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # LSTM based IoT Device Identification
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: While the use of the Internet of Things is becoming more and more popu
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2304.13905
+Original source URL: https://arxiv.org/abs/2304.13905
 
 ## Local Vault File
 
-Path: ai\rag\lstm-based-iot-device-identification-4a55c5.md
+Path: [lstm-based-iot-device-identification-4a55c5.md](file:///../../ai\rag\lstm-based-iot-device-identification-4a55c5.md)

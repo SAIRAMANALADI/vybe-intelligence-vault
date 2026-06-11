@@ -4,17 +4,28 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11279"
 local_vault_path: "ai\research\massive-open-vocabulary-keyword-spotting-985866.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Massive Open-Vocabulary Keyword Spotting
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +34,14 @@ Abstract: Automatic speech recognition systems have been shown to under-perform 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11279
+Original source URL: https://arxiv.org/abs/2606.11279
 
 ## Local Vault File
 
-Path: ai\research\massive-open-vocabulary-keyword-spotting-985866.md
+Path: [massive-open-vocabulary-keyword-spotting-985866.md](file:///../../ai\research\massive-open-vocabulary-keyword-spotting-985866.md)

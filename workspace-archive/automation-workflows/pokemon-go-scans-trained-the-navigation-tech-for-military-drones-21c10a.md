@@ -4,18 +4,29 @@ archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/"
 local_vault_path: "ai\community\pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - ai
   - hackernews
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # Pokémon Go Scans Trained the Navigation Tech for Military Drones
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/community`
-- Tags: ai, hackernews
-- Archive category: Automation Workflows
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Original Link: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-mil
 
 ## Use Cases
 
-- Workflow automation
-- CI/CD pipelines
-- Task scheduling
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
 
 ## Source
 
-Original source: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/
+Original source URL: https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/
 
 ## Local Vault File
 
-Path: ai\community\pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md
+Path: [pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md](file:///../../ai\community\pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md)

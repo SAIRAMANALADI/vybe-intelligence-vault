@@ -4,19 +4,30 @@ archive_category: "webdev-3d-creative"
 source_category: "web-development/gsap"
 source_url: "https://github.com/ShowravKormokar/capsule"
 local_vault_path: "web-development\gsap\showravkormokar-capsule-bc6505.md"
+quality_score: 70
+archive_score: 77
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - animation
   - creative_dev
   - frontend_ui
+selection_reason:
+  - "Strong keyword match"
+  - "Active open-source repository"
 ---
 
 # ShowravKormokar/capsule
 
 ## Why This Is In The Archive
 
-- Matched source category: `web-development/gsap`
-- Tags: animation, creative_dev, frontend_ui
-- Archive category: Webdev 3D Creative
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +35,14 @@ This is a clone of the Awwwards-winning "capsule.moyra.co," developed to level u
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
 
 ## Source
 
-Original source: https://github.com/ShowravKormokar/capsule
+Original source URL: https://github.com/ShowravKormokar/capsule
 
 ## Local Vault File
 
-Path: web-development\gsap\showravkormokar-capsule-bc6505.md
+Path: [showravkormokar-capsule-bc6505.md](file:///../../web-development\gsap\showravkormokar-capsule-bc6505.md)

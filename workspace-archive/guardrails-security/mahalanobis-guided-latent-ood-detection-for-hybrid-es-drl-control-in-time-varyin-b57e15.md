@@ -4,14 +4,24 @@ archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11474"
 local_vault_path: "ai\research\mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Guardrails and Security
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,15 +30,14 @@ Abstract: In this paper, we study Mahalanobis-guided latent out-of-distribution 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11474
+Original source URL: https://arxiv.org/abs/2606.11474
 
 ## Local Vault File
 
-Path: ai\research\mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md
+Path: [mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md](file:///../../ai\research\mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md)

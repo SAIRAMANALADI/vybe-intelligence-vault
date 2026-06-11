@@ -4,6 +4,11 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide"
 local_vault_path: "ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md"
+quality_score: 70
+archive_score: 82
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,21 @@ tags:
   - models
   - openai
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, dataset, hackernews, meta-ai, mistral, models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -31,15 +42,14 @@ Back to BlogAI ImplementationProduction-Ready RAG Systems: End to End GuideMay 1
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide
+Original source URL: https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide
 
 ## Local Vault File
 
-Path: ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md
+Path: [production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)

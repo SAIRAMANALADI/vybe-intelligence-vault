@@ -4,17 +4,26 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11195"
 local_vault_path: "ai\research\from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - workflows
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: workflows
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Large language models (LLMs) have transformed how humans access inform
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11195
+Original source URL: https://arxiv.org/abs/2606.11195
 
 ## Local Vault File
 
-Path: ai\research\from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md
+Path: [from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md](file:///../../ai\research\from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md)

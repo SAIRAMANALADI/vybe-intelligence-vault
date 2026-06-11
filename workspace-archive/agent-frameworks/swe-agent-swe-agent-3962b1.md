@@ -4,19 +4,28 @@ archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/SWE-agent/SWE-agent"
 local_vault_path: "ai\agents\swe-agent-swe-agent-3962b1.md"
+quality_score: 70
+archive_score: 75
+archive_tier: "useful"
+resource_kind: "tool"
+importance: "medium"
 tags:
   - agents
   - github-repo
   - python
+selection_reason:
+  - "Active open-source repository"
 ---
 
 # SWE-agent/SWE-agent
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents, github-repo, python
-- Archive category: Agent Frameworks
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: tool
+- Selection reasons:
+  - Active open-source repository
 
 ## Summary
 
@@ -24,15 +33,14 @@ SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM 
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
 
 ## Source
 
-Original source: https://github.com/SWE-agent/SWE-agent
+Original source URL: https://github.com/SWE-agent/SWE-agent
 
 ## Local Vault File
 
-Path: ai\agents\swe-agent-swe-agent-3962b1.md
+Path: [swe-agent-swe-agent-3962b1.md](file:///../../ai\agents\swe-agent-swe-agent-3962b1.md)

@@ -4,14 +4,26 @@ archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.07840"
 local_vault_path: "ai\research\sage-scalable-ai-governance-evaluation-147110.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # SAGE: Scalable AI Governance & Evaluation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: Project Ideas
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -20,15 +32,14 @@ Abstract: Evaluating relevance in large-scale search systems is fundamentally co
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
 
 ## Source
 
-Original source: https://arxiv.org/abs/2602.07840
+Original source URL: https://arxiv.org/abs/2602.07840
 
 ## Local Vault File
 
-Path: ai\research\sage-scalable-ai-governance-evaluation-147110.md
+Path: [sage-scalable-ai-governance-evaluation-147110.md](file:///../../ai\research\sage-scalable-ai-governance-evaluation-147110.md)

@@ -4,14 +4,24 @@ archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12278"
 local_vault_path: "ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Finding Sparse Subnetworks in One Training Cycle via Progressive Magnitude-Based Pruning
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -20,14 +30,14 @@ Abstract: Neural network pruning reduces model size by removing less important p
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12278
+Original source URL: https://arxiv.org/abs/2606.12278
 
 ## Local Vault File
 
-Path: ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md
+Path: [finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md](file:///../../ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md)

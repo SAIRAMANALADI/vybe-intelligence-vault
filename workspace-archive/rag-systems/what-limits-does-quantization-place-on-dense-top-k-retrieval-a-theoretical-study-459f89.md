@@ -4,18 +4,29 @@ archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11780"
 local_vault_path: "ai\rag\what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
 tags:
   - models
   - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
 ---
 
 # What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: models, rag
-- Archive category: RAG Systems
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
 
 ## Summary
 
@@ -24,14 +35,14 @@ Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$
 
 ## Use Cases
 
-- Building RAG pipelines
-- Document retrieval
-- Knowledge base creation
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.11780
+Original source URL: https://arxiv.org/abs/2606.11780
 
 ## Local Vault File
 
-Path: ai\rag\what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md
+Path: [what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md](file:///../../ai\rag\what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md)

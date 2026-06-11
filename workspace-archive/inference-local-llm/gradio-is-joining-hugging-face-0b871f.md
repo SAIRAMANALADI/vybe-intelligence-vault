@@ -4,14 +4,24 @@ archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-joins-hf"
 local_vault_path: "ai\models\gradio-is-joining-hugging-face-0b871f.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "reference"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Gradio is joining Hugging Face!
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/models`
-- Archive category: Inference and Local LLM
+- Matched archive category: `Inference and Local LLM`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -19,15 +29,14 @@ No summary provided. Reference resource: Gradio is joining Hugging Face!
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Private AI execution
+- Offline model serving
+- Quantization setups
 
 ## Source
 
-Original source: https://huggingface.co/blog/gradio-joins-hf
+Original source URL: https://huggingface.co/blog/gradio-joins-hf
 
 ## Local Vault File
 
-Path: ai\models\gradio-is-joining-hugging-face-0b871f.md
+Path: [gradio-is-joining-hugging-face-0b871f.md](file:///../../ai\models\gradio-is-joining-hugging-face-0b871f.md)

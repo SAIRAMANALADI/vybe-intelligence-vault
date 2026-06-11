@@ -4,6 +4,11 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation"
 local_vault_path: "ai\rag\10-real-world-examples-of-retrieval-augmented-generation-59daeb.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "benchmark"
+importance: "medium"
 tags:
   - agents
   - anthropic
@@ -15,15 +20,19 @@ tags:
   - paper
   - rag
   - scripts
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # 10 Real-World Examples of Retrieval Augmented Generation
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: agents, anthropic, benchmark, hackernews, meta-ai, models, openai, paper
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -31,14 +40,14 @@ Blog RAG 10 Real-World Examples of Retrieval Augmented Generation Explore 10 imp
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation
+Original source URL: https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation
 
 ## Local Vault File
 
-Path: ai\rag\10-real-world-examples-of-retrieval-augmented-generation-59daeb.md
+Path: [10-real-world-examples-of-retrieval-augmented-generation-59daeb.md](file:///../../ai\rag\10-real-world-examples-of-retrieval-augmented-generation-59daeb.md)

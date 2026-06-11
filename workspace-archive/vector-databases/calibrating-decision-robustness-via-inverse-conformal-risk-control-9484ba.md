@@ -4,17 +4,26 @@ archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.07750"
 local_vault_path: "ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - rag
+selection_reason:
+  - "Useful for project building"
 ---
 
 # Calibrating Decision Robustness via Inverse Conformal Risk Control
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/rag`
-- Tags: rag
-- Archive category: Vector Databases
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,14 +32,14 @@ Abstract: Robust optimization safeguards decisions against uncertainty by optimi
 
 ## Use Cases
 
-- Vector storage setup
-- Embedding management
-- Similarity search
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
 
 ## Source
 
-Original source: https://arxiv.org/abs/2510.07750
+Original source URL: https://arxiv.org/abs/2510.07750
 
 ## Local Vault File
 
-Path: ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md
+Path: [calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md](file:///../../ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md)

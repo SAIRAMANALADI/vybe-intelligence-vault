@@ -4,17 +4,26 @@ archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.06100"
 local_vault_path: "ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
 tags:
   - models
+selection_reason:
+  - "Useful for project building"
 ---
 
 # CredibleDFGO: Differentiable Factor Graph Optimization with Credibility Supervision
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/research`
-- Tags: models
-- Archive category: Evals and Benchmarks
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Global navigation satellite system (GNSS) positioning is widely used f
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
 
 ## Source
 
-Original source: https://arxiv.org/abs/2605.06100
+Original source URL: https://arxiv.org/abs/2605.06100
 
 ## Local Vault File
 
-Path: ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md
+Path: [credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md](file:///../../ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md)

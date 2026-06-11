@@ -4,17 +4,26 @@ archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12370"
 local_vault_path: "ai\agents\breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
 tags:
   - agents
+selection_reason:
+  - "Valuable developer reference"
 ---
 
 # Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling
 
 ## Why This Is In The Archive
 
-- Matched source category: `ai/agents`
-- Tags: agents
-- Archive category: AI Browser and Computer Use
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Valuable developer reference
 
 ## Summary
 
@@ -23,15 +32,14 @@ Abstract: Reinforcement learning (RL) has become a key component in modern large
 
 ## Use Cases
 
-- Learning
-- Project building
-- Reference
-- Inspiration
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
 
 ## Source
 
-Original source: https://arxiv.org/abs/2606.12370
+Original source URL: https://arxiv.org/abs/2606.12370
 
 ## Local Vault File
 
-Path: ai\agents\breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md
+Path: [breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md](file:///../../ai\agents\breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md)
