@@ -8,10 +8,6 @@
 
 An auto-updating open-source intelligence vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.
 
-</div>
-
-<div align="center">
-
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-111111)]()
 [![Auto Updated](https://img.shields.io/badge/Updated-Every%203%20Hours-2563eb)]()
 [![AI Agents](https://img.shields.io/badge/AI-Agents-7c3aed)]()
@@ -55,7 +51,7 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-11 19:19 UTC |
+| Last meaningful update | 2026-06-11 19:39 UTC |
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds meaningful changes, not just because a scheduled run happened.
 
@@ -65,49 +61,49 @@ The stats shown here are generated from the current vault content. They refresh 
 
 ## Why This Vault Is Different
 
-| Typical Archive | Vybe Intelligence Vault |
-|---|---|
-| Static list of links | Auto-updated every 3 hours |
-| Tool dump | Builder-focused intelligence system |
-| Hard to navigate | Maps, best-of guides, search index, learning paths |
-| Popular repos only | Also tracks early-stage relevant repos, including zero-star repos |
-| Manual updates | Scheduled automation through GitHub Actions |
-| Random resources | Scored, categorized, safety-scanned resources |
-| Only AI tools | AI, agents, RAG, MCP, prompts, webdev, automation, startup ideas |
+| Typical archive      | Vybe Intelligence Vault                                           |
+| -------------------- | ----------------------------------------------------------------- |
+| Static list of links | Auto-updated every 3 hours                                        |
+| Tool dump            | Builder-focused intelligence system                               |
+| Hard to navigate     | Maps, best-of guides, search index, learning paths                |
+| Popular repos only   | Also tracks early-stage relevant repos, including zero-star repos |
+| Manual updates       | Scheduled automation through GitHub Actions                       |
+| Random resources     | Scored, categorized, safety-scanned resources                     |
+| Only AI tools        | AI, agents, RAG, MCP, prompts, webdev, automation, startup ideas  |
 
 ---
 
 ## Explore the Vault
 
-| Section | What It Gives You |
-|---|---|
-| [Search Index](search-index.md) | Searchable map of vault resources |
-| [Intelligence](intelligence/) | Latest AI signals, trends, research, repos |
-| [Workspace Archive](workspace-archive/) | Categorized AI and web development archive |
-| [Builder Maps](maps/) | Stack maps for agents, RAG, MCP, LLMOps, frontend AI |
-| [Build Ideas](build-ideas/) | Practical project ideas for portfolio and products |
-| [Learning Paths](learning-paths/) | 7-day learning paths for key skills |
-| [Examples](examples/) | How to use this vault with coding agents |
-| [Stats](stats/) | Public vault stats and category counts |
-| [Roadmap](ROADMAP.md) | Planned improvements and future direction |
-| [Changelog](CHANGELOG.md) | Latest meaningful vault updates |
+| Section                                 | What it gives you                                    |
+| --------------------------------------- | ---------------------------------------------------- |
+| [Search Index](search-index.md)         | Searchable map of vault resources                    |
+| [Intelligence](intelligence/)           | Latest AI signals, trends, research, repos           |
+| [Workspace Archive](workspace-archive/) | Categorized AI and web development archive           |
+| [Builder Maps](maps/)                   | Stack maps for agents, RAG, MCP, LLMOps, frontend AI |
+| [Build Ideas](build-ideas/)             | Practical project ideas for portfolio and products   |
+| [Learning Paths](learning-paths/)       | 7-day learning paths for key skills                  |
+| [Examples](examples/)                   | How to use this vault with coding agents             |
+| [Stats](stats/)                         | Public vault stats and category counts               |
+| [Roadmap](ROADMAP.md)                   | Planned improvements and future direction            |
+| [Changelog](CHANGELOG.md)               | Latest meaningful vault updates                      |
 
 ---
 
 ## What Is Inside
 
-| Area | Includes |
-|---|---|
-| AI Agents | Agent frameworks, orchestration, tool use |
-| RAG Systems | Retrieval apps, templates, chunking, reranking |
-| MCP Servers | Servers, tools, examples, security notes |
-| Prompt Libraries | System prompts, coding prompts, agent prompts |
-| AI Coding Agents | Codex, Cursor, Windsurf, Claude Code, Cline |
-| LLM App Templates | FastAPI, Next.js, chat apps, AI SaaS templates |
+| Area                    | Includes                                        |
+| ----------------------- | ----------------------------------------------- |
+| AI Agents               | Agent frameworks, orchestration, tool use       |
+| RAG Systems             | Retrieval apps, templates, chunking, reranking  |
+| MCP Servers             | Servers, tools, examples, security notes        |
+| Prompt Libraries        | System prompts, coding prompts, agent prompts   |
+| AI Coding Agents        | Codex, Cursor, Windsurf, Claude Code, Cline     |
+| LLM App Templates       | FastAPI, Next.js, chat apps, AI SaaS templates  |
 | Evals and Observability | RAGAS, promptfoo, Langfuse, tracing, monitoring |
-| Frontend AI UI | Chat UI, dashboards, shadcn, Tailwind layouts |
-| 3D Creative Web | Three.js, R3F, WebGPU, shaders, Spline |
-| Startup Builder | MVP ideas, SaaS resources, launch patterns |
+| Frontend AI UI          | Chat UI, dashboards, shadcn, Tailwind layouts   |
+| 3D Creative Web         | Three.js, R3F, WebGPU, shaders, Spline          |
+| Startup Builder         | MVP ideas, SaaS resources, launch patterns      |
 
 ---
 
@@ -117,31 +113,31 @@ The vault does not only save links. It continuously updates skill guides based o
 
 Stars and forks are bonus signals, not gatekeeping filters. A zero-star repository can still be included if it is fresh, relevant, and useful for builders.
 
-| Skill | Updated Signals |
-|---|---|
-| AI Agents | Frameworks, orchestration patterns, agent repos |
-| RAG | Templates, vector databases, chunking, reranking |
-| MCP | Servers, tools, integrations, examples |
-| LLMOps | Evals, tracing, monitoring, RAG evaluation |
-| AI Coding Agents | Codex, Cursor, Windsurf, Claude Code, Cline |
-| Frontend AI UI | Chat UI, dashboards, AI interfaces |
-| 3D Web | Three.js, React Three Fiber, WebGPU, shaders |
-| Automation | n8n, Playwright, browser workflows |
+| Skill            | Updated signals                                  |
+| ---------------- | ------------------------------------------------ |
+| AI Agents        | Frameworks, orchestration patterns, agent repos  |
+| RAG              | Templates, vector databases, chunking, reranking |
+| MCP              | Servers, tools, integrations, examples           |
+| LLMOps           | Evals, tracing, monitoring, RAG evaluation       |
+| AI Coding Agents | Codex, Cursor, Windsurf, Claude Code, Cline      |
+| Frontend AI UI   | Chat UI, dashboards, AI interfaces               |
+| 3D Web           | Three.js, React Three Fiber, WebGPU, shaders     |
+| Automation       | n8n, Playwright, browser workflows               |
 
 ---
 
 ## Start Building
 
-| Start Here | Path |
-|---|---|
+| Start Here               | Path                                                                                                           |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | Essential AI Engineering | [workspace-archive/best-of/essential-ai-engineering.md](workspace-archive/best-of/essential-ai-engineering.md) |
 | Essential Agent Building | [workspace-archive/best-of/essential-agent-building.md](workspace-archive/best-of/essential-agent-building.md) |
-| Essential RAG Stack | [workspace-archive/best-of/essential-rag-stack.md](workspace-archive/best-of/essential-rag-stack.md) |
+| Essential RAG Stack      | [workspace-archive/best-of/essential-rag-stack.md](workspace-archive/best-of/essential-rag-stack.md)           |
 | Essential Frontend AI UI | [workspace-archive/best-of/essential-frontend-ai-ui.md](workspace-archive/best-of/essential-frontend-ai-ui.md) |
-| Essential 3D Web Dev | [workspace-archive/best-of/essential-3d-webdev.md](workspace-archive/best-of/essential-3d-webdev.md) |
-| Essential Automation | [workspace-archive/best-of/essential-automation.md](workspace-archive/best-of/essential-automation.md) |
-| Newest Resources | [workspace-archive/_navigation/newest.md](workspace-archive/_navigation/newest.md) |
-| Skill Index | [_index/skill-index.md](_index/skill-index.md) |
+| Essential 3D Web Dev     | [workspace-archive/best-of/essential-3d-webdev.md](workspace-archive/best-of/essential-3d-webdev.md)           |
+| Essential Automation     | [workspace-archive/best-of/essential-automation.md](workspace-archive/best-of/essential-automation.md)         |
+| Newest Resources         | [workspace-archive/_navigation/newest.md](workspace-archive/_navigation/newest.md)                             |
+| Skill Index              | [_index/skill-index.md](_index/skill-index.md)                                                                 |
 
 ---
 
@@ -171,7 +167,7 @@ Each run:
 
 If no meaningful changes are found, the workflow exits successfully without creating an empty commit.
 
-The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scans updates before push.
+The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scanned updates before push.
 
 ---
 
