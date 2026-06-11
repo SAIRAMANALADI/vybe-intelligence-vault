@@ -484,4 +484,4 @@ This index groups curated resources by target developer skills.
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
 
 ---
-*Last updated: 2026-06-11 14:04 UTC*
+*Last updated: 2026-06-11 15:18 UTC*

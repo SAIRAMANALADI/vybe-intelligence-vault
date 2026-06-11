@@ -15,6 +15,8 @@ An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prom
 [![MCP](https://img.shields.io/badge/MCP-Servers-orange)]()
 [![Web Development](https://img.shields.io/badge/Web-Development-darkgreen)]()
 
+Update mode: Scheduled every 3 hours by private automation.
+
 </div>
 
 ```txt
@@ -30,6 +32,50 @@ The AI internet moves fast.
 New agents, tools, repos, prompts, papers, templates, workflows, and frameworks appear every day.
 
 Vybe Intelligence Vault tracks the signal and organizes it into a clean builder-friendly archive.
+
+---
+
+## Public Statistics
+
+| Metric | Value |
+| :--- | ---: |
+| Resources tracked | Auto-generated in [stats/](stats/vault-stats.md) |
+| Archive categories | 24 folders |
+| Builder stack maps | 8 guides |
+| 7-Day learning paths | 8 tracks |
+| Portfolio build ideas | 8 project areas |
+| Update frequency | Every 3 hours |
+
+---
+
+## Why This Vault Is Different
+
+| Typical archive | Vybe Intelligence Vault |
+| :--- | :--- |
+| Static list of links | Auto-updated every 3 hours |
+| Hard to navigate | Maps, best-of guides, learning paths |
+| Tool dump | Builder-focused intelligence |
+| Random resources | Scored, categorized, safety-scanned resources |
+| Only AI tools | AI, agents, RAG, MCP, prompts, webdev, startup ideas |
+
+---
+
+## Start Building
+
+Get started immediately with our curated builder layers:
+
+*   **[Portfolio Build Ideas](build-ideas/README.md)** — Beginner, intermediate, and advanced developer blueprints.
+*   **[7-Day Learning Paths](learning-paths/README.md)** — Step-by-step tracks to build and deploy software in a week.
+*   **[Builder Stack Maps](maps/README.md)** — Core concepts, key frameworks, and recommended vault files per stack.
+*   **[Live Intelligence Portal](intelligence/README.md)** — Latest AI signals, trending tools, and research watch databases.
+*   **[Curated Best-Of Guides](workspace-archive/best-of/README.md)** — Instant access to essential RAG, agent, and 3D web configurations.
+*   **[Topic & Role Navigators](workspace-archive/_navigation/README.md)** — In-depth maps for AI engineers, founders, students, and frontend devs.
+
+---
+
+## Live Intelligence
+
+The vault actively tracks the latest AI signals, repositories, tools, preprints, startup validations, and creative web libraries from public developer channels. Every update is parsed into structured Markdown files, safety-scanned for privacy, and committed here. 
 
 ---
 
@@ -177,4 +223,5 @@ This vault and its curation logic are open-source and licensed under the [MIT Li
 ---
 
 If this vault helps you discover useful AI resources, consider starring the repo so more builders can find it.
+
 

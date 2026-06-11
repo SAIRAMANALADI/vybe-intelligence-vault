@@ -1,0 +1,11 @@
+# Startup Watch
+
+Micro-SaaS templates, business validations, boilerplate code, and builder launch platforms.
+
+| Resource | Vault Folder | Score |
+| :--- | :--- | :--- |
+| [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone) | `startup-builder/` | 70 |
+| [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code) | `startup-builder/` | 70 |
+| [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code) | `startup-builder/` | 70 |
+
+More resources will appear as the harvester collects them.
