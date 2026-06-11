@@ -1,10 +1,10 @@
-# ⚖️ Sourcing and Attribution Policy
+# Sourcing and Attribution Policy
 
 At **Vybe Intelligence Vault**, we believe in the power of open-source knowledge sharing. We respect intellectual property and are committed to preserving clear pathways to original authors and publications.
 
 ---
 
-## 🔍 Sourcing Strategy
+## Sourcing Strategy
 
 The intelligence stored in this vault is curated strictly from public, open-access directories and developer channels:
 
@@ -15,7 +15,7 @@ The intelligence stored in this vault is curated strictly from public, open-acce
 
 ---
 
-## 🏷️ How Attribution is Structured
+## How Attribution is Structured
 
 To ensure original creators receive full credit, every single file in the vault contains metadata in its frontmatter:
 
@@ -25,7 +25,7 @@ To ensure original creators receive full credit, every single file in the vault 
 
 ---
 
-## 📥 Opt-Out / Modification Requests
+## Opt-Out / Modification Requests
 
 If you are the author or owner of any library, paper, or article summarized in this vault and would like it updated, annotated, or removed:
 
@@ -33,4 +33,5 @@ If you are the author or owner of any library, paper, or article summarized in t
 2.  Or email us directly at [sairamanladi2007@gmail.com](mailto:sairamanladi2007@gmail.com).
 
 We will address your request promptly (typically within 24 hours).
+
 
