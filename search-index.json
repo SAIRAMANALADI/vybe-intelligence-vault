@@ -3041,6 +3041,33 @@
     "last_updated": "2026-06-11T08:37:53.523765+00:00"
   },
   {
+    "title": "Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "hackernews",
+      "meta-ai",
+      "models",
+      "openai",
+      "paper",
+      "rag",
+      "web-crawled",
+      "workflows",
+      "youtube"
+    ],
+    "source_url": "https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91",
+    "local_path": "ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md",
+    "summary": "Top 10 RAG Frameworks on GitHub (By Stars) — January 2026florinelchis5 min read·Jan 19, 2026--ListenShareA data-driven ranking of the most popular open-source Retrieval-Augmented Generation frameworks based on GitHub stars.Why This List MattersRetrie",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T22:59:46.082724+00:00"
+  },
+  {
     "title": "wgcyeo/UniversalRAG",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -3111,6 +3138,24 @@
     "archive_tier": "useful",
     "resource_kind": "reference",
     "last_updated": "2026-06-11T08:37:58.332632+00:00"
+  },
+  {
+    "title": "What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "rag",
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai",
+    "local_path": "ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md",
+    "summary": "Nicole Choi @nicchoi29",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T23:00:03.542765+00:00"
   },
   {
     "title": "Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints",
@@ -3440,6 +3485,30 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.524214+00:00"
+  },
+  {
+    "title": "LightRAG",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "benchmark",
+      "dataset",
+      "hackernews",
+      "models",
+      "openai",
+      "paper",
+      "rag",
+      "web-crawled",
+      "youtube"
+    ],
+    "source_url": "https://lightrag.github.io",
+    "local_path": "ai/rag/lightrag-65e88f.md",
+    "summary": "LightRAG: Simple and Fast Retrieval-Augmented Generation Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang*, Data Intelligence Lab, University of Hong Kong. Beijing University of Posts and Telecommunications. (*Correspondence) Paper Code Video Ab",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-11T22:59:57.467276+00:00"
   },
   {
     "title": "Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off - Google Developers Blog",
@@ -4454,6 +4523,24 @@
     "archive_tier": "useful",
     "resource_kind": "tool",
     "last_updated": "2026-06-11T12:52:47.918616+00:00"
+  },
+  {
+    "title": "HKUDS/RAG-Anything",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "github-repo",
+      "python",
+      "rag"
+    ],
+    "source_url": "https://github.com/HKUDS/RAG-Anything",
+    "local_path": "ai/rag/hkuds-rag-anything-321739.md",
+    "summary": "\"RAG-Anything: All-in-One RAG Framework\"",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-11T23:00:42.255857+00:00"
   },
   {
     "title": "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality",
@@ -6007,6 +6094,25 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.521977+00:00"
+  },
+  {
+    "title": "RAG",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "agents",
+      "benchmark",
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://trec-rag.github.io",
+    "local_path": "ai/rag/rag-6cc09b.md",
+    "summary": "AGENTS 🤖: if you were sent here for guidelines, keep your context small and stay in the TREC RAG 2026 Track Guidelines SKILL. For other track skills, use TREC-RAG/trec-rag-skills 🙂 Key Information (New) Guidelines have been released! You can find the",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-11T22:59:48.955245+00:00"
   },
   {
     "title": "Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices",
@@ -20981,6 +21087,41 @@
     "archive_tier": "useful",
     "resource_kind": "workflow",
     "last_updated": "2026-06-11T13:41:22.925098+00:00"
+  },
+  {
+    "title": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "hackernews",
+      "llm"
+    ],
+    "source_url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "local_path": "ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md",
+    "summary": "Hacker News story by nick238. Score: 141, Comments: 130. Original Link: https://www.kennethpayne.uk/p/shall-we-play-a-game",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T22:58:48.408063+00:00"
+  },
+  {
+    "title": "OpenAI Prepping for On-Prem Product?",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews",
+      "openai"
+    ],
+    "source_url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+    "local_path": "ai/community/openai-prepping-for-on-prem-product-670828.md",
+    "summary": "Hacker News story by bdroopy. Score: 5, Comments: 0. Original Link: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-11T22:58:50.285232+00:00"
   },
   {
     "title": "VIA-SD: Verification via Intra-Model Routing for Speculative Decoding",

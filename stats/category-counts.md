@@ -7,8 +7,8 @@ Below is the file distribution across the vault categories.
 | `ai-browser-computer-use/` | 113 |
 | `ai-tools-products/` | 5 |
 | `ai/resources/` | 3 |
-| `automation-workflows/` | 81 |
-| `datasets/` | 127 |
+| `automation-workflows/` | 84 |
+| `datasets/` | 128 |
 | `evals-and-benchmarks/` | 8 |
 | `frontend-ai-ui/` | 49 |
 | `inference-local-llm/` | 1 |
@@ -19,7 +19,7 @@ Below is the file distribution across the vault categories.
 | `project-ideas/` | 1118 |
 | `prompt-libraries/` | 2 |
 | `startup-builder/` | 13 |
-| `vector-databases/` | 105 |
+| `vector-databases/` | 108 |
 | `web-development/framer-motion/` | 13 |
 | `web-development/gsap/` | 2 |
 | `webdev-3d-creative/` | 81 |

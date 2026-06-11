@@ -6,7 +6,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | :--- | ---: |
 | huggingface | 800 |
 | arxiv | 548 |
-| github | 291 |
+| github | 292 |
 | anthropic.com | 10 |
 | mistral.ai | 10 |
 | deepmind.google | 9 |
@@ -40,10 +40,13 @@ Distribution of original signal ingestion sources across processed URLs:
 | llm-stats.com | 1 |
 | saumilsrivastava.ai | 1 |
 | datawhalechina.github.io | 1 |
+| florinelchis.medium.com | 1 |
 | signoz.io | 1 |
+| github.blog | 1 |
 | freeacademy.ai | 1 |
 | startdesigns.com | 1 |
 | learn.microsoft.com | 1 |
+| lightrag.github.io | 1 |
 | developers.googleblog.com | 1 |
 | levelup.gitconnected.com | 1 |
 | braintrust.dev | 1 |
@@ -62,6 +65,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | superml.org | 1 |
 | docs.aws.amazon.com | 1 |
 | botpenguin.com | 1 |
+| trec-rag.github.io | 1 |
 | martinuke0.github.io | 1 |
 | markaicode.com | 1 |
 | langchain-tutorials.github.io | 1 |
@@ -87,3 +91,5 @@ Distribution of original signal ingestion sources across processed URLs:
 | tonedear.com | 1 |
 | samhenrycliff.medium.com | 1 |
 | businessinsider.com | 1 |
+| kennethpayne.uk | 1 |
+| ledger.somantix.ai | 1 |

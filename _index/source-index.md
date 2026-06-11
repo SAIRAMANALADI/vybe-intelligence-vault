@@ -37,6 +37,7 @@ Resources organized by publisher feed and query sources.
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md)
   - [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe-bdc8e7.md)
   - [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md)
+  - [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything-321739.md)
   - [HKUDS/VideoRAG](../ai/rag/hkuds-videorag-4b9ad5.md)
   - [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md)
   - [HeJiguang/codescan](../ai/agents/hejiguang-codescan-e4d530.md)
@@ -356,7 +357,9 @@ Resources organized by publisher feed and query sources.
   - [Klondike Solitaire game for curses in 5k of C](../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md)
   - [L'Affaire Siloxane](../ai/community/l-affaire-siloxane-923f03.md)
   - [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md)
+  - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product-670828.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md)
+  - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md)
   - [Show HN: Claw Patrol, a security firewall for agents](../ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md)
   - [Show HN: HelixDB – A graph database built on object storage](../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md)
   - [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md)
@@ -1250,10 +1253,12 @@ Resources organized by publisher feed and query sources.
   - [LangGraph vs fast-langraph: side-by-side benchmarks](../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md)
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md)
+  - [LightRAG](../ai/rag/lightrag-65e88f.md)
   - [Mastering Chunking Strategies for RAG: Best Practices & Code Examples](../ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-system-00bbb1.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
+  - [RAG](../ai/rag/rag-6cc09b.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2026-090766.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md)
@@ -1270,6 +1275,7 @@ Resources organized by publisher feed and query sources.
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for-2025-articles-braintrust-973379.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md)
+  - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md)
   - [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)
   - [Top LLM Observability Tools in 2026 | SigNoz](../ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md)
   - [Top LLM Observability platforms 2025](../ai/rag/top-llm-observability-platforms-2025-2f1155.md)
@@ -1277,6 +1283,7 @@ Resources organized by publisher feed and query sources.
   - [What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](../ai/rag/what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md)
   - [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md)
   - [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](../ai/rag/what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md)
+  - [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](../ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md)
   - [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md)
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md)
 
@@ -1832,4 +1839,4 @@ Resources organized by publisher feed and query sources.
   - [Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic View](../ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)
 
 ---
-*Index generated on 2026-06-11T20:37:53.905972+00:00*
+*Index generated on 2026-06-11T23:01:32.816173+00:00*

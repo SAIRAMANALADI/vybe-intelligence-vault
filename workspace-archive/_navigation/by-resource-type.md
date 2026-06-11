@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai/agents/haohao-end-openagent-402239.md))
 
 ---
-*Last updated: 2026-06-11 20:37 UTC*
+*Last updated: 2026-06-11 23:01 UTC*

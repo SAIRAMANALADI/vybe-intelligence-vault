@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-11T20:37:59.034518+00:00",
-  "last_updated": "2026-06-11 20:37 UTC",
-  "total_resources": 1768,
-  "total_markdown_files": 9574,
-  "archive_files": 7679,
+  "generated_at": "2026-06-11T23:01:37.880319+00:00",
+  "last_updated": "2026-06-11 23:01 UTC",
+  "total_resources": 1775,
+  "total_markdown_files": 9603,
+  "archive_files": 7701,
   "archive_categories": 33,
   "workspace_archive_categories": 33,
   "skill_files": 19,
@@ -13,9 +13,9 @@
   "learning_path_files": 8,
   "best_of_guides": 6,
   "examples_count": 8,
-  "search_index_entries": 1768,
-  "latest_resource_date": "2026-06-11T20:36:08.744493+00:00",
-  "latest_update_time": "2026-06-11T20:37:59.034541+00:00",
+  "search_index_entries": 1775,
+  "latest_resource_date": "2026-06-11T23:00:42.255857+00:00",
+  "latest_update_time": "2026-06-11T23:01:37.880343+00:00",
   "top_categories": [
     {
       "name": "project-ideas",
@@ -23,7 +23,7 @@
     },
     {
       "name": "datasets",
-      "count": 127
+      "count": 128
     },
     {
       "name": "ai-browser-computer-use",
@@ -31,11 +31,11 @@
     },
     {
       "name": "vector-databases",
-      "count": 105
+      "count": 108
     },
     {
       "name": "automation-workflows",
-      "count": 81
+      "count": 84
     },
     {
       "name": "webdev-3d-creative",
@@ -64,11 +64,11 @@
     "model-providers": 36,
     "inference-local-llm": 1,
     "evals-and-benchmarks": 8,
-    "datasets": 127,
+    "datasets": 128,
     "ai-tools-products": 5,
-    "automation-workflows": 81,
+    "automation-workflows": 84,
     "project-ideas": 1118,
-    "vector-databases": 105,
+    "vector-databases": 108,
     "ai-browser-computer-use": 113,
     "startup-builder": 13,
     "webdev-3d-creative": 81,
@@ -80,7 +80,7 @@
     "web-development/gsap": 2
   },
   "source_coverage": {
-    "github": 291,
+    "github": 292,
     "anthropic.com": 10,
     "deepmind.google": 9,
     "antigravity.google": 1,
@@ -110,11 +110,14 @@
     "llm-stats.com": 1,
     "saumilsrivastava.ai": 1,
     "datawhalechina.github.io": 1,
+    "florinelchis.medium.com": 1,
     "signoz.io": 1,
+    "github.blog": 1,
     "freeacademy.ai": 1,
     "evidentlyai.com": 3,
     "startdesigns.com": 1,
     "learn.microsoft.com": 1,
+    "lightrag.github.io": 1,
     "developers.googleblog.com": 1,
     "levelup.gitconnected.com": 1,
     "braintrust.dev": 1,
@@ -138,6 +141,7 @@
     "cloud.google.com": 2,
     "docs.aws.amazon.com": 1,
     "botpenguin.com": 1,
+    "trec-rag.github.io": 1,
     "martinuke0.github.io": 1,
     "markaicode.com": 1,
     "langchain-tutorials.github.io": 1,
@@ -162,6 +166,8 @@
     "theverge.com": 1,
     "tonedear.com": 1,
     "samhenrycliff.medium.com": 1,
-    "businessinsider.com": 1
+    "businessinsider.com": 1,
+    "kennethpayne.uk": 1,
+    "ledger.somantix.ai": 1
   }
 }

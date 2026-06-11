@@ -26,6 +26,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2025-10-10 | [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) | `model-providers/` |
 | 2025-09-24 | [microsoft/a11y-llm-eval](https://github.com/microsoft/a11y-llm-eval) | `evals-and-benchmarks/` |
 | 2025-08-27 | [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome) | `rag-systems/` |
+| 2025-06-06 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | `rag-systems/` |
 | 2025-05-15 | [zhihao1998/LLM4NetLab](https://github.com/zhihao1998/LLM4NetLab) | `ai-coding-agents/` |
 | 2025-04-08 | [nottelabs/open-operator-evals](https://github.com/nottelabs/open-operator-evals) | `ai-coding-agents/` |
 | 2025-03-10 | [sumanth-dhanya/llm-toolkit](https://github.com/sumanth-dhanya/llm-toolkit) | `ai-coding-agents/` |
@@ -33,4 +34,3 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2024-07-25 | [flexpa/llm-fhir-eval](https://github.com/flexpa/llm-fhir-eval) | `evals-and-benchmarks/` |
 | 2023-12-07 | [modelscope/evalscope](https://github.com/modelscope/evalscope) | `rag-systems/` |
 | 2023-09-28 | [itsderek23/awesome-eval-driven-development](https://github.com/itsderek23/awesome-eval-driven-development) | `evals-and-benchmarks/` |
-| 2023-08-15 | [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) | `ai-coding-agents/` |

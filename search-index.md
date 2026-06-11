@@ -897,6 +897,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `ai`, `hackernews`
   * Source URL: <https://twitter.com/awscloud/status/2064449711155589396>
 
+* **[OpenAI Prepping for On-Prem Product?](ai/community/openai-prepping-for-on-prem-product-670828.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by bdroopy. Score: 5, Comments: 0. Original Link: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/
+  * Tags: `ai`, `hackernews`, `openai`
+  * Source URL: <https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/>
+
 * **[Planning the design of your production-grade RAG system](ai/rag/planning-the-design-of-your-production-grade-rag-system-00bbb1.md)** (`tutorial` | `useful` tier)
   * Summary: Planning the design of your production-grade RAG system March 6, 20264-minute read Artificial intelligence Frank La Vigne AI Principal Technical Marketing Manager Robbie Jerrom Senior Principal Technologist, AI Share Subscribe to RSS Back to all post
   * Tags: `agents`, `hackernews`, `models`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -937,6 +942,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12231>
 
+* **[Shall we play a game? – LLMs use tactical nukes in 95% of simulations](ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by nick238. Score: 141, Comments: 130. Original Link: https://www.kennethpayne.uk/p/shall-we-play-a-game
+  * Tags: `hackernews`, `llm`
+  * Source URL: <https://www.kennethpayne.uk/p/shall-we-play-a-game>
+
 * **[Show HN: Claw Patrol, a security firewall for agents](ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by rough-sea. Score: 38, Comments: 10. Original Link: https://github.com/denoland/clawpatrol
   * Tags: `agents`, `hackernews`
@@ -976,6 +986,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Top 10 RAG Frameworks Github Repos 2025Rowan Blackwoon10 min read·May 15, 2025--ListenShareRetrieval-Augmented Generation (RAG) has emerged as a powerful technique for enhancing the capabilities of large language models.RAG frameworks combine the str
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355>
+
+* **[Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md)** (`framework` | `useful` tier)
+  * Summary: Top 10 RAG Frameworks on GitHub (By Stars) — January 2026florinelchis5 min read·Jan 19, 2026--ListenShareA data-driven ranking of the most popular open-source Retrieval-Augmented Generation frameworks based on GitHub stars.Why This List MattersRetrie
+  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91>
 
 * **[Top 7 LLM Observability Tools in 2026 - Confident AI](ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)** (`dataset` | `useful` tier)
   * Summary: Kritin Vongthongsri, Co-founder @ Confident AILLM Evals & Safety Wizard. Previously ML + CS @ Princeton researching self-driving cars.Last edited on May 31, 2026TL;DR — Best LLM Observability Tools in 2026Confident AI is the best LLM observability to
@@ -1263,6 +1278,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.31219v2 Announce Type: replace-cross Abstract: While decision-based black-box adversarial attacks present a severe security threat, current methodologies suffer from fundamental limitations. Pixel-wise attacks frequently introduce unnatura
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2605.31219>
+
+* **[LightRAG](ai/rag/lightrag-65e88f.md)** (`dataset` | `useful` tier)
+  * Summary: LightRAG: Simple and Fast Retrieval-Augmented Generation Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, Chao Huang*, Data Intelligence Lab, University of Hong Kong. Beijing University of Posts and Telecommunications. (*Correspondence) Paper Code Video Ab
+  * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `rag`, `web-crawled`, `youtube`
+  * Source URL: <https://lightrag.github.io>
 
 * **[Machine-learning clustering of close-in exoplanet populations: links to pebble accretion](ai/research/machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11737v1 Announce Type: cross Abstract: Close-in exoplanets exhibit a wide range of orbital architectures and physical properties shaped by both formation conditions and migration processes. Although population-synthesis models predict dist
@@ -7175,6 +7195,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2512.24787>
 
+* **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything-321739.md)** (`framework` | `useful` tier)
+  * Summary: "RAG-Anything: All-in-One RAG Framework"
+  * Tags: `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/HKUDS/RAG-Anything>
+
 * **[HKUDS/VideoRAG](ai/rag/hkuds-videorag-4b9ad5.md)** (`benchmark` | `useful` tier)
   * Summary: [KDD'2026] "VideoRAG: Chat with Your Videos"
   * Tags: `github-repo`, `python`, `rag`, `youtube`
@@ -7330,6 +7355,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11209>
 
+* **[RAG](ai/rag/rag-6cc09b.md)** (`benchmark` | `useful` tier)
+  * Summary: AGENTS 🤖: if you were sent here for guidelines, keep your context small and stay in the TREC RAG 2026 Track Guidelines SKILL. For other track skills, use TREC-RAG/trec-rag-skills 🙂 Key Information (New) Guidelines have been released! You can find the
+  * Tags: `agents`, `benchmark`, `rag`, `web-crawled`
+  * Source URL: <https://trec-rag.github.io>
+
 * **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by-pragati-mehra-medium-b7e41e.md)** (`benchmark` | `useful` tier)
   * Summary: RAG Tutorial 2025: Complete Course Notes — Part 1Pragati Mehra41 min read·Jan 27, 2026--ListenShareThanks to Harish Neel Sir for this amazing tutorial.Note: This is a raw word-to-word transcript of the entire video. It requires editing.VIDEO 01: Comp
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `producthunt`, `rag`, `web-crawled`, `youtube`
@@ -7469,6 +7499,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
   * Tags: `anthropic`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `web-crawled`
   * Source URL: <https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm>
+
+* **[What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md)** (`benchmark` | `useful` tier)
+  * Summary: Nicole Choi @nicchoi29
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai>
 
 * **[When is Your LLM Steerable?](ai/rag/when-is-your-llm-steerable-23232c.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.11599v1 Announce Type: cross Abstract: Activation steering offers a lightweight approach to control language models' behavior at inference time, but whether it succeeds or fails heavily depends on the prompt, concept, model, and steering c
