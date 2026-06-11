@@ -57,65 +57,65 @@ Cyclic execution, agent collaboration networks, and deterministic routing paths 
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
 
-### 9. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([Source URL](https://github.com/i-am-bee/beeai-framework))
+### 9. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md) ([Source URL](https://github.com/FareedKhan-dev/all-agentic-architectures))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md`
+
+### 10. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([Source URL](https://github.com/i-am-bee/beeai-framework))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
 
-### 10. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([Source URL](https://github.com/snyk/agent-scan))
+### 11. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([Source URL](https://github.com/snyk/agent-scan))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
 
-### 11. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+### 12. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
 
-### 12. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([Source URL](https://github.com/Kocoro-lab/Shannon))
+### 13. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([Source URL](https://github.com/Kocoro-lab/Shannon))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
 
-### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([Source URL](https://github.com/didilili/ai-agents-from-zero))
+### 14. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([Source URL](https://github.com/didilili/ai-agents-from-zero))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/rag
 - **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
 
-### 14. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
+### 15. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
 
-### 15. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([Source URL](https://github.com/caramaschiHG/awesome-ai-agents-2026))
+### 16. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([Source URL](https://github.com/caramaschiHG/awesome-ai-agents-2026))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
 
-### 16. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([Source URL](https://github.com/cisco-ai-defense/mcp-scanner))
+### 17. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([Source URL](https://github.com/cisco-ai-defense/mcp-scanner))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
 
-### 17. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([Source URL](https://github.com/affaan-m/agentshield))
+### 18. [FunnyWolf/agentic-soc-platform](../ai/agents/funnywolf-agentic-soc-platform-61ae24.md) ([Source URL](https://github.com/FunnyWolf/agentic-soc-platform))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/funnywolf-agentic-soc-platform-61ae24.md`
+
+### 19. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([Source URL](https://github.com/affaan-m/agentshield))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/affaan-m-agentshield-e9a88d.md`
 
-### 18. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
+### 20. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/agents
 - **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
-
-### 19. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([Source URL](https://github.com/HKUDS/OpenPhone))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
-
-### 20. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([Source URL](https://github.com/duanyytop/agents-radar))
-- **Source**: GitHub Discovery (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
 
 ## Best GitHub Repositories
 
@@ -159,65 +159,65 @@ Cyclic execution, agent collaboration networks, and deterministic routing paths 
 - **Language**: HTML
 - **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
 
-### 9. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
+### 9. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md) ([GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures))
+- **Stars**: 3561
+- **Language**: Jupyter Notebook
+- **Local Path**: `ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md`
+
+### 10. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
 - **Stars**: 3288
 - **Language**: Python
 - **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
 
-### 10. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([GitHub](https://github.com/snyk/agent-scan))
+### 11. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([GitHub](https://github.com/snyk/agent-scan))
 - **Stars**: 2553
 - **Language**: Python
 - **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
 
-### 11. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+### 12. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - **Stars**: 2391
 - **Language**: Python
 - **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
 
-### 12. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([GitHub](https://github.com/Kocoro-lab/Shannon))
+### 13. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([GitHub](https://github.com/Kocoro-lab/Shannon))
 - **Stars**: 1995
 - **Language**: Go
 - **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
 
-### 13. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
+### 14. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([GitHub](https://github.com/didilili/ai-agents-from-zero))
 - **Stars**: 1887
 - **Language**: Python
 - **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
 
-### 14. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([GitHub](https://github.com/nixopus/nixopus))
+### 15. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([GitHub](https://github.com/nixopus/nixopus))
 - **Stars**: 1446
 - **Language**: Go
 - **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
 
-### 15. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026))
+### 16. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([GitHub](https://github.com/caramaschiHG/awesome-ai-agents-2026))
 - **Stars**: 1069
 - **Language**: Unknown
 - **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
 
-### 16. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+### 17. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - **Stars**: 961
 - **Language**: Python
 - **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
 
-### 17. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([GitHub](https://github.com/affaan-m/agentshield))
+### 18. [FunnyWolf/agentic-soc-platform](../ai/agents/funnywolf-agentic-soc-platform-61ae24.md) ([GitHub](https://github.com/FunnyWolf/agentic-soc-platform))
+- **Stars**: 849
+- **Language**: Python
+- **Local Path**: `ai/agents/funnywolf-agentic-soc-platform-61ae24.md`
+
+### 19. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield-e9a88d.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - **Stars**: 847
 - **Language**: TypeScript
 - **Local Path**: `ai/agents/affaan-m-agentshield-e9a88d.md`
 
-### 18. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([GitHub](https://github.com/golf-mcp/golf))
+### 20. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([GitHub](https://github.com/golf-mcp/golf))
 - **Stars**: 829
 - **Language**: Python
 - **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
-
-### 19. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([GitHub](https://github.com/HKUDS/OpenPhone))
-- **Stars**: 826
-- **Language**: Python
-- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
-
-### 20. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([GitHub](https://github.com/duanyytop/agents-radar))
-- **Stars**: 814
-- **Language**: TypeScript
-- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
 
 ## Projects To Build
 
@@ -236,4 +236,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.731428+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T14:04:09.994647+00:00.

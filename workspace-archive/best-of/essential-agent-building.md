@@ -53,6 +53,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents-ea577d.md`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md)
@@ -61,11 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai\rag\langgenius-dify-24dc2b.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents-ea577d.md`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

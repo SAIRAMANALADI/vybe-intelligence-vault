@@ -32,22 +32,22 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `essential` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
-- [May 28, 2026ProductIntroducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) (Tier: `useful` | [`Local File`](file:///../../ai\companies\anthropic\may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md))
 
 ## Agentic Coding
 
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (Tier: `essential` | [`Local File`](file:///../../ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Tier: `essential` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
 
 ## Browser Automation
 
@@ -81,10 +81,10 @@ This index groups curated resources by target developer skills.
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `useful` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
-- [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](https://arxiv.org/abs/2605.00545) (Tier: `useful` | [`Local File`](file:///../../ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md))
 
 ## Data Engineering
 
@@ -92,10 +92,10 @@ This index groups curated resources by target developer skills.
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pcs-uq-uncertainty-quantification-via-the-predictability-computability-stability-a450bf.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `useful` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
-- [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](https://arxiv.org/abs/2605.00545) (Tier: `useful` | [`Local File`](file:///../../ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md))
 
 ## Data Redaction
 
@@ -111,13 +111,13 @@ This index groups curated resources by target developer skills.
 ## Distributed Tracing
 
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer) (Tier: `useful` | [`Local File`](file:///../../web-development\webgpu\gnikoloff-webgpu-raytracer-7c8741.md))
+- [Sampath8989/langgraph-topology-benchmarks](https://github.com/Sampath8989/langgraph-topology-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\agents\sampath8989-langgraph-topology-benchmarks-f8756a.md))
 - [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575) (Tier: `useful` | [`Local File`](file:///../../ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md))
 - [DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace](https://arxiv.org/abs/2606.11687) (Tier: `useful` | [`Local File`](file:///../../ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md))
 - [INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration](https://arxiv.org/abs/2606.11440) (Tier: `useful` | [`Local File`](file:///../../ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md))
 - [Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents](https://arxiv.org/abs/2606.11680) (Tier: `useful` | [`Local File`](file:///../../ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md))
 - [Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248) (Tier: `useful` | [`Local File`](file:///../../ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md))
 - [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix) (Tier: `useful` | [`Local File`](file:///../../ai\agents\trace-evaluate-your-agent-with-arize-phoenix-661714.md))
-- [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation) (Tier: `useful` | [`Local File`](file:///../../ai\models\assisted-generation-a-new-direction-toward-low-latency-text-generation-61b655.md))
 
 ## Embedding Vectors
 
@@ -126,20 +126,20 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md))
-- [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
 
 ## Full-stack AI Engineering
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](file:///../../web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](file:///../../ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md))
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](file:///../../ai\agents\secureagentics-adrian-c658a9.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](file:///../../ai\rag\patchy631-ai-engineering-hub-efa40a.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\asbhogal-fyrre-magazine-422078.md))
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\changoman-nextjs-mdx-blog-46bb4d.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\danybeltran-nextjs-typescript-and-postgresql-09674a.md))
-- [enesien/venefish](https://github.com/enesien/venefish) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\enesien-venefish-8e5a2d.md))
 
 ## GLSL Shaders
 
@@ -156,12 +156,12 @@ This index groups curated resources by target developer skills.
 
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (Tier: `essential` | [`Local File`](file:///../../ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Tier: `essential` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
 
 ## Knowledge Graphs
 
@@ -170,9 +170,9 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md))
-- [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
 
 ## LLM Evaluation
 
@@ -188,13 +188,13 @@ This index groups curated resources by target developer skills.
 ## LLMOps Observability
 
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer) (Tier: `useful` | [`Local File`](file:///../../web-development\webgpu\gnikoloff-webgpu-raytracer-7c8741.md))
+- [Sampath8989/langgraph-topology-benchmarks](https://github.com/Sampath8989/langgraph-topology-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\agents\sampath8989-langgraph-topology-benchmarks-f8756a.md))
 - [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575) (Tier: `useful` | [`Local File`](file:///../../ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md))
 - [DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace](https://arxiv.org/abs/2606.11687) (Tier: `useful` | [`Local File`](file:///../../ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md))
 - [INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration](https://arxiv.org/abs/2606.11440) (Tier: `useful` | [`Local File`](file:///../../ai\agents\inframind-infrastructure-aware-multi-agent-orchestration-3c4f62.md))
 - [Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents](https://arxiv.org/abs/2606.11680) (Tier: `useful` | [`Local File`](file:///../../ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md))
 - [Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248) (Tier: `useful` | [`Local File`](file:///../../ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md))
 - [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix) (Tier: `useful` | [`Local File`](file:///../../ai\agents\trace-evaluate-your-agent-with-arize-phoenix-661714.md))
-- [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation) (Tier: `useful` | [`Local File`](file:///../../ai\models\assisted-generation-a-new-direction-toward-low-latency-text-generation-61b655.md))
 
 ## Local LLMs
 
@@ -203,9 +203,9 @@ This index groups curated resources by target developer skills.
 - [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (Tier: `useful` | [`Local File`](file:///../../ai\models\codegemma-an-official-google-release-for-code-llms-ce2711.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (Tier: `useful` | [`Local File`](file:///../../ai\models\you-could-have-designed-state-of-the-art-positional-encoding-109451.md))
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph) (Tier: `useful` | [`Local File`](file:///../../ai\agents\omrylcn-python-vs-js-langgraph-07de98.md))
 - [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pguso-rag-from-scratch-1f3a46.md))
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pixegami-rag-tutorial-v2-0feb8c.md))
-- [Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](https://arxiv.org/abs/2606.12280) (Tier: `useful` | [`Local File`](file:///../../ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md))
 
 ## MCP Integrations
 
@@ -240,31 +240,31 @@ This index groups curated resources by target developer skills.
 - [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (Tier: `useful` | [`Local File`](file:///../../ai\models\codegemma-an-official-google-release-for-code-llms-ce2711.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (Tier: `useful` | [`Local File`](file:///../../ai\models\you-could-have-designed-state-of-the-art-positional-encoding-109451.md))
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph) (Tier: `useful` | [`Local File`](file:///../../ai\agents\omrylcn-python-vs-js-langgraph-07de98.md))
 - [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pguso-rag-from-scratch-1f3a46.md))
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) (Tier: `useful` | [`Local File`](file:///../../ai\rag\pixegami-rag-tutorial-v2-0feb8c.md))
-- [Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](https://arxiv.org/abs/2606.12280) (Tier: `useful` | [`Local File`](file:///../../ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md))
 
 ## Model Selection
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `essential` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
-- [May 28, 2026ProductIntroducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) (Tier: `useful` | [`Local File`](file:///../../ai\companies\anthropic\may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md))
 
 ## Multi-Agent Design
 
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Tier: `essential` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md))
 
 ## Portfolio Building
 
@@ -332,9 +332,9 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md))
-- [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
 
 ## Roadmap Planning
 
@@ -362,9 +362,9 @@ This index groups curated resources by target developer skills.
 - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (Tier: `useful` | [`Local File`](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md))
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `useful` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 
 ## Similarity Search
 
@@ -372,43 +372,43 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Tier: `useful` | [`Local File`](file:///../../ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 
 ## Software Engineering Automation
 
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (Tier: `essential` | [`Local File`](file:///../../ai\agents\ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) (Tier: `useful` | [`Local File`](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Tier: `essential` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
-- [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
 
 ## State Machines
 
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Tier: `essential` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (Tier: `essential` | [`Local File`](file:///../../ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md))
 
 ## Streaming APIs
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](file:///../../web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](file:///../../ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md))
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](file:///../../ai\agents\secureagentics-adrian-c658a9.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](file:///../../ai\rag\patchy631-ai-engineering-hub-efa40a.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\asbhogal-fyrre-magazine-422078.md))
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\changoman-nextjs-mdx-blog-46bb4d.md))
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\danybeltran-nextjs-typescript-and-postgresql-09674a.md))
-- [enesien/venefish](https://github.com/enesien/venefish) (Tier: `useful` | [`Local File`](file:///../../web-development\nextjs\enesien-venefish-8e5a2d.md))
 
 ## Structured Outputs
 
@@ -467,10 +467,10 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Tier: `essential` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Tier: `useful` | [`Local File`](file:///../../ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 
 ## Workflow Automation
 
@@ -479,9 +479,9 @@ This index groups curated resources by target developer skills.
 - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (Tier: `useful` | [`Local File`](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md))
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `useful` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 
 ---
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

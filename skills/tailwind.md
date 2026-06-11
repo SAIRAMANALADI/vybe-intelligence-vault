@@ -97,25 +97,25 @@ It speeds up styling iterations, avoids bloated CSS sheets, structures uniform d
 - **Category**: web-development/framer-motion
 - **Local Path**: `web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md`
 
-### 17. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md) ([Source URL](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
+### 17. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([Source URL](https://github.com/Haohao-end/openagent))
+- **Source**: GitHub Discovery (github)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/haohao-end-openagent-402239.md`
+
+### 18. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md) ([Source URL](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
 - **Source**: GitHub Next.js Templates (github)
 - **Category**: web-development/nextjs
 - **Local Path**: `web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md`
 
-### 18. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md) ([Source URL](https://github.com/braydoncoyer/braydoncoyer.dev))
+### 19. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md) ([Source URL](https://github.com/braydoncoyer/braydoncoyer.dev))
 - **Source**: GitHub Framer Motion Resources (github)
 - **Category**: web-development/framer-motion
 - **Local Path**: `web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md`
 
-### 19. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md) ([Source URL](https://github.com/dan5py/turborepo-shadcn-ui))
+### 20. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md) ([Source URL](https://github.com/dan5py/turborepo-shadcn-ui))
 - **Source**: GitHub shadcn/ui Resources (github)
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md`
-
-### 20. [EasyFrontendHQ/html-tailwindcss-components](../web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md) ([Source URL](https://github.com/EasyFrontendHQ/html-tailwindcss-components))
-- **Source**: GitHub Tailwind UI Resources (github)
-- **Category**: web-development/tailwind
-- **Local Path**: `web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md`
 
 ## Best GitHub Repositories
 
@@ -199,25 +199,25 @@ It speeds up styling iterations, avoids bloated CSS sheets, structures uniform d
 - **Language**: JavaScript
 - **Local Path**: `web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md`
 
-### 17. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md) ([GitHub](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
+### 17. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
+- **Stars**: 821
+- **Language**: Python
+- **Local Path**: `ai/agents/haohao-end-openagent-402239.md`
+
+### 18. [shadcnstore/shadcn-dashboard-landing-template](../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md) ([GitHub](https://github.com/shadcnstore/shadcn-dashboard-landing-template))
 - **Stars**: 799
 - **Language**: TypeScript
 - **Local Path**: `web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md`
 
-### 18. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md) ([GitHub](https://github.com/braydoncoyer/braydoncoyer.dev))
+### 19. [braydoncoyer/braydoncoyer.dev](../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md) ([GitHub](https://github.com/braydoncoyer/braydoncoyer.dev))
 - **Stars**: 793
 - **Language**: TypeScript
 - **Local Path**: `web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md`
 
-### 19. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md) ([GitHub](https://github.com/dan5py/turborepo-shadcn-ui))
+### 20. [dan5py/turborepo-shadcn-ui](../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md) ([GitHub](https://github.com/dan5py/turborepo-shadcn-ui))
 - **Stars**: 666
 - **Language**: CSS
 - **Local Path**: `web-development/shadcn-ui/dan5py-turborepo-shadcn-ui-258ba8.md`
-
-### 20. [EasyFrontendHQ/html-tailwindcss-components](../web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md) ([GitHub](https://github.com/EasyFrontendHQ/html-tailwindcss-components))
-- **Stars**: 614
-- **Language**: HTML
-- **Local Path**: `web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md`
 
 ## Projects To Build
 
@@ -240,4 +240,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.876813+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T14:04:10.116122+00:00.

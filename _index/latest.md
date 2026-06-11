@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
+### 1. [HeJiguang/codescan](../ai/agents/hejiguang-codescan-e4d530.md) ([Source URL](https://github.com/HeJiguang/codescan))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:04:08.792124+00:00
+- **Local Path**: `ai/agents/hejiguang-codescan-e4d530.md`
+
+### 2. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit-239a6d.md) ([Source URL](https://github.com/yonatangross/orchestkit))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:04:03.342071+00:00
+- **Local Path**: `ai/rag/yonatangross-orchestkit-239a6d.md`
+
+### 3. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([Source URL](https://github.com/AgentTeam-TaichuAI/ScienceClaw))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:58.331817+00:00
+- **Local Path**: `ai/agents/agentteam-taichuai-scienceclaw-992597.md`
+
+### 4. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([Source URL](https://github.com/Haohao-end/openagent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:53.297560+00:00
+- **Local Path**: `ai/agents/haohao-end-openagent-402239.md`
+
+### 5. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower-8ee128.md) ([Source URL](https://github.com/fzn0x/watchtower))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:03:48.388559+00:00
+- **Local Path**: `ai/rag/fzn0x-watchtower-8ee128.md`
+
+### 6. [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent-da8309.md) ([Source URL](https://github.com/infiniumtek/terraform-review-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:43.386472+00:00
+- **Local Path**: `ai/agents/infiniumtek-terraform-review-agent-da8309.md`
+
+### 7. [secureagentics/Adrian](../ai/agents/secureagentics-adrian-c658a9.md) ([Source URL](https://github.com/secureagentics/Adrian))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:38.418242+00:00
+- **Local Path**: `ai/agents/secureagentics-adrian-c658a9.md`
+
+### 8. [redhat-data-and-ai/template-agent](../ai/agents/redhat-data-and-ai-template-agent-d7f71d.md) ([Source URL](https://github.com/redhat-data-and-ai/template-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:33.353742+00:00
+- **Local Path**: `ai/agents/redhat-data-and-ai-template-agent-d7f71d.md`
+
+### 9. [FunnyWolf/agentic-soc-platform](../ai/agents/funnywolf-agentic-soc-platform-61ae24.md) ([Source URL](https://github.com/FunnyWolf/agentic-soc-platform))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:28.335529+00:00
+- **Local Path**: `ai/agents/funnywolf-agentic-soc-platform-61ae24.md`
+
+### 10. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([Source URL](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:23.371925+00:00
+- **Local Path**: `ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md`
+
+### 11. [Sampath8989/langgraph-topology-benchmarks](../ai/agents/sampath8989-langgraph-topology-benchmarks-f8756a.md) ([Source URL](https://github.com/Sampath8989/langgraph-topology-benchmarks))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:18.339364+00:00
+- **Local Path**: `ai/agents/sampath8989-langgraph-topology-benchmarks-f8756a.md`
+
+### 12. [Sathvikkrishna/langgraph-benchmark](../ai/agents/sathvikkrishna-langgraph-benchmark-f16e29.md) ([Source URL](https://github.com/Sathvikkrishna/langgraph-benchmark))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:13.546566+00:00
+- **Local Path**: `ai/agents/sathvikkrishna-langgraph-benchmark-f16e29.md`
+
+### 13. [microsoft/SafeAgents](../ai/agents/microsoft-safeagents-4e3b3a.md) ([Source URL](https://github.com/microsoft/SafeAgents))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:08.462946+00:00
+- **Local Path**: `ai/agents/microsoft-safeagents-4e3b3a.md`
+
+### 14. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([Source URL](https://github.com/omrylcn/python-vs-js-langgraph))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:03:03.424787+00:00
+- **Local Path**: `ai/agents/omrylcn-python-vs-js-langgraph-07de98.md`
+
+### 15. [kvpratama/gaia-agent](../ai/agents/kvpratama-gaia-agent-3687cd.md) ([Source URL](https://github.com/kvpratama/gaia-agent))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:02:59.016668+00:00
+- **Local Path**: `ai/agents/kvpratama-gaia-agent-3687cd.md`
+
+### 16. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md) ([Source URL](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:53.939313+00:00
+- **Local Path**: `ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md`
+
+### 17. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant-a1c1b2.md) ([Source URL](https://github.com/adisystems/fmbench-assistant))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:48.465073+00:00
+- **Local Path**: `ai/rag/adisystems-fmbench-assistant-a1c1b2.md`
+
+### 18. [LangGraph Production Best Practices 2026: Complete Guide | LangChain Tutorials](../ai/rag/langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md) ([Source URL](https://langchain-tutorials.github.io/langgraph-production-best-practices-2026))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:46.285308+00:00
+- **Local Path**: `ai/rag/langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md`
+
+### 19. [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](../ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md) ([Source URL](https://qubittool.com/blog/ai-agent-framework-comparison-2026))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:44.591515+00:00
+- **Local Path**: `ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crewai-vs-ag2-vs-claude-sdk-vs-str-72f247.md`
+
+### 20. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md) ([Source URL](https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:43.443193+00:00
+- **Local Path**: `ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md`
+
+### 21. [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](../ai/rag/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md) ([Source URL](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:42.577966+00:00
+- **Local Path**: `ai/rag/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md`
+
+### 22. [LangGraph 2.0: The Definitive Guide to Building Production-Grade AI Agents in 2026 - DEV Community](../ai/rag/langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md) ([Source URL](https://dev.to/richard_dillon_b9c238186e/langgraph-20-the-definitive-guide-to-building-production-grade-ai-agents-in-2026-4j2b))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:41.970161+00:00
+- **Local Path**: `ai/rag/langgraph-2-0-the-definitive-guide-to-building-production-grade-ai-agents-in-202-6ce0f5.md`
+
+### 23. [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md) ([Source URL](https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:40.009502+00:00
+- **Local Path**: `ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md`
+
+### 24. [LangGraph Performance Test: 47ms p50 Latency on 5-Node Graphs | Markaicode](../ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md) ([Source URL](https://markaicode.com/benchmarks/langgraph-benchmark))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:38.265492+00:00
+- **Local Path**: `ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md`
+
+### 25. [iuyup/AgentFlow](../ai/agents/iuyup-agentflow-fcffad.md) ([Source URL](https://github.com/iuyup/AgentFlow))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:02:36.355012+00:00
+- **Local Path**: `ai/agents/iuyup-agentflow-fcffad.md`
+
+### 26. [How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md) ([Source URL](https://tech-insider.org/langgraph-tutorial-ai-agent-python-2026))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:35.421025+00:00
+- **Local Path**: `ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md`
+
+### 27. [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md) ([Source URL](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:29.799638+00:00
+- **Local Path**: `ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md`
+
+### 28. [LangGraph Agents in Production: Architecture & Costs](../ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md) ([Source URL](https://www.alphabold.com/langgraph-agents-in-production))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:02:25.196829+00:00
+- **Local Path**: `ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md`
+
+### 29. [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md) ([Source URL](https://aimultiple.com/rag-frameworks))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:22.195240+00:00
+- **Local Path**: `ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md`
+
+### 30. [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md) ([Source URL](https://www.langchain.com/langgraph))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:18.073832+00:00
+- **Local Path**: `ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md`
+
+### 31. [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md) ([Source URL](https://www.meta-intelligence.tech/en/insight-ai-agent-frameworks))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:17.214134+00:00
+- **Local Path**: `ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md`
+
+### 32. [LangGraph vs fast-langraph: side-by-side benchmarks](../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md) ([Source URL](https://fast-langgraph.neullabs.com/articles/langgraph-vs-fast-langraph-benchmarks))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-11T14:02:15.956263+00:00
+- **Local Path**: `ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md`
+
+### 33. [LangGraph Benchmarks 2026: Where It Scores, Where It Doesn't](../ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md) ([Source URL](https://benchmarkingagents.com/langgraph-benchmarks))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:10.777350+00:00
+- **Local Path**: `ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it-doesn-t-894b97.md`
+
+### 34. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md) ([Source URL](https://github.com/FareedKhan-dev/all-agentic-architectures))
+- **Category**: ai/rag
+- **Collected At**: 2026-06-11T14:02:08.879473+00:00
+- **Local Path**: `ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md`
+
+### 35. [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md) ([Source URL](https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5))
+- **Category**: ai/community
+- **Collected At**: 2026-06-11T14:00:58.590961+00:00
+- **Local Path**: `ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md`
+
+### 36. [nixopus/nixopus](../ai/agents/nixopus-nixopus-416a1e.md) ([Source URL](https://github.com/nixopus/nixopus))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:44:17.608342+00:00
 - **Local Path**: `ai/agents/nixopus-nixopus-416a1e.md`
 
-### 2. [acuvity/minibridge](../ai/resources/acuvity-minibridge-9c0d37.md) ([Source URL](https://github.com/acuvity/minibridge))
+### 37. [acuvity/minibridge](../ai/resources/acuvity-minibridge-9c0d37.md) ([Source URL](https://github.com/acuvity/minibridge))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:44:12.305890+00:00
 - **Local Path**: `ai/resources/acuvity-minibridge-9c0d37.md`
 
-### 3. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
+### 38. [golf-mcp/golf](../ai/agents/golf-mcp-golf-551301.md) ([Source URL](https://github.com/golf-mcp/golf))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:44:07.253141+00:00
 - **Local Path**: `ai/agents/golf-mcp-golf-551301.md`
 
-### 4. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp-a933ad.md) ([Source URL](https://github.com/jlbadano/ig-mcp))
+### 39. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp-a933ad.md) ([Source URL](https://github.com/jlbadano/ig-mcp))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:44:02.105912+00:00
 - **Local Path**: `ai/resources/jlbadano-ig-mcp-a933ad.md`
 
-### 5. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md) ([Source URL](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system))
+### 40. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md) ([Source URL](https://github.com/FareedKhan-dev/production-grade-mcp-agentic-system))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:43:57.152343+00:00
 - **Local Path**: `ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system-842957.md`
 
-### 6. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([Source URL](https://github.com/redhat-data-and-ai/template-mcp-server))
+### 41. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md) ([Source URL](https://github.com/redhat-data-and-ai/template-mcp-server))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:43:52.172651+00:00
 - **Local Path**: `ai/agents/redhat-data-and-ai-template-mcp-server-681d1d.md`
 
-### 7. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md) ([Source URL](https://github.com/SylphxAI/pdf-reader-mcp))
+### 42. [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp-703c5c.md) ([Source URL](https://github.com/SylphxAI/pdf-reader-mcp))
 - **Category**: ai/rag
 - **Collected At**: 2026-06-11T13:43:47.111274+00:00
 - **Local Path**: `ai/rag/sylphxai-pdf-reader-mcp-703c5c.md`
 
-### 8. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server-7c2515.md) ([Source URL](https://github.com/mukul975/cve-mcp-server))
+### 43. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server-7c2515.md) ([Source URL](https://github.com/mukul975/cve-mcp-server))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:43:41.985473+00:00
 - **Local Path**: `ai/resources/mukul975-cve-mcp-server-7c2515.md`
 
-### 9. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md) ([Source URL](https://github.com/WagnerAgent/awesome-mcp-servers-devops))
+### 44. [WagnerAgent/awesome-mcp-servers-devops](../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md) ([Source URL](https://github.com/WagnerAgent/awesome-mcp-servers-devops))
 - **Category**: ai/rag
 - **Collected At**: 2026-06-11T13:43:37.120766+00:00
 - **Local Path**: `ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md`
 
-### 10. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp-b99839.md) ([Source URL](https://github.com/tavily-ai/tavily-mcp))
+### 45. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp-b99839.md) ([Source URL](https://github.com/tavily-ai/tavily-mcp))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:43:32.058681+00:00
 - **Local Path**: `ai/resources/tavily-ai-tavily-mcp-b99839.md`
 
-### 11. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai-2237a9.md) ([Source URL](https://github.com/0x4m4/hexstrike-ai))
+### 46. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai-2237a9.md) ([Source URL](https://github.com/0x4m4/hexstrike-ai))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:43:26.984471+00:00
 - **Local Path**: `ai/agents/0x4m4-hexstrike-ai-2237a9.md`
 
-### 12. [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md) ([Source URL](https://github.com/SonarSource/sonarqube-mcp-server))
+### 47. [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md) ([Source URL](https://github.com/SonarSource/sonarqube-mcp-server))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:43:22.479889+00:00
 - **Local Path**: `ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md`
 
-### 13. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe-bdc8e7.md) ([Source URL](https://github.com/FuzzingLabs/secpipe))
+### 48. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe-bdc8e7.md) ([Source URL](https://github.com/FuzzingLabs/secpipe))
 - **Category**: ai/agents
 - **Collected At**: 2026-06-11T13:43:17.217214+00:00
 - **Local Path**: `ai/agents/fuzzinglabs-secpipe-bdc8e7.md`
 
-### 14. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield-20928f.md) ([Source URL](https://github.com/riseandignite/mcp-shield))
+### 49. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield-20928f.md) ([Source URL](https://github.com/riseandignite/mcp-shield))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:43:12.101946+00:00
 - **Local Path**: `ai/resources/riseandignite-mcp-shield-20928f.md`
 
-### 15. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security-fe516a.md) ([Source URL](https://github.com/cyproxio/mcp-for-security))
+### 50. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security-fe516a.md) ([Source URL](https://github.com/cyproxio/mcp-for-security))
 - **Category**: ai/resources
 - **Collected At**: 2026-06-11T13:43:07.180120+00:00
 - **Local Path**: `ai/resources/cyproxio-mcp-for-security-fe516a.md`
 
-### 16. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md) ([Source URL](https://github.com/FuzzingLabs/mcp-security-hub))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T13:43:02.202518+00:00
-- **Local Path**: `ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md`
-
-### 17. [semgrep/mcp](../ai/resources/semgrep-mcp-46c4f1.md) ([Source URL](https://github.com/semgrep/mcp))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T13:42:57.135737+00:00
-- **Local Path**: `ai/resources/semgrep-mcp-46c4f1.md`
-
-### 18. [snyk/agent-scan](../ai/agents/snyk-agent-scan-82a85b.md) ([Source URL](https://github.com/snyk/agent-scan))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:42:52.075180+00:00
-- **Local Path**: `ai/agents/snyk-agent-scan-82a85b.md`
-
-### 19. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md) ([Source URL](https://github.com/cisco-ai-defense/mcp-scanner))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:42:47.141483+00:00
-- **Local Path**: `ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md`
-
-### 20. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md) ([Source URL](https://github.com/demcp/awesome-web3-mcp-servers))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T13:42:42.145659+00:00
-- **Local Path**: `ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md`
-
-### 21. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source URL](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T13:41:22.925098+00:00
-- **Local Path**: `ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md`
-
-### 22. [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source URL](https://twitter.com/awscloud/status/2064449711155589396))
-- **Category**: ai/community
-- **Collected At**: 2026-06-11T13:41:08.760479+00:00
-- **Local Path**: `ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md`
-
-### 23. [github/github-mcp-server](../ai/resources/github-github-mcp-server-21bbf0.md) ([Source URL](https://github.com/github/github-mcp-server))
-- **Category**: ai/resources
-- **Collected At**: 2026-06-11T13:11:44.216576+00:00
-- **Local Path**: `ai/resources/github-github-mcp-server-21bbf0.md`
-
-### 24. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md) ([Source URL](https://github.com/girijesh-ai/ai-interview-codex))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T13:11:38.858262+00:00
-- **Local Path**: `ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md`
-
-### 25. [flashinfer-ai/flashinfer-bench-starter-kit](../ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md) ([Source URL](https://github.com/flashinfer-ai/flashinfer-bench-starter-kit))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:33.928245+00:00
-- **Local Path**: `ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md`
-
-### 26. [HKUDS/OpenPhone](../ai/agents/hkuds-openphone-4661ce.md) ([Source URL](https://github.com/HKUDS/OpenPhone))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:28.798940+00:00
-- **Local Path**: `ai/agents/hkuds-openphone-4661ce.md`
-
-### 27. [Zijian-Ni/awesome-ai-agents-2026](../ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md) ([Source URL](https://github.com/Zijian-Ni/awesome-ai-agents-2026))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:23.893734+00:00
-- **Local Path**: `ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md`
-
-### 28. [didilili/ai-agents-from-zero](../ai/rag/didilili-ai-agents-from-zero-60d670.md) ([Source URL](https://github.com/didilili/ai-agents-from-zero))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T13:11:18.771848+00:00
-- **Local Path**: `ai/rag/didilili-ai-agents-from-zero-60d670.md`
-
-### 29. [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](../ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md) ([Source URL](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:14.291808+00:00
-- **Local Path**: `ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md`
-
-### 30. [razzant/ouroboros](../ai/agents/razzant-ouroboros-a5141e.md) ([Source URL](https://github.com/razzant/ouroboros))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:08.763661+00:00
-- **Local Path**: `ai/agents/razzant-ouroboros-a5141e.md`
-
-### 31. [avinash201199/free-ai-agents-resources](../ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md) ([Source URL](https://github.com/avinash201199/free-ai-agents-resources))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:03.808788+00:00
-- **Local Path**: `ai/agents/avinash201199-free-ai-agents-resources-fa2b3a.md`
-
-### 32. [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md) ([Source URL](https://github.com/caramaschiHG/awesome-ai-agents-2026))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:11:00.832523+00:00
-- **Local Path**: `ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md`
-
-### 33. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md) ([Source URL](https://github.com/AlexPEClub/ai-coding-starter-kit))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:54.070873+00:00
-- **Local Path**: `ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md`
-
-### 34. [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon-f1407f.md) ([Source URL](https://github.com/Kocoro-lab/Shannon))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:48.648235+00:00
-- **Local Path**: `ai/agents/kocoro-lab-shannon-f1407f.md`
-
-### 35. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework-ec9cc6.md) ([Source URL](https://github.com/i-am-bee/beeai-framework))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:43.744593+00:00
-- **Local Path**: `ai/agents/i-am-bee-beeai-framework-ec9cc6.md`
-
-### 36. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md) ([Source URL](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:38.645582+00:00
-- **Local Path**: `ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md`
-
-### 37. [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents-ea577d.md) ([Source URL](https://github.com/mergisi/awesome-openclaw-agents))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:33.660238+00:00
-- **Local Path**: `ai/agents/mergisi-awesome-openclaw-agents-ea577d.md`
-
-### 38. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents-b0ceeb.md) ([Source URL](https://github.com/humanlayer/12-factor-agents))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T13:10:28.657000+00:00
-- **Local Path**: `ai/rag/humanlayer-12-factor-agents-b0ceeb.md`
-
-### 39. [langgenius/dify](../ai/rag/langgenius-dify-24dc2b.md) ([Source URL](https://github.com/langgenius/dify))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T13:10:23.759653+00:00
-- **Local Path**: `ai/rag/langgenius-dify-24dc2b.md`
-
-### 40. [ed-donner/production](../ai/agents/ed-donner-production-61f359.md) ([Source URL](https://github.com/ed-donner/production))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:18.639837+00:00
-- **Local Path**: `ai/agents/ed-donner-production-61f359.md`
-
-### 41. [aden-hive/hive](../ai/agents/aden-hive-hive-a66674.md) ([Source URL](https://github.com/aden-hive/hive))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:13.728949+00:00
-- **Local Path**: `ai/agents/aden-hive-hive-a66674.md`
-
-### 42. [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills-0d1bd2.md) ([Source URL](https://github.com/addyosmani/agent-skills))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:10:08.550041+00:00
-- **Local Path**: `ai/agents/addyosmani-agent-skills-0d1bd2.md`
-
-### 43. [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent-3962b1.md) ([Source URL](https://github.com/SWE-agent/SWE-agent))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:37.660045+00:00
-- **Local Path**: `ai/agents/swe-agent-swe-agent-3962b1.md`
-
-### 44. [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach-81fb0b.md) ([Source URL](https://github.com/Panniantong/Agent-Reach))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:35.664693+00:00
-- **Local Path**: `ai/agents/panniantong-agent-reach-81fb0b.md`
-
-### 45. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent-267a79.md) ([Source URL](https://github.com/coleam00/pydantic-ai-github-agent))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:27.640603+00:00
-- **Local Path**: `ai/agents/coleam00-pydantic-ai-github-agent-267a79.md`
-
-### 46. [idosal/git-mcp](../ai/agents/idosal-git-mcp-132f8d.md) ([Source URL](https://github.com/idosal/git-mcp))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:22.725868+00:00
-- **Local Path**: `ai/agents/idosal-git-mcp-132f8d.md`
-
-### 47. [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md) ([Source URL](https://github.com/Code-and-Sorts/awesome-copilot-agents))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:17.709341+00:00
-- **Local Path**: `ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md`
-
-### 48. [microsoft/agentsleague](../ai/agents/microsoft-agentsleague-d0a5dc.md) ([Source URL](https://github.com/microsoft/agentsleague))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:12.756927+00:00
-- **Local Path**: `ai/agents/microsoft-agentsleague-d0a5dc.md`
-
-### 49. [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills-87b61a.md) ([Source URL](https://github.com/hoodini/ai-agents-skills))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:07.681475+00:00
-- **Local Path**: `ai/agents/hoodini-ai-agents-skills-87b61a.md`
-
-### 50. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar-6ba533.md) ([Source URL](https://github.com/duanyytop/agents-radar))
-- **Category**: ai/agents
-- **Collected At**: 2026-06-11T13:07:02.545492+00:00
-- **Local Path**: `ai/agents/duanyytop-agents-radar-6ba533.md`
-
 ---
-*Index generated on 2026-06-11T13:44:25.963504+00:00*
+*Index generated on 2026-06-11T14:04:13.836164+00:00*

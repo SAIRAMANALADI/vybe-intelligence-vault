@@ -13,15 +13,16 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 - [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (reference - USEFUL Tier)
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (tutorial - USEFUL Tier)
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (reference - USEFUL Tier)
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph) (benchmark - USEFUL Tier)
 - [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) (benchmark - USEFUL Tier)
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) (tutorial - USEFUL Tier)
-- [Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](https://arxiv.org/abs/2606.12280) (prompt - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph)
 - [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
 - [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
 
@@ -41,4 +42,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

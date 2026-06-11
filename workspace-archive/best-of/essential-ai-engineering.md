@@ -23,6 +23,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp-703c5c.md`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
@@ -31,6 +36,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337)
@@ -58,16 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `84` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md`](file:///../../ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

@@ -33,6 +33,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)
@@ -41,6 +46,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
@@ -57,16 +67,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
-- **Category**: `ai/agents` | **Kind**: `PRODUCT` | **Tier**: `USEFUL`
-- **Score**: `77` | **Path**: [`duanyytop-agents-radar-6ba533.md`](file:///../../ai\agents\duanyytop-agents-radar-6ba533.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [FuzzingLabs/secpipe](https://github.com/FuzzingLabs/secpipe)
-- **Category**: `ai/agents` | **Kind**: `MCP-SERVER` | **Tier**: `USEFUL`
-- **Score**: `77` | **Path**: [`fuzzinglabs-secpipe-bdc8e7.md`](file:///../../ai\agents\fuzzinglabs-secpipe-bdc8e7.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

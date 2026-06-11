@@ -9,19 +9,20 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 ## Top Matched Resources
 
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer) (tool - USEFUL Tier)
+- [Sampath8989/langgraph-topology-benchmarks](https://github.com/Sampath8989/langgraph-topology-benchmarks) (benchmark - USEFUL Tier)
 - [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575) (dataset - USEFUL Tier)
 - [DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace](https://arxiv.org/abs/2606.11687) (framework - USEFUL Tier)
 - [INFRAMIND: Infrastructure-Aware Multi-Agent Orchestration](https://arxiv.org/abs/2606.11440) (framework - USEFUL Tier)
 - [Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents](https://arxiv.org/abs/2606.11680) (benchmark - USEFUL Tier)
 - [Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248) (framework - USEFUL Tier)
 - [Trace & Evaluate your Agent with Arize Phoenix](https://huggingface.co/blog/smolagents-phoenix) (benchmark - USEFUL Tier)
-- [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation) (reference - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
+- [Sampath8989/langgraph-topology-benchmarks](https://github.com/Sampath8989/langgraph-topology-benchmarks)
 
 ## Best Learning Resources
 
@@ -39,4 +40,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

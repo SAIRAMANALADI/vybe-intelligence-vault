@@ -17,11 +17,11 @@ This index groups resources by direct developer use-cases and design goals.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\wassim249-fastapi-langgraph-agent-production-ready-template-54a396.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md))
 - [golf-mcp/golf](https://github.com/golf-mcp/golf) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\golf-mcp-golf-551301.md))
 - [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md))
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\redhat-data-and-ai-template-mcp-server-681d1d.md))
-- [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) (Category: `agent-frameworks` | [`Local File`](file:///../../ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md))
 
 ## Document Knowledge base & Search (RAG)
 
@@ -30,20 +30,20 @@ This index groups resources by direct developer use-cases and design goals.
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `rag-systems` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `rag-systems` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (Category: `rag-systems` | [`Local File`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `rag-systems` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Category: `vector-databases` | [`Local File`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md))
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `vector-databases` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `vector-databases` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
 
 ## Model Selection, Inference & Cost Profiling
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\langgenius-dify-24dc2b.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `model-providers` | [`Local File`](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\sylphxai-pdf-reader-mcp-703c5c.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Category: `model-providers` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
-- [May 28, 2026ProductIntroducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8) (Category: `model-providers` | [`Local File`](file:///../../ai\companies\anthropic\may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md))
 
 ## Production Auditing & Prompt Injection Protection
 
@@ -63,9 +63,9 @@ This index groups resources by direct developer use-cases and design goals.
 - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (Category: `automation-workflows` | [`Local File`](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md))
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Category: `automation-workflows` | [`Local File`](file:///../../ai\agents\human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Category: `automation-workflows` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Category: `automation-workflows` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Category: `automation-workflows` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Category: `automation-workflows` | [`Local File`](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md))
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Category: `automation-workflows` | [`Local File`](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md))
 
 ## Streaming UI Layouts & Next.js AI SaaS Templates
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Category: `project-ideas` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 
 ---
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

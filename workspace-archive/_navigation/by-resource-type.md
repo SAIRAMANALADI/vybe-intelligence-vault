@@ -3,18 +3,18 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 ## API
 
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md))
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) (Tier: `useful` | [`Local File`](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md))
-- [The ASE-LSE Disagreement Landscape: An End-to-End Characterisation of Extremes and Structural Drivers](https://arxiv.org/abs/2605.22346) (Tier: `useful` | [`Local File`](file:///../../ai\rag\the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md))
-- [Sustainability assessment using multimodal AI agents](https://arxiv.org/abs/2507.17012) (Tier: `useful` | [`Local File`](file:///../../ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md))
-- [Deploy Embedding Models with Hugging Face Inference Endpoints](https://huggingface.co/blog/inference-endpoints-embeddings) (Tier: `useful` | [`Local File`](file:///../../ai\models\deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md))
-- [Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret](https://arxiv.org/abs/2602.11995) (Tier: `useful` | [`Local File`](file:///../../ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md))
-- [Sustainability assessment using multimodal AI agents](https://arxiv.org/abs/2507.17012) (Tier: `useful` | [`Local File`](file:///../../ai\rag\sustainability-assessment-using-multimodal-ai-agents-52afa1.md))
-- [Time-multiplexed layer reuse for physical neural networks](https://arxiv.org/abs/2511.00044) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md))
-- [From OpenAI to Open LLMs with Messages API on Hugging Face](https://huggingface.co/blog/tgi-messages-api) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-openai-to-open-llms-with-messages-api-on-hugging-face-941cb5.md))
+- [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Tier: `useful` | [`Local File`](file:///../../ai\agents\agentteam-taichuai-scienceclaw-992597.md))
 
 ## BENCHMARK
 
@@ -38,13 +38,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (Tier: `useful` | [`Local File`](file:///../../ai\research\are-llms-bad-at-moral-reasoning-18a763.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md))
 - [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md))
+- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `useful` | [`Local File`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md))
 - [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235) (Tier: `useful` | [`Local File`](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md))
-- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Tier: `useful` | [`Local File`](file:///../../ai\research\ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md))
-- [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai\rag\ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md))
 
 ## FRAMEWORK
 
@@ -155,16 +155,16 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (Tier: `useful` | [`Local File`](file:///../../web-development\react-three-fiber\wass08-r3f-ultimate-character-configurator-c4e9b9.md))
 - [hjlld/LearningWebGPU](https://github.com/hjlld/LearningWebGPU) (Tier: `useful` | [`Local File`](file:///../../web-development\webgpu\hjlld-learningwebgpu-e96ddf.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 - [puxiao/threejs-tutorial](https://github.com/puxiao/threejs-tutorial) (Tier: `useful` | [`Local File`](file:///../../web-development\threejs\puxiao-threejs-tutorial-c07d94.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
+- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md))
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (Tier: `useful` | [`Local File`](file:///../../ai\models\from-zero-to-gpu-a-guide-to-building-and-scaling-production-ready-cuda-kernels-29681b.md))
-- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) (Tier: `useful` | [`Local File`](file:///../../ai\rag\lancedb-vectordb-recipes-f02963.md))
-- [lancedb/vectordb-recipes](https://github.com/lancedb/vectordb-recipes) (Tier: `useful` | [`Local File`](file:///../../ai\rag\lancedb-vectordb-recipes-f02963.md))
-- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](file:///../../ai\rag\patchy631-ai-engineering-hub-efa40a.md))
-- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) (Tier: `useful` | [`Local File`](file:///../../ai\rag\datawhalechina-hello-agents-150ed4.md))
-- [krishnaik06/RAG-Tutorials](https://github.com/krishnaik06/RAG-Tutorials) (Tier: `useful` | [`Local File`](file:///../../ai\rag\krishnaik06-rag-tutorials-26b315.md))
 
 ## WORKFLOW
 
@@ -173,13 +173,13 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md))
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (Tier: `useful` | [`Local File`](file:///../../ai\resources\cyproxio-mcp-for-security-fe516a.md))
-- [Show HN: HelixDB – A graph database built on object storage](https://github.com/HelixDB/helix-db/tree/main) (Tier: `useful` | [`Local File`](file:///../../ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md))
-- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow) (Tier: `useful` | [`Local File`](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md))
-- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow) (Tier: `useful` | [`Local File`](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md))
-- [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow) (Tier: `useful` | [`Local File`](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow-98cba9.md))
-- [Show HN: HelixDB – A graph database built on object storage](https://github.com/HelixDB/helix-db/tree/main) (Tier: `useful` | [`Local File`](file:///../../ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md))
-- [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow) (Tier: `useful` | [`Local File`](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md))
-- [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow) (Tier: `useful` | [`Local File`](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md))
+- [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) (Tier: `useful` | [`Local File`](file:///../../ai\agents\infiniumtek-terraform-review-agent-da8309.md))
+- [fzn0x/watchtower](https://github.com/fzn0x/watchtower) (Tier: `useful` | [`Local File`](file:///../../ai\rag\fzn0x-watchtower-8ee128.md))
+- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai\agents\haohao-end-openagent-402239.md))
+- [HeJiguang/codescan](https://github.com/HeJiguang/codescan) (Tier: `useful` | [`Local File`](file:///../../ai\agents\hejiguang-codescan-e4d530.md))
+- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai\agents\haohao-end-openagent-402239.md))
+- [HeJiguang/codescan](https://github.com/HeJiguang/codescan) (Tier: `useful` | [`Local File`](file:///../../ai\agents\hejiguang-codescan-e4d530.md))
+- [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai\agents\haohao-end-openagent-402239.md))
 
 ---
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

@@ -18,15 +18,15 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 734 |
 | ai/research | 301 |
-| ai/rag | 253 |
-| ai/agents | 161 |
+| ai/rag | 271 |
+| ai/agents | 177 |
 | web-development/threejs | 28 |
 | web-development/webgpu | 26 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
-| ai/community | 10 |
+| ai/community | 11 |
 | ai/resources | 10 |
 | web-development/gsap | 6 |
 | web-development/tailwind | 1 |
@@ -38,21 +38,21 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| rag | 254 |
-| agents | 253 |
-| models | 213 |
-| frontend_ui | 100 |
+| agents | 288 |
+| rag | 272 |
+| models | 224 |
+| frontend_ui | 108 |
+| github-repo | 100 |
 | threejs | 83 |
-| github-repo | 80 |
-| workflows | 62 |
-| hackernews | 45 |
-| python | 44 |
-| web-crawled | 43 |
+| workflows | 79 |
+| python | 58 |
+| web-crawled | 57 |
+| hackernews | 57 |
+| benchmark | 47 |
+| scripts | 45 |
+| openai | 41 |
+| anthropic | 39 |
 | animation | 33 |
-| scripts | 33 |
-| openai | 30 |
-| anthropic | 29 |
-| benchmark | 27 |
 
 ## Weekly Community Updates
 
@@ -65,12 +65,12 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 7. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/HelixDB/helix-db/tree/main)) (HN Score: 122) - `ai/community`
 8. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
 9. [More AI-generated code doesn't make your team faster. It might slow you](../../../ai/community/more-ai-generated-code-doesn-t-make-your-team-faster-it-might-slow-you-80b3a6.md) ([Source](https://twitter.com/awscloud/status/2064449711155589396)) (HN Score: 18) - `ai/community`
-10. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)) (HN Score: 8) - `ai/community`
-11. [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](../../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md) ([Source](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark)) - `ai/agents`
-12. [Building With AI Coding Agents: Best Practices for Agent Workflows | by Elisheba Builds | Medium](../../../ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md) ([Source](https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b)) - `ai/agents`
-13. [The Best AI Agents in 2026: Tools and Frameworks Compared | DataCamp](../../../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md) ([Source](https://www.datacamp.com/blog/best-ai-agents)) - `ai/agents`
-14. [10 AI agent benchmarks](../../../ai/rag/10-ai-agent-benchmarks-56ac4f.md) ([Source](https://www.evidentlyai.com/blog/ai-agent-benchmarks)) - `ai/rag`
-15. [10 Most Useful RAG Application & Use Cases [Real World Example]](../../../ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md) ([Source](https://botpenguin.com/blogs/most-useful-rag-application-and-use-cases)) - `ai/rag`
+10. [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../../../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md) ([Source](https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5)) (HN Score: 17) - `ai/community`
+11. [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md) ([Source](https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6)) (HN Score: 8) - `ai/community`
+12. [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](../../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation-guide-c9ecd8.md) ([Source](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark)) - `ai/agents`
+13. [Building With AI Coding Agents: Best Practices for Agent Workflows | by Elisheba Builds | Medium](../../../ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md) ([Source](https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b)) - `ai/agents`
+14. [LangGraph Agents in Production: Architecture & Costs](../../../ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md) ([Source](https://www.alphabold.com/langgraph-agents-in-production)) - `ai/agents`
+15. [LangGraph vs fast-langraph: side-by-side benchmarks](../../../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md) ([Source](https://fast-langgraph.neullabs.com/articles/langgraph-vs-fast-langraph-benchmarks)) - `ai/agents`
 
 ## Weekly Research Insights
 
@@ -132,16 +132,16 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Automation](../../../skills/automation.md) (1594 updates)
-- [RAG](../../../skills/rag.md) (603 updates)
-- [LangGraph](../../../skills/langgraph.md) (166 updates)
-- [GSAP](../../../skills/gsap.md) (140 updates)
-- [WebGPU](../../../skills/webgpu.md) (107 updates)
+- [Automation](../../../skills/automation.md) (1628 updates)
+- [RAG](../../../skills/rag.md) (621 updates)
+- [LangGraph](../../../skills/langgraph.md) (200 updates)
+- [GSAP](../../../skills/gsap.md) (160 updates)
+- [WebGPU](../../../skills/webgpu.md) (108 updates)
 - [Three.js](../../../skills/threejs.md) (85 updates)
-- [FastAPI](../../../skills/fastapi.md) (72 updates)
+- [FastAPI](../../../skills/fastapi.md) (79 updates)
 - [Framer Motion](../../../skills/framer-motion.md) (54 updates)
 - [React Three Fiber](../../../skills/react-three-fiber.md) (53 updates)
-- [Tailwind CSS](../../../skills/tailwind.md) (44 updates)
+- [Tailwind CSS](../../../skills/tailwind.md) (45 updates)
 
 ## Recommended Projects To Build
 
@@ -150,4 +150,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-11T13:44:23.964111+00:00
+2026-06-11T14:04:12.632885+00:00

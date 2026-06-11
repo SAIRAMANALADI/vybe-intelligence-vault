@@ -113,10 +113,10 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 - **Category**: web-development/shadcn-ui
 - **Local Path**: `web-development/shadcn-ui/ln-dev7-square-ui-edae04.md`
 
-### 20. [HKUDS/VideoRAG](../ai/rag/hkuds-videorag-4b9ad5.md) ([Source URL](https://github.com/HKUDS/VideoRAG))
+### 20. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md) ([Source URL](https://github.com/FareedKhan-dev/all-agentic-architectures))
 - **Source**: GitHub Discovery (github)
 - **Category**: ai/rag
-- **Local Path**: `ai/rag/hkuds-videorag-4b9ad5.md`
+- **Local Path**: `ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md`
 
 ## Best GitHub Repositories
 
@@ -215,10 +215,10 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 - **Language**: TypeScript
 - **Local Path**: `web-development/shadcn-ui/ln-dev7-square-ui-edae04.md`
 
-### 20. [HKUDS/VideoRAG](../ai/rag/hkuds-videorag-4b9ad5.md) ([GitHub](https://github.com/HKUDS/VideoRAG))
-- **Stars**: 3056
-- **Language**: Python
-- **Local Path**: `ai/rag/hkuds-videorag-4b9ad5.md`
+### 20. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md) ([GitHub](https://github.com/FareedKhan-dev/all-agentic-architectures))
+- **Stars**: 3561
+- **Language**: Jupyter Notebook
+- **Local Path**: `ai/rag/fareedkhan-dev-all-agentic-architectures-a05708.md`
 
 ## Projects To Build
 
@@ -237,4 +237,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T13:44:19.711462+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-11T14:04:09.977719+00:00.

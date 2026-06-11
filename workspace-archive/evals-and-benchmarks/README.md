@@ -22,11 +22,11 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
+- [microsoft/SafeAgents](https://github.com/microsoft/SafeAgents)
+- [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System)
+- [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant)
 - [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)
 - [ARUNAGIRINATHAN-K/awesome-ai-agents-2026](https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026)
-- [DEEP-PolyU/LinearRAG](https://github.com/DEEP-PolyU/LinearRAG)
-- [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG)
-- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*

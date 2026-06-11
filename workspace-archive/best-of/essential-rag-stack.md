@@ -33,6 +33,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
+
 ### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
 - **Score**: `85` | **Path**: [`girijesh-ai-ai-interview-codex-a1ba98.md`](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)
@@ -53,19 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `85` | **Path**: [`wagneragent-awesome-mcp-servers-devops-ca32f5.md`](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md)
 - **Selection Reason**: Useful for project building
 
+### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `85` | **Path**: [`yonatangross-orchestkit-239a6d.md`](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)
+- **Selection Reason**: Active open-source repository
+
 ### [Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](https://arxiv.org/abs/2606.11930)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md`](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
-- **Category**: `ai/rag` | **Kind**: `WORKFLOW` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md`](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md`](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-11 13:55 UTC*
+*Last updated: 2026-06-11 14:04 UTC*
