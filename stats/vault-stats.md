@@ -1,16 +1,30 @@
-# Vault Statistics
+# Vault Stats
 
-This document summarizes the sizes, categories, counts, and metadata for all public developer files stored inside the vault.
+| Metric               | Count |
+| -------------------- | ----: |
+| Resources tracked    |  1764 |
+| Markdown files       |  9560 |
+| Archive files        |  7669 |
+| Archive categories   |    33 |
+| Skill files          |    19 |
+| Intelligence files   |     8 |
+| Builder maps         |     8 |
+| Build ideas          |     8 |
+| Learning paths       |     8 |
+| Best-of guides       |     6 |
+| Examples             |     8 |
+| Search index entries |  1764 |
 
-## Live Metrics
+Last Generated: 2026-06-11 19:19 UTC
 
-| Metric | Value |
-| :--- | ---: |
-| Resources Tracked | 1742 |
-| Archive Files | 6837 |
-| Thematic Categories | 24 |
-| Builder Stack Maps | 8 |
-| 7-Day Learning Paths | 8 |
-| Portfolio Build Ideas | 8 |
-| Curated Best-Of Guides | 6 |
-| Last Updated | 2026-06-11 18:23 UTC |
+## Top Categories
+- **Project Ideas**: 1118 files
+- **Datasets**: 127 files
+- **Ai Browser Computer Use**: 113 files
+- **Vector Databases**: 104 files
+- **Webdev 3D Creative**: 81 files
+- **Automation Workflows**: 78 files
+- **Frontend Ai Ui**: 49 files
+- **Model Providers**: 36 files
+- **Startup Builder**: 13 files
+- **Web Development/Framer Motion**: 13 files

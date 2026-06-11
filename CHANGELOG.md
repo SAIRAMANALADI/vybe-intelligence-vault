@@ -3,13 +3,13 @@
 ## Latest Update
 
 <!-- LATEST:START -->
-* Last updated: 2026-06-11 18:23 UTC
-* Resources added: 54
-* Archive sections refreshed: 22 categories (6837 total items)
-* Intelligence files refreshed: 12 living skills
-* Search index refreshed: Yes (search-index.json / search-index.md)
+* Last updated: 2026-06-11 19:19 UTC
+* Resources tracked: 1764
+* Archive files: 7669
+* Archive categories: 33
+* Changed sections: Refreshed all active archive directories and living skill guides
 * Safety scan: Passed
-* Sync status: Committed and pushed to GitHub
+* Update policy: No-empty-commit active (committed only when meaningful changes are found)
 <!-- LATEST:END -->
 
 ## History

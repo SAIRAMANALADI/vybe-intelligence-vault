@@ -1,13 +1,85 @@
-# Source Coverage
+# Source Coverage Analysis
 
-The ingestion engine processes developer articles, preprints, and repositories across several channels.
+Distribution of original signal ingestion sources across processed URLs:
 
-## Primary Sourced Domains
-
-*   huggingface.co: 799 items
-*   arxiv.org: 545 items
-*   github.com: 273 items
-*   anthropic.com: 10 items
-*   mistral.ai: 10 items
-
-All source URLs are preserved in the metadata header of all files.
+| Source Domain | Resource Count |
+| :--- | ---: |
+| huggingface | 800 |
+| arxiv | 548 |
+| github | 291 |
+| anthropic.com | 10 |
+| mistral.ai | 10 |
+| deepmind.google | 9 |
+| medium.com | 8 |
+| openai.com | 5 |
+| geeksforgeeks.org | 3 |
+| dev.to | 3 |
+| evidentlyai.com | 3 |
+| lushbinary.com | 2 |
+| nerdleveltech.com | 2 |
+| confident-ai.com | 2 |
+| benchmarkingagents.com | 2 |
+| datacamp.com | 2 |
+| cloud.google.com | 2 |
+| antigravity.google | 1 |
+| artificialanalysis.ai | 1 |
+| onereach.ai | 1 |
+| docs.langchain.com | 1 |
+| askpython.com | 1 |
+| community.databricks.com | 1 |
+| langchain.com | 1 |
+| aws.amazon.com | 1 |
+| aimultiple.com | 1 |
+| analyticsvidhya.com | 1 |
+| agenta.ai | 1 |
+| redhat.com | 1 |
+| ragaboutit.com | 1 |
+| dasroot.net | 1 |
+| pragatimehraa.medium.com | 1 |
+| llm-stats.com | 1 |
+| saumilsrivastava.ai | 1 |
+| signoz.io | 1 |
+| freeacademy.ai | 1 |
+| startdesigns.com | 1 |
+| learn.microsoft.com | 1 |
+| developers.googleblog.com | 1 |
+| levelup.gitconnected.com | 1 |
+| braintrust.dev | 1 |
+| freecodecamp.org | 1 |
+| oreilly.com | 1 |
+| benchlm.ai | 1 |
+| duckduckgo.com | 1 |
+| colab.research.google.com | 1 |
+| azure.microsoft.com | 1 |
+| kdnuggets.com | 1 |
+| signitysolutions.com | 1 |
+| meta-intelligence.tech | 1 |
+| codersera.com | 1 |
+| dataengineeracademy.com | 1 |
+| blog.starmorph.com | 1 |
+| superml.org | 1 |
+| docs.aws.amazon.com | 1 |
+| botpenguin.com | 1 |
+| martinuke0.github.io | 1 |
+| markaicode.com | 1 |
+| langchain-tutorials.github.io | 1 |
+| qubittool.com | 1 |
+| tech-insider.org | 1 |
+| rag.readthedocs.io | 1 |
+| firecrawl.dev | 1 |
+| rowanblackwoon.medium.com | 1 |
+| automationanywhere.com | 1 |
+| alphabold.com | 1 |
+| fast-langgraph.neullabs.com | 1 |
+| dronexl.co | 1 |
+| mceglowski.substack.com | 1 |
+| techcrunch.com | 1 |
+| nanochess.org | 1 |
+| lwn.net | 1 |
+| quantamagazine.org | 1 |
+| support.claude.com | 1 |
+| burr.apache.org | 1 |
+| twitter.com | 1 |
+| theverge.com | 1 |
+| samhenrycliff.medium.com | 1 |
+| businessinsider.com | 1 |
