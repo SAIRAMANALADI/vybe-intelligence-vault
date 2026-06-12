@@ -3,7 +3,7 @@ title: "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next gener
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/claude-fable-5-mythos-5"
-local_vault_path: "ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md"
+local_vault_path: "ai\companies\anthropic\claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
 
 ## Local Vault File
 
-Path: [claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md](file:///../../ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md)
+Path: [claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md](file:///../../ai\companies\anthropic\claude-fable-5-and-claude-mythos-5announcementsjun-9-2026our-next-generation-of-11c4ac.md)

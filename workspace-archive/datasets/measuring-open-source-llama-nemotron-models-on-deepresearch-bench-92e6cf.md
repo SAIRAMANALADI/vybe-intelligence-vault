@@ -3,7 +3,7 @@ title: "Measuring Open-Source Llama Nemotron Models on DeepResearch Bench"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent"
-local_vault_path: "ai/models/measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md"
+local_vault_path: "ai\models\measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-po
 
 ## Local Vault File
 
-Path: [measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md](file:///../../ai/models/measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md)
+Path: [measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md](file:///../../ai\models\measuring-open-source-llama-nemotron-models-on-deepresearch-bench-92e6cf.md)

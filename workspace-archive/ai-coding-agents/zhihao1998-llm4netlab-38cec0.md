@@ -3,7 +3,7 @@ title: "zhihao1998/LLM4NetLab"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/zhihao1998/LLM4NetLab"
-local_vault_path: "ai/agents/zhihao1998-llm4netlab-38cec0.md"
+local_vault_path: "ai\agents\zhihao1998-llm4netlab-38cec0.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/zhihao1998/LLM4NetLab
 
 ## Local Vault File
 
-Path: [zhihao1998-llm4netlab-38cec0.md](file:///../../ai/agents/zhihao1998-llm4netlab-38cec0.md)
+Path: [zhihao1998-llm4netlab-38cec0.md](file:///../../ai\agents\zhihao1998-llm4netlab-38cec0.md)

@@ -3,7 +3,7 @@ title: "enesien/venefish"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/enesien/venefish"
-local_vault_path: "web-development/nextjs/enesien-venefish-8e5a2d.md"
+local_vault_path: "web-development\nextjs\enesien-venefish-8e5a2d.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/enesien/venefish
 
 ## Local Vault File
 
-Path: [enesien-venefish-8e5a2d.md](file:///../../web-development/nextjs/enesien-venefish-8e5a2d.md)
+Path: [enesien-venefish-8e5a2d.md](file:///../../web-development\nextjs\enesien-venefish-8e5a2d.md)

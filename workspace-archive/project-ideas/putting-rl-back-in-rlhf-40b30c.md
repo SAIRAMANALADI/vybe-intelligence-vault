@@ -3,7 +3,7 @@ title: "Putting RL back in RLHF"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo"
-local_vault_path: "ai/models/putting-rl-back-in-rlhf-40b30c.md"
+local_vault_path: "ai\models\putting-rl-back-in-rlhf-40b30c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rl
 
 ## Local Vault File
 
-Path: [putting-rl-back-in-rlhf-40b30c.md](file:///../../ai/models/putting-rl-back-in-rlhf-40b30c.md)
+Path: [putting-rl-back-in-rlhf-40b30c.md](file:///../../ai\models\putting-rl-back-in-rlhf-40b30c.md)

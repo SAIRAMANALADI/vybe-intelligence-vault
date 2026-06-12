@@ -3,7 +3,7 @@ title: "Open-source DeepResearch – Freeing our search agents"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/open-deep-research"
-local_vault_path: "ai/agents/open-source-deepresearch-freeing-our-search-agents-4eeb27.md"
+local_vault_path: "ai\agents\open-source-deepresearch-freeing-our-search-agents-4eeb27.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/open-deep-research
 
 ## Local Vault File
 
-Path: [open-source-deepresearch-freeing-our-search-agents-4eeb27.md](file:///../../ai/agents/open-source-deepresearch-freeing-our-search-agents-4eeb27.md)
+Path: [open-source-deepresearch-freeing-our-search-agents-4eeb27.md](file:///../../ai\agents\open-source-deepresearch-freeing-our-search-agents-4eeb27.md)

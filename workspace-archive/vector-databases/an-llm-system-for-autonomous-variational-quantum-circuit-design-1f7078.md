@@ -3,7 +3,7 @@ title: "An LLM System for Autonomous Variational Quantum Circuit Design"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13380"
-local_vault_path: "ai/rag/an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md"
+local_vault_path: "ai\rag\an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13380
 
 ## Local Vault File
 
-Path: [an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md](file:///../../ai/rag/an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md)
+Path: [an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md](file:///../../ai\rag\an-llm-system-for-autonomous-variational-quantum-circuit-design-1f7078.md)

@@ -3,7 +3,7 @@ title: "FENCE: A Financial and Multimodal Jailbreak Detection Dataset"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.18154"
-local_vault_path: "ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md"
+local_vault_path: "ai\research\fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2602.18154
 
 ## Local Vault File
 
-Path: [fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md](file:///../../ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md)
+Path: [fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md](file:///../../ai\research\fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md)

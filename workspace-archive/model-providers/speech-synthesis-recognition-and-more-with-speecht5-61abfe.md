@@ -3,7 +3,7 @@ title: "Speech Synthesis, Recognition, and More With SpeechT5"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/speecht5"
-local_vault_path: "ai/models/speech-synthesis-recognition-and-more-with-speecht5-61abfe.md"
+local_vault_path: "ai\models\speech-synthesis-recognition-and-more-with-speecht5-61abfe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [speech-synthesis-recognition-and-more-with-speecht5-61abfe.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht5-61abfe.md)
+Path: [speech-synthesis-recognition-and-more-with-speecht5-61abfe.md](file:///../../ai\models\speech-synthesis-recognition-and-more-with-speecht5-61abfe.md)

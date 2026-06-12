@@ -3,7 +3,7 @@ title: "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled 
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
-local_vault_path: "ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md"
+local_vault_path: "ai\companies\anthropic\jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/AI-enabled-cyber-threats-mit
 
 ## Local Vault File
 
-Path: [jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md](file:///../../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md)
+Path: [jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md](file:///../../ai\companies\anthropic\jun-3-2026policywhat-we-learned-mapping-a-years-worth-of-ai-enabled-cyber-threat-6ae264.md)

@@ -3,7 +3,7 @@ title: "puxiao/threejs-tutorial"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/puxiao/threejs-tutorial"
-local_vault_path: "web-development/threejs/puxiao-threejs-tutorial-c07d94.md"
+local_vault_path: "web-development\threejs\puxiao-threejs-tutorial-c07d94.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/puxiao/threejs-tutorial
 
 ## Local Vault File
 
-Path: [puxiao-threejs-tutorial-c07d94.md](file:///../../web-development/threejs/puxiao-threejs-tutorial-c07d94.md)
+Path: [puxiao-threejs-tutorial-c07d94.md](file:///../../web-development\threejs\puxiao-threejs-tutorial-c07d94.md)

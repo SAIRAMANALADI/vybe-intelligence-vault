@@ -3,7 +3,7 @@ title: "Yay! Organizations can now publish blog Articles"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/blog-articles-for-orgs"
-local_vault_path: "ai/models/yay-organizations-can-now-publish-blog-articles-793473.md"
+local_vault_path: "ai\models\yay-organizations-can-now-publish-blog-articles-793473.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface/blog-articles-for-o
 
 ## Local Vault File
 
-Path: [yay-organizations-can-now-publish-blog-articles-793473.md](file:///../../ai/models/yay-organizations-can-now-publish-blog-articles-793473.md)
+Path: [yay-organizations-can-now-publish-blog-articles-793473.md](file:///../../ai\models\yay-organizations-can-now-publish-blog-articles-793473.md)

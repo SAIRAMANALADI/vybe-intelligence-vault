@@ -3,7 +3,7 @@ title: "ParticleMedia/RAGTruth"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/ParticleMedia/RAGTruth"
-local_vault_path: "ai/rag/particlemedia-ragtruth-356286.md"
+local_vault_path: "ai\rag\particlemedia-ragtruth-356286.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/ParticleMedia/RAGTruth
 
 ## Local Vault File
 
-Path: [particlemedia-ragtruth-356286.md](file:///../../ai/rag/particlemedia-ragtruth-356286.md)
+Path: [particlemedia-ragtruth-356286.md](file:///../../ai\rag\particlemedia-ragtruth-356286.md)

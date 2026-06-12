@@ -3,7 +3,7 @@ title: "Director of Machine Learning Insights"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ml-director-insights"
-local_vault_path: "ai/models/director-of-machine-learning-insights-603a94.md"
+local_vault_path: "ai\models\director-of-machine-learning-insights-603a94.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights
 
 ## Local Vault File
 
-Path: [director-of-machine-learning-insights-603a94.md](file:///../../ai/models/director-of-machine-learning-insights-603a94.md)
+Path: [director-of-machine-learning-insights-603a94.md](file:///../../ai\models\director-of-machine-learning-insights-603a94.md)

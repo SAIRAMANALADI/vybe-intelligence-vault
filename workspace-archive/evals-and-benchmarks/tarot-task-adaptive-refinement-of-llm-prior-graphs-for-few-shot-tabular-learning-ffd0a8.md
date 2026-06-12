@@ -3,7 +3,7 @@ title: "TAROT: Task-Adaptive Refinement of LLM-prior Graphs for Few-shot Tabular
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11640"
-local_vault_path: "ai/research/tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md"
+local_vault_path: "ai\research\tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11640
 
 ## Local Vault File
 
-Path: [tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md](file:///../../ai/research/tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md)
+Path: [tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md](file:///../../ai\research\tarot-task-adaptive-refinement-of-llm-prior-graphs-for-few-shot-tabular-learning-ffd0a8.md)

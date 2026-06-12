@@ -3,7 +3,7 @@ title: "GeoWorld-VLM: Geometry from World Models for Vision-Language Models"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.16713"
-local_vault_path: "ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md"
+local_vault_path: "ai\research\geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.16713
 
 ## Local Vault File
 
-Path: [geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md](file:///../../ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md)
+Path: [geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md](file:///../../ai\research\geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md)

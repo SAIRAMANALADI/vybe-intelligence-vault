@@ -3,7 +3,7 @@ title: "Machine-learning clustering of close-in exoplanet populations: links to 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11737"
-local_vault_path: "ai/research/machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md"
+local_vault_path: "ai\research\machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11737
 
 ## Local Vault File
 
-Path: [machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md](file:///../../ai/research/machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md)
+Path: [machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md](file:///../../ai\research\machine-learning-clustering-of-close-in-exoplanet-populations-links-to-pebble-ac-4f441a.md)

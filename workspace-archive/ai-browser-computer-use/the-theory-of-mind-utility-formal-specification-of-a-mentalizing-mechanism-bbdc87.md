@@ -3,7 +3,7 @@ title: "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechan
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12721"
-local_vault_path: "ai/agents/the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md"
+local_vault_path: "ai\agents\the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12721
 
 ## Local Vault File
 
-Path: [the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md](file:///../../ai/agents/the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md)
+Path: [the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md](file:///../../ai\agents\the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md)

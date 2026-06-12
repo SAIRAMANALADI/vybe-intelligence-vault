@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 78 resources matched in the intelligence vault.
+Active signals: 101 resources matched in the intelligence vault.
 Recently detected signals:
-- [TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md) (Source: Unknown Source) - Collected 2026-06-11
-- [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: Unknown Source) - Collected 2026-06-11
-- [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: Unknown Source) - Collected 2026-06-11
-- [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) (Source: Unknown Source) - Collected 2026-06-11
-- [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) (Source: Unknown Source) - Collected 2026-06-11
+- [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](../ai/rag/frozen-multimodal-embeddings-for-ai-assisted-interview-assessment-of-personality-3800a1.md) (Source: Unknown Source) - Collected 2026-06-12
+- [BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning](../ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md) (Source: Unknown Source) - Collected 2026-06-12
+- [WOMBET: World Model-Based Experience Transfer for Robust and Sample-efficient Reinforcement Learning](../ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](../ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -56,15 +56,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
 
-### 6. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
+### 6. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/haohao-end/openagent))
 - Stars: 0
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 7. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 7. [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) ([GitHub](https://github.com/aminedjeghri/generative-ai-project-template))
+- Stars: 0
+- Language: Unknown
+- Description: Template for a new generative ai project using uv, nicegui, fastapi, llms (cloud & local with litellm and ollama, cpu/gpu) and langfuse for llm observability
+
+### 8. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
+
+### 9. [bryand410/llm-sentinel](../ai/resources/bryand410-llm-sentinel-c553bd.md) ([GitHub](https://github.com/bryand410/llm-sentinel))
+- Stars: 0
+- Language: Unknown
+- Description: An AI-powered security gateway. Fine-tuning a lightweight PyTorch model to detect and block LLM prompt injections in real-time, with FastAPI and DevSecOps best practices.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -86,4 +96,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T04:38:13.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T09:05:56.183741+00:00.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.

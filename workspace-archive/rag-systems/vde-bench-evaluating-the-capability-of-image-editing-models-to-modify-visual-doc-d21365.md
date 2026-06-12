@@ -3,7 +3,7 @@ title: "VDE Bench: Evaluating The Capability of Image Editing Models to Modify V
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.00122"
-local_vault_path: "ai/research/vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md"
+local_vault_path: "ai\research\vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.00122
 
 ## Local Vault File
 
-Path: [vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md](file:///../../ai/research/vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md)
+Path: [vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md](file:///../../ai\research\vde-bench-evaluating-the-capability-of-image-editing-models-to-modify-visual-doc-d21365.md)

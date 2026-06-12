@@ -3,12 +3,12 @@
 ## Latest Update
 
 <!-- LATEST:START -->
-* Last updated: 2026-06-12 05:04 UTC
-* Resources tracked: 2081
-* Archive files: 8271
+* Last updated: 2026-06-12 09:06 UTC
+* Resources tracked: 1764
+* Archive files: 7669
 * Archive categories: 33
 * Changed sections: Refreshed all active archive directories and living skill guides
-* Safety scan: Passed
+* Safety scan: Skipped
 * Update policy: No-empty-commit active (committed only when meaningful changes are found)
 <!-- LATEST:END -->
 

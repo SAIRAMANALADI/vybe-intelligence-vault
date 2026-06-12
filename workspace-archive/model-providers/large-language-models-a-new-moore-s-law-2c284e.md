@@ -3,7 +3,7 @@ title: "Large Language Models: A New Moore's Law?"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/large-language-models"
-local_vault_path: "ai/models/large-language-models-a-new-moore-s-law-2c284e.md"
+local_vault_path: "ai\models\large-language-models-a-new-moore-s-law-2c284e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/large-language-models
 
 ## Local Vault File
 
-Path: [large-language-models-a-new-moore-s-law-2c284e.md](file:///../../ai/models/large-language-models-a-new-moore-s-law-2c284e.md)
+Path: [large-language-models-a-new-moore-s-law-2c284e.md](file:///../../ai\models\large-language-models-a-new-moore-s-law-2c284e.md)

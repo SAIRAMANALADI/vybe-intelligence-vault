@@ -3,7 +3,7 @@ title: "Autoregressive Direct Preference Optimization"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.09533"
-local_vault_path: "ai/research/autoregressive-direct-preference-optimization-9d5541.md"
+local_vault_path: "ai\research\autoregressive-direct-preference-optimization-9d5541.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.09533
 
 ## Local Vault File
 
-Path: [autoregressive-direct-preference-optimization-9d5541.md](file:///../../ai/research/autoregressive-direct-preference-optimization-9d5541.md)
+Path: [autoregressive-direct-preference-optimization-9d5541.md](file:///../../ai\research\autoregressive-direct-preference-optimization-9d5541.md)

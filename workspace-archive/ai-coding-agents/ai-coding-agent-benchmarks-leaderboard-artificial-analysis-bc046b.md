@@ -3,7 +3,7 @@ title: "AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis"
 archive_category: "ai-coding-agents"
 source_category: "ai/rag"
 source_url: "https://artificialanalysis.ai/agents/coding-agents"
-local_vault_path: "ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md"
+local_vault_path: "ai\rag\ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://artificialanalysis.ai/agents/coding-agents
 
 ## Local Vault File
 
-Path: [ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md](file:///../../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md)
+Path: [ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md](file:///../../ai\rag\ai-coding-agent-benchmarks-leaderboard-artificial-analysis-bc046b.md)

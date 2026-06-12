@@ -3,7 +3,7 @@ title: "Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off - Googl
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://developers.googleblog.com/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off"
-local_vault_path: "ai/rag/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md"
+local_vault_path: "ai\rag\build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://developers.googleblog.com/build-better-ai-agents-5-
 
 ## Local Vault File
 
-Path: [build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md](file:///../../ai/rag/build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md)
+Path: [build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md](file:///../../ai\rag\build-better-ai-agents-5-developer-tips-from-the-agent-bake-off-google-developer-9f1718.md)

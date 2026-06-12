@@ -3,7 +3,7 @@ title: "Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Local
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13509"
-local_vault_path: "ai/rag/measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md"
+local_vault_path: "ai\rag\measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13509
 
 ## Local Vault File
 
-Path: [measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md](file:///../../ai/rag/measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md)
+Path: [measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md](file:///../../ai\rag\measurement-calibrated-multi-camera-fusion-for-vision-based-indoor-localization-fb13c3.md)

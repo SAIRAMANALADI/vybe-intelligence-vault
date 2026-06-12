@@ -3,7 +3,7 @@ title: "Benchmarking Counterfactual Prediction in Epidemic Time Series with Time
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.05692"
-local_vault_path: "ai/rag/benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md"
+local_vault_path: "ai\rag\benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.05692
 
 ## Local Vault File
 
-Path: [benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md](file:///../../ai/rag/benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md)
+Path: [benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md](file:///../../ai\rag\benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md)

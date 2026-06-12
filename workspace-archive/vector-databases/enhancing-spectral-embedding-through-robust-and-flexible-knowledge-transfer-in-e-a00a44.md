@@ -3,7 +3,7 @@ title: "Enhancing Spectral Embedding through Robust and Flexible Knowledge Trans
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11570"
-local_vault_path: "ai/rag/enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md"
+local_vault_path: "ai\rag\enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11570
 
 ## Local Vault File
 
-Path: [enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md](file:///../../ai/rag/enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md)
+Path: [enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md](file:///../../ai\rag\enhancing-spectral-embedding-through-robust-and-flexible-knowledge-transfer-in-e-a00a44.md)

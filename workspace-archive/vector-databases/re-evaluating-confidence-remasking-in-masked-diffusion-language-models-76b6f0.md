@@ -3,7 +3,7 @@ title: "Re-evaluating Confidence Remasking in Masked Diffusion Language Models"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12232"
-local_vault_path: "ai/rag/re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md"
+local_vault_path: "ai\rag\re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12232
 
 ## Local Vault File
 
-Path: [re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md](file:///../../ai/rag/re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md)
+Path: [re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md](file:///../../ai\rag\re-evaluating-confidence-remasking-in-masked-diffusion-language-models-76b6f0.md)

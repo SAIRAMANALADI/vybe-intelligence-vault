@@ -3,7 +3,7 @@ title: "Steering Where to Listen: Instruction-Based Activation Steering Redirect
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11400"
-local_vault_path: "ai/research/steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md"
+local_vault_path: "ai\research\steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11400
 
 ## Local Vault File
 
-Path: [steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md](file:///../../ai/research/steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md)
+Path: [steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md](file:///../../ai\research\steering-where-to-listen-instruction-based-activation-steering-redirects-tempora-a5d298.md)

@@ -3,7 +3,7 @@ title: "SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13647"
-local_vault_path: "ai/rag/skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md"
+local_vault_path: "ai\rag\skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13647
 
 ## Local Vault File
 
-Path: [skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md](file:///../../ai/rag/skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md)
+Path: [skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md](file:///../../ai\rag\skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md)

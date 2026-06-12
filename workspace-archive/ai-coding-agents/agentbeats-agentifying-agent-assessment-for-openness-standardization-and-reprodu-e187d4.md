@@ -3,7 +3,7 @@ title: "AgentBeats: Agentifying Agent Assessment for Openness, Standardization, 
 archive_category: "ai-coding-agents"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13608"
-local_vault_path: "ai/rag/agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md"
+local_vault_path: "ai\rag\agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13608
 
 ## Local Vault File
 
-Path: [agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md](file:///../../ai/rag/agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md)
+Path: [agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md](file:///../../ai\rag\agentbeats-agentifying-agent-assessment-for-openness-standardization-and-reprodu-e187d4.md)

@@ -3,7 +3,7 @@ title: "caramaschiHG/awesome-ai-agents-2026"
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://github.com/caramaschiHG/awesome-ai-agents-2026"
-local_vault_path: "ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md"
+local_vault_path: "ai\agents\caramaschihg-awesome-ai-agents-2026-205722.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/caramaschiHG/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [caramaschihg-awesome-ai-agents-2026-205722.md](file:///../../ai/agents/caramaschihg-awesome-ai-agents-2026-205722.md)
+Path: [caramaschihg-awesome-ai-agents-2026-205722.md](file:///../../ai\agents\caramaschihg-awesome-ai-agents-2026-205722.md)

@@ -3,7 +3,7 @@ title: "DuoBench: A Reproducible Benchmark for Bimanual Manipulation in Simulati
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11901"
-local_vault_path: "ai/research/duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md"
+local_vault_path: "ai\research\duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11901
 
 ## Local Vault File
 
-Path: [duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md](file:///../../ai/research/duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md)
+Path: [duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md](file:///../../ai\research\duobench-a-reproducible-benchmark-for-bimanual-manipulation-in-simulation-and-th-df80c2.md)

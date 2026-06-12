@@ -3,7 +3,7 @@ title: "Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Li
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13288"
-local_vault_path: "ai/research/cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md"
+local_vault_path: "ai\research\cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13288
 
 ## Local Vault File
 
-Path: [cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md](file:///../../ai/research/cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md)
+Path: [cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md](file:///../../ai\research\cross-modal-masked-compositional-concept-modeling-for-enhancing-visio-linguistic-9d51c8.md)

@@ -3,7 +3,7 @@ title: "whoisryosuke/r3f-next-starter"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/whoisryosuke/r3f-next-starter"
-local_vault_path: "web-development/react-three-fiber/whoisryosuke-r3f-next-starter-66b16e.md"
+local_vault_path: "web-development\react-three-fiber\whoisryosuke-r3f-next-starter-66b16e.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/whoisryosuke/r3f-next-starter
 
 ## Local Vault File
 
-Path: [whoisryosuke-r3f-next-starter-66b16e.md](file:///../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter-66b16e.md)
+Path: [whoisryosuke-r3f-next-starter-66b16e.md](file:///../../web-development\react-three-fiber\whoisryosuke-r3f-next-starter-66b16e.md)

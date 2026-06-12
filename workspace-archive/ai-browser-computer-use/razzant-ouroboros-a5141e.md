@@ -3,7 +3,7 @@ title: "razzant/ouroboros"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/razzant/ouroboros"
-local_vault_path: "ai/agents/razzant-ouroboros-a5141e.md"
+local_vault_path: "ai\agents\razzant-ouroboros-a5141e.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/razzant/ouroboros
 
 ## Local Vault File
 
-Path: [razzant-ouroboros-a5141e.md](file:///../../ai/agents/razzant-ouroboros-a5141e.md)
+Path: [razzant-ouroboros-a5141e.md](file:///../../ai\agents\razzant-ouroboros-a5141e.md)

@@ -3,7 +3,7 @@ title: "Free-Placement Optimization of Ground Station Locations for Low-Earth Or
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12667"
-local_vault_path: "ai/research/free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md"
+local_vault_path: "ai\research\free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12667
 
 ## Local Vault File
 
-Path: [free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md](file:///../../ai/research/free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md)
+Path: [free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md](file:///../../ai\research\free-placement-optimization-of-ground-station-locations-for-low-earth-orbit-sate-f5a96a.md)

@@ -3,7 +3,7 @@ title: "APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11459"
-local_vault_path: "ai/rag/apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md"
+local_vault_path: "ai\rag\apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11459
 
 ## Local Vault File
 
-Path: [apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md](file:///../../ai/rag/apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md)
+Path: [apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md](file:///../../ai\rag\apex-automated-prompt-engineering-expert-with-dynamic-data-selection-dbdbc1.md)

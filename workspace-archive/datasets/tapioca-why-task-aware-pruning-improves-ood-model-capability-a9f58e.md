@@ -3,7 +3,7 @@ title: "TAPIOCA: Why Task- Aware Pruning Improves OOD model Capability"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.14738"
-local_vault_path: "ai/research/tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md"
+local_vault_path: "ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.14738
 
 ## Local Vault File
 
-Path: [tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md](file:///../../ai/research/tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md)
+Path: [tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md](file:///../../ai\research\tapioca-why-task-aware-pruning-improves-ood-model-capability-a9f58e.md)

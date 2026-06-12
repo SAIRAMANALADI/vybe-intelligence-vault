@@ -3,7 +3,7 @@ title: "Internet of Everything in the 6G Era: Paradigms, Enablers, Potentials an
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.25018"
-local_vault_path: "ai/research/internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md"
+local_vault_path: "ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2604.25018
 
 ## Local Vault File
 
-Path: [internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md](file:///../../ai/research/internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md)
+Path: [internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md](file:///../../ai\research\internet-of-everything-in-the-6g-era-paradigms-enablers-potentials-and-future-di-c681c3.md)

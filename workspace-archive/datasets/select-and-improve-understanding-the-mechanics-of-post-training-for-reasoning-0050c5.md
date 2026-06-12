@@ -3,7 +3,7 @@ title: "Select and Improve: Understanding the Mechanics of Post-Training for Rea
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13125"
-local_vault_path: "ai/research/select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md"
+local_vault_path: "ai\research\select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13125
 
 ## Local Vault File
 
-Path: [select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md](file:///../../ai/research/select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md)
+Path: [select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md](file:///../../ai\research\select-and-improve-understanding-the-mechanics-of-post-training-for-reasoning-0050c5.md)

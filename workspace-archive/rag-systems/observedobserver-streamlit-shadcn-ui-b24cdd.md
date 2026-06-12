@@ -3,7 +3,7 @@ title: "ObservedObserver/streamlit-shadcn-ui"
 archive_category: "rag-systems"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/ObservedObserver/streamlit-shadcn-ui"
-local_vault_path: "web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md"
+local_vault_path: "web-development\shadcn-ui\observedobserver-streamlit-shadcn-ui-b24cdd.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/ObservedObserver/streamlit-shadcn-ui
 
 ## Local Vault File
 
-Path: [observedobserver-streamlit-shadcn-ui-b24cdd.md](file:///../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui-b24cdd.md)
+Path: [observedobserver-streamlit-shadcn-ui-b24cdd.md](file:///../../web-development\shadcn-ui\observedobserver-streamlit-shadcn-ui-b24cdd.md)

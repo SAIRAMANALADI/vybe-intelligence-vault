@@ -3,7 +3,7 @@ title: "akash3444/shadcn-ui-blocks"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/akash3444/shadcn-ui-blocks"
-local_vault_path: "web-development/shadcn-ui/akash3444-shadcn-ui-blocks-5b0ed7.md"
+local_vault_path: "web-development\shadcn-ui\akash3444-shadcn-ui-blocks-5b0ed7.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/akash3444/shadcn-ui-blocks
 
 ## Local Vault File
 
-Path: [akash3444-shadcn-ui-blocks-5b0ed7.md](file:///../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks-5b0ed7.md)
+Path: [akash3444-shadcn-ui-blocks-5b0ed7.md](file:///../../web-development\shadcn-ui\akash3444-shadcn-ui-blocks-5b0ed7.md)

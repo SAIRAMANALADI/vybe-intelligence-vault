@@ -3,7 +3,7 @@ title: "Conformal Risk-Averse Decision Making with Action Conditional Guarantee"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.05551"
-local_vault_path: "ai/research/conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md"
+local_vault_path: "ai\research\conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.05551
 
 ## Local Vault File
 
-Path: [conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md](file:///../../ai/research/conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md)
+Path: [conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md](file:///../../ai\research\conformal-risk-averse-decision-making-with-action-conditional-guarantee-21093a.md)

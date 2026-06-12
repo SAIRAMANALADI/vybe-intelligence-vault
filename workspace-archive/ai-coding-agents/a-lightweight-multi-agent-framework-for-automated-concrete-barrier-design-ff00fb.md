@@ -3,7 +3,7 @@ title: "A Lightweight Multi-Agent Framework for Automated Concrete Barrier Desig
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12040"
-local_vault_path: "ai/agents/a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md"
+local_vault_path: "ai\agents\a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12040
 
 ## Local Vault File
 
-Path: [a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md](file:///../../ai/agents/a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md)
+Path: [a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md](file:///../../ai\agents\a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md)

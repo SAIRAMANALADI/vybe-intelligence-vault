@@ -3,7 +3,7 @@ title: "Granite 4.0 Nano: Just how small can you go?"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ibm-granite/granite-4-nano"
-local_vault_path: "ai/models/granite-4-0-nano-just-how-small-can-you-go-547ccd.md"
+local_vault_path: "ai\models\granite-4-0-nano-just-how-small-can-you-go-547ccd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-4-nano
 
 ## Local Vault File
 
-Path: [granite-4-0-nano-just-how-small-can-you-go-547ccd.md](file:///../../ai/models/granite-4-0-nano-just-how-small-can-you-go-547ccd.md)
+Path: [granite-4-0-nano-just-how-small-can-you-go-547ccd.md](file:///../../ai\models\granite-4-0-nano-just-how-small-can-you-go-547ccd.md)

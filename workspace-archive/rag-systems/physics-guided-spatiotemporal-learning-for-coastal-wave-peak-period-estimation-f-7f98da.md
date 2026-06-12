@@ -3,7 +3,7 @@ title: "Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Esti
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13302"
-local_vault_path: "ai/rag/physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md"
+local_vault_path: "ai\rag\physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13302
 
 ## Local Vault File
 
-Path: [physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md](file:///../../ai/rag/physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md)
+Path: [physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md](file:///../../ai\rag\physics-guided-spatiotemporal-learning-for-coastal-wave-peak-period-estimation-f-7f98da.md)

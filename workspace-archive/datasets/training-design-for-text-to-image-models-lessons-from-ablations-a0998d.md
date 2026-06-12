@@ -3,7 +3,7 @@ title: "Training Design for Text-to-Image Models: Lessons from Ablations"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Photoroom/prx-part2"
-local_vault_path: "ai/models/training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md"
+local_vault_path: "ai\models\training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Photoroom/prx-part2
 
 ## Local Vault File
 
-Path: [training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md](file:///../../ai/models/training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md)
+Path: [training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md](file:///../../ai\models\training-design-for-text-to-image-models-lessons-from-ablations-a0998d.md)

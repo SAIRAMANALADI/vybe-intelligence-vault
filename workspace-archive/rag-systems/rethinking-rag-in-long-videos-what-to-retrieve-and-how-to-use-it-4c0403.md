@@ -3,7 +3,7 @@ title: "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13141"
-local_vault_path: "ai/rag/rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md"
+local_vault_path: "ai\rag\rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13141
 
 ## Local Vault File
 
-Path: [rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md](file:///../../ai/rag/rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md)
+Path: [rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md](file:///../../ai\rag\rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md)

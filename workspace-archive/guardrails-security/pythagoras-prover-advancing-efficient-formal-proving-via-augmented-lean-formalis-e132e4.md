@@ -3,7 +3,7 @@ title: "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12594"
-local_vault_path: "ai/research/pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md"
+local_vault_path: "ai\research\pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12594
 
 ## Local Vault File
 
-Path: [pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md](file:///../../ai/research/pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md)
+Path: [pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md](file:///../../ai\research\pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md)

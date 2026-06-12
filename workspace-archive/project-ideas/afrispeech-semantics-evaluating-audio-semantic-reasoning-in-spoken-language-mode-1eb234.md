@@ -3,7 +3,7 @@ title: "Afrispeech Semantics: Evaluating Audio Semantic Reasoning in Spoken Lang
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11219"
-local_vault_path: "ai/research/afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md"
+local_vault_path: "ai\research\afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11219
 
 ## Local Vault File
 
-Path: [afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md](file:///../../ai/research/afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md)
+Path: [afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md](file:///../../ai\research\afrispeech-semantics-evaluating-audio-semantic-reasoning-in-spoken-language-mode-1eb234.md)

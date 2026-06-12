@@ -3,7 +3,7 @@ title: "pixegami/langchain-rag-tutorial"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/pixegami/langchain-rag-tutorial"
-local_vault_path: "ai/rag/pixegami-langchain-rag-tutorial-4a009e.md"
+local_vault_path: "ai\rag\pixegami-langchain-rag-tutorial-4a009e.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/pixegami/langchain-rag-tutorial
 
 ## Local Vault File
 
-Path: [pixegami-langchain-rag-tutorial-4a009e.md](file:///../../ai/rag/pixegami-langchain-rag-tutorial-4a009e.md)
+Path: [pixegami-langchain-rag-tutorial-4a009e.md](file:///../../ai\rag\pixegami-langchain-rag-tutorial-4a009e.md)

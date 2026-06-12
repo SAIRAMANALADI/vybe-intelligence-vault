@@ -3,7 +3,7 @@ title: "Seeing Below the Limit of Detection: A Censored-Poisson Bayesian Latent-
 archive_category: "ai-coding-agents"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11876"
-local_vault_path: "ai/research/seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md"
+local_vault_path: "ai\research\seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11876
 
 ## Local Vault File
 
-Path: [seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md](file:///../../ai/research/seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md)
+Path: [seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md](file:///../../ai\research\seeing-below-the-limit-of-detection-a-censored-poisson-bayesian-latent-growth-ch-842d10.md)

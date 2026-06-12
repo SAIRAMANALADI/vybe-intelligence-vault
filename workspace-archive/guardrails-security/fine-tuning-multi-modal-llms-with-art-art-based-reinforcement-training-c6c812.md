@@ -3,7 +3,7 @@ title: "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11854"
-local_vault_path: "ai/research/fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md"
+local_vault_path: "ai\research\fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11854
 
 ## Local Vault File
 
-Path: [fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md](file:///../../ai/research/fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md)
+Path: [fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md](file:///../../ai\research\fine-tuning-multi-modal-llms-with-art-art-based-reinforcement-training-c6c812.md)

@@ -3,7 +3,7 @@ title: "Mapping AI Programs in the U.S: A Status Report from Early 2026 and an A
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12428"
-local_vault_path: "ai/research/mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md"
+local_vault_path: "ai\research\mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12428
 
 ## Local Vault File
 
-Path: [mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md](file:///../../ai/research/mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md)
+Path: [mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md](file:///../../ai\research\mapping-ai-programs-in-the-u-s-a-status-report-from-early-2026-and-an-analysis-o-ba75ab.md)

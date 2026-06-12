@@ -3,7 +3,7 @@ title: "SonarSource/sonarqube-mcp-server"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/SonarSource/sonarqube-mcp-server"
-local_vault_path: "ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md"
+local_vault_path: "ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md"
 quality_score: 70
 archive_score: 89
 archive_tier: "essential"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/SonarSource/sonarqube-mcp-server
 
 ## Local Vault File
 
-Path: [sonarsource-sonarqube-mcp-server-c86c18.md](file:///../../ai/agents/sonarsource-sonarqube-mcp-server-c86c18.md)
+Path: [sonarsource-sonarqube-mcp-server-c86c18.md](file:///../../ai\agents\sonarsource-sonarqube-mcp-server-c86c18.md)

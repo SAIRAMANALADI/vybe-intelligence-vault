@@ -3,7 +3,7 @@ title: "Before You Think: System 0, AI-Mediated Cognition and Cognitive Coloniza
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13658"
-local_vault_path: "ai/research/before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md"
+local_vault_path: "ai\research\before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13658
 
 ## Local Vault File
 
-Path: [before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md](file:///../../ai/research/before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md)
+Path: [before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md](file:///../../ai\research\before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md)

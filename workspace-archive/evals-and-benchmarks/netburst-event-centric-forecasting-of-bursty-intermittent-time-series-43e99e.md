@@ -3,7 +3,7 @@ title: "NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.22397"
-local_vault_path: "ai/research/netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md"
+local_vault_path: "ai\research\netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2510.22397
 
 ## Local Vault File
 
-Path: [netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md](file:///../../ai/research/netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md)
+Path: [netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md](file:///../../ai\research\netburst-event-centric-forecasting-of-bursty-intermittent-time-series-43e99e.md)

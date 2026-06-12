@@ -3,7 +3,7 @@ title: "Pretrained self-supervised speech models can recognize unseen consonants
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11542"
-local_vault_path: "ai/research/pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md"
+local_vault_path: "ai\research\pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11542
 
 ## Local Vault File
 
-Path: [pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md](file:///../../ai/research/pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md)
+Path: [pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md](file:///../../ai\research\pretrained-self-supervised-speech-models-can-recognize-unseen-consonants-2faa67.md)

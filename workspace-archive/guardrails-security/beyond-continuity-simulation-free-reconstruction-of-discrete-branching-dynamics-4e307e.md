@@ -3,7 +3,7 @@ title: "Beyond Continuity: Simulation-free Reconstruction of Discrete Branching 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.00545"
-local_vault_path: "ai/research/beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md"
+local_vault_path: "ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.00545
 
 ## Local Vault File
 
-Path: [beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md](file:///../../ai/research/beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md)
+Path: [beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md](file:///../../ai\research\beyond-continuity-simulation-free-reconstruction-of-discrete-branching-dynamics-4e307e.md)

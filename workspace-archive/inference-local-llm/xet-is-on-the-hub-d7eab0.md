@@ -3,7 +3,7 @@ title: "Xet is on the Hub"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/xet-on-the-hub"
-local_vault_path: "ai/models/xet-is-on-the-hub-d7eab0.md"
+local_vault_path: "ai\models\xet-is-on-the-hub-d7eab0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/xet-on-the-hub
 
 ## Local Vault File
 
-Path: [xet-is-on-the-hub-d7eab0.md](file:///../../ai/models/xet-is-on-the-hub-d7eab0.md)
+Path: [xet-is-on-the-hub-d7eab0.md](file:///../../ai\models\xet-is-on-the-hub-d7eab0.md)

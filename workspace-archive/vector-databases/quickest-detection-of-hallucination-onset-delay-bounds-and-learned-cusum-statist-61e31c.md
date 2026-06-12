@@ -3,7 +3,7 @@ title: "Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSU
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12476"
-local_vault_path: "ai/rag/quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md"
+local_vault_path: "ai\rag\quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12476
 
 ## Local Vault File
 
-Path: [quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md](file:///../../ai/rag/quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md)
+Path: [quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md](file:///../../ai\rag\quickest-detection-of-hallucination-onset-delay-bounds-and-learned-cusum-statist-61e31c.md)

@@ -3,7 +3,7 @@ title: "How to Improve RAG Performance: 5 Key Techniques with Examples | DataCam
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.datacamp.com/tutorial/how-to-improve-rag-performance-5-key-techniques-with-examples"
-local_vault_path: "ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md"
+local_vault_path: "ai\rag\how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://www.datacamp.com/tutorial/how-to-improve-rag-perfor
 
 ## Local Vault File
 
-Path: [how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md](file:///../../ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md)
+Path: [how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md](file:///../../ai\rag\how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md)

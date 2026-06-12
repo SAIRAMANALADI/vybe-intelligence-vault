@@ -3,7 +3,7 @@ title: "Emergence of Hierarchical Emotion Organization in Large Language Models"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2507.10599"
-local_vault_path: "ai/agents/emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md"
+local_vault_path: "ai\agents\emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2507.10599
 
 ## Local Vault File
 
-Path: [emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md](file:///../../ai/agents/emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md)
+Path: [emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md](file:///../../ai\agents\emergence-of-hierarchical-emotion-organization-in-large-language-models-48cd06.md)

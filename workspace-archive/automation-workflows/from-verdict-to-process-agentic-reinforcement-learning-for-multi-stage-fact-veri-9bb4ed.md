@@ -3,7 +3,7 @@ title: "From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage 
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13262"
-local_vault_path: "ai/rag/from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md"
+local_vault_path: "ai\rag\from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13262
 
 ## Local Vault File
 
-Path: [from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md](file:///../../ai/rag/from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md)
+Path: [from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md](file:///../../ai\rag\from-verdict-to-process-agentic-reinforcement-learning-for-multi-stage-fact-veri-9bb4ed.md)

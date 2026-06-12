@@ -3,7 +3,7 @@ title: "Multimodal Ordinal Modeling of Alzheimer's Disease Severity Using Struct
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11794"
-local_vault_path: "ai/research/multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md"
+local_vault_path: "ai\research\multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11794
 
 ## Local Vault File
 
-Path: [multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md](file:///../../ai/research/multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md)
+Path: [multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md](file:///../../ai\research\multimodal-ordinal-modeling-of-alzheimer-s-disease-severity-using-structural-mri-e23546.md)

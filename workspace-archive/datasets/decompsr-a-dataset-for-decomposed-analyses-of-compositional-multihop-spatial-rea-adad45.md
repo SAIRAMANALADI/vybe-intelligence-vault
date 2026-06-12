@@ -3,7 +3,7 @@ title: "DecompSR: A dataset for decomposed analyses of compositional multihop sp
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.02627"
-local_vault_path: "ai/research/decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md"
+local_vault_path: "ai\research\decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2511.02627
 
 ## Local Vault File
 
-Path: [decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md](file:///../../ai/research/decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md)
+Path: [decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md](file:///../../ai\research\decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md)

@@ -3,7 +3,7 @@ title: "aigateway-sh/awesome-ai-gateway"
 archive_category: "model-providers"
 source_category: "ai/resources"
 source_url: "https://github.com/aigateway-sh/awesome-ai-gateway"
-local_vault_path: "ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md"
+local_vault_path: "ai\resources\aigateway-sh-awesome-ai-gateway-8d04ee.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/aigateway-sh/awesome-ai-gateway
 
 ## Local Vault File
 
-Path: [aigateway-sh-awesome-ai-gateway-8d04ee.md](file:///../../ai/resources/aigateway-sh-awesome-ai-gateway-8d04ee.md)
+Path: [aigateway-sh-awesome-ai-gateway-8d04ee.md](file:///../../ai\resources\aigateway-sh-awesome-ai-gateway-8d04ee.md)

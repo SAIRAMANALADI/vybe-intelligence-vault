@@ -3,7 +3,7 @@ title: "Iterating Toward Better Search: A Two-Agent Simulation Framework for Eva
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12924"
-local_vault_path: "ai/agents/iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md"
+local_vault_path: "ai\agents\iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://arxiv.org/abs/2606.12924
 
 ## Local Vault File
 
-Path: [iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md](file:///../../ai/agents/iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md)
+Path: [iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md](file:///../../ai\agents\iterating-toward-better-search-a-two-agent-simulation-framework-for-evaluating-a-697126.md)

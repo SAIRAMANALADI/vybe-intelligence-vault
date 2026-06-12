@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 82 resources matched in the intelligence vault.
+Active signals: 84 resources matched in the intelligence vault.
 Recently detected signals:
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) (Source: Unknown Source) - Collected 2026-06-11
-- [Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](../ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md) (Source: Unknown Source) - Collected 2026-06-11
 - [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md) (Source: Unknown Source) - Collected 2026-06-11
 - [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md) (Source: Unknown Source) - Collected 2026-06-11
 - [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone-9fb7dd.md) (Source: Unknown Source) - Collected 2026-06-11
+- [Scthe/nanite-webgpu](../web-development/webgpu/scthe-nanite-webgpu-a8202e.md) (Source: Unknown Source) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -41,7 +41,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: This is a place where I post sketches, experiments and the like based on Three.js
 
-### 3. [Epiczzor/r3f-template](../web-development/react-three-fiber/epiczzor-r3f-template-481f06.md) ([GitHub](https://github.com/Epiczzor/r3f-template))
+### 3. [Epiczzor/r3f-template](../web-development/react-three-fiber/epiczzor-r3f-template-481f06.md) ([GitHub](https://github.com/epiczzor/r3f-template))
 - Stars: 0
 - Language: Unknown
 - Description: a starter project for react-three-fiber and some more useful packages
@@ -51,7 +51,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Batteries included template for using React Three Fiber (R3F) with NextJS
 
-### 5. [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo-d95fd3.md) ([GitHub](https://github.com/Mario343214420/Webgl-Data-Demo))
+### 5. [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo-d95fd3.md) ([GitHub](https://github.com/mario343214420/webgl-data-demo))
 - Stars: 0
 - Language: Unknown
 - Description: Vuethree.jsecharts
@@ -71,7 +71,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: 3D Scrolling Portfolio Website with Three.js
 
-### 9. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer-aff082.md) ([GitHub](https://github.com/juniorxsound/R3F.Multiplayer))
+### 9. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer-aff082.md) ([GitHub](https://github.com/juniorxsound/r3f.multiplayer))
 - Stars: 0
 - Language: Unknown
 - Description: Small React three fiber multiplayer template
@@ -121,7 +121,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Intro to WebGL with Three.js presentation
 
-### 19. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md) ([GitHub](https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS))
+### 19. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
 - Stars: 0
 - Language: Unknown
 - Description: A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
@@ -146,7 +146,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: A loose collection of cool r3f links, gifs, people, stuff
 
-### 24. [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md) ([GitHub](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols))
+### 24. [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md) ([GitHub](https://github.com/tiagocavalcante/r3f-native-orbitcontrols))
 - Stars: 0
 - Language: Unknown
 - Description: OrbitControls for React Three Fiber in React Native
@@ -161,7 +161,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: WeChat MiniProgram adapted version of Three.js
 
-### 27. [xiao149/ThreeJsDemo](../web-development/threejs/xiao149-threejsdemo-2630c3.md) ([GitHub](https://github.com/xiao149/ThreeJsDemo))
+### 27. [xiao149/ThreeJsDemo](../web-development/threejs/xiao149-threejsdemo-2630c3.md) ([GitHub](https://github.com/xiao149/threejsdemo))
 - Stars: 0
 - Language: Unknown
 - Description: ThreeJs
@@ -171,27 +171,27 @@ Recently detected signals:
 - Language: Unknown
 - Description: WebGL Three.js Cesium.js Examples And Demo - WebGL  Three.js  Cesium.js  --- Star ---
 
-### 29. [wrongakram/R3F-Chairs](../web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md) ([GitHub](https://github.com/wrongakram/R3F-Chairs))
+### 29. [wrongakram/R3F-Chairs](../web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md) ([GitHub](https://github.com/wrongakram/r3f-chairs))
 - Stars: 0
 - Language: Unknown
 - Description: React three fiber
 
-### 30. [chenjsh36/ThreeJSForFun](../web-development/threejs/chenjsh36-threejsforfun-a49cc5.md) ([GitHub](https://github.com/chenjsh36/ThreeJSForFun))
+### 30. [chenjsh36/ThreeJSForFun](../web-development/threejs/chenjsh36-threejsforfun-a49cc5.md) ([GitHub](https://github.com/chenjsh36/threejsforfun))
 - Stars: 0
 - Language: Unknown
 - Description: ThreeJS DemoDemo
 
-### 31. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md) ([GitHub](https://github.com/nklsrh/BuildNewGames_ThreeJSGame))
+### 31. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md) ([GitHub](https://github.com/nklsrh/buildnewgames_threejsgame))
 - Stars: 0
 - Language: Unknown
 - Description: A game built to show off some of the basic features of the Three.JS WebGL library.
 
-### 32. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md) ([GitHub](https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code))
+### 32. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md) ([GitHub](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code))
 - Stars: 0
 - Language: Unknown
 - Description: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to cr...
 
-### 33. [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone-9fb7dd.md) ([GitHub](https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone))
+### 33. [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone-9fb7dd.md) ([GitHub](https://github.com/codebucks27/3d-landing-page-for-apple-iphone))
 - Stars: 0
 - Language: Unknown
 - Description: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to cr...
@@ -216,7 +216,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: WebGL based particle system engine for three.js
 
-### 38. [spite/Wagner](../web-development/threejs/spite-wagner-5be7a5.md) ([GitHub](https://github.com/spite/Wagner))
+### 38. [spite/Wagner](../web-development/threejs/spite-wagner-5be7a5.md) ([GitHub](https://github.com/spite/wagner))
 - Stars: 0
 - Language: Unknown
 - Description: Effects composer for three.js
@@ -256,7 +256,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: A growing three.js helper library.
 
-### 46. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d-f99729.md) ([GitHub](https://github.com/mkkellogg/GaussianSplats3D))
+### 46. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d-f99729.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Three.js-based implementation of 3D Gaussian splatting
@@ -266,7 +266,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Use VRM on Three.js
 
-### 48. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d-4def36.md) ([GitHub](https://github.com/wolfwind521/indoor3D))
+### 48. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d-4def36.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
 - Stars: 0
 - Language: Unknown
 - Description: a js lib based on three.js to show 3D indoor map
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T04:38:13.569273+00:00.629769+00:00.803146+00:00.966549+00:00.409379+00:00.590509+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T09:05:56.296522+00:00.569273+00:00.629769+00:00.803146+00:00.966549+00:00.409379+00:00.590509+00:00.

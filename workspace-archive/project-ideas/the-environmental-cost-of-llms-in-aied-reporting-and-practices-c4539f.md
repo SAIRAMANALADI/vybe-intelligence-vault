@@ -3,7 +3,7 @@ title: "The Environmental Cost of LLMs in AIED: Reporting and Practices"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11215"
-local_vault_path: "ai/research/the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md"
+local_vault_path: "ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11215
 
 ## Local Vault File
 
-Path: [the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md](file:///../../ai/research/the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md)
+Path: [the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md](file:///../../ai\research\the-environmental-cost-of-llms-in-aied-reporting-and-practices-c4539f.md)

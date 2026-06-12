@@ -3,7 +3,7 @@ title: "Distributed Training: Train BART/T5 for Summarization using 🤗 Transfo
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sagemaker-distributed-training-seq2seq"
-local_vault_path: "ai/models/distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md"
+local_vault_path: "ai\models\distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-distributed-training-
 
 ## Local Vault File
 
-Path: [distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md](file:///../../ai/models/distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md)
+Path: [distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md](file:///../../ai\models\distributed-training-train-bart-t5-for-summarization-using-transformers-and-amaz-b6357b.md)

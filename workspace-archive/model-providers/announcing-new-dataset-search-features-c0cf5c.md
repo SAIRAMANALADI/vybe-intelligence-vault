@@ -3,7 +3,7 @@ title: "Announcing New Dataset Search Features"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/datasets-filters"
-local_vault_path: "ai/models/announcing-new-dataset-search-features-c0cf5c.md"
+local_vault_path: "ai\models\announcing-new-dataset-search-features-c0cf5c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/datasets-filters
 
 ## Local Vault File
 
-Path: [announcing-new-dataset-search-features-c0cf5c.md](file:///../../ai/models/announcing-new-dataset-search-features-c0cf5c.md)
+Path: [announcing-new-dataset-search-features-c0cf5c.md](file:///../../ai\models\announcing-new-dataset-search-features-c0cf5c.md)

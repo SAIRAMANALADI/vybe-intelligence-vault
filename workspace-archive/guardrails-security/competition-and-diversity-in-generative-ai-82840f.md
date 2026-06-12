@@ -3,7 +3,7 @@ title: "Competition and Diversity in Generative AI"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2412.08610"
-local_vault_path: "ai/research/competition-and-diversity-in-generative-ai-82840f.md"
+local_vault_path: "ai\research\competition-and-diversity-in-generative-ai-82840f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2412.08610
 
 ## Local Vault File
 
-Path: [competition-and-diversity-in-generative-ai-82840f.md](file:///../../ai/research/competition-and-diversity-in-generative-ai-82840f.md)
+Path: [competition-and-diversity-in-generative-ai-82840f.md](file:///../../ai\research\competition-and-diversity-in-generative-ai-82840f.md)

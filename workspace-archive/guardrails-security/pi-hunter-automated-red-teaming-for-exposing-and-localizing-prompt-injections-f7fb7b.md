@@ -3,7 +3,7 @@ title: "PI-Hunter: Automated Red-Teaming for Exposing and Localizing Prompt Inje
 archive_category: "guardrails-security"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12737"
-local_vault_path: "ai/rag/pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md"
+local_vault_path: "ai\rag\pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12737
 
 ## Local Vault File
 
-Path: [pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md](file:///../../ai/rag/pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md)
+Path: [pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md](file:///../../ai\rag\pi-hunter-automated-red-teaming-for-exposing-and-localizing-prompt-injections-f7fb7b.md)

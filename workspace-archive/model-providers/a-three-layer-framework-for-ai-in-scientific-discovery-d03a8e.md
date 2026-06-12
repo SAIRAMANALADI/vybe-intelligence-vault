@@ -3,7 +3,7 @@ title: "A Three-Layer Framework for AI in Scientific Discovery"
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13566"
-local_vault_path: "ai/agents/a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md"
+local_vault_path: "ai\agents\a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13566
 
 ## Local Vault File
 
-Path: [a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md](file:///../../ai/agents/a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md)
+Path: [a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md](file:///../../ai\agents\a-three-layer-framework-for-ai-in-scientific-discovery-d03a8e.md)

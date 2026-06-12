@@ -3,7 +3,7 @@ title: "On the Study of Biometric Spoofing Detection using Deep Learning"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11505"
-local_vault_path: "ai/research/on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md"
+local_vault_path: "ai\research\on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11505
 
 ## Local Vault File
 
-Path: [on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md](file:///../../ai/research/on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md)
+Path: [on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md](file:///../../ai\research\on-the-study-of-biometric-spoofing-detection-using-deep-learning-d5e30b.md)

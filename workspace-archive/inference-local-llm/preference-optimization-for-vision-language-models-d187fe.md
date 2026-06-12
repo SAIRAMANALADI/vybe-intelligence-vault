@@ -3,7 +3,7 @@ title: "Preference Optimization for Vision Language Models"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/dpo_vlm"
-local_vault_path: "ai/models/preference-optimization-for-vision-language-models-d187fe.md"
+local_vault_path: "ai\models\preference-optimization-for-vision-language-models-d187fe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/dpo_vlm
 
 ## Local Vault File
 
-Path: [preference-optimization-for-vision-language-models-d187fe.md](file:///../../ai/models/preference-optimization-for-vision-language-models-d187fe.md)
+Path: [preference-optimization-for-vision-language-models-d187fe.md](file:///../../ai\models\preference-optimization-for-vision-language-models-d187fe.md)

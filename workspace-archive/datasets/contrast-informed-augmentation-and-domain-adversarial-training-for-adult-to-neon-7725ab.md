@@ -3,7 +3,7 @@ title: "Contrast-Informed Augmentation and Domain-Adversarial Training for Adult
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13562"
-local_vault_path: "ai/research/contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md"
+local_vault_path: "ai\research\contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13562
 
 ## Local Vault File
 
-Path: [contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md](file:///../../ai/research/contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md)
+Path: [contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md](file:///../../ai\research\contrast-informed-augmentation-and-domain-adversarial-training-for-adult-to-neon-7725ab.md)

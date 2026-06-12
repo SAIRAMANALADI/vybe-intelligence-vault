@@ -3,7 +3,7 @@ title: "wgcyeo/UniversalRAG"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/wgcyeo/UniversalRAG"
-local_vault_path: "ai/rag/wgcyeo-universalrag-37f2de.md"
+local_vault_path: "ai\rag\wgcyeo-universalrag-37f2de.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/wgcyeo/UniversalRAG
 
 ## Local Vault File
 
-Path: [wgcyeo-universalrag-37f2de.md](file:///../../ai/rag/wgcyeo-universalrag-37f2de.md)
+Path: [wgcyeo-universalrag-37f2de.md](file:///../../ai\rag\wgcyeo-universalrag-37f2de.md)

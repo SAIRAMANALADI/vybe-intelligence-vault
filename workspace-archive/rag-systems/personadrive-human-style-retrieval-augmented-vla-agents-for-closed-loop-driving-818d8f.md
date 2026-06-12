@@ -3,7 +3,7 @@ title: "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12616"
-local_vault_path: "ai/rag/personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md"
+local_vault_path: "ai\rag\personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12616
 
 ## Local Vault File
 
-Path: [personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md](file:///../../ai/rag/personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md)
+Path: [personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md](file:///../../ai\rag\personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md)

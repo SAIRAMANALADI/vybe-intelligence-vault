@@ -3,7 +3,7 @@ title: "BASENet: Band-Adapted Speech Enhancement Network with Cross-Band Attenti
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12662"
-local_vault_path: "ai/research/basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md"
+local_vault_path: "ai\research\basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12662
 
 ## Local Vault File
 
-Path: [basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md](file:///../../ai/research/basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md)
+Path: [basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md](file:///../../ai\research\basenet-band-adapted-speech-enhancement-network-with-cross-band-attention-b949e2.md)

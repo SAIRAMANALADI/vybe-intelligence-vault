@@ -3,7 +3,7 @@ title: "Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework f
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2603.02274"
-local_vault_path: "ai/agents/contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md"
+local_vault_path: "ai\agents\contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2603.02274
 
 ## Local Vault File
 
-Path: [contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md](file:///../../ai/agents/contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md)
+Path: [contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md](file:///../../ai\agents\contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md)

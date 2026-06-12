@@ -3,7 +3,7 @@ title: "AsFT: Anchoring Safety During LLM Fine-Tuning Within Narrow Safety Basin
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2506.08473"
-local_vault_path: "ai/research/asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md"
+local_vault_path: "ai\research\asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2506.08473
 
 ## Local Vault File
 
-Path: [asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md](file:///../../ai/research/asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md)
+Path: [asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md](file:///../../ai\research\asft-anchoring-safety-during-llm-fine-tuning-within-narrow-safety-basin-ffd69f.md)

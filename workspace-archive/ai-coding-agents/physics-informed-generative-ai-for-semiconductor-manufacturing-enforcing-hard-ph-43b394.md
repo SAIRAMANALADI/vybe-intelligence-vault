@@ -3,7 +3,7 @@ title: "Physics-informed generative AI for semiconductor manufacturing: Enforcin
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11247"
-local_vault_path: "ai/agents/physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md"
+local_vault_path: "ai\agents\physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11247
 
 ## Local Vault File
 
-Path: [physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md](file:///../../ai/agents/physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md)
+Path: [physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md](file:///../../ai\agents\physics-informed-generative-ai-for-semiconductor-manufacturing-enforcing-hard-ph-43b394.md)

@@ -3,7 +3,7 @@ title: "Persistent Homology as a Theory of Emergent Structure"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.03065"
-local_vault_path: "ai/research/persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md"
+local_vault_path: "ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2507.03065
 
 ## Local Vault File
 
-Path: [persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md](file:///../../ai/research/persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md)
+Path: [persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md](file:///../../ai\research\persistent-homology-as-a-theory-of-emergent-structure-22b0e4.md)

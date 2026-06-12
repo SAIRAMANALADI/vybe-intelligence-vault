@@ -3,7 +3,7 @@ title: "LoRA training scripts of the world, unite!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sdxl_lora_advanced_script"
-local_vault_path: "ai/models/lora-training-scripts-of-the-world-unite-f9f9cb.md"
+local_vault_path: "ai\models\lora-training-scripts-of-the-world-unite-f9f9cb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/sdxl_lora_advanced_script
 
 ## Local Vault File
 
-Path: [lora-training-scripts-of-the-world-unite-f9f9cb.md](file:///../../ai/models/lora-training-scripts-of-the-world-unite-f9f9cb.md)
+Path: [lora-training-scripts-of-the-world-unite-f9f9cb.md](file:///../../ai\models\lora-training-scripts-of-the-world-unite-f9f9cb.md)

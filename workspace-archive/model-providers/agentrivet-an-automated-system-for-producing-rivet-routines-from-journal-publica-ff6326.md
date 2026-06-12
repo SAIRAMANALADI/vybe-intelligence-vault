@@ -3,7 +3,7 @@ title: "AgentRivet: an automated system for producing Rivet routines from journa
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13535"
-local_vault_path: "ai/rag/agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md"
+local_vault_path: "ai\rag\agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://arxiv.org/abs/2606.13535
 
 ## Local Vault File
 
-Path: [agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md](file:///../../ai/rag/agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md)
+Path: [agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md](file:///../../ai\rag\agentrivet-an-automated-system-for-producing-rivet-routines-from-journal-publica-ff6326.md)

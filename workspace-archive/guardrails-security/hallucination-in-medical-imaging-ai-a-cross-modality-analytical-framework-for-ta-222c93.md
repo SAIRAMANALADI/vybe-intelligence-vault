@@ -3,7 +3,7 @@ title: "Hallucination in Medical Imaging AI: A Cross-Modality Analytical Framewo
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13211"
-local_vault_path: "ai/research/hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md"
+local_vault_path: "ai\research\hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13211
 
 ## Local Vault File
 
-Path: [hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md](file:///../../ai/research/hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md)
+Path: [hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md](file:///../../ai\research\hallucination-in-medical-imaging-ai-a-cross-modality-analytical-framework-for-ta-222c93.md)

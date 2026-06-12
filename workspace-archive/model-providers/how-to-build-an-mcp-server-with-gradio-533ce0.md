@@ -3,7 +3,7 @@ title: "How to Build an MCP Server with Gradio"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-mcp"
-local_vault_path: "ai/models/how-to-build-an-mcp-server-with-gradio-533ce0.md"
+local_vault_path: "ai\models\how-to-build-an-mcp-server-with-gradio-533ce0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp
 
 ## Local Vault File
 
-Path: [how-to-build-an-mcp-server-with-gradio-533ce0.md](file:///../../ai/models/how-to-build-an-mcp-server-with-gradio-533ce0.md)
+Path: [how-to-build-an-mcp-server-with-gradio-533ce0.md](file:///../../ai\models\how-to-build-an-mcp-server-with-gradio-533ce0.md)

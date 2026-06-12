@@ -3,7 +3,7 @@ title: "Cross-Model Disagreement as a Label-Free Correctness Signal"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.25450"
-local_vault_path: "ai/research/cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md"
+local_vault_path: "ai\research\cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.25450
 
 ## Local Vault File
 
-Path: [cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md](file:///../../ai/research/cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md)
+Path: [cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md](file:///../../ai\research\cross-model-disagreement-as-a-label-free-correctness-signal-a7e104.md)

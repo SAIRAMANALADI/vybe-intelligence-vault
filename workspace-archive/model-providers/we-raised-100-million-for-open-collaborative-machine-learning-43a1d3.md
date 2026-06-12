@@ -3,7 +3,7 @@ title: "We Raised $100 Million for Open & Collaborative Machine Learning 🚀"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/series-c"
-local_vault_path: "ai/models/we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md"
+local_vault_path: "ai\models\we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai/models/we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md)
+Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai\models\we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md)

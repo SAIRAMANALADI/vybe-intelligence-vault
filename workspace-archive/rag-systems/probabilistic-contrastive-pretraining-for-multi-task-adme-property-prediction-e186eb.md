@@ -3,7 +3,7 @@ title: "Probabilistic Contrastive Pretraining for Multi-task ADME Property Predi
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11508"
-local_vault_path: "ai/rag/probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md"
+local_vault_path: "ai\rag\probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11508
 
 ## Local Vault File
 
-Path: [probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md](file:///../../ai/rag/probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md)
+Path: [probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md](file:///../../ai\rag\probabilistic-contrastive-pretraining-for-multi-task-adme-property-prediction-e186eb.md)

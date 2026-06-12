@@ -3,7 +3,7 @@ title: "Recursive Binding on a Budget: Subspace Carving in Order-p Tensor Memori
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11391"
-local_vault_path: "ai/research/recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md"
+local_vault_path: "ai\research\recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11391
 
 ## Local Vault File
 
-Path: [recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md](file:///../../ai/research/recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md)
+Path: [recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md](file:///../../ai\research\recursive-binding-on-a-budget-subspace-carving-in-order-p-tensor-memories-9b73d5.md)

@@ -3,7 +3,7 @@ title: "MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12918"
-local_vault_path: "ai/agents/mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md"
+local_vault_path: "ai\agents\mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12918
 
 ## Local Vault File
 
-Path: [mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md](file:///../../ai/agents/mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md)
+Path: [mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md](file:///../../ai\agents\mastrike-shapley-guided-collusive-red-teaming-on-multi-agent-systems-dba3ab.md)

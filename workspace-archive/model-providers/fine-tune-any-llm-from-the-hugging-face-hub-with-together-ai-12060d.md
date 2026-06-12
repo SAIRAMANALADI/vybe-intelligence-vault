@@ -3,7 +3,7 @@ title: "Fine-tune Any LLM from the Hugging Face Hub with Together AI"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/togethercomputer/together-ft"
-local_vault_path: "ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md"
+local_vault_path: "ai\models\fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/togethercomputer/together-ft
 
 ## Local Vault File
 
-Path: [fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md](file:///../../ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md)
+Path: [fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md](file:///../../ai\models\fine-tune-any-llm-from-the-hugging-face-hub-with-together-ai-12060d.md)

@@ -3,7 +3,7 @@ title: "Diffusion Transformer World-Action Model for AV Scene Prediction"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12987"
-local_vault_path: "ai/agents/diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md"
+local_vault_path: "ai\agents\diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12987
 
 ## Local Vault File
 
-Path: [diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md](file:///../../ai/agents/diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md)
+Path: [diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md](file:///../../ai\agents\diffusion-transformer-world-action-model-for-av-scene-prediction-aa4799.md)

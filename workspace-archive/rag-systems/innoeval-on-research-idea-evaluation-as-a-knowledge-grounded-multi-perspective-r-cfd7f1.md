@@ -3,7 +3,7 @@ title: "InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Per
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.14367"
-local_vault_path: "ai/research/innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md"
+local_vault_path: "ai\research\innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.14367
 
 ## Local Vault File
 
-Path: [innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md](file:///../../ai/research/innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md)
+Path: [innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md](file:///../../ai\research\innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md)

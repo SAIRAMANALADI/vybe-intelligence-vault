@@ -3,7 +3,7 @@ title: "Will AI Agents Free Us From Meaningless Work? A Human-Centered Analysis"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12430"
-local_vault_path: "ai/agents/will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md"
+local_vault_path: "ai\agents\will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12430
 
 ## Local Vault File
 
-Path: [will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md](file:///../../ai/agents/will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md)
+Path: [will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md](file:///../../ai\agents\will-ai-agents-free-us-from-meaningless-work-a-human-centered-analysis-5bfc12.md)

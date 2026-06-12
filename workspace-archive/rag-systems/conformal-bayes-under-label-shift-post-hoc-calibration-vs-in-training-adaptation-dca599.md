@@ -3,7 +3,7 @@ title: "Conformal Bayes under Label Shift: Post-Hoc Calibration vs. In-Training 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11865"
-local_vault_path: "ai/rag/conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md"
+local_vault_path: "ai\rag\conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11865
 
 ## Local Vault File
 
-Path: [conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md](file:///../../ai/rag/conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md)
+Path: [conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md](file:///../../ai\rag\conformal-bayes-under-label-shift-post-hoc-calibration-vs-in-training-adaptation-dca599.md)

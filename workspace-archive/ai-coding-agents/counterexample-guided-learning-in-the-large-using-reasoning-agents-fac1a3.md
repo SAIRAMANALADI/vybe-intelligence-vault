@@ -3,7 +3,7 @@ title: "Counterexample Guided Learning in the Large using Reasoning Agents"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11521"
-local_vault_path: "ai/agents/counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md"
+local_vault_path: "ai\agents\counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11521
 
 ## Local Vault File
 
-Path: [counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md](file:///../../ai/agents/counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md)
+Path: [counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md](file:///../../ai\agents\counterexample-guided-learning-in-the-large-using-reasoning-agents-fac1a3.md)

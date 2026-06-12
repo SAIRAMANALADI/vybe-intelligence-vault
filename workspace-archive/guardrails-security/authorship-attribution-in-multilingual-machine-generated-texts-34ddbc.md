@@ -3,7 +3,7 @@ title: "Authorship Attribution in Multilingual Machine-Generated Texts"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.01656"
-local_vault_path: "ai/research/authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md"
+local_vault_path: "ai\research\authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2508.01656
 
 ## Local Vault File
 
-Path: [authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md](file:///../../ai/research/authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md)
+Path: [authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md](file:///../../ai\research\authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md)

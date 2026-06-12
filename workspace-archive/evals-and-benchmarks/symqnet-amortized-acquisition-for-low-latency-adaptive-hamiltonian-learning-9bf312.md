@@ -3,7 +3,7 @@ title: "SymQNet: Amortized Acquisition for Low-Latency Adaptive Hamiltonian Lear
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12808"
-local_vault_path: "ai/research/symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md"
+local_vault_path: "ai\research\symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12808
 
 ## Local Vault File
 
-Path: [symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md](file:///../../ai/research/symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md)
+Path: [symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md](file:///../../ai\research\symqnet-amortized-acquisition-for-low-latency-adaptive-hamiltonian-learning-9bf312.md)

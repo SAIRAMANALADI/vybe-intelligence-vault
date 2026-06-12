@@ -3,7 +3,7 @@ title: "HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling 
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.15133"
-local_vault_path: "ai/research/hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md"
+local_vault_path: "ai\research\hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2512.15133
 
 ## Local Vault File
 
-Path: [hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md](file:///../../ai/research/hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md)
+Path: [hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md](file:///../../ai\research\hd-prot-a-protein-language-model-for-joint-sequence-structure-modeling-with-cont-6aa141.md)

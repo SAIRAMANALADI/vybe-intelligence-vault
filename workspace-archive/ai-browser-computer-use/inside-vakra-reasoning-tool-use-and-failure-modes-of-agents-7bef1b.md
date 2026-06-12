@@ -3,7 +3,7 @@ title: "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis"
-local_vault_path: "ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md"
+local_vault_path: "ai\agents\inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/vakra-benchmark-an
 
 ## Local Vault File
 
-Path: [inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md](file:///../../ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md)
+Path: [inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md](file:///../../ai\agents\inside-vakra-reasoning-tool-use-and-failure-modes-of-agents-7bef1b.md)

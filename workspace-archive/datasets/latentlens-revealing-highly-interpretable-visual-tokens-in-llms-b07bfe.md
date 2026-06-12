@@ -3,7 +3,7 @@ title: "LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.00462"
-local_vault_path: "ai/research/latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md"
+local_vault_path: "ai\research\latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.00462
 
 ## Local Vault File
 
-Path: [latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md](file:///../../ai/research/latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md)
+Path: [latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md](file:///../../ai\research\latentlens-revealing-highly-interpretable-visual-tokens-in-llms-b07bfe.md)

@@ -3,7 +3,7 @@ title: "A Mathematical Theory of Value: a synthesis on goal-directed agency unde
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12502"
-local_vault_path: "ai/agents/a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md"
+local_vault_path: "ai\agents\a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12502
 
 ## Local Vault File
 
-Path: [a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md](file:///../../ai/agents/a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md)
+Path: [a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md](file:///../../ai\agents\a-mathematical-theory-of-value-a-synthesis-on-goal-directed-agency-under-resourc-75663d.md)

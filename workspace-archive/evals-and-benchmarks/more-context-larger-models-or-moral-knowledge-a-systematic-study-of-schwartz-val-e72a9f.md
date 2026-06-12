@@ -3,7 +3,7 @@ title: "More Context, Larger Models, or Moral Knowledge? A Systematic Study of S
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.22641"
-local_vault_path: "ai/rag/more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md"
+local_vault_path: "ai\rag\more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.22641
 
 ## Local Vault File
 
-Path: [more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md](file:///../../ai/rag/more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md)
+Path: [more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md](file:///../../ai\rag\more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md)

@@ -3,7 +3,7 @@ title: "On Pitfalls of $\textit{RemOve-And-Retrain}$: Data Processing Inequality
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2304.13836"
-local_vault_path: "ai/research/on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md"
+local_vault_path: "ai\research\on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2304.13836
 
 ## Local Vault File
 
-Path: [on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md](file:///../../ai/research/on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md)
+Path: [on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md](file:///../../ai\research\on-pitfalls-of-textit-remove-and-retrain-data-processing-inequality-perspective-9050fa.md)

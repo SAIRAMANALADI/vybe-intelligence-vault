@@ -3,7 +3,7 @@ title: "A jacket that harvests drinking water from the air"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/"
-local_vault_path: "ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md"
+local_vault_path: "ai\community\a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinki
 
 ## Local Vault File
 
-Path: [a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md](file:///../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md)
+Path: [a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md](file:///../../ai\community\a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md)

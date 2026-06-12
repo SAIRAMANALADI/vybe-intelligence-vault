@@ -3,7 +3,7 @@ title: "Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/faster-transformers"
-local_vault_path: "ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md"
+local_vault_path: "ai\models\tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/faster-transformers
 
 ## Local Vault File
 
-Path: [tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md](file:///../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md)
+Path: [tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md](file:///../../ai\models\tricks-from-openai-gpt-oss-you-can-use-with-transformers-aef657.md)

@@ -3,7 +3,7 @@ title: "udecode/plate"
 archive_category: "mcp-registry"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/udecode/plate"
-local_vault_path: "web-development/shadcn-ui/udecode-plate-e7fbe2.md"
+local_vault_path: "web-development\shadcn-ui\udecode-plate-e7fbe2.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/udecode/plate
 
 ## Local Vault File
 
-Path: [udecode-plate-e7fbe2.md](file:///../../web-development/shadcn-ui/udecode-plate-e7fbe2.md)
+Path: [udecode-plate-e7fbe2.md](file:///../../web-development\shadcn-ui\udecode-plate-e7fbe2.md)

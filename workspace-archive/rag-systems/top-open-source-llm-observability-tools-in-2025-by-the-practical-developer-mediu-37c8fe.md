@@ -3,7 +3,7 @@ title: "Top Open-Source LLM Observability Tools in 2025 | by The Practical Devel
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932"
-local_vault_path: "ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md"
+local_vault_path: "ai\rag\top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://medium.com/@thepracticaldeveloper/top-open-source-l
 
 ## Local Vault File
 
-Path: [top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md](file:///../../ai/rag/top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md)
+Path: [top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md](file:///../../ai\rag\top-open-source-llm-observability-tools-in-2025-by-the-practical-developer-mediu-37c8fe.md)

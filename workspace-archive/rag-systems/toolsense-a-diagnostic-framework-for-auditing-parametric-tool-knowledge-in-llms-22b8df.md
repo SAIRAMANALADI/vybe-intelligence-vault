@@ -3,7 +3,7 @@ title: "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12451"
-local_vault_path: "ai/agents/toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md"
+local_vault_path: "ai\agents\toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12451
 
 ## Local Vault File
 
-Path: [toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md](file:///../../ai/agents/toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md)
+Path: [toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md](file:///../../ai\agents\toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md)

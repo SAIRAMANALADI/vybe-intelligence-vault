@@ -3,7 +3,7 @@ title: "From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/from-chunks-to-blocks"
-local_vault_path: "ai/models/from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md"
+local_vault_path: "ai\models\from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/from-chunks-to-blocks
 
 ## Local Vault File
 
-Path: [from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md](file:///../../ai/models/from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md)
+Path: [from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md](file:///../../ai\models\from-chunks-to-blocks-accelerating-uploads-and-downloads-on-the-hub-7023c7.md)

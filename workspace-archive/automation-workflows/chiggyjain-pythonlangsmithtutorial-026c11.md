@@ -3,7 +3,7 @@ title: "ChiggyJain/PythonLangSmithTutorial"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://github.com/ChiggyJain/PythonLangSmithTutorial"
-local_vault_path: "ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md"
+local_vault_path: "ai\rag\chiggyjain-pythonlangsmithtutorial-026c11.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/ChiggyJain/PythonLangSmithTutorial
 
 ## Local Vault File
 
-Path: [chiggyjain-pythonlangsmithtutorial-026c11.md](file:///../../ai/rag/chiggyjain-pythonlangsmithtutorial-026c11.md)
+Path: [chiggyjain-pythonlangsmithtutorial-026c11.md](file:///../../ai\rag\chiggyjain-pythonlangsmithtutorial-026c11.md)

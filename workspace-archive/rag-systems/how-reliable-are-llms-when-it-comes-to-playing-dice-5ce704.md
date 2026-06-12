@@ -3,7 +3,7 @@ title: "How reliable are LLMs when it comes to playing dice?"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07515"
-local_vault_path: "ai/rag/how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md"
+local_vault_path: "ai\rag\how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.07515
 
 ## Local Vault File
 
-Path: [how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md](file:///../../ai/rag/how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md)
+Path: [how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md](file:///../../ai\rag\how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md)

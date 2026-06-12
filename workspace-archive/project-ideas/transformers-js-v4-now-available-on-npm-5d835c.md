@@ -3,7 +3,7 @@ title: "Transformers.js v4: Now Available on NPM!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformersjs-v4"
-local_vault_path: "ai/models/transformers-js-v4-now-available-on-npm-5d835c.md"
+local_vault_path: "ai\models\transformers-js-v4-now-available-on-npm-5d835c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v4
 
 ## Local Vault File
 
-Path: [transformers-js-v4-now-available-on-npm-5d835c.md](file:///../../ai/models/transformers-js-v4-now-available-on-npm-5d835c.md)
+Path: [transformers-js-v4-now-available-on-npm-5d835c.md](file:///../../ai\models\transformers-js-v4-now-available-on-npm-5d835c.md)

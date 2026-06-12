@@ -3,7 +3,7 @@ title: "pmndrs/use-cannon"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/use-cannon"
-local_vault_path: "web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md"
+local_vault_path: "web-development\react-three-fiber\pmndrs-use-cannon-6ba473.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/use-cannon
 
 ## Local Vault File
 
-Path: [pmndrs-use-cannon-6ba473.md](file:///../../web-development/react-three-fiber/pmndrs-use-cannon-6ba473.md)
+Path: [pmndrs-use-cannon-6ba473.md](file:///../../web-development\react-three-fiber\pmndrs-use-cannon-6ba473.md)

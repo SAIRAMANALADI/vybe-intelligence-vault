@@ -3,7 +3,7 @@ title: "spite/Wagner"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/spite/Wagner"
-local_vault_path: "web-development/threejs/spite-wagner-5be7a5.md"
+local_vault_path: "web-development\threejs\spite-wagner-5be7a5.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/spite/Wagner
 
 ## Local Vault File
 
-Path: [spite-wagner-5be7a5.md](file:///../../web-development/threejs/spite-wagner-5be7a5.md)
+Path: [spite-wagner-5be7a5.md](file:///../../web-development\threejs\spite-wagner-5be7a5.md)

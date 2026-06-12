@@ -3,7 +3,7 @@ title: "When Smaller Wins: Dual-Stage Distillation and Pareto-Guided Compression
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.06227"
-local_vault_path: "ai/research/when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md"
+local_vault_path: "ai\research\when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2601.06227
 
 ## Local Vault File
 
-Path: [when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md](file:///../../ai/research/when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md)
+Path: [when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md](file:///../../ai\research\when-smaller-wins-dual-stage-distillation-and-pareto-guided-compression-of-liqui-c65904.md)

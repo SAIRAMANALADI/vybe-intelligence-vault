@@ -3,7 +3,7 @@ title: "kvpratama/gaia-agent"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://github.com/kvpratama/gaia-agent"
-local_vault_path: "ai/agents/kvpratama-gaia-agent-3687cd.md"
+local_vault_path: "ai\agents\kvpratama-gaia-agent-3687cd.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/kvpratama/gaia-agent
 
 ## Local Vault File
 
-Path: [kvpratama-gaia-agent-3687cd.md](file:///../../ai/agents/kvpratama-gaia-agent-3687cd.md)
+Path: [kvpratama-gaia-agent-3687cd.md](file:///../../ai\agents\kvpratama-gaia-agent-3687cd.md)

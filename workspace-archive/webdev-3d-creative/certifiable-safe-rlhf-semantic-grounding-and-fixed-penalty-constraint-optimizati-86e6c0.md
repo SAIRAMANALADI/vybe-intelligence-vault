@@ -3,7 +3,7 @@ title: "Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint O
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://arxiv.org/abs/2510.03520"
-local_vault_path: "web-development/threejs/certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md"
+local_vault_path: "web-development\threejs\certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2510.03520
 
 ## Local Vault File
 
-Path: [certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md](file:///../../web-development/threejs/certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md)
+Path: [certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md](file:///../../web-development\threejs\certifiable-safe-rlhf-semantic-grounding-and-fixed-penalty-constraint-optimizati-86e6c0.md)

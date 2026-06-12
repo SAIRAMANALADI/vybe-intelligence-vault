@@ -3,7 +3,7 @@ title: "fzn0x/watchtower"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://github.com/fzn0x/watchtower"
-local_vault_path: "ai/rag/fzn0x-watchtower-8ee128.md"
+local_vault_path: "ai\rag\fzn0x-watchtower-8ee128.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://github.com/fzn0x/watchtower
 
 ## Local Vault File
 
-Path: [fzn0x-watchtower-8ee128.md](file:///../../ai/rag/fzn0x-watchtower-8ee128.md)
+Path: [fzn0x-watchtower-8ee128.md](file:///../../ai\rag\fzn0x-watchtower-8ee128.md)

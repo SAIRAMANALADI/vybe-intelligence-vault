@@ -3,7 +3,7 @@ title: "Mirror Descent Beyond Euclidean Stability: An Exponential Separation in 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11431"
-local_vault_path: "ai/research/mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md"
+local_vault_path: "ai\research\mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11431
 
 ## Local Vault File
 
-Path: [mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md](file:///../../ai/research/mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md)
+Path: [mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md](file:///../../ai\research\mirror-descent-beyond-euclidean-stability-an-exponential-separation-in-initializ-cc2ccd.md)

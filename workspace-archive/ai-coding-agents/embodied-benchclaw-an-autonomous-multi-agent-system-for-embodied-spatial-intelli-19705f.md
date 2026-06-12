@@ -3,7 +3,7 @@ title: "Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatia
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11909"
-local_vault_path: "ai/agents/embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md"
+local_vault_path: "ai\agents\embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11909
 
 ## Local Vault File
 
-Path: [embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md](file:///../../ai/agents/embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md)
+Path: [embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md](file:///../../ai\agents\embodied-benchclaw-an-autonomous-multi-agent-system-for-embodied-spatial-intelli-19705f.md)

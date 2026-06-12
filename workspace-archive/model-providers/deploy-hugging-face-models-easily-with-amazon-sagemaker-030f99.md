@@ -3,7 +3,7 @@ title: "Deploy Hugging Face models easily with Amazon SageMaker"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker"
-local_vault_path: "ai/models/deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md"
+local_vault_path: "ai\models\deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/deploy-hugging-face-models-easi
 
 ## Local Vault File
 
-Path: [deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md](file:///../../ai/models/deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md)
+Path: [deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md](file:///../../ai\models\deploy-hugging-face-models-easily-with-amazon-sagemaker-030f99.md)

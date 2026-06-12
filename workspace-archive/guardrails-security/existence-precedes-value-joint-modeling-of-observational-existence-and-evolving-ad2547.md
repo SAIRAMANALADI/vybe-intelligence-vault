@@ -3,7 +3,7 @@ title: "Existence Precedes Value: Joint Modeling of Observational Existence and 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13571"
-local_vault_path: "ai/research/existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md"
+local_vault_path: "ai\research\existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13571
 
 ## Local Vault File
 
-Path: [existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md](file:///../../ai/research/existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md)
+Path: [existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md](file:///../../ai\research\existence-precedes-value-joint-modeling-of-observational-existence-and-evolving-ad2547.md)

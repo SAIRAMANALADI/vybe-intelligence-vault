@@ -3,7 +3,7 @@ title: "shadcn-ui/taxonomy"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/shadcn-ui/taxonomy"
-local_vault_path: "web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md"
+local_vault_path: "web-development\shadcn-ui\shadcn-ui-taxonomy-84dee1.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/shadcn-ui/taxonomy
 
 ## Local Vault File
 
-Path: [shadcn-ui-taxonomy-84dee1.md](file:///../../web-development/shadcn-ui/shadcn-ui-taxonomy-84dee1.md)
+Path: [shadcn-ui-taxonomy-84dee1.md](file:///../../web-development\shadcn-ui\shadcn-ui-taxonomy-84dee1.md)

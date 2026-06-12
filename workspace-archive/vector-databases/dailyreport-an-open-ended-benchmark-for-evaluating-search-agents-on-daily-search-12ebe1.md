@@ -3,7 +3,7 @@ title: "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Dai
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12871"
-local_vault_path: "ai/rag/dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md"
+local_vault_path: "ai\rag\dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12871
 
 ## Local Vault File
 
-Path: [dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md](file:///../../ai/rag/dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md)
+Path: [dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md](file:///../../ai\rag\dailyreport-an-open-ended-benchmark-for-evaluating-search-agents-on-daily-search-12ebe1.md)

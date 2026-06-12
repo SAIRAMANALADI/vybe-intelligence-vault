@@ -3,7 +3,7 @@ title: "tavily-ai/tavily-mcp"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/tavily-ai/tavily-mcp"
-local_vault_path: "ai/resources/tavily-ai-tavily-mcp-b99839.md"
+local_vault_path: "ai\resources\tavily-ai-tavily-mcp-b99839.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/tavily-ai/tavily-mcp
 
 ## Local Vault File
 
-Path: [tavily-ai-tavily-mcp-b99839.md](file:///../../ai/resources/tavily-ai-tavily-mcp-b99839.md)
+Path: [tavily-ai-tavily-mcp-b99839.md](file:///../../ai\resources\tavily-ai-tavily-mcp-b99839.md)

@@ -3,7 +3,7 @@ title: "Are LLMs Bad at Moral Reasoning?"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11635"
-local_vault_path: "ai/research/are-llms-bad-at-moral-reasoning-18a763.md"
+local_vault_path: "ai\research\are-llms-bad-at-moral-reasoning-18a763.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11635
 
 ## Local Vault File
 
-Path: [are-llms-bad-at-moral-reasoning-18a763.md](file:///../../ai/research/are-llms-bad-at-moral-reasoning-18a763.md)
+Path: [are-llms-bad-at-moral-reasoning-18a763.md](file:///../../ai\research\are-llms-bad-at-moral-reasoning-18a763.md)

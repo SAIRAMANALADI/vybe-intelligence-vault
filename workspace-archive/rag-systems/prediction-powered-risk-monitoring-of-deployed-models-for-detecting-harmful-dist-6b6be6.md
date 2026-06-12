@@ -3,7 +3,7 @@ title: "Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harm
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.02229"
-local_vault_path: "ai/research/prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md"
+local_vault_path: "ai\research\prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.02229
 
 ## Local Vault File
 
-Path: [prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md](file:///../../ai/research/prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md)
+Path: [prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md](file:///../../ai\research\prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md)

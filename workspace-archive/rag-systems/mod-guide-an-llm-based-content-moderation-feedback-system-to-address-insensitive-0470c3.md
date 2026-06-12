@@ -3,7 +3,7 @@ title: "Mod-Guide: An LLM-based Content Moderation Feedback System to Address In
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13397"
-local_vault_path: "ai/rag/mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md"
+local_vault_path: "ai\rag\mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13397
 
 ## Local Vault File
 
-Path: [mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md](file:///../../ai/rag/mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md)
+Path: [mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md](file:///../../ai\rag\mod-guide-an-llm-based-content-moderation-feedback-system-to-address-insensitive-0470c3.md)

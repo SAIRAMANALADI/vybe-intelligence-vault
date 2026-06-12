@@ -3,7 +3,7 @@ title: "Attention Expansion: Enhancing Keyphrase Extraction from Long Documents 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10716"
-local_vault_path: "ai/rag/attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md"
+local_vault_path: "ai\rag\attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.10716
 
 ## Local Vault File
 
-Path: [attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md](file:///../../ai/rag/attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md)
+Path: [attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md](file:///../../ai\rag\attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md)

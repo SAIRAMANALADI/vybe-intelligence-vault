@@ -3,7 +3,7 @@ title: "G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogu
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13115"
-local_vault_path: "ai/rag/g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md"
+local_vault_path: "ai\rag\g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13115
 
 ## Local Vault File
 
-Path: [g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md](file:///../../ai/rag/g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md)
+Path: [g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md](file:///../../ai\rag\g-long-graph-enhanced-memory-management-for-efficient-long-term-dialogue-agents-77a4da.md)

@@ -3,7 +3,7 @@ title: "Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/train-optimize-sd-intel"
-local_vault_path: "ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md"
+local_vault_path: "ai\models\optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/train-optimize-sd-intel
 
 ## Local Vault File
 
-Path: [optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md](file:///../../ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md)
+Path: [optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md](file:///../../ai\models\optimizing-stable-diffusion-for-intel-cpus-with-nncf-and-optimum-d8f2af.md)

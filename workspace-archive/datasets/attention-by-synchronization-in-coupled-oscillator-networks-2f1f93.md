@@ -3,7 +3,7 @@ title: "Attention by Synchronization in Coupled Oscillator Networks"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12059"
-local_vault_path: "ai/research/attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md"
+local_vault_path: "ai\research\attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12059
 
 ## Local Vault File
 
-Path: [attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md](file:///../../ai/research/attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md)
+Path: [attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md](file:///../../ai\research\attention-by-synchronization-in-coupled-oscillator-networks-2f1f93.md)

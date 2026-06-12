@@ -3,7 +3,7 @@ title: "Summer at Hugging Face"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/summer-at-huggingface"
-local_vault_path: "ai/models/summer-at-hugging-face-a768c9.md"
+local_vault_path: "ai\models\summer-at-hugging-face-a768c9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/summer-at-huggingface
 
 ## Local Vault File
 
-Path: [summer-at-hugging-face-a768c9.md](file:///../../ai/models/summer-at-hugging-face-a768c9.md)
+Path: [summer-at-hugging-face-a768c9.md](file:///../../ai\models\summer-at-hugging-face-a768c9.md)

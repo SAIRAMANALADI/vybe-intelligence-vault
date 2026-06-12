@@ -3,7 +3,7 @@ title: "Improving Hugging Face Model Access for Kaggle Users"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/kaggle-integration"
-local_vault_path: "ai/models/improving-hugging-face-model-access-for-kaggle-users-6bab7f.md"
+local_vault_path: "ai\models\improving-hugging-face-model-access-for-kaggle-users-6bab7f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/kaggle-integration
 
 ## Local Vault File
 
-Path: [improving-hugging-face-model-access-for-kaggle-users-6bab7f.md](file:///../../ai/models/improving-hugging-face-model-access-for-kaggle-users-6bab7f.md)
+Path: [improving-hugging-face-model-access-for-kaggle-users-6bab7f.md](file:///../../ai\models\improving-hugging-face-model-access-for-kaggle-users-6bab7f.md)

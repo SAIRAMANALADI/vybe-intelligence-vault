@@ -3,7 +3,7 @@ title: "Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchma
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13192"
-local_vault_path: "ai/agents/reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md"
+local_vault_path: "ai\agents\reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13192
 
 ## Local Vault File
 
-Path: [reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md](file:///../../ai/agents/reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md)
+Path: [reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md](file:///../../ai\agents\reasoning-for-mobile-user-experience-with-multimodal-llms-task-benchmark-and-app-14e08a.md)

@@ -3,7 +3,7 @@ title: "\"Is This Not Enough?\": Asymmetries in Institutional Accountability and
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13071"
-local_vault_path: "ai/research/is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md"
+local_vault_path: "ai\research\is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13071
 
 ## Local Vault File
 
-Path: [is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md](file:///../../ai/research/is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md)
+Path: [is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md](file:///../../ai\research\is-this-not-enough-asymmetries-in-institutional-accountability-and-collective-se-55e447.md)

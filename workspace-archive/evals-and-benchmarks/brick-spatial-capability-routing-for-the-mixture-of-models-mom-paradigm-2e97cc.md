@@ -3,7 +3,7 @@ title: "Brick: Spatial Capability Routing for the Mixture-of-Models (MoM) Paradi
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13241"
-local_vault_path: "ai/research/brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md"
+local_vault_path: "ai\research\brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13241
 
 ## Local Vault File
 
-Path: [brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md](file:///../../ai/research/brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md)
+Path: [brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md](file:///../../ai\research\brick-spatial-capability-routing-for-the-mixture-of-models-mom-paradigm-2e97cc.md)

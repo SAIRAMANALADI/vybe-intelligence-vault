@@ -3,7 +3,7 @@ title: "LoRA-Muon: Spectral Steepest Descent on the Low-Rank Manifold"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12921"
-local_vault_path: "ai/rag/lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md"
+local_vault_path: "ai\rag\lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12921
 
 ## Local Vault File
 
-Path: [lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md](file:///../../ai/rag/lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md)
+Path: [lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md](file:///../../ai\rag\lora-muon-spectral-steepest-descent-on-the-low-rank-manifold-8f9cf0.md)

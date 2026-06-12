@@ -3,7 +3,7 @@ title: "Benchmarking AI Agents for Addressing Scientific Challenges Across Scale
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12736"
-local_vault_path: "ai/agents/benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md"
+local_vault_path: "ai\agents\benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12736
 
 ## Local Vault File
 
-Path: [benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md](file:///../../ai/agents/benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md)
+Path: [benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md](file:///../../ai\agents\benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md)

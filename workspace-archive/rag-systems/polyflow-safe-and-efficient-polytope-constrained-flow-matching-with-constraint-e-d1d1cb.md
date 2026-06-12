@@ -3,7 +3,7 @@ title: "PolyFlow: Safe and Efficient Polytope-Constrained Flow Matching with Con
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13400"
-local_vault_path: "ai/research/polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md"
+local_vault_path: "ai\research\polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13400
 
 ## Local Vault File
 
-Path: [polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md](file:///../../ai/research/polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md)
+Path: [polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md](file:///../../ai\research\polyflow-safe-and-efficient-polytope-constrained-flow-matching-with-constraint-e-d1d1cb.md)

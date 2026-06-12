@@ -3,7 +3,7 @@ title: "Applied AI"
 archive_category: "model-providers"
 source_category: "ai/companies/openai"
 source_url: "https://openai.com/news/applied-ai"
-local_vault_path: "ai/companies/openai/applied-ai-6f9918.md"
+local_vault_path: "ai\companies\openai\applied-ai-6f9918.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://openai.com/news/applied-ai
 
 ## Local Vault File
 
-Path: [applied-ai-6f9918.md](file:///../../ai/companies/openai/applied-ai-6f9918.md)
+Path: [applied-ai-6f9918.md](file:///../../ai\companies\openai\applied-ai-6f9918.md)

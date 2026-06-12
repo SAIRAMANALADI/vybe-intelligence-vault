@@ -3,7 +3,7 @@ title: "Evaluation Sovereignty in Metadata-Driven Classification: A Multi-Track 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13436"
-local_vault_path: "ai/research/evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md"
+local_vault_path: "ai\research\evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13436
 
 ## Local Vault File
 
-Path: [evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md](file:///../../ai/research/evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md)
+Path: [evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md](file:///../../ai\research\evaluation-sovereignty-in-metadata-driven-classification-a-multi-track-framework-dc81e1.md)

@@ -3,7 +3,7 @@ title: "HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Fram
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.24787"
-local_vault_path: "ai/rag/higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md"
+local_vault_path: "ai\rag\higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2512.24787
 
 ## Local Vault File
 
-Path: [higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md](file:///../../ai/rag/higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md)
+Path: [higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md](file:///../../ai\rag\higr-industrial-scale-hierarchical-generative-slate-recommendation-framework-in-8edbf8.md)

@@ -3,7 +3,7 @@ title: "Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Ani
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14"
-local_vault_path: "ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md"
+local_vault_path: "ai\rag\building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://medium.com/@anish.chitturu/building-your-own-rag-sy
 
 ## Local Vault File
 
-Path: [building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md](file:///../../ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md)
+Path: [building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md](file:///../../ai\rag\building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md)

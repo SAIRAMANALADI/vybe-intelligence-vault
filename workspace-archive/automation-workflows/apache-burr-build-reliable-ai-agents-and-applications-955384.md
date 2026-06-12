@@ -3,7 +3,7 @@ title: "Apache Burr: Build reliable AI agents and applications"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://burr.apache.org/"
-local_vault_path: "ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md"
+local_vault_path: "ai\community\apache-burr-build-reliable-ai-agents-and-applications-955384.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://burr.apache.org/
 
 ## Local Vault File
 
-Path: [apache-burr-build-reliable-ai-agents-and-applications-955384.md](file:///../../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md)
+Path: [apache-burr-build-reliable-ai-agents-and-applications-955384.md](file:///../../ai\community\apache-burr-build-reliable-ai-agents-and-applications-955384.md)

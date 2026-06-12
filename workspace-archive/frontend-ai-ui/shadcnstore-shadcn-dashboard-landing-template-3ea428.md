@@ -3,7 +3,7 @@ title: "shadcnstore/shadcn-dashboard-landing-template"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/shadcnstore/shadcn-dashboard-landing-template"
-local_vault_path: "web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md"
+local_vault_path: "web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md"
 quality_score: 70
 archive_score: 91
 archive_tier: "essential"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/shadcnstore/shadcn-dashboard-landing-tem
 
 ## Local Vault File
 
-Path: [shadcnstore-shadcn-dashboard-landing-template-3ea428.md](file:///../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template-3ea428.md)
+Path: [shadcnstore-shadcn-dashboard-landing-template-3ea428.md](file:///../../web-development\nextjs\shadcnstore-shadcn-dashboard-landing-template-3ea428.md)

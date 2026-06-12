@@ -3,7 +3,7 @@ title: "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13550"
-local_vault_path: "ai/rag/uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md"
+local_vault_path: "ai\rag\uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13550
 
 ## Local Vault File
 
-Path: [uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md](file:///../../ai/rag/uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md)
+Path: [uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md](file:///../../ai\rag\uncertainty-aware-hybrid-retrieval-for-long-document-rag-240880.md)

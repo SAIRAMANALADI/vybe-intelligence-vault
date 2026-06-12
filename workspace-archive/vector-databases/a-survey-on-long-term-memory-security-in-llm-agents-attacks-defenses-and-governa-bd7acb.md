@@ -3,7 +3,7 @@ title: "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, 
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.16548"
-local_vault_path: "ai/rag/a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md"
+local_vault_path: "ai\rag\a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2604.16548
 
 ## Local Vault File
 
-Path: [a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md](file:///../../ai/rag/a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md)
+Path: [a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md](file:///../../ai\rag\a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md)

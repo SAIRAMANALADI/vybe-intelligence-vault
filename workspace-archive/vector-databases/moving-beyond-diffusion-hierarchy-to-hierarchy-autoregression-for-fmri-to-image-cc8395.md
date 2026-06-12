@@ -3,7 +3,7 @@ title: "Moving Beyond Diffusion: Hierarchy-to-Hierarchy Autoregression for fMRI-
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.22335"
-local_vault_path: "ai/rag/moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md"
+local_vault_path: "ai\rag\moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2510.22335
 
 ## Local Vault File
 
-Path: [moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md](file:///../../ai/rag/moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md)
+Path: [moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md](file:///../../ai\rag\moving-beyond-diffusion-hierarchy-to-hierarchy-autoregression-for-fmri-to-image-cc8395.md)

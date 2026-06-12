@@ -3,7 +3,7 @@ title: "Scalable Deep Learning Framework for Global High-Resolution Land Use Rec
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11793"
-local_vault_path: "ai/rag/scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md"
+local_vault_path: "ai\rag\scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11793
 
 ## Local Vault File
 
-Path: [scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md](file:///../../ai/rag/scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md)
+Path: [scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md](file:///../../ai\rag\scalable-deep-learning-framework-for-global-high-resolution-land-use-reconstruct-b69031.md)

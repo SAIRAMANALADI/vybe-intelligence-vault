@@ -3,7 +3,7 @@ title: "satnaing/shadcn-admin"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/satnaing/shadcn-admin"
-local_vault_path: "web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md"
+local_vault_path: "web-development\shadcn-ui\satnaing-shadcn-admin-4dc3c8.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/satnaing/shadcn-admin
 
 ## Local Vault File
 
-Path: [satnaing-shadcn-admin-4dc3c8.md](file:///../../web-development/shadcn-ui/satnaing-shadcn-admin-4dc3c8.md)
+Path: [satnaing-shadcn-admin-4dc3c8.md](file:///../../web-development\shadcn-ui\satnaing-shadcn-admin-4dc3c8.md)

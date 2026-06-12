@@ -3,7 +3,7 @@ title: "ScreenEnv: Deploy your full stack Desktop Agent"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/screenenv"
-local_vault_path: "ai/agents/screenenv-deploy-your-full-stack-desktop-agent-875c92.md"
+local_vault_path: "ai\agents\screenenv-deploy-your-full-stack-desktop-agent-875c92.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/screenenv
 
 ## Local Vault File
 
-Path: [screenenv-deploy-your-full-stack-desktop-agent-875c92.md](file:///../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent-875c92.md)
+Path: [screenenv-deploy-your-full-stack-desktop-agent-875c92.md](file:///../../ai\agents\screenenv-deploy-your-full-stack-desktop-agent-875c92.md)

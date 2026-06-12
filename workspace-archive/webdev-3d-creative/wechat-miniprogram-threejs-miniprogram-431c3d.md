@@ -3,7 +3,7 @@ title: "wechat-miniprogram/threejs-miniprogram"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/wechat-miniprogram/threejs-miniprogram"
-local_vault_path: "web-development/threejs/wechat-miniprogram-threejs-miniprogram-431c3d.md"
+local_vault_path: "web-development\threejs\wechat-miniprogram-threejs-miniprogram-431c3d.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/wechat-miniprogram/threejs-miniprogram
 
 ## Local Vault File
 
-Path: [wechat-miniprogram-threejs-miniprogram-431c3d.md](file:///../../web-development/threejs/wechat-miniprogram-threejs-miniprogram-431c3d.md)
+Path: [wechat-miniprogram-threejs-miniprogram-431c3d.md](file:///../../web-development\threejs\wechat-miniprogram-threejs-miniprogram-431c3d.md)

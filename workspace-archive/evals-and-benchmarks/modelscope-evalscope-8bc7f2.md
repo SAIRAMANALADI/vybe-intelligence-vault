@@ -3,7 +3,7 @@ title: "modelscope/evalscope"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/modelscope/evalscope"
-local_vault_path: "ai/rag/modelscope-evalscope-8bc7f2.md"
+local_vault_path: "ai\rag\modelscope-evalscope-8bc7f2.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/modelscope/evalscope
 
 ## Local Vault File
 
-Path: [modelscope-evalscope-8bc7f2.md](file:///../../ai/rag/modelscope-evalscope-8bc7f2.md)
+Path: [modelscope-evalscope-8bc7f2.md](file:///../../ai\rag\modelscope-evalscope-8bc7f2.md)

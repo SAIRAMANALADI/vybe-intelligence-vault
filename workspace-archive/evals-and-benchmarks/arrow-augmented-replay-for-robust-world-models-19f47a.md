@@ -3,7 +3,7 @@ title: "ARROW: Augmented Replay for RObust World models"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2603.11395"
-local_vault_path: "ai/agents/arrow-augmented-replay-for-robust-world-models-19f47a.md"
+local_vault_path: "ai\agents\arrow-augmented-replay-for-robust-world-models-19f47a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.11395
 
 ## Local Vault File
 
-Path: [arrow-augmented-replay-for-robust-world-models-19f47a.md](file:///../../ai/agents/arrow-augmented-replay-for-robust-world-models-19f47a.md)
+Path: [arrow-augmented-replay-for-robust-world-models-19f47a.md](file:///../../ai\agents\arrow-augmented-replay-for-robust-world-models-19f47a.md)

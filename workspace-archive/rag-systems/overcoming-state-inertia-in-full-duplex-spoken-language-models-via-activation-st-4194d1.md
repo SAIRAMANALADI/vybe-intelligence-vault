@@ -3,7 +3,7 @@ title: "Overcoming State Inertia in Full-Duplex Spoken Language Models via Activ
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11386"
-local_vault_path: "ai/research/overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md"
+local_vault_path: "ai\research\overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11386
 
 ## Local Vault File
 
-Path: [overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md](file:///../../ai/research/overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md)
+Path: [overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md](file:///../../ai\research\overcoming-state-inertia-in-full-duplex-spoken-language-models-via-activation-st-4194d1.md)

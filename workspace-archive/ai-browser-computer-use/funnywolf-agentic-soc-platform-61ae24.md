@@ -3,7 +3,7 @@ title: "FunnyWolf/agentic-soc-platform"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/FunnyWolf/agentic-soc-platform"
-local_vault_path: "ai/agents/funnywolf-agentic-soc-platform-61ae24.md"
+local_vault_path: "ai\agents\funnywolf-agentic-soc-platform-61ae24.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/FunnyWolf/agentic-soc-platform
 
 ## Local Vault File
 
-Path: [funnywolf-agentic-soc-platform-61ae24.md](file:///../../ai/agents/funnywolf-agentic-soc-platform-61ae24.md)
+Path: [funnywolf-agentic-soc-platform-61ae24.md](file:///../../ai\agents\funnywolf-agentic-soc-platform-61ae24.md)

@@ -3,7 +3,7 @@ title: "UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Mod
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://universalrag.github.io"
-local_vault_path: "ai/rag/universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md"
+local_vault_path: "ai\rag\universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://universalrag.github.io
 
 ## Local Vault File
 
-Path: [universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md](file:///../../ai/rag/universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md)
+Path: [universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md](file:///../../ai\rag\universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md)

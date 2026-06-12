@@ -3,7 +3,7 @@ title: "Localizing Anchoring Pathways in Language Models"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12818"
-local_vault_path: "ai/research/localizing-anchoring-pathways-in-language-models-2e5a8b.md"
+local_vault_path: "ai\research\localizing-anchoring-pathways-in-language-models-2e5a8b.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12818
 
 ## Local Vault File
 
-Path: [localizing-anchoring-pathways-in-language-models-2e5a8b.md](file:///../../ai/research/localizing-anchoring-pathways-in-language-models-2e5a8b.md)
+Path: [localizing-anchoring-pathways-in-language-models-2e5a8b.md](file:///../../ai\research\localizing-anchoring-pathways-in-language-models-2e5a8b.md)

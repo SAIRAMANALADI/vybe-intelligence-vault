@@ -3,7 +3,7 @@ title: "AlexPEClub/ai-coding-starter-kit"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/AlexPEClub/ai-coding-starter-kit"
-local_vault_path: "ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md"
+local_vault_path: "ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md"
 quality_score: 70
 archive_score: 87
 archive_tier: "essential"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/AlexPEClub/ai-coding-starter-kit
 
 ## Local Vault File
 
-Path: [alexpeclub-ai-coding-starter-kit-3cedf1.md](file:///../../ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md)
+Path: [alexpeclub-ai-coding-starter-kit-3cedf1.md](file:///../../ai\agents\alexpeclub-ai-coding-starter-kit-3cedf1.md)

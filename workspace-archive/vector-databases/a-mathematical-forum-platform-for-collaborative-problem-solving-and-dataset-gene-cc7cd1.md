@@ -3,7 +3,7 @@ title: "A Mathematical Forum Platform for Collaborative Problem Solving and Data
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12976"
-local_vault_path: "ai/rag/a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md"
+local_vault_path: "ai\rag\a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12976
 
 ## Local Vault File
 
-Path: [a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md](file:///../../ai/rag/a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md)
+Path: [a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md](file:///../../ai\rag\a-mathematical-forum-platform-for-collaborative-problem-solving-and-dataset-gene-cc7cd1.md)

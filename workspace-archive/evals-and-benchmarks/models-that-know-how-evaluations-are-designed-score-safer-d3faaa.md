@@ -3,7 +3,7 @@ title: "Models That Know How Evaluations Are Designed Score Safer"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.28591"
-local_vault_path: "ai/research/models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md"
+local_vault_path: "ai\research\models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.28591
 
 ## Local Vault File
 
-Path: [models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md](file:///../../ai/research/models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md)
+Path: [models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md](file:///../../ai\research\models-that-know-how-evaluations-are-designed-score-safer-d3faaa.md)

@@ -3,7 +3,7 @@ title: "Language Model Circuits Are Sparse in the Neuron Basis"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.22594"
-local_vault_path: "ai/research/language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md"
+local_vault_path: "ai\research\language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2601.22594
 
 ## Local Vault File
 
-Path: [language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md](file:///../../ai/research/language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md)
+Path: [language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md](file:///../../ai\research\language-model-circuits-are-sparse-in-the-neuron-basis-6d03a3.md)

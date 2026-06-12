@@ -3,7 +3,7 @@ title: "Point-Identification of a Robust Predictor Under Latent Shift with Imper
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.15158"
-local_vault_path: "ai/research/point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md"
+local_vault_path: "ai\research\point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.15158
 
 ## Local Vault File
 
-Path: [point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md](file:///../../ai/research/point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md)
+Path: [point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md](file:///../../ai\research\point-identification-of-a-robust-predictor-under-latent-shift-with-imperfect-pro-58dad5.md)

@@ -3,7 +3,7 @@ title: "AI Adoption"
 archive_category: "model-providers"
 source_category: "ai/companies/openai"
 source_url: "https://openai.com/news/ai-adoption"
-local_vault_path: "ai/companies/openai/ai-adoption-7bd0fb.md"
+local_vault_path: "ai\companies\openai\ai-adoption-7bd0fb.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://openai.com/news/ai-adoption
 
 ## Local Vault File
 
-Path: [ai-adoption-7bd0fb.md](file:///../../ai/companies/openai/ai-adoption-7bd0fb.md)
+Path: [ai-adoption-7bd0fb.md](file:///../../ai\companies\openai\ai-adoption-7bd0fb.md)

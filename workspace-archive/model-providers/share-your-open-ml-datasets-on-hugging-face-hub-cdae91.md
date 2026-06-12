@@ -3,7 +3,7 @@ title: "Share your open ML datasets on Hugging Face Hub!"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/researcher-dataset-sharing"
-local_vault_path: "ai/models/share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md"
+local_vault_path: "ai\models\share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/researcher-dataset-sharing
 
 ## Local Vault File
 
-Path: [share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md](file:///../../ai/models/share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md)
+Path: [share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md](file:///../../ai\models\share-your-open-ml-datasets-on-hugging-face-hub-cdae91.md)

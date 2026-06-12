@@ -3,7 +3,7 @@ title: "Evaluating Audio Reasoning with Big Bench Audio"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/big-bench-audio-release"
-local_vault_path: "ai/models/evaluating-audio-reasoning-with-big-bench-audio-7ca935.md"
+local_vault_path: "ai\models\evaluating-audio-reasoning-with-big-bench-audio-7ca935.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/big-bench-audio-release
 
 ## Local Vault File
 
-Path: [evaluating-audio-reasoning-with-big-bench-audio-7ca935.md](file:///../../ai/models/evaluating-audio-reasoning-with-big-bench-audio-7ca935.md)
+Path: [evaluating-audio-reasoning-with-big-bench-audio-7ca935.md](file:///../../ai\models\evaluating-audio-reasoning-with-big-bench-audio-7ca935.md)

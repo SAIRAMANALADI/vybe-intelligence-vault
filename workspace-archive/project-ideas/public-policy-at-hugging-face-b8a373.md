@@ -3,7 +3,7 @@ title: "Public Policy at Hugging Face"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/policy-blog"
-local_vault_path: "ai/models/public-policy-at-hugging-face-b8a373.md"
+local_vault_path: "ai\models\public-policy-at-hugging-face-b8a373.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/policy-blog
 
 ## Local Vault File
 
-Path: [public-policy-at-hugging-face-b8a373.md](file:///../../ai/models/public-policy-at-hugging-face-b8a373.md)
+Path: [public-policy-at-hugging-face-b8a373.md](file:///../../ai\models\public-policy-at-hugging-face-b8a373.md)

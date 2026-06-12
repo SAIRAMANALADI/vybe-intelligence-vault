@@ -3,7 +3,7 @@ title: "Versioned Late Materialization for Ultra-Long Sequence Training in Recom
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.24806"
-local_vault_path: "ai/rag/versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md"
+local_vault_path: "ai\rag\versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2604.24806
 
 ## Local Vault File
 
-Path: [versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md](file:///../../ai/rag/versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md)
+Path: [versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md](file:///../../ai\rag\versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md)

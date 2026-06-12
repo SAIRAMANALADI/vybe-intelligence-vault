@@ -3,7 +3,7 @@ title: "Mechanical Conscience: A Mathematical Framework for Dependability of Mac
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.03847"
-local_vault_path: "ai/agents/mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md"
+local_vault_path: "ai\agents\mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2605.03847
 
 ## Local Vault File
 
-Path: [mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md](file:///../../ai/agents/mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md)
+Path: [mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md](file:///../../ai\agents\mechanical-conscience-a-mathematical-framework-for-dependability-of-machine-inte-541ac7.md)

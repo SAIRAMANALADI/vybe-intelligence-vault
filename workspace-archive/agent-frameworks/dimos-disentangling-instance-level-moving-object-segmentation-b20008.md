@@ -3,7 +3,7 @@ title: "DIMOS: Disentangling Instance-level Moving Object Segmentation"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12826"
-local_vault_path: "ai/agents/dimos-disentangling-instance-level-moving-object-segmentation-b20008.md"
+local_vault_path: "ai\agents\dimos-disentangling-instance-level-moving-object-segmentation-b20008.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12826
 
 ## Local Vault File
 
-Path: [dimos-disentangling-instance-level-moving-object-segmentation-b20008.md](file:///../../ai/agents/dimos-disentangling-instance-level-moving-object-segmentation-b20008.md)
+Path: [dimos-disentangling-instance-level-moving-object-segmentation-b20008.md](file:///../../ai\agents\dimos-disentangling-instance-level-moving-object-segmentation-b20008.md)

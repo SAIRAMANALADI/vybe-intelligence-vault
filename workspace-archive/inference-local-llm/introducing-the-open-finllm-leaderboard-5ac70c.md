@@ -3,7 +3,7 @@ title: "Introducing the Open FinLLM Leaderboard"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-finbench"
-local_vault_path: "ai/models/introducing-the-open-finllm-leaderboard-5ac70c.md"
+local_vault_path: "ai\models\introducing-the-open-finllm-leaderboard-5ac70c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-finbench
 
 ## Local Vault File
 
-Path: [introducing-the-open-finllm-leaderboard-5ac70c.md](file:///../../ai/models/introducing-the-open-finllm-leaderboard-5ac70c.md)
+Path: [introducing-the-open-finllm-leaderboard-5ac70c.md](file:///../../ai\models\introducing-the-open-finllm-leaderboard-5ac70c.md)

@@ -3,7 +3,7 @@ title: "A Dive into Text-to-Video Models"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/text-to-video"
-local_vault_path: "ai/models/a-dive-into-text-to-video-models-fb9c34.md"
+local_vault_path: "ai\models\a-dive-into-text-to-video-models-fb9c34.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/text-to-video
 
 ## Local Vault File
 
-Path: [a-dive-into-text-to-video-models-fb9c34.md](file:///../../ai/models/a-dive-into-text-to-video-models-fb9c34.md)
+Path: [a-dive-into-text-to-video-models-fb9c34.md](file:///../../ai\models\a-dive-into-text-to-video-models-fb9c34.md)

@@ -3,7 +3,7 @@ title: "CAPED: Context-Aware Privacy Exposure Defense for Mobile GUI Agents"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12666"
-local_vault_path: "ai/agents/caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md"
+local_vault_path: "ai\agents\caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12666
 
 ## Local Vault File
 
-Path: [caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md](file:///../../ai/agents/caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md)
+Path: [caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md](file:///../../ai\agents\caped-context-aware-privacy-exposure-defense-for-mobile-gui-agents-fa4134.md)

@@ -3,7 +3,7 @@ title: "Neural ensemble Kalman filter: Data assimilation for compressible flows 
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.23461"
-local_vault_path: "ai/research/neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
+local_vault_path: "ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.23461
 
 ## Local Vault File
 
-Path: [neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md](file:///../../ai/research/neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md)
+Path: [neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md](file:///../../ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md)

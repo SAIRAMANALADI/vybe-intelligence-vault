@@ -3,7 +3,7 @@ title: "The AI tools for Art Newsletter - Issue 1"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ai-art-newsletter-jan-25"
-local_vault_path: "ai/models/the-ai-tools-for-art-newsletter-issue-1-3f517a.md"
+local_vault_path: "ai\models\the-ai-tools-for-art-newsletter-issue-1-3f517a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ai-art-newsletter-jan-25
 
 ## Local Vault File
 
-Path: [the-ai-tools-for-art-newsletter-issue-1-3f517a.md](file:///../../ai/models/the-ai-tools-for-art-newsletter-issue-1-3f517a.md)
+Path: [the-ai-tools-for-art-newsletter-issue-1-3f517a.md](file:///../../ai\models\the-ai-tools-for-art-newsletter-issue-1-3f517a.md)

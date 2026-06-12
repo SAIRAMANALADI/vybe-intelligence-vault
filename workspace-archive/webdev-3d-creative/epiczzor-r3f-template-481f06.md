@@ -3,7 +3,7 @@ title: "Epiczzor/r3f-template"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/Epiczzor/r3f-template"
-local_vault_path: "web-development/react-three-fiber/epiczzor-r3f-template-481f06.md"
+local_vault_path: "web-development\react-three-fiber\epiczzor-r3f-template-481f06.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/Epiczzor/r3f-template
 
 ## Local Vault File
 
-Path: [epiczzor-r3f-template-481f06.md](file:///../../web-development/react-three-fiber/epiczzor-r3f-template-481f06.md)
+Path: [epiczzor-r3f-template-481f06.md](file:///../../web-development\react-three-fiber\epiczzor-r3f-template-481f06.md)

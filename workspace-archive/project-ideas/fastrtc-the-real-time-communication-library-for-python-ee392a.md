@@ -3,7 +3,7 @@ title: "FastRTC: The Real-Time Communication Library for Python"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fastrtc"
-local_vault_path: "ai/models/fastrtc-the-real-time-communication-library-for-python-ee392a.md"
+local_vault_path: "ai\models\fastrtc-the-real-time-communication-library-for-python-ee392a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fastrtc
 
 ## Local Vault File
 
-Path: [fastrtc-the-real-time-communication-library-for-python-ee392a.md](file:///../../ai/models/fastrtc-the-real-time-communication-library-for-python-ee392a.md)
+Path: [fastrtc-the-real-time-communication-library-for-python-ee392a.md](file:///../../ai\models\fastrtc-the-real-time-communication-library-for-python-ee392a.md)

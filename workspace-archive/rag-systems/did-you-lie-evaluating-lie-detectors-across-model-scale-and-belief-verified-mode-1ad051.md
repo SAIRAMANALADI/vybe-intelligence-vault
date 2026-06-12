@@ -3,7 +3,7 @@ title: "\"Did you lie?\" Evaluating Lie Detectors across Model Scale and Belief-
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12618"
-local_vault_path: "ai/research/did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md"
+local_vault_path: "ai\research\did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12618
 
 ## Local Vault File
 
-Path: [did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md](file:///../../ai/research/did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md)
+Path: [did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md](file:///../../ai\research\did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md)

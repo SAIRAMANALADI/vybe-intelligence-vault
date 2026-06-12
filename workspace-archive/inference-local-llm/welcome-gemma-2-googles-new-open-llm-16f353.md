@@ -3,7 +3,7 @@ title: "Welcome Gemma 2 - Google’s new open LLM"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma2"
-local_vault_path: "ai/models/welcome-gemma-2-googles-new-open-llm-16f353.md"
+local_vault_path: "ai\models\welcome-gemma-2-googles-new-open-llm-16f353.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gemma2
 
 ## Local Vault File
 
-Path: [welcome-gemma-2-googles-new-open-llm-16f353.md](file:///../../ai/models/welcome-gemma-2-googles-new-open-llm-16f353.md)
+Path: [welcome-gemma-2-googles-new-open-llm-16f353.md](file:///../../ai\models\welcome-gemma-2-googles-new-open-llm-16f353.md)

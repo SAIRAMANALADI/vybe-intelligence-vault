@@ -3,7 +3,7 @@ title: "Hugging Face and Graphcore partner for IPU-optimized Transformers"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/graphcore"
-local_vault_path: "ai/models/hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md"
+local_vault_path: "ai\models\hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/graphcore
 
 ## Local Vault File
 
-Path: [hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md](file:///../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md)
+Path: [hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md](file:///../../ai\models\hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md)

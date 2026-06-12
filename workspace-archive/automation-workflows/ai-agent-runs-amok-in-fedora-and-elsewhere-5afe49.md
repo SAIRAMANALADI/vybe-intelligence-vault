@@ -3,7 +3,7 @@ title: "AI agent runs amok in Fedora and elsewhere"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/"
-local_vault_path: "ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md"
+local_vault_path: "ai\community\ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/
 
 ## Local Vault File
 
-Path: [ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md](file:///../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md)
+Path: [ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md](file:///../../ai\community\ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md)

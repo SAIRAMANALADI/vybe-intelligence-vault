@@ -3,7 +3,7 @@ title: "hammadhaqqani/awesome-devops-ai"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/hammadhaqqani/awesome-devops-ai"
-local_vault_path: "ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md"
+local_vault_path: "ai\agents\hammadhaqqani-awesome-devops-ai-b2fc1c.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/hammadhaqqani/awesome-devops-ai
 
 ## Local Vault File
 
-Path: [hammadhaqqani-awesome-devops-ai-b2fc1c.md](file:///../../ai/agents/hammadhaqqani-awesome-devops-ai-b2fc1c.md)
+Path: [hammadhaqqani-awesome-devops-ai-b2fc1c.md](file:///../../ai\agents\hammadhaqqani-awesome-devops-ai-b2fc1c.md)

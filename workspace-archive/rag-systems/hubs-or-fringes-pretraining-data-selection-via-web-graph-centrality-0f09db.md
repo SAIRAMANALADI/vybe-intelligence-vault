@@ -3,7 +3,7 @@ title: "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11499"
-local_vault_path: "ai/rag/hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md"
+local_vault_path: "ai\rag\hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11499
 
 ## Local Vault File
 
-Path: [hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md](file:///../../ai/rag/hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md)
+Path: [hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md](file:///../../ai\rag\hubs-or-fringes-pretraining-data-selection-via-web-graph-centrality-0f09db.md)

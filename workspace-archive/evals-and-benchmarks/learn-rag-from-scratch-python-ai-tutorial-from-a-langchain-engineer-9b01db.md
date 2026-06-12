@@ -3,7 +3,7 @@ title: "Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://www.freecodecamp.org/news/mastering-rag-from-scratch"
-local_vault_path: "ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md"
+local_vault_path: "ai\rag\learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://www.freecodecamp.org/news/mastering-rag-from-scratc
 
 ## Local Vault File
 
-Path: [learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md](file:///../../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md)
+Path: [learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md](file:///../../ai\rag\learn-rag-from-scratch-python-ai-tutorial-from-a-langchain-engineer-9b01db.md)

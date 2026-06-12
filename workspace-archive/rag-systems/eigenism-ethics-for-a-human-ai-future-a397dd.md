@@ -3,7 +3,7 @@ title: "Eigenism: Ethics for a Human-AI Future"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12420"
-local_vault_path: "ai/agents/eigenism-ethics-for-a-human-ai-future-a397dd.md"
+local_vault_path: "ai\agents\eigenism-ethics-for-a-human-ai-future-a397dd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12420
 
 ## Local Vault File
 
-Path: [eigenism-ethics-for-a-human-ai-future-a397dd.md](file:///../../ai/agents/eigenism-ethics-for-a-human-ai-future-a397dd.md)
+Path: [eigenism-ethics-for-a-human-ai-future-a397dd.md](file:///../../ai\agents\eigenism-ethics-for-a-human-ai-future-a397dd.md)

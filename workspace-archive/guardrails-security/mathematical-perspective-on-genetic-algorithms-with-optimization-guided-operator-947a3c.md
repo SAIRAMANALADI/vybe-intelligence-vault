@@ -3,7 +3,7 @@ title: "Mathematical perspective on genetic algorithms with optimization guided 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12279"
-local_vault_path: "ai/research/mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
+local_vault_path: "ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12279
 
 ## Local Vault File
 
-Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai/research/mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)
+Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)

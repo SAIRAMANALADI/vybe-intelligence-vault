@@ -3,7 +3,7 @@ title: "Position: Hippocampal Explicit Memory Is the Cornerstone for AGI"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11245"
-local_vault_path: "ai/research/position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md"
+local_vault_path: "ai\research\position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11245
 
 ## Local Vault File
 
-Path: [position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md](file:///../../ai/research/position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md)
+Path: [position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md](file:///../../ai\research\position-hippocampal-explicit-memory-is-the-cornerstone-for-agi-61532f.md)

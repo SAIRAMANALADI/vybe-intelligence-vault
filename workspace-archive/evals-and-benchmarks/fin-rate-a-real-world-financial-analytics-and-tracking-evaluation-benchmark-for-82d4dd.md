@@ -3,7 +3,7 @@ title: "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Bench
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.07294"
-local_vault_path: "ai/rag/fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md"
+local_vault_path: "ai\rag\fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2602.07294
 
 ## Local Vault File
 
-Path: [fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md](file:///../../ai/rag/fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md)
+Path: [fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md](file:///../../ai\rag\fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md)

@@ -3,7 +3,7 @@ title: "Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11634"
-local_vault_path: "ai/agents/architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md"
+local_vault_path: "ai\agents\architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11634
 
 ## Local Vault File
 
-Path: [architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md](file:///../../ai/agents/architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md)
+Path: [architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md](file:///../../ai\agents\architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md)

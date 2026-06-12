@@ -1062,9 +1062,9 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Ai — Rag
 
-* **[Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](ai/rag/frozen-multimodal-embeddings-for-ai-assisted-interview-assessment-of-personality-3800a1.md)** (`reference` | `reference` tier)
-  * Summary: arXiv:2606.11930v2 Announce Type: replace-cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging problem in AI-assisted interview assessment because labeled datasets are limited while each response
-  * Tags: `dataset`, `models`, `paper`, `rag`, `youtube`
+* **[Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](ai/rag/frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)** (`reference` | `reference` tier)
+  * Summary: arXiv:2606.11930v1 Announce Type: cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging multimodal learning problem because labeled datasets are limited while each response contains high-dimensiona
+  * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11930>
 
 ## Ai — Resources
@@ -2067,9 +2067,9 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11831v1 Announce Type: cross Abstract: Neural relational inference (NRI) methods discover interaction graphs from trajectories through variational reasoning on discrete potential edges. However, these methods typically rely on oversimplifi
   * Source URL: <https://arxiv.org/abs/2606.11831>
 
-* **[Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](ai/rag/frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)** (`dataset` | `useful` tier)
-  * Summary: arXiv:2606.11930v1 Announce Type: cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging multimodal learning problem because labeled datasets are limited while each response contains high-dimensiona
-  * Tags: `models`, `rag`
+* **[Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](ai/rag/frozen-multimodal-embeddings-for-ai-assisted-interview-assessment-of-personality-3800a1.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2606.11930v2 Announce Type: replace-cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging problem in AI-assisted interview assessment because labeled datasets are limited while each response
+  * Tags: `dataset`, `models`, `paper`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.11930>
 
 * **[Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders](ai/rag/fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md)** (`framework` | `useful` tier)
@@ -2722,11 +2722,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11640v1 Announce Type: cross Abstract: Few-shot tabular learning provides a cost-effective approach for real-world applications where annotation is costly and collecting sufficient samples for new tasks is difficult. Existing Traditional a
   * Source URL: <https://arxiv.org/abs/2606.11640>
 
-* **[TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.11844v1 Announce Type: new Abstract: Continual anomaly detection in tabular data is challenging and remains largely underexplored, particularly in settings with heterogeneous feature schemas, distribution shifts, and severe class imbalance
-  * Tags: `dataset`, `models`
-  * Source URL: <https://arxiv.org/abs/2606.11844>
-
 * **[Teaching Diffusion to Speculate Left-to-Right](ai/research/teaching-diffusion-to-speculate-left-to-right-b81988.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11552v1 Announce Type: cross Abstract: Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their autoregressive decoding process incurs substantial inference costs due to inherently sequential toke
   * Source URL: <https://arxiv.org/abs/2606.11552>
@@ -2799,6 +2794,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.09287>
 
+* **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
+  * Tags: `threejs`
+  * Source URL: <https://huggingface.co/blog/transformersjs-v3>
+
 * **[TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](ai/research/twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13054v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit exceptional general language processing capabilities, but their memory and compute costs hinder deployment. Ternarization has emerged as a promising compression te
   * Tags: `hackernews`, `models`
@@ -2808,11 +2808,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12691v1 Announce Type: cross Abstract: Auto-regressive models have emerged as powerful tools for sequential data, from language to video. Understanding how and why these models learn latent representations remains an open theoretical quest
   * Tags: `youtube`
   * Source URL: <https://arxiv.org/abs/2606.12691>
-
-* **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](ai/research/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,
-  * Tags: `dataset`
-  * Source URL: <https://arxiv.org/abs/2512.22088>
 
 * **[Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders](ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.12138v1 Announce Type: cross Abstract: Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this q
@@ -3179,6 +3174,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/vbenjs/vue-vben-admin>
 
+## Guardrails Security
+
+* **[TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.11844v1 Announce Type: new Abstract: Continual anomaly detection in tabular data is challenging and remains largely underexplored, particularly in settings with heterogeneous feature schemas, distribution shifts, and severe class imbalance
+  * Tags: `dataset`, `models`
+  * Source URL: <https://arxiv.org/abs/2606.11844>
+
+* **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](ai/research/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,
+  * Tags: `dataset`
+  * Source URL: <https://arxiv.org/abs/2512.22088>
+
 ## Inference Local Llm
 
 * **[llamasearchai/OpenAGI-Customization](ai/resources/llamasearchai-openagi-customization-95727e.md)** (`api` | `essential` tier)
@@ -3332,35 +3339,35 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack>
 
-* **[Learn more](ai/companies/deepmind/learn-more-314226.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research>
-
-* **[Learn more](ai/companies/deepmind/learn-more-eb1202.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research>
-
-* **[Learn more](ai/companies/deepmind/learn-more-92fbb6.md)** (`reference` | `useful` tier)
+* **[Learn more](ai/companies/deepmind/learn-more-0a9db6.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica>
+  * Source URL: <https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond>
 
 * **[Learn more](ai/companies/deepmind/learn-more-1d9b12.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
   * Source URL: <https://antigravity.google/blog/introducing-google-antigravity-2-0>
 
+* **[Learn more](ai/companies/deepmind/learn-more-314226.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research>
+
+* **[Learn more](ai/companies/deepmind/learn-more-92fbb6.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
+  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica>
+
 * **[Learn more](ai/companies/deepmind/learn-more-b2201e.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
   * Source URL: <https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership>
 
-* **[Learn more](ai/companies/deepmind/learn-more-0a9db6.md)** (`reference` | `useful` tier)
+* **[Learn more](ai/companies/deepmind/learn-more-eb1202.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond>
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research>
 
 * **[May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
@@ -9577,11 +9584,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: OrbitControls for React Three Fiber in React Native
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/TiagoCavalcante/r3f-native-orbitcontrols>
-
-* **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
-  * Tags: `threejs`
-  * Source URL: <https://huggingface.co/blog/transformersjs-v3>
 
 * **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](web-development/threejs/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,

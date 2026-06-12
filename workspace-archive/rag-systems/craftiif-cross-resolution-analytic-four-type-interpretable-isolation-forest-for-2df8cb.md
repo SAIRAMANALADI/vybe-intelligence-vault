@@ -3,7 +3,7 @@ title: "CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Fo
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13486"
-local_vault_path: "ai/research/craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md"
+local_vault_path: "ai\research\craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13486
 
 ## Local Vault File
 
-Path: [craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md](file:///../../ai/research/craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md)
+Path: [craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md](file:///../../ai\research\craftiif-cross-resolution-analytic-four-type-interpretable-isolation-forest-for-2df8cb.md)

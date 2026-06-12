@@ -3,7 +3,7 @@ title: "saasykits/nextjs-sessionauth-template"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/saasykits/nextjs-sessionauth-template"
-local_vault_path: "web-development/nextjs/saasykits-nextjs-sessionauth-template-f0c83f.md"
+local_vault_path: "web-development\nextjs\saasykits-nextjs-sessionauth-template-f0c83f.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://github.com/saasykits/nextjs-sessionauth-template
 
 ## Local Vault File
 
-Path: [saasykits-nextjs-sessionauth-template-f0c83f.md](file:///../../web-development/nextjs/saasykits-nextjs-sessionauth-template-f0c83f.md)
+Path: [saasykits-nextjs-sessionauth-template-f0c83f.md](file:///../../web-development\nextjs\saasykits-nextjs-sessionauth-template-f0c83f.md)

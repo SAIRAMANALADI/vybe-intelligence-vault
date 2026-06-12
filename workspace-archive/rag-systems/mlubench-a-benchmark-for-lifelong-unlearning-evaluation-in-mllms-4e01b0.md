@@ -3,7 +3,7 @@ title: "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12809"
-local_vault_path: "ai/research/mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md"
+local_vault_path: "ai\research\mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12809
 
 ## Local Vault File
 
-Path: [mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md](file:///../../ai/research/mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md)
+Path: [mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md](file:///../../ai\research\mlubench-a-benchmark-for-lifelong-unlearning-evaluation-in-mllms-4e01b0.md)

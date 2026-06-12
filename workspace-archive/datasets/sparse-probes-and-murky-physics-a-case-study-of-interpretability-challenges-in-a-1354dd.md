@@ -3,7 +3,7 @@ title: "Sparse probes and murky physics: a case study of interpretability challe
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11657"
-local_vault_path: "ai/research/sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md"
+local_vault_path: "ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11657
 
 ## Local Vault File
 
-Path: [sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md](file:///../../ai/research/sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md)
+Path: [sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md](file:///../../ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md)

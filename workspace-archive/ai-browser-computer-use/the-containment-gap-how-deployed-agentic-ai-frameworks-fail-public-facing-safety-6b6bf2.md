@@ -3,7 +3,7 @@ title: "The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Faci
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12797"
-local_vault_path: "ai/agents/the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md"
+local_vault_path: "ai\agents\the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12797
 
 ## Local Vault File
 
-Path: [the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md](file:///../../ai/agents/the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md)
+Path: [the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md](file:///../../ai\agents\the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md)

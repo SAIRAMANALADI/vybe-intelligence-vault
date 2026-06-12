@@ -3,7 +3,7 @@ title: "datawhalechina/llm-universe"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/llm-universe"
-local_vault_path: "ai/rag/datawhalechina-llm-universe-05af75.md"
+local_vault_path: "ai\rag\datawhalechina-llm-universe-05af75.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/datawhalechina/llm-universe
 
 ## Local Vault File
 
-Path: [datawhalechina-llm-universe-05af75.md](file:///../../ai/rag/datawhalechina-llm-universe-05af75.md)
+Path: [datawhalechina-llm-universe-05af75.md](file:///../../ai\rag\datawhalechina-llm-universe-05af75.md)

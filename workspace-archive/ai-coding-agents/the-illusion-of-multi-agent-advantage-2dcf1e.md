@@ -3,7 +3,7 @@ title: "The Illusion of Multi-Agent Advantage"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13003"
-local_vault_path: "ai/agents/the-illusion-of-multi-agent-advantage-2dcf1e.md"
+local_vault_path: "ai\agents\the-illusion-of-multi-agent-advantage-2dcf1e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13003
 
 ## Local Vault File
 
-Path: [the-illusion-of-multi-agent-advantage-2dcf1e.md](file:///../../ai/agents/the-illusion-of-multi-agent-advantage-2dcf1e.md)
+Path: [the-illusion-of-multi-agent-advantage-2dcf1e.md](file:///../../ai\agents\the-illusion-of-multi-agent-advantage-2dcf1e.md)

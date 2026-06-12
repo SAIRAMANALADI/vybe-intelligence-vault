@@ -3,7 +3,7 @@ title: "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/jat"
-local_vault_path: "ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md"
+local_vault_path: "ai\agents\jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/jat
 
 ## Local Vault File
 
-Path: [jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md](file:///../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md)
+Path: [jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md](file:///../../ai\agents\jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md)

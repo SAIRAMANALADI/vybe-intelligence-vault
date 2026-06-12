@@ -3,7 +3,7 @@ title: "sjseo298/spring-ai-template"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/sjseo298/spring-ai-template"
-local_vault_path: "ai/rag/sjseo298-spring-ai-template-cb838b.md"
+local_vault_path: "ai\rag\sjseo298-spring-ai-template-cb838b.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/sjseo298/spring-ai-template
 
 ## Local Vault File
 
-Path: [sjseo298-spring-ai-template-cb838b.md](file:///../../ai/rag/sjseo298-spring-ai-template-cb838b.md)
+Path: [sjseo298-spring-ai-template-cb838b.md](file:///../../ai\rag\sjseo298-spring-ai-template-cb838b.md)

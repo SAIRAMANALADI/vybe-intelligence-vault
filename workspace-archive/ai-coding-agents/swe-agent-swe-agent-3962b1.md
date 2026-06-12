@@ -3,7 +3,7 @@ title: "SWE-agent/SWE-agent"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/SWE-agent/SWE-agent"
-local_vault_path: "ai/agents/swe-agent-swe-agent-3962b1.md"
+local_vault_path: "ai\agents\swe-agent-swe-agent-3962b1.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/SWE-agent/SWE-agent
 
 ## Local Vault File
 
-Path: [swe-agent-swe-agent-3962b1.md](file:///../../ai/agents/swe-agent-swe-agent-3962b1.md)
+Path: [swe-agent-swe-agent-3962b1.md](file:///../../ai\agents\swe-agent-swe-agent-3962b1.md)

@@ -3,7 +3,7 @@ title: "Active Learning with AutoNLP and Prodigy"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/autonlp-prodigy"
-local_vault_path: "ai/models/active-learning-with-autonlp-and-prodigy-c70dbb.md"
+local_vault_path: "ai\models\active-learning-with-autonlp-and-prodigy-c70dbb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/autonlp-prodigy
 
 ## Local Vault File
 
-Path: [active-learning-with-autonlp-and-prodigy-c70dbb.md](file:///../../ai/models/active-learning-with-autonlp-and-prodigy-c70dbb.md)
+Path: [active-learning-with-autonlp-and-prodigy-c70dbb.md](file:///../../ai\models\active-learning-with-autonlp-and-prodigy-c70dbb.md)

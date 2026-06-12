@@ -3,7 +3,7 @@ title: "LangGraph vs fast-langraph: side-by-side benchmarks"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://fast-langgraph.neullabs.com/articles/langgraph-vs-fast-langraph-benchmarks"
-local_vault_path: "ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md"
+local_vault_path: "ai\agents\langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://fast-langgraph.neullabs.com/articles/langgraph-vs-f
 
 ## Local Vault File
 
-Path: [langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md](file:///../../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md)
+Path: [langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md](file:///../../ai\agents\langgraph-vs-fast-langraph-side-by-side-benchmarks-50ce9e.md)

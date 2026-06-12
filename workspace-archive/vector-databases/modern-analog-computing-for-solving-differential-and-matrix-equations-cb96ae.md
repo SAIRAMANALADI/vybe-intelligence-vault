@@ -3,7 +3,7 @@ title: "Modern analog computing for solving differential and matrix equations"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13179"
-local_vault_path: "ai/rag/modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md"
+local_vault_path: "ai\rag\modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13179
 
 ## Local Vault File
 
-Path: [modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md](file:///../../ai/rag/modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md)
+Path: [modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md](file:///../../ai\rag\modern-analog-computing-for-solving-differential-and-matrix-equations-cb96ae.md)

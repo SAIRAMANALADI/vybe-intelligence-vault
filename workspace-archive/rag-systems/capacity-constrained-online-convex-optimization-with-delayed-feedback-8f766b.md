@@ -3,7 +3,7 @@ title: "Capacity-Constrained Online Convex Optimization with Delayed Feedback"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11711"
-local_vault_path: "ai/research/capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md"
+local_vault_path: "ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11711
 
 ## Local Vault File
 
-Path: [capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md](file:///../../ai/research/capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md)
+Path: [capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md](file:///../../ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md)

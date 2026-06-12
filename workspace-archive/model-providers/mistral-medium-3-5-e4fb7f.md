@@ -3,7 +3,7 @@ title: "Mistral Medium 3.5"
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
-local_vault_path: "ai/companies/mistral/mistral-medium-3-5-e4fb7f.md"
+local_vault_path: "ai\companies\mistral\mistral-medium-3-5-e4fb7f.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3
 
 ## Local Vault File
 
-Path: [mistral-medium-3-5-e4fb7f.md](file:///../../ai/companies/mistral/mistral-medium-3-5-e4fb7f.md)
+Path: [mistral-medium-3-5-e4fb7f.md](file:///../../ai\companies\mistral\mistral-medium-3-5-e4fb7f.md)

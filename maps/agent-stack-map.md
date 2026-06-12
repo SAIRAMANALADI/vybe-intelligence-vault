@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
-*   [Learn more](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research)
-*   [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research)
+*   [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](https://qubittool.com/blog/ai-agent-framework-comparison-2026)
+*   [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+*   [Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems](https://arxiv.org/abs/2606.06525)
 *   [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348)
-*   [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant)
-*   [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG)
+*   [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-hands-on-tutorial)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

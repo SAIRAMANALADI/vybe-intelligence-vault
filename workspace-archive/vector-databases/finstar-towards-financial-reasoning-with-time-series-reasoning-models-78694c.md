@@ -3,7 +3,7 @@ title: "FinSTaR: Towards Financial Reasoning with Time Series Reasoning Models"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.03460"
-local_vault_path: "ai/rag/finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md"
+local_vault_path: "ai\rag\finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2605.03460
 
 ## Local Vault File
 
-Path: [finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md](file:///../../ai/rag/finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md)
+Path: [finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md](file:///../../ai\rag\finstar-towards-financial-reasoning-with-time-series-reasoning-models-78694c.md)

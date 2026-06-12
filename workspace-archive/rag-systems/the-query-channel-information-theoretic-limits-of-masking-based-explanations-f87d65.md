@@ -3,7 +3,7 @@ title: "The Query Channel: Information-Theoretic Limits of Masking-Based Explana
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.16689"
-local_vault_path: "ai/research/the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md"
+local_vault_path: "ai\research\the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2604.16689
 
 ## Local Vault File
 
-Path: [the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md](file:///../../ai/research/the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md)
+Path: [the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md](file:///../../ai\research\the-query-channel-information-theoretic-limits-of-masking-based-explanations-f87d65.md)

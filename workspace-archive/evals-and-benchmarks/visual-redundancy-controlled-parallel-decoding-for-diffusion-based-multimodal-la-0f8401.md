@@ -3,7 +3,7 @@ title: "Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multi
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.25820"
-local_vault_path: "ai/research/visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md"
+local_vault_path: "ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.25820
 
 ## Local Vault File
 
-Path: [visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md](file:///../../ai/research/visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md)
+Path: [visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md](file:///../../ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md)

@@ -3,7 +3,7 @@ title: "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Age
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11680"
-local_vault_path: "ai/agents/organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md"
+local_vault_path: "ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11680
 
 ## Local Vault File
 
-Path: [organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md](file:///../../ai/agents/organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md)
+Path: [organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md](file:///../../ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md)

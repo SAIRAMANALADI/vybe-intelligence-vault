@@ -3,7 +3,7 @@ title: "From Isolation to Entanglement: When Do Interpretability Methods Identif
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.15134"
-local_vault_path: "ai/research/from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md"
+local_vault_path: "ai\research\from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2512.15134
 
 ## Local Vault File
 
-Path: [from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md](file:///../../ai/research/from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md)
+Path: [from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md](file:///../../ai\research\from-isolation-to-entanglement-when-do-interpretability-methods-identify-and-dis-81df48.md)

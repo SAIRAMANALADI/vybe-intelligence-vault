@@ -3,7 +3,7 @@ title: "Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.04021"
-local_vault_path: "ai/research/prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md"
+local_vault_path: "ai\research\prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.04021
 
 ## Local Vault File
 
-Path: [prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md](file:///../../ai/research/prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md)
+Path: [prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md](file:///../../ai\research\prism-cost-efficient-multi-llm-serving-via-gpu-memory-ballooning-51e19e.md)

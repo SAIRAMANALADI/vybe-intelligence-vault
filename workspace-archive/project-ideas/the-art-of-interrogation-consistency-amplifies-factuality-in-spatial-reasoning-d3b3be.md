@@ -3,7 +3,7 @@ title: "The Art of Interrogation: Consistency Amplifies Factuality in Spatial Re
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11918"
-local_vault_path: "ai/research/the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md"
+local_vault_path: "ai\research\the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11918
 
 ## Local Vault File
 
-Path: [the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md](file:///../../ai/research/the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md)
+Path: [the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md](file:///../../ai\research\the-art-of-interrogation-consistency-amplifies-factuality-in-spatial-reasoning-d3b3be.md)

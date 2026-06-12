@@ -3,7 +3,7 @@ title: "jayta1314/awesome-ai-sre"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/jayta1314/awesome-ai-sre"
-local_vault_path: "ai/agents/jayta1314-awesome-ai-sre-480b87.md"
+local_vault_path: "ai\agents\jayta1314-awesome-ai-sre-480b87.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/jayta1314/awesome-ai-sre
 
 ## Local Vault File
 
-Path: [jayta1314-awesome-ai-sre-480b87.md](file:///../../ai/agents/jayta1314-awesome-ai-sre-480b87.md)
+Path: [jayta1314-awesome-ai-sre-480b87.md](file:///../../ai\agents\jayta1314-awesome-ai-sre-480b87.md)

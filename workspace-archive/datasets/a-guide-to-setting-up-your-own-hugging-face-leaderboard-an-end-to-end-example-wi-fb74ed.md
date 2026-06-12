@@ -3,7 +3,7 @@ title: "A guide to setting up your own Hugging Face leaderboard: an end-to-end e
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-vectara"
-local_vault_path: "ai/models/a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md"
+local_vault_path: "ai\models\a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-vectara
 
 ## Local Vault File
 
-Path: [a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md](file:///../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md)
+Path: [a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md](file:///../../ai\models\a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md)

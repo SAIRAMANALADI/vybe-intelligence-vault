@@ -3,7 +3,7 @@ title: "Habana Labs and Hugging Face Partner to Accelerate Transformer Model Tra
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/habana"
-local_vault_path: "ai/models/habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md"
+local_vault_path: "ai\models\habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/habana
 
 ## Local Vault File
 
-Path: [habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md](file:///../../ai/models/habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md)
+Path: [habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md](file:///../../ai\models\habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md)

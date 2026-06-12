@@ -3,7 +3,7 @@ title: "SupraBench: A Benchmark for Supramolecular Chemistry"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13477"
-local_vault_path: "ai/research/suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md"
+local_vault_path: "ai\research\suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13477
 
 ## Local Vault File
 
-Path: [suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md](file:///../../ai/research/suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md)
+Path: [suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md](file:///../../ai\research\suprabench-a-benchmark-for-supramolecular-chemistry-6f40c2.md)

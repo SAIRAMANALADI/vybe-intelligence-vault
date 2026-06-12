@@ -3,7 +3,7 @@ title: "Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch"
-local_vault_path: "ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md"
+local_vault_path: "ai\rag\build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://buildrag.com/tutorials/build-your-first-rag/build-r
 
 ## Local Vault File
 
-Path: [build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md](file:///../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md)
+Path: [build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md](file:///../../ai\rag\build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md)

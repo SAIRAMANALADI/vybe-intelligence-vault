@@ -3,7 +3,7 @@ title: "Building Blocks for Foundation Model Training and Inference on AWS"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
-local_vault_path: "ai/models/building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md"
+local_vault_path: "ai\models\building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/amazon/foundation-model-buildin
 
 ## Local Vault File
 
-Path: [building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md](file:///../../ai/models/building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md)
+Path: [building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md](file:///../../ai\models\building-blocks-for-foundation-model-training-and-inference-on-aws-3bee72.md)

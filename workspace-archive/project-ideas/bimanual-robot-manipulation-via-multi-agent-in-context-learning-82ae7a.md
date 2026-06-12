@@ -3,7 +3,7 @@ title: "Bimanual Robot Manipulation via Multi-Agent In-Context Learning"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.20348"
-local_vault_path: "ai/rag/bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md"
+local_vault_path: "ai\rag\bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2604.20348
 
 ## Local Vault File
 
-Path: [bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md](file:///../../ai/rag/bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md)
+Path: [bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md](file:///../../ai\rag\bimanual-robot-manipulation-via-multi-agent-in-context-learning-82ae7a.md)

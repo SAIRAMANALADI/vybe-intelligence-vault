@@ -3,7 +3,7 @@ title: "Latent World Recovery for Multimodal Learning with Missing Modalities"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12362"
-local_vault_path: "ai/rag/latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md"
+local_vault_path: "ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12362
 
 ## Local Vault File
 
-Path: [latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md](file:///../../ai/rag/latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md)
+Path: [latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md](file:///../../ai\rag\latent-world-recovery-for-multimodal-learning-with-missing-modalities-999f4e.md)

@@ -3,7 +3,7 @@ title: "Ettin Suite: SoTA Paired Encoders and Decoders"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ettin"
-local_vault_path: "ai/models/ettin-suite-sota-paired-encoders-and-decoders-f91504.md"
+local_vault_path: "ai\models\ettin-suite-sota-paired-encoders-and-decoders-f91504.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ettin
 
 ## Local Vault File
 
-Path: [ettin-suite-sota-paired-encoders-and-decoders-f91504.md](file:///../../ai/models/ettin-suite-sota-paired-encoders-and-decoders-f91504.md)
+Path: [ettin-suite-sota-paired-encoders-and-decoders-f91504.md](file:///../../ai\models\ettin-suite-sota-paired-encoders-and-decoders-f91504.md)

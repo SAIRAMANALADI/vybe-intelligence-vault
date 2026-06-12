@@ -3,7 +3,7 @@ title: "yonatangross/orchestkit"
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://github.com/yonatangross/orchestkit"
-local_vault_path: "ai/rag/yonatangross-orchestkit-239a6d.md"
+local_vault_path: "ai\rag\yonatangross-orchestkit-239a6d.md"
 quality_score: 70
 archive_score: 87
 archive_tier: "essential"
@@ -48,4 +48,4 @@ Original source URL: https://github.com/yonatangross/orchestkit
 
 ## Local Vault File
 
-Path: [yonatangross-orchestkit-239a6d.md](file:///../../ai/rag/yonatangross-orchestkit-239a6d.md)
+Path: [yonatangross-orchestkit-239a6d.md](file:///../../ai\rag\yonatangross-orchestkit-239a6d.md)

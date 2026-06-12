@@ -3,7 +3,7 @@ title: "Introducing DOI: the Digital Object Identifier to Datasets and Models"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/introducing-doi"
-local_vault_path: "ai/models/introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md"
+local_vault_path: "ai\models\introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/introducing-doi
 
 ## Local Vault File
 
-Path: [introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md](file:///../../ai/models/introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md)
+Path: [introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md](file:///../../ai\models\introducing-doi-the-digital-object-identifier-to-datasets-and-models-e320d2.md)

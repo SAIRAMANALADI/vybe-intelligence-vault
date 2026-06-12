@@ -3,7 +3,7 @@ title: "Powerful ASR + diarization + speculative decoding with Hugging Face Infe
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/asr-diarization"
-local_vault_path: "ai/models/powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md"
+local_vault_path: "ai\models\powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/asr-diarization
 
 ## Local Vault File
 
-Path: [powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md](file:///../../ai/models/powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md)
+Path: [powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md](file:///../../ai\models\powerful-asr-diarization-speculative-decoding-with-hugging-face-inference-endpoi-812196.md)

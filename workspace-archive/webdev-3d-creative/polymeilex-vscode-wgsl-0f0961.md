@@ -3,7 +3,7 @@ title: "PolyMeilex/vscode-wgsl"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/PolyMeilex/vscode-wgsl"
-local_vault_path: "web-development/webgpu/polymeilex-vscode-wgsl-0f0961.md"
+local_vault_path: "web-development\webgpu\polymeilex-vscode-wgsl-0f0961.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/PolyMeilex/vscode-wgsl
 
 ## Local Vault File
 
-Path: [polymeilex-vscode-wgsl-0f0961.md](file:///../../web-development/webgpu/polymeilex-vscode-wgsl-0f0961.md)
+Path: [polymeilex-vscode-wgsl-0f0961.md](file:///../../web-development\webgpu\polymeilex-vscode-wgsl-0f0961.md)

@@ -3,7 +3,7 @@ title: "marmelab/atomic-crm"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/marmelab/atomic-crm"
-local_vault_path: "web-development/shadcn-ui/marmelab-atomic-crm-83646e.md"
+local_vault_path: "web-development\shadcn-ui\marmelab-atomic-crm-83646e.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/marmelab/atomic-crm
 
 ## Local Vault File
 
-Path: [marmelab-atomic-crm-83646e.md](file:///../../web-development/shadcn-ui/marmelab-atomic-crm-83646e.md)
+Path: [marmelab-atomic-crm-83646e.md](file:///../../web-development\shadcn-ui\marmelab-atomic-crm-83646e.md)

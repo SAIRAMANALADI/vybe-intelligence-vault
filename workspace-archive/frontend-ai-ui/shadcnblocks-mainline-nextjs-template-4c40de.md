@@ -3,7 +3,7 @@ title: "shadcnblocks/mainline-nextjs-template"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/shadcnblocks/mainline-nextjs-template"
-local_vault_path: "web-development/nextjs/shadcnblocks-mainline-nextjs-template-4c40de.md"
+local_vault_path: "web-development\nextjs\shadcnblocks-mainline-nextjs-template-4c40de.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/shadcnblocks/mainline-nextjs-template
 
 ## Local Vault File
 
-Path: [shadcnblocks-mainline-nextjs-template-4c40de.md](file:///../../web-development/nextjs/shadcnblocks-mainline-nextjs-template-4c40de.md)
+Path: [shadcnblocks-mainline-nextjs-template-4c40de.md](file:///../../web-development\nextjs\shadcnblocks-mainline-nextjs-template-4c40de.md)

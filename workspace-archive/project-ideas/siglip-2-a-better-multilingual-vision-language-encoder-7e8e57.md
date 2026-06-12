@@ -3,7 +3,7 @@ title: "SigLIP 2: A better multilingual vision language encoder"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/siglip2"
-local_vault_path: "ai/models/siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md"
+local_vault_path: "ai\models\siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/siglip2
 
 ## Local Vault File
 
-Path: [siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md](file:///../../ai/models/siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md)
+Path: [siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md](file:///../../ai\models\siglip-2-a-better-multilingual-vision-language-encoder-7e8e57.md)

@@ -3,7 +3,7 @@ title: "Transformer-Guided Graph Attention for Direct Cardiac Mesh Reconstructio
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13188"
-local_vault_path: "ai/research/transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md"
+local_vault_path: "ai\research\transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13188
 
 ## Local Vault File
 
-Path: [transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md](file:///../../ai/research/transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md)
+Path: [transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md](file:///../../ai\research\transformer-guided-graph-attention-for-direct-cardiac-mesh-reconstruction-a-stru-b01a16.md)

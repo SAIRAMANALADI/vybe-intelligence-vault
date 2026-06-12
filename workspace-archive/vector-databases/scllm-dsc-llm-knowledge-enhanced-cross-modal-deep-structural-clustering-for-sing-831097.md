@@ -3,7 +3,7 @@ title: "scLLM-DSC: LLM-Knowledge Enhanced Cross-Modal Deep Structural Clustering
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13007"
-local_vault_path: "ai/rag/scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md"
+local_vault_path: "ai\rag\scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13007
 
 ## Local Vault File
 
-Path: [scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md](file:///../../ai/rag/scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md)
+Path: [scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md](file:///../../ai\rag\scllm-dsc-llm-knowledge-enhanced-cross-modal-deep-structural-clustering-for-sing-831097.md)

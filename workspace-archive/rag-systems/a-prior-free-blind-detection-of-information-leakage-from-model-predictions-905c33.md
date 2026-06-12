@@ -3,7 +3,7 @@ title: "A prior-free blind detection of information leakage from model predictio
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11267"
-local_vault_path: "ai/research/a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md"
+local_vault_path: "ai\research\a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11267
 
 ## Local Vault File
 
-Path: [a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md](file:///../../ai/research/a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md)
+Path: [a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md](file:///../../ai\research\a-prior-free-blind-detection-of-information-leakage-from-model-predictions-905c33.md)

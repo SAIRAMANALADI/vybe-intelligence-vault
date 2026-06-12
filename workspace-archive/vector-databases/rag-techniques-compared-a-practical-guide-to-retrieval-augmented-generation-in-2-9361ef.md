@@ -3,7 +3,7 @@ title: "RAG Techniques Compared: A Practical Guide to Retrieval Augmented Genera
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://blog.starmorph.com/blog/rag-techniques-compared-best-practices-guide"
-local_vault_path: "ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md"
+local_vault_path: "ai\rag\rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://blog.starmorph.com/blog/rag-techniques-compared-bes
 
 ## Local Vault File
 
-Path: [rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md](file:///../../ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md)
+Path: [rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md](file:///../../ai\rag\rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md)

@@ -3,7 +3,7 @@ title: "Does the Question Really Matter? Training-Free Data Selection for Vision
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.09715"
-local_vault_path: "ai/rag/does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md"
+local_vault_path: "ai\rag\does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.09715
 
 ## Local Vault File
 
-Path: [does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md](file:///../../ai/rag/does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md)
+Path: [does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md](file:///../../ai\rag\does-the-question-really-matter-training-free-data-selection-for-vision-language-d00b05.md)

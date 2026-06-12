@@ -3,7 +3,7 @@ title: "How Long Prompts Block Other Requests - Optimizing LLM Performance"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts"
-local_vault_path: "ai/models/how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md"
+local_vault_path: "ai\models\how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-blocked
 
 ## Local Vault File
 
-Path: [how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md](file:///../../ai/models/how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md)
+Path: [how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md](file:///../../ai\models\how-long-prompts-block-other-requests-optimizing-llm-performance-ead695.md)

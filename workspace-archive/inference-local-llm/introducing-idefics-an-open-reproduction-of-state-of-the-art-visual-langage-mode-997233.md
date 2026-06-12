@@ -3,7 +3,7 @@ title: "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Lan
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/idefics"
-local_vault_path: "ai/models/introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md"
+local_vault_path: "ai\models\introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/idefics
 
 ## Local Vault File
 
-Path: [introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md](file:///../../ai/models/introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md)
+Path: [introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md](file:///../../ai\models\introducing-idefics-an-open-reproduction-of-state-of-the-art-visual-langage-mode-997233.md)

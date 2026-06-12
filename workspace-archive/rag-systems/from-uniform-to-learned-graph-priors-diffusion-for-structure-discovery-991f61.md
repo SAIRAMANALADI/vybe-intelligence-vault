@@ -3,7 +3,7 @@ title: "From Uniform to Learned Graph Priors: Diffusion for Structure Discovery"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11831"
-local_vault_path: "ai/research/from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md"
+local_vault_path: "ai\research\from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11831
 
 ## Local Vault File
 
-Path: [from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md](file:///../../ai/research/from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md)
+Path: [from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md](file:///../../ai\research\from-uniform-to-learned-graph-priors-diffusion-for-structure-discovery-991f61.md)

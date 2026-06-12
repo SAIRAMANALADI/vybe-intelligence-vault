@@ -3,7 +3,7 @@ title: "What Type of Inference is Active Inference?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.04935"
-local_vault_path: "ai/research/what-type-of-inference-is-active-inference-58ab7e.md"
+local_vault_path: "ai\research\what-type-of-inference-is-active-inference-58ab7e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.04935
 
 ## Local Vault File
 
-Path: [what-type-of-inference-is-active-inference-58ab7e.md](file:///../../ai/research/what-type-of-inference-is-active-inference-58ab7e.md)
+Path: [what-type-of-inference-is-active-inference-58ab7e.md](file:///../../ai\research\what-type-of-inference-is-active-inference-58ab7e.md)

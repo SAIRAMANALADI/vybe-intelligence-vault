@@ -3,7 +3,7 @@ title: "Kimina-Prover-RL"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/AI-MO/kimina-prover-rl"
-local_vault_path: "ai/models/kimina-prover-rl-b41b55.md"
+local_vault_path: "ai\models\kimina-prover-rl-b41b55.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/AI-MO/kimina-prover-rl
 
 ## Local Vault File
 
-Path: [kimina-prover-rl-b41b55.md](file:///../../ai/models/kimina-prover-rl-b41b55.md)
+Path: [kimina-prover-rl-b41b55.md](file:///../../ai\models\kimina-prover-rl-b41b55.md)

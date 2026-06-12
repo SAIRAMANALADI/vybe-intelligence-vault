@@ -44,16 +44,33 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2107 |
-| Archive files | 9104 |
+| Resources tracked | 2120 |
+| Active resources | 2038 |
+| Inactive resources | 82 |
+| Archive files | 9108 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 05:04 UTC |
+| Last meaningful update | 2026-06-12 09:06 UTC |
 
-The stats shown here are generated from the current vault content. They refresh automatically when the bot finds meaningful changes, not just because a scheduled run happened.
+### Trend Intelligence Dashboard
+
+#### 🔥 Trending Resources
+- No trending items found.
+
+#### ✨ New Discoveries
+- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)** (Score: 427)
+- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)** (Score: 414)
+- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md)** (Score: 384)
+- **[L'Affaire Siloxane](ai/community/l-affaire-siloxane-923f03.md)** (Score: 225)
+- **[Apache Burr: Build reliable AI agents and applications](ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md)** (Score: 216)
+
+#### 💤 Recently Inactive Resources
+- None.
+
+The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
 <!-- VAULT_STATS:END -->
 

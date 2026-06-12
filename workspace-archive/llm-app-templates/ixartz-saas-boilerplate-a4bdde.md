@@ -3,7 +3,7 @@ title: "ixartz/SaaS-Boilerplate"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/ixartz/SaaS-Boilerplate"
-local_vault_path: "web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md"
+local_vault_path: "web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://github.com/ixartz/SaaS-Boilerplate
 
 ## Local Vault File
 
-Path: [ixartz-saas-boilerplate-a4bdde.md](file:///../../web-development/nextjs/ixartz-saas-boilerplate-a4bdde.md)
+Path: [ixartz-saas-boilerplate-a4bdde.md](file:///../../web-development\nextjs\ixartz-saas-boilerplate-a4bdde.md)

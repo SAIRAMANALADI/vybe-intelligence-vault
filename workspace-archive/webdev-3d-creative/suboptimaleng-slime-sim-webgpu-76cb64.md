@@ -3,7 +3,7 @@ title: "SuboptimalEng/slime-sim-webgpu"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/SuboptimalEng/slime-sim-webgpu"
-local_vault_path: "web-development/webgpu/suboptimaleng-slime-sim-webgpu-76cb64.md"
+local_vault_path: "web-development\webgpu\suboptimaleng-slime-sim-webgpu-76cb64.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/SuboptimalEng/slime-sim-webgpu
 
 ## Local Vault File
 
-Path: [suboptimaleng-slime-sim-webgpu-76cb64.md](file:///../../web-development/webgpu/suboptimaleng-slime-sim-webgpu-76cb64.md)
+Path: [suboptimaleng-slime-sim-webgpu-76cb64.md](file:///../../web-development\webgpu\suboptimaleng-slime-sim-webgpu-76cb64.md)

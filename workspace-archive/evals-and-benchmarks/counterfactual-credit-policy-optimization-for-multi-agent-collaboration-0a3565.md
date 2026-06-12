@@ -3,7 +3,7 @@ title: "Counterfactual Credit Policy Optimization for Multi-Agent Collaboration"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.21563"
-local_vault_path: "ai/rag/counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md"
+local_vault_path: "ai\rag\counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2603.21563
 
 ## Local Vault File
 
-Path: [counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md](file:///../../ai/rag/counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md)
+Path: [counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md](file:///../../ai\rag\counterfactual-credit-policy-optimization-for-multi-agent-collaboration-0a3565.md)

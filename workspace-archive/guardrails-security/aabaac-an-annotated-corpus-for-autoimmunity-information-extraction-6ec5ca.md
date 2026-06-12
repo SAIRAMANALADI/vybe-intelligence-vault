@@ -3,7 +3,7 @@ title: "AAbAAC: An Annotated Corpus for Autoimmunity Information Extraction"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13051"
-local_vault_path: "ai/research/aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md"
+local_vault_path: "ai\research\aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13051
 
 ## Local Vault File
 
-Path: [aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md](file:///../../ai/research/aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md)
+Path: [aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md](file:///../../ai\research\aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md)

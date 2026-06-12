@@ -3,7 +3,7 @@ title: "BaltiVoice: A Speech Corpus and Fine-tuned Whisper ASR System for the Ba
 archive_category: "model-providers"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.03504"
-local_vault_path: "ai/research/baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md"
+local_vault_path: "ai\research\baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.03504
 
 ## Local Vault File
 
-Path: [baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md](file:///../../ai/research/baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md)
+Path: [baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md](file:///../../ai\research\baltivoice-a-speech-corpus-and-fine-tuned-whisper-asr-system-for-the-balti-langu-289478.md)

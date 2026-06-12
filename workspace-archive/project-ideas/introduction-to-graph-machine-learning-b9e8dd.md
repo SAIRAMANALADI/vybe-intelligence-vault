@@ -3,7 +3,7 @@ title: "Introduction to Graph Machine Learning"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/intro-graphml"
-local_vault_path: "ai/models/introduction-to-graph-machine-learning-b9e8dd.md"
+local_vault_path: "ai\models\introduction-to-graph-machine-learning-b9e8dd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/intro-graphml
 
 ## Local Vault File
 
-Path: [introduction-to-graph-machine-learning-b9e8dd.md](file:///../../ai/models/introduction-to-graph-machine-learning-b9e8dd.md)
+Path: [introduction-to-graph-machine-learning-b9e8dd.md](file:///../../ai\models\introduction-to-graph-machine-learning-b9e8dd.md)

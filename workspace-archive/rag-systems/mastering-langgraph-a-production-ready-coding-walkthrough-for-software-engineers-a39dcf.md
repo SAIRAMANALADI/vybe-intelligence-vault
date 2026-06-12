@@ -3,7 +3,7 @@ title: "Mastering LangGraph: A Production-Ready Coding Walkthrough for Software 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers"
-local_vault_path: "ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md"
+local_vault_path: "ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://ragaboutit.com/mastering-langgraph-a-production-rea
 
 ## Local Vault File
 
-Path: [mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)
+Path: [mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md](file:///../../ai\rag\mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)

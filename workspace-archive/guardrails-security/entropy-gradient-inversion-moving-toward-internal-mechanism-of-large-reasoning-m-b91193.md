@@ -3,7 +3,7 @@ title: "Entropy-Gradient Inversion: Moving Toward Internal Mechanism of Large Re
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.17770"
-local_vault_path: "ai/research/entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md"
+local_vault_path: "ai\research\entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2605.17770
 
 ## Local Vault File
 
-Path: [entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md](file:///../../ai/research/entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md)
+Path: [entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md](file:///../../ai\research\entropy-gradient-inversion-moving-toward-internal-mechanism-of-large-reasoning-m-b91193.md)

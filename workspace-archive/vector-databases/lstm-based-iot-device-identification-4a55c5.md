@@ -3,7 +3,7 @@ title: "LSTM based IoT Device Identification"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2304.13905"
-local_vault_path: "ai/rag/lstm-based-iot-device-identification-4a55c5.md"
+local_vault_path: "ai\rag\lstm-based-iot-device-identification-4a55c5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2304.13905
 
 ## Local Vault File
 
-Path: [lstm-based-iot-device-identification-4a55c5.md](file:///../../ai/rag/lstm-based-iot-device-identification-4a55c5.md)
+Path: [lstm-based-iot-device-identification-4a55c5.md](file:///../../ai\rag\lstm-based-iot-device-identification-4a55c5.md)

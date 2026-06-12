@@ -3,7 +3,7 @@ title: "humanlayer/12-factor-agents"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/humanlayer/12-factor-agents"
-local_vault_path: "ai/rag/humanlayer-12-factor-agents-b0ceeb.md"
+local_vault_path: "ai\rag\humanlayer-12-factor-agents-b0ceeb.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/humanlayer/12-factor-agents
 
 ## Local Vault File
 
-Path: [humanlayer-12-factor-agents-b0ceeb.md](file:///../../ai/rag/humanlayer-12-factor-agents-b0ceeb.md)
+Path: [humanlayer-12-factor-agents-b0ceeb.md](file:///../../ai\rag\humanlayer-12-factor-agents-b0ceeb.md)

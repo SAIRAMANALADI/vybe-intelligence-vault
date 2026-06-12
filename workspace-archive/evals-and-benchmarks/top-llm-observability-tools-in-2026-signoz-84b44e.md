@@ -3,7 +3,7 @@ title: "Top LLM Observability Tools in 2026 | SigNoz"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://signoz.io/comparisons/llm-observability-tools"
-local_vault_path: "ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md"
+local_vault_path: "ai\rag\top-llm-observability-tools-in-2026-signoz-84b44e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://signoz.io/comparisons/llm-observability-tools
 
 ## Local Vault File
 
-Path: [top-llm-observability-tools-in-2026-signoz-84b44e.md](file:///../../ai/rag/top-llm-observability-tools-in-2026-signoz-84b44e.md)
+Path: [top-llm-observability-tools-in-2026-signoz-84b44e.md](file:///../../ai\rag\top-llm-observability-tools-in-2026-signoz-84b44e.md)

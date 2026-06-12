@@ -3,7 +3,7 @@ title: "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11926"
-local_vault_path: "ai/rag/toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md"
+local_vault_path: "ai\rag\toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11926
 
 ## Local Vault File
 
-Path: [toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md](file:///../../ai/rag/toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md)
+Path: [toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md](file:///../../ai\rag\toward-generalist-autonomous-research-via-hypothesis-tree-refinement-b4318f.md)

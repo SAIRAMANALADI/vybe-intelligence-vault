@@ -3,7 +3,7 @@ title: "Nyströmformer: Approximating self-attention in linear time and memory v
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nystromformer"
-local_vault_path: "ai/models/nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md"
+local_vault_path: "ai\models\nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nystromformer
 
 ## Local Vault File
 
-Path: [nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md](file:///../../ai/models/nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md)
+Path: [nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md](file:///../../ai\models\nystromformer-approximating-self-attention-in-linear-time-and-memory-via-the-nys-199f8e.md)

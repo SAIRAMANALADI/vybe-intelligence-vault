@@ -3,7 +3,7 @@ title: "When Does Deep RL Beat Calibrated Baselines? A Benchmark Study on Adapti
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.26418"
-local_vault_path: "ai/agents/when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md"
+local_vault_path: "ai\agents\when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.26418
 
 ## Local Vault File
 
-Path: [when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md](file:///../../ai/agents/when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md)
+Path: [when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md](file:///../../ai\agents\when-does-deep-rl-beat-calibrated-baselines-a-benchmark-study-on-adaptive-resour-6142db.md)

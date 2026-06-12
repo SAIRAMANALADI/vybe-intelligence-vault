@@ -3,7 +3,7 @@ title: "SoftMatcha 2: A Fast and Soft Pattern Matcher for Trillion-Scale Corpora
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10908"
-local_vault_path: "ai/research/softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md"
+local_vault_path: "ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.10908
 
 ## Local Vault File
 
-Path: [softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md](file:///../../ai/research/softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md)
+Path: [softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md](file:///../../ai\research\softmatcha-2-a-fast-and-soft-pattern-matcher-for-trillion-scale-corpora-999e57.md)

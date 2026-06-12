@@ -3,7 +3,7 @@ title: "HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizer
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13289"
-local_vault_path: "ai/research/hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md"
+local_vault_path: "ai\research\hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13289
 
 ## Local Vault File
 
-Path: [hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md](file:///../../ai/research/hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md)
+Path: [hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md](file:///../../ai\research\hydra-x-native-unified-multimodal-models-with-holistic-visual-tokenizers-26e621.md)

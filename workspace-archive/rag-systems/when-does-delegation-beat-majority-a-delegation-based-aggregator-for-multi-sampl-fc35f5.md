@@ -3,7 +3,7 @@ title: "When Does Delegation Beat Majority? A Delegation-Based Aggregator for Mu
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08098"
-local_vault_path: "ai/research/when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md"
+local_vault_path: "ai\research\when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.08098
 
 ## Local Vault File
 
-Path: [when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md](file:///../../ai/research/when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md)
+Path: [when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md](file:///../../ai\research\when-does-delegation-beat-majority-a-delegation-based-aggregator-for-multi-sampl-fc35f5.md)

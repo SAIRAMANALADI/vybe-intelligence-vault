@@ -3,7 +3,7 @@ title: "Interaction-Centered Intelligence: Toward an Interaction-Based Theory of
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.00807"
-local_vault_path: "ai/agents/interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md"
+local_vault_path: "ai\agents\interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.00807
 
 ## Local Vault File
 
-Path: [interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md](file:///../../ai/agents/interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md)
+Path: [interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md](file:///../../ai\agents\interaction-centered-intelligence-toward-an-interaction-based-theory-of-human-ai-21faa2.md)

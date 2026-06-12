@@ -3,7 +3,7 @@ title: "LangGraph Agents in Production: Architecture & Costs"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://www.alphabold.com/langgraph-agents-in-production"
-local_vault_path: "ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md"
+local_vault_path: "ai\agents\langgraph-agents-in-production-architecture-costs-ca9bc5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://www.alphabold.com/langgraph-agents-in-production
 
 ## Local Vault File
 
-Path: [langgraph-agents-in-production-architecture-costs-ca9bc5.md](file:///../../ai/agents/langgraph-agents-in-production-architecture-costs-ca9bc5.md)
+Path: [langgraph-agents-in-production-architecture-costs-ca9bc5.md](file:///../../ai\agents\langgraph-agents-in-production-architecture-costs-ca9bc5.md)

@@ -3,7 +3,7 @@ title: "sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant"
-local_vault_path: "ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md"
+local_vault_path: "ai\rag\sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/sahithirmaryada/RareDx-Agentic-Diagnosti
 
 ## Local Vault File
 
-Path: [sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md](file:///../../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md)
+Path: [sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md](file:///../../ai\rag\sahithirmaryada-raredx-agentic-diagnostic-assistant-140c6b.md)

@@ -3,7 +3,7 @@ title: "SAIGuard: Communication-State Simulation for Proactive Defense of LLM Mu
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12474"
-local_vault_path: "ai/agents/saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md"
+local_vault_path: "ai\agents\saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12474
 
 ## Local Vault File
 
-Path: [saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md](file:///../../ai/agents/saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md)
+Path: [saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md](file:///../../ai\agents\saiguard-communication-state-simulation-for-proactive-defense-of-llm-multi-agent-a678e4.md)

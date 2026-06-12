@@ -3,7 +3,7 @@ title: "A Study of Belief Revision Postulates in Multi-Agent Systems (Extended V
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.02249"
-local_vault_path: "ai/agents/a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md"
+local_vault_path: "ai\agents\a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.02249
 
 ## Local Vault File
 
-Path: [a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md](file:///../../ai/agents/a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md)
+Path: [a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md](file:///../../ai\agents\a-study-of-belief-revision-postulates-in-multi-agent-systems-extended-version-686eea.md)

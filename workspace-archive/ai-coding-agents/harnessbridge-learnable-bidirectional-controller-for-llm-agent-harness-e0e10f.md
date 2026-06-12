@@ -3,7 +3,7 @@ title: "HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12882"
-local_vault_path: "ai/agents/harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md"
+local_vault_path: "ai\agents\harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12882
 
 ## Local Vault File
 
-Path: [harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md](file:///../../ai/agents/harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md)
+Path: [harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md](file:///../../ai\agents\harnessbridge-learnable-bidirectional-controller-for-llm-agent-harness-e0e10f.md)

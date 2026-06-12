@@ -3,7 +3,7 @@ title: "🐯 Liger GRPO meets TRL"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/liger-grpo"
-local_vault_path: "ai/models/liger-grpo-meets-trl-816c0f.md"
+local_vault_path: "ai\models\liger-grpo-meets-trl-816c0f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/liger-grpo
 
 ## Local Vault File
 
-Path: [liger-grpo-meets-trl-816c0f.md](file:///../../ai/models/liger-grpo-meets-trl-816c0f.md)
+Path: [liger-grpo-meets-trl-816c0f.md](file:///../../ai\models\liger-grpo-meets-trl-816c0f.md)

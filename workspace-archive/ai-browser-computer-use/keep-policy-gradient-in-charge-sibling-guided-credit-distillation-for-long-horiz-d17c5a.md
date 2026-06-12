@@ -3,7 +3,7 @@ title: "Keep Policy Gradient in Charge: Sibling-Guided Credit Distillation for L
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12634"
-local_vault_path: "ai/agents/keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md"
+local_vault_path: "ai\agents\keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12634
 
 ## Local Vault File
 
-Path: [keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md](file:///../../ai/agents/keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md)
+Path: [keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md](file:///../../ai\agents\keep-policy-gradient-in-charge-sibling-guided-credit-distillation-for-long-horiz-d17c5a.md)

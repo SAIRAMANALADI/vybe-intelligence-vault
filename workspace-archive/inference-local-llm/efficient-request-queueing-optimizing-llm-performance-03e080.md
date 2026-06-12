@@ -3,7 +3,7 @@ title: "Efficient Request Queueing – Optimizing LLM Performance"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tngtech/llm-performance-request-queueing"
-local_vault_path: "ai/models/efficient-request-queueing-optimizing-llm-performance-03e080.md"
+local_vault_path: "ai\models\efficient-request-queueing-optimizing-llm-performance-03e080.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-request
 
 ## Local Vault File
 
-Path: [efficient-request-queueing-optimizing-llm-performance-03e080.md](file:///../../ai/models/efficient-request-queueing-optimizing-llm-performance-03e080.md)
+Path: [efficient-request-queueing-optimizing-llm-performance-03e080.md](file:///../../ai\models\efficient-request-queueing-optimizing-llm-performance-03e080.md)

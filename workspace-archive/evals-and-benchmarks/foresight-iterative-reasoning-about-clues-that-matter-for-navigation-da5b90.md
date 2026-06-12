@@ -3,7 +3,7 @@ title: "Foresight: Iterative Reasoning About Clues that Matter for Navigation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12550"
-local_vault_path: "ai/rag/foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md"
+local_vault_path: "ai\rag\foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12550
 
 ## Local Vault File
 
-Path: [foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md](file:///../../ai/rag/foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md)
+Path: [foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md](file:///../../ai\rag\foresight-iterative-reasoning-about-clues-that-matter-for-navigation-da5b90.md)

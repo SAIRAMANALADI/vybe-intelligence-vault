@@ -3,7 +3,7 @@ title: "dhruvmisra/Pathfinding-Visualizer-ThreeJS"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS"
-local_vault_path: "web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md"
+local_vault_path: "web-development\threejs\dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJ
 
 ## Local Vault File
 
-Path: [dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md](file:///../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md)
+Path: [dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md](file:///../../web-development\threejs\dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md)

@@ -3,7 +3,7 @@ title: "MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Lang
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2510.16380"
-local_vault_path: "ai/agents/morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md"
+local_vault_path: "ai\agents\morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2510.16380
 
 ## Local Vault File
 
-Path: [morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md](file:///../../ai/agents/morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md)
+Path: [morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md](file:///../../ai\agents\morebench-evaluating-procedural-and-pluralistic-moral-reasoning-in-language-mode-75f7d7.md)

@@ -3,7 +3,7 @@ title: "Training CodeParrot 🦜 from Scratch"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/codeparrot"
-local_vault_path: "ai/models/training-codeparrot-from-scratch-748eb1.md"
+local_vault_path: "ai\models\training-codeparrot-from-scratch-748eb1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/codeparrot
 
 ## Local Vault File
 
-Path: [training-codeparrot-from-scratch-748eb1.md](file:///../../ai/models/training-codeparrot-from-scratch-748eb1.md)
+Path: [training-codeparrot-from-scratch-748eb1.md](file:///../../ai\models\training-codeparrot-from-scratch-748eb1.md)

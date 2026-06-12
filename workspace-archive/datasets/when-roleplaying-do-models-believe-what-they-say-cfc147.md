@@ -3,7 +3,7 @@ title: "When Roleplaying, Do Models Believe What They Say?"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11502"
-local_vault_path: "ai/research/when-roleplaying-do-models-believe-what-they-say-cfc147.md"
+local_vault_path: "ai\research\when-roleplaying-do-models-believe-what-they-say-cfc147.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11502
 
 ## Local Vault File
 
-Path: [when-roleplaying-do-models-believe-what-they-say-cfc147.md](file:///../../ai/research/when-roleplaying-do-models-believe-what-they-say-cfc147.md)
+Path: [when-roleplaying-do-models-believe-what-they-say-cfc147.md](file:///../../ai\research\when-roleplaying-do-models-believe-what-they-say-cfc147.md)

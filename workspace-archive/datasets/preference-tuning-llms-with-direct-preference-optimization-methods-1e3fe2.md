@@ -3,7 +3,7 @@ title: "Preference Tuning LLMs with Direct Preference Optimization Methods"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pref-tuning"
-local_vault_path: "ai/models/preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md"
+local_vault_path: "ai\models\preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pref-tuning
 
 ## Local Vault File
 
-Path: [preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md](file:///../../ai/models/preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md)
+Path: [preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md](file:///../../ai\models\preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md)

@@ -3,7 +3,7 @@ title: "EvalStop: Using World Feedback to Detect and Correct Reward Overoptimiza
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.04145"
-local_vault_path: "ai/research/evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md"
+local_vault_path: "ai\research\evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.04145
 
 ## Local Vault File
 
-Path: [evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md](file:///../../ai/research/evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md)
+Path: [evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md](file:///../../ai\research\evalstop-using-world-feedback-to-detect-and-correct-reward-overoptimization-in-m-781662.md)

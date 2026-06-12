@@ -3,7 +3,7 @@ title: "github/awesome-copilot"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/github/awesome-copilot"
-local_vault_path: "ai/agents/github-awesome-copilot-1c883b.md"
+local_vault_path: "ai\agents\github-awesome-copilot-1c883b.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/github/awesome-copilot
 
 ## Local Vault File
 
-Path: [github-awesome-copilot-1c883b.md](file:///../../ai/agents/github-awesome-copilot-1c883b.md)
+Path: [github-awesome-copilot-1c883b.md](file:///../../ai\agents\github-awesome-copilot-1c883b.md)

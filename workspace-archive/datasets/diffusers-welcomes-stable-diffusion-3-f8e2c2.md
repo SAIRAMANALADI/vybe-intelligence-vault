@@ -3,7 +3,7 @@ title: "Diffusers welcomes Stable Diffusion 3"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sd3"
-local_vault_path: "ai/models/diffusers-welcomes-stable-diffusion-3-f8e2c2.md"
+local_vault_path: "ai\models\diffusers-welcomes-stable-diffusion-3-f8e2c2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sd3
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-stable-diffusion-3-f8e2c2.md](file:///../../ai/models/diffusers-welcomes-stable-diffusion-3-f8e2c2.md)
+Path: [diffusers-welcomes-stable-diffusion-3-f8e2c2.md](file:///../../ai\models\diffusers-welcomes-stable-diffusion-3-f8e2c2.md)

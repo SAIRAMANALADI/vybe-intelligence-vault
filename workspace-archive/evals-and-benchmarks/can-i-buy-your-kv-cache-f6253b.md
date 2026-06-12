@@ -3,7 +3,7 @@ title: "Can I Buy Your KV Cache?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13361"
-local_vault_path: "ai/agents/can-i-buy-your-kv-cache-f6253b.md"
+local_vault_path: "ai\agents\can-i-buy-your-kv-cache-f6253b.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13361
 
 ## Local Vault File
 
-Path: [can-i-buy-your-kv-cache-f6253b.md](file:///../../ai/agents/can-i-buy-your-kv-cache-f6253b.md)
+Path: [can-i-buy-your-kv-cache-f6253b.md](file:///../../ai\agents\can-i-buy-your-kv-cache-f6253b.md)

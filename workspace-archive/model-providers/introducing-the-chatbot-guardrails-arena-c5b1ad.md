@@ -3,7 +3,7 @@ title: "Introducing the Chatbot Guardrails Arena"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/arena-lighthouz"
-local_vault_path: "ai/models/introducing-the-chatbot-guardrails-arena-c5b1ad.md"
+local_vault_path: "ai\models\introducing-the-chatbot-guardrails-arena-c5b1ad.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/arena-lighthouz
 
 ## Local Vault File
 
-Path: [introducing-the-chatbot-guardrails-arena-c5b1ad.md](file:///../../ai/models/introducing-the-chatbot-guardrails-arena-c5b1ad.md)
+Path: [introducing-the-chatbot-guardrails-arena-c5b1ad.md](file:///../../ai\models\introducing-the-chatbot-guardrails-arena-c5b1ad.md)

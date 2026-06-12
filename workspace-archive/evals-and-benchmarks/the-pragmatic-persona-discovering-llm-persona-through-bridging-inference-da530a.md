@@ -3,7 +3,7 @@ title: "The Pragmatic Persona: Discovering LLM Persona through Bridging Inferenc
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.24079"
-local_vault_path: "ai/rag/the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md"
+local_vault_path: "ai\rag\the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2604.24079
 
 ## Local Vault File
 
-Path: [the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md](file:///../../ai/rag/the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md)
+Path: [the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md](file:///../../ai\rag\the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md)

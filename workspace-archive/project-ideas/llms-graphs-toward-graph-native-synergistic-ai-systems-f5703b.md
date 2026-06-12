@@ -3,7 +3,7 @@ title: "LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11560"
-local_vault_path: "ai/rag/llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md"
+local_vault_path: "ai\rag\llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11560
 
 ## Local Vault File
 
-Path: [llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md](file:///../../ai/rag/llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md)
+Path: [llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md](file:///../../ai\rag\llms-graphs-toward-graph-native-synergistic-ai-systems-f5703b.md)

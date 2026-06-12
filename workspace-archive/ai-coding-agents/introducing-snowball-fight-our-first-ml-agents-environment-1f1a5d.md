@@ -3,7 +3,7 @@ title: "Introducing Snowball Fight ☃️, our first ML-Agents environment"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/snowball-fight"
-local_vault_path: "ai/agents/introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md"
+local_vault_path: "ai\agents\introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/snowball-fight
 
 ## Local Vault File
 
-Path: [introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md](file:///../../ai/agents/introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md)
+Path: [introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md](file:///../../ai\agents\introducing-snowball-fight-our-first-ml-agents-environment-1f1a5d.md)

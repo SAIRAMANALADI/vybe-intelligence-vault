@@ -3,7 +3,7 @@ title: "Multiagent Protocols with Aggregated Confidence Signals"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13591"
-local_vault_path: "ai/agents/multiagent-protocols-with-aggregated-confidence-signals-7dc047.md"
+local_vault_path: "ai\agents\multiagent-protocols-with-aggregated-confidence-signals-7dc047.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13591
 
 ## Local Vault File
 
-Path: [multiagent-protocols-with-aggregated-confidence-signals-7dc047.md](file:///../../ai/agents/multiagent-protocols-with-aggregated-confidence-signals-7dc047.md)
+Path: [multiagent-protocols-with-aggregated-confidence-signals-7dc047.md](file:///../../ai\agents\multiagent-protocols-with-aggregated-confidence-signals-7dc047.md)

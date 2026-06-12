@@ -3,7 +3,7 @@ title: "affaan-m/agentshield"
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://github.com/affaan-m/agentshield"
-local_vault_path: "ai/agents/affaan-m-agentshield-e9a88d.md"
+local_vault_path: "ai\agents\affaan-m-agentshield-e9a88d.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/affaan-m/agentshield
 
 ## Local Vault File
 
-Path: [affaan-m-agentshield-e9a88d.md](file:///../../ai/agents/affaan-m-agentshield-e9a88d.md)
+Path: [affaan-m-agentshield-e9a88d.md](file:///../../ai\agents\affaan-m-agentshield-e9a88d.md)

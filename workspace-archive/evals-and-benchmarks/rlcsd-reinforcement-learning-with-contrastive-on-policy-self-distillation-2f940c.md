@@ -3,7 +3,7 @@ title: "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillati
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11709"
-local_vault_path: "ai/research/rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md"
+local_vault_path: "ai\research\rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11709
 
 ## Local Vault File
 
-Path: [rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md](file:///../../ai/research/rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md)
+Path: [rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md](file:///../../ai\research\rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md)

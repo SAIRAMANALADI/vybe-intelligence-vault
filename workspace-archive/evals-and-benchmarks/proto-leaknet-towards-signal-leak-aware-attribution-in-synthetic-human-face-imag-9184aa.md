@@ -3,7 +3,7 @@ title: "Proto-LeakNet: Towards Signal-Leak Aware Attribution in Synthetic Human 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.04260"
-local_vault_path: "ai/rag/proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md"
+local_vault_path: "ai\rag\proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2511.04260
 
 ## Local Vault File
 
-Path: [proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md](file:///../../ai/rag/proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md)
+Path: [proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md](file:///../../ai\rag\proto-leaknet-towards-signal-leak-aware-attribution-in-synthetic-human-face-imag-9184aa.md)

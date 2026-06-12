@@ -3,7 +3,7 @@ title: "Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unro
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.13102"
-local_vault_path: "ai/research/lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md"
+local_vault_path: "ai\research\lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.13102
 
 ## Local Vault File
 
-Path: [lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md](file:///../../ai/research/lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md)
+Path: [lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md](file:///../../ai\research\lightweight-and-interpretable-transformer-via-mixed-graph-algorithm-unrolling-fo-d1a406.md)

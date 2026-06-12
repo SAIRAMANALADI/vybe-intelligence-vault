@@ -3,7 +3,7 @@ title: "On the Shifting Global Compute Landscape"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/shifting-compute-landscape"
-local_vault_path: "ai/models/on-the-shifting-global-compute-landscape-376820.md"
+local_vault_path: "ai\models\on-the-shifting-global-compute-landscape-376820.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/huggingface/shifting-compute-la
 
 ## Local Vault File
 
-Path: [on-the-shifting-global-compute-landscape-376820.md](file:///../../ai/models/on-the-shifting-global-compute-landscape-376820.md)
+Path: [on-the-shifting-global-compute-landscape-376820.md](file:///../../ai\models\on-the-shifting-global-compute-landscape-376820.md)

@@ -3,7 +3,7 @@ title: "APEX: A Network-Native Time-Series Foundation Model for Forecasting and 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11553"
-local_vault_path: "ai/research/apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md"
+local_vault_path: "ai\research\apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11553
 
 ## Local Vault File
 
-Path: [apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md](file:///../../ai/research/apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md)
+Path: [apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md](file:///../../ai\research\apex-a-network-native-time-series-foundation-model-for-forecasting-and-anomaly-d-08f1a8.md)

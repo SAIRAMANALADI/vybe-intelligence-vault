@@ -3,7 +3,7 @@ title: "HERO: Hindsight-Enhanced Reflection from Environment Observations for Ag
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11559"
-local_vault_path: "ai/agents/hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md"
+local_vault_path: "ai\agents\hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11559
 
 ## Local Vault File
 
-Path: [hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md](file:///../../ai/agents/hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md)
+Path: [hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md](file:///../../ai\agents\hero-hindsight-enhanced-reflection-from-environment-observations-for-agentic-sel-b95ec8.md)

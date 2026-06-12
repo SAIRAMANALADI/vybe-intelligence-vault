@@ -3,7 +3,7 @@ title: "IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow"
-local_vault_path: "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md"
+local_vault_path: "ai\rag\icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/IcensRAGHomework/icensraghomework-classr
 
 ## Local Vault File
 
-Path: [icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md](file:///../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md)
+Path: [icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow-2f65d5.md)

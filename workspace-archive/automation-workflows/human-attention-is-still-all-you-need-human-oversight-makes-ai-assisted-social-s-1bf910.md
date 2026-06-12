@@ -3,7 +3,7 @@ title: "(Human) Attention Is (Still) All You Need: Human oversight makes AI-assi
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12848"
-local_vault_path: "ai/agents/human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md"
+local_vault_path: "ai\agents\human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12848
 
 ## Local Vault File
 
-Path: [human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md](file:///../../ai/agents/human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md)
+Path: [human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md](file:///../../ai\agents\human-attention-is-still-all-you-need-human-oversight-makes-ai-assisted-social-s-1bf910.md)

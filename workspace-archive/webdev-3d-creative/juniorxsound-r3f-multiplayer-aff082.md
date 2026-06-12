@@ -3,7 +3,7 @@ title: "juniorxsound/R3F.Multiplayer"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/juniorxsound/R3F.Multiplayer"
-local_vault_path: "web-development/react-three-fiber/juniorxsound-r3f-multiplayer-aff082.md"
+local_vault_path: "web-development\react-three-fiber\juniorxsound-r3f-multiplayer-aff082.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/juniorxsound/R3F.Multiplayer
 
 ## Local Vault File
 
-Path: [juniorxsound-r3f-multiplayer-aff082.md](file:///../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer-aff082.md)
+Path: [juniorxsound-r3f-multiplayer-aff082.md](file:///../../web-development\react-three-fiber\juniorxsound-r3f-multiplayer-aff082.md)

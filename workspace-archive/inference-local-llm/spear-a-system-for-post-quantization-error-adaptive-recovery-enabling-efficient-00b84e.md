@@ -3,7 +3,7 @@ title: "SPEAR: A System for Post-Quantization Error-Adaptive Recovery Enabling E
 archive_category: "inference-local-llm"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11244"
-local_vault_path: "ai/research/spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md"
+local_vault_path: "ai\research\spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11244
 
 ## Local Vault File
 
-Path: [spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md](file:///../../ai/research/spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md)
+Path: [spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md](file:///../../ai\research\spear-a-system-for-post-quantization-error-adaptive-recovery-enabling-efficient-00b84e.md)

@@ -3,7 +3,7 @@ title: "MLaGA: Multimodal Large Language and Graph Assistant"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2506.02568"
-local_vault_path: "ai/research/mlaga-multimodal-large-language-and-graph-assistant-714101.md"
+local_vault_path: "ai\research\mlaga-multimodal-large-language-and-graph-assistant-714101.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2506.02568
 
 ## Local Vault File
 
-Path: [mlaga-multimodal-large-language-and-graph-assistant-714101.md](file:///../../ai/research/mlaga-multimodal-large-language-and-graph-assistant-714101.md)
+Path: [mlaga-multimodal-large-language-and-graph-assistant-714101.md](file:///../../ai\research\mlaga-multimodal-large-language-and-graph-assistant-714101.md)

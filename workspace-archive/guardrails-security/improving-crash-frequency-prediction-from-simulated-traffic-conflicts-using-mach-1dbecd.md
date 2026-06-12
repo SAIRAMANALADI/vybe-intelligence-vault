@@ -3,7 +3,7 @@ title: "Improving Crash Frequency Prediction from Simulated Traffic Conflicts Us
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12500"
-local_vault_path: "ai/research/improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md"
+local_vault_path: "ai\research\improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12500
 
 ## Local Vault File
 
-Path: [improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md](file:///../../ai/research/improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md)
+Path: [improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md](file:///../../ai\research\improving-crash-frequency-prediction-from-simulated-traffic-conflicts-using-mach-1dbecd.md)

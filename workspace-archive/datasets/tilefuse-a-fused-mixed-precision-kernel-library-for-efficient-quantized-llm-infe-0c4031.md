@@ -3,7 +3,7 @@ title: "TileFuse: A Fused Mixed-Precision Kernel Library for Efficient Quantized
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11357"
-local_vault_path: "ai/research/tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md"
+local_vault_path: "ai\research\tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11357
 
 ## Local Vault File
 
-Path: [tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md](file:///../../ai/research/tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md)
+Path: [tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md](file:///../../ai\research\tilefuse-a-fused-mixed-precision-kernel-library-for-efficient-quantized-llm-infe-0c4031.md)

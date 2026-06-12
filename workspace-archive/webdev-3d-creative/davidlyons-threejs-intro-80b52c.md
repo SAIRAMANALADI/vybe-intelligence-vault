@@ -3,7 +3,7 @@ title: "davidlyons/threejs-intro"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/davidlyons/threejs-intro"
-local_vault_path: "web-development/threejs/davidlyons-threejs-intro-80b52c.md"
+local_vault_path: "web-development\threejs\davidlyons-threejs-intro-80b52c.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/davidlyons/threejs-intro
 
 ## Local Vault File
 
-Path: [davidlyons-threejs-intro-80b52c.md](file:///../../web-development/threejs/davidlyons-threejs-intro-80b52c.md)
+Path: [davidlyons-threejs-intro-80b52c.md](file:///../../web-development\threejs\davidlyons-threejs-intro-80b52c.md)

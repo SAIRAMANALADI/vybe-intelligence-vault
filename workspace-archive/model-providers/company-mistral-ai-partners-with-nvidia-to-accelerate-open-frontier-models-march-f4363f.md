@@ -3,7 +3,7 @@ title: "Company Mistral AI partners with NVIDIA to accelerate open frontier mode
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models"
-local_vault_path: "ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md"
+local_vault_path: "ai\companies\mistral\company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-ac
 
 ## Local Vault File
 
-Path: [company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md](file:///../../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md)
+Path: [company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md](file:///../../ai\companies\mistral\company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md)

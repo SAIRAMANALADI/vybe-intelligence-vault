@@ -3,7 +3,7 @@ title: "Decentralized Autoregressive Generation"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.03184"
-local_vault_path: "ai/rag/decentralized-autoregressive-generation-9d94b1.md"
+local_vault_path: "ai\rag\decentralized-autoregressive-generation-9d94b1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2601.03184
 
 ## Local Vault File
 
-Path: [decentralized-autoregressive-generation-9d94b1.md](file:///../../ai/rag/decentralized-autoregressive-generation-9d94b1.md)
+Path: [decentralized-autoregressive-generation-9d94b1.md](file:///../../ai\rag\decentralized-autoregressive-generation-9d94b1.md)

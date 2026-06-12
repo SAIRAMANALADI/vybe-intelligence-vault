@@ -3,7 +3,7 @@ title: "Humor Style Drives Laughter, Topic Shapes Acceptability: Evaluating Bili
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13256"
-local_vault_path: "ai/research/humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md"
+local_vault_path: "ai\research\humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13256
 
 ## Local Vault File
 
-Path: [humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md](file:///../../ai/research/humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md)
+Path: [humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md](file:///../../ai\research\humor-style-drives-laughter-topic-shapes-acceptability-evaluating-bilingual-pers-ce9a21.md)

@@ -3,7 +3,7 @@ title: "The Internet of Agentic AI: Communication, Coordination, and Collective 
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12835"
-local_vault_path: "ai/agents/the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md"
+local_vault_path: "ai\agents\the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12835
 
 ## Local Vault File
 
-Path: [the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md](file:///../../ai/agents/the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md)
+Path: [the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md](file:///../../ai\agents\the-internet-of-agentic-ai-communication-coordination-and-collective-intelligenc-59a248.md)

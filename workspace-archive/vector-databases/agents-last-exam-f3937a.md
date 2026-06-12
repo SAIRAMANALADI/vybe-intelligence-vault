@@ -3,7 +3,7 @@ title: "Agents' Last Exam"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.05405"
-local_vault_path: "ai/rag/agents-last-exam-f3937a.md"
+local_vault_path: "ai\rag\agents-last-exam-f3937a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.05405
 
 ## Local Vault File
 
-Path: [agents-last-exam-f3937a.md](file:///../../ai/rag/agents-last-exam-f3937a.md)
+Path: [agents-last-exam-f3937a.md](file:///../../ai\rag\agents-last-exam-f3937a.md)

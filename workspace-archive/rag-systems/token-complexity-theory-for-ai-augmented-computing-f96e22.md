@@ -3,7 +3,7 @@ title: "Token Complexity Theory for AI-Augmented Computing"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12647"
-local_vault_path: "ai/research/token-complexity-theory-for-ai-augmented-computing-f96e22.md"
+local_vault_path: "ai\research\token-complexity-theory-for-ai-augmented-computing-f96e22.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12647
 
 ## Local Vault File
 
-Path: [token-complexity-theory-for-ai-augmented-computing-f96e22.md](file:///../../ai/research/token-complexity-theory-for-ai-augmented-computing-f96e22.md)
+Path: [token-complexity-theory-for-ai-augmented-computing-f96e22.md](file:///../../ai\research\token-complexity-theory-for-ai-augmented-computing-f96e22.md)

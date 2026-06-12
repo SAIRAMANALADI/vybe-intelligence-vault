@@ -3,7 +3,7 @@ title: "Feature-Aligned Speech Watermarking for Robustness to Reconstruction Dis
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11828"
-local_vault_path: "ai/research/feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md"
+local_vault_path: "ai\research\feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11828
 
 ## Local Vault File
 
-Path: [feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md](file:///../../ai/research/feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md)
+Path: [feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md](file:///../../ai\research\feature-aligned-speech-watermarking-for-robustness-to-reconstruction-distortions-1ad203.md)

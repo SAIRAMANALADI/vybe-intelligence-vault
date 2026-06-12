@@ -3,7 +3,7 @@ title: "Getting Started With Embeddings"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/getting-started-with-embeddings"
-local_vault_path: "ai/rag/getting-started-with-embeddings-c29639.md"
+local_vault_path: "ai\rag\getting-started-with-embeddings-c29639.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/getting-started-with-embeddings
 
 ## Local Vault File
 
-Path: [getting-started-with-embeddings-c29639.md](file:///../../ai/rag/getting-started-with-embeddings-c29639.md)
+Path: [getting-started-with-embeddings-c29639.md](file:///../../ai\rag\getting-started-with-embeddings-c29639.md)

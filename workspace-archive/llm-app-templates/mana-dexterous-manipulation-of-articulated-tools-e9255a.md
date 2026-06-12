@@ -3,7 +3,7 @@ title: "Mana: Dexterous Manipulation of Articulated Tools"
 archive_category: "llm-app-templates"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13677"
-local_vault_path: "ai/research/mana-dexterous-manipulation-of-articulated-tools-e9255a.md"
+local_vault_path: "ai\research\mana-dexterous-manipulation-of-articulated-tools-e9255a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13677
 
 ## Local Vault File
 
-Path: [mana-dexterous-manipulation-of-articulated-tools-e9255a.md](file:///../../ai/research/mana-dexterous-manipulation-of-articulated-tools-e9255a.md)
+Path: [mana-dexterous-manipulation-of-articulated-tools-e9255a.md](file:///../../ai\research\mana-dexterous-manipulation-of-articulated-tools-e9255a.md)

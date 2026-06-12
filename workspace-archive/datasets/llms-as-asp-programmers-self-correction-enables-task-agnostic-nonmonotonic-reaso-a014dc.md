@@ -3,7 +3,7 @@ title: "LLMs as ASP Programmers: Self-Correction Enables Task-Agnostic Nonmonoto
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.27960"
-local_vault_path: "ai/research/llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md"
+local_vault_path: "ai\research\llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2604.27960
 
 ## Local Vault File
 
-Path: [llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md](file:///../../ai/research/llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md)
+Path: [llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md](file:///../../ai\research\llms-as-asp-programmers-self-correction-enables-task-agnostic-nonmonotonic-reaso-a014dc.md)

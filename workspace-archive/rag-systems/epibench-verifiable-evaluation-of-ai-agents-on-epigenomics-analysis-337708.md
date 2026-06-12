@@ -3,7 +3,7 @@ title: "EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13602"
-local_vault_path: "ai/agents/epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md"
+local_vault_path: "ai\agents\epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.13602
 
 ## Local Vault File
 
-Path: [epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md](file:///../../ai/agents/epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md)
+Path: [epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md](file:///../../ai\agents\epibench-verifiable-evaluation-of-ai-agents-on-epigenomics-analysis-337708.md)

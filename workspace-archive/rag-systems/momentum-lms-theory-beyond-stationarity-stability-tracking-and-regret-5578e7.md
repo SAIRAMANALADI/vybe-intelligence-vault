@@ -3,7 +3,7 @@ title: "Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.11995"
-local_vault_path: "ai/rag/momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md"
+local_vault_path: "ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.11995
 
 ## Local Vault File
 
-Path: [momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md](file:///../../ai/rag/momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md)
+Path: [momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md](file:///../../ai\rag\momentum-lms-theory-beyond-stationarity-stability-tracking-and-regret-5578e7.md)

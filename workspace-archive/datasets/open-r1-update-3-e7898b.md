@@ -3,7 +3,7 @@ title: "Open R1: Update #3"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-r1/update-3"
-local_vault_path: "ai/models/open-r1-update-3-e7898b.md"
+local_vault_path: "ai\models\open-r1-update-3-e7898b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/open-r1/update-3
 
 ## Local Vault File
 
-Path: [open-r1-update-3-e7898b.md](file:///../../ai/models/open-r1-update-3-e7898b.md)
+Path: [open-r1-update-3-e7898b.md](file:///../../ai\models\open-r1-update-3-e7898b.md)

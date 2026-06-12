@@ -3,7 +3,7 @@ title: "Strategic Decision Support for AI Agents"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12587"
-local_vault_path: "ai/agents/strategic-decision-support-for-ai-agents-b3b416.md"
+local_vault_path: "ai\agents\strategic-decision-support-for-ai-agents-b3b416.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12587
 
 ## Local Vault File
 
-Path: [strategic-decision-support-for-ai-agents-b3b416.md](file:///../../ai/agents/strategic-decision-support-for-ai-agents-b3b416.md)
+Path: [strategic-decision-support-for-ai-agents-b3b416.md](file:///../../ai\agents\strategic-decision-support-for-ai-agents-b3b416.md)

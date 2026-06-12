@@ -3,7 +3,7 @@ title: "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/JetBrains/mellum2-launch"
-local_vault_path: "ai/models/introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md"
+local_vault_path: "ai\models\introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/JetBrains/mellum2-launch
 
 ## Local Vault File
 
-Path: [introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md](file:///../../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md)
+Path: [introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md](file:///../../ai\models\introducing-mellum2-a-12b-mixture-of-experts-model-by-jetbrains-3cf2c3.md)

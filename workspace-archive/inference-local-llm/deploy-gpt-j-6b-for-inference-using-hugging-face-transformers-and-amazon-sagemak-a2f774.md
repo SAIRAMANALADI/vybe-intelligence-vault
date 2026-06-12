@@ -3,7 +3,7 @@ title: "Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gptj-sagemaker"
-local_vault_path: "ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md"
+local_vault_path: "ai\models\deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gptj-sagemaker
 
 ## Local Vault File
 
-Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md](file:///../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md)
+Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md](file:///../../ai\models\deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md)

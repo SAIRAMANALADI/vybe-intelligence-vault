@@ -3,7 +3,7 @@ title: "Fusion Learning from Dynamic Functional Connectivity: Combining the Ampl
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.24603"
-local_vault_path: "ai/rag/fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md"
+local_vault_path: "ai\rag\fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2603.24603
 
 ## Local Vault File
 
-Path: [fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md](file:///../../ai/rag/fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md)
+Path: [fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md](file:///../../ai\rag\fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md)

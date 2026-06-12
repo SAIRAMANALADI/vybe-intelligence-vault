@@ -3,7 +3,7 @@ title: "ATLAS: Active Theory Learning for Automated Science"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12386"
-local_vault_path: "ai/agents/atlas-active-theory-learning-for-automated-science-0dd3f9.md"
+local_vault_path: "ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12386
 
 ## Local Vault File
 
-Path: [atlas-active-theory-learning-for-automated-science-0dd3f9.md](file:///../../ai/agents/atlas-active-theory-learning-for-automated-science-0dd3f9.md)
+Path: [atlas-active-theory-learning-for-automated-science-0dd3f9.md](file:///../../ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md)

@@ -3,7 +3,7 @@ title: "Deep Learning of Solver-Aware Turbulence Closures from Nudged LES Dynami
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.23874"
-local_vault_path: "ai/rag/deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md"
+local_vault_path: "ai\rag\deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2604.23874
 
 ## Local Vault File
 
-Path: [deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md](file:///../../ai/rag/deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md)
+Path: [deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md](file:///../../ai\rag\deep-learning-of-solver-aware-turbulence-closures-from-nudged-les-dynamics-ffa23e.md)

@@ -3,7 +3,7 @@ title: "JGRA: Jacobian Geometry Robustness Assessment in NISQ Noise-Aware Quantu
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.09964"
-local_vault_path: "ai/research/jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md"
+local_vault_path: "ai\research\jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.09964
 
 ## Local Vault File
 
-Path: [jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md](file:///../../ai/research/jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md)
+Path: [jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md](file:///../../ai\research\jgra-jacobian-geometry-robustness-assessment-in-nisq-noise-aware-quantum-neural-7cce9e.md)

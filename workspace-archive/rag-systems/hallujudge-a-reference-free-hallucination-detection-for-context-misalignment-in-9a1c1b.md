@@ -3,7 +3,7 @@ title: "HalluJudge: A Reference-Free Hallucination Detection for Context Misalig
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.19072"
-local_vault_path: "ai/rag/hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md"
+local_vault_path: "ai\rag\hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2601.19072
 
 ## Local Vault File
 
-Path: [hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md](file:///../../ai/rag/hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md)
+Path: [hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md](file:///../../ai\rag\hallujudge-a-reference-free-hallucination-detection-for-context-misalignment-in-9a1c1b.md)

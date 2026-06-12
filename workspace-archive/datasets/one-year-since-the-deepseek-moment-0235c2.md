@@ -3,7 +3,7 @@ title: "One Year Since the “DeepSeek Moment”"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment"
-local_vault_path: "ai/models/one-year-since-the-deepseek-moment-0235c2.md"
+local_vault_path: "ai\models\one-year-since-the-deepseek-moment-0235c2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [one-year-since-the-deepseek-moment-0235c2.md](file:///../../ai/models/one-year-since-the-deepseek-moment-0235c2.md)
+Path: [one-year-since-the-deepseek-moment-0235c2.md](file:///../../ai\models\one-year-since-the-deepseek-moment-0235c2.md)

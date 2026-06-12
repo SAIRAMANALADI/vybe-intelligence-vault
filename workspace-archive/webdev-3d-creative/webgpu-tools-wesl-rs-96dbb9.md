@@ -3,7 +3,7 @@ title: "webgpu-tools/wesl-rs"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/webgpu-tools/wesl-rs"
-local_vault_path: "web-development/webgpu/webgpu-tools-wesl-rs-96dbb9.md"
+local_vault_path: "web-development\webgpu\webgpu-tools-wesl-rs-96dbb9.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/webgpu-tools/wesl-rs
 
 ## Local Vault File
 
-Path: [webgpu-tools-wesl-rs-96dbb9.md](file:///../../web-development/webgpu/webgpu-tools-wesl-rs-96dbb9.md)
+Path: [webgpu-tools-wesl-rs-96dbb9.md](file:///../../web-development\webgpu\webgpu-tools-wesl-rs-96dbb9.md)

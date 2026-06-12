@@ -3,7 +3,7 @@ title: "GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Probl
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12419"
-local_vault_path: "ai/research/geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md"
+local_vault_path: "ai\research\geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12419
 
 ## Local Vault File
 
-Path: [geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md](file:///../../ai/research/geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md)
+Path: [geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md](file:///../../ai\research\geodial-a-multimodal-conversational-tutoring-dataset-for-geometry-problem-solvin-79b5ef.md)

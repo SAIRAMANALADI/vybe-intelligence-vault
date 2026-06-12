@@ -3,7 +3,7 @@ title: "\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untr
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.17623"
-local_vault_path: "ai/research/texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md"
+local_vault_path: "ai\research\texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2505.17623
 
 ## Local Vault File
 
-Path: [texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md](file:///../../ai/research/texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md)
+Path: [texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md](file:///../../ai\research\texttt-range-arithmetic-verifiable-deep-learning-inference-on-an-untrusted-party-ca0cfc.md)

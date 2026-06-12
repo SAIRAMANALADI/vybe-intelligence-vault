@@ -3,7 +3,7 @@ title: "DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropol
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11651"
-local_vault_path: "ai/research/deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md"
+local_vault_path: "ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11651
 
 ## Local Vault File
 
-Path: [deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md](file:///../../ai/research/deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md)
+Path: [deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md](file:///../../ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md)

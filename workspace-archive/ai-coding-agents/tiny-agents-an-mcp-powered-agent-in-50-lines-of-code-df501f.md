@@ -3,7 +3,7 @@ title: "Tiny Agents: an MCP-powered agent in 50 lines of code"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/tiny-agents"
-local_vault_path: "ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md"
+local_vault_path: "ai\agents\tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiny-agents
 
 ## Local Vault File
 
-Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md](file:///../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md)
+Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md](file:///../../ai\agents\tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md)

@@ -3,7 +3,7 @@ title: "M*: A Modular, Extensible, Serving System for Multimodal Models"
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12688"
-local_vault_path: "ai/rag/m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md"
+local_vault_path: "ai\rag\m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12688
 
 ## Local Vault File
 
-Path: [m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md](file:///../../ai/rag/m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md)
+Path: [m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md](file:///../../ai\rag\m-a-modular-extensible-serving-system-for-multimodal-models-f683eb.md)

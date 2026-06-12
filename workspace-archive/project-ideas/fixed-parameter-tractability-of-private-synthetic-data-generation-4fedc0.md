@@ -3,7 +3,7 @@ title: "Fixed-Parameter Tractability of Private Synthetic Data Generation"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11283"
-local_vault_path: "ai/research/fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md"
+local_vault_path: "ai\research\fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11283
 
 ## Local Vault File
 
-Path: [fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md](file:///../../ai/research/fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md)
+Path: [fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md](file:///../../ai\research\fixed-parameter-tractability-of-private-synthetic-data-generation-4fedc0.md)

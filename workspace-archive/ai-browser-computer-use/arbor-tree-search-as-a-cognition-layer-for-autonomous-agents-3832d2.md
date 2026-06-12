@@ -3,7 +3,7 @@ title: "Arbor: Tree Search as a Cognition Layer for Autonomous Agents"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12563"
-local_vault_path: "ai/agents/arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md"
+local_vault_path: "ai\agents\arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12563
 
 ## Local Vault File
 
-Path: [arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md](file:///../../ai/agents/arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md)
+Path: [arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md](file:///../../ai\agents\arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md)

@@ -3,7 +3,7 @@ title: "emmelleppi/r3f-cheers"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/emmelleppi/r3f-cheers"
-local_vault_path: "web-development/react-three-fiber/emmelleppi-r3f-cheers-05de2a.md"
+local_vault_path: "web-development\react-three-fiber\emmelleppi-r3f-cheers-05de2a.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/emmelleppi/r3f-cheers
 
 ## Local Vault File
 
-Path: [emmelleppi-r3f-cheers-05de2a.md](file:///../../web-development/react-three-fiber/emmelleppi-r3f-cheers-05de2a.md)
+Path: [emmelleppi-r3f-cheers-05de2a.md](file:///../../web-development\react-three-fiber\emmelleppi-r3f-cheers-05de2a.md)

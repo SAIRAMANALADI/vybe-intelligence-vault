@@ -3,7 +3,7 @@ title: "Making a vintage LLM from scratch"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://crlf.link/log/entries/260525-1/"
-local_vault_path: "ai/community/making-a-vintage-llm-from-scratch-faa6e5.md"
+local_vault_path: "ai\community\making-a-vintage-llm-from-scratch-faa6e5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://crlf.link/log/entries/260525-1/
 
 ## Local Vault File
 
-Path: [making-a-vintage-llm-from-scratch-faa6e5.md](file:///../../ai/community/making-a-vintage-llm-from-scratch-faa6e5.md)
+Path: [making-a-vintage-llm-from-scratch-faa6e5.md](file:///../../ai\community\making-a-vintage-llm-from-scratch-faa6e5.md)

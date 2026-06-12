@@ -3,7 +3,7 @@ title: "Intelligence as Managed Autonomy: Failure, Escalation, and Governance fo
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.27628"
-local_vault_path: "ai/agents/intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md"
+local_vault_path: "ai\agents\intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2605.27628
 
 ## Local Vault File
 
-Path: [intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md](file:///../../ai/agents/intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md)
+Path: [intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md](file:///../../ai\agents\intelligence-as-managed-autonomy-failure-escalation-and-governance-for-agentic-a-1f23a7.md)

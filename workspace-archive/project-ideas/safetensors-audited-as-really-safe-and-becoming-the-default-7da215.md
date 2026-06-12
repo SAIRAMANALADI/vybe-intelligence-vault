@@ -3,7 +3,7 @@ title: "🐶Safetensors audited as really safe and becoming the default"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/safetensors-security-audit"
-local_vault_path: "ai/models/safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md"
+local_vault_path: "ai\models\safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/safetensors-security-audit
 
 ## Local Vault File
 
-Path: [safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md](file:///../../ai/models/safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md)
+Path: [safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md](file:///../../ai\models\safetensors-audited-as-really-safe-and-becoming-the-default-7da215.md)

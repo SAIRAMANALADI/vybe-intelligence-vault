@@ -3,7 +3,7 @@ title: "redhat-data-and-ai/template-agent"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/redhat-data-and-ai/template-agent"
-local_vault_path: "ai/agents/redhat-data-and-ai-template-agent-d7f71d.md"
+local_vault_path: "ai\agents\redhat-data-and-ai-template-agent-d7f71d.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/redhat-data-and-ai/template-agent
 
 ## Local Vault File
 
-Path: [redhat-data-and-ai-template-agent-d7f71d.md](file:///../../ai/agents/redhat-data-and-ai-template-agent-d7f71d.md)
+Path: [redhat-data-and-ai-template-agent-d7f71d.md](file:///../../ai\agents\redhat-data-and-ai-template-agent-d7f71d.md)

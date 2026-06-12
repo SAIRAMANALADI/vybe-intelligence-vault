@@ -3,7 +3,7 @@ title: "Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/apriel-h1"
-local_vault_path: "ai/models/apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md"
+local_vault_path: "ai\models\apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/apriel-h1
 
 ## Local Vault File
 
-Path: [apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md](file:///../../ai/models/apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md)
+Path: [apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md](file:///../../ai\models\apriel-h1-the-surprising-key-to-distilling-efficient-reasoning-models-69b988.md)

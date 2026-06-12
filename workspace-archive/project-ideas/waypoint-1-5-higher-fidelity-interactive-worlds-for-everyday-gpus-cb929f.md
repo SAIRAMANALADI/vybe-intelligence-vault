@@ -3,7 +3,7 @@ title: "Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/waypoint-1-5"
-local_vault_path: "ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md"
+local_vault_path: "ai\models\waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1-5
 
 ## Local Vault File
 
-Path: [waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md](file:///../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md)
+Path: [waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md](file:///../../ai\models\waypoint-1-5-higher-fidelity-interactive-worlds-for-everyday-gpus-cb929f.md)

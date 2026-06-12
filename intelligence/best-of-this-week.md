@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](https://artificialanalysis.ai/agents/coding-agents) (Score: 70) - Category: `ai-coding-agents/`
-*   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) (Score: 70) - Category: `ai-coding-agents/`
-*   [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) (Score: 70) - Category: `ai-coding-agents/`
-*   [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) (Score: 70) - Category: `ai-coding-agents/`
-*   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
-*   [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Score: 70) - Category: `ai-coding-agents/`
-*   [I Built a Production-Grade RAG System for Real PDFs (Text, Tables, Images, Scans) — Here’s the Full Blueprint | by Dharm](https://medium.com/codex/i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-heres-the-0b6accbd1044) (Score: 70) - Category: `ai-coding-agents/`
-*   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
-*   [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](https://arxiv.org/abs/2602.07294) (Score: 70) - Category: `ai-coding-agents/`
-*   [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) (Score: 70) - Category: `ai-coding-agents/`
-*   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
-*   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
-*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents](https://arxiv.org/abs/2606.12320) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design](https://arxiv.org/abs/2606.12040) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Mathematical Theory of Value: a synthesis on goal-directed agency under resource constraints](https://arxiv.org/abs/2606.12502) (Score: 70) - Category: `ai-coding-agents/`
+*   [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/ServiceNow-AI/eva) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Study of Belief Revision Postulates in Multi-Agent Systems (Extended Version)](https://arxiv.org/abs/2605.02249) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Three-Layer Framework for AI in Scientific Discovery](https://arxiv.org/abs/2606.13566) (Score: 70) - Category: `ai-coding-agents/`
+*   [A Tutorial on World Models and Physical AI](https://arxiv.org/abs/2606.12783) (Score: 70) - Category: `ai-coding-agents/`
+*   [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (Score: 70) - Category: `ai-coding-agents/`
+*   [Adaptive Turn-Taking for Real-time Multi-Party Voice Agents](https://arxiv.org/abs/2606.13544) (Score: 70) - Category: `ai-coding-agents/`
+*   [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Score: 70) - Category: `ai-coding-agents/`
+*   [aden-hive/hive](https://github.com/aden-hive/hive) (Score: 70) - Category: `ai-coding-agents/`
+*   [affaan-m/agentshield](https://github.com/affaan-m/agentshield) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

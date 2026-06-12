@@ -3,7 +3,7 @@ title: "Perceive, Interact, Reason: Building Tool-Augmented Visual Agents for Sp
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12830"
-local_vault_path: "ai/agents/perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md"
+local_vault_path: "ai\agents\perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12830
 
 ## Local Vault File
 
-Path: [perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md](file:///../../ai/agents/perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md)
+Path: [perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md](file:///../../ai\agents\perceive-interact-reason-building-tool-augmented-visual-agents-for-spatial-reaso-17f5ce.md)

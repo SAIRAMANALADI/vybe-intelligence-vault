@@ -3,7 +3,7 @@ title: "Welcome Gemma 3: Google's all new multimodal, multilingual, long context
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma3"
-local_vault_path: "ai/models/welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md"
+local_vault_path: "ai\models\welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gemma3
 
 ## Local Vault File
 
-Path: [welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md](file:///../../ai/models/welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md)
+Path: [welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md](file:///../../ai\models\welcome-gemma-3-google-s-all-new-multimodal-multilingual-long-context-open-llm-a1904c.md)

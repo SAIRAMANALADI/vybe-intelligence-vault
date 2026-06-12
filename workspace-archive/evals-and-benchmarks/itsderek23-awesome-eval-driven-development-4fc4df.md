@@ -3,7 +3,7 @@ title: "itsderek23/awesome-eval-driven-development"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/itsderek23/awesome-eval-driven-development"
-local_vault_path: "ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md"
+local_vault_path: "ai\resources\itsderek23-awesome-eval-driven-development-4fc4df.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/itsderek23/awesome-eval-driven-developme
 
 ## Local Vault File
 
-Path: [itsderek23-awesome-eval-driven-development-4fc4df.md](file:///../../ai/resources/itsderek23-awesome-eval-driven-development-4fc4df.md)
+Path: [itsderek23-awesome-eval-driven-development-4fc4df.md](file:///../../ai\resources\itsderek23-awesome-eval-driven-development-4fc4df.md)

@@ -3,7 +3,7 @@ title: "Reconstructing Template-Memorized Images from Natural Prompts"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.07947"
-local_vault_path: "ai/rag/reconstructing-template-memorized-images-from-natural-prompts-89016b.md"
+local_vault_path: "ai\rag\reconstructing-template-memorized-images-from-natural-prompts-89016b.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2507.07947
 
 ## Local Vault File
 
-Path: [reconstructing-template-memorized-images-from-natural-prompts-89016b.md](file:///../../ai/rag/reconstructing-template-memorized-images-from-natural-prompts-89016b.md)
+Path: [reconstructing-template-memorized-images-from-natural-prompts-89016b.md](file:///../../ai\rag\reconstructing-template-memorized-images-from-natural-prompts-89016b.md)

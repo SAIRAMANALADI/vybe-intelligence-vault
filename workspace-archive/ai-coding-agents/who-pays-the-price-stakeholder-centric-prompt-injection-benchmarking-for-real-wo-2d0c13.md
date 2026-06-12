@@ -3,7 +3,7 @@ title: "Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking fo
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13385"
-local_vault_path: "ai/agents/who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md"
+local_vault_path: "ai\agents\who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13385
 
 ## Local Vault File
 
-Path: [who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md](file:///../../ai/agents/who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md)
+Path: [who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md](file:///../../ai\agents\who-pays-the-price-stakeholder-centric-prompt-injection-benchmarking-for-real-wo-2d0c13.md)

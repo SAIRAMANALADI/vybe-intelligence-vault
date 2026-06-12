@@ -3,7 +3,7 @@ title: "isumitsoni/awesome-ai-pm"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/isumitsoni/awesome-ai-pm"
-local_vault_path: "ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md"
+local_vault_path: "ai\resources\isumitsoni-awesome-ai-pm-16a1f3.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/isumitsoni/awesome-ai-pm
 
 ## Local Vault File
 
-Path: [isumitsoni-awesome-ai-pm-16a1f3.md](file:///../../ai/resources/isumitsoni-awesome-ai-pm-16a1f3.md)
+Path: [isumitsoni-awesome-ai-pm-16a1f3.md](file:///../../ai\resources\isumitsoni-awesome-ai-pm-16a1f3.md)

@@ -3,7 +3,7 @@ title: "AutoMine Solution for AV2 2026 Scenario Mining Challenge"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11874"
-local_vault_path: "ai/agents/automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md"
+local_vault_path: "ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11874
 
 ## Local Vault File
 
-Path: [automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md](file:///../../ai/agents/automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md)
+Path: [automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md](file:///../../ai\agents\automine-solution-for-av2-2026-scenario-mining-challenge-baec4b.md)

@@ -3,7 +3,7 @@ title: "MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Au
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11197"
-local_vault_path: "ai/research/ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md"
+local_vault_path: "ai\research\ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11197
 
 ## Local Vault File
 
-Path: [ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md](file:///../../ai/research/ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md)
+Path: [ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md](file:///../../ai\research\ma-dle-speech-based-automatic-depression-level-estimation-via-memory-augmentatio-95d0c7.md)

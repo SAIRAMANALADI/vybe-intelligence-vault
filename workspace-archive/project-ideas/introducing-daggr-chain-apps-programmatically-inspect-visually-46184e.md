@@ -3,7 +3,7 @@ title: "Introducing Daggr: Chain apps programmatically, inspect visually"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/daggr"
-local_vault_path: "ai/models/introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md"
+local_vault_path: "ai\models\introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/daggr
 
 ## Local Vault File
 
-Path: [introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md](file:///../../ai/models/introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md)
+Path: [introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md](file:///../../ai\models\introducing-daggr-chain-apps-programmatically-inspect-visually-46184e.md)

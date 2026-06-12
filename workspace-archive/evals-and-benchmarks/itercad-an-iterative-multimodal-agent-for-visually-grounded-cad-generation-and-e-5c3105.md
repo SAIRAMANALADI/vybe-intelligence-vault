@@ -3,7 +3,7 @@ title: "IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generat
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13368"
-local_vault_path: "ai/agents/itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md"
+local_vault_path: "ai\agents\itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13368
 
 ## Local Vault File
 
-Path: [itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md](file:///../../ai/agents/itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md)
+Path: [itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md](file:///../../ai\agents\itercad-an-iterative-multimodal-agent-for-visually-grounded-cad-generation-and-e-5c3105.md)

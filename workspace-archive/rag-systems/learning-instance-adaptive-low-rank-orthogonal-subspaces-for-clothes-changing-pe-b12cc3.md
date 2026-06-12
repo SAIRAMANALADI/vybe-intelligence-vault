@@ -3,7 +3,7 @@ title: "Learning Instance-Adaptive Low-Rank Orthogonal Subspaces for Clothes-Cha
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11661"
-local_vault_path: "ai/rag/learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md"
+local_vault_path: "ai\rag\learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11661
 
 ## Local Vault File
 
-Path: [learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md](file:///../../ai/rag/learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md)
+Path: [learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md](file:///../../ai\rag\learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md)

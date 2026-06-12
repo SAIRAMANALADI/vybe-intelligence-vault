@@ -3,7 +3,7 @@ title: "DSAEval: Evaluating Data Science Agents on a Wide Range of Real-World Da
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2601.13591"
-local_vault_path: "ai/agents/dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md"
+local_vault_path: "ai\agents\dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2601.13591
 
 ## Local Vault File
 
-Path: [dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md](file:///../../ai/agents/dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md)
+Path: [dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md](file:///../../ai\agents\dsaeval-evaluating-data-science-agents-on-a-wide-range-of-real-world-data-scienc-87d31b.md)

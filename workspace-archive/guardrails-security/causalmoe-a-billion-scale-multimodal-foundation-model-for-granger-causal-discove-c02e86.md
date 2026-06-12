@@ -3,7 +3,7 @@ title: "CausalMoE: A Billion-Scale Multimodal Foundation Model for Granger Causa
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13024"
-local_vault_path: "ai/research/causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md"
+local_vault_path: "ai\research\causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13024
 
 ## Local Vault File
 
-Path: [causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md](file:///../../ai/research/causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md)
+Path: [causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md](file:///../../ai\research\causalmoe-a-billion-scale-multimodal-foundation-model-for-granger-causal-discove-c02e86.md)

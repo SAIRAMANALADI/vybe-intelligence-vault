@@ -3,7 +3,7 @@ title: "birobirobiro/awesome-shadcn-ui"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/birobirobiro/awesome-shadcn-ui"
-local_vault_path: "web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md"
+local_vault_path: "web-development\shadcn-ui\birobirobiro-awesome-shadcn-ui-59ce12.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/birobirobiro/awesome-shadcn-ui
 
 ## Local Vault File
 
-Path: [birobirobiro-awesome-shadcn-ui-59ce12.md](file:///../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui-59ce12.md)
+Path: [birobirobiro-awesome-shadcn-ui-59ce12.md](file:///../../web-development\shadcn-ui\birobirobiro-awesome-shadcn-ui-59ce12.md)

@@ -3,7 +3,7 @@ title: "Two-Layer Linear Auto-Regressive Models Estimate Latent States"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12691"
-local_vault_path: "ai/research/two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md"
+local_vault_path: "ai\research\two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12691
 
 ## Local Vault File
 
-Path: [two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md](file:///../../ai/research/two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md)
+Path: [two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md](file:///../../ai\research\two-layer-linear-auto-regressive-models-estimate-latent-states-91fd41.md)

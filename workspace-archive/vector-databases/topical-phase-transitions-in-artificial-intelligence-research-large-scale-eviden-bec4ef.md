@@ -3,7 +3,7 @@ title: "Topical Phase Transitions in Artificial Intelligence Research: Large-Sca
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12828"
-local_vault_path: "ai/rag/topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md"
+local_vault_path: "ai\rag\topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12828
 
 ## Local Vault File
 
-Path: [topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md](file:///../../ai/rag/topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md)
+Path: [topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md](file:///../../ai\rag\topical-phase-transitions-in-artificial-intelligence-research-large-scale-eviden-bec4ef.md)

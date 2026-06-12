@@ -3,7 +3,7 @@ title: "Beyond the Commitment Boundary: Probing Epiphenomenal Chain-of-Thought i
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13603"
-local_vault_path: "ai/rag/beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md"
+local_vault_path: "ai\rag\beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13603
 
 ## Local Vault File
 
-Path: [beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md](file:///../../ai/rag/beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md)
+Path: [beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md](file:///../../ai\rag\beyond-the-commitment-boundary-probing-epiphenomenal-chain-of-thought-in-large-r-0ba99d.md)

@@ -3,7 +3,7 @@ title: "pmndrs/xr"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/xr"
-local_vault_path: "web-development/react-three-fiber/pmndrs-xr-9ab71d.md"
+local_vault_path: "web-development\react-three-fiber\pmndrs-xr-9ab71d.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/xr
 
 ## Local Vault File
 
-Path: [pmndrs-xr-9ab71d.md](file:///../../web-development/react-three-fiber/pmndrs-xr-9ab71d.md)
+Path: [pmndrs-xr-9ab71d.md](file:///../../web-development\react-three-fiber\pmndrs-xr-9ab71d.md)

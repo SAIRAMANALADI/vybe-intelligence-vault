@@ -3,7 +3,7 @@ title: "huntabyte/shadcn-svelte"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/huntabyte/shadcn-svelte"
-local_vault_path: "web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md"
+local_vault_path: "web-development\shadcn-ui\huntabyte-shadcn-svelte-cadb55.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/huntabyte/shadcn-svelte
 
 ## Local Vault File
 
-Path: [huntabyte-shadcn-svelte-cadb55.md](file:///../../web-development/shadcn-ui/huntabyte-shadcn-svelte-cadb55.md)
+Path: [huntabyte-shadcn-svelte-cadb55.md](file:///../../web-development\shadcn-ui\huntabyte-shadcn-svelte-cadb55.md)

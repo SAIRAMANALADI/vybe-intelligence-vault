@@ -3,7 +3,7 @@ title: "EA-WM: Event-Aware World Models with Task-Specification Grounding for Lo
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13053"
-local_vault_path: "ai/research/ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md"
+local_vault_path: "ai\research\ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13053
 
 ## Local Vault File
 
-Path: [ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md](file:///../../ai/research/ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md)
+Path: [ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md](file:///../../ai\research\ea-wm-event-aware-world-models-with-task-specification-grounding-for-long-horizo-4d8d9d.md)

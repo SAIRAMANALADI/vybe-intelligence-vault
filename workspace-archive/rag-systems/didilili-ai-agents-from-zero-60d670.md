@@ -3,7 +3,7 @@ title: "didilili/ai-agents-from-zero"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/didilili/ai-agents-from-zero"
-local_vault_path: "ai/rag/didilili-ai-agents-from-zero-60d670.md"
+local_vault_path: "ai\rag\didilili-ai-agents-from-zero-60d670.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/didilili/ai-agents-from-zero
 
 ## Local Vault File
 
-Path: [didilili-ai-agents-from-zero-60d670.md](file:///../../ai/rag/didilili-ai-agents-from-zero-60d670.md)
+Path: [didilili-ai-agents-from-zero-60d670.md](file:///../../ai\rag\didilili-ai-agents-from-zero-60d670.md)

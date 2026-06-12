@@ -3,7 +3,7 @@ title: "techwithtim/Langflow-RAG-Tutorial"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/techwithtim/Langflow-RAG-Tutorial"
-local_vault_path: "ai/rag/techwithtim-langflow-rag-tutorial-cf7e1b.md"
+local_vault_path: "ai\rag\techwithtim-langflow-rag-tutorial-cf7e1b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/techwithtim/Langflow-RAG-Tutorial
 
 ## Local Vault File
 
-Path: [techwithtim-langflow-rag-tutorial-cf7e1b.md](file:///../../ai/rag/techwithtim-langflow-rag-tutorial-cf7e1b.md)
+Path: [techwithtim-langflow-rag-tutorial-cf7e1b.md](file:///../../ai\rag\techwithtim-langflow-rag-tutorial-cf7e1b.md)

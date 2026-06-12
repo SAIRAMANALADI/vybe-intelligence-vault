@@ -3,7 +3,7 @@ title: "Planning the design of your production-grade RAG system"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system"
-local_vault_path: "ai/rag/planning-the-design-of-your-production-grade-rag-system-00bbb1.md"
+local_vault_path: "ai\rag\planning-the-design-of-your-production-grade-rag-system-00bbb1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://www.redhat.com/en/blog/planning-design-your-product
 
 ## Local Vault File
 
-Path: [planning-the-design-of-your-production-grade-rag-system-00bbb1.md](file:///../../ai/rag/planning-the-design-of-your-production-grade-rag-system-00bbb1.md)
+Path: [planning-the-design-of-your-production-grade-rag-system-00bbb1.md](file:///../../ai\rag\planning-the-design-of-your-production-grade-rag-system-00bbb1.md)

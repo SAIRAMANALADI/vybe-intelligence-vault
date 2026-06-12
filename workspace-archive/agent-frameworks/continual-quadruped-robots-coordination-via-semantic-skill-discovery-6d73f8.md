@@ -3,7 +3,7 @@ title: "Continual Quadruped Robots Coordination via Semantic Skill Discovery"
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.08102"
-local_vault_path: "ai/rag/continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md"
+local_vault_path: "ai\rag\continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.08102
 
 ## Local Vault File
 
-Path: [continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md](file:///../../ai/rag/continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md)
+Path: [continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md](file:///../../ai\rag\continual-quadruped-robots-coordination-via-semantic-skill-discovery-6d73f8.md)

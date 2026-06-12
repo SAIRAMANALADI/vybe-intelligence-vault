@@ -3,7 +3,7 @@ title: "CinePile 2.0 - making stronger datasets with adversarial refinement"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/cinepile2"
-local_vault_path: "ai/models/cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md"
+local_vault_path: "ai\models\cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cinepile2
 
 ## Local Vault File
 
-Path: [cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md](file:///../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md)
+Path: [cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md](file:///../../ai\models\cinepile-2-0-making-stronger-datasets-with-adversarial-refinement-d36750.md)

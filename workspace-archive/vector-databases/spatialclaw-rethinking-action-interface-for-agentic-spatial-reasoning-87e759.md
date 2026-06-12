@@ -3,7 +3,7 @@ title: "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13673"
-local_vault_path: "ai/rag/spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md"
+local_vault_path: "ai\rag\spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13673
 
 ## Local Vault File
 
-Path: [spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md](file:///../../ai/rag/spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md)
+Path: [spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md](file:///../../ai\rag\spatialclaw-rethinking-action-interface-for-agentic-spatial-reasoning-87e759.md)

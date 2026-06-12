@@ -3,7 +3,7 @@ title: "Adaptive Turn-Taking for Real-time Multi-Party Voice Agents"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13544"
-local_vault_path: "ai/agents/adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md"
+local_vault_path: "ai\agents\adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13544
 
 ## Local Vault File
 
-Path: [adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md](file:///../../ai/agents/adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md)
+Path: [adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md](file:///../../ai\agents\adaptive-turn-taking-for-real-time-multi-party-voice-agents-605fcf.md)

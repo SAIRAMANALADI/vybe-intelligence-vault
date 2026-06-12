@@ -3,7 +3,7 @@ title: "gonzalochale/saas-landing-template"
 archive_category: "startup-builder"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/gonzalochale/saas-landing-template"
-local_vault_path: "web-development/nextjs/gonzalochale-saas-landing-template-c88c99.md"
+local_vault_path: "web-development\nextjs\gonzalochale-saas-landing-template-c88c99.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/gonzalochale/saas-landing-template
 
 ## Local Vault File
 
-Path: [gonzalochale-saas-landing-template-c88c99.md](file:///../../web-development/nextjs/gonzalochale-saas-landing-template-c88c99.md)
+Path: [gonzalochale-saas-landing-template-c88c99.md](file:///../../web-development\nextjs\gonzalochale-saas-landing-template-c88c99.md)

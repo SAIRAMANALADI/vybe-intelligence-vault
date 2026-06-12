@@ -3,7 +3,7 @@ title: "Agent Factory: Creating a blueprint for safe and secure AI agents | Micr
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://azure.microsoft.com/en-us/blog/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents"
-local_vault_path: "ai/rag/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md"
+local_vault_path: "ai\rag\agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://azure.microsoft.com/en-us/blog/agent-factory-creati
 
 ## Local Vault File
 
-Path: [agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md](file:///../../ai/rag/agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md)
+Path: [agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md](file:///../../ai\rag\agent-factory-creating-a-blueprint-for-safe-and-secure-ai-agents-microsoft-azure-99878f.md)

@@ -3,7 +3,7 @@ title: "Community Evals: Because we're done trusting black-box leaderboards over
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/community-evals"
-local_vault_path: "ai/models/community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md"
+local_vault_path: "ai\models\community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/community-evals
 
 ## Local Vault File
 
-Path: [community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md](file:///../../ai/models/community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md)
+Path: [community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md](file:///../../ai\models\community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md)

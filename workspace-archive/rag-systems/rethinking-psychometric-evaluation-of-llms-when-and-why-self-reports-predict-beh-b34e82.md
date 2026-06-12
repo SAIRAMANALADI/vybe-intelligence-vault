@@ -3,7 +3,7 @@ title: "Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Pr
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12730"
-local_vault_path: "ai/research/rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md"
+local_vault_path: "ai\research\rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12730
 
 ## Local Vault File
 
-Path: [rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md](file:///../../ai/research/rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md)
+Path: [rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md](file:///../../ai\research\rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md)

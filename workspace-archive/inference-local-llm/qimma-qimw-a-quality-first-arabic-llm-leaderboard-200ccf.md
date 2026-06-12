@@ -3,7 +3,7 @@ title: "QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard"
-local_vault_path: "ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md"
+local_vault_path: "ai\models\qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 
 ## Local Vault File
 
-Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md](file:///../../ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md)
+Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md](file:///../../ai\models\qimma-qimw-a-quality-first-arabic-llm-leaderboard-200ccf.md)

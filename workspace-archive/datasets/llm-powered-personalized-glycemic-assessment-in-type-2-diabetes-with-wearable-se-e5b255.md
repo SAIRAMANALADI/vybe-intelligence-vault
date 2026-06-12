@@ -3,7 +3,7 @@ title: "LLM-Powered Personalized Glycemic Assessment in Type 2 Diabetes with Wea
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12699"
-local_vault_path: "ai/rag/llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md"
+local_vault_path: "ai\rag\llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12699
 
 ## Local Vault File
 
-Path: [llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md](file:///../../ai/rag/llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md)
+Path: [llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md](file:///../../ai\rag\llm-powered-personalized-glycemic-assessment-in-type-2-diabetes-with-wearable-se-e5b255.md)

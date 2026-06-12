@@ -3,7 +3,7 @@ title: "7 Best GitHub Repositories For Mastering RAG Systems"
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems"
-local_vault_path: "ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md"
+local_vault_path: "ai\rag\7-best-github-repositories-for-mastering-rag-systems-9187bd.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.analyticsvidhya.com/blog/2025/10/github-reposit
 
 ## Local Vault File
 
-Path: [7-best-github-repositories-for-mastering-rag-systems-9187bd.md](file:///../../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md)
+Path: [7-best-github-repositories-for-mastering-rag-systems-9187bd.md](file:///../../ai\rag\7-best-github-repositories-for-mastering-rag-systems-9187bd.md)

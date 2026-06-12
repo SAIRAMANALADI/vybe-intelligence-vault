@@ -3,7 +3,7 @@ title: "An Improved Generative Adversarial Network for Micro-Resistivity Imaging
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10200"
-local_vault_path: "ai/rag/an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md"
+local_vault_path: "ai\rag\an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.10200
 
 ## Local Vault File
 
-Path: [an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md](file:///../../ai/rag/an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md)
+Path: [an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md](file:///../../ai\rag\an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md)

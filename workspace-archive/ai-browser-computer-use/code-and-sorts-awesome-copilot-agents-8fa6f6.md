@@ -3,7 +3,7 @@ title: "Code-and-Sorts/awesome-copilot-agents"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/Code-and-Sorts/awesome-copilot-agents"
-local_vault_path: "ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md"
+local_vault_path: "ai\agents\code-and-sorts-awesome-copilot-agents-8fa6f6.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Code-and-Sorts/awesome-copilot-agents
 
 ## Local Vault File
 
-Path: [code-and-sorts-awesome-copilot-agents-8fa6f6.md](file:///../../ai/agents/code-and-sorts-awesome-copilot-agents-8fa6f6.md)
+Path: [code-and-sorts-awesome-copilot-agents-8fa6f6.md](file:///../../ai\agents\code-and-sorts-awesome-copilot-agents-8fa6f6.md)

@@ -3,7 +3,7 @@ title: "secureagentics/Adrian"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/secureagentics/Adrian"
-local_vault_path: "ai/agents/secureagentics-adrian-c658a9.md"
+local_vault_path: "ai\agents\secureagentics-adrian-c658a9.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/secureagentics/Adrian
 
 ## Local Vault File
 
-Path: [secureagentics-adrian-c658a9.md](file:///../../ai/agents/secureagentics-adrian-c658a9.md)
+Path: [secureagentics-adrian-c658a9.md](file:///../../ai\agents\secureagentics-adrian-c658a9.md)

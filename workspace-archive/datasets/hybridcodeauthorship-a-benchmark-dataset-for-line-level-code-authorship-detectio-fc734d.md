@@ -3,7 +3,7 @@ title: "HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12620"
-local_vault_path: "ai/rag/hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md"
+local_vault_path: "ai\rag\hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12620
 
 ## Local Vault File
 
-Path: [hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md](file:///../../ai/rag/hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md)
+Path: [hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md](file:///../../ai\rag\hybridcodeauthorship-a-benchmark-dataset-for-line-level-code-authorship-detectio-fc734d.md)

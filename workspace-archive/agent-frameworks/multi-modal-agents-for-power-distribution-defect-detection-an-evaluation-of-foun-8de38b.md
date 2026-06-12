@@ -3,7 +3,7 @@ title: "Multi-Modal Agents for Power Distribution Defect Detection: An Evaluatio
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12969"
-local_vault_path: "ai/agents/multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md"
+local_vault_path: "ai\agents\multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12969
 
 ## Local Vault File
 
-Path: [multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md](file:///../../ai/agents/multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md)
+Path: [multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md](file:///../../ai\agents\multi-modal-agents-for-power-distribution-defect-detection-an-evaluation-of-foun-8de38b.md)

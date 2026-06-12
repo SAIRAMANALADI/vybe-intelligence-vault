@@ -3,7 +3,7 @@ title: "Falcon-Arabic: A Breakthrough in Arabic Language Models"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/falcon-arabic"
-local_vault_path: "ai/models/falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md"
+local_vault_path: "ai\models\falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-arabic
 
 ## Local Vault File
 
-Path: [falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md](file:///../../ai/models/falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md)
+Path: [falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md](file:///../../ai\models\falcon-arabic-a-breakthrough-in-arabic-language-models-861cbc.md)

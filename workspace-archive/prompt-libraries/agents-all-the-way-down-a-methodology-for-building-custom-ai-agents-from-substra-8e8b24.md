@@ -3,7 +3,7 @@ title: "Agents All the Way Down; A Methodology for Building Custom AI Agents fro
 archive_category: "prompt-libraries"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11869"
-local_vault_path: "ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md"
+local_vault_path: "ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://arxiv.org/abs/2606.11869
 
 ## Local Vault File
 
-Path: [agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md](file:///../../ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md)
+Path: [agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md](file:///../../ai\agents\agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md)

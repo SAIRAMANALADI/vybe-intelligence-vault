@@ -3,7 +3,7 @@ title: "Deterministic Integrity Gates for LLM-Assisted Clinical Manuscript Prepa
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.09500"
-local_vault_path: "ai/agents/deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md"
+local_vault_path: "ai\agents\deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.09500
 
 ## Local Vault File
 
-Path: [deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md](file:///../../ai/agents/deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md)
+Path: [deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md](file:///../../ai\agents\deterministic-integrity-gates-for-llm-assisted-clinical-manuscript-preparation-a-85d0f2.md)

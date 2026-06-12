@@ -3,7 +3,7 @@ title: "microsoft/a11y-llm-eval"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/microsoft/a11y-llm-eval"
-local_vault_path: "ai/resources/microsoft-a11y-llm-eval-ad1fe4.md"
+local_vault_path: "ai\resources\microsoft-a11y-llm-eval-ad1fe4.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/microsoft/a11y-llm-eval
 
 ## Local Vault File
 
-Path: [microsoft-a11y-llm-eval-ad1fe4.md](file:///../../ai/resources/microsoft-a11y-llm-eval-ad1fe4.md)
+Path: [microsoft-a11y-llm-eval-ad1fe4.md](file:///../../ai\resources\microsoft-a11y-llm-eval-ad1fe4.md)

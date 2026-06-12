@@ -3,7 +3,7 @@ title: "MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulat
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12916"
-local_vault_path: "ai/agents/mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md"
+local_vault_path: "ai\agents\mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12916
 
 ## Local Vault File
 
-Path: [mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md](file:///../../ai/agents/mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md)
+Path: [mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md](file:///../../ai\agents\mdforge-agentic-molecular-dynamics-pipeline-design-under-sparse-simulator-feedba-f0e29c.md)

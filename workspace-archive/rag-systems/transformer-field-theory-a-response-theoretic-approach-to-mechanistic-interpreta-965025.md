@@ -3,7 +3,7 @@ title: "Transformer Field Theory: A Response-Theoretic Approach to Mechanistic I
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.25225"
-local_vault_path: "ai/research/transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md"
+local_vault_path: "ai\research\transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.25225
 
 ## Local Vault File
 
-Path: [transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md](file:///../../ai/research/transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md)
+Path: [transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md](file:///../../ai\research\transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md)

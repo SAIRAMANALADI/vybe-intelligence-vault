@@ -3,7 +3,7 @@ title: "Prefill Awareness in Large Language Models"
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12747"
-local_vault_path: "ai/agents/prefill-awareness-in-large-language-models-991aa0.md"
+local_vault_path: "ai\agents\prefill-awareness-in-large-language-models-991aa0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12747
 
 ## Local Vault File
 
-Path: [prefill-awareness-in-large-language-models-991aa0.md](file:///../../ai/agents/prefill-awareness-in-large-language-models-991aa0.md)
+Path: [prefill-awareness-in-large-language-models-991aa0.md](file:///../../ai\agents\prefill-awareness-in-large-language-models-991aa0.md)

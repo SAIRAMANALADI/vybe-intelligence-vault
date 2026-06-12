@@ -3,7 +3,7 @@ title: "Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florine
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91"
-local_vault_path: "ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md"
+local_vault_path: "ai\rag\top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://florinelchis.medium.com/top-10-rag-frameworks-on-gi
 
 ## Local Vault File
 
-Path: [top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md](file:///../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md)
+Path: [top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md](file:///../../ai\rag\top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md)

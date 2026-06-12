@@ -3,7 +3,7 @@ title: "Possibilistic Predictive Uncertainty for Deep Learning"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.00600"
-local_vault_path: "ai/research/possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md"
+local_vault_path: "ai\research\possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.00600
 
 ## Local Vault File
 
-Path: [possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md](file:///../../ai/research/possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md)
+Path: [possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md](file:///../../ai\research\possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md)

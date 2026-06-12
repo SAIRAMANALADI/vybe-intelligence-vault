@@ -3,7 +3,7 @@ title: "TextHOI-3D: Text-to-3D Hand-Object Interaction via Discrete Multi-View G
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11805"
-local_vault_path: "ai/research/texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md"
+local_vault_path: "ai\research\texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11805
 
 ## Local Vault File
 
-Path: [texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md](file:///../../ai/research/texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md)
+Path: [texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md](file:///../../ai\research\texthoi-3d-text-to-3d-hand-object-interaction-via-discrete-multi-view-generation-6071c1.md)

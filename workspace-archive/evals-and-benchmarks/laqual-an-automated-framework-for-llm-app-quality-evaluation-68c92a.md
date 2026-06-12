@@ -3,7 +3,7 @@ title: "LaQual: An Automated Framework for LLM App Quality Evaluation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.18636"
-local_vault_path: "ai/research/laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md"
+local_vault_path: "ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2508.18636
 
 ## Local Vault File
 
-Path: [laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md](file:///../../ai/research/laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md)
+Path: [laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md](file:///../../ai\research\laqual-an-automated-framework-for-llm-app-quality-evaluation-68c92a.md)

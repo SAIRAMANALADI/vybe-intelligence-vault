@@ -3,7 +3,7 @@ title: "Counterfactual Explanations for Deep Two-Sample Testing"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.04009"
-local_vault_path: "ai/research/counterfactual-explanations-for-deep-two-sample-testing-cccb21.md"
+local_vault_path: "ai\research\counterfactual-explanations-for-deep-two-sample-testing-cccb21.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.04009
 
 ## Local Vault File
 
-Path: [counterfactual-explanations-for-deep-two-sample-testing-cccb21.md](file:///../../ai/research/counterfactual-explanations-for-deep-two-sample-testing-cccb21.md)
+Path: [counterfactual-explanations-for-deep-two-sample-testing-cccb21.md](file:///../../ai\research\counterfactual-explanations-for-deep-two-sample-testing-cccb21.md)

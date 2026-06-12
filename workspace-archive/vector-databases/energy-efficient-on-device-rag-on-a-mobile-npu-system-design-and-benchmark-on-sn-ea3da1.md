@@ -3,7 +3,7 @@ title: "Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchm
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11257"
-local_vault_path: "ai/rag/energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md"
+local_vault_path: "ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11257
 
 ## Local Vault File
 
-Path: [energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md](file:///../../ai/rag/energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md)
+Path: [energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md](file:///../../ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md)

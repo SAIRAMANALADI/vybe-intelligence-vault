@@ -3,7 +3,7 @@ title: "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundat
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.23243"
-local_vault_path: "ai/rag/are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md"
+local_vault_path: "ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2605.23243
 
 ## Local Vault File
 
-Path: [are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md](file:///../../ai/rag/are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md)
+Path: [are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md](file:///../../ai\rag\are-frontier-llms-ready-for-cybersecurity-evidence-for-vertical-foundation-model-cd11ed.md)

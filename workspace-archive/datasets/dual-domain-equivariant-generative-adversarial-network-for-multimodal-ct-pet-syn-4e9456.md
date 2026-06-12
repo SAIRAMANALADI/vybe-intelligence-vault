@@ -3,7 +3,7 @@ title: "Dual-Domain Equivariant Generative Adversarial Network for Multimodal CT
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13341"
-local_vault_path: "ai/research/dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md"
+local_vault_path: "ai\research\dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13341
 
 ## Local Vault File
 
-Path: [dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md](file:///../../ai/research/dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md)
+Path: [dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md](file:///../../ai\research\dual-domain-equivariant-generative-adversarial-network-for-multimodal-ct-pet-syn-4e9456.md)

@@ -3,7 +3,7 @@ title: "DEEP-PolyU/LinearRAG"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/DEEP-PolyU/LinearRAG"
-local_vault_path: "ai/rag/deep-polyu-linearrag-d454a8.md"
+local_vault_path: "ai\rag\deep-polyu-linearrag-d454a8.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/DEEP-PolyU/LinearRAG
 
 ## Local Vault File
 
-Path: [deep-polyu-linearrag-d454a8.md](file:///../../ai/rag/deep-polyu-linearrag-d454a8.md)
+Path: [deep-polyu-linearrag-d454a8.md](file:///../../ai\rag\deep-polyu-linearrag-d454a8.md)

@@ -3,7 +3,7 @@ title: "Querying Counterfactuals on Tissue Graphs with Supervised Disentanglemen
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08493"
-local_vault_path: "ai/research/querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md"
+local_vault_path: "ai\research\querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.08493
 
 ## Local Vault File
 
-Path: [querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md](file:///../../ai/research/querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md)
+Path: [querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md](file:///../../ai\research\querying-counterfactuals-on-tissue-graphs-with-supervised-disentanglement-126fc2.md)

@@ -3,7 +3,7 @@ title: "Meet HoloTab by HCompany. Your AI browser companion."
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Hcompany/holotab"
-local_vault_path: "ai/models/meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md"
+local_vault_path: "ai\models\meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Hcompany/holotab
 
 ## Local Vault File
 
-Path: [meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md](file:///../../ai/models/meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md)
+Path: [meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md](file:///../../ai\models\meet-holotab-by-hcompany-your-ai-browser-companion-1baee0.md)

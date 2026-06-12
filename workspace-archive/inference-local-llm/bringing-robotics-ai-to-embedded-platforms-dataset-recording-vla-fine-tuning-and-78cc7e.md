@@ -3,7 +3,7 @@ title: "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fineâ
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms"
-local_vault_path: "ai/models/bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md"
+local_vault_path: "ai\models\bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-emb
 
 ## Local Vault File
 
-Path: [bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md](file:///../../ai/models/bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md)
+Path: [bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md](file:///../../ai\models\bringing-robotics-ai-to-embedded-platforms-dataset-recording-vla-fine-tuning-and-78cc7e.md)

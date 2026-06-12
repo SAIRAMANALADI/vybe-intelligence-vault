@@ -3,7 +3,7 @@ title: "Proprioceptive-visual correspondence enables self-other distinction in h
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13222"
-local_vault_path: "ai/agents/proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md"
+local_vault_path: "ai\agents\proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13222
 
 ## Local Vault File
 
-Path: [proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md](file:///../../ai/agents/proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md)
+Path: [proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md](file:///../../ai\agents\proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md)

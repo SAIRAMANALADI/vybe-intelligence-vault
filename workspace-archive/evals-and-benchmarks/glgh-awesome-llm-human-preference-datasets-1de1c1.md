@@ -3,7 +3,7 @@ title: "glgh/awesome-llm-human-preference-datasets"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/glgh/awesome-llm-human-preference-datasets"
-local_vault_path: "ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md"
+local_vault_path: "ai\resources\glgh-awesome-llm-human-preference-datasets-1de1c1.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/glgh/awesome-llm-human-preference-datase
 
 ## Local Vault File
 
-Path: [glgh-awesome-llm-human-preference-datasets-1de1c1.md](file:///../../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md)
+Path: [glgh-awesome-llm-human-preference-datasets-1de1c1.md](file:///../../ai\resources\glgh-awesome-llm-human-preference-datasets-1de1c1.md)

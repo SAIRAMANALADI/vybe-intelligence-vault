@@ -3,7 +3,7 @@ title: "Under What Conditions Can a Machine Become Genuinely Creative?"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13196"
-local_vault_path: "ai/agents/under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md"
+local_vault_path: "ai\agents\under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13196
 
 ## Local Vault File
 
-Path: [under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md](file:///../../ai/agents/under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md)
+Path: [under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md](file:///../../ai\agents\under-what-conditions-can-a-machine-become-genuinely-creative-64e2c0.md)

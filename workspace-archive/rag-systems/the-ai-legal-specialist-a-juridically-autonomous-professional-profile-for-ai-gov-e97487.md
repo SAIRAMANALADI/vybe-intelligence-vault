@@ -3,7 +3,7 @@ title: "The AI Legal Specialist: A Juridically Autonomous Professional Profile f
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12415"
-local_vault_path: "ai/rag/the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md"
+local_vault_path: "ai\rag\the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12415
 
 ## Local Vault File
 
-Path: [the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md](file:///../../ai/rag/the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md)
+Path: [the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md](file:///../../ai\rag\the-ai-legal-specialist-a-juridically-autonomous-professional-profile-for-ai-gov-e97487.md)

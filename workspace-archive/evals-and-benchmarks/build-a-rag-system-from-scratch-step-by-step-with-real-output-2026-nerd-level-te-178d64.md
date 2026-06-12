@@ -3,7 +3,7 @@ title: "Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Ne
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://nerdleveltech.com/guides/rag-hands-on-tutorial"
-local_vault_path: "ai/rag/build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md"
+local_vault_path: "ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 
 ## Local Vault File
 
-Path: [build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md](file:///../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md)
+Path: [build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md](file:///../../ai\rag\build-a-rag-system-from-scratch-step-by-step-with-real-output-2026-nerd-level-te-178d64.md)

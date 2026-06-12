@@ -3,7 +3,7 @@ title: "Decoding the Multimodal Maze: A Systematic Review on the Adoption of Exp
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.04427"
-local_vault_path: "ai/research/decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md"
+local_vault_path: "ai\research\decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2508.04427
 
 ## Local Vault File
 
-Path: [decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md](file:///../../ai/research/decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md)
+Path: [decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md](file:///../../ai\research\decoding-the-multimodal-maze-a-systematic-review-on-the-adoption-of-explainabili-95cc57.md)

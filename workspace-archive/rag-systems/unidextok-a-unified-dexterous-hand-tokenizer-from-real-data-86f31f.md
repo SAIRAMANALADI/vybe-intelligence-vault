@@ -3,7 +3,7 @@ title: "UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10683"
-local_vault_path: "ai/rag/unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md"
+local_vault_path: "ai\rag\unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.10683
 
 ## Local Vault File
 
-Path: [unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md](file:///../../ai/rag/unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md)
+Path: [unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md](file:///../../ai\rag\unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md)

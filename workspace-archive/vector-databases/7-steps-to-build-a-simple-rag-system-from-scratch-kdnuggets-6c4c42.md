@@ -3,7 +3,7 @@ title: "7 Steps to Build a Simple RAG System from Scratch - KDnuggets"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch"
-local_vault_path: "ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md"
+local_vault_path: "ai\rag\7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-sys
 
 ## Local Vault File
 
-Path: [7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md](file:///../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md)
+Path: [7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md](file:///../../ai\rag\7-steps-to-build-a-simple-rag-system-from-scratch-kdnuggets-6c4c42.md)

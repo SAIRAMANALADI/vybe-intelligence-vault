@@ -3,7 +3,7 @@ title: "Real-rootedness of the Poincar\'e polynomials of $\overline{\mathcal M}_
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.29151"
-local_vault_path: "ai/agents/real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md"
+local_vault_path: "ai\agents\real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2605.29151
 
 ## Local Vault File
 
-Path: [real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md](file:///../../ai/agents/real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md)
+Path: [real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md](file:///../../ai\agents\real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md)

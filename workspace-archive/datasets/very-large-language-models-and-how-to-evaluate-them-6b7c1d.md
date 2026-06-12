@@ -3,7 +3,7 @@ title: "Very Large Language Models and How to Evaluate Them"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/zero-shot-eval-on-the-hub"
-local_vault_path: "ai/models/very-large-language-models-and-how-to-evaluate-them-6b7c1d.md"
+local_vault_path: "ai\models\very-large-language-models-and-how-to-evaluate-them-6b7c1d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 
 ## Local Vault File
 
-Path: [very-large-language-models-and-how-to-evaluate-them-6b7c1d.md](file:///../../ai/models/very-large-language-models-and-how-to-evaluate-them-6b7c1d.md)
+Path: [very-large-language-models-and-how-to-evaluate-them-6b7c1d.md](file:///../../ai\models\very-large-language-models-and-how-to-evaluate-them-6b7c1d.md)

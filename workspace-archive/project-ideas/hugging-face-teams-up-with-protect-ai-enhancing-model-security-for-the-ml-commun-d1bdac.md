@@ -3,7 +3,7 @@ title: "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the 
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/protectai"
-local_vault_path: "ai/models/hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md"
+local_vault_path: "ai\models\hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/protectai
 
 ## Local Vault File
 
-Path: [hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md](file:///../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md)
+Path: [hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md](file:///../../ai\models\hugging-face-teams-up-with-protect-ai-enhancing-model-security-for-the-ml-commun-d1bdac.md)

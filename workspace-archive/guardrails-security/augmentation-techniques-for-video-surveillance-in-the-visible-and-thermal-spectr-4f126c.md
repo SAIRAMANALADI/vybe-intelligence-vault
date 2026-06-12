@@ -3,7 +3,7 @@ title: "Augmentation techniques for video surveillance in the visible and therma
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13042"
-local_vault_path: "ai/research/augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md"
+local_vault_path: "ai\research\augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13042
 
 ## Local Vault File
 
-Path: [augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md](file:///../../ai/research/augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md)
+Path: [augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md](file:///../../ai\research\augmentation-techniques-for-video-surveillance-in-the-visible-and-thermal-spectr-4f126c.md)

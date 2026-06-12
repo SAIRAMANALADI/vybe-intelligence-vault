@@ -3,7 +3,7 @@ title: "Beyond Problem Solving: UOJ-Bench for Evaluating Code Generation, Hackin
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12864"
-local_vault_path: "ai/research/beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md"
+local_vault_path: "ai\research\beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12864
 
 ## Local Vault File
 
-Path: [beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md](file:///../../ai/research/beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md)
+Path: [beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md](file:///../../ai\research\beyond-problem-solving-uoj-bench-for-evaluating-code-generation-hacking-and-repa-f384c8.md)

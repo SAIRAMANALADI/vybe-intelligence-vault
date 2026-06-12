@@ -3,7 +3,7 @@ title: "PlaceRep: Geospatial Place Representation Learning from Large-Scale Poin
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.02921"
-local_vault_path: "ai/rag/placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md"
+local_vault_path: "ai\rag\placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2507.02921
 
 ## Local Vault File
 
-Path: [placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md](file:///../../ai/rag/placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md)
+Path: [placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md](file:///../../ai\rag\placerep-geospatial-place-representation-learning-from-large-scale-point-of-inte-87616f.md)

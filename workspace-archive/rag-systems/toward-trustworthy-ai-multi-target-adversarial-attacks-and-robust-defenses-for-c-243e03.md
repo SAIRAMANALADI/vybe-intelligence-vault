@@ -3,7 +3,7 @@ title: "Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defen
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11804"
-local_vault_path: "ai/research/toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md"
+local_vault_path: "ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11804
 
 ## Local Vault File
 
-Path: [toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md](file:///../../ai/research/toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md)
+Path: [toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md](file:///../../ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md)

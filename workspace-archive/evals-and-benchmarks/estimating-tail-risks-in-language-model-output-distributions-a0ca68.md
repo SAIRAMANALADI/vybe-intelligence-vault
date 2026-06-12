@@ -3,7 +3,7 @@ title: "Estimating Tail Risks in Language Model Output Distributions"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.22167"
-local_vault_path: "ai/research/estimating-tail-risks-in-language-model-output-distributions-a0ca68.md"
+local_vault_path: "ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2604.22167
 
 ## Local Vault File
 
-Path: [estimating-tail-risks-in-language-model-output-distributions-a0ca68.md](file:///../../ai/research/estimating-tail-risks-in-language-model-output-distributions-a0ca68.md)
+Path: [estimating-tail-risks-in-language-model-output-distributions-a0ca68.md](file:///../../ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md)

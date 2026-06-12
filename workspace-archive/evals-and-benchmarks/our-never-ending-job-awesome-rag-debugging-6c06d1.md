@@ -3,7 +3,7 @@ title: "our-never-ending-job/awesome-rag-debugging"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/our-never-ending-job/awesome-rag-debugging"
-local_vault_path: "ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md"
+local_vault_path: "ai\rag\our-never-ending-job-awesome-rag-debugging-6c06d1.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/our-never-ending-job/awesome-rag-debuggi
 
 ## Local Vault File
 
-Path: [our-never-ending-job-awesome-rag-debugging-6c06d1.md](file:///../../ai/rag/our-never-ending-job-awesome-rag-debugging-6c06d1.md)
+Path: [our-never-ending-job-awesome-rag-debugging-6c06d1.md](file:///../../ai\rag\our-never-ending-job-awesome-rag-debugging-6c06d1.md)

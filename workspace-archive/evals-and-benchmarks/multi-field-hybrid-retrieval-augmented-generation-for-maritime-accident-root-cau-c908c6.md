@@ -3,7 +3,7 @@ title: "Multi-Field Hybrid Retrieval-Augmented Generation for Maritime Accident 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13249"
-local_vault_path: "ai/rag/multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md"
+local_vault_path: "ai\rag\multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13249
 
 ## Local Vault File
 
-Path: [multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md](file:///../../ai/rag/multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md)
+Path: [multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md](file:///../../ai\rag\multi-field-hybrid-retrieval-augmented-generation-for-maritime-accident-root-cau-c908c6.md)

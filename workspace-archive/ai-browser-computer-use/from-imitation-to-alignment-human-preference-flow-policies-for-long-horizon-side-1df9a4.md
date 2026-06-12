@@ -3,7 +3,7 @@ title: "From Imitation to Alignment: Human-Preference Flow Policies for Long-Hor
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12603"
-local_vault_path: "ai/agents/from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md"
+local_vault_path: "ai\agents\from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12603
 
 ## Local Vault File
 
-Path: [from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md](file:///../../ai/agents/from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md)
+Path: [from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md](file:///../../ai\agents\from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md)

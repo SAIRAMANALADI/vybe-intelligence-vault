@@ -3,7 +3,7 @@ title: "Grounding Computer Use Agents on Human Demonstrations"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2511.07332"
-local_vault_path: "ai/agents/grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md"
+local_vault_path: "ai\agents\grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2511.07332
 
 ## Local Vault File
 
-Path: [grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md](file:///../../ai/agents/grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md)
+Path: [grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md](file:///../../ai\agents\grounding-computer-use-agents-on-human-demonstrations-1ea3e0.md)

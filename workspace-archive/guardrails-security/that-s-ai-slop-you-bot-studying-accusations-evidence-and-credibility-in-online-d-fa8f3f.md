@@ -3,7 +3,7 @@ title: "\"That's AI Slop, You Bot!\" Studying Accusations, Evidence, and Credibi
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12073"
-local_vault_path: "ai/research/that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md"
+local_vault_path: "ai\research\that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12073
 
 ## Local Vault File
 
-Path: [that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md](file:///../../ai/research/that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md)
+Path: [that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md](file:///../../ai\research\that-s-ai-slop-you-bot-studying-accusations-evidence-and-credibility-in-online-d-fa8f3f.md)

@@ -3,7 +3,7 @@ title: "Advantage Actor Critic (A2C)"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-rl-a2c"
-local_vault_path: "ai/models/advantage-actor-critic-a2c-b4ec4e.md"
+local_vault_path: "ai\models\advantage-actor-critic-a2c-b4ec4e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-a2c
 
 ## Local Vault File
 
-Path: [advantage-actor-critic-a2c-b4ec4e.md](file:///../../ai/models/advantage-actor-critic-a2c-b4ec4e.md)
+Path: [advantage-actor-critic-a2c-b4ec4e.md](file:///../../ai\models\advantage-actor-critic-a2c-b4ec4e.md)

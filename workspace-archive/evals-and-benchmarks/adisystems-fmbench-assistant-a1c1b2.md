@@ -3,7 +3,7 @@ title: "adisystems/fmbench-assistant"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/adisystems/fmbench-assistant"
-local_vault_path: "ai/rag/adisystems-fmbench-assistant-a1c1b2.md"
+local_vault_path: "ai\rag\adisystems-fmbench-assistant-a1c1b2.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/adisystems/fmbench-assistant
 
 ## Local Vault File
 
-Path: [adisystems-fmbench-assistant-a1c1b2.md](file:///../../ai/rag/adisystems-fmbench-assistant-a1c1b2.md)
+Path: [adisystems-fmbench-assistant-a1c1b2.md](file:///../../ai\rag\adisystems-fmbench-assistant-a1c1b2.md)

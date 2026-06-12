@@ -3,7 +3,7 @@ title: "HKUDS/OpenPhone"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/HKUDS/OpenPhone"
-local_vault_path: "ai/agents/hkuds-openphone-4661ce.md"
+local_vault_path: "ai\agents\hkuds-openphone-4661ce.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/HKUDS/OpenPhone
 
 ## Local Vault File
 
-Path: [hkuds-openphone-4661ce.md](file:///../../ai/agents/hkuds-openphone-4661ce.md)
+Path: [hkuds-openphone-4661ce.md](file:///../../ai\agents\hkuds-openphone-4661ce.md)

@@ -3,7 +3,7 @@ title: "7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Commun
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm"
-local_vault_path: "ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md"
+local_vault_path: "ai\rag\7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-
 
 ## Local Vault File
 
-Path: [7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md](file:///../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md)
+Path: [7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md](file:///../../ai\rag\7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md)

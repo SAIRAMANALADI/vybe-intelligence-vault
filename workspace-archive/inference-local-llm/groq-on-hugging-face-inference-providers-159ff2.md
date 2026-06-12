@@ -3,7 +3,7 @@ title: "Groq on Hugging Face Inference Providers 🔥"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-providers-groq"
-local_vault_path: "ai/models/groq-on-hugging-face-inference-providers-159ff2.md"
+local_vault_path: "ai\models\groq-on-hugging-face-inference-providers-159ff2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-groq
 
 ## Local Vault File
 
-Path: [groq-on-hugging-face-inference-providers-159ff2.md](file:///../../ai/models/groq-on-hugging-face-inference-providers-159ff2.md)
+Path: [groq-on-hugging-face-inference-providers-159ff2.md](file:///../../ai\models\groq-on-hugging-face-inference-providers-159ff2.md)

@@ -3,7 +3,7 @@ title: "H Company's new Holo2 model takes the lead in UI Localization"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b"
-local_vault_path: "ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md"
+local_vault_path: "ai\models\h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Hcompany/introducing-holo2-235b
 
 ## Local Vault File
 
-Path: [h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md](file:///../../ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md)
+Path: [h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md](file:///../../ai\models\h-company-s-new-holo2-model-takes-the-lead-in-ui-localization-bb1053.md)

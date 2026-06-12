@@ -3,7 +3,7 @@ title: "Position: Generative Engine Optimization Creates Underexamined Risks, Go
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12439"
-local_vault_path: "ai/research/position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md"
+local_vault_path: "ai\research\position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12439
 
 ## Local Vault File
 
-Path: [position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md](file:///../../ai/research/position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md)
+Path: [position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md](file:///../../ai\research\position-generative-engine-optimization-creates-underexamined-risks-governance-m-38698a.md)

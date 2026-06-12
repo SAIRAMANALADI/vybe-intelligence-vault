@@ -3,7 +3,7 @@ title: "Heterogeneous LiDAR Early Fusion and Learned Re-Ranking Strategy for Rob
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13503"
-local_vault_path: "ai/rag/heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md"
+local_vault_path: "ai\rag\heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13503
 
 ## Local Vault File
 
-Path: [heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md](file:///../../ai/rag/heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md)
+Path: [heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md](file:///../../ai\rag\heterogeneous-lidar-early-fusion-and-learned-re-ranking-strategy-for-robust-long-084695.md)

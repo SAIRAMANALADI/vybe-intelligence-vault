@@ -3,7 +3,7 @@ title: "What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theore
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11780"
-local_vault_path: "ai/rag/what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md"
+local_vault_path: "ai\rag\what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11780
 
 ## Local Vault File
 
-Path: [what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md](file:///../../ai/rag/what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md)
+Path: [what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md](file:///../../ai\rag\what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md)

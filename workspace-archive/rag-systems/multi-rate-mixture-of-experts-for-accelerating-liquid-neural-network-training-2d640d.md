@@ -3,7 +3,7 @@ title: "Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Tra
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12240"
-local_vault_path: "ai/research/multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md"
+local_vault_path: "ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12240
 
 ## Local Vault File
 
-Path: [multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md](file:///../../ai/research/multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md)
+Path: [multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md](file:///../../ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md)

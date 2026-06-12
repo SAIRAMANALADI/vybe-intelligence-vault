@@ -3,7 +3,7 @@ title: "Fantastic Scientific Agents and How to Build Them: AgentBuild for Rietve
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12834"
-local_vault_path: "ai/agents/fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md"
+local_vault_path: "ai\agents\fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12834
 
 ## Local Vault File
 
-Path: [fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md](file:///../../ai/agents/fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md)
+Path: [fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md](file:///../../ai\agents\fantastic-scientific-agents-and-how-to-build-them-agentbuild-for-rietveld-refine-f6868c.md)

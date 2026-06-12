@@ -3,7 +3,7 @@ title: "TokaMark: A Comprehensive Benchmark for MAST Tokamak Plasma Models"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.10132"
-local_vault_path: "ai/rag/tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md"
+local_vault_path: "ai\rag\tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2602.10132
 
 ## Local Vault File
 
-Path: [tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md](file:///../../ai/rag/tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md)
+Path: [tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md](file:///../../ai\rag\tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md)

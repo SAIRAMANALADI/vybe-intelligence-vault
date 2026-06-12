@@ -3,7 +3,7 @@ title: "Analyzing and Improving Fine-grained Preference Optimization in Medical 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12590"
-local_vault_path: "ai/rag/analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md"
+local_vault_path: "ai\rag\analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12590
 
 ## Local Vault File
 
-Path: [analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md](file:///../../ai/rag/analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md)
+Path: [analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md](file:///../../ai\rag\analyzing-and-improving-fine-grained-preference-optimization-in-medical-lvlms-56620c.md)

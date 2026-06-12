@@ -3,7 +3,7 @@ title: "Creating and Evaluating K-12 GenAI Assessment Graders Through Context En
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12422"
-local_vault_path: "ai/research/creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md"
+local_vault_path: "ai\research\creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12422
 
 ## Local Vault File
 
-Path: [creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md](file:///../../ai/research/creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md)
+Path: [creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md](file:///../../ai\research\creating-and-evaluating-k-12-genai-assessment-graders-through-context-engineerin-09587b.md)

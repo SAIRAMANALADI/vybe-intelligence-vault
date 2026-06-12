@@ -3,7 +3,7 @@ title: "unovue/shadcn-vue"
 archive_category: "rag-systems"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/unovue/shadcn-vue"
-local_vault_path: "web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md"
+local_vault_path: "web-development\shadcn-ui\unovue-shadcn-vue-5bc20b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/unovue/shadcn-vue
 
 ## Local Vault File
 
-Path: [unovue-shadcn-vue-5bc20b.md](file:///../../web-development/shadcn-ui/unovue-shadcn-vue-5bc20b.md)
+Path: [unovue-shadcn-vue-5bc20b.md](file:///../../web-development\shadcn-ui\unovue-shadcn-vue-5bc20b.md)

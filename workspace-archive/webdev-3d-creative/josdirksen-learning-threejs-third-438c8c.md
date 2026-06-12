@@ -3,7 +3,7 @@ title: "josdirksen/learning-threejs-third"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/josdirksen/learning-threejs-third"
-local_vault_path: "web-development/threejs/josdirksen-learning-threejs-third-438c8c.md"
+local_vault_path: "web-development\threejs\josdirksen-learning-threejs-third-438c8c.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/josdirksen/learning-threejs-third
 
 ## Local Vault File
 
-Path: [josdirksen-learning-threejs-third-438c8c.md](file:///../../web-development/threejs/josdirksen-learning-threejs-third-438c8c.md)
+Path: [josdirksen-learning-threejs-third-438c8c.md](file:///../../web-development\threejs\josdirksen-learning-threejs-third-438c8c.md)

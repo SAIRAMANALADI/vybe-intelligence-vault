@@ -3,7 +3,7 @@ title: "FOCUS on Contamination: Hydrology-Informed Noise-Aware Learning for Geos
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2502.14894"
-local_vault_path: "ai/research/focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md"
+local_vault_path: "ai\research\focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2502.14894
 
 ## Local Vault File
 
-Path: [focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md](file:///../../ai/research/focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md)
+Path: [focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md](file:///../../ai\research\focus-on-contamination-hydrology-informed-noise-aware-learning-for-geospatial-pf-05008b.md)

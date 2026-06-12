@@ -3,7 +3,7 @@ title: "vLLM V0 to V1: Correctness Before Corrections in RL"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
-local_vault_path: "ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md"
+local_vault_path: "ai\models\vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/correctness-befor
 
 ## Local Vault File
 
-Path: [vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md](file:///../../ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md)
+Path: [vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md](file:///../../ai\models\vllm-v0-to-v1-correctness-before-corrections-in-rl-11e756.md)

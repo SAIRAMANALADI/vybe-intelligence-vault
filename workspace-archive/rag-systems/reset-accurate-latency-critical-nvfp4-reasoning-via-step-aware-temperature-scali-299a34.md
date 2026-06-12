@@ -3,7 +3,7 @@ title: "ReSET: Accurate Latency-Critical NVFP4 Reasoning via Step-Aware Temperat
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13233"
-local_vault_path: "ai/research/reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md"
+local_vault_path: "ai\research\reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13233
 
 ## Local Vault File
 
-Path: [reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md](file:///../../ai/research/reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md)
+Path: [reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md](file:///../../ai\research\reset-accurate-latency-critical-nvfp4-reasoning-via-step-aware-temperature-scali-299a34.md)

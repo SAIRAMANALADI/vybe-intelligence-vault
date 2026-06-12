@@ -3,7 +3,7 @@ title: "GEASS: Gated Evidence-Adaptive Selective Caption Trust for Vision-Langua
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.01733"
-local_vault_path: "ai/research/geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md"
+local_vault_path: "ai\research\geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.01733
 
 ## Local Vault File
 
-Path: [geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md](file:///../../ai/research/geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md)
+Path: [geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md](file:///../../ai\research\geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md)

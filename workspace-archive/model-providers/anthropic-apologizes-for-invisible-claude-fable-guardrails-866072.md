@@ -3,7 +3,7 @@ title: "Anthropic apologizes for invisible Claude Fable guardrails"
 archive_category: "model-providers"
 source_category: "ai/community"
 source_url: "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail"
-local_vault_path: "ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md"
+local_vault_path: "ai\community\anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://www.theverge.com/ai-artificial-intelligence/948280/
 
 ## Local Vault File
 
-Path: [anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md](file:///../../ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md)
+Path: [anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md](file:///../../ai\community\anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md)

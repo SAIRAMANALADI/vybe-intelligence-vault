@@ -3,7 +3,7 @@ title: "pguso/rag-from-scratch"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/pguso/rag-from-scratch"
-local_vault_path: "ai/rag/pguso-rag-from-scratch-1f3a46.md"
+local_vault_path: "ai\rag\pguso-rag-from-scratch-1f3a46.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://github.com/pguso/rag-from-scratch
 
 ## Local Vault File
 
-Path: [pguso-rag-from-scratch-1f3a46.md](file:///../../ai/rag/pguso-rag-from-scratch-1f3a46.md)
+Path: [pguso-rag-from-scratch-1f3a46.md](file:///../../ai\rag\pguso-rag-from-scratch-1f3a46.md)

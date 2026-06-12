@@ -3,7 +3,7 @@ title: "nanoVLM: The simplest repository to train your VLM in pure PyTorch"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nanovlm"
-local_vault_path: "ai/models/nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md"
+local_vault_path: "ai\models\nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nanovlm
 
 ## Local Vault File
 
-Path: [nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md](file:///../../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md)
+Path: [nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md](file:///../../ai\models\nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md)

@@ -3,7 +3,7 @@ title: "Generativism: Toward a Learning Theory for the Age of Generative Artific
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12441"
-local_vault_path: "ai/research/generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md"
+local_vault_path: "ai\research\generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12441
 
 ## Local Vault File
 
-Path: [generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md](file:///../../ai/research/generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md)
+Path: [generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md](file:///../../ai\research\generativism-toward-a-learning-theory-for-the-age-of-generative-artificial-intel-4082bc.md)

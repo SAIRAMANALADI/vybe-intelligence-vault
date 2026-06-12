@@ -3,7 +3,7 @@ title: "Meta-Learning Transformers to Improve In-Context Generalization"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.05019"
-local_vault_path: "ai/rag/meta-learning-transformers-to-improve-in-context-generalization-b1d243.md"
+local_vault_path: "ai\rag\meta-learning-transformers-to-improve-in-context-generalization-b1d243.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2507.05019
 
 ## Local Vault File
 
-Path: [meta-learning-transformers-to-improve-in-context-generalization-b1d243.md](file:///../../ai/rag/meta-learning-transformers-to-improve-in-context-generalization-b1d243.md)
+Path: [meta-learning-transformers-to-improve-in-context-generalization-b1d243.md](file:///../../ai\rag\meta-learning-transformers-to-improve-in-context-generalization-b1d243.md)

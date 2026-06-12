@@ -3,7 +3,7 @@ title: "SDXL in 4 steps with Latent Consistency LoRAs"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/lcm_lora"
-local_vault_path: "ai/models/sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md"
+local_vault_path: "ai\models\sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/lcm_lora
 
 ## Local Vault File
 
-Path: [sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md](file:///../../ai/models/sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md)
+Path: [sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md](file:///../../ai\models\sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md)

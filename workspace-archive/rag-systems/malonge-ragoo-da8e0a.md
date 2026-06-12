@@ -3,7 +3,7 @@ title: "malonge/RaGOO"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/malonge/RaGOO"
-local_vault_path: "ai/rag/malonge-ragoo-da8e0a.md"
+local_vault_path: "ai\rag\malonge-ragoo-da8e0a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/malonge/RaGOO
 
 ## Local Vault File
 
-Path: [malonge-ragoo-da8e0a.md](file:///../../ai/rag/malonge-ragoo-da8e0a.md)
+Path: [malonge-ragoo-da8e0a.md](file:///../../ai\rag\malonge-ragoo-da8e0a.md)

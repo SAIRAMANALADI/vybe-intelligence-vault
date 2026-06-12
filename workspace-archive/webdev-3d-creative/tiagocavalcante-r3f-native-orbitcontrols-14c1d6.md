@@ -3,7 +3,7 @@ title: "TiagoCavalcante/r3f-native-orbitcontrols"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/TiagoCavalcante/r3f-native-orbitcontrols"
-local_vault_path: "web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md"
+local_vault_path: "web-development\react-three-fiber\tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/TiagoCavalcante/r3f-native-orbitcontrols
 
 ## Local Vault File
 
-Path: [tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md](file:///../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md)
+Path: [tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md](file:///../../web-development\react-three-fiber\tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md)

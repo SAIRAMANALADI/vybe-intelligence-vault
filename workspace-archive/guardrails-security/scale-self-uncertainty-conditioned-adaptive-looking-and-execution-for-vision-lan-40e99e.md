@@ -3,7 +3,7 @@ title: "SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for V
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.04208"
-local_vault_path: "ai/research/scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md"
+local_vault_path: "ai\research\scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2602.04208
 
 ## Local Vault File
 
-Path: [scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md](file:///../../ai/research/scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md)
+Path: [scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md](file:///../../ai\research\scale-self-uncertainty-conditioned-adaptive-looking-and-execution-for-vision-lan-40e99e.md)

@@ -3,7 +3,7 @@ title: "SmartFont: Dynamic Condition Allocation for Few-Shot Font Generation"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13382"
-local_vault_path: "ai/rag/smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md"
+local_vault_path: "ai\rag\smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13382
 
 ## Local Vault File
 
-Path: [smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md](file:///../../ai/rag/smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md)
+Path: [smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md](file:///../../ai\rag\smartfont-dynamic-condition-allocation-for-few-shot-font-generation-107b7c.md)

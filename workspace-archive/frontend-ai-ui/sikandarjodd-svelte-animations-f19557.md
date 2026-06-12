@@ -3,7 +3,7 @@ title: "SikandarJODD/svelte-animations"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/SikandarJODD/svelte-animations"
-local_vault_path: "web-development/framer-motion/sikandarjodd-svelte-animations-f19557.md"
+local_vault_path: "web-development\framer-motion\sikandarjodd-svelte-animations-f19557.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/SikandarJODD/svelte-animations
 
 ## Local Vault File
 
-Path: [sikandarjodd-svelte-animations-f19557.md](file:///../../web-development/framer-motion/sikandarjodd-svelte-animations-f19557.md)
+Path: [sikandarjodd-svelte-animations-f19557.md](file:///../../web-development\framer-motion\sikandarjodd-svelte-animations-f19557.md)

@@ -3,7 +3,7 @@ title: "Definitional alignment before capability alignment: a Design-Science fra
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12713"
-local_vault_path: "ai/research/definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md"
+local_vault_path: "ai\research\definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12713
 
 ## Local Vault File
 
-Path: [definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md](file:///../../ai/research/definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md)
+Path: [definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md](file:///../../ai\research\definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md)

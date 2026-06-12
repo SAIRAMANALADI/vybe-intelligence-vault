@@ -3,7 +3,7 @@ title: "Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsi
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13441"
-local_vault_path: "ai/agents/why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md"
+local_vault_path: "ai\agents\why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13441
 
 ## Local Vault File
 
-Path: [why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md](file:///../../ai/agents/why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md)
+Path: [why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md](file:///../../ai\agents\why-sampling-is-not-choosing-intentionality-agency-and-moral-responsibility-in-l-c97a71.md)

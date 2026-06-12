@@ -3,7 +3,7 @@ title: "JailbreakOPT: Tool-Assisted Iterative Jailbreak Prompt Optimization"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11425"
-local_vault_path: "ai/research/jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md"
+local_vault_path: "ai\research\jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11425
 
 ## Local Vault File
 
-Path: [jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md](file:///../../ai/research/jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md)
+Path: [jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md](file:///../../ai\research\jailbreakopt-tool-assisted-iterative-jailbreak-prompt-optimization-15f76b.md)

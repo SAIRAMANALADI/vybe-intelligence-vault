@@ -3,7 +3,7 @@ title: "IVIE: A Neuro-symbolic Approach to Incremental and Validated Generation 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13348"
-local_vault_path: "ai/research/ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md"
+local_vault_path: "ai\research\ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13348
 
 ## Local Vault File
 
-Path: [ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md](file:///../../ai/research/ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md)
+Path: [ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md](file:///../../ai\research\ivie-a-neuro-symbolic-approach-to-incremental-and-validated-generation-of-intera-415df3.md)
