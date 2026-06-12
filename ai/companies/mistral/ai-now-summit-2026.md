@@ -4,8 +4,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/ai-now-summit-2026
-published_at: '2026-06-12T15:38:30.494193+00:00'
-collected_at: '2026-06-12T15:38:30.494195+00:00'
+published_at: '2026-06-12T20:26:25.086096+00:00'
+collected_at: '2026-06-12T20:26:25.086099+00:00'
 tags:
 - blog-post
 - mistral
@@ -13,9 +13,9 @@ tags:
 - models
 status: active
 resource_id: blog:ai-now-summit-2026
-first_seen: '2026-06-12T15:38:30.494195+00:00'
-last_seen: '2026-06-12T15:38:30.494195+00:00'
-last_checked: '2026-06-12T15:38:30.494195+00:00'
+first_seen: '2026-06-12T20:26:25.086099+00:00'
+last_seen: '2026-06-12T20:26:25.086099+00:00'
+last_checked: '2026-06-12T20:26:25.086099+00:00'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/ai-now-summit-2026
-- Collected At: 2026-06-12T15:38:30.494195+00:00
+- Collected At: 2026-06-12T20:26:25.086099+00:00
 
 ## Related Tags
 

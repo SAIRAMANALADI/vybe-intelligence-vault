@@ -4,18 +4,18 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/pmndrs/react-three-fiber
-collected_at: '2026-06-12T15:38:14.348975+00:00'
-published_at: '2026-06-12T14:17:13Z'
+collected_at: '2026-06-12T20:26:09.785573+00:00'
+published_at: '2026-06-12T20:18:42Z'
 tags:
 - frontend_ui
 - threejs
-stars: 31076
+stars: 31080
 language: TypeScript
 status: active
 resource_id: github:pmndrs/react-three-fiber
-first_seen: '2026-06-12T15:38:14.348975+00:00'
-last_seen: '2026-06-12T15:38:14.348975+00:00'
-last_checked: '2026-06-12T15:38:14.348975+00:00'
+first_seen: '2026-06-12T20:26:09.785573+00:00'
+last_seen: '2026-06-12T20:26:09.785573+00:00'
+last_checked: '2026-06-12T20:26:09.785573+00:00'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 31076
+- Stars: 31080
 - Forks: 1859
 - Language: TypeScript
 - Topics: 3d, animation, fiber, react, renderer, threejs
-- Last Updated: 2026-06-12T14:17:13Z
+- Last Updated: 2026-06-12T20:18:42Z
 
 ## Possible Use Cases
 

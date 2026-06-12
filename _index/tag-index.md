@@ -222,6 +222,7 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [LangGraph vs fast-langraph: side-by-side benchmarks](../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
+  - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Learning Object Manipulation from Scratch via Contrastive Interaction](../ai/rag/arxiv-2606-11525.md)
@@ -470,6 +471,7 @@ Resources organized by keyword tags.
   - [Slightly reducing the sloppiness of AI generated front end](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)
   - [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../ai/community/the-ai-agent-in-the-billing-department-of-verizon.md)
   - [The Future of Email](../ai/community/the-future-of-email.md)
+  - [There Is Life Before Main in Rust](../ai/community/there-is-life-before-main-in-rust.md)
   - [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../ai/community/workers-are-spending-over-6-hours-a-week-botsittin.md)
 
 ## animation
@@ -544,6 +546,8 @@ Resources organized by keyword tags.
   - [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](../ai/agents/arxiv-2606-12924.md)
   - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+  - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
+  - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp.md)
@@ -594,6 +598,8 @@ Resources organized by keyword tags.
   - [Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](../ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)
   - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+  - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
+  - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](../ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-offi.md)
@@ -972,6 +978,7 @@ Resources organized by keyword tags.
   - [microsoft/a11y-llm-eval](../ai/resources/microsoft-a11y-llm-eval.md)
   - [modelscope/evalscope](../ai/rag/modelscope-evalscope.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
+  - [olmo-eval: An evaluation workbench for the model development loop](../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [openai/evals](../ai/resources/openai-evals.md)
@@ -999,6 +1006,8 @@ Resources organized by keyword tags.
   - [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md)
   - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+  - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
+  - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -1665,6 +1674,7 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
   - [Language Model Circuits Are Sparse in the Neuron Basis](../ai/research/arxiv-2601-22594.md)
+  - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
   - [LightRAG](../ai/rag/lightrag.md)
   - [Lightweight and Interpretable Transformer via Mixed Graph Algorithm Unrolling for Traffic Forecast](../ai/research/arxiv-2505-13102.md)
@@ -1715,6 +1725,7 @@ Resources organized by keyword tags.
   - [The Hidden Power of Scaling Factor in LoRA Optimization](../ai/rag/arxiv-2606-12883.md)
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
+  - [There Is Life Before Main in Rust](../ai/community/there-is-life-before-main-in-rust.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
@@ -2556,6 +2567,7 @@ Resources organized by keyword tags.
   - [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)
   - [LangGraph Production Best Practices 2026: Complete Guide | LangChain Tutorials](../ai/rag/langgraph-production-best-practices-2026-complete.md)
   - [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
+  - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/launching-the-artificial-analysis-text-to-image-le.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
   - [Muse Spark Safety & Preparedness Report](../ai/research/arxiv-2606-12429.md)
@@ -3691,4 +3703,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-12T15:40:41.998163+00:00*
+*Index generated on 2026-06-12T20:28:33.872033+00:00*

@@ -122,7 +122,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/AgentTeam-TaichuAI/ScienceClaw>
 
 * **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by xiaoyu2006. Score: 1141, Comments: 430. Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+  * Summary: Hacker News story by xiaoyu2006. Score: 1343, Comments: 483. Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian>
 
@@ -4566,9 +4566,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f>
 
 * **[A jacket that harvests drinking water from the air](ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ilreb. Score: 70, Comments: 47. Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+  * Summary: Hacker News story by ilreb. Score: 148, Comments: 95. Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
   * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/>
+  * Source URL: <https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air>
 
 * **[A practical guide to building agents | OpenAI](ai/rag/a-practical-guide-to-building-agents-openai.md)** (`benchmark` | `useful` tier)
   * Summary: A practical guide to building agentsTry ChatGPT(opens in a new window)Contact salesIntroductionLarge language models are becoming increasingly capable of handling complex, multi-step tasks. Advances in reasoning, multimodality, and tool use have unlo
@@ -4850,6 +4850,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `models`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.langchain.com/langgraph>
 
+* **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by arcb. Score: 21, Comments: 9. Original Link: https://bitboard.work/
+  * Tags: `agents`, `hackernews`, `producthunt`
+  * Source URL: <https://bitboard.work>
+
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
   * Tags: `agents`, `rag`, `workflows`
@@ -4966,7 +4971,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by FergusArgyll. Score: 14, Comments: 2. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Summary: Hacker News story by FergusArgyll. Score: 129, Comments: 87. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 
@@ -5009,6 +5014,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by soheilpro. Score: 149, Comments: 171. Original Link: https://www.fastmail.com/blog/the-future-of-email/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://fastmail.com/blog/the-future-of-email>
+
+* **[There Is Life Before Main in Rust](ai/community/there-is-life-before-main-in-rust.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mmastrac. Score: 44, Comments: 12. Original Link: https://grack.com/blog/2026/06/11/life-before-main/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://grack.com/blog/2026/06/11/life-before-main>
 
 * **[Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](ai/rag/top-10-llm-observability-tools-complete-guide-for.md)** (`dataset` | `useful` tier)
   * Summary: ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don
@@ -8320,6 +8330,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.03065v2 Announce Type: replace Abstract: Generative control policies (GCPs), such as diffusion- and flow-based control policies, have emerged as effective parameterizations for robot learning. This work introduces Off-policy Generative Pol
   * Source URL: <https://arxiv.org/abs/2605.03065>
 
+* **[olmo-eval: An evaluation workbench for the model development loop](ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: olmo-eval: An evaluation workbench for the model development loop
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/allenai/olmo-eval>
+
 * **[OlmoEarth v1.1: A more efficient family of Earth observation models](ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: OlmoEarth v1.1: A more efficient family of Earth observation models
   * Source URL: <https://huggingface.co/blog/allenai/olmoearth-v1-1>
@@ -10622,6 +10637,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/dxc-anthropic-alliance>
+
+* **[Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/anthropic-public-record>
+
+* **[Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/tcs-anthropic-partnership>
 
 * **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network

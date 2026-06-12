@@ -6,12 +6,12 @@ Below is the file distribution across the vault categories.
 | :--- | ---: |
 | `/` | 1 |
 | `ai/agents/` | 279 |
-| `ai/community/` | 27 |
-| `ai/companies/anthropic/` | 9 |
+| `ai/community/` | 29 |
+| `ai/companies/anthropic/` | 11 |
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
-| `ai/models/` | 732 |
+| `ai/models/` | 733 |
 | `ai/rag/` | 425 |
 | `ai/research/` | 433 |
 | `ai/resources/` | 25 |

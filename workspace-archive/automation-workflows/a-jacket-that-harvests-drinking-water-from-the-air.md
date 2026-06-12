@@ -2,7 +2,7 @@
 title: A jacket that harvests drinking water from the air
 archive_category: automation-workflows
 source_category: ai/community
-source_url: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+source_url: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air
 resource_id: hackernews:a-jacket-that-harvests-drinking-water-from-the-air
 local_vault_path: ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md
 quality_score: 70
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ilreb. Score: 70, Comments: 47.
+Hacker News story by ilreb. Score: 148, Comments: 95.
 Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
 
 ## Use Cases
@@ -43,7 +43,7 @@ Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-wat
 
 ## Source
 
-Original source URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
+Original source URL: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air
 
 ## Local Vault File
 

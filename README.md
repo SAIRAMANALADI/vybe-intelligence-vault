@@ -44,32 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2099 |
-| Active resources | 2099 |
+| Resources tracked | 2104 |
+| Active resources | 2104 |
 | Inactive resources | 0 |
-| Archive files | 11458 |
+| Archive files | 11466 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 15:41 UTC |
+| Last meaningful update | 2026-06-12 20:28 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (Rank: +6) (+319 points)
+- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (+712 points)
+- **[A jacket that harvests drinking water from the air](ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)** (Rank: +2) (+78 points)
+- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (+49 points)
 - **[Making a vintage LLM from scratch](ai/community/making-a-vintage-llm-from-scratch.md)** (+35 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +539)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +559)
-- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +559)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +1)
 
 #### ✨ New Discoveries
-- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 1141)
 - **[Ryanair dark UX patterns summer 2026 refresher](ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)** (Score: 174)
 - **[The Future of Email](ai/community/the-future-of-email.md)** (Score: 149)
-- **[Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md)** (Score: 143)
-- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (Score: 14)
+- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (Score: 129)
+- **[There Is Life Before Main in Rust](ai/community/there-is-life-before-main-in-rust.md)** (Score: 44)
+- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (Score: 21)
 
 #### 💤 Recently Inactive Resources
 - None.

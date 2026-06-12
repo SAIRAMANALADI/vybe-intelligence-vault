@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/huntabyte/shadcn-svelte
-collected_at: '2026-06-12T15:38:21.963144+00:00'
-published_at: '2026-06-12T13:35:37Z'
+collected_at: '2026-06-12T20:26:17.210244+00:00'
+published_at: '2026-06-12T17:41:51Z'
 tags:
 - frontend_ui
-stars: 8840
+stars: 8843
 language: TypeScript
 status: active
 resource_id: github:huntabyte/shadcn-svelte
-first_seen: '2026-06-12T15:38:21.963144+00:00'
-last_seen: '2026-06-12T15:38:21.963144+00:00'
-last_checked: '2026-06-12T15:38:21.963144+00:00'
+first_seen: '2026-06-12T20:26:17.210244+00:00'
+last_seen: '2026-06-12T20:26:17.210244+00:00'
+last_checked: '2026-06-12T20:26:17.210244+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: huntabyte
-- Stars: 8840
+- Stars: 8843
 - Forks: 549
 - Language: TypeScript
 - Topics: bits-ui, shadcn-svelte, shadcn-ui, svelte, svelte-5, svelte-components, svelte-kit, sveltejs, sveltekit, tailwindcss
-- Last Updated: 2026-06-12T13:35:37Z
+- Last Updated: 2026-06-12T17:41:51Z
 
 ## Possible Use Cases
 

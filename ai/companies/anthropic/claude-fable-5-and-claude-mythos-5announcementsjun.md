@@ -5,17 +5,17 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/claude-fable-5-mythos-5
-published_at: '2026-06-12T15:38:29.534289+00:00'
-collected_at: '2026-06-12T15:38:29.534308+00:00'
+published_at: '2026-06-12T20:26:23.896228+00:00'
+collected_at: '2026-06-12T20:26:23.896241+00:00'
 tags:
 - anthropic
 - anthropic-news
 - blog-post
 status: active
 resource_id: blog:claude-fable-5-and-claude-mythos-5announcementsjun
-first_seen: '2026-06-12T15:38:29.534308+00:00'
-last_seen: '2026-06-12T15:38:29.534308+00:00'
-last_checked: '2026-06-12T15:38:29.534308+00:00'
+first_seen: '2026-06-12T20:26:23.896241+00:00'
+last_seen: '2026-06-12T20:26:23.896241+00:00'
+last_checked: '2026-06-12T20:26:23.896241+00:00'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/claude-fable-5-mythos-5
-- Collected At: 2026-06-12T15:38:29.534308+00:00
+- Collected At: 2026-06-12T20:26:23.896241+00:00
 
 ## Related Tags
 

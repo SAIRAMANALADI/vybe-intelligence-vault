@@ -887,6 +887,8 @@ Resources organized by publisher feed and query sources.
   - [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md)
   - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+  - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
+  - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
@@ -1212,6 +1214,7 @@ Resources organized by publisher feed and query sources.
   - [How a new DSL may survive in the era of LLMs](../ai/community/how-a-new-dsl-may-survive-in-the-era-of-llms.md)
   - [Klondike Solitaire game for curses in 5k of C](../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c.md)
   - [L'Affaire Siloxane](../ai/community/l-affaire-siloxane.md)
+  - [Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)
   - [MTG Bench: Testing how well LLMs can play Magic](../ai/community/mtg-bench-testing-how-well-llms-can-play-magic.md)
   - [Making a vintage LLM from scratch](../ai/community/making-a-vintage-llm-from-scratch.md)
   - [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-fast.md)
@@ -1224,6 +1227,7 @@ Resources organized by publisher feed and query sources.
   - [Slightly reducing the sloppiness of AI generated front end](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)
   - [The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](../ai/community/the-ai-agent-in-the-billing-department-of-verizon.md)
   - [The Future of Email](../ai/community/the-future-of-email.md)
+  - [There Is Life Before Main in Rust](../ai/community/there-is-life-before-main-in-rust.md)
   - [Workers are spending over 6 hours a week botsitting AI, fueling job frustration](../ai/community/workers-are-spending-over-6-hours-a-week-botsittin.md)
 
 ## Unknown Source (type: huggingface)
@@ -2010,6 +2014,7 @@ Resources organized by publisher feed and query sources.
   - [huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)
   - [mmBERT: ModernBERT goes Multilingual](../ai/models/mmbert-modernbert-goes-multilingual.md)
   - [nanoVLM: The simplest repository to train your VLM in pure PyTorch](../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)
+  - [olmo-eval: An evaluation workbench for the model development loop](../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md)
   - [vLLM V0 to V1: Correctness Before Corrections in RL](../ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md)
   - [~Don't~ Repeat Yourself](../ai/models/don-t-repeat-yourself.md)
   - [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)
@@ -2124,4 +2129,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-12T15:40:42.022887+00:00*
+*Index generated on 2026-06-12T20:28:33.893707+00:00*

@@ -4,18 +4,19 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/shadcn-ui/next-template
-collected_at: '2026-06-12T10:40:21.841671+00:00'
-published_at: '2026-06-12T05:46:27Z'
+collected_at: '2026-06-12T20:26:17.210408+00:00'
+published_at: '2026-06-12T19:25:40Z'
 tags:
 - frontend_ui
-stars: 1497
+stars: 1496
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:21.841671+00:00'
-last_seen: '2026-06-12T10:40:21.841671+00:00'
 resource_id: github:shadcn-ui/next-template
+first_seen: '2026-06-12T20:26:17.210408+00:00'
+last_seen: '2026-06-12T20:26:17.210408+00:00'
+last_checked: '2026-06-12T20:26:17.210408+00:00'
+health_score: 100
 ---
-
 
 # shadcn-ui/next-template
 
@@ -30,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: shadcn-ui
-- Stars: 1497
+- Stars: 1496
 - Forks: 252
 - Language: TypeScript
 - Topics: nextjs, starter, tailwind, template
-- Last Updated: 2026-06-12T05:46:27Z
+- Last Updated: 2026-06-12T19:25:40Z
 
 ## Possible Use Cases
 

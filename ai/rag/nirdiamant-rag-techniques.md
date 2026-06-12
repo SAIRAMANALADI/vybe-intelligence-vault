@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/NirDiamant/RAG_Techniques
-collected_at: '2026-06-12T15:40:02.018713+00:00'
-published_at: '2026-06-12T15:33:06Z'
+collected_at: '2026-06-12T20:27:54.179998+00:00'
+published_at: '2026-06-12T20:14:41Z'
 tags:
 - agents
 - github-repo
@@ -15,7 +15,7 @@ tags:
 - models
 - openai
 - rag
-stars: 27893
+stars: 27901
 language: Jupyter Notebook
 status: active
 license: NOASSERTION
@@ -23,9 +23,9 @@ archived: false
 created_at: '2024-07-13T16:08:36Z'
 pushed_at: '2026-06-11T21:55:50Z'
 resource_id: github:nirdiamant/rag_techniques
-first_seen: '2026-06-12T15:40:02.018713+00:00'
-last_seen: '2026-06-12T15:40:02.018713+00:00'
-last_checked: '2026-06-12T15:40:02.018713+00:00'
+first_seen: '2026-06-12T20:27:54.179998+00:00'
+last_seen: '2026-06-12T20:27:54.179998+00:00'
+last_checked: '2026-06-12T20:27:54.179998+00:00'
 health_score: 100
 ---
 
@@ -42,11 +42,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: NirDiamant
-- Stars: 27893
+- Stars: 27901
 - Forks: 3373
 - Language: Jupyter Notebook
 - Topics: agentic-rag, ai, embeddings, generative-ai, gpt, langchain, llama-index, llm, llms, machine-learning, nlp, openai, python, rag, retrieval-augmented-generation, semantic-search, tutorials, vector-database
-- Last Updated: 2026-06-12T15:33:06Z
+- Last Updated: 2026-06-12T20:14:41Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2024-07-13T16:08:36Z

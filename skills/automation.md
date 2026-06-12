@@ -18,7 +18,7 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 661 resources matched in the intelligence vault.
+Active signals: 664 resources matched in the intelligence vault.
 Recently detected signals:
 - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-12
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-12
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.538693+00:00.012818+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T20:28:30.721256+00:00.538693+00:00.012818+00:00.

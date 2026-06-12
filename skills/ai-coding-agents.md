@@ -18,7 +18,7 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 428 resources matched in the intelligence vault.
+Active signals: 431 resources matched in the intelligence vault.
 Recently detected signals:
 - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-12
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-12
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.458467+00:00.851352+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T20:28:30.647594+00:00.458467+00:00.851352+00:00.

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by xiaoyu2006. Score: 1141, Comments: 430.
+Hacker News story by xiaoyu2006. Score: 1343, Comments: 483.
 Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
 
 ## Use Cases
