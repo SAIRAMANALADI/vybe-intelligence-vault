@@ -1,0 +1,55 @@
+name: Vault Nightly Link & Security Scan
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Midnight daily UTC
+  workflow_dispatch:
+
+jobs:
+  link-and-security-audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Vault
+        uses: actions/checkout@v4
+        with:
+          path: vault
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || github.token }}
+
+      - name: Checkout Ingestion Engine (Scripts)
+        uses: actions/checkout@v4
+        with:
+          repository: sairaman436/vybe-intelligence-engine
+          path: engine
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'engine/requirements.txt'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml requests
+
+      - name: Audit URL Statuses
+        run: |
+          python engine/scripts/audit_vault_links.py --dir vault --output broken-links.md
+
+      - name: Run Secret Leak Audit
+        run: |
+          python engine/src/security/public_vault_scanner.py vault
+
+      - name: Commit Diagnostics
+        run: |
+          cd vault
+          git config --local user.name "vybe-harvester-bot"
+          git config --local user.email "vybe-harvester-bot@users.noreply.github.com"
+          git add broken-links.md
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "diagnostics: update dead-link reports [skip ci]"
+            git push origin main
+          else
+            echo "No changes in dead-link reports."
+          fi

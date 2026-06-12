@@ -1,0 +1,39 @@
+name: Vault Pull Request Validation
+
+on:
+  pull_request:
+    paths:
+      - 'ai/**'
+      - 'web-development/**'
+      - 'skills/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Vault (PR Content)
+        uses: actions/checkout@v4
+        with:
+          path: vault
+
+      - name: Checkout Ingestion Engine (Scripts)
+        uses: actions/checkout@v4
+        with:
+          repository: sairaman436/vybe-intelligence-engine
+          path: engine
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'engine/requirements.txt'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml requests
+
+      - name: Validate Frontmatter Schemas
+        run: |
+          python engine/scripts/validate_frontmatter.py --dir vault

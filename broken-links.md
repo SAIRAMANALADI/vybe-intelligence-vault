@@ -1,8 +1,12 @@
-# Broken Links Report
+# Dead Link Audit Report
 
-Last checked: Never
+Generated automatically by Vybe link auditor on 2026-06-12T03:44:07.298020+00:00.
 
-| URL | Status | Found in | Notes |
-| --- | ------ | -------- | ----- |
+**Audit Summary**:
+- Unique URLs scanned: 10
+- Broken occurrences: 0
+- Dead URLs: 0
 
-Broken link checking is planned. This file will be updated automatically in a future version.
+## Broken URLs Detail
+
+🎉 **No broken links identified! All resources are active.**
