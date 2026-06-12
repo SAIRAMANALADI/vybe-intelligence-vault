@@ -8,64 +8,64 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ## Curated Top Resources
 
-### [langgenius/dify](https://github.com/langgenius/dify)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify-24dc2b.md`](file:///../../ai/rag/langgenius-dify-24dc2b.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 ### [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit-3cedf1.md`](file:///../../ai/agents/alexpeclub-ai-coding-starter-kit-3cedf1.md)
+- **Score**: `87` | **Path**: [`alexpeclub-ai-coding-starter-kit.md`](file:///../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows)
-- **Category**: `ai/companies/mistral` | **Kind**: `WORKFLOW` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md`](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md`](file:///../../ai/rag/building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md`](file:///../../ai/rag/spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md)
+### [langgenius/dify](https://github.com/langgenius/dify)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](file:///../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
-- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers-a39dcf.md)
+### [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502)
+- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2602-19502.md`](file:///../../ai/agents/arxiv-2602-19502.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
+### [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-05922.md`](file:///../../ai/agents/arxiv-2606-05922.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-07489.md`](file:///../../ai/agents/arxiv-2606-07489.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md`](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentbench-terminal-bench-osworld-ta-cb25b4.md)
+- **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md`](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-11304.md`](file:///../../ai/rag/arxiv-2606-11304.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4)
+- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-langgraph.md`](file:///../../ai/rag/building-production-ready-ai-agents-with-langgraph.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practic.md`](file:///../../ai/rag/building-production-ready-rag-systems-best-practic.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
 - **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+- **Score**: `82` | **Path**: [`five-guides-to-building-and-scaling-production-rea.md`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4)
-- **Category**: `ai/rag` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md`](file:///../../ai/rag/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md)
+### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`mastering-langgraph-a-production-ready-coding-walk.md`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502)
-- **Category**: `ai/agents` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md`](file:///../../ai/agents/human-guided-agentic-ai-for-multimodal-clinical-prediction-lessons-from-the-agen-0babb2.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md`](file:///../../ai/agents/how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md)
+### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 10:42 UTC*
+*Last updated: 2026-06-12 14:37 UTC*

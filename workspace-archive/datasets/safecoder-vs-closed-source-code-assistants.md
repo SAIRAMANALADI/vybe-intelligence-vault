@@ -1,0 +1,45 @@
+---
+title: SafeCoder vs. Closed-source Code Assistants
+archive_category: datasets
+source_category: ai/models
+source_url: https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants
+local_vault_path: ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+selection_reason:
+- Valuable developer reference
+resource_id: blog:safecoder-vs-closed-source-code-assistants
+---
+
+
+
+# SafeCoder vs. Closed-source Code Assistants
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: SafeCoder vs. Closed-source Code Assistants
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants
+
+## Local Vault File
+
+Path: [safecoder-vs-closed-source-code-assistants-3f8875.md](file:///../../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)

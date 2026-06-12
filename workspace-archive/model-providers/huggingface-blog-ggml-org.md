@@ -1,0 +1,46 @@
+---
+title: 'New in llama.cpp: Model Management'
+archive_category: model-providers
+source_category: ai/models
+source_url: https://huggingface.co/blog/ggml-org
+resource_id: huggingface:blog/ggml-org
+local_vault_path: ai/models/huggingface-blog-ggml-org.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- meta-ai
+- models
+selection_reason:
+- Valuable developer reference
+---
+
+# New in llama.cpp: Model Management
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: New in llama.cpp: Model Management
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://huggingface.co/blog/ggml-org
+
+## Local Vault File
+
+Path: [huggingface-blog-ggml-org.md](file:///../../ai/models/huggingface-blog-ggml-org.md)

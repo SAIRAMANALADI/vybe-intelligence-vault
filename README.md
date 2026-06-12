@@ -61,11 +61,11 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 - No trending items found.
 
 #### ✨ New Discoveries
-- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42-ab8be5.md)** (Score: 631)
-- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)** (Score: 427)
-- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)** (Score: 414)
-- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md)** (Score: 384)
-- **[L'Affaire Siloxane](ai/community/l-affaire-siloxane-923f03.md)** (Score: 225)
+- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 631)
+- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md)** (Score: 427)
+- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable.md)** (Score: 414)
+- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)** (Score: 384)
+- **[L'Affaire Siloxane](ai/community/l-affaire-siloxane.md)** (Score: 225)
 
 #### 💤 Recently Inactive Resources
 - None.

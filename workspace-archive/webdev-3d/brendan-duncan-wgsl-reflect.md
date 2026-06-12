@@ -1,0 +1,38 @@
+---
+title: brendan-duncan/wgsl_reflect
+archive_category: webdev-3d
+source_category: web-development/webgpu
+source_url: https://github.com/brendan-duncan/wgsl_reflect
+local_vault_path: web-development/webgpu/brendan-duncan-wgsl-reflect.md
+tags:
+- threejs
+resource_id: github:brendan-duncan/wgsl_reflect
+---
+
+
+
+# brendan-duncan/wgsl_reflect
+
+## Why This Is In The Archive
+
+- Matched source category: `web-development/webgpu`
+- Tags: threejs
+- Archive category: 3D Web Development
+
+## Summary
+
+A WebGPU Shading Language parser and reflection library for Javascript.
+
+## Use Cases
+
+- 3D web experiences
+- WebGL/WebGPU projects
+- Three.js learning
+
+## Source
+
+Original source: https://github.com/brendan-duncan/wgsl_reflect
+
+## Local Vault File
+
+Path: web-development\webgpu\brendan-duncan-wgsl-reflect-b6c9cb.md

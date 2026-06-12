@@ -1756,7 +1756,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.11780",
     "local_path": "ai/rag/what-limits-does-quantization-place-on-dense-top-k-retrieval-a-theoretical-study-459f89.md",
-    "summary": "arXiv:2606.11780v1 Announce Type: cross Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S \\subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vec",
+    "summary": "arXiv:2606.11780v1 Announce Type: cross Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S /subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vec",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
@@ -1896,7 +1896,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.12883",
     "local_path": "ai/rag/the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md",
-    "summary": "arXiv:2606.12883v1 Announce Type: new Abstract: In Low-Rank Adaptation (LoRA), the scaling factor $\\alpha$ is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal th",
+    "summary": "arXiv:2606.12883v1 Announce Type: new Abstract: In Low-Rank Adaptation (LoRA), the scaling factor $/alpha$ is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal th",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -2619,7 +2619,7 @@
     "last_updated": "2026-06-11T12:52:36.686440+00:00"
   },
   {
-    "title": "Building Effective AI Agents \\ Anthropic",
+    "title": "Building Effective AI Agents / Anthropic",
     "category": "ai/rag",
     "section": "automation-workflows",
     "tags": [
@@ -3290,7 +3290,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13647",
     "local_path": "ai/rag/skmteb-slovak-massive-text-embedding-benchmark-and-model-adaptation-9f076e.md",
-    "summary": "arXiv:2606.13647v1 Announce Type: cross Abstract: We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the dep",
+    "summary": "arXiv:2606.13647v1 Announce Type: cross Abstract: We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$/times$ the dep",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
@@ -20712,7 +20712,7 @@
     "last_updated": "2026-06-12T10:40:03.105688+00:00"
   },
   {
-    "title": "Real-rootedness of the Poincar\\'e polynomials of $\\overline{\\mathcal M}_{0,n}$: an AI-assisted proof",
+    "title": "Real-rootedness of the Poincar/'e polynomials of $/overline{/mathcal M}_{0,n}$: an AI-assisted proof",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
     "tags": [
@@ -20722,7 +20722,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2605.29151",
     "local_path": "ai/agents/real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md",
-    "summary": "arXiv:2605.29151v2 Announce Type: replace-cross Abstract: We prove real-rootedness for the Poincar\\'e polynomial \\[ P_n(t)=\\sum_{i=0}^{n-3} \\dim H^{2i}(\\overline{\\mathcal M}_{0,n};\\mathbb{Q})t^i \\] of the Deligne--Mumford moduli space $\\overline{\\mat",
+    "summary": "arXiv:2605.29151v2 Announce Type: replace-cross Abstract: We prove real-rootedness for the Poincar/'e polynomial /[ P_n(t)=/sum_{i=0}^{n-3} /dim H^{2i}(/overline{/mathcal M}_{0,n};/mathbb{Q})t^i /] of the Deligne--Mumford moduli space $/overline{/mat",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -21707,7 +21707,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13468",
     "local_path": "ai/agents/understanding-the-rejection-of-fixes-generated-by-agentic-pull-requests-insights-8e84e7.md",
-    "summary": "arXiv:2606.13468v1 Announce Type: cross Abstract: AI coding agents are increasingly used to generate pull requests (PRs) that propose code fixes in software projects. From a first exploration of the AIDev dataset, we find that 46.41\\% of the fixes pr",
+    "summary": "arXiv:2606.13468v1 Announce Type: cross Abstract: AI coding agents are increasingly used to generate pull requests (PRs) that propose code fixes in software projects. From a first exploration of the AIDev dataset, we find that 46.41/% of the fixes pr",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -25927,13 +25927,13 @@
     "last_updated": "2026-06-12T10:40:06.013718+00:00"
   },
   {
-    "title": "Triangular-Reference Schr\\\"odinger Bridges for Time Series Generation",
+    "title": "Triangular-Reference Schr/\"odinger Bridges for Time Series Generation",
     "category": "ai/research",
     "section": "datasets",
     "tags": [],
     "source_url": "https://arxiv.org/abs/2605.27478",
     "local_path": "ai/research/triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md",
-    "summary": "arXiv:2605.27478v3 Announce Type: replace-cross Abstract: Schr\\\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data",
+    "summary": "arXiv:2605.27478v3 Announce Type: replace-cross Abstract: Schr/\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -26797,7 +26797,7 @@
     "last_updated": "2026-06-12T10:40:03.101607+00:00"
   },
   {
-    "title": "On Pitfalls of $\\textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
+    "title": "On Pitfalls of $/textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -27519,7 +27519,7 @@
     "last_updated": "2026-06-12T10:40:06.013002+00:00"
   },
   {
-    "title": "FreeBridge: Variational Schr\\\"odinger Bridges for Cellular Transition Dynamics",
+    "title": "FreeBridge: Variational Schr/\"odinger Bridges for Cellular Transition Dynamics",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -28063,7 +28063,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.12050",
     "local_path": "ai/research/reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md",
-    "summary": "arXiv:2606.12050v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous \\emph{a posteriori} upper bounds for PINN pr",
+    "summary": "arXiv:2606.12050v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous /emph{a posteriori} upper bounds for PINN pr",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -29664,7 +29664,7 @@
     "last_updated": "2026-06-12T10:40:06.014166+00:00"
   },
   {
-    "title": "\\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
+    "title": "/texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
     "category": "ai/research",
     "section": "datasets",
     "tags": [],
@@ -31056,7 +31056,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2509.16456",
     "local_path": "ai/research/gpo-learning-from-critical-steps-to-improve-llm-reasoning-7c1dcd.md",
-    "summary": "arXiv:2509.16456v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in various domains, showing impressive potential on different tasks. Recently, reasoning LLMs have been proposed to improve the \\textit{reasoning}",
+    "summary": "arXiv:2509.16456v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in various domains, showing impressive potential on different tasks. Recently, reasoning LLMs have been proposed to improve the /textit{reasoning}",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",

@@ -1,0 +1,42 @@
+---
+title: A New Framework for Evaluating Voice Agents (EVA)
+category: ai/agents
+source_type: huggingface
+source_name: Hugging Face Blog
+source_url: https://huggingface.co/blog/ServiceNow-AI/eva
+published_at: '2026-03-23T20:31:52+00:00'
+collected_at: '2026-06-11T08:37:58.323890+00:00'
+tags:
+- agents
+status: new
+resource_id: blog:a-new-framework-for-evaluating-voice-agents-eva
+---
+
+
+# A New Framework for Evaluating Voice Agents (EVA)
+
+## Summary
+
+No summary provided. Reference resource: A New Framework for Evaluating Voice Agents (EVA)
+
+## Why It Matters
+
+This resource may be useful for AI engineering, research, automation, or future project building.
+
+## Key Points
+
+- Source: Hugging Face Blog
+- Category: ai/agents
+- Published: 2026-03-23T20:31:52+00:00
+
+## Implementation Notes
+
+Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+
+## Related Tags
+
+- agents
+
+## Source
+
+Original source: https://huggingface.co/blog/ServiceNow-AI/eva

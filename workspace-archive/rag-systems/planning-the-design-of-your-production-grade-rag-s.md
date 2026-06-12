@@ -1,0 +1,54 @@
+---
+title: Planning the design of your production-grade RAG system
+archive_category: rag-systems
+source_category: ai/rag
+source_url: https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system
+resource_id: blog:planning-the-design-of-your-production-grade-rag-s
+local_vault_path: ai/rag/planning-the-design-of-your-production-grade-rag-s.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- agents
+- hackernews
+- models
+- rag
+- scripts
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Planning the design of your production-grade RAG system
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Planning the design of your production-grade RAG system March 6, 20264-minute read Artificial intelligence Frank La Vigne AI Principal Technical Marketing Manager Robbie Jerrom Senior Principal Technologist, AI Share Subscribe to RSS Back to all post...
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://www.redhat.com/en/blog/planning-design-your-production-grade-rag-system
+
+## Local Vault File
+
+Path: [planning-the-design-of-your-production-grade-rag-s.md](file:///../../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)

@@ -10,12 +10,12 @@ Vector databases provide sub-millisecond similarity search across millions of em
 
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (framework - ESSENTIAL Tier)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (product - ESSENTIAL Tier)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [langgenius/dify](https://github.com/langgenius/dify) (framework - ESSENTIAL Tier)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) (mcp-server - ESSENTIAL Tier)
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (dataset - USEFUL Tier)
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
+- [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (dataset - USEFUL Tier)
+- [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/chroma-core/chroma (Chroma)
 https://github.com/qdrant/qdrant (Qdrant)
 https://github.com/lancedb/lancedb (LanceDB)
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
-- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - [langgenius/dify](https://github.com/langgenius/dify)
-- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
+- [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
+- [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/lancedb/lancedb (LanceDB)
 
 ---
 
-*Last updated: 2026-06-12 10:42 UTC*
+*Last updated: 2026-06-12 14:37 UTC*

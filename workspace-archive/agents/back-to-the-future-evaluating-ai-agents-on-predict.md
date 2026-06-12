@@ -1,0 +1,37 @@
+---
+title: 'Back to The Future: Evaluating AI Agents on Predicting Future Events'
+archive_category: agents
+source_category: ai/agents
+source_url: https://huggingface.co/blog/futurebench
+local_vault_path: ai/agents/huggingface-blog-futurebench.md
+tags:
+- agents
+resource_id: blog:back-to-the-future-evaluating-ai-agents-on-predict
+---
+
+
+# Back to The Future: Evaluating AI Agents on Predicting Future Events
+
+## Why This Is In The Archive
+
+- Matched source category: `ai/agents`
+- Tags: agents
+- Archive category: AI Agents
+
+## Summary
+
+No summary provided. Reference resource: Back to The Future: Evaluating AI Agents on Predicting Future Events
+
+## Use Cases
+
+- Building AI agents
+- Multi-agent systems
+- Agent orchestration patterns
+
+## Source
+
+Original source: https://huggingface.co/blog/futurebench
+
+## Local Vault File
+
+Path: ai\agents\back-to-the-future-evaluating-ai-agents-on-predicting-future-events-2182dc.md

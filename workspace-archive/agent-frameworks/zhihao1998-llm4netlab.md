@@ -1,0 +1,49 @@
+---
+title: zhihao1998/LLM4NetLab
+archive_category: agent-frameworks
+source_category: ai/agents
+source_url: https://github.com/zhihao1998/LLM4NetLab
+resource_id: github:zhihao1998/llm4netlab
+local_vault_path: ai/agents/zhihao1998-llm4netlab.md
+quality_score: 70
+archive_score: 75
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- agents
+- benchmark
+- github-repo
+- paper
+- python
+selection_reason:
+- Active open-source repository
+---
+
+# zhihao1998/LLM4NetLab
+
+## Why This Is In The Archive
+
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 75 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Active open-source repository
+
+## Summary
+
+An open benchmarking platform to build and evaluate AI agents on network troubleshooting with low operational effort. Lightening paper accepted at the ACM SIGCOMM 2025 1st Workshop on Next-Generation Network Observability (NGNO).
+
+## Use Cases
+
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
+
+## Source
+
+Original source URL: https://github.com/zhihao1998/LLM4NetLab
+
+## Local Vault File
+
+Path: [zhihao1998-llm4netlab.md](file:///../../ai/agents/zhihao1998-llm4netlab.md)

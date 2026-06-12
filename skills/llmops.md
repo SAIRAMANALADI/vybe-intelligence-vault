@@ -16,69 +16,160 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 - Model Serving Engines (vLLM, Ollama, TGI)
 - Guardrails, Safety Filters, and Output Scanners
 
-## Current Signal
+## Best Resources Found
 
-<!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 97 resources matched in the intelligence vault.
-Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with-intel-technologies-e51135.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft-f071fd.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer-gpu-e9fb41.md) (Source: Unknown Source) - Collected 2026-06-12
-<!-- GENERATED:CURRENT_SIGNAL_END -->
+### 1. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([Source URL](https://github.com/lancedb/vectordb-recipes))
+- **Source**: Unknown (github)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/lancedb-vectordb-recipes.md`
 
-## Best Repositories
+### 2. [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/huggingface-blog-accelerating-pytorch.md) ([Source URL](https://huggingface.co/blog/accelerating-pytorch))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-accelerating-pytorch.md`
 
-<!-- GENERATED:BEST_REPOS_START -->
-### 1. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
-- Stars: 0
-- Language: Unknown
-- Description: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
+### 3. [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md) ([Source URL](https://huggingface.co/blog/lora))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-lora.md`
 
-### 2. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
-- Stars: 0
-- Language: Unknown
-- Description: An awesome & curated list of best LLMOps tools for developers
+### 4. [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/huggingface-blog-peft.md) ([Source URL](https://huggingface.co/blog/peft))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-peft.md`
 
-### 3. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
-- Stars: 0
-- Language: Unknown
-- Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
+### 5. [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/huggingface-blog-trl-peft.md) ([Source URL](https://huggingface.co/blog/trl-peft))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-trl-peft.md`
 
-### 4. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
-- Stars: 0
-- Language: Unknown
-- Description: No description provided.
+### 6. [Fine-tuning Stable Diffusion models on Intel CPUs](../ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md) ([Source URL](https://huggingface.co/blog/stable-diffusion-finetuning-intel))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md`
 
-### 5. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
-- Stars: 0
-- Language: Unknown
-- Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
+### 7. [Fine-tuning Llama 2 70B using PyTorch FSDP](../ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md) ([Source URL](https://huggingface.co/blog/ram-efficient-pytorch-fsdp))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md`
 
-### 6. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/haohao-end/openagent))
-- Stars: 0
-- Language: Unknown
-- Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
+### 8. [Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](../ai/models/huggingface-blog-unsloth-trl.md) ([Source URL](https://huggingface.co/blog/unsloth-trl))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-unsloth-trl.md`
 
-### 7. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
-- Stars: 0
-- Language: Unknown
-- Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
-<!-- GENERATED:BEST_REPOS_END -->
+### 9. [Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](../ai/models/huggingface-blog-leaderboard-upstage.md) ([Source URL](https://huggingface.co/blog/leaderboard-upstage))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-leaderboard-upstage.md`
 
-## Project Ideas
+### 10. [Fine-Tuning Gemma Models in Hugging Face](../ai/models/huggingface-blog-gemma-peft.md) ([Source URL](https://huggingface.co/blog/gemma-peft))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-gemma-peft.md`
 
-<!-- GENERATED:PROJECT_IDEAS_START -->
-- Deploy a Langfuse dashboard to trace a multi-agent workflow
-- Set up a synthetic dataset generation and evaluation pipeline
-- Implement an output validation guardrail microservice
-<!-- GENERATED:PROJECT_IDEAS_END -->
+### 11. [Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](../ai/models/huggingface-blog-finetune-florence2.md) ([Source URL](https://huggingface.co/blog/finetune-florence2))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-finetune-florence2.md`
+
+### 12. [LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md) ([Source URL](https://huggingface.co/blog/zero-shot-vqa-docmatix))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-zero-shot-vqa-docmatix.md`
+
+### 13. [Fine-tuning LLMs to 1.58bit: extreme quantization made easy](../ai/models/huggingface-blog-1-58-llm-extreme-quantization.md) ([Source URL](https://huggingface.co/blog/1_58_llm_extreme_quantization))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-1-58-llm-extreme-quantization.md`
+
+### 14. [Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](../ai/models/huggingface-blog-argilla-ui-hub.md) ([Source URL](https://huggingface.co/blog/argilla-ui-hub))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-argilla-ui-hub.md`
+
+### 15. [Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md) ([Source URL](https://huggingface.co/blog/leaderboard-3c3h-aragen))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md`
+
+### 16. [Trace & Evaluate your Agent with Arize Phoenix](../ai/agents/huggingface-blog-smolagents-phoenix.md) ([Source URL](https://huggingface.co/blog/smolagents-phoenix))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/agents
+- **Local Path**: `ai/agents/huggingface-blog-smolagents-phoenix.md`
+
+### 17. [(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](../ai/models/huggingface-blog-flux-qlora.md) ([Source URL](https://huggingface.co/blog/flux-qlora))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-flux-qlora.md`
+
+### 18. [20x Faster TRL Fine-tuning with RapidFire AI](../ai/models/huggingface-blog-rapidfireai.md) ([Source URL](https://huggingface.co/blog/rapidfireai))
+- **Source**: Unknown (huggingface)
+- **Category**: ai/models
+- **Local Path**: `ai/models/huggingface-blog-rapidfireai.md`
+
+### 19. [Steering the Noise: Turning Random Perturbations into Effective Descent for Memory-Efficient LLM Fine-Tuning](../ai/research/arxiv-2601-04710.md) ([Source URL](https://arxiv.org/abs/2601.04710))
+- **Source**: Unknown (arxiv)
+- **Category**: ai/research
+- **Local Path**: `ai/research/arxiv-2601-04710.md`
+
+### 20. [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../ai/research/arxiv-2504-21072.md) ([Source URL](https://arxiv.org/abs/2504.21072))
+- **Source**: Unknown (arxiv)
+- **Category**: ai/research
+- **Local Path**: `ai/research/arxiv-2504-21072.md`
+
+## Best GitHub Repositories
+
+### 1. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/rag/lancedb-vectordb-recipes.md`
+
+### 2. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/resources/brandonhimpfen-awesome-llmops.md`
+
+### 3. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/resources/tensorchord-awesome-llmops.md`
+
+### 4. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/agents/dyronrh-awesome-agentops-landscape.md`
+
+### 5. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/resources/glgh-awesome-llm-human-preference-datasets.md`
+
+### 6. [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md) ([GitHub](https://github.com/haohao-end/openagent))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/agents/haohao-end-openagent.md`
+
+### 7. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md`
+
+## Projects To Build
+
+1. Deploy a Langfuse dashboard to trace a multi-agent workflow
+2. Set up a synthetic dataset generation and evaluation pipeline
+3. Implement an output validation guardrail microservice
 
 ## Related Skills
 
-- ai/llmops
-- ai/evals
+- AI Agents
+- RAG
+- Model Context Protocol (MCP)
+- Prompt Engineering
+- AI Coding Agents
+- Vector Databases
+- Local LLMs & Inference
 
 ## Job Relevance
 
@@ -86,4 +177,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T10:42:45.052794+00:00.183741+00:00.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T14:36:54.894505+00:00.

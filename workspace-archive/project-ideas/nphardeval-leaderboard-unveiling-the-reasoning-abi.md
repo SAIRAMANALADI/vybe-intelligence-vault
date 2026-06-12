@@ -1,0 +1,47 @@
+---
+title: 'NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language
+  Models through Complexity Classes and Dynamic Updates'
+archive_category: project-ideas
+source_category: ai/models
+source_url: https://huggingface.co/blog/leaderboard-nphardeval
+local_vault_path: ai/models/huggingface-blog-leaderboard-nphardeval.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+resource_id: blog:nphardeval-leaderboard-unveiling-the-reasoning-abi
+---
+
+
+# NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
+
+## Why This Is In The Archive
+
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
+
+## Use Cases
+
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
+
+## Source
+
+Original source URL: https://huggingface.co/blog/leaderboard-nphardeval
+
+## Local Vault File
+
+Path: [nphardeval-leaderboard-unveiling-the-reasoning-abilities-of-large-language-model-3affb5.md](file:///../../ai/models/huggingface-blog-leaderboard-nphardeval.md)

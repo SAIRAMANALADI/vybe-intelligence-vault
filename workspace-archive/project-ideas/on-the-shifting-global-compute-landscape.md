@@ -1,0 +1,45 @@
+---
+title: On the Shifting Global Compute Landscape
+archive_category: project-ideas
+source_category: ai/models
+source_url: https://huggingface.co/blog/huggingface/shifting-compute-landscape
+resource_id: blog:on-the-shifting-global-compute-landscape
+local_vault_path: ai/models/on-the-shifting-global-compute-landscape.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: reference
+importance: medium
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# On the Shifting Global Compute Landscape
+
+## Why This Is In The Archive
+
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: On the Shifting Global Compute Landscape
+
+## Use Cases
+
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
+
+## Source
+
+Original source URL: https://huggingface.co/blog/huggingface/shifting-compute-landscape
+
+## Local Vault File
+
+Path: [on-the-shifting-global-compute-landscape.md](file:///../../ai/models/on-the-shifting-global-compute-landscape.md)

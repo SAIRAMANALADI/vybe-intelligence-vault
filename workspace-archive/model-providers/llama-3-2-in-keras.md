@@ -1,0 +1,48 @@
+---
+title: “Llama 3.2 in Keras”
+archive_category: model-providers
+source_category: ai/models
+source_url: https://huggingface.co/blog/keras-llama-32
+local_vault_path: ai/models/huggingface-blog-keras-llama-32.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- meta-ai
+- models
+selection_reason:
+- Valuable developer reference
+resource_id: blog:llama-3-2-in-keras
+---
+
+
+
+# “Llama 3.2 in Keras”
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: “Llama 3.2 in Keras”
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://huggingface.co/blog/keras-llama-32
+
+## Local Vault File
+
+Path: [llama-3-2-in-keras-e188f0.md](file:///../../ai/models/huggingface-blog-keras-llama-32.md)

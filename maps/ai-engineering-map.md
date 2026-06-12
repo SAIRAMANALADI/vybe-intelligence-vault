@@ -10,11 +10,11 @@ Context window management, prompt engineering, few-shot prompting, API rate limi
 LiteLLM, LangChain, OpenAI API, Anthropic SDK.
 
 ## Recommended Resources from the Vault
-*   [Learn more](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research)
-*   [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research)
-*   [Bimanual Robot Manipulation via Multi-Agent In-Context Learning](https://arxiv.org/abs/2604.20348)
-*   [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](https://github.com/sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant)
-*   [XMUDeepLIT/MemGraphRAG](https://github.com/XMUDeepLIT/MemGraphRAG)
+*   [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](https://qubittool.com/blog/ai-agent-framework-comparison-2026)
+*   [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+*   [Sustainability assessment using multimodal AI agents](https://arxiv.org/abs/2507.17012)
+*   [MARIC: Multi-Agent Reasoning for Image Classification](https://arxiv.org/abs/2509.14860)
+*   [Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](https://arxiv.org/abs/2602.18291)
 
 ## Project Ideas
 *   Build an API router that fallbacks to a smaller LLM when rate limits are hit.

@@ -1,0 +1,47 @@
+---
+title: dan5py/react-vite-shadcn-ui
+archive_category: rag-systems
+source_category: web-development/shadcn-ui
+source_url: https://github.com/dan5py/react-vite-shadcn-ui
+resource_id: github:dan5py/react-vite-shadcn-ui
+local_vault_path: web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
+tags:
+- frontend_ui
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# dan5py/react-vite-shadcn-ui
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+React + Vite template powered by shadcn/ui
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://github.com/dan5py/react-vite-shadcn-ui
+
+## Local Vault File
+
+Path: [dan5py-react-vite-shadcn-ui.md](file:///../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)

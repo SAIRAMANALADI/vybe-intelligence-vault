@@ -1,0 +1,46 @@
+---
+title: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+archive_category: agent-frameworks
+source_category: ai/agents
+source_url: https://huggingface.co/blog/screensuite
+resource_id: huggingface:blog/screensuite
+local_vault_path: ai/agents/huggingface-blog-screensuite.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: benchmark
+importance: medium
+tags:
+- agents
+- benchmark
+selection_reason:
+- Valuable developer reference
+---
+
+# ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+
+## Why This Is In The Archive
+
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: benchmark
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+
+## Use Cases
+
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
+
+## Source
+
+Original source URL: https://huggingface.co/blog/screensuite
+
+## Local Vault File
+
+Path: [huggingface-blog-screensuite.md](file:///../../ai/agents/huggingface-blog-screensuite.md)

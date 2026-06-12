@@ -1,0 +1,54 @@
+---
+title: 'AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests'
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://llm-stats.com/benchmarks
+resource_id: blog:ai-benchmarks-2026-compare-300-llm-benchmarks-test
+local_vault_path: ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: dataset
+importance: medium
+tags:
+- agents
+- benchmark
+- dataset
+- deepmind
+- frontend_ui
+- hackernews
+- leaderboard
+- models
+- openai
+- paper
+selection_reason:
+- Valuable developer reference
+---
+
+# AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+AI Benchmarks 2026Compare 300+ AI and LLM benchmarks in one place — reasoning, coding, math, vision, tool use and more. Every benchmark links to a live leaderboard with independently verified model scores, updated continuously.Every AI benchmark, wit...
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://llm-stats.com/benchmarks
+
+## Local Vault File
+
+Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-test.md](file:///../../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)

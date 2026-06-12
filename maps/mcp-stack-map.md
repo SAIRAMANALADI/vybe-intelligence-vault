@@ -10,11 +10,11 @@ MCP client-server architecture, JSON-RPC, tools, resources, prompts.
 Claude Desktop, MCP Python SDK, MCP TypeScript SDK.
 
 ## Recommended Resources from the Vault
-*   [github/github-mcp-server](https://github.com/github/github-mcp-server)
-*   [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
-*   [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp)
-*   [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp)
-*   [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub)
+*   [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server)
+*   [udecode/plate](https://github.com/udecode/plate)
+*   [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)
+*   [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp)
+*   [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp)
 
 ## Project Ideas
 *   Create an MCP server that retrieves database schemas and writes SQL queries.

@@ -1,0 +1,39 @@
+---
+title: Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
+category: ai/models
+source_type: huggingface
+source_name: Hugging Face Blog
+source_url: https://huggingface.co/blog/intel
+published_at: '2022-06-15T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.823522+00:00'
+tags: []
+status: active
+first_seen: '2026-06-12T10:40:08.823522+00:00'
+last_seen: '2026-06-12T10:40:08.823522+00:00'
+resource_id: huggingface:blog/intel
+---
+
+
+# Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
+
+## Summary
+
+No summary provided. Reference resource: Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
+
+## Why It Matters
+
+General public resource representing technology updates, guides, or tutorials.
+
+## Details
+
+- Source: Hugging Face Blog
+- Category: ai/models
+- Published: 2022-06-15T00:00:00+00:00
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://huggingface.co/blog/intel

@@ -1,0 +1,49 @@
+---
+title: AgentTeam-TaichuAI/ScienceClaw
+archive_category: mcp-registry
+source_category: ai/agents
+source_url: https://github.com/AgentTeam-TaichuAI/ScienceClaw
+resource_id: github:agentteam-taichuai/scienceclaw
+local_vault_path: ai/agents/agentteam-taichuai-scienceclaw.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: api
+importance: medium
+tags:
+- agents
+- github-repo
+- python
+selection_reason:
+- Strong keyword match
+- Active open-source repository
+---
+
+# AgentTeam-TaichuAI/ScienceClaw
+
+## Why This Is In The Archive
+
+- Matched archive category: `MCP Registry`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: api
+- Selection reasons:
+  - Strong keyword match
+  - Active open-source repository
+
+## Summary
+
+ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, better transparency, and a more user-friendly experience.
+
+## Use Cases
+
+- IDE extension
+- Assistant tools discovery
+- Context injection config
+
+## Source
+
+Original source URL: https://github.com/AgentTeam-TaichuAI/ScienceClaw
+
+## Local Vault File
+
+Path: [agentteam-taichuai-scienceclaw.md](file:///../../ai/agents/agentteam-taichuai-scienceclaw.md)

@@ -1,0 +1,40 @@
+---
+title: braydoncoyer/braydoncoyer.dev
+archive_category: frontend-ui
+source_category: web-development/framer-motion
+source_url: https://github.com/braydoncoyer/braydoncoyer.dev
+local_vault_path: web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md
+tags:
+- animation
+- creative_dev
+- frontend_ui
+resource_id: github:braydoncoyer/braydoncoyer.dev
+---
+
+
+
+# braydoncoyer/braydoncoyer.dev
+
+## Why This Is In The Archive
+
+- Matched source category: `web-development/framer-motion`
+- Tags: animation, creative_dev, frontend_ui
+- Archive category: Frontend UI
+
+## Summary
+
+My portfolio rebuilt from the ground up using Next.js 15, Tailwind, Supabase, and Framer Motion! Deployed on Vercel ▲
+
+## Use Cases
+
+- UI component design
+- Landing page building
+- Dashboard creation
+
+## Source
+
+Original source: https://github.com/braydoncoyer/braydoncoyer.dev
+
+## Local Vault File
+
+Path: web-development\framer-motion\braydoncoyer-braydoncoyer-dev-b18161.md

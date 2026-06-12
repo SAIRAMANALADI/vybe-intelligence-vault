@@ -1,102 +1,13 @@
-# Source Coverage Analysis
+# Source Coverage
 
-Distribution of original signal ingestion sources across processed URLs:
+The ingestion engine processes developer articles, preprints, and repositories across several channels.
 
-| Source Domain | Resource Count |
-| :--- | ---: |
-| arxiv | 866 |
-| huggingface | 742 |
-| github | 292 |
-| mistral.ai | 10 |
-| anthropic.com | 10 |
-| medium.com | 8 |
-| deepmind.google | 5 |
-| openai.com | 5 |
-| dev.to | 4 |
-| geeksforgeeks.org | 3 |
-| evidentlyai.com | 3 |
-| nerdleveltech.com | 2 |
-| github.blog | 2 |
-| datacamp.com | 2 |
-| cloud.google.com | 2 |
-| confident-ai.com | 2 |
-| lushbinary.com | 2 |
-| benchmarkingagents.com | 2 |
-| lantian.pub | 1 |
-| techcrunch.com | 1 |
-| support.claude.com | 1 |
-| lwn.net | 1 |
-| mceglowski.substack.com | 1 |
-| burr.apache.org | 1 |
-| dronexl.co | 1 |
-| theverge.com | 1 |
-| korte.co | 1 |
-| kennethpayne.uk | 1 |
-| nanochess.org | 1 |
-| news.utexas.edu | 1 |
-| quantamagazine.org | 1 |
-| tonedear.com | 1 |
-| mtgautodeck.com | 1 |
-| crlf.link | 1 |
-| williamcotton.com | 1 |
-| twitter.com | 1 |
-| samhenrycliff.medium.com | 1 |
-| rajitkhanna.com | 1 |
-| businessinsider.com | 1 |
-| ledger.somantix.ai | 1 |
-| firecrawl.dev | 1 |
-| superml.org | 1 |
-| colab.research.google.com | 1 |
-| analyticsvidhya.com | 1 |
-| kdnuggets.com | 1 |
-| pragatimehraa.medium.com | 1 |
-| rag.readthedocs.io | 1 |
-| martinuke0.github.io | 1 |
-| dasroot.net | 1 |
-| rowanblackwoon.medium.com | 1 |
-| universalrag.github.io | 1 |
-| buildrag.com | 1 |
-| lightrag.github.io | 1 |
-| trec-rag.github.io | 1 |
-| florinelchis.medium.com | 1 |
-| open-rag.ai | 1 |
-| datawhalechina.github.io | 1 |
-| docs.aws.amazon.com | 1 |
-| blog.starmorph.com | 1 |
-| community.databricks.com | 1 |
-| learn.microsoft.com | 1 |
-| agenta.ai | 1 |
-| braintrust.dev | 1 |
-| signoz.io | 1 |
-| langchain-tutorials.github.io | 1 |
-| qubittool.com | 1 |
-| markaicode.com | 1 |
-| tech-insider.org | 1 |
-| ragaboutit.com | 1 |
-| alphabold.com | 1 |
-| aimultiple.com | 1 |
-| langchain.com | 1 |
-| meta-intelligence.tech | 1 |
-| fast-langgraph.neullabs.com | 1 |
-| automationanywhere.com | 1 |
-| developers.googleblog.com | 1 |
-| azure.microsoft.com | 1 |
-| codersera.com | 1 |
-| llm-stats.com | 1 |
-| artificialanalysis.ai | 1 |
-| freeacademy.ai | 1 |
-| benchlm.ai | 1 |
-| onereach.ai | 1 |
-| oreilly.com | 1 |
-| levelup.gitconnected.com | 1 |
-| freecodecamp.org | 1 |
-| saumilsrivastava.ai | 1 |
-| redhat.com | 1 |
-| dataengineeracademy.com | 1 |
-| docs.langchain.com | 1 |
-| duckduckgo.com | 1 |
-| askpython.com | 1 |
-| botpenguin.com | 1 |
-| startdesigns.com | 1 |
-| aws.amazon.com | 1 |
-| signitysolutions.com | 1 |
+## Primary Sourced Domains
+
+*   arxiv.org: 866 items
+*   huggingface.co: 832 items
+*   github.com: 274 items
+*   anthropic.com: 10 items
+*   mistral.ai: 10 items
+
+All source URLs are preserved in the metadata header of all files.

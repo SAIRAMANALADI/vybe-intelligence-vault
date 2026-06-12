@@ -16,284 +16,219 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 - Matrix Transformations and Render Loops (requestAnimationFrame)
 - React Three Fiber (R3F) Declarative Composition
 
-## Current Signal
+## Best Resources Found
 
-<!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 83 resources matched in the intelligence vault.
-Recently detected signals:
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) (Source: Unknown Source) - Collected 2026-06-12
-- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill-d072ef.md) (Source: Unknown Source) - Collected 2026-06-12
-- [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo-9b810c.md) (Source: Unknown Source) - Collected 2026-06-12
-- [gnikoloff/webgpu-raytracer](../web-development/webgpu/gnikoloff-webgpu-raytracer-7c8741.md) (Source: Unknown Source) - Collected 2026-06-12
-- [rajveermalviya/go-webgpu](../web-development/webgpu/rajveermalviya-go-webgpu-103dee.md) (Source: Unknown Source) - Collected 2026-06-12
-<!-- GENERATED:CURRENT_SIGNAL_END -->
+### 1. [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source URL](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems))
+- **Source**: Unknown (web)
+- **Category**: ai/rag
+- **Local Path**: `ai/rag/7-best-github-repositories-for-mastering-rag-syste.md`
 
-## Best Repositories
+### 2. [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source URL](https://github.com/dgreenheck/webgpu-claude-skill))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/dgreenheck-webgpu-claude-skill.md`
 
-<!-- GENERATED:BEST_REPOS_START -->
-### 1. [Epiczzor/r3f-template](../web-development/react-three-fiber/epiczzor-r3f-template-481f06.md) ([GitHub](https://github.com/epiczzor/r3f-template))
-- Stars: 0
-- Language: Unknown
-- Description: a starter project for react-three-fiber and some more useful packages
+### 3. [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source URL](https://github.com/gnikoloff/webgpu-sponza-demo))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/gnikoloff-webgpu-sponza-demo.md`
 
-### 2. [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo-d95fd3.md) ([GitHub](https://github.com/mario343214420/webgl-data-demo))
-- Stars: 0
-- Language: Unknown
-- Description: Vuethree.jsecharts
+### 4. [gnikoloff/webgpu-raytracer](../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source URL](https://github.com/gnikoloff/webgpu-raytracer))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/gnikoloff-webgpu-raytracer.md`
 
-### 3. [ektogamat/r3f-webgpu-starter](../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter-6603a1.md) ([GitHub](https://github.com/ektogamat/r3f-webgpu-starter))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: ektogamat/r3f-webgpu-starter
+### 5. [rajveermalviya/go-webgpu](../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source URL](https://github.com/rajveermalviya/go-webgpu))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/rajveermalviya-go-webgpu.md`
 
-### 4. [juniorxsound/R3F.Multiplayer](../web-development/react-three-fiber/juniorxsound-r3f-multiplayer-aff082.md) ([GitHub](https://github.com/juniorxsound/r3f.multiplayer))
-- Stars: 0
-- Language: Unknown
-- Description: Small React three fiber multiplayer template
+### 6. [mikbry/awesome-webgpu](../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source URL](https://github.com/mikbry/awesome-webgpu))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/mikbry-awesome-webgpu.md`
 
-### 5. [luosijie/threejs-examples](../web-development/threejs/luosijie-threejs-examples-84e1e7.md) ([GitHub](https://github.com/luosijie/threejs-examples))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: luosijie/threejs-examples
+### 7. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([Source URL](https://github.com/playcanvas/engine))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/playcanvas-engine.md`
 
-### 6. [whoisryosuke/r3f-next-starter](../web-development/react-three-fiber/whoisryosuke-r3f-next-starter-66b16e.md) ([GitHub](https://github.com/whoisryosuke/r3f-next-starter))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: whoisryosuke/r3f-next-starter
+### 8. [GEngine-js/GEngine](../web-development/webgpu/gengine-js-gengine.md) ([Source URL](https://github.com/gengine-js/gengine))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/gengine-js-gengine.md`
 
-### 7. [fireship-io/threejs-scroll-animation-demo](../web-development/threejs/fireship-io-threejs-scroll-animation-demo-6493bc.md) ([GitHub](https://github.com/fireship-io/threejs-scroll-animation-demo))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: fireship-io/threejs-scroll-animation-demo
+### 9. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source URL](https://github.com/patriciogonzalezvivo/lygia))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/patriciogonzalezvivo-lygia.md`
 
-### 8. [coldi/r3f-game-demo](../web-development/react-three-fiber/coldi-r3f-game-demo-29880f.md) ([GitHub](https://github.com/coldi/r3f-game-demo))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: coldi/r3f-game-demo
+### 10. [webgpu/webgpufundamentals](../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source URL](https://github.com/webgpu/webgpufundamentals))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/webgpu-webgpufundamentals.md`
 
-### 9. [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers-05de2a.md) ([GitHub](https://github.com/emmelleppi/r3f-cheers))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: emmelleppi/r3f-cheers
+### 11. [webgpu-tools/wesl-rs](../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source URL](https://github.com/webgpu-tools/wesl-rs))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/webgpu-tools-wesl-rs.md`
 
-### 10. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs-bc16ec.md) ([GitHub](https://github.com/dhruvmisra/pathfinding-visualizer-threejs))
-- Stars: 0
-- Language: Unknown
-- Description: A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
+### 12. [wgsl-analyzer/wgsl-analyzer](../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source URL](https://github.com/wgsl-analyzer/wgsl-analyzer))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md`
 
-### 11. [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox-2f56eb.md) ([GitHub](https://github.com/gkjohnson/threejs-sandbox))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: gkjohnson/threejs-sandbox
+### 13. [takahirox/online-wgsl-editor](../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source URL](https://github.com/takahirox/online-wgsl-editor))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/takahirox-online-wgsl-editor.md`
 
-### 12. [emmelleppi/codrops-r3f-mirrors](../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors-91c97d.md) ([GitHub](https://github.com/emmelleppi/codrops-r3f-mirrors))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: emmelleppi/codrops-r3f-mirrors
+### 14. [szebniok/tree-sitter-wgsl](../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source URL](https://github.com/szebniok/tree-sitter-wgsl))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/szebniok-tree-sitter-wgsl.md`
 
-### 13. [wass08/r3f-ultimate-character-configurator](../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator-c4e9b9.md) ([GitHub](https://github.com/wass08/r3f-ultimate-character-configurator))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: wass08/r3f-ultimate-character-configurator
+### 15. [ChartGPU/ChartGPU](../web-development/webgpu/chartgpu-chartgpu.md) ([Source URL](https://github.com/chartgpu/chartgpu))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/chartgpu-chartgpu.md`
 
-### 14. [xiao149/ThreeJsDemo](../web-development/threejs/xiao149-threejsdemo-2630c3.md) ([GitHub](https://github.com/xiao149/threejsdemo))
-- Stars: 0
-- Language: Unknown
-- Description: ThreeJs
+### 16. [brendan-duncan/webgpu_inspector](../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source URL](https://github.com/brendan-duncan/webgpu_inspector))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/brendan-duncan-webgpu-inspector.md`
 
-### 15. [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols-14c1d6.md) ([GitHub](https://github.com/tiagocavalcante/r3f-native-orbitcontrols))
-- Stars: 0
-- Language: Unknown
-- Description: OrbitControls for React Three Fiber in React Native
+### 17. [webgpu/webgpu-samples](../web-development/webgpu/webgpu-webgpu-samples.md) ([Source URL](https://github.com/webgpu/webgpu-samples))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/webgpu-webgpu-samples.md`
 
-### 16. [ykob/sketch-threejs](../web-development/threejs/ykob-sketch-threejs-2c9e6e.md) ([GitHub](https://github.com/ykob/sketch-threejs))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: ykob/sketch-threejs
+### 18. [google/tour-of-wgsl](../web-development/webgpu/google-tour-of-wgsl.md) ([Source URL](https://github.com/google/tour-of-wgsl))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/google-tour-of-wgsl.md`
 
-### 17. [puxiao/threejs-tutorial](../web-development/threejs/puxiao-threejs-tutorial-c07d94.md) ([GitHub](https://github.com/puxiao/threejs-tutorial))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: puxiao/threejs-tutorial
+### 19. [brendan-duncan/wgsl_reflect](../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source URL](https://github.com/brendan-duncan/wgsl_reflect))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/brendan-duncan-wgsl-reflect.md`
 
-### 18. [sanderblue/solar-system-threejs](../web-development/threejs/sanderblue-solar-system-threejs-05d448.md) ([GitHub](https://github.com/sanderblue/solar-system-threejs))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: sanderblue/solar-system-threejs
+### 20. [gpuweb/gpuweb](../web-development/webgpu/gpuweb-gpuweb.md) ([Source URL](https://github.com/gpuweb/gpuweb))
+- **Source**: Unknown (github)
+- **Category**: web-development/webgpu
+- **Local Path**: `web-development/webgpu/gpuweb-gpuweb.md`
 
-### 19. [wrongakram/R3F-Chairs](../web-development/react-three-fiber/wrongakram-r3f-chairs-b66856.md) ([GitHub](https://github.com/wrongakram/r3f-chairs))
-- Stars: 0
-- Language: Unknown
-- Description: React three fiber
+## Best GitHub Repositories
 
-### 20. [gsimone/r3f-bubbles](../web-development/react-three-fiber/gsimone-r3f-bubbles-f4e79d.md) ([GitHub](https://github.com/gsimone/r3f-bubbles))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: gsimone/r3f-bubbles
+### 1. [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([GitHub](https://github.com/dgreenheck/webgpu-claude-skill))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/dgreenheck-webgpu-claude-skill.md`
 
-### 21. [chenjsh36/ThreeJSForFun](../web-development/threejs/chenjsh36-threejsforfun-a49cc5.md) ([GitHub](https://github.com/chenjsh36/threejsforfun))
-- Stars: 0
-- Language: Unknown
-- Description: ThreeJS DemoDemo
+### 2. [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([GitHub](https://github.com/gnikoloff/webgpu-sponza-demo))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/gnikoloff-webgpu-sponza-demo.md`
 
-### 22. [mrdoob/three.js](../web-development/threejs/mrdoob-three-js-578d9a.md) ([GitHub](https://github.com/mrdoob/three.js))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: mrdoob/three.js
+### 3. [gnikoloff/webgpu-raytracer](../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([GitHub](https://github.com/gnikoloff/webgpu-raytracer))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/gnikoloff-webgpu-raytracer.md`
 
-### 23. [davidlyons/threejs-intro](../web-development/threejs/davidlyons-threejs-intro-80b52c.md) ([GitHub](https://github.com/davidlyons/threejs-intro))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: davidlyons/threejs-intro
+### 4. [rajveermalviya/go-webgpu](../web-development/webgpu/rajveermalviya-go-webgpu.md) ([GitHub](https://github.com/rajveermalviya/go-webgpu))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/rajveermalviya-go-webgpu.md`
 
-### 24. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-fiber
+### 5. [mikbry/awesome-webgpu](../web-development/webgpu/mikbry-awesome-webgpu.md) ([GitHub](https://github.com/mikbry/awesome-webgpu))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/mikbry-awesome-webgpu.md`
 
-### 25. [fritx/vue-threejs](../web-development/threejs/fritx-vue-threejs-0fdd70.md) ([GitHub](https://github.com/fritx/vue-threejs))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: fritx/vue-threejs
+### 6. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/playcanvas-engine.md`
 
-### 26. [14islands/r3f-scroll-rig](../web-development/react-three-fiber/14islands-r3f-scroll-rig-ab63fa.md) ([GitHub](https://github.com/14islands/r3f-scroll-rig))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: 14islands/r3f-scroll-rig
+### 7. [GEngine-js/GEngine](../web-development/webgpu/gengine-js-gengine.md) ([GitHub](https://github.com/gengine-js/gengine))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/gengine-js-gengine.md`
 
-### 27. [wechat-miniprogram/threejs-miniprogram](../web-development/threejs/wechat-miniprogram-threejs-miniprogram-431c3d.md) ([GitHub](https://github.com/wechat-miniprogram/threejs-miniprogram))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: wechat-miniprogram/threejs-miniprogram
+### 8. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/patriciogonzalezvivo-lygia.md`
 
-### 28. [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third-438c8c.md) ([GitHub](https://github.com/josdirksen/learning-threejs-third))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: josdirksen/learning-threejs-third
+### 9. [webgpu/webgpufundamentals](../web-development/webgpu/webgpu-webgpufundamentals.md) ([GitHub](https://github.com/webgpu/webgpufundamentals))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/webgpu-webgpufundamentals.md`
 
-### 29. [gsimone/awesome-react-three-fiber](../web-development/react-three-fiber/gsimone-awesome-react-three-fiber-5ab315.md) ([GitHub](https://github.com/gsimone/awesome-react-three-fiber))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: gsimone/awesome-react-three-fiber
+### 10. [webgpu-tools/wesl-rs](../web-development/webgpu/webgpu-tools-wesl-rs.md) ([GitHub](https://github.com/webgpu-tools/wesl-rs))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/webgpu-tools-wesl-rs.md`
 
-### 30. [z2586300277/three-cesium-examples](../web-development/threejs/z2586300277-three-cesium-examples-3044d9.md) ([GitHub](https://github.com/z2586300277/three-cesium-examples))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: z2586300277/three-cesium-examples
+### 11. [wgsl-analyzer/wgsl-analyzer](../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([GitHub](https://github.com/wgsl-analyzer/wgsl-analyzer))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md`
 
-### 31. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md) ([GitHub](https://github.com/nklsrh/buildnewgames_threejsgame))
-- Stars: 0
-- Language: Unknown
-- Description: A game built to show off some of the basic features of the Three.JS WebGL library.
+### 12. [takahirox/online-wgsl-editor](../web-development/webgpu/takahirox-online-wgsl-editor.md) ([GitHub](https://github.com/takahirox/online-wgsl-editor))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/takahirox-online-wgsl-editor.md`
 
-### 32. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code-610463.md) ([GitHub](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code))
-- Stars: 0
-- Language: Unknown
-- Description: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to cr...
+### 13. [szebniok/tree-sitter-wgsl](../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([GitHub](https://github.com/szebniok/tree-sitter-wgsl))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/szebniok-tree-sitter-wgsl.md`
 
-### 33. [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone-9fb7dd.md) ([GitHub](https://github.com/codebucks27/3d-landing-page-for-apple-iphone))
-- Stars: 0
-- Language: Unknown
-- Description: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to cr...
+### 14. [ChartGPU/ChartGPU](../web-development/webgpu/chartgpu-chartgpu.md) ([GitHub](https://github.com/chartgpu/chartgpu))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/chartgpu-chartgpu.md`
 
-### 34. [spite/Wagner](../web-development/threejs/spite-wagner-5be7a5.md) ([GitHub](https://github.com/spite/wagner))
-- Stars: 0
-- Language: Unknown
-- Description: Effects composer for three.js
+### 15. [brendan-duncan/webgpu_inspector](../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([GitHub](https://github.com/brendan-duncan/webgpu_inspector))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/brendan-duncan-webgpu-inspector.md`
 
-### 35. [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo-9b810c.md) ([GitHub](https://github.com/gnikoloff/webgpu-sponza-demo))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: gnikoloff/webgpu-sponza-demo
+### 16. [webgpu/webgpu-samples](../web-development/webgpu/webgpu-webgpu-samples.md) ([GitHub](https://github.com/webgpu/webgpu-samples))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/webgpu-webgpu-samples.md`
 
-### 36. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d-f99729.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
-- Stars: 0
-- Language: Unknown
-- Description: Three.js-based implementation of 3D Gaussian splatting
+### 17. [google/tour-of-wgsl](../web-development/webgpu/google-tour-of-wgsl.md) ([GitHub](https://github.com/google/tour-of-wgsl))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/google-tour-of-wgsl.md`
 
-### 37. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d-4def36.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
-- Stars: 0
-- Language: Unknown
-- Description: a js lib based on three.js to show 3D indoor map
+### 18. [brendan-duncan/wgsl_reflect](../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([GitHub](https://github.com/brendan-duncan/wgsl_reflect))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/brendan-duncan-wgsl-reflect.md`
 
-### 38. [pmndrs/react-three-next](../web-development/react-three-fiber/pmndrs-react-three-next-75a781.md) ([GitHub](https://github.com/pmndrs/react-three-next))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-next
+### 19. [gpuweb/gpuweb](../web-development/webgpu/gpuweb-gpuweb.md) ([GitHub](https://github.com/gpuweb/gpuweb))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/webgpu/gpuweb-gpuweb.md`
 
-### 39. [benjaminmiles/react-three-vite](../web-development/react-three-fiber/benjaminmiles-react-three-vite-fabf47.md) ([GitHub](https://github.com/benjaminmiles/react-three-vite))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: benjaminmiles/react-three-vite
+### 20. [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([GitHub](https://github.com/emmelleppi/r3f-cheers))
+- **Stars**: 0
+- **Language**: Unknown
+- **Local Path**: `web-development/react-three-fiber/emmelleppi-r3f-cheers.md`
 
-### 40. [vasturiano/3d-force-graph](../web-development/threejs/vasturiano-3d-force-graph-c2e899.md) ([GitHub](https://github.com/vasturiano/3d-force-graph))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: vasturiano/3d-force-graph
+## Projects To Build
 
-### 41. [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula-89c72a.md) ([GitHub](https://github.com/creativelifeform/three-nebula))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: creativelifeform/three-nebula
-
-### 42. [pmndrs/react-postprocessing](../web-development/react-three-fiber/pmndrs-react-postprocessing-2728b6.md) ([GitHub](https://github.com/pmndrs/react-postprocessing))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-postprocessing
-
-### 43. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm-5557a6.md) ([GitHub](https://github.com/pixiv/three-vrm))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pixiv/three-vrm
-
-### 44. [alphardex/kokomi.js](../web-development/threejs/alphardex-kokomi-js-844401.md) ([GitHub](https://github.com/alphardex/kokomi.js))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: alphardex/kokomi.js
-
-### 45. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei-59e7dc.md) ([GitHub](https://github.com/pmndrs/drei))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/drei
-
-### 46. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit-313dba.md) ([GitHub](https://github.com/pmndrs/uikit))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/uikit
-
-### 47. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex-86561e.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-flex
-
-### 48. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex-e524fe.md) ([GitHub](https://github.com/pmndrs/triplex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/triplex
-
-### 49. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia-a10100.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: patriciogonzalezvivo/lygia
-
-### 50. [playcanvas/engine](../web-development/webgpu/playcanvas-engine-7a32aa.md) ([GitHub](https://github.com/playcanvas/engine))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: playcanvas/engine
-<!-- GENERATED:BEST_REPOS_END -->
-
-## Project Ideas
-
-<!-- GENERATED:PROJECT_IDEAS_START -->
-- Immersive 3D landing page with scroll interactions
-- Interactive 3D product customizer
-- Browser-based physics sandbox
-<!-- GENERATED:PROJECT_IDEAS_END -->
+1. Immersive 3D landing page with scroll interactions
+2. Interactive 3D product customizer
+3. Browser-based physics sandbox
 
 ## Related Skills
 
-- web-development/threejs
-- web-development/webgl
+- Frontend AI & UI
 
 ## Job Relevance
 
@@ -301,4 +236,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T10:42:45.119662+00:00.296522+00:00.569273+00:00.629769+00:00.803146+00:00.966549+00:00.409379+00:00.590509+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T14:36:54.984786+00:00.

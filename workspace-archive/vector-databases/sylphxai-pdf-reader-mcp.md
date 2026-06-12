@@ -1,0 +1,48 @@
+---
+title: SylphxAI/pdf-reader-mcp
+archive_category: vector-databases
+source_category: ai/rag
+source_url: https://github.com/SylphxAI/pdf-reader-mcp
+resource_id: github:sylphxai/pdf-reader-mcp
+local_vault_path: ai/rag/sylphxai-pdf-reader-mcp.md
+quality_score: 70
+archive_score: 85
+archive_tier: essential
+resource_kind: mcp-server
+importance: high
+tags:
+- agents
+- github-repo
+- rag
+- typescript
+selection_reason:
+- Useful for project building
+---
+
+# SylphxAI/pdf-reader-mcp
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: mcp-server
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+📄 Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://github.com/SylphxAI/pdf-reader-mcp
+
+## Local Vault File
+
+Path: [sylphxai-pdf-reader-mcp.md](file:///../../ai/rag/sylphxai-pdf-reader-mcp.md)

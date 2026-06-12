@@ -1,0 +1,47 @@
+---
+title: 🤗 PEFT welcomes new merging methods
+archive_category: project-ideas
+source_category: ai/models
+source_url: https://huggingface.co/blog/peft_merging
+local_vault_path: ai/models/huggingface-blog-peft-merging.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: reference
+importance: medium
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+resource_id: blog:peft-welcomes-new-merging-methods
+---
+
+
+
+# 🤗 PEFT welcomes new merging methods
+
+## Why This Is In The Archive
+
+- Matched archive category: `Project Ideas`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: reference
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: 🤗 PEFT welcomes new merging methods
+
+## Use Cases
+
+- AI portfolio building
+- Creative webdev experiments
+- Local automation projects
+
+## Source
+
+Original source URL: https://huggingface.co/blog/peft_merging
+
+## Local Vault File
+
+Path: [peft-welcomes-new-merging-methods-cbf4af.md](file:///../../ai/models/huggingface-blog-peft-merging.md)
