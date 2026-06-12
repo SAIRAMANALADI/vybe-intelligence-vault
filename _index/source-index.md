@@ -1067,6 +1067,7 @@ Resources organized by publisher feed and query sources.
   - [iamshaunjp/framer-motion](../web-development/framer-motion/iamshaunjp-framer-motion.md)
   - [idflood/ThreeNodes.js](../web-development/webgl/idflood-threenodes-js.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [isumitsoni/awesome-ai-pm](../ai/resources/isumitsoni-awesome-ai-pm.md)
@@ -1219,6 +1220,7 @@ Resources organized by publisher feed and query sources.
   - [Making a vintage LLM from scratch](../ai/community/making-a-vintage-llm-from-scratch.md)
   - [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-fast.md)
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
+  - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
   - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md)
@@ -2129,4 +2131,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-12T20:28:33.893707+00:00*
+*Index generated on 2026-06-12T22:50:03.265223+00:00*

@@ -4851,7 +4851,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.langchain.com/langgraph>
 
 * **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by arcb. Score: 21, Comments: 9. Original Link: https://bitboard.work/
+  * Summary: Hacker News story by arcb. Score: 29, Comments: 17. Original Link: https://bitboard.work/
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://bitboard.work>
 
@@ -4904,6 +4904,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by bdroopy. Score: 5, Comments: 0. Original Link: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/>
+
+* **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by sschueller. Score: 108, Comments: 18. Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979>
 
 * **[Planning the design of your production-grade RAG system](ai/rag/planning-the-design-of-your-production-grade-rag-s.md)** (`tutorial` | `useful` tier)
   * Summary: Planning the design of your production-grade RAG system March 6, 20264-minute read Artificial intelligence Frank La Vigne AI Principal Technical Marketing Manager Robbie Jerrom Senior Principal Technologist, AI Share Subscribe to RSS Back to all post
@@ -4971,7 +4976,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by FergusArgyll. Score: 129, Comments: 87. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Summary: Hacker News story by FergusArgyll. Score: 153, Comments: 105. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 
@@ -5016,7 +5021,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://fastmail.com/blog/the-future-of-email>
 
 * **[There Is Life Before Main in Rust](ai/community/there-is-life-before-main-in-rust.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mmastrac. Score: 44, Comments: 12. Original Link: https://grack.com/blog/2026/06/11/life-before-main/
+  * Summary: Hacker News story by mmastrac. Score: 63, Comments: 17. Original Link: https://grack.com/blog/2026/06/11/life-before-main/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://grack.com/blog/2026/06/11/life-before-main>
 
@@ -11854,6 +11859,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11652v1 Announce Type: new Abstract: This paper investigates reinforcement learning (RL) methods for improving tool-calling capabilities in multimodal small language model (SLM) agents. While existing works have explored various reward des
   * Tags: `agents`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11652>
+
+* **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (`benchmark` | `useful` tier)
+  * Summary: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+  * Tags: `agents`, `github-repo`, `python`, `rag`
+  * Source URL: <https://github.com/infiniflow/ragflow>
 
 * **[Information-Theoretic Decomposition for Multimodal Interaction Learning](ai/rag/arxiv-2606-11614.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11614v1 Announce Type: new Abstract: Multimodal learning hinges on capturing redundant, unique, and synergistic information across modalities, which collectively constitute multimodal interactions. A critical yet underexplored challenge is

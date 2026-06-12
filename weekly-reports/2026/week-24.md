@@ -18,9 +18,9 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 733 |
 | ai/research | 433 |
-| ai/rag | 425 |
+| ai/rag | 426 |
 | ai/agents | 279 |
-| ai/community | 29 |
+| ai/community | 30 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
@@ -40,14 +40,14 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| agents | 446 |
-| rag | 426 |
+| agents | 447 |
+| rag | 427 |
 | benchmark | 381 |
 | models | 325 |
 | dataset | 217 |
-| hackernews | 166 |
+| hackernews | 167 |
 | paper | 160 |
-| github-repo | 141 |
+| github-repo | 142 |
 | workflows | 136 |
 | frontend_ui | 132 |
 | youtube | 99 |
@@ -68,11 +68,11 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 8. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
 9. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
 10. [Ryanair dark UX patterns summer 2026 refresher](../../../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md) ([Source](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher)) (HN Score: 174) - `ai/community`
-11. [The Future of Email](../../../ai/community/the-future-of-email.md) ([Source](https://fastmail.com/blog/the-future-of-email)) (HN Score: 149) - `ai/community`
-12. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md) ([Source](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air)) (HN Score: 148) - `ai/community`
-13. [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](../../../ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md) ([Source](https://korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails)) (HN Score: 143) - `ai/community`
-14. [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../../../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md) ([Source](https://kennethpayne.uk/p/shall-we-play-a-game)) (HN Score: 141) - `ai/community`
-15. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 129) - `ai/community`
+11. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 153) - `ai/community`
+12. [The Future of Email](../../../ai/community/the-future-of-email.md) ([Source](https://fastmail.com/blog/the-future-of-email)) (HN Score: 149) - `ai/community`
+13. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md) ([Source](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air)) (HN Score: 148) - `ai/community`
+14. [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](../../../ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md) ([Source](https://korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails)) (HN Score: 143) - `ai/community`
+15. [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../../../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md) ([Source](https://kennethpayne.uk/p/shall-we-play-a-game)) (HN Score: 141) - `ai/community`
 
 ## Weekly Research Insights
 
@@ -134,11 +134,11 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (664 updates)
-- [RAG](../../../skills/rag.md) (431 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (431 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (426 updates)
-- [AI Agents](../../../skills/ai-agents.md) (364 updates)
+- [Workflow Automation](../../../skills/automation.md) (667 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (434 updates)
+- [RAG](../../../skills/rag.md) (432 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (427 updates)
+- [AI Agents](../../../skills/ai-agents.md) (365 updates)
 - [LLMOps](../../../skills/llmops.md) (97 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
 - [Local LLMs & Inference](../../../skills/local-llm.md) (45 updates)
@@ -152,4 +152,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-12T20:28:32.911619+00:00
+2026-06-12T22:50:02.148602+00:00

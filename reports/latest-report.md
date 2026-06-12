@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-12T20:28:52.910813+00:00`
+Generated at: `2026-06-12T22:50:24.636841+00:00`
 
 ## Executive Summary
 
@@ -8,42 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Ryanair dark UX patterns summer 2026 refresher** - Score: `174` in category `ai/community` ([Link](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher)) ([File](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md))
-- **The Future of Email** - Score: `149` in category `ai/community` ([Link](https://fastmail.com/blog/the-future-of-email)) ([File](../ai/community/the-future-of-email.md))
-- **Slightly reducing the sloppiness of AI generated front end** - Score: `129` in category `ai/community` ([Link](https://envs.net/~volpe/blog/posts/reduce-slop.html)) ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
-- **There Is Life Before Main in Rust** - Score: `44` in category `ai/community` ([Link](https://grack.com/blog/2026/06/11/life-before-main)) ([File](../ai/community/there-is-life-before-main-in-rust.md))
-- **Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents** - Score: `21` in category `ai/community` ([Link](https://bitboard.work)) ([File](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md))
-- **Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/tcs-anthropic-partnership)) ([File](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md))
-- **Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record** - Score: `0` in category `ai/companies/anthropic` ([Link](https://anthropic.com/news/anthropic-public-record)) ([File](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md))
-- **olmo-eval: An evaluation workbench for the model development loop** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/allenai/olmo-eval)) ([File](../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md))
-- **The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte** - Score: `0` in category `ai/rag` ([Link](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) ([File](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md))
-- **[BROKEN LINK] - ** - Score: `0` in category `` ([File](../.github/ISSUE_TEMPLATE/broken-link.md))
+- **Palantir loses legal challenge against Swiss investigative magazine** - Score: `108` in category `ai/community` ([Link](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) ([File](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md))
+- **infiniflow/ragflow** - Score: `0` in category `ai/rag` ([Link](https://github.com/infiniflow/ragflow)) ([File](../ai/rag/infiniflow-ragflow.md))
 
 ## 🔥 Top Trending Resources
 
-- **AI agent bankrupted their operator while trying to scan DN42** - Score: `1343` (+712), Rank Change: `0` ([File](../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md))
-- **A jacket that harvests drinking water from the air** - Score: `148` (+78), Rank Change: `+2` ([File](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md))
-- **Anthropic apologizes for invisible Claude Fable guardrails** - Score: `477` (+49), Rank Change: `0` ([File](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md))
-- **Making a vintage LLM from scratch** - Score: `70` (+35), Rank Change: `0` ([File](../ai/community/making-a-vintage-llm-from-scratch.md))
-- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
-- **NirDiamant/RAG_Techniques** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/nirdiamant-rag-techniques.md))
-- **datawhalechina/hello-agents** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/datawhalechina-hello-agents.md))
-- **HKUDS/RAG-Anything** - Score: `0` (0), Rank Change: `+1570` ([File](../ai/rag/hkuds-rag-anything.md))
-- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
-- **Unlocking the power of unstructured data with RAG - The GitHub Blog** - Score: `0` (0), Rank Change: `+22` ([File](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md))
+- **Slightly reducing the sloppiness of AI generated front end** - Score: `153` (+24), Rank Change: `+4` ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
+- **There Is Life Before Main in Rust** - Score: `63` (+19), Rank Change: `0` ([File](../ai/community/there-is-life-before-main-in-rust.md))
+- **Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents** - Score: `29` (+8), Rank Change: `-1` ([File](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md))
+- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
+- **Google Colab** - Score: `0` (0), Rank Change: `+923` ([File](../ai/rag/google-colab.md))
+- **RAG System with LangChain and LangGraph - GeeksforGeeks** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
+- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
+- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - Score: `0` (0), Rank Change: `+1862` ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
+- **Building a RAG Application - GeeksforGeeks** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - Score: `0` (0), Rank Change: `+1678` ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Build a RAG agent with LangChain - Docs by LangChain** - (Rank Change: `+1749`) ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
-- **Jpisnice/shadcn-ui-mcp-server** - (Rank Change: `+1707`) ([File](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md))
-- **EasyFrontendHQ/html-tailwindcss-components** - (Rank Change: `+1700`) ([File](../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md))
-- **asbhogal/Fyrre-Magazine** - (Rank Change: `+1700`) ([File](../web-development/nextjs/asbhogal-fyrre-magazine.md))
-- **NotStark/portfolio** - (Rank Change: `+1696`) ([File](../web-development/nextjs/notstark-portfolio.md))
-- **ChangoMan/nextjs-mdx-blog** - (Rank Change: `+1690`) ([File](../web-development/nextjs/changoman-nextjs-mdx-blog.md))
-- **ShowravKormokar/capsule** - (Rank Change: `+1686`) ([File](../web-development/gsap/showravkormokar-capsule.md))
-- **codebucks27/Apple-iphone-3d-landing-page-starter-Code** - (Rank Change: `+1686`) ([File](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md))
-- **codebucks27/3D-Landing-page-for-Apple-iPhone** - (Rank Change: `+1686`) ([File](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md))
-- **codebucks27/The-Weirdos-NFT-Website-Starter-Code** - (Rank Change: `+1686`) ([File](../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md))
+- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+1862`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - (Rank Change: `+1678`) ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
+- **Google Colab** - (Rank Change: `+923`) ([File](../ai/rag/google-colab.md))
+- **LightRAG** - (Rank Change: `+914`) ([File](../ai/rag/lightrag.md))
+- **Building a RAG Application - GeeksforGeeks** - (Rank Change: `+7`) ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
+- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - (Rank Change: `+5`) ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
+- **Slightly reducing the sloppiness of AI generated front end** - (Rank Change: `+4`) ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
+- **RAG System with LangChain and LangGraph - GeeksforGeeks** - (Rank Change: `+4`) ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
+- **hjlld/LearningWebGPU** - (Rank Change: `+3`) ([File](../web-development/webgpu/hjlld-learningwebgpu.md))
+- **Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI** - (Rank Change: `+2`) ([File](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md))
 
 ## 🔄 Essential Tier Transitions
 

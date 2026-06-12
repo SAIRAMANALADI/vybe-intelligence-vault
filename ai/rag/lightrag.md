@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://lightrag.github.io
-published_at: '2026-06-12T15:38:57.808601+00:00'
-collected_at: '2026-06-12T15:38:57.808620+00:00'
+published_at: '2026-06-12T22:48:18.232868+00:00'
+collected_at: '2026-06-12T22:48:18.232881+00:00'
 tags:
 - benchmark
 - dataset
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:lightrag
-first_seen: '2026-06-12T15:38:57.808620+00:00'
-last_seen: '2026-06-12T15:38:57.808620+00:00'
-last_checked: '2026-06-12T15:38:57.808620+00:00'
+first_seen: '2026-06-12T22:48:18.232881+00:00'
+last_seen: '2026-06-12T22:48:18.232881+00:00'
+last_checked: '2026-06-12T22:48:18.232881+00:00'
 health_score: 100
 ---
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T15:38:57.808601+00:00
+- Published: 2026-06-12T22:48:18.232868+00:00
 
 ## Related Tags
 

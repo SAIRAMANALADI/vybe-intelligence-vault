@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 664 resources matched in the intelligence vault.
+Active signals: 667 resources matched in the intelligence vault.
 Recently detected signals:
-- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-12
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-12
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-12
-- [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-12
-- [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) (Source: Unknown Source) - Collected 2026-06-12
+- [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) (Source: Unknown Source) - Collected 2026-06-12
+- [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) (Source: Unknown Source) - Collected 2026-06-12
+- [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -235,50 +235,50 @@ Recently detected signals:
 - Language: Unknown
 - Description: [ICLR 2026] Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning
 
-### 42. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
+### 42. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+- Stars: 0
+- Language: Unknown
+- Description: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+
+### 43. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 
-### 43. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
+### 44. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 44. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
+### 45. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
 - Stars: 0
 - Language: Unknown
 - Description: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. /AI.
 
-### 45. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 46. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
 - Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 
-### 46. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 47. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
 - Stars: 0
 - Language: Unknown
 - Description: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-### 47. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
+### 48. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
 - Stars: 0
 - Language: Unknown
 - Description: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 
-### 48. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 49. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
-### 49. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
+### 50. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.
-
-### 50. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
-- Stars: 0
-- Language: Unknown
-- Description: Production ready MCP server with real-time search, extract, map & crawl.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T20:28:30.721256+00:00.538693+00:00.012818+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T22:49:59.689386+00:00.721256+00:00.538693+00:00.012818+00:00.

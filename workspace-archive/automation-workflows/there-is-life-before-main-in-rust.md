@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by mmastrac. Score: 44, Comments: 12.
+Hacker News story by mmastrac. Score: 63, Comments: 17.
 Original Link: https://grack.com/blog/2026/06/11/life-before-main/
 
 ## Use Cases

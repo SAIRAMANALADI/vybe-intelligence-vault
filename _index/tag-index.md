@@ -418,6 +418,7 @@ Resources organized by keyword tags.
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
   - [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [iuyup/AgentFlow](../ai/agents/iuyup-agentflow.md)
@@ -466,6 +467,7 @@ Resources organized by keyword tags.
   - [L'Affaire Siloxane](../ai/community/l-affaire-siloxane.md)
   - [More AI-generated code doesn't make your team faster. It might slow you](../ai/community/more-ai-generated-code-doesn-t-make-your-team-fast.md)
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
+  - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
   - [Slightly reducing the sloppiness of AI generated front end](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)
@@ -1504,6 +1506,7 @@ Resources organized by keyword tags.
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
   - [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [isumitsoni/awesome-ai-pm](../ai/resources/isumitsoni-awesome-ai-pm.md)
@@ -1690,6 +1693,7 @@ Resources organized by keyword tags.
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [On Pitfalls of $\textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective](../ai/research/arxiv-2304-13836.md)
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
+  - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling](../ai/research/arxiv-2606-11605.md)
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
@@ -2626,6 +2630,7 @@ Resources organized by keyword tags.
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [humanlaya/OneMillion-Bench](../ai/agents/humanlaya-onemillion-bench.md)
   - [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iuyup/AgentFlow](../ai/agents/iuyup-agentflow.md)
   - [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md)
@@ -3059,6 +3064,7 @@ Resources organized by keyword tags.
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
   - [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md)
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
+  - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md)
   - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md)
   - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
@@ -3703,4 +3709,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-12T20:28:33.872033+00:00*
+*Index generated on 2026-06-12T22:50:03.243541+00:00*

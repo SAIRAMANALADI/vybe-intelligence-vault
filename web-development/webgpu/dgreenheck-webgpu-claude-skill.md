@@ -4,8 +4,8 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/dgreenheck/webgpu-claude-skill
-collected_at: '2026-06-12T20:26:12.244616+00:00'
-published_at: '2026-06-12T20:20:35Z'
+collected_at: '2026-06-12T22:47:06.070522+00:00'
+published_at: '2026-06-12T22:03:15Z'
 tags:
 - anthropic
 - threejs
@@ -13,9 +13,9 @@ stars: 997
 language: JavaScript
 status: active
 resource_id: github:dgreenheck/webgpu-claude-skill
-first_seen: '2026-06-12T20:26:12.244616+00:00'
-last_seen: '2026-06-12T20:26:12.244616+00:00'
-last_checked: '2026-06-12T20:26:12.244616+00:00'
+first_seen: '2026-06-12T22:47:06.070522+00:00'
+last_seen: '2026-06-12T22:47:06.070522+00:00'
+last_checked: '2026-06-12T22:47:06.070522+00:00'
 health_score: 100
 ---
 
@@ -36,7 +36,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 87
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-06-12T20:20:35Z
+- Last Updated: 2026-06-12T22:03:15Z
 
 ## Possible Use Cases
 
