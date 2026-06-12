@@ -3,7 +3,7 @@ title: "Build a Domain-Specific Embedding Model in Under a Day"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune"
-local_vault_path: "ai\models\build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md"
+local_vault_path: "ai/models/build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/domain-specific-embeddin
 
 ## Local Vault File
 
-Path: [build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md](file:///../../ai\models\build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md)
+Path: [build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md](file:///../../ai/models/build-a-domain-specific-embedding-model-in-under-a-day-c0503e.md)

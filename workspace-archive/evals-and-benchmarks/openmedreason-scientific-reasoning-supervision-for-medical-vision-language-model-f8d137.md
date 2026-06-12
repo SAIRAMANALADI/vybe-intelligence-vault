@@ -3,7 +3,7 @@ title: "OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Langu
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12169"
-local_vault_path: "ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md"
+local_vault_path: "ai/rag/openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12169
 
 ## Local Vault File
 
-Path: [openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md](file:///../../ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)
+Path: [openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md](file:///../../ai/rag/openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)

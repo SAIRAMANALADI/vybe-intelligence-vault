@@ -2,255 +2,255 @@
 
 The 50 newest resources collected across the intelligence vault.
 
-### 1. [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything-321739.md) ([Source URL](https://github.com/HKUDS/RAG-Anything))
+### 1. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md) ([Source URL](https://universalrag.github.io))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T23:00:42.255857+00:00
-- **Local Path**: `ai/rag/hkuds-rag-anything-321739.md`
+- **Collected At**: 2026-06-12T05:02:53.998938+00:00
+- **Local Path**: `ai/rag/universalrag-retrieval-augmented-generation-over-corpora-of-diverse-modalities-a-f7e5a1.md`
 
-### 2. [What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog](../ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md) ([Source URL](https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai))
+### 2. [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md) ([Source URL](https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T23:00:03.542765+00:00
-- **Local Path**: `ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md`
+- **Collected At**: 2026-06-12T05:02:52.668162+00:00
+- **Local Path**: `ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-beginners-buildrag-864be1.md`
 
-### 3. [LightRAG](../ai/rag/lightrag-65e88f.md) ([Source URL](https://lightrag.github.io))
+### 3. [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md) ([Source URL](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T22:59:57.467276+00:00
-- **Local Path**: `ai/rag/lightrag-65e88f.md`
+- **Collected At**: 2026-06-12T05:02:46.438302+00:00
+- **Local Path**: `ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai-search-dev-community-2990fe.md`
 
-### 4. [RAG](../ai/rag/rag-6cc09b.md) ([Source URL](https://trec-rag.github.io))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T22:59:48.955245+00:00
-- **Local Path**: `ai/rag/rag-6cc09b.md`
-
-### 5. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md) ([Source URL](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T22:59:46.082724+00:00
-- **Local Path**: `ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2026-by-florinelchis-medium-34d770.md`
-
-### 6. [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product-670828.md) ([Source URL](https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/))
+### 4. [Making a vintage LLM from scratch](../ai/community/making-a-vintage-llm-from-scratch-faa6e5.md) ([Source URL](https://crlf.link/log/entries/260525-1/))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T22:58:50.285232+00:00
-- **Local Path**: `ai/community/openai-prepping-for-on-prem-product-670828.md`
+- **Collected At**: 2026-06-12T05:02:11.683189+00:00
+- **Local Path**: `ai/community/making-a-vintage-llm-from-scratch-faa6e5.md`
 
-### 7. [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md) ([Source URL](https://www.kennethpayne.uk/p/shall-we-play-a-game))
+### 5. [How a new DSL may survive in the era of LLMs](../ai/community/how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md) ([Source URL](https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T22:58:48.408063+00:00
-- **Local Path**: `ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md`
+- **Collected At**: 2026-06-12T05:02:11.300600+00:00
+- **Local Path**: `ai/community/how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md`
 
-### 8. [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generation-b29059.md) ([Source URL](https://open-rag.ai))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T20:36:08.744493+00:00
-- **Local Path**: `ai/rag/sovereign-open-source-retrieval-augmented-generation-b29059.md`
-
-### 9. [All-in-RAG | 大模型应用开发实战：RAG技术全栈指南](../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md) ([Source URL](https://datawhalechina.github.io/all-in-rag))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T20:36:07.857316+00:00
-- **Local Path**: `ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md`
-
-### 10. [Building agents without harness engineering](../ai/community/building-agents-without-harness-engineering-c48d9b.md) ([Source URL](https://rajitkhanna.com/agents/))
+### 6. [MTG Bench: Testing how well LLMs can play Magic](../ai/community/mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md) ([Source URL](https://mtgautodeck.com/articles/mtg-bench/))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T20:35:31.610981+00:00
-- **Local Path**: `ai/community/building-agents-without-harness-engineering-c48d9b.md`
+- **Collected At**: 2026-06-12T05:02:10.996229+00:00
+- **Local Path**: `ai/community/mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md`
 
-### 11. [Ear Training Practice Exercises](../ai/community/ear-training-practice-exercises-28e3cd.md) ([Source URL](https://tonedear.com/))
+### 7. [Ear Training Practice](../ai/community/ear-training-practice-28e3cd.md) ([Source URL](https://tonedear.com/))
 - **Category**: ai/community
-- **Collected At**: 2026-06-11T20:35:30.840885+00:00
-- **Local Path**: `ai/community/ear-training-practice-exercises-28e3cd.md`
+- **Collected At**: 2026-06-12T05:02:09.934855+00:00
+- **Local Path**: `ai/community/ear-training-practice-28e3cd.md`
 
-### 12. [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md) ([Source URL](https://docs.aws.amazon.com/prescriptive-guidance/latest/writing-best-practices-rag/best-practices.html))
+### 8. [A jacket that harvests drinking water from the air](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md) ([Source URL](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/))
+- **Category**: ai/community
+- **Collected At**: 2026-06-12T05:02:09.842911+00:00
+- **Local Path**: `ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md`
+
+### 9. [Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization](../ai/rag/bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md) ([Source URL](https://arxiv.org/abs/2606.11255))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:55.805434+00:00
-- **Local Path**: `ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md`
+- **Collected At**: 2026-06-12T05:02:00.580155+00:00
+- **Local Path**: `ai/rag/bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md`
 
-### 13. [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md) ([Source URL](https://www.evidentlyai.com/llm-guide/rag-evaluation))
+### 10. [Attention Expansion: Enhancing Keyphrase Extraction from Long Documents with Attention-Augmented Contextualized Embeddings](../ai/rag/attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md) ([Source URL](https://arxiv.org/abs/2606.10716))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:51.025758+00:00
-- **Local Path**: `ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md`
+- **Collected At**: 2026-06-12T05:01:59.486328+00:00
+- **Local Path**: `ai/rag/attention-expansion-enhancing-keyphrase-extraction-from-long-documents-with-atte-47ae20.md`
 
-### 14. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md) ([Source URL](https://rag.readthedocs.io))
+### 11. [UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data](../ai/rag/unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md) ([Source URL](https://arxiv.org/abs/2606.10683))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:50.854455+00:00
-- **Local Path**: `ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md`
+- **Collected At**: 2026-06-12T05:01:59.486313+00:00
+- **Local Path**: `ai/rag/unidextok-a-unified-dexterous-hand-tokenizer-from-real-data-86f31f.md`
 
-### 15. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md) ([Source URL](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm))
+### 12. [An Improved Generative Adversarial Network for Micro-Resistivity Imaging Logging Restoration](../ai/rag/an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md) ([Source URL](https://arxiv.org/abs/2606.10200))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:46.687059+00:00
-- **Local Path**: `ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md`
+- **Collected At**: 2026-06-12T05:01:59.486298+00:00
+- **Local Path**: `ai/rag/an-improved-generative-adversarial-network-for-micro-resistivity-imaging-logging-f59707.md`
 
-### 16. [15 Best Open-Source RAG Frameworks in 2026](../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md) ([Source URL](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks))
+### 13. [A Unifying Lens on Reward Uncertainty in RLHF](../ai/research/a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md) ([Source URL](https://arxiv.org/abs/2606.09073))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486281+00:00
+- **Local Path**: `ai/research/a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md`
+
+### 14. [How reliable are LLMs when it comes to playing dice?](../ai/rag/how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md) ([Source URL](https://arxiv.org/abs/2606.07515))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:46.226599+00:00
-- **Local Path**: `ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md`
+- **Collected At**: 2026-06-12T05:01:59.486265+00:00
+- **Local Path**: `ai/rag/how-reliable-are-llms-when-it-comes-to-playing-dice-5ce704.md`
 
-### 17. [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md) ([Source URL](https://www.datacamp.com/tutorial/how-to-improve-rag-performance-5-key-techniques-with-examples))
+### 15. [Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems](../ai/rag/agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md) ([Source URL](https://arxiv.org/abs/2606.06525))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:45.137836+00:00
-- **Local Path**: `ai/rag/how-to-improve-rag-performance-5-key-techniques-with-examples-datacamp-782647.md`
+- **Collected At**: 2026-06-12T05:01:59.486250+00:00
+- **Local Path**: `ai/rag/agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md`
 
-### 18. [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md) ([Source URL](https://blog.starmorph.com/blog/rag-techniques-compared-best-practices-guide))
+### 16. [Benchmarking Counterfactual Prediction in Epidemic Time Series with Time-Varying Interventions](../ai/rag/benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md) ([Source URL](https://arxiv.org/abs/2606.05692))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:44.866780+00:00
-- **Local Path**: `ai/rag/rag-techniques-compared-a-practical-guide-to-retrieval-augmented-generation-in-2-9361ef.md`
+- **Collected At**: 2026-06-12T05:01:59.486235+00:00
+- **Local Path**: `ai/rag/benchmarking-counterfactual-prediction-in-epidemic-time-series-with-time-varying-dd1760.md`
 
-### 19. [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md) ([Source URL](https://nerdleveltech.com/guides/rag-systems))
+### 17. [Counterfactual Explanations for Deep Two-Sample Testing](../ai/research/counterfactual-explanations-for-deep-two-sample-testing-cccb21.md) ([Source URL](https://arxiv.org/abs/2606.04009))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486220+00:00
+- **Local Path**: `ai/research/counterfactual-explanations-for-deep-two-sample-testing-cccb21.md`
+
+### 18. [Variational Learning for Insertion-based Generation](../ai/research/variational-learning-for-insertion-based-generation-9b7200.md) ([Source URL](https://arxiv.org/abs/2606.02133))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486205+00:00
+- **Local Path**: `ai/research/variational-learning-for-insertion-based-generation-9b7200.md`
+
+### 19. [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](../ai/agents/if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md) ([Source URL](https://arxiv.org/abs/2605.31514))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.486188+00:00
+- **Local Path**: `ai/agents/if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md`
+
+### 20. [Real-rootedness of the Poincar\'e polynomials of $\overline{\mathcal M}_{0,n}$: an AI-assisted proof](../ai/agents/real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md) ([Source URL](https://arxiv.org/abs/2605.29151))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.486172+00:00
+- **Local Path**: `ai/agents/real-rootedness-of-the-poincar-e-polynomials-of-overline-mathcal-m-0-n-an-ai-ass-91ef98.md`
+
+### 21. [VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents](../ai/agents/vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md) ([Source URL](https://arxiv.org/abs/2605.26144))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.486154+00:00
+- **Local Path**: `ai/agents/vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md`
+
+### 22. [Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability](../ai/research/transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md) ([Source URL](https://arxiv.org/abs/2605.25225))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486139+00:00
+- **Local Path**: `ai/research/transformer-field-theory-a-response-theoretic-approach-to-mechanistic-interpreta-965025.md`
+
+### 23. [More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts](../ai/rag/more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md) ([Source URL](https://arxiv.org/abs/2605.22641))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:43.385351+00:00
-- **Local Path**: `ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md`
+- **Collected At**: 2026-06-12T05:01:59.486124+00:00
+- **Local Path**: `ai/rag/more-context-larger-models-or-moral-knowledge-a-systematic-study-of-schwartz-val-e72a9f.md`
 
-### 20. [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md) ([Source URL](https://arxiv.org/abs/2501.07391))
+### 24. [GeoWorld-VLM: Geometry from World Models for Vision-Language Models](../ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md) ([Source URL](https://arxiv.org/abs/2605.16713))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486106+00:00
+- **Local Path**: `ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md`
+
+### 25. [A Theory of Training Profit-Optimal LLMs](../ai/research/a-theory-of-training-profit-optimal-llms-3d9116.md) ([Source URL](https://arxiv.org/abs/2605.16430))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486088+00:00
+- **Local Path**: `ai/research/a-theory-of-training-profit-optimal-llms-3d9116.md`
+
+### 26. [The Safety-Aware Denoiser for Text Diffusion Models](../ai/research/the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md) ([Source URL](https://arxiv.org/abs/2605.08116))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486073+00:00
+- **Local Path**: `ai/research/the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md`
+
+### 27. [GEASS: Gated Evidence-Adaptive Selective Caption Trust for Vision-Language Models](../ai/research/geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md) ([Source URL](https://arxiv.org/abs/2605.01733))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486057+00:00
+- **Local Path**: `ai/research/geass-gated-evidence-adaptive-selective-caption-trust-for-vision-language-models-1eed8f.md`
+
+### 28. [Possibilistic Predictive Uncertainty for Deep Learning](../ai/research/possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md) ([Source URL](https://arxiv.org/abs/2605.00600))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486039+00:00
+- **Local Path**: `ai/research/possibilistic-predictive-uncertainty-for-deep-learning-32aa95.md`
+
+### 29. [BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning](../ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md) ([Source URL](https://arxiv.org/abs/2604.27277))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.486022+00:00
+- **Local Path**: `ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md`
+
+### 30. [Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale](../ai/rag/versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md) ([Source URL](https://arxiv.org/abs/2604.24806))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:42.356498+00:00
-- **Local Path**: `ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md`
+- **Collected At**: 2026-06-12T05:01:59.486006+00:00
+- **Local Path**: `ai/rag/versioned-late-materialization-for-ultra-long-sequence-training-in-recommendatio-4e544c.md`
 
-### 21. [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md) ([Source URL](https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems))
+### 31. [The Pragmatic Persona: Discovering LLM Persona through Bridging Inference](../ai/rag/the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md) ([Source URL](https://arxiv.org/abs/2604.24079))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:40.555518+00:00
-- **Local Path**: `ai/rag/7-best-github-repositories-for-mastering-rag-systems-9187bd.md`
+- **Collected At**: 2026-06-12T05:01:59.485991+00:00
+- **Local Path**: `ai/rag/the-pragmatic-persona-discovering-llm-persona-through-bridging-inference-da530a.md`
 
-### 22. [Mastering Chunking Strategies for RAG: Best Practices & Code Examples](../ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md) ([Source URL](https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089))
+### 32. [A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle](../ai/rag/a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md) ([Source URL](https://arxiv.org/abs/2604.16548))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:38.491661+00:00
-- **Local Path**: `ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md`
+- **Collected At**: 2026-06-12T05:01:59.485976+00:00
+- **Local Path**: `ai/rag/a-survey-on-long-term-memory-security-in-llm-agents-attacks-defenses-and-governa-bd7acb.md`
 
-### 23. [Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](../ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md) ([Source URL](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide))
+### 33. [ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection](../ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md) ([Source URL](https://arxiv.org/abs/2604.13924))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485961+00:00
+- **Local Path**: `ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md`
+
+### 34. [WOMBET: World Model-Based Experience Transfer for Robust and Sample-efficient Reinforcement Learning](../ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md) ([Source URL](https://arxiv.org/abs/2604.08958))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:37.556849+00:00
-- **Local Path**: `ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md`
+- **Collected At**: 2026-06-12T05:01:59.485945+00:00
+- **Local Path**: `ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md`
 
-### 24. [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md) ([Source URL](https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval))
+### 35. [DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generation](../ai/rag/dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md) ([Source URL](https://arxiv.org/abs/2604.07590))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:37.237904+00:00
-- **Local Path**: `ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md`
+- **Collected At**: 2026-06-12T05:01:59.485928+00:00
+- **Local Path**: `ai/rag/dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md`
 
-### 25. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md) ([Source URL](https://superml.org/tutorials/rag-beginner))
+### 36. [Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders](../ai/rag/fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md) ([Source URL](https://arxiv.org/abs/2603.24603))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:30.039808+00:00
-- **Local Path**: `ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md`
+- **Collected At**: 2026-06-12T05:01:59.485913+00:00
+- **Local Path**: `ai/rag/fusion-learning-from-dynamic-functional-connectivity-combining-the-amplitude-and-70c58e.md`
 
-### 26. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md) ([Source URL](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14))
+### 37. [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](../ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md) ([Source URL](https://arxiv.org/abs/2603.11479))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.485896+00:00
+- **Local Path**: `ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md`
+
+### 38. [ARROW: Augmented Replay for RObust World models](../ai/agents/arrow-augmented-replay-for-robust-world-models-19f47a.md) ([Source URL](https://arxiv.org/abs/2603.11395))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.485881+00:00
+- **Local Path**: `ai/agents/arrow-augmented-replay-for-robust-world-models-19f47a.md`
+
+### 39. [On the Reliability of Cue Conflict and Beyond](../ai/research/on-the-reliability-of-cue-conflict-and-beyond-579682.md) ([Source URL](https://arxiv.org/abs/2603.10834))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485866+00:00
+- **Local Path**: `ai/research/on-the-reliability-of-cue-conflict-and-beyond-579682.md`
+
+### 40. [Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Multi-View Echos](../ai/research/echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md) ([Source URL](https://arxiv.org/abs/2603.08505))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485850+00:00
+- **Local Path**: `ai/research/echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md`
+
+### 41. [PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment](../ai/rag/palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md) ([Source URL](https://arxiv.org/abs/2603.06652))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:29.351504+00:00
-- **Local Path**: `ai/rag/building-your-own-rag-system-from-scratch-a-step-by-step-guide-by-anish-chitturu-93585e.md`
+- **Collected At**: 2026-06-12T05:01:59.485835+00:00
+- **Local Path**: `ai/rag/palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md`
 
-### 27. [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md) ([Source URL](https://arxiv.org/abs/2510.12323))
+### 42. [Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response](../ai/agents/contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md) ([Source URL](https://arxiv.org/abs/2603.02274))
+- **Category**: ai/agents
+- **Collected At**: 2026-06-12T05:01:59.485820+00:00
+- **Local Path**: `ai/agents/contextual-invertible-world-models-a-neuro-symbolic-agentic-framework-for-colore-4e9fef.md`
+
+### 43. [Structured vs. Unstructured Pruning: An Exponential Gap](../ai/research/structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md) ([Source URL](https://arxiv.org/abs/2603.02234))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485803+00:00
+- **Local Path**: `ai/research/structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md`
+
+### 44. [CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction](../ai/rag/cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md) ([Source URL](https://arxiv.org/abs/2603.00610))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:27.122841+00:00
-- **Local Path**: `ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md`
+- **Collected At**: 2026-06-12T05:01:59.485782+00:00
+- **Local Path**: `ai/rag/cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md`
 
-### 28. [Google Colab](../ai/rag/google-colab-dc1bd5.md) ([Source URL](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb))
+### 45. [FENCE: A Financial and Multimodal Jailbreak Detection Dataset](../ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md) ([Source URL](https://arxiv.org/abs/2602.18154))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485766+00:00
+- **Local Path**: `ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md`
+
+### 46. [InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem](../ai/research/innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md) ([Source URL](https://arxiv.org/abs/2602.14367))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485750+00:00
+- **Local Path**: `ai/research/innoeval-on-research-idea-evaluation-as-a-knowledge-grounded-multi-perspective-r-cfd7f1.md`
+
+### 47. [Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risks in Tool-Using Agents](../ai/rag/unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md) ([Source URL](https://arxiv.org/abs/2602.13379))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:26.905462+00:00
-- **Local Path**: `ai/rag/google-colab-dc1bd5.md`
+- **Collected At**: 2026-06-12T05:01:59.485734+00:00
+- **Local Path**: `ai/rag/unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md`
 
-### 29. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md) ([Source URL](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems))
+### 48. [TokaMark: A Comprehensive Benchmark for MAST Tokamak Plasma Models](../ai/rag/tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md) ([Source URL](https://arxiv.org/abs/2602.10132))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:26.439401+00:00
-- **Local Path**: `ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md`
+- **Collected At**: 2026-06-12T05:01:59.485719+00:00
+- **Local Path**: `ai/rag/tokamark-a-comprehensive-benchmark-for-mast-tokamak-plasma-models-80e60a.md`
 
-### 30. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md) ([Source URL](https://dasroot.net/posts/2026/03/python-rag-projects-github))
+### 49. [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](../ai/rag/fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md) ([Source URL](https://arxiv.org/abs/2602.07294))
 - **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:26.152079+00:00
-- **Local Path**: `ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md`
+- **Collected At**: 2026-06-12T05:01:59.485700+00:00
+- **Local Path**: `ai/rag/fin-rate-a-real-world-financial-analytics-and-tracking-evaluation-benchmark-for-82d4dd.md`
 
-### 31. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md) ([Source URL](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355))
-- **Category**: ai/rag
-- **Collected At**: 2026-06-11T18:21:24.858187+00:00
-- **Local Path**: `ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-blackwoon-medium-850743.md`
-
-### 32. [Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md) ([Source URL](https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.889780+00:00
-- **Local Path**: `ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-accelerate-open-frontier-models-march-f4363f.md`
-
-### 33. [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md) ([Source URL](https://mistral.ai/news/workflows))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.889652+00:00
-- **Local Path**: `ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md`
-
-### 34. [Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md) ([Source URL](https://mistral.ai/news/accelerate-ai-native-industry))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.889553+00:00
-- **Local Path**: `ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md`
-
-### 35. [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md) ([Source URL](https://mistral.ai/news/physics-ai-research))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.889505+00:00
-- **Local Path**: `ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md`
-
-### 36. [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit-3ecb58.md) ([Source URL](https://mistral.ai/news/search-toolkit))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888721+00:00
-- **Local Path**: `ai/companies/mistral/introducing-search-toolkit-3ecb58.md`
-
-### 37. [Vibe gets to work.](../ai/companies/mistral/vibe-gets-to-work-e11a89.md) ([Source URL](https://mistral.ai/news/vibe-agent))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888688+00:00
-- **Local Path**: `ai/companies/mistral/vibe-gets-to-work-e11a89.md`
-
-### 38. [AI Now Summit 2026](../ai/companies/mistral/ai-now-summit-2026-6d511a.md) ([Source URL](https://mistral.ai/news/ai-now-summit-2026))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888654+00:00
-- **Local Path**: `ai/companies/mistral/ai-now-summit-2026-6d511a.md`
-
-### 39. [Voxtral TTS](../ai/companies/mistral/voxtral-tts-d3c30c.md) ([Source URL](https://mistral.ai/news/voxtral-tts))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888580+00:00
-- **Local Path**: `ai/companies/mistral/voxtral-tts-d3c30c.md`
-
-### 40. [Mistral Small 4](../ai/companies/mistral/mistral-small-4-a1604c.md) ([Source URL](https://mistral.ai/news/mistral-small-4))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888530+00:00
-- **Local Path**: `ai/companies/mistral/mistral-small-4-a1604c.md`
-
-### 41. [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5-e4fb7f.md) ([Source URL](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5))
-- **Category**: ai/companies/mistral
-- **Collected At**: 2026-06-11T18:20:58.888465+00:00
-- **Local Path**: `ai/companies/mistral/mistral-medium-3-5-e4fb7f.md`
-
-### 42. [Learn more](../ai/companies/deepmind/learn-more-92fbb6.md) ([Source URL](https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.250242+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-92fbb6.md`
-
-### 43. [Learn more](../ai/companies/deepmind/learn-more-1d9b12.md) ([Source URL](https://antigravity.google/blog/introducing-google-antigravity-2-0))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.250208+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-1d9b12.md`
-
-### 44. [Learn more](../ai/companies/deepmind/learn-more-314226.md) ([Source URL](https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.250176+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-314226.md`
-
-### 45. [Learn more](../ai/companies/deepmind/learn-more-b2201e.md) ([Source URL](https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.250137+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-b2201e.md`
-
-### 46. [Learn more](../ai/companies/deepmind/learn-more-0a9db6.md) ([Source URL](https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.250096+00:00
-- **Local Path**: `ai/companies/deepmind/learn-more-0a9db6.md`
-
-### 47. [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md) ([Source URL](https://deepmind.google/blog))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.249767+00:00
-- **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md`
-
-### 48. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md) ([Source URL](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.249718+00:00
-- **Local Path**: `ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md`
-
-### 49. [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md) ([Source URL](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.249685+00:00
-- **Local Path**: `ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md`
-
-### 50. [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md) ([Source URL](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds))
-- **Category**: ai/companies/deepmind
-- **Collected At**: 2026-06-11T18:20:58.249589+00:00
-- **Local Path**: `ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md`
+### 50. [Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models](../ai/research/ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md) ([Source URL](https://arxiv.org/abs/2602.07106))
+- **Category**: ai/research
+- **Collected At**: 2026-06-12T05:01:59.485685+00:00
+- **Local Path**: `ai/research/ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md`
 
 ---
-*Index generated on 2026-06-12T04:38:15.372450+00:00*
+*Index generated on 2026-06-12T05:04:26.448301+00:00*

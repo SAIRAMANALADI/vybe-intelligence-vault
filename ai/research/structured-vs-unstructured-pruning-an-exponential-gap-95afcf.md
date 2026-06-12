@@ -1,0 +1,41 @@
+---
+title: 'Structured vs. Unstructured Pruning: An Exponential Gap'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2603.02234
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.485803+00:00'
+tags:
+- models
+status: new
+---
+
+# Structured vs. Unstructured Pruning: An Exponential Gap
+
+## Summary
+
+arXiv:2603.02234v3 Announce Type: replace-cross 
+Abstract: The Strong Lottery Ticket Hypothesis (SLTH) states that large, randomly initialized neural networks contain sparse subnetworks capable of approximating a target function at initialization without training, suggesting that pruning alone is sufficient. Pruning methods are typically classified as unstructured, where individual weights can be removed from the network, and structured, where parameters are removed according to specific patterns, as in neuron pruning. Existing theoretical results supporting the SLTH rely almost exclusively on unstructured pruning, showing that logarithmic overparameterization suffices to approximate simple target networks. In contrast, neuron pruning has received limited theoretical attention, despite its practical appeal for direct hardware speedups. In this work, we consider the problem of approximating a single bias-free ReLU neuron by pruning hidden units of a randomly initialized two-layer ReLU network, effectively isolating the intrinsic limitations of neuron pruning. We show that achieving an $\varepsilon$-approximation requires a starting network size of $\Omega(1/\varepsilon)$ for neuron pruning, whereas weight pruning succeeds with only $O(\log(1/\varepsilon))$ hidden units, revealing an exponential separation between the two approaches.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2603.02234
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- models

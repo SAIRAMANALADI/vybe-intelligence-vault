@@ -3,7 +3,7 @@ title: "DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creat
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07226"
-local_vault_path: "ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md"
+local_vault_path: "ai/research/defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.07226
 
 ## Local Vault File
 
-Path: [defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md](file:///../../ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md)
+Path: [defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md](file:///../../ai/research/defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md)

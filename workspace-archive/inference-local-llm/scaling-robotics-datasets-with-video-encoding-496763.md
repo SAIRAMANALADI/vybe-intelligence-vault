@@ -3,7 +3,7 @@ title: "Scaling robotics datasets with video encoding"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/video-encoding"
-local_vault_path: "ai\models\scaling-robotics-datasets-with-video-encoding-496763.md"
+local_vault_path: "ai/models/scaling-robotics-datasets-with-video-encoding-496763.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/video-encoding
 
 ## Local Vault File
 
-Path: [scaling-robotics-datasets-with-video-encoding-496763.md](file:///../../ai\models\scaling-robotics-datasets-with-video-encoding-496763.md)
+Path: [scaling-robotics-datasets-with-video-encoding-496763.md](file:///../../ai/models/scaling-robotics-datasets-with-video-encoding-496763.md)

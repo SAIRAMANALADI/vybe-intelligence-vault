@@ -3,7 +3,7 @@ title: "Can AI Agents Synthesize Scientific Conclusions?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11337"
-local_vault_path: "ai\agents\can-ai-agents-synthesize-scientific-conclusions-ecea02.md"
+local_vault_path: "ai/agents/can-ai-agents-synthesize-scientific-conclusions-ecea02.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11337
 
 ## Local Vault File
 
-Path: [can-ai-agents-synthesize-scientific-conclusions-ecea02.md](file:///../../ai\agents\can-ai-agents-synthesize-scientific-conclusions-ecea02.md)
+Path: [can-ai-agents-synthesize-scientific-conclusions-ecea02.md](file:///../../ai/agents/can-ai-agents-synthesize-scientific-conclusions-ecea02.md)

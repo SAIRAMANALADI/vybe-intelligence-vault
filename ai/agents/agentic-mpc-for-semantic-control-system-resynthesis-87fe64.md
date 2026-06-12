@@ -1,0 +1,41 @@
+---
+title: Agentic MPC for Semantic Control System Resynthesis
+category: ai/agents
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.12774
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.482965+00:00'
+tags:
+- agents
+status: new
+---
+
+# Agentic MPC for Semantic Control System Resynthesis
+
+## Summary
+
+arXiv:2606.12774v1 Announce Type: cross 
+Abstract: While MPC effectively handles structured, diverse, and low-level specifications, it lacks the capability to dynamically incorporate high-level contextual information such as social norms, user intent, or natural language instructions. To address this limitation, this manuscript introduces an agentic MPC framework that enables context-aware, semantically adaptive control synthesis by integrating with large language model-based agents. The agent interprets heterogeneous inputs, including natural language messages, environmental observations, and external knowledge, to resynthesize the control specifications. The effectiveness of the framework is demonstrated in an autonomous driving scenario, where the system aligns with personal preferences or responds to social situations such as emergency vehicle yielding.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.12774
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- agents

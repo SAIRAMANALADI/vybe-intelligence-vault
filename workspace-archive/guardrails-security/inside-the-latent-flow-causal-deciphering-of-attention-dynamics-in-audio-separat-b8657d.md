@@ -3,7 +3,7 @@ title: "Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audi
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10046"
-local_vault_path: "ai\research\inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md"
+local_vault_path: "ai/research/inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.10046
 
 ## Local Vault File
 
-Path: [inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md](file:///../../ai\research\inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md)
+Path: [inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md](file:///../../ai/research/inside-the-latent-flow-causal-deciphering-of-attention-dynamics-in-audio-separat-b8657d.md)

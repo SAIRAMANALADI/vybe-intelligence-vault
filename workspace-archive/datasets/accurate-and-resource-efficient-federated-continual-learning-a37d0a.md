@@ -3,7 +3,7 @@ title: "Accurate and Resource-Efficient Federated Continual Learning"
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11480"
-local_vault_path: "ai\rag\accurate-and-resource-efficient-federated-continual-learning-a37d0a.md"
+local_vault_path: "ai/rag/accurate-and-resource-efficient-federated-continual-learning-a37d0a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11480
 
 ## Local Vault File
 
-Path: [accurate-and-resource-efficient-federated-continual-learning-a37d0a.md](file:///../../ai\rag\accurate-and-resource-efficient-federated-continual-learning-a37d0a.md)
+Path: [accurate-and-resource-efficient-federated-continual-learning-a37d0a.md](file:///../../ai/rag/accurate-and-resource-efficient-federated-continual-learning-a37d0a.md)

@@ -3,7 +3,7 @@ title: "Introducing Modular Diffusers - Composable Building Blocks for Diffusion
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/modular-diffusers"
-local_vault_path: "ai\models\introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md"
+local_vault_path: "ai/models/introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/modular-diffusers
 
 ## Local Vault File
 
-Path: [introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md](file:///../../ai\models\introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md)
+Path: [introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md](file:///../../ai/models/introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md)

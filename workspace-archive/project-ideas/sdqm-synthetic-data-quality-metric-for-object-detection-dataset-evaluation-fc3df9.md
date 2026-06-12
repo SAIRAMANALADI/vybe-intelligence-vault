@@ -3,7 +3,7 @@ title: "SDQM: Synthetic Data Quality Metric for Object Detection Dataset Evaluat
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.06596"
-local_vault_path: "ai\rag\sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md"
+local_vault_path: "ai/rag/sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2510.06596
 
 ## Local Vault File
 
-Path: [sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md](file:///../../ai\rag\sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md)
+Path: [sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md](file:///../../ai/rag/sdqm-synthetic-data-quality-metric-for-object-detection-dataset-evaluation-fc3df9.md)

@@ -9,13 +9,13 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 ## Top Matched Resources
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
+- [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (tutorial - USEFUL Tier)
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (reference - USEFUL Tier)
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) (reference - USEFUL Tier)
-- [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (reference - USEFUL Tier)
-- [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (tutorial - USEFUL Tier)
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (reference - USEFUL Tier)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (framework - USEFUL Tier)
-- [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) (benchmark - USEFUL Tier)
+- [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (reference - USEFUL Tier)
+- [Bhaskar-Kurasala/AI-Arch-Hub](https://github.com/Bhaskar-Kurasala/AI-Arch-Hub) (tool - USEFUL Tier)
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/ollama/ollama (Ollama)
 https://github.com/ggerganov/llama.cpp (llama.cpp)
 https://github.com/vllm-project/vllm (vLLM)
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
-- [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio)
-- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph)
 - [Bhaskar-Kurasala/AI-Arch-Hub](https://github.com/Bhaskar-Kurasala/AI-Arch-Hub)
+- [pixegami/rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)
+- [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch)
+- [omrylcn/python-vs-js-langgraph](https://github.com/omrylcn/python-vs-js-langgraph)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-12 04:38 UTC*
+*Last updated: 2026-06-12 05:04 UTC*

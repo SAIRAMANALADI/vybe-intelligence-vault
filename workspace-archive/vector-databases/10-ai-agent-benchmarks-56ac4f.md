@@ -3,7 +3,7 @@ title: "10 AI agent benchmarks"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.evidentlyai.com/blog/ai-agent-benchmarks"
-local_vault_path: "ai\rag\10-ai-agent-benchmarks-56ac4f.md"
+local_vault_path: "ai/rag/10-ai-agent-benchmarks-56ac4f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.evidentlyai.com/blog/ai-agent-benchmarks
 
 ## Local Vault File
 
-Path: [10-ai-agent-benchmarks-56ac4f.md](file:///../../ai\rag\10-ai-agent-benchmarks-56ac4f.md)
+Path: [10-ai-agent-benchmarks-56ac4f.md](file:///../../ai/rag/10-ai-agent-benchmarks-56ac4f.md)

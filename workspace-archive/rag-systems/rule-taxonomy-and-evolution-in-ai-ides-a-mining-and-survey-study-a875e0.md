@@ -3,7 +3,7 @@ title: "Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12231"
-local_vault_path: "ai\rag\rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md"
+local_vault_path: "ai/rag/rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12231
 
 ## Local Vault File
 
-Path: [rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md](file:///../../ai\rag\rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md)
+Path: [rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md](file:///../../ai/rag/rule-taxonomy-and-evolution-in-ai-ides-a-mining-and-survey-study-a875e0.md)

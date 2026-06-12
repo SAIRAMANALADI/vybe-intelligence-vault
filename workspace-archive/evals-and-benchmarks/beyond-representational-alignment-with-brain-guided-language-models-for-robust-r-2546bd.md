@@ -3,7 +3,7 @@ title: "Beyond representational alignment with brain-guided language models for 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11893"
-local_vault_path: "ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md"
+local_vault_path: "ai/research/beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11893
 
 ## Local Vault File
 
-Path: [beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md](file:///../../ai\research\beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md)
+Path: [beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md](file:///../../ai/research/beyond-representational-alignment-with-brain-guided-language-models-for-robust-r-2546bd.md)

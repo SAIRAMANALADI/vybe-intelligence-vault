@@ -3,7 +3,7 @@ title: "nobruf/shadcn-landing-page"
 archive_category: "startup-builder"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/nobruf/shadcn-landing-page"
-local_vault_path: "web-development\nextjs\nobruf-shadcn-landing-page-0045a2.md"
+local_vault_path: "web-development/nextjs/nobruf-shadcn-landing-page-0045a2.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/nobruf/shadcn-landing-page
 
 ## Local Vault File
 
-Path: [nobruf-shadcn-landing-page-0045a2.md](file:///../../web-development\nextjs\nobruf-shadcn-landing-page-0045a2.md)
+Path: [nobruf-shadcn-landing-page-0045a2.md](file:///../../web-development/nextjs/nobruf-shadcn-landing-page-0045a2.md)

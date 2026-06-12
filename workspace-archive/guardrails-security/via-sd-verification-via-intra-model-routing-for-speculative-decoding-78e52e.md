@@ -3,7 +3,7 @@ title: "VIA-SD: Verification via Intra-Model Routing for Speculative Decoding"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12243"
-local_vault_path: "ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md"
+local_vault_path: "ai/research/via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12243
 
 ## Local Vault File
 
-Path: [via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md](file:///../../ai\research\via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md)
+Path: [via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md](file:///../../ai/research/via-sd-verification-via-intra-model-routing-for-speculative-decoding-78e52e.md)

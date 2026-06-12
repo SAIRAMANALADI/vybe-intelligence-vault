@@ -3,7 +3,7 @@ title: "Search Discipline for Long-Horizon Research Agents"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11522"
-local_vault_path: "ai\agents\search-discipline-for-long-horizon-research-agents-1a9129.md"
+local_vault_path: "ai/agents/search-discipline-for-long-horizon-research-agents-1a9129.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11522
 
 ## Local Vault File
 
-Path: [search-discipline-for-long-horizon-research-agents-1a9129.md](file:///../../ai\agents\search-discipline-for-long-horizon-research-agents-1a9129.md)
+Path: [search-discipline-for-long-horizon-research-agents-1a9129.md](file:///../../ai/agents/search-discipline-for-long-horizon-research-agents-1a9129.md)

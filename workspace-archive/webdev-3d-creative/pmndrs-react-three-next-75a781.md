@@ -3,7 +3,7 @@ title: "pmndrs/react-three-next"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/react-three-next"
-local_vault_path: "web-development\react-three-fiber\pmndrs-react-three-next-75a781.md"
+local_vault_path: "web-development/react-three-fiber/pmndrs-react-three-next-75a781.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/react-three-next
 
 ## Local Vault File
 
-Path: [pmndrs-react-three-next-75a781.md](file:///../../web-development\react-three-fiber\pmndrs-react-three-next-75a781.md)
+Path: [pmndrs-react-three-next-75a781.md](file:///../../web-development/react-three-fiber/pmndrs-react-three-next-75a781.md)

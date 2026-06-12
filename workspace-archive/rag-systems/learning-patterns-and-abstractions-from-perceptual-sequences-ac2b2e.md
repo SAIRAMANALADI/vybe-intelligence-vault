@@ -3,7 +3,7 @@ title: "Learning Patterns and Abstractions from Perceptual Sequences"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2503.10973"
-local_vault_path: "ai\rag\learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md"
+local_vault_path: "ai/rag/learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2503.10973
 
 ## Local Vault File
 
-Path: [learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md](file:///../../ai\rag\learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md)
+Path: [learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md](file:///../../ai/rag/learning-patterns-and-abstractions-from-perceptual-sequences-ac2b2e.md)

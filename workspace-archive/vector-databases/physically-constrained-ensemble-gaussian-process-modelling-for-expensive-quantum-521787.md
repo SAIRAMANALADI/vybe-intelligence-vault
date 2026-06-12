@@ -3,7 +3,7 @@ title: "Physically Constrained Ensemble Gaussian Process Modelling for Expensive
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11240"
-local_vault_path: "ai\rag\physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md"
+local_vault_path: "ai/rag/physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11240
 
 ## Local Vault File
 
-Path: [physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md](file:///../../ai\rag\physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md)
+Path: [physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md](file:///../../ai/rag/physically-constrained-ensemble-gaussian-process-modelling-for-expensive-quantum-521787.md)

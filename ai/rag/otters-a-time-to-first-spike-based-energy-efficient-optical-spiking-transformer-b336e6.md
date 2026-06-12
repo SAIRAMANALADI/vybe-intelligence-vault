@@ -1,0 +1,43 @@
+---
+title: 'Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer'
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.13016
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.481408+00:00'
+tags:
+- dataset
+- rag
+status: new
+---
+
+# Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer
+
+## Summary
+
+arXiv:2606.13016v1 Announce Type: new 
+Abstract: Spiking neural networks (SNNs) are promising for energy-efficient inference, and time-to-first-spike (TTFS) coding is especially attractive because each neuron fires at most once. In practice, however, this benefit is often reduced by the cost of computing a temporal decay term and multiplying it by the synaptic weight. We address this issue by turning a physical hardware "bug," the natural signal decay in optoelectronic devices, into the main computation of TTFS, named Otters++. Specifically, we use the measured decay of a custom In$_2$O$_3$ optoelectronic synapse to directly realize the TTFS temporal term, removing the need for explicit digital decay computation. To scale this idea to Transformer models, we establish a layer-wise functional equivalence between the Otters++ and a quantized neural network (QNN), and develop a hybrid training method that uses device-faithful SNN computation in the forward pass and QNN straight-through gradients through the equivalent QNN path in the backward pass, together with model distillation. This avoids differentiation through discrete first-spike events and reduces the over-sparsity problem in direct TTFS-SNN training. We further make training aware of measured device noise by sampling run-to-run variation, and refine the system-level energy model by accounting for device sharing and multi-hop communication. On GLUE dataset, Otters++ improves the average score to 84.17\% while maintaining a clear energy advantage over prior spiking Transformer baselines. These results show that physically grounded TTFS computing can be efficient, trainable, and robust under realistic hardware effects.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.13016
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- dataset
+- rag

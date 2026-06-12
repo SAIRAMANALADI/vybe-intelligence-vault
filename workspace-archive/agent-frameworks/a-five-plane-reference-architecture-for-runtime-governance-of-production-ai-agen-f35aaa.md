@@ -3,7 +3,7 @@ title: "A Five-Plane Reference Architecture for Runtime Governance of Production
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12320"
-local_vault_path: "ai\agents\a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md"
+local_vault_path: "ai/agents/a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12320
 
 ## Local Vault File
 
-Path: [a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md](file:///../../ai\agents\a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md)
+Path: [a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md](file:///../../ai/agents/a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md)

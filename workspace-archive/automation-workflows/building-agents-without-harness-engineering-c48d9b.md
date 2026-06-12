@@ -3,7 +3,7 @@ title: "Building agents without harness engineering"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://rajitkhanna.com/agents/"
-local_vault_path: "ai\community\building-agents-without-harness-engineering-c48d9b.md"
+local_vault_path: "ai/community/building-agents-without-harness-engineering-c48d9b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://rajitkhanna.com/agents/
 
 ## Local Vault File
 
-Path: [building-agents-without-harness-engineering-c48d9b.md](file:///../../ai\community\building-agents-without-harness-engineering-c48d9b.md)
+Path: [building-agents-without-harness-engineering-c48d9b.md](file:///../../ai/community/building-agents-without-harness-engineering-c48d9b.md)

@@ -3,7 +3,7 @@ title: "Ethics and Society Newsletter #1"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ethics-soc-1"
-local_vault_path: "ai\models\ethics-and-society-newsletter-1-7a2315.md"
+local_vault_path: "ai/models/ethics-and-society-newsletter-1-7a2315.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-1
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-1-7a2315.md](file:///../../ai\models\ethics-and-society-newsletter-1-7a2315.md)
+Path: [ethics-and-society-newsletter-1-7a2315.md](file:///../../ai/models/ethics-and-society-newsletter-1-7a2315.md)

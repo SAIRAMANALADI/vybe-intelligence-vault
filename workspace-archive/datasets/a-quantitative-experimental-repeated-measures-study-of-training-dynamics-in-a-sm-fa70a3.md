@@ -1,0 +1,47 @@
+---
+title: "A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget"
+archive_category: "datasets"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.13370"
+local_vault_path: "ai/research/a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "dataset"
+importance: "medium"
+tags:
+  - benchmark
+  - meta-ai
+  - models
+selection_reason:
+  - "Valuable developer reference"
+---
+
+# A Quantitative Experimental Repeated Measures Study of Training Dynamics in a Small Llama Style Language Model Under a Compute-Aware Token Budget
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: dataset
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+arXiv:2606.13370v1 Announce Type: new 
+Abstract: This study examines training dynamics in a small Llama-style language model trained under a fixed, compute-constrained token budget. Rather than evaluating efficiency solely through endpoint performance, the study uses a quantitative experimental repeated measures design to analyze how validation loss, validation perplexity, rolling volatility, backslide behavior, spike behavior, and between-seed variability change across token-based training inte
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13370
+
+## Local Vault File
+
+Path: [a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md](file:///../../ai/research/a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md)

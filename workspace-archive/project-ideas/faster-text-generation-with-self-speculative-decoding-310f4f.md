@@ -3,7 +3,7 @@ title: "Faster Text Generation with Self-Speculative Decoding"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/layerskip"
-local_vault_path: "ai\models\faster-text-generation-with-self-speculative-decoding-310f4f.md"
+local_vault_path: "ai/models/faster-text-generation-with-self-speculative-decoding-310f4f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/layerskip
 
 ## Local Vault File
 
-Path: [faster-text-generation-with-self-speculative-decoding-310f4f.md](file:///../../ai\models\faster-text-generation-with-self-speculative-decoding-310f4f.md)
+Path: [faster-text-generation-with-self-speculative-decoding-310f4f.md](file:///../../ai/models/faster-text-generation-with-self-speculative-decoding-310f4f.md)

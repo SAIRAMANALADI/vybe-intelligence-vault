@@ -3,7 +3,7 @@ title: "hoodini/ai-agents-skills"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/hoodini/ai-agents-skills"
-local_vault_path: "ai\agents\hoodini-ai-agents-skills-87b61a.md"
+local_vault_path: "ai/agents/hoodini-ai-agents-skills-87b61a.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/hoodini/ai-agents-skills
 
 ## Local Vault File
 
-Path: [hoodini-ai-agents-skills-87b61a.md](file:///../../ai\agents\hoodini-ai-agents-skills-87b61a.md)
+Path: [hoodini-ai-agents-skills-87b61a.md](file:///../../ai/agents/hoodini-ai-agents-skills-87b61a.md)

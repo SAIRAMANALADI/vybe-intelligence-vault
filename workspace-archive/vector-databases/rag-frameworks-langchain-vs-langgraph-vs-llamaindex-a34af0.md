@@ -3,7 +3,7 @@ title: "RAG Frameworks: LangChain vs LangGraph vs LlamaIndex"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://aimultiple.com/rag-frameworks"
-local_vault_path: "ai\rag\rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md"
+local_vault_path: "ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://aimultiple.com/rag-frameworks
 
 ## Local Vault File
 
-Path: [rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md](file:///../../ai\rag\rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md)
+Path: [rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md](file:///../../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamaindex-a34af0.md)

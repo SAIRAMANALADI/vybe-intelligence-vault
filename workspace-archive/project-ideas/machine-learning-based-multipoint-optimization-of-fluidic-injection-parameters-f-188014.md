@@ -3,7 +3,7 @@ title: "Machine-learning-based multipoint optimization of fluidic injection para
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2409.12707"
-local_vault_path: "ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md"
+local_vault_path: "ai/rag/machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2409.12707
 
 ## Local Vault File
 
-Path: [machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md](file:///../../ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md)
+Path: [machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md](file:///../../ai/rag/machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md)

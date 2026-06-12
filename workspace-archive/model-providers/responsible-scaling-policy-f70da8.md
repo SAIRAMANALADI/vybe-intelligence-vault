@@ -3,7 +3,7 @@ title: "Responsible Scaling Policy"
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
-local_vault_path: "ai\companies\anthropic\responsible-scaling-policy-f70da8.md"
+local_vault_path: "ai/companies/anthropic/responsible-scaling-policy-f70da8.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/announcing-our-updated-respo
 
 ## Local Vault File
 
-Path: [responsible-scaling-policy-f70da8.md](file:///../../ai\companies\anthropic\responsible-scaling-policy-f70da8.md)
+Path: [responsible-scaling-policy-f70da8.md](file:///../../ai/companies/anthropic/responsible-scaling-policy-f70da8.md)

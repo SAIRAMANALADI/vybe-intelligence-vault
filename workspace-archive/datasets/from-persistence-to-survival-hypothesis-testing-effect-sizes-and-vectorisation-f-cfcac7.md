@@ -3,7 +3,7 @@ title: "From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vecto
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11911"
-local_vault_path: "ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md"
+local_vault_path: "ai/research/from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11911
 
 ## Local Vault File
 
-Path: [from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md](file:///../../ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md)
+Path: [from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md](file:///../../ai/research/from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md)

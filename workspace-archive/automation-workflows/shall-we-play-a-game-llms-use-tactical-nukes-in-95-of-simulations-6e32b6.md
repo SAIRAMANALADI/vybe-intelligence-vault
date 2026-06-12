@@ -3,7 +3,7 @@ title: "Shall we play a game? – LLMs use tactical nukes in 95% of simulations"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://www.kennethpayne.uk/p/shall-we-play-a-game"
-local_vault_path: "ai\community\shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md"
+local_vault_path: "ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.kennethpayne.uk/p/shall-we-play-a-game
 
 ## Local Vault File
 
-Path: [shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md](file:///../../ai\community\shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md)
+Path: [shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md](file:///../../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md)

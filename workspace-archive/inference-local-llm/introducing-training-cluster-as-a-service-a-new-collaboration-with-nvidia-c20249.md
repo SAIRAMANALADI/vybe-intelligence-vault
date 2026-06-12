@@ -3,7 +3,7 @@ title: "Introducing Training Cluster as a Service - a new collaboration with NVI
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia-training-cluster"
-local_vault_path: "ai\models\introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md"
+local_vault_path: "ai/models/introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia-training-cluster
 
 ## Local Vault File
 
-Path: [introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md](file:///../../ai\models\introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md)
+Path: [introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md](file:///../../ai/models/introducing-training-cluster-as-a-service-a-new-collaboration-with-nvidia-c20249.md)

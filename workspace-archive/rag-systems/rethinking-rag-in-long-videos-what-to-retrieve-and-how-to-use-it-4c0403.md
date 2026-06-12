@@ -1,0 +1,49 @@
+---
+title: "Rethinking RAG in Long Videos: What to Retrieve and How to Use It?"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.13141"
+local_vault_path: "ai/rag/rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - rag
+  - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Rethinking RAG in Long Videos: What to Retrieve and How to Use It?
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13141v1 Announce Type: new 
+Abstract: Retrieval-augmented generation is moving beyond text into long, egocentric video, where systems must select query-relevant chunks across multiple modalities and temporal granularities. Yet progress in VideoRAG is limited by two gaps: existing benchmarks allow queries to be answered without the video, obscuring retrieval errors, and prior methods apply a single modality-granularity configuration per query, ignoring chunk-level variability. We addre
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13141
+
+## Local Vault File
+
+Path: [rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md](file:///../../ai/rag/rethinking-rag-in-long-videos-what-to-retrieve-and-how-to-use-it-4c0403.md)

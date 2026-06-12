@@ -1,0 +1,43 @@
+---
+title: "AAbAAC: An Annotated Corpus for Autoimmunity Information Extraction"
+archive_category: "datasets"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.13051"
+local_vault_path: "ai/research/aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
+---
+
+# AAbAAC: An Annotated Corpus for Autoimmunity Information Extraction
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13051v1 Announce Type: new 
+Abstract: Despite advances in information extraction driven by deep learning and large language models, performance gaps remain in highly specialized biomedical fields, where domainspecific complexity poses challenges for generalist models. In this work, we focus on the domain of autoimmunity, where the main entities of interest are autoimmune diseases, autoantibodies (i.e., molecules that may mark or cause these diseases), their molecular targets, their lo
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13051
+
+## Local Vault File
+
+Path: [aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md](file:///../../ai/research/aabaac-an-annotated-corpus-for-autoimmunity-information-extraction-6ec5ca.md)

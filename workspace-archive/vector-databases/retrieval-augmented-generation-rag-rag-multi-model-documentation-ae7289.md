@@ -3,7 +3,7 @@ title: "Retrieval-Augmented Generation (RAG) — RAG multi model documentation"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://rag.readthedocs.io"
-local_vault_path: "ai\rag\retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md"
+local_vault_path: "ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://rag.readthedocs.io
 
 ## Local Vault File
 
-Path: [retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md](file:///../../ai\rag\retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md)
+Path: [retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md](file:///../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model-documentation-ae7289.md)

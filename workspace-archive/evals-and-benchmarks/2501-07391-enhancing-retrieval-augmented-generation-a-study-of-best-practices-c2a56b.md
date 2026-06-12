@@ -3,7 +3,7 @@ title: "[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best P
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2501.07391"
-local_vault_path: "ai\rag\2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md"
+local_vault_path: "ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2501.07391
 
 ## Local Vault File
 
-Path: [2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md](file:///../../ai\rag\2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md)
+Path: [2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md](file:///../../ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md)

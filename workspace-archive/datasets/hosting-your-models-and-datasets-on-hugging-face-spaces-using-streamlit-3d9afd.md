@@ -3,7 +3,7 @@ title: "Hosting your Models and Datasets on Hugging Face Spaces using Streamlit"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/streamlit-spaces"
-local_vault_path: "ai\models\hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md"
+local_vault_path: "ai/models/hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/streamlit-spaces
 
 ## Local Vault File
 
-Path: [hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md](file:///../../ai\models\hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md)
+Path: [hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md](file:///../../ai/models/hosting-your-models-and-datasets-on-hugging-face-spaces-using-streamlit-3d9afd.md)

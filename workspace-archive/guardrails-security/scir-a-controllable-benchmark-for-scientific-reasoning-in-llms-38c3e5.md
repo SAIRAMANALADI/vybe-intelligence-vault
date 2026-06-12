@@ -1,0 +1,45 @@
+---
+title: "SciR: A Controllable Benchmark for Scientific Reasoning in LLMs"
+archive_category: "guardrails-security"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.13020"
+local_vault_path: "ai/research/scir-a-controllable-benchmark-for-scientific-reasoning-in-llms-38c3e5.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+selection_reason:
+  - "Useful for project building"
+---
+
+# SciR: A Controllable Benchmark for Scientific Reasoning in LLMs
+
+## Why This Is In The Archive
+
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13020v1 Announce Type: new 
+Abstract: Three paradigmatic forms of inference recur across scientific reasoning: deduction, induction, and causal abduction. Reliably evaluating LLMs on these in scientific settings is currently out of reach: scientific benchmarks built on human annotations are costly and lack mechanistic ground truth, while synthetic logical-reasoning benchmarks do not resemble real scientific documents. We introduce SciR, a benchmark that combines multi-paradigm reasoni
+
+## Use Cases
+
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13020
+
+## Local Vault File
+
+Path: [scir-a-controllable-benchmark-for-scientific-reasoning-in-llms-38c3e5.md](file:///../../ai/research/scir-a-controllable-benchmark-for-scientific-reasoning-in-llms-38c3e5.md)

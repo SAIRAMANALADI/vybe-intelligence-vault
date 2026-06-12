@@ -3,7 +3,7 @@ title: "GaLore: Advancing Large Model Training on Consumer-grade Hardware"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/galore"
-local_vault_path: "ai\models\galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md"
+local_vault_path: "ai/models/galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/galore
 
 ## Local Vault File
 
-Path: [galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md](file:///../../ai\models\galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md)
+Path: [galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md](file:///../../ai/models/galore-advancing-large-model-training-on-consumer-grade-hardware-631084.md)

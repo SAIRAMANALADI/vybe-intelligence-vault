@@ -8,14 +8,14 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Top Matched Resources
 
-- [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (prompt - USEFUL Tier)
-- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
-- [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (benchmark - USEFUL Tier)
-- [PRInTS: Reward Modeling for Long-Horizon Information Seeking](https://arxiv.org/abs/2511.19314) (benchmark - USEFUL Tier)
-- [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (reference - USEFUL Tier)
-- [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/Tavily/tavily-deep-research) (reference - USEFUL Tier)
-- [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (reference - USEFUL Tier)
+- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (workflow - USEFUL Tier)
+- [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (framework - USEFUL Tier)
+- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (prompt - USEFUL Tier)
+- [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (dataset - USEFUL Tier)
+- [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (benchmark - USEFUL Tier)
+- [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (framework - USEFUL Tier)
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (tutorial - USEFUL Tier)
+- [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (reference - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -35,4 +35,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-12 04:38 UTC*
+*Last updated: 2026-06-12 05:04 UTC*

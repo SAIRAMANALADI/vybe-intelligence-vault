@@ -3,7 +3,7 @@ title: "Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understandi
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12047"
-local_vault_path: "ai\research\metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md"
+local_vault_path: "ai/research/metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12047
 
 ## Local Vault File
 
-Path: [metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md](file:///../../ai\research\metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md)
+Path: [metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md](file:///../../ai/research/metadata-aware-multi-prompt-reasoning-for-zero-shot-accident-understanding-9fb617.md)

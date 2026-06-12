@@ -3,7 +3,7 @@ title: "Improving Prompt Consistency with Structured Generations"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/evaluation-structured-outputs"
-local_vault_path: "ai\models\improving-prompt-consistency-with-structured-generations-6453cf.md"
+local_vault_path: "ai/models/improving-prompt-consistency-with-structured-generations-6453cf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/evaluation-structured-outputs
 
 ## Local Vault File
 
-Path: [improving-prompt-consistency-with-structured-generations-6453cf.md](file:///../../ai\models\improving-prompt-consistency-with-structured-generations-6453cf.md)
+Path: [improving-prompt-consistency-with-structured-generations-6453cf.md](file:///../../ai/models/improving-prompt-consistency-with-structured-generations-6453cf.md)

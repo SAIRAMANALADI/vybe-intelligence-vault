@@ -3,7 +3,7 @@ title: "Fixing Open LLM Leaderboard with Math-Verify"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/math_verify_leaderboard"
-local_vault_path: "ai\models\fixing-open-llm-leaderboard-with-math-verify-53f80f.md"
+local_vault_path: "ai/models/fixing-open-llm-leaderboard-with-math-verify-53f80f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/math_verify_leaderboard
 
 ## Local Vault File
 
-Path: [fixing-open-llm-leaderboard-with-math-verify-53f80f.md](file:///../../ai\models\fixing-open-llm-leaderboard-with-math-verify-53f80f.md)
+Path: [fixing-open-llm-leaderboard-with-math-verify-53f80f.md](file:///../../ai/models/fixing-open-llm-leaderboard-with-math-verify-53f80f.md)

@@ -3,7 +3,7 @@ title: "Welcome GPT OSS, the new open-source model family from OpenAI!"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/welcome-openai-gpt-oss"
-local_vault_path: "ai\models\welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md"
+local_vault_path: "ai/models/welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/welcome-openai-gpt-oss
 
 ## Local Vault File
 
-Path: [welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md](file:///../../ai\models\welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md)
+Path: [welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md](file:///../../ai/models/welcome-gpt-oss-the-new-open-source-model-family-from-openai-eb9acf.md)

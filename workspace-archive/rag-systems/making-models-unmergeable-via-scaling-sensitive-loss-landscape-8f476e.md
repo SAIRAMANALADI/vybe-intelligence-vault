@@ -3,7 +3,7 @@ title: "Making Models Unmergeable via Scaling-Sensitive Loss Landscape"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.21898"
-local_vault_path: "ai\research\making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md"
+local_vault_path: "ai/research/making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.21898
 
 ## Local Vault File
 
-Path: [making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md](file:///../../ai\research\making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md)
+Path: [making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md](file:///../../ai/research/making-models-unmergeable-via-scaling-sensitive-loss-landscape-8f476e.md)

@@ -1,0 +1,47 @@
+---
+title: 'SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation'
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.13647
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.484528+00:00'
+tags:
+- benchmark
+- dataset
+- models
+- rag
+status: new
+---
+
+# SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation
+
+## Summary
+
+arXiv:2606.13647v1 Announce Type: cross 
+Abstract: We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\times$ the depth of existing multilingual benchmark coverage for Slovak. Our evaluation of 31 embedding models reveals that large instruction-tuned multilingual models achieve the strongest performance, while existing Slovak-specific models trained for NLU tasks transfer poorly to embedding tasks. To address the need for efficient, locally-deployable Slovak embeddings, we develop \texttt{e5-sk-small} (45M parameters) and \texttt{e5-sk-large} (365M) by applying vocabulary trimming and fine-tuning to Multilingual E5 models. Despite size reductions of up to 62\%, our open-source models achieve competitive performance with proprietary APIs while remaining locally deployable for semantic search and retrieval-augmented generation (RAG). We release the benchmark, models, datasets, and code openly, hoping our approach offers a replicable path for other under-resourced languages.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.13647
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- benchmark
+- dataset
+- models
+- rag

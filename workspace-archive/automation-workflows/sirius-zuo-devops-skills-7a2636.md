@@ -3,7 +3,7 @@ title: "sirius-zuo/devops-skills"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/sirius-zuo/devops-skills"
-local_vault_path: "ai\agents\sirius-zuo-devops-skills-7a2636.md"
+local_vault_path: "ai/agents/sirius-zuo-devops-skills-7a2636.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/sirius-zuo/devops-skills
 
 ## Local Vault File
 
-Path: [sirius-zuo-devops-skills-7a2636.md](file:///../../ai\agents\sirius-zuo-devops-skills-7a2636.md)
+Path: [sirius-zuo-devops-skills-7a2636.md](file:///../../ai/agents/sirius-zuo-devops-skills-7a2636.md)

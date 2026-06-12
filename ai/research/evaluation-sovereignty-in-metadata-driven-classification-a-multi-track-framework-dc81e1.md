@@ -1,0 +1,46 @@
+---
+title: 'Evaluation Sovereignty in Metadata-Driven Classification: A Multi-Track Framework
+  for Weakly Supervised Information Systems'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.13436
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.481892+00:00'
+tags:
+- benchmark
+- paper
+status: new
+---
+
+# Evaluation Sovereignty in Metadata-Driven Classification: A Multi-Track Framework for Weakly Supervised Information Systems
+
+## Summary
+
+arXiv:2606.13436v1 Announce Type: new 
+Abstract: Evaluation in machine learning is typically treated as a neutral measurement process. However, in operational information systems, evaluation outcomes are often conditioned by the processes used to generate labels. This paper does not seek to improve classification performance. Instead, it examines the validity of performance measurement under differing label-authority regimes. This issue is particularly relevant in large-scale metadata-driven systems, where labels are often incomplete, inconsistent, or weakly supervised.
+ We introduce evaluation sovereignty, defined as the degree to which performance metrics are independent of label authority and supervision regime, and propose a multi-track evaluation framework that systematically varies training and evaluation label sources. Using hierarchical multi-label classification on large-scale scientific metadata, we demonstrate that models exhibiting strong performance under operational ("silver") evaluation degrade substantially under independent ("gold") evaluation, particularly for fine-grained classification. For example, Micro-F1 decreases from approximately 0.54 to 0.03. Notably, ranking-based metrics remain above baseline, revealing a divergence between latent model signal and classification validity.
+ These findings suggest that commonly reported performance metrics may reflect alignment with labeling processes rather than true predictive capability. We therefore reconceptualize evaluation validity as a system-level property shaped by label governance and provide a practical methodology for auditing intelligent systems operating under weak supervision.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.13436
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- benchmark
+- paper

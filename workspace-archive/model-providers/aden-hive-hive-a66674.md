@@ -3,7 +3,7 @@ title: "aden-hive/hive"
 archive_category: "model-providers"
 source_category: "ai/agents"
 source_url: "https://github.com/aden-hive/hive"
-local_vault_path: "ai\agents\aden-hive-hive-a66674.md"
+local_vault_path: "ai/agents/aden-hive-hive-a66674.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://github.com/aden-hive/hive
 
 ## Local Vault File
 
-Path: [aden-hive-hive-a66674.md](file:///../../ai\agents\aden-hive-hive-a66674.md)
+Path: [aden-hive-hive-a66674.md](file:///../../ai/agents/aden-hive-hive-a66674.md)

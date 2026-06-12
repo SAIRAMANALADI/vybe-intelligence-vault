@@ -3,7 +3,7 @@ title: "Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement L
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.12655"
-local_vault_path: "ai\agents\robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md"
+local_vault_path: "ai/agents/robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.12655
 
 ## Local Vault File
 
-Path: [robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md](file:///../../ai\agents\robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md)
+Path: [robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md](file:///../../ai/agents/robust-instruction-compliance-in-cooperative-multi-agent-reinforcement-learning-297b03.md)

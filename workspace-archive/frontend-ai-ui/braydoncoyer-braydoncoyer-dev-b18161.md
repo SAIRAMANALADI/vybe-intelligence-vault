@@ -3,7 +3,7 @@ title: "braydoncoyer/braydoncoyer.dev"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/braydoncoyer/braydoncoyer.dev"
-local_vault_path: "web-development\framer-motion\braydoncoyer-braydoncoyer-dev-b18161.md"
+local_vault_path: "web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/braydoncoyer/braydoncoyer.dev
 
 ## Local Vault File
 
-Path: [braydoncoyer-braydoncoyer-dev-b18161.md](file:///../../web-development\framer-motion\braydoncoyer-braydoncoyer-dev-b18161.md)
+Path: [braydoncoyer-braydoncoyer-dev-b18161.md](file:///../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md)

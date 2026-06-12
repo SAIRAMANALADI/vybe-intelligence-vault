@@ -3,7 +3,7 @@ title: "Pre-AF 13: An Interpretable Atrial Fibrillation Risk Score Mined from Di
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10725"
-local_vault_path: "ai\research\pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md"
+local_vault_path: "ai/research/pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.10725
 
 ## Local Vault File
 
-Path: [pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md](file:///../../ai\research\pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md)
+Path: [pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md](file:///../../ai/research/pre-af-13-an-interpretable-atrial-fibrillation-risk-score-mined-from-discharge-r-6972aa.md)

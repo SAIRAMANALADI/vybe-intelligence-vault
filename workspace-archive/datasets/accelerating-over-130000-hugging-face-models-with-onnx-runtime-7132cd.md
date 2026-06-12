@@ -3,7 +3,7 @@ title: "Accelerating over 130,000 Hugging Face models with ONNX Runtime"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ort-accelerating-hf-models"
-local_vault_path: "ai\models\accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md"
+local_vault_path: "ai/models/accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ort-accelerating-hf-models
 
 ## Local Vault File
 
-Path: [accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md](file:///../../ai\models\accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md)
+Path: [accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md](file:///../../ai/models/accelerating-over-130000-hugging-face-models-with-onnx-runtime-7132cd.md)

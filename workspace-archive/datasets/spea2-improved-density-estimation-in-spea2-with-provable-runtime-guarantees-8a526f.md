@@ -3,7 +3,7 @@ title: "SPEA2$^+$: Improved Density Estimation in SPEA2 with Provable Runtime Gu
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12382"
-local_vault_path: "ai\research\spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md"
+local_vault_path: "ai/research/spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12382
 
 ## Local Vault File
 
-Path: [spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md](file:///../../ai\research\spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md)
+Path: [spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md](file:///../../ai/research/spea2-improved-density-estimation-in-spea2-with-provable-runtime-guarantees-8a526f.md)

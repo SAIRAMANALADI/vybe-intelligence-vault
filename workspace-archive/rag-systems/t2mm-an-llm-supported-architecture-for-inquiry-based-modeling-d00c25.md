@@ -3,7 +3,7 @@ title: "T2MM: An LLM Supported Architecture For Inquiry-Based Modeling"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11210"
-local_vault_path: "ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md"
+local_vault_path: "ai/research/t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11210
 
 ## Local Vault File
 
-Path: [t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md](file:///../../ai\research\t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md)
+Path: [t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md](file:///../../ai/research/t2mm-an-llm-supported-architecture-for-inquiry-based-modeling-d00c25.md)

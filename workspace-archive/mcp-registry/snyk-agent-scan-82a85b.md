@@ -3,7 +3,7 @@ title: "snyk/agent-scan"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/snyk/agent-scan"
-local_vault_path: "ai\agents\snyk-agent-scan-82a85b.md"
+local_vault_path: "ai/agents/snyk-agent-scan-82a85b.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/snyk/agent-scan
 
 ## Local Vault File
 
-Path: [snyk-agent-scan-82a85b.md](file:///../../ai\agents\snyk-agent-scan-82a85b.md)
+Path: [snyk-agent-scan-82a85b.md](file:///../../ai/agents/snyk-agent-scan-82a85b.md)

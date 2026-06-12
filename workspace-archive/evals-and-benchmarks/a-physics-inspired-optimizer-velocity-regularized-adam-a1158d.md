@@ -3,7 +3,7 @@ title: "A Physics-Inspired Optimizer: Velocity Regularized Adam"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.13196"
-local_vault_path: "ai\research\a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md"
+local_vault_path: "ai/research/a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.13196
 
 ## Local Vault File
 
-Path: [a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md](file:///../../ai\research\a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md)
+Path: [a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md](file:///../../ai/research/a-physics-inspired-optimizer-velocity-regularized-adam-a1158d.md)

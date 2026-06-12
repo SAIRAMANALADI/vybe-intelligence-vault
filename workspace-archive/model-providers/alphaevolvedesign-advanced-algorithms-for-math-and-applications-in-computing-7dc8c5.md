@@ -3,7 +3,7 @@ title: "AlphaEvolveDesign advanced algorithms for math and applications in compu
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms"
-local_vault_path: "ai\companies\deepmind\alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md"
+local_vault_path: "ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://deepmind.google/blog/alphaevolve-a-gemini-powered-c
 
 ## Local Vault File
 
-Path: [alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md](file:///../../ai\companies\deepmind\alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md)
+Path: [alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md](file:///../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and-applications-in-computing-7dc8c5.md)

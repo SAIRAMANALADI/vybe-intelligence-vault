@@ -3,7 +3,7 @@ title: "nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12146"
-local_vault_path: "ai\rag\nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md"
+local_vault_path: "ai/rag/nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12146
 
 ## Local Vault File
 
-Path: [nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md](file:///../../ai\rag\nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md)
+Path: [nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md](file:///../../ai/rag/nd-rope-a-generalized-rope-for-n-dimensional-position-embedding-3e6d4e.md)

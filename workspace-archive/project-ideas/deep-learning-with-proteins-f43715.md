@@ -3,7 +3,7 @@ title: "Deep Learning with Proteins"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-learning-with-proteins"
-local_vault_path: "ai\models\deep-learning-with-proteins-f43715.md"
+local_vault_path: "ai/models/deep-learning-with-proteins-f43715.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-learning-with-proteins
 
 ## Local Vault File
 
-Path: [deep-learning-with-proteins-f43715.md](file:///../../ai\models\deep-learning-with-proteins-f43715.md)
+Path: [deep-learning-with-proteins-f43715.md](file:///../../ai/models/deep-learning-with-proteins-f43715.md)

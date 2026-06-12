@@ -3,7 +3,7 @@ title: "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured 
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11961"
-local_vault_path: "ai\research\categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md"
+local_vault_path: "ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11961
 
 ## Local Vault File
 
-Path: [categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md](file:///../../ai\research\categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md)
+Path: [categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md](file:///../../ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md)

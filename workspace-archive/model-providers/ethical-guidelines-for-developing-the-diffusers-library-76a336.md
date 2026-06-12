@@ -3,7 +3,7 @@ title: "Ethical Guidelines for developing the Diffusers library"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ethics-diffusers"
-local_vault_path: "ai\models\ethical-guidelines-for-developing-the-diffusers-library-76a336.md"
+local_vault_path: "ai/models/ethical-guidelines-for-developing-the-diffusers-library-76a336.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ethics-diffusers
 
 ## Local Vault File
 
-Path: [ethical-guidelines-for-developing-the-diffusers-library-76a336.md](file:///../../ai\models\ethical-guidelines-for-developing-the-diffusers-library-76a336.md)
+Path: [ethical-guidelines-for-developing-the-diffusers-library-76a336.md](file:///../../ai/models/ethical-guidelines-for-developing-the-diffusers-library-76a336.md)

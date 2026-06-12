@@ -3,7 +3,7 @@ title: "Adjoint Method versus Physics-Informed Neural Networks in PDE-Constraine
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12337"
-local_vault_path: "ai\rag\adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md"
+local_vault_path: "ai/rag/adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12337
 
 ## Local Vault File
 
-Path: [adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md](file:///../../ai\rag\adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md)
+Path: [adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md](file:///../../ai/rag/adjoint-method-versus-physics-informed-neural-networks-in-pde-constrained-invers-a8f5e0.md)

@@ -3,7 +3,7 @@ title: "Gradio 3.0 is Out!"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-blocks"
-local_vault_path: "ai\models\gradio-3-0-is-out-e86d7b.md"
+local_vault_path: "ai/models/gradio-3-0-is-out-e86d7b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gradio-blocks
 
 ## Local Vault File
 
-Path: [gradio-3-0-is-out-e86d7b.md](file:///../../ai\models\gradio-3-0-is-out-e86d7b.md)
+Path: [gradio-3-0-is-out-e86d7b.md](file:///../../ai/models/gradio-3-0-is-out-e86d7b.md)

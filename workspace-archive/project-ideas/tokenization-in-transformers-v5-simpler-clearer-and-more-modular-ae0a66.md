@@ -3,7 +3,7 @@ title: "Tokenization in Transformers v5: Simpler, Clearer, and More Modular"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tokenizers"
-local_vault_path: "ai\models\tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md"
+local_vault_path: "ai/models/tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tokenizers
 
 ## Local Vault File
 
-Path: [tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md](file:///../../ai\models\tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md)
+Path: [tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md](file:///../../ai/models/tokenization-in-transformers-v5-simpler-clearer-and-more-modular-ae0a66.md)

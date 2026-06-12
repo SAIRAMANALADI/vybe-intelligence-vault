@@ -3,7 +3,7 @@ title: "Unlock the power of images with AI Sheets"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/aisheets-unlock-images"
-local_vault_path: "ai\models\unlock-the-power-of-images-with-ai-sheets-d90682.md"
+local_vault_path: "ai/models/unlock-the-power-of-images-with-ai-sheets-d90682.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/aisheets-unlock-images
 
 ## Local Vault File
 
-Path: [unlock-the-power-of-images-with-ai-sheets-d90682.md](file:///../../ai\models\unlock-the-power-of-images-with-ai-sheets-d90682.md)
+Path: [unlock-the-power-of-images-with-ai-sheets-d90682.md](file:///../../ai/models/unlock-the-power-of-images-with-ai-sheets-d90682.md)

@@ -3,7 +3,7 @@ title: "The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2508.21380"
-local_vault_path: "ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md"
+local_vault_path: "ai/agents/the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2508.21380
 
 ## Local Vault File
 
-Path: [the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md](file:///../../ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md)
+Path: [the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md](file:///../../ai/agents/the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md)

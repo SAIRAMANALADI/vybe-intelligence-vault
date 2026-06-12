@@ -3,7 +3,7 @@ title: "RAG"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://trec-rag.github.io"
-local_vault_path: "ai\rag\rag-6cc09b.md"
+local_vault_path: "ai/rag/rag-6cc09b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://trec-rag.github.io
 
 ## Local Vault File
 
-Path: [rag-6cc09b.md](file:///../../ai\rag\rag-6cc09b.md)
+Path: [rag-6cc09b.md](file:///../../ai/rag/rag-6cc09b.md)

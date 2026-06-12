@@ -3,7 +3,7 @@ title: "Tabular Foundation Models for Clinical Survival Analysis via Survival-Aw
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12006"
-local_vault_path: "ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md"
+local_vault_path: "ai/research/tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12006
 
 ## Local Vault File
 
-Path: [tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md](file:///../../ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md)
+Path: [tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md](file:///../../ai/research/tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md)

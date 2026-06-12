@@ -1,0 +1,45 @@
+---
+title: "Fault Lines: Navigating Ethics and Responsible AI Where National Policy Meets Local Practice in Public Sector Transformation"
+archive_category: "datasets"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.13039"
+local_vault_path: "ai/research/fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - paper
+selection_reason:
+  - "Useful for project building"
+---
+
+# Fault Lines: Navigating Ethics and Responsible AI Where National Policy Meets Local Practice in Public Sector Transformation
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13039v1 Announce Type: cross 
+Abstract: The UK government has adopted a pro-AI stance to help transform public service delivery in the face of severe financial pressures, but the path to translate this vision into responsible AI practice remains ill-defined. While UK policy is often set at the national level, local authorities are responsible for most public service delivery, and the rapid advance of AI-first narratives in the public sector is exposing fault lines in knowledge and pra
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13039
+
+## Local Vault File
+
+Path: [fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md](file:///../../ai/research/fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md)

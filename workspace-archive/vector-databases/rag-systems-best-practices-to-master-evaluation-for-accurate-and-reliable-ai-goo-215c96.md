@@ -3,7 +3,7 @@ title: "RAG systems: Best practices to master evaluation for accurate and reliab
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://cloud.google.com/blog/products/ai-machine-learning/optimizing-rag-retrieval"
-local_vault_path: "ai\rag\rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md"
+local_vault_path: "ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://cloud.google.com/blog/products/ai-machine-learning/
 
 ## Local Vault File
 
-Path: [rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md](file:///../../ai\rag\rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md)
+Path: [rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md](file:///../../ai/rag/rag-systems-best-practices-to-master-evaluation-for-accurate-and-reliable-ai-goo-215c96.md)

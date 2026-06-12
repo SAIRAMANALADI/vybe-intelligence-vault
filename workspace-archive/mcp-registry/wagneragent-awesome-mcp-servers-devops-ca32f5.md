@@ -3,7 +3,7 @@ title: "WagnerAgent/awesome-mcp-servers-devops"
 archive_category: "mcp-registry"
 source_category: "ai/rag"
 source_url: "https://github.com/WagnerAgent/awesome-mcp-servers-devops"
-local_vault_path: "ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md"
+local_vault_path: "ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md"
 quality_score: 70
 archive_score: 89
 archive_tier: "essential"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/WagnerAgent/awesome-mcp-servers-devops
 
 ## Local Vault File
 
-Path: [wagneragent-awesome-mcp-servers-devops-ca32f5.md](file:///../../ai\rag\wagneragent-awesome-mcp-servers-devops-ca32f5.md)
+Path: [wagneragent-awesome-mcp-servers-devops-ca32f5.md](file:///../../ai/rag/wagneragent-awesome-mcp-servers-devops-ca32f5.md)

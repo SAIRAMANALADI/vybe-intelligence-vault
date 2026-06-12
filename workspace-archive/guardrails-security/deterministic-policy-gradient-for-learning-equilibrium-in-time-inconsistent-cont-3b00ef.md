@@ -3,7 +3,7 @@ title: "Deterministic Policy Gradient for Learning Equilibrium in Time-Inconsist
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11798"
-local_vault_path: "ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md"
+local_vault_path: "ai/research/deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11798
 
 ## Local Vault File
 
-Path: [deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md](file:///../../ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md)
+Path: [deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md](file:///../../ai/research/deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md)

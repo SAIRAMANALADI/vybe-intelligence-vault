@@ -3,7 +3,7 @@ title: "mikbry/awesome-webgpu"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/mikbry/awesome-webgpu"
-local_vault_path: "web-development\webgpu\mikbry-awesome-webgpu-b31950.md"
+local_vault_path: "web-development/webgpu/mikbry-awesome-webgpu-b31950.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/mikbry/awesome-webgpu
 
 ## Local Vault File
 
-Path: [mikbry-awesome-webgpu-b31950.md](file:///../../web-development\webgpu\mikbry-awesome-webgpu-b31950.md)
+Path: [mikbry-awesome-webgpu-b31950.md](file:///../../web-development/webgpu/mikbry-awesome-webgpu-b31950.md)

@@ -3,7 +3,7 @@ title: "License to Call: Introducing Transformers Agents 2.0"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/agents"
-local_vault_path: "ai\agents\license-to-call-introducing-transformers-agents-2-0-ea3fc2.md"
+local_vault_path: "ai/agents/license-to-call-introducing-transformers-agents-2-0-ea3fc2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/agents
 
 ## Local Vault File
 
-Path: [license-to-call-introducing-transformers-agents-2-0-ea3fc2.md](file:///../../ai\agents\license-to-call-introducing-transformers-agents-2-0-ea3fc2.md)
+Path: [license-to-call-introducing-transformers-agents-2-0-ea3fc2.md](file:///../../ai/agents/license-to-call-introducing-transformers-agents-2-0-ea3fc2.md)

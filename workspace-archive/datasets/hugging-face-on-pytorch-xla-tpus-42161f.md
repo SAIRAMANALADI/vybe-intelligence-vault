@@ -3,7 +3,7 @@ title: "Hugging Face on PyTorch / XLA TPUs"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pytorch-xla"
-local_vault_path: "ai\models\hugging-face-on-pytorch-xla-tpus-42161f.md"
+local_vault_path: "ai/models/hugging-face-on-pytorch-xla-tpus-42161f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pytorch-xla
 
 ## Local Vault File
 
-Path: [hugging-face-on-pytorch-xla-tpus-42161f.md](file:///../../ai\models\hugging-face-on-pytorch-xla-tpus-42161f.md)
+Path: [hugging-face-on-pytorch-xla-tpus-42161f.md](file:///../../ai/models/hugging-face-on-pytorch-xla-tpus-42161f.md)

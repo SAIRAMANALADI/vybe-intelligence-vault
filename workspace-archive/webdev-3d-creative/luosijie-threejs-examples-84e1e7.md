@@ -3,7 +3,7 @@ title: "luosijie/threejs-examples"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/luosijie/threejs-examples"
-local_vault_path: "web-development\threejs\luosijie-threejs-examples-84e1e7.md"
+local_vault_path: "web-development/threejs/luosijie-threejs-examples-84e1e7.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/luosijie/threejs-examples
 
 ## Local Vault File
 
-Path: [luosijie-threejs-examples-84e1e7.md](file:///../../web-development\threejs\luosijie-threejs-examples-84e1e7.md)
+Path: [luosijie-threejs-examples-84e1e7.md](file:///../../web-development/threejs/luosijie-threejs-examples-84e1e7.md)

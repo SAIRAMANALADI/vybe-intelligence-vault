@@ -1,0 +1,48 @@
+---
+title: "Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents"
+archive_category: "ai-browser-computer-use"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.12817"
+local_vault_path: "ai/agents/teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - agents
+  - benchmark
+  - scripts
+  - youtube
+selection_reason:
+  - "Useful for project building"
+---
+
+# Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.12817v1 Announce Type: new 
+Abstract: Understanding the digital world on mobile devices is shifting from static UI perception to dynamic action comprehension. This capability enables models to convert visual state transitions into operational knowledge, defined as short natural-language sentences that describe action types, target UI elements, textual arguments, and execution orders. However, due to the highly diverse and heterogeneous UI designs across applications, existing vision-l
+
+## Use Cases
+
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.12817
+
+## Local Vault File
+
+Path: [teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md](file:///../../ai/agents/teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md)

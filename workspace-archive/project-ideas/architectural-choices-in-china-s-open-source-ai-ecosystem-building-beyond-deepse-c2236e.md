@@ -3,7 +3,7 @@ title: "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyo
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2"
-local_vault_path: "ai\models\architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md"
+local_vault_path: "ai/models/architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md](file:///../../ai\models\architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md)
+Path: [architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md](file:///../../ai/models/architectural-choices-in-china-s-open-source-ai-ecosystem-building-beyond-deepse-c2236e.md)

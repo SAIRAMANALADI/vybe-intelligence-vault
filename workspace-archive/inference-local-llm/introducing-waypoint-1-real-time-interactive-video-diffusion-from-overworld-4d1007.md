@@ -3,7 +3,7 @@ title: "Introducing Waypoint-1: Real-time interactive video diffusion from Overw
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/waypoint-1"
-local_vault_path: "ai\models\introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md"
+local_vault_path: "ai/models/introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1
 
 ## Local Vault File
 
-Path: [introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md](file:///../../ai\models\introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md)
+Path: [introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md](file:///../../ai/models/introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md)

@@ -3,7 +3,7 @@ title: "Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/bloom-inference-pytorch-scripts"
-local_vault_path: "ai\models\incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md"
+local_vault_path: "ai/models/incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-pytorch-scripts
 
 ## Local Vault File
 
-Path: [incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md](file:///../../ai\models\incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md)
+Path: [incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md](file:///../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md)

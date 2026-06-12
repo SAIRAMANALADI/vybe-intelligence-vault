@@ -3,7 +3,7 @@ title: "Accelerate a World of LLMs on Hugging Face with NVIDIA NIM"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/multi-llm-nim"
-local_vault_path: "ai\models\accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md"
+local_vault_path: "ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/multi-llm-nim
 
 ## Local Vault File
 
-Path: [accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md](file:///../../ai\models\accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md)
+Path: [accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md](file:///../../ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nvidia-nim-1aa9a9.md)

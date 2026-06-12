@@ -3,7 +3,7 @@ title: "AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Th
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.02285"
-local_vault_path: "ai\agents\ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md"
+local_vault_path: "ai/agents/ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2602.02285
 
 ## Local Vault File
 
-Path: [ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md](file:///../../ai\agents\ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md)
+Path: [ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md](file:///../../ai/agents/ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md)

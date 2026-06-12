@@ -3,7 +3,7 @@ title: "itsfaqih/fama"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/itsfaqih/fama"
-local_vault_path: "web-development\framer-motion\itsfaqih-fama-ceb0c2.md"
+local_vault_path: "web-development/framer-motion/itsfaqih-fama-ceb0c2.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/itsfaqih/fama
 
 ## Local Vault File
 
-Path: [itsfaqih-fama-ceb0c2.md](file:///../../web-development\framer-motion\itsfaqih-fama-ceb0c2.md)
+Path: [itsfaqih-fama-ceb0c2.md](file:///../../web-development/framer-motion/itsfaqih-fama-ceb0c2.md)

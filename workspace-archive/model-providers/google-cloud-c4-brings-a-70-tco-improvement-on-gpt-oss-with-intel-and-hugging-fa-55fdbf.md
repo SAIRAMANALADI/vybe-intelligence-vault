@@ -3,7 +3,7 @@ title: "Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and H
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gpt-oss-on-intel-xeon"
-local_vault_path: "ai\models\google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md"
+local_vault_path: "ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gpt-oss-on-intel-xeon
 
 ## Local Vault File
 
-Path: [google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md](file:///../../ai\models\google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md)
+Path: [google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md](file:///../../ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt-oss-with-intel-and-hugging-fa-55fdbf.md)

@@ -3,7 +3,7 @@ title: "StarCoder2 and The Stack v2"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/starcoder2"
-local_vault_path: "ai\models\starcoder2-and-the-stack-v2-e0bb6a.md"
+local_vault_path: "ai/models/starcoder2-and-the-stack-v2-e0bb6a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/starcoder2
 
 ## Local Vault File
 
-Path: [starcoder2-and-the-stack-v2-e0bb6a.md](file:///../../ai\models\starcoder2-and-the-stack-v2-e0bb6a.md)
+Path: [starcoder2-and-the-stack-v2-e0bb6a.md](file:///../../ai/models/starcoder2-and-the-stack-v2-e0bb6a.md)

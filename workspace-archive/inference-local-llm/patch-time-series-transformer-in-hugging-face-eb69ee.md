@@ -3,7 +3,7 @@ title: "Patch Time Series Transformer in Hugging Face"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/patchtst"
-local_vault_path: "ai\models\patch-time-series-transformer-in-hugging-face-eb69ee.md"
+local_vault_path: "ai/models/patch-time-series-transformer-in-hugging-face-eb69ee.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/patchtst
 
 ## Local Vault File
 
-Path: [patch-time-series-transformer-in-hugging-face-eb69ee.md](file:///../../ai\models\patch-time-series-transformer-in-hugging-face-eb69ee.md)
+Path: [patch-time-series-transformer-in-hugging-face-eb69ee.md](file:///../../ai/models/patch-time-series-transformer-in-hugging-face-eb69ee.md)

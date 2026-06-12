@@ -3,7 +3,7 @@ title: "Latent Geometric Chords for Query-Efficient Decision-Based Adversarial A
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.31219"
-local_vault_path: "ai\rag\latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md"
+local_vault_path: "ai/rag/latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.31219
 
 ## Local Vault File
 
-Path: [latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md](file:///../../ai\rag\latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md)
+Path: [latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md](file:///../../ai/rag/latent-geometric-chords-for-query-efficient-decision-based-adversarial-attacks-6e8933.md)

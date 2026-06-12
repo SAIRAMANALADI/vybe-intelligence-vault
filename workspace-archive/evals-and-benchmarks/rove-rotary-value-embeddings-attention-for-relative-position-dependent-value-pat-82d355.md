@@ -3,7 +3,7 @@ title: "RoVE: Rotary Value Embeddings Attention for Relative Position-dependent 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11275"
-local_vault_path: "ai\rag\rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md"
+local_vault_path: "ai/rag/rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11275
 
 ## Local Vault File
 
-Path: [rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md](file:///../../ai\rag\rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md)
+Path: [rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md](file:///../../ai/rag/rove-rotary-value-embeddings-attention-for-relative-position-dependent-value-pat-82d355.md)

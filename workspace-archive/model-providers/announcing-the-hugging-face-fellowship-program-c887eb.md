@@ -3,7 +3,7 @@ title: "Announcing the Hugging Face Fellowship Program"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fellowship"
-local_vault_path: "ai\models\announcing-the-hugging-face-fellowship-program-c887eb.md"
+local_vault_path: "ai/models/announcing-the-hugging-face-fellowship-program-c887eb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fellowship
 
 ## Local Vault File
 
-Path: [announcing-the-hugging-face-fellowship-program-c887eb.md](file:///../../ai\models\announcing-the-hugging-face-fellowship-program-c887eb.md)
+Path: [announcing-the-hugging-face-fellowship-program-c887eb.md](file:///../../ai/models/announcing-the-hugging-face-fellowship-program-c887eb.md)

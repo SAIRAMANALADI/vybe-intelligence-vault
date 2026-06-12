@@ -3,7 +3,7 @@ title: "SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Ca
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11304"
-local_vault_path: "ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md"
+local_vault_path: "ai/rag/spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11304
 
 ## Local Vault File
 
-Path: [spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md](file:///../../ai\rag\spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md)
+Path: [spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md](file:///../../ai/rag/spade-split-and-delay-embeddings-for-autoregressive-high-granularity-calorimeter-963d06.md)

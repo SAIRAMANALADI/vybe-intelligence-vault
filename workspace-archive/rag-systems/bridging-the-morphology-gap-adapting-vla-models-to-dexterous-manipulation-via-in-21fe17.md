@@ -3,7 +3,7 @@ title: "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulati
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12109"
-local_vault_path: "ai\rag\bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md"
+local_vault_path: "ai/rag/bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12109
 
 ## Local Vault File
 
-Path: [bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md](file:///../../ai\rag\bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md)
+Path: [bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md](file:///../../ai/rag/bridging-the-morphology-gap-adapting-vla-models-to-dexterous-manipulation-via-in-21fe17.md)

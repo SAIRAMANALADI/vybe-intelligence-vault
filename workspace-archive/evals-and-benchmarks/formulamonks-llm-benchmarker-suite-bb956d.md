@@ -3,7 +3,7 @@ title: "FormulaMonks/llm-benchmarker-suite"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/FormulaMonks/llm-benchmarker-suite"
-local_vault_path: "ai\resources\formulamonks-llm-benchmarker-suite-bb956d.md"
+local_vault_path: "ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/FormulaMonks/llm-benchmarker-suite
 
 ## Local Vault File
 
-Path: [formulamonks-llm-benchmarker-suite-bb956d.md](file:///../../ai\resources\formulamonks-llm-benchmarker-suite-bb956d.md)
+Path: [formulamonks-llm-benchmarker-suite-bb956d.md](file:///../../ai/resources/formulamonks-llm-benchmarker-suite-bb956d.md)

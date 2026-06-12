@@ -3,7 +3,7 @@ title: "Student Ambassador Program’s call for applications is open!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ambassadors"
-local_vault_path: "ai\models\student-ambassador-programs-call-for-applications-is-open-d61876.md"
+local_vault_path: "ai/models/student-ambassador-programs-call-for-applications-is-open-d61876.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ambassadors
 
 ## Local Vault File
 
-Path: [student-ambassador-programs-call-for-applications-is-open-d61876.md](file:///../../ai\models\student-ambassador-programs-call-for-applications-is-open-d61876.md)
+Path: [student-ambassador-programs-call-for-applications-is-open-d61876.md](file:///../../ai/models/student-ambassador-programs-call-for-applications-is-open-d61876.md)

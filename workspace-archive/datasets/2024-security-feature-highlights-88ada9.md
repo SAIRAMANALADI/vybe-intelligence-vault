@@ -3,7 +3,7 @@ title: "2024 Security Feature Highlights"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/2024-security-features"
-local_vault_path: "ai\models\2024-security-feature-highlights-88ada9.md"
+local_vault_path: "ai/models/2024-security-feature-highlights-88ada9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai\models\2024-security-feature-highlights-88ada9.md)
+Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai/models/2024-security-feature-highlights-88ada9.md)

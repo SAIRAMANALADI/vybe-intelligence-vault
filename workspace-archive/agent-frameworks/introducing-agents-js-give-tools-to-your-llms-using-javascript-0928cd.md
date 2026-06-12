@@ -3,7 +3,7 @@ title: "Introducing Agents.js: Give tools to your LLMs using JavaScript"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/agents-js"
-local_vault_path: "ai\agents\introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md"
+local_vault_path: "ai/agents/introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/agents-js
 
 ## Local Vault File
 
-Path: [introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md](file:///../../ai\agents\introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md)
+Path: [introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md](file:///../../ai/agents/introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md)

@@ -3,7 +3,7 @@ title: "wolfwind521/indoor3D"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/wolfwind521/indoor3D"
-local_vault_path: "web-development\threejs\wolfwind521-indoor3d-4def36.md"
+local_vault_path: "web-development/threejs/wolfwind521-indoor3d-4def36.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/wolfwind521/indoor3D
 
 ## Local Vault File
 
-Path: [wolfwind521-indoor3d-4def36.md](file:///../../web-development\threejs\wolfwind521-indoor3d-4def36.md)
+Path: [wolfwind521-indoor3d-4def36.md](file:///../../web-development/threejs/wolfwind521-indoor3d-4def36.md)

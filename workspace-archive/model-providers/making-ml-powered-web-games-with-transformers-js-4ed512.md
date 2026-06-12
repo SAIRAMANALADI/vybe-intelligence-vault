@@ -3,7 +3,7 @@ title: "Making ML-powered web games with Transformers.js"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ml-web-games"
-local_vault_path: "ai\models\making-ml-powered-web-games-with-transformers-js-4ed512.md"
+local_vault_path: "ai/models/making-ml-powered-web-games-with-transformers-js-4ed512.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ml-web-games
 
 ## Local Vault File
 
-Path: [making-ml-powered-web-games-with-transformers-js-4ed512.md](file:///../../ai\models\making-ml-powered-web-games-with-transformers-js-4ed512.md)
+Path: [making-ml-powered-web-games-with-transformers-js-4ed512.md](file:///../../ai/models/making-ml-powered-web-games-with-transformers-js-4ed512.md)

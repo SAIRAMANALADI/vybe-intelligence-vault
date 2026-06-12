@@ -3,7 +3,7 @@ title: "Case Study: Millisecond Latency using Hugging Face Infinity and modern C
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/infinity-cpu-performance"
-local_vault_path: "ai\models\case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md"
+local_vault_path: "ai/models/case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/infinity-cpu-performance
 
 ## Local Vault File
 
-Path: [case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md](file:///../../ai\models\case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md)
+Path: [case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md](file:///../../ai/models/case-study-millisecond-latency-using-hugging-face-infinity-and-modern-cpus-a57d1e.md)

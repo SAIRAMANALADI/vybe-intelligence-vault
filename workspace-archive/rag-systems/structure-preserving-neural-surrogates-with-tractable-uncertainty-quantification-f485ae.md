@@ -3,7 +3,7 @@ title: "Structure-Preserving Neural Surrogates with Tractable Uncertainty Quanti
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11650"
-local_vault_path: "ai\research\structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md"
+local_vault_path: "ai/research/structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11650
 
 ## Local Vault File
 
-Path: [structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md](file:///../../ai\research\structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md)
+Path: [structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md](file:///../../ai/research/structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md)

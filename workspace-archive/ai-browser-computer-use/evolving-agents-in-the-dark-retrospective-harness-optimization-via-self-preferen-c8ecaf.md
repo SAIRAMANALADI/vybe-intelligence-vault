@@ -3,7 +3,7 @@ title: "Evolving Agents in the Dark: Retrospective Harness Optimization via Self
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.05922"
-local_vault_path: "ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md"
+local_vault_path: "ai/agents/evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.05922
 
 ## Local Vault File
 
-Path: [evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md)
+Path: [evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md](file:///../../ai/agents/evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md)

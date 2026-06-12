@@ -3,7 +3,7 @@ title: "What is RAG? - Retrieval-Augmented Generation AI Explained - AWS"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://aws.amazon.com/what-is/retrieval-augmented-generation"
-local_vault_path: "ai\rag\what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md"
+local_vault_path: "ai/rag/what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://aws.amazon.com/what-is/retrieval-augmented-generati
 
 ## Local Vault File
 
-Path: [what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md](file:///../../ai\rag\what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md)
+Path: [what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md](file:///../../ai/rag/what-is-rag-retrieval-augmented-generation-ai-explained-aws-3f6b26.md)

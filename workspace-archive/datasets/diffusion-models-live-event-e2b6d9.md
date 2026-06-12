@@ -3,7 +3,7 @@ title: "Diffusion Models Live Event"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/diffusion-models-event"
-local_vault_path: "ai\models\diffusion-models-live-event-e2b6d9.md"
+local_vault_path: "ai/models/diffusion-models-live-event-e2b6d9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [diffusion-models-live-event-e2b6d9.md](file:///../../ai\models\diffusion-models-live-event-e2b6d9.md)
+Path: [diffusion-models-live-event-e2b6d9.md](file:///../../ai/models/diffusion-models-live-event-e2b6d9.md)

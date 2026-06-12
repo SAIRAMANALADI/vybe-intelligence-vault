@@ -3,7 +3,7 @@ title: "sumanth-dhanya/llm-toolkit"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/sumanth-dhanya/llm-toolkit"
-local_vault_path: "ai\agents\sumanth-dhanya-llm-toolkit-ddb9b7.md"
+local_vault_path: "ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/sumanth-dhanya/llm-toolkit
 
 ## Local Vault File
 
-Path: [sumanth-dhanya-llm-toolkit-ddb9b7.md](file:///../../ai\agents\sumanth-dhanya-llm-toolkit-ddb9b7.md)
+Path: [sumanth-dhanya-llm-toolkit-ddb9b7.md](file:///../../ai/agents/sumanth-dhanya-llm-toolkit-ddb9b7.md)

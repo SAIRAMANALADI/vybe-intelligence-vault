@@ -3,7 +3,7 @@ title: "Improving Detection of Rare Nodes in Hierarchical Multi-Label Learning"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.08986"
-local_vault_path: "ai\rag\improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md"
+local_vault_path: "ai/rag/improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.08986
 
 ## Local Vault File
 
-Path: [improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md](file:///../../ai\rag\improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md)
+Path: [improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md](file:///../../ai/rag/improving-detection-of-rare-nodes-in-hierarchical-multi-label-learning-d9cda7.md)

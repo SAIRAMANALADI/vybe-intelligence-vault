@@ -3,7 +3,7 @@ title: "Projected random forests and conformal prediction of circular data"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2410.24145"
-local_vault_path: "ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md"
+local_vault_path: "ai/rag/projected-random-forests-and-conformal-prediction-of-circular-data-081521.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2410.24145
 
 ## Local Vault File
 
-Path: [projected-random-forests-and-conformal-prediction-of-circular-data-081521.md](file:///../../ai\rag\projected-random-forests-and-conformal-prediction-of-circular-data-081521.md)
+Path: [projected-random-forests-and-conformal-prediction-of-circular-data-081521.md](file:///../../ai/rag/projected-random-forests-and-conformal-prediction-of-circular-data-081521.md)

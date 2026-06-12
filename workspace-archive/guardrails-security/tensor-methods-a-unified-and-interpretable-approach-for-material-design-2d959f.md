@@ -3,7 +3,7 @@ title: "Tensor Methods: A Unified and Interpretable Approach for Material Design
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10392"
-local_vault_path: "ai\research\tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md"
+local_vault_path: "ai/research/tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.10392
 
 ## Local Vault File
 
-Path: [tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md](file:///../../ai\research\tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md)
+Path: [tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md](file:///../../ai/research/tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md)

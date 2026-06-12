@@ -3,7 +3,7 @@ title: "Mechanical Field Networks: Structured Neural Dynamics for Multivariate S
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11251"
-local_vault_path: "ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md"
+local_vault_path: "ai/research/mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11251
 
 ## Local Vault File
 
-Path: [mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md](file:///../../ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md)
+Path: [mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md](file:///../../ai/research/mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md)

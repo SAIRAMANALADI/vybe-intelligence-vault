@@ -3,7 +3,7 @@ title: "Welcome PaddlePaddle to the Hugging Face Hub"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/paddlepaddle"
-local_vault_path: "ai\models\welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md"
+local_vault_path: "ai/models/welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md](file:///../../ai\models\welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md)
+Path: [welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md](file:///../../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md)

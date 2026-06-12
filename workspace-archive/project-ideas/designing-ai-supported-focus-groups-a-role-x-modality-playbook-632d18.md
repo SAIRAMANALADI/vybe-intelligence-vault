@@ -3,7 +3,7 @@ title: "Designing AI-Supported Focus Groups: A Role x Modality Playbook"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11835"
-local_vault_path: "ai\research\designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md"
+local_vault_path: "ai/research/designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11835
 
 ## Local Vault File
 
-Path: [designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md](file:///../../ai\research\designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md)
+Path: [designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md](file:///../../ai/research/designing-ai-supported-focus-groups-a-role-x-modality-playbook-632d18.md)

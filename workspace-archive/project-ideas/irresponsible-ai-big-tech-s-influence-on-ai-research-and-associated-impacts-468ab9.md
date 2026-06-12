@@ -3,7 +3,7 @@ title: "Irresponsible AI: big tech's influence on AI research and associated imp
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.03077"
-local_vault_path: "ai\research\irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md"
+local_vault_path: "ai/research/irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2512.03077
 
 ## Local Vault File
 
-Path: [irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md](file:///../../ai\research\irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md)
+Path: [irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md](file:///../../ai/research/irresponsible-ai-big-tech-s-influence-on-ai-research-and-associated-impacts-468ab9.md)

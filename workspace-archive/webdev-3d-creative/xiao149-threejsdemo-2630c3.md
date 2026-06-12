@@ -3,7 +3,7 @@ title: "xiao149/ThreeJsDemo"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/xiao149/ThreeJsDemo"
-local_vault_path: "web-development\threejs\xiao149-threejsdemo-2630c3.md"
+local_vault_path: "web-development/threejs/xiao149-threejsdemo-2630c3.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/xiao149/ThreeJsDemo
 
 ## Local Vault File
 
-Path: [xiao149-threejsdemo-2630c3.md](file:///../../web-development\threejs\xiao149-threejsdemo-2630c3.md)
+Path: [xiao149-threejsdemo-2630c3.md](file:///../../web-development/threejs/xiao149-threejsdemo-2630c3.md)

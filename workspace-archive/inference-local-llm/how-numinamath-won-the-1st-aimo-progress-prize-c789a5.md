@@ -3,7 +3,7 @@ title: "How NuminaMath Won the 1st AIMO Progress Prize"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/winning-aimo-progress-prize"
-local_vault_path: "ai\models\how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md"
+local_vault_path: "ai/models/how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/winning-aimo-progress-prize
 
 ## Local Vault File
 
-Path: [how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md](file:///../../ai\models\how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md)
+Path: [how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md](file:///../../ai/models/how-numinamath-won-the-1st-aimo-progress-prize-c789a5.md)

@@ -1,0 +1,47 @@
+---
+title: "Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories"
+archive_category: "ai-coding-agents"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.13298"
+local_vault_path: "ai/agents/mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+tags:
+  - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13298v1 Announce Type: cross 
+Abstract: AI coding tools are now used by a majority of developers, and agentic use of these tools has popularized the practice colloquially called "vibe coding". Yet causal evidence on their effect on software architecture is scarce. Prior causal work has measured code-level outcomes (complexity, static analysis warnings); whether such degradation propagates to architecture-level outcomes remains unknown. We mine 151 open-source Java repositories, 74 wit
+
+## Use Cases
+
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13298
+
+## Local Vault File
+
+Path: [mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md](file:///../../ai/agents/mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md)

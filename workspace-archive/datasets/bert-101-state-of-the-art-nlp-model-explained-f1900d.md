@@ -3,7 +3,7 @@ title: "BERT 101 - State Of The Art NLP Model Explained"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/bert-101"
-local_vault_path: "ai\models\bert-101-state-of-the-art-nlp-model-explained-f1900d.md"
+local_vault_path: "ai/models/bert-101-state-of-the-art-nlp-model-explained-f1900d.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/bert-101
 
 ## Local Vault File
 
-Path: [bert-101-state-of-the-art-nlp-model-explained-f1900d.md](file:///../../ai\models\bert-101-state-of-the-art-nlp-model-explained-f1900d.md)
+Path: [bert-101-state-of-the-art-nlp-model-explained-f1900d.md](file:///../../ai/models/bert-101-state-of-the-art-nlp-model-explained-f1900d.md)

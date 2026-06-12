@@ -3,7 +3,7 @@ title: "When Context Returns: Toward Robust Internalization in On-Policy Distill
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11627"
-local_vault_path: "ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
+local_vault_path: "ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11627
 
 ## Local Vault File
 
-Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)
+Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)

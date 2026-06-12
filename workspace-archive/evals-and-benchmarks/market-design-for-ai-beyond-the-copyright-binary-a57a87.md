@@ -3,7 +3,7 @@ title: "Market Design for AI: Beyond the Copyright Binary"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12260"
-local_vault_path: "ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md"
+local_vault_path: "ai/research/market-design-for-ai-beyond-the-copyright-binary-a57a87.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12260
 
 ## Local Vault File
 
-Path: [market-design-for-ai-beyond-the-copyright-binary-a57a87.md](file:///../../ai\research\market-design-for-ai-beyond-the-copyright-binary-a57a87.md)
+Path: [market-design-for-ai-beyond-the-copyright-binary-a57a87.md](file:///../../ai/research/market-design-for-ai-beyond-the-copyright-binary-a57a87.md)

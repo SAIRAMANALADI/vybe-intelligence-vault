@@ -1,0 +1,45 @@
+---
+title: Emotional regulation improves deep learning-based image classification
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.13081
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.483631+00:00'
+tags:
+- benchmark
+- dataset
+- rag
+status: new
+---
+
+# Emotional regulation improves deep learning-based image classification
+
+## Summary
+
+arXiv:2606.13081v1 Announce Type: cross 
+Abstract: Emotion significantly influences cognition, enhancing memory and learning under certain conditions. Drawing on this principle, emotion-augmented deep learning investigates how affective states can improve neural network architectures and learning paradigms, achieving better generalization than non-emotional models. However, existing methods often rely solely on objective neurophysiological factors, neglecting the role of subjectivity in emotion. To bridge this gap, the present study introduces Emotional Regulation, a novel framework for modeling emotion in deep learning through artificial subjective experience. The method employs pre-training based on affective stimuli, balancing non-emotional and emotionally-influenced responses in downstream task optimization. Extensive experimentation was conducted in image classification, pre-training ResNet and ViT architectures on four emotional datasets, using CIFAR-10 and -100 as target benchmarks. Results reveal improvements over the aforementioned backbones, providing evidence of Emotional Regulation as a promising method for defining emotion-augmented deep learning through artificial subjective experience. Furthermore, the proposed approach overcomes the related work in image classification based on CIFAR, revealing Emotional Regulation as the new state-of-the-art in emotion-augmented deep learning for large-scale vision datasets. The study also enforces evidence of the impact of affective states in improving machine learning tasks' optimization, encouraging further investigation on emotion-inspired architectures.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.13081
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- benchmark
+- dataset
+- rag

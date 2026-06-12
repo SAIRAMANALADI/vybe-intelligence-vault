@@ -3,7 +3,7 @@ title: "Red-Teaming Large Language Models"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/red-teaming"
-local_vault_path: "ai\models\red-teaming-large-language-models-575417.md"
+local_vault_path: "ai/models/red-teaming-large-language-models-575417.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/red-teaming
 
 ## Local Vault File
 
-Path: [red-teaming-large-language-models-575417.md](file:///../../ai\models\red-teaming-large-language-models-575417.md)
+Path: [red-teaming-large-language-models-575417.md](file:///../../ai/models/red-teaming-large-language-models-575417.md)

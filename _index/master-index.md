@@ -4,15 +4,15 @@ Welcome to your private local Intelligence Vault.
 
 ## AI
 
-- **ai/agents**: 195 files
-- **ai/community**: 18 files
+- **ai/agents**: 279 files
+- **ai/community**: 22 files
 - **ai/companies/anthropic**: 9 files
 - **ai/companies/deepmind**: 10 files
 - **ai/companies/mistral**: 10 files
 - **ai/companies/openai**: 4 files
-- **ai/models**: 734 files
-- **ai/rag**: 312 files
-- **ai/research**: 301 files
+- **ai/models**: 735 files
+- **ai/rag**: 423 files
+- **ai/research**: 433 files
 - **ai/resources**: 25 files
 
 ## Web Development
@@ -23,9 +23,9 @@ Welcome to your private local Intelligence Vault.
 - **web-development/react-three-fiber**: 24 files
 - **web-development/shadcn-ui**: 25 files
 - **web-development/tailwind**: 1 files
-- **web-development/threejs**: 28 files
+- **web-development/threejs**: 25 files
 - **web-development/webgl**: 1 files
-- **web-development/webgpu**: 26 files
+- **web-development/webgpu**: 25 files
 
 ## Automation
 
@@ -54,4 +54,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-06-12T04:38:15.240584+00:00*
+*Index generated on 2026-06-12T05:04:26.394324+00:00*

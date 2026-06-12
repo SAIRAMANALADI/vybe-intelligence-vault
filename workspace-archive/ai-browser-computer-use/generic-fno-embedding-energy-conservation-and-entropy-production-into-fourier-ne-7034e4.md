@@ -3,7 +3,7 @@ title: "GENERIC-FNO: Embedding Energy Conservation and Entropy Production into F
 archive_category: "ai-browser-computer-use"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08343"
-local_vault_path: "ai\research\generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md"
+local_vault_path: "ai/research/generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.08343
 
 ## Local Vault File
 
-Path: [generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md](file:///../../ai\research\generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md)
+Path: [generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md](file:///../../ai/research/generic-fno-embedding-energy-conservation-and-entropy-production-into-fourier-ne-7034e4.md)

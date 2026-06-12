@@ -3,7 +3,7 @@ title: "Every Act Has Its Price: Compressed Moral Composition in Frontier LLMs"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11232"
-local_vault_path: "ai\research\every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md"
+local_vault_path: "ai/research/every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11232
 
 ## Local Vault File
 
-Path: [every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md](file:///../../ai\research\every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md)
+Path: [every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md](file:///../../ai/research/every-act-has-its-price-compressed-moral-composition-in-frontier-llms-452b1f.md)

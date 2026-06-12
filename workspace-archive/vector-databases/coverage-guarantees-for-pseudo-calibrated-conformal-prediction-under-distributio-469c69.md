@@ -3,7 +3,7 @@ title: "Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Dis
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.14913"
-local_vault_path: "ai\rag\coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md"
+local_vault_path: "ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.14913
 
 ## Local Vault File
 
-Path: [coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md](file:///../../ai\rag\coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md)
+Path: [coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md](file:///../../ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md)

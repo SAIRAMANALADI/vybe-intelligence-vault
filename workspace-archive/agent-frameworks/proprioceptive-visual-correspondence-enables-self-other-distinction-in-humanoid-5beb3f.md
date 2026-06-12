@@ -1,0 +1,47 @@
+---
+title: "Proprioceptive-visual correspondence enables self-other distinction in humanoid robots"
+archive_category: "agent-frameworks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.13222"
+local_vault_path: "ai/agents/proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - agents
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Proprioceptive-visual correspondence enables self-other distinction in humanoid robots
+
+## Why This Is In The Archive
+
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13222v1 Announce Type: cross 
+Abstract: Distinguishing self from others is a prerequisite for social intelligence, yet humanoid robots that increasingly share workspaces with humans still lack this ability. Here we show that a humanoid robot can learn self-other distinction from proprioceptive-visual correspondence, without any identity labels or kinematic models. Once established, this distinction bootstraps a predictive self-model that maps joint configurations to three-dimensional
+
+## Use Cases
+
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13222
+
+## Local Vault File
+
+Path: [proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md](file:///../../ai/agents/proprioceptive-visual-correspondence-enables-self-other-distinction-in-humanoid-5beb3f.md)

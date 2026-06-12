@@ -3,7 +3,7 @@ title: "Efficient Time Series Clustering from Multiscale Reservoir Dynamics with
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12077"
-local_vault_path: "ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md"
+local_vault_path: "ai/research/efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12077
 
 ## Local Vault File
 
-Path: [efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md](file:///../../ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md)
+Path: [efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md](file:///../../ai/research/efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md)

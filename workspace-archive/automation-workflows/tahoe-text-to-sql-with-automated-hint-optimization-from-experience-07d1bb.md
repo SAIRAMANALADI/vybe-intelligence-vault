@@ -3,7 +3,7 @@ title: "TAHOE: Text-to-SQL with Automated Hint Optimization from Experience"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12387"
-local_vault_path: "ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md"
+local_vault_path: "ai/rag/tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12387
 
 ## Local Vault File
 
-Path: [tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md](file:///../../ai\rag\tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md)
+Path: [tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md](file:///../../ai/rag/tahoe-text-to-sql-with-automated-hint-optimization-from-experience-07d1bb.md)

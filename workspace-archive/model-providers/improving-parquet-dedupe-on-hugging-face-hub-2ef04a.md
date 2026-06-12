@@ -3,7 +3,7 @@ title: "Improving Parquet Dedupe on Hugging Face Hub"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/improve_parquet_dedupe"
-local_vault_path: "ai\models\improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md"
+local_vault_path: "ai/models/improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/improve_parquet_dedupe
 
 ## Local Vault File
 
-Path: [improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md](file:///../../ai\models\improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md)
+Path: [improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md](file:///../../ai/models/improving-parquet-dedupe-on-hugging-face-hub-2ef04a.md)

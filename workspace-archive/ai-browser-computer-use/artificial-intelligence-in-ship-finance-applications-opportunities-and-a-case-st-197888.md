@@ -3,7 +3,7 @@ title: "Artificial Intelligence in Ship Finance: Applications, Opportunities, an
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11238"
-local_vault_path: "ai\agents\artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md"
+local_vault_path: "ai/agents/artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11238
 
 ## Local Vault File
 
-Path: [artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md](file:///../../ai\agents\artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md)
+Path: [artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md](file:///../../ai/agents/artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md)

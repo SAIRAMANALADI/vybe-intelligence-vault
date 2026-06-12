@@ -3,7 +3,7 @@ title: "What is retrieval-augmented generation, and what does it do for generati
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai"
-local_vault_path: "ai\rag\what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md"
+local_vault_path: "ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.blog/ai-and-ml/generative-ai/what-is-retriev
 
 ## Local Vault File
 
-Path: [what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md](file:///../../ai\rag\what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md)
+Path: [what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md](file:///../../ai/rag/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai-the-3ed850.md)

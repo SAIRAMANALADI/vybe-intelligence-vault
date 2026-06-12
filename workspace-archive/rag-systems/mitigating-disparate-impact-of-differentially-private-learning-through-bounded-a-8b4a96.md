@@ -3,7 +3,7 @@ title: "Mitigating Disparate Impact of Differentially Private Learning through B
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2506.01396"
-local_vault_path: "ai\research\mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md"
+local_vault_path: "ai/research/mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2506.01396
 
 ## Local Vault File
 
-Path: [mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md](file:///../../ai\research\mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md)
+Path: [mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md](file:///../../ai/research/mitigating-disparate-impact-of-differentially-private-learning-through-bounded-a-8b4a96.md)

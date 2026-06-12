@@ -3,7 +3,7 @@ title: "From Awareness to Action: Understanding and Overcoming the Research-Prac
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11214"
-local_vault_path: "ai\rag\from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md"
+local_vault_path: "ai/rag/from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11214
 
 ## Local Vault File
 
-Path: [from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md](file:///../../ai\rag\from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md)
+Path: [from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md](file:///../../ai/rag/from-awareness-to-action-understanding-and-overcoming-the-research-practice-gap-c41499.md)

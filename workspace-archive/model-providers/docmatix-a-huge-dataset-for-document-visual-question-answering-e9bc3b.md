@@ -3,7 +3,7 @@ title: "Docmatix - a huge dataset for Document Visual Question Answering"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/docmatix"
-local_vault_path: "ai\models\docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md"
+local_vault_path: "ai/models/docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/docmatix
 
 ## Local Vault File
 
-Path: [docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md](file:///../../ai\models\docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md)
+Path: [docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md](file:///../../ai/models/docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md)

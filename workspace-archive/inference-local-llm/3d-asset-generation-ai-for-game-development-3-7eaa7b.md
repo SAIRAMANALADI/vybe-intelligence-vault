@@ -3,7 +3,7 @@ title: "3D Asset Generation: AI for Game Development #3"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ml-for-games-3"
-local_vault_path: "ai\models\3d-asset-generation-ai-for-game-development-3-7eaa7b.md"
+local_vault_path: "ai/models/3d-asset-generation-ai-for-game-development-3-7eaa7b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-3
 
 ## Local Vault File
 
-Path: [3d-asset-generation-ai-for-game-development-3-7eaa7b.md](file:///../../ai\models\3d-asset-generation-ai-for-game-development-3-7eaa7b.md)
+Path: [3d-asset-generation-ai-for-game-development-3-7eaa7b.md](file:///../../ai/models/3d-asset-generation-ai-for-game-development-3-7eaa7b.md)

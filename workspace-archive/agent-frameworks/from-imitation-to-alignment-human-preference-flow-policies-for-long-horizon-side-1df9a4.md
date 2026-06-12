@@ -1,0 +1,45 @@
+---
+title: "From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation"
+archive_category: "agent-frameworks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.12603"
+local_vault_path: "ai/agents/from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md"
+quality_score: 70
+archive_score: 80
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+tags:
+  - agents
+selection_reason:
+  - "Useful for project building"
+---
+
+# From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation
+
+## Why This Is In The Archive
+
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 80 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.12603v1 Announce Type: cross 
+Abstract: Autonomous long-horizon sidewalk navigation is essential for micro-mobility applications such as robotic food delivery and assistive electronic wheelchairs. Unlike autonomous driving on the road, long-horizon sidewalk navigation requires precise maneuvering through unpredictable sidewalk terrains and pedestrians, with a lightweight perception stack as minimal as a single monocular RGB camera. While imitation learning (IL) from demonstrations off
+
+## Use Cases
+
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.12603
+
+## Local Vault File
+
+Path: [from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md](file:///../../ai/agents/from-imitation-to-alignment-human-preference-flow-policies-for-long-horizon-side-1df9a4.md)

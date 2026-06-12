@@ -3,7 +3,7 @@ title: "AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11751"
-local_vault_path: "ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md"
+local_vault_path: "ai/rag/anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11751
 
 ## Local Vault File
 
-Path: [anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md](file:///../../ai\rag\anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md)
+Path: [anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md](file:///../../ai/rag/anchoredit-maintaining-temporal-consistency-in-multi-turn-image-editing-via-caus-b3546d.md)

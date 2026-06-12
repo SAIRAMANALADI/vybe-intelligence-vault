@@ -3,7 +3,7 @@ title: "FinTradeBench: A Financial Reasoning Benchmark for LLMs"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.19225"
-local_vault_path: "ai\rag\fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md"
+local_vault_path: "ai/rag/fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.19225
 
 ## Local Vault File
 
-Path: [fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md](file:///../../ai\rag\fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md)
+Path: [fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md](file:///../../ai/rag/fintradebench-a-financial-reasoning-benchmark-for-llms-343f94.md)

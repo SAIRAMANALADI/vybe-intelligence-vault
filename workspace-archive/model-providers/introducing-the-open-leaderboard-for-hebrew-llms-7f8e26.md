@@ -3,7 +3,7 @@ title: "Introducing the Open Leaderboard for Hebrew LLMs!"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-hebrew"
-local_vault_path: "ai\models\introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md"
+local_vault_path: "ai/models/introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hebrew
 
 ## Local Vault File
 
-Path: [introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md](file:///../../ai\models\introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md)
+Path: [introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md](file:///../../ai/models/introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md)

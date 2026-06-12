@@ -3,7 +3,7 @@ title: "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR o
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/code-switching"
-local_vault_path: "ai\agents\can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md"
+local_vault_path: "ai/agents/can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/code-switching
 
 ## Local Vault File
 
-Path: [can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md](file:///../../ai\agents\can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md)
+Path: [can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md](file:///../../ai/agents/can-voice-agents-handle-bilingual-customers-benchmarking-frontier-asr-on-code-sw-92ac31.md)

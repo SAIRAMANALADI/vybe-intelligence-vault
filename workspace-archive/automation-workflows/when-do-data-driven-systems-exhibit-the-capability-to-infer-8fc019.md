@@ -3,7 +3,7 @@ title: "When Do Data-Driven Systems Exhibit the Capability to Infer?"
 archive_category: "automation-workflows"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11769"
-local_vault_path: "ai\research\when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md"
+local_vault_path: "ai/research/when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11769
 
 ## Local Vault File
 
-Path: [when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md](file:///../../ai\research\when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md)
+Path: [when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md](file:///../../ai/research/when-do-data-driven-systems-exhibit-the-capability-to-infer-8fc019.md)

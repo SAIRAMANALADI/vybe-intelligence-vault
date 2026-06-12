@@ -3,7 +3,7 @@ title: "Hugging Face and AMD partner on accelerating state-of-the-art models for
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface-and-amd"
-local_vault_path: "ai\models\hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md"
+local_vault_path: "ai/models/hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-amd
 
 ## Local Vault File
 
-Path: [hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md](file:///../../ai\models\hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md)
+Path: [hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md](file:///../../ai/models/hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md)

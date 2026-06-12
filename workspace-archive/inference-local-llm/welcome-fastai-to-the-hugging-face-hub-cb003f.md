@@ -3,7 +3,7 @@ title: "Welcome fastai to the Hugging Face Hub"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fastai"
-local_vault_path: "ai\models\welcome-fastai-to-the-hugging-face-hub-cb003f.md"
+local_vault_path: "ai/models/welcome-fastai-to-the-hugging-face-hub-cb003f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai\models\welcome-fastai-to-the-hugging-face-hub-cb003f.md)
+Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai/models/welcome-fastai-to-the-hugging-face-hub-cb003f.md)

@@ -3,7 +3,7 @@ title: "Generate Images with Claude and Hugging Face"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/claude-and-mcp"
-local_vault_path: "ai\models\generate-images-with-claude-and-hugging-face-353041.md"
+local_vault_path: "ai/models/generate-images-with-claude-and-hugging-face-353041.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/claude-and-mcp
 
 ## Local Vault File
 
-Path: [generate-images-with-claude-and-hugging-face-353041.md](file:///../../ai\models\generate-images-with-claude-and-hugging-face-353041.md)
+Path: [generate-images-with-claude-and-hugging-face-353041.md](file:///../../ai/models/generate-images-with-claude-and-hugging-face-353041.md)

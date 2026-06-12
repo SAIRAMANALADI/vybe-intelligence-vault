@@ -3,7 +3,7 @@ title: "Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/rocketmoney-case-study"
-local_vault_path: "ai\models\rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md"
+local_vault_path: "ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/rocketmoney-case-study
 
 ## Local Vault File
 
-Path: [rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md](file:///../../ai\models\rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md)
+Path: [rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md](file:///../../ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-models-in-production-9101e3.md)

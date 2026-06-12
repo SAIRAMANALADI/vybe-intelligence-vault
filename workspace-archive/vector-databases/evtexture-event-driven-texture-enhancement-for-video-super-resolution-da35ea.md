@@ -1,0 +1,48 @@
+---
+title: "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution"
+archive_category: "vector-databases"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.13580"
+local_vault_path: "ai/rag/evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - dataset
+  - paper
+  - rag
+  - youtube
+selection_reason:
+  - "Useful for project building"
+---
+
+# EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution
+
+## Why This Is In The Archive
+
+- Matched archive category: `Vector Databases`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13580v1 Announce Type: cross 
+Abstract: Event-based vision has drawn increasing attention owing to its distinctive properties, including ultra-high temporal resolution and extreme dynamic range. Recent works have introduced it to video super-resolution (VSR) to enhance flow estimation and temporal alignment. In contrast, this paper shifts the focus of event signals from motion refinement to texture enhancement in VSR. We propose EvTexture++, the first event-driven framework dedicated
+
+## Use Cases
+
+- Semantic search store
+- Document embedding indices
+- Memory vector caches
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13580
+
+## Local Vault File
+
+Path: [evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md](file:///../../ai/rag/evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md)

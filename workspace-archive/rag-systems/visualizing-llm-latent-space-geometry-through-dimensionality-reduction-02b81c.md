@@ -3,7 +3,7 @@ title: "Visualizing LLM Latent Space Geometry Through Dimensionality Reduction"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.21594"
-local_vault_path: "ai\rag\visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md"
+local_vault_path: "ai/rag/visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2511.21594
 
 ## Local Vault File
 
-Path: [visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md](file:///../../ai\rag\visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md)
+Path: [visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md](file:///../../ai/rag/visualizing-llm-latent-space-geometry-through-dimensionality-reduction-02b81c.md)

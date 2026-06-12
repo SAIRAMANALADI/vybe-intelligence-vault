@@ -3,7 +3,7 @@ title: "Subscribe to Enterprise Hub with your AWS Account"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/enterprise-hub-aws-marketplace"
-local_vault_path: "ai\models\subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md"
+local_vault_path: "ai/models/subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 
 ## Local Vault File
 
-Path: [subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md](file:///../../ai\models\subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md)
+Path: [subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md](file:///../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md)

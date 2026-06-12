@@ -1,0 +1,44 @@
+---
+title: 'Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research
+  Agenda'
+category: ai/agents
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.13405
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.481861+00:00'
+tags:
+- agents
+- scripts
+status: new
+---
+
+# Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda
+
+## Summary
+
+arXiv:2606.13405v1 Announce Type: new 
+Abstract: LLM-based agents are entering regulated industries where they automate judgment intensive quality management processes. We argue that symbolic structures already embedded in these domains, including regulations, typed process models, and compliance constraints, should be treated not merely as external monitoring mechanisms but as core architectural components that shape the agent's decision-making and behavior. We propose compliance-by-construction as a complementary paradigm to guardrail-based monitoring: a structural foundation that prevents control-flow violations, while guardrails remain essential for catching semantic errors. We identify a structured set of neuro-symbolic research challenges on foundational and capability level and show that addressing them jointly enables compliance-by-construction. We call on the neuro-symbolic community to engage with regulated process automation as a high impact research domain.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.13405
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- agents
+- scripts

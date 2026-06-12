@@ -3,7 +3,7 @@ title: "Sparsified Kolmogorov-Arnold Networks for Interpretable Quantum State To
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11814"
-local_vault_path: "ai\research\sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md"
+local_vault_path: "ai/research/sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11814
 
 ## Local Vault File
 
-Path: [sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md](file:///../../ai\research\sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md)
+Path: [sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md](file:///../../ai/research/sparsified-kolmogorov-arnold-networks-for-interpretable-quantum-state-tomography-4da854.md)

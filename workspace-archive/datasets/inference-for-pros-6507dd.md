@@ -3,7 +3,7 @@ title: "Inference for PROs"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-pro"
-local_vault_path: "ai\models\inference-for-pros-6507dd.md"
+local_vault_path: "ai/models/inference-for-pros-6507dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: [inference-for-pros-6507dd.md](file:///../../ai\models\inference-for-pros-6507dd.md)
+Path: [inference-for-pros-6507dd.md](file:///../../ai/models/inference-for-pros-6507dd.md)

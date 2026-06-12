@@ -3,7 +3,7 @@ title: "Integral Formulation of QENDy for Robust Nonlinear System Identification
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11629"
-local_vault_path: "ai\research\integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md"
+local_vault_path: "ai/research/integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11629
 
 ## Local Vault File
 
-Path: [integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md](file:///../../ai\research\integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md)
+Path: [integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md](file:///../../ai/research/integral-formulation-of-qendy-for-robust-nonlinear-system-identification-ce4d40.md)

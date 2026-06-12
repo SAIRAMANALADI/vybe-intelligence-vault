@@ -3,7 +3,7 @@ title: "Experience Makes Skillful: Enabling Generalizable Medical Agent Reasonin
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.09365"
-local_vault_path: "ai\agents\experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md"
+local_vault_path: "ai/agents/experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.09365
 
 ## Local Vault File
 
-Path: [experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md](file:///../../ai\agents\experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md)
+Path: [experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md](file:///../../ai/agents/experience-makes-skillful-enabling-generalizable-medical-agent-reasoning-via-sel-d120bd.md)

@@ -3,7 +3,7 @@ title: "girijesh-ai/ai-interview-codex"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/girijesh-ai/ai-interview-codex"
-local_vault_path: "ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md"
+local_vault_path: "ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md"
 quality_score: 70
 archive_score: 87
 archive_tier: "essential"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/girijesh-ai/ai-interview-codex
 
 ## Local Vault File
 
-Path: [girijesh-ai-ai-interview-codex-a1ba98.md](file:///../../ai\rag\girijesh-ai-ai-interview-codex-a1ba98.md)
+Path: [girijesh-ai-ai-interview-codex-a1ba98.md](file:///../../ai/rag/girijesh-ai-ai-interview-codex-a1ba98.md)

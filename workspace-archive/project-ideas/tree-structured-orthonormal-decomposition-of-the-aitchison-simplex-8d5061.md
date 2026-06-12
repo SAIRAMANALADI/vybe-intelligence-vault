@@ -3,7 +3,7 @@ title: "Tree-Structured Orthonormal Decomposition of the Aitchison Simplex"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11646"
-local_vault_path: "ai\research\tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md"
+local_vault_path: "ai/research/tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11646
 
 ## Local Vault File
 
-Path: [tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md](file:///../../ai\research\tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md)
+Path: [tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md](file:///../../ai/research/tree-structured-orthonormal-decomposition-of-the-aitchison-simplex-8d5061.md)

@@ -1,0 +1,45 @@
+---
+title: Boosting Direct Preference Optimization with Penalization
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.12505
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.482586+00:00'
+tags:
+- dataset
+- meta-ai
+- models
+status: new
+---
+
+# Boosting Direct Preference Optimization with Penalization
+
+## Summary
+
+arXiv:2606.12505v1 Announce Type: cross 
+Abstract: Offline preference optimization has become a practical substitute for reinforcement learning from human feedback, but pairwise objectives such as Direct Preference Optimization (DPO) and its variants use only the chosen and rejected responses stored in a static dataset. This leaves a useful signal unused: the response that the reference model itself would generate for the same prompt. We propose Direct Preference Optimization with Penalization (DPOP), a simple extension of DPO that augments the base preference loss with a gated penalty on reference-greedy responses. DPOP activates this penalty only when the current policy still assigns a lower likelihood to the preferred response than to the rejected response. On AlpacaEval 2.0, DPOP improves length-controlled win rate over DPO, SimPO, and AlphaDPO on both Llama-3-8b-it and Gemma-2-9b-it, achieving relative gains of 5.3\% and 4.4\% over baselines on the two models, respectively. Ablations further show that a SimNPO-style length-normalized penalty is stronger than NPO and token-level unlikelihood in this setting.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.12505
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- dataset
+- meta-ai
+- models

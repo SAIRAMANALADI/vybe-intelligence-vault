@@ -3,7 +3,7 @@ title: "Optimizing Bark using 🤗 Transformers"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/optimizing-bark"
-local_vault_path: "ai\models\optimizing-bark-using-transformers-fd3246.md"
+local_vault_path: "ai/models/optimizing-bark-using-transformers-fd3246.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/optimizing-bark
 
 ## Local Vault File
 
-Path: [optimizing-bark-using-transformers-fd3246.md](file:///../../ai\models\optimizing-bark-using-transformers-fd3246.md)
+Path: [optimizing-bark-using-transformers-fd3246.md](file:///../../ai/models/optimizing-bark-using-transformers-fd3246.md)

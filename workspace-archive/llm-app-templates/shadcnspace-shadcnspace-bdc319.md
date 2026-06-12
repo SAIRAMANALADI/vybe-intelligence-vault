@@ -3,7 +3,7 @@ title: "shadcnspace/shadcnspace"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/shadcnspace/shadcnspace"
-local_vault_path: "web-development\nextjs\shadcnspace-shadcnspace-bdc319.md"
+local_vault_path: "web-development/nextjs/shadcnspace-shadcnspace-bdc319.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://github.com/shadcnspace/shadcnspace
 
 ## Local Vault File
 
-Path: [shadcnspace-shadcnspace-bdc319.md](file:///../../web-development\nextjs\shadcnspace-shadcnspace-bdc319.md)
+Path: [shadcnspace-shadcnspace-bdc319.md](file:///../../web-development/nextjs/shadcnspace-shadcnspace-bdc319.md)

@@ -3,7 +3,7 @@ title: "llamasearchai/OpenAGI-Customization"
 archive_category: "inference-local-llm"
 source_category: "ai/resources"
 source_url: "https://github.com/llamasearchai/OpenAGI-Customization"
-local_vault_path: "ai\resources\llamasearchai-openagi-customization-95727e.md"
+local_vault_path: "ai/resources/llamasearchai-openagi-customization-95727e.md"
 quality_score: 70
 archive_score: 87
 archive_tier: "essential"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/llamasearchai/OpenAGI-Customization
 
 ## Local Vault File
 
-Path: [llamasearchai-openagi-customization-95727e.md](file:///../../ai\resources\llamasearchai-openagi-customization-95727e.md)
+Path: [llamasearchai-openagi-customization-95727e.md](file:///../../ai/resources/llamasearchai-openagi-customization-95727e.md)

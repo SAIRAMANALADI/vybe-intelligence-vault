@@ -3,7 +3,7 @@ title: "PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proo
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11196"
-local_vault_path: "ai\research\poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md"
+local_vault_path: "ai/research/poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11196
 
 ## Local Vault File
 
-Path: [poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md](file:///../../ai\research\poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md)
+Path: [poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md](file:///../../ai/research/poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md)

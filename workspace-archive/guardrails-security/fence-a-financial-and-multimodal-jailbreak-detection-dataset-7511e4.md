@@ -1,0 +1,51 @@
+---
+title: "FENCE: A Financial and Multimodal Jailbreak Detection Dataset"
+archive_category: "guardrails-security"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2602.18154"
+local_vault_path: "ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - models
+  - openai
+  - paper
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# FENCE: A Financial and Multimodal Jailbreak Detection Dataset
+
+## Why This Is In The Archive
+
+- Matched archive category: `Guardrails and Security`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2602.18154v2 Announce Type: replace-cross 
+Abstract: Jailbreaking poses a significant risk to the deployment of Large Language Models (LLMs) and Vision Language Models (VLMs). VLMs are particularly vulnerable because they process both text and images, creating broader attack surfaces. However, available resources for jailbreak detection are scarce, particularly in finance. To address this gap, we present FENCE, a bilingual (Korean-English) multimodal dataset for training and evaluating jai
+
+## Use Cases
+
+- PII filtering
+- Prompt injection shielding
+- Tool calling protection
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2602.18154
+
+## Local Vault File
+
+Path: [fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md](file:///../../ai/research/fence-a-financial-and-multimodal-jailbreak-detection-dataset-7511e4.md)

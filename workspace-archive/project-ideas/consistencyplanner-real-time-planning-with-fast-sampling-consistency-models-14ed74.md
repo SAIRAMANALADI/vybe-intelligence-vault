@@ -3,7 +3,7 @@ title: "ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Mo
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11569"
-local_vault_path: "ai\agents\consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md"
+local_vault_path: "ai/agents/consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11569
 
 ## Local Vault File
 
-Path: [consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md](file:///../../ai\agents\consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md)
+Path: [consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md](file:///../../ai/agents/consistencyplanner-real-time-planning-with-fast-sampling-consistency-models-14ed74.md)

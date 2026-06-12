@@ -3,7 +3,7 @@ title: "Task-Aware Structured Memory for Dynamic Multi-modal In-Context Learning
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11853"
-local_vault_path: "ai\research\task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md"
+local_vault_path: "ai/research/task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11853
 
 ## Local Vault File
 
-Path: [task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md](file:///../../ai\research\task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md)
+Path: [task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md](file:///../../ai/research/task-aware-structured-memory-for-dynamic-multi-modal-in-context-learning-250d90.md)

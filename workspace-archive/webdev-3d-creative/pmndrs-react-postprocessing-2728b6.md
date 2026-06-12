@@ -3,7 +3,7 @@ title: "pmndrs/react-postprocessing"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/react-postprocessing"
-local_vault_path: "web-development\react-three-fiber\pmndrs-react-postprocessing-2728b6.md"
+local_vault_path: "web-development/react-three-fiber/pmndrs-react-postprocessing-2728b6.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/react-postprocessing
 
 ## Local Vault File
 
-Path: [pmndrs-react-postprocessing-2728b6.md](file:///../../web-development\react-three-fiber\pmndrs-react-postprocessing-2728b6.md)
+Path: [pmndrs-react-postprocessing-2728b6.md](file:///../../web-development/react-three-fiber/pmndrs-react-postprocessing-2728b6.md)

@@ -3,7 +3,7 @@ title: "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/aprielguard"
-local_vault_path: "ai\models\aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md"
+local_vault_path: "ai/models/aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/aprielguard
 
 ## Local Vault File
 
-Path: [aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md](file:///../../ai\models\aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md)
+Path: [aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md](file:///../../ai/models/aprielguard-a-guardrail-for-safety-and-adversarial-robustness-in-modern-llm-syst-5e3e72.md)

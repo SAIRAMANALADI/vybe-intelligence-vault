@@ -3,7 +3,7 @@ title: "Train your first Decision Transformer"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/train-decision-transformers"
-local_vault_path: "ai\models\train-your-first-decision-transformer-bcc95c.md"
+local_vault_path: "ai/models/train-your-first-decision-transformer-bcc95c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [train-your-first-decision-transformer-bcc95c.md](file:///../../ai\models\train-your-first-decision-transformer-bcc95c.md)
+Path: [train-your-first-decision-transformer-bcc95c.md](file:///../../ai/models/train-your-first-decision-transformer-bcc95c.md)

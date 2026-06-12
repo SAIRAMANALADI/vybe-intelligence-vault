@@ -3,7 +3,7 @@ title: "Making a web app generator with open ML models"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/text-to-webapp"
-local_vault_path: "ai\models\making-a-web-app-generator-with-open-ml-models-5f4419.md"
+local_vault_path: "ai/models/making-a-web-app-generator-with-open-ml-models-5f4419.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/text-to-webapp
 
 ## Local Vault File
 
-Path: [making-a-web-app-generator-with-open-ml-models-5f4419.md](file:///../../ai\models\making-a-web-app-generator-with-open-ml-models-5f4419.md)
+Path: [making-a-web-app-generator-with-open-ml-models-5f4419.md](file:///../../ai/models/making-a-web-app-generator-with-open-ml-models-5f4419.md)

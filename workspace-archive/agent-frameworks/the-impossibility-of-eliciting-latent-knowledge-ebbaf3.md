@@ -3,7 +3,7 @@ title: "The Impossibility of Eliciting Latent Knowledge"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12268"
-local_vault_path: "ai\agents\the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md"
+local_vault_path: "ai/agents/the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12268
 
 ## Local Vault File
 
-Path: [the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md](file:///../../ai\agents\the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md)
+Path: [the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md](file:///../../ai/agents/the-impossibility-of-eliciting-latent-knowledge-ebbaf3.md)

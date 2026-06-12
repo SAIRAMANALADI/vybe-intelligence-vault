@@ -3,7 +3,7 @@ title: "Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Imperson
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11615"
-local_vault_path: "ai\rag\adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md"
+local_vault_path: "ai/rag/adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11615
 
 ## Local Vault File
 
-Path: [adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md](file:///../../ai\rag\adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md)
+Path: [adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md](file:///../../ai/rag/adv-tgd-adversarial-text-guided-diffusion-for-face-recognition-impersonation-att-36c7ef.md)

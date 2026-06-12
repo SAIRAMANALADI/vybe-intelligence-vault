@@ -3,7 +3,7 @@ title: "Introducing 🤗 Accelerate"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/accelerate-library"
-local_vault_path: "ai\models\introducing-accelerate-61a53b.md"
+local_vault_path: "ai/models/introducing-accelerate-61a53b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [introducing-accelerate-61a53b.md](file:///../../ai\models\introducing-accelerate-61a53b.md)
+Path: [introducing-accelerate-61a53b.md](file:///../../ai/models/introducing-accelerate-61a53b.md)

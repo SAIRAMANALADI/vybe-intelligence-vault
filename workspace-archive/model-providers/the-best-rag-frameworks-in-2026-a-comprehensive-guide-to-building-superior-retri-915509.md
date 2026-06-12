@@ -3,7 +3,7 @@ title: "The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Super
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems"
-local_vault_path: "ai\rag\the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md"
+local_vault_path: "ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-
 
 ## Local Vault File
 
-Path: [the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md](file:///../../ai\rag\the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md)
+Path: [the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md](file:///../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retri-915509.md)

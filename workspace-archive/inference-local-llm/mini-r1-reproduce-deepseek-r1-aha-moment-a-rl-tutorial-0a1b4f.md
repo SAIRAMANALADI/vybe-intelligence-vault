@@ -3,7 +3,7 @@ title: "Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-r1/mini-r1-contdown-game"
-local_vault_path: "ai\models\mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md"
+local_vault_path: "ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/open-r1/mini-r1-contdown-game
 
 ## Local Vault File
 
-Path: [mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md](file:///../../ai\models\mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md)
+Path: [mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md](file:///../../ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tutorial-0a1b4f.md)

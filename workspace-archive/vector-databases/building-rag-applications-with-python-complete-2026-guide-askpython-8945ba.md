@@ -3,7 +3,7 @@ title: "Building RAG Applications with Python: Complete 2026 Guide - AskPython"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.askpython.com/python/examples/building-rag-applications-with-python"
-local_vault_path: "ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md"
+local_vault_path: "ai/rag/building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.askpython.com/python/examples/building-rag-appl
 
 ## Local Vault File
 
-Path: [building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md](file:///../../ai\rag\building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md)
+Path: [building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md](file:///../../ai/rag/building-rag-applications-with-python-complete-2026-guide-askpython-8945ba.md)

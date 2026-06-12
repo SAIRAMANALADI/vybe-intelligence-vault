@@ -3,7 +3,7 @@ title: "On the Geometry of On-Policy Distillation"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07082"
-local_vault_path: "ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md"
+local_vault_path: "ai/research/on-the-geometry-of-on-policy-distillation-e7d7e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.07082
 
 ## Local Vault File
 
-Path: [on-the-geometry-of-on-policy-distillation-e7d7e5.md](file:///../../ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md)
+Path: [on-the-geometry-of-on-policy-distillation-e7d7e5.md](file:///../../ai/research/on-the-geometry-of-on-policy-distillation-e7d7e5.md)

@@ -1,0 +1,51 @@
+---
+title: "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.12767"
+local_vault_path: "ai/rag/constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - hackernews
+  - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.12767v1 Announce Type: new 
+Abstract: Evaluating procedural reasoning in AI-supported learning systems requires question-answer datasets that are both learner-like and grounded in the instructional knowledge the system is expected to use. We study how TMK-based question generation strategies affect dataset quality for procedural and multi-hop reasoning.
+ We compare three strategies: strict generation from Task-Method-Knowledge (TMK) models, transcript-first generation with post-hoc TM
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.12767
+
+## Local Vault File
+
+Path: [constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md](file:///../../ai/rag/constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md)

@@ -3,7 +3,7 @@ title: "StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Sci
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11851"
-local_vault_path: "ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md"
+local_vault_path: "ai/agents/statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11851
 
 ## Local Vault File
 
-Path: [statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md](file:///../../ai\agents\statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md)
+Path: [statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md](file:///../../ai/agents/statefuldiscovery-evidence-calibrated-claim-formation-in-open-ended-scientific-d-ebf42a.md)

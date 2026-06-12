@@ -3,7 +3,7 @@ title: "sanderblue/solar-system-threejs"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/sanderblue/solar-system-threejs"
-local_vault_path: "web-development\threejs\sanderblue-solar-system-threejs-05d448.md"
+local_vault_path: "web-development/threejs/sanderblue-solar-system-threejs-05d448.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/sanderblue/solar-system-threejs
 
 ## Local Vault File
 
-Path: [sanderblue-solar-system-threejs-05d448.md](file:///../../web-development\threejs\sanderblue-solar-system-threejs-05d448.md)
+Path: [sanderblue-solar-system-threejs-05d448.md](file:///../../web-development/threejs/sanderblue-solar-system-threejs-05d448.md)

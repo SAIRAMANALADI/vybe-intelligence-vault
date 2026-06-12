@@ -3,7 +3,7 @@ title: "Introducing the Open Arabic LLM Leaderboard"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-arabic"
-local_vault_path: "ai\models\introducing-the-open-arabic-llm-leaderboard-6242c5.md"
+local_vault_path: "ai/models/introducing-the-open-arabic-llm-leaderboard-6242c5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic
 
 ## Local Vault File
 
-Path: [introducing-the-open-arabic-llm-leaderboard-6242c5.md](file:///../../ai\models\introducing-the-open-arabic-llm-leaderboard-6242c5.md)
+Path: [introducing-the-open-arabic-llm-leaderboard-6242c5.md](file:///../../ai/models/introducing-the-open-arabic-llm-leaderboard-6242c5.md)

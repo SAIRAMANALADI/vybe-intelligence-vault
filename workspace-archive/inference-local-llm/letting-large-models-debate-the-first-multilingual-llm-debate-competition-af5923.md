@@ -3,7 +3,7 @@ title: "Letting Large Models Debate: The First Multilingual LLM Debate Competiti
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/debate"
-local_vault_path: "ai\models\letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md"
+local_vault_path: "ai/models/letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/debate
 
 ## Local Vault File
 
-Path: [letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md](file:///../../ai\models\letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md)
+Path: [letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md](file:///../../ai/models/letting-large-models-debate-the-first-multilingual-llm-debate-competition-af5923.md)

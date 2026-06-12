@@ -3,7 +3,7 @@ title: "Migrating the Hub from Git LFS to Xet"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/migrating-the-hub-to-xet"
-local_vault_path: "ai\models\migrating-the-hub-from-git-lfs-to-xet-b45d8d.md"
+local_vault_path: "ai/models/migrating-the-hub-from-git-lfs-to-xet-b45d8d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/migrating-the-hub-to-xet
 
 ## Local Vault File
 
-Path: [migrating-the-hub-from-git-lfs-to-xet-b45d8d.md](file:///../../ai\models\migrating-the-hub-from-git-lfs-to-xet-b45d8d.md)
+Path: [migrating-the-hub-from-git-lfs-to-xet-b45d8d.md](file:///../../ai/models/migrating-the-hub-from-git-lfs-to-xet-b45d8d.md)

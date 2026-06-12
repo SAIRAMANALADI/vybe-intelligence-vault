@@ -3,7 +3,7 @@ title: "📚 3LM: A Benchmark for Arabic LLMs in STEM and Code"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/3lm-benchmark"
-local_vault_path: "ai\models\3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md"
+local_vault_path: "ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/3lm-benchmark
 
 ## Local Vault File
 
-Path: [3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md](file:///../../ai\models\3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md)
+Path: [3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md](file:///../../ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code-9be943.md)

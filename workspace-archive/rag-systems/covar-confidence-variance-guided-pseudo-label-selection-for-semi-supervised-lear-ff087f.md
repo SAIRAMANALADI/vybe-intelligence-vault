@@ -3,7 +3,7 @@ title: "CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Superv
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.11670"
-local_vault_path: "ai\research\covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md"
+local_vault_path: "ai/research/covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.11670
 
 ## Local Vault File
 
-Path: [covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md](file:///../../ai\research\covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md)
+Path: [covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md](file:///../../ai/research/covar-confidence-variance-guided-pseudo-label-selection-for-semi-supervised-lear-ff087f.md)

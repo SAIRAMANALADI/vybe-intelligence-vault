@@ -3,7 +3,7 @@ title: "Going multimodal: How Prezi is leveraging the Hub and the Expert Support
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/prezi-case-study"
-local_vault_path: "ai\rag\going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md"
+local_vault_path: "ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/prezi-case-study
 
 ## Local Vault File
 
-Path: [going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md](file:///../../ai\rag\going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md)
+Path: [going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-and-the-expert-support-program-770184.md)

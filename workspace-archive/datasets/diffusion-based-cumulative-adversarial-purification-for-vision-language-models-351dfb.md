@@ -3,7 +3,7 @@ title: "Diffusion-based Cumulative Adversarial Purification for Vision Language 
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2506.03933"
-local_vault_path: "ai\rag\diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md"
+local_vault_path: "ai/rag/diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2506.03933
 
 ## Local Vault File
 
-Path: [diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md](file:///../../ai\rag\diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md)
+Path: [diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md](file:///../../ai/rag/diffusion-based-cumulative-adversarial-purification-for-vision-language-models-351dfb.md)

@@ -1,0 +1,49 @@
+---
+title: "OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction"
+archive_category: "rag-systems"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.12838"
+local_vault_path: "ai/rag/ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - paper
+  - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.12838v1 Announce Type: cross 
+Abstract: Predicting single-cell transcriptional responses to genetic, chemical and cytokine perturbations is a fundamental challenge in computational biology and AI Virtual Cell (AIVC) modeling, with direct implications for drug discovery and the elucidation of gene regulatory networks. Existing approaches often rely on auxiliary cell-state encoders, hierarchical variational autoencoders, dedicated Transformer encoder-decoder modules, or gene-interaction
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.12838
+
+## Local Vault File
+
+Path: [ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md](file:///../../ai/rag/ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md)

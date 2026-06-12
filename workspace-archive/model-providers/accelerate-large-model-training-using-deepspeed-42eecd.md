@@ -3,7 +3,7 @@ title: "Accelerate Large Model Training using DeepSpeed"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/accelerate-deepspeed"
-local_vault_path: "ai\models\accelerate-large-model-training-using-deepspeed-42eecd.md"
+local_vault_path: "ai/models/accelerate-large-model-training-using-deepspeed-42eecd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/accelerate-deepspeed
 
 ## Local Vault File
 
-Path: [accelerate-large-model-training-using-deepspeed-42eecd.md](file:///../../ai\models\accelerate-large-model-training-using-deepspeed-42eecd.md)
+Path: [accelerate-large-model-training-using-deepspeed-42eecd.md](file:///../../ai/models/accelerate-large-model-training-using-deepspeed-42eecd.md)

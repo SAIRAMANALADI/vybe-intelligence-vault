@@ -3,7 +3,7 @@ title: "Run a Chatgpt-like Chatbot on a Single GPU with ROCm"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/chatbot-amd-gpu"
-local_vault_path: "ai\models\run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md"
+local_vault_path: "ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/chatbot-amd-gpu
 
 ## Local Vault File
 
-Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md](file:///../../ai\models\run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md)
+Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md](file:///../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md)

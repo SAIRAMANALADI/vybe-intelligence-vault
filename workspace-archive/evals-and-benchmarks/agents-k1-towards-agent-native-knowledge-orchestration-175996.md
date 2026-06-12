@@ -1,0 +1,48 @@
+---
+title: "Agents-K1: Towards Agent-native Knowledge Orchestration"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/agents"
+source_url: "https://arxiv.org/abs/2606.13669"
+local_vault_path: "ai/agents/agents-k1-towards-agent-native-knowledge-orchestration-175996.md"
+quality_score: 70
+archive_score: 84
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "high"
+tags:
+  - agents
+  - paper
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Agents-K1: Towards Agent-native Knowledge Orchestration
+
+## Why This Is In The Archive
+
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13669v1 Announce Type: new 
+Abstract: Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions, and flat \texttt{cites} edges, omitting key entities, claims, evidence, mechanisms, and method lineages essential for scientific reasoning. To this end, we introduce \textbf{Agents-K1}, an end-to-end knowledge orchestration pipeline that converts raw
+
+## Use Cases
+
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13669
+
+## Local Vault File
+
+Path: [agents-k1-towards-agent-native-knowledge-orchestration-175996.md](file:///../../ai/agents/agents-k1-towards-agent-native-knowledge-orchestration-175996.md)

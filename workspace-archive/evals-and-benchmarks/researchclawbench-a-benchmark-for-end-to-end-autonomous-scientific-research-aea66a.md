@@ -3,7 +3,7 @@ title: "ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Rese
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07591"
-local_vault_path: "ai\rag\researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md"
+local_vault_path: "ai/rag/researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.07591
 
 ## Local Vault File
 
-Path: [researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md](file:///../../ai\rag\researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md)
+Path: [researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md](file:///../../ai/rag/researchclawbench-a-benchmark-for-end-to-end-autonomous-scientific-research-aea66a.md)

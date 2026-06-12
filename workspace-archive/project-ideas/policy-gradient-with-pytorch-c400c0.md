@@ -3,7 +3,7 @@ title: "Policy Gradient with PyTorch"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-rl-pg"
-local_vault_path: "ai\models\policy-gradient-with-pytorch-c400c0.md"
+local_vault_path: "ai/models/policy-gradient-with-pytorch-c400c0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-pg
 
 ## Local Vault File
 
-Path: [policy-gradient-with-pytorch-c400c0.md](file:///../../ai\models\policy-gradient-with-pytorch-c400c0.md)
+Path: [policy-gradient-with-pytorch-c400c0.md](file:///../../ai/models/policy-gradient-with-pytorch-c400c0.md)

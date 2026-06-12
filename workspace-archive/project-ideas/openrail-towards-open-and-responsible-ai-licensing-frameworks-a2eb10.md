@@ -3,7 +3,7 @@ title: "OpenRAIL: Towards open and responsible AI licensing frameworks"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open_rail"
-local_vault_path: "ai\models\openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md"
+local_vault_path: "ai/models/openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/open_rail
 
 ## Local Vault File
 
-Path: [openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md](file:///../../ai\models\openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md)
+Path: [openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md](file:///../../ai/models/openrail-towards-open-and-responsible-ai-licensing-frameworks-a2eb10.md)

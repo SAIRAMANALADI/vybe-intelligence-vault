@@ -3,7 +3,7 @@ title: "ALIGNBEAM : Inference-Time Alignment Transfer via Cross-Vocabulary Logit
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12342"
-local_vault_path: "ai\research\alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md"
+local_vault_path: "ai/research/alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12342
 
 ## Local Vault File
 
-Path: [alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md](file:///../../ai\research\alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md)
+Path: [alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md](file:///../../ai/research/alignbeam-inference-time-alignment-transfer-via-cross-vocabulary-logit-mixing-0c2941.md)

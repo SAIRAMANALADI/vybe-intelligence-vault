@@ -3,7 +3,7 @@ title: "Introducing Würstchen: Fast Diffusion for Image Generation"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/wuerstchen"
-local_vault_path: "ai\models\introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md"
+local_vault_path: "ai/models/introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/wuerstchen
 
 ## Local Vault File
 
-Path: [introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md](file:///../../ai\models\introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md)
+Path: [introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md](file:///../../ai/models/introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md)

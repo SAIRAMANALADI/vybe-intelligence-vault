@@ -3,7 +3,7 @@ title: "Large-scale Near-deduplication Behind BigCode"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/dedup"
-local_vault_path: "ai\models\large-scale-near-deduplication-behind-bigcode-7940f9.md"
+local_vault_path: "ai/models/large-scale-near-deduplication-behind-bigcode-7940f9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/dedup
 
 ## Local Vault File
 
-Path: [large-scale-near-deduplication-behind-bigcode-7940f9.md](file:///../../ai\models\large-scale-near-deduplication-behind-bigcode-7940f9.md)
+Path: [large-scale-near-deduplication-behind-bigcode-7940f9.md](file:///../../ai/models/large-scale-near-deduplication-behind-bigcode-7940f9.md)

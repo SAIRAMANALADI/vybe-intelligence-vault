@@ -3,7 +3,7 @@ title: "codebucks27/The-Weirdos-NFT-Website-Starter-Code"
 archive_category: "startup-builder"
 source_category: "web-development/gsap"
 source_url: "https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code"
-local_vault_path: "web-development\gsap\codebucks27-the-weirdos-nft-website-starter-code-534f84.md"
+local_vault_path: "web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code-534f84.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/codebucks27/The-Weirdos-NFT-Website-Star
 
 ## Local Vault File
 
-Path: [codebucks27-the-weirdos-nft-website-starter-code-534f84.md](file:///../../web-development\gsap\codebucks27-the-weirdos-nft-website-starter-code-534f84.md)
+Path: [codebucks27-the-weirdos-nft-website-starter-code-534f84.md](file:///../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code-534f84.md)

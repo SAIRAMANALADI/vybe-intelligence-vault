@@ -3,7 +3,7 @@ title: "A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.10592"
-local_vault_path: "ai\research\a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md"
+local_vault_path: "ai/research/a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.10592
 
 ## Local Vault File
 
-Path: [a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md](file:///../../ai\research\a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md)
+Path: [a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md](file:///../../ai/research/a-resilient-solution-for-sewer-overflow-monitoring-across-cloud-and-edge-9220ff.md)

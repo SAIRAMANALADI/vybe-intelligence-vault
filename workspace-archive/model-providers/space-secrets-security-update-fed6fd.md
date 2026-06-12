@@ -3,7 +3,7 @@ title: "Space secrets security update"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/space-secrets-disclosure"
-local_vault_path: "ai\models\space-secrets-security-update-fed6fd.md"
+local_vault_path: "ai/models/space-secrets-security-update-fed6fd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/space-secrets-disclosure
 
 ## Local Vault File
 
-Path: [space-secrets-security-update-fed6fd.md](file:///../../ai\models\space-secrets-security-update-fed6fd.md)
+Path: [space-secrets-security-update-fed6fd.md](file:///../../ai/models/space-secrets-security-update-fed6fd.md)

@@ -3,7 +3,7 @@ title: "The Ultimate List of Python RAG Projects on GitHub · Technical news abo
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://dasroot.net/posts/2026/03/python-rag-projects-github"
-local_vault_path: "ai\rag\the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md"
+local_vault_path: "ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://dasroot.net/posts/2026/03/python-rag-projects-githu
 
 ## Local Vault File
 
-Path: [the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md](file:///../../ai\rag\the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md)
+Path: [the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md](file:///../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github-technical-news-about-ai-codin-40bb92.md)

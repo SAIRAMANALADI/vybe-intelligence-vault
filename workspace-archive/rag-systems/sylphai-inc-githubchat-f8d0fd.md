@@ -3,7 +3,7 @@ title: "SylphAI-Inc/GithubChat"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/SylphAI-Inc/GithubChat"
-local_vault_path: "ai\rag\sylphai-inc-githubchat-f8d0fd.md"
+local_vault_path: "ai/rag/sylphai-inc-githubchat-f8d0fd.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/SylphAI-Inc/GithubChat
 
 ## Local Vault File
 
-Path: [sylphai-inc-githubchat-f8d0fd.md](file:///../../ai\rag\sylphai-inc-githubchat-f8d0fd.md)
+Path: [sylphai-inc-githubchat-f8d0fd.md](file:///../../ai/rag/sylphai-inc-githubchat-f8d0fd.md)

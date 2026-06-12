@@ -3,7 +3,7 @@ title: "MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computati
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11416"
-local_vault_path: "ai\agents\mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md"
+local_vault_path: "ai/agents/mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11416
 
 ## Local Vault File
 
-Path: [mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md](file:///../../ai\agents\mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md)
+Path: [mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md](file:///../../ai/agents/mpc-patch-bench-security-aware-llm-code-patch-for-multi-party-computation-8bc7df.md)

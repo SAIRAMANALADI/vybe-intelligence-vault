@@ -3,7 +3,7 @@ title: "Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 a
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/cost-efficient-rag-applications-with-intel"
-local_vault_path: "ai\rag\building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md"
+local_vault_path: "ai/rag/building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cost-efficient-rag-applications
 
 ## Local Vault File
 
-Path: [building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md](file:///../../ai\rag\building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md)
+Path: [building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md](file:///../../ai/rag/building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md)

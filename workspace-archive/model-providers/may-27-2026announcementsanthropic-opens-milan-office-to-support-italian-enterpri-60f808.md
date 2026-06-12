@@ -3,7 +3,7 @@ title: "May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/milan-office-opening"
-local_vault_path: "ai\companies\anthropic\may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md"
+local_vault_path: "ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/milan-office-opening
 
 ## Local Vault File
 
-Path: [may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md](file:///../../ai\companies\anthropic\may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md)
+Path: [may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md](file:///../../ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-office-to-support-italian-enterpri-60f808.md)

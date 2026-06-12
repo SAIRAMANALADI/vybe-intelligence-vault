@@ -3,7 +3,7 @@ title: "The AI Agent in the Billing Department of Verizon Is a Mentally Handicap
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5"
-local_vault_path: "ai\community\the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md"
+local_vault_path: "ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://samhenrycliff.medium.com/the-ai-agent-in-the-billin
 
 ## Local Vault File
 
-Path: [the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md](file:///../../ai\community\the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md)
+Path: [the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md](file:///../../ai/community/the-ai-agent-in-the-billing-department-of-verizon-is-a-mentally-handicapped-thug-1e683c.md)

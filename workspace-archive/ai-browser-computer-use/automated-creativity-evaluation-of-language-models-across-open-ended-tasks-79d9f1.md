@@ -3,7 +3,7 @@ title: "Automated Creativity Evaluation of Language Models Across Open-Ended Tas
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11762"
-local_vault_path: "ai\agents\automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md"
+local_vault_path: "ai/agents/automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11762
 
 ## Local Vault File
 
-Path: [automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md](file:///../../ai\agents\automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md)
+Path: [automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md](file:///../../ai/agents/automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md)

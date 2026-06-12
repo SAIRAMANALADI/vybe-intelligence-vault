@@ -3,7 +3,7 @@ title: "Density estimation for Hellinger via minimum-distance estimators: mixtur
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11469"
-local_vault_path: "ai\research\density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md"
+local_vault_path: "ai/research/density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://arxiv.org/abs/2606.11469
 
 ## Local Vault File
 
-Path: [density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md](file:///../../ai\research\density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md)
+Path: [density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md](file:///../../ai/research/density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md)

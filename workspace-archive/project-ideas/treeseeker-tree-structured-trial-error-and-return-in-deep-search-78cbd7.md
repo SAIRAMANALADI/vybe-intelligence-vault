@@ -3,7 +3,7 @@ title: "TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11662"
-local_vault_path: "ai\agents\treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md"
+local_vault_path: "ai/agents/treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11662
 
 ## Local Vault File
 
-Path: [treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md](file:///../../ai\agents\treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md)
+Path: [treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md](file:///../../ai/agents/treeseeker-tree-structured-trial-error-and-return-in-deep-search-78cbd7.md)

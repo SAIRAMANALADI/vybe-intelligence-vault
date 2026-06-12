@@ -3,7 +3,7 @@ title: "Granite 4.1 LLMs: How They’re Built"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ibm-granite/granite-4-1"
-local_vault_path: "ai\models\granite-4-1-llms-how-theyre-built-59ef3a.md"
+local_vault_path: "ai/models/granite-4-1-llms-how-theyre-built-59ef3a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-4-1
 
 ## Local Vault File
 
-Path: [granite-4-1-llms-how-theyre-built-59ef3a.md](file:///../../ai\models\granite-4-1-llms-how-theyre-built-59ef3a.md)
+Path: [granite-4-1-llms-how-theyre-built-59ef3a.md](file:///../../ai/models/granite-4-1-llms-how-theyre-built-59ef3a.md)

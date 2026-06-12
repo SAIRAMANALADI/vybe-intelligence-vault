@@ -3,7 +3,7 @@ title: "webgpu/webgpu-samples"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/webgpu/webgpu-samples"
-local_vault_path: "web-development\webgpu\webgpu-webgpu-samples-1023f8.md"
+local_vault_path: "web-development/webgpu/webgpu-webgpu-samples-1023f8.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/webgpu/webgpu-samples
 
 ## Local Vault File
 
-Path: [webgpu-webgpu-samples-1023f8.md](file:///../../web-development\webgpu\webgpu-webgpu-samples-1023f8.md)
+Path: [webgpu-webgpu-samples-1023f8.md](file:///../../web-development/webgpu/webgpu-webgpu-samples-1023f8.md)

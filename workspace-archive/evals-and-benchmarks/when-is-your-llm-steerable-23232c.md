@@ -3,7 +3,7 @@ title: "When is Your LLM Steerable?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11599"
-local_vault_path: "ai\rag\when-is-your-llm-steerable-23232c.md"
+local_vault_path: "ai/rag/when-is-your-llm-steerable-23232c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11599
 
 ## Local Vault File
 
-Path: [when-is-your-llm-steerable-23232c.md](file:///../../ai\rag\when-is-your-llm-steerable-23232c.md)
+Path: [when-is-your-llm-steerable-23232c.md](file:///../../ai/rag/when-is-your-llm-steerable-23232c.md)

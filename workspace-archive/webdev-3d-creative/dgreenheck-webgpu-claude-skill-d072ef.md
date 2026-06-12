@@ -3,7 +3,7 @@ title: "dgreenheck/webgpu-claude-skill"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/dgreenheck/webgpu-claude-skill"
-local_vault_path: "web-development\webgpu\dgreenheck-webgpu-claude-skill-d072ef.md"
+local_vault_path: "web-development/webgpu/dgreenheck-webgpu-claude-skill-d072ef.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/dgreenheck/webgpu-claude-skill
 
 ## Local Vault File
 
-Path: [dgreenheck-webgpu-claude-skill-d072ef.md](file:///../../web-development\webgpu\dgreenheck-webgpu-claude-skill-d072ef.md)
+Path: [dgreenheck-webgpu-claude-skill-d072ef.md](file:///../../web-development/webgpu/dgreenheck-webgpu-claude-skill-d072ef.md)

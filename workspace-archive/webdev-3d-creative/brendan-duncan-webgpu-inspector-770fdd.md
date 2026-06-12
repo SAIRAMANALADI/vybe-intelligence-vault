@@ -3,7 +3,7 @@ title: "brendan-duncan/webgpu_inspector"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/brendan-duncan/webgpu_inspector"
-local_vault_path: "web-development\webgpu\brendan-duncan-webgpu-inspector-770fdd.md"
+local_vault_path: "web-development/webgpu/brendan-duncan-webgpu-inspector-770fdd.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/brendan-duncan/webgpu_inspector
 
 ## Local Vault File
 
-Path: [brendan-duncan-webgpu-inspector-770fdd.md](file:///../../web-development\webgpu\brendan-duncan-webgpu-inspector-770fdd.md)
+Path: [brendan-duncan-webgpu-inspector-770fdd.md](file:///../../web-development/webgpu/brendan-duncan-webgpu-inspector-770fdd.md)

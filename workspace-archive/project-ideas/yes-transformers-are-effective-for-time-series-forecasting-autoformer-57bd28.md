@@ -3,7 +3,7 @@ title: "Yes, Transformers are Effective for Time Series Forecasting (+ Autoforme
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/autoformer"
-local_vault_path: "ai\models\yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md"
+local_vault_path: "ai/models/yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/autoformer
 
 ## Local Vault File
 
-Path: [yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md](file:///../../ai\models\yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md)
+Path: [yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md](file:///../../ai/models/yes-transformers-are-effective-for-time-series-forecasting-autoformer-57bd28.md)

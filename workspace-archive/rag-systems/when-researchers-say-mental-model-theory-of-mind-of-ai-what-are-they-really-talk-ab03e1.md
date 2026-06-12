@@ -3,7 +3,7 @@ title: "When Researchers Say Mental Model/Theory of Mind of AI, What Are They Re
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2510.02660"
-local_vault_path: "ai\research\when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md"
+local_vault_path: "ai/research/when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2510.02660
 
 ## Local Vault File
 
-Path: [when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md](file:///../../ai\research\when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md)
+Path: [when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md](file:///../../ai/research/when-researchers-say-mental-model-theory-of-mind-of-ai-what-are-they-really-talk-ab03e1.md)

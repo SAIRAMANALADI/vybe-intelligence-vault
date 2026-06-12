@@ -3,7 +3,7 @@ title: "Learn more"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership"
-local_vault_path: "ai\companies\deepmind\learn-more-b2201e.md"
+local_vault_path: "ai/companies/deepmind/learn-more-b2201e.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://deepmind.google/blog/strengthening-singapores-ai-fu
 
 ## Local Vault File
 
-Path: [learn-more-b2201e.md](file:///../../ai\companies\deepmind\learn-more-b2201e.md)
+Path: [learn-more-b2201e.md](file:///../../ai/companies/deepmind/learn-more-b2201e.md)

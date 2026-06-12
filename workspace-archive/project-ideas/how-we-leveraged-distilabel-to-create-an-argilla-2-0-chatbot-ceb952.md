@@ -3,7 +3,7 @@ title: "How we leveraged distilabel to create an Argilla 2.0 Chatbot"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/argilla-chatbot"
-local_vault_path: "ai\rag\how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md"
+local_vault_path: "ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/argilla-chatbot
 
 ## Local Vault File
 
-Path: [how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md](file:///../../ai\rag\how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md)
+Path: [how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md](file:///../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2-0-chatbot-ceb952.md)

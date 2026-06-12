@@ -3,7 +3,7 @@ title: "Non-engineers guide: Train a LLaMA 2 chatbot"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Llama2-for-non-engineers"
-local_vault_path: "ai\models\non-engineers-guide-train-a-llama-2-chatbot-7218f4.md"
+local_vault_path: "ai/models/non-engineers-guide-train-a-llama-2-chatbot-7218f4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Llama2-for-non-engineers
 
 ## Local Vault File
 
-Path: [non-engineers-guide-train-a-llama-2-chatbot-7218f4.md](file:///../../ai\models\non-engineers-guide-train-a-llama-2-chatbot-7218f4.md)
+Path: [non-engineers-guide-train-a-llama-2-chatbot-7218f4.md](file:///../../ai/models/non-engineers-guide-train-a-llama-2-chatbot-7218f4.md)

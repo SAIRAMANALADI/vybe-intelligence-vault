@@ -3,7 +3,7 @@ title: "How to Use Transformers.js in a Chrome Extension"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformersjs-chrome-extension"
-local_vault_path: "ai\models\how-to-use-transformers-js-in-a-chrome-extension-66bd87.md"
+local_vault_path: "ai/models/how-to-use-transformers-js-in-a-chrome-extension-66bd87.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-chrome-extension
 
 ## Local Vault File
 
-Path: [how-to-use-transformers-js-in-a-chrome-extension-66bd87.md](file:///../../ai\models\how-to-use-transformers-js-in-a-chrome-extension-66bd87.md)
+Path: [how-to-use-transformers-js-in-a-chrome-extension-66bd87.md](file:///../../ai/models/how-to-use-transformers-js-in-a-chrome-extension-66bd87.md)

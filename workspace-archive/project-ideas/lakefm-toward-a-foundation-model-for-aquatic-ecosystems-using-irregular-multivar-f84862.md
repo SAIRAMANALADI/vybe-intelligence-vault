@@ -3,7 +3,7 @@ title: "LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11268"
-local_vault_path: "ai\research\lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md"
+local_vault_path: "ai/research/lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11268
 
 ## Local Vault File
 
-Path: [lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md](file:///../../ai\research\lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md)
+Path: [lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md](file:///../../ai/research/lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md)

@@ -3,7 +3,7 @@ title: "RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://superml.org/tutorials/rag-beginner"
-local_vault_path: "ai\rag\rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md"
+local_vault_path: "ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://superml.org/tutorials/rag-beginner
 
 ## Local Vault File
 
-Path: [rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md](file:///../../ai\rag\rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md)
+Path: [rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md](file:///../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augmented-generation-2026-superml-o-ed1510.md)

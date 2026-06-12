@@ -1,0 +1,47 @@
+---
+title: "Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization"
+archive_category: "rag-systems"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2606.13658"
+local_vault_path: "ai/research/before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - paper
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization
+
+## Why This Is In The Archive
+
+- Matched archive category: `RAG Systems`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.13658v1 Announce Type: new 
+Abstract: This paper examines three recent frameworks for understanding the cognitive and epistemic consequences of artificial intelligence: Tri-System Theory, Thinkframes, and System 0. It argues that while the first two capture important dimensions of AI's influence on individual reasoning and collective epistemic practices, System 0 occupies a theoretically distinctive position that neither can fully replicate. The paper introduces the concept of cogniti
+
+## Use Cases
+
+- Knowledge querying
+- Document summarization
+- Hybrid retrieval
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.13658
+
+## Local Vault File
+
+Path: [before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md](file:///../../ai/research/before-you-think-system-0-ai-mediated-cognition-and-cognitive-colonization-94ea15.md)

@@ -3,7 +3,7 @@ title: "MentisOculi: Revealing the Limits of Reasoning with Mental Imagery"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.02465"
-local_vault_path: "ai\rag\mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md"
+local_vault_path: "ai/rag/mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.02465
 
 ## Local Vault File
 
-Path: [mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md](file:///../../ai\rag\mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md)
+Path: [mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md](file:///../../ai/rag/mentisoculi-revealing-the-limits-of-reasoning-with-mental-imagery-913df0.md)

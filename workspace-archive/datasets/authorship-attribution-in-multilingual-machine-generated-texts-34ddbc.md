@@ -1,0 +1,43 @@
+---
+title: "Authorship Attribution in Multilingual Machine-Generated Texts"
+archive_category: "datasets"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2508.01656"
+local_vault_path: "ai/research/authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+selection_reason:
+  - "Useful for project building"
+---
+
+# Authorship Attribution in Multilingual Machine-Generated Texts
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+arXiv:2508.01656v2 Announce Type: replace-cross 
+Abstract: As Large Language Models (LLMs) have reached human-like fluency and coherence, distinguishing machine-generated text (MGT) from human-written content becomes increasingly difficult. While early efforts in MGT detection have focused on binary classification, the growing landscape and diversity of LLMs require a more fine-grained yet challenging authorship attribution (AA), i.e., being able to identify the precise generator (LLM or human)
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2508.01656
+
+## Local Vault File
+
+Path: [authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md](file:///../../ai/research/authorship-attribution-in-multilingual-machine-generated-texts-34ddbc.md)

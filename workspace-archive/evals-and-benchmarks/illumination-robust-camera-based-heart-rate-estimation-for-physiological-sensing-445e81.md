@@ -3,7 +3,7 @@ title: "Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12378"
-local_vault_path: "ai\research\illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md"
+local_vault_path: "ai/research/illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12378
 
 ## Local Vault File
 
-Path: [illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md](file:///../../ai\research\illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md)
+Path: [illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md](file:///../../ai/research/illumination-robust-camera-based-heart-rate-estimation-for-physiological-sensing-445e81.md)

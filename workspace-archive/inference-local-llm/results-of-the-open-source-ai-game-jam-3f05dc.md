@@ -3,7 +3,7 @@ title: "Results of the Open Source AI Game Jam"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/game-jam-first-edition-results"
-local_vault_path: "ai\models\results-of-the-open-source-ai-game-jam-3f05dc.md"
+local_vault_path: "ai/models/results-of-the-open-source-ai-game-jam-3f05dc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [results-of-the-open-source-ai-game-jam-3f05dc.md](file:///../../ai\models\results-of-the-open-source-ai-game-jam-3f05dc.md)
+Path: [results-of-the-open-source-ai-game-jam-3f05dc.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam-3f05dc.md)

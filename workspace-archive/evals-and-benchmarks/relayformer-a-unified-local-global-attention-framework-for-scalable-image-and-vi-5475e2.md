@@ -3,7 +3,7 @@ title: "RelayFormer: A Unified Local-Global Attention Framework for Scalable Ima
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.09459"
-local_vault_path: "ai\research\relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md"
+local_vault_path: "ai/research/relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2508.09459
 
 ## Local Vault File
 
-Path: [relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md](file:///../../ai\research\relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md)
+Path: [relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md](file:///../../ai/research/relayformer-a-unified-local-global-attention-framework-for-scalable-image-and-vi-5475e2.md)

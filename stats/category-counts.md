@@ -4,26 +4,27 @@ Below is the file distribution across the vault categories.
 
 | Folder | Files |
 | :--- | ---: |
-| `ai-browser-computer-use/` | 113 |
+| `ai-browser-computer-use/` | 205 |
 | `ai-tools-products/` | 5 |
+| `ai/community/` | 1 |
+| `ai/rag/` | 1 |
 | `ai/resources/` | 3 |
-| `automation-workflows/` | 84 |
-| `datasets/` | 127 |
-| `evals-and-benchmarks/` | 8 |
+| `automation-workflows/` | 102 |
+| `datasets/` | 277 |
+| `evals-and-benchmarks/` | 9 |
 | `frontend-ai-ui/` | 49 |
-| `guardrails-security/` | 2 |
 | `inference-local-llm/` | 1 |
 | `jobs-market/` | 1 |
 | `learning-paths/` | 3 |
 | `mcp-registry/` | 7 |
 | `model-providers/` | 36 |
 | `project-ideas/` | 1118 |
-| `prompt-libraries/` | 2 |
+| `prompt-libraries/` | 4 |
 | `startup-builder/` | 13 |
-| `vector-databases/` | 108 |
+| `vector-databases/` | 176 |
 | `web-development/framer-motion/` | 13 |
 | `web-development/gsap/` | 2 |
-| `webdev-3d-creative/` | 80 |
+| `webdev-3d-creative/` | 81 |
 
 ## Categories Needing More Coverage
 

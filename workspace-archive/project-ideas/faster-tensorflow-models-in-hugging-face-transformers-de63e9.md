@@ -3,7 +3,7 @@ title: "Faster TensorFlow models in Hugging Face Transformers"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tf-serving"
-local_vault_path: "ai\models\faster-tensorflow-models-in-hugging-face-transformers-de63e9.md"
+local_vault_path: "ai/models/faster-tensorflow-models-in-hugging-face-transformers-de63e9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tf-serving
 
 ## Local Vault File
 
-Path: [faster-tensorflow-models-in-hugging-face-transformers-de63e9.md](file:///../../ai\models\faster-tensorflow-models-in-hugging-face-transformers-de63e9.md)
+Path: [faster-tensorflow-models-in-hugging-face-transformers-de63e9.md](file:///../../ai/models/faster-tensorflow-models-in-hugging-face-transformers-de63e9.md)

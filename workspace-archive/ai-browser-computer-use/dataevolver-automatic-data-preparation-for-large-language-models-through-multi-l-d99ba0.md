@@ -3,7 +3,7 @@ title: "DataEvolver: Automatic Data Preparation for Large Language Models throug
 archive_category: "ai-browser-computer-use"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.07001"
-local_vault_path: "ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md"
+local_vault_path: "ai/rag/dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.07001
 
 ## Local Vault File
 
-Path: [dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md](file:///../../ai\rag\dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md)
+Path: [dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md](file:///../../ai/rag/dataevolver-automatic-data-preparation-for-large-language-models-through-multi-l-d99ba0.md)

@@ -3,7 +3,7 @@ title: "NewsDiscover our latest AI breakthroughs, projects, and updates"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog"
-local_vault_path: "ai\companies\deepmind\newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md"
+local_vault_path: "ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://deepmind.google/blog
 
 ## Local Vault File
 
-Path: [newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md](file:///../../ai\companies\deepmind\newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md)
+Path: [newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md](file:///../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects-and-updates-5c91b5.md)

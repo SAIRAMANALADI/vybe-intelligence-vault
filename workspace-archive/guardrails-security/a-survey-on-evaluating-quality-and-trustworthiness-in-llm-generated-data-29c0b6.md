@@ -3,7 +3,7 @@ title: "A Survey on Evaluating Quality and Trustworthiness in LLM-Generated Data
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.17717"
-local_vault_path: "ai\research\a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md"
+local_vault_path: "ai/research/a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2601.17717
 
 ## Local Vault File
 
-Path: [a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md](file:///../../ai\research\a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md)
+Path: [a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md](file:///../../ai/research/a-survey-on-evaluating-quality-and-trustworthiness-in-llm-generated-data-29c0b6.md)

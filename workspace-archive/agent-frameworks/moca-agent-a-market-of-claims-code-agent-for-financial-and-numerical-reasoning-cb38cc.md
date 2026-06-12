@@ -3,7 +3,7 @@ title: "MoCA-Agent: A Market-of-Claims Code Agent for Financial and Numerical Re
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11537"
-local_vault_path: "ai\rag\moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md"
+local_vault_path: "ai/rag/moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11537
 
 ## Local Vault File
 
-Path: [moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md](file:///../../ai\rag\moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md)
+Path: [moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md](file:///../../ai/rag/moca-agent-a-market-of-claims-code-agent-for-financial-and-numerical-reasoning-cb38cc.md)

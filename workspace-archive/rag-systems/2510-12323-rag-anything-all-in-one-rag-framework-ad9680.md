@@ -3,7 +3,7 @@ title: "[2510.12323] RAG-Anything: All-in-One RAG Framework"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.12323"
-local_vault_path: "ai\rag\2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md"
+local_vault_path: "ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://arxiv.org/abs/2510.12323
 
 ## Local Vault File
 
-Path: [2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md](file:///../../ai\rag\2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md)
+Path: [2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md](file:///../../ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md)

@@ -3,7 +3,7 @@ title: "Introducing Hugging Face for Education 🤗"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/education"
-local_vault_path: "ai\models\introducing-hugging-face-for-education-95a1dd.md"
+local_vault_path: "ai/models/introducing-hugging-face-for-education-95a1dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/education
 
 ## Local Vault File
 
-Path: [introducing-hugging-face-for-education-95a1dd.md](file:///../../ai\models\introducing-hugging-face-for-education-95a1dd.md)
+Path: [introducing-hugging-face-for-education-95a1dd.md](file:///../../ai/models/introducing-hugging-face-for-education-95a1dd.md)

@@ -3,7 +3,7 @@ title: "Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11675"
-local_vault_path: "ai\research\lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md"
+local_vault_path: "ai/research/lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11675
 
 ## Local Vault File
 
-Path: [lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md](file:///../../ai\research\lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md)
+Path: [lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md](file:///../../ai/research/lung-r1-a-knowledge-graph-guided-llm-for-pulmonary-diagnostic-reasoning-722f42.md)

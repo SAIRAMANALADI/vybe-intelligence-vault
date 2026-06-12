@@ -1,0 +1,50 @@
+---
+title: 'CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal
+  Instruction'
+category: ai/rag
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2603.00610
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.485782+00:00'
+tags:
+- benchmark
+- dataset
+- models
+- paper
+- rag
+status: new
+---
+
+# CMI-RewardBench: Evaluating Music Reward Models with Compositional Multimodal Instruction
+
+## Summary
+
+arXiv:2603.00610v3 Announce Type: replace-cross 
+Abstract: While music generation models have evolved to handle complex multimodal inputs mixing text, lyrics, and reference audio, evaluation mechanisms have lagged behind. In this paper, we bridge this critical gap by establishing a comprehensive ecosystem for music reward modeling under Compositional Multimodal Instruction (CMI), where the generated music may be conditioned on text descriptions, lyrics, and audio prompts. We first introduce CMI-Pref-Pseudo, a large-scale preference dataset comprising 110k pseudo-labeled samples, and CMI-Pref, a high-quality, human-annotated corpus tailored for fine-grained alignment tasks. To unify the evaluation landscape, we propose CMI-RewardBench, a unified benchmark that evaluates music reward models on heterogeneous samples across musicality, text-music alignment, and compositional instruction alignment. Leveraging these resources, we develop CMI reward models (CMI-RMs), a parameter-efficient reward model family capable of processing heterogeneous inputs. We evaluate their correlation with human judgment scores on musicality and alignment on CMI-Pref along with previous datasets. Further experiments demonstrate that CMI-RM not only correlates strongly with human judgments, but also enables effective inference-time scaling via top-k filtering. Code is available at GitHub (https://github.com/Haiwen-Xia/CMI-RewardBench). Model weights: CMI-RM (https://huggingface.co/HaiwenXia/CMI-RM). Datasets: CMI-Pref-Pseudo (https://huggingface.co/datasets/HaiwenXia/cmi-pref-pseudo) and CMI-Pref (https://huggingface.co/datasets/HaiwenXia/cmi-pref)
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2603.00610
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- benchmark
+- dataset
+- models
+- paper
+- rag

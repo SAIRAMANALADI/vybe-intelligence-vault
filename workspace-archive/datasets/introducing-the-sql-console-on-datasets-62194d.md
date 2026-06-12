@@ -3,7 +3,7 @@ title: "Introducing the SQL Console on Datasets"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sql-console"
-local_vault_path: "ai\models\introducing-the-sql-console-on-datasets-62194d.md"
+local_vault_path: "ai/models/introducing-the-sql-console-on-datasets-62194d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sql-console
 
 ## Local Vault File
 
-Path: [introducing-the-sql-console-on-datasets-62194d.md](file:///../../ai\models\introducing-the-sql-console-on-datasets-62194d.md)
+Path: [introducing-the-sql-console-on-datasets-62194d.md](file:///../../ai/models/introducing-the-sql-console-on-datasets-62194d.md)

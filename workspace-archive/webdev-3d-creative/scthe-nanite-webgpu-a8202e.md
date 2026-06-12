@@ -3,7 +3,7 @@ title: "Scthe/nanite-webgpu"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/Scthe/nanite-webgpu"
-local_vault_path: "web-development\webgpu\scthe-nanite-webgpu-a8202e.md"
+local_vault_path: "web-development/webgpu/scthe-nanite-webgpu-a8202e.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Scthe/nanite-webgpu
 
 ## Local Vault File
 
-Path: [scthe-nanite-webgpu-a8202e.md](file:///../../web-development\webgpu\scthe-nanite-webgpu-a8202e.md)
+Path: [scthe-nanite-webgpu-a8202e.md](file:///../../web-development/webgpu/scthe-nanite-webgpu-a8202e.md)

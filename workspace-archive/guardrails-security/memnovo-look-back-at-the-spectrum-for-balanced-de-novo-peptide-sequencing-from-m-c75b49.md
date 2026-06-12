@@ -3,7 +3,7 @@ title: "MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequenci
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11868"
-local_vault_path: "ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md"
+local_vault_path: "ai/research/memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11868
 
 ## Local Vault File
 
-Path: [memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md](file:///../../ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md)
+Path: [memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md](file:///../../ai/research/memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md)

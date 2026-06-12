@@ -3,7 +3,7 @@ title: "Introducing ConTextual: How well can your Multimodal model jointly reaso
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-contextual"
-local_vault_path: "ai\models\introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md"
+local_vault_path: "ai/models/introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-contextual
 
 ## Local Vault File
 
-Path: [introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md](file:///../../ai\models\introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md)
+Path: [introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md](file:///../../ai/models/introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md)

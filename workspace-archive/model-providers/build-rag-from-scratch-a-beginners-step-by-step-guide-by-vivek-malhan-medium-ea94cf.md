@@ -3,7 +3,7 @@ title: "Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Mal
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd"
-local_vault_path: "ai\rag\build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md"
+local_vault_path: "ai/rag/build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://medium.com/@amalhan43/build-rag-from-scratch-a-begi
 
 ## Local Vault File
 
-Path: [build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md](file:///../../ai\rag\build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md)
+Path: [build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md](file:///../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-guide-by-vivek-malhan-medium-ea94cf.md)

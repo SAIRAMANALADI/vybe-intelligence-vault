@@ -3,7 +3,7 @@ title: "Accelerate BERT inference with Hugging Face Transformers and AWS Inferen
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/bert-inferentia-sagemaker"
-local_vault_path: "ai\models\accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md"
+local_vault_path: "ai/models/accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bert-inferentia-sagemaker
 
 ## Local Vault File
 
-Path: [accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md](file:///../../ai\models\accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md)
+Path: [accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md](file:///../../ai/models/accelerate-bert-inference-with-hugging-face-transformers-and-aws-inferentia-7dfab9.md)

@@ -3,7 +3,7 @@ title: "Creating custom kernels for the AMD MI300"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mi300kernels"
-local_vault_path: "ai\models\creating-custom-kernels-for-the-amd-mi300-fec2a2.md"
+local_vault_path: "ai/models/creating-custom-kernels-for-the-amd-mi300-fec2a2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/mi300kernels
 
 ## Local Vault File
 
-Path: [creating-custom-kernels-for-the-amd-mi300-fec2a2.md](file:///../../ai\models\creating-custom-kernels-for-the-amd-mi300-fec2a2.md)
+Path: [creating-custom-kernels-for-the-amd-mi300-fec2a2.md](file:///../../ai/models/creating-custom-kernels-for-the-amd-mi300-fec2a2.md)

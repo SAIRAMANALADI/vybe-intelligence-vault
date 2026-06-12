@@ -3,7 +3,7 @@ title: "creativelifeform/three-nebula"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/creativelifeform/three-nebula"
-local_vault_path: "web-development\threejs\creativelifeform-three-nebula-89c72a.md"
+local_vault_path: "web-development/threejs/creativelifeform-three-nebula-89c72a.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/creativelifeform/three-nebula
 
 ## Local Vault File
 
-Path: [creativelifeform-three-nebula-89c72a.md](file:///../../web-development\threejs\creativelifeform-three-nebula-89c72a.md)
+Path: [creativelifeform-three-nebula-89c72a.md](file:///../../web-development/threejs/creativelifeform-three-nebula-89c72a.md)

@@ -1,0 +1,42 @@
+---
+title: Examining the Usage of Generative AI Models in Student Learning Activities
+  for Software Programming
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2511.13271
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.485363+00:00'
+tags:
+- openai
+status: new
+---
+
+# Examining the Usage of Generative AI Models in Student Learning Activities for Software Programming
+
+## Summary
+
+arXiv:2511.13271v2 Announce Type: replace-cross 
+Abstract: The rise of Generative AI (GenAI) tools like ChatGPT has created new opportunities and challenges for computing education. Existing research has primarily focused on GenAI's ability to complete educational tasks and its impact on student performance, often overlooking its effects on knowledge gains. In this study, we investigate how GenAI assistance compares to conventional online resources in supporting knowledge gains across different proficiency levels. We conducted a controlled user experiment with 24 undergraduate students of two different levels of programming experience (beginner, intermediate) to examine how students interact with ChatGPT while solving programming tasks. We analyzed task performance, conceptual understanding, and interaction behaviors. Our findings reveal that generating complete solutions with GenAI significantly improves task performance, especially for beginners, but does not consistently result in knowledge gains. Importantly, usage strategies differ by experience: beginners tend to rely heavily on GenAI toward task completion often without knowledge gain in the process, while intermediates adopt more selective approaches. We find that both over-reliance and minimal use result in weaker knowledge gains overall. Based on our results, we call on students and educators to adopt GenAI as a learning rather than a problem solving tool. Our study highlights the urgent need for guidance when integrating GenAI into programming education to foster deeper understanding.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2511.13271
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- openai

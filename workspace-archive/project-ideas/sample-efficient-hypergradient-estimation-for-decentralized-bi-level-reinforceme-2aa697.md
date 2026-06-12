@@ -3,7 +3,7 @@ title: "Sample-Efficient Hypergradient Estimation for Decentralized Bi-Level Rei
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.14867"
-local_vault_path: "ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md"
+local_vault_path: "ai/rag/sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2603.14867
 
 ## Local Vault File
 
-Path: [sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md](file:///../../ai\rag\sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md)
+Path: [sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md](file:///../../ai/rag/sample-efficient-hypergradient-estimation-for-decentralized-bi-level-reinforceme-2aa697.md)

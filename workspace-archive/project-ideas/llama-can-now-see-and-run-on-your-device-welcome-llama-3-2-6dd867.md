@@ -3,7 +3,7 @@ title: "Llama can now see and run on your device - welcome Llama 3.2"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llama32"
-local_vault_path: "ai\models\llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md"
+local_vault_path: "ai/models/llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama32
 
 ## Local Vault File
 
-Path: [llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md](file:///../../ai\models\llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md)
+Path: [llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md](file:///../../ai/models/llama-can-now-see-and-run-on-your-device-welcome-llama-3-2-6dd867.md)

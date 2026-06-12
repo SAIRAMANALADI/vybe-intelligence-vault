@@ -1,0 +1,48 @@
+---
+title: "AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2606.12413"
+local_vault_path: "ai/rag/ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - paper
+  - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas
+
+## Why This Is In The Archive
+
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2606.12413v1 Announce Type: cross 
+Abstract: Students at all levels of higher education face a significant barrier in the form of information overload, which often paralyzes the initial stages of the research process and suppresses motivation. In response, this article introduces a pedagogical framework that leverages AI SciBrief, a platform powered by a Large Language Model (LLM) designed to automatically generate digests of scientific trends. We describe how this multidisciplinary tool -
+
+## Use Cases
+
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2606.12413
+
+## Local Vault File
+
+Path: [ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md](file:///../../ai/rag/ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md)

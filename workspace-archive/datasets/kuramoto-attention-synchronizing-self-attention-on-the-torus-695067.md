@@ -3,7 +3,7 @@ title: "Kuramoto Attention: Synchronizing Self-Attention on the Torus"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11585"
-local_vault_path: "ai\research\kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md"
+local_vault_path: "ai/research/kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11585
 
 ## Local Vault File
 
-Path: [kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md](file:///../../ai\research\kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md)
+Path: [kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md](file:///../../ai/research/kuramoto-attention-synchronizing-self-attention-on-the-torus-695067.md)

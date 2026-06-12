@@ -3,7 +3,7 @@ title: "MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in 
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11792"
-local_vault_path: "ai\research\multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md"
+local_vault_path: "ai/research/multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11792
 
 ## Local Vault File
 
-Path: [multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md](file:///../../ai\research\multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md)
+Path: [multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md](file:///../../ai/research/multitop-learning-to-patch-visual-tokens-to-mitigate-hallucinations-in-video-lar-08a1ab.md)

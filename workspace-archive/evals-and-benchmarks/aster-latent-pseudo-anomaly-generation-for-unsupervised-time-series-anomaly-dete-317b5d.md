@@ -1,0 +1,48 @@
+---
+title: "ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2604.13924"
+local_vault_path: "ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - dataset
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Anomaly Detection
+
+## Why This Is In The Archive
+
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2604.13924v3 Announce Type: replace-cross 
+Abstract: Time-series anomaly detection (TSAD) is critical in domains such as industrial monitoring, healthcare, and cybersecurity, but it remains challenging due to rare and heterogeneous anomalies and the scarcity of labelled data. This scarcity makes unsupervised approaches predominant, yet existing methods often rely on reconstruction or forecasting, which struggle with complex data, or on embedding-based approaches that require domain-specifi
+
+## Use Cases
+
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2604.13924
+
+## Local Vault File
+
+Path: [aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md](file:///../../ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md)

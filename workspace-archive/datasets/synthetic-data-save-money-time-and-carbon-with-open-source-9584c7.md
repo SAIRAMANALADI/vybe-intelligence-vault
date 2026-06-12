@@ -3,7 +3,7 @@ title: "Synthetic data: save money, time and carbon with open source"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/synthetic-data-save-costs"
-local_vault_path: "ai\models\synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md"
+local_vault_path: "ai/models/synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-save-costs
 
 ## Local Vault File
 
-Path: [synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md](file:///../../ai\models\synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md)
+Path: [synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md](file:///../../ai/models/synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md)

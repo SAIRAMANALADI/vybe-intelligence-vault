@@ -3,7 +3,7 @@ title: "L'Affaire Siloxane"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://mceglowski.substack.com/p/laffaire-siloxane"
-local_vault_path: "ai\community\l-affaire-siloxane-923f03.md"
+local_vault_path: "ai/community/l-affaire-siloxane-923f03.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://mceglowski.substack.com/p/laffaire-siloxane
 
 ## Local Vault File
 
-Path: [l-affaire-siloxane-923f03.md](file:///../../ai\community\l-affaire-siloxane-923f03.md)
+Path: [l-affaire-siloxane-923f03.md](file:///../../ai/community/l-affaire-siloxane-923f03.md)

@@ -3,7 +3,7 @@ title: "Hybrid Iterative Neural Low-Regularity Integrator for Nonlinear Dispersi
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04853"
-local_vault_path: "ai\research\hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md"
+local_vault_path: "ai/research/hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.04853
 
 ## Local Vault File
 
-Path: [hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md](file:///../../ai\research\hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md)
+Path: [hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md](file:///../../ai/research/hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md)

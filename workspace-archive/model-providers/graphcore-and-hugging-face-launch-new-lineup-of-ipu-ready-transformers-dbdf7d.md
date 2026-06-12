@@ -3,7 +3,7 @@ title: "Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/graphcore-update"
-local_vault_path: "ai\models\graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md"
+local_vault_path: "ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/graphcore-update
 
 ## Local Vault File
 
-Path: [graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md](file:///../../ai\models\graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md)
+Path: [graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md](file:///../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md)

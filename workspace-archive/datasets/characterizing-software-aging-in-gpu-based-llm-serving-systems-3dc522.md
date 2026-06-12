@@ -3,7 +3,7 @@ title: "Characterizing Software Aging in GPU-Based LLM Serving Systems"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11916"
-local_vault_path: "ai\research\characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md"
+local_vault_path: "ai/research/characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11916
 
 ## Local Vault File
 
-Path: [characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md](file:///../../ai\research\characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md)
+Path: [characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md](file:///../../ai/research/characterizing-software-aging-in-gpu-based-llm-serving-systems-3dc522.md)

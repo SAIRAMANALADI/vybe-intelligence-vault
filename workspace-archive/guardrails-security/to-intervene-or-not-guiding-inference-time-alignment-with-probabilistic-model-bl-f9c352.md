@@ -3,7 +3,7 @@ title: "To Intervene or Not: Guiding Inference-time Alignment with Probabilistic
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11201"
-local_vault_path: "ai\research\to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md"
+local_vault_path: "ai/research/to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11201
 
 ## Local Vault File
 
-Path: [to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md](file:///../../ai\research\to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md)
+Path: [to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md](file:///../../ai/research/to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md)

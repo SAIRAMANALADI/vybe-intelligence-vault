@@ -3,7 +3,7 @@ title: "Ulysses Sequence Parallelism: Training with Million-Token Contexts"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ulysses-sp"
-local_vault_path: "ai\models\ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md"
+local_vault_path: "ai/models/ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ulysses-sp
 
 ## Local Vault File
 
-Path: [ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md](file:///../../ai\models\ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md)
+Path: [ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md](file:///../../ai/models/ulysses-sequence-parallelism-training-with-million-token-contexts-1ef0e3.md)

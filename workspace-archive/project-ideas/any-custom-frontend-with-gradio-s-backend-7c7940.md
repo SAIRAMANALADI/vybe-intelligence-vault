@@ -3,7 +3,7 @@ title: "Any Custom Frontend with Gradio's Backend"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/introducing-gradio-server"
-local_vault_path: "ai\models\any-custom-frontend-with-gradio-s-backend-7c7940.md"
+local_vault_path: "ai/models/any-custom-frontend-with-gradio-s-backend-7c7940.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/introducing-gradio-server
 
 ## Local Vault File
 
-Path: [any-custom-frontend-with-gradio-s-backend-7c7940.md](file:///../../ai\models\any-custom-frontend-with-gradio-s-backend-7c7940.md)
+Path: [any-custom-frontend-with-gradio-s-backend-7c7940.md](file:///../../ai/models/any-custom-frontend-with-gradio-s-backend-7c7940.md)

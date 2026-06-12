@@ -3,7 +3,7 @@ title: "AI Now Summit 2026"
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/ai-now-summit-2026"
-local_vault_path: "ai\companies\mistral\ai-now-summit-2026-6d511a.md"
+local_vault_path: "ai/companies/mistral/ai-now-summit-2026-6d511a.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/ai-now-summit-2026
 
 ## Local Vault File
 
-Path: [ai-now-summit-2026-6d511a.md](file:///../../ai\companies\mistral\ai-now-summit-2026-6d511a.md)
+Path: [ai-now-summit-2026-6d511a.md](file:///../../ai/companies/mistral/ai-now-summit-2026-6d511a.md)

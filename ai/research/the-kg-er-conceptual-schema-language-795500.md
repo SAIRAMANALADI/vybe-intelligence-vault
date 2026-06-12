@@ -1,0 +1,40 @@
+---
+title: The KG-ER Conceptual Schema Language
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2508.02548
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.485248+00:00'
+tags: []
+status: new
+---
+
+# The KG-ER Conceptual Schema Language
+
+## Summary
+
+arXiv:2508.02548v3 Announce Type: replace-cross 
+Abstract: We propose KG-ER, a conceptual schema language for knowledge graphs that describes the structure of knowledge graphs independently of their representation (relational databases, property graphs, RDF) while helping to capture the semantics of the information stored in a knowledge graph.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2508.02548
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- None

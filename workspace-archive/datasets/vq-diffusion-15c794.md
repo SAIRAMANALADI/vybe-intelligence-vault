@@ -3,7 +3,7 @@ title: "VQ-Diffusion"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/vq-diffusion"
-local_vault_path: "ai\models\vq-diffusion-15c794.md"
+local_vault_path: "ai/models/vq-diffusion-15c794.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/vq-diffusion
 
 ## Local Vault File
 
-Path: [vq-diffusion-15c794.md](file:///../../ai\models\vq-diffusion-15c794.md)
+Path: [vq-diffusion-15c794.md](file:///../../ai/models/vq-diffusion-15c794.md)

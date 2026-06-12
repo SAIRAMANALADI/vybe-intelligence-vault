@@ -3,7 +3,7 @@ title: "Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hf-cli"
-local_vault_path: "ai\models\say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md"
+local_vault_path: "ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/hf-cli
 
 ## Local Vault File
 
-Path: [say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md](file:///../../ai\models\say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md)
+Path: [say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md](file:///../../ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-cli-022f43.md)

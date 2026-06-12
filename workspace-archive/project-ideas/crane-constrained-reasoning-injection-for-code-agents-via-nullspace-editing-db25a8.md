@@ -3,7 +3,7 @@ title: "CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Edi
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.14084"
-local_vault_path: "ai\agents\crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md"
+local_vault_path: "ai/agents/crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.14084
 
 ## Local Vault File
 
-Path: [crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md](file:///../../ai\agents\crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md)
+Path: [crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md](file:///../../ai/agents/crane-constrained-reasoning-injection-for-code-agents-via-nullspace-editing-db25a8.md)

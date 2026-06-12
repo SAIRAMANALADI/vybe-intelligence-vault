@@ -3,7 +3,7 @@ title: "EternityJune25/ComoRAG"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/EternityJune25/ComoRAG"
-local_vault_path: "ai\rag\eternityjune25-comorag-31b67e.md"
+local_vault_path: "ai/rag/eternityjune25-comorag-31b67e.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/EternityJune25/ComoRAG
 
 ## Local Vault File
 
-Path: [eternityjune25-comorag-31b67e.md](file:///../../ai\rag\eternityjune25-comorag-31b67e.md)
+Path: [eternityjune25-comorag-31b67e.md](file:///../../ai/rag/eternityjune25-comorag-31b67e.md)

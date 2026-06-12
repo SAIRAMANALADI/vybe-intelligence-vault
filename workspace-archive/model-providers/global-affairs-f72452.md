@@ -3,7 +3,7 @@ title: "Global Affairs"
 archive_category: "model-providers"
 source_category: "ai/companies/openai"
 source_url: "https://openai.com/news/global-affairs"
-local_vault_path: "ai\companies\openai\global-affairs-f72452.md"
+local_vault_path: "ai/companies/openai/global-affairs-f72452.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://openai.com/news/global-affairs
 
 ## Local Vault File
 
-Path: [global-affairs-f72452.md](file:///../../ai\companies\openai\global-affairs-f72452.md)
+Path: [global-affairs-f72452.md](file:///../../ai/companies/openai/global-affairs-f72452.md)

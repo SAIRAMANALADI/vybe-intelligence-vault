@@ -3,7 +3,7 @@ title: "New in llama.cpp: Model Management"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ggml-org/model-management-in-llamacpp"
-local_vault_path: "ai\models\new-in-llama-cpp-model-management-08a827.md"
+local_vault_path: "ai/models/new-in-llama-cpp-model-management-08a827.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ggml-org/model-management-in-ll
 
 ## Local Vault File
 
-Path: [new-in-llama-cpp-model-management-08a827.md](file:///../../ai\models\new-in-llama-cpp-model-management-08a827.md)
+Path: [new-in-llama-cpp-model-management-08a827.md](file:///../../ai/models/new-in-llama-cpp-model-management-08a827.md)

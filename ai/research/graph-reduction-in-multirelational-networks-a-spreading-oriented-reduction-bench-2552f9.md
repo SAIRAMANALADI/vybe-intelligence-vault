@@ -1,0 +1,42 @@
+---
+title: 'Graph Reduction in Multirelational Networks: A Spreading-Oriented Reduction
+  Benchmark'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.12581
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.482639+00:00'
+tags:
+- benchmark
+status: new
+---
+
+# Graph Reduction in Multirelational Networks: A Spreading-Oriented Reduction Benchmark
+
+## Summary
+
+arXiv:2606.12581v1 Announce Type: cross 
+Abstract: Real-world networks are inherently incomplete, noisy, and dynamically evolving, making it difficult to capture all actors and their relationships. Their scale often renders direct analysis computationally demanding. While influence maximisation (IM) has been widely studied, the role of graph reduction as a preprocessing step, and its impact on IM accuracy, remains underexplored. In this work, we introduce the Spreading-Oriented Reduction Benchmark (SORB), an open-source, standardised framework for systematically evaluating IM models across diverse task settings. SORB provides an extensible pipeline operating on a representative collection of real-world networks, including single- and multilayer structures, and accounts for graph reduction directly into the evaluation process. This design shifts the focus from analysing IM algorithms in isolation to quantifying how graph reduction alters predictive performance. Using SORB, we study the effects of sparsification and coarsening across multiple IM scenarios. Our results show that the impact of reduction is strongly dependent on both the network type (single-layer vs. multirelational) and the downstream task ($Gain@k$ vs. $\mathrm{AUC}_{\mathrm{cutoff}}$): sparsification preserves seed set quality on single-layer networks, whereas flattened multilayer networks exhibit systematic ranking degradation regardless of reduction strategy. These findings highlight the importance of reduction-aware, multi-task evaluation when studying spreading processes in complex networks.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.12581
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- benchmark

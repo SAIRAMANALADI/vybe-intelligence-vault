@@ -3,7 +3,7 @@ title: "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global E
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-local_vault_path: "ai\models\nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md"
+local_vault_path: "ai/models/nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-5-content-saf
 
 ## Local Vault File
 
-Path: [nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md](file:///../../ai\models\nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md)
+Path: [nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md](file:///../../ai/models/nemotron-3-5-content-safety-customizable-multimodal-safety-for-global-enterprise-16b629.md)

@@ -3,7 +3,7 @@ title: "A failed experiment: Infini-Attention, and why we should keep trying?"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/infini-attention"
-local_vault_path: "ai\models\a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md"
+local_vault_path: "ai/models/a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/infini-attention
 
 ## Local Vault File
 
-Path: [a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md](file:///../../ai\models\a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md)
+Path: [a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md](file:///../../ai/models/a-failed-experiment-infini-attention-and-why-we-should-keep-trying-176d41.md)

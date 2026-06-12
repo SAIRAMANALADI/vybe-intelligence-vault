@@ -3,7 +3,7 @@ title: "Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion:
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11258"
-local_vault_path: "ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md"
+local_vault_path: "ai/research/loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11258
 
 ## Local Vault File
 
-Path: [loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md](file:///../../ai\research\loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md)
+Path: [loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md](file:///../../ai/research/loss-landscape-diagnosis-for-gradient-based-gray-scott-system-inversion-disentan-b3bf35.md)

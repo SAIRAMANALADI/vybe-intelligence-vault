@@ -3,7 +3,7 @@ title: "K-H-Rayhan/nextjs-animated-slider"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/K-H-Rayhan/nextjs-animated-slider"
-local_vault_path: "web-development\framer-motion\k-h-rayhan-nextjs-animated-slider-8ac2b8.md"
+local_vault_path: "web-development/framer-motion/k-h-rayhan-nextjs-animated-slider-8ac2b8.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/K-H-Rayhan/nextjs-animated-slider
 
 ## Local Vault File
 
-Path: [k-h-rayhan-nextjs-animated-slider-8ac2b8.md](file:///../../web-development\framer-motion\k-h-rayhan-nextjs-animated-slider-8ac2b8.md)
+Path: [k-h-rayhan-nextjs-animated-slider-8ac2b8.md](file:///../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider-8ac2b8.md)

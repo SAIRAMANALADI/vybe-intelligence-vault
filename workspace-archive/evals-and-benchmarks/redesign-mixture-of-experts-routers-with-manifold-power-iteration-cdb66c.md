@@ -3,7 +3,7 @@ title: "Redesign Mixture-of-Experts Routers with Manifold Power Iteration"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12397"
-local_vault_path: "ai\research\redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md"
+local_vault_path: "ai/research/redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12397
 
 ## Local Vault File
 
-Path: [redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md](file:///../../ai\research\redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md)
+Path: [redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md](file:///../../ai/research/redesign-mixture-of-experts-routers-with-manifold-power-iteration-cdb66c.md)

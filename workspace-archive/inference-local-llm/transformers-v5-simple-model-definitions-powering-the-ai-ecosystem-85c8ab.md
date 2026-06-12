@@ -3,7 +3,7 @@ title: "Transformers v5: Simple model definitions powering the AI ecosystem"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformers-v5"
-local_vault_path: "ai\models\transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md"
+local_vault_path: "ai/models/transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformers-v5
 
 ## Local Vault File
 
-Path: [transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md](file:///../../ai\models\transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md)
+Path: [transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md](file:///../../ai/models/transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md)

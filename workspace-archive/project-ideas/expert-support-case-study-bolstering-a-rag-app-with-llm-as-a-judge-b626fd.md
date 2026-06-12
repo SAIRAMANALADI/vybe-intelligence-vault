@@ -3,7 +3,7 @@ title: "Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/digital-green-llm-judge"
-local_vault_path: "ai\rag\expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md"
+local_vault_path: "ai/rag/expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/digital-green-llm-judge
 
 ## Local Vault File
 
-Path: [expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md](file:///../../ai\rag\expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md)
+Path: [expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md](file:///../../ai/rag/expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md)

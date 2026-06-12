@@ -3,7 +3,7 @@ title: "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2604.18543"
-local_vault_path: "ai\agents\clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md"
+local_vault_path: "ai/agents/clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2604.18543
 
 ## Local Vault File
 
-Path: [clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md](file:///../../ai\agents\clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md)
+Path: [clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md](file:///../../ai/agents/clawenvkit-automatic-environment-generation-for-claw-like-agents-00fd78.md)

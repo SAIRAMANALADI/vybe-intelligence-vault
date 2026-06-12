@@ -3,7 +3,7 @@ title: "idflood/ThreeNodes.js"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgl"
 source_url: "https://github.com/idflood/ThreeNodes.js"
-local_vault_path: "web-development\webgl\idflood-threenodes-js-924fa3.md"
+local_vault_path: "web-development/webgl/idflood-threenodes-js-924fa3.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/idflood/ThreeNodes.js
 
 ## Local Vault File
 
-Path: [idflood-threenodes-js-924fa3.md](file:///../../web-development\webgl\idflood-threenodes-js-924fa3.md)
+Path: [idflood-threenodes-js-924fa3.md](file:///../../web-development/webgl/idflood-threenodes-js-924fa3.md)

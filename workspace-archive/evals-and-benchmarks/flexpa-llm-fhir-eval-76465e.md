@@ -3,7 +3,7 @@ title: "flexpa/llm-fhir-eval"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/flexpa/llm-fhir-eval"
-local_vault_path: "ai\resources\flexpa-llm-fhir-eval-76465e.md"
+local_vault_path: "ai/resources/flexpa-llm-fhir-eval-76465e.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/flexpa/llm-fhir-eval
 
 ## Local Vault File
 
-Path: [flexpa-llm-fhir-eval-76465e.md](file:///../../ai\resources\flexpa-llm-fhir-eval-76465e.md)
+Path: [flexpa-llm-fhir-eval-76465e.md](file:///../../ai/resources/flexpa-llm-fhir-eval-76465e.md)

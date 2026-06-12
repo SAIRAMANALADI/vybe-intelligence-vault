@@ -3,7 +3,7 @@ title: "Getting Started with Hugging Face Inference Endpoints"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-endpoints"
-local_vault_path: "ai\models\getting-started-with-hugging-face-inference-endpoints-29e895.md"
+local_vault_path: "ai/models/getting-started-with-hugging-face-inference-endpoints-29e895.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints
 
 ## Local Vault File
 
-Path: [getting-started-with-hugging-face-inference-endpoints-29e895.md](file:///../../ai\models\getting-started-with-hugging-face-inference-endpoints-29e895.md)
+Path: [getting-started-with-hugging-face-inference-endpoints-29e895.md](file:///../../ai/models/getting-started-with-hugging-face-inference-endpoints-29e895.md)

@@ -3,7 +3,7 @@ title: "A Security Review of Gradio 5"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-5-security"
-local_vault_path: "ai\models\a-security-review-of-gradio-5-482ddc.md"
+local_vault_path: "ai/models/a-security-review-of-gradio-5-482ddc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [a-security-review-of-gradio-5-482ddc.md](file:///../../ai\models\a-security-review-of-gradio-5-482ddc.md)
+Path: [a-security-review-of-gradio-5-482ddc.md](file:///../../ai/models/a-security-review-of-gradio-5-482ddc.md)

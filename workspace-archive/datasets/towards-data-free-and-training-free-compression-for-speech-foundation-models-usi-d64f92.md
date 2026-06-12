@@ -3,7 +3,7 @@ title: "Towards Data-free and Training-free Compression for Speech Foundation Mo
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11836"
-local_vault_path: "ai\research\towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md"
+local_vault_path: "ai/research/towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11836
 
 ## Local Vault File
 
-Path: [towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md](file:///../../ai\research\towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md)
+Path: [towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md](file:///../../ai/research/towards-data-free-and-training-free-compression-for-speech-foundation-models-usi-d64f92.md)

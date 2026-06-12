@@ -3,7 +3,7 @@ title: "Information-Theoretic Decomposition for Multimodal Interaction Learning"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11614"
-local_vault_path: "ai\rag\information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md"
+local_vault_path: "ai/rag/information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11614
 
 ## Local Vault File
 
-Path: [information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md](file:///../../ai\rag\information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md)
+Path: [information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md](file:///../../ai/rag/information-theoretic-decomposition-for-multimodal-interaction-learning-92bedc.md)

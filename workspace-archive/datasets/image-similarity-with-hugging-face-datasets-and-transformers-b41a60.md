@@ -3,7 +3,7 @@ title: "Image Similarity with Hugging Face Datasets and Transformers"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/image-similarity"
-local_vault_path: "ai\models\image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md"
+local_vault_path: "ai/models/image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md](file:///../../ai\models\image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md)
+Path: [image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md)

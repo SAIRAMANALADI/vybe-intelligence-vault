@@ -3,7 +3,7 @@ title: "bytefer/awesome-shadcn-ui"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/bytefer/awesome-shadcn-ui"
-local_vault_path: "web-development\shadcn-ui\bytefer-awesome-shadcn-ui-8d3768.md"
+local_vault_path: "web-development/shadcn-ui/bytefer-awesome-shadcn-ui-8d3768.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/bytefer/awesome-shadcn-ui
 
 ## Local Vault File
 
-Path: [bytefer-awesome-shadcn-ui-8d3768.md](file:///../../web-development\shadcn-ui\bytefer-awesome-shadcn-ui-8d3768.md)
+Path: [bytefer-awesome-shadcn-ui-8d3768.md](file:///../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui-8d3768.md)

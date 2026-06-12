@@ -3,7 +3,7 @@ title: "Higher-Order Token Interactions via Quantum Attention"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11673"
-local_vault_path: "ai\research\higher-order-token-interactions-via-quantum-attention-1bda73.md"
+local_vault_path: "ai/research/higher-order-token-interactions-via-quantum-attention-1bda73.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11673
 
 ## Local Vault File
 
-Path: [higher-order-token-interactions-via-quantum-attention-1bda73.md](file:///../../ai\research\higher-order-token-interactions-via-quantum-attention-1bda73.md)
+Path: [higher-order-token-interactions-via-quantum-attention-1bda73.md](file:///../../ai/research/higher-order-token-interactions-via-quantum-attention-1bda73.md)

@@ -1,0 +1,41 @@
+---
+title: 'Generativism: Toward a Learning Theory for the Age of Generative Artificial
+  Intelligence'
+category: ai/research
+source_type: arxiv
+source_name: arXiv AI
+source_url: https://arxiv.org/abs/2606.12441
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T05:01:59.482411+00:00'
+tags: []
+status: new
+---
+
+# Generativism: Toward a Learning Theory for the Age of Generative Artificial Intelligence
+
+## Summary
+
+arXiv:2606.12441v1 Announce Type: cross 
+Abstract: The four dominant learning theories of behaviorism, cognitivism, constructivism, and connectivism show significant conceptual limitations as generative artificial intelligence (AI) proliferates in educational settings. These frameworks were formulated before the emergence of AI systems capable of generating, synthesizing, and reasoning about knowledge. This article critically examines each learning theory and identifies assumptions challenged by generative AI's affordances. Drawing on research in distributed cognition, extended mind, human-AI collaboration, AI literacy, cognitive offloading, and metacognition, the article proposes Generativism as a learning theory for the generative AI age. Generativism posits that learning increasingly occurs through the iterative co-construction of knowledge between human learners and AI systems. The proposed framework is organized around four principles: epistemic partnership, distributed agency, generative literacy, and adaptive metacognition. The framework offers a foundation for rethinking instructional design, learning, assessment, and expertise development in contexts where generative AI plays an integral role in cognition.
+
+## Why It Matters
+
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
+
+## Paper Metadata
+
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.12441
+- Code Link: None
+- Code Stars: N/A
+
+## Key Topics & Tags
+
+- None

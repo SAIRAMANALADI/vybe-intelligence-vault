@@ -3,7 +3,7 @@ title: "FlexiBrain: Resolution-Agnostic Voxel-Level Encoding for Native fMRI"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11500"
-local_vault_path: "ai\research\flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md"
+local_vault_path: "ai/research/flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11500
 
 ## Local Vault File
 
-Path: [flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md](file:///../../ai\research\flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md)
+Path: [flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md](file:///../../ai/research/flexibrain-resolution-agnostic-voxel-level-encoding-for-native-fmri-02fe8b.md)

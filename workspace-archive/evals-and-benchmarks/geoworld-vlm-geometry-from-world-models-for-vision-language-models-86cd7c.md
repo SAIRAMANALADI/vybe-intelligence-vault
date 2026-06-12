@@ -1,0 +1,49 @@
+---
+title: "GeoWorld-VLM: Geometry from World Models for Vision-Language Models"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/research"
+source_url: "https://arxiv.org/abs/2605.16713"
+local_vault_path: "ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - youtube
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# GeoWorld-VLM: Geometry from World Models for Vision-Language Models
+
+## Why This Is In The Archive
+
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2605.16713v2 Announce Type: replace-cross 
+Abstract: Modern Vision-Language Models (VLMs) achieve strong semantic recognition, yet remain brittle on elementary spatial relations such as left of, on, behind, and between. One cause of this failure arises before language reasoning begins: the visual pathway may compress or discard critical 3D structural cues during feature extraction, so the language model receives image representations that are already insufficient for reliable spatial judgm
+
+## Use Cases
+
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2605.16713
+
+## Local Vault File
+
+Path: [geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md](file:///../../ai/research/geoworld-vlm-geometry-from-world-models-for-vision-language-models-86cd7c.md)

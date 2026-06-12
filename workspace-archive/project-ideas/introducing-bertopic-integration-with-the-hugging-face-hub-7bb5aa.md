@@ -3,7 +3,7 @@ title: "Introducing BERTopic Integration with the Hugging Face Hub"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/bertopic"
-local_vault_path: "ai\models\introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md"
+local_vault_path: "ai/models/introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bertopic
 
 ## Local Vault File
 
-Path: [introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md](file:///../../ai\models\introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md)
+Path: [introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md](file:///../../ai/models/introducing-bertopic-integration-with-the-hugging-face-hub-7bb5aa.md)

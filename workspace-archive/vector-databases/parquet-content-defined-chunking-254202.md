@@ -3,7 +3,7 @@ title: "Parquet Content-Defined Chunking"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/parquet-cdc"
-local_vault_path: "ai\rag\parquet-content-defined-chunking-254202.md"
+local_vault_path: "ai/rag/parquet-content-defined-chunking-254202.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/parquet-cdc
 
 ## Local Vault File
 
-Path: [parquet-content-defined-chunking-254202.md](file:///../../ai\rag\parquet-content-defined-chunking-254202.md)
+Path: [parquet-content-defined-chunking-254202.md](file:///../../ai/rag/parquet-content-defined-chunking-254202.md)

@@ -3,7 +3,7 @@ title: "Show HN: HelixDB – A graph database built on object storage"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://github.com/HelixDB/helix-db/tree/main"
-local_vault_path: "ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md"
+local_vault_path: "ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/HelixDB/helix-db/tree/main
 
 ## Local Vault File
 
-Path: [show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md](file:///../../ai\community\show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md)
+Path: [show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md](file:///../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md)

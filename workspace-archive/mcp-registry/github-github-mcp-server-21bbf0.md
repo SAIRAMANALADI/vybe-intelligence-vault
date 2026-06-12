@@ -3,7 +3,7 @@ title: "github/github-mcp-server"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/github/github-mcp-server"
-local_vault_path: "ai\resources\github-github-mcp-server-21bbf0.md"
+local_vault_path: "ai/resources/github-github-mcp-server-21bbf0.md"
 quality_score: 70
 archive_score: 89
 archive_tier: "essential"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/github/github-mcp-server
 
 ## Local Vault File
 
-Path: [github-github-mcp-server-21bbf0.md](file:///../../ai\resources\github-github-mcp-server-21bbf0.md)
+Path: [github-github-mcp-server-21bbf0.md](file:///../../ai/resources/github-github-mcp-server-21bbf0.md)
