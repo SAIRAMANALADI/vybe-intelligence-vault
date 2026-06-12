@@ -3,7 +3,7 @@ title: "Ouroboros-Spatial: Closing the Data-Model Loop for Spatial Reasoning"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11719"
-local_vault_path: "ai\research\ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md"
+local_vault_path: "ai/research/ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11719
 
 ## Local Vault File
 
-Path: [ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md](file:///../../ai\research\ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md)
+Path: [ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md](file:///../../ai/research/ouroboros-spatial-closing-the-data-model-loop-for-spatial-reasoning-2a42a2.md)

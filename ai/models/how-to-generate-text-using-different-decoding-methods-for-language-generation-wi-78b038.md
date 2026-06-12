@@ -5,10 +5,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/how-to-generate
-published_at: '2020-02-29T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.332699+00:00'
+published_at: '2020-03-01T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.825488+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/how-to-generate
+first_seen: '2026-06-12T10:40:08.825488+00:00'
+last_seen: '2026-06-12T10:40:08.825488+00:00'
 ---
 
 # How to generate text: using different decoding methods for language generation with Transformers
@@ -19,17 +22,13 @@ No summary provided. Reference resource: How to generate text: using different d
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2020-02-29T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2020-03-01T00:00:00+00:00
 
 ## Related Tags
 

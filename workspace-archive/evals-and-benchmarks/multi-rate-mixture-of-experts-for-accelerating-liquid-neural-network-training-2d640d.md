@@ -3,7 +3,7 @@ title: "Multi-Rate Mixture of Experts for Accelerating Liquid Neural Network Tra
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12240"
-local_vault_path: "ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md"
+local_vault_path: "ai/research/multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -27,8 +27,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.12240v1 Announce Type: cross 
-Abstract: Multivariate time-series data often exhibit complex temporal dependencies, irregular sampling, and heterogeneous dynamics across multiple time scales, making accurate sequence modeling particularly challenging. Traditional recurrent neural networks (RNNs), such as Long Short-Term Memory (LSTM) networks, operate in discrete time and may struggle to effectively capture continuous and irregular temporal behaviors. Liquid Neural Networks (LNNs) addr
+arXiv:2606.12240v1 Announce Type: new 
+Abstract: Multivariate time-series data often exhibit complex temporal dependencies, irregular sampling, and heterogeneous dynamics across multiple time scales, making accurate sequence modeling particularly challenging. Traditional recurrent neural networks (RNNs), such as Long Short-Term Memory (LSTM) networks, operate in discrete time and may struggle to effectively capture continuous and irregular temporal behaviors. Liquid Neural Networks (LNNs) addres
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12240
 
 ## Local Vault File
 
-Path: [multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md](file:///../../ai\research\multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md)
+Path: [multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md](file:///../../ai/research/multi-rate-mixture-of-experts-for-accelerating-liquid-neural-network-training-2d640d.md)

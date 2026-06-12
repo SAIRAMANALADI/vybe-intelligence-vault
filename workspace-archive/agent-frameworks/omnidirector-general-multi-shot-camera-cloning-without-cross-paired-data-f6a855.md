@@ -3,7 +3,7 @@ title: "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Dat
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13432"
-local_vault_path: "ai\agents\omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md"
+local_vault_path: "ai/agents/omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13432
 
 ## Local Vault File
 
-Path: [omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md](file:///../../ai\agents\omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md)
+Path: [omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md](file:///../../ai/agents/omnidirector-general-multi-shot-camera-cloning-without-cross-paired-data-f6a855.md)

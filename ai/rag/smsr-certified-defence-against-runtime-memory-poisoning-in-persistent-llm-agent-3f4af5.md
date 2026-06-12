@@ -11,13 +11,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482900+00:00'
+collected_at: '2026-06-12T10:40:03.104006+00:00'
 tags:
 - agents
 - models
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.12703
+first_seen: '2026-06-12T10:40:03.104006+00:00'
+last_seen: '2026-06-12T10:40:03.104006+00:00'
 ---
 
 # SMSR: Certified Defence Against Runtime Memory Poisoning in Persistent LLM Agent Systems

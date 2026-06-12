@@ -3,14 +3,14 @@ title: "Renewable Lasso without Batch-Number Constraints: A Gradient-Enhanced Ap
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11738"
-local_vault_path: "ai\research\renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md"
+local_vault_path: "ai/research/renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Renewable Lasso without Batch-Number Constraints: A Gradient-Enhanced Approach
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11738
 
 ## Local Vault File
 
-Path: [renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md](file:///../../ai\research\renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md)
+Path: [renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md](file:///../../ai/research/renewable-lasso-without-batch-number-constraints-a-gradient-enhanced-approach-129446.md)

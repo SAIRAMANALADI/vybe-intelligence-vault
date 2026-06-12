@@ -3,14 +3,17 @@ title: "Density Ridge Selective Prediction for LLM and VLM Hallucination Detecti
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10198"
-local_vault_path: "ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md"
+local_vault_path: "ai/research/density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Density Ridge Selective Prediction for LLM and VLM Hallucination Detection under Calibration Label Scarcity
@@ -18,15 +21,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.10198v2 Announce Type: replace-cross 
-Abstract: Hallucination detection in large language and vision-language models is increasingly framed as selective prediction, where a detector assigns a confidence score and abstains when confidence is low. Unsupervised sampling detectors (Semantic Entropy) avoid labels but plateau in quality, while supervised probes attain stronger in-distribution scores yet degrade sharply when calibration labels are scarce. We recover the response manifold of
+arXiv:2606.10198v2 Announce Type: replace 
+Abstract: Hallucination detection in large language and vision-language models is increasingly framed as selective prediction, where a detector assigns a confidence score and abstains when confidence is low. Unsupervised sampling detectors (Semantic Entropy) avoid labels but plateau in quality, while supervised probes attain stronger in-distribution scores yet degrade sharply when calibration labels are scarce. We recover the response manifold of an LLM
 
 ## Use Cases
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.10198
 
 ## Local Vault File
 
-Path: [density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md](file:///../../ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md)
+Path: [density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md](file:///../../ai/research/density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md)

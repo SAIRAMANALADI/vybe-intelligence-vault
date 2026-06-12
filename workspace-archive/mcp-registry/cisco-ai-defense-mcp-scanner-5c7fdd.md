@@ -3,7 +3,7 @@ title: "cisco-ai-defense/mcp-scanner"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/cisco-ai-defense/mcp-scanner"
-local_vault_path: "ai\agents\cisco-ai-defense-mcp-scanner-5c7fdd.md"
+local_vault_path: "ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/cisco-ai-defense/mcp-scanner
 
 ## Local Vault File
 
-Path: [cisco-ai-defense-mcp-scanner-5c7fdd.md](file:///../../ai\agents\cisco-ai-defense-mcp-scanner-5c7fdd.md)
+Path: [cisco-ai-defense-mcp-scanner-5c7fdd.md](file:///../../ai/agents/cisco-ai-defense-mcp-scanner-5c7fdd.md)

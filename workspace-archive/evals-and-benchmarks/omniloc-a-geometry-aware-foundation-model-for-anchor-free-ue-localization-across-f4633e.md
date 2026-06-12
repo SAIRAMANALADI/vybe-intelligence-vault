@@ -3,17 +3,20 @@ title: "OmniLoc: A Geometry-Aware Foundation Model for Anchor-Free UE Localizati
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11490"
-local_vault_path: "ai\rag\omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md"
+local_vault_path: "ai/rag/omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - dataset
+  - paper
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # OmniLoc: A Geometry-Aware Foundation Model for Anchor-Free UE Localization Across Diverse Indoor Environments
@@ -22,10 +25,10 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.11490
 
 ## Local Vault File
 
-Path: [omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md](file:///../../ai\rag\omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md)
+Path: [omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md](file:///../../ai/rag/omniloc-a-geometry-aware-foundation-model-for-anchor-free-ue-localization-across-f4633e.md)

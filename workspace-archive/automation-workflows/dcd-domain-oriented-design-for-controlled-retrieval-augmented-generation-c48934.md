@@ -3,7 +3,7 @@ title: "DCD: Domain-Oriented Design for Controlled Retrieval-Augmented Generatio
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.07590"
-local_vault_path: "ai\rag\dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md"
+local_vault_path: "ai/rag/dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2604.07590
 
 ## Local Vault File
 
-Path: [dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md](file:///../../ai\rag\dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md)
+Path: [dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md](file:///../../ai/rag/dcd-domain-oriented-design-for-controlled-retrieval-augmented-generation-c48934.md)

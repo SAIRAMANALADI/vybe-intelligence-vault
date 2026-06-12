@@ -3,7 +3,7 @@ title: "Towards Fully Automated Exam Grading: Fairness-Aware Recognition of Hand
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11477"
-local_vault_path: "ai\research\towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md"
+local_vault_path: "ai/research/towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11477
 
 ## Local Vault File
 
-Path: [towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md](file:///../../ai\research\towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md)
+Path: [towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md](file:///../../ai/research/towards-fully-automated-exam-grading-fairness-aware-recognition-of-handwritten-a-26cca9.md)

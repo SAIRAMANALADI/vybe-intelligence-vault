@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481908+00:00'
+collected_at: '2026-06-12T10:40:03.102838+00:00'
 tags:
 - agents
 - paper
-status: new
+status: active
+id: arxiv:2606.13441
+first_seen: '2026-06-12T10:40:03.102838+00:00'
+last_seen: '2026-06-12T10:40:03.102838+00:00'
 ---
 
 # Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models

@@ -3,14 +3,18 @@ title: "Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12171"
-local_vault_path: "ai\research\beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md"
+local_vault_path: "ai/research/beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - hackernews
+  - youtube
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions
@@ -18,10 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12171
 
 ## Local Vault File
 
-Path: [beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md](file:///../../ai\research\beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md)
+Path: [beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md](file:///../../ai/research/beyond-dark-knowledge-mixup-based-distillation-for-reliable-predictions-d84dd2.md)

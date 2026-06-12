@@ -10,14 +10,17 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.483418+00:00'
+collected_at: '2026-06-12T10:40:03.104582+00:00'
 tags:
 - benchmark
 - hackernews
 - paper
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.12988
+first_seen: '2026-06-12T10:40:03.104582+00:00'
+last_seen: '2026-06-12T10:40:03.104582+00:00'
 ---
 
 # A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis

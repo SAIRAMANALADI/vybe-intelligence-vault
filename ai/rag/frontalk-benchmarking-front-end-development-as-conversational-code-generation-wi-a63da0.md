@@ -5,12 +5,21 @@ category: ai/rag
 source_type: arxiv
 source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2601.04203
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:55.799370+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.019075+00:00'
 tags:
 - agents
+- benchmark
 - rag
-status: new
+status: active
+id: arxiv:2601.04203
+first_seen: '2026-06-12T10:40:06.019075+00:00'
+last_seen: '2026-06-12T10:40:06.019075+00:00'
 ---
 
 # FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback
@@ -22,23 +31,19 @@ Abstract: We present FronTalk, a benchmark for front-end code generation that pi
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv Machine Learning
-- Category: ai/rag
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2601.04203
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
+## Key Topics & Tags
 
 - agents
+- benchmark
 - rag
-
-## Source
-
-Original source: https://arxiv.org/abs/2601.04203

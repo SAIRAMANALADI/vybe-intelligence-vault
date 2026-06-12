@@ -3,7 +3,7 @@ title: "Real-Time Execution with Autoregressive Policies"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13355"
-local_vault_path: "ai\research\real-time-execution-with-autoregressive-policies-9392bb.md"
+local_vault_path: "ai/research/real-time-execution-with-autoregressive-policies-9392bb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13355
 
 ## Local Vault File
 
-Path: [real-time-execution-with-autoregressive-policies-9392bb.md](file:///../../ai\research\real-time-execution-with-autoregressive-policies-9392bb.md)
+Path: [real-time-execution-with-autoregressive-policies-9392bb.md](file:///../../ai/research/real-time-execution-with-autoregressive-policies-9392bb.md)

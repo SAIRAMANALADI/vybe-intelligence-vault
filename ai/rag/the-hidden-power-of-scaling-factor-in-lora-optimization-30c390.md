@@ -10,14 +10,17 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481190+00:00'
+collected_at: '2026-06-12T10:40:03.102046+00:00'
 tags:
 - benchmark
 - hackernews
 - models
 - paper
 - rag
-status: new
+status: active
+id: arxiv:2606.12883
+first_seen: '2026-06-12T10:40:03.102046+00:00'
+last_seen: '2026-06-12T10:40:03.102046+00:00'
 ---
 
 # The Hidden Power of Scaling Factor in LoRA Optimization

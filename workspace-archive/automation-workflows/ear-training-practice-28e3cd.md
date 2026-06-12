@@ -3,7 +3,7 @@ title: "Ear Training Practice"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://tonedear.com/"
-local_vault_path: "ai\community\ear-training-practice-28e3cd.md"
+local_vault_path: "ai/community/ear-training-practice-28e3cd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://tonedear.com/
 
 ## Local Vault File
 
-Path: [ear-training-practice-28e3cd.md](file:///../../ai\community\ear-training-practice-28e3cd.md)
+Path: [ear-training-practice-28e3cd.md](file:///../../ai/community/ear-training-practice-28e3cd.md)

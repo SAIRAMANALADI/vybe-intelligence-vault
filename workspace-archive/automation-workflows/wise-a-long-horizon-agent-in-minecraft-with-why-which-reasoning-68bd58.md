@@ -3,7 +3,7 @@ title: "WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12852"
-local_vault_path: "ai\agents\wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md"
+local_vault_path: "ai/agents/wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12852
 
 ## Local Vault File
 
-Path: [wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md](file:///../../ai\agents\wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md)
+Path: [wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md](file:///../../ai/agents/wise-a-long-horizon-agent-in-minecraft-with-why-which-reasoning-68bd58.md)

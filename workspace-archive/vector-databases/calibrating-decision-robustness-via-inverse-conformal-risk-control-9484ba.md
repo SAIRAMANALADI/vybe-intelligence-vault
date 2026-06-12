@@ -3,13 +3,14 @@ title: "Calibrating Decision Robustness via Inverse Conformal Risk Control"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.07750"
-local_vault_path: "ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md"
+local_vault_path: "ai/rag/calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - paper
   - rag
 selection_reason:
   - "Useful for project building"
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2510.07750
 
 ## Local Vault File
 
-Path: [calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md](file:///../../ai\rag\calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md)
+Path: [calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md](file:///../../ai/rag/calibrating-decision-robustness-via-inverse-conformal-risk-control-9484ba.md)

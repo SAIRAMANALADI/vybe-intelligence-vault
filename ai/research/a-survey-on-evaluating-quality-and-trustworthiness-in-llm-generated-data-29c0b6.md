@@ -2,39 +2,43 @@
 title: A Survey on Evaluating Quality and Trustworthiness in LLM-Generated Data
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2601.17717
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.523599+00:00'
-tags: []
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.019130+00:00'
+tags:
+- benchmark
+status: active
+id: arxiv:2601.17717
+first_seen: '2026-06-12T10:40:06.019130+00:00'
+last_seen: '2026-06-12T10:40:06.019130+00:00'
 ---
 
 # A Survey on Evaluating Quality and Trustworthiness in LLM-Generated Data
 
 ## Summary
 
-arXiv:2601.17717v3 Announce Type: replace 
+arXiv:2601.17717v3 Announce Type: replace-cross 
 Abstract: Large Language Models (LLMs) have emerged as powerful tools for generating data across various modalities. By transforming data from a scarce resource into a controllable asset, LLMs mitigate the bottlenecks imposed by the acquisition costs of real-world data for model training, evaluation, and system iteration. However, ensuring the high quality of LLM-generated synthetic data remains a critical challenge. Existing research primarily focuses on generation methodologies, with limited direct attention to the quality of the resulting data. Furthermore, most studies are restricted to single modalities, lacking a unified perspective across different data types. To bridge this gap, we propose the \textbf{LLM Data Auditor framework}. In this framework, we first describe how LLMs are utilized to generate data across six distinct modalities. More importantly, we systematically categorize intrinsic metrics for evaluating synthetic data from two dimensions: quality and trustworthiness. This approach shifts the focus from extrinsic evaluation, which relies on downstream task performance, to the inherent properties of the data itself. Using this evaluation system, we analyze the experimental evaluations of representative generation methods for each modality and identify substantial deficiencies in current evaluation practices. Based on these findings, we offer concrete recommendations for the community to improve the evaluation of data generation. Finally, the framework outlines methodologies for the practical application of synthetic data across different modalities.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2601.17717
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- None
-
-## Source
-
-Original source: https://arxiv.org/abs/2601.17717
+- benchmark

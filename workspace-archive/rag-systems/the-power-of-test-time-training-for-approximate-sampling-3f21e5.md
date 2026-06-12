@@ -3,7 +3,7 @@ title: "The Power of Test-Time Training for Approximate Sampling"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11437"
-local_vault_path: "ai\research\the-power-of-test-time-training-for-approximate-sampling-3f21e5.md"
+local_vault_path: "ai/research/the-power-of-test-time-training-for-approximate-sampling-3f21e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11437
 
 ## Local Vault File
 
-Path: [the-power-of-test-time-training-for-approximate-sampling-3f21e5.md](file:///../../ai\research\the-power-of-test-time-training-for-approximate-sampling-3f21e5.md)
+Path: [the-power-of-test-time-training-for-approximate-sampling-3f21e5.md](file:///../../ai/research/the-power-of-test-time-training-for-approximate-sampling-3f21e5.md)

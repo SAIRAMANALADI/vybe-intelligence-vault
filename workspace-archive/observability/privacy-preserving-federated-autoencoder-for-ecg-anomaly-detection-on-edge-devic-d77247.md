@@ -3,18 +3,21 @@ title: "Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Ed
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11556"
-local_vault_path: "ai\rag\privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md"
+local_vault_path: "ai/rag/privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - dataset
+  - hackernews
   - models
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices
@@ -23,10 +26,10 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -46,4 +49,4 @@ Original source URL: https://arxiv.org/abs/2606.11556
 
 ## Local Vault File
 
-Path: [privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md](file:///../../ai\rag\privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md)
+Path: [privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md](file:///../../ai/rag/privacy-preserving-federated-autoencoder-for-ecg-anomaly-detection-on-edge-devic-d77247.md)

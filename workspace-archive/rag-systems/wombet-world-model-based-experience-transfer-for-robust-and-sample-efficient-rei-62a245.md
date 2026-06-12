@@ -3,7 +3,7 @@ title: "WOMBET: World Model-Based Experience Transfer for Robust and Sample-effi
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2604.08958"
-local_vault_path: "ai\rag\wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md"
+local_vault_path: "ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2604.08958
 
 ## Local Vault File
 
-Path: [wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md](file:///../../ai\rag\wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md)
+Path: [wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md](file:///../../ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md)

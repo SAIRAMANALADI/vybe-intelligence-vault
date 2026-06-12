@@ -3,11 +3,11 @@ title: "The Falcon has landed in the Hugging Face ecosystem"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/falcon"
-local_vault_path: "ai\models\the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md"
+local_vault_path: "ai/models/the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md](file:///../../ai\models\the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md)
+Path: [the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md](file:///../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md)

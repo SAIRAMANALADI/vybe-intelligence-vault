@@ -3,7 +3,7 @@ title: "The Hugging Face Hub for Galleries, Libraries, Archives and Museums"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hf-hub-glam-guide"
-local_vault_path: "ai\models\the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md"
+local_vault_path: "ai/models/the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/hf-hub-glam-guide
 
 ## Local Vault File
 
-Path: [the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md](file:///../../ai\models\the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md)
+Path: [the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md](file:///../../ai/models/the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md)

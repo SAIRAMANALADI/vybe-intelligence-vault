@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484803+00:00'
+collected_at: '2026-06-12T10:40:03.106111+00:00'
 tags:
 - agents
 - paper
-status: new
+status: active
+id: arxiv:2605.27628
+first_seen: '2026-06-12T10:40:03.106111+00:00'
+last_seen: '2026-06-12T10:40:03.106111+00:00'
 ---
 
 # Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems

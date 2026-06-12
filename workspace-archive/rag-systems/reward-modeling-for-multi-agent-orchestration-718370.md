@@ -3,7 +3,7 @@ title: "Reward Modeling for Multi-Agent Orchestration"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13598"
-local_vault_path: "ai\rag\reward-modeling-for-multi-agent-orchestration-718370.md"
+local_vault_path: "ai/rag/reward-modeling-for-multi-agent-orchestration-718370.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13598
 
 ## Local Vault File
 
-Path: [reward-modeling-for-multi-agent-orchestration-718370.md](file:///../../ai\rag\reward-modeling-for-multi-agent-orchestration-718370.md)
+Path: [reward-modeling-for-multi-agent-orchestration-718370.md](file:///../../ai/rag/reward-modeling-for-multi-agent-orchestration-718370.md)

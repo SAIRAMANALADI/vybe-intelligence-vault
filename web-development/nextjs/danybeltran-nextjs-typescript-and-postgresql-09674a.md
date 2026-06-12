@@ -4,13 +4,16 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/danybeltran/nextjs-typescript-and-postgresql
-collected_at: '2026-06-11T08:45:43.851299+00:00'
+collected_at: '2026-06-12T10:40:20.338242+00:00'
 published_at: '2026-04-19T19:45:34Z'
 tags:
 - frontend_ui
 stars: 162
 language: TypeScript
-status: new
+status: active
+id: github:danybeltran/nextjs-typescript-and-postgresql
+first_seen: '2026-06-12T10:40:20.338242+00:00'
+last_seen: '2026-06-12T10:40:20.338242+00:00'
 ---
 
 # danybeltran/nextjs-typescript-and-postgresql

@@ -3,14 +3,17 @@ title: "Intermittent time series forecasting: local vs global models"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14031"
-local_vault_path: "ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md"
+local_vault_path: "ai/research/intermittent-time-series-forecasting-local-vs-global-models-772171.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Intermittent time series forecasting: local vs global models
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.14031
 
 ## Local Vault File
 
-Path: [intermittent-time-series-forecasting-local-vs-global-models-772171.md](file:///../../ai\research\intermittent-time-series-forecasting-local-vs-global-models-772171.md)
+Path: [intermittent-time-series-forecasting-local-vs-global-models-772171.md](file:///../../ai/research/intermittent-time-series-forecasting-local-vs-global-models-772171.md)

@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-three-flex
-collected_at: '2026-06-11T08:45:37.431885+00:00'
+collected_at: '2026-06-12T10:40:15.865506+00:00'
 published_at: '2026-06-02T20:52:38Z'
 tags:
 - frontend_ui
 - threejs
 stars: 1734
 language: TypeScript
-status: new
+status: active
+id: github:pmndrs/react-three-flex
+first_seen: '2026-06-12T10:40:15.865506+00:00'
+last_seen: '2026-06-12T10:40:15.865506+00:00'
 ---
 
 # pmndrs/react-three-flex

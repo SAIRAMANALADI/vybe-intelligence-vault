@@ -4,10 +4,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/spaces-dev-mode
-published_at: '2024-05-20T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.327431+00:00'
+published_at: '2024-05-21T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.815527+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/spaces-dev-mode
+first_seen: '2026-06-12T10:40:08.815527+00:00'
+last_seen: '2026-06-12T10:40:08.815527+00:00'
 ---
 
 # Introducing Spaces Dev Mode for a seamless developer experience
@@ -18,17 +21,13 @@ No summary provided. Reference resource: Introducing Spaces Dev Mode for a seaml
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-05-20T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2024-05-21T00:00:00+00:00
 
 ## Related Tags
 

@@ -3,7 +3,7 @@ title: "abacaj/code-eval"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/abacaj/code-eval"
-local_vault_path: "ai\resources\abacaj-code-eval-d6eb4e.md"
+local_vault_path: "ai/resources/abacaj-code-eval-d6eb4e.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/abacaj/code-eval
 
 ## Local Vault File
 
-Path: [abacaj-code-eval-d6eb4e.md](file:///../../ai\resources\abacaj-code-eval-d6eb4e.md)
+Path: [abacaj-code-eval-d6eb4e.md](file:///../../ai/resources/abacaj-code-eval-d6eb4e.md)

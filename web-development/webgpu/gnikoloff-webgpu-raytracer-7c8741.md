@@ -4,13 +4,16 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/gnikoloff/webgpu-raytracer
-collected_at: '2026-06-11T08:45:39.177253+00:00'
+collected_at: '2026-06-12T10:40:17.491236+00:00'
 published_at: '2026-06-11T07:08:57Z'
 tags:
 - threejs
 stars: 181
 language: TypeScript
-status: new
+status: active
+id: github:gnikoloff/webgpu-raytracer
+first_seen: '2026-06-12T10:40:17.491236+00:00'
+last_seen: '2026-06-12T10:40:17.491236+00:00'
 ---
 
 # gnikoloff/webgpu-raytracer

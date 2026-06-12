@@ -3,7 +3,7 @@ title: "LLMs Can Better Capture Human Judgments--With the Right Prompts"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12754"
-local_vault_path: "ai\research\llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md"
+local_vault_path: "ai/research/llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12754
 
 ## Local Vault File
 
-Path: [llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md](file:///../../ai\research\llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md)
+Path: [llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md](file:///../../ai/research/llms-can-better-capture-human-judgments-with-the-right-prompts-191877.md)

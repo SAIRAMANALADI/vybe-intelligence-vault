@@ -3,7 +3,7 @@ title: "Learn more"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research"
-local_vault_path: "ai\companies\deepmind\learn-more-314226.md"
+local_vault_path: "ai/companies/deepmind/learn-more-314226.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://deepmind.google/blog/co-scientist-a-multi-agent-ai-
 
 ## Local Vault File
 
-Path: [learn-more-314226.md](file:///../../ai\companies\deepmind\learn-more-314226.md)
+Path: [learn-more-314226.md](file:///../../ai/companies/deepmind/learn-more-314226.md)

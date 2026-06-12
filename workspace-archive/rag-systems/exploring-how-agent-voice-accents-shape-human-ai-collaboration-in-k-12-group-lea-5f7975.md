@@ -3,7 +3,7 @@ title: "Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 G
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12805"
-local_vault_path: "ai\agents\exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md"
+local_vault_path: "ai/agents/exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12805
 
 ## Local Vault File
 
-Path: [exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md](file:///../../ai\agents\exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md)
+Path: [exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md](file:///../../ai/agents/exploring-how-agent-voice-accents-shape-human-ai-collaboration-in-k-12-group-lea-5f7975.md)

@@ -3,16 +3,16 @@ title: "Categorical Prior Lock-in: Why In-Context Learning Fails for Structured 
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11961"
-local_vault_path: "ai\research\categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md"
+local_vault_path: "ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Categorical Prior Lock-in: Why In-Context Learning Fails for Structured Data
@@ -21,14 +21,14 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11961v1 Announce Type: cross 
-Abstract: Large language models (LLMs) are increasingly used as conditional generators for structured data, relying on in-context learning (ICL) to adapt to new distributions without parameter updates. We investigate the limits of ICL for structured generation under distribution mismatch, using high-cardinality tabular data as a controlled test case, and identify a structural failure mode we term \textit{categorical prior lock-in}: the inability of ICL to
+arXiv:2606.11961v1 Announce Type: new 
+Abstract: Large language models (LLMs) are increasingly used as conditional generators for structured data, relying on in-context learning (ICL) to adapt to new distributions without parameter updates. We investigate the limits of ICL for structured generation under distribution mismatch, using high-cardinality tabular data as a controlled test case, and identify a structural failure mode we term \textit{categorical prior lock-in}: the inability of ICL to u
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11961
 
 ## Local Vault File
 
-Path: [categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md](file:///../../ai\research\categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md)
+Path: [categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md](file:///../../ai/research/categorical-prior-lock-in-why-in-context-learning-fails-for-structured-data-0f3311.md)

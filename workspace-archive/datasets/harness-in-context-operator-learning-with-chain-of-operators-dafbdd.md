@@ -3,13 +3,14 @@ title: "Harness In-Context Operator Learning with Chain of Operators"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12318"
-local_vault_path: "ai\research\harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md"
+local_vault_path: "ai/research/harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - models
 selection_reason:
   - "Useful for project building"
@@ -27,8 +28,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.12318v1 Announce Type: cross 
-Abstract: Neural operators approximate mappings between function spaces, but often generalize poorly to other operators and usually require fine-tuning or retraining. In-Context Operator Networks (ICON) addresses this issue by prompting the model with numerical context so that the model learns specific operators from prompts and adapt to different operators without fine-tuning. However, ICON may still fail to generalize to out-of-distribution (OOD) operat
+arXiv:2606.12318v1 Announce Type: new 
+Abstract: Neural operators approximate mappings between function spaces, but often generalize poorly to other operators and usually require fine-tuning or retraining. In-Context Operator Networks (ICON) addresses this issue by prompting the model with numerical context so that the model learns specific operators from prompts and adapt to different operators without fine-tuning. However, ICON may still fail to generalize to out-of-distribution (OOD) operator
 
 ## Use Cases
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12318
 
 ## Local Vault File
 
-Path: [harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md](file:///../../ai\research\harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md)
+Path: [harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md](file:///../../ai/research/harness-in-context-operator-learning-with-chain-of-operators-dafbdd.md)

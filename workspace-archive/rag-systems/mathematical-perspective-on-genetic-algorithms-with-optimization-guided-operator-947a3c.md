@@ -3,13 +3,14 @@ title: "Mathematical perspective on genetic algorithms with optimization guided 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12279"
-local_vault_path: "ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
+local_vault_path: "ai/research/mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +19,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12279
 
 ## Local Vault File
 
-Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai\research\mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)
+Path: [mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md](file:///../../ai/research/mathematical-perspective-on-genetic-algorithms-with-optimization-guided-operator-947a3c.md)

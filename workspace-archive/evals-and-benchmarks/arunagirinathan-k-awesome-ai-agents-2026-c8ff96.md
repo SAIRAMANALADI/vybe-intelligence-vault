@@ -3,7 +3,7 @@ title: "ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026"
-local_vault_path: "ai\agents\arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md"
+local_vault_path: "ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md](file:///../../ai\agents\arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md)
+Path: [arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md](file:///../../ai/agents/arunagirinathan-k-awesome-ai-agents-2026-c8ff96.md)

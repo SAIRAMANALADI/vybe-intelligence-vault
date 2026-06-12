@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/uikit
-collected_at: '2026-06-11T08:45:37.431822+00:00'
+collected_at: '2026-06-12T10:40:15.865429+00:00'
 published_at: '2026-06-09T12:36:17Z'
 tags:
 - frontend_ui
 - threejs
 stars: 3165
 language: TypeScript
-status: new
+status: active
+id: github:pmndrs/uikit
+first_seen: '2026-06-12T10:40:15.865429+00:00'
+last_seen: '2026-06-12T10:40:15.865429+00:00'
 ---
 
 # pmndrs/uikit

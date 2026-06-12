@@ -4,13 +4,16 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/sanderblue/solar-system-threejs
-collected_at: '2026-06-11T08:45:35.488531+00:00'
+collected_at: '2026-06-12T10:40:14.585941+00:00'
 published_at: '2026-06-02T02:26:48Z'
 tags:
 - threejs
 stars: 405
 language: JavaScript
-status: new
+status: active
+id: github:sanderblue/solar-system-threejs
+first_seen: '2026-06-12T10:40:14.585941+00:00'
+last_seen: '2026-06-12T10:40:14.585941+00:00'
 ---
 
 # sanderblue/solar-system-threejs

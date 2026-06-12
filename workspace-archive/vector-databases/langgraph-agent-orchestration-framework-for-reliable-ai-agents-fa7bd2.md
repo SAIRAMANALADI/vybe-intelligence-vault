@@ -3,7 +3,7 @@ title: "LangGraph: Agent Orchestration Framework for Reliable AI Agents"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.langchain.com/langgraph"
-local_vault_path: "ai\rag\langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md"
+local_vault_path: "ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://www.langchain.com/langgraph
 
 ## Local Vault File
 
-Path: [langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md](file:///../../ai\rag\langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md)
+Path: [langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md](file:///../../ai/rag/langgraph-agent-orchestration-framework-for-reliable-ai-agents-fa7bd2.md)

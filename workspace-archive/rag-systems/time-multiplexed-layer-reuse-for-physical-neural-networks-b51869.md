@@ -3,18 +3,18 @@ title: "Time-multiplexed layer reuse for physical neural networks"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.00044"
-local_vault_path: "ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md"
+local_vault_path: "ai/rag/time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "api"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Time-multiplexed layer reuse for physical neural networks
@@ -23,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2511.00044
 
 ## Local Vault File
 
-Path: [time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md](file:///../../ai\rag\time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md)
+Path: [time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md](file:///../../ai/rag/time-multiplexed-layer-reuse-for-physical-neural-networks-b51869.md)

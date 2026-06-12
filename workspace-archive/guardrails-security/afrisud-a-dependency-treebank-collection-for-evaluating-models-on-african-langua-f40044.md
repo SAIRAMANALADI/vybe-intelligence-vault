@@ -3,7 +3,7 @@ title: "AfriSUD: A Dependency Treebank Collection for Evaluating Models on Afric
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12708"
-local_vault_path: "ai\research\afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md"
+local_vault_path: "ai/research/afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12708
 
 ## Local Vault File
 
-Path: [afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md](file:///../../ai\research\afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md)
+Path: [afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md](file:///../../ai/research/afrisud-a-dependency-treebank-collection-for-evaluating-models-on-african-langua-f40044.md)

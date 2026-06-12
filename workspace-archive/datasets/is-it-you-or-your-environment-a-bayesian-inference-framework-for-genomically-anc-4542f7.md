@@ -3,7 +3,7 @@ title: "Is It You or Your Environment? A Bayesian Inference Framework for Genomi
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13556"
-local_vault_path: "ai\research\is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md"
+local_vault_path: "ai/research/is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13556
 
 ## Local Vault File
 
-Path: [is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md](file:///../../ai\research\is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md)
+Path: [is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md](file:///../../ai/research/is-it-you-or-your-environment-a-bayesian-inference-framework-for-genomically-anc-4542f7.md)

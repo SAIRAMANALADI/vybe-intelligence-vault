@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/itsfaqih/fama
-collected_at: '2026-06-11T08:45:41.211960+00:00'
+collected_at: '2026-06-12T10:40:18.783015+00:00'
 published_at: '2026-05-23T09:52:34Z'
 tags:
 - animation
@@ -12,7 +12,10 @@ tags:
 - frontend_ui
 stars: 232
 language: TypeScript
-status: new
+status: active
+id: github:itsfaqih/fama
+first_seen: '2026-06-12T10:40:18.783015+00:00'
+last_seen: '2026-06-12T10:40:18.783015+00:00'
 ---
 
 # itsfaqih/fama

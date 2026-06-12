@@ -3,7 +3,7 @@ title: "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.31514"
-local_vault_path: "ai\agents\if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md"
+local_vault_path: "ai/agents/if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.31514
 
 ## Local Vault File
 
-Path: [if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md](file:///../../ai\agents\if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md)
+Path: [if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md](file:///../../ai/agents/if-llms-have-human-like-attributes-then-so-does-age-of-empires-ii-67cd28.md)

@@ -3,7 +3,7 @@ title: "Towards More General Control of Diffusion Models Using Jeffrey Guidance"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13240"
-local_vault_path: "ai\rag\towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md"
+local_vault_path: "ai/rag/towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13240
 
 ## Local Vault File
 
-Path: [towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md](file:///../../ai\rag\towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md)
+Path: [towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md](file:///../../ai/rag/towards-more-general-control-of-diffusion-models-using-jeffrey-guidance-2cb568.md)

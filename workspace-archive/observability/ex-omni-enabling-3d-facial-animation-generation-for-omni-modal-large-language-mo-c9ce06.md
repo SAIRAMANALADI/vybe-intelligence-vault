@@ -3,7 +3,7 @@ title: "Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large La
 archive_category: "observability"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.07106"
-local_vault_path: "ai\research\ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md"
+local_vault_path: "ai/research/ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.07106
 
 ## Local Vault File
 
-Path: [ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md](file:///../../ai\research\ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md)
+Path: [ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md](file:///../../ai/research/ex-omni-enabling-3d-facial-animation-generation-for-omni-modal-large-language-mo-c9ce06.md)

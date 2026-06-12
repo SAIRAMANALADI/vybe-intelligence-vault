@@ -3,7 +3,7 @@ title: "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub o
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/services-track-partner-hub"
-local_vault_path: "ai\companies\anthropic\jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md"
+local_vault_path: "ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/services-track-partner-hub
 
 ## Local Vault File
 
-Path: [jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md](file:///../../ai\companies\anthropic\jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md)
+Path: [jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md](file:///../../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-track-and-partner-hub-of-the-cla-fd0992.md)

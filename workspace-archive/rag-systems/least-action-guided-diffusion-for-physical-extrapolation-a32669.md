@@ -3,13 +3,14 @@ title: "Least-Action-Guided Diffusion for Physical Extrapolation"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11277"
-local_vault_path: "ai\research\least-action-guided-diffusion-for-physical-extrapolation-a32669.md"
+local_vault_path: "ai/research/least-action-guided-diffusion-for-physical-extrapolation-a32669.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +19,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11277
 
 ## Local Vault File
 
-Path: [least-action-guided-diffusion-for-physical-extrapolation-a32669.md](file:///../../ai\research\least-action-guided-diffusion-for-physical-extrapolation-a32669.md)
+Path: [least-action-guided-diffusion-for-physical-extrapolation-a32669.md](file:///../../ai/research/least-action-guided-diffusion-for-physical-extrapolation-a32669.md)

@@ -3,13 +3,14 @@ title: "A Data-Centric Framework for Detecting and Correcting Corrupted Labels"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11699"
-local_vault_path: "ai\rag\a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md"
+local_vault_path: "ai/rag/a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - dataset
   - rag
 selection_reason:
   - "Strong keyword match"
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11699
 
 ## Local Vault File
 
-Path: [a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md](file:///../../ai\rag\a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md)
+Path: [a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md](file:///../../ai/rag/a-data-centric-framework-for-detecting-and-correcting-corrupted-labels-3b262f.md)

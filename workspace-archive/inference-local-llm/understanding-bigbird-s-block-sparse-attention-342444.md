@@ -3,11 +3,11 @@ title: "Understanding BigBird's Block Sparse Attention"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/big-bird"
-local_vault_path: "ai\models\understanding-bigbird-s-block-sparse-attention-342444.md"
+local_vault_path: "ai/models/understanding-bigbird-s-block-sparse-attention-342444.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/big-bird
 
 ## Local Vault File
 
-Path: [understanding-bigbird-s-block-sparse-attention-342444.md](file:///../../ai\models\understanding-bigbird-s-block-sparse-attention-342444.md)
+Path: [understanding-bigbird-s-block-sparse-attention-342444.md](file:///../../ai/models/understanding-bigbird-s-block-sparse-attention-342444.md)

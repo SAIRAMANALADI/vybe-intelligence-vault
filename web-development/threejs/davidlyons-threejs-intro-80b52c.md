@@ -4,13 +4,16 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/davidlyons/threejs-intro
-collected_at: '2026-06-11T08:45:35.488391+00:00'
+collected_at: '2026-06-12T10:40:14.585744+00:00'
 published_at: '2026-02-03T11:11:27Z'
 tags:
 - threejs
 stars: 324
 language: JavaScript
-status: new
+status: active
+id: github:davidlyons/threejs-intro
+first_seen: '2026-06-12T10:40:14.585744+00:00'
+last_seen: '2026-06-12T10:40:14.585744+00:00'
 ---
 
 # davidlyons/threejs-intro

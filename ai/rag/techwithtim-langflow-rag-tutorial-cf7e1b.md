@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/techwithtim/Langflow-RAG-Tutorial
-collected_at: '2026-06-11T13:02:53.314588+00:00'
+collected_at: '2026-06-12T10:42:39.014346+00:00'
 published_at: '2026-06-09T12:30:18Z'
 tags:
 - github-repo
@@ -12,7 +12,13 @@ tags:
 - unknown
 stars: 94
 language: Unknown
-status: new
+status: active
+archived: false
+created_at: '2024-04-17T10:56:19Z'
+pushed_at: '2024-07-18T10:50:24Z'
+id: null
+first_seen: '2026-06-12T10:42:39.014346+00:00'
+last_seen: '2026-06-12T10:42:39.014346+00:00'
 ---
 
 # techwithtim/Langflow-RAG-Tutorial
@@ -33,6 +39,9 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Language: Unknown
 - Topics: None
 - Last Updated: 2026-06-09T12:30:18Z
+- Archived: No
+- Created At: 2024-04-17T10:56:19Z
+- Pushed At: 2024-07-18T10:50:24Z
 
 ## Possible Use Cases
 

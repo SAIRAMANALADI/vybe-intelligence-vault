@@ -3,14 +3,15 @@ title: "Provable Recovery of Locally Important Signed Features and Interactions 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.11081"
-local_vault_path: "ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md"
+local_vault_path: "ai/research/provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md"
 quality_score: 70
-archive_score: 80
+archive_score: 82
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "high"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Provable Recovery of Locally Important Signed Features and Interactions from Random Forest
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2512.11081
 
 ## Local Vault File
 
-Path: [provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md](file:///../../ai\research\provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md)
+Path: [provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md](file:///../../ai/research/provable-recovery-of-locally-important-signed-features-and-interactions-from-ran-ac8aeb.md)

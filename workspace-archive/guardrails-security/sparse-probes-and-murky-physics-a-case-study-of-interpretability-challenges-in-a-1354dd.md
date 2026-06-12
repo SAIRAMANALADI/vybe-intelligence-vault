@@ -3,12 +3,14 @@ title: "Sparse probes and murky physics: a case study of interpretability challe
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11657"
-local_vault_path: "ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md"
+local_vault_path: "ai/research/sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -25,8 +27,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11657v1 Announce Type: cross 
-Abstract: Generative AI emulators are increasingly used in scientific domains where we already have strong theory, benchmarks, and physical intuition. This raises a central evaluation and interpretability question: when a foundation-style model can reproduce known continuum dynamics, what internal mechanism supports that behavior, is the internal behaviour consistent with known physics, and how does it relate to where the emulator succeeds or fails? We in
+arXiv:2606.11657v1 Announce Type: new 
+Abstract: Generative AI emulators are increasingly used in scientific domains where we already have strong theory, benchmarks, and physical intuition. This raises a central evaluation and interpretability question: when a foundation-style model can reproduce known continuum dynamics, what internal mechanism supports that behavior, is the internal behaviour consistent with known physics, and how does it relate to where the emulator succeeds or fails? We inve
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11657
 
 ## Local Vault File
 
-Path: [sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md](file:///../../ai\research\sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md)
+Path: [sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md](file:///../../ai/research/sparse-probes-and-murky-physics-a-case-study-of-interpretability-challenges-in-a-1354dd.md)

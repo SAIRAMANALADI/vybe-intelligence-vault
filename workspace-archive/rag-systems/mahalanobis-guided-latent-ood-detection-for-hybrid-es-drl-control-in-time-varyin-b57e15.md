@@ -3,14 +3,17 @@ title: "Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Tim
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11474"
-local_vault_path: "ai\research\mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md"
+local_vault_path: "ai/research/mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11474
 
 ## Local Vault File
 
-Path: [mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md](file:///../../ai\research\mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md)
+Path: [mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md](file:///../../ai/research/mahalanobis-guided-latent-ood-detection-for-hybrid-es-drl-control-in-time-varyin-b57e15.md)

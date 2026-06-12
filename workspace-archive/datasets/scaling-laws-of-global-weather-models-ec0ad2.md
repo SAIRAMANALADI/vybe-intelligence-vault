@@ -3,15 +3,18 @@ title: "Scaling Laws of Global Weather Models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.22962"
-local_vault_path: "ai\research\scaling-laws-of-global-weather-models-ec0ad2.md"
+local_vault_path: "ai/research/scaling-laws-of-global-weather-models-ec0ad2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - paper
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Scaling Laws of Global Weather Models
@@ -20,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.22962
 
 ## Local Vault File
 
-Path: [scaling-laws-of-global-weather-models-ec0ad2.md](file:///../../ai\research\scaling-laws-of-global-weather-models-ec0ad2.md)
+Path: [scaling-laws-of-global-weather-models-ec0ad2.md](file:///../../ai/research/scaling-laws-of-global-weather-models-ec0ad2.md)

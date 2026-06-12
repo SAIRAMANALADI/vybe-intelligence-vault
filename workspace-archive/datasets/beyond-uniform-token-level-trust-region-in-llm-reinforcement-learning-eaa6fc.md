@@ -3,16 +3,16 @@ title: "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10968"
-local_vault_path: "ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md"
+local_vault_path: "ai/research/beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning
@@ -21,14 +21,14 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.10968v2 Announce Type: replace-cross 
-Abstract: Reinforcement learning with verifiable rewards (RLVR) has become standard for improving LLM reasoning. However, existing PPO-style trust-region mechanisms remain position-agnostic by enforcing uniform thresholds across all tokens independently. This pointwise treatment conflicts with autoregressive generation in two critical ways. First, uniform thresholds ignore autoregressive asymmetry. Early-stage deviations produce compounding sequen
+arXiv:2606.10968v2 Announce Type: replace 
+Abstract: Reinforcement learning with verifiable rewards (RLVR) has become standard for improving LLM reasoning. However, existing PPO-style trust-region mechanisms remain position-agnostic by enforcing uniform thresholds across all tokens independently. This pointwise treatment conflicts with autoregressive generation in two critical ways. First, uniform thresholds ignore autoregressive asymmetry. Early-stage deviations produce compounding sequence-lev
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.10968
 
 ## Local Vault File
 
-Path: [beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md](file:///../../ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md)
+Path: [beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md](file:///../../ai/research/beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md)

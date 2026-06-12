@@ -3,7 +3,7 @@ title: "PolicyGuard: Towards Test-time and Step-level Adversary Defense for Rein
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12896"
-local_vault_path: "ai\rag\policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md"
+local_vault_path: "ai/rag/policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12896
 
 ## Local Vault File
 
-Path: [policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md](file:///../../ai\rag\policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md)
+Path: [policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md](file:///../../ai/rag/policyguard-towards-test-time-and-step-level-adversary-defense-for-reinforcement-79ed75.md)

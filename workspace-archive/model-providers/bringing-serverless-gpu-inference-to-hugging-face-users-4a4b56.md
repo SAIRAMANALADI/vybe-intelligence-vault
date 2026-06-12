@@ -3,11 +3,11 @@ title: "Bringing serverless GPU inference to Hugging Face users"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/cloudflare-workers-ai"
-local_vault_path: "ai\models\bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md"
+local_vault_path: "ai/models/bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md](file:///../../ai\models\bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md)
+Path: [bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md](file:///../../ai/models/bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md)

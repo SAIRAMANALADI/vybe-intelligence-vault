@@ -4,10 +4,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/accelerated-inference
-published_at: '2021-01-17T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.332619+00:00'
+published_at: '2021-01-18T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.825347+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/accelerated-inference
+first_seen: '2026-06-12T10:40:08.825347+00:00'
+last_seen: '2026-06-12T10:40:08.825347+00:00'
 ---
 
 # How we sped up transformer inference 100x for 🤗 API customers
@@ -18,17 +21,13 @@ No summary provided. Reference resource: How we sped up transformer inference 10
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2021-01-17T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2021-01-18T00:00:00+00:00
 
 ## Related Tags
 

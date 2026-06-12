@@ -3,14 +3,15 @@ title: "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12138"
-local_vault_path: "ai\research\unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md"
+local_vault_path: "ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
@@ -18,15 +19,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.12138v1 Announce Type: cross 
-Abstract: Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this question through \emph{feature stability}: for each SAE feature, we estimate the probability that a similar feature reappears in an independently trained SAE. This yields a scalable per-feature signal that separates stable from unstable features. In
+arXiv:2606.12138v1 Announce Type: new 
+Abstract: Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this question through \emph{feature stability}: for each SAE feature, we estimate the probability that a similar feature reappears in an independently trained SAE. This yields a scalable per-feature signal that separates stable from unstable features. In a
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12138
 
 ## Local Vault File
 
-Path: [unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md](file:///../../ai\research\unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)
+Path: [unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md](file:///../../ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)

@@ -3,7 +3,7 @@ title: "MiniPIC: Flexible Position-Independent Caching in <100LOC"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13126"
-local_vault_path: "ai\rag\minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md"
+local_vault_path: "ai/rag/minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13126
 
 ## Local Vault File
 
-Path: [minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md](file:///../../ai\rag\minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md)
+Path: [minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md](file:///../../ai/rag/minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md)

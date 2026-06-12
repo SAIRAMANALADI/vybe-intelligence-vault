@@ -3,14 +3,15 @@ title: "Learning Dynamics Reveal a Hierarchy of Weight-Induced Layerwise Gram Me
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.09744"
-local_vault_path: "ai\research\learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md"
+local_vault_path: "ai/research/learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Learning Dynamics Reveal a Hierarchy of Weight-Induced Layerwise Gram Metrics
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.09744
 
 ## Local Vault File
 
-Path: [learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md](file:///../../ai\research\learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md)
+Path: [learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md](file:///../../ai/research/learning-dynamics-reveal-a-hierarchy-of-weight-induced-layerwise-gram-metrics-6e2909.md)

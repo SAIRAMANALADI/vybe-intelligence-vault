@@ -4,13 +4,16 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/redpangilinan/next-entree
-collected_at: '2026-06-11T08:45:43.851339+00:00'
+collected_at: '2026-06-12T10:40:20.338294+00:00'
 published_at: '2026-04-04T15:07:16Z'
 tags:
 - frontend_ui
 stars: 158
 language: TypeScript
-status: new
+status: active
+id: github:redpangilinan/next-entree
+first_seen: '2026-06-12T10:40:20.338294+00:00'
+last_seen: '2026-06-12T10:40:20.338294+00:00'
 ---
 
 # redpangilinan/next-entree

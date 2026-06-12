@@ -3,7 +3,7 @@ title: "MARS: Margin-Adversarial Risk-controlled Stopping for Parallel LLM Test-
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12935"
-local_vault_path: "ai\research\mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md"
+local_vault_path: "ai/research/mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12935
 
 ## Local Vault File
 
-Path: [mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md](file:///../../ai\research\mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md)
+Path: [mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md](file:///../../ai/research/mars-margin-adversarial-risk-controlled-stopping-for-parallel-llm-test-time-scal-91ebc8.md)

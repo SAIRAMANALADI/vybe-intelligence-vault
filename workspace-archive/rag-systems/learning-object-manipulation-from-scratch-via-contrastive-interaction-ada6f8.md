@@ -3,18 +3,18 @@ title: "Learning Object Manipulation from Scratch via Contrastive Interaction"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11525"
-local_vault_path: "ai\rag\learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md"
+local_vault_path: "ai/rag/learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "workflow"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Learning Object Manipulation from Scratch via Contrastive Interaction
@@ -23,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11525
 
 ## Local Vault File
 
-Path: [learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md](file:///../../ai\rag\learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md)
+Path: [learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md](file:///../../ai/rag/learning-object-manipulation-from-scratch-via-contrastive-interaction-ada6f8.md)

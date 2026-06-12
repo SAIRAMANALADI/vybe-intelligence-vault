@@ -3,7 +3,7 @@ title: "openai/evals"
 archive_category: "model-providers"
 source_category: "ai/resources"
 source_url: "https://github.com/openai/evals"
-local_vault_path: "ai\resources\openai-evals-2c8be2.md"
+local_vault_path: "ai/resources/openai-evals-2c8be2.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/openai/evals
 
 ## Local Vault File
 
-Path: [openai-evals-2c8be2.md](file:///../../ai\resources\openai-evals-2c8be2.md)
+Path: [openai-evals-2c8be2.md](file:///../../ai/resources/openai-evals-2c8be2.md)

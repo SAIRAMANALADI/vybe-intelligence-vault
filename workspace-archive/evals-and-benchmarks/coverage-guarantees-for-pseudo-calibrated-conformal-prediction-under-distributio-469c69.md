@@ -1,0 +1,47 @@
+---
+title: "Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift"
+archive_category: "evals-and-benchmarks"
+source_category: "ai/rag"
+source_url: "https://arxiv.org/abs/2602.14913"
+local_vault_path: "ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md"
+quality_score: 70
+archive_score: 74
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - rag
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift
+
+## Why This Is In The Archive
+
+- Matched archive category: `Evals and Benchmarks`
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+arXiv:2602.14913v2 Announce Type: replace 
+Abstract: Conformal prediction (CP) offers distribution-free marginal coverage guarantees under an exchangeability assumption, but these guarantees can fail if the data distribution shifts. We analyze the use of pseudo-calibration as a tool to counter this performance loss under a bounded label-conditional covariate shift model. Using tools from domain adaptation, we derive a lower bound on target coverage in terms of the source-domain loss of the class
+
+## Use Cases
+
+- Model performance auditing
+- Prompt regression tracking
+- Hallucination testing
+
+## Source
+
+Original source URL: https://arxiv.org/abs/2602.14913
+
+## Local Vault File
+
+Path: [coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md](file:///../../ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md)

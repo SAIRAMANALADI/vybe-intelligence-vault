@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/emmelleppi/codrops-r3f-mirrors
-collected_at: '2026-06-11T08:45:37.431813+00:00'
+collected_at: '2026-06-12T10:40:15.865418+00:00'
 published_at: '2026-03-06T07:16:55Z'
 tags:
 - frontend_ui
 - threejs
 stars: 143
 language: JavaScript
-status: new
+status: active
+id: github:emmelleppi/codrops-r3f-mirrors
+first_seen: '2026-06-12T10:40:15.865418+00:00'
+last_seen: '2026-06-12T10:40:15.865418+00:00'
 ---
 
 # emmelleppi/codrops-r3f-mirrors

@@ -3,7 +3,7 @@ title: "Representing Time Series as Structured Programs for LLM Reasoning"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12481"
-local_vault_path: "ai\rag\representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md"
+local_vault_path: "ai/rag/representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12481
 
 ## Local Vault File
 
-Path: [representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md](file:///../../ai\rag\representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md)
+Path: [representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md](file:///../../ai/rag/representing-time-series-as-structured-programs-for-llm-reasoning-8f3da4.md)

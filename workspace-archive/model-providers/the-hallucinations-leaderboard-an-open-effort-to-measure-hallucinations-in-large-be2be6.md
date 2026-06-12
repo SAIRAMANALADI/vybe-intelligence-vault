@@ -3,12 +3,14 @@ title: "The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-hallucinations"
-local_vault_path: "ai\models\the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md"
+local_vault_path: "ai/models/the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
+tags:
+  - leaderboard
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -19,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai\models\the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md)

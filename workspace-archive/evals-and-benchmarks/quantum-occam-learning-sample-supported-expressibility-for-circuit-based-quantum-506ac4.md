@@ -3,13 +3,14 @@ title: "Quantum Occam Learning: Sample-Supported Expressibility for Circuit-Base
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12211"
-local_vault_path: "ai\research\quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md"
+local_vault_path: "ai/research/quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +19,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12211
 
 ## Local Vault File
 
-Path: [quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md](file:///../../ai\research\quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md)
+Path: [quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md](file:///../../ai/research/quantum-occam-learning-sample-supported-expressibility-for-circuit-based-quantum-506ac4.md)

@@ -3,11 +3,11 @@ title: "Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builde
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/reachy-mini"
-local_vault_path: "ai\models\reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md"
+local_vault_path: "ai/models/reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/reachy-mini
 
 ## Local Vault File
 
-Path: [reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md](file:///../../ai\models\reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md)
+Path: [reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md](file:///../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and-tomorrow-s-ai-builders-9c484e.md)

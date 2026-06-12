@@ -3,7 +3,7 @@ title: "Standardized Methods and Recommendations for Green Federated Learning"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.00343"
-local_vault_path: "ai\research\standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md"
+local_vault_path: "ai/research/standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.00343
 
 ## Local Vault File
 
-Path: [standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md](file:///../../ai\research\standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md)
+Path: [standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md](file:///../../ai/research/standardized-methods-and-recommendations-for-green-federated-learning-8d02af.md)

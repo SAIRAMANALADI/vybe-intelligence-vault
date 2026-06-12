@@ -3,7 +3,7 @@ title: "DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Auto
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11687"
-local_vault_path: "ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md"
+local_vault_path: "ai/agents/droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,7 +11,9 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
+  - dataset
   - models
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -43,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11687
 
 ## Local Vault File
 
-Path: [droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md](file:///../../ai\agents\droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md)
+Path: [droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md](file:///../../ai/agents/droneshield-ai-a-multi-modal-sensor-fusion-framework-for-real-time-autonomous-dr-78ad66.md)

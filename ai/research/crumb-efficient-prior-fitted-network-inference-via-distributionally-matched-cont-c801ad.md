@@ -3,39 +3,45 @@ title: 'CRUMB: Efficient Prior Fitted Network Inference via Distributionally Mat
   Context Batching'
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2606.11473
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.522451+00:00'
-tags: []
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.013473+00:00'
+tags:
+- benchmark
+- dataset
+status: active
+id: arxiv:2606.11473
+first_seen: '2026-06-12T10:40:06.013473+00:00'
+last_seen: '2026-06-12T10:40:06.013473+00:00'
 ---
 
 # CRUMB: Efficient Prior Fitted Network Inference via Distributionally Matched Context Batching
 
 ## Summary
 
-arXiv:2606.11473v1 Announce Type: cross 
+arXiv:2606.11473v1 Announce Type: new 
 Abstract: Prior-fitted networks (PFNs) are a promising class of tabular foundation models that perform in-context learning, whereby the entire labelled training set is supplied as context, and predictions for test queries are produced in a single forward pass. However, the quadratically scaling self-attention mechanism in many PFN architectures makes inference prohibitive for very large training datasets. We propose CRUMB (Clustered Retrieval Using Minimised-MMD Batching), a three-stage inference wrapper that (i) clusters the test queries, (ii) selects a small, distributionally matched training subset for each cluster by greedily minimising the maximum mean discrepancy (MMD), and (iii) runs exact PFN inference on each reduced-context batch. CRUMB is architecture-agnostic and requires no retraining. On the 51-dataset TabArena benchmark, evaluated across three PFN architectures (TabPFNv2, TabICLv1, TabICLv2), we show that CRUMB outperforms similar state-of-the-art context selection strategies. We also show that CRUMB is resilient to covariate drift, as the MMD-minimisation step naturally helps align the training context distribution to match the current test batch distributions.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.11473
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- None
-
-## Source
-
-Original source: https://arxiv.org/abs/2606.11473
+- benchmark
+- dataset

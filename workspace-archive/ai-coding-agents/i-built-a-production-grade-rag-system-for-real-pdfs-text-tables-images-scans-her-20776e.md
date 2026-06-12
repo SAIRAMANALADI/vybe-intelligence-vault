@@ -3,7 +3,7 @@ title: "I Built a Production-Grade RAG System for Real PDFs (Text, Tables, Image
 archive_category: "ai-coding-agents"
 source_category: "ai/rag"
 source_url: "https://medium.com/codex/i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-heres-the-0b6accbd1044"
-local_vault_path: "ai\rag\i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md"
+local_vault_path: "ai/rag/i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://medium.com/codex/i-built-a-production-grade-rag-sys
 
 ## Local Vault File
 
-Path: [i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md](file:///../../ai\rag\i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md)
+Path: [i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md](file:///../../ai/rag/i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-her-20776e.md)

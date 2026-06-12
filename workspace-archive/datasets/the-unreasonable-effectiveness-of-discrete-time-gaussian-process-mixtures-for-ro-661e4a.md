@@ -3,15 +3,18 @@ title: "The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixture
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.03296"
-local_vault_path: "ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md"
+local_vault_path: "ai/research/the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md"
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning
@@ -19,11 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2505.03296
 
 ## Local Vault File
 
-Path: [the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md](file:///../../ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)
+Path: [the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md](file:///../../ai/research/the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)

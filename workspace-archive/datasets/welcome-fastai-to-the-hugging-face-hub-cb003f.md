@@ -3,11 +3,11 @@ title: "Welcome fastai to the Hugging Face Hub"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fastai"
-local_vault_path: "ai\models\welcome-fastai-to-the-hugging-face-hub-cb003f.md"
+local_vault_path: "ai/models/welcome-fastai-to-the-hugging-face-hub-cb003f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai\models\welcome-fastai-to-the-hugging-face-hub-cb003f.md)
+Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai/models/welcome-fastai-to-the-hugging-face-hub-cb003f.md)

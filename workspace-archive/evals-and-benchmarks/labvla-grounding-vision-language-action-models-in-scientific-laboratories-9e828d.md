@@ -3,7 +3,7 @@ title: "LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratori
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13578"
-local_vault_path: "ai\rag\labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md"
+local_vault_path: "ai/rag/labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13578
 
 ## Local Vault File
 
-Path: [labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md](file:///../../ai\rag\labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md)
+Path: [labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md](file:///../../ai/rag/labvla-grounding-vision-language-action-models-in-scientific-laboratories-9e828d.md)

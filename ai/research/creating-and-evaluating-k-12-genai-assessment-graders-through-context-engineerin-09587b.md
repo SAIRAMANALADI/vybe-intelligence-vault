@@ -10,12 +10,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482260+00:00'
+collected_at: '2026-06-12T10:40:03.103219+00:00'
 tags:
 - anthropic
 - hackernews
 - paper
-status: new
+status: active
+id: arxiv:2606.12422
+first_seen: '2026-06-12T10:40:03.103219+00:00'
+last_seen: '2026-06-12T10:40:03.103219+00:00'
 ---
 
 # Creating and Evaluating K-12 GenAI Assessment Graders Through Context Engineering

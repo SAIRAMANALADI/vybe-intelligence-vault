@@ -3,7 +3,7 @@ title: "ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Le
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13316"
-local_vault_path: "ai\rag\resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md"
+local_vault_path: "ai/rag/resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13316
 
 ## Local Vault File
 
-Path: [resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md](file:///../../ai\rag\resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md)
+Path: [resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md](file:///../../ai/rag/resum-synergizing-llm-reasoning-and-summarization-with-reinforcement-learning-9f2158.md)

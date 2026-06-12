@@ -3,7 +3,7 @@ title: "Mastering Chunking Strategies for RAG: Best Practices & Code Examples"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://community.databricks.com/t5/technical-blog/the-ultimate-guide-to-chunking-strategies-for-rag-applications/ba-p/113089"
-local_vault_path: "ai\rag\mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md"
+local_vault_path: "ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://community.databricks.com/t5/technical-blog/the-ulti
 
 ## Local Vault File
 
-Path: [mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md](file:///../../ai\rag\mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md)
+Path: [mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md](file:///../../ai/rag/mastering-chunking-strategies-for-rag-best-practices-code-examples-b93425.md)

@@ -4,13 +4,16 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/google/tour-of-wgsl
-collected_at: '2026-06-11T08:45:39.177095+00:00'
+collected_at: '2026-06-12T10:40:17.491041+00:00'
 published_at: '2026-05-22T13:14:28Z'
 tags:
 - threejs
 stars: 155
 language: TypeScript
-status: new
+status: active
+id: github:google/tour-of-wgsl
+first_seen: '2026-06-12T10:40:17.491041+00:00'
+last_seen: '2026-06-12T10:40:17.491041+00:00'
 ---
 
 # google/tour-of-wgsl

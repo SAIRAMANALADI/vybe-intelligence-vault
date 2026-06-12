@@ -3,7 +3,7 @@ title: "APCyc: Property-Informed Design of Cyclic Peptides via Automated Cycliza
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12991"
-local_vault_path: "ai\rag\apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md"
+local_vault_path: "ai/rag/apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12991
 
 ## Local Vault File
 
-Path: [apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md](file:///../../ai\rag\apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md)
+Path: [apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md](file:///../../ai/rag/apcyc-property-informed-design-of-cyclic-peptides-via-automated-cyclization-f7e9c2.md)

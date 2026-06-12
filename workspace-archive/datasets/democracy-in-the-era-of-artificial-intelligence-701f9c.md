@@ -3,7 +3,7 @@ title: "Democracy in the Era of Artificial Intelligence"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13026"
-local_vault_path: "ai\research\democracy-in-the-era-of-artificial-intelligence-701f9c.md"
+local_vault_path: "ai/research/democracy-in-the-era-of-artificial-intelligence-701f9c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13026
 
 ## Local Vault File
 
-Path: [democracy-in-the-era-of-artificial-intelligence-701f9c.md](file:///../../ai\research\democracy-in-the-era-of-artificial-intelligence-701f9c.md)
+Path: [democracy-in-the-era-of-artificial-intelligence-701f9c.md](file:///../../ai/research/democracy-in-the-era-of-artificial-intelligence-701f9c.md)

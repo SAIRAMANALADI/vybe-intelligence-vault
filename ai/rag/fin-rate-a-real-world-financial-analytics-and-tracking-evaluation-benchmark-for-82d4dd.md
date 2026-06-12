@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485700+00:00'
+collected_at: '2026-06-12T10:40:03.107099+00:00'
 tags:
 - benchmark
 - rag
 - workflows
-status: new
+status: active
+id: arxiv:2602.07294
+first_seen: '2026-06-12T10:40:03.107099+00:00'
+last_seen: '2026-06-12T10:40:03.107099+00:00'
 ---
 
 # Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings

@@ -3,7 +3,7 @@ title: "Stubborn: A Streamlined and Unified Reinforcement Learning Framework for
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12814"
-local_vault_path: "ai\rag\stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md"
+local_vault_path: "ai/rag/stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12814
 
 ## Local Vault File
 
-Path: [stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md](file:///../../ai\rag\stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md)
+Path: [stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md](file:///../../ai/rag/stubborn-a-streamlined-and-unified-reinforcement-learning-framework-for-robust-m-22d784.md)

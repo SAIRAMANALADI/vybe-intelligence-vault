@@ -3,11 +3,11 @@ title: "Gradio is joining Hugging Face!"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-joins-hf"
-local_vault_path: "ai\models\gradio-is-joining-hugging-face-0b871f.md"
+local_vault_path: "ai/models/gradio-is-joining-hugging-face-0b871f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gradio-joins-hf
 
 ## Local Vault File
 
-Path: [gradio-is-joining-hugging-face-0b871f.md](file:///../../ai\models\gradio-is-joining-hugging-face-0b871f.md)
+Path: [gradio-is-joining-hugging-face-0b871f.md](file:///../../ai/models/gradio-is-joining-hugging-face-0b871f.md)

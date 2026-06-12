@@ -3,18 +3,18 @@ title: "Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Str
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11998"
-local_vault_path: "ai\rag\bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md"
+local_vault_path: "ai/rag/bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Stronger AI Agents
@@ -22,11 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11998
 
 ## Local Vault File
 
-Path: [bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md](file:///../../ai\rag\bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md)
+Path: [bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md](file:///../../ai/rag/bootstrapped-monitoring-leveraging-transparent-reasoning-to-oversee-stronger-ai-5b50de.md)

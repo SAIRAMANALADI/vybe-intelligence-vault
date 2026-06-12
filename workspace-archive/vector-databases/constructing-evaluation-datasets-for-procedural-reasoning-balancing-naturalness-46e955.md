@@ -3,7 +3,7 @@ title: "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Nat
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12767"
-local_vault_path: "ai\rag\constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md"
+local_vault_path: "ai/rag/constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12767
 
 ## Local Vault File
 
-Path: [constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md](file:///../../ai\rag\constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md)
+Path: [constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md](file:///../../ai/rag/constructing-evaluation-datasets-for-procedural-reasoning-balancing-naturalness-46e955.md)

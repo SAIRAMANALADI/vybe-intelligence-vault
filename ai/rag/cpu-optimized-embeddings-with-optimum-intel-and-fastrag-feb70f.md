@@ -4,11 +4,14 @@ category: ai/rag
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/intel-fast-embedding
-published_at: '2024-03-14T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.328061+00:00'
+published_at: '2024-03-15T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.816421+00:00'
 tags:
 - rag
-status: new
+status: active
+id: huggingface:blog/intel-fast-embedding
+first_seen: '2026-06-12T10:40:08.816421+00:00'
+last_seen: '2026-06-12T10:40:08.816421+00:00'
 ---
 
 # CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
@@ -19,17 +22,13 @@ No summary provided. Reference resource: CPU Optimized Embeddings with 🤗 Opti
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/rag
-- Published: 2024-03-14T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2024-03-15T00:00:00+00:00
 
 ## Related Tags
 

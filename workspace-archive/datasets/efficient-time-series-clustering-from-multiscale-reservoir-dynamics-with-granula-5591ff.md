@@ -3,12 +3,16 @@ title: "Efficient Time Series Clustering from Multiscale Reservoir Dynamics with
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12077"
-local_vault_path: "ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md"
+local_vault_path: "ai/research/efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -42,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12077
 
 ## Local Vault File
 
-Path: [efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md](file:///../../ai\research\efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md)
+Path: [efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md](file:///../../ai/research/efficient-time-series-clustering-from-multiscale-reservoir-dynamics-with-granula-5591ff.md)

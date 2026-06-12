@@ -3,7 +3,7 @@ title: "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.19031"
-local_vault_path: "ai\rag\kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md"
+local_vault_path: "ai/rag/kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.19031
 
 ## Local Vault File
 
-Path: [kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md](file:///../../ai\rag\kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md)
+Path: [kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md](file:///../../ai/rag/kan-mlp-mixer-a-comprehensive-investigation-of-the-usage-of-kolmogorov-arnold-ne-0c2f05.md)

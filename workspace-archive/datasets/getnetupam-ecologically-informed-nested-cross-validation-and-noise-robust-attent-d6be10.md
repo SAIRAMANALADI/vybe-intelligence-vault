@@ -3,7 +3,7 @@ title: "GetNetUPAM: Ecologically Informed Nested Cross-Validation and Noise-Robu
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.04682"
-local_vault_path: "ai\research\getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md"
+local_vault_path: "ai/research/getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.04682
 
 ## Local Vault File
 
-Path: [getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md](file:///../../ai\research\getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md)
+Path: [getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md](file:///../../ai/research/getnetupam-ecologically-informed-nested-cross-validation-and-noise-robust-attent-d6be10.md)

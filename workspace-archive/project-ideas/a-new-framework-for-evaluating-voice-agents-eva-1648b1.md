@@ -3,7 +3,7 @@ title: "A New Framework for Evaluating Voice Agents (EVA)"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ServiceNow-AI/eva"
-local_vault_path: "ai\agents\a-new-framework-for-evaluating-voice-agents-eva-1648b1.md"
+local_vault_path: "ai/agents/a-new-framework-for-evaluating-voice-agents-eva-1648b1.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/eva
 
 ## Local Vault File
 
-Path: [a-new-framework-for-evaluating-voice-agents-eva-1648b1.md](file:///../../ai\agents\a-new-framework-for-evaluating-voice-agents-eva-1648b1.md)
+Path: [a-new-framework-for-evaluating-voice-agents-eva-1648b1.md](file:///../../ai/agents/a-new-framework-for-evaluating-voice-agents-eva-1648b1.md)

@@ -4,11 +4,20 @@ category: ai/rag
 source_type: arxiv
 source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2606.12232
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:55.796497+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.014680+00:00'
 tags:
+- benchmark
 - rag
-status: new
+status: active
+id: arxiv:2606.12232
+first_seen: '2026-06-12T10:40:06.014680+00:00'
+last_seen: '2026-06-12T10:40:06.014680+00:00'
 ---
 
 # Re-evaluating Confidence Remasking in Masked Diffusion Language Models
@@ -20,22 +29,18 @@ Abstract: Masked diffusion language models (dLLMs) have recently emerged as a co
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv Machine Learning
-- Category: ai/rag
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.12232
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
+- benchmark
 - rag
-
-## Source
-
-Original source: https://arxiv.org/abs/2606.12232

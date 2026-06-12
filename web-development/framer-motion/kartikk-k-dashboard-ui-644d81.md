@@ -4,14 +4,17 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/kartikk-k/dashboard-ui
-collected_at: '2026-06-11T08:45:41.211992+00:00'
+collected_at: '2026-06-12T10:40:18.783046+00:00'
 published_at: '2026-06-04T13:51:17Z'
 tags:
 - animation
 - frontend_ui
 stars: 102
 language: TypeScript
-status: new
+status: active
+id: github:kartikk-k/dashboard-ui
+first_seen: '2026-06-12T10:40:18.783046+00:00'
+last_seen: '2026-06-12T10:40:18.783046+00:00'
 ---
 
 # kartikk-k/dashboard-ui

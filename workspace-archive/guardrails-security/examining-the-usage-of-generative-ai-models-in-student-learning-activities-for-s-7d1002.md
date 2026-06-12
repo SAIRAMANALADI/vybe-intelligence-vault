@@ -3,7 +3,7 @@ title: "Examining the Usage of Generative AI Models in Student Learning Activiti
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.13271"
-local_vault_path: "ai\research\examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md"
+local_vault_path: "ai/research/examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2511.13271
 
 ## Local Vault File
 
-Path: [examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md](file:///../../ai\research\examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md)
+Path: [examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md](file:///../../ai/research/examining-the-usage-of-generative-ai-models-in-student-learning-activities-for-s-7d1002.md)

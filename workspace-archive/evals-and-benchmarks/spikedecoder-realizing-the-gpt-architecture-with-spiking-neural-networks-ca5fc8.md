@@ -3,7 +3,7 @@ title: "SpikeDecoder: Realizing the GPT Architecture with Spiking Neural Network
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12287"
-local_vault_path: "ai\research\spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md"
+local_vault_path: "ai/research/spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12287
 
 ## Local Vault File
 
-Path: [spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md](file:///../../ai\research\spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md)
+Path: [spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md](file:///../../ai/research/spikedecoder-realizing-the-gpt-architecture-with-spiking-neural-networks-ca5fc8.md)

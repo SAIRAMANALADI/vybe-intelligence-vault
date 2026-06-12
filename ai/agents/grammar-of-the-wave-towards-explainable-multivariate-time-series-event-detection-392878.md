@@ -11,13 +11,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485896+00:00'
+collected_at: '2026-06-12T10:40:03.107311+00:00'
 tags:
 - agents
 - benchmark
 - models
 - youtube
-status: new
+status: active
+id: arxiv:2603.11479
+first_seen: '2026-06-12T10:40:03.107311+00:00'
+last_seen: '2026-06-12T10:40:03.107311+00:00'
 ---
 
 # Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents

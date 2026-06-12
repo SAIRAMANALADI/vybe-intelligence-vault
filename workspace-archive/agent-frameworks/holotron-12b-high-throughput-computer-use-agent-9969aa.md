@@ -3,7 +3,7 @@ title: "Holotron-12B - High Throughput Computer Use Agent"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/Hcompany/holotron-12b"
-local_vault_path: "ai\agents\holotron-12b-high-throughput-computer-use-agent-9969aa.md"
+local_vault_path: "ai/agents/holotron-12b-high-throughput-computer-use-agent-9969aa.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Hcompany/holotron-12b
 
 ## Local Vault File
 
-Path: [holotron-12b-high-throughput-computer-use-agent-9969aa.md](file:///../../ai\agents\holotron-12b-high-throughput-computer-use-agent-9969aa.md)
+Path: [holotron-12b-high-throughput-computer-use-agent-9969aa.md](file:///../../ai/agents/holotron-12b-high-throughput-computer-use-agent-9969aa.md)

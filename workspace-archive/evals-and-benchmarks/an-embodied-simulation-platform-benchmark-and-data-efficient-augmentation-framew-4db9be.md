@@ -3,7 +3,7 @@ title: "An Embodied Simulation Platform, Benchmark, and Data-Efficient Augmentat
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12936"
-local_vault_path: "ai\rag\an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md"
+local_vault_path: "ai/rag/an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12936
 
 ## Local Vault File
 
-Path: [an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md](file:///../../ai\rag\an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md)
+Path: [an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md](file:///../../ai/rag/an-embodied-simulation-platform-benchmark-and-data-efficient-augmentation-framew-4db9be.md)

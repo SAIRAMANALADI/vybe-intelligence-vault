@@ -3,7 +3,7 @@ title: "SMSR: Certified Defence Against Runtime Memory Poisoning in Persistent L
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12703"
-local_vault_path: "ai\rag\smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md"
+local_vault_path: "ai/rag/smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12703
 
 ## Local Vault File
 
-Path: [smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md](file:///../../ai\rag\smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md)
+Path: [smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md](file:///../../ai/rag/smsr-certified-defence-against-runtime-memory-poisoning-in-persistent-llm-agent-3f4af5.md)

@@ -3,14 +3,17 @@ title: "What Uncertainties Do We Need for Dynamical Systems?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11988"
-local_vault_path: "ai\research\what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md"
+local_vault_path: "ai/research/what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # What Uncertainties Do We Need for Dynamical Systems?
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11988
 
 ## Local Vault File
 
-Path: [what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md](file:///../../ai\research\what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md)
+Path: [what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md](file:///../../ai/research/what-uncertainties-do-we-need-for-dynamical-systems-5441d4.md)

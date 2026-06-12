@@ -3,7 +3,7 @@ title: "Building With AI Coding Agents: Best Practices for Agent Workflows | by 
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b"
-local_vault_path: "ai\agents\building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md"
+local_vault_path: "ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://medium.com/@elisheba.t.anderson/building-with-ai-co
 
 ## Local Vault File
 
-Path: [building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md](file:///../../ai\agents\building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md)
+Path: [building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md](file:///../../ai/agents/building-with-ai-coding-agents-best-practices-for-agent-workflows-by-elisheba-bu-f8bed8.md)

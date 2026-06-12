@@ -3,14 +3,14 @@ title: "Triangular-Reference Schr\\"odinger Bridges for Time Series Generation"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.27478"
-local_vault_path: "ai\research\triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md"
+local_vault_path: "ai/research/triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Triangular-Reference Schr\"odinger Bridges for Time Series Generation
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.27478
 
 ## Local Vault File
 
-Path: [triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md](file:///../../ai\research\triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md)
+Path: [triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md](file:///../../ai/research/triangular-reference-schr-odinger-bridges-for-time-series-generation-c6c1fb.md)

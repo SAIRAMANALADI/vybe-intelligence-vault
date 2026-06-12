@@ -3,17 +3,18 @@ title: "LatticeBridge: Rare-Event Sequential Inference for Faithful Structured S
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11203"
-local_vault_path: "ai\rag\latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md"
+local_vault_path: "ai/rag/latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # LatticeBridge: Rare-Event Sequential Inference for Faithful Structured Sequence Synthesis
@@ -22,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `Observability`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11203
 
 ## Local Vault File
 
-Path: [latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md](file:///../../ai\rag\latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md)
+Path: [latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md](file:///../../ai/rag/latticebridge-rare-event-sequential-inference-for-faithful-structured-sequence-s-78ebfa.md)

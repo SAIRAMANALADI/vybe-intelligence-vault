@@ -1,0 +1,42 @@
+---
+title: "PRX Part 3 — Training a Text-to-Image Model in 24h!"
+archive_category: "datasets"
+source_category: "ai/models"
+source_url: "https://huggingface.co/blog/photoroom"
+local_vault_path: "ai/models/prx-part-3-training-a-text-to-image-model-in-24h-390521.md"
+quality_score: 70
+archive_score: 70
+archive_tier: "useful"
+resource_kind: "tutorial"
+importance: "medium"
+selection_reason:
+  - "Valuable developer reference"
+---
+
+# PRX Part 3 — Training a Text-to-Image Model in 24h!
+
+## Why This Is In The Archive
+
+- Matched archive category: `Datasets`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Valuable developer reference
+
+## Summary
+
+No summary provided. Reference resource: PRX Part 3 — Training a Text-to-Image Model in 24h!
+
+## Use Cases
+
+- Instruction tuning source
+- Evals dataset building
+- Synthetic dataset creation
+
+## Source
+
+Original source URL: https://huggingface.co/blog/photoroom
+
+## Local Vault File
+
+Path: [prx-part-3-training-a-text-to-image-model-in-24h-390521.md](file:///../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h-390521.md)

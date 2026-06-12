@@ -3,7 +3,7 @@ title: "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12702"
-local_vault_path: "ai\research\deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md"
+local_vault_path: "ai/research/deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12702
 
 ## Local Vault File
 
-Path: [deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md](file:///../../ai\research\deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md)
+Path: [deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md](file:///../../ai/research/deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md)

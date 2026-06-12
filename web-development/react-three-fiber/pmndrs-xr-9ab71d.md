@@ -4,14 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/xr
-collected_at: '2026-06-11T08:45:37.431901+00:00'
+collected_at: '2026-06-12T10:40:15.865527+00:00'
 published_at: '2026-06-10T01:15:19Z'
 tags:
 - frontend_ui
+- reddit
 - threejs
 stars: 2595
 language: TypeScript
-status: new
+status: active
+id: github:pmndrs/xr
+first_seen: '2026-06-12T10:40:15.865527+00:00'
+last_seen: '2026-06-12T10:40:15.865527+00:00'
 ---
 
 # pmndrs/xr

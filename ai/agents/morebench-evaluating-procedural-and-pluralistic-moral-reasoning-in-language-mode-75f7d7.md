@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485331+00:00'
+collected_at: '2026-06-12T10:40:03.106705+00:00'
 tags:
 - agents
 - benchmark
-status: new
+status: active
+id: arxiv:2510.16380
+first_seen: '2026-06-12T10:40:03.106705+00:00'
+last_seen: '2026-06-12T10:40:03.106705+00:00'
 ---
 
 # MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes

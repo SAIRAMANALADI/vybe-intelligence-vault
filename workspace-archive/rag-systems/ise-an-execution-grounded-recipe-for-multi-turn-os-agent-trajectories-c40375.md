@@ -3,7 +3,7 @@ title: "ISE: An Execution-Grounded Recipe for Multi-Turn OS-Agent Trajectories"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11520"
-local_vault_path: "ai\rag\ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md"
+local_vault_path: "ai/rag/ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -11,7 +11,9 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
+  - dataset
   - models
+  - openai
   - rag
 selection_reason:
   - "Strong keyword match"
@@ -46,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.11520
 
 ## Local Vault File
 
-Path: [ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md](file:///../../ai\rag\ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md)
+Path: [ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md](file:///../../ai/rag/ise-an-execution-grounded-recipe-for-multi-turn-os-agent-trajectories-c40375.md)

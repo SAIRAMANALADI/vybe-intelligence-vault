@@ -3,14 +3,14 @@ title: "Mechanical Field Networks: Structured Neural Dynamics for Multivariate S
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11251"
-local_vault_path: "ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md"
+local_vault_path: "ai/research/mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
-  - framer_motion
+  - benchmark
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11251
 
 ## Local Vault File
 
-Path: [mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md](file:///../../ai\research\mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md)
+Path: [mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md](file:///../../ai/research/mechanical-field-networks-structured-neural-dynamics-for-multivariate-systems-0c3ff8.md)

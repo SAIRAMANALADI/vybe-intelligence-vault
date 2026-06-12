@@ -3,11 +3,11 @@ title: "4M Models Scanned: Protect AI + Hugging Face 6 Months In"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pai-6-month"
-local_vault_path: "ai\models\4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md"
+local_vault_path: "ai/models/4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pai-6-month
 
 ## Local Vault File
 
-Path: [4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md](file:///../../ai\models\4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md)
+Path: [4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md](file:///../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md)

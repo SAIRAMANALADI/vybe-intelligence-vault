@@ -3,7 +3,7 @@ title: "Geometric Metrics and LLMs: What They Measure and When They Work"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.25359"
-local_vault_path: "ai\research\geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md"
+local_vault_path: "ai/research/geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2509.25359
 
 ## Local Vault File
 
-Path: [geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md](file:///../../ai\research\geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md)
+Path: [geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md](file:///../../ai/research/geometric-metrics-and-llms-what-they-measure-and-when-they-work-bed93f.md)

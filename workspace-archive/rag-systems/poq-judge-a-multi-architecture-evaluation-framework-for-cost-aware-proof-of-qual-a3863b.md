@@ -3,13 +3,16 @@ title: "PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proo
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11196"
-local_vault_path: "ai\research\poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md"
+local_vault_path: "ai/research/poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11196
 
 ## Local Vault File
 
-Path: [poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md](file:///../../ai\research\poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md)
+Path: [poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md](file:///../../ai/research/poq-judge-a-multi-architecture-evaluation-framework-for-cost-aware-proof-of-qual-a3863b.md)

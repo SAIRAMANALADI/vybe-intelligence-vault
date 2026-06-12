@@ -3,7 +3,7 @@ title: "PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignmen
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.06652"
-local_vault_path: "ai\rag\palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md"
+local_vault_path: "ai/rag/palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.06652
 
 ## Local Vault File
 
-Path: [palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md](file:///../../ai\rag\palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md)
+Path: [palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md](file:///../../ai/rag/palmr-towards-faithful-visual-reasoning-via-multimodal-process-alignment-a76442.md)

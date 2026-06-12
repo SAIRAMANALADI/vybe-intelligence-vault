@@ -3,14 +3,16 @@ title: "Estimating Tail Risks in Language Model Output Distributions"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.22167"
-local_vault_path: "ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md"
+local_vault_path: "ai/research/estimating-tail-risks-in-language-model-output-distributions-a0ca68.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Estimating Tail Risks in Language Model Output Distributions
@@ -19,14 +21,14 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2604.22167v2 Announce Type: replace-cross 
-Abstract: Language models are increasingly capable and are being rapidly deployed on a population-level scale. As a result, the safety of these models is increasingly high-stakes. Fortunately, advances in alignment have significantly reduced the likelihood of harmful model outputs. However, when models are queried billions of times in a day, even rare worst-case behaviors will occur. Current safety evaluations focus on capturing the distribution o
+arXiv:2604.22167v2 Announce Type: replace 
+Abstract: Language models are increasingly capable and are being rapidly deployed on a population-level scale. As a result, the safety of these models is increasingly high-stakes. Fortunately, advances in alignment have significantly reduced the likelihood of harmful model outputs. However, when models are queried billions of times in a day, even rare worst-case behaviors will occur. Current safety evaluations focus on capturing the distribution of inpu
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2604.22167
 
 ## Local Vault File
 
-Path: [estimating-tail-risks-in-language-model-output-distributions-a0ca68.md](file:///../../ai\research\estimating-tail-risks-in-language-model-output-distributions-a0ca68.md)
+Path: [estimating-tail-risks-in-language-model-output-distributions-a0ca68.md](file:///../../ai/research/estimating-tail-risks-in-language-model-output-distributions-a0ca68.md)

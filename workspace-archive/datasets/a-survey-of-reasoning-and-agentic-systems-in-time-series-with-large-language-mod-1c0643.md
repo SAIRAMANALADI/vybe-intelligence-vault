@@ -3,7 +3,7 @@ title: "A Survey of Reasoning and Agentic Systems in Time Series with Large Lang
 archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2509.11575"
-local_vault_path: "ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md"
+local_vault_path: "ai/agents/a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2509.11575
 
 ## Local Vault File
 
-Path: [a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md](file:///../../ai\agents\a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md)
+Path: [a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md](file:///../../ai/agents/a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md)

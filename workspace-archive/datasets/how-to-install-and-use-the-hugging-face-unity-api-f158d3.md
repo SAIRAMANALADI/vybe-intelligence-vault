@@ -3,11 +3,11 @@ title: "How to Install and Use the Hugging Face Unity API"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/unity-api"
-local_vault_path: "ai\models\how-to-install-and-use-the-hugging-face-unity-api-f158d3.md"
+local_vault_path: "ai/models/how-to-install-and-use-the-hugging-face-unity-api-f158d3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "api"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: api
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/unity-api
 
 ## Local Vault File
 
-Path: [how-to-install-and-use-the-hugging-face-unity-api-f158d3.md](file:///../../ai\models\how-to-install-and-use-the-hugging-face-unity-api-f158d3.md)
+Path: [how-to-install-and-use-the-hugging-face-unity-api-f158d3.md](file:///../../ai/models/how-to-install-and-use-the-hugging-face-unity-api-f158d3.md)

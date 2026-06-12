@@ -3,7 +3,7 @@ title: "Different Layers, Different Manifolds: Module-Wise Weight-Space Geometry
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13276"
-local_vault_path: "ai\research\different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md"
+local_vault_path: "ai/research/different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13276
 
 ## Local Vault File
 
-Path: [different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md](file:///../../ai\research\different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md)
+Path: [different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md](file:///../../ai/research/different-layers-different-manifolds-module-wise-weight-space-geometry-in-transf-d3cfed.md)

@@ -3,7 +3,7 @@ title: "RAG System with LangChain and LangGraph - GeeksforGeeks"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph"
-local_vault_path: "ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md"
+local_vault_path: "ai/rag/rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -38,7 +38,7 @@ selection_reason:
 
 ## Summary
 
-CoursesTutorialsPracticeJobsArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsShare Your ExperiencesIntroduction to AIWhat is Artific...
+CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsRAG System with LangChain and LangGraphLast Updated :...
 
 ## Use Cases
 
@@ -52,4 +52,4 @@ Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-s
 
 ## Local Vault File
 
-Path: [rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md](file:///../../ai\rag\rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md)
+Path: [rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md](file:///../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforgeeks-98c7f2.md)

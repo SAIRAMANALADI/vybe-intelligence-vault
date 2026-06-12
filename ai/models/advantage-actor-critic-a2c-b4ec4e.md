@@ -4,10 +4,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/deep-rl-a2c
-published_at: '2022-07-21T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.331649+00:00'
+published_at: '2022-07-22T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.823278+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/deep-rl-a2c
+first_seen: '2026-06-12T10:40:08.823278+00:00'
+last_seen: '2026-06-12T10:40:08.823278+00:00'
 ---
 
 # Advantage Actor Critic (A2C)
@@ -18,17 +21,13 @@ No summary provided. Reference resource: Advantage Actor Critic (A2C)
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2022-07-21T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2022-07-22T00:00:00+00:00
 
 ## Related Tags
 

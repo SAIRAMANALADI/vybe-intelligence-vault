@@ -3,7 +3,7 @@ title: "demcp/awesome-web3-mcp-servers"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/demcp/awesome-web3-mcp-servers"
-local_vault_path: "ai\resources\demcp-awesome-web3-mcp-servers-6c6418.md"
+local_vault_path: "ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/demcp/awesome-web3-mcp-servers
 
 ## Local Vault File
 
-Path: [demcp-awesome-web3-mcp-servers-6c6418.md](file:///../../ai\resources\demcp-awesome-web3-mcp-servers-6c6418.md)
+Path: [demcp-awesome-web3-mcp-servers-6c6418.md](file:///../../ai/resources/demcp-awesome-web3-mcp-servers-6c6418.md)

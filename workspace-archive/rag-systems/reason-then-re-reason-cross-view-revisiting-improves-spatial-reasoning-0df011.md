@@ -3,7 +3,7 @@ title: "Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11683"
-local_vault_path: "ai\rag\reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md"
+local_vault_path: "ai/rag/reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11683
 
 ## Local Vault File
 
-Path: [reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md](file:///../../ai\rag\reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md)
+Path: [reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md](file:///../../ai/rag/reason-then-re-reason-cross-view-revisiting-improves-spatial-reasoning-0df011.md)

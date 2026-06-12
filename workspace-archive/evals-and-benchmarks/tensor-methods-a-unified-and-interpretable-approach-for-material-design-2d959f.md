@@ -3,12 +3,14 @@ title: "Tensor Methods: A Unified and Interpretable Approach for Material Design
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10392"
-local_vault_path: "ai\research\tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md"
+local_vault_path: "ai/research/tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -19,7 +21,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.10392
 
 ## Local Vault File
 
-Path: [tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md](file:///../../ai\research\tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md)
+Path: [tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md](file:///../../ai/research/tensor-methods-a-unified-and-interpretable-approach-for-material-design-2d959f.md)

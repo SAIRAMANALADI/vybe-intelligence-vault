@@ -3,15 +3,17 @@ title: "Weighted Random Dot Product Graphs"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.03649"
-local_vault_path: "ai\research\weighted-random-dot-product-graphs-c9e221.md"
+local_vault_path: "ai/research/weighted-random-dot-product-graphs-c9e221.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - paper
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -20,9 +22,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2505.03649
 
 ## Local Vault File
 
-Path: [weighted-random-dot-product-graphs-c9e221.md](file:///../../ai\research\weighted-random-dot-product-graphs-c9e221.md)
+Path: [weighted-random-dot-product-graphs-c9e221.md](file:///../../ai/research/weighted-random-dot-product-graphs-c9e221.md)

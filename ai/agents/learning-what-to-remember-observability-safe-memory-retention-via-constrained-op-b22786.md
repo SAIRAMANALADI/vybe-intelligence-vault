@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484936+00:00'
+collected_at: '2026-06-12T10:40:03.106255+00:00'
 tags:
 - agents
-status: new
+status: active
+id: arxiv:2606.10616
+first_seen: '2026-06-12T10:40:03.106255+00:00'
+last_seen: '2026-06-12T10:40:03.106255+00:00'
 ---
 
 # Learning What to Remember: Observability-Safe Memory Retention via Constrained Optimization for Long-Horizon Language Agents

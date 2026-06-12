@@ -3,7 +3,7 @@ title: "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyd
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13607"
-local_vault_path: "ai\research\reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md"
+local_vault_path: "ai/research/reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13607
 
 ## Local Vault File
 
-Path: [reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md](file:///../../ai\research\reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md)
+Path: [reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md](file:///../../ai/research/reasoning-as-pattern-matching-shared-mechanisms-in-human-and-llm-everyday-reason-df76dd.md)

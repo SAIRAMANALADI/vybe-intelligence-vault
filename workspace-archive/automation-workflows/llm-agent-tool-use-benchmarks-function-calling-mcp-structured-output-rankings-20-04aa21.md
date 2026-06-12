@@ -3,7 +3,7 @@ title: "LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Ou
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://benchlm.ai/llm-agent-benchmarks"
-local_vault_path: "ai\rag\llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md"
+local_vault_path: "ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://benchlm.ai/llm-agent-benchmarks
 
 ## Local Vault File
 
-Path: [llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md](file:///../../ai\rag\llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md)
+Path: [llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md](file:///../../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md)

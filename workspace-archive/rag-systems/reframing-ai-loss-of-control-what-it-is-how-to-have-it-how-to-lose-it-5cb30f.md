@@ -3,7 +3,7 @@ title: "Reframing AI Loss of Control: What It Is, How to Have It, How to Lose It
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12442"
-local_vault_path: "ai\research\reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md"
+local_vault_path: "ai/research/reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12442
 
 ## Local Vault File
 
-Path: [reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md](file:///../../ai\research\reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md)
+Path: [reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md](file:///../../ai/research/reframing-ai-loss-of-control-what-it-is-how-to-have-it-how-to-lose-it-5cb30f.md)

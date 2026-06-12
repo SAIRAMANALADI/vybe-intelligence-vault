@@ -10,14 +10,17 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482703+00:00'
+collected_at: '2026-06-12T10:40:03.103782+00:00'
 tags:
 - benchmark
 - dataset
 - hackernews
 - paper
 - rag
-status: new
+status: active
+id: arxiv:2606.12620
+first_seen: '2026-06-12T10:40:03.103782+00:00'
+last_seen: '2026-06-12T10:40:03.103782+00:00'
 ---
 
 # HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection

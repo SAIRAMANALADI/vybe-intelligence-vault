@@ -3,7 +3,7 @@ title: "LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://www.meta-intelligence.tech/en/insight-ai-agent-frameworks"
-local_vault_path: "ai\rag\langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md"
+local_vault_path: "ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.meta-intelligence.tech/en/insight-ai-agent-fram
 
 ## Local Vault File
 
-Path: [langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md](file:///../../ai\rag\langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md)
+Path: [langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md](file:///../../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md)

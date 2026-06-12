@@ -3,7 +3,7 @@ title: "Variational Learning for Insertion-based Generation"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.02133"
-local_vault_path: "ai\research\variational-learning-for-insertion-based-generation-9b7200.md"
+local_vault_path: "ai/research/variational-learning-for-insertion-based-generation-9b7200.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.02133
 
 ## Local Vault File
 
-Path: [variational-learning-for-insertion-based-generation-9b7200.md](file:///../../ai\research\variational-learning-for-insertion-based-generation-9b7200.md)
+Path: [variational-learning-for-insertion-based-generation-9b7200.md](file:///../../ai/research/variational-learning-for-insertion-based-generation-9b7200.md)

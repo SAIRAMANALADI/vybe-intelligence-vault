@@ -3,11 +3,11 @@ title: "From cloud to developers: Hugging Face and Microsoft Deepen Collaboratio
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/microsoft-collaboration"
-local_vault_path: "ai\models\from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md"
+local_vault_path: "ai/models/from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/microsoft-collaboration
 
 ## Local Vault File
 
-Path: [from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md](file:///../../ai\models\from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md)
+Path: [from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md](file:///../../ai/models/from-cloud-to-developers-hugging-face-and-microsoft-deepen-collaboration-92cb35.md)

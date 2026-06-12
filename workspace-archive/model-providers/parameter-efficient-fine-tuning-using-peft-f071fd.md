@@ -3,11 +3,11 @@ title: "Parameter-Efficient Fine-Tuning using 🤗 PEFT"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/peft"
-local_vault_path: "ai\models\parameter-efficient-fine-tuning-using-peft-f071fd.md"
+local_vault_path: "ai/models/parameter-efficient-fine-tuning-using-peft-f071fd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - models
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/peft
 
 ## Local Vault File
 
-Path: [parameter-efficient-fine-tuning-using-peft-f071fd.md](file:///../../ai\models\parameter-efficient-fine-tuning-using-peft-f071fd.md)
+Path: [parameter-efficient-fine-tuning-using-peft-f071fd.md](file:///../../ai/models/parameter-efficient-fine-tuning-using-peft-f071fd.md)

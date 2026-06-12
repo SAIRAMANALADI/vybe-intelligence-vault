@@ -3,7 +3,7 @@ title: "Towards Personalized Federated Learning for Dysarthric Speech Recognitio
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13253"
-local_vault_path: "ai\rag\towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md"
+local_vault_path: "ai/rag/towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13253
 
 ## Local Vault File
 
-Path: [towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md](file:///../../ai\rag\towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md)
+Path: [towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md](file:///../../ai/rag/towards-personalized-federated-learning-for-dysarthric-speech-recognition-f12ca4.md)

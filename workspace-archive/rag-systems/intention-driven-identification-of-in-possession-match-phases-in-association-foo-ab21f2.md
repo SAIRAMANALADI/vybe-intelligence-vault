@@ -3,7 +3,7 @@ title: "Intention Driven Identification of In-Possession Match Phases in Associa
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.09289"
-local_vault_path: "ai\rag\intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md"
+local_vault_path: "ai/rag/intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.09289
 
 ## Local Vault File
 
-Path: [intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md](file:///../../ai\rag\intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md)
+Path: [intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md](file:///../../ai/rag/intention-driven-identification-of-in-possession-match-phases-in-association-foo-ab21f2.md)

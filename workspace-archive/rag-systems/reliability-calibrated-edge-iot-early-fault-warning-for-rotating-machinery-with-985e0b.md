@@ -3,13 +3,17 @@ title: "Reliability-Calibrated Edge-IoT Early Fault Warning for Rotating Machine
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.21293"
-local_vault_path: "ai\research\reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md"
+local_vault_path: "ai/research/reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
+  - youtube
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,15 +22,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
 
-arXiv:2601.21293v3 Announce Type: replace-cross 
-Abstract: Industrial Internet of Things (IIoT) systems increasingly rely on distributed vibration sensing to support predictive maintenance of rotating machinery. In practical deployments, however, raw signal upload is costly and alarm decisions must be made locally under limited computation, changing operating conditions, and strict nuisance-alarm budgets. This paper presents a reliability-calibrated edge-IoT early-warning framework, in which a c
+arXiv:2601.21293v3 Announce Type: replace 
+Abstract: Industrial Internet of Things (IIoT) systems increasingly rely on distributed vibration sensing to support predictive maintenance of rotating machinery. In practical deployments, however, raw signal upload is costly and alarm decisions must be made locally under limited computation, changing operating conditions, and strict nuisance-alarm budgets. This paper presents a reliability-calibrated edge-IoT early-warning framework, in which a compact
 
 ## Use Cases
 
@@ -40,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2601.21293
 
 ## Local Vault File
 
-Path: [reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md](file:///../../ai\research\reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md)
+Path: [reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md](file:///../../ai/research/reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md)

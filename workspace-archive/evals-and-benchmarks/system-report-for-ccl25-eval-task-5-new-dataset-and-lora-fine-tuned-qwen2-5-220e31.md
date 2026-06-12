@@ -3,7 +3,7 @@ title: "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwe
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12392"
-local_vault_path: "ai\research\system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md"
+local_vault_path: "ai/research/system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12392
 
 ## Local Vault File
 
-Path: [system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md](file:///../../ai\research\system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md)
+Path: [system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md](file:///../../ai/research/system-report-for-ccl25-eval-task-5-new-dataset-and-lora-fine-tuned-qwen2-5-220e31.md)

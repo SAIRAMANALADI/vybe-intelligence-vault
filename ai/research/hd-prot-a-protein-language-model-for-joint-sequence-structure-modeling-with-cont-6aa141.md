@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485397+00:00'
+collected_at: '2026-06-12T10:40:03.106777+00:00'
 tags:
 - models
 - paper
-status: new
+status: active
+id: arxiv:2512.15133
+first_seen: '2026-06-12T10:40:03.106777+00:00'
+last_seen: '2026-06-12T10:40:03.106777+00:00'
 ---
 
 # HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens

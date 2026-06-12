@@ -3,14 +3,15 @@ title: "Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harm
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.02229"
-local_vault_path: "ai\research\prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md"
+local_vault_path: "ai/research/prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Prediction-Powered Risk Monitoring of Deployed Models for Detecting Harmful Distribution Shifts
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.02229
 
 ## Local Vault File
 
-Path: [prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md](file:///../../ai\research\prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md)
+Path: [prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md](file:///../../ai/research/prediction-powered-risk-monitoring-of-deployed-models-for-detecting-harmful-dist-6b6be6.md)

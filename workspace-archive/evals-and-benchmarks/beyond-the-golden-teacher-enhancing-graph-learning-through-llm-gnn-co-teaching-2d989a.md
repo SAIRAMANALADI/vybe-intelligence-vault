@@ -3,12 +3,15 @@ title: "Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-t
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11583"
-local_vault_path: "ai\research\beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md"
+local_vault_path: "ai/research/beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11583
 
 ## Local Vault File
 
-Path: [beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md](file:///../../ai\research\beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md)
+Path: [beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md](file:///../../ai/research/beyond-the-golden-teacher-enhancing-graph-learning-through-llm-gnn-co-teaching-2d989a.md)

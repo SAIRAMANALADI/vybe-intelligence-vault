@@ -3,7 +3,7 @@ title: "AI SciBrief as a Gateway to Research: A Framework for Onboarding Student
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12413"
-local_vault_path: "ai\rag\ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md"
+local_vault_path: "ai/rag/ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12413
 
 ## Local Vault File
 
-Path: [ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md](file:///../../ai\rag\ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md)
+Path: [ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md](file:///../../ai/rag/ai-scibrief-as-a-gateway-to-research-a-framework-for-onboarding-students-into-ne-73fa3f.md)

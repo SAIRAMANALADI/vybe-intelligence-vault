@@ -3,11 +3,11 @@ title: "Introducing Spaces Dev Mode for a seamless developer experience"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/spaces-dev-mode"
-local_vault_path: "ai\models\introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md"
+local_vault_path: "ai/models/introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/spaces-dev-mode
 
 ## Local Vault File
 
-Path: [introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md](file:///../../ai\models\introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md)
+Path: [introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md](file:///../../ai/models/introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md)

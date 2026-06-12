@@ -3,11 +3,11 @@ title: "Welcome Falcon Mamba: The first strong attention-free 7B model"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/falconmamba"
-local_vault_path: "ai\models\welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md"
+local_vault_path: "ai/models/welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/falconmamba
 
 ## Local Vault File
 
-Path: [welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md](file:///../../ai\models\welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md)
+Path: [welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md](file:///../../ai/models/welcome-falcon-mamba-the-first-strong-attention-free-7b-model-d84384.md)

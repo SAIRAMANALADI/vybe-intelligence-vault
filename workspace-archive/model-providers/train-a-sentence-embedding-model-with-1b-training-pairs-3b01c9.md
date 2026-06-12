@@ -3,11 +3,11 @@ title: "Train a Sentence Embedding Model with 1B Training Pairs"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/1b-sentence-embeddings"
-local_vault_path: "ai\models\train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md"
+local_vault_path: "ai/models/train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/1b-sentence-embeddings
 
 ## Local Vault File
 
-Path: [train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md](file:///../../ai\models\train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md)
+Path: [train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md](file:///../../ai/models/train-a-sentence-embedding-model-with-1b-training-pairs-3b01c9.md)

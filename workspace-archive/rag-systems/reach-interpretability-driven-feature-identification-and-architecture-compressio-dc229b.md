@@ -3,13 +3,16 @@ title: "REACH: Interpretability-Driven Feature Identification and Architecture C
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11857"
-local_vault_path: "ai\research\reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md"
+local_vault_path: "ai/research/reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - youtube
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11857
 
 ## Local Vault File
 
-Path: [reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md](file:///../../ai\research\reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md)
+Path: [reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md](file:///../../ai/research/reach-interpretability-driven-feature-identification-and-architecture-compressio-dc229b.md)

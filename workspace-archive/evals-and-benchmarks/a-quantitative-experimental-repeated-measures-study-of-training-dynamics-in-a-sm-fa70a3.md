@@ -3,7 +3,7 @@ title: "A Quantitative Experimental Repeated Measures Study of Training Dynamics
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13370"
-local_vault_path: "ai\research\a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md"
+local_vault_path: "ai/research/a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13370
 
 ## Local Vault File
 
-Path: [a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md](file:///../../ai\research\a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md)
+Path: [a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md](file:///../../ai/research/a-quantitative-experimental-repeated-measures-study-of-training-dynamics-in-a-sm-fa70a3.md)

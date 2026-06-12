@@ -3,16 +3,16 @@ title: "Mechanisms of Introspective Awareness"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.21396"
-local_vault_path: "ai\research\mechanisms-of-introspective-awareness-b5b473.md"
+local_vault_path: "ai/research/mechanisms-of-introspective-awareness-b5b473.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Mechanisms of Introspective Awareness
@@ -21,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.21396
 
 ## Local Vault File
 
-Path: [mechanisms-of-introspective-awareness-b5b473.md](file:///../../ai\research\mechanisms-of-introspective-awareness-b5b473.md)
+Path: [mechanisms-of-introspective-awareness-b5b473.md](file:///../../ai/research/mechanisms-of-introspective-awareness-b5b473.md)

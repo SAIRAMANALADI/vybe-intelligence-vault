@@ -3,16 +3,17 @@ title: "On the Stability of Growth in Structural Plasticity"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.15435"
-local_vault_path: "ai\rag\on-the-stability-of-growth-in-structural-plasticity-4737d0.md"
+local_vault_path: "ai/rag/on-the-stability-of-growth-in-structural-plasticity-4737d0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # On the Stability of Growth in Structural Plasticity
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2605.15435
 
 ## Local Vault File
 
-Path: [on-the-stability-of-growth-in-structural-plasticity-4737d0.md](file:///../../ai\rag\on-the-stability-of-growth-in-structural-plasticity-4737d0.md)
+Path: [on-the-stability-of-growth-in-structural-plasticity-4737d0.md](file:///../../ai/rag/on-the-stability-of-growth-in-structural-plasticity-4737d0.md)

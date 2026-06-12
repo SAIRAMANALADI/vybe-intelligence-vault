@@ -3,16 +3,17 @@ title: "Learning from almost nothing: How neural networks survive heavy input co
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11319"
-local_vault_path: "ai\rag\learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md"
+local_vault_path: "ai/rag/learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - dataset
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Learning from almost nothing: How neural networks survive heavy input corruption
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11319
 
 ## Local Vault File
 
-Path: [learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md](file:///../../ai\rag\learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md)
+Path: [learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md](file:///../../ai/rag/learning-from-almost-nothing-how-neural-networks-survive-heavy-input-corruption-4561cc.md)

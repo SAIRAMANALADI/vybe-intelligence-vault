@@ -3,7 +3,7 @@ title: "BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Repre
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.27277"
-local_vault_path: "ai\research\braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md"
+local_vault_path: "ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2604.27277
 
 ## Local Vault File
 
-Path: [braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md](file:///../../ai\research\braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md)
+Path: [braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md](file:///../../ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md)

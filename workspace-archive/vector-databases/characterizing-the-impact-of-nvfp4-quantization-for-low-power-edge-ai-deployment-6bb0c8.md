@@ -3,7 +3,7 @@ title: "Characterizing the Impact of NVFP4 Quantization for Low-Power Edge AI De
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.06527"
-local_vault_path: "ai\rag\characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md"
+local_vault_path: "ai/rag/characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "benchmark"
 importance: "medium"
 tags:
   - models
+  - paper
   - rag
 selection_reason:
   - "Valuable developer reference"
@@ -43,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.06527
 
 ## Local Vault File
 
-Path: [characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md](file:///../../ai\rag\characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md)
+Path: [characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md](file:///../../ai/rag/characterizing-the-impact-of-nvfp4-quantization-for-low-power-edge-ai-deployment-6bb0c8.md)

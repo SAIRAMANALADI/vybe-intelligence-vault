@@ -3,7 +3,7 @@ title: "Planning under Distribution Shifts with Causal POMDPs"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.23545"
-local_vault_path: "ai\research\planning-under-distribution-shifts-with-causal-pomdps-47c924.md"
+local_vault_path: "ai/research/planning-under-distribution-shifts-with-causal-pomdps-47c924.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.23545
 
 ## Local Vault File
 
-Path: [planning-under-distribution-shifts-with-causal-pomdps-47c924.md](file:///../../ai\research\planning-under-distribution-shifts-with-causal-pomdps-47c924.md)
+Path: [planning-under-distribution-shifts-with-causal-pomdps-47c924.md](file:///../../ai/research/planning-under-distribution-shifts-with-causal-pomdps-47c924.md)

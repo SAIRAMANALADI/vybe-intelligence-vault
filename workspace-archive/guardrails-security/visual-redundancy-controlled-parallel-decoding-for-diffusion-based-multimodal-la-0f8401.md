@@ -3,14 +3,16 @@ title: "Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multi
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.25820"
-local_vault_path: "ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md"
+local_vault_path: "ai/research/visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Visual-Redundancy-Controlled Parallel Decoding for Diffusion-Based Multimodal Large Language Models
@@ -19,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.25820
 
 ## Local Vault File
 
-Path: [visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md](file:///../../ai\research\visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md)
+Path: [visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md](file:///../../ai/research/visual-redundancy-controlled-parallel-decoding-for-diffusion-based-multimodal-la-0f8401.md)

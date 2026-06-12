@@ -3,7 +3,7 @@ title: "Workers are spending over 6 hours a week botsitting AI, fueling job frus
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6"
-local_vault_path: "ai\community\workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md"
+local_vault_path: "ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.businessinsider.com/botsitting-ai-hidden-human-
 
 ## Local Vault File
 
-Path: [workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md](file:///../../ai\community\workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md)
+Path: [workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md](file:///../../ai/community/workers-are-spending-over-6-hours-a-week-botsitting-ai-fueling-job-frustration-530c08.md)

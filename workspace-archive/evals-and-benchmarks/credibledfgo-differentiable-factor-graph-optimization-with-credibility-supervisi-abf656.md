@@ -3,15 +3,16 @@ title: "CredibleDFGO: Differentiable Factor Graph Optimization with Credibility 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.06100"
-local_vault_path: "ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md"
+local_vault_path: "ai/research/credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -20,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.06100
 
 ## Local Vault File
 
-Path: [credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md](file:///../../ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md)
+Path: [credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md](file:///../../ai/research/credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md)

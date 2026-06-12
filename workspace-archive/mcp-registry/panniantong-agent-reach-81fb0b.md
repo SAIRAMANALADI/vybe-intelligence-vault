@@ -3,7 +3,7 @@ title: "Panniantong/Agent-Reach"
 archive_category: "mcp-registry"
 source_category: "ai/agents"
 source_url: "https://github.com/Panniantong/Agent-Reach"
-local_vault_path: "ai\agents\panniantong-agent-reach-81fb0b.md"
+local_vault_path: "ai/agents/panniantong-agent-reach-81fb0b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://github.com/Panniantong/Agent-Reach
 
 ## Local Vault File
 
-Path: [panniantong-agent-reach-81fb0b.md](file:///../../ai\agents\panniantong-agent-reach-81fb0b.md)
+Path: [panniantong-agent-reach-81fb0b.md](file:///../../ai/agents/panniantong-agent-reach-81fb0b.md)

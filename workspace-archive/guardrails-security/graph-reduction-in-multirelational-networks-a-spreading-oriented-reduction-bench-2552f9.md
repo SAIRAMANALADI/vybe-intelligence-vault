@@ -3,7 +3,7 @@ title: "Graph Reduction in Multirelational Networks: A Spreading-Oriented Reduct
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12581"
-local_vault_path: "ai\research\graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md"
+local_vault_path: "ai/research/graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12581
 
 ## Local Vault File
 
-Path: [graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md](file:///../../ai\research\graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md)
+Path: [graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md](file:///../../ai/research/graph-reduction-in-multirelational-networks-a-spreading-oriented-reduction-bench-2552f9.md)

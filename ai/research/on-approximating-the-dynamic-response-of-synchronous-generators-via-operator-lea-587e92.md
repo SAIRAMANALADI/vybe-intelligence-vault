@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484998+00:00'
+collected_at: '2026-06-12T10:40:03.106331+00:00'
 tags:
 - models
 - paper
-status: new
+status: active
+id: arxiv:2301.12538
+first_seen: '2026-06-12T10:40:03.106331+00:00'
+last_seen: '2026-06-12T10:40:03.106331+00:00'
 ---
 
 # On Approximating the Dynamic Response of Synchronous Generators via Operator Learning: A Step Towards Building Deep Operator-based Power Grid Simulators

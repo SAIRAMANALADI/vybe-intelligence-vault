@@ -3,7 +3,7 @@ title: "Sonar-TS: Search-Then-Verify Natural Language Querying for Time Series D
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.17001"
-local_vault_path: "ai\research\sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md"
+local_vault_path: "ai/research/sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.17001
 
 ## Local Vault File
 
-Path: [sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md](file:///../../ai\research\sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md)
+Path: [sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md](file:///../../ai/research/sonar-ts-search-then-verify-natural-language-querying-for-time-series-databases-6da32c.md)

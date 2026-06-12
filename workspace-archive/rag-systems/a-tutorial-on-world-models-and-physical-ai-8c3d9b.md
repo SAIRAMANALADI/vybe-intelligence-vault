@@ -3,7 +3,7 @@ title: "A Tutorial on World Models and Physical AI"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12783"
-local_vault_path: "ai\agents\a-tutorial-on-world-models-and-physical-ai-8c3d9b.md"
+local_vault_path: "ai/agents/a-tutorial-on-world-models-and-physical-ai-8c3d9b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12783
 
 ## Local Vault File
 
-Path: [a-tutorial-on-world-models-and-physical-ai-8c3d9b.md](file:///../../ai\agents\a-tutorial-on-world-models-and-physical-ai-8c3d9b.md)
+Path: [a-tutorial-on-world-models-and-physical-ai-8c3d9b.md](file:///../../ai/agents/a-tutorial-on-world-models-and-physical-ai-8c3d9b.md)

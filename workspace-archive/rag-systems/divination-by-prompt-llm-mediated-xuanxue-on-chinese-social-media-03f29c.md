@@ -3,7 +3,7 @@ title: "Divination by Prompt: LLM-Mediated Xuanxue on Chinese Social Media"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12418"
-local_vault_path: "ai\rag\divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md"
+local_vault_path: "ai/rag/divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12418
 
 ## Local Vault File
 
-Path: [divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md](file:///../../ai\rag\divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md)
+Path: [divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md](file:///../../ai/rag/divination-by-prompt-llm-mediated-xuanxue-on-chinese-social-media-03f29c.md)

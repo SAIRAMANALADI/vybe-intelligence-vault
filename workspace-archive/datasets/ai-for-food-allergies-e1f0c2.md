@@ -3,7 +3,7 @@ title: "AI for Food Allergies"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hugging-science/ai-for-food-allergies"
-local_vault_path: "ai\models\ai-for-food-allergies-e1f0c2.md"
+local_vault_path: "ai/models/ai-for-food-allergies-e1f0c2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/hugging-science/ai-for-food-all
 
 ## Local Vault File
 
-Path: [ai-for-food-allergies-e1f0c2.md](file:///../../ai\models\ai-for-food-allergies-e1f0c2.md)
+Path: [ai-for-food-allergies-e1f0c2.md](file:///../../ai/models/ai-for-food-allergies-e1f0c2.md)

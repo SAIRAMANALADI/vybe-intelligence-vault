@@ -9,12 +9,15 @@ year: N/A
 citation_count: N/A
 code_url: None
 stars: N/A
-published_at: '2026-06-11T04:00:00+00:00'
-collected_at: '2026-06-11T18:20:38.802690+00:00'
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.014204+00:00'
 tags:
 - dataset
 - models
-status: new
+status: active
+id: arxiv:2606.11844
+first_seen: '2026-06-12T10:40:06.014204+00:00'
+last_seen: '2026-06-12T10:40:06.014204+00:00'
 ---
 
 # TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data

@@ -3,7 +3,7 @@ title: "Engineering Robustness into Personal Agents with the AI Workflow Store"
 archive_category: "ai-tools-products"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.10907"
-local_vault_path: "ai\agents\engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md"
+local_vault_path: "ai/agents/engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2605.10907
 
 ## Local Vault File
 
-Path: [engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md](file:///../../ai\agents\engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md)
+Path: [engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md](file:///../../ai/agents/engineering-robustness-into-personal-agents-with-the-ai-workflow-store-980719.md)

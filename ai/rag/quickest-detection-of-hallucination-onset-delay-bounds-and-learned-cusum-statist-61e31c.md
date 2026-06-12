@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482486+00:00'
+collected_at: '2026-06-12T10:40:03.103458+00:00'
 tags:
 - frontend_ui
 - rag
-status: new
+status: active
+id: arxiv:2606.12476
+first_seen: '2026-06-12T10:40:03.103458+00:00'
+last_seen: '2026-06-12T10:40:03.103458+00:00'
 ---
 
 # Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics

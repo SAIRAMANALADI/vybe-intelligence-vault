@@ -11,13 +11,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481052+00:00'
+collected_at: '2026-06-12T10:40:03.101898+00:00'
 tags:
 - agents
 - benchmark
 - scripts
 - youtube
-status: new
+status: active
+id: arxiv:2606.12817
+first_seen: '2026-06-12T10:40:03.101898+00:00'
+last_seen: '2026-06-12T10:40:03.101898+00:00'
 ---
 
 # Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobile Screen Demonstrations to Empower GUI Agents

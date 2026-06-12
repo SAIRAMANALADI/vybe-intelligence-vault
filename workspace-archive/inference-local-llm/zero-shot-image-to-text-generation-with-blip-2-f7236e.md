@@ -3,11 +3,11 @@ title: "Zero-shot image-to-text generation with BLIP-2"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/blip-2"
-local_vault_path: "ai\models\zero-shot-image-to-text-generation-with-blip-2-f7236e.md"
+local_vault_path: "ai/models/zero-shot-image-to-text-generation-with-blip-2-f7236e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/blip-2
 
 ## Local Vault File
 
-Path: [zero-shot-image-to-text-generation-with-blip-2-f7236e.md](file:///../../ai\models\zero-shot-image-to-text-generation-with-blip-2-f7236e.md)
+Path: [zero-shot-image-to-text-generation-with-blip-2-f7236e.md](file:///../../ai/models/zero-shot-image-to-text-generation-with-blip-2-f7236e.md)

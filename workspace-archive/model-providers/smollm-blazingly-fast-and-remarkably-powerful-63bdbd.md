@@ -3,11 +3,11 @@ title: "SmolLM - blazingly fast and remarkably powerful"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/smollm"
-local_vault_path: "ai\models\smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md"
+local_vault_path: "ai/models/smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md](file:///../../ai\models\smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md)
+Path: [smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md](file:///../../ai/models/smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md)

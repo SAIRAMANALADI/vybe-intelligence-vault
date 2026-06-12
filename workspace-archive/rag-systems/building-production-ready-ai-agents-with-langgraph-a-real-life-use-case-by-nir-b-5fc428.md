@@ -3,7 +3,7 @@ title: "Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4"
-local_vault_path: "ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md"
+local_vault_path: "ai/rag/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://medium.com/cyberark-engineering/building-production
 
 ## Local Vault File
 
-Path: [building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md](file:///../../ai\rag\building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md)
+Path: [building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md](file:///../../ai/rag/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-by-nir-b-5fc428.md)

@@ -10,9 +10,12 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485233+00:00'
+collected_at: '2026-06-12T10:40:03.106577+00:00'
 tags: []
-status: new
+status: active
+id: arxiv:2508.01656
+first_seen: '2026-06-12T10:40:03.106577+00:00'
+last_seen: '2026-06-12T10:40:03.106577+00:00'
 ---
 
 # Authorship Attribution in Multilingual Machine-Generated Texts

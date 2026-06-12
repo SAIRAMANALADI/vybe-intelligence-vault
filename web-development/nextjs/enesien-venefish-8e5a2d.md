@@ -4,13 +4,16 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/enesien/venefish
-collected_at: '2026-06-11T08:45:43.851291+00:00'
+collected_at: '2026-06-12T10:40:20.338232+00:00'
 published_at: '2026-04-22T00:02:42Z'
 tags:
 - frontend_ui
 stars: 130
 language: TypeScript
-status: new
+status: active
+id: github:enesien/venefish
+first_seen: '2026-06-12T10:40:20.338232+00:00'
+last_seen: '2026-06-12T10:40:20.338232+00:00'
 ---
 
 # enesien/venefish
@@ -27,7 +30,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 - Owner: enesien
 - Stars: 130
-- Forks: 38
+- Forks: 37
 - Language: TypeScript
 - Topics: boilerplate, boilerplate-application, boilerplate-front-end, boilerplate-react, boilerplate-template, firebase, firebase-auth, nextjs, react, shadcn, shadcn-ui, shadcnui, tailwind, tailwind-css, tailwindcss, template, vercel
 - Last Updated: 2026-04-22T00:02:42Z

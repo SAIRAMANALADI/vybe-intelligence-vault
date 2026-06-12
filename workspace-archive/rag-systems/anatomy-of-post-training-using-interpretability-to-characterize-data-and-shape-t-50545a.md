@@ -3,14 +3,17 @@ title: "Anatomy of Post-Training: Using Interpretability to Characterize Data an
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12360"
-local_vault_path: "ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
+local_vault_path: "ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12360
 
 ## Local Vault File
 
-Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)
+Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)

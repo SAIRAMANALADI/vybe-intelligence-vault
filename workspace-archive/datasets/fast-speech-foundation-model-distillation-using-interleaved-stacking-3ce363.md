@@ -3,7 +3,7 @@ title: "Fast Speech Foundation Model Distillation Using Interleaved Stacking"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11766"
-local_vault_path: "ai\research\fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md"
+local_vault_path: "ai/research/fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11766
 
 ## Local Vault File
 
-Path: [fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md](file:///../../ai\research\fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md)
+Path: [fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md](file:///../../ai/research/fast-speech-foundation-model-distillation-using-interleaved-stacking-3ce363.md)

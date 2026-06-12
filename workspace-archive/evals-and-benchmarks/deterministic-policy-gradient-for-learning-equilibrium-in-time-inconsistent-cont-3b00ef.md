@@ -3,14 +3,18 @@ title: "Deterministic Policy Gradient for Learning Equilibrium in Time-Inconsist
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11798"
-local_vault_path: "ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md"
+local_vault_path: "ai/research/deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - creative_dev
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Deterministic Policy Gradient for Learning Equilibrium in Time-Inconsistent Control Problems
@@ -18,10 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11798
 
 ## Local Vault File
 
-Path: [deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md](file:///../../ai\research\deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md)
+Path: [deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md](file:///../../ai/research/deterministic-policy-gradient-for-learning-equilibrium-in-time-inconsistent-cont-3b00ef.md)

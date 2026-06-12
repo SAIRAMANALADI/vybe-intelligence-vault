@@ -3,7 +3,7 @@ title: "GLACIER: A Multimodal Student-Teacher Foundation Model for Molecular Pro
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11382"
-local_vault_path: "ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md"
+local_vault_path: "ai/rag/glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - paper
   - rag
 selection_reason:
   - "Useful for project building"
@@ -43,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11382
 
 ## Local Vault File
 
-Path: [glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md](file:///../../ai\rag\glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md)
+Path: [glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md](file:///../../ai/rag/glacier-a-multimodal-student-teacher-foundation-model-for-molecular-property-pre-bf4278.md)

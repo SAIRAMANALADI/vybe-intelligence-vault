@@ -3,14 +3,16 @@ title: "Anatomy of Post-Training: Using Interpretability to Characterize Data an
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12360"
-local_vault_path: "ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
+local_vault_path: "ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal
@@ -19,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12360
 
 ## Local Vault File
 
-Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)
+Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)

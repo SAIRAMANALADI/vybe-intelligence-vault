@@ -4,14 +4,17 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/kheruc/rt-next-motion
-collected_at: '2026-06-11T08:45:41.211930+00:00'
+collected_at: '2026-06-12T10:40:18.782986+00:00'
 published_at: '2026-05-04T20:17:15Z'
 tags:
 - animation
 - frontend_ui
 stars: 190
 language: JavaScript
-status: new
+status: active
+id: github:kheruc/rt-next-motion
+first_seen: '2026-06-12T10:40:18.782986+00:00'
+last_seen: '2026-06-12T10:40:18.782986+00:00'
 ---
 
 # kheruc/rt-next-motion

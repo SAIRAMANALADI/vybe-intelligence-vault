@@ -3,14 +3,17 @@ title: "Structure-Preserving Neural Surrogates with Tractable Uncertainty Quanti
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11650"
-local_vault_path: "ai\research\structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md"
+local_vault_path: "ai/research/structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Structure-Preserving Neural Surrogates with Tractable Uncertainty Quantification
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11650
 
 ## Local Vault File
 
-Path: [structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md](file:///../../ai\research\structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md)
+Path: [structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md](file:///../../ai/research/structure-preserving-neural-surrogates-with-tractable-uncertainty-quantification-f485ae.md)

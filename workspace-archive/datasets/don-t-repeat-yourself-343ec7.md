@@ -3,11 +3,11 @@ title: "~Don't~ Repeat Yourself"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformers-design-philosophy"
-local_vault_path: "ai\models\don-t-repeat-yourself-343ec7.md"
+local_vault_path: "ai/models/don-t-repeat-yourself-343ec7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai\models\don-t-repeat-yourself-343ec7.md)
+Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai/models/don-t-repeat-yourself-343ec7.md)

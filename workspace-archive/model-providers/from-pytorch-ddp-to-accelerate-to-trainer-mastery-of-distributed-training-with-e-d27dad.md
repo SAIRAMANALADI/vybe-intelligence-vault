@@ -3,11 +3,11 @@ title: "From PyTorch DDP to Accelerate to Trainer, mastery of distributed traini
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pytorch-ddp-accelerate-transformers"
-local_vault_path: "ai\models\from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md"
+local_vault_path: "ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pytorch-ddp-accelerate-transfor
 
 ## Local Vault File
 
-Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md](file:///../../ai\models\from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md)
+Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md](file:///../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery-of-distributed-training-with-e-d27dad.md)

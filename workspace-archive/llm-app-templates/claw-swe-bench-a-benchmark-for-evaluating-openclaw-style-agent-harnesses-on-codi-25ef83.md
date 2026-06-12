@@ -3,7 +3,7 @@ title: "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesse
 archive_category: "llm-app-templates"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12344"
-local_vault_path: "ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md"
+local_vault_path: "ai/agents/claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -11,6 +11,8 @@ resource_kind: "prompt"
 importance: "high"
 tags:
   - agents
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -44,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12344
 
 ## Local Vault File
 
-Path: [claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md](file:///../../ai\agents\claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md)
+Path: [claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md](file:///../../ai/agents/claw-swe-bench-a-benchmark-for-evaluating-openclaw-style-agent-harnesses-on-codi-25ef83.md)

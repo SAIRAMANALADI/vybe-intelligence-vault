@@ -3,7 +3,7 @@ title: "OpenMedQ: Broad Open Pretraining for Medical Vision-Language Models"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12953"
-local_vault_path: "ai\rag\openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md"
+local_vault_path: "ai/rag/openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12953
 
 ## Local Vault File
 
-Path: [openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md](file:///../../ai\rag\openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md)
+Path: [openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md](file:///../../ai/rag/openmedq-broad-open-pretraining-for-medical-vision-language-models-d2165d.md)

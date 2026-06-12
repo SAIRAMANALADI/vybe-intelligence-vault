@@ -3,11 +3,11 @@ title: "2023, year of open LLMs"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/2023-in-llms"
-local_vault_path: "ai\models\2023-year-of-open-llms-3c6369.md"
+local_vault_path: "ai/models/2023-year-of-open-llms-3c6369.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/2023-in-llms
 
 ## Local Vault File
 
-Path: [2023-year-of-open-llms-3c6369.md](file:///../../ai\models\2023-year-of-open-llms-3c6369.md)
+Path: [2023-year-of-open-llms-3c6369.md](file:///../../ai/models/2023-year-of-open-llms-3c6369.md)

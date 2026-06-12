@@ -3,7 +3,7 @@ title: "ReCal: Reward Calibration for RL-based LLM Routing"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12479"
-local_vault_path: "ai\rag\recal-reward-calibration-for-rl-based-llm-routing-05795d.md"
+local_vault_path: "ai/rag/recal-reward-calibration-for-rl-based-llm-routing-05795d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12479
 
 ## Local Vault File
 
-Path: [recal-reward-calibration-for-rl-based-llm-routing-05795d.md](file:///../../ai\rag\recal-reward-calibration-for-rl-based-llm-routing-05795d.md)
+Path: [recal-reward-calibration-for-rl-based-llm-routing-05795d.md](file:///../../ai/rag/recal-reward-calibration-for-rl-based-llm-routing-05795d.md)

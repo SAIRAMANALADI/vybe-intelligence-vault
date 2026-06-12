@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow
-collected_at: '2026-06-11T12:53:17.889614+00:00'
+collected_at: '2026-06-12T10:41:44.101003+00:00'
 published_at: '2025-02-14T09:55:08Z'
 tags:
 - github-repo
@@ -13,7 +13,13 @@ tags:
 - workflows
 stars: 0
 language: Python
-status: new
+status: active
+archived: false
+created_at: '2024-12-13T09:08:07Z'
+pushed_at: '2025-02-14T09:55:04Z'
+id: null
+first_seen: '2026-06-12T10:41:44.101003+00:00'
+last_seen: '2026-06-12T10:41:44.101003+00:00'
 ---
 
 # IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow
@@ -34,6 +40,9 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Language: Python
 - Topics: None
 - Last Updated: 2025-02-14T09:55:08Z
+- Archived: No
+- Created At: 2024-12-13T09:08:07Z
+- Pushed At: 2025-02-14T09:55:04Z
 
 ## Possible Use Cases
 

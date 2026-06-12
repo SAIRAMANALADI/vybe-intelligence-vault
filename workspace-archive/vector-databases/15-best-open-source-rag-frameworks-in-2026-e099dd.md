@@ -3,7 +3,7 @@ title: "15 Best Open-Source RAG Frameworks in 2026"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.firecrawl.dev/blog/best-open-source-rag-frameworks"
-local_vault_path: "ai\rag\15-best-open-source-rag-frameworks-in-2026-e099dd.md"
+local_vault_path: "ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.firecrawl.dev/blog/best-open-source-rag-framewo
 
 ## Local Vault File
 
-Path: [15-best-open-source-rag-frameworks-in-2026-e099dd.md](file:///../../ai\rag\15-best-open-source-rag-frameworks-in-2026-e099dd.md)
+Path: [15-best-open-source-rag-frameworks-in-2026-e099dd.md](file:///../../ai/rag/15-best-open-source-rag-frameworks-in-2026-e099dd.md)

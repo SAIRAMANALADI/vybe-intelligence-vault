@@ -3,11 +3,11 @@ title: "Hugging Face to sell open-source robots thanks to Pollen Robotics acquis
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition"
-local_vault_path: "ai\models\hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md"
+local_vault_path: "ai/models/hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-pollen-robotics-ac
 
 ## Local Vault File
 
-Path: [hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md](file:///../../ai\models\hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md)
+Path: [hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md](file:///../../ai/models/hugging-face-to-sell-open-source-robots-thanks-to-pollen-robotics-acquisition-f5ff16.md)

@@ -3,7 +3,7 @@ title: "Building Deep Research: How we Achieved State of the Art"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Tavily/tavily-deep-research"
-local_vault_path: "ai\models\building-deep-research-how-we-achieved-state-of-the-art-740a0c.md"
+local_vault_path: "ai/models/building-deep-research-how-we-achieved-state-of-the-art-740a0c.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Tavily/tavily-deep-research
 
 ## Local Vault File
 
-Path: [building-deep-research-how-we-achieved-state-of-the-art-740a0c.md](file:///../../ai\models\building-deep-research-how-we-achieved-state-of-the-art-740a0c.md)
+Path: [building-deep-research-how-we-achieved-state-of-the-art-740a0c.md](file:///../../ai/models/building-deep-research-how-we-achieved-state-of-the-art-740a0c.md)

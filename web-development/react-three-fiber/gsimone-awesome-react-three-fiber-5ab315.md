@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/gsimone/awesome-react-three-fiber
-collected_at: '2026-06-11T08:45:37.431952+00:00'
+collected_at: '2026-06-12T10:40:15.865590+00:00'
 published_at: '2026-05-18T05:09:00Z'
 tags:
 - frontend_ui
 - threejs
 stars: 198
 language: Unknown
-status: new
+status: active
+id: github:gsimone/awesome-react-three-fiber
+first_seen: '2026-06-12T10:40:15.865590+00:00'
+last_seen: '2026-06-12T10:40:15.865590+00:00'
 ---
 
 # gsimone/awesome-react-three-fiber

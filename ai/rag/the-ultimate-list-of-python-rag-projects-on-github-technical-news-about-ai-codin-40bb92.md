@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dasroot.net/posts/2026/03/python-rag-projects-github
-published_at: '2026-06-11T18:21:26.152059+00:00'
-collected_at: '2026-06-11T18:21:26.152079+00:00'
+published_at: '2026-06-12T10:41:04.829767+00:00'
+collected_at: '2026-06-12T10:41:04.829778+00:00'
 tags:
 - agents
 - benchmark
@@ -17,7 +17,10 @@ tags:
 - rag
 - web-crawled
 - workflows
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:04.829778+00:00'
+last_seen: '2026-06-12T10:41:04.829778+00:00'
 ---
 
 # The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all
@@ -34,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:26.152059+00:00
+- Published: 2026-06-12T10:41:04.829767+00:00
 
 ## Related Tags
 

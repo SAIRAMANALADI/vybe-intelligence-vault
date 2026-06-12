@@ -3,7 +3,7 @@ title: "MP3: Multi-Period Pattern Pre-training forSpatio-Temporal Forecasting"
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13119"
-local_vault_path: "ai\rag\mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md"
+local_vault_path: "ai/rag/mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13119
 
 ## Local Vault File
 
-Path: [mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md](file:///../../ai\rag\mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md)
+Path: [mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md](file:///../../ai/rag/mp3-multi-period-pattern-pre-training-forspatio-temporal-forecasting-57a6b0.md)

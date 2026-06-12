@@ -3,7 +3,7 @@ title: "ASTER: Latent Pseudo-Anomaly Generation for Unsupervised Time-Series Ano
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2604.13924"
-local_vault_path: "ai\research\aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md"
+local_vault_path: "ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2604.13924
 
 ## Local Vault File
 
-Path: [aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md](file:///../../ai\research\aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md)
+Path: [aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md](file:///../../ai/research/aster-latent-pseudo-anomaly-generation-for-unsupervised-time-series-anomaly-dete-317b5d.md)

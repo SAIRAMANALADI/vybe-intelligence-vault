@@ -2,39 +2,43 @@
 title: A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2605.10592
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.523712+00:00'
-tags: []
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.019383+00:00'
+tags:
+- youtube
+status: active
+id: arxiv:2605.10592
+first_seen: '2026-06-12T10:40:06.019383+00:00'
+last_seen: '2026-06-12T10:40:06.019383+00:00'
 ---
 
 # A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge
 
 ## Summary
 
-arXiv:2605.10592v2 Announce Type: replace 
+arXiv:2605.10592v2 Announce Type: replace-cross 
 Abstract: Aging combined sewer systems in many historical cities are increasingly stressed by extreme rainfall events, which can trigger combined sewer overflows (CSO) with significant environmental and public health impacts. Forecasting the filling dynamics of overflow basins is critical for anticipating capacity exceedance and enabling timely preventive actions for CSO. We present a web-based demonstrator that integrates Deep Learning forecasting methods in both cloud and edge settings into an interactive monitoring dashboard for overflow monitoring, resilient to network outages. A video showcase is available online (https://cloud.bht-berlin.de/index.php/s/b9xt4T3SdiLBiFZ).
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2605.10592
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- None
-
-## Source
-
-Original source: https://arxiv.org/abs/2605.10592
+- youtube

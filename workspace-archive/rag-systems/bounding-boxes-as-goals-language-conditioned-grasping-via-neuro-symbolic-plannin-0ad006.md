@@ -3,7 +3,7 @@ title: "Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symboli
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12910"
-local_vault_path: "ai\rag\bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md"
+local_vault_path: "ai/rag/bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12910
 
 ## Local Vault File
 
-Path: [bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md](file:///../../ai\rag\bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md)
+Path: [bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md](file:///../../ai/rag/bounding-boxes-as-goals-language-conditioned-grasping-via-neuro-symbolic-plannin-0ad006.md)

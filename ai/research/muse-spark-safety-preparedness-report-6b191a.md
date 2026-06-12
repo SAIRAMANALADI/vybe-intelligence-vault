@@ -10,13 +10,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482345+00:00'
+collected_at: '2026-06-12T10:40:03.103312+00:00'
 tags:
 - benchmark
 - meta-ai
 - producthunt
 - workflows
-status: new
+status: active
+id: arxiv:2606.12429
+first_seen: '2026-06-12T10:40:03.103312+00:00'
+last_seen: '2026-06-12T10:40:03.103312+00:00'
 ---
 
 # Muse Spark Safety & Preparedness Report

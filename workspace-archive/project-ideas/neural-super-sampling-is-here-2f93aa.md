@@ -3,7 +3,7 @@ title: "Neural Super Sampling is here!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Arm/neural-super-sampling"
-local_vault_path: "ai\models\neural-super-sampling-is-here-2f93aa.md"
+local_vault_path: "ai/models/neural-super-sampling-is-here-2f93aa.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Arm/neural-super-sampling
 
 ## Local Vault File
 
-Path: [neural-super-sampling-is-here-2f93aa.md](file:///../../ai\models\neural-super-sampling-is-here-2f93aa.md)
+Path: [neural-super-sampling-is-here-2f93aa.md](file:///../../ai/models/neural-super-sampling-is-here-2f93aa.md)

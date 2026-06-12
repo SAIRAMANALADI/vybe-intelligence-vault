@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:02:00.580155+00:00'
+collected_at: '2026-06-12T10:40:06.013086+00:00'
 tags:
 - hackernews
 - rag
-status: new
+status: active
+id: arxiv:2606.11255
+first_seen: '2026-06-12T10:40:06.013086+00:00'
+last_seen: '2026-06-12T10:40:06.013086+00:00'
 ---
 
 # Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization

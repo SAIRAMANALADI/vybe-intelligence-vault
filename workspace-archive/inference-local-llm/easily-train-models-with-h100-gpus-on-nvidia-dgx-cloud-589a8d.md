@@ -3,11 +3,11 @@ title: "Easily Train Models with H100 GPUs on NVIDIA DGX Cloud"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/train-dgx-cloud"
-local_vault_path: "ai\models\easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md"
+local_vault_path: "ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/train-dgx-cloud
 
 ## Local Vault File
 
-Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md](file:///../../ai\models\easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md)
+Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md](file:///../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md)

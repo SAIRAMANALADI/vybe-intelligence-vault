@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482983+00:00'
+collected_at: '2026-06-12T10:40:03.104097+00:00'
 tags:
 - agents
-status: new
+status: active
+id: arxiv:2606.12805
+first_seen: '2026-06-12T10:40:03.104097+00:00'
+last_seen: '2026-06-12T10:40:03.104097+00:00'
 ---
 
 # Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning

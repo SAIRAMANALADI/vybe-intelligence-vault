@@ -3,7 +3,7 @@ title: "A complete guide to RAG evaluation: metrics, testing and best practices"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.evidentlyai.com/llm-guide/rag-evaluation"
-local_vault_path: "ai\rag\a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md"
+local_vault_path: "ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://www.evidentlyai.com/llm-guide/rag-evaluation
 
 ## Local Vault File
 
-Path: [a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md](file:///../../ai\rag\a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md)
+Path: [a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md](file:///../../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing-and-best-practices-98957c.md)

@@ -3,12 +3,14 @@ title: "Open Preference Dataset for Text-to-Image Generation by the 🤗 Communi
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/image-preferences"
-local_vault_path: "ai\models\open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md"
+local_vault_path: "ai/models/open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "dataset"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -41,4 +43,4 @@ Original source URL: https://huggingface.co/blog/image-preferences
 
 ## Local Vault File
 
-Path: [open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md](file:///../../ai\models\open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md)
+Path: [open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md](file:///../../ai/models/open-preference-dataset-for-text-to-image-generation-by-the-community-122a75.md)

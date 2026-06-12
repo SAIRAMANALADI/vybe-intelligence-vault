@@ -3,7 +3,7 @@ title: "Parthenon Law: A Self-Evolving Legal-Agent Framework"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.04602"
-local_vault_path: "ai\agents\parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md"
+local_vault_path: "ai/agents/parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.04602
 
 ## Local Vault File
 
-Path: [parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md](file:///../../ai\agents\parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md)
+Path: [parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md](file:///../../ai/agents/parthenon-law-a-self-evolving-legal-agent-framework-37ac4f.md)

@@ -3,7 +3,7 @@ title: "Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleave
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13464"
-local_vault_path: "ai\rag\ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md"
+local_vault_path: "ai/rag/ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13464
 
 ## Local Vault File
 
-Path: [ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md](file:///../../ai\rag\ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md)
+Path: [ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md](file:///../../ai/rag/ontology-memory-augmented-asr-correction-for-long-text-speech-interleaved-conver-11dd75.md)

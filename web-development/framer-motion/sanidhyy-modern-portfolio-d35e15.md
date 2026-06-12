@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/sanidhyy/modern-portfolio
-collected_at: '2026-06-11T08:45:41.211778+00:00'
+collected_at: '2026-06-12T10:40:18.782847+00:00'
 published_at: '2026-06-10T16:33:14Z'
 tags:
 - animation
@@ -12,7 +12,10 @@ tags:
 - frontend_ui
 stars: 251
 language: JavaScript
-status: new
+status: active
+id: github:sanidhyy/modern-portfolio
+first_seen: '2026-06-12T10:40:18.782847+00:00'
+last_seen: '2026-06-12T10:40:18.782847+00:00'
 ---
 
 # sanidhyy/modern-portfolio

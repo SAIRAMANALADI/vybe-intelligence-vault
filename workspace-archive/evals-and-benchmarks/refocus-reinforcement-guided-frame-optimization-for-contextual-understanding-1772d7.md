@@ -3,7 +3,7 @@ title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understa
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2506.01274"
-local_vault_path: "ai\rag\refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md"
+local_vault_path: "ai/rag/refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2506.01274
 
 ## Local Vault File
 
-Path: [refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md](file:///../../ai\rag\refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md)
+Path: [refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md](file:///../../ai/rag/refocus-reinforcement-guided-frame-optimization-for-contextual-understanding-1772d7.md)

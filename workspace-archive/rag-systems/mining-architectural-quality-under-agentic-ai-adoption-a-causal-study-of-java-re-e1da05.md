@@ -3,7 +3,7 @@ title: "Mining Architectural Quality Under Agentic AI Adoption: A Causal Study o
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13298"
-local_vault_path: "ai\agents\mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md"
+local_vault_path: "ai/agents/mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13298
 
 ## Local Vault File
 
-Path: [mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md](file:///../../ai\agents\mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md)
+Path: [mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md](file:///../../ai/agents/mining-architectural-quality-under-agentic-ai-adoption-a-causal-study-of-java-re-e1da05.md)

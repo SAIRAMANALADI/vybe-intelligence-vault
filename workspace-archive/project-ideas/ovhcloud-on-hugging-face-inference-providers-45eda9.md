@@ -3,7 +3,7 @@ title: "OVHcloud on Hugging Face Inference Providers 🔥"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud"
-local_vault_path: "ai\models\ovhcloud-on-hugging-face-inference-providers-45eda9.md"
+local_vault_path: "ai/models/ovhcloud-on-hugging-face-inference-providers-45eda9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/OVHcloud/inference-providers-ov
 
 ## Local Vault File
 
-Path: [ovhcloud-on-hugging-face-inference-providers-45eda9.md](file:///../../ai\models\ovhcloud-on-hugging-face-inference-providers-45eda9.md)
+Path: [ovhcloud-on-hugging-face-inference-providers-45eda9.md](file:///../../ai/models/ovhcloud-on-hugging-face-inference-providers-45eda9.md)

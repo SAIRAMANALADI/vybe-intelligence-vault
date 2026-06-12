@@ -4,13 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/jolbol1/nextjs-velite-blog-template
-collected_at: '2026-06-11T08:45:43.851258+00:00'
+collected_at: '2026-06-12T10:40:20.338189+00:00'
 published_at: '2026-05-15T21:21:04Z'
 tags:
 - frontend_ui
+- youtube
 stars: 194
 language: TypeScript
-status: new
+status: active
+id: github:jolbol1/nextjs-velite-blog-template
+first_seen: '2026-06-12T10:40:20.338189+00:00'
+last_seen: '2026-06-12T10:40:20.338189+00:00'
 ---
 
 # jolbol1/nextjs-velite-blog-template

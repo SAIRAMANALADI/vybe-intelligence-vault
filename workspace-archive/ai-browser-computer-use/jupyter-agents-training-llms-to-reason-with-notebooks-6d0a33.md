@@ -3,11 +3,11 @@ title: "Jupyter Agents: training LLMs to reason with notebooks"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/jupyter-agent-2"
-local_vault_path: "ai\agents\jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md"
+local_vault_path: "ai/agents/jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - agents
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `AI Browser and Computer Use`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/jupyter-agent-2
 
 ## Local Vault File
 
-Path: [jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md](file:///../../ai\agents\jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md)
+Path: [jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md](file:///../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebooks-6d0a33.md)

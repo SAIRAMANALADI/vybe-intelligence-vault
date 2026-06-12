@@ -3,11 +3,11 @@ title: "Introducing Storage Buckets on the Hugging Face Hub"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/storage-buckets"
-local_vault_path: "ai\rag\introducing-storage-buckets-on-the-hugging-face-hub-96e678.md"
+local_vault_path: "ai/rag/introducing-storage-buckets-on-the-hugging-face-hub-96e678.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - rag
@@ -22,7 +22,7 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: [introducing-storage-buckets-on-the-hugging-face-hub-96e678.md](file:///../../ai\rag\introducing-storage-buckets-on-the-hugging-face-hub-96e678.md)
+Path: [introducing-storage-buckets-on-the-hugging-face-hub-96e678.md](file:///../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hub-96e678.md)

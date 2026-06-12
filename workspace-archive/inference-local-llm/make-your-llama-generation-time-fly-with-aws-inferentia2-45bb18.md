@@ -3,13 +3,14 @@ title: "Make your llama generation time fly with AWS Inferentia2"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inferentia-llama2"
-local_vault_path: "ai\models\make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md"
+local_vault_path: "ai/models/make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
+  - meta-ai
   - models
 selection_reason:
   - "Valuable developer reference"
@@ -21,7 +22,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md](file:///../../ai\models\make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md)
+Path: [make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md](file:///../../ai/models/make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md)

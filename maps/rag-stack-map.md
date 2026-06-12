@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
-*   [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
-*   [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-*   [enesien/venefish](https://github.com/enesien/venefish)
-*   [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
+*   [DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model](https://arxiv.org/abs/2606.12105)
+*   [Latent World Recovery for Multimodal Learning with Missing Modalities](https://arxiv.org/abs/2606.12362)
+*   [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2)
+*   [Re-evaluating Confidence Remasking in Masked Diffusion Language Models](https://arxiv.org/abs/2606.12232)
+*   [HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation](https://arxiv.org/abs/2601.19072)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

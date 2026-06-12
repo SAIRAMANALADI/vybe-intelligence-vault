@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/anyone-yuren/degital-twin-3d
-collected_at: '2026-06-11T08:45:37.431893+00:00'
+collected_at: '2026-06-12T10:40:15.865517+00:00'
 published_at: '2026-06-02T03:54:48Z'
 tags:
 - frontend_ui
 - threejs
 stars: 267
 language: TypeScript
-status: new
+status: active
+id: github:anyone-yuren/degital-twin-3d
+first_seen: '2026-06-12T10:40:15.865517+00:00'
+last_seen: '2026-06-12T10:40:15.865517+00:00'
 ---
 
 # anyone-yuren/degital-twin-3d

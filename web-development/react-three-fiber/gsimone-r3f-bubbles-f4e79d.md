@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/gsimone/r3f-bubbles
-collected_at: '2026-06-11T08:45:37.431859+00:00'
+collected_at: '2026-06-12T10:40:15.865476+00:00'
 published_at: '2025-09-29T20:15:34Z'
 tags:
 - frontend_ui
 - threejs
 stars: 123
 language: JavaScript
-status: new
+status: active
+id: github:gsimone/r3f-bubbles
+first_seen: '2026-06-12T10:40:15.865476+00:00'
+last_seen: '2026-06-12T10:40:15.865476+00:00'
 ---
 
 # gsimone/r3f-bubbles

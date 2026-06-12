@@ -3,7 +3,7 @@ title: "CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mi
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.04885"
-local_vault_path: "ai\rag\cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md"
+local_vault_path: "ai/rag/cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2601.04885
 
 ## Local Vault File
 
-Path: [cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md](file:///../../ai\rag\cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md)
+Path: [cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md](file:///../../ai/rag/cuma-aligning-llms-with-sparse-cultural-values-via-demographic-aware-mixture-of-3191e8.md)

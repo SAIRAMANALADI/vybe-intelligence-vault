@@ -3,7 +3,7 @@ title: "The Challenges of Balancing AI Compliance and Technological Innovations 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12423"
-local_vault_path: "ai\rag\the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md"
+local_vault_path: "ai/rag/the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12423
 
 ## Local Vault File
 
-Path: [the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md](file:///../../ai\rag\the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md)
+Path: [the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md](file:///../../ai/rag/the-challenges-of-balancing-ai-compliance-and-technological-innovations-in-criti-285d9c.md)

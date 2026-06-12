@@ -3,7 +3,7 @@ title: "Learning What to Remember: Observability-Safe Memory Retention via Const
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.10616"
-local_vault_path: "ai\agents\learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md"
+local_vault_path: "ai/agents/learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.10616
 
 ## Local Vault File
 
-Path: [learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md](file:///../../ai\agents\learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md)
+Path: [learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md](file:///../../ai/agents/learning-what-to-remember-observability-safe-memory-retention-via-constrained-op-b22786.md)

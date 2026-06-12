@@ -3,7 +3,7 @@ title: "VISTA: An End-to-End Benchmark for Visual Spec-to-Web-App Coding Agents"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.26144"
-local_vault_path: "ai\agents\vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md"
+local_vault_path: "ai/agents/vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.26144
 
 ## Local Vault File
 
-Path: [vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md](file:///../../ai\agents\vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md)
+Path: [vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md](file:///../../ai/agents/vista-an-end-to-end-benchmark-for-visual-spec-to-web-app-coding-agents-afec41.md)

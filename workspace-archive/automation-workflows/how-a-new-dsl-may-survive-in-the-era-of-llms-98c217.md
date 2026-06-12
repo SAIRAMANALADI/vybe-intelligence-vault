@@ -3,7 +3,7 @@ title: "How a new DSL may survive in the era of LLMs"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms"
-local_vault_path: "ai\community\how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md"
+local_vault_path: "ai/community/how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.williamcotton.com/articles/how-a-new-dsl-surviv
 
 ## Local Vault File
 
-Path: [how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md](file:///../../ai\community\how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md)
+Path: [how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md](file:///../../ai/community/how-a-new-dsl-may-survive-in-the-era-of-llms-98c217.md)

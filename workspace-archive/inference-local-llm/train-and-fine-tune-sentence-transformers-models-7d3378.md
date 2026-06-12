@@ -3,11 +3,11 @@ title: "Train and Fine-Tune Sentence Transformers Models"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/how-to-train-sentence-transformers"
-local_vault_path: "ai\models\train-and-fine-tune-sentence-transformers-models-7d3378.md"
+local_vault_path: "ai/models/train-and-fine-tune-sentence-transformers-models-7d3378.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/how-to-train-sentence-transform
 
 ## Local Vault File
 
-Path: [train-and-fine-tune-sentence-transformers-models-7d3378.md](file:///../../ai\models\train-and-fine-tune-sentence-transformers-models-7d3378.md)
+Path: [train-and-fine-tune-sentence-transformers-models-7d3378.md](file:///../../ai/models/train-and-fine-tune-sentence-transformers-models-7d3378.md)

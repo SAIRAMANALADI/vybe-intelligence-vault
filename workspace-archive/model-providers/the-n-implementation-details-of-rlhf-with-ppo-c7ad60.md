@@ -3,11 +3,11 @@ title: "The N Implementation Details of RLHF with PPO"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo"
-local_vault_path: "ai\models\the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md"
+local_vault_path: "ai/models/the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/the_n_implementation_details_of
 
 ## Local Vault File
 
-Path: [the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md](file:///../../ai\models\the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md)
+Path: [the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md](file:///../../ai/models/the-n-implementation-details-of-rlhf-with-ppo-c7ad60.md)

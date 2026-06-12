@@ -3,7 +3,7 @@ title: "z2586300277/three-cesium-examples"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/z2586300277/three-cesium-examples"
-local_vault_path: "web-development\threejs\z2586300277-three-cesium-examples-3044d9.md"
+local_vault_path: "web-development/threejs/z2586300277-three-cesium-examples-3044d9.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/z2586300277/three-cesium-examples
 
 ## Local Vault File
 
-Path: [z2586300277-three-cesium-examples-3044d9.md](file:///../../web-development\threejs\z2586300277-three-cesium-examples-3044d9.md)
+Path: [z2586300277-three-cesium-examples-3044d9.md](file:///../../web-development/threejs/z2586300277-three-cesium-examples-3044d9.md)

@@ -3,16 +3,15 @@ title: "Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12058"
-local_vault_path: "ai\research\phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md"
+local_vault_path: "ai/research/phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
-tags:
-  - framer_motion
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Phase Transitions in Attention: A Bayesian Theory of Copy Head Emergence
@@ -20,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12058
 
 ## Local Vault File
 
-Path: [phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md](file:///../../ai\research\phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md)
+Path: [phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md](file:///../../ai/research/phase-transitions-in-attention-a-bayesian-theory-of-copy-head-emergence-832bfc.md)

@@ -4,13 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/bytefer/awesome-shadcn-ui
-collected_at: '2026-06-11T08:45:48.578476+00:00'
-published_at: '2026-06-04T10:08:16Z'
+collected_at: '2026-06-12T10:40:21.841643+00:00'
+published_at: '2026-06-11T23:32:55Z'
 tags:
 - frontend_ui
-stars: 701
+- reddit
+stars: 703
 language: Unknown
-status: new
+status: active
+id: github:bytefer/awesome-shadcn-ui
+first_seen: '2026-06-12T10:40:21.841643+00:00'
+last_seen: '2026-06-12T10:40:21.841643+00:00'
 ---
 
 # bytefer/awesome-shadcn-ui
@@ -26,11 +30,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: bytefer
-- Stars: 701
+- Stars: 703
 - Forks: 57
 - Language: Unknown
 - Topics: awesome, awesome-list, open-source, shadcn-ui, ui-components
-- Last Updated: 2026-06-04T10:08:16Z
+- Last Updated: 2026-06-11T23:32:55Z
 
 ## Possible Use Cases
 

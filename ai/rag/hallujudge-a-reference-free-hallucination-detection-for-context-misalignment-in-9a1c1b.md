@@ -11,13 +11,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485572+00:00'
+collected_at: '2026-06-12T10:40:03.106953+00:00'
 tags:
 - benchmark
 - rag
 - scripts
 - workflows
-status: new
+status: active
+id: arxiv:2601.19072
+first_seen: '2026-06-12T10:40:03.106953+00:00'
+last_seen: '2026-06-12T10:40:03.106953+00:00'
 ---
 
 # HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation

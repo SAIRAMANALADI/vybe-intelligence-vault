@@ -3,7 +3,7 @@ title: "JSCGC: Joint Source-Channel-Generation Coding for Wireless Generative Co
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12858"
-local_vault_path: "ai\research\jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md"
+local_vault_path: "ai/research/jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12858
 
 ## Local Vault File
 
-Path: [jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md](file:///../../ai\research\jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md)
+Path: [jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md](file:///../../ai/research/jscgc-joint-source-channel-generation-coding-for-wireless-generative-communicati-7e0fbd.md)

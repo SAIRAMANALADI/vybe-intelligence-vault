@@ -3,12 +3,15 @@ title: "Range-Aware Bayesian Optimization for Discovering Diverse Designs within
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11574"
-local_vault_path: "ai\research\range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md"
+local_vault_path: "ai/research/range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - frontend_ui
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11574
 
 ## Local Vault File
 
-Path: [range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md](file:///../../ai\research\range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md)
+Path: [range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md](file:///../../ai/research/range-aware-bayesian-optimization-for-discovering-diverse-designs-within-target-d58840.md)

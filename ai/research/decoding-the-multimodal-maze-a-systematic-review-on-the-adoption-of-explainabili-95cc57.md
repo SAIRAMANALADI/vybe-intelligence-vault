@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485264+00:00'
+collected_at: '2026-06-12T10:40:03.106614+00:00'
 tags:
 - benchmark
 - hackernews
-status: new
+status: active
+id: arxiv:2508.04427
+first_seen: '2026-06-12T10:40:03.106614+00:00'
+last_seen: '2026-06-12T10:40:03.106614+00:00'
 ---
 
 # Decoding the Multimodal Maze: A Systematic Review on the Adoption of Explainability in Multimodal Attention-based Models

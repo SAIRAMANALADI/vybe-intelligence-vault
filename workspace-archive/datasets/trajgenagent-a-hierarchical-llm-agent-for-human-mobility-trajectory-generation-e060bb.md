@@ -3,7 +3,7 @@ title: "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Gen
 archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12657"
-local_vault_path: "ai\agents\trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md"
+local_vault_path: "ai/agents/trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12657
 
 ## Local Vault File
 
-Path: [trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md](file:///../../ai\agents\trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md)
+Path: [trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md](file:///../../ai/agents/trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md)

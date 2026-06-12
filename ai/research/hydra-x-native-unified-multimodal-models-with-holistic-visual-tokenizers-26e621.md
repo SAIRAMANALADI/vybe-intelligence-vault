@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484007+00:00'
+collected_at: '2026-06-12T10:40:03.105208+00:00'
 tags:
 - paper
 - youtube
-status: new
+status: active
+id: arxiv:2606.13289
+first_seen: '2026-06-12T10:40:03.105208+00:00'
+last_seen: '2026-06-12T10:40:03.105208+00:00'
 ---
 
 # HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers

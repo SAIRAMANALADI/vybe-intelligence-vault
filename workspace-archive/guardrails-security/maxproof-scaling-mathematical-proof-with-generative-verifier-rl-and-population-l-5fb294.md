@@ -3,7 +3,7 @@ title: "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Pop
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13473"
-local_vault_path: "ai\research\maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md"
+local_vault_path: "ai/research/maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13473
 
 ## Local Vault File
 
-Path: [maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md](file:///../../ai\research\maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md)
+Path: [maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md](file:///../../ai/research/maxproof-scaling-mathematical-proof-with-generative-verifier-rl-and-population-l-5fb294.md)

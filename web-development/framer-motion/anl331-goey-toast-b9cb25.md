@@ -4,14 +4,17 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/anl331/goey-toast
-collected_at: '2026-06-11T08:45:41.211845+00:00'
+collected_at: '2026-06-12T10:40:18.782907+00:00'
 published_at: '2026-06-10T05:45:35Z'
 tags:
 - animation
 - frontend_ui
 stars: 1110
 language: TypeScript
-status: new
+status: active
+id: github:anl331/goey-toast
+first_seen: '2026-06-12T10:40:18.782907+00:00'
+last_seen: '2026-06-12T10:40:18.782907+00:00'
 ---
 
 # anl331/goey-toast

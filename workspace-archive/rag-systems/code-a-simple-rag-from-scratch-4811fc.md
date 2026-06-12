@@ -3,7 +3,7 @@ title: "Code a simple RAG from scratch"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/ngxson/make-your-own-rag"
-local_vault_path: "ai\rag\code-a-simple-rag-from-scratch-4811fc.md"
+local_vault_path: "ai/rag/code-a-simple-rag-from-scratch-4811fc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.66k • 16
+CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.64k • 16
 
 ## Use Cases
 
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/ngxson/make-your-own-rag
 
 ## Local Vault File
 
-Path: [code-a-simple-rag-from-scratch-4811fc.md](file:///../../ai\rag\code-a-simple-rag-from-scratch-4811fc.md)
+Path: [code-a-simple-rag-from-scratch-4811fc.md](file:///../../ai/rag/code-a-simple-rag-from-scratch-4811fc.md)

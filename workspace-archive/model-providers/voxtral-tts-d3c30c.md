@@ -3,7 +3,7 @@ title: "Voxtral TTS"
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/voxtral-tts"
-local_vault_path: "ai\companies\mistral\voxtral-tts-d3c30c.md"
+local_vault_path: "ai/companies/mistral/voxtral-tts-d3c30c.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/voxtral-tts
 
 ## Local Vault File
 
-Path: [voxtral-tts-d3c30c.md](file:///../../ai\companies\mistral\voxtral-tts-d3c30c.md)
+Path: [voxtral-tts-d3c30c.md](file:///../../ai/companies/mistral/voxtral-tts-d3c30c.md)

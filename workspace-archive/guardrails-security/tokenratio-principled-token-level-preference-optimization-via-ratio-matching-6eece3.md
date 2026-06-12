@@ -3,7 +3,7 @@ title: "TokenRatio: Principled Token-Level Preference Optimization via Ratio Mat
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.12288"
-local_vault_path: "ai\research\tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md"
+local_vault_path: "ai/research/tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.12288
 
 ## Local Vault File
 
-Path: [tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md](file:///../../ai\research\tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md)
+Path: [tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md](file:///../../ai/research/tokenratio-principled-token-level-preference-optimization-via-ratio-matching-6eece3.md)

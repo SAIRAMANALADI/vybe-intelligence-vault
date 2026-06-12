@@ -3,12 +3,15 @@ title: "Probabilistic Salary Prediction with Graph Attention Networks and a Mixt
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11663"
-local_vault_path: "ai\research\probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md"
+local_vault_path: "ai/research/probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11663
 
 ## Local Vault File
 
-Path: [probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md](file:///../../ai\research\probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md)
+Path: [probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md](file:///../../ai/research/probabilistic-salary-prediction-with-graph-attention-networks-and-a-mixture-dens-c93621.md)

@@ -3,7 +3,7 @@ title: "Learn more"
 archive_category: "agent-frameworks"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research"
-local_vault_path: "ai\companies\deepmind\learn-more-eb1202.md"
+local_vault_path: "ai/companies/deepmind/learn-more-eb1202.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://deepmind.google/blog/investing-in-multi-agent-ai-sa
 
 ## Local Vault File
 
-Path: [learn-more-eb1202.md](file:///../../ai\companies\deepmind\learn-more-eb1202.md)
+Path: [learn-more-eb1202.md](file:///../../ai/companies/deepmind/learn-more-eb1202.md)

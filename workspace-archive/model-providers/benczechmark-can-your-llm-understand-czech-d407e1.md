@@ -3,11 +3,11 @@ title: "🇨🇿 BenCzechMark - Can your LLM Understand Czech?"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/benczechmark"
-local_vault_path: "ai\models\benczechmark-can-your-llm-understand-czech-d407e1.md"
+local_vault_path: "ai/models/benczechmark-can-your-llm-understand-czech-d407e1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: [benczechmark-can-your-llm-understand-czech-d407e1.md](file:///../../ai\models\benczechmark-can-your-llm-understand-czech-d407e1.md)
+Path: [benczechmark-can-your-llm-understand-czech-d407e1.md](file:///../../ai/models/benczechmark-can-your-llm-understand-czech-d407e1.md)

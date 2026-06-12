@@ -3,12 +3,15 @@ title: "Bergson: An Open Source Library for Data Attribution"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11660"
-local_vault_path: "ai\research\bergson-an-open-source-library-for-data-attribution-05117c.md"
+local_vault_path: "ai/research/bergson-an-open-source-library-for-data-attribution-05117c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - hackernews
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11660
 
 ## Local Vault File
 
-Path: [bergson-an-open-source-library-for-data-attribution-05117c.md](file:///../../ai\research\bergson-an-open-source-library-for-data-attribution-05117c.md)
+Path: [bergson-an-open-source-library-for-data-attribution-05117c.md](file:///../../ai/research/bergson-an-open-source-library-for-data-attribution-05117c.md)

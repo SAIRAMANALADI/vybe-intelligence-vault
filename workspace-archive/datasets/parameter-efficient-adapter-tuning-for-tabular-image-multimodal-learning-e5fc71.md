@@ -3,13 +3,14 @@ title: "Parameter-Efficient Adapter Tuning for Tabular-Image Multimodal Learning
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11682"
-local_vault_path: "ai\research\parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md"
+local_vault_path: "ai/research/parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - dataset
   - models
 selection_reason:
   - "Strong keyword match"
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11682
 
 ## Local Vault File
 
-Path: [parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md](file:///../../ai\research\parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md)
+Path: [parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md](file:///../../ai/research/parameter-efficient-adapter-tuning-for-tabular-image-multimodal-learning-e5fc71.md)

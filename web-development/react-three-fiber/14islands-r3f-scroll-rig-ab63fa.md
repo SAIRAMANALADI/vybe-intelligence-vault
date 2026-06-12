@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/14islands/r3f-scroll-rig
-collected_at: '2026-06-11T08:45:37.431867+00:00'
+collected_at: '2026-06-12T10:40:15.865486+00:00'
 published_at: '2026-06-09T17:40:09Z'
 tags:
 - frontend_ui
 - threejs
 stars: 941
 language: TypeScript
-status: new
+status: active
+id: github:14islands/r3f-scroll-rig
+first_seen: '2026-06-12T10:40:15.865486+00:00'
+last_seen: '2026-06-12T10:40:15.865486+00:00'
 ---
 
 # 14islands/r3f-scroll-rig

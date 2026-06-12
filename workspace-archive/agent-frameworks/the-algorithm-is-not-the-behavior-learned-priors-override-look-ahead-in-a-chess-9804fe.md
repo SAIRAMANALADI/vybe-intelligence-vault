@@ -3,16 +3,16 @@ title: "The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2508.21380"
-local_vault_path: "ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md"
+local_vault_path: "ai/agents/the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # The Algorithm Is Not the Behavior: Learned Priors Override Look-Ahead in a Chess-Playing Neural Network
@@ -21,14 +21,14 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2508.21380v3 Announce Type: replace-cross 
-Abstract: Recent mechanistic work has uncovered learned algorithms within neural networks, from modular arithmetic to search and planning in game-playing agents. But does algorithmic structure guarantee algorithmic behavior? We investigate this in Leela Chess Zero, the strongest neural chess engine, where prior work identified learned look-ahead. By extending the logit lens to its move-selecting policy network, we discover that correct puzzle solu
+arXiv:2508.21380v3 Announce Type: replace 
+Abstract: Recent mechanistic work has uncovered learned algorithms within neural networks, from modular arithmetic to search and planning in game-playing agents. But does algorithmic structure guarantee algorithmic behavior? We investigate this in Leela Chess Zero, the strongest neural chess engine, where prior work identified learned look-ahead. By extending the logit lens to its move-selecting policy network, we discover that correct puzzle solutions-
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2508.21380
 
 ## Local Vault File
 
-Path: [the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md](file:///../../ai\agents\the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md)
+Path: [the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md](file:///../../ai/agents/the-algorithm-is-not-the-behavior-learned-priors-override-look-ahead-in-a-chess-9804fe.md)

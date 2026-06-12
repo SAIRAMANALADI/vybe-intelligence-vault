@@ -3,7 +3,7 @@ title: "infiniumtek/terraform-review-agent"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/infiniumtek/terraform-review-agent"
-local_vault_path: "ai\agents\infiniumtek-terraform-review-agent-da8309.md"
+local_vault_path: "ai/agents/infiniumtek-terraform-review-agent-da8309.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/infiniumtek/terraform-review-agent
 
 ## Local Vault File
 
-Path: [infiniumtek-terraform-review-agent-da8309.md](file:///../../ai\agents\infiniumtek-terraform-review-agent-da8309.md)
+Path: [infiniumtek-terraform-review-agent-da8309.md](file:///../../ai/agents/infiniumtek-terraform-review-agent-da8309.md)

@@ -3,11 +3,11 @@ title: "Asynchronous Robot Inference: Decoupling Action Prediction and Execution
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/async-robot-inference"
-local_vault_path: "ai\models\asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md"
+local_vault_path: "ai/models/asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/async-robot-inference
 
 ## Local Vault File
 
-Path: [asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md](file:///../../ai\models\asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md)
+Path: [asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md](file:///../../ai/models/asynchronous-robot-inference-decoupling-action-prediction-and-execution-fff89a.md)

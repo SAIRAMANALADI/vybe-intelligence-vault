@@ -3,12 +3,14 @@ title: "Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11767"
-local_vault_path: "ai\research\blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md"
+local_vault_path: "ai/research/blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Useful for project building"
 ---
@@ -25,8 +27,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11767v1 Announce Type: cross 
-Abstract: Blind grasping with a dexterous hand is a crucial manipulation capability. Nevertheless, learning such tactile-only policies for real robots remains challenging due to the tactile sim-to-real gap and the limited expressiveness of sparse tactile signals. To bridge this gap, we propose a framework for tactile-only blind grasping that is deployable on a physical multi-fingered robotic hand. Our approach combines three key components. First, we intr
+arXiv:2606.11767v2 Announce Type: replace-cross 
+Abstract: Blind grasping with a dexterous hand is a crucial manipulation capability. Nevertheless, learning such tactile-only policies for real robots remains challenging due to the tactile sim-to-real gap and the limited expressiveness of sparse tactile signals. To bridge this gap, we propose a framework for tactile-only blind grasping that is deployable on a physical multi-fingered robotic hand. Our approach combines three key components. First,
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11767
 
 ## Local Vault File
 
-Path: [blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md](file:///../../ai\research\blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md)
+Path: [blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md](file:///../../ai/research/blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md)

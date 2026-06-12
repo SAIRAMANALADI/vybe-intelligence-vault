@@ -3,9 +3,9 @@ title: "Neural-Parameterized Cellular Automata for Wildfire Spread"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11676"
-local_vault_path: "ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md"
+local_vault_path: "ai/research/neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
@@ -19,7 +19,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11676
 
 ## Local Vault File
 
-Path: [neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md](file:///../../ai\research\neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md)
+Path: [neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md](file:///../../ai/research/neural-parameterized-cellular-automata-for-wildfire-spread-3f8d37.md)

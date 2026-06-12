@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.480824+00:00'
+collected_at: '2026-06-12T10:40:03.101566+00:00'
 tags:
 - agents
 - frontend_ui
 - workflows
-status: new
+status: active
+id: arxiv:2606.12674
+first_seen: '2026-06-12T10:40:03.101566+00:00'
+last_seen: '2026-06-12T10:40:03.101566+00:00'
 ---
 
 # Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents

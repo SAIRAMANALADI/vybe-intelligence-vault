@@ -3,7 +3,7 @@ title: "CoVEBench: Can Video Editing Models Handle Complex Instructions?"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08415"
-local_vault_path: "ai\research\covebench-can-video-editing-models-handle-complex-instructions-aef368.md"
+local_vault_path: "ai/research/covebench-can-video-editing-models-handle-complex-instructions-aef368.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.08415
 
 ## Local Vault File
 
-Path: [covebench-can-video-editing-models-handle-complex-instructions-aef368.md](file:///../../ai\research\covebench-can-video-editing-models-handle-complex-instructions-aef368.md)
+Path: [covebench-can-video-editing-models-handle-complex-instructions-aef368.md](file:///../../ai/research/covebench-can-video-editing-models-handle-complex-instructions-aef368.md)

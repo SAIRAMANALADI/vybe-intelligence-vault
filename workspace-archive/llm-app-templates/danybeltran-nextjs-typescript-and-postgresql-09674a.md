@@ -3,7 +3,7 @@ title: "danybeltran/nextjs-typescript-and-postgresql"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/danybeltran/nextjs-typescript-and-postgresql"
-local_vault_path: "web-development\nextjs\danybeltran-nextjs-typescript-and-postgresql-09674a.md"
+local_vault_path: "web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql-09674a.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://github.com/danybeltran/nextjs-typescript-and-postgr
 
 ## Local Vault File
 
-Path: [danybeltran-nextjs-typescript-and-postgresql-09674a.md](file:///../../web-development\nextjs\danybeltran-nextjs-typescript-and-postgresql-09674a.md)
+Path: [danybeltran-nextjs-typescript-and-postgresql-09674a.md](file:///../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql-09674a.md)

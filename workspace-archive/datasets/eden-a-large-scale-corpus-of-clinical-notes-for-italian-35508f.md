@@ -3,7 +3,7 @@ title: "EDEN: A Large-Scale Corpus of Clinical Notes for Italian"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12569"
-local_vault_path: "ai\research\eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md"
+local_vault_path: "ai/research/eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12569
 
 ## Local Vault File
 
-Path: [eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md](file:///../../ai\research\eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md)
+Path: [eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md](file:///../../ai/research/eden-a-large-scale-corpus-of-clinical-notes-for-italian-35508f.md)

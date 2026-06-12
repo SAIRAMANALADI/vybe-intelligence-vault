@@ -3,7 +3,7 @@ title: "PRISMR: Overcoming Parse Collapse in Multimodal Listwise Ranking via Par
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12942"
-local_vault_path: "ai\research\prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md"
+local_vault_path: "ai/research/prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12942
 
 ## Local Vault File
 
-Path: [prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md](file:///../../ai\research\prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md)
+Path: [prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md](file:///../../ai/research/prismr-overcoming-parse-collapse-in-multimodal-listwise-ranking-via-parameterize-44c951.md)

@@ -3,16 +3,16 @@ title: "Organize then Retrieve: Hierarchical Memory Navigation for Efficient Age
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11680"
-local_vault_path: "ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md"
+local_vault_path: "ai/agents/organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Organize then Retrieve: Hierarchical Memory Navigation for Efficient Agents
@@ -21,14 +21,14 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11680v1 Announce Type: new 
-Abstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency necessitate efficient working memory mechanisms. However, existing approaches either rely on lossy compression or similarity-based retrieval, which often fail to capture temporal
+arXiv:2606.11680v1 Announce Type: cross 
+Abstract: Large language model (LLM) agents struggle with long-horizon tasks due to their inherent statelessness, requiring all task-relevant information to be encoded in growing input contexts. The resulting degraded reasoning quality, increased inference cost, and higher latency necessitate efficient working memory mechanisms. However, existing approaches either rely on lossy compression or similarity-based retrieval, which often fail to capture tempora
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11680
 
 ## Local Vault File
 
-Path: [organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md](file:///../../ai\agents\organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md)
+Path: [organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md](file:///../../ai/agents/organize-then-retrieve-hierarchical-memory-navigation-for-efficient-agents-ca7b1d.md)

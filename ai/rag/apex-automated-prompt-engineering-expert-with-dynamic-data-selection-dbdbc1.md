@@ -2,14 +2,24 @@
 title: 'APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection'
 category: ai/rag
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2606.11459
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.522435+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.015467+00:00'
 tags:
+- benchmark
+- dataset
 - models
 - rag
-status: new
+status: active
+id: arxiv:2606.11459
+first_seen: '2026-06-12T10:40:06.015467+00:00'
+last_seen: '2026-06-12T10:40:06.015467+00:00'
 ---
 
 # APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection
@@ -21,23 +31,20 @@ Abstract: Large Language Models are highly sensitive to prompt formulation, nece
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/rag
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.11459
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
+- benchmark
+- dataset
 - models
 - rag
-
-## Source
-
-Original source: https://arxiv.org/abs/2606.11459

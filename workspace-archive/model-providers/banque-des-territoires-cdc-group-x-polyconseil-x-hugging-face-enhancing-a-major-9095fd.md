@@ -3,11 +3,11 @@ title: "Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhanci
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sovereign-data-solution-case-study"
-local_vault_path: "ai\models\banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md"
+local_vault_path: "ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sovereign-data-solution-case-st
 
 ## Local Vault File
 
-Path: [banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md](file:///../../ai\models\banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md)
+Path: [banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md](file:///../../ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md)

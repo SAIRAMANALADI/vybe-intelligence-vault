@@ -3,7 +3,7 @@ title: "The Safety-Aware Denoiser for Text Diffusion Models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.08116"
-local_vault_path: "ai\research\the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md"
+local_vault_path: "ai/research/the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.08116
 
 ## Local Vault File
 
-Path: [the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md](file:///../../ai\research\the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md)
+Path: [the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md](file:///../../ai/research/the-safety-aware-denoiser-for-text-diffusion-models-82c3ae.md)

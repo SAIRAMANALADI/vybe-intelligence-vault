@@ -3,16 +3,16 @@ title: "Learning Instance-Adaptive Low-Rank Orthogonal Subspaces for Clothes-Cha
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11661"
-local_vault_path: "ai\rag\learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md"
+local_vault_path: "ai/rag/learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Learning Instance-Adaptive Low-Rank Orthogonal Subspaces for Clothes-Changing Person Re-Identification
@@ -21,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11661
 
 ## Local Vault File
 
-Path: [learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md](file:///../../ai\rag\learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md)
+Path: [learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md](file:///../../ai/rag/learning-instance-adaptive-low-rank-orthogonal-subspaces-for-clothes-changing-pe-b12cc3.md)

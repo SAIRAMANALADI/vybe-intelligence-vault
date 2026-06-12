@@ -4,15 +4,21 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/raganwald/raganwald.github.com
-collected_at: '2026-06-11T12:52:47.918616+00:00'
-published_at: '2026-05-24T17:07:08Z'
+collected_at: '2026-06-12T10:41:14.056704+00:00'
+published_at: '2026-06-11T20:03:15Z'
 tags:
 - github-repo
 - html
 - rag
 stars: 30
 language: HTML
-status: new
+status: active
+archived: false
+created_at: '2012-02-19T03:15:00Z'
+pushed_at: '2026-06-11T20:03:03Z'
+id: null
+first_seen: '2026-06-12T10:41:14.056704+00:00'
+last_seen: '2026-06-12T10:41:14.056704+00:00'
 ---
 
 # raganwald/raganwald.github.com
@@ -32,7 +38,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 60
 - Language: HTML
 - Topics: None
-- Last Updated: 2026-05-24T17:07:08Z
+- Last Updated: 2026-06-11T20:03:15Z
+- Archived: No
+- Created At: 2012-02-19T03:15:00Z
+- Pushed At: 2026-06-11T20:03:03Z
 
 ## Possible Use Cases
 

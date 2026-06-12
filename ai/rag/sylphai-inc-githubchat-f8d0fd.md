@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/SylphAI-Inc/GithubChat
-collected_at: '2026-06-11T12:52:58.098379+00:00'
+collected_at: '2026-06-12T10:41:24.139613+00:00'
 published_at: '2026-06-08T09:35:10Z'
 tags:
 - github-repo
@@ -12,7 +12,13 @@ tags:
 - rag
 stars: 99
 language: Python
-status: new
+status: active
+archived: false
+created_at: '2024-12-05T01:54:18Z'
+pushed_at: '2025-02-10T20:07:53Z'
+id: null
+first_seen: '2026-06-12T10:41:24.139613+00:00'
+last_seen: '2026-06-12T10:41:24.139613+00:00'
 ---
 
 # SylphAI-Inc/GithubChat
@@ -33,6 +39,9 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-08T09:35:10Z
+- Archived: No
+- Created At: 2024-12-05T01:54:18Z
+- Pushed At: 2025-02-10T20:07:53Z
 
 ## Possible Use Cases
 

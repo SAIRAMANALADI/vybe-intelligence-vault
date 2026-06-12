@@ -3,7 +3,7 @@ title: "gpuweb/gpuweb"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/gpuweb/gpuweb"
-local_vault_path: "web-development\webgpu\gpuweb-gpuweb-f9f4a8.md"
+local_vault_path: "web-development/webgpu/gpuweb-gpuweb-f9f4a8.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/gpuweb/gpuweb
 
 ## Local Vault File
 
-Path: [gpuweb-gpuweb-f9f4a8.md](file:///../../web-development\webgpu\gpuweb-gpuweb-f9f4a8.md)
+Path: [gpuweb-gpuweb-f9f4a8.md](file:///../../web-development/webgpu/gpuweb-gpuweb-f9f4a8.md)

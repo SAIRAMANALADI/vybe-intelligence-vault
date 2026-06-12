@@ -3,12 +3,15 @@ title: "Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-B
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.02726"
-local_vault_path: "ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md"
+local_vault_path: "ai/research/vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md"
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -19,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
+- Quality score: 70 | Archive score: 76 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.02726
 
 ## Local Vault File
 
-Path: [vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md](file:///../../ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md)
+Path: [vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md](file:///../../ai/research/vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md)

@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482292+00:00'
+collected_at: '2026-06-12T10:40:03.103254+00:00'
 tags:
 - paper
 - scripts
 - workflows
-status: new
+status: active
+id: arxiv:2606.12424
+first_seen: '2026-06-12T10:40:03.103254+00:00'
+last_seen: '2026-06-12T10:40:03.103254+00:00'
 ---
 
 # AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude

@@ -10,10 +10,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485881+00:00'
+collected_at: '2026-06-12T10:40:03.107289+00:00'
 tags:
 - agents
-status: new
+status: active
+id: arxiv:2603.11395
+first_seen: '2026-06-12T10:40:03.107289+00:00'
+last_seen: '2026-06-12T10:40:03.107289+00:00'
 ---
 
 # ARROW: Augmented Replay for RObust World models

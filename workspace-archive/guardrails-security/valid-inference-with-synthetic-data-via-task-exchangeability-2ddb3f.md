@@ -3,7 +3,7 @@ title: "Valid Inference with Synthetic Data via Task Exchangeability"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13629"
-local_vault_path: "ai\research\valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md"
+local_vault_path: "ai/research/valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13629
 
 ## Local Vault File
 
-Path: [valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md](file:///../../ai\research\valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md)
+Path: [valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md](file:///../../ai/research/valid-inference-with-synthetic-data-via-task-exchangeability-2ddb3f.md)

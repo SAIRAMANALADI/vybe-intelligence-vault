@@ -3,12 +3,14 @@ title: "SpaTeoGL: Spatiotemporal Graph Learning for Interpretable Seizure Onset 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.11801"
-local_vault_path: "ai\research\spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md"
+local_vault_path: "ai/research/spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "high"
+tags:
+  - dataset
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.11801
 
 ## Local Vault File
 
-Path: [spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md](file:///../../ai\research\spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md)
+Path: [spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md](file:///../../ai/research/spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md)

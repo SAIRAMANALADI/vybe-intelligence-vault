@@ -4,13 +4,16 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/gpuweb/gpuweb
-collected_at: '2026-06-11T08:45:39.177043+00:00'
+collected_at: '2026-06-12T10:40:17.490958+00:00'
 published_at: '2026-06-11T01:01:32Z'
 tags:
 - threejs
 stars: 5408
 language: Bikeshed
-status: new
+status: active
+id: github:gpuweb/gpuweb
+first_seen: '2026-06-12T10:40:17.490958+00:00'
+last_seen: '2026-06-12T10:40:17.490958+00:00'
 ---
 
 # gpuweb/gpuweb

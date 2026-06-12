@@ -3,14 +3,15 @@ title: "How Low Can You Go? Active Learning for Sparse Model Discovery in the Ul
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12182"
-local_vault_path: "ai\research\how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md"
+local_vault_path: "ai/research/how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "tutorial"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12182
 
 ## Local Vault File
 
-Path: [how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md](file:///../../ai\research\how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md)
+Path: [how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md](file:///../../ai/research/how-low-can-you-go-active-learning-for-sparse-model-discovery-in-the-ultra-low-d-4d466b.md)

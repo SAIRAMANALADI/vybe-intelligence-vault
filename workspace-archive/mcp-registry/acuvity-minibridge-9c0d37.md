@@ -3,7 +3,7 @@ title: "acuvity/minibridge"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/acuvity/minibridge"
-local_vault_path: "ai\resources\acuvity-minibridge-9c0d37.md"
+local_vault_path: "ai/resources/acuvity-minibridge-9c0d37.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/acuvity/minibridge
 
 ## Local Vault File
 
-Path: [acuvity-minibridge-9c0d37.md](file:///../../ai\resources\acuvity-minibridge-9c0d37.md)
+Path: [acuvity-minibridge-9c0d37.md](file:///../../ai/resources/acuvity-minibridge-9c0d37.md)

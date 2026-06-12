@@ -3,7 +3,7 @@ title: "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language 
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11349"
-local_vault_path: "ai\agents\knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md"
+local_vault_path: "ai/agents/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11349
 
 ## Local Vault File
 
-Path: [knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md](file:///../../ai\agents\knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md)
+Path: [knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md](file:///../../ai/agents/knowing-when-to-ask-self-gated-clarification-for-hierarchical-language-agents-c076c7.md)

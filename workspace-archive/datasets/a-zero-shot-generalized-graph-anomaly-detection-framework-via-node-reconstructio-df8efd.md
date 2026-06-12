@@ -3,7 +3,7 @@ title: "A Zero-shot Generalized Graph Anomaly Detection Framework via Node Recon
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12673"
-local_vault_path: "ai\research\a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md"
+local_vault_path: "ai/research/a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12673
 
 ## Local Vault File
 
-Path: [a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md](file:///../../ai\research\a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md)
+Path: [a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md](file:///../../ai/research/a-zero-shot-generalized-graph-anomaly-detection-framework-via-node-reconstructio-df8efd.md)

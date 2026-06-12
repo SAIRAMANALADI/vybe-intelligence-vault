@@ -3,7 +3,7 @@ title: "Introducing the Palmyra-mini family: Powerful, lightweight, and ready to
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Writer/announcing-palmyra-mini"
-local_vault_path: "ai\models\introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md"
+local_vault_path: "ai/models/introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Writer/announcing-palmyra-mini
 
 ## Local Vault File
 
-Path: [introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md](file:///../../ai\models\introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md)
+Path: [introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md](file:///../../ai/models/introducing-the-palmyra-mini-family-powerful-lightweight-and-ready-to-reason-bf0a60.md)

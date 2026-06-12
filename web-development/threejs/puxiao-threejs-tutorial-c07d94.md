@@ -4,14 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/puxiao/threejs-tutorial
-collected_at: '2026-06-11T08:45:35.488468+00:00'
+collected_at: '2026-06-12T10:40:14.585861+00:00'
 published_at: '2026-06-09T08:55:03Z'
 tags:
 - frontend_ui
 - threejs
 stars: 1332
 language: Unknown
-status: new
+status: active
+id: github:puxiao/threejs-tutorial
+first_seen: '2026-06-12T10:40:14.585861+00:00'
+last_seen: '2026-06-12T10:40:14.585861+00:00'
 ---
 
 # puxiao/threejs-tutorial

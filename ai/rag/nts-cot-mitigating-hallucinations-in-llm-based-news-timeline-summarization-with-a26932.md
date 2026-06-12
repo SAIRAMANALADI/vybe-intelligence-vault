@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.483778+00:00'
+collected_at: '2026-06-12T10:40:03.104952+00:00'
 tags:
 - benchmark
 - rag
 - reddit
-status: new
+status: active
+id: arxiv:2606.13171
+first_seen: '2026-06-12T10:40:03.104952+00:00'
+last_seen: '2026-06-12T10:40:03.104952+00:00'
 ---
 
 # NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning

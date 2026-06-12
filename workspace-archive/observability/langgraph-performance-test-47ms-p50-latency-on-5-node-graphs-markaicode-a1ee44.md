@@ -3,7 +3,7 @@ title: "LangGraph Performance Test: 47ms p50 Latency on 5-Node Graphs | Markaico
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://markaicode.com/benchmarks/langgraph-benchmark"
-local_vault_path: "ai\rag\langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md"
+local_vault_path: "ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://markaicode.com/benchmarks/langgraph-benchmark
 
 ## Local Vault File
 
-Path: [langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md](file:///../../ai\rag\langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md)
+Path: [langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md](file:///../../ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-node-graphs-markaicode-a1ee44.md)

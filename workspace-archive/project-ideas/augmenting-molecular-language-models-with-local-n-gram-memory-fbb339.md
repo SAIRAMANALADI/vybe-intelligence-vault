@@ -3,7 +3,7 @@ title: "Augmenting Molecular Language Models with Local $n$-gram Memory"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12113"
-local_vault_path: "ai\rag\augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md"
+local_vault_path: "ai/rag/augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12113
 
 ## Local Vault File
 
-Path: [augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md](file:///../../ai\rag\augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md)
+Path: [augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md](file:///../../ai/rag/augmenting-molecular-language-models-with-local-n-gram-memory-fbb339.md)

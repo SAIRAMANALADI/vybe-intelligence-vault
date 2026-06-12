@@ -3,7 +3,7 @@ title: "Open Source Developers Guide to the EU AI Act"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/eu-ai-act-for-oss-developers"
-local_vault_path: "ai\models\open-source-developers-guide-to-the-eu-ai-act-c9bd68.md"
+local_vault_path: "ai/models/open-source-developers-guide-to-the-eu-ai-act-c9bd68.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-for-oss-developers
 
 ## Local Vault File
 
-Path: [open-source-developers-guide-to-the-eu-ai-act-c9bd68.md](file:///../../ai\models\open-source-developers-guide-to-the-eu-ai-act-c9bd68.md)
+Path: [open-source-developers-guide-to-the-eu-ai-act-c9bd68.md](file:///../../ai/models/open-source-developers-guide-to-the-eu-ai-act-c9bd68.md)

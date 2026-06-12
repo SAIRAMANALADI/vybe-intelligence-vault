@@ -3,17 +3,18 @@ title: "Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynam
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11833"
-local_vault_path: "ai\rag\flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md"
+local_vault_path: "ai/rag/flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Flow Matching with In-Context Priors for Out-of-Distribution Brain Dynamics
@@ -22,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11833
 
 ## Local Vault File
 
-Path: [flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md](file:///../../ai\rag\flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md)
+Path: [flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md](file:///../../ai/rag/flow-matching-with-in-context-priors-for-out-of-distribution-brain-dynamics-5e0fb8.md)

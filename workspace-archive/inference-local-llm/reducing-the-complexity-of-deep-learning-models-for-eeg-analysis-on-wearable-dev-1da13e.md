@@ -3,7 +3,7 @@ title: "Reducing the Complexity of Deep Learning Models for EEG Analysis on Wear
 archive_category: "inference-local-llm"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12742"
-local_vault_path: "ai\research\reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md"
+local_vault_path: "ai/research/reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12742
 
 ## Local Vault File
 
-Path: [reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md](file:///../../ai\research\reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md)
+Path: [reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md](file:///../../ai/research/reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md)

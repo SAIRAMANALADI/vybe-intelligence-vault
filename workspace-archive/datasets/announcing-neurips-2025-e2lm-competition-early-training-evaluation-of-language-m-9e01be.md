@@ -3,7 +3,7 @@ title: "Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of L
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/e2lm-competition"
-local_vault_path: "ai\models\announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md"
+local_vault_path: "ai/models/announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/e2lm-competition
 
 ## Local Vault File
 
-Path: [announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md](file:///../../ai\models\announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md)
+Path: [announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md](file:///../../ai/models/announcing-neurips-2025-e2lm-competition-early-training-evaluation-of-language-m-9e01be.md)

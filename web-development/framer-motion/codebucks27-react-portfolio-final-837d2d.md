@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/codebucks27/react-portfolio-final
-collected_at: '2026-06-11T08:45:41.211982+00:00'
+collected_at: '2026-06-12T10:40:18.783036+00:00'
 published_at: '2026-06-10T17:19:22Z'
 tags:
 - animation
@@ -12,7 +12,10 @@ tags:
 - frontend_ui
 stars: 466
 language: JavaScript
-status: new
+status: active
+id: github:codebucks27/react-portfolio-final
+first_seen: '2026-06-12T10:40:18.783036+00:00'
+last_seen: '2026-06-12T10:40:18.783036+00:00'
 ---
 
 # codebucks27/react-portfolio-final

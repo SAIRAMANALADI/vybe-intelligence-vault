@@ -3,15 +3,18 @@ title: "LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11268"
-local_vault_path: "ai\research\lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md"
+local_vault_path: "ai/research/lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md"
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data
@@ -19,11 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11268
 
 ## Local Vault File
 
-Path: [lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md](file:///../../ai\research\lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md)
+Path: [lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md](file:///../../ai/research/lakefm-toward-a-foundation-model-for-aquatic-ecosystems-using-irregular-multivar-f84862.md)

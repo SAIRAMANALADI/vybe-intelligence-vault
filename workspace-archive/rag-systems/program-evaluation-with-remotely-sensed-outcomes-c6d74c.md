@@ -3,14 +3,17 @@ title: "Program Evaluation with Remotely Sensed Outcomes"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2411.10959"
-local_vault_path: "ai\research\program-evaluation-with-remotely-sensed-outcomes-c6d74c.md"
+local_vault_path: "ai/research/program-evaluation-with-remotely-sensed-outcomes-c6d74c.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Program Evaluation with Remotely Sensed Outcomes
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2411.10959
 
 ## Local Vault File
 
-Path: [program-evaluation-with-remotely-sensed-outcomes-c6d74c.md](file:///../../ai\research\program-evaluation-with-remotely-sensed-outcomes-c6d74c.md)
+Path: [program-evaluation-with-remotely-sensed-outcomes-c6d74c.md](file:///../../ai/research/program-evaluation-with-remotely-sensed-outcomes-c6d74c.md)

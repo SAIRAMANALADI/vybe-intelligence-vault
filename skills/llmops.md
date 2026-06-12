@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 101 resources matched in the intelligence vault.
+Active signals: 97 resources matched in the intelligence vault.
 Recently detected signals:
-- [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](../ai/rag/frozen-multimodal-embeddings-for-ai-assisted-interview-assessment-of-personality-3800a1.md) (Source: Unknown Source) - Collected 2026-06-12
-- [BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning](../ai/research/braindino-a-brain-mri-foundation-model-for-generalizable-clinical-representation-c790a1.md) (Source: Unknown Source) - Collected 2026-06-12
-- [WOMBET: World Model-Based Experience Transfer for Robust and Sample-efficient Reinforcement Learning](../ai/rag/wombet-world-model-based-experience-transfer-for-robust-and-sample-efficient-rei-62a245.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](../ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md) (Source: Unknown Source) - Collected 2026-06-12
+- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with-intel-technologies-e51135.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tuning-74effa.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft-f071fd.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer-gpu-e9fb41.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -61,20 +61,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 7. [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) ([GitHub](https://github.com/aminedjeghri/generative-ai-project-template))
-- Stars: 0
-- Language: Unknown
-- Description: Template for a new generative ai project using uv, nicegui, fastapi, llms (cloud & local with litellm and ollama, cpu/gpu) and langfuse for llm observability
-
-### 8. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
+### 7. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
-
-### 9. [bryand410/llm-sentinel](../ai/resources/bryand410-llm-sentinel-c553bd.md) ([GitHub](https://github.com/bryand410/llm-sentinel))
-- Stars: 0
-- Language: Unknown
-- Description: An AI-powered security gateway. Fine-tuning a lightweight PyTorch model to detect and block LLM prompt injections in real-time, with FastAPI and DevSecOps best practices.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -96,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T09:05:56.183741+00:00.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T10:42:45.052794+00:00.183741+00:00.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.

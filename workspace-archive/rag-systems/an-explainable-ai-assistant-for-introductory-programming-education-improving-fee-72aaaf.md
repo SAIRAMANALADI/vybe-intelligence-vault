@@ -3,7 +3,7 @@ title: "An Explainable AI Assistant for Introductory Programming Education: Impr
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12425"
-local_vault_path: "ai\rag\an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md"
+local_vault_path: "ai/rag/an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12425
 
 ## Local Vault File
 
-Path: [an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md](file:///../../ai\rag\an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md)
+Path: [an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md](file:///../../ai/rag/an-explainable-ai-assistant-for-introductory-programming-education-improving-fee-72aaaf.md)

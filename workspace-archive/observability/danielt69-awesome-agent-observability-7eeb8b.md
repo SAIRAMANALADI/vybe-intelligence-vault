@@ -3,7 +3,7 @@ title: "danielt69/awesome-agent-observability"
 archive_category: "observability"
 source_category: "ai/agents"
 source_url: "https://github.com/danielt69/awesome-agent-observability"
-local_vault_path: "ai\agents\danielt69-awesome-agent-observability-7eeb8b.md"
+local_vault_path: "ai/agents/danielt69-awesome-agent-observability-7eeb8b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/danielt69/awesome-agent-observability
 
 ## Local Vault File
 
-Path: [danielt69-awesome-agent-observability-7eeb8b.md](file:///../../ai\agents\danielt69-awesome-agent-observability-7eeb8b.md)
+Path: [danielt69-awesome-agent-observability-7eeb8b.md](file:///../../ai/agents/danielt69-awesome-agent-observability-7eeb8b.md)

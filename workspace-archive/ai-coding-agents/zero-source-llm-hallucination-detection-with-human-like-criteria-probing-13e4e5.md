@@ -3,7 +3,7 @@ title: "Zero-source LLM Hallucination Detection with Human-like Criteria Probing
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12900"
-local_vault_path: "ai\agents\zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md"
+local_vault_path: "ai/agents/zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12900
 
 ## Local Vault File
 
-Path: [zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md](file:///../../ai\agents\zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md)
+Path: [zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md](file:///../../ai/agents/zero-source-llm-hallucination-detection-with-human-like-criteria-probing-13e4e5.md)

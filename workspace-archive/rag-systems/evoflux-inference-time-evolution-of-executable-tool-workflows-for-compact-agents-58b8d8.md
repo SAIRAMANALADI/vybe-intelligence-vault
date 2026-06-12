@@ -3,7 +3,7 @@ title: "Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compa
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12674"
-local_vault_path: "ai\agents\evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md"
+local_vault_path: "ai/agents/evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12674
 
 ## Local Vault File
 
-Path: [evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md](file:///../../ai\agents\evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md)
+Path: [evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md](file:///../../ai/agents/evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md)

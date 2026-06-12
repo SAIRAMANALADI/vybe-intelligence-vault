@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485379+00:00'
+collected_at: '2026-06-12T10:40:03.106760+00:00'
 tags:
 - hackernews
-status: new
+status: active
+id: arxiv:2512.14937
+first_seen: '2026-06-12T10:40:03.106760+00:00'
+last_seen: '2026-06-12T10:40:03.106760+00:00'
 ---
 
 # Improving Pre-trained Adult Glioma Segmentation Models Using only Post-processing Techniques

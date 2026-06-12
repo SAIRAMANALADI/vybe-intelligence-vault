@@ -3,7 +3,7 @@ title: "SIMA 2An agent that plays, reasons, and learns with you"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds"
-local_vault_path: "ai\companies\deepmind\sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md"
+local_vault_path: "ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://deepmind.google/blog/sima-2-an-agent-that-plays-rea
 
 ## Local Vault File
 
-Path: [sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md](file:///../../ai\companies\deepmind\sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md)
+Path: [sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md](file:///../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md)

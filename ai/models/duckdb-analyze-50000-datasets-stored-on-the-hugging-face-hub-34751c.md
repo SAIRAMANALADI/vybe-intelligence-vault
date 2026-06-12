@@ -4,10 +4,14 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/hub-duckdb
-published_at: '2023-06-06T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.329870+00:00'
-tags: []
-status: new
+published_at: '2023-06-07T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.820586+00:00'
+tags:
+- dataset
+status: active
+id: huggingface:blog/hub-duckdb
+first_seen: '2026-06-12T10:40:08.820586+00:00'
+last_seen: '2026-06-12T10:40:08.820586+00:00'
 ---
 
 # DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub
@@ -18,21 +22,17 @@ No summary provided. Reference resource: DuckDB: analyze 50,000+ datasets stored
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-06-06T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2023-06-07T00:00:00+00:00
 
 ## Related Tags
 
-- None
+- dataset
 
 ## Source
 

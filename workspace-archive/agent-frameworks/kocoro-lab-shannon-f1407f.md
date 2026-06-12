@@ -3,7 +3,7 @@ title: "Kocoro-lab/Shannon"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/Kocoro-lab/Shannon"
-local_vault_path: "ai\agents\kocoro-lab-shannon-f1407f.md"
+local_vault_path: "ai/agents/kocoro-lab-shannon-f1407f.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/Kocoro-lab/Shannon
 
 ## Local Vault File
 
-Path: [kocoro-lab-shannon-f1407f.md](file:///../../ai\agents\kocoro-lab-shannon-f1407f.md)
+Path: [kocoro-lab-shannon-f1407f.md](file:///../../ai/agents/kocoro-lab-shannon-f1407f.md)

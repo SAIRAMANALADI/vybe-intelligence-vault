@@ -3,7 +3,7 @@ title: "Reinforcement Learning with Action-Triggered Observations"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2510.02149"
-local_vault_path: "ai\agents\reinforcement-learning-with-action-triggered-observations-930ce8.md"
+local_vault_path: "ai/agents/reinforcement-learning-with-action-triggered-observations-930ce8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2510.02149
 
 ## Local Vault File
 
-Path: [reinforcement-learning-with-action-triggered-observations-930ce8.md](file:///../../ai\agents\reinforcement-learning-with-action-triggered-observations-930ce8.md)
+Path: [reinforcement-learning-with-action-triggered-observations-930ce8.md](file:///../../ai/agents/reinforcement-learning-with-action-triggered-observations-930ce8.md)

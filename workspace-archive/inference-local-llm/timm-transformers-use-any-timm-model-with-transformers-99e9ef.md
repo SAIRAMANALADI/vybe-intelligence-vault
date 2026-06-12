@@ -3,11 +3,11 @@ title: "Timm ❤️ Transformers: Use any timm model with transformers"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/timm-transformers"
-local_vault_path: "ai\models\timm-transformers-use-any-timm-model-with-transformers-99e9ef.md"
+local_vault_path: "ai/models/timm-transformers-use-any-timm-model-with-transformers-99e9ef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/timm-transformers
 
 ## Local Vault File
 
-Path: [timm-transformers-use-any-timm-model-with-transformers-99e9ef.md](file:///../../ai\models\timm-transformers-use-any-timm-model-with-transformers-99e9ef.md)
+Path: [timm-transformers-use-any-timm-model-with-transformers-99e9ef.md](file:///../../ai/models/timm-transformers-use-any-timm-model-with-transformers-99e9ef.md)

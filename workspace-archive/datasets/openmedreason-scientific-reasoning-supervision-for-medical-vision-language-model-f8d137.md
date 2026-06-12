@@ -3,18 +3,20 @@ title: "OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Langu
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12169"
-local_vault_path: "ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md"
+local_vault_path: "ai/rag/openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md"
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - dataset
   - models
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # OpenMedReason: Scientific Reasoning Supervision for Medical Vision-Language Models
@@ -22,11 +24,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12169
 
 ## Local Vault File
 
-Path: [openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md](file:///../../ai\rag\openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)
+Path: [openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md](file:///../../ai/rag/openmedreason-scientific-reasoning-supervision-for-medical-vision-language-model-f8d137.md)

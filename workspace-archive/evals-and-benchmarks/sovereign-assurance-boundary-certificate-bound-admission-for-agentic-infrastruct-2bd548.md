@@ -3,7 +3,7 @@ title: "Sovereign Assurance Boundary: Certificate-Bound Admission for Agentic In
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11632"
-local_vault_path: "ai\agents\sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md"
+local_vault_path: "ai/agents/sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11632
 
 ## Local Vault File
 
-Path: [sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md](file:///../../ai\agents\sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md)
+Path: [sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md](file:///../../ai/agents/sovereign-assurance-boundary-certificate-bound-admission-for-agentic-infrastruct-2bd548.md)

@@ -4,11 +4,14 @@ category: ai/agents
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/intel-qwen3-agent
-published_at: '2025-09-28T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.324650+00:00'
+published_at: '2025-09-29T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.809367+00:00'
 tags:
 - agents
-status: new
+status: active
+id: huggingface:blog/intel-qwen3-agent
+first_seen: '2026-06-12T10:40:08.809367+00:00'
+last_seen: '2026-06-12T10:40:08.809367+00:00'
 ---
 
 # Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models
@@ -19,17 +22,13 @@ No summary provided. Reference resource: Accelerating Qwen3-8B Agent on Intel® 
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/agents
-- Published: 2025-09-28T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-09-29T00:00:00+00:00
 
 ## Related Tags
 

@@ -10,9 +10,12 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481606+00:00'
+collected_at: '2026-06-12T10:40:03.102487+00:00'
 tags: []
-status: new
+status: active
+id: arxiv:2606.13201
+first_seen: '2026-06-12T10:40:03.102487+00:00'
+last_seen: '2026-06-12T10:40:03.102487+00:00'
 ---
 
 # A Minimal Model of Bounded Trade-Off Screening in Multi-Attribute Choice

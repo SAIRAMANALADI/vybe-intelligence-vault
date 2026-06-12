@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.480743+00:00'
+collected_at: '2026-06-12T10:40:03.101479+00:00'
 tags:
 - benchmark
 - models
-status: new
+status: active
+id: arxiv:2606.12594
+first_seen: '2026-06-12T10:40:03.101479+00:00'
+last_seen: '2026-06-12T10:40:03.101479+00:00'
 ---
 
 # Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation

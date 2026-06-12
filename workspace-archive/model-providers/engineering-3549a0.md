@@ -3,7 +3,7 @@ title: "Engineering"
 archive_category: "model-providers"
 source_category: "ai/companies/openai"
 source_url: "https://openai.com/news/engineering"
-local_vault_path: "ai\companies\openai\engineering-3549a0.md"
+local_vault_path: "ai/companies/openai/engineering-3549a0.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://openai.com/news/engineering
 
 ## Local Vault File
 
-Path: [engineering-3549a0.md](file:///../../ai\companies\openai\engineering-3549a0.md)
+Path: [engineering-3549a0.md](file:///../../ai/companies/openai/engineering-3549a0.md)

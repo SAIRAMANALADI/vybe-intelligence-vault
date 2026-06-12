@@ -4,10 +4,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/deepseek-r1-aws
-published_at: '2025-01-29T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.326190+00:00'
+published_at: '2025-01-30T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.812779+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/deepseek-r1-aws
+first_seen: '2026-06-12T10:40:08.812779+00:00'
+last_seen: '2026-06-12T10:40:08.812779+00:00'
 ---
 
 # How to deploy and fine-tune DeepSeek models on AWS
@@ -18,17 +21,13 @@ No summary provided. Reference resource: How to deploy and fine-tune DeepSeek mo
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-01-29T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-01-30T00:00:00+00:00
 
 ## Related Tags
 

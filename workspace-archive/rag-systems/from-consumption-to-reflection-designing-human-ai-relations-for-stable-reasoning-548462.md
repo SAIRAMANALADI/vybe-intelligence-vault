@@ -3,7 +3,7 @@ title: "From Consumption to Reflection: Designing Human-AI Relations for Stable 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11195"
-local_vault_path: "ai\research\from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md"
+local_vault_path: "ai/research/from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11195
 
 ## Local Vault File
 
-Path: [from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md](file:///../../ai\research\from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md)
+Path: [from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md](file:///../../ai/research/from-consumption-to-reflection-designing-human-ai-relations-for-stable-reasoning-548462.md)

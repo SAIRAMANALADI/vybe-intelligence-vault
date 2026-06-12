@@ -3,11 +3,11 @@ title: "Supercharge your OCR Pipelines with Open Models"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ocr-open-models"
-local_vault_path: "ai\models\supercharge-your-ocr-pipelines-with-open-models-d74c14.md"
+local_vault_path: "ai/models/supercharge-your-ocr-pipelines-with-open-models-d74c14.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "workflow"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: workflow
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ocr-open-models
 
 ## Local Vault File
 
-Path: [supercharge-your-ocr-pipelines-with-open-models-d74c14.md](file:///../../ai\models\supercharge-your-ocr-pipelines-with-open-models-d74c14.md)
+Path: [supercharge-your-ocr-pipelines-with-open-models-d74c14.md](file:///../../ai/models/supercharge-your-ocr-pipelines-with-open-models-d74c14.md)

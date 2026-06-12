@@ -3,7 +3,7 @@ title: "MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Reco
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10120"
-local_vault_path: "ai\rag\metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md"
+local_vault_path: "ai/rag/metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.10120
 
 ## Local Vault File
 
-Path: [metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md](file:///../../ai\rag\metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md)
+Path: [metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md](file:///../../ai/rag/metaplate-counterfactual-guided-rag-llm-tool-for-personalized-food-recommendatio-6939ea.md)

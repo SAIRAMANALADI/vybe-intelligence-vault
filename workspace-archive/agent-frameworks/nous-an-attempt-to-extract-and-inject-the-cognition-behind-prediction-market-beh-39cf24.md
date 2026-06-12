@@ -3,7 +3,7 @@ title: "Nous: An Attempt to Extract and Inject the Cognition Behind Prediction-M
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13038"
-local_vault_path: "ai\agents\nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md"
+local_vault_path: "ai/agents/nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13038
 
 ## Local Vault File
 
-Path: [nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md](file:///../../ai\agents\nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md)
+Path: [nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md](file:///../../ai/agents/nous-an-attempt-to-extract-and-inject-the-cognition-behind-prediction-market-beh-39cf24.md)

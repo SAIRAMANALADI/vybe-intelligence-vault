@@ -3,11 +3,11 @@ title: "Probabilistic Time Series Forecasting with 🤗 Transformers"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/time-series-transformers"
-local_vault_path: "ai\models\probabilistic-time-series-forecasting-with-transformers-f7bb1c.md"
+local_vault_path: "ai/models/probabilistic-time-series-forecasting-with-transformers-f7bb1c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/time-series-transformers
 
 ## Local Vault File
 
-Path: [probabilistic-time-series-forecasting-with-transformers-f7bb1c.md](file:///../../ai\models\probabilistic-time-series-forecasting-with-transformers-f7bb1c.md)
+Path: [probabilistic-time-series-forecasting-with-transformers-f7bb1c.md](file:///../../ai/models/probabilistic-time-series-forecasting-with-transformers-f7bb1c.md)

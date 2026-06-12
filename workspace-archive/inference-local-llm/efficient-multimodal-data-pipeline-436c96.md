@@ -3,11 +3,11 @@ title: "Efficient MultiModal Data Pipeline"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mmdp"
-local_vault_path: "ai\models\efficient-multimodal-data-pipeline-436c96.md"
+local_vault_path: "ai/models/efficient-multimodal-data-pipeline-436c96.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "workflow"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: workflow
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: [efficient-multimodal-data-pipeline-436c96.md](file:///../../ai\models\efficient-multimodal-data-pipeline-436c96.md)
+Path: [efficient-multimodal-data-pipeline-436c96.md](file:///../../ai/models/efficient-multimodal-data-pipeline-436c96.md)

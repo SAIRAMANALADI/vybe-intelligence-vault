@@ -3,7 +3,7 @@ title: "jolbol1/nextjs-velite-blog-template"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/jolbol1/nextjs-velite-blog-template"
-local_vault_path: "web-development\nextjs\jolbol1-nextjs-velite-blog-template-5cada6.md"
+local_vault_path: "web-development/nextjs/jolbol1-nextjs-velite-blog-template-5cada6.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "template"
 importance: "medium"
 tags:
   - frontend_ui
+  - youtube
 selection_reason:
   - "Useful for project building"
 ---
@@ -41,4 +42,4 @@ Original source URL: https://github.com/jolbol1/nextjs-velite-blog-template
 
 ## Local Vault File
 
-Path: [jolbol1-nextjs-velite-blog-template-5cada6.md](file:///../../web-development\nextjs\jolbol1-nextjs-velite-blog-template-5cada6.md)
+Path: [jolbol1-nextjs-velite-blog-template-5cada6.md](file:///../../web-development/nextjs/jolbol1-nextjs-velite-blog-template-5cada6.md)

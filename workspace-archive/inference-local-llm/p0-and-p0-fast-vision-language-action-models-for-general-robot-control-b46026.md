@@ -3,11 +3,11 @@ title: "π0 and π0-FAST: Vision-Language-Action Models for General Robot Contro
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pi0"
-local_vault_path: "ai\models\p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md"
+local_vault_path: "ai/models/p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pi0
 
 ## Local Vault File
 
-Path: [p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md](file:///../../ai\models\p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md)
+Path: [p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md](file:///../../ai/models/p0-and-p0-fast-vision-language-action-models-for-general-robot-control-b46026.md)

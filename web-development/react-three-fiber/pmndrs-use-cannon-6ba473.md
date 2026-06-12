@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/use-cannon
-collected_at: '2026-06-11T08:45:37.431959+00:00'
-published_at: '2026-06-10T11:29:32Z'
+collected_at: '2026-06-12T10:40:15.865600+00:00'
+published_at: '2026-06-11T14:26:30Z'
 tags:
 - frontend_ui
 - threejs
-stars: 2952
+stars: 2953
 language: TypeScript
-status: new
+status: active
+id: github:pmndrs/use-cannon
+first_seen: '2026-06-12T10:40:15.865600+00:00'
+last_seen: '2026-06-12T10:40:15.865600+00:00'
 ---
 
 # pmndrs/use-cannon
@@ -27,11 +30,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 2952
+- Stars: 2953
 - Forks: 164
 - Language: TypeScript
 - Topics: cannon-js, physics, react, reactjs
-- Last Updated: 2026-06-10T11:29:32Z
+- Last Updated: 2026-06-11T14:26:30Z
 
 ## Possible Use Cases
 

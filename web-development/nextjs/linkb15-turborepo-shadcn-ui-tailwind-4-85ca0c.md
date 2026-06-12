@@ -4,13 +4,16 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4
-collected_at: '2026-06-11T08:45:43.851283+00:00'
+collected_at: '2026-06-12T10:40:20.338222+00:00'
 published_at: '2026-04-21T10:43:58Z'
 tags:
 - frontend_ui
 stars: 110
 language: TypeScript
-status: new
+status: active
+id: github:linkb15/turborepo-shadcn-ui-tailwind-4
+first_seen: '2026-06-12T10:40:20.338222+00:00'
+last_seen: '2026-06-12T10:40:20.338222+00:00'
 ---
 
 # linkb15/turborepo-shadcn-ui-tailwind-4

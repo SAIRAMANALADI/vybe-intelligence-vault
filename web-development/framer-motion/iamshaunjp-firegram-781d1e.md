@@ -4,14 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/iamshaunjp/firegram
-collected_at: '2026-06-11T08:45:41.211897+00:00'
+collected_at: '2026-06-12T10:40:18.782957+00:00'
 published_at: '2025-09-20T14:22:38Z'
 tags:
 - animation
 - frontend_ui
+- youtube
 stars: 302
 language: Unknown
-status: new
+status: active
+id: github:iamshaunjp/firegram
+first_seen: '2026-06-12T10:40:18.782957+00:00'
+last_seen: '2026-06-12T10:40:18.782957+00:00'
 ---
 
 # iamshaunjp/firegram

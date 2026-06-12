@@ -3,14 +3,18 @@ title: "Scaling Laws of Global Weather Models"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.22962"
-local_vault_path: "ai\research\scaling-laws-of-global-weather-models-ec0ad2.md"
+local_vault_path: "ai/research/scaling-laws-of-global-weather-models-ec0ad2.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Scaling Laws of Global Weather Models
@@ -18,10 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.22962
 
 ## Local Vault File
 
-Path: [scaling-laws-of-global-weather-models-ec0ad2.md](file:///../../ai\research\scaling-laws-of-global-weather-models-ec0ad2.md)
+Path: [scaling-laws-of-global-weather-models-ec0ad2.md](file:///../../ai/research/scaling-laws-of-global-weather-models-ec0ad2.md)

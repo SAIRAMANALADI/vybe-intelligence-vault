@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14
-published_at: '2026-06-11T18:21:29.351491+00:00'
-collected_at: '2026-06-11T18:21:29.351504+00:00'
+published_at: '2026-06-12T10:41:12.416031+00:00'
+collected_at: '2026-06-12T10:41:12.416043+00:00'
 tags:
 - dataset
 - hackernews
@@ -18,7 +18,10 @@ tags:
 - reddit
 - scripts
 - web-crawled
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:12.416043+00:00'
+last_seen: '2026-06-12T10:41:12.416043+00:00'
 ---
 
 # Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium
@@ -35,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:29.351491+00:00
+- Published: 2026-06-12T10:41:12.416031+00:00
 
 ## Related Tags
 

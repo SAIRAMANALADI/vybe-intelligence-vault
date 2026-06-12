@@ -3,17 +3,19 @@ title: "Online Shift Detection and Conformal Adaptation for Deployed Safety Clas
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11949"
-local_vault_path: "ai\rag\online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md"
+local_vault_path: "ai/rag/online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - meta-ai
   - models
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Online Shift Detection and Conformal Adaptation for Deployed Safety Classifiers
@@ -22,9 +24,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -43,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11949
 
 ## Local Vault File
 
-Path: [online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md](file:///../../ai\rag\online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md)
+Path: [online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md](file:///../../ai/rag/online-shift-detection-and-conformal-adaptation-for-deployed-safety-classifiers-e36ba1.md)

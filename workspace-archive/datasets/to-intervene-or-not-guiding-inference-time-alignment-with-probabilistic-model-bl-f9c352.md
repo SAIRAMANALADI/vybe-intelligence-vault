@@ -3,12 +3,14 @@ title: "To Intervene or Not: Guiding Inference-time Alignment with Probabilistic
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11201"
-local_vault_path: "ai\research\to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md"
+local_vault_path: "ai/research/to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Useful for project building"
 ---
@@ -25,8 +27,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11201v1 Announce Type: cross 
-Abstract: The wide deployment of LLMs has made model alignment necessary to make newly trained models safely and effectively respond to user instructions. Among different methods, inference-time alignment is often cheaper as it intervenes (i.e., offers guidances) only during output generation. Existing proposals apply guidances extracted from certain aligned models without properly assessing their reliability. Nonetheless, our systematic evaluation reveal
+arXiv:2606.11201v1 Announce Type: new 
+Abstract: The wide deployment of LLMs has made model alignment necessary to make newly trained models safely and effectively respond to user instructions. Among different methods, inference-time alignment is often cheaper as it intervenes (i.e., offers guidances) only during output generation. Existing proposals apply guidances extracted from certain aligned models without properly assessing their reliability. Nonetheless, our systematic evaluation reveals
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11201
 
 ## Local Vault File
 
-Path: [to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md](file:///../../ai\research\to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md)
+Path: [to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md](file:///../../ai/research/to-intervene-or-not-guiding-inference-time-alignment-with-probabilistic-model-bl-f9c352.md)

@@ -3,15 +3,17 @@ title: "Data-Driven Dynamic Assortment in Online Platforms: Learning about Two S
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11118"
-local_vault_path: "ai\research\data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md"
+local_vault_path: "ai/research/data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Data-Driven Dynamic Assortment in Online Platforms: Learning about Two Sides
@@ -20,10 +22,10 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11118
 
 ## Local Vault File
 
-Path: [data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md](file:///../../ai\research\data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md)
+Path: [data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md](file:///../../ai/research/data-driven-dynamic-assortment-in-online-platforms-learning-about-two-sides-548826.md)

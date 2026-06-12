@@ -3,7 +3,7 @@ title: "Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Maliciou
 archive_category: "guardrails-security"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11817"
-local_vault_path: "ai\rag\grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md"
+local_vault_path: "ai/rag/grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11817
 
 ## Local Vault File
 
-Path: [grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md](file:///../../ai\rag\grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md)
+Path: [grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md](file:///../../ai/rag/grammar-constrained-decoding-can-jailbreak-llms-into-generating-malicious-code-300744.md)

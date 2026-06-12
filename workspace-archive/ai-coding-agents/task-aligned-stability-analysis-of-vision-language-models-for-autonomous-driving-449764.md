@@ -3,7 +3,7 @@ title: "Task-Aligned Stability Analysis of Vision-Language Models for Autonomous
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11889"
-local_vault_path: "ai\agents\task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md"
+local_vault_path: "ai/agents/task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11889
 
 ## Local Vault File
 
-Path: [task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md](file:///../../ai\agents\task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md)
+Path: [task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md](file:///../../ai/agents/task-aligned-stability-analysis-of-vision-language-models-for-autonomous-driving-449764.md)

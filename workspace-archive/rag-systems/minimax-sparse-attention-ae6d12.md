@@ -3,7 +3,7 @@ title: "MiniMax Sparse Attention"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13392"
-local_vault_path: "ai\agents\minimax-sparse-attention-ae6d12.md"
+local_vault_path: "ai/agents/minimax-sparse-attention-ae6d12.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13392
 
 ## Local Vault File
 
-Path: [minimax-sparse-attention-ae6d12.md](file:///../../ai\agents\minimax-sparse-attention-ae6d12.md)
+Path: [minimax-sparse-attention-ae6d12.md](file:///../../ai/agents/minimax-sparse-attention-ae6d12.md)

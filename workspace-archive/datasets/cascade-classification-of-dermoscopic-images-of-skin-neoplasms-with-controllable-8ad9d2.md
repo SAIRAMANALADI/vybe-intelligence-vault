@@ -3,7 +3,7 @@ title: "Cascade Classification of Dermoscopic Images of Skin Neoplasms with Cont
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13135"
-local_vault_path: "ai\research\cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md"
+local_vault_path: "ai/research/cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13135
 
 ## Local Vault File
 
-Path: [cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md](file:///../../ai\research\cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md)
+Path: [cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md](file:///../../ai/research/cascade-classification-of-dermoscopic-images-of-skin-neoplasms-with-controllable-8ad9d2.md)

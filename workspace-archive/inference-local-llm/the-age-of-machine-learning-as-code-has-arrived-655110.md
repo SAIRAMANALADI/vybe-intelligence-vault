@@ -3,11 +3,11 @@ title: "The Age of Machine Learning As Code Has Arrived"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/the-age-of-ml-as-code"
-local_vault_path: "ai\models\the-age-of-machine-learning-as-code-has-arrived-655110.md"
+local_vault_path: "ai/models/the-age-of-machine-learning-as-code-has-arrived-655110.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/the-age-of-ml-as-code
 
 ## Local Vault File
 
-Path: [the-age-of-machine-learning-as-code-has-arrived-655110.md](file:///../../ai\models\the-age-of-machine-learning-as-code-has-arrived-655110.md)
+Path: [the-age-of-machine-learning-as-code-has-arrived-655110.md](file:///../../ai/models/the-age-of-machine-learning-as-code-has-arrived-655110.md)

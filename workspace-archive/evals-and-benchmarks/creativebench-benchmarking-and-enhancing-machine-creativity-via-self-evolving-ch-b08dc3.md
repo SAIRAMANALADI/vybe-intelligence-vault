@@ -3,7 +3,7 @@ title: "CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Ev
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.11863"
-local_vault_path: "ai\rag\creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md"
+local_vault_path: "ai/rag/creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2603.11863
 
 ## Local Vault File
 
-Path: [creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md](file:///../../ai\rag\creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md)
+Path: [creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md](file:///../../ai/rag/creativebench-benchmarking-and-enhancing-machine-creativity-via-self-evolving-ch-b08dc3.md)

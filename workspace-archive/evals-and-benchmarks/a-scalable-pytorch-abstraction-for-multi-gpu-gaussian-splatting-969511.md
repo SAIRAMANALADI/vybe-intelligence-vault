@@ -3,14 +3,15 @@ title: "A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11390"
-local_vault_path: "ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md"
+local_vault_path: "ai/research/a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md"
 quality_score: 70
-archive_score: 80
+archive_score: 84
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "high"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11390
 
 ## Local Vault File
 
-Path: [a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md](file:///../../ai\research\a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md)
+Path: [a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md](file:///../../ai/research/a-scalable-pytorch-abstraction-for-multi-gpu-gaussian-splatting-969511.md)

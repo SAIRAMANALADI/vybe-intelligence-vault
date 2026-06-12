@@ -3,14 +3,18 @@ title: "Few-Shot Resampling for Scalable Statistically-Sound Data Mining"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11235"
-local_vault_path: "ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
+local_vault_path: "ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "high"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Few-Shot Resampling for Scalable Statistically-Sound Data Mining
@@ -19,9 +23,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11235
 
 ## Local Vault File
 
-Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)
+Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)

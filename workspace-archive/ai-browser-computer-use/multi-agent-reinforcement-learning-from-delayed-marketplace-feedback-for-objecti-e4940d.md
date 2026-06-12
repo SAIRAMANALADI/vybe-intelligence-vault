@@ -3,7 +3,7 @@ title: "Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13604"
-local_vault_path: "ai\agents\multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md"
+local_vault_path: "ai/agents/multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13604
 
 ## Local Vault File
 
-Path: [multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md](file:///../../ai\agents\multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md)
+Path: [multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md](file:///../../ai/agents/multi-agent-reinforcement-learning-from-delayed-marketplace-feedback-for-objecti-e4940d.md)

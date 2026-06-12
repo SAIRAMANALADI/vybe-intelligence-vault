@@ -3,7 +3,7 @@ title: "DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recomme
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12245"
-local_vault_path: "ai\rag\diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md"
+local_vault_path: "ai/rag/diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12245
 
 ## Local Vault File
 
-Path: [diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md](file:///../../ai\rag\diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md)
+Path: [diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md](file:///../../ai/rag/diffcold-a-diffusion-based-generative-model-for-cold-start-item-recommendation-d84e2c.md)

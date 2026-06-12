@@ -3,7 +3,7 @@ title: "gpsandhu23/LLM_code_scanning_evals"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/resources"
 source_url: "https://github.com/gpsandhu23/LLM_code_scanning_evals"
-local_vault_path: "ai\resources\gpsandhu23-llm-code-scanning-evals-1fb416.md"
+local_vault_path: "ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/gpsandhu23/LLM_code_scanning_evals
 
 ## Local Vault File
 
-Path: [gpsandhu23-llm-code-scanning-evals-1fb416.md](file:///../../ai\resources\gpsandhu23-llm-code-scanning-evals-1fb416.md)
+Path: [gpsandhu23-llm-code-scanning-evals-1fb416.md](file:///../../ai/resources/gpsandhu23-llm-code-scanning-evals-1fb416.md)

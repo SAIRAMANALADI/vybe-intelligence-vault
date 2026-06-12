@@ -3,17 +3,18 @@ title: "The ASE-LSE Disagreement Landscape: An End-to-End Characterisation of Ex
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.22346"
-local_vault_path: "ai\rag\the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md"
+local_vault_path: "ai/rag/the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "api"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - paper
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # The ASE-LSE Disagreement Landscape: An End-to-End Characterisation of Extremes and Structural Drivers
@@ -22,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2605.22346
 
 ## Local Vault File
 
-Path: [the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md](file:///../../ai\rag\the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md)
+Path: [the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md](file:///../../ai/rag/the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md)

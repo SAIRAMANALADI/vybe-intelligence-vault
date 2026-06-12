@@ -3,7 +3,7 @@ title: "Teach-and-Repeat: Accurately Extracting Operational Knowledge from Mobil
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12817"
-local_vault_path: "ai\agents\teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md"
+local_vault_path: "ai/agents/teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12817
 
 ## Local Vault File
 
-Path: [teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md](file:///../../ai\agents\teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md)
+Path: [teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md](file:///../../ai/agents/teach-and-repeat-accurately-extracting-operational-knowledge-from-mobile-screen-e792a9.md)

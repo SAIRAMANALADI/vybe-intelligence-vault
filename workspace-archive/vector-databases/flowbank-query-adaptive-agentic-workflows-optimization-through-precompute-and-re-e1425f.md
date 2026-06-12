@@ -3,7 +3,7 @@ title: "FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompu
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11290"
-local_vault_path: "ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
+local_vault_path: "ai/rag/flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,8 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
+  - benchmark
+  - creative_dev
   - rag
   - workflows
 selection_reason:
@@ -29,8 +31,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11290v1 Announce Type: cross 
-Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more compleme
+arXiv:2606.11290v1 Announce Type: new 
+Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial offline compute yet deploy only a single workflow, leaving complementary candidates unused, while query-level methods synthesize a new workflow per query at substantial inference cost. Our motivating analysis shows these paradigms are more complement
 
 ## Use Cases
 
@@ -44,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11290
 
 ## Local Vault File
 
-Path: [flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md](file:///../../ai\rag\flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md)
+Path: [flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md](file:///../../ai/rag/flowbank-query-adaptive-agentic-workflows-optimization-through-precompute-and-re-e1425f.md)

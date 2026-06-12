@@ -3,12 +3,15 @@ title: "DecompSR: A dataset for decomposed analyses of compositional multihop sp
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.02627"
-local_vault_path: "ai\research\decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md"
+local_vault_path: "ai/research/decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -19,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -27,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-arXiv:2511.02627v3 Announce Type: replace 
+arXiv:2511.02627v4 Announce Type: replace 
 Abstract: We introduce DecompSR, decomposed spatial reasoning, a large benchmark dataset (over 5m datapoints) and generation framework designed to analyse compositional spatial reasoning ability. The generation of DecompSR allows users to independently vary several aspects of compositionality, namely: productivity (reasoning depth), substitutivity (entity and linguistic variability), overgeneralisation (input order, distractors) and systematicity (novel
 
 ## Use Cases
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2511.02627
 
 ## Local Vault File
 
-Path: [decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md](file:///../../ai\research\decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md)
+Path: [decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md](file:///../../ai/research/decompsr-a-dataset-for-decomposed-analyses-of-compositional-multihop-spatial-rea-adad45.md)

@@ -3,7 +3,7 @@ title: "Algorithmic Constitutionalism"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12437"
-local_vault_path: "ai\agents\algorithmic-constitutionalism-cc24ef.md"
+local_vault_path: "ai/agents/algorithmic-constitutionalism-cc24ef.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12437
 
 ## Local Vault File
 
-Path: [algorithmic-constitutionalism-cc24ef.md](file:///../../ai\agents\algorithmic-constitutionalism-cc24ef.md)
+Path: [algorithmic-constitutionalism-cc24ef.md](file:///../../ai/agents/algorithmic-constitutionalism-cc24ef.md)

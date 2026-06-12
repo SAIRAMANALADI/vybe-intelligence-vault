@@ -3,7 +3,7 @@ title: "TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Pos
 archive_category: "inference-local-llm"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13054"
-local_vault_path: "ai\research\twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md"
+local_vault_path: "ai/research/twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13054
 
 ## Local Vault File
 
-Path: [twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md](file:///../../ai\research\twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md)
+Path: [twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md](file:///../../ai/research/twla-achieving-ternary-weights-and-low-bit-activations-for-llms-via-post-trainin-15b9c2.md)

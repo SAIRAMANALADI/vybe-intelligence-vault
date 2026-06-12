@@ -3,11 +3,11 @@ title: "Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging 
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fetch-eap-case-study"
-local_vault_path: "ai\models\fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md"
+local_vault_path: "ai/models/fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fetch-eap-case-study
 
 ## Local Vault File
 
-Path: [fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md](file:///../../ai\models\fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md)
+Path: [fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md](file:///../../ai/models/fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md)

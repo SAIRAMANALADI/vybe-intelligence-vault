@@ -3,12 +3,15 @@ title: "Knowledge Manifold: A Riemannian Geometric Framework for Semantic Mappin
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.05907"
-local_vault_path: "ai\research\knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md"
+local_vault_path: "ai/research/knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
+  - threejs
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.05907
 
 ## Local Vault File
 
-Path: [knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md](file:///../../ai\research\knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md)
+Path: [knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md](file:///../../ai/research/knowledge-manifold-a-riemannian-geometric-framework-for-semantic-mapping-and-geo-ec69dc.md)

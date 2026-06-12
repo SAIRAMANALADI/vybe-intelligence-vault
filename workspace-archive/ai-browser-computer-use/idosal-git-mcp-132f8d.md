@@ -3,7 +3,7 @@ title: "idosal/git-mcp"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/idosal/git-mcp"
-local_vault_path: "ai\agents\idosal-git-mcp-132f8d.md"
+local_vault_path: "ai/agents/idosal-git-mcp-132f8d.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/idosal/git-mcp
 
 ## Local Vault File
 
-Path: [idosal-git-mcp-132f8d.md](file:///../../ai\agents\idosal-git-mcp-132f8d.md)
+Path: [idosal-git-mcp-132f8d.md](file:///../../ai/agents/idosal-git-mcp-132f8d.md)

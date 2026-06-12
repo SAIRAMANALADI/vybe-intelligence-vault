@@ -3,14 +3,15 @@ title: "SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11674"
-local_vault_path: "ai\research\spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md"
+local_vault_path: "ai/research/spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11674
 
 ## Local Vault File
 
-Path: [spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md](file:///../../ai\research\spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md)
+Path: [spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md](file:///../../ai/research/spaarsist-sparsified-aasist-for-efficient-and-reliable-anti-spoofing-f132dc.md)

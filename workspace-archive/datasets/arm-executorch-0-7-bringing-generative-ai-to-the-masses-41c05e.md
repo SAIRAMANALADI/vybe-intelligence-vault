@@ -3,7 +3,7 @@ title: "Arm & ExecuTorch 0.7: Bringing Generative AI to the masses"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Arm/executorch-0-dot-7"
-local_vault_path: "ai\models\arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md"
+local_vault_path: "ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/Arm/executorch-0-dot-7
 
 ## Local Vault File
 
-Path: [arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md](file:///../../ai\models\arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md)
+Path: [arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md](file:///../../ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-masses-41c05e.md)

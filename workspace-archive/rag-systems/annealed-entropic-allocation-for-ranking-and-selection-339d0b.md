@@ -3,15 +3,16 @@ title: "Annealed Entropic Allocation for Ranking and Selection"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11347"
-local_vault_path: "ai\research\annealed-entropic-allocation-for-ranking-and-selection-339d0b.md"
+local_vault_path: "ai/research/annealed-entropic-allocation-for-ranking-and-selection-339d0b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -20,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11347
 
 ## Local Vault File
 
-Path: [annealed-entropic-allocation-for-ranking-and-selection-339d0b.md](file:///../../ai\research\annealed-entropic-allocation-for-ranking-and-selection-339d0b.md)
+Path: [annealed-entropic-allocation-for-ranking-and-selection-339d0b.md](file:///../../ai/research/annealed-entropic-allocation-for-ranking-and-selection-339d0b.md)

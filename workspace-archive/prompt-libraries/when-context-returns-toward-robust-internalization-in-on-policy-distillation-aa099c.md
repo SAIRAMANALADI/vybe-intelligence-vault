@@ -3,15 +3,15 @@ title: "When Context Returns: Toward Robust Internalization in On-Policy Distill
 archive_category: "prompt-libraries"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11627"
-local_vault_path: "ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
+local_vault_path: "ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # When Context Returns: Toward Robust Internalization in On-Policy Distillation
@@ -20,15 +20,15 @@ selection_reason:
 
 - Matched archive category: `Prompt Libraries`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11627v1 Announce Type: cross 
-Abstract: Recent work has shown that on-policy distillation can internalize privileged context, such as system prompts or task hints, into a student model so that the context is no longer needed at inference time. Although this approach successfully improves the student's no-context performance, we identify an interesting and previously unstudied phenomenon: in many settings, reintroducing the original privileged context to the distilled student actually
+arXiv:2606.11627v1 Announce Type: new 
+Abstract: Recent work has shown that on-policy distillation can internalize privileged context, such as system prompts or task hints, into a student model so that the context is no longer needed at inference time. Although this approach successfully improves the student's no-context performance, we identify an interesting and previously unstudied phenomenon: in many settings, reintroducing the original privileged context to the distilled student actually de
 
 ## Use Cases
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11627
 
 ## Local Vault File
 
-Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai\research\when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)
+Path: [when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md](file:///../../ai/research/when-context-returns-toward-robust-internalization-in-on-policy-distillation-aa099c.md)

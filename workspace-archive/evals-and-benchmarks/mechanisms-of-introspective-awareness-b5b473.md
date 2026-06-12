@@ -3,16 +3,17 @@ title: "Mechanisms of Introspective Awareness"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.21396"
-local_vault_path: "ai\research\mechanisms-of-introspective-awareness-b5b473.md"
+local_vault_path: "ai/research/mechanisms-of-introspective-awareness-b5b473.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Mechanisms of Introspective Awareness
@@ -20,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.21396
 
 ## Local Vault File
 
-Path: [mechanisms-of-introspective-awareness-b5b473.md](file:///../../ai\research\mechanisms-of-introspective-awareness-b5b473.md)
+Path: [mechanisms-of-introspective-awareness-b5b473.md](file:///../../ai/research/mechanisms-of-introspective-awareness-b5b473.md)

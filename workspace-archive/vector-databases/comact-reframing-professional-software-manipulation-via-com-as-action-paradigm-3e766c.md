@@ -3,7 +3,7 @@ title: "ComAct: Reframing Professional Software Manipulation via COM-as-Action P
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13239"
-local_vault_path: "ai\rag\comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md"
+local_vault_path: "ai/rag/comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13239
 
 ## Local Vault File
 
-Path: [comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md](file:///../../ai\rag\comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md)
+Path: [comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md](file:///../../ai/rag/comact-reframing-professional-software-manipulation-via-com-as-action-paradigm-3e766c.md)

@@ -3,7 +3,7 @@ title: "NARRAS: Edge-Triggered Distributed Inference for CSI-Based Localization 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11914"
-local_vault_path: "ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md"
+local_vault_path: "ai/rag/narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "reference"
 importance: "medium"
 tags:
   - rag
+  - youtube
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11914
 
 ## Local Vault File
 
-Path: [narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md](file:///../../ai\rag\narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md)
+Path: [narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md](file:///../../ai/rag/narras-edge-triggered-distributed-inference-for-csi-based-localization-in-vehicu-f1ade3.md)

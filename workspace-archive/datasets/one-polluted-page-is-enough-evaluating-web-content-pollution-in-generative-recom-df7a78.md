@@ -3,7 +3,7 @@ title: "One Polluted Page Is Enough: Evaluating Web Content Pollution in Generat
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13610"
-local_vault_path: "ai\research\one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md"
+local_vault_path: "ai/research/one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13610
 
 ## Local Vault File
 
-Path: [one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md](file:///../../ai\research\one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md)
+Path: [one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md](file:///../../ai/research/one-polluted-page-is-enough-evaluating-web-content-pollution-in-generative-recom-df7a78.md)

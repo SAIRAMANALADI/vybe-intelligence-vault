@@ -3,7 +3,7 @@ title: "10 RAG examples and use cases from real companies"
 archive_category: "ai-tools-products"
 source_category: "ai/rag"
 source_url: "https://www.evidentlyai.com/blog/rag-examples"
-local_vault_path: "ai\rag\10-rag-examples-and-use-cases-from-real-companies-5a87bc.md"
+local_vault_path: "ai/rag/10-rag-examples-and-use-cases-from-real-companies-5a87bc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.evidentlyai.com/blog/rag-examples
 
 ## Local Vault File
 
-Path: [10-rag-examples-and-use-cases-from-real-companies-5a87bc.md](file:///../../ai\rag\10-rag-examples-and-use-cases-from-real-companies-5a87bc.md)
+Path: [10-rag-examples-and-use-cases-from-real-companies-5a87bc.md](file:///../../ai/rag/10-rag-examples-and-use-cases-from-real-companies-5a87bc.md)

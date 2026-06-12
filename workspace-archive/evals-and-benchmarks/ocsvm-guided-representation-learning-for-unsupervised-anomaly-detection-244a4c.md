@@ -3,15 +3,17 @@ title: "OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2507.21164"
-local_vault_path: "ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md"
+local_vault_path: "ai/research/ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # OCSVM-Guided Representation Learning for Unsupervised Anomaly Detection
@@ -20,15 +22,15 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2507.21164v2 Announce Type: replace-cross 
-Abstract: Unsupervised anomaly detection (UAD) aims to detect anomalies without labeled data, a necessity in many machine learning applications where anomalous samples are rare or not available. Most state-of-the-art methods fall into two categories: reconstruction-based approaches, which often reconstruct anomalies too well, and decoupled representation learning with density estimators, which can suffer from suboptimal feature spaces. While some
+arXiv:2507.21164v2 Announce Type: replace 
+Abstract: Unsupervised anomaly detection (UAD) aims to detect anomalies without labeled data, a necessity in many machine learning applications where anomalous samples are rare or not available. Most state-of-the-art methods fall into two categories: reconstruction-based approaches, which often reconstruct anomalies too well, and decoupled representation learning with density estimators, which can suffer from suboptimal feature spaces. While some recent
 
 ## Use Cases
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2507.21164
 
 ## Local Vault File
 
-Path: [ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md](file:///../../ai\research\ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md)
+Path: [ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md](file:///../../ai/research/ocsvm-guided-representation-learning-for-unsupervised-anomaly-detection-244a4c.md)

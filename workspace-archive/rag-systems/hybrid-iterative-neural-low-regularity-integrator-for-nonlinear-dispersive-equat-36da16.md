@@ -3,13 +3,16 @@ title: "Hybrid Iterative Neural Low-Regularity Integrator for Nonlinear Dispersi
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04853"
-local_vault_path: "ai\research\hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md"
+local_vault_path: "ai/research/hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2605.04853
 
 ## Local Vault File
 
-Path: [hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md](file:///../../ai\research\hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md)
+Path: [hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md](file:///../../ai/research/hybrid-iterative-neural-low-regularity-integrator-for-nonlinear-dispersive-equat-36da16.md)

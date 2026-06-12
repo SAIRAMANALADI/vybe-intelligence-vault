@@ -3,40 +3,47 @@ title: 'Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the
   of Intervention'
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2606.11205
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.522045+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.012981+00:00'
 tags:
+- benchmark
+- meta-ai
 - models
-status: new
+status: active
+id: arxiv:2606.11205
+first_seen: '2026-06-12T10:40:06.012981+00:00'
+last_seen: '2026-06-12T10:40:06.012981+00:00'
 ---
 
 # Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention
 
 ## Summary
 
-arXiv:2606.11205v1 Announce Type: cross 
+arXiv:2606.11205v1 Announce Type: new 
 Abstract: Activation steering can shift LLM behaviour, but standard evaluations do not typically test whether a sycophancy-reduction direction also suppresses agreement with factually correct statements. We introduce dual-stance evaluation, which tests both stances of each topic, and apply it to centroid-difference steering on Llama-3-8B-Instruct. We find a dissociation: the model represents sycophantic and factual agreement in geometrically distinct subspaces, yet the steering direction projects equally onto both and cannot differentially target either. The direction accordingly reduces agreement with factually correct statements (e.g. that the Earth is round) as well as sycophantic ones. All other static properties of the two activation groups are matched, suggesting the behavioural dissociation arises from generation dynamics or from finer-grained structure that residual-stream analysis cannot resolve. The pattern illustrates a general gap: representations that are readable from activations may not be writable through them.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.11205
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
+- benchmark
+- meta-ai
 - models
-
-## Source
-
-Original source: https://arxiv.org/abs/2606.11205

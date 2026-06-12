@@ -4,13 +4,16 @@ category: ai/companies/openai
 source_type: company_blog
 source_name: OpenAI News
 source_url: https://openai.com/news/global-affairs
-published_at: '2026-06-11T18:20:53.917089+00:00'
-collected_at: '2026-06-11T18:20:53.917092+00:00'
+published_at: '2026-06-12T10:40:27.135985+00:00'
+collected_at: '2026-06-12T10:40:27.135988+00:00'
 tags:
 - blog-post
 - openai
 - openai-news
-status: new
+status: active
+id: blog:global-affairs
+first_seen: '2026-06-12T10:40:27.135988+00:00'
+last_seen: '2026-06-12T10:40:27.135988+00:00'
 ---
 
 # Global Affairs
@@ -27,7 +30,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: OpenAI News
 - Article URL: https://openai.com/news/global-affairs
-- Collected At: 2026-06-11T18:20:53.917092+00:00
+- Collected At: 2026-06-12T10:40:27.135988+00:00
 
 ## Related Tags
 

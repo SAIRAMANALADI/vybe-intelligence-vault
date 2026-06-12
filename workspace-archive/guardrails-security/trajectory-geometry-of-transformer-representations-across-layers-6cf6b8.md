@@ -3,16 +3,17 @@ title: "Trajectory Geometry of Transformer Representations Across Layers"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.09287"
-local_vault_path: "ai\research\trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md"
+local_vault_path: "ai/research/trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - meta-ai
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Trajectory Geometry of Transformer Representations Across Layers
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.09287
 
 ## Local Vault File
 
-Path: [trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md](file:///../../ai\research\trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md)
+Path: [trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md](file:///../../ai/research/trajectory-geometry-of-transformer-representations-across-layers-6cf6b8.md)

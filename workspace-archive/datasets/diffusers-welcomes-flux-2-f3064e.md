@@ -3,11 +3,11 @@ title: "Diffusers welcomes FLUX-2"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/flux-2"
-local_vault_path: "ai\models\diffusers-welcomes-flux-2-f3064e.md"
+local_vault_path: "ai/models/diffusers-welcomes-flux-2-f3064e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/flux-2
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-flux-2-f3064e.md](file:///../../ai\models\diffusers-welcomes-flux-2-f3064e.md)
+Path: [diffusers-welcomes-flux-2-f3064e.md](file:///../../ai/models/diffusers-welcomes-flux-2-f3064e.md)

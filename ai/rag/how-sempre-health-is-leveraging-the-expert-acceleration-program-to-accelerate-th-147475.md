@@ -5,11 +5,14 @@ category: ai/rag
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/sempre-health-eap-case-study
-published_at: '2022-05-18T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.331836+00:00'
+published_at: '2022-05-19T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.823728+00:00'
 tags:
 - rag
-status: new
+status: active
+id: huggingface:blog/sempre-health-eap-case-study
+first_seen: '2026-06-12T10:40:08.823728+00:00'
+last_seen: '2026-06-12T10:40:08.823728+00:00'
 ---
 
 # How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap
@@ -20,17 +23,13 @@ No summary provided. Reference resource: How Sempre Health is leveraging the Exp
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/rag
-- Published: 2022-05-18T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2022-05-19T00:00:00+00:00
 
 ## Related Tags
 

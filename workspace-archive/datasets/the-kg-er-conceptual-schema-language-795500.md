@@ -3,7 +3,7 @@ title: "The KG-ER Conceptual Schema Language"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2508.02548"
-local_vault_path: "ai\research\the-kg-er-conceptual-schema-language-795500.md"
+local_vault_path: "ai/research/the-kg-er-conceptual-schema-language-795500.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2508.02548
 
 ## Local Vault File
 
-Path: [the-kg-er-conceptual-schema-language-795500.md](file:///../../ai\research\the-kg-er-conceptual-schema-language-795500.md)
+Path: [the-kg-er-conceptual-schema-language-795500.md](file:///../../ai/research/the-kg-er-conceptual-schema-language-795500.md)

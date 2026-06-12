@@ -3,13 +3,14 @@ title: "DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropol
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11651"
-local_vault_path: "ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md"
+local_vault_path: "ai/research/deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +19,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11651
 
 ## Local Vault File
 
-Path: [deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md](file:///../../ai\research\deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md)
+Path: [deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md](file:///../../ai/research/deeprhp-a-hybrid-variational-autoencoder-for-designing-random-heteropolymers-as-39a52b.md)

@@ -5,10 +5,13 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/train-multimodal-sentence-transformers
-published_at: '2026-04-15T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.323783+00:00'
+published_at: '2026-04-16T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.807356+00:00'
 tags: []
-status: new
+status: active
+id: huggingface:blog/train-multimodal-sentence-transformers
+first_seen: '2026-06-12T10:40:08.807356+00:00'
+last_seen: '2026-06-12T10:40:08.807356+00:00'
 ---
 
 # Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers
@@ -19,17 +22,13 @@ No summary provided. Reference resource: Training and Finetuning Multimodal Embe
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-04-15T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-04-16T00:00:00+00:00
 
 ## Related Tags
 

@@ -3,16 +3,17 @@ title: "Erased but Not Forgotten: How Backdoors Compromise Concept Erasure"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2504.21072"
-local_vault_path: "ai\research\erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md"
+local_vault_path: "ai/research/erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - hackernews
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Erased but Not Forgotten: How Backdoors Compromise Concept Erasure
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2504.21072
 
 ## Local Vault File
 
-Path: [erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md](file:///../../ai\research\erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md)
+Path: [erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md](file:///../../ai/research/erased-but-not-forgotten-how-backdoors-compromise-concept-erasure-20e886.md)

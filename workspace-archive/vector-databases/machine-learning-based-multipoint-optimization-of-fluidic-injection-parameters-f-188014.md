@@ -3,16 +3,17 @@ title: "Machine-learning-based multipoint optimization of fluidic injection para
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2409.12707"
-local_vault_path: "ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md"
+local_vault_path: "ai/rag/machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - paper
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Machine-learning-based multipoint optimization of fluidic injection parameters for improving nozzle performance
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2409.12707
 
 ## Local Vault File
 
-Path: [machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md](file:///../../ai\rag\machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md)
+Path: [machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md](file:///../../ai/rag/machine-learning-based-multipoint-optimization-of-fluidic-injection-parameters-f-188014.md)

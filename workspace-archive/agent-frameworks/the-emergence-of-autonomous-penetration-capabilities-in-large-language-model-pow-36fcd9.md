@@ -3,7 +3,7 @@ title: "The Emergence of Autonomous Penetration Capabilities in Large Language M
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13079"
-local_vault_path: "ai\agents\the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md"
+local_vault_path: "ai/agents/the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13079
 
 ## Local Vault File
 
-Path: [the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md](file:///../../ai\agents\the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md)
+Path: [the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md](file:///../../ai/agents/the-emergence-of-autonomous-penetration-capabilities-in-large-language-model-pow-36fcd9.md)

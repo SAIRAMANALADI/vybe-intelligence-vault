@@ -3,7 +3,7 @@ title: "EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13580"
-local_vault_path: "ai\rag\evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md"
+local_vault_path: "ai/rag/evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13580
 
 ## Local Vault File
 
-Path: [evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md](file:///../../ai\rag\evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md)
+Path: [evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md](file:///../../ai/rag/evtexture-event-driven-texture-enhancement-for-video-super-resolution-da35ea.md)

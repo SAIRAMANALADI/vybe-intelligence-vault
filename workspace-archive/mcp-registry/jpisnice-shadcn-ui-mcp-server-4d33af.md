@@ -3,7 +3,7 @@ title: "Jpisnice/shadcn-ui-mcp-server"
 archive_category: "mcp-registry"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/Jpisnice/shadcn-ui-mcp-server"
-local_vault_path: "web-development\shadcn-ui\jpisnice-shadcn-ui-mcp-server-4d33af.md"
+local_vault_path: "web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server-4d33af.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Jpisnice/shadcn-ui-mcp-server
 
 ## Local Vault File
 
-Path: [jpisnice-shadcn-ui-mcp-server-4d33af.md](file:///../../web-development\shadcn-ui\jpisnice-shadcn-ui-mcp-server-4d33af.md)
+Path: [jpisnice-shadcn-ui-mcp-server-4d33af.md](file:///../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server-4d33af.md)

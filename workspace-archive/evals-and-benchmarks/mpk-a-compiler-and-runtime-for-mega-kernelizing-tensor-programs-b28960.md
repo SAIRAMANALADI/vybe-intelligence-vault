@@ -3,17 +3,18 @@ title: "MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.22219"
-local_vault_path: "ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md"
+local_vault_path: "ai/rag/mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs
@@ -21,11 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2512.22219
 
 ## Local Vault File
 
-Path: [mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md](file:///../../ai\rag\mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md)
+Path: [mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md](file:///../../ai/rag/mpk-a-compiler-and-runtime-for-mega-kernelizing-tensor-programs-b28960.md)

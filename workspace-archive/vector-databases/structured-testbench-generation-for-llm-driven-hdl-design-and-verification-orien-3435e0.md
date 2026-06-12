@@ -3,7 +3,7 @@ title: "Structured Testbench Generation for LLM-Driven HDL Design and Verificati
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12983"
-local_vault_path: "ai\rag\structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md"
+local_vault_path: "ai/rag/structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12983
 
 ## Local Vault File
 
-Path: [structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md](file:///../../ai\rag\structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md)
+Path: [structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md](file:///../../ai/rag/structured-testbench-generation-for-llm-driven-hdl-design-and-verification-orien-3435e0.md)

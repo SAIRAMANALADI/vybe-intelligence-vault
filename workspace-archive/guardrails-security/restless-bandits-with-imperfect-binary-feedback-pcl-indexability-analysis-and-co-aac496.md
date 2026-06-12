@@ -3,12 +3,15 @@ title: "Restless bandits with imperfect binary feedback: PCL-indexability analys
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11192"
-local_vault_path: "ai\research\restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md"
+local_vault_path: "ai/research/restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11192
 
 ## Local Vault File
 
-Path: [restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md](file:///../../ai\research\restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md)
+Path: [restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md](file:///../../ai/research/restless-bandits-with-imperfect-binary-feedback-pcl-indexability-analysis-and-co-aac496.md)

@@ -3,7 +3,7 @@ title: "jlbadano/ig-mcp"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/jlbadano/ig-mcp"
-local_vault_path: "ai\resources\jlbadano-ig-mcp-a933ad.md"
+local_vault_path: "ai/resources/jlbadano-ig-mcp-a933ad.md"
 quality_score: 70
 archive_score: 89
 archive_tier: "essential"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/jlbadano/ig-mcp
 
 ## Local Vault File
 
-Path: [jlbadano-ig-mcp-a933ad.md](file:///../../ai\resources\jlbadano-ig-mcp-a933ad.md)
+Path: [jlbadano-ig-mcp-a933ad.md](file:///../../ai/resources/jlbadano-ig-mcp-a933ad.md)

@@ -3,12 +3,16 @@ title: "Anomalies in Multivariate Time Series Benchmarks Are Mostly Univariate"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.02670"
-local_vault_path: "ai\research\anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md"
+local_vault_path: "ai/research/anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - youtube
 selection_reason:
   - "Useful for project building"
 ---
@@ -25,8 +29,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.02670v3 Announce Type: replace-cross 
-Abstract: Many recent multivariate time series anomaly detection (MTSAD) models incorporate cross-channel modeling, under the implicit assumption that the structure of anomalies may be spread across multiple channels. We evaluate this assumption on eight widely used public benchmarks by introducing a per-segment diagnostic framework that flags, for each labeled anomaly, whether at least one channel deviates individually from its normal history, wh
+arXiv:2606.02670v3 Announce Type: replace 
+Abstract: Many recent multivariate time series anomaly detection (MTSAD) models incorporate cross-channel modeling, under the implicit assumption that the structure of anomalies may be spread across multiple channels. We evaluate this assumption on eight widely used public benchmarks by introducing a per-segment diagnostic framework that flags, for each labeled anomaly, whether at least one channel deviates individually from its normal history, whether
 
 ## Use Cases
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.02670
 
 ## Local Vault File
 
-Path: [anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md](file:///../../ai\research\anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md)
+Path: [anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md](file:///../../ai/research/anomalies-in-multivariate-time-series-benchmarks-are-mostly-univariate-f5cd0d.md)

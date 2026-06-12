@@ -3,7 +3,7 @@ title: "Mental-R1: Aligning LLM Reasoning for Mental Health Assessment"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13176"
-local_vault_path: "ai\rag\mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md"
+local_vault_path: "ai/rag/mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13176
 
 ## Local Vault File
 
-Path: [mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md](file:///../../ai\rag\mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md)
+Path: [mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md](file:///../../ai/rag/mental-r1-aligning-llm-reasoning-for-mental-health-assessment-6cfa91.md)

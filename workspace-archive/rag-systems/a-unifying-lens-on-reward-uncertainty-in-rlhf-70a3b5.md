@@ -3,7 +3,7 @@ title: "A Unifying Lens on Reward Uncertainty in RLHF"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.09073"
-local_vault_path: "ai\research\a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md"
+local_vault_path: "ai/research/a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.09073
 
 ## Local Vault File
 
-Path: [a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md](file:///../../ai\research\a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md)
+Path: [a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md](file:///../../ai/research/a-unifying-lens-on-reward-uncertainty-in-rlhf-70a3b5.md)

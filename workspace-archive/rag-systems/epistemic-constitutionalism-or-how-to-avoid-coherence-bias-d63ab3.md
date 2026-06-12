@@ -3,7 +3,7 @@ title: "Epistemic Constitutionalism Or: how to avoid coherence bias"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14295"
-local_vault_path: "ai\research\epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md"
+local_vault_path: "ai/research/epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.14295
 
 ## Local Vault File
 
-Path: [epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md](file:///../../ai\research\epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md)
+Path: [epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md](file:///../../ai/research/epistemic-constitutionalism-or-how-to-avoid-coherence-bias-d63ab3.md)

@@ -11,14 +11,17 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486250+00:00'
+collected_at: '2026-06-12T10:40:03.107702+00:00'
 tags:
 - agents
 - frontend_ui
 - paper
 - rag
 - workflows
-status: new
+status: active
+id: arxiv:2606.06525
+first_seen: '2026-06-12T10:40:03.107702+00:00'
+last_seen: '2026-06-12T10:40:03.107702+00:00'
 ---
 
 # Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems

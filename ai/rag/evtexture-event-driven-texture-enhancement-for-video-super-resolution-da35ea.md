@@ -10,13 +10,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484455+00:00'
+collected_at: '2026-06-12T10:40:03.105732+00:00'
 tags:
 - dataset
 - paper
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.13580
+first_seen: '2026-06-12T10:40:03.105732+00:00'
+last_seen: '2026-06-12T10:40:03.105732+00:00'
 ---
 
 # EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution

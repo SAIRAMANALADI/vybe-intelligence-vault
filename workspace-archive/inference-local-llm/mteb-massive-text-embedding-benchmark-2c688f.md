@@ -3,12 +3,14 @@ title: "MTEB: Massive Text Embedding Benchmark"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mteb"
-local_vault_path: "ai\models\mteb-massive-text-embedding-benchmark-2c688f.md"
+local_vault_path: "ai/models/mteb-massive-text-embedding-benchmark-2c688f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mteb
 
 ## Local Vault File
 
-Path: [mteb-massive-text-embedding-benchmark-2c688f.md](file:///../../ai\models\mteb-massive-text-embedding-benchmark-2c688f.md)
+Path: [mteb-massive-text-embedding-benchmark-2c688f.md](file:///../../ai/models/mteb-massive-text-embedding-benchmark-2c688f.md)

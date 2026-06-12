@@ -3,7 +3,7 @@ title: "Iterative Visual Thinking: Teaching Vision-Language Models Spatial Self-
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13156"
-local_vault_path: "ai\research\iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md"
+local_vault_path: "ai/research/iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.13156
 
 ## Local Vault File
 
-Path: [iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md](file:///../../ai\research\iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md)
+Path: [iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md](file:///../../ai/research/iterative-visual-thinking-teaching-vision-language-models-spatial-self-correctio-592430.md)

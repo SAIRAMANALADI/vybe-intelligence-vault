@@ -3,12 +3,15 @@ title: "Spectrally Regularized Latent Flow Matching for Turbulence Generation"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11691"
-local_vault_path: "ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md"
+local_vault_path: "ai/research/spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11691
 
 ## Local Vault File
 
-Path: [spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md](file:///../../ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md)
+Path: [spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md](file:///../../ai/research/spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md)

@@ -4,13 +4,16 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/gonzalochale/saas-landing-template
-collected_at: '2026-06-11T08:45:43.851314+00:00'
+collected_at: '2026-06-12T10:40:20.338263+00:00'
 published_at: '2026-06-03T09:37:30Z'
 tags:
 - frontend_ui
 stars: 166
 language: TypeScript
-status: new
+status: active
+id: github:gonzalochale/saas-landing-template
+first_seen: '2026-06-12T10:40:20.338263+00:00'
+last_seen: '2026-06-12T10:40:20.338263+00:00'
 ---
 
 # gonzalochale/saas-landing-template

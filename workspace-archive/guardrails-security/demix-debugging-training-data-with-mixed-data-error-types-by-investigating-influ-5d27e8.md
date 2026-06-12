@@ -3,12 +3,16 @@ title: "DeMix: Debugging Training Data with Mixed Data Error Types by Investigat
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11616"
-local_vault_path: "ai\research\demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md"
+local_vault_path: "ai/research/demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "high"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11616
 
 ## Local Vault File
 
-Path: [demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md](file:///../../ai\research\demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md)
+Path: [demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md](file:///../../ai/research/demix-debugging-training-data-with-mixed-data-error-types-by-investigating-influ-5d27e8.md)

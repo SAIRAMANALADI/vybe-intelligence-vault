@@ -3,7 +3,7 @@ title: "Product Workflows for work that runs the business Workflows is now in pu
 archive_category: "automation-workflows"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/workflows"
-local_vault_path: "ai\companies\mistral\product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md"
+local_vault_path: "ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/workflows
 
 ## Local Vault File
 
-Path: [product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md](file:///../../ai\companies\mistral\product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md)
+Path: [product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business-workflows-is-now-in-public-pre-4ead2f.md)

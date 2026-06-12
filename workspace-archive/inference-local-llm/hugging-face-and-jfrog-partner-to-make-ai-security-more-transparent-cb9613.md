@@ -3,11 +3,11 @@ title: "Hugging Face and JFrog partner to make AI Security more transparent"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/jfrog"
-local_vault_path: "ai\models\hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md"
+local_vault_path: "ai/models/hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md](file:///../../ai\models\hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md)
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md)

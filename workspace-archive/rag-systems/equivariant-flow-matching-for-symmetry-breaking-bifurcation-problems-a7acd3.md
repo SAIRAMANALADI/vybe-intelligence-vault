@@ -3,7 +3,7 @@ title: "Equivariant Flow Matching for Symmetry-Breaking Bifurcation Problems"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2509.03340"
-local_vault_path: "ai\rag\equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md"
+local_vault_path: "ai/rag/equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2509.03340
 
 ## Local Vault File
 
-Path: [equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md](file:///../../ai\rag\equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md)
+Path: [equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md](file:///../../ai/rag/equivariant-flow-matching-for-symmetry-breaking-bifurcation-problems-a7acd3.md)

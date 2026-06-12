@@ -3,7 +3,7 @@ title: "Research Physics AI research that’s shaping the industry. Published br
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/physics-ai-research"
-local_vault_path: "ai\companies\mistral\research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md"
+local_vault_path: "ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/physics-ai-research
 
 ## Local Vault File
 
-Path: [research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md](file:///../../ai\companies\mistral\research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md)
+Path: [research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md](file:///../../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-industry-published-breakthroughs-162773.md)

@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/ektogamat/r3f-webgpu-starter
-collected_at: '2026-06-11T08:45:37.431974+00:00'
-published_at: '2026-05-19T08:46:36Z'
+collected_at: '2026-06-12T10:40:15.865637+00:00'
+published_at: '2026-06-11T11:50:46Z'
 tags:
 - frontend_ui
 - threejs
-stars: 212
+stars: 213
 language: JavaScript
-status: new
+status: active
+id: github:ektogamat/r3f-webgpu-starter
+first_seen: '2026-06-12T10:40:15.865637+00:00'
+last_seen: '2026-06-12T10:40:15.865637+00:00'
 ---
 
 # ektogamat/r3f-webgpu-starter
@@ -27,11 +30,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: ektogamat
-- Stars: 212
+- Stars: 213
 - Forks: 23
 - Language: JavaScript
 - Topics: post-processing, r3f, react, threejs, webgpu
-- Last Updated: 2026-05-19T08:46:36Z
+- Last Updated: 2026-06-11T11:50:46Z
 
 ## Possible Use Cases
 

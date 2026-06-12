@@ -3,7 +3,7 @@ title: "A Minimal Model of Bounded Trade-Off Screening in Multi-Attribute Choice
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13201"
-local_vault_path: "ai\research\a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md"
+local_vault_path: "ai/research/a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.13201
 
 ## Local Vault File
 
-Path: [a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md](file:///../../ai\research\a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md)
+Path: [a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md](file:///../../ai/research/a-minimal-model-of-bounded-trade-off-screening-in-multi-attribute-choice-87caa9.md)

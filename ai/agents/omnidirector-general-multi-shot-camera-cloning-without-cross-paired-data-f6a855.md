@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484186+00:00'
+collected_at: '2026-06-12T10:40:03.105403+00:00'
 tags:
 - agents
 - youtube
-status: new
+status: active
+id: arxiv:2606.13432
+first_seen: '2026-06-12T10:40:03.105403+00:00'
+last_seen: '2026-06-12T10:40:03.105403+00:00'
 ---
 
 # OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data

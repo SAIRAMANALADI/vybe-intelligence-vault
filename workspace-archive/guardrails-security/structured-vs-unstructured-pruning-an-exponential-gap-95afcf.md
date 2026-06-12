@@ -3,7 +3,7 @@ title: "Structured vs. Unstructured Pruning: An Exponential Gap"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.02234"
-local_vault_path: "ai\research\structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md"
+local_vault_path: "ai/research/structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.02234
 
 ## Local Vault File
 
-Path: [structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md](file:///../../ai\research\structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md)
+Path: [structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md](file:///../../ai/research/structured-vs-unstructured-pruning-an-exponential-gap-95afcf.md)

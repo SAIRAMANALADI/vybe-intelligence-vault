@@ -3,16 +3,17 @@ title: "Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modu
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11341"
-local_vault_path: "ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md"
+local_vault_path: "ai/rag/energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "workflow"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - hackernews
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11341
 
 ## Local Vault File
 
-Path: [energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md](file:///../../ai\rag\energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md)
+Path: [energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md](file:///../../ai/rag/energy-conserved-neural-pipelines-attenuating-error-propagation-in-modular-neura-38e79c.md)

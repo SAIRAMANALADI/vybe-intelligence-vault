@@ -3,15 +3,17 @@ title: "Modelling magnetic material properties with uncertainty-aware neural net
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11870"
-local_vault_path: "ai\research\modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md"
+local_vault_path: "ai/research/modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "high"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Modelling magnetic material properties with uncertainty-aware neural networks
@@ -20,10 +22,10 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 84 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11870
 
 ## Local Vault File
 
-Path: [modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md](file:///../../ai\research\modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md)
+Path: [modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md](file:///../../ai/research/modelling-magnetic-material-properties-with-uncertainty-aware-neural-networks-989d06.md)

@@ -3,7 +3,7 @@ title: "Toward Instructions-as-Code: Understanding the Impact of Instruction Fil
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13449"
-local_vault_path: "ai\agents\toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md"
+local_vault_path: "ai/agents/toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13449
 
 ## Local Vault File
 
-Path: [toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md](file:///../../ai\agents\toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md)
+Path: [toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md](file:///../../ai/agents/toward-instructions-as-code-understanding-the-impact-of-instruction-files-on-age-128768.md)

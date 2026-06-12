@@ -3,12 +3,14 @@ title: "Benchmarking Text Generation Inference"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tgi-benchmarking"
-local_vault_path: "ai\models\benchmarking-text-generation-inference-846520.md"
+local_vault_path: "ai/models/benchmarking-text-generation-inference-846520.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -41,4 +43,4 @@ Original source URL: https://huggingface.co/blog/tgi-benchmarking
 
 ## Local Vault File
 
-Path: [benchmarking-text-generation-inference-846520.md](file:///../../ai\models\benchmarking-text-generation-inference-846520.md)
+Path: [benchmarking-text-generation-inference-846520.md](file:///../../ai/models/benchmarking-text-generation-inference-846520.md)

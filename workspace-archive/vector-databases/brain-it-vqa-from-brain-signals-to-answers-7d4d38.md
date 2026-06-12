@@ -3,7 +3,7 @@ title: "Brain-IT-VQA: From Brain Signals to Answers"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.29588"
-local_vault_path: "ai\rag\brain-it-vqa-from-brain-signals-to-answers-7d4d38.md"
+local_vault_path: "ai/rag/brain-it-vqa-from-brain-signals-to-answers-7d4d38.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.29588
 
 ## Local Vault File
 
-Path: [brain-it-vqa-from-brain-signals-to-answers-7d4d38.md](file:///../../ai\rag\brain-it-vqa-from-brain-signals-to-answers-7d4d38.md)
+Path: [brain-it-vqa-from-brain-signals-to-answers-7d4d38.md](file:///../../ai/rag/brain-it-vqa-from-brain-signals-to-answers-7d4d38.md)

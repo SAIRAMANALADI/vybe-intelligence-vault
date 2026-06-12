@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems
-published_at: '2026-06-11T18:21:26.439388+00:00'
-collected_at: '2026-06-11T18:21:26.439401+00:00'
+published_at: '2026-06-12T10:41:05.101976+00:00'
+collected_at: '2026-06-12T10:41:05.101988+00:00'
 tags:
 - agents
 - benchmark
@@ -19,7 +19,10 @@ tags:
 - web-crawled
 - workflows
 - youtube
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:05.101988+00:00'
+last_seen: '2026-06-12T10:41:05.101988+00:00'
 ---
 
 # The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar
@@ -36,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:26.439388+00:00
+- Published: 2026-06-12T10:41:05.101976+00:00
 
 ## Related Tags
 

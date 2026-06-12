@@ -3,7 +3,7 @@ title: "Echo2ECG: Enhancing ECG Representations with Cardiac Morphology from Mul
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.08505"
-local_vault_path: "ai\research\echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md"
+local_vault_path: "ai/research/echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.08505
 
 ## Local Vault File
 
-Path: [echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md](file:///../../ai\research\echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md)
+Path: [echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md](file:///../../ai/research/echo2ecg-enhancing-ecg-representations-with-cardiac-morphology-from-multi-view-e-4328d8.md)

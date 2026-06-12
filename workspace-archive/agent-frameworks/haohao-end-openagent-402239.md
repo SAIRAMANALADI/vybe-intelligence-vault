@@ -3,7 +3,7 @@ title: "Haohao-end/openagent"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/Haohao-end/openagent"
-local_vault_path: "ai\agents\haohao-end-openagent-402239.md"
+local_vault_path: "ai/agents/haohao-end-openagent-402239.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://github.com/Haohao-end/openagent
 
 ## Local Vault File
 
-Path: [haohao-end-openagent-402239.md](file:///../../ai\agents\haohao-end-openagent-402239.md)
+Path: [haohao-end-openagent-402239.md](file:///../../ai/agents/haohao-end-openagent-402239.md)

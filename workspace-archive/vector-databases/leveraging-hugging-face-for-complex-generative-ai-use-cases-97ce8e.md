@@ -3,11 +3,11 @@ title: "Leveraging Hugging Face for complex generative AI use cases"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/writer-case-study"
-local_vault_path: "ai\rag\leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md"
+local_vault_path: "ai/rag/leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - rag
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/writer-case-study
 
 ## Local Vault File
 
-Path: [leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md](file:///../../ai\rag\leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md)
+Path: [leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md](file:///../../ai/rag/leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md)

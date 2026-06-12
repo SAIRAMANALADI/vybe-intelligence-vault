@@ -3,13 +3,16 @@ title: "SpaTeoGL: Spatiotemporal Graph Learning for Interpretable Seizure Onset 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.11801"
-local_vault_path: "ai\research\spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md"
+local_vault_path: "ai/research/spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md"
 quality_score: 70
-archive_score: 80
+archive_score: 84
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "high"
+tags:
+  - dataset
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 80 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.11801
 
 ## Local Vault File
 
-Path: [spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md](file:///../../ai\research\spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md)
+Path: [spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md](file:///../../ai/research/spateogl-spatiotemporal-graph-learning-for-interpretable-seizure-onset-zone-anal-6f2749.md)

@@ -3,7 +3,7 @@ title: "dyronrh/awesome-agentops-landscape"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://github.com/dyronrh/awesome-agentops-landscape"
-local_vault_path: "ai\agents\dyronrh-awesome-agentops-landscape-95f0b2.md"
+local_vault_path: "ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/dyronrh/awesome-agentops-landscape
 
 ## Local Vault File
 
-Path: [dyronrh-awesome-agentops-landscape-95f0b2.md](file:///../../ai\agents\dyronrh-awesome-agentops-landscape-95f0b2.md)
+Path: [dyronrh-awesome-agentops-landscape-95f0b2.md](file:///../../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md)

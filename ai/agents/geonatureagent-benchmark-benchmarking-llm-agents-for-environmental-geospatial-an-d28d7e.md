@@ -11,7 +11,7 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481068+00:00'
+collected_at: '2026-06-12T10:40:03.101916+00:00'
 tags:
 - agents
 - anthropic
@@ -20,7 +20,10 @@ tags:
 - meta-ai
 - models
 - workflows
-status: new
+status: active
+id: arxiv:2606.12821
+first_seen: '2026-06-12T10:40:03.101916+00:00'
+last_seen: '2026-06-12T10:40:03.101916+00:00'
 ---
 
 # GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models

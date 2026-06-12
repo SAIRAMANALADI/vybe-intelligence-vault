@@ -3,14 +3,14 @@ title: "Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic Vie
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.05573"
-local_vault_path: "ai\research\why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md"
+local_vault_path: "ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Why Depth Matters in Parallelizable Sequence Models: A Lie Algebraic View
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2603.05573
 
 ## Local Vault File
 
-Path: [why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md](file:///../../ai\research\why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)
+Path: [why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md](file:///../../ai/research/why-depth-matters-in-parallelizable-sequence-models-a-lie-algebraic-view-de7724.md)

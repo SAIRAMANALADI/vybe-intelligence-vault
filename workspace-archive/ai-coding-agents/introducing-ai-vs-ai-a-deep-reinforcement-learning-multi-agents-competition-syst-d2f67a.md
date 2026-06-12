@@ -3,11 +3,11 @@ title: "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/aivsai"
-local_vault_path: "ai\agents\introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md"
+local_vault_path: "ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - agents
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai\agents\introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md)

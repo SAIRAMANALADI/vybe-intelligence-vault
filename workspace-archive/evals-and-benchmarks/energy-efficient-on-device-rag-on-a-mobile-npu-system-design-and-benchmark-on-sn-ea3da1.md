@@ -3,18 +3,20 @@ title: "Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchm
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11257"
-local_vault_path: "ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md"
+local_vault_path: "ai/rag/energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - models
+  - openai
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite
@@ -23,10 +25,10 @@ selection_reason:
 
 - Matched archive category: `Evals and Benchmarks`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.11257
 
 ## Local Vault File
 
-Path: [energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md](file:///../../ai\rag\energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md)
+Path: [energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md](file:///../../ai/rag/energy-efficient-on-device-rag-on-a-mobile-npu-system-design-and-benchmark-on-sn-ea3da1.md)

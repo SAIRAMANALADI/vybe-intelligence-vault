@@ -3,11 +3,11 @@ title: "Sentiment Analysis on Encrypted Data with Homomorphic Encryption"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sentiment-analysis-fhe"
-local_vault_path: "ai\models\sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md"
+local_vault_path: "ai/models/sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-fhe
 
 ## Local Vault File
 
-Path: [sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md](file:///../../ai\models\sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md)
+Path: [sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md](file:///../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorphic-encryption-568119.md)

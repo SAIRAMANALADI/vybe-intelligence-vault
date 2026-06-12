@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-published_at: '2026-06-11T18:21:40.555506+00:00'
-collected_at: '2026-06-11T18:21:40.555518+00:00'
+published_at: '2026-06-12T10:41:11.033031+00:00'
+collected_at: '2026-06-12T10:41:11.033043+00:00'
 tags:
 - agents
 - anthropic
@@ -24,7 +24,10 @@ tags:
 - threejs
 - web-crawled
 - workflows
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:11.033043+00:00'
+last_seen: '2026-06-12T10:41:11.033043+00:00'
 ---
 
 # 7 Best GitHub Repositories For Mastering RAG Systems
@@ -41,7 +44,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:40.555506+00:00
+- Published: 2026-06-12T10:41:11.033031+00:00
 
 ## Related Tags
 

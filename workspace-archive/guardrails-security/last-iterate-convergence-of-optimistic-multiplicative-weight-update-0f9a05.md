@@ -3,16 +3,18 @@ title: "Last-Iterate Convergence of Optimistic Multiplicative Weight Update"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11773"
-local_vault_path: "ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md"
+local_vault_path: "ai/research/last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - openai
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Last-Iterate Convergence of Optimistic Multiplicative Weight Update
@@ -21,9 +23,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11773
 
 ## Local Vault File
 
-Path: [last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md](file:///../../ai\research\last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md)
+Path: [last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md](file:///../../ai/research/last-iterate-convergence-of-optimistic-multiplicative-weight-update-0f9a05.md)

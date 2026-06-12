@@ -3,7 +3,7 @@ title: "iris-eval/mcp-server"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/iris-eval/mcp-server"
-local_vault_path: "ai\agents\iris-eval-mcp-server-ae72c8.md"
+local_vault_path: "ai/agents/iris-eval-mcp-server-ae72c8.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/iris-eval/mcp-server
 
 ## Local Vault File
 
-Path: [iris-eval-mcp-server-ae72c8.md](file:///../../ai\agents\iris-eval-mcp-server-ae72c8.md)
+Path: [iris-eval-mcp-server-ae72c8.md](file:///../../ai/agents/iris-eval-mcp-server-ae72c8.md)

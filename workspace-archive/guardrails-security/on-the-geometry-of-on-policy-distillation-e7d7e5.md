@@ -3,16 +3,17 @@ title: "On the Geometry of On-Policy Distillation"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07082"
-local_vault_path: "ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md"
+local_vault_path: "ai/research/on-the-geometry-of-on-policy-distillation-e7d7e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "api"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - youtube
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # On the Geometry of On-Policy Distillation
@@ -21,14 +22,14 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: api
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.07082v2 Announce Type: replace-cross 
-Abstract: On-policy distillation (OPD) is increasingly used to improve large language model reasoning, but its training dynamics remain poorly understood. We characterize the trajectory of OPD updates in parameter space and compare it with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR). A suite of parameter-space diagnostics consistently places OPD in a relaxed off-principal regime: compared with SFT, its up
+arXiv:2606.07082v2 Announce Type: replace 
+Abstract: On-policy distillation (OPD) is increasingly used to improve large language model reasoning, but its training dynamics remain poorly understood. We characterize the trajectory of OPD updates in parameter space and compare it with supervised fine-tuning (SFT) and reinforcement learning with verifiable rewards (RLVR). A suite of parameter-space diagnostics consistently places OPD in a relaxed off-principal regime: compared with SFT, its updates
 
 ## Use Cases
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.07082
 
 ## Local Vault File
 
-Path: [on-the-geometry-of-on-policy-distillation-e7d7e5.md](file:///../../ai\research\on-the-geometry-of-on-policy-distillation-e7d7e5.md)
+Path: [on-the-geometry-of-on-policy-distillation-e7d7e5.md](file:///../../ai/research/on-the-geometry-of-on-policy-distillation-e7d7e5.md)

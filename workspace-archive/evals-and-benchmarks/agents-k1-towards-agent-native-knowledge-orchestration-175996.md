@@ -3,7 +3,7 @@ title: "Agents-K1: Towards Agent-native Knowledge Orchestration"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13669"
-local_vault_path: "ai\agents\agents-k1-towards-agent-native-knowledge-orchestration-175996.md"
+local_vault_path: "ai/agents/agents-k1-towards-agent-native-knowledge-orchestration-175996.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13669
 
 ## Local Vault File
 
-Path: [agents-k1-towards-agent-native-knowledge-orchestration-175996.md](file:///../../ai\agents\agents-k1-towards-agent-native-knowledge-orchestration-175996.md)
+Path: [agents-k1-towards-agent-native-knowledge-orchestration-175996.md](file:///../../ai/agents/agents-k1-towards-agent-native-knowledge-orchestration-175996.md)

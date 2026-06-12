@@ -3,7 +3,7 @@ title: "Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking T
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13016"
-local_vault_path: "ai\rag\otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md"
+local_vault_path: "ai/rag/otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13016
 
 ## Local Vault File
 
-Path: [otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md](file:///../../ai\rag\otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md)
+Path: [otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md](file:///../../ai/rag/otters-a-time-to-first-spike-based-energy-efficient-optical-spiking-transformer-b336e6.md)

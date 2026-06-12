@@ -3,11 +3,11 @@ title: "Results of the Open Source AI Game Jam"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/game-jam-first-edition-results"
-local_vault_path: "ai\models\results-of-the-open-source-ai-game-jam-3f05dc.md"
+local_vault_path: "ai/models/results-of-the-open-source-ai-game-jam-3f05dc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [results-of-the-open-source-ai-game-jam-3f05dc.md](file:///../../ai\models\results-of-the-open-source-ai-game-jam-3f05dc.md)
+Path: [results-of-the-open-source-ai-game-jam-3f05dc.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam-3f05dc.md)

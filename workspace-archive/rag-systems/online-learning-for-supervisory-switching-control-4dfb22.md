@@ -3,17 +3,17 @@ title: "Online Learning for Supervisory Switching Control"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.14762"
-local_vault_path: "ai\rag\online-learning-for-supervisory-switching-control-4dfb22.md"
+local_vault_path: "ai/rag/online-learning-for-supervisory-switching-control-4dfb22.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Online Learning for Supervisory Switching Control
@@ -22,10 +22,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.14762
 
 ## Local Vault File
 
-Path: [online-learning-for-supervisory-switching-control-4dfb22.md](file:///../../ai\rag\online-learning-for-supervisory-switching-control-4dfb22.md)
+Path: [online-learning-for-supervisory-switching-control-4dfb22.md](file:///../../ai/rag/online-learning-for-supervisory-switching-control-4dfb22.md)

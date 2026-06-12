@@ -3,7 +3,7 @@ title: "CMI-RewardBench: Evaluating Music Reward Models with Compositional Multi
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.00610"
-local_vault_path: "ai\rag\cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md"
+local_vault_path: "ai/rag/cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2603.00610
 
 ## Local Vault File
 
-Path: [cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md](file:///../../ai\rag\cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md)
+Path: [cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md](file:///../../ai/rag/cmi-rewardbench-evaluating-music-reward-models-with-compositional-multimodal-ins-0841d5.md)

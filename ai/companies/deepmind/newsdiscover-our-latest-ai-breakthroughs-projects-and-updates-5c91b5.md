@@ -4,14 +4,17 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog
-published_at: '2026-06-11T18:20:58.249765+00:00'
-collected_at: '2026-06-11T18:20:58.249767+00:00'
+published_at: '2026-06-12T10:40:33.379298+00:00'
+collected_at: '2026-06-12T10:40:33.379300+00:00'
 tags:
 - blog-post
 - deepmind
 - google-deepmind-blog
 - reddit
-status: new
+status: active
+id: blog:newsdiscover-our-latest-ai-breakthroughs-projects
+first_seen: '2026-06-12T10:40:33.379300+00:00'
+last_seen: '2026-06-12T10:40:33.379300+00:00'
 ---
 
 # NewsDiscover our latest AI breakthroughs, projects, and updates
@@ -28,7 +31,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog
-- Collected At: 2026-06-11T18:20:58.249767+00:00
+- Collected At: 2026-06-12T10:40:33.379300+00:00
 
 ## Related Tags
 

@@ -3,7 +3,7 @@ title: "WildIFEval: Instruction Following in the Wild"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2503.06573"
-local_vault_path: "ai\rag\wildifeval-instruction-following-in-the-wild-3c3bba.md"
+local_vault_path: "ai/rag/wildifeval-instruction-following-in-the-wild-3c3bba.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2503.06573
 
 ## Local Vault File
 
-Path: [wildifeval-instruction-following-in-the-wild-3c3bba.md](file:///../../ai\rag\wildifeval-instruction-following-in-the-wild-3c3bba.md)
+Path: [wildifeval-instruction-following-in-the-wild-3c3bba.md](file:///../../ai/rag/wildifeval-instruction-following-in-the-wild-3c3bba.md)

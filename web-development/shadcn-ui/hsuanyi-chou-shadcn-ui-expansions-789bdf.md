@@ -4,13 +4,16 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/hsuanyi-chou/shadcn-ui-expansions
-collected_at: '2026-06-11T08:45:48.578440+00:00'
+collected_at: '2026-06-12T10:40:21.841575+00:00'
 published_at: '2026-06-02T13:54:38Z'
 tags:
 - frontend_ui
 stars: 1925
 language: TypeScript
-status: new
+status: active
+id: github:hsuanyi-chou/shadcn-ui-expansions
+first_seen: '2026-06-12T10:40:21.841575+00:00'
+last_seen: '2026-06-12T10:40:21.841575+00:00'
 ---
 
 # hsuanyi-chou/shadcn-ui-expansions

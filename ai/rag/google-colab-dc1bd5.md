@@ -4,12 +4,15 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb
-published_at: '2026-06-11T18:21:26.905450+00:00'
-collected_at: '2026-06-11T18:21:26.905462+00:00'
+published_at: '2026-06-12T10:41:11.308042+00:00'
+collected_at: '2026-06-12T10:41:11.308052+00:00'
 tags:
 - rag
 - web-crawled
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:11.308052+00:00'
+last_seen: '2026-06-12T10:41:11.308052+00:00'
 ---
 
 # Google Colab
@@ -26,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:26.905450+00:00
+- Published: 2026-06-12T10:41:11.308042+00:00
 
 ## Related Tags
 

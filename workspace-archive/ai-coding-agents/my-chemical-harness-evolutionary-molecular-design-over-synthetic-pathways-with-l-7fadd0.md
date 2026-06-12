@@ -3,7 +3,7 @@ title: "My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathwa
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11256"
-local_vault_path: "ai\agents\my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md"
+local_vault_path: "ai/agents/my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "template"
 importance: "medium"
 tags:
   - agents
+  - frontend_ui
   - models
 selection_reason:
   - "Useful for project building"
@@ -43,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11256
 
 ## Local Vault File
 
-Path: [my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md](file:///../../ai\agents\my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md)
+Path: [my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md](file:///../../ai/agents/my-chemical-harness-evolutionary-molecular-design-over-synthetic-pathways-with-l-7fadd0.md)

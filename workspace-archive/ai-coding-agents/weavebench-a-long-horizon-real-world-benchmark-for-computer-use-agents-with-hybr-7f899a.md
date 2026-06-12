@@ -3,7 +3,7 @@ title: "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.09426"
-local_vault_path: "ai\agents\weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md"
+local_vault_path: "ai/agents/weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.09426
 
 ## Local Vault File
 
-Path: [weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md](file:///../../ai\agents\weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md)
+Path: [weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md](file:///../../ai/agents/weavebench-a-long-horizon-real-world-benchmark-for-computer-use-agents-with-hybr-7f899a.md)

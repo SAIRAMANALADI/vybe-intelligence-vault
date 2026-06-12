@@ -3,12 +3,14 @@ title: "CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity 
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-llamaguard"
-local_vault_path: "ai\models\cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md"
+local_vault_path: "ai/models/cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Useful for project building"
 ---
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md](file:///../../ai\models\cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md)
+Path: [cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md)

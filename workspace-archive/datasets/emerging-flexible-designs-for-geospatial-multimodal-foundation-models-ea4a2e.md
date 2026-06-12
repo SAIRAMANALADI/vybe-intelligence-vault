@@ -3,7 +3,7 @@ title: "Emerging Flexible Designs for Geospatial Multimodal Foundation Models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12595"
-local_vault_path: "ai\research\emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md"
+local_vault_path: "ai/research/emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12595
 
 ## Local Vault File
 
-Path: [emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md](file:///../../ai\research\emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md)
+Path: [emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md](file:///../../ai/research/emerging-flexible-designs-for-geospatial-multimodal-foundation-models-ea4a2e.md)

@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/emmelleppi/r3f-cheers
-collected_at: '2026-06-11T08:45:37.431981+00:00'
+collected_at: '2026-06-12T10:40:15.865648+00:00'
 published_at: '2026-05-05T19:14:56Z'
 tags:
 - frontend_ui
 - threejs
 stars: 61
 language: JavaScript
-status: new
+status: active
+id: github:emmelleppi/r3f-cheers
+first_seen: '2026-06-12T10:40:15.865648+00:00'
+last_seen: '2026-06-12T10:40:15.865648+00:00'
 ---
 
 # emmelleppi/r3f-cheers

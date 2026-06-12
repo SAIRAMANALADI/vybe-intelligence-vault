@@ -3,7 +3,7 @@ title: "alphardex/kokomi.js"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/alphardex/kokomi.js"
-local_vault_path: "web-development\threejs\alphardex-kokomi-js-844401.md"
+local_vault_path: "web-development/threejs/alphardex-kokomi-js-844401.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/alphardex/kokomi.js
 
 ## Local Vault File
 
-Path: [alphardex-kokomi-js-844401.md](file:///../../web-development\threejs\alphardex-kokomi-js-844401.md)
+Path: [alphardex-kokomi-js-844401.md](file:///../../web-development/threejs/alphardex-kokomi-js-844401.md)

@@ -3,14 +3,14 @@ title: "RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillati
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11709"
-local_vault_path: "ai\research\rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md"
+local_vault_path: "ai/research/rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # RLCSD: Reinforcement Learning with Contrastive On-Policy Self-Distillation
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11709
 
 ## Local Vault File
 
-Path: [rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md](file:///../../ai\research\rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md)
+Path: [rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md](file:///../../ai/research/rlcsd-reinforcement-learning-with-contrastive-on-policy-self-distillation-2f940c.md)

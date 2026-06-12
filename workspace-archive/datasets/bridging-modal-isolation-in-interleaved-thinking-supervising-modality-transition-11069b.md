@@ -3,7 +3,7 @@ title: "Bridging Modal Isolation in Interleaved Thinking: Supervising Modality T
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12886"
-local_vault_path: "ai\research\bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md"
+local_vault_path: "ai/research/bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12886
 
 ## Local Vault File
 
-Path: [bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md](file:///../../ai\research\bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md)
+Path: [bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md](file:///../../ai/research/bridging-modal-isolation-in-interleaved-thinking-supervising-modality-transition-11069b.md)

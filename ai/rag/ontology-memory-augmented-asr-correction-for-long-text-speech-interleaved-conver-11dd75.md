@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484218+00:00'
+collected_at: '2026-06-12T10:40:03.105437+00:00'
 tags:
 - dataset
 - rag
-status: new
+status: active
+id: arxiv:2606.13464
+first_seen: '2026-06-12T10:40:03.105437+00:00'
+last_seen: '2026-06-12T10:40:03.105437+00:00'
 ---
 
 # Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations

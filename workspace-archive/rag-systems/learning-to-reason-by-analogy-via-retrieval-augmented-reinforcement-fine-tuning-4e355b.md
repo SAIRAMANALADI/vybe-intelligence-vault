@@ -3,7 +3,7 @@ title: "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13680"
-local_vault_path: "ai\rag\learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md"
+local_vault_path: "ai/rag/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13680
 
 ## Local Vault File
 
-Path: [learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md](file:///../../ai\rag\learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md)
+Path: [learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md](file:///../../ai/rag/learning-to-reason-by-analogy-via-retrieval-augmented-reinforcement-fine-tuning-4e355b.md)

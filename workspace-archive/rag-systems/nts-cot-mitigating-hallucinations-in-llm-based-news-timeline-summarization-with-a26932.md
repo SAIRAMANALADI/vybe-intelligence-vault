@@ -3,7 +3,7 @@ title: "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarizat
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13171"
-local_vault_path: "ai\rag\nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md"
+local_vault_path: "ai/rag/nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13171
 
 ## Local Vault File
 
-Path: [nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md](file:///../../ai\rag\nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md)
+Path: [nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md](file:///../../ai/rag/nts-cot-mitigating-hallucinations-in-llm-based-news-timeline-summarization-with-a26932.md)

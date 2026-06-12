@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484138+00:00'
+collected_at: '2026-06-12T10:40:03.105348+00:00'
 tags:
 - agents
 - benchmark
 - hackernews
-status: new
+status: active
+id: arxiv:2606.13385
+first_seen: '2026-06-12T10:40:03.105348+00:00'
+last_seen: '2026-06-12T10:40:03.105348+00:00'
 ---
 
 # Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents

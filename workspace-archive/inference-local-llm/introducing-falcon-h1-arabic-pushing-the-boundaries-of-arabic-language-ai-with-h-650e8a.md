@@ -3,7 +3,7 @@ title: "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language 
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/falcon-h1-arabic"
-local_vault_path: "ai\models\introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md"
+local_vault_path: "ai/models/introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-h1-arabic
 
 ## Local Vault File
 
-Path: [introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md](file:///../../ai\models\introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md)
+Path: [introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md](file:///../../ai/models/introducing-falcon-h1-arabic-pushing-the-boundaries-of-arabic-language-ai-with-h-650e8a.md)

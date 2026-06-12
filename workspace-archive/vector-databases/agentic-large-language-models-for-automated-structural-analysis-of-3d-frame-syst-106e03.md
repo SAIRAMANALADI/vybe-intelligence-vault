@@ -3,7 +3,7 @@ title: "Agentic Large Language Models for Automated Structural Analysis of 3D Fr
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.06525"
-local_vault_path: "ai\rag\agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md"
+local_vault_path: "ai/rag/agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.06525
 
 ## Local Vault File
 
-Path: [agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md](file:///../../ai\rag\agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md)
+Path: [agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md](file:///../../ai/rag/agentic-large-language-models-for-automated-structural-analysis-of-3d-frame-syst-106e03.md)

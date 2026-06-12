@@ -3,9 +3,9 @@ title: "UniIntervene: Agentic Intervention for Efficient Real-World Reinforcemen
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12372"
-local_vault_path: "ai\rag\uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md"
+local_vault_path: "ai/rag/uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
@@ -23,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12372
 
 ## Local Vault File
 
-Path: [uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md](file:///../../ai\rag\uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md)
+Path: [uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md](file:///../../ai/rag/uniintervene-agentic-intervention-for-efficient-real-world-reinforcement-learnin-27330f.md)

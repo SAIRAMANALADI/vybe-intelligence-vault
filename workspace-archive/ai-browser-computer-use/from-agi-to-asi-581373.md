@@ -3,7 +3,7 @@ title: "From AGI to ASI"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12683"
-local_vault_path: "ai\agents\from-agi-to-asi-581373.md"
+local_vault_path: "ai/agents/from-agi-to-asi-581373.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12683
 
 ## Local Vault File
 
-Path: [from-agi-to-asi-581373.md](file:///../../ai\agents\from-agi-to-asi-581373.md)
+Path: [from-agi-to-asi-581373.md](file:///../../ai/agents/from-agi-to-asi-581373.md)

@@ -3,7 +3,7 @@ title: "onejune2018/Awesome-LLM-Eval"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://github.com/onejune2018/Awesome-LLM-Eval"
-local_vault_path: "ai\rag\onejune2018-awesome-llm-eval-7498e7.md"
+local_vault_path: "ai/rag/onejune2018-awesome-llm-eval-7498e7.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://github.com/onejune2018/Awesome-LLM-Eval
 
 ## Local Vault File
 
-Path: [onejune2018-awesome-llm-eval-7498e7.md](file:///../../ai\rag\onejune2018-awesome-llm-eval-7498e7.md)
+Path: [onejune2018-awesome-llm-eval-7498e7.md](file:///../../ai/rag/onejune2018-awesome-llm-eval-7498e7.md)

@@ -3,7 +3,7 @@ title: "nottelabs/open-operator-evals"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/nottelabs/open-operator-evals"
-local_vault_path: "ai\agents\nottelabs-open-operator-evals-3ce9be.md"
+local_vault_path: "ai/agents/nottelabs-open-operator-evals-3ce9be.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/nottelabs/open-operator-evals
 
 ## Local Vault File
 
-Path: [nottelabs-open-operator-evals-3ce9be.md](file:///../../ai\agents\nottelabs-open-operator-evals-3ce9be.md)
+Path: [nottelabs-open-operator-evals-3ce9be.md](file:///../../ai/agents/nottelabs-open-operator-evals-3ce9be.md)

@@ -5,10 +5,14 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/community-evals
-published_at: '2026-02-03T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.324056+00:00'
-tags: []
-status: new
+published_at: '2026-02-04T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.808075+00:00'
+tags:
+- leaderboard
+status: active
+id: huggingface:blog/community-evals
+first_seen: '2026-06-12T10:40:08.808075+00:00'
+last_seen: '2026-06-12T10:40:08.808075+00:00'
 ---
 
 # Community Evals: Because we're done trusting black-box leaderboards over the community
@@ -19,21 +23,17 @@ No summary provided. Reference resource: Community Evals: Because we're done tru
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-02-03T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-02-04T00:00:00+00:00
 
 ## Related Tags
 
-- None
+- leaderboard
 
 ## Source
 

@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482395+00:00'
+collected_at: '2026-06-12T10:40:03.103366+00:00'
 tags:
 - benchmark
-status: new
+status: active
+id: arxiv:2606.12439
+first_seen: '2026-06-12T10:40:03.103366+00:00'
+last_seen: '2026-06-12T10:40:03.103366+00:00'
 ---
 
 # Position: Generative Engine Optimization Creates Underexamined Risks, Governance Must Target Concentration, Disclosure, and Academic Blind Spots

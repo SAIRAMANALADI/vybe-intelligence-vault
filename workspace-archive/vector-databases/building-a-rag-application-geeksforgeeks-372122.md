@@ -3,7 +3,7 @@ title: "Building a RAG Application - GeeksforGeeks"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/data-science/building-a-rag-application"
-local_vault_path: "ai\rag\building-a-rag-application-geeksforgeeks-372122.md"
+local_vault_path: "ai/rag/building-a-rag-application-geeksforgeeks-372122.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-CoursesTutorialsPracticeJobsData Science TutorialMathsStatisticsBig DataMachine LearningAINumPyPandasData AnalysisDeep LearningData MiningComputer VisionShare Your ExperiencesIntroduction to Machine LearningWhat is Data Science?Top 25 Python Librarie...
+CoursesTutorialsInterview PrepData Science TutorialMathsStatisticsBig DataMachine LearningAINumPyPandasData AnalysisDeep LearningData MiningComputer VisionBuilding a RAG ApplicationLast Updated : 21 Jun, 2025Retrieval-Augmented Generation (RAG) is a ...
 
 ## Use Cases
 
@@ -47,4 +47,4 @@ Original source URL: https://www.geeksforgeeks.org/data-science/building-a-rag-a
 
 ## Local Vault File
 
-Path: [building-a-rag-application-geeksforgeeks-372122.md](file:///../../ai\rag\building-a-rag-application-geeksforgeeks-372122.md)
+Path: [building-a-rag-application-geeksforgeeks-372122.md](file:///../../ai/rag/building-a-rag-application-geeksforgeeks-372122.md)

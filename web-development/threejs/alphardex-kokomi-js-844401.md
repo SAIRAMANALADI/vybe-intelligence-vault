@@ -4,13 +4,16 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/alphardex/kokomi.js
-collected_at: '2026-06-11T08:45:35.488552+00:00'
+collected_at: '2026-06-12T10:40:14.585969+00:00'
 published_at: '2026-05-14T07:07:11Z'
 tags:
 - threejs
 stars: 512
 language: JavaScript
-status: new
+status: active
+id: github:alphardex/kokomi.js
+first_seen: '2026-06-12T10:40:14.585969+00:00'
+last_seen: '2026-06-12T10:40:14.585969+00:00'
 ---
 
 # alphardex/kokomi.js

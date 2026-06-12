@@ -3,17 +3,17 @@ title: "Semantic search for 100M+ galaxy images using AI-generated captions"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2512.11982"
-local_vault_path: "ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md"
+local_vault_path: "ai/rag/semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "workflow"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Semantic search for 100M+ galaxy images using AI-generated captions
@@ -22,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: workflow
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2512.11982
 
 ## Local Vault File
 
-Path: [semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md](file:///../../ai\rag\semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)
+Path: [semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md](file:///../../ai/rag/semantic-search-for-100m-galaxy-images-using-ai-generated-captions-49b6b8.md)

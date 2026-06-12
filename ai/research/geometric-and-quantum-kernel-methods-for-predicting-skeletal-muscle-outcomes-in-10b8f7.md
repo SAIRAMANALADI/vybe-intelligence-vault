@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485490+00:00'
+collected_at: '2026-06-12T10:40:03.106864+00:00'
 tags:
 - benchmark
-status: new
+status: active
+id: arxiv:2601.00921
+first_seen: '2026-06-12T10:40:03.106864+00:00'
+last_seen: '2026-06-12T10:40:03.106864+00:00'
 ---
 
 # Geometric and Quantum Kernel Methods for Predicting Skeletal Muscle Outcomes in chronic obstructive pulmonary disease

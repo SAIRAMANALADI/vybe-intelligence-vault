@@ -3,12 +3,15 @@ title: "Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12346"
-local_vault_path: "ai\research\atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md"
+local_vault_path: "ai/research/atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - hackernews
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12346
 
 ## Local Vault File
 
-Path: [atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md](file:///../../ai\research\atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md)
+Path: [atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md](file:///../../ai/research/atlas-h-e-tme-scalable-ai-based-tissue-profiling-at-expert-pathologist-level-acc-a40750.md)

@@ -10,10 +10,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486313+00:00'
+collected_at: '2026-06-12T10:40:03.107775+00:00'
 tags:
 - rag
-status: new
+status: active
+id: arxiv:2606.10683
+first_seen: '2026-06-12T10:40:03.107775+00:00'
+last_seen: '2026-06-12T10:40:03.107775+00:00'
 ---
 
 # UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data

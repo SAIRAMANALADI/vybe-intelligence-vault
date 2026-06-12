@@ -3,11 +3,11 @@ title: "Fine-Tuning Gemma Models in Hugging Face"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma-peft"
-local_vault_path: "ai\models\fine-tuning-gemma-models-in-hugging-face-cf841d.md"
+local_vault_path: "ai/models/fine-tuning-gemma-models-in-hugging-face-cf841d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 tags:
   - models
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gemma-peft
 
 ## Local Vault File
 
-Path: [fine-tuning-gemma-models-in-hugging-face-cf841d.md](file:///../../ai\models\fine-tuning-gemma-models-in-hugging-face-cf841d.md)
+Path: [fine-tuning-gemma-models-in-hugging-face-cf841d.md](file:///../../ai/models/fine-tuning-gemma-models-in-hugging-face-cf841d.md)

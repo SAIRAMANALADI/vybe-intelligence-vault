@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482849+00:00'
+collected_at: '2026-06-12T10:40:03.103949+00:00'
 tags:
 - benchmark
 - models
 - paper
-status: new
+status: active
+id: arxiv:2606.12690
+first_seen: '2026-06-12T10:40:03.103949+00:00'
+last_seen: '2026-06-12T10:40:03.103949+00:00'
 ---
 
 # EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation in Embodied Intelligence

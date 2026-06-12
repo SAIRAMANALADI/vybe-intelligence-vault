@@ -3,7 +3,7 @@ title: "Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/habana-gaudi-2-benchmark"
-local_vault_path: "ai\models\faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md"
+local_vault_path: "ai/models/faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-benchmark
 
 ## Local Vault File
 
-Path: [faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md](file:///../../ai\models\faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md)
+Path: [faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md](file:///../../ai/models/faster-training-and-inference-habana-gaudi-r-2-vs-nvidia-a100-80gb-170aa0.md)

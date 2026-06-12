@@ -3,7 +3,7 @@ title: "Hellinger Multimodal Variational Autoencoders"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.06572"
-local_vault_path: "ai\rag\hellinger-multimodal-variational-autoencoders-460ab6.md"
+local_vault_path: "ai/rag/hellinger-multimodal-variational-autoencoders-460ab6.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.06572
 
 ## Local Vault File
 
-Path: [hellinger-multimodal-variational-autoencoders-460ab6.md](file:///../../ai\rag\hellinger-multimodal-variational-autoencoders-460ab6.md)
+Path: [hellinger-multimodal-variational-autoencoders-460ab6.md](file:///../../ai/rag/hellinger-multimodal-variational-autoencoders-460ab6.md)

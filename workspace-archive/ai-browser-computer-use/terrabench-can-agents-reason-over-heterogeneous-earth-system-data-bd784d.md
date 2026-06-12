@@ -3,7 +3,7 @@ title: "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13148"
-local_vault_path: "ai\agents\terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md"
+local_vault_path: "ai/agents/terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13148
 
 ## Local Vault File
 
-Path: [terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md](file:///../../ai\agents\terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md)
+Path: [terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md](file:///../../ai/agents/terrabench-can-agents-reason-over-heterogeneous-earth-system-data-bd784d.md)

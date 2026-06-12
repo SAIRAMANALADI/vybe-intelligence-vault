@@ -3,7 +3,7 @@ title: "MOSAIC: Modality-Specific Adaptation for Incremental Continual Learning 
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13258"
-local_vault_path: "ai\rag\mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md"
+local_vault_path: "ai/rag/mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13258
 
 ## Local Vault File
 
-Path: [mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md](file:///../../ai\rag\mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md)
+Path: [mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md](file:///../../ai/rag/mosaic-modality-specific-adaptation-for-incremental-continual-learning-in-parkin-89f5fa.md)

@@ -4,14 +4,17 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/wrongakram/framermotion-react-router
-collected_at: '2026-06-11T08:45:41.211811+00:00'
+collected_at: '2026-06-12T10:40:18.782878+00:00'
 published_at: '2026-05-22T15:58:58Z'
 tags:
 - animation
 - frontend_ui
 stars: 182
 language: JavaScript
-status: new
+status: active
+id: github:wrongakram/framermotion-react-router
+first_seen: '2026-06-12T10:40:18.782878+00:00'
+last_seen: '2026-06-12T10:40:18.782878+00:00'
 ---
 
 # wrongakram/framermotion-react-router

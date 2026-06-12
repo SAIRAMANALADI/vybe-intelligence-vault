@@ -3,7 +3,7 @@ title: "TetherCache: Stabilizing Autoregressive Long-Form Video Generation with 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13035"
-local_vault_path: "ai\research\tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md"
+local_vault_path: "ai/research/tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13035
 
 ## Local Vault File
 
-Path: [tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md](file:///../../ai\research\tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md)
+Path: [tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md](file:///../../ai/research/tethercache-stabilizing-autoregressive-long-form-video-generation-with-gated-rec-506f7e.md)

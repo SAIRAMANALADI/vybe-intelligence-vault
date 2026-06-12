@@ -3,7 +3,7 @@ title: "Learning What to Remember: A Cognitively Grounded Multi-Factor Value Mod
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12945"
-local_vault_path: "ai\agents\learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md"
+local_vault_path: "ai/agents/learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12945
 
 ## Local Vault File
 
-Path: [learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md](file:///../../ai\agents\learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md)
+Path: [learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md](file:///../../ai/agents/learning-what-to-remember-a-cognitively-grounded-multi-factor-value-model-for-ag-5b6bb3.md)

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph
-published_at: '2026-06-11T13:01:31.931171+00:00'
-collected_at: '2026-06-11T13:01:31.931182+00:00'
+published_at: '2026-06-12T10:41:16.926088+00:00'
+collected_at: '2026-06-12T10:41:16.926100+00:00'
 tags:
 - agents
 - dataset
@@ -17,14 +17,18 @@ tags:
 - scripts
 - web-crawled
 - workflows
-status: new
+- youtube
+status: active
+id: null
+first_seen: '2026-06-12T10:41:16.926100+00:00'
+last_seen: '2026-06-12T10:41:16.926100+00:00'
 ---
 
 # RAG System with LangChain and LangGraph - GeeksforGeeks
 
 ## Summary
 
-CoursesTutorialsPracticeJobsArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsShare Your ExperiencesIntroduction to AIWhat is Artific...
+CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsRAG System with LangChain and LangGraphLast Updated :...
 
 ## Why It Matters
 
@@ -34,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T13:01:31.931171+00:00
+- Published: 2026-06-12T10:41:16.926088+00:00
 
 ## Related Tags
 
@@ -48,6 +52,7 @@ General public resource representing technology updates, guides, or tutorials.
 - scripts
 - web-crawled
 - workflows
+- youtube
 
 ## Source
 

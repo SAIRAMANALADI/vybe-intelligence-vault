@@ -3,7 +3,7 @@ title: "Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Le
 archive_category: "model-providers"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12629"
-local_vault_path: "ai\research\bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md"
+local_vault_path: "ai/research/bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12629
 
 ## Local Vault File
 
-Path: [bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md](file:///../../ai\research\bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md)
+Path: [bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md](file:///../../ai/research/bag-of-dims-training-free-mechanistic-interpretability-via-dimension-level-sign-18554b.md)

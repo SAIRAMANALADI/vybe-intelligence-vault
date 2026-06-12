@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486006+00:00'
+collected_at: '2026-06-12T10:40:03.107425+00:00'
 tags:
 - dataset
 - rag
-status: new
+status: active
+id: arxiv:2604.24806
+first_seen: '2026-06-12T10:40:03.107425+00:00'
+last_seen: '2026-06-12T10:40:03.107425+00:00'
 ---
 
 # Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale

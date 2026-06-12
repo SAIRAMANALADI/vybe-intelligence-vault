@@ -3,12 +3,14 @@ title: "Introducing RTEB: A New Standard for Retrieval Evaluation"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/rteb"
-local_vault_path: "ai\models\introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md"
+local_vault_path: "ai/models/introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/rteb
 
 ## Local Vault File
 
-Path: [introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md](file:///../../ai\models\introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md)
+Path: [introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md](file:///../../ai/models/introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md)

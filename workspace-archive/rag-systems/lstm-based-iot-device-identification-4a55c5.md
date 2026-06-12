@@ -3,17 +3,18 @@ title: "LSTM based IoT Device Identification"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2304.13905"
-local_vault_path: "ai\rag\lstm-based-iot-device-identification-4a55c5.md"
+local_vault_path: "ai/rag/lstm-based-iot-device-identification-4a55c5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - dataset
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # LSTM based IoT Device Identification
@@ -22,10 +23,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2304.13905
 
 ## Local Vault File
 
-Path: [lstm-based-iot-device-identification-4a55c5.md](file:///../../ai\rag\lstm-based-iot-device-identification-4a55c5.md)
+Path: [lstm-based-iot-device-identification-4a55c5.md](file:///../../ai/rag/lstm-based-iot-device-identification-4a55c5.md)

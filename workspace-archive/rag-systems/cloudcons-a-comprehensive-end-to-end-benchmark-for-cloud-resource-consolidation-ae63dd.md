@@ -3,7 +3,7 @@ title: "CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Conso
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13513"
-local_vault_path: "ai\research\cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md"
+local_vault_path: "ai/research/cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13513
 
 ## Local Vault File
 
-Path: [cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md](file:///../../ai\research\cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md)
+Path: [cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md](file:///../../ai/research/cloudcons-a-comprehensive-end-to-end-benchmark-for-cloud-resource-consolidation-ae63dd.md)

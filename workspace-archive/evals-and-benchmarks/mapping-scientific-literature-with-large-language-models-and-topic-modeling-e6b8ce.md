@@ -3,13 +3,14 @@ title: "Mapping Scientific Literature with Large Language Models and Topic Model
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.16152"
-local_vault_path: "ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md"
+local_vault_path: "ai/rag/mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
@@ -21,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2510.16152
 
 ## Local Vault File
 
-Path: [mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md](file:///../../ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md)
+Path: [mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md](file:///../../ai/rag/mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md)

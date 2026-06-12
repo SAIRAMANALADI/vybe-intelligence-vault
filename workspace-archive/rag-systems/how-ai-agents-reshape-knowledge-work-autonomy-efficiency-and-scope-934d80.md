@@ -3,7 +3,7 @@ title: "How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope"
 archive_category: "rag-systems"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.07489"
-local_vault_path: "ai\agents\how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md"
+local_vault_path: "ai/agents/how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.07489
 
 ## Local Vault File
 
-Path: [how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md](file:///../../ai\agents\how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md)
+Path: [how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md](file:///../../ai/agents/how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope-934d80.md)

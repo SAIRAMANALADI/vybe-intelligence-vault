@@ -3,7 +3,7 @@ title: "ARMOR-MAD: Adaptive Routing for Heterogeneous Multi-Agent Debate in Larg
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13197"
-local_vault_path: "ai\agents\armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md"
+local_vault_path: "ai/agents/armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13197
 
 ## Local Vault File
 
-Path: [armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md](file:///../../ai\agents\armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md)
+Path: [armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md](file:///../../ai/agents/armor-mad-adaptive-routing-for-heterogeneous-multi-agent-debate-in-large-languag-8ff45a.md)

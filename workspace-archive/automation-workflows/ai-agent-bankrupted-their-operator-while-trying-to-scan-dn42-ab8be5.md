@@ -1,0 +1,49 @@
+---
+title: "AI agent bankrupted their operator while trying to scan DN42"
+archive_category: "automation-workflows"
+source_category: "ai/community"
+source_url: "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian"
+local_vault_path: "ai/community/ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42-ab8be5.md"
+quality_score: 70
+archive_score: 72
+archive_tier: "useful"
+resource_kind: "workflow"
+importance: "medium"
+tags:
+  - agents
+  - ai
+  - hackernews
+selection_reason:
+  - "Strong keyword match"
+  - "Valuable developer reference"
+---
+
+# AI agent bankrupted their operator while trying to scan DN42
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Hacker News story by xiaoyu2006. Score: 631, Comments: 237.
+Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian
+
+## Local Vault File
+
+Path: [ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42-ab8be5.md](file:///../../ai/community/ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42-ab8be5.md)

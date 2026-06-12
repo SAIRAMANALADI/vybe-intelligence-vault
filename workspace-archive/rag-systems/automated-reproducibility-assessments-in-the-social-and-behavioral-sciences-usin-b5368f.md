@@ -3,7 +3,7 @@ title: "Automated reproducibility assessments in the social and behavioral scien
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13670"
-local_vault_path: "ai\research\automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md"
+local_vault_path: "ai/research/automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13670
 
 ## Local Vault File
 
-Path: [automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md](file:///../../ai\research\automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md)
+Path: [automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md](file:///../../ai/research/automated-reproducibility-assessments-in-the-social-and-behavioral-sciences-usin-b5368f.md)

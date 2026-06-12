@@ -3,7 +3,7 @@ title: "GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geos
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12821"
-local_vault_path: "ai\agents\geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md"
+local_vault_path: "ai/agents/geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12821
 
 ## Local Vault File
 
-Path: [geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md](file:///../../ai\agents\geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md)
+Path: [geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md](file:///../../ai/agents/geonatureagent-benchmark-benchmarking-llm-agents-for-environmental-geospatial-an-d28d7e.md)

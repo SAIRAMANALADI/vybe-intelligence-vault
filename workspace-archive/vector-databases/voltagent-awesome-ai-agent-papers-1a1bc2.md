@@ -3,7 +3,7 @@ title: "VoltAgent/awesome-ai-agent-papers"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/VoltAgent/awesome-ai-agent-papers"
-local_vault_path: "ai\rag\voltagent-awesome-ai-agent-papers-1a1bc2.md"
+local_vault_path: "ai/rag/voltagent-awesome-ai-agent-papers-1a1bc2.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/VoltAgent/awesome-ai-agent-papers
 
 ## Local Vault File
 
-Path: [voltagent-awesome-ai-agent-papers-1a1bc2.md](file:///../../ai\rag\voltagent-awesome-ai-agent-papers-1a1bc2.md)
+Path: [voltagent-awesome-ai-agent-papers-1a1bc2.md](file:///../../ai/rag/voltagent-awesome-ai-agent-papers-1a1bc2.md)

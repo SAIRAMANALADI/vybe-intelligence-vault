@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.483744+00:00'
+collected_at: '2026-06-12T10:40:03.104914+00:00'
 tags:
 - dataset
 - models
-status: new
+status: active
+id: arxiv:2606.13135
+first_seen: '2026-06-12T10:40:03.104914+00:00'
+last_seen: '2026-06-12T10:40:03.104914+00:00'
 ---
 
 # Cascade Classification of Dermoscopic Images of Skin Neoplasms with Controllable Sensitivity and External Clinical Validation

@@ -3,7 +3,7 @@ title: "Decoding Insect Song: A Multitask Semisupervised Orthoptera Bioacoustic 
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13236"
-local_vault_path: "ai\rag\decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md"
+local_vault_path: "ai/rag/decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13236
 
 ## Local Vault File
 
-Path: [decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md](file:///../../ai\rag\decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md)
+Path: [decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md](file:///../../ai/rag/decoding-insect-song-a-multitask-semisupervised-orthoptera-bioacoustic-classifie-73c48c.md)

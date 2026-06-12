@@ -3,12 +3,14 @@ title: "Course Launch Community Event"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/course-launch-event"
-local_vault_path: "ai\models\course-launch-community-event-7222ad.md"
+local_vault_path: "ai/models/course-launch-community-event-7222ad.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "tutorial"
 importance: "medium"
+tags:
+  - producthunt
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/course-launch-event
 
 ## Local Vault File
 
-Path: [course-launch-community-event-7222ad.md](file:///../../ai\models\course-launch-community-event-7222ad.md)
+Path: [course-launch-community-event-7222ad.md](file:///../../ai/models/course-launch-community-event-7222ad.md)

@@ -3,12 +3,14 @@ title: "HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11963"
-local_vault_path: "ai\research\hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md"
+local_vault_path: "ai/research/hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - hackernews
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11963
 
 ## Local Vault File
 
-Path: [hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md](file:///../../ai\research\hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md)
+Path: [hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md](file:///../../ai/research/hamno-a-hierarchical-adaptive-multi-scale-neural-operator-with-physics-informed-9fc0f2.md)

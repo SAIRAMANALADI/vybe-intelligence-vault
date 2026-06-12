@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481990+00:00'
+collected_at: '2026-06-12T10:40:03.102928+00:00'
 tags:
 - agents
 - benchmark
-status: new
+status: active
+id: arxiv:2606.13591
+first_seen: '2026-06-12T10:40:03.102928+00:00'
+last_seen: '2026-06-12T10:40:03.102928+00:00'
 ---
 
 # Multiagent Protocols with Aggregated Confidence Signals

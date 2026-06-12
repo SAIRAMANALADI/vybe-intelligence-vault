@@ -3,7 +3,7 @@ title: "vstorm-co/awesome-pydantic-ai"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/vstorm-co/awesome-pydantic-ai"
-local_vault_path: "ai\agents\vstorm-co-awesome-pydantic-ai-47c168.md"
+local_vault_path: "ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/vstorm-co/awesome-pydantic-ai
 
 ## Local Vault File
 
-Path: [vstorm-co-awesome-pydantic-ai-47c168.md](file:///../../ai\agents\vstorm-co-awesome-pydantic-ai-47c168.md)
+Path: [vstorm-co-awesome-pydantic-ai-47c168.md](file:///../../ai/agents/vstorm-co-awesome-pydantic-ai-47c168.md)

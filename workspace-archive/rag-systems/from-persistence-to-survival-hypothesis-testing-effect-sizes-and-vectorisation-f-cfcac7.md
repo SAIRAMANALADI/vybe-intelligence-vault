@@ -3,14 +3,17 @@ title: "From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vecto
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11911"
-local_vault_path: "ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md"
+local_vault_path: "ai/research/from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # From Persistence to Survival: Hypothesis Testing, Effect Sizes and Vectorisation for Topological Features
@@ -18,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11911
 
 ## Local Vault File
 
-Path: [from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md](file:///../../ai\research\from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md)
+Path: [from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md](file:///../../ai/research/from-persistence-to-survival-hypothesis-testing-effect-sizes-and-vectorisation-f-cfcac7.md)

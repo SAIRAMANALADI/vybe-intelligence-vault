@@ -3,7 +3,7 @@ title: "NirDiamant/RAG_Techniques"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://github.com/NirDiamant/RAG_Techniques"
-local_vault_path: "ai\rag\nirdiamant-rag-techniques-f0b34c.md"
+local_vault_path: "ai/rag/nirdiamant-rag-techniques-f0b34c.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://github.com/NirDiamant/RAG_Techniques
 
 ## Local Vault File
 
-Path: [nirdiamant-rag-techniques-f0b34c.md](file:///../../ai\rag\nirdiamant-rag-techniques-f0b34c.md)
+Path: [nirdiamant-rag-techniques-f0b34c.md](file:///../../ai/rag/nirdiamant-rag-techniques-f0b34c.md)

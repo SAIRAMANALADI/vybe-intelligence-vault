@@ -3,11 +3,11 @@ title: "2024 Security Feature Highlights"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/2024-security-features"
-local_vault_path: "ai\models\2024-security-feature-highlights-88ada9.md"
+local_vault_path: "ai/models/2024-security-feature-highlights-88ada9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai\models\2024-security-feature-highlights-88ada9.md)
+Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai/models/2024-security-feature-highlights-88ada9.md)

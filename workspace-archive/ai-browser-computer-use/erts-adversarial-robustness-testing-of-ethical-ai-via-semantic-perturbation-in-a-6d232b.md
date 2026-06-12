@@ -3,7 +3,7 @@ title: "ERTS: Adversarial Robustness Testing of Ethical AI via Semantic Perturba
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13282"
-local_vault_path: "ai\agents\erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md"
+local_vault_path: "ai/agents/erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13282
 
 ## Local Vault File
 
-Path: [erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md](file:///../../ai\agents\erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md)
+Path: [erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md](file:///../../ai/agents/erts-adversarial-robustness-testing-of-ethical-ai-via-semantic-perturbation-in-a-6d232b.md)

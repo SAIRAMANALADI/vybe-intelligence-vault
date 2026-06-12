@@ -3,12 +3,14 @@ title: "Exploring the Daily Papers Page on Hugging Face"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/daily-papers"
-local_vault_path: "ai\models\exploring-the-daily-papers-page-on-hugging-face-06d25d.md"
+local_vault_path: "ai/models/exploring-the-daily-papers-page-on-hugging-face-06d25d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -19,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/daily-papers
 
 ## Local Vault File
 
-Path: [exploring-the-daily-papers-page-on-hugging-face-06d25d.md](file:///../../ai\models\exploring-the-daily-papers-page-on-hugging-face-06d25d.md)
+Path: [exploring-the-daily-papers-page-on-hugging-face-06d25d.md](file:///../../ai/models/exploring-the-daily-papers-page-on-hugging-face-06d25d.md)

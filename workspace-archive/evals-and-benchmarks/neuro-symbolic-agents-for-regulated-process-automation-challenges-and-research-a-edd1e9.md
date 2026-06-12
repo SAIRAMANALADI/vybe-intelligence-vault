@@ -3,7 +3,7 @@ title: "Neuro-Symbolic Agents for Regulated Process Automation: Challenges and R
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13405"
-local_vault_path: "ai\agents\neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md"
+local_vault_path: "ai/agents/neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13405
 
 ## Local Vault File
 
-Path: [neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md](file:///../../ai\agents\neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md)
+Path: [neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md](file:///../../ai/agents/neuro-symbolic-agents-for-regulated-process-automation-challenges-and-research-a-edd1e9.md)

@@ -3,12 +3,15 @@ title: "CaReTS: A Multi-Task Framework Unifying Classification and Regression fo
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2511.09789"
-local_vault_path: "ai\research\carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md"
+local_vault_path: "ai/research/carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - paper
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2511.09789
 
 ## Local Vault File
 
-Path: [carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md](file:///../../ai\research\carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md)
+Path: [carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md](file:///../../ai/research/carets-a-multi-task-framework-unifying-classification-and-regression-for-time-se-22675c.md)

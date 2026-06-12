@@ -3,7 +3,7 @@ title: "Offline Diffusion Policy for Multi-User Delay-Constrained Scheduling"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2501.12942"
-local_vault_path: "ai\research\offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md"
+local_vault_path: "ai/research/offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2501.12942
 
 ## Local Vault File
 
-Path: [offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md](file:///../../ai\research\offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md)
+Path: [offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md](file:///../../ai/research/offline-diffusion-policy-for-multi-user-delay-constrained-scheduling-972bff.md)

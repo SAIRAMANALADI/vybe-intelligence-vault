@@ -3,7 +3,7 @@ title: "SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai"
-local_vault_path: "ai\models\sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md"
+local_vault_path: "ai/models/sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/SandboxAQ/sair-data-acceleratin
 
 ## Local Vault File
 
-Path: [sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md](file:///../../ai\models\sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md)
+Path: [sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md](file:///../../ai/models/sair-accelerating-pharma-r-d-with-ai-powered-structural-intelligence-b3dfa7.md)

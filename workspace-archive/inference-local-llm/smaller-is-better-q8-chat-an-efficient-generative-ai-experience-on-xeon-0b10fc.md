@@ -3,11 +3,11 @@ title: "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeo
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/generative-ai-models-on-intel-cpu"
-local_vault_path: "ai\models\smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md"
+local_vault_path: "ai/models/smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/generative-ai-models-on-intel-c
 
 ## Local Vault File
 
-Path: [smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md](file:///../../ai\models\smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md)
+Path: [smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md](file:///../../ai/models/smaller-is-better-q8-chat-an-efficient-generative-ai-experience-on-xeon-0b10fc.md)

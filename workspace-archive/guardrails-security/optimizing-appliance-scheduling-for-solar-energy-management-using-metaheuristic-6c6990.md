@@ -3,7 +3,7 @@ title: "Optimizing Appliance Scheduling for Solar Energy Management Using Metahe
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13407"
-local_vault_path: "ai\research\optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md"
+local_vault_path: "ai/research/optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13407
 
 ## Local Vault File
 
-Path: [optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md](file:///../../ai\research\optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md)
+Path: [optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md](file:///../../ai/research/optimizing-appliance-scheduling-for-solar-energy-management-using-metaheuristic-6c6990.md)

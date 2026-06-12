@@ -3,14 +3,16 @@ title: "Steering the Noise: Turning Random Perturbations into Effective Descent 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.04710"
-local_vault_path: "ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md"
+local_vault_path: "ai/research/steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - models
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.04710
 
 ## Local Vault File
 
-Path: [steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md](file:///../../ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md)
+Path: [steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md](file:///../../ai/research/steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md)

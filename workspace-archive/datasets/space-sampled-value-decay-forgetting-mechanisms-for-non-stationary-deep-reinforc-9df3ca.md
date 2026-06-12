@@ -3,14 +3,14 @@ title: "Space-sampled Value Decay: Forgetting Mechanisms for Non-stationary Deep
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11797"
-local_vault_path: "ai\research\space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md"
+local_vault_path: "ai/research/space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Space-sampled Value Decay: Forgetting Mechanisms for Non-stationary Deep Reinforcement Learning
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11797
 
 ## Local Vault File
 
-Path: [space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md](file:///../../ai\research\space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md)
+Path: [space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md](file:///../../ai/research/space-sampled-value-decay-forgetting-mechanisms-for-non-stationary-deep-reinforc-9df3ca.md)

@@ -3,16 +3,17 @@ title: "Capacity-Constrained Online Convex Optimization with Delayed Feedback"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11711"
-local_vault_path: "ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md"
+local_vault_path: "ai/research/capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Capacity-Constrained Online Convex Optimization with Delayed Feedback
@@ -21,9 +22,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11711
 
 ## Local Vault File
 
-Path: [capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md](file:///../../ai\research\capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md)
+Path: [capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md](file:///../../ai/research/capacity-constrained-online-convex-optimization-with-delayed-feedback-8f766b.md)

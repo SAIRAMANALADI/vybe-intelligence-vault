@@ -4,10 +4,14 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/open-asr-leaderboard-private-data
-published_at: '2026-05-05T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.323689+00:00'
-tags: []
-status: new
+published_at: '2026-05-06T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.807121+00:00'
+tags:
+- leaderboard
+status: active
+id: huggingface:blog/open-asr-leaderboard-private-data
+first_seen: '2026-06-12T10:40:08.807121+00:00'
+last_seen: '2026-06-12T10:40:08.807121+00:00'
 ---
 
 # Adding Benchmaxxer Repellant to the Open ASR Leaderboard
@@ -18,21 +22,17 @@ No summary provided. Reference resource: Adding Benchmaxxer Repellant to the Ope
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-05-05T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-05-06T00:00:00+00:00
 
 ## Related Tags
 
-- None
+- leaderboard
 
 ## Source
 

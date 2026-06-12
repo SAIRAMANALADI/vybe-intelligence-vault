@@ -5,38 +5,45 @@ category: ai/rag
 source_type: arxiv
 source_name: arXiv AI
 source_url: https://arxiv.org/abs/2512.24787
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.524043+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:03.106847+00:00'
 tags:
+- paper
 - rag
-status: new
+- youtube
+status: active
+id: arxiv:2512.24787
+first_seen: '2026-06-12T10:40:03.106847+00:00'
+last_seen: '2026-06-12T10:40:03.106847+00:00'
 ---
 
 # HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent
 
 ## Summary
 
-arXiv:2512.24787v4 Announce Type: replace-cross 
+arXiv:2512.24787v5 Announce Type: replace-cross 
 Abstract: Slate recommendation, which presents users with a ranked item list in a single display, is ubiquitous across mainstream online platforms. While recent generative recommendation methods have shown strong potential in modeling item sequences with semantic IDs, directly applying them to industrial-scale slate recommendation faces a fundamental disconnect: entangled SID spaces confound high-level list planning, fine-grained autoregressive decoding over long sequences limits semantic planning efficiency, and token-level objectives misalign with holistic slate quality. In this paper, we propose HiGR, an industrial-scale hierarchical generative framework for slate recommendation that bridges this disconnect through a co-designed pipeline. First, HiGR learns structured SIDs via a Prefix-Contrastive Residual Quantized VAE (PCRQ-VAE). By enforcing high-level prefixes to capture shared semantics, PCRQ-VAE creates a controllable discrete space that acts as a prerequisite for efficient planning. Leveraging this structured space, our Hierarchical Slate Decoder (HSD) shifts autoregressive modeling from entangled token-level decoding to coarse-grained preference embeddings. This design significantly reduces inference latency while allowing explicit global slate structure planning. Finally, this stable planning space enables an ORPO-based listwise alignment mechanism to optimize triple-objective implicit feedback-ranking fidelity, genuine user interest, and diversity. Extensive offline experiments show that HiGR outperforms state-of-the-art baselines by over 10% in offline recommendation quality while achieving a $5\times$ inference speedup. Online A/B tests on Tencent platforms further improve watch time by 1.22% and video plays by 1.73%. HiGR has been deployed on multiple Tencent platform surfaces, serving hundreds of millions of users and proving its industrial-scale applicability.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/rag
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2512.24787
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
+- paper
 - rag
-
-## Source
-
-Original source: https://arxiv.org/abs/2512.24787
+- youtube

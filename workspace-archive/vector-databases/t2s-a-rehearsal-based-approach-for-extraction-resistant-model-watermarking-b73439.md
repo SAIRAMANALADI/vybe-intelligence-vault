@@ -3,7 +3,7 @@ title: "T2S: A Rehearsal-Based Approach for Extraction-Resistant Model Watermark
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11698"
-local_vault_path: "ai\rag\t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md"
+local_vault_path: "ai/rag/t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11698
 
 ## Local Vault File
 
-Path: [t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md](file:///../../ai\rag\t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md)
+Path: [t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md](file:///../../ai/rag/t2s-a-rehearsal-based-approach-for-extraction-resistant-model-watermarking-b73439.md)

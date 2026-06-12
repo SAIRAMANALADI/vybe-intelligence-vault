@@ -3,7 +3,7 @@ title: "LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison"
-local_vault_path: "ai\rag\langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md"
+local_vault_path: "ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-
 
 ## Local Vault File
 
-Path: [langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md](file:///../../ai\rag\langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md)
+Path: [langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md](file:///../../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-comparison-lushbinary-6b32f7.md)

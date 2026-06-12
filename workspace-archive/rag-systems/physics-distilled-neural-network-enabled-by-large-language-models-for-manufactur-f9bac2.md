@@ -3,12 +3,16 @@ title: "Physics-Distilled Neural Network enabled by Large Language Models for Ma
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11605"
-local_vault_path: "ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md"
+local_vault_path: "ai/research/physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
+  - hackernews
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -25,8 +29,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11605v1 Announce Type: cross 
-Abstract: Predicting process-property relationships in manufacturing is often challenged by high experimental costs and the limited interpretability of complex 'black-box' models. This paper proposes a novel knowledge distillation framework designed to achieve high-accuracy predictions in data-scarce scenarios. The framework integrates analytical physics priors, which are systematically extracted from scientific literature via Large Language Models, into
+arXiv:2606.11605v1 Announce Type: new 
+Abstract: Predicting process-property relationships in manufacturing is often challenged by high experimental costs and the limited interpretability of complex 'black-box' models. This paper proposes a novel knowledge distillation framework designed to achieve high-accuracy predictions in data-scarce scenarios. The framework integrates analytical physics priors, which are systematically extracted from scientific literature via Large Language Models, into a
 
 ## Use Cases
 
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11605
 
 ## Local Vault File
 
-Path: [physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md](file:///../../ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md)
+Path: [physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md](file:///../../ai/research/physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md)

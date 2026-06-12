@@ -11,14 +11,17 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486449+00:00'
+collected_at: '2026-06-12T10:40:03.107918+00:00'
 tags:
 - dataset
 - models
 - paper
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.11930
+first_seen: '2026-06-12T10:40:03.107918+00:00'
+last_seen: '2026-06-12T10:40:03.107918+00:00'
 ---
 
 # Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability

@@ -3,18 +3,20 @@ title: "Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 a
 archive_category: "inference-local-llm"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12280"
-local_vault_path: "ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md"
+local_vault_path: "ai/rag/holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - models
   - rag
+  - youtube
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs
@@ -23,10 +25,10 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -45,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.12280
 
 ## Local Vault File
 
-Path: [holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md](file:///../../ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md)
+Path: [holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md](file:///../../ai/rag/holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md)

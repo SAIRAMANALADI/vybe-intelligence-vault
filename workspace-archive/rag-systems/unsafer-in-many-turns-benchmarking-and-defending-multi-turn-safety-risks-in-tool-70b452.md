@@ -3,7 +3,7 @@ title: "Unsafer in Many Turns: Benchmarking and Defending Multi-Turn Safety Risk
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.13379"
-local_vault_path: "ai\rag\unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md"
+local_vault_path: "ai/rag/unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2602.13379
 
 ## Local Vault File
 
-Path: [unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md](file:///../../ai\rag\unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md)
+Path: [unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md](file:///../../ai/rag/unsafer-in-many-turns-benchmarking-and-defending-multi-turn-safety-risks-in-tool-70b452.md)

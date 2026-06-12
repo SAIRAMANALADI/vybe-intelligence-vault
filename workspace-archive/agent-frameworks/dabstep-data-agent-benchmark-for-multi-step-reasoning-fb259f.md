@@ -3,7 +3,7 @@ title: "DABStep: Data Agent Benchmark for Multi-step Reasoning"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/dabstep"
-local_vault_path: "ai\agents\dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md"
+local_vault_path: "ai/agents/dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "benchmark"
 importance: "medium"
 tags:
   - agents
+  - benchmark
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/dabstep
 
 ## Local Vault File
 
-Path: [dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md](file:///../../ai\agents\dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md)
+Path: [dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md](file:///../../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md)

@@ -10,7 +10,7 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484875+00:00'
+collected_at: '2026-06-12T10:40:03.106188+00:00'
 tags:
 - agents
 - benchmark
@@ -18,7 +18,10 @@ tags:
 - paper
 - rag
 - workflows
-status: new
+status: active
+id: arxiv:2606.05405
+first_seen: '2026-06-12T10:40:03.106188+00:00'
+last_seen: '2026-06-12T10:40:03.106188+00:00'
 ---
 
 # Agents' Last Exam

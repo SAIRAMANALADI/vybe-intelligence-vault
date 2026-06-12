@@ -3,7 +3,7 @@ title: "Falcon Perception"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/falcon-perception"
-local_vault_path: "ai\models\falcon-perception-a6e282.md"
+local_vault_path: "ai/models/falcon-perception-a6e282.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-perception
 
 ## Local Vault File
 
-Path: [falcon-perception-a6e282.md](file:///../../ai\models\falcon-perception-a6e282.md)
+Path: [falcon-perception-a6e282.md](file:///../../ai/models/falcon-perception-a6e282.md)

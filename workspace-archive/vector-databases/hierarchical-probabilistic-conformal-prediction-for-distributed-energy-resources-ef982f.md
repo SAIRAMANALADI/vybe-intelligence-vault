@@ -3,13 +3,15 @@ title: "Hierarchical Probabilistic Conformal Prediction for Distributed Energy R
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2411.12193"
-local_vault_path: "ai\rag\hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md"
+local_vault_path: "ai/rag/hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - paper
   - rag
 selection_reason:
   - "Useful for project building"
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2411.12193
 
 ## Local Vault File
 
-Path: [hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md](file:///../../ai\rag\hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md)
+Path: [hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md](file:///../../ai/rag/hierarchical-probabilistic-conformal-prediction-for-distributed-energy-resources-ef982f.md)

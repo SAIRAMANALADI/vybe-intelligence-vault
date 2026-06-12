@@ -3,14 +3,14 @@ title: "Finding Sparse Subnetworks in One Training Cycle via Progressive Magnitu
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12278"
-local_vault_path: "ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md"
+local_vault_path: "ai/research/finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Finding Sparse Subnetworks in One Training Cycle via Progressive Magnitude-Based Pruning
@@ -19,9 +19,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12278
 
 ## Local Vault File
 
-Path: [finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md](file:///../../ai\research\finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md)
+Path: [finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md](file:///../../ai/research/finding-sparse-subnetworks-in-one-training-cycle-via-progressive-magnitude-based-474b89.md)

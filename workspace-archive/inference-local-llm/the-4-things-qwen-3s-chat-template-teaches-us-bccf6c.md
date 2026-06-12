@@ -3,7 +3,7 @@ title: "The 4 Things Qwen-3’s Chat Template Teaches Us"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/qwen-3-chat-template-deep-dive"
-local_vault_path: "ai\models\the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md"
+local_vault_path: "ai/models/the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/qwen-3-chat-template-deep-dive
 
 ## Local Vault File
 
-Path: [the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md](file:///../../ai\models\the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md)
+Path: [the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md](file:///../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us-bccf6c.md)

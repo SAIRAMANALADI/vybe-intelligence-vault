@@ -3,9 +3,9 @@ title: "ATLAS: Active Theory Learning for Automated Science"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12386"
-local_vault_path: "ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md"
+local_vault_path: "ai/agents/atlas-active-theory-learning-for-automated-science-0dd3f9.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
@@ -21,7 +21,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -29,8 +29,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.12386v1 Announce Type: cross 
-Abstract: Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse en
+arXiv:2606.12386v1 Announce Type: new 
+Abstract: Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, we introduce ATLAS (Active Theory Learning for Automated Science), an active learning framework for the data-driven discovery of interpretable behavioral models. ATLAS iterates between generating mechanistic hypotheses--instantiated as a diverse ense
 
 ## Use Cases
 
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12386
 
 ## Local Vault File
 
-Path: [atlas-active-theory-learning-for-automated-science-0dd3f9.md](file:///../../ai\agents\atlas-active-theory-learning-for-automated-science-0dd3f9.md)
+Path: [atlas-active-theory-learning-for-automated-science-0dd3f9.md](file:///../../ai/agents/atlas-active-theory-learning-for-automated-science-0dd3f9.md)

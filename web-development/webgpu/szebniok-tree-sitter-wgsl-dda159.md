@@ -4,13 +4,16 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/szebniok/tree-sitter-wgsl
-collected_at: '2026-06-11T08:45:39.177162+00:00'
+collected_at: '2026-06-12T10:40:17.491116+00:00'
 published_at: '2026-06-10T01:41:13Z'
 tags:
 - threejs
 stars: 61
 language: JavaScript
-status: new
+status: active
+id: github:szebniok/tree-sitter-wgsl
+first_seen: '2026-06-12T10:40:17.491116+00:00'
+last_seen: '2026-06-12T10:40:17.491116+00:00'
 ---
 
 # szebniok/tree-sitter-wgsl

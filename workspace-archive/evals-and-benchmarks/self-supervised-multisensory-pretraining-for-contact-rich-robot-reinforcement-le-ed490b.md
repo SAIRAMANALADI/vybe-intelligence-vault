@@ -3,14 +3,15 @@ title: "Self-Supervised Multisensory Pretraining for Contact-Rich Robot Reinforc
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2511.14427"
-local_vault_path: "ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md"
+local_vault_path: "ai/rag/self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
@@ -22,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -45,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2511.14427
 
 ## Local Vault File
 
-Path: [self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md](file:///../../ai\rag\self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md)
+Path: [self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md](file:///../../ai/rag/self-supervised-multisensory-pretraining-for-contact-rich-robot-reinforcement-le-ed490b.md)

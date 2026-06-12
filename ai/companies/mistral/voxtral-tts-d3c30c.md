@@ -4,14 +4,17 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/voxtral-tts
-published_at: '2026-06-11T18:20:58.888577+00:00'
-collected_at: '2026-06-11T18:20:58.888580+00:00'
+published_at: '2026-06-12T10:40:34.037109+00:00'
+collected_at: '2026-06-12T10:40:34.037112+00:00'
 tags:
 - blog-post
 - mistral
 - mistral-ai-news
 - models
-status: new
+status: active
+id: blog:voxtral-tts
+first_seen: '2026-06-12T10:40:34.037112+00:00'
+last_seen: '2026-06-12T10:40:34.037112+00:00'
 ---
 
 # Voxtral TTS
@@ -28,7 +31,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/voxtral-tts
-- Collected At: 2026-06-11T18:20:58.888580+00:00
+- Collected At: 2026-06-12T10:40:34.037112+00:00
 
 ## Related Tags
 

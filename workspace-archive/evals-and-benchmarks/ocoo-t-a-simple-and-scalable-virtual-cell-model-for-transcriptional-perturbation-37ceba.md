@@ -3,7 +3,7 @@ title: "OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Pe
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12838"
-local_vault_path: "ai\rag\ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md"
+local_vault_path: "ai/rag/ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12838
 
 ## Local Vault File
 
-Path: [ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md](file:///../../ai\rag\ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md)
+Path: [ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md](file:///../../ai/rag/ocoo-t-a-simple-and-scalable-virtual-cell-model-for-transcriptional-perturbation-37ceba.md)

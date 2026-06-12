@@ -3,7 +3,7 @@ title: "The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3"
-local_vault_path: "ai\models\the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md"
+local_vault_path: "ai/models/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md](file:///../../ai\models\the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md)
+Path: [the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md](file:///../../ai/models/the-future-of-the-global-open-source-ai-ecosystem-from-deepseek-to-ai-74bdae.md)

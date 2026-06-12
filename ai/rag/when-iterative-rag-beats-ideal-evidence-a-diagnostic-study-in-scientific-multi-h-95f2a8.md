@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485588+00:00'
+collected_at: '2026-06-12T10:40:03.106969+00:00'
 tags:
 - benchmark
 - dataset
 - rag
-status: new
+status: active
+id: arxiv:2601.19827
+first_seen: '2026-06-12T10:40:03.106969+00:00'
+last_seen: '2026-06-12T10:40:03.106969+00:00'
 ---
 
 # When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering

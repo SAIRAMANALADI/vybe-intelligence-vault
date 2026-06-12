@@ -11,10 +11,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484062+00:00'
+collected_at: '2026-06-12T10:40:03.105261+00:00'
 tags:
 - dataset
-status: new
+status: active
+id: arxiv:2606.13341
+first_seen: '2026-06-12T10:40:03.105261+00:00'
+last_seen: '2026-06-12T10:40:03.105261+00:00'
 ---
 
 # Dual-Domain Equivariant Generative Adversarial Network for Multimodal CT-PET Synthesis

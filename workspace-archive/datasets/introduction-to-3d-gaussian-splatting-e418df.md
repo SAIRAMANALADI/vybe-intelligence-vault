@@ -3,11 +3,11 @@ title: "Introduction to 3D Gaussian Splatting"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gaussian-splatting"
-local_vault_path: "ai\models\introduction-to-3d-gaussian-splatting-e418df.md"
+local_vault_path: "ai/models/introduction-to-3d-gaussian-splatting-e418df.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gaussian-splatting
 
 ## Local Vault File
 
-Path: [introduction-to-3d-gaussian-splatting-e418df.md](file:///../../ai\models\introduction-to-3d-gaussian-splatting-e418df.md)
+Path: [introduction-to-3d-gaussian-splatting-e418df.md](file:///../../ai/models/introduction-to-3d-gaussian-splatting-e418df.md)

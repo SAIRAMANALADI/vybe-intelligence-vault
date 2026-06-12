@@ -3,11 +3,11 @@ title: "Graph Classification with Transformers"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/graphml-classification"
-local_vault_path: "ai\models\graph-classification-with-transformers-d330d4.md"
+local_vault_path: "ai/models/graph-classification-with-transformers-d330d4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/graphml-classification
 
 ## Local Vault File
 
-Path: [graph-classification-with-transformers-d330d4.md](file:///../../ai\models\graph-classification-with-transformers-d330d4.md)
+Path: [graph-classification-with-transformers-d330d4.md](file:///../../ai/models/graph-classification-with-transformers-d330d4.md)

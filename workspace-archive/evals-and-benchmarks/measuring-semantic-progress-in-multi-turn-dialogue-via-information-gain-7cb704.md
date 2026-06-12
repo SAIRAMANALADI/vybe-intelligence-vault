@@ -3,15 +3,17 @@ title: "Measuring Semantic Progress in Multi-turn Dialogue via Information Gain"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12332"
-local_vault_path: "ai\research\measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md"
+local_vault_path: "ai/research/measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Measuring Semantic Progress in Multi-turn Dialogue via Information Gain
@@ -19,11 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12332
 
 ## Local Vault File
 
-Path: [measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md](file:///../../ai\research\measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md)
+Path: [measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md](file:///../../ai/research/measuring-semantic-progress-in-multi-turn-dialogue-via-information-gain-7cb704.md)

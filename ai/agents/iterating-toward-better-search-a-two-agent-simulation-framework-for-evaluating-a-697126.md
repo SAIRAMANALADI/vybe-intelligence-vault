@@ -11,7 +11,7 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481239+00:00'
+collected_at: '2026-06-12T10:40:03.102098+00:00'
 tags:
 - agents
 - anthropic
@@ -19,7 +19,10 @@ tags:
 - dataset
 - meta-ai
 - models
-status: new
+status: active
+id: arxiv:2606.12924
+first_seen: '2026-06-12T10:40:03.102098+00:00'
+last_seen: '2026-06-12T10:40:03.102098+00:00'
 ---
 
 # Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce

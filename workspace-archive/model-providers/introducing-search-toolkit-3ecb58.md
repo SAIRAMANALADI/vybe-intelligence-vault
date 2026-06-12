@@ -3,7 +3,7 @@ title: "Introducing Search Toolkit"
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/search-toolkit"
-local_vault_path: "ai\companies\mistral\introducing-search-toolkit-3ecb58.md"
+local_vault_path: "ai/companies/mistral/introducing-search-toolkit-3ecb58.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/search-toolkit
 
 ## Local Vault File
 
-Path: [introducing-search-toolkit-3ecb58.md](file:///../../ai\companies\mistral\introducing-search-toolkit-3ecb58.md)
+Path: [introducing-search-toolkit-3ecb58.md](file:///../../ai/companies/mistral/introducing-search-toolkit-3ecb58.md)

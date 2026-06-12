@@ -3,7 +3,7 @@ title: "Speculative Rollback Correction for Quality-Diverse Web Agent Imitation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12485"
-local_vault_path: "ai\agents\speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md"
+local_vault_path: "ai/agents/speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12485
 
 ## Local Vault File
 
-Path: [speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md](file:///../../ai\agents\speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md)
+Path: [speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md](file:///../../ai/agents/speculative-rollback-correction-for-quality-diverse-web-agent-imitation-796498.md)

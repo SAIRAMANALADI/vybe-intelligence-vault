@@ -3,7 +3,7 @@ title: "Geometric and Quantum Kernel Methods for Predicting Skeletal Muscle Outc
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.00921"
-local_vault_path: "ai\research\geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md"
+local_vault_path: "ai/research/geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.00921
 
 ## Local Vault File
 
-Path: [geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md](file:///../../ai\research\geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md)
+Path: [geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md](file:///../../ai/research/geometric-and-quantum-kernel-methods-for-predicting-skeletal-muscle-outcomes-in-10b8f7.md)

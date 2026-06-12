@@ -3,7 +3,7 @@ title: "FailproofAI/ai-reliability-standards"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/FailproofAI/ai-reliability-standards"
-local_vault_path: "ai\agents\failproofai-ai-reliability-standards-6101a3.md"
+local_vault_path: "ai/agents/failproofai-ai-reliability-standards-6101a3.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/FailproofAI/ai-reliability-standards
 
 ## Local Vault File
 
-Path: [failproofai-ai-reliability-standards-6101a3.md](file:///../../ai\agents\failproofai-ai-reliability-standards-6101a3.md)
+Path: [failproofai-ai-reliability-standards-6101a3.md](file:///../../ai/agents/failproofai-ai-reliability-standards-6101a3.md)

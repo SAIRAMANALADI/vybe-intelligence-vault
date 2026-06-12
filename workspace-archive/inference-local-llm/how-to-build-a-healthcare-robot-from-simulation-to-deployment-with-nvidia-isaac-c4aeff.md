@@ -3,7 +3,7 @@ title: "How to Build a Healthcare Robot from Simulation to Deployment with NVIDI
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare"
-local_vault_path: "ai\models\how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md"
+local_vault_path: "ai/models/how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthc
 
 ## Local Vault File
 
-Path: [how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md](file:///../../ai\models\how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md)
+Path: [how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md](file:///../../ai/models/how-to-build-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c4aeff.md)

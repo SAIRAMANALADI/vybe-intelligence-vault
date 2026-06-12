@@ -3,14 +3,15 @@ title: "MLT-Dedup: Efficient Large-Scale Online Video Deduplication via Multi-Le
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12215"
-local_vault_path: "ai\rag\mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md"
+local_vault_path: "ai/rag/mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
   - rag
+  - youtube
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -21,7 +22,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -44,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12215
 
 ## Local Vault File
 
-Path: [mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md](file:///../../ai\rag\mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md)
+Path: [mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md](file:///../../ai/rag/mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md)

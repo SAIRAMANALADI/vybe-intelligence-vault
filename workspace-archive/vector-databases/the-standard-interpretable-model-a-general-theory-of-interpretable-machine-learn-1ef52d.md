@@ -3,16 +3,17 @@ title: "The Standard Interpretable Model: A general theory of interpretable mach
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12289"
-local_vault_path: "ai\rag\the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md"
+local_vault_path: "ai/rag/the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # The Standard Interpretable Model: A general theory of interpretable machine learning to deductively design interpretable methods using Lagrangian mechanics
@@ -21,15 +22,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.12289v1 Announce Type: cross 
+arXiv:2606.12289v1 Announce Type: new 
 Abstract: As Artificial Intelligence models grow in complexity, interpretability has become an indispensable tool for understanding, debugging, and controlling their computations. However, interpretability lacks general theories to deductively design interpretable methods. This gap between theories and methods results in a fragmented literature and inconsistent evaluation protocols.
- To fill this gap, we introduce the Standard Interpretable Model (SIM), a
+ To fill this gap, we introduce the Standard Interpretable Model (SIM), a g
 
 ## Use Cases
 
@@ -43,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12289
 
 ## Local Vault File
 
-Path: [the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md](file:///../../ai\rag\the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md)
+Path: [the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md](file:///../../ai/rag/the-standard-interpretable-model-a-general-theory-of-interpretable-machine-learn-1ef52d.md)

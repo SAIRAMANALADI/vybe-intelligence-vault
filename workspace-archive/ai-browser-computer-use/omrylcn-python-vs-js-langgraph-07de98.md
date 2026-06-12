@@ -3,7 +3,7 @@ title: "omrylcn/python-vs-js-langgraph"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/omrylcn/python-vs-js-langgraph"
-local_vault_path: "ai\agents\omrylcn-python-vs-js-langgraph-07de98.md"
+local_vault_path: "ai/agents/omrylcn-python-vs-js-langgraph-07de98.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/omrylcn/python-vs-js-langgraph
 
 ## Local Vault File
 
-Path: [omrylcn-python-vs-js-langgraph-07de98.md](file:///../../ai\agents\omrylcn-python-vs-js-langgraph-07de98.md)
+Path: [omrylcn-python-vs-js-langgraph-07de98.md](file:///../../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md)

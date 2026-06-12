@@ -3,16 +3,17 @@ title: "Neural ensemble Kalman filter: Data assimilation for compressible flows 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.23461"
-local_vault_path: "ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
+local_vault_path: "ai/research/neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks
@@ -20,10 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.23461
 
 ## Local Vault File
 
-Path: [neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md](file:///../../ai\research\neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md)
+Path: [neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md](file:///../../ai/research/neural-ensemble-kalman-filter-data-assimilation-for-compressible-flows-with-shoc-f2b928.md)

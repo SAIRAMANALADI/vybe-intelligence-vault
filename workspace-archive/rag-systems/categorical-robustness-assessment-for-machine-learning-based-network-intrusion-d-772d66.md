@@ -3,12 +3,16 @@ title: "Categorical Robustness Assessment for Machine Learning based Network Int
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12075"
-local_vault_path: "ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md"
+local_vault_path: "ai/research/categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "dataset"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12075
 
 ## Local Vault File
 
-Path: [categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md](file:///../../ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md)
+Path: [categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md](file:///../../ai/research/categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md)

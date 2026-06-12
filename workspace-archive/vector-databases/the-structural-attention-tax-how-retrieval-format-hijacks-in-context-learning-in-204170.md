@@ -3,7 +3,7 @@ title: "The Structural Attention Tax: How Retrieval Format Hijacks In-Context Le
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11198"
-local_vault_path: "ai\rag\the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md"
+local_vault_path: "ai/rag/the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11198
 
 ## Local Vault File
 
-Path: [the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md](file:///../../ai\rag\the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md)
+Path: [the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md](file:///../../ai/rag/the-structural-attention-tax-how-retrieval-format-hijacks-in-context-learning-in-204170.md)

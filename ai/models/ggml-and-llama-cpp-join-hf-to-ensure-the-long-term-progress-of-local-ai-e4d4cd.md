@@ -4,11 +4,15 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/ggml-joins-hf
-published_at: '2026-02-19T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.323991+00:00'
+published_at: '2026-02-20T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.807908+00:00'
 tags:
+- meta-ai
 - models
-status: new
+status: active
+id: huggingface:blog/ggml-joins-hf
+first_seen: '2026-06-12T10:40:08.807908+00:00'
+last_seen: '2026-06-12T10:40:08.807908+00:00'
 ---
 
 # GGML and llama.cpp join HF to ensure the long-term progress of Local AI
@@ -19,20 +23,17 @@ No summary provided. Reference resource: GGML and llama.cpp join HF to ensure th
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-02-19T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-02-20T00:00:00+00:00
 
 ## Related Tags
 
+- meta-ai
 - models
 
 ## Source

@@ -3,7 +3,7 @@ title: "A Machine Learning Framework for Real-Time Personalized Ergonomic Pose A
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12988"
-local_vault_path: "ai\rag\a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md"
+local_vault_path: "ai/rag/a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12988
 
 ## Local Vault File
 
-Path: [a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md](file:///../../ai\rag\a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md)
+Path: [a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md](file:///../../ai/rag/a-machine-learning-framework-for-real-time-personalized-ergonomic-pose-analysis-f81554.md)

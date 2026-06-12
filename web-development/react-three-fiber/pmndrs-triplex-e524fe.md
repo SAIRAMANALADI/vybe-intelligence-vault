@@ -4,14 +4,17 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/triplex
-collected_at: '2026-06-11T08:45:37.431943+00:00'
-published_at: '2026-06-11T03:25:27Z'
+collected_at: '2026-06-12T10:40:15.865580+00:00'
+published_at: '2026-06-12T01:13:59Z'
 tags:
 - frontend_ui
 - threejs
-stars: 1268
+stars: 1269
 language: TypeScript
-status: new
+status: active
+id: github:pmndrs/triplex
+first_seen: '2026-06-12T10:40:15.865580+00:00'
+last_seen: '2026-06-12T10:40:15.865580+00:00'
 ---
 
 # pmndrs/triplex
@@ -27,11 +30,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 1268
+- Stars: 1269
 - Forks: 59
 - Language: TypeScript
 - Topics: ai, cursor, r3f, react-three-fiber, reactjs, threejs, vscode, webxr, windsurf
-- Last Updated: 2026-06-11T03:25:27Z
+- Last Updated: 2026-06-12T01:13:59Z
 
 ## Possible Use Cases
 

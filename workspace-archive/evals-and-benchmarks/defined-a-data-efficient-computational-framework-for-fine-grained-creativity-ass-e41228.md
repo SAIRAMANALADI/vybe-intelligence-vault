@@ -3,12 +3,15 @@ title: "DEFINED: A Data-Efficient Computational Framework for Fine-Grained Creat
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07226"
-local_vault_path: "ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md"
+local_vault_path: "ai/research/defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - paper
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -27,8 +30,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.07226v2 Announce Type: replace-cross 
-Abstract: Human creativity has emerged as a critical competency in the era of large language models. Assessing creativity in complex, open-ended environments is a grand challenge in data mining, currently hindered by a reliance on standardized simple tasks and the scarcity of fine-grained expert data. As an ecologically valid assessment context, debate reflects multiple dimensions of creativity, encompassing both divergent thinking and convergent
+arXiv:2606.07226v2 Announce Type: replace 
+Abstract: Human creativity has emerged as a critical competency in the era of large language models. Assessing creativity in complex, open-ended environments is a grand challenge in data mining, currently hindered by a reliance on standardized simple tasks and the scarcity of fine-grained expert data. As an ecologically valid assessment context, debate reflects multiple dimensions of creativity, encompassing both divergent thinking and convergent thinki
 
 ## Use Cases
 
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.07226
 
 ## Local Vault File
 
-Path: [defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md](file:///../../ai\research\defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md)
+Path: [defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md](file:///../../ai/research/defined-a-data-efficient-computational-framework-for-fine-grained-creativity-ass-e41228.md)

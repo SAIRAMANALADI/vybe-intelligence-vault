@@ -5,10 +5,21 @@ category: ai/research
 source_type: arxiv
 source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2601.21817
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:55.799420+00:00'
-tags: []
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.019151+00:00'
+tags:
+- benchmark
+- dataset
+- leaderboard
+status: active
+id: arxiv:2601.21817
+first_seen: '2026-06-12T10:40:06.019151+00:00'
+last_seen: '2026-06-12T10:40:06.019151+00:00'
 ---
 
 # A Judge-Aware Ranking Framework for Evaluating Large Language Models without Ground Truth
@@ -20,22 +31,19 @@ Abstract: Evaluating large language models (LLMs) on open-ended tasks without gr
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv Machine Learning
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2601.21817
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- None
-
-## Source
-
-Original source: https://arxiv.org/abs/2601.21817
+- benchmark
+- dataset
+- leaderboard

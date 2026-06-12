@@ -5,11 +5,15 @@ category: ai/rag
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
-published_at: '2025-04-07T18:30:00+00:00'
-collected_at: '2026-06-11T08:37:58.325814+00:00'
+published_at: '2025-04-08T00:00:00+00:00'
+collected_at: '2026-06-12T10:40:08.811801+00:00'
 tags:
+- leaderboard
 - rag
-status: new
+status: active
+id: huggingface:blog/leaderboard-3c3h-aragen-ifeval
+first_seen: '2026-06-12T10:40:08.811801+00:00'
+last_seen: '2026-06-12T10:40:08.811801+00:00'
 ---
 
 # Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More
@@ -20,20 +24,17 @@ No summary provided. Reference resource: Arabic Leaderboards: Introducing Arabic
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/rag
-- Published: 2025-04-07T18:30:00+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-04-08T00:00:00+00:00
 
 ## Related Tags
 
+- leaderboard
 - rag
 
 ## Source

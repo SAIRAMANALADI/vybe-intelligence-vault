@@ -3,7 +3,7 @@ title: "EWAM: An Enhanced World Action Model for Closed-Loop Online Adaptation i
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12690"
-local_vault_path: "ai\research\ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md"
+local_vault_path: "ai/research/ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12690
 
 ## Local Vault File
 
-Path: [ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md](file:///../../ai\research\ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md)
+Path: [ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md](file:///../../ai/research/ewam-an-enhanced-world-action-model-for-closed-loop-online-adaptation-in-embodie-f2cb6e.md)

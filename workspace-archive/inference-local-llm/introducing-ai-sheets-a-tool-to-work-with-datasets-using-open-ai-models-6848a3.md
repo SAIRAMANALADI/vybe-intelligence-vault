@@ -3,12 +3,14 @@ title: "Introducing AI Sheets: a tool to work with datasets using open AI models
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/aisheets"
-local_vault_path: "ai\models\introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md"
+local_vault_path: "ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "dataset"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -39,4 +41,4 @@ Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: [introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md](file:///../../ai\models\introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md)
+Path: [introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md](file:///../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets-using-open-ai-models-6848a3.md)

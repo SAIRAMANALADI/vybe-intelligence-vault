@@ -3,7 +3,7 @@ title: "Structuring The Future: Diffusion LLM Speculative Decoding via Calibrate
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.18085"
-local_vault_path: "ai\research\structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md"
+local_vault_path: "ai/research/structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.18085
 
 ## Local Vault File
 
-Path: [structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md](file:///../../ai\research\structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md)
+Path: [structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md](file:///../../ai/research/structuring-the-future-diffusion-llm-speculative-decoding-via-calibrated-draft-g-36038c.md)

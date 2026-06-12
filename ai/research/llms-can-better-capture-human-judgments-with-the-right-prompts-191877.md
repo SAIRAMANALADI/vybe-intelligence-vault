@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482950+00:00'
+collected_at: '2026-06-12T10:40:03.104061+00:00'
 tags:
 - dataset
 - hackernews
-status: new
+status: active
+id: arxiv:2606.12754
+first_seen: '2026-06-12T10:40:03.104061+00:00'
+last_seen: '2026-06-12T10:40:03.104061+00:00'
 ---
 
 # LLMs Can Better Capture Human Judgments--With the Right Prompts

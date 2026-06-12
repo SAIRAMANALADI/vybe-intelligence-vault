@@ -3,11 +3,11 @@ title: "🧨 Stable Diffusion in JAX / Flax !"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/stable_diffusion_jax"
-local_vault_path: "ai\models\stable-diffusion-in-jax-flax-4894a8.md"
+local_vault_path: "ai/models/stable-diffusion-in-jax-flax-4894a8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion_jax
 
 ## Local Vault File
 
-Path: [stable-diffusion-in-jax-flax-4894a8.md](file:///../../ai\models\stable-diffusion-in-jax-flax-4894a8.md)
+Path: [stable-diffusion-in-jax-flax-4894a8.md](file:///../../ai/models/stable-diffusion-in-jax-flax-4894a8.md)

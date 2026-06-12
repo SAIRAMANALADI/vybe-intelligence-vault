@@ -3,7 +3,7 @@ title: "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13572"
-local_vault_path: "ai\agents\arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md"
+local_vault_path: "ai/agents/arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.13572
 
 ## Local Vault File
 
-Path: [arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md](file:///../../ai\agents\arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md)
+Path: [arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md](file:///../../ai/agents/arogyasutra-a-multi-agent-framework-for-multimodal-medical-reasoning-in-indic-la-be4f2a.md)

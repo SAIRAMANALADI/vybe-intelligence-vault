@@ -10,12 +10,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481508+00:00'
+collected_at: '2026-06-12T10:40:03.102379+00:00'
 tags:
 - benchmark
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.13141
+first_seen: '2026-06-12T10:40:03.102379+00:00'
+last_seen: '2026-06-12T10:40:03.102379+00:00'
 ---
 
 # Rethinking RAG in Long Videos: What to Retrieve and How to Use It?

@@ -3,11 +3,11 @@ title: "Faster assisted generation support for Intel Gaudi"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/assisted-generation-support-gaudi"
-local_vault_path: "ai\models\faster-assisted-generation-support-for-intel-gaudi-077765.md"
+local_vault_path: "ai/models/faster-assisted-generation-support-for-intel-gaudi-077765.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation-support-gau
 
 ## Local Vault File
 
-Path: [faster-assisted-generation-support-for-intel-gaudi-077765.md](file:///../../ai\models\faster-assisted-generation-support-for-intel-gaudi-077765.md)
+Path: [faster-assisted-generation-support-for-intel-gaudi-077765.md](file:///../../ai/models/faster-assisted-generation-support-for-intel-gaudi-077765.md)

@@ -11,7 +11,7 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.484334+00:00'
+collected_at: '2026-06-12T10:40:03.105567+00:00'
 tags:
 - agents
 - anthropic
@@ -19,7 +19,10 @@ tags:
 - paper
 - rag
 - workflows
-status: new
+status: active
+id: arxiv:2606.13535
+first_seen: '2026-06-12T10:40:03.105567+00:00'
+last_seen: '2026-06-12T10:40:03.105567+00:00'
 ---
 
 # AgentRivet: an automated system for producing Rivet routines from journal publications

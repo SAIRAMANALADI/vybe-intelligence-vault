@@ -3,7 +3,7 @@ title: "Rewrite to Translate, Translate to Reward: Reinforcement Learning for So
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08011"
-local_vault_path: "ai\research\rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md"
+local_vault_path: "ai/research/rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.08011
 
 ## Local Vault File
 
-Path: [rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md](file:///../../ai\research\rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md)
+Path: [rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md](file:///../../ai/research/rewrite-to-translate-translate-to-reward-reinforcement-learning-for-source-rewri-531f45.md)

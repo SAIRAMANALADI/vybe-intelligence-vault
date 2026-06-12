@@ -3,7 +3,7 @@ title: "frontendfyi/rebuilding-linear.app"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/frontendfyi/rebuilding-linear.app"
-local_vault_path: "web-development\framer-motion\frontendfyi-rebuilding-linear-app-787428.md"
+local_vault_path: "web-development/framer-motion/frontendfyi-rebuilding-linear-app-787428.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/frontendfyi/rebuilding-linear.app
 
 ## Local Vault File
 
-Path: [frontendfyi-rebuilding-linear-app-787428.md](file:///../../web-development\framer-motion\frontendfyi-rebuilding-linear-app-787428.md)
+Path: [frontendfyi-rebuilding-linear-app-787428.md](file:///../../web-development/framer-motion/frontendfyi-rebuilding-linear-app-787428.md)

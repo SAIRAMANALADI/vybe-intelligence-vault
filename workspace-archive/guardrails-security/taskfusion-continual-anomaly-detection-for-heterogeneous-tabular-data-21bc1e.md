@@ -3,7 +3,7 @@ title: "TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11844"
-local_vault_path: "ai\research\taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md"
+local_vault_path: "ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11844
 
 ## Local Vault File
 
-Path: [taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md](file:///../../ai\research\taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)
+Path: [taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md](file:///../../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)

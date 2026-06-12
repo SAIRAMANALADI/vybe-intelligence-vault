@@ -3,11 +3,11 @@ title: "Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/async-rl-training-landscape"
-local_vault_path: "ai\models\keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md"
+local_vault_path: "ai/models/keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/async-rl-training-landscape
 
 ## Local Vault File
 
-Path: [keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md](file:///../../ai\models\keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md)
+Path: [keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md](file:///../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-source-rl-libraries-1d66f3.md)

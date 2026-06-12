@@ -3,39 +3,47 @@ title: Physics-Distilled Neural Network enabled by Large Language Models for Man
   Process-Property Predictive Modeling
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2606.11605
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.522572+00:00'
-tags: []
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.013759+00:00'
+tags:
+- dataset
+- hackernews
+- paper
+status: active
+id: arxiv:2606.11605
+first_seen: '2026-06-12T10:40:06.013759+00:00'
+last_seen: '2026-06-12T10:40:06.013759+00:00'
 ---
 
 # Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling
 
 ## Summary
 
-arXiv:2606.11605v1 Announce Type: cross 
+arXiv:2606.11605v1 Announce Type: new 
 Abstract: Predicting process-property relationships in manufacturing is often challenged by high experimental costs and the limited interpretability of complex 'black-box' models. This paper proposes a novel knowledge distillation framework designed to achieve high-accuracy predictions in data-scarce scenarios. The framework integrates analytical physics priors, which are systematically extracted from scientific literature via Large Language Models, into a privileged teacher model. We employ a Graph-Masked Attention layer to capture the complex physical dependencies among input variables showing strict setpoints or a combination of static and high-frequency temporal signatures. This privileged knowledge is distilled into a lightweight student predictor for inference. The feasibility and robustness of the framework are evaluated through a comprehensive experiment across five diverse manufacturing processes. To ensure statistical reliability, given the small dataset sizes, a repeated K-fold cross-validation technique is employed to quantify model stability and generalization. Results indicate that the proposed framework consistently achieves high predictive accuracy across all evaluated domains. Most importantly, the architecture demonstrates significant fault tolerance by maintaining robust predictive performance even in scenarios where LLM-derived analytical priors are suboptimal or incomplete. Furthermore, the student predictor achieves an inference frequency exceeding 6000 Hz, which facilitates real-time edge deployment on standard industrial hardware. This work provides a scalable solution for bridging the gap between theoretical physics and real-time industrial monitoring in data-limited environments.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2606.11605
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- None
-
-## Source
-
-Original source: https://arxiv.org/abs/2606.11605
+- dataset
+- hackernews
+- paper

@@ -3,17 +3,17 @@ title: "Quantized Stochastic Primal-Dual Methods for Distributed Optimization un
 archive_category: "inference-local-llm"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11339"
-local_vault_path: "ai\research\quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md"
+local_vault_path: "ai/research/quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Quantized Stochastic Primal-Dual Methods for Distributed Optimization under Relaxed Global Geometry
@@ -22,10 +22,10 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11339
 
 ## Local Vault File
 
-Path: [quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md](file:///../../ai\research\quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md)
+Path: [quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md](file:///../../ai/research/quantized-stochastic-primal-dual-methods-for-distributed-optimization-under-rela-648597.md)

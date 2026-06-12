@@ -10,10 +10,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482113+00:00'
+collected_at: '2026-06-12T10:40:03.103061+00:00'
 tags:
 - paper
-status: new
+status: active
+id: arxiv:2606.13658
+first_seen: '2026-06-12T10:40:03.103061+00:00'
+last_seen: '2026-06-12T10:40:03.103061+00:00'
 ---
 
 # Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization

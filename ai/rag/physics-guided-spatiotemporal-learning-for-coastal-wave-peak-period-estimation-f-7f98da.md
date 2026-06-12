@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.481761+00:00'
+collected_at: '2026-06-12T10:40:03.102673+00:00'
 tags:
 - models
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2606.13302
+first_seen: '2026-06-12T10:40:03.102673+00:00'
+last_seen: '2026-06-12T10:40:03.102673+00:00'
 ---
 
 # Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video

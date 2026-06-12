@@ -10,10 +10,13 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485803+00:00'
+collected_at: '2026-06-12T10:40:03.107203+00:00'
 tags:
 - models
-status: new
+status: active
+id: arxiv:2603.02234
+first_seen: '2026-06-12T10:40:03.107203+00:00'
+last_seen: '2026-06-12T10:40:03.107203+00:00'
 ---
 
 # Structured vs. Unstructured Pruning: An Exponential Gap

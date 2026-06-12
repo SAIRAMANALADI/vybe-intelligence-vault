@@ -3,11 +3,11 @@ title: "Policy Gradient with PyTorch"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-rl-pg"
-local_vault_path: "ai\models\policy-gradient-with-pytorch-c400c0.md"
+local_vault_path: "ai/models/policy-gradient-with-pytorch-c400c0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-pg
 
 ## Local Vault File
 
-Path: [policy-gradient-with-pytorch-c400c0.md](file:///../../ai\models\policy-gradient-with-pytorch-c400c0.md)
+Path: [policy-gradient-with-pytorch-c400c0.md](file:///../../ai/models/policy-gradient-with-pytorch-c400c0.md)

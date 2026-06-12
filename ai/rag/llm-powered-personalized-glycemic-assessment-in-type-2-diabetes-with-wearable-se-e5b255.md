@@ -11,13 +11,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482882+00:00'
+collected_at: '2026-06-12T10:40:03.103988+00:00'
 tags:
 - dataset
 - models
 - paper
 - rag
-status: new
+status: active
+id: arxiv:2606.12699
+first_seen: '2026-06-12T10:40:03.103988+00:00'
+last_seen: '2026-06-12T10:40:03.103988+00:00'
 ---
 
 # LLM-Powered Personalized Glycemic Assessment in Type 2 Diabetes with Wearable Sensor Data

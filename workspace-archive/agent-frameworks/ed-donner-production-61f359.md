@@ -3,7 +3,7 @@ title: "ed-donner/production"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/ed-donner/production"
-local_vault_path: "ai\agents\ed-donner-production-61f359.md"
+local_vault_path: "ai/agents/ed-donner-production-61f359.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/ed-donner/production
 
 ## Local Vault File
 
-Path: [ed-donner-production-61f359.md](file:///../../ai\agents\ed-donner-production-61f359.md)
+Path: [ed-donner-production-61f359.md](file:///../../ai/agents/ed-donner-production-61f359.md)

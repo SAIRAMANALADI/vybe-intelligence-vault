@@ -3,7 +3,7 @@ title: "MLT-Dedup: Efficient Large-Scale Online Video Deduplication via Multi-Le
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12215"
-local_vault_path: "ai\rag\mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md"
+local_vault_path: "ai/rag/mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "framework"
 importance: "medium"
 tags:
   - rag
+  - youtube
 selection_reason:
   - "Useful for project building"
 ---
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12215
 
 ## Local Vault File
 
-Path: [mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md](file:///../../ai\rag\mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md)
+Path: [mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md](file:///../../ai/rag/mlt-dedup-efficient-large-scale-online-video-deduplication-via-multi-level-repre-f664e5.md)

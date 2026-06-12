@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/malonge/RaGOO
-collected_at: '2026-06-11T12:53:03.044219+00:00'
+collected_at: '2026-06-12T10:41:29.082807+00:00'
 published_at: '2026-03-06T10:18:52Z'
 tags:
 - github-repo
@@ -12,7 +12,14 @@ tags:
 - rag
 stars: 174
 language: Python
-status: new
+status: active
+license: MIT
+archived: false
+created_at: '2018-02-01T16:24:07Z'
+pushed_at: '2021-05-30T18:18:23Z'
+id: null
+first_seen: '2026-06-12T10:41:29.082807+00:00'
+last_seen: '2026-06-12T10:41:29.082807+00:00'
 ---
 
 # malonge/RaGOO
@@ -33,6 +40,10 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Language: Python
 - Topics: bioinformatics, genome-assembly, genome-scaffolding
 - Last Updated: 2026-03-06T10:18:52Z
+- License: MIT
+- Archived: No
+- Created At: 2018-02-01T16:24:07Z
+- Pushed At: 2021-05-30T18:18:23Z
 
 ## Possible Use Cases
 

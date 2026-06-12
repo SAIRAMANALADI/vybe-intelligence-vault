@@ -3,13 +3,17 @@ title: "Spectrally Regularized Latent Flow Matching for Turbulence Generation"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11691"
-local_vault_path: "ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md"
+local_vault_path: "ai/research/spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +22,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11691
 
 ## Local Vault File
 
-Path: [spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md](file:///../../ai\research\spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md)
+Path: [spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md](file:///../../ai/research/spectrally-regularized-latent-flow-matching-for-turbulence-generation-aed88e.md)

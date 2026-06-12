@@ -3,7 +3,7 @@ title: "Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Em
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13097"
-local_vault_path: "ai\rag\functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md"
+local_vault_path: "ai/rag/functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13097
 
 ## Local Vault File
 
-Path: [functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md](file:///../../ai\rag\functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md)
+Path: [functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md](file:///../../ai/rag/functional-cache-grafting-robust-and-rapid-code-policy-synthesis-for-embodied-ag-441c38.md)

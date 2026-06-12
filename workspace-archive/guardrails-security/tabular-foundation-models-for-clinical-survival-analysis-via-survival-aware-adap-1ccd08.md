@@ -3,12 +3,14 @@ title: "Tabular Foundation Models for Clinical Survival Analysis via Survival-Aw
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12006"
-local_vault_path: "ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md"
+local_vault_path: "ai/research/tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "benchmark"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Valuable developer reference"
 ---
@@ -25,8 +27,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.12006v1 Announce Type: cross 
-Abstract: Predicting time-to-event outcomes such as mortality is a fundamental task in clinical decision-making, commonly addressed through survival analysis. While classical statistical and deep learning approaches have been widely studied, they typically require task-specific training and sufficient labeled data. Recent advances in tabular foundation models offer a new paradigm by learning general-purpose representations for structured data. However, th
+arXiv:2606.12006v1 Announce Type: new 
+Abstract: Predicting time-to-event outcomes such as mortality is a fundamental task in clinical decision-making, commonly addressed through survival analysis. While classical statistical and deep learning approaches have been widely studied, they typically require task-specific training and sufficient labeled data. Recent advances in tabular foundation models offer a new paradigm by learning general-purpose representations for structured data. However, thei
 
 ## Use Cases
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12006
 
 ## Local Vault File
 
-Path: [tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md](file:///../../ai\research\tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md)
+Path: [tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md](file:///../../ai/research/tabular-foundation-models-for-clinical-survival-analysis-via-survival-aware-adap-1ccd08.md)

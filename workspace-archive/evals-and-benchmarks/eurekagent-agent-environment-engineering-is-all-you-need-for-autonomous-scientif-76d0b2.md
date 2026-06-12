@@ -3,7 +3,7 @@ title: "EurekAgent: Agent Environment Engineering is All You Need For Autonomous
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13662"
-local_vault_path: "ai\agents\eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md"
+local_vault_path: "ai/agents/eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.13662
 
 ## Local Vault File
 
-Path: [eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md](file:///../../ai\agents\eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md)
+Path: [eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md](file:///../../ai/agents/eurekagent-agent-environment-engineering-is-all-you-need-for-autonomous-scientif-76d0b2.md)

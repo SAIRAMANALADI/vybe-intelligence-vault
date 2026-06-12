@@ -3,12 +3,16 @@ title: "Categorical Robustness Assessment for Machine Learning based Network Int
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12075"
-local_vault_path: "ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md"
+local_vault_path: "ai/research/categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "dataset"
 importance: "medium"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
   - "Strong keyword match"
   - "Valuable developer reference"
@@ -19,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
@@ -42,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12075
 
 ## Local Vault File
 
-Path: [categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md](file:///../../ai\research\categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md)
+Path: [categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md](file:///../../ai/research/categorical-robustness-assessment-for-machine-learning-based-network-intrusion-d-772d66.md)

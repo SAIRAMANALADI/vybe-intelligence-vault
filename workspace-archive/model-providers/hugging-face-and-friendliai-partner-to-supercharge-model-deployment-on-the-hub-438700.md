@@ -3,11 +3,11 @@ title: "Hugging Face and FriendliAI partner to supercharge model deployment on t
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/friendliai-partnership"
-local_vault_path: "ai\models\hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md"
+local_vault_path: "ai/models/hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/friendliai-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md](file:///../../ai\models\hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md)
+Path: [hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md](file:///../../ai/models/hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md)

@@ -3,15 +3,18 @@ title: "Steering the Noise: Turning Random Perturbations into Effective Descent 
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.04710"
-local_vault_path: "ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md"
+local_vault_path: "ai/research/steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - models
+  - paper
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -20,9 +23,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: framework
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -42,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2601.04710
 
 ## Local Vault File
 
-Path: [steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md](file:///../../ai\research\steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md)
+Path: [steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md](file:///../../ai/research/steering-the-noise-turning-random-perturbations-into-effective-descent-for-memor-deb5b4.md)

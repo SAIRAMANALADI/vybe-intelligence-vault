@@ -4,13 +4,16 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/dan5py/react-vite-shadcn-ui
-collected_at: '2026-06-11T08:45:48.578469+00:00'
+collected_at: '2026-06-12T10:40:21.841615+00:00'
 published_at: '2026-06-11T06:37:35Z'
 tags:
 - frontend_ui
 stars: 308
 language: TypeScript
-status: new
+status: active
+id: github:dan5py/react-vite-shadcn-ui
+first_seen: '2026-06-12T10:40:21.841615+00:00'
+last_seen: '2026-06-12T10:40:21.841615+00:00'
 ---
 
 # dan5py/react-vite-shadcn-ui

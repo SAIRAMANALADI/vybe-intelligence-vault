@@ -3,14 +3,15 @@ title: "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.03065"
-local_vault_path: "ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md"
+local_vault_path: "ai/research/ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md"
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # OGPO: Sample Efficient Full-Finetuning of Generative Control Policies
@@ -18,10 +19,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.03065
 
 ## Local Vault File
 
-Path: [ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md](file:///../../ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md)
+Path: [ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md](file:///../../ai/research/ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md)

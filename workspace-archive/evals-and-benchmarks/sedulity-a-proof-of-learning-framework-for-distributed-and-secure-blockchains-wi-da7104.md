@@ -3,13 +3,16 @@ title: "SEDULity: A Proof-of-Learning Framework for Distributed and Secure Block
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.13666"
-local_vault_path: "ai\research\sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md"
+local_vault_path: "ai/research/sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md"
 quality_score: 70
-archive_score: 70
+archive_score: 74
 archive_tier: "useful"
 resource_kind: "template"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
+  - "Strong keyword match"
   - "Useful for project building"
 ---
 
@@ -18,9 +21,10 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: template
 - Selection reasons:
+  - Strong keyword match
   - Useful for project building
 
 ## Summary
@@ -40,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2512.13666
 
 ## Local Vault File
 
-Path: [sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md](file:///../../ai\research\sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md)
+Path: [sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md](file:///../../ai/research/sedulity-a-proof-of-learning-framework-for-distributed-and-secure-blockchains-wi-da7104.md)

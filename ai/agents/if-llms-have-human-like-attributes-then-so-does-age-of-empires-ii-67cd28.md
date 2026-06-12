@@ -10,12 +10,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486188+00:00'
+collected_at: '2026-06-12T10:40:03.107631+00:00'
 tags:
 - agents
 - workflows
 - youtube
-status: new
+status: active
+id: arxiv:2605.31514
+first_seen: '2026-06-12T10:40:03.107631+00:00'
+last_seen: '2026-06-12T10:40:03.107631+00:00'
 ---
 
 # If LLMs Have Human-Like Attributes, Then So Does Age of Empires II

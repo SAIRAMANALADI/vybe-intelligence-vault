@@ -3,12 +3,14 @@ title: "PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Tem
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12141"
-local_vault_path: "ai\research\pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md"
+local_vault_path: "ai/research/pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12141
 
 ## Local Vault File
 
-Path: [pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md](file:///../../ai\research\pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md)
+Path: [pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md](file:///../../ai/research/pca-enhanced-adaptive-nvar-framework-for-high-resolution-sea-surface-temperature-9ee21d.md)

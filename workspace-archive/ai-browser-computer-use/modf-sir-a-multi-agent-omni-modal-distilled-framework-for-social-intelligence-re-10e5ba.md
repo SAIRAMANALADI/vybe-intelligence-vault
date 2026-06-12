@@ -3,7 +3,7 @@ title: "MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intell
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12018"
-local_vault_path: "ai\agents\modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md"
+local_vault_path: "ai/agents/modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12018
 
 ## Local Vault File
 
-Path: [modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md](file:///../../ai\agents\modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md)
+Path: [modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md](file:///../../ai/agents/modf-sir-a-multi-agent-omni-modal-distilled-framework-for-social-intelligence-re-10e5ba.md)

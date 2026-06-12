@@ -3,40 +3,47 @@ title: 'CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Superv
   Learning'
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2601.11670
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.524067+00:00'
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.017412+00:00'
 tags:
+- benchmark
+- hackernews
 - models
-status: new
+status: active
+id: arxiv:2601.11670
+first_seen: '2026-06-12T10:40:06.017412+00:00'
+last_seen: '2026-06-12T10:40:06.017412+00:00'
 ---
 
 # CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Supervised Learning
 
 ## Summary
 
-arXiv:2601.11670v3 Announce Type: replace-cross 
+arXiv:2601.11670v3 Announce Type: replace 
 Abstract: Pseudo-label selection in semi-supervised learning is commonly driven by maximum-confidence thresholds, yet confidence alone can be unreliable under model overconfidence and class imbalance. We propose CoVar, a confidence--variance framework that assesses pseudo-label reliability by jointly modeling Maximum Confidence (MC) and Residual-Class Variance (RCV). Starting from entropy minimization, we derive a second-order cross-entropy approximation showing that low-loss pseudo-labels are favored when MC is high and RCV is low, with a confidence-dependent penalty that becomes stronger for near-certain predictions. Based on this criterion, CoVar embeds predictions into a two-dimensional confidence--variance space and uses SVD-based spectral relaxation to separate reliable and unreliable predictions without hand-tuned confidence thresholds. Cluster-wise Gaussian weighting then converts this separation into per-sample training weights. The resulting weights can be integrated into existing semi-supervised segmentation and classification pipelines during training and introduce no inference-time overhead. Experiments on PASCAL VOC 2012, Cityscapes, CIFAR-10, CIFAR-100, SVHN, and STL-10 show clear gains on VOC and Cityscapes under matched backbones, as well as competitive or improved error rates on standard classification benchmarks. These results indicate that residual-class dispersion provides a useful signal complementary to confidence for robust pseudo-label selection.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2601.11670
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
+- benchmark
+- hackernews
 - models
-
-## Source
-
-Original source: https://arxiv.org/abs/2601.11670

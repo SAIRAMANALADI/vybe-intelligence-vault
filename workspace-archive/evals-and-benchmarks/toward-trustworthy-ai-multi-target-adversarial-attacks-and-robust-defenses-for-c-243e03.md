@@ -3,15 +3,18 @@ title: "Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defen
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11804"
-local_vault_path: "ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md"
+local_vault_path: "ai/research/toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
+  - paper
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Toward Trustworthy AI: Multi-Target Adversarial Attacks and Robust Defenses for Continuous Data Summarization
@@ -19,16 +22,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11804v1 Announce Type: new 
-Abstract: Trustworthy AI requires reliable data-processing pipelines, not only robust downstream predictive models. As an upstream component, data summarization determines which information is retained and passed to subsequent learning or decision modules. Therefore, adversarial perturbations to the summarization process can compromise trustworthy AI in an upstream manner: they may alter the selected summary, reduce its representativeness, and further degra
+arXiv:2606.11804v1 Announce Type: cross 
+Abstract: Trustworthy AI requires reliable data-processing pipelines, not only robust downstream predictive models. As an upstream component, data summarization determines which information is retained and passed to subsequent learning or decision modules. Therefore, adversarial perturbations to the summarization process can compromise trustworthy AI in an upstream manner: they may alter the selected summary, reduce its representativeness, and further deg
 
 ## Use Cases
 
@@ -42,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11804
 
 ## Local Vault File
 
-Path: [toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md](file:///../../ai\research\toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md)
+Path: [toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md](file:///../../ai/research/toward-trustworthy-ai-multi-target-adversarial-attacks-and-robust-defenses-for-c-243e03.md)

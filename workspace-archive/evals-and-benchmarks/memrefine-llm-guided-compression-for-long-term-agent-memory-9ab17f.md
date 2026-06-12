@@ -3,7 +3,7 @@ title: "MemRefine: LLM-Guided Compression for Long-Term Agent Memory"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.13177"
-local_vault_path: "ai\rag\memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md"
+local_vault_path: "ai/rag/memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.13177
 
 ## Local Vault File
 
-Path: [memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md](file:///../../ai\rag\memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md)
+Path: [memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md](file:///../../ai/rag/memrefine-llm-guided-compression-for-long-term-agent-memory-9ab17f.md)

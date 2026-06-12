@@ -2,40 +2,42 @@
 title: Noise-Guided Transport for Imitation Learning
 category: ai/research
 source_type: arxiv
-source_name: arXiv AI
+source_name: arXiv Machine Learning
 source_url: https://arxiv.org/abs/2509.26294
-published_at: '2026-06-10T22:30:00+00:00'
-collected_at: '2026-06-11T08:37:53.523933+00:00'
-tags:
-- framer_motion
-status: new
+authors: []
+year: N/A
+citation_count: N/A
+code_url: None
+stars: N/A
+published_at: '2026-06-12T04:00:00+00:00'
+collected_at: '2026-06-12T10:40:06.017150+00:00'
+tags: []
+status: active
+id: arxiv:2509.26294
+first_seen: '2026-06-12T10:40:06.017150+00:00'
+last_seen: '2026-06-12T10:40:06.017150+00:00'
 ---
 
 # Noise-Guided Transport for Imitation Learning
 
 ## Summary
 
-arXiv:2509.26294v2 Announce Type: replace-cross 
+arXiv:2509.26294v2 Announce Type: replace 
 Abstract: We consider imitation learning in the low-data regime, where only a limited number of expert demonstrations are available. In this setting, methods that rely on large-scale pretraining or high-capacity architectures can be difficult to apply, and efficiency with respect to demonstration data becomes critical. We introduce Noise-Guided Transport (NGT), a lightweight off-policy method that casts imitation as an optimal transport problem solved via adversarial training. NGT requires no pretraining or specialized architectures, incorporates uncertainty estimation by design, and is easy to implement and tune. Despite its simplicity, NGT achieves strong performance on challenging continuous control tasks, including high-dimensional Humanoid tasks, under ultra-low data regimes with as few as 20 transitions.
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+Academic research paper tracking. Focuses on breakthroughs, frameworks, evaluations, or benchmarks in AI engineering, RAG, or agent systems.
 
-## Key Points
+## Paper Metadata
 
-- Source: arXiv AI
-- Category: ai/research
-- Published: 2026-06-10T22:30:00+00:00
+- Authors: Unknown
+- Publication Year: N/A
+- Citation Count: N/A
+- Paper Link: https://arxiv.org/abs/2509.26294
+- Code Link: None
+- Code Stars: N/A
 
-## Implementation Notes
+## Key Topics & Tags
 
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
-## Related Tags
-
-- framer_motion
-
-## Source
-
-Original source: https://arxiv.org/abs/2509.26294
+- None

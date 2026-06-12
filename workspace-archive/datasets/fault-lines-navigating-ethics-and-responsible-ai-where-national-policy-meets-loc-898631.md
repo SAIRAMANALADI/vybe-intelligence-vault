@@ -3,7 +3,7 @@ title: "Fault Lines: Navigating Ethics and Responsible AI Where National Policy 
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.13039"
-local_vault_path: "ai\research\fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md"
+local_vault_path: "ai/research/fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.13039
 
 ## Local Vault File
 
-Path: [fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md](file:///../../ai\research\fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md)
+Path: [fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md](file:///../../ai/research/fault-lines-navigating-ethics-and-responsible-ai-where-national-policy-meets-loc-898631.md)

@@ -3,11 +3,11 @@ title: "Deploy models on AWS Inferentia2 from Hugging Face"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inferentia-inference-endpoints"
-local_vault_path: "ai\models\deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md"
+local_vault_path: "ai/models/deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "api"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: api
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inferentia-inference-endpoints
 
 ## Local Vault File
 
-Path: [deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md](file:///../../ai\models\deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md)
+Path: [deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md](file:///../../ai/models/deploy-models-on-aws-inferentia2-from-hugging-face-632d6d.md)

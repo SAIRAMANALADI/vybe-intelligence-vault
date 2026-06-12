@@ -10,9 +10,12 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.483713+00:00'
+collected_at: '2026-06-12T10:40:03.104880+00:00'
 tags: []
-status: new
+status: active
+id: arxiv:2606.13125
+first_seen: '2026-06-12T10:40:03.104880+00:00'
+last_seen: '2026-06-12T10:40:03.104880+00:00'
 ---
 
 # Select and Improve: Understanding the Mechanics of Post-Training for Reasoning

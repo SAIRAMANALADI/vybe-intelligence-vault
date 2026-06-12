@@ -3,17 +3,17 @@ title: "Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Dis
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.14913"
-local_vault_path: "ai\rag\coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md"
+local_vault_path: "ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - rag
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Coverage Guarantees for Pseudo-Calibrated Conformal Prediction under Distribution Shift
@@ -22,10 +22,10 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2602.14913
 
 ## Local Vault File
 
-Path: [coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md](file:///../../ai\rag\coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md)
+Path: [coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md](file:///../../ai/rag/coverage-guarantees-for-pseudo-calibrated-conformal-prediction-under-distributio-469c69.md)

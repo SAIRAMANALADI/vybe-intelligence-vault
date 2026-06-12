@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.483601+00:00'
+collected_at: '2026-06-12T10:40:03.104752+00:00'
 tags:
 - paper
 - reddit
-status: new
+status: active
+id: arxiv:2606.13071
+first_seen: '2026-06-12T10:40:03.104752+00:00'
+last_seen: '2026-06-12T10:40:03.104752+00:00'
 ---
 
 # "Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System

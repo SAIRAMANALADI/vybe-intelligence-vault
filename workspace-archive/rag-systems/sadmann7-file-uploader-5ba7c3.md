@@ -3,7 +3,7 @@ title: "sadmann7/file-uploader"
 archive_category: "rag-systems"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/sadmann7/file-uploader"
-local_vault_path: "web-development\shadcn-ui\sadmann7-file-uploader-5ba7c3.md"
+local_vault_path: "web-development/shadcn-ui/sadmann7-file-uploader-5ba7c3.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/sadmann7/file-uploader
 
 ## Local Vault File
 
-Path: [sadmann7-file-uploader-5ba7c3.md](file:///../../web-development\shadcn-ui\sadmann7-file-uploader-5ba7c3.md)
+Path: [sadmann7-file-uploader-5ba7c3.md](file:///../../web-development/shadcn-ui/sadmann7-file-uploader-5ba7c3.md)

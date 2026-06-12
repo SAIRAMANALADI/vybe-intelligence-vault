@@ -16,99 +16,99 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Category | Count |
 |---|---:|
-| ai/models | 688 |
-| ai/research | 430 |
+| ai/models | 685 |
+| ai/research | 431 |
 | ai/rag | 422 |
-| ai/agents | 269 |
+| ai/agents | 272 |
 | web-development/threejs | 28 |
 | web-development/webgpu | 26 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
 | ai/resources | 25 |
 | web-development/react-three-fiber | 24 |
-| ai/community | 22 |
+| ai/community | 24 |
 | web-development/nextjs | 17 |
 | ai/companies/mistral | 10 |
 | ai/companies/anthropic | 9 |
 | web-development/gsap | 6 |
 | ai/companies/deepmind | 5 |
 | ai/companies/openai | 4 |
-| web-development/tailwind | 1 |
 | web-development/webgl | 1 |
+| web-development/tailwind | 1 |
 
 ## Most Common Tags
 
 | Tag | Count |
 |---|---:|
-| agents | 432 |
+| agents | 436 |
 | rag | 423 |
+| benchmark | 373 |
 | models | 322 |
-| benchmark | 233 |
+| dataset | 211 |
+| hackernews | 158 |
+| paper | 158 |
 | github-repo | 141 |
 | workflows | 135 |
-| hackernews | 123 |
-| frontend_ui | 122 |
-| dataset | 116 |
-| paper | 97 |
-| web-crawled | 93 |
-| threejs | 84 |
-| openai | 79 |
-| python | 74 |
-| anthropic | 70 |
+| frontend_ui | 131 |
+| youtube | 96 |
+| web-crawled | 94 |
+| openai | 88 |
+| threejs | 83 |
+| anthropic | 76 |
 
 ## Weekly Community Updates
 
-1. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md) ([Source](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable)) (HN Score: 427) - `ai/community`
-2. [Anthropic requires 30 day data retention for Fable and Mythos](../../../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md) ([Source](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)) (HN Score: 414) - `ai/community`
-3. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md) ([Source](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
-4. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane-923f03.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
-5. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
-6. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
-7. [Ear Training Practice](../../../ai/community/ear-training-practice-28e3cd.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
+1. [AI agent bankrupted their operator while trying to scan DN42](../../../ai/community/ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42-ab8be5.md) ([Source](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian)) (HN Score: 631) - `ai/community`
+2. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md) ([Source](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable)) (HN Score: 427) - `ai/community`
+3. [Anthropic requires 30 day data retention for Fable and Mythos](../../../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md) ([Source](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)) (HN Score: 414) - `ai/community`
+4. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere-5afe49.md) ([Source](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
+5. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane-923f03.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
+6. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applications-955384.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
+7. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-military-drones-21c10a.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
 8. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-guardrails-866072.md) ([Source](https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 158) - `ai/community`
-9. [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../../../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md) ([Source](https://kennethpayne.uk/p/shall-we-play-a-game)) (HN Score: 141) - `ai/community`
-10. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/helixdb/helix-db)) (HN Score: 122) - `ai/community`
-11. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
-12. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md) ([Source](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air)) (HN Score: 70) - `ai/community`
-13. [How Terry Tao became an evangelist for AI in math](../../../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md) ([Source](https://quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608)) (HN Score: 47) - `ai/community`
-14. [MTG Bench: Testing how well LLMs can play Magic](../../../ai/community/mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md) ([Source](https://mtgautodeck.com/articles/mtg-bench)) (HN Score: 43) - `ai/community`
-15. [Show HN: Claw Patrol, a security firewall for agents](../../../ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md) ([Source](https://github.com/denoland/clawpatrol)) (HN Score: 38) - `ai/community`
+9. [Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](../../../ai/community/digital-sovereignty-becomes-an-imperative-as-the-us-reads-dutch-emails-e243cf.md) ([Source](https://korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails)) (HN Score: 143) - `ai/community`
+10. [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../../../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95-of-simulations-6e32b6.md) ([Source](https://kennethpayne.uk/p/shall-we-play-a-game)) (HN Score: 141) - `ai/community`
+11. [Show HN: HelixDB – A graph database built on object storage](../../../ai/community/show-hn-helixdb-a-graph-database-built-on-object-storage-968a9e.md) ([Source](https://github.com/helixdb/helix-db)) (HN Score: 122) - `ai/community`
+12. [Klondike Solitaire game for curses in 5k of C](../../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md) ([Source](https://nanochess.org/klondike_in_c.html)) (HN Score: 74) - `ai/community`
+13. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air-e2dbf8.md) ([Source](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air)) (HN Score: 70) - `ai/community`
+14. [How Terry Tao became an evangelist for AI in math](../../../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md) ([Source](https://quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608)) (HN Score: 47) - `ai/community`
+15. [Ear Training Practice Exercises](../../../ai/community/ear-training-practice-exercises-28e3cd.md) ([Source](https://tonedear.com)) (HN Score: 45) - `ai/community`
 
 ## Weekly Research Insights
 
-1. [A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents](../../../ai/agents/a-five-plane-reference-architecture-for-runtime-governance-of-production-ai-agen-f35aaa.md) ([Source](https://arxiv.org/abs/2606.12320)) - `ai/agents`
-2. [A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design](../../../ai/agents/a-lightweight-multi-agent-framework-for-automated-concrete-barrier-design-ff00fb.md) ([Source](https://arxiv.org/abs/2606.12040)) - `ai/agents`
-3. [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](../../../ai/agents/a-survey-of-reasoning-and-agentic-systems-in-time-series-with-large-language-mod-1c0643.md) ([Source](https://arxiv.org/abs/2509.11575)) - `ai/agents`
-4. [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](../../../ai/agents/agentic-environment-engineering-for-large-language-models-a-survey-of-environmen-4738ea.md) ([Source](https://arxiv.org/abs/2606.12191)) - `ai/agents`
-5. [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](../../../ai/agents/agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md) ([Source](https://arxiv.org/abs/2606.05608)) - `ai/agents`
-6. [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](../../../ai/agents/agents-all-the-way-down-a-methodology-for-building-custom-ai-agents-from-substra-8e8b24.md) ([Source](https://arxiv.org/abs/2606.11869)) - `ai/agents`
-7. [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](../../../ai/agents/ai-coding-agents-in-social-science-methodologically-diverse-empirically-consiste-11c49a.md) ([Source](https://arxiv.org/abs/2606.11456)) - `ai/agents`
-8. [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](../../../ai/agents/ai4slt-empirical-processes-in-lean-4-for-formal-statistical-learning-theory-dcb13d.md) ([Source](https://arxiv.org/abs/2602.02285)) - `ai/agents`
-9. [An Ethical eValuation Agent (EeVA): Results of a Proof-of-Concept Test on a Prototype Agentic-like Workflow to Assist Ethical Deliberations](../../../ai/agents/an-ethical-evaluation-agent-eeva-results-of-a-proof-of-concept-test-on-a-prototy-64eab4.md) ([Source](https://arxiv.org/abs/2606.11218)) - `ai/agents`
-10. [APPO: Agentic Procedural Policy Optimization](../../../ai/agents/appo-agentic-procedural-policy-optimization-1886e5.md) ([Source](https://arxiv.org/abs/2606.12384)) - `ai/agents`
-11. [Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](../../../ai/agents/architecture-aware-reinforcement-learning-makes-sliding-window-attention-competi-3aa89f.md) ([Source](https://arxiv.org/abs/2606.11634)) - `ai/agents`
-12. [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../../../ai/agents/artificial-intelligence-in-ship-finance-applications-opportunities-and-a-case-st-197888.md) ([Source](https://arxiv.org/abs/2606.11238)) - `ai/agents`
-13. [ATLAS: Active Theory Learning for Automated Science](../../../ai/agents/atlas-active-theory-learning-for-automated-science-0dd3f9.md) ([Source](https://arxiv.org/abs/2606.12386)) - `ai/agents`
-14. [Automated Creativity Evaluation of Language Models Across Open-Ended Tasks](../../../ai/agents/automated-creativity-evaluation-of-language-models-across-open-ended-tasks-79d9f1.md) ([Source](https://arxiv.org/abs/2606.11762)) - `ai/agents`
-15. [Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline](../../../ai/agents/automated-mediator-for-human-negotiation-pre-mediation-via-a-structured-llm-pipe-de0aac.md) ([Source](https://arxiv.org/abs/2606.11379)) - `ai/agents`
+1. [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](../../../ai/agents/toolsense-a-diagnostic-framework-for-auditing-parametric-tool-knowledge-in-llms-22b8df.md) ([Source](https://arxiv.org/abs/2606.12451)) - `ai/agents`
+2. [Arbor: Tree Search as a Cognition Layer for Autonomous Agents](../../../ai/agents/arbor-tree-search-as-a-cognition-layer-for-autonomous-agents-3832d2.md) ([Source](https://arxiv.org/abs/2606.12563)) - `ai/agents`
+3. [Strategic Decision Support for AI Agents](../../../ai/agents/strategic-decision-support-for-ai-agents-b3b416.md) ([Source](https://arxiv.org/abs/2606.12587)) - `ai/agents`
+4. [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](../../../ai/research/pythagoras-prover-advancing-efficient-formal-proving-via-augmented-lean-formalis-e132e4.md) ([Source](https://arxiv.org/abs/2606.12594)) - `ai/research`
+5. [PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation](../../../ai/rag/personadrive-human-style-retrieval-augmented-vla-agents-for-closed-loop-driving-818d8f.md) ([Source](https://arxiv.org/abs/2606.12616)) - `ai/rag`
+6. ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](../../../ai/research/did-you-lie-evaluating-lie-detectors-across-model-scale-and-belief-verified-mode-1ad051.md) ([Source](https://arxiv.org/abs/2606.12618)) - `ai/research`
+7. [TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation](../../../ai/agents/trajgenagent-a-hierarchical-llm-agent-for-human-mobility-trajectory-generation-e060bb.md) ([Source](https://arxiv.org/abs/2606.12657)) - `ai/agents`
+8. [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../../../ai/agents/evoflux-inference-time-evolution-of-executable-tool-workflows-for-compact-agents-58b8d8.md) ([Source](https://arxiv.org/abs/2606.12674)) - `ai/agents`
+9. [From AGI to ASI](../../../ai/agents/from-agi-to-asi-581373.md) ([Source](https://arxiv.org/abs/2606.12683)) - `ai/agents`
+10. [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](../../../ai/research/deployment-centered-evaluation-predicting-query-level-rejection-risk-in-a-clinic-8a382d.md) ([Source](https://arxiv.org/abs/2606.12702)) - `ai/research`
+11. [Definitional alignment before capability alignment: a Design-Science framework for adjudicating claims about AGI](../../../ai/research/definitional-alignment-before-capability-alignment-a-design-science-framework-fo-cea698.md) ([Source](https://arxiv.org/abs/2606.12713)) - `ai/research`
+12. [The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism](../../../ai/agents/the-theory-of-mind-utility-formal-specification-of-a-mentalizing-mechanism-bbdc87.md) ([Source](https://arxiv.org/abs/2606.12721)) - `ai/agents`
+13. [Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior](../../../ai/research/rethinking-psychometric-evaluation-of-llms-when-and-why-self-reports-predict-beh-b34e82.md) ([Source](https://arxiv.org/abs/2606.12730)) - `ai/research`
+14. [Benchmarking AI Agents for Addressing Scientific Challenges Across Scales](../../../ai/agents/benchmarking-ai-agents-for-addressing-scientific-challenges-across-scales-09bfef.md) ([Source](https://arxiv.org/abs/2606.12736)) - `ai/agents`
+15. [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../../../ai/research/reducing-the-complexity-of-deep-learning-models-for-eeg-analysis-on-wearable-dev-1da13e.md) ([Source](https://arxiv.org/abs/2606.12742)) - `ai/research`
 
 ## Weekly Company Updates
 
-1. [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](../../../ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultra-with-depth-pruned-draft-mode-7ae027.md) ([Source](https://huggingface.co/blog/intel-qwen3-agent)) - `ai/agents`
-2. [AI Agents Are Here. What Now?](../../../ai/agents/ai-agents-are-here-what-now-1dd7c4.md) ([Source](https://huggingface.co/blog/ethics-soc-7)) - `ai/agents`
-3. [Aligning to What? Rethinking Agent Generalization in MiniMax M2](../../../ai/agents/aligning-to-what-rethinking-agent-generalization-in-minimax-m2-9edc0f.md) ([Source](https://huggingface.co/blog/minimax-ai)) - `ai/agents`
-4. [Back to The Future: Evaluating AI Agents on Predicting Future Events](../../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predicting-future-events-2182dc.md) ([Source](https://huggingface.co/blog/futurebench)) - `ai/agents`
-5. [Building the Open Agent Ecosystem Together: Introducing OpenEnv](../../../ai/agents/building-the-open-agent-ecosystem-together-introducing-openenv-269415.md) ([Source](https://huggingface.co/blog/openenv)) - `ai/agents`
-6. [CodeAgents + Structure: A Better Way to Execute Actions](../../../ai/agents/codeagents-structure-a-better-way-to-execute-actions-ec6688.md) ([Source](https://huggingface.co/blog/structured-codeagent)) - `ai/agents`
-7. [DABStep: Data Agent Benchmark for Multi-step Reasoning](../../../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reasoning-fb259f.md) ([Source](https://huggingface.co/blog/dabstep)) - `ai/agents`
-8. [DeepMath: A lightweight math reasoning Agent with smolagents](../../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-smolagents-ca58b3.md) ([Source](https://huggingface.co/blog/intel-deepmath)) - `ai/agents`
-9. [DeepSeek-V4: a million-token context that agents can actually use](../../../ai/agents/deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md) ([Source](https://huggingface.co/blog/deepseekv4)) - `ai/agents`
-10. [Designing the hf CLI as an agent-optimized way to work with the Hub](../../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to-work-with-the-hub-4da7ce.md) ([Source](https://huggingface.co/blog/hf-cli-for-agents)) - `ai/agents`
-11. [Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](../../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md) ([Source](https://huggingface.co/blog/ecom-rlve)) - `ai/agents`
-12. [Gaia2 and ARE: Empowering the community to study agents](../../../ai/agents/gaia2-and-are-empowering-the-community-to-study-agents-e2bc7f.md) ([Source](https://huggingface.co/blog/gaia2)) - `ai/agents`
-13. [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-getting-right-37be5f.md) ([Source](https://huggingface.co/blog/agent-glossary)) - `ai/agents`
-14. [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](../../../ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md) ([Source](https://huggingface.co/blog/mishig)) - `ai/agents`
-15. [Introducing Agents.js: Give tools to your LLMs using JavaScript](../../../ai/agents/introducing-agents-js-give-tools-to-your-llms-using-javascript-0928cd.md) ([Source](https://huggingface.co/blog/agents-js)) - `ai/agents`
+1. [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../../../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp-9a812e.md) ([Source](https://huggingface.co/blog/torch-mlp-fusion)) - `ai/models`
+2. [Migrating Your GitHub CI to Hugging Face Jobs](../../../ai/models/migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md) ([Source](https://huggingface.co/blog/github-ci-hf-jobs)) - `ai/models`
+3. [The Open Source Community is backing OpenEnv for Agentic RL](../../../ai/agents/the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md) ([Source](https://huggingface.co/blog/openenv-agentic-rl)) - `ai/agents`
+4. [Designing the hf CLI as an agent-optimized way to work with the Hub](../../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to-work-with-the-hub-4da7ce.md) ([Source](https://huggingface.co/blog/hf-cli-for-agents)) - `ai/agents`
+5. [Adding MCP Tools to Reachy Mini](../../../ai/models/adding-mcp-tools-to-reachy-mini-951093.md) ([Source](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)) - `ai/models`
+6. [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to-torch-profiler-442e91.md) ([Source](https://huggingface.co/blog/torch-profiler)) - `ai/models`
+7. [Reachy Mini goes fully local](../../../ai/models/reachy-mini-goes-fully-local-7cdcfd.md) ([Source](https://huggingface.co/blog/local-reachy-mini-conversation)) - `ai/models`
+8. [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](../../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-delta-weight-sync-in-trl-3b3971.md) ([Source](https://huggingface.co/blog/delta-weight-sync)) - `ai/models`
+9. [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-getting-right-37be5f.md) ([Source](https://huggingface.co/blog/agent-glossary)) - `ai/agents`
+10. [Introducing the Ettin Reranker Family](../../../ai/models/introducing-the-ettin-reranker-family-e05bf9.md) ([Source](https://huggingface.co/blog/ettin-reranker)) - `ai/models`
+11. [Unlocking asynchronicity in continuous batching](../../../ai/models/unlocking-asynchronicity-in-continuous-batching-c2fad0.md) ([Source](https://huggingface.co/blog/continuous_async)) - `ai/models`
+12. [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../../../ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard-private-data)) - `ai/models`
+13. [DeepInfra on Hugging Face Inference Providers 🔥](../../../ai/models/deepinfra-on-hugging-face-inference-providers-f66745.md) ([Source](https://huggingface.co/blog/inference-providers-deepinfra)) - `ai/models`
+14. [How to build scalable web apps with OpenAI's Privacy Filter](../../../ai/models/how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md) ([Source](https://huggingface.co/blog/openai-privacy-filter-web-apps)) - `ai/models`
+15. [DeepSeek-V4: a million-token context that agents can actually use](../../../ai/agents/deepseek-v4-a-million-token-context-that-agents-can-actually-use-807d36.md) ([Source](https://huggingface.co/blog/deepseekv4)) - `ai/agents`
 
 ## Weekly Videos & Demos
 
@@ -116,33 +116,33 @@ No updates collected under this section this week.
 
 ## Weekly Product Launches
 
-1. [adrianhajdin/project_metaverse](../../../web-development/framer-motion/adrianhajdin-project-metaverse-6ec2aa.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-2. [anl331/goey-toast](../../../web-development/framer-motion/anl331-goey-toast-b9cb25.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-3. [braydoncoyer/braydoncoyer.dev](../../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev-b18161.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-4. [builduilabs/framer-motion-recipes](../../../web-development/framer-motion/builduilabs-framer-motion-recipes-6c94c3.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-5. [ChrisAbdo/MotionVariants](../../../web-development/framer-motion/chrisabdo-motionvariants-b69c25.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-6. [codebucks27/react-portfolio-final](../../../web-development/framer-motion/codebucks27-react-portfolio-final-837d2d.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-7. [Codefreyy/joy-personal-portfolio](../../../web-development/framer-motion/codefreyy-joy-personal-portfolio-af70c1.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-8. [fireship-io/framer-demo](../../../web-development/framer-motion/fireship-io-framer-demo-80cdc6.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-9. [frontendfyi/rebuilding-linear.app](../../../web-development/framer-motion/frontendfyi-rebuilding-linear-app-787428.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-10. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects-d7c29d.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-11. [google-research/frame-interpolation](../../../web-development/framer-motion/google-research-frame-interpolation-fd2b85.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-12. [iamshaunjp/firegram](../../../web-development/framer-motion/iamshaunjp-firegram-781d1e.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-13. [iamshaunjp/framer-motion](../../../web-development/framer-motion/iamshaunjp-framer-motion-217721.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-14. [itsfaqih/fama](../../../web-development/framer-motion/itsfaqih-fama-ceb0c2.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-15. [jiangbo2015/framer-motion-carousel](../../../web-development/framer-motion/jiangbo2015-framer-motion-carousel-f4cf0e.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+1. [ykob/sketch-threejs](../../../web-development/threejs/ykob-sketch-threejs-2c9e6e.md) ([Source](https://github.com/ykob/sketch-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+2. [mrdoob/three.js](../../../web-development/threejs/mrdoob-three-js-578d9a.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+3. [luosijie/threejs-examples](../../../web-development/threejs/luosijie-threejs-examples-84e1e7.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+4. [davidlyons/threejs-intro](../../../web-development/threejs/davidlyons-threejs-intro-80b52c.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+5. [fireship-io/threejs-scroll-animation-demo](../../../web-development/threejs/fireship-io-threejs-scroll-animation-demo-6493bc.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+6. [pmndrs/react-three-fiber](../../../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+7. [vasturiano/3d-force-graph](../../../web-development/threejs/vasturiano-3d-force-graph-c2e899.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+8. [creativelifeform/three-nebula](../../../web-development/threejs/creativelifeform-three-nebula-89c72a.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+9. [pixiv/three-vrm](../../../web-development/threejs/pixiv-three-vrm-5557a6.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+10. [gkjohnson/threejs-sandbox](../../../web-development/threejs/gkjohnson-threejs-sandbox-2f56eb.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+11. [puxiao/threejs-tutorial](../../../web-development/threejs/puxiao-threejs-tutorial-c07d94.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+12. [z2586300277/three-cesium-examples](../../../web-development/threejs/z2586300277-three-cesium-examples-3044d9.md) ([Source](https://github.com/z2586300277/three-cesium-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+13. [wechat-miniprogram/threejs-miniprogram](../../../web-development/threejs/wechat-miniprogram-threejs-miniprogram-431c3d.md) ([Source](https://github.com/wechat-miniprogram/threejs-miniprogram)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+14. [fritx/vue-threejs](../../../web-development/threejs/fritx-vue-threejs-0fdd70.md) ([Source](https://github.com/fritx/vue-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+15. [sanderblue/solar-system-threejs](../../../web-development/threejs/sanderblue-solar-system-threejs-05d448.md) ([Source](https://github.com/sanderblue/solar-system-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (1696 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (1627 updates)
-- [RAG](../../../skills/rag.md) (685 updates)
+- [Workflow Automation](../../../skills/automation.md) (697 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (508 updates)
+- [RAG](../../../skills/rag.md) (431 updates)
 - [Vector Databases](../../../skills/vector-databases.md) (423 updates)
-- [AI Agents](../../../skills/ai-agents.md) (352 updates)
+- [AI Agents](../../../skills/ai-agents.md) (356 updates)
 - [LLMOps](../../../skills/llmops.md) (97 updates)
-- [Three.js & WebGL](../../../skills/threejs.md) (84 updates)
-- [Local LLMs & Inference](../../../skills/local-llm.md) (44 updates)
+- [Three.js & WebGL](../../../skills/threejs.md) (83 updates)
 - [Prompt Engineering](../../../skills/prompt-engineering.md) (43 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (43 updates)
 - [Model Context Protocol (MCP)](../../../skills/mcp.md) (33 updates)
 
 ## Recommended Projects To Build
@@ -152,4 +152,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-12T09:05:57.951954+00:00
+2026-06-12T10:42:46.178451+00:00

@@ -10,13 +10,16 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485095+00:00'
+collected_at: '2026-06-12T10:40:03.106437+00:00'
 tags:
 - benchmark
 - paper
 - rag
 - youtube
-status: new
+status: active
+id: arxiv:2506.01274
+first_seen: '2026-06-12T10:40:03.106437+00:00'
+last_seen: '2026-06-12T10:40:03.106437+00:00'
 ---
 
 # ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding

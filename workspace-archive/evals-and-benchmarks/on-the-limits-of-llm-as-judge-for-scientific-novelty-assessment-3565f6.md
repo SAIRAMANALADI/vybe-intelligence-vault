@@ -3,7 +3,7 @@ title: "On the Limits of LLM-as-Judge for Scientific Novelty Assessment"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12071"
-local_vault_path: "ai\rag\on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md"
+local_vault_path: "ai/rag/on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12071
 
 ## Local Vault File
 
-Path: [on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md](file:///../../ai\rag\on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md)
+Path: [on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md](file:///../../ai/rag/on-the-limits-of-llm-as-judge-for-scientific-novelty-assessment-3565f6.md)

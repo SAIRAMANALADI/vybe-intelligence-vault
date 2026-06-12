@@ -3,18 +3,17 @@ title: "Libra: Efficient Resource Management for Agentic RL Post-Training"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.03077"
-local_vault_path: "ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md"
+local_vault_path: "ai/rag/libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - agents
   - rag
-  - threejs
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Libra: Efficient Resource Management for Agentic RL Post-Training
@@ -23,14 +22,14 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.03077v2 Announce Type: replace-cross 
-Abstract: Reinforcement learning (RL) has emerged as a standard post-training paradigm for shaping large language models (LLMs) into capable agents. In agentic RL, the rollout stage generates trajectories while invoking tools, producing long-tailed and non-stationary workloads that expose two fundamental challenges in resource management. First, due to the long-tail distribution, a small fraction of trajectories dominates rollout makespan. Second,
+arXiv:2606.03077v2 Announce Type: replace 
+Abstract: Reinforcement learning (RL) has emerged as a standard post-training paradigm for shaping large language models (LLMs) into capable agents. In agentic RL, the rollout stage generates trajectories while invoking tools, producing long-tailed and non-stationary workloads that expose two fundamental challenges in resource management. First, due to the long-tail distribution, a small fraction of trajectories dominates rollout makespan. Second, rollo
 
 ## Use Cases
 
@@ -44,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.03077
 
 ## Local Vault File
 
-Path: [libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md](file:///../../ai\rag\libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)
+Path: [libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md](file:///../../ai/rag/libra-efficient-resource-management-for-agentic-rl-post-training-b64546.md)

@@ -3,7 +3,7 @@ title: "FronTalk: Benchmarking Front-End Development as Conversational Code Gene
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.04203"
-local_vault_path: "ai\rag\frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md"
+local_vault_path: "ai/rag/frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -11,6 +11,7 @@ resource_kind: "framework"
 importance: "high"
 tags:
   - agents
+  - benchmark
   - rag
 selection_reason:
   - "Strong keyword match"
@@ -45,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2601.04203
 
 ## Local Vault File
 
-Path: [frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md](file:///../../ai\rag\frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md)
+Path: [frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md](file:///../../ai/rag/frontalk-benchmarking-front-end-development-as-conversational-code-generation-wi-a63da0.md)

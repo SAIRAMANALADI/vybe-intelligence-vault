@@ -3,7 +3,7 @@ title: "wass08/r3f-ultimate-character-configurator"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/wass08/r3f-ultimate-character-configurator"
-local_vault_path: "web-development\react-three-fiber\wass08-r3f-ultimate-character-configurator-c4e9b9.md"
+local_vault_path: "web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator-c4e9b9.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/wass08/r3f-ultimate-character-configurat
 
 ## Local Vault File
 
-Path: [wass08-r3f-ultimate-character-configurator-c4e9b9.md](file:///../../web-development\react-three-fiber\wass08-r3f-ultimate-character-configurator-c4e9b9.md)
+Path: [wass08-r3f-ultimate-character-configurator-c4e9b9.md](file:///../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator-c4e9b9.md)

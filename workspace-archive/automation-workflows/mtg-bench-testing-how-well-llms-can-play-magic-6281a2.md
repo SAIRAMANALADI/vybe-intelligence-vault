@@ -3,7 +3,7 @@ title: "MTG Bench: Testing how well LLMs can play Magic"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://mtgautodeck.com/articles/mtg-bench/"
-local_vault_path: "ai\community\mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md"
+local_vault_path: "ai/community/mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://mtgautodeck.com/articles/mtg-bench/
 
 ## Local Vault File
 
-Path: [mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md](file:///../../ai\community\mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md)
+Path: [mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md](file:///../../ai/community/mtg-bench-testing-how-well-llms-can-play-magic-6281a2.md)

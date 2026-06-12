@@ -3,15 +3,17 @@ title: "MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequenci
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11868"
-local_vault_path: "ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md"
+local_vault_path: "ai/research/memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - benchmark
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequencing from Mass Spectrometry
@@ -19,11 +21,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11868
 
 ## Local Vault File
 
-Path: [memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md](file:///../../ai\research\memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md)
+Path: [memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md](file:///../../ai/research/memnovo-look-back-at-the-spectrum-for-balanced-de-novo-peptide-sequencing-from-m-c75b49.md)

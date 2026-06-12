@@ -11,12 +11,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.486172+00:00'
+collected_at: '2026-06-12T10:40:03.107600+00:00'
 tags:
 - agents
 - deepmind
 - workflows
-status: new
+status: active
+id: arxiv:2605.29151
+first_seen: '2026-06-12T10:40:03.107600+00:00'
+last_seen: '2026-06-12T10:40:03.107600+00:00'
 ---
 
 # Real-rootedness of the Poincar\'e polynomials of $\overline{\mathcal M}_{0,n}$: an AI-assisted proof

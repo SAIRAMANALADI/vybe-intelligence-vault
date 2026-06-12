@@ -4,13 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/gnikoloff/webgpu-sponza-demo
-collected_at: '2026-06-11T08:45:39.177268+00:00'
+collected_at: '2026-06-12T10:40:17.491257+00:00'
 published_at: '2026-05-15T13:54:04Z'
 tags:
+- hackernews
 - threejs
 stars: 171
 language: TypeScript
-status: new
+status: active
+id: github:gnikoloff/webgpu-sponza-demo
+first_seen: '2026-06-12T10:40:17.491257+00:00'
+last_seen: '2026-06-12T10:40:17.491257+00:00'
 ---
 
 # gnikoloff/webgpu-sponza-demo

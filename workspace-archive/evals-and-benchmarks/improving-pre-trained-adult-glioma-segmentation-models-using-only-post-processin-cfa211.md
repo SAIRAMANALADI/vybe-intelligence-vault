@@ -3,7 +3,7 @@ title: "Improving Pre-trained Adult Glioma Segmentation Models Using only Post-p
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.14937"
-local_vault_path: "ai\research\improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md"
+local_vault_path: "ai/research/improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2512.14937
 
 ## Local Vault File
 
-Path: [improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md](file:///../../ai\research\improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md)
+Path: [improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md](file:///../../ai/research/improving-pre-trained-adult-glioma-segmentation-models-using-only-post-processin-cfa211.md)

@@ -11,11 +11,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.485442+00:00'
+collected_at: '2026-06-12T10:40:03.106811+00:00'
 tags:
 - benchmark
 - rag
-status: new
+status: active
+id: arxiv:2512.21227
+first_seen: '2026-06-12T10:40:03.106811+00:00'
+last_seen: '2026-06-12T10:40:03.106811+00:00'
 ---
 
 # PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation

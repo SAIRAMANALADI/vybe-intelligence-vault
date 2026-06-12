@@ -4,13 +4,16 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/josdirksen/learning-threejs-third
-collected_at: '2026-06-11T08:45:35.488545+00:00'
+collected_at: '2026-06-12T10:40:14.585960+00:00'
 published_at: '2026-05-17T09:26:43Z'
 tags:
 - threejs
 stars: 599
 language: JavaScript
-status: new
+status: active
+id: github:josdirksen/learning-threejs-third
+first_seen: '2026-06-12T10:40:14.585960+00:00'
+last_seen: '2026-06-12T10:40:14.585960+00:00'
 ---
 
 # josdirksen/learning-threejs-third

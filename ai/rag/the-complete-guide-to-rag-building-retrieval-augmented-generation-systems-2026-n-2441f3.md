@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-systems
-published_at: '2026-06-11T18:21:43.385327+00:00'
-collected_at: '2026-06-11T18:21:43.385351+00:00'
+published_at: '2026-06-12T10:41:20.132876+00:00'
+collected_at: '2026-06-12T10:41:20.132888+00:00'
 tags:
 - agents
 - anthropic
@@ -20,7 +20,10 @@ tags:
 - openai
 - rag
 - web-crawled
-status: new
+status: active
+id: null
+first_seen: '2026-06-12T10:41:20.132888+00:00'
+last_seen: '2026-06-12T10:41:20.132888+00:00'
 ---
 
 # The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech
@@ -37,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T18:21:43.385327+00:00
+- Published: 2026-06-12T10:41:20.132876+00:00
 
 ## Related Tags
 

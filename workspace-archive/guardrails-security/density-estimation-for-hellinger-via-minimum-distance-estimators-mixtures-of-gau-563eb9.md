@@ -3,14 +3,16 @@ title: "Density estimation for Hellinger via minimum-distance estimators: mixtur
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11469"
-local_vault_path: "ai\research\density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md"
+local_vault_path: "ai/research/density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
+tags:
+  - hackernews
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Density estimation for Hellinger via minimum-distance estimators: mixtures of Gaussians, log-concave, and more
@@ -19,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -41,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11469
 
 ## Local Vault File
 
-Path: [density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md](file:///../../ai\research\density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md)
+Path: [density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md](file:///../../ai/research/density-estimation-for-hellinger-via-minimum-distance-estimators-mixtures-of-gau-563eb9.md)

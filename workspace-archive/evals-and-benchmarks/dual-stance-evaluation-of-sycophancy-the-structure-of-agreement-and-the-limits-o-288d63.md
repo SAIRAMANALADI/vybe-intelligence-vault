@@ -3,17 +3,19 @@ title: "Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11205"
-local_vault_path: "ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md"
+local_vault_path: "ai/research/dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md"
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - meta-ai
   - models
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Dual-Stance Evaluation of Sycophancy: The Structure of Agreement and the Limits of Intervention
@@ -21,16 +23,16 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Quality score: 70 | Archive score: 74 (useful)
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11205v1 Announce Type: cross 
-Abstract: Activation steering can shift LLM behaviour, but standard evaluations do not typically test whether a sycophancy-reduction direction also suppresses agreement with factually correct statements. We introduce dual-stance evaluation, which tests both stances of each topic, and apply it to centroid-difference steering on Llama-3-8B-Instruct. We find a dissociation: the model represents sycophantic and factual agreement in geometrically distinct subs
+arXiv:2606.11205v1 Announce Type: new 
+Abstract: Activation steering can shift LLM behaviour, but standard evaluations do not typically test whether a sycophancy-reduction direction also suppresses agreement with factually correct statements. We introduce dual-stance evaluation, which tests both stances of each topic, and apply it to centroid-difference steering on Llama-3-8B-Instruct. We find a dissociation: the model represents sycophantic and factual agreement in geometrically distinct subspa
 
 ## Use Cases
 
@@ -44,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11205
 
 ## Local Vault File
 
-Path: [dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md](file:///../../ai\research\dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md)
+Path: [dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md](file:///../../ai/research/dual-stance-evaluation-of-sycophancy-the-structure-of-agreement-and-the-limits-o-288d63.md)

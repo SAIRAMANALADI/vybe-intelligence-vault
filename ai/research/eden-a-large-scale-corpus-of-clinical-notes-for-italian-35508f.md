@@ -10,12 +10,15 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.482618+00:00'
+collected_at: '2026-06-12T10:40:03.103602+00:00'
 tags:
 - benchmark
 - dataset
 - models
-status: new
+status: active
+id: arxiv:2606.12569
+first_seen: '2026-06-12T10:40:03.103602+00:00'
+last_seen: '2026-06-12T10:40:03.103602+00:00'
 ---
 
 # EDEN: A Large-Scale Corpus of Clinical Notes for Italian

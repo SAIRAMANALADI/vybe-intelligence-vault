@@ -4,14 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/fireship-io/threejs-scroll-animation-demo
-collected_at: '2026-06-11T08:45:35.488398+00:00'
+collected_at: '2026-06-12T10:40:14.585754+00:00'
 published_at: '2026-06-11T08:17:58Z'
 tags:
 - creative_dev
 - threejs
 stars: 1650
 language: HTML
-status: new
+status: active
+id: github:fireship-io/threejs-scroll-animation-demo
+first_seen: '2026-06-12T10:40:14.585754+00:00'
+last_seen: '2026-06-12T10:40:14.585754+00:00'
 ---
 
 # fireship-io/threejs-scroll-animation-demo

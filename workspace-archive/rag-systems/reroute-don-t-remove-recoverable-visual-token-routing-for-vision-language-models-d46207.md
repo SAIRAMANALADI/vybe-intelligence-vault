@@ -3,7 +3,7 @@ title: "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Langu
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12412"
-local_vault_path: "ai\rag\reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md"
+local_vault_path: "ai/rag/reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12412
 
 ## Local Vault File
 
-Path: [reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md](file:///../../ai\rag\reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md)
+Path: [reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md](file:///../../ai/rag/reroute-don-t-remove-recoverable-visual-token-routing-for-vision-language-models-d46207.md)

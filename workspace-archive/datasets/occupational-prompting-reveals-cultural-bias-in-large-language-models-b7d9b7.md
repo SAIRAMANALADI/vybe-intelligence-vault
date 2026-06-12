@@ -3,7 +3,7 @@ title: "Occupational Prompting Reveals Cultural Bias in Large Language Models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12443"
-local_vault_path: "ai\research\occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md"
+local_vault_path: "ai/research/occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12443
 
 ## Local Vault File
 
-Path: [occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md](file:///../../ai\research\occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md)
+Path: [occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md](file:///../../ai/research/occupational-prompting-reveals-cultural-bias-in-large-language-models-b7d9b7.md)

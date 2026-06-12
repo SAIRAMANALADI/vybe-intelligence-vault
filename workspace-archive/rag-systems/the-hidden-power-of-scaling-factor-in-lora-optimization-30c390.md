@@ -3,7 +3,7 @@ title: "The Hidden Power of Scaling Factor in LoRA Optimization"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12883"
-local_vault_path: "ai\rag\the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md"
+local_vault_path: "ai/rag/the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://arxiv.org/abs/2606.12883
 
 ## Local Vault File
 
-Path: [the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md](file:///../../ai\rag\the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md)
+Path: [the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md](file:///../../ai/rag/the-hidden-power-of-scaling-factor-in-lora-optimization-30c390.md)

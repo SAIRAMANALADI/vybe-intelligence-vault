@@ -3,11 +3,11 @@ title: "A Security Review of Gradio 5"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-5-security"
-local_vault_path: "ai\models\a-security-review-of-gradio-5-482ddc.md"
+local_vault_path: "ai/models/a-security-review-of-gradio-5-482ddc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [a-security-review-of-gradio-5-482ddc.md](file:///../../ai\models\a-security-review-of-gradio-5-482ddc.md)
+Path: [a-security-review-of-gradio-5-482ddc.md](file:///../../ai/models/a-security-review-of-gradio-5-482ddc.md)

@@ -1,0 +1,46 @@
+---
+title: "redcamel/RedGPU"
+archive_category: "webdev-3d-creative"
+source_category: "web-development/webgpu"
+source_url: "https://github.com/redcamel/redgpu"
+local_vault_path: "web-development/webgpu/redcamel-redgpu-70c367.md"
+quality_score: 70
+archive_score: 79
+archive_tier: "useful"
+resource_kind: "framework"
+importance: "medium"
+tags:
+  - threejs
+selection_reason:
+  - "Strong keyword match"
+  - "Useful for project building"
+---
+
+# redcamel/RedGPU
+
+## Why This Is In The Archive
+
+- Matched archive category: `Webdev 3D Creative`
+- Quality score: 70 | Archive score: 79 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+RedGPU - JavaScript WebGPU Library
+
+## Use Cases
+
+- Three.js 3D animations
+- WebGL particle simulations
+- Blender interactive creative layouts
+
+## Source
+
+Original source URL: https://github.com/redcamel/redgpu
+
+## Local Vault File
+
+Path: [redcamel-redgpu-70c367.md](file:///../../web-development/webgpu/redcamel-redgpu-70c367.md)

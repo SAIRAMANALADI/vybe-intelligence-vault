@@ -3,15 +3,15 @@ title: "Robustness of Mixtures of Experts to Feature Noise"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.14792"
-local_vault_path: "ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md"
+local_vault_path: "ai/research/robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "framework"
 importance: "medium"
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Robustness of Mixtures of Experts to Feature Noise
@@ -20,10 +20,10 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: reference
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.14792
 
 ## Local Vault File
 
-Path: [robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md](file:///../../ai\research\robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md)
+Path: [robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md](file:///../../ai/research/robustness-of-mixtures-of-experts-to-feature-noise-f1cf29.md)

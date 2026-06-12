@@ -3,7 +3,7 @@ title: "Grammar of the Wave: Towards Explainable Multivariate Time Series Event 
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2603.11479"
-local_vault_path: "ai\agents\grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md"
+local_vault_path: "ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2603.11479
 
 ## Local Vault File
 
-Path: [grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md](file:///../../ai\agents\grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md)
+Path: [grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md](file:///../../ai/agents/grammar-of-the-wave-towards-explainable-multivariate-time-series-event-detection-392878.md)

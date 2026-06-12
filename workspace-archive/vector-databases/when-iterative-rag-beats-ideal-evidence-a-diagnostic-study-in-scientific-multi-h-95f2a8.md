@@ -3,7 +3,7 @@ title: "When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientifi
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.19827"
-local_vault_path: "ai\rag\when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md"
+local_vault_path: "ai/rag/when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.19827
 
 ## Local Vault File
 
-Path: [when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md](file:///../../ai\rag\when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md)
+Path: [when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md](file:///../../ai/rag/when-iterative-rag-beats-ideal-evidence-a-diagnostic-study-in-scientific-multi-h-95f2a8.md)

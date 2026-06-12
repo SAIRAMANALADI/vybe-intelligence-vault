@@ -3,7 +3,7 @@ title: "From inverse problems to neural operators: prediction, mechanism, and ge
 archive_category: "ai-browser-computer-use"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08956"
-local_vault_path: "ai\research\from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md"
+local_vault_path: "ai/research/from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.08956
 
 ## Local Vault File
 
-Path: [from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md](file:///../../ai\research\from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md)
+Path: [from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md](file:///../../ai/research/from-inverse-problems-to-neural-operators-prediction-mechanism-and-generalizatio-25518b.md)

@@ -3,17 +3,20 @@ title: "Quantifying Subliminal Behavioral Transfer Ratios in Language Model Dist
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11270"
-local_vault_path: "ai\research\quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md"
+local_vault_path: "ai/research/quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
-resource_kind: "prompt"
+resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
+  - meta-ai
   - models
+  - openai
 selection_reason:
   - "Strong keyword match"
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation
@@ -22,15 +25,15 @@ selection_reason:
 
 - Matched archive category: `Guardrails and Security`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: prompt
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.11270v1 Announce Type: cross 
-Abstract: Distillation of a language model intended to transfer benign behavior to a student model may also transfer undesirable characteristics, if they are present in the teacher model, a phenomenon known as subliminal learning. While qualitative evidence supports the existence of this effect, its magnitude has not been systematically characterized. This study quantifies subliminal behavioral transfer ratios by steering two teacher models (Llama-2-7B-Ch
+arXiv:2606.11270v1 Announce Type: new 
+Abstract: Distillation of a language model intended to transfer benign behavior to a student model may also transfer undesirable characteristics, if they are present in the teacher model, a phenomenon known as subliminal learning. While qualitative evidence supports the existence of this effect, its magnitude has not been systematically characterized. This study quantifies subliminal behavioral transfer ratios by steering two teacher models (Llama-2-7B-Chat
 
 ## Use Cases
 
@@ -44,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2606.11270
 
 ## Local Vault File
 
-Path: [quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md](file:///../../ai\research\quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md)
+Path: [quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md](file:///../../ai/research/quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md)

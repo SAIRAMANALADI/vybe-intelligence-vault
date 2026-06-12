@@ -3,17 +3,18 @@ title: "Evolving Agents in the Dark: Retrospective Harness Optimization via Self
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.05922"
-local_vault_path: "ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md"
+local_vault_path: "ai/agents/evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
-resource_kind: "benchmark"
+resource_kind: "framework"
 importance: "high"
 tags:
   - agents
+  - hackernews
   - workflows
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference
@@ -22,14 +23,14 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-arXiv:2606.05922v2 Announce Type: replace 
-Abstract: AI agents rely on a harness of skills, tools, and workflows to solve complex problems. Continually improving this harness is essential for adapting to new tasks. However, existing optimization methods typically require ground-truth validation sets, yet such labeled data is difficult to acquire in practical deployment settings. To address this problem, we introduce Retrospective Harness Optimization (RHO), a self-supervised method that optimize
+arXiv:2606.05922v2 Announce Type: replace-cross 
+Abstract: AI agents rely on a harness of skills, tools, and workflows to solve complex problems. Continually improving this harness is essential for adapting to new tasks. However, existing optimization methods typically require ground-truth validation sets, yet such labeled data is difficult to acquire in practical deployment settings. To address this problem, we introduce Retrospective Harness Optimization (RHO), a self-supervised method that op
 
 ## Use Cases
 
@@ -43,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.05922
 
 ## Local Vault File
 
-Path: [evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md](file:///../../ai\agents\evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md)
+Path: [evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md](file:///../../ai/agents/evolving-agents-in-the-dark-retrospective-harness-optimization-via-self-preferen-c8ecaf.md)

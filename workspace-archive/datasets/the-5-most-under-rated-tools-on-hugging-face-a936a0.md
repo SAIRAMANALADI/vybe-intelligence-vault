@@ -3,11 +3,11 @@ title: "The 5 Most Under-Rated Tools on Hugging Face"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/unsung-heroes"
-local_vault_path: "ai\models\the-5-most-under-rated-tools-on-hugging-face-a936a0.md"
+local_vault_path: "ai/models/the-5-most-under-rated-tools-on-hugging-face-a936a0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "reference"
+resource_kind: "tutorial"
 importance: "medium"
 selection_reason:
   - "Valuable developer reference"
@@ -19,7 +19,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/unsung-heroes
 
 ## Local Vault File
 
-Path: [the-5-most-under-rated-tools-on-hugging-face-a936a0.md](file:///../../ai\models\the-5-most-under-rated-tools-on-hugging-face-a936a0.md)
+Path: [the-5-most-under-rated-tools-on-hugging-face-a936a0.md](file:///../../ai/models/the-5-most-under-rated-tools-on-hugging-face-a936a0.md)

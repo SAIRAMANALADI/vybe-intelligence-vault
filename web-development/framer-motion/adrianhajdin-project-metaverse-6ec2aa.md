@@ -4,14 +4,17 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/adrianhajdin/project_metaverse
-collected_at: '2026-06-11T08:45:41.211754+00:00'
+collected_at: '2026-06-12T10:40:18.782826+00:00'
 published_at: '2026-06-05T20:39:54Z'
 tags:
 - animation
 - frontend_ui
 stars: 863
 language: JavaScript
-status: new
+status: active
+id: github:adrianhajdin/project_metaverse
+first_seen: '2026-06-12T10:40:18.782826+00:00'
+last_seen: '2026-06-12T10:40:18.782826+00:00'
 ---
 
 # adrianhajdin/project_metaverse

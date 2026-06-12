@@ -3,13 +3,14 @@ title: "CP4SBI: Local Conformal Calibration of Credible Sets in Simulation-Based
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2508.17077"
-local_vault_path: "ai\rag\cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md"
+local_vault_path: "ai/rag/cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
 tags:
+  - benchmark
   - rag
 selection_reason:
   - "Useful for project building"
@@ -42,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2508.17077
 
 ## Local Vault File
 
-Path: [cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md](file:///../../ai\rag\cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md)
+Path: [cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md](file:///../../ai/rag/cp4sbi-local-conformal-calibration-of-credible-sets-in-simulation-based-inferenc-3ea384.md)

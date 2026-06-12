@@ -3,12 +3,14 @@ title: "Reliable Error Estimation for PINNs: Lower and Upper A Posteriori Bounds
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12050"
-local_vault_path: "ai\research\reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md"
+local_vault_path: "ai/research/reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "medium"
+tags:
+  - paper
 selection_reason:
   - "Useful for project building"
 ---
@@ -40,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12050
 
 ## Local Vault File
 
-Path: [reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md](file:///../../ai\research\reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md)
+Path: [reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md](file:///../../ai/research/reliable-error-estimation-for-pinns-lower-and-upper-a-posteriori-bounds-7b5490.md)

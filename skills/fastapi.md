@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 25 resources matched in the intelligence vault.
+Active signals: 20 resources matched in the intelligence vault.
 Recently detected signals:
-- [Data-Everything/mcp-server-templates](../ai/resources/data-everything-mcp-server-templates-2c0255.md) (Source: Unknown Source) - Collected 2026-06-12
-- [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) (Source: Unknown Source) - Collected 2026-06-12
-- [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](../ai/rag/from-digital-to-physical-digital-agents-as-autonomous-coaches-for-physical-intel-8b9d33.md) (Source: Unknown Source) - Collected 2026-06-12
-- [MiniPIC: Flexible Position-Independent Caching in <100LOC](../ai/rag/minipic-flexible-position-independent-caching-in-100loc-c7f2e7.md) (Source: Unknown Source) - Collected 2026-06-12
-- [The Containment Gap: How Deployed Agentic AI Frameworks Fail Public-Facing Safety Requirements](../ai/agents/the-containment-gap-how-deployed-agentic-ai-frameworks-fail-public-facing-safety-6b6bf2.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/quanto-a-pytorch-quantization-backend-for-optimum-488e23.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/introducing-multi-backends-trt-llm-vllm-support-for-text-generation-inference-3bf793.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Exploring Quantization Backends in Diffusers](../ai/models/exploring-quantization-backends-in-diffusers-bbb537.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Transformers backend integration in SGLang](../ai/models/transformers-backend-integration-in-sglang-32195c.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Any Custom Frontend with Gradio's Backend](../ai/models/any-custom-frontend-with-gradio-s-backend-7c7940.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -55,35 +55,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 6. [Data-Everything/mcp-server-templates](../ai/resources/data-everything-mcp-server-templates-2c0255.md) ([GitHub](https://github.com/data-everything/mcp-server-templates))
-- Stars: 0
-- Language: Unknown
-- Description: A flexible platform that provides Docker & Kubernetes backends, a lightweight CLI (mcpt), and client utilities for seamless MCP integration. Spin up servers from templates, route requests through a...
-
-### 7. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+### 6. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw-992597.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 8. [AmineDjeghri/generative-ai-project-template](../ai/resources/aminedjeghri-generative-ai-project-template-dd22a9.md) ([GitHub](https://github.com/aminedjeghri/generative-ai-project-template))
-- Stars: 0
-- Language: Unknown
-- Description: Template for a new generative ai project using uv, nicegui, fastapi, llms (cloud & local with litellm and ollama, cpu/gpu) and langfuse for llm observability
-
-### 9. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 7. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph-07de98.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
-
-### 10. [bryand410/llm-sentinel](../ai/resources/bryand410-llm-sentinel-c553bd.md) ([GitHub](https://github.com/bryand410/llm-sentinel))
-- Stars: 0
-- Language: Unknown
-- Description: An AI-powered security gateway. Fine-tuning a lightweight PyTorch model to detect and block LLM prompt injections in real-time, with FastAPI and DevSecOps best practices.
-
-### 11. [robidev/open_scada_dms](../ai/resources/robidev-open-scada-dms-0331a2.md) ([GitHub](https://github.com/robidev/open_scada_dms))
-- Stars: 0
-- Language: Unknown
-- Description: This is an open source project for a basic ems/dms scada system. It contains a HMI with vector graphics taylored towards power-scada, and supports an IEC60870-5-104 based IFS. The backend is powere...
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -105,4 +85,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T09:05:56.409843+00:00.615086+00:00.672038+00:00.844367+00:00.008800+00:00.892048+00:00.499884+00:00.675796+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T10:42:45.167287+00:00.409843+00:00.615086+00:00.672038+00:00.844367+00:00.008800+00:00.892048+00:00.499884+00:00.675796+00:00.

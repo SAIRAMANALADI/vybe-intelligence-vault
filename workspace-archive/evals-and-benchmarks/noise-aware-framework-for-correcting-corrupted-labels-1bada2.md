@@ -3,12 +3,14 @@ title: "Noise-Aware Framework for Correcting Corrupted Labels"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11695"
-local_vault_path: "ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md"
+local_vault_path: "ai/research/noise-aware-framework-for-correcting-corrupted-labels-1bada2.md"
 quality_score: 70
-archive_score: 82
+archive_score: 84
 archive_tier: "useful"
 resource_kind: "framework"
 importance: "high"
+tags:
+  - dataset
 selection_reason:
   - "Strong keyword match"
   - "Useful for project building"
@@ -19,7 +21,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 82 (useful)
+- Quality score: 70 | Archive score: 84 (useful)
 - Resource kind: framework
 - Selection reasons:
   - Strong keyword match
@@ -27,8 +29,8 @@ selection_reason:
 
 ## Summary
 
-arXiv:2606.11695v1 Announce Type: cross 
-Abstract: High-quality labeled data is essential for training reliable ML/DL models. However, real-world datasets often contain a considerable proportion of corrupted labels, which can severely degrade model performance. To address this problem, we propose CANOLA, a novel framework for correcting corrupted labels through noise-aware learning and iterative label refinement. CANOLA explicitly estimates the underlying noise distribution of the dataset and in
+arXiv:2606.11695v1 Announce Type: new 
+Abstract: High-quality labeled data is essential for training reliable ML/DL models. However, real-world datasets often contain a considerable proportion of corrupted labels, which can severely degrade model performance. To address this problem, we propose CANOLA, a novel framework for correcting corrupted labels through noise-aware learning and iterative label refinement. CANOLA explicitly estimates the underlying noise distribution of the dataset and inco
 
 ## Use Cases
 
@@ -42,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11695
 
 ## Local Vault File
 
-Path: [noise-aware-framework-for-correcting-corrupted-labels-1bada2.md](file:///../../ai\research\noise-aware-framework-for-correcting-corrupted-labels-1bada2.md)
+Path: [noise-aware-framework-for-correcting-corrupted-labels-1bada2.md](file:///../../ai/research/noise-aware-framework-for-correcting-corrupted-labels-1bada2.md)

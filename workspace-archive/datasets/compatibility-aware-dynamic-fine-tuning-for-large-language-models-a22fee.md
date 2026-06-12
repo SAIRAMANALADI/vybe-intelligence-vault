@@ -3,16 +3,16 @@ title: "Compatibility-Aware Dynamic Fine-Tuning for Large Language Models"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11206"
-local_vault_path: "ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md"
+local_vault_path: "ai/research/compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
-resource_kind: "tutorial"
+resource_kind: "framework"
 importance: "medium"
 tags:
   - models
 selection_reason:
-  - "Valuable developer reference"
+  - "Useful for project building"
 ---
 
 # Compatibility-Aware Dynamic Fine-Tuning for Large Language Models
@@ -21,9 +21,9 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: tutorial
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11206
 
 ## Local Vault File
 
-Path: [compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md](file:///../../ai\research\compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md)
+Path: [compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md](file:///../../ai/research/compatibility-aware-dynamic-fine-tuning-for-large-language-models-a22fee.md)

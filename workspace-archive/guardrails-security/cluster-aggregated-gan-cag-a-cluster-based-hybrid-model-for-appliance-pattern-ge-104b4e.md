@@ -3,7 +3,7 @@ title: "Cluster Aggregated GAN (CAG): A Cluster-Based Hybrid Model for Appliance
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2512.22287"
-local_vault_path: "ai\research\cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md"
+local_vault_path: "ai/research/cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2512.22287
 
 ## Local Vault File
 
-Path: [cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md](file:///../../ai\research\cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md)
+Path: [cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md](file:///../../ai/research/cluster-aggregated-gan-cag-a-cluster-based-hybrid-model-for-appliance-pattern-ge-104b4e.md)

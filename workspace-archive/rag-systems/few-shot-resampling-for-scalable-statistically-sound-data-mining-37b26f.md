@@ -3,14 +3,19 @@ title: "Few-Shot Resampling for Scalable Statistically-Sound Data Mining"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11235"
-local_vault_path: "ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
+local_vault_path: "ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
 quality_score: 70
-archive_score: 80
+archive_score: 82
 archive_tier: "useful"
-resource_kind: "dataset"
+resource_kind: "framework"
 importance: "high"
+tags:
+  - benchmark
+  - dataset
+  - paper
 selection_reason:
-  - "Valuable developer reference"
+  - "Strong keyword match"
+  - "Useful for project building"
 ---
 
 # Few-Shot Resampling for Scalable Statistically-Sound Data Mining
@@ -18,10 +23,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `RAG Systems`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 82 (useful)
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Strong keyword match
+  - Useful for project building
 
 ## Summary
 
@@ -40,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.11235
 
 ## Local Vault File
 
-Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)
+Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)

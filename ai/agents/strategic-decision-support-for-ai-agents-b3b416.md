@@ -10,11 +10,14 @@ citation_count: N/A
 code_url: None
 stars: N/A
 published_at: '2026-06-12T04:00:00+00:00'
-collected_at: '2026-06-12T05:01:59.480723+00:00'
+collected_at: '2026-06-12T10:40:03.101457+00:00'
 tags:
 - agents
 - models
-status: new
+status: active
+id: arxiv:2606.12587
+first_seen: '2026-06-12T10:40:03.101457+00:00'
+last_seen: '2026-06-12T10:40:03.101457+00:00'
 ---
 
 # Strategic Decision Support for AI Agents

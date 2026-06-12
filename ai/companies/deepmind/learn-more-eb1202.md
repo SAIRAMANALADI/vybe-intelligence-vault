@@ -4,15 +4,18 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research
-published_at: '2026-06-11T12:45:53.090965+00:00'
-collected_at: '2026-06-11T12:45:53.090967+00:00'
+published_at: '2026-06-12T10:40:33.379561+00:00'
+collected_at: '2026-06-12T10:40:33.379564+00:00'
 tags:
 - agents
 - blog-post
 - deepmind
 - google-deepmind-blog
 - reddit
-status: new
+status: active
+id: blog:learn-more
+first_seen: '2026-06-12T10:40:33.379564+00:00'
+last_seen: '2026-06-12T10:40:33.379564+00:00'
 ---
 
 # Learn more
@@ -29,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research
-- Collected At: 2026-06-11T12:45:53.090967+00:00
+- Collected At: 2026-06-12T10:40:33.379564+00:00
 
 ## Related Tags
 

@@ -3,7 +3,7 @@ title: "LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive 
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.13220"
-local_vault_path: "ai\agents\llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md"
+local_vault_path: "ai/agents/llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.13220
 
 ## Local Vault File
 
-Path: [llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md](file:///../../ai\agents\llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md)
+Path: [llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md](file:///../../ai/agents/llm-as-an-investigator-evidence-first-reasoning-for-robust-interactive-problem-d-cd5930.md)

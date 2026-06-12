@@ -3,7 +3,7 @@ title: "semgrep/mcp"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/semgrep/mcp"
-local_vault_path: "ai\resources\semgrep-mcp-46c4f1.md"
+local_vault_path: "ai/resources/semgrep-mcp-46c4f1.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/semgrep/mcp
 
 ## Local Vault File
 
-Path: [semgrep-mcp-46c4f1.md](file:///../../ai\resources\semgrep-mcp-46c4f1.md)
+Path: [semgrep-mcp-46c4f1.md](file:///../../ai/resources/semgrep-mcp-46c4f1.md)
