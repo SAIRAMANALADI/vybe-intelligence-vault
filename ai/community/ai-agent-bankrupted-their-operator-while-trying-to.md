@@ -5,27 +5,28 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian
 hn_url: https://news.ycombinator.com/item?id=48500012
-score: 631
+score: 1141
 author: xiaoyu2006
-comments_count: 237
+comments_count: 430
 published_at: '2026-06-12T04:42:53+00:00'
-collected_at: '2026-06-12T10:40:22.162211+00:00'
+collected_at: '2026-06-12T15:38:22.591513+00:00'
 tags:
 - agents
 - ai
 - hackernews
 status: active
-first_seen: '2026-06-12T10:40:22.162211+00:00'
-last_seen: '2026-06-12T10:40:22.162211+00:00'
 resource_id: hackernews:ai-agent-bankrupted-their-operator-while-trying-to
+first_seen: '2026-06-12T15:38:22.591513+00:00'
+last_seen: '2026-06-12T15:38:22.591513+00:00'
+last_checked: '2026-06-12T15:38:22.591513+00:00'
+health_score: 100
 ---
-
 
 # AI agent bankrupted their operator while trying to scan DN42
 
 ## Summary
 
-Hacker News story by xiaoyu2006. Score: 631, Comments: 237.
+Hacker News story by xiaoyu2006. Score: 1141, Comments: 430.
 Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
 
 ## Why It Matters
@@ -35,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: xiaoyu2006
-- Score: 631 Upvotes
-- Comments: 237 Discussions
+- Score: 1141 Upvotes
+- Comments: 430 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48500012
 - Original Article: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian
 

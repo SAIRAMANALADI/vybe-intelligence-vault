@@ -3,7 +3,8 @@ title: 'Generating Stories: AI for Game Development #5'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-5
-local_vault_path: ai/models/huggingface-blog-ml-for-games-5.md
+resource_id: blog:generating-stories-ai-for-game-development-5
+local_vault_path: ai/models/generating-stories-ai-for-game-development-5.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:generating-stories-ai-for-game-development-5
 ---
-
-
 
 # Generating Stories: AI for Game Development #5
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-5
 
 ## Local Vault File
 
-Path: [generating-stories-ai-for-game-development-5-c0ec10.md](file:///../../ai/models/huggingface-blog-ml-for-games-5.md)
+Path: [generating-stories-ai-for-game-development-5.md](file:///../../ai/models/generating-stories-ai-for-game-development-5.md)

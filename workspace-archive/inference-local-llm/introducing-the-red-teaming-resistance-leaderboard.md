@@ -3,7 +3,8 @@ title: Introducing the Red-Teaming Resistance Leaderboard
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-haizelab
-local_vault_path: ai/models/huggingface-blog-leaderboard-haizelab.md
+resource_id: blog:introducing-the-red-teaming-resistance-leaderboard
+local_vault_path: ai/models/introducing-the-red-teaming-resistance-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-red-teaming-resistance-leaderboard
 ---
-
-
 
 # Introducing the Red-Teaming Resistance Leaderboard
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-haizelab
 
 ## Local Vault File
 
-Path: [introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md](file:///../../ai/models/huggingface-blog-leaderboard-haizelab.md)
+Path: [introducing-the-red-teaming-resistance-leaderboard.md](file:///../../ai/models/introducing-the-red-teaming-resistance-leaderboard.md)

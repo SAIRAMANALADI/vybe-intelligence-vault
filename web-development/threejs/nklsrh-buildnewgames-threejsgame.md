@@ -3,17 +3,20 @@ title: nklsrh/BuildNewGames_ThreeJSGame
 category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
-source_url: https://github.com/nklsrh/BuildNewGames_ThreeJSGame
-collected_at: '2026-06-11T12:59:01.584957+00:00'
+source_url: https://github.com/nklsrh/buildnewgames_threejsgame
+collected_at: '2026-06-12T15:38:14.349221+00:00'
 published_at: '2026-05-24T09:16:36Z'
 tags:
 - threejs
 stars: 123
 language: JavaScript
-status: new
+status: active
 resource_id: github:nklsrh/buildnewgames_threejsgame
+first_seen: '2026-06-12T15:38:14.349221+00:00'
+last_seen: '2026-06-12T15:38:14.349221+00:00'
+last_checked: '2026-06-12T15:38:14.349221+00:00'
+health_score: 100
 ---
-
 
 # nklsrh/BuildNewGames_ThreeJSGame
 
@@ -50,4 +53,4 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source: https://github.com/nklsrh/BuildNewGames_ThreeJSGame
+Original source: https://github.com/nklsrh/buildnewgames_threejsgame

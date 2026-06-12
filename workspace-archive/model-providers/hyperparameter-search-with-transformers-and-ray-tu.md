@@ -3,7 +3,8 @@ title: Hyperparameter Search with Transformers and Ray Tune
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ray-tune
-local_vault_path: ai/models/huggingface-blog-ray-tune.md
+resource_id: blog:hyperparameter-search-with-transformers-and-ray-tu
+local_vault_path: ai/models/hyperparameter-search-with-transformers-and-ray-tu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hyperparameter-search-with-transformers-and-ray-tu
 ---
-
 
 # Hyperparameter Search with Transformers and Ray Tune
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ray-tune
 
 ## Local Vault File
 
-Path: [hyperparameter-search-with-transformers-and-ray-tune-75270c.md](file:///../../ai/models/huggingface-blog-ray-tune.md)
+Path: [hyperparameter-search-with-transformers-and-ray-tu.md](file:///../../ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)

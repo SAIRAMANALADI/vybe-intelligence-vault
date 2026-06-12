@@ -4,14 +4,18 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/ggml-org/model-management-in-llamacpp
-published_at: '2025-12-11T10:17:44+00:00'
-collected_at: '2026-06-11T08:37:58.324310+00:00'
+published_at: '2025-12-11T15:47:44+00:00'
+collected_at: '2026-06-12T15:38:08.289537+00:00'
 tags:
+- meta-ai
 - models
-status: new
+status: active
 resource_id: blog:new-in-llama-cpp-model-management
+first_seen: '2026-06-12T15:38:08.289537+00:00'
+last_seen: '2026-06-12T15:38:08.289537+00:00'
+last_checked: '2026-06-12T15:38:08.289537+00:00'
+health_score: 100
 ---
-
 
 # New in llama.cpp: Model Management
 
@@ -21,20 +25,17 @@ No summary provided. Reference resource: New in llama.cpp: Model Management
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-12-11T10:17:44+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-12-11T15:47:44+00:00
 
 ## Related Tags
 
+- meta-ai
 - models
 
 ## Source

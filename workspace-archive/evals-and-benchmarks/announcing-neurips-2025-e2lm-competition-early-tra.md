@@ -7,10 +7,12 @@ source_url: https://huggingface.co/blog/tiiuae/e2lm-competition
 resource_id: blog:announcing-neurips-2025-e2lm-competition-early-tra
 local_vault_path: ai/models/announcing-neurips-2025-e2lm-competition-early-tra.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
+tags:
+- benchmark
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -21,7 +23,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match

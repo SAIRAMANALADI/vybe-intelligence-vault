@@ -3,7 +3,8 @@ title: Hugging Face Machine Learning Demos on arXiv
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/arxiv
-local_vault_path: ai/models/huggingface-blog-arxiv.md
+resource_id: blog:hugging-face-machine-learning-demos-on-arxiv
+local_vault_path: ai/models/hugging-face-machine-learning-demos-on-arxiv.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-machine-learning-demos-on-arxiv
 ---
-
-
 
 # Hugging Face Machine Learning Demos on arXiv
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arxiv
 
 ## Local Vault File
 
-Path: [hugging-face-machine-learning-demos-on-arxiv-42f606.md](file:///../../ai/models/huggingface-blog-arxiv.md)
+Path: [hugging-face-machine-learning-demos-on-arxiv.md](file:///../../ai/models/hugging-face-machine-learning-demos-on-arxiv.md)

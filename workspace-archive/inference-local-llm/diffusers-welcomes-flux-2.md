@@ -3,7 +3,8 @@ title: Diffusers welcomes FLUX-2
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/flux-2
-local_vault_path: ai/models/huggingface-blog-flux-2.md
+resource_id: blog:diffusers-welcomes-flux-2
+local_vault_path: ai/models/diffusers-welcomes-flux-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:diffusers-welcomes-flux-2
 ---
-
-
 
 # Diffusers welcomes FLUX-2
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/flux-2
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-flux-2-f3064e.md](file:///../../ai/models/huggingface-blog-flux-2.md)
+Path: [diffusers-welcomes-flux-2.md](file:///../../ai/models/diffusers-welcomes-flux-2.md)

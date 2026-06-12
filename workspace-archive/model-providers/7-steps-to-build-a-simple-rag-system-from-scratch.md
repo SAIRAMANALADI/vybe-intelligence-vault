@@ -6,12 +6,13 @@ source_url: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-
 resource_id: blog:7-steps-to-build-a-simple-rag-system-from-scratch
 local_vault_path: ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md
 quality_score: 70
-archive_score: 72
+archive_score: 74
 archive_tier: useful
 resource_kind: dataset
 importance: medium
 tags:
 - agents
+- anthropic
 - dataset
 - hackernews
 - meta-ai
@@ -20,7 +21,6 @@ tags:
 - paper
 - rag
 - reddit
-- web-crawled
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Model Providers`
-- Quality score: 70 | Archive score: 72 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: dataset
 - Selection reasons:
   - Strong keyword match

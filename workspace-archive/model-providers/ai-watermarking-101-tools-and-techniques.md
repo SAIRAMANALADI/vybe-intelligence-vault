@@ -3,7 +3,8 @@ title: 'AI Watermarking 101: Tools and Techniques'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/watermarking
-local_vault_path: ai/models/huggingface-blog-watermarking.md
+resource_id: blog:ai-watermarking-101-tools-and-techniques
+local_vault_path: ai/models/ai-watermarking-101-tools-and-techniques.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - hackernews
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ai-watermarking-101-tools-and-techniques
 ---
-
-
 
 # AI Watermarking 101: Tools and Techniques
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/watermarking
 
 ## Local Vault File
 
-Path: [ai-watermarking-101-tools-and-techniques-cc6bbe.md](file:///../../ai/models/huggingface-blog-watermarking.md)
+Path: [ai-watermarking-101-tools-and-techniques.md](file:///../../ai/models/ai-watermarking-101-tools-and-techniques.md)

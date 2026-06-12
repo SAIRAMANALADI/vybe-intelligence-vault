@@ -3,7 +3,8 @@ title: 'Arc Virtual Cell Challenge: A Primer'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/virtual-cell-challenge
-local_vault_path: ai/models/huggingface-blog-virtual-cell-challenge.md
+resource_id: blog:arc-virtual-cell-challenge-a-primer
+local_vault_path: ai/models/arc-virtual-cell-challenge-a-primer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:arc-virtual-cell-challenge-a-primer
 ---
-
-
 
 # Arc Virtual Cell Challenge: A Primer
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virtual-cell-challenge
 
 ## Local Vault File
 
-Path: [arc-virtual-cell-challenge-a-primer-dbfc9b.md](file:///../../ai/models/huggingface-blog-virtual-cell-challenge.md)
+Path: [arc-virtual-cell-challenge-a-primer.md](file:///../../ai/models/arc-virtual-cell-challenge-a-primer.md)

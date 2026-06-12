@@ -4,7 +4,8 @@ title: 'XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for P
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/xlscout-case-study
-local_vault_path: ai/models/huggingface-blog-xlscout-case-study.md
+resource_id: blog:xlscout-unveils-paraembed-2-0-a-powerful-embedding
+local_vault_path: ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:xlscout-unveils-paraembed-2-0-a-powerful-embedding
 ---
-
-
 
 # XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/xlscout-case-study
 
 ## Local Vault File
 
-Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding-model-tailored-for-patents-an-7e511c.md](file:///../../ai/models/huggingface-blog-xlscout-case-study.md)
+Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding.md](file:///../../ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md)

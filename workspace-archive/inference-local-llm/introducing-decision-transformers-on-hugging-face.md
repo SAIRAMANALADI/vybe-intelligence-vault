@@ -3,7 +3,8 @@ title: Introducing Decision Transformers on Hugging Face 🤗
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/decision-transformers
-local_vault_path: ai/models/huggingface-blog-decision-transformers.md
+resource_id: blog:introducing-decision-transformers-on-hugging-face
+local_vault_path: ai/models/introducing-decision-transformers-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-decision-transformers-on-hugging-face
 ---
-
-
 
 # Introducing Decision Transformers on Hugging Face 🤗
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/decision-transformers
 
 ## Local Vault File
 
-Path: [introducing-decision-transformers-on-hugging-face-d5562b.md](file:///../../ai/models/huggingface-blog-decision-transformers.md)
+Path: [introducing-decision-transformers-on-hugging-face.md](file:///../../ai/models/introducing-decision-transformers-on-hugging-face.md)

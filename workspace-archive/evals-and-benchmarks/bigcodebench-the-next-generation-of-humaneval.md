@@ -3,7 +3,8 @@ title: 'BigCodeBench: The Next Generation of HumanEval'
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-bigcodebench
-local_vault_path: ai/models/huggingface-blog-leaderboard-bigcodebench.md
+resource_id: blog:bigcodebench-the-next-generation-of-humaneval
+local_vault_path: ai/models/bigcodebench-the-next-generation-of-humaneval.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -12,10 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:bigcodebench-the-next-generation-of-humaneval
 ---
-
-
 
 # BigCodeBench: The Next Generation of HumanEval
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-bigcodebench
 
 ## Local Vault File
 
-Path: [bigcodebench-the-next-generation-of-humaneval-ce10cf.md](file:///../../ai/models/huggingface-blog-leaderboard-bigcodebench.md)
+Path: [bigcodebench-the-next-generation-of-humaneval.md](file:///../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)

@@ -4,7 +4,8 @@ title: 'Data is better together: Enabling communities to collectively build bett
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/community-datasets
-local_vault_path: ai/models/huggingface-blog-community-datasets.md
+resource_id: blog:data-is-better-together-enabling-communities-to-co
+local_vault_path: ai/models/data-is-better-together-enabling-communities-to-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,9 +15,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:data-is-better-together-enabling-communities-to-co
 ---
-
 
 # Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/community-datasets
 
 ## Local Vault File
 
-Path: [data-is-better-together-enabling-communities-to-collectively-build-better-datase-af1e8d.md](file:///../../ai/models/huggingface-blog-community-datasets.md)
+Path: [data-is-better-together-enabling-communities-to-co.md](file:///../../ai/models/data-is-better-together-enabling-communities-to-co.md)

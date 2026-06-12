@@ -3,7 +3,8 @@ title: Hugging Face's TensorFlow Philosophy
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tensorflow-philosophy
-local_vault_path: ai/models/huggingface-blog-tensorflow-philosophy.md
+resource_id: blog:hugging-face-s-tensorflow-philosophy
+local_vault_path: ai/models/hugging-face-s-tensorflow-philosophy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-s-tensorflow-philosophy
 ---
-
-
 
 # Hugging Face's TensorFlow Philosophy
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tensorflow-philosophy
 
 ## Local Vault File
 
-Path: [hugging-face-s-tensorflow-philosophy-5a4de4.md](file:///../../ai/models/huggingface-blog-tensorflow-philosophy.md)
+Path: [hugging-face-s-tensorflow-philosophy.md](file:///../../ai/models/hugging-face-s-tensorflow-philosophy.md)

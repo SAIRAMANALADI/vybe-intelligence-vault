@@ -4,7 +4,8 @@ title: 'Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Ot
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-5
-local_vault_path: ai/models/huggingface-blog-ethics-soc-5.md
+resource_id: blog:ethics-and-society-newsletter-5-hugging-face-goes
+local_vault_path: ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ethics-and-society-newsletter-5-hugging-face-goes
 ---
-
-
 
 # Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-5
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-5-hugging-face-goes-to-washington-and-other-summer-817300.md](file:///../../ai/models/huggingface-blog-ethics-soc-5.md)
+Path: [ethics-and-society-newsletter-5-hugging-face-goes.md](file:///../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)

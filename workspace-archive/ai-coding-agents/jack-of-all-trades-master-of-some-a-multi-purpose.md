@@ -3,7 +3,8 @@ title: Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/jat
-local_vault_path: ai/agents/huggingface-blog-jat.md
+resource_id: blog:jack-of-all-trades-master-of-some-a-multi-purpose
+local_vault_path: ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:jack-of-all-trades-master-of-some-a-multi-purpose
 ---
-
-
 
 # Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jat
 
 ## Local Vault File
 
-Path: [jack-of-all-trades-master-of-some-a-multi-purpose-transformer-agent-1f8156.md](file:///../../ai/agents/huggingface-blog-jat.md)
+Path: [jack-of-all-trades-master-of-some-a-multi-purpose.md](file:///../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)

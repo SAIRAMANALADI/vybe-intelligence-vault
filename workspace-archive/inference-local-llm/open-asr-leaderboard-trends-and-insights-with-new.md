@@ -4,7 +4,8 @@ title: 'Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-F
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-asr-leaderboard
-local_vault_path: ai/models/huggingface-blog-open-asr-leaderboard.md
+resource_id: blog:open-asr-leaderboard-trends-and-insights-with-new
+local_vault_path: ai/models/open-asr-leaderboard-trends-and-insights-with-new.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,10 +15,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:open-asr-leaderboard-trends-and-insights-with-new
 ---
-
-
 
 # Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/open-asr-leaderboard
 
 ## Local Vault File
 
-Path: [open-asr-leaderboard-trends-and-insights-with-new-multilingual-long-form-tracks-c86812.md](file:///../../ai/models/huggingface-blog-open-asr-leaderboard.md)
+Path: [open-asr-leaderboard-trends-and-insights-with-new.md](file:///../../ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)

@@ -4,37 +4,19 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/gonzalochale/saas-landing-template
-collected_at: '2026-06-12T10:40:20.338263+00:00'
+collected_at: '2026-06-12T15:38:20.237764+00:00'
 published_at: '2026-06-03T09:37:30Z'
 tags:
 - frontend_ui
 stars: 166
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:20.338263+00:00'
-last_seen: '2026-06-12T10:40:20.338263+00:00'
 resource_id: github:gonzalochale/saas-landing-template
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 81
-change_history:
-- timestamp: '2026-06-12T10:40:20.338263+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 20.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: License updated from None to MIT License.
-forks: 20
-archived: false
-license: MIT License
+first_seen: '2026-06-12T15:38:20.237764+00:00'
+last_seen: '2026-06-12T15:38:20.237764+00:00'
+last_checked: '2026-06-12T15:38:20.237764+00:00'
+health_score: 100
 ---
-
-
 
 # gonzalochale/saas-landing-template
 

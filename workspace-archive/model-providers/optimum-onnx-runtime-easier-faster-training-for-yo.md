@@ -3,7 +3,8 @@ title: Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face mode
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-onnxruntime-training
-local_vault_path: ai/models/huggingface-blog-optimum-onnxruntime-training.md
+resource_id: blog:optimum-onnx-runtime-easier-faster-training-for-yo
+local_vault_path: ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:optimum-onnx-runtime-easier-faster-training-for-yo
 ---
-
 
 # Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-onnxruntime-training
 
 ## Local Vault File
 
-Path: [optimum-onnx-runtime-easier-faster-training-for-your-hugging-face-models-abc75e.md](file:///../../ai/models/huggingface-blog-optimum-onnxruntime-training.md)
+Path: [optimum-onnx-runtime-easier-faster-training-for-yo.md](file:///../../ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)

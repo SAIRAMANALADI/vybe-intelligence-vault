@@ -3,7 +3,8 @@ title: Faster Text Generation with Self-Speculative Decoding
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/layerskip
-local_vault_path: ai/models/huggingface-blog-layerskip.md
+resource_id: blog:faster-text-generation-with-self-speculative-decod
+local_vault_path: ai/models/faster-text-generation-with-self-speculative-decod.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:faster-text-generation-with-self-speculative-decod
 ---
-
 
 # Faster Text Generation with Self-Speculative Decoding
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/layerskip
 
 ## Local Vault File
 
-Path: [faster-text-generation-with-self-speculative-decoding-310f4f.md](file:///../../ai/models/huggingface-blog-layerskip.md)
+Path: [faster-text-generation-with-self-speculative-decod.md](file:///../../ai/models/faster-text-generation-with-self-speculative-decod.md)

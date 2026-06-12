@@ -3,7 +3,8 @@ title: 'A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multi
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/aya-vision
-local_vault_path: ai/models/huggingface-blog-aya-vision.md
+resource_id: blog:a-deepdive-into-aya-vision-advancing-the-frontier
+local_vault_path: ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:a-deepdive-into-aya-vision-advancing-the-frontier
 ---
-
-
 
 # A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-vision
 
 ## Local Vault File
 
-Path: [a-deepdive-into-aya-vision-advancing-the-frontier-of-multilingual-multimodality-8ef0f4.md](file:///../../ai/models/huggingface-blog-aya-vision.md)
+Path: [a-deepdive-into-aya-vision-advancing-the-frontier.md](file:///../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)

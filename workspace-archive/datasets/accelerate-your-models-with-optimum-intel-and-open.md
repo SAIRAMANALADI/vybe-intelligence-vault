@@ -3,7 +3,8 @@ title: Accelerate your models with 🤗 Optimum Intel and OpenVINO
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/openvino
-local_vault_path: ai/models/huggingface-blog-openvino.md
+resource_id: blog:accelerate-your-models-with-optimum-intel-and-open
+local_vault_path: ai/models/accelerate-your-models-with-optimum-intel-and-open.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerate-your-models-with-optimum-intel-and-open
 ---
-
 
 # Accelerate your models with 🤗 Optimum Intel and OpenVINO
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino
 
 ## Local Vault File
 
-Path: [accelerate-your-models-with-optimum-intel-and-openvino-e1cf00.md](file:///../../ai/models/huggingface-blog-openvino.md)
+Path: [accelerate-your-models-with-optimum-intel-and-open.md](file:///../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)

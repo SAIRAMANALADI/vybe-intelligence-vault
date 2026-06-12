@@ -2,13 +2,13 @@
 title: 'Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!'
 archive_category: model-providers
 source_category: ai/models
-source_url: https://huggingface.co/blog/Writer/announcing-palmyra-mini
+source_url: https://huggingface.co/blog/writer/announcing-palmyra-mini
 resource_id: blog:introducing-the-palmyra-mini-family-powerful-light
 local_vault_path: ai/models/introducing-the-palmyra-mini-family-powerful-light.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Introducing the Palmyra-mini family: Po
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Writer/announcing-palmyra-mini
+Original source URL: https://huggingface.co/blog/writer/announcing-palmyra-mini
 
 ## Local Vault File
 

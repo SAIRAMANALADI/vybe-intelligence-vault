@@ -3,7 +3,8 @@ title: Training CodeParrot 🦜 from Scratch
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/codeparrot
-local_vault_path: ai/models/huggingface-blog-codeparrot.md
+resource_id: blog:training-codeparrot-from-scratch
+local_vault_path: ai/models/training-codeparrot-from-scratch.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:training-codeparrot-from-scratch
 ---
-
-
 
 # Training CodeParrot 🦜 from Scratch
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/codeparrot
 
 ## Local Vault File
 
-Path: [training-codeparrot-from-scratch-748eb1.md](file:///../../ai/models/huggingface-blog-codeparrot.md)
+Path: [training-codeparrot-from-scratch.md](file:///../../ai/models/training-codeparrot-from-scratch.md)

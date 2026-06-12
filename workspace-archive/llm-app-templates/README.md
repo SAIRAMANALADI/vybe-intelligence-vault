@@ -11,11 +11,11 @@ Starter kits and application templates drastically accelerate the deployment of 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (template - ESSENTIAL Tier)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
-- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (prompt - USEFUL Tier)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (tutorial - USEFUL Tier)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine) (template - USEFUL Tier)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (template - USEFUL Tier)
-- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (prompt - USEFUL Tier)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,10 +23,10 @@ https://github.com/vercel/ai (Vercel AI SDK)
 https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
+- [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-12 15:40 UTC*

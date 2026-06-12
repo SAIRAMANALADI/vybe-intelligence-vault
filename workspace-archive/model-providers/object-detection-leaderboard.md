@@ -3,7 +3,8 @@ title: Object Detection Leaderboard
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/object-detection-leaderboard
-local_vault_path: ai/models/huggingface-blog-object-detection-leaderboard.md
+resource_id: blog:object-detection-leaderboard
+local_vault_path: ai/models/object-detection-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:object-detection-leaderboard
 ---
-
-
 
 # Object Detection Leaderboard
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/object-detection-leaderboard
 
 ## Local Vault File
 
-Path: [object-detection-leaderboard-1072bd.md](file:///../../ai/models/huggingface-blog-object-detection-leaderboard.md)
+Path: [object-detection-leaderboard.md](file:///../../ai/models/object-detection-leaderboard.md)

@@ -3,7 +3,8 @@ title: 'Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/torch-mlp-fusion
-local_vault_path: ai/models/huggingface-blog-torch-mlp-fusion.md
+resource_id: blog:profiling-in-pytorch-part-2-from-nn-linear-to-a-fu
+local_vault_path: ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:profiling-in-pytorch-part-2-from-nn-linear-to-a-fu
 ---
-
 
 # Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/torch-mlp-fusion
 
 ## Local Vault File
 
-Path: [profiling-in-pytorch-part-2-from-nn-linear-to-a-fused-mlp-9a812e.md](file:///../../ai/models/huggingface-blog-torch-mlp-fusion.md)
+Path: [profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md](file:///../../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md)

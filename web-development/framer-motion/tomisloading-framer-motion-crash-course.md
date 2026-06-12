@@ -4,33 +4,19 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/tomisloading/framer-motion-crash-course
-collected_at: '2026-06-12T10:40:18.782858+00:00'
+collected_at: '2026-06-12T15:38:18.518576+00:00'
 published_at: '2026-06-07T05:00:24Z'
 tags:
 - animation
 stars: 57
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:18.782858+00:00'
-last_seen: '2026-06-12T10:40:18.782858+00:00'
 resource_id: github:tomisloading/framer-motion-crash-course
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 58
-change_history:
-- timestamp: '2026-06-12T10:40:18.782858+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 56.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 56
-archived: false
+first_seen: '2026-06-12T15:38:18.518576+00:00'
+last_seen: '2026-06-12T15:38:18.518576+00:00'
+last_checked: '2026-06-12T15:38:18.518576+00:00'
+health_score: 100
 ---
-
-
 
 # TomIsLoading/framer-motion-crash-course
 

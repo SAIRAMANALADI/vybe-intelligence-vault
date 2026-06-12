@@ -3,7 +3,8 @@ title: 'From Files to Chunks: Improving HF Storage Efficiency'
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/from-files-to-chunks
-local_vault_path: ai/rag/huggingface-blog-from-files-to-chunks.md
+resource_id: blog:from-files-to-chunks-improving-hf-storage-efficien
+local_vault_path: ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,9 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:from-files-to-chunks-improving-hf-storage-efficien
 ---
-
 
 # From Files to Chunks: Improving HF Storage Efficiency
 
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/from-files-to-chunks
 
 ## Local Vault File
 
-Path: [from-files-to-chunks-improving-hf-storage-efficiency-4fb33a.md](file:///../../ai/rag/huggingface-blog-from-files-to-chunks.md)
+Path: [from-files-to-chunks-improving-hf-storage-efficien.md](file:///../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)

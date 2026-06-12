@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 97 resources matched in the intelligence vault.
 Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/huggingface-blog-accelerating-pytorch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/huggingface-blog-peft.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/huggingface-blog-trl-peft.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Steering the Noise: Turning Random Perturbations into Effective Descent for Memory-Efficient LLM Fine-Tuning](../ai/research/arxiv-2601-04710.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Erased but Not Forgotten: How Backdoors Compromise Concept Erasure](../ai/research/arxiv-2504-21072.md) (Source: Unknown Source) - Collected 2026-06-12
+- [On the Geometry of On-Policy Distillation](../ai/research/arxiv-2606-07082.md) (Source: Unknown Source) - Collected 2026-06-12
+- [EvalStop: Using World Feedback to Detect and Correct Reward Overoptimization in Multi-Tenant RLHF Platforms](../ai/research/arxiv-2606-04145.md) (Source: Unknown Source) - Collected 2026-06-12
+- [MobileFineTuner: A Mobile-Native Framework for On-Device LLM Fine-Tuning in Real-World Embedded AI Applications](../ai/agents/arxiv-2512-08211.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -86,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.784633+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.426834+00:00.784633+00:00.

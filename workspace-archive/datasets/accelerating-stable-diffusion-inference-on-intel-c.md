@@ -3,7 +3,8 @@ title: Accelerating Stable Diffusion Inference on Intel CPUs
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable-diffusion-inference-intel
-local_vault_path: ai/models/huggingface-blog-stable-diffusion-inference-intel.md
+resource_id: blog:accelerating-stable-diffusion-inference-on-intel-c
+local_vault_path: ai/models/accelerating-stable-diffusion-inference-on-intel-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerating-stable-diffusion-inference-on-intel-c
 ---
-
 
 # Accelerating Stable Diffusion Inference on Intel CPUs
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-inference-inte
 
 ## Local Vault File
 
-Path: [accelerating-stable-diffusion-inference-on-intel-cpus-bb1782.md](file:///../../ai/models/huggingface-blog-stable-diffusion-inference-intel.md)
+Path: [accelerating-stable-diffusion-inference-on-intel-c.md](file:///../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)

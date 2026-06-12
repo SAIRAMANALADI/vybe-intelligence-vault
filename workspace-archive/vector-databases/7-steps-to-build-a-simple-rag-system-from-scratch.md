@@ -12,6 +12,7 @@ resource_kind: dataset
 importance: medium
 tags:
 - agents
+- anthropic
 - dataset
 - hackernews
 - meta-ai
@@ -20,7 +21,6 @@ tags:
 - paper
 - rag
 - reddit
-- web-crawled
 selection_reason:
 - Valuable developer reference
 ---

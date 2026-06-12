@@ -3,14 +3,17 @@ title: OVHcloud on Hugging Face Inference Providers 🔥
 category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
-source_url: https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud
-published_at: '2025-11-24T10:38:47+00:00'
-collected_at: '2026-06-11T08:37:58.324393+00:00'
+source_url: https://huggingface.co/blog/ovhcloud/inference-providers-ovhcloud
+published_at: '2025-11-24T16:08:47+00:00'
+collected_at: '2026-06-12T15:38:08.289718+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:ovhcloud-on-hugging-face-inference-providers
+first_seen: '2026-06-12T15:38:08.289718+00:00'
+last_seen: '2026-06-12T15:38:08.289718+00:00'
+last_checked: '2026-06-12T15:38:08.289718+00:00'
+health_score: 100
 ---
-
 
 # OVHcloud on Hugging Face Inference Providers 🔥
 
@@ -20,17 +23,13 @@ No summary provided. Reference resource: OVHcloud on Hugging Face Inference Prov
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-11-24T10:38:47+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-11-24T16:08:47+00:00
 
 ## Related Tags
 
@@ -38,4 +37,4 @@ Use this as a learning/reference resource. Review the source and extract project
 
 ## Source
 
-Original source: https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud
+Original source: https://huggingface.co/blog/ovhcloud/inference-providers-ovhcloud

@@ -20,11 +20,11 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 45 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Characterizing the Impact of NVFP4 Quantization for Low-Power Edge AI Deployment](../ai/rag/arxiv-2606-06527.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Intermittent time series forecasting: local vs global models](../ai/research/arxiv-2601-14031.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Breaking the Ice: Analyzing Cold Start Latency in vLLM](../ai/research/arxiv-2606-07362.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Apertus LLM Family Expansion via Distillation and Quantization](../ai/research/arxiv-2605-29128.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -45,15 +45,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, qu...
 
-### 4. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
-- Stars: 0
-- Language: Unknown
-- Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
-
-### 5. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
+### 4. [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) ([GitHub](https://github.com/pixegami/rag-tutorial-v2))
 - Stars: 0
 - Language: Unknown
 - Description: An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and testing.
+
+### 5. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+- Stars: 0
+- Language: Unknown
+- Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
 ### 6. [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md) ([GitHub](https://github.com/llamasearchai/openagi-customization))
 - Stars: 0
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:54.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.608839+00:00.204506+00:00.

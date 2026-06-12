@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/fireship-io/framer-demo
-collected_at: '2026-06-12T10:40:18.782996+00:00'
+collected_at: '2026-06-12T15:38:18.518728+00:00'
 published_at: '2025-02-16T19:49:36Z'
 tags:
 - animation
@@ -12,26 +12,12 @@ tags:
 stars: 98
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:18.782996+00:00'
-last_seen: '2026-06-12T10:40:18.782996+00:00'
 resource_id: github:fireship-io/framer-demo
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 59
-change_history:
-- timestamp: '2026-06-12T10:40:18.782996+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 21.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 21
-archived: false
+first_seen: '2026-06-12T15:38:18.518728+00:00'
+last_seen: '2026-06-12T15:38:18.518728+00:00'
+last_checked: '2026-06-12T15:38:18.518728+00:00'
+health_score: 100
 ---
-
-
 
 # fireship-io/framer-demo
 

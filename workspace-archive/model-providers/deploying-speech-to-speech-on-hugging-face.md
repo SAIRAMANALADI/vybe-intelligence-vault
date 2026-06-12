@@ -3,7 +3,8 @@ title: Deploying Speech-to-Speech on Hugging Face
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/s2s_endpoint
-local_vault_path: ai/models/huggingface-blog-s2s-endpoint.md
+resource_id: blog:deploying-speech-to-speech-on-hugging-face
+local_vault_path: ai/models/deploying-speech-to-speech-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploying-speech-to-speech-on-hugging-face
 ---
-
-
 
 # Deploying Speech-to-Speech on Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/s2s_endpoint
 
 ## Local Vault File
 
-Path: [deploying-speech-to-speech-on-hugging-face-8cc705.md](file:///../../ai/models/huggingface-blog-s2s-endpoint.md)
+Path: [deploying-speech-to-speech-on-hugging-face.md](file:///../../ai/models/deploying-speech-to-speech-on-hugging-face.md)

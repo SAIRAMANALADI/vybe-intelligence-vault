@@ -3,8 +3,8 @@ title: codebucks27/3D-Landing-page-for-Apple-iPhone
 category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
-source_url: https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone
-collected_at: '2026-06-11T08:45:42.451808+00:00'
+source_url: https://github.com/codebucks27/3d-landing-page-for-apple-iphone
+collected_at: '2026-06-12T15:38:19.314166+00:00'
 published_at: '2026-05-14T07:00:27Z'
 tags:
 - animation
@@ -14,23 +14,11 @@ stars: 107
 language: JavaScript
 status: active
 resource_id: github:codebucks27/3d-landing-page-for-apple-iphone
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 60
-change_history:
-- timestamp: '2026-06-11T08:45:42.451808+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 34.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 34
-archived: false
+first_seen: '2026-06-12T15:38:19.314166+00:00'
+last_seen: '2026-06-12T15:38:19.314166+00:00'
+last_checked: '2026-06-12T15:38:19.314166+00:00'
+health_score: 100
 ---
-
-
 
 # codebucks27/3D-Landing-page-for-Apple-iPhone
 
@@ -67,4 +55,4 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 ## Source
 
-Original source: https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone
+Original source: https://github.com/codebucks27/3d-landing-page-for-apple-iphone

@@ -3,7 +3,8 @@ title: AI Speech Recognition in Unity
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/unity-asr
-local_vault_path: ai/models/huggingface-blog-unity-asr.md
+resource_id: blog:ai-speech-recognition-in-unity
+local_vault_path: ai/models/ai-speech-recognition-in-unity.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ai-speech-recognition-in-unity
 ---
-
-
 
 # AI Speech Recognition in Unity
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-asr
 
 ## Local Vault File
 
-Path: [ai-speech-recognition-in-unity-05d191.md](file:///../../ai/models/huggingface-blog-unity-asr.md)
+Path: [ai-speech-recognition-in-unity.md](file:///../../ai/models/ai-speech-recognition-in-unity.md)

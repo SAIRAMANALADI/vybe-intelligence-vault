@@ -8,7 +8,7 @@ local_vault_path: ai/models/the-future-of-the-global-open-source-ai-ecosystem.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Strong keyword match
@@ -21,7 +21,7 @@ selection_reason:
 
 - Matched archive category: `AI Tools and Products`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference

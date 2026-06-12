@@ -4,7 +4,8 @@ title: 'huggingface_hub v1.0: Five Years of Building the Foundation of Open Mach
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-hub-v1
-local_vault_path: ai/models/huggingface-blog-huggingface-hub-v1.md
+resource_id: blog:huggingface-hub-v1-0-five-years-of-building-the-fo
+local_vault_path: ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:huggingface-hub-v1-0-five-years-of-building-the-fo
 ---
-
 
 # huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-hub-v1
 
 ## Local Vault File
 
-Path: [huggingface-hub-v1-0-five-years-of-building-the-foundation-of-open-machine-learn-10e206.md](file:///../../ai/models/huggingface-blog-huggingface-hub-v1.md)
+Path: [huggingface-hub-v1-0-five-years-of-building-the-fo.md](file:///../../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)

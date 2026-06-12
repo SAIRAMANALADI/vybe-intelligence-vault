@@ -3,7 +3,8 @@ title: Welcome Llama 3 - Meta's new open LLM
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama3
-local_vault_path: ai/models/huggingface-blog-llama3.md
+resource_id: blog:welcome-llama-3-meta-s-new-open-llm
+local_vault_path: ai/models/welcome-llama-3-meta-s-new-open-llm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-llama-3-meta-s-new-open-llm
 ---
-
-
 
 # Welcome Llama 3 - Meta's new open LLM
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama3
 
 ## Local Vault File
 
-Path: [welcome-llama-3-meta-s-new-open-llm-921355.md](file:///../../ai/models/huggingface-blog-llama3.md)
+Path: [welcome-llama-3-meta-s-new-open-llm.md](file:///../../ai/models/welcome-llama-3-meta-s-new-open-llm.md)

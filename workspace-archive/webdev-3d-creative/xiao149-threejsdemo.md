@@ -2,7 +2,7 @@
 title: xiao149/ThreeJsDemo
 archive_category: webdev-3d-creative
 source_category: web-development/threejs
-source_url: https://github.com/xiao149/ThreeJsDemo
+source_url: https://github.com/xiao149/threejsdemo
 resource_id: github:xiao149/threejsdemo
 local_vault_path: web-development/threejs/xiao149-threejsdemo.md
 quality_score: 70
@@ -40,7 +40,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source URL: https://github.com/xiao149/ThreeJsDemo
+Original source URL: https://github.com/xiao149/threejsdemo
 
 ## Local Vault File
 

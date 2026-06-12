@@ -10,11 +10,11 @@ Streaming JSON rendering, message bubble styles, typing animations, layout state
 React, TailwindCSS, shadcn/ui, Vercel AI SDK.
 
 ## Recommended Resources from the Vault
-*   [adrianhajdin/project_metaverse](https://github.com/adrianhajdin/project_metaverse)
+*   [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio)
 *   [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev)
 *   [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants)
-*   [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio)
-*   [frontendfyi/rebuilding-linear.app](https://github.com/frontendfyi/rebuilding-linear.app)
+*   [adrianhajdin/project_metaverse](https://github.com/adrianhajdin/project_metaverse)
+*   [itsfaqih/fama](https://github.com/itsfaqih/fama)
 
 ## Project Ideas
 *   AI chat assistant with smooth message bubbles and streaming text rendering.

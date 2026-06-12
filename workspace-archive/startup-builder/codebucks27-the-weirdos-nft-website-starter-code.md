@@ -2,7 +2,7 @@
 title: codebucks27/The-Weirdos-NFT-Website-Starter-Code
 archive_category: startup-builder
 source_category: web-development/gsap
-source_url: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
+source_url: https://github.com/codebucks27/the-weirdos-nft-website-starter-code
 resource_id: github:codebucks27/the-weirdos-nft-website-starter-code
 local_vault_path: web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md
 quality_score: 70
@@ -41,7 +41,7 @@ Build a cool NFT Collection website landing page with React JS . This website is
 
 ## Source
 
-Original source URL: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
+Original source URL: https://github.com/codebucks27/the-weirdos-nft-website-starter-code
 
 ## Local Vault File
 

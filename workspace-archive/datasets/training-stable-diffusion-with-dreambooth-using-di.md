@@ -3,7 +3,8 @@ title: Training Stable Diffusion with Dreambooth using Diffusers
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/dreambooth
-local_vault_path: ai/models/huggingface-blog-dreambooth.md
+resource_id: blog:training-stable-diffusion-with-dreambooth-using-di
+local_vault_path: ai/models/training-stable-diffusion-with-dreambooth-using-di.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:training-stable-diffusion-with-dreambooth-using-di
 ---
-
 
 # Training Stable Diffusion with Dreambooth using Diffusers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dreambooth
 
 ## Local Vault File
 
-Path: [training-stable-diffusion-with-dreambooth-using-diffusers-babc65.md](file:///../../ai/models/huggingface-blog-dreambooth.md)
+Path: [training-stable-diffusion-with-dreambooth-using-di.md](file:///../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)

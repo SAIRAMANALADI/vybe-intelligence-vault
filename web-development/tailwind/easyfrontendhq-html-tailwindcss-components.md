@@ -3,17 +3,20 @@ title: EasyFrontendHQ/html-tailwindcss-components
 category: web-development/tailwind
 source_type: github
 source_name: GitHub Tailwind UI Resources
-source_url: https://github.com/EasyFrontendHQ/html-tailwindcss-components
-collected_at: '2026-06-11T08:45:45.631080+00:00'
+source_url: https://github.com/easyfrontendhq/html-tailwindcss-components
+collected_at: '2026-06-12T15:38:20.787856+00:00'
 published_at: '2026-06-10T16:54:50Z'
 tags:
 - frontend_ui
 stars: 614
 language: HTML
-status: new
+status: active
 resource_id: github:easyfrontendhq/html-tailwindcss-components
+first_seen: '2026-06-12T15:38:20.787856+00:00'
+last_seen: '2026-06-12T15:38:20.787856+00:00'
+last_checked: '2026-06-12T15:38:20.787856+00:00'
+health_score: 100
 ---
-
 
 # EasyFrontendHQ/html-tailwindcss-components
 
@@ -50,4 +53,4 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 ## Source
 
-Original source: https://github.com/EasyFrontendHQ/html-tailwindcss-components
+Original source: https://github.com/easyfrontendhq/html-tailwindcss-components

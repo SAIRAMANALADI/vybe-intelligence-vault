@@ -4,18 +4,18 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/blog/ngxson/make-your-own-rag
-published_at: '2026-06-12T10:41:07.103343+00:00'
-collected_at: '2026-06-12T10:41:07.103356+00:00'
+published_at: '2026-06-12T15:39:03.873789+00:00'
+collected_at: '2026-06-12T15:39:03.873807+00:00'
 tags:
 - rag
 - web-crawled
 status: active
-id: null
-first_seen: '2026-06-12T10:41:07.103356+00:00'
-last_seen: '2026-06-12T10:41:07.103356+00:00'
 resource_id: blog:code-a-simple-rag-from-scratch
+first_seen: '2026-06-12T15:39:03.873807+00:00'
+last_seen: '2026-06-12T15:39:03.873807+00:00'
+last_checked: '2026-06-12T15:39:03.873807+00:00'
+health_score: 100
 ---
-
 
 # Code a simple RAG from scratch
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T10:41:07.103343+00:00
+- Published: 2026-06-12T15:39:03.873789+00:00
 
 ## Related Tags
 

@@ -3,7 +3,8 @@ title: From OpenAI to Open LLMs with Messages API on Hugging Face
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tgi-messages-api
-local_vault_path: ai/models/huggingface-blog-tgi-messages-api.md
+resource_id: blog:from-openai-to-open-llms-with-messages-api-on-hugg
+local_vault_path: ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,9 +14,7 @@ tags:
 - openai
 selection_reason:
 - Valuable developer reference
-resource_id: blog:from-openai-to-open-llms-with-messages-api-on-hugg
 ---
-
 
 # From OpenAI to Open LLMs with Messages API on Hugging Face
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tgi-messages-api
 
 ## Local Vault File
 
-Path: [from-openai-to-open-llms-with-messages-api-on-hugging-face-941cb5.md](file:///../../ai/models/huggingface-blog-tgi-messages-api.md)
+Path: [from-openai-to-open-llms-with-messages-api-on-hugg.md](file:///../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)

@@ -3,7 +3,8 @@ title: Creating Privacy Preserving AI with Substra
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/owkin-substra
-local_vault_path: ai/models/huggingface-blog-owkin-substra.md
+resource_id: blog:creating-privacy-preserving-ai-with-substra
+local_vault_path: ai/models/creating-privacy-preserving-ai-with-substra.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:creating-privacy-preserving-ai-with-substra
 ---
-
-
 
 # Creating Privacy Preserving AI with Substra
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/owkin-substra
 
 ## Local Vault File
 
-Path: [creating-privacy-preserving-ai-with-substra-b92693.md](file:///../../ai/models/huggingface-blog-owkin-substra.md)
+Path: [creating-privacy-preserving-ai-with-substra.md](file:///../../ai/models/creating-privacy-preserving-ai-with-substra.md)

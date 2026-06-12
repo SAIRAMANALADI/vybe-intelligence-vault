@@ -3,18 +3,22 @@ title: Epiczzor/r3f-template
 category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
-source_url: https://github.com/Epiczzor/r3f-template
-collected_at: '2026-06-11T08:45:37.431908+00:00'
+source_url: https://github.com/epiczzor/r3f-template
+collected_at: '2026-06-12T15:38:15.659395+00:00'
 published_at: '2026-03-05T15:00:40Z'
 tags:
 - frontend_ui
+- reddit
 - threejs
 stars: 301
 language: JavaScript
-status: new
+status: active
 resource_id: github:epiczzor/r3f-template
+first_seen: '2026-06-12T15:38:15.659395+00:00'
+last_seen: '2026-06-12T15:38:15.659395+00:00'
+last_checked: '2026-06-12T15:38:15.659395+00:00'
+health_score: 100
 ---
-
 
 # Epiczzor/r3f-template
 
@@ -51,4 +55,4 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source: https://github.com/Epiczzor/r3f-template
+Original source: https://github.com/epiczzor/r3f-template

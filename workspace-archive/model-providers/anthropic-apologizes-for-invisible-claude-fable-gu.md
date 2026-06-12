@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rarisma. Score: 428, Comments: 387.
+Hacker News story by rarisma. Score: 477, Comments: 413.
 Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
 
 ## Use Cases

@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/jolbol1/nextjs-velite-blog-template
-collected_at: '2026-06-12T10:40:20.338189+00:00'
+collected_at: '2026-06-12T15:38:20.237679+00:00'
 published_at: '2026-05-15T21:21:04Z'
 tags:
 - frontend_ui
@@ -12,26 +12,12 @@ tags:
 stars: 194
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:20.338189+00:00'
-last_seen: '2026-06-12T10:40:20.338189+00:00'
 resource_id: github:jolbol1/nextjs-velite-blog-template
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 61
-change_history:
-- timestamp: '2026-06-12T10:40:20.338189+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 54.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 54
-archived: false
+first_seen: '2026-06-12T15:38:20.237679+00:00'
+last_seen: '2026-06-12T15:38:20.237679+00:00'
+last_checked: '2026-06-12T15:38:20.237679+00:00'
+health_score: 100
 ---
-
-
 
 # jolbol1/nextjs-velite-blog-template
 

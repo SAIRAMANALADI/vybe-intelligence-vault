@@ -13,10 +13,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](file:///../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](file:///../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
@@ -28,44 +28,44 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](file:///../../ai/rag/yonatangross-orchestkit.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
-
-### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
+### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](file:///../../ai/agents/mergisi-awesome-openclaw-agents.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augme.md`](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
-- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`five-guides-to-building-and-scaling-production-rea.md`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
+### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`mastering-langgraph-a-production-ready-coding-walk.md`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes](https://arxiv.org/abs/2510.16380)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`arxiv-2510-16380.md`](file:///../../ai/agents/arxiv-2510-16380.md)
+### [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents)
+- **Category**: `ai/rag` | **Kind**: `BENCHMARK` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`five-guides-to-building-and-scaling-production-rea.md`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`arxiv-2606-11304.md`](file:///../../ai/rag/arxiv-2606-11304.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [PRInTS: Reward Modeling for Long-Horizon Information Seeking](https://arxiv.org/abs/2511.19314)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`arxiv-2511-19314.md`](file:///../../ai/agents/arxiv-2511-19314.md)
+### [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`arxiv-2606-11751.md`](file:///../../ai/rag/arxiv-2606-11751.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-12 15:40 UTC*

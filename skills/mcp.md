@@ -20,11 +20,11 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 33 resources matched in the intelligence vault.
 Recently detected signals:
+- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents](../ai/agents/arxiv-2606-12674.md) (Source: Unknown Source) - Collected 2026-06-12
 - [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Five Big Improvements to Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-updates.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](../ai/models/huggingface-blog-gradio-vton-mcp.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -50,15 +50,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Official SonarQube MCP Server for code quality and security in AI agents
 
-### 5. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
-- Stars: 0
-- Language: Unknown
-- Description: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
-
-### 6. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
+### 5. [github/github-mcp-server](../ai/resources/github-github-mcp-server.md) ([GitHub](https://github.com/github/github-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: GitHub's official MCP Server
+
+### 6. [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([GitHub](https://github.com/jpisnice/shadcn-ui-mcp-server))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: Jpisnice/shadcn-ui-mcp-server
 
 ### 7. [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md) ([GitHub](https://github.com/mukul975/cve-mcp-server))
 - Stars: 0
@@ -85,15 +85,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain.
 
-### 12. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
-- Stars: 0
-- Language: Unknown
-- Description: Scan MCP servers for potential threats & security findings.
-
-### 13. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 12. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+
+### 13. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+- Stars: 0
+- Language: Unknown
+- Description: Scan MCP servers for potential threats & security findings.
 
 ### 14. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
 - Stars: 0
@@ -105,20 +105,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug b...
 
-### 16. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
+### 16. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
 - Stars: 0
 - Language: Unknown
-- Description: AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
+- Description: Security scanner for AI agents, MCP servers and agent skills.
 
 ### 17. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
 - Language: Unknown
 - Description: MCP server for AI-driven security pipelines
 
-### 18. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
+### 18. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
-- Description: Security scanner for AI agents, MCP servers and agent skills.
+- Description: AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
 
 ### 19. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
 - Stars: 0
@@ -130,25 +130,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: A production-ready Model Context Protocol (MCP) server that enables AI applications to seamlessly interact with Instagram Business accounts.
 
-### 21. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
-- Stars: 0
-- Language: Unknown
-- Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
-
-### 22. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
-- Stars: 0
-- Language: Unknown
-- Description: Security scanner for MCP servers
-
-### 23. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
+### 21. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A MCP server for using Semgrep to scan code for security vulnerabilities.
 
-### 24. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
+### 22. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Production ready MCP server with real-time search, extract, map & crawl.
+
+### 23. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+- Stars: 0
+- Language: Unknown
+- Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
+
+### 24. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
+- Stars: 0
+- Language: Unknown
+- Description: Security scanner for MCP servers
 
 ### 25. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
 - Stars: 0
@@ -175,4 +175,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.692169+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.380664+00:00.692169+00:00.

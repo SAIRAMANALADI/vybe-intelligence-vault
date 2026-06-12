@@ -3,7 +3,8 @@ title: Accelerate 1.0.0
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-v1
-local_vault_path: ai/models/huggingface-blog-accelerate-v1.md
+resource_id: blog:accelerate-1-0-0
+local_vault_path: ai/models/accelerate-1-0-0.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerate-1-0-0
 ---
-
-
 
 # Accelerate 1.0.0
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-v1
 
 ## Local Vault File
 
-Path: [accelerate-1-0-0-d1dfe2.md](file:///../../ai/models/huggingface-blog-accelerate-v1.md)
+Path: [accelerate-1-0-0.md](file:///../../ai/models/accelerate-1-0-0.md)

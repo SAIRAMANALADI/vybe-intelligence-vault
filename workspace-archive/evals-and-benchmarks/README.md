@@ -8,24 +8,24 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
-- [MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes](https://arxiv.org/abs/2510.16380) (framework - USEFUL Tier)
-- [PRInTS: Reward Modeling for Long-Horizon Information Seeking](https://arxiv.org/abs/2511.19314) (framework - USEFUL Tier)
-- [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (framework - USEFUL Tier)
-- [How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489) (framework - USEFUL Tier)
-- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (benchmark - USEFUL Tier)
-- [Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction](https://arxiv.org/abs/2606.11909) (framework - USEFUL Tier)
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
-- [From Imitation to Alignment: Human-Preference Flow Policies for Long-Horizon Sidewalk Navigation](https://arxiv.org/abs/2606.12603) (framework - USEFUL Tier)
+- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
+- [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (framework - USEFUL Tier)
+- [PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227) (framework - USEFUL Tier)
+- [FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback](https://arxiv.org/abs/2601.04203) (framework - USEFUL Tier)
+- [NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning](https://arxiv.org/abs/2606.13171) (framework - USEFUL Tier)
+- [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (framework - USEFUL Tier)
+- [UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data](https://arxiv.org/abs/2606.10683) (framework - USEFUL Tier)
+- [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)
-- [FailproofAI/ai-reliability-standards](https://github.com/FailproofAI/ai-reliability-standards)
-- [humanlaya/OneMillion-Bench](https://github.com/humanlaya/OneMillion-Bench)
-- [nottelabs/open-operator-evals](https://github.com/nottelabs/open-operator-evals)
+- [FormulaMonks/llm-benchmarker-suite](https://github.com/FormulaMonks/llm-benchmarker-suite)
+- [flexpa/llm-fhir-eval](https://github.com/flexpa/llm-fhir-eval)
+- [openai/evals](https://github.com/openai/evals)
+- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [modelscope/evalscope](https://github.com/modelscope/evalscope)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-12 15:40 UTC*

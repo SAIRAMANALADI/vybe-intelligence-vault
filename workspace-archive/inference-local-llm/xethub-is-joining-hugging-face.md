@@ -3,7 +3,8 @@ title: XetHub is joining Hugging Face!
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/xethub-joins-hf
-local_vault_path: ai/models/huggingface-blog-xethub-joins-hf.md
+resource_id: blog:xethub-is-joining-hugging-face
+local_vault_path: ai/models/xethub-is-joining-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:xethub-is-joining-hugging-face
 ---
-
-
 
 # XetHub is joining Hugging Face!
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xethub-joins-hf
 
 ## Local Vault File
 
-Path: [xethub-is-joining-hugging-face-99338a.md](file:///../../ai/models/huggingface-blog-xethub-joins-hf.md)
+Path: [xethub-is-joining-hugging-face.md](file:///../../ai/models/xethub-is-joining-hugging-face.md)

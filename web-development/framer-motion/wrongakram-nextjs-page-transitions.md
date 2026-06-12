@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/wrongakram/nextjs-page-transitions
-collected_at: '2026-06-12T10:40:18.782897+00:00'
+collected_at: '2026-06-12T15:38:18.518621+00:00'
 published_at: '2025-08-16T05:24:23Z'
 tags:
 - animation
@@ -12,26 +12,12 @@ tags:
 stars: 200
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:18.782897+00:00'
-last_seen: '2026-06-12T10:40:18.782897+00:00'
 resource_id: github:wrongakram/nextjs-page-transitions
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 61
-change_history:
-- timestamp: '2026-06-12T10:40:18.782897+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 44.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 44
-archived: false
+first_seen: '2026-06-12T15:38:18.518621+00:00'
+last_seen: '2026-06-12T15:38:18.518621+00:00'
+last_checked: '2026-06-12T15:38:18.518621+00:00'
+health_score: 100
 ---
-
-
 
 # wrongakram/nextjs-page-transitions
 

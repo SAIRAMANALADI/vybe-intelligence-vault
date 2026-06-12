@@ -3,7 +3,8 @@ title: 'LeRobot goes to driving school: World’s largest open-source self-drivi
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-goes-to-driving-school
-local_vault_path: ai/models/huggingface-blog-lerobot-goes-to-driving-school.md
+resource_id: blog:lerobot-goes-to-driving-school-worlds-largest-open
+local_vault_path: ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:lerobot-goes-to-driving-school-worlds-largest-open
 ---
-
-
 
 # LeRobot goes to driving school: World’s largest open-source self-driving dataset
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-goes-to-driving-school
 
 ## Local Vault File
 
-Path: [lerobot-goes-to-driving-school-worlds-largest-open-source-self-driving-dataset-78b00c.md](file:///../../ai/models/huggingface-blog-lerobot-goes-to-driving-school.md)
+Path: [lerobot-goes-to-driving-school-worlds-largest-open.md](file:///../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)

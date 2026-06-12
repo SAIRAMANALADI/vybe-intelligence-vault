@@ -4,17 +4,20 @@ title: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian 
 category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
-source_url: https://www.anthropic.com/news/milan-office-opening
-published_at: '2026-06-11T18:20:57.834890+00:00'
-collected_at: '2026-06-11T18:20:57.834894+00:00'
+source_url: https://anthropic.com/news/milan-office-opening
+published_at: '2026-06-12T15:38:29.534648+00:00'
+collected_at: '2026-06-12T15:38:29.534650+00:00'
 tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: new
+status: active
 resource_id: blog:may-27-2026announcementsanthropic-opens-milan-offi
+first_seen: '2026-06-12T15:38:29.534650+00:00'
+last_seen: '2026-06-12T15:38:29.534650+00:00'
+last_checked: '2026-06-12T15:38:29.534650+00:00'
+health_score: 100
 ---
-
 
 # May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
 
@@ -29,8 +32,8 @@ Official release, policy update, or technical blog post from a core AI company.
 ## Blog Post Details
 
 - Company: Anthropic News
-- Article URL: https://www.anthropic.com/news/milan-office-opening
-- Collected At: 2026-06-11T18:20:57.834894+00:00
+- Article URL: https://anthropic.com/news/milan-office-opening
+- Collected At: 2026-06-12T15:38:29.534650+00:00
 
 ## Related Tags
 

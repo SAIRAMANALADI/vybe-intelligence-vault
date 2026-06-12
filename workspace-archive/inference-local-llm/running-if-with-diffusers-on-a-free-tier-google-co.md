@@ -3,7 +3,8 @@ title: Running IF with 🧨 diffusers on a Free Tier Google Colab
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/if
-local_vault_path: ai/models/huggingface-blog-if.md
+resource_id: blog:running-if-with-diffusers-on-a-free-tier-google-co
+local_vault_path: ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:running-if-with-diffusers-on-a-free-tier-google-co
 ---
-
 
 # Running IF with 🧨 diffusers on a Free Tier Google Colab
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/if
 
 ## Local Vault File
 
-Path: [running-if-with-diffusers-on-a-free-tier-google-colab-9be47a.md](file:///../../ai/models/huggingface-blog-if.md)
+Path: [running-if-with-diffusers-on-a-free-tier-google-co.md](file:///../../ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)

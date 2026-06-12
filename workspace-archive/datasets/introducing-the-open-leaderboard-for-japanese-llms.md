@@ -3,7 +3,8 @@ title: Introducing the Open Leaderboard for Japanese LLMs!
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-japanese
-local_vault_path: ai/models/huggingface-blog-leaderboard-japanese.md
+resource_id: blog:introducing-the-open-leaderboard-for-japanese-llms
+local_vault_path: ai/models/introducing-the-open-leaderboard-for-japanese-llms.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-open-leaderboard-for-japanese-llms
 ---
-
-
 
 # Introducing the Open Leaderboard for Japanese LLMs!
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-japanese
 
 ## Local Vault File
 
-Path: [introducing-the-open-leaderboard-for-japanese-llms-53588f.md](file:///../../ai/models/huggingface-blog-leaderboard-japanese.md)
+Path: [introducing-the-open-leaderboard-for-japanese-llms.md](file:///../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)

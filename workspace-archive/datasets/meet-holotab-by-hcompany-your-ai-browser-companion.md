@@ -2,13 +2,13 @@
 title: Meet HoloTab by HCompany. Your AI browser companion.
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/Hcompany/holotab
+source_url: https://huggingface.co/blog/hcompany/holotab
 resource_id: blog:meet-holotab-by-hcompany-your-ai-browser-companion
 local_vault_path: ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Meet HoloTab by HCompany. Your AI brows
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Hcompany/holotab
+Original source URL: https://huggingface.co/blog/hcompany/holotab
 
 ## Local Vault File
 

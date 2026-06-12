@@ -44,32 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2095 |
-| Active resources | 2095 |
+| Resources tracked | 2099 |
+| Active resources | 2099 |
 | Inactive resources | 0 |
-| Archive files | 11449 |
+| Archive files | 11458 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 15:24 UTC |
+| Last meaningful update | 2026-06-12 15:41 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (Rank: +6) (+270 points)
-- **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (Rank: +538)
-- **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (Rank: +538)
-- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +538)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +538)
+- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (Rank: +6) (+319 points)
+- **[Making a vintage LLM from scratch](ai/community/making-a-vintage-llm-from-scratch.md)** (+35 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +539)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +559)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +559)
 
 #### ✨ New Discoveries
-- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 631)
+- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 1141)
+- **[Ryanair dark UX patterns summer 2026 refresher](ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)** (Score: 174)
+- **[The Future of Email](ai/community/the-future-of-email.md)** (Score: 149)
 - **[Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md)** (Score: 143)
-- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Score: 0)
-- **[Unlocking the power of unstructured data with RAG - The GitHub Blog](ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)** (Score: 0)
-- **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/huggingface-blog-how-to-train.md)** (Score: 0)
+- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (Score: 14)
 
 #### 💤 Recently Inactive Resources
 - None.

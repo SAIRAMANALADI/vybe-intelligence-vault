@@ -3,7 +3,8 @@ title: Benchmarking Language Model Performance on 5th Gen Xeon at GCP
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-gcp-c4
-local_vault_path: ai/models/huggingface-blog-intel-gcp-c4.md
+resource_id: blog:benchmarking-language-model-performance-on-5th-gen
+local_vault_path: ai/models/benchmarking-language-model-performance-on-5th-gen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - benchmark
 selection_reason:
 - Valuable developer reference
-resource_id: blog:benchmarking-language-model-performance-on-5th-gen
 ---
-
-
 
 # Benchmarking Language Model Performance on 5th Gen Xeon at GCP
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-gcp-c4
 
 ## Local Vault File
 
-Path: [benchmarking-language-model-performance-on-5th-gen-xeon-at-gcp-24cda3.md](file:///../../ai/models/huggingface-blog-intel-gcp-c4.md)
+Path: [benchmarking-language-model-performance-on-5th-gen.md](file:///../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)

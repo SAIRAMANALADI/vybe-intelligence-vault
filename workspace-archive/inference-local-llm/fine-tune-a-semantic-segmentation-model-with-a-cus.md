@@ -3,7 +3,8 @@ title: Fine-Tune a Semantic Segmentation Model with a Custom Dataset
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-segformer
-local_vault_path: ai/models/huggingface-blog-fine-tune-segformer.md
+resource_id: blog:fine-tune-a-semantic-segmentation-model-with-a-cus
+local_vault_path: ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,9 +14,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fine-tune-a-semantic-segmentation-model-with-a-cus
 ---
-
 
 # Fine-Tune a Semantic Segmentation Model with a Custom Dataset
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-segformer
 
 ## Local Vault File
 
-Path: [fine-tune-a-semantic-segmentation-model-with-a-custom-dataset-b0cccb.md](file:///../../ai/models/huggingface-blog-fine-tune-segformer.md)
+Path: [fine-tune-a-semantic-segmentation-model-with-a-cus.md](file:///../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)

@@ -3,7 +3,8 @@ title: 2024 Security Feature Highlights
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/2024-security-features
-local_vault_path: ai/models/huggingface-blog-2024-security-features.md
+resource_id: blog:2024-security-feature-highlights
+local_vault_path: ai/models/2024-security-feature-highlights.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:2024-security-feature-highlights
 ---
-
-
 
 # 2024 Security Feature Highlights
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai/models/huggingface-blog-2024-security-features.md)
+Path: [2024-security-feature-highlights.md](file:///../../ai/models/2024-security-feature-highlights.md)

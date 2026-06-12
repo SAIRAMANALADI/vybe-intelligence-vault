@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-12T10:41:15.088636+00:00'
-collected_at: '2026-06-12T10:41:15.088649+00:00'
+published_at: '2026-06-12T15:38:57.594757+00:00'
+collected_at: '2026-06-12T15:38:57.594776+00:00'
 tags:
 - agents
 - benchmark
@@ -22,12 +22,12 @@ tags:
 - workflows
 - youtube
 status: active
-id: null
-first_seen: '2026-06-12T10:41:15.088649+00:00'
-last_seen: '2026-06-12T10:41:15.088649+00:00'
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
+first_seen: '2026-06-12T15:38:57.594776+00:00'
+last_seen: '2026-06-12T15:38:57.594776+00:00'
+last_checked: '2026-06-12T15:38:57.594776+00:00'
+health_score: 100
 ---
-
 
 # 15 Best Open-Source RAG Frameworks in 2026
 
@@ -43,7 +43,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T10:41:15.088636+00:00
+- Published: 2026-06-12T15:38:57.594757+00:00
 
 ## Related Tags
 

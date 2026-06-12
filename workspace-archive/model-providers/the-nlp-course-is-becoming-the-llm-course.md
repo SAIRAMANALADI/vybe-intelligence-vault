@@ -3,7 +3,8 @@ title: The NLP Course is becoming the LLM Course
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/llm-course
-local_vault_path: ai/models/huggingface-blog-llm-course.md
+resource_id: blog:the-nlp-course-is-becoming-the-llm-course
+local_vault_path: ai/models/the-nlp-course-is-becoming-the-llm-course.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-nlp-course-is-becoming-the-llm-course
 ---
-
-
 
 # The NLP Course is becoming the LLM Course
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/llm-course
 
 ## Local Vault File
 
-Path: [the-nlp-course-is-becoming-the-llm-course-3eeaf3.md](file:///../../ai/models/huggingface-blog-llm-course.md)
+Path: [the-nlp-course-is-becoming-the-llm-course.md](file:///../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)

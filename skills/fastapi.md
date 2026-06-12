@@ -20,11 +20,11 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 21 resources matched in the intelligence vault.
 Recently detected signals:
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Accelerating LLM Inference with TGI on Intel Gaudi](../ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Exploring Quantization Backends in Diffusers](../ai/models/huggingface-blog-diffusers-quantization.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Transformers backend integration in SGLang](../ai/models/huggingface-blog-transformers-backend-sglang.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](../ai/rag/arxiv-2603-09555.md) (Source: Unknown Source) - Collected 2026-06-12
+- [SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing](../ai/research/arxiv-2606-11674.md) (Source: Unknown Source) - Collected 2026-06-12
+- [A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](../ai/research/arxiv-2606-11390.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](../ai/rag/arxiv-2606-11257.md) (Source: Unknown Source) - Collected 2026-06-12
+- [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](../ai/rag/arxiv-2601-21570.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -85,4 +85,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:54.077422+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T15:40:38.561767+00:00.077422+00:00.

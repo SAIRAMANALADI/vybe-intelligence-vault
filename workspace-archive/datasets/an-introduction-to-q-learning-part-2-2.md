@@ -3,7 +3,8 @@ title: An Introduction to Q-Learning Part 2/2
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-q-part2
-local_vault_path: ai/models/huggingface-blog-deep-rl-q-part2.md
+resource_id: blog:an-introduction-to-q-learning-part-2-2
+local_vault_path: ai/models/an-introduction-to-q-learning-part-2-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:an-introduction-to-q-learning-part-2-2
 ---
-
-
 
 # An Introduction to Q-Learning Part 2/2
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part2
 
 ## Local Vault File
 
-Path: [an-introduction-to-q-learning-part-2-2-e50e1b.md](file:///../../ai/models/huggingface-blog-deep-rl-q-part2.md)
+Path: [an-introduction-to-q-learning-part-2-2.md](file:///../../ai/models/an-introduction-to-q-learning-part-2-2.md)

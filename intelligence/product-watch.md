@@ -4,25 +4,25 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
-| [udecode/plate](https://github.com/udecode/plate) | `mcp-registry/` | 70 |
-| [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) | `mcp-registry/` | 70 |
-| [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | `mcp-registry/` | 70 |
-| [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp) | `mcp-registry/` | 70 |
-| [Upskill your LLMs With Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-servers) | `mcp-registry/` | 70 |
-| [Five Big Improvements to Gradio MCP Servers](https://huggingface.co/blog/gradio-mcp-updates) | `mcp-registry/` | 70 |
-| [How to Build an MCP Server with Gradio](https://huggingface.co/blog/gradio-mcp) | `mcp-registry/` | 70 |
-| [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | `mcp-registry/` | 70 |
-| [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | `mcp-registry/` | 70 |
-| [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
-| [langgenius/dify](https://github.com/langgenius/dify) | `mcp-registry/` | 70 |
-| [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
-| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
-| [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | `mcp-registry/` | 70 |
-| [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | `mcp-registry/` | 70 |
+| [semgrep/mcp](https://github.com/semgrep/mcp) | `mcp-registry/` | 70 |
 | [acuvity/minibridge](https://github.com/acuvity/minibridge) | `mcp-registry/` | 70 |
+| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
+| [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server) | `mcp-registry/` | 70 |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | `mcp-registry/` | 70 |
+| [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) | `mcp-registry/` | 70 |
 | [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) | `mcp-registry/` | 70 |
 | [demcp/awesome-web3-mcp-servers](https://github.com/demcp/awesome-web3-mcp-servers) | `mcp-registry/` | 70 |
-| [FuzzingLabs/mcp-security-hub](https://github.com/FuzzingLabs/mcp-security-hub) | `mcp-registry/` | 70 |
+| [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
+| [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
+| [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
+| [langgenius/dify](https://github.com/langgenius/dify) | `mcp-registry/` | 70 |
+| [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | `mcp-registry/` | 70 |
+| [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | `mcp-registry/` | 70 |
+| [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
+| [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
+| [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | `mcp-registry/` | 70 |
+| [Generate Images with Claude and Hugging Face](https://huggingface.co/blog/claude-and-mcp) | `mcp-registry/` | 70 |
+| [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | `mcp-registry/` | 70 |
+| [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

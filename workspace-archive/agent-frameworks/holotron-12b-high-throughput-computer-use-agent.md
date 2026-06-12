@@ -2,13 +2,13 @@
 title: Holotron-12B - High Throughput Computer Use Agent
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://huggingface.co/blog/Hcompany/holotron-12b
+source_url: https://huggingface.co/blog/hcompany/holotron-12b
 resource_id: blog:holotron-12b-high-throughput-computer-use-agent
 local_vault_path: ai/agents/holotron-12b-high-throughput-computer-use-agent.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
@@ -22,7 +22,7 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -38,7 +38,7 @@ No summary provided. Reference resource: Holotron-12B - High Throughput Computer
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Hcompany/holotron-12b
+Original source URL: https://huggingface.co/blog/hcompany/holotron-12b
 
 ## Local Vault File
 

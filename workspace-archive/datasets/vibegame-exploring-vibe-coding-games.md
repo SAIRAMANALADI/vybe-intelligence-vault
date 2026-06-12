@@ -3,7 +3,8 @@ title: 'VibeGame: Exploring Vibe Coding Games'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/vibegame
-local_vault_path: ai/models/huggingface-blog-vibegame.md
+resource_id: blog:vibegame-exploring-vibe-coding-games
+local_vault_path: ai/models/vibegame-exploring-vibe-coding-games.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:vibegame-exploring-vibe-coding-games
 ---
-
-
 
 # VibeGame: Exploring Vibe Coding Games
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vibegame
 
 ## Local Vault File
 
-Path: [vibegame-exploring-vibe-coding-games-ca7187.md](file:///../../ai/models/huggingface-blog-vibegame.md)
+Path: [vibegame-exploring-vibe-coding-games.md](file:///../../ai/models/vibegame-exploring-vibe-coding-games.md)

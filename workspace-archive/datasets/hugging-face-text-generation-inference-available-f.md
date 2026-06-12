@@ -3,7 +3,8 @@ title: Hugging Face Text Generation Inference available for AWS Inferentia2
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/text-generation-inference-on-inferentia2
-local_vault_path: ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md
+resource_id: blog:hugging-face-text-generation-inference-available-f
+local_vault_path: ai/models/hugging-face-text-generation-inference-available-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-text-generation-inference-available-f
 ---
-
 
 # Hugging Face Text Generation Inference available for AWS Inferentia2
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-generation-inference-on-in
 
 ## Local Vault File
 
-Path: [hugging-face-text-generation-inference-available-for-aws-inferentia2-012955.md](file:///../../ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md)
+Path: [hugging-face-text-generation-inference-available-f.md](file:///../../ai/models/hugging-face-text-generation-inference-available-f.md)

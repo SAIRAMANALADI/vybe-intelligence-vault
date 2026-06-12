@@ -3,7 +3,8 @@ title: Parquet Content-Defined Chunking
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/parquet-cdc
-local_vault_path: ai/rag/huggingface-blog-parquet-cdc.md
+resource_id: blog:parquet-content-defined-chunking
+local_vault_path: ai/rag/parquet-content-defined-chunking.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - rag
 selection_reason:
 - Valuable developer reference
-resource_id: blog:parquet-content-defined-chunking
 ---
-
-
 
 # Parquet Content-Defined Chunking
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/parquet-cdc
 
 ## Local Vault File
 
-Path: [parquet-content-defined-chunking-254202.md](file:///../../ai/rag/huggingface-blog-parquet-cdc.md)
+Path: [parquet-content-defined-chunking.md](file:///../../ai/rag/parquet-content-defined-chunking.md)

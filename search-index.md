@@ -32,6 +32,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12502>
 
+* **[A New Framework for Evaluating Voice Agents (EVA)](ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md)** (`framework` | `useful` tier)
+  * Summary: No summary provided. Reference resource: A New Framework for Evaluating Voice Agents (EVA)
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/eva>
+
 * **[A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](ai/research/arxiv-2606-11390.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11390v1 Announce Type: cross Abstract: Gaussian splatting methods have become increasingly popular for neural reconstruction of the real world. However, they are often limited in scale and resolution due to compute and memory constraints.
   * Source URL: <https://arxiv.org/abs/2606.11390>
@@ -56,7 +61,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`
   * Source URL: <https://arxiv.org/abs/2606.12783>
 
-* **[Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](ai/agents/huggingface-blog-intel-qwen3-agent.md)** (`tutorial` | `useful` tier)
+* **[Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/intel-qwen3-agent>
@@ -117,7 +122,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/AgentTeam-TaichuAI/ScienceClaw>
 
 * **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by xiaoyu2006. Score: 631, Comments: 237. Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
+  * Summary: Hacker News story by xiaoyu2006. Score: 1141, Comments: 430. Original Link: https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/
   * Tags: `agents`, `ai`, `hackernews`
   * Source URL: <https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian>
 
@@ -150,6 +155,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12437v1 Announce Type: cross Abstract: The increasing encroachment of artificial intelligence (AI) on social life raises significant risks for society, particularly within the infospheres created and controlled by companies such as Google,
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12437>
+
+* **[Aligning to What? Rethinking Agent Generalization in MiniMax M2](ai/agents/aligning-to-what-rethinking-agent-generalization-i.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Aligning to What? Rethinking Agent Generalization in MiniMax M2
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/minimax-ai/aligning-to-what>
 
 * **[Aligning to What? Rethinking Agent Generalization in MiniMax M2](ai/agents/huggingface-blog-minimax-ai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Aligning to What? Rethinking Agent Generalization in MiniMax M2
@@ -196,6 +206,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `github-repo`, `unknown`
   * Source URL: <https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026>
 
+* **[AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face>
+
 * **[ATLAS: Active Theory Learning for Automated Science](ai/agents/arxiv-2606-12386.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12386v1 Announce Type: new Abstract: Advancing scientific understanding through mechanistic modeling requires posing the right experimental questions to yield maximally informative data. To automate this pursuit within cognitive science, w
   * Tags: `agents`
@@ -216,7 +231,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `unknown`
   * Source URL: <https://github.com/avinash201199/free-ai-agents-resources>
 
-* **[Back to The Future: Evaluating AI Agents on Predicting Future Events](ai/agents/huggingface-blog-futurebench.md)** (`benchmark` | `useful` tier)
+* **[Back to The Future: Evaluating AI Agents on Predicting Future Events](ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Back to The Future: Evaluating AI Agents on Predicting Future Events
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/futurebench>
@@ -230,6 +245,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11255v2 Announce Type: new Abstract: Bernstein--Schur kernels are products of a finite-feature kernel and a completely monotone shift-invariant kernel: nonstationary kernels falling between the shift-invariant and dot-product templates ran
   * Tags: `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11255>
+
+* **[Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](ai/agents/beyond-llms-why-scalable-enterprise-ai-adoption-de.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption>
 
 * **[Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](ai/agents/huggingface-blog-ibm-research.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic
@@ -331,6 +351,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11521>
 
+* **[CUGA on Hugging Face: Democratizing Configurable AI Agents](ai/agents/cuga-on-hugging-face-democratizing-configurable-ai.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: CUGA on Hugging Face: Democratizing Configurable AI Agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ibm-research/cuga-on-hugging-face>
+
 * **[DABStep: Data Agent Benchmark for Multi-step Reasoning](ai/agents/huggingface-blog-dabstep.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: DABStep: Data Agent Benchmark for Multi-step Reasoning
   * Tags: `agents`, `benchmark`
@@ -346,7 +371,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/intel-deepmath>
 
-* **[DeepSeek-V4: a million-token context that agents can actually use](ai/agents/huggingface-blog-deepseekv4.md)** (`tutorial` | `useful` tier)
+* **[DeepSeek-V4: a million-token context that agents can actually use](ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: DeepSeek-V4: a million-token context that agents can actually use
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/deepseekv4>
@@ -510,7 +535,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`, `scripts`, `workflows`
   * Source URL: <https://github.com/FuzzingLabs/secpipe>
 
-* **[Gaia2 and ARE: Empowering the community to study agents](ai/agents/huggingface-blog-gaia2.md)** (`tutorial` | `useful` tier)
+* **[Gaia2 and ARE: Empowering the community to study agents](ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Gaia2 and ARE: Empowering the community to study agents
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/gaia2>
@@ -589,10 +614,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/HKUDS/OpenPhone>
 
+* **[Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](ai/agents/holo1-new-family-of-gui-automation-vlms-powering-g.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H
+  * Tags: `agents`, `scripts`
+  * Source URL: <https://huggingface.co/blog/hcompany/holo1>
+
+* **[Holo3.1: Fast & Local Computer Use Agents](ai/agents/holo3-1-fast-local-computer-use-agents.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Holo3.1: Fast & Local Computer Use Agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/hcompany/holo31>
+
 * **[Holo3.1: Fast & Local Computer Use Agents](ai/agents/huggingface-blog-hcompany.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Holo3.1: Fast & Local Computer Use Agents
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/hcompany>
+
+* **[Holotron-12B - High Throughput Computer Use Agent](ai/agents/holotron-12b-high-throughput-computer-use-agent.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Holotron-12B - High Throughput Computer Use Agent
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/hcompany/holotron-12b>
 
 * **[hoodini/ai-agents-skills](ai/agents/hoodini-ai-agents-skills.md)** (`tool` | `useful` tier)
   * Summary: 🧠 AI Agent Skills Repository - A curated collection of specialized skills for AI coding agents (Claude Code, GitHub Copilot, Cursor, Windsurf). Created by Yuval Avidani using GitHub Copilot via VS Code Insiders.
@@ -603,6 +643,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.07489v2 Announce Type: replace Abstract: Frontier AI systems are bridging the gap between intelligence and utility by shifting from conversational assistants to autonomous agents that execute tasks end to end. Using production data from Pe
   * Tags: `agents`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.07489>
+
+* **[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/mishig/spaces-agents-md>
 
 * **[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](ai/agents/huggingface-blog-mishig.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
@@ -633,6 +678,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Build production-ready AI agents in both Python and Typescript.
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/i-am-bee/beeai-framework>
+
+* **[IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ibm-research/itbenchandmast>
 
 * **[idosal/git-mcp](ai/agents/idosal-git-mcp.md)** (`mcp-server` | `useful` tier)
   * Summary: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -669,6 +719,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11440>
 
+* **[Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis>
+
 * **[Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems](ai/agents/arxiv-2605-27628.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.27628v2 Announce Type: replace Abstract: As autonomous and agentic AI systems scale in robotic and human-machine environments, managing hallucination and persistent but unjustified action remains an open challenge. Rather than attributing
   * Tags: `agents`, `paper`
@@ -684,7 +739,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/agents-js>
 
-* **[Introducing smolagents: simple agents that write actions in code.](ai/agents/huggingface-blog-smolagents.md)** (`tutorial` | `useful` tier)
+* **[Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents
+  * Tags: `agents`, `youtube`
+  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence>
+
+* **[Introducing smolagents: simple agents that write actions in code.](ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing smolagents: simple agents that write actions in code.
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/smolagents>
@@ -719,7 +779,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `github-repo`, `python`, `workflows`
   * Source URL: <https://github.com/iuyup/AgentFlow>
 
-* **[Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](ai/agents/huggingface-blog-jat.md)** (`tutorial` | `useful` tier)
+* **[Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/jat>
@@ -734,7 +794,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `javascript`
   * Source URL: <https://github.com/jayta1314/awesome-ai-sre>
 
-* **[Jupyter Agents: training LLMs to reason with notebooks](ai/agents/huggingface-blog-jupyter-agent-2.md)** (`tutorial` | `useful` tier)
+* **[Jupyter Agents: training LLMs to reason with notebooks](ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Jupyter Agents: training LLMs to reason with notebooks
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/jupyter-agent-2>
@@ -793,7 +853,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.10616>
 
-* **[License to Call: Introducing Transformers Agents 2.0](ai/agents/huggingface-blog-agents.md)** (`tutorial` | `useful` tier)
+* **[License to Call: Introducing Transformers Agents 2.0](ai/agents/license-to-call-introducing-transformers-agents-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: License to Call: Introducing Transformers Agents 2.0
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/agents>
@@ -972,7 +1032,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/open-source-llms-as-agents>
 
-* **[OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](ai/agents/huggingface-blog-openenv-turing.md)** (`benchmark` | `useful` tier)
+* **[OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](ai/agents/openenv-in-practice-evaluating-tool-using-agents-i.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/openenv-turing>
@@ -986,7 +1046,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11680>
 
-* **[Our Transformers Code Agent beats the GAIA benchmark 🏅](ai/agents/huggingface-blog-beating-gaia.md)** (`benchmark` | `useful` tier)
+* **[Our Transformers Code Agent beats the GAIA benchmark 🏅](ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Our Transformers Code Agent beats the GAIA benchmark 🏅
   * Tags: `agents`, `benchmark`
   * Source URL: <https://huggingface.co/blog/beating-gaia>
@@ -1100,12 +1160,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `github-repo`, `hackernews`, `unknown`
   * Source URL: <https://github.com/Sathvikkrishna/langgraph-benchmark>
 
-* **[ScreenEnv: Deploy your full stack Desktop Agent](ai/agents/huggingface-blog-screenenv.md)** (`tutorial` | `useful` tier)
+* **[ScreenEnv: Deploy your full stack Desktop Agent](ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: ScreenEnv: Deploy your full stack Desktop Agent
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/screenenv>
 
-* **[ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](ai/agents/huggingface-blog-screensuite.md)** (`benchmark` | `useful` tier)
+* **[ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
   * Tags: `agents`, `benchmark`
   * Source URL: <https://huggingface.co/blog/screensuite>
@@ -1235,7 +1295,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12721>
 
-* **[Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](ai/agents/huggingface-blog-python-tiny-agents.md)** (`tutorial` | `useful` tier)
+* **[Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Tiny Agents in Python: a MCP-powered agent in ~70 lines of code
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/python-tiny-agents>
@@ -1260,7 +1320,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`, `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.13449>
 
-* **[Trace & Evaluate your Agent with Arize Phoenix](ai/agents/huggingface-blog-smolagents-phoenix.md)** (`benchmark` | `useful` tier)
+* **[Trace & Evaluate your Agent with Arize Phoenix](ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Trace & Evaluate your Agent with Arize Phoenix
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/smolagents-phoenix>
@@ -1295,6 +1355,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12372>
 
+* **[Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/linkedin/gpt-oss-agentic-rl>
+
 * **[Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](ai/agents/huggingface-blog-linkedin.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
   * Tags: `agents`
@@ -1315,12 +1380,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template>
 
-* **[We now support VLMs in smolagents!](ai/agents/huggingface-blog-smolagents-can-see.md)** (`tutorial` | `useful` tier)
+* **[We now support VLMs in smolagents!](ai/agents/we-now-support-vlms-in-smolagents.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: We now support VLMs in smolagents!
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/smolagents-can-see>
 
-* **[What Makes a Dialog Agent Useful?](ai/agents/huggingface-blog-dialog-agents.md)** (`tutorial` | `useful` tier)
+* **[What Makes a Dialog Agent Useful?](ai/agents/what-makes-a-dialog-agent-useful.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: What Makes a Dialog Agent Useful?
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/dialog-agents>
@@ -1392,12 +1457,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `leaderboard`, `models`, `openai`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.evidentlyai.com/llm-guide/rag-evaluation>
 
+* **[Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
+  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2>
+
 * **[cyproxio/mcp-for-security](ai/resources/cyproxio-mcp-for-security.md)** (`workflow` | `useful` tier)
   * Summary: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workflows.
   * Tags: `github-repo`, `scripts`, `typescript`, `workflows`
   * Source URL: <https://github.com/cyproxio/mcp-for-security>
 
-* **[Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](ai/models/huggingface-blog-fetch-eap-case-study.md)** (`tutorial` | `useful` tier)
+* **[Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](ai/models/fetch-consolidates-ai-tools-and-saves-30-developme.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS
   * Source URL: <https://huggingface.co/blog/fetch-eap-case-study>
 
@@ -1406,9 +1475,3031 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `hackernews`, `models`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents>
 
-* **[The AI tools for Art Newsletter - Issue 1](ai/models/huggingface-blog-ai-art-newsletter-jan-25.md)** (`tutorial` | `useful` tier)
+* **[The AI tools for Art Newsletter - Issue 1](ai/models/the-ai-tools-for-art-newsletter-issue-1.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The AI tools for Art Newsletter - Issue 1
   * Source URL: <https://huggingface.co/blog/ai-art-newsletter-jan-25>
+
+* **[The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](ai/models/the-future-of-the-global-open-source-ai-ecosystem.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
+  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3>
+
+## Ai — Agents
+
+* **[Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](ai/agents/huggingface-blog-intel-qwen3-agent.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/intel-qwen3-agent>
+
+* **[AI Agents Are Here. What Now?](ai/agents/ai-agents-are-here-what-now.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Agents Are Here. What Now?
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ethics-soc-7>
+
+* **[Back to The Future: Evaluating AI Agents on Predicting Future Events](ai/agents/huggingface-blog-futurebench.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Back to The Future: Evaluating AI Agents on Predicting Future Events
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/futurebench>
+
+* **[Building the Open Agent Ecosystem Together: Introducing OpenEnv](ai/agents/building-the-open-agent-ecosystem-together-introdu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building the Open Agent Ecosystem Together: Introducing OpenEnv
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/openenv>
+
+* **[CodeAgents + Structure: A Better Way to Execute Actions](ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CodeAgents + Structure: A Better Way to Execute Actions
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/structured-codeagent>
+
+* **[DABStep: Data Agent Benchmark for Multi-step Reasoning](ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: DABStep: Data Agent Benchmark for Multi-step Reasoning
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://huggingface.co/blog/dabstep>
+
+* **[DeepMath: A lightweight math reasoning Agent with smolagents](ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: DeepMath: A lightweight math reasoning Agent with smolagents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/intel-deepmath>
+
+* **[DeepSeek-V4: a million-token context that agents can actually use](ai/agents/huggingface-blog-deepseekv4.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: DeepSeek-V4: a million-token context that agents can actually use
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/deepseekv4>
+
+* **[Designing the hf CLI as an agent-optimized way to work with the Hub](ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Designing the hf CLI as an agent-optimized way to work with the Hub
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/hf-cli-for-agents>
+
+* **[Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents](ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/ecom-rlve>
+
+* **[Gaia2 and ARE: Empowering the community to study agents](ai/agents/huggingface-blog-gaia2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Gaia2 and ARE: Empowering the community to study agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/gaia2>
+
+* **[Harness, Scaffold, and the AI Agent Terms Worth Getting Right](ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Harness, Scaffold, and the AI Agent Terms Worth Getting Right
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/agent-glossary>
+
+* **[Introducing Agents.js: Give tools to your LLMs using JavaScript](ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Agents.js: Give tools to your LLMs using JavaScript
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/agents-js>
+
+* **[Introducing smolagents: simple agents that write actions in code.](ai/agents/huggingface-blog-smolagents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing smolagents: simple agents that write actions in code.
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/smolagents>
+
+* **[Introducing Snowball Fight ☃️, our first ML-Agents environment](ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Snowball Fight ☃️, our first ML-Agents environment
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/snowball-fight>
+
+* **[Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/aivsai>
+
+* **[Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](ai/agents/huggingface-blog-jat.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/jat>
+
+* **[Jupyter Agents: training LLMs to reason with notebooks](ai/agents/huggingface-blog-jupyter-agent-2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Jupyter Agents: training LLMs to reason with notebooks
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/jupyter-agent-2>
+
+* **[License to Call: Introducing Transformers Agents 2.0](ai/agents/huggingface-blog-agents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: License to Call: Introducing Transformers Agents 2.0
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/agents>
+
+* **[NVIDIA brings agents to life with DGX Spark and Reachy Mini](ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: NVIDIA brings agents to life with DGX Spark and Reachy Mini
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/nvidia-reachy-mini>
+
+* **[Open-source DeepResearch – Freeing our search agents](ai/agents/open-source-deepresearch-freeing-our-search-agents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open-source DeepResearch – Freeing our search agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/open-deep-research>
+
+* **[Open-source LLMs as LangChain Agents](ai/agents/open-source-llms-as-langchain-agents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open-source LLMs as LangChain Agents
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/open-source-llms-as-agents>
+
+* **[OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](ai/agents/huggingface-blog-openenv-turing.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/openenv-turing>
+
+* **[Our Transformers Code Agent beats the GAIA benchmark 🏅](ai/agents/huggingface-blog-beating-gaia.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Our Transformers Code Agent beats the GAIA benchmark 🏅
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://huggingface.co/blog/beating-gaia>
+
+* **[ScreenEnv: Deploy your full stack Desktop Agent](ai/agents/huggingface-blog-screenenv.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: ScreenEnv: Deploy your full stack Desktop Agent
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/screenenv>
+
+* **[ScreenSuite - The most comprehensive evaluation suite for GUI Agents!](ai/agents/huggingface-blog-screensuite.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://huggingface.co/blog/screensuite>
+
+* **[Smol2Operator: Post-Training GUI Agents for Computer Use](ai/agents/smol2operator-post-training-gui-agents-for-compute.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Smol2Operator: Post-Training GUI Agents for Computer Use
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/smol2operator>
+
+* **[The Open Source Community is backing OpenEnv for Agentic RL](ai/agents/the-open-source-community-is-backing-openenv-for-a.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Open Source Community is backing OpenEnv for Agentic RL
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/openenv-agentic-rl>
+
+* **[Tiny Agents in Python: a MCP-powered agent in ~70 lines of code](ai/agents/huggingface-blog-python-tiny-agents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Tiny Agents in Python: a MCP-powered agent in ~70 lines of code
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/python-tiny-agents>
+
+* **[Tiny Agents: an MCP-powered agent in 50 lines of code](ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Tiny Agents: an MCP-powered agent in 50 lines of code
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/tiny-agents>
+
+* **[Trace & Evaluate your Agent with Arize Phoenix](ai/agents/huggingface-blog-smolagents-phoenix.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Trace & Evaluate your Agent with Arize Phoenix
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/smolagents-phoenix>
+
+* **[We now support VLMs in smolagents!](ai/agents/huggingface-blog-smolagents-can-see.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: We now support VLMs in smolagents!
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/smolagents-can-see>
+
+* **[What Makes a Dialog Agent Useful?](ai/agents/huggingface-blog-dialog-agents.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: What Makes a Dialog Agent Useful?
+  * Tags: `agents`
+  * Source URL: <https://huggingface.co/blog/dialog-agents>
+
+## Ai — Models
+
+* **[(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/flux-qlora>
+
+* **[1 Billion Classifications](ai/models/1-billion-classifications.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 1 Billion Classifications
+  * Source URL: <https://huggingface.co/blog/billion-classifications>
+
+* **[17 Reasons Why Gradio Isn't Just Another UI Library](ai/models/huggingface-blog-why-gradio-stands-out.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 17 Reasons Why Gradio Isn't Just Another UI Library
+  * Source URL: <https://huggingface.co/blog/why-gradio-stands-out>
+
+* **[2023, year of open LLMs](ai/models/2023-year-of-open-llms.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 2023, year of open LLMs
+  * Source URL: <https://huggingface.co/blog/2023-in-llms>
+
+* **[2024 Security Feature Highlights](ai/models/huggingface-blog-2024-security-features.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 2024 Security Feature Highlights
+  * Source URL: <https://huggingface.co/blog/2024-security-features>
+
+* **[20x Faster TRL Fine-tuning with RapidFire AI](ai/models/huggingface-blog-rapidfireai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 20x Faster TRL Fine-tuning with RapidFire AI
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/rapidfireai>
+
+* **[2D Asset Generation: AI for Game Development #4](ai/models/2d-asset-generation-ai-for-game-development-4.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 2D Asset Generation: AI for Game Development #4
+  * Source URL: <https://huggingface.co/blog/ml-for-games-4>
+
+* **[3D Asset Generation: AI for Game Development #3](ai/models/3d-asset-generation-ai-for-game-development-3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 3D Asset Generation: AI for Game Development #3
+  * Source URL: <https://huggingface.co/blog/ml-for-games-3>
+
+* **[4M Models Scanned: Protect AI + Hugging Face 6 Months In](ai/models/4m-models-scanned-protect-ai-hugging-face-6-months.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 4M Models Scanned: Protect AI + Hugging Face 6 Months In
+  * Source URL: <https://huggingface.co/blog/pai-6-month>
+
+* **[`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](ai/models/huggingface-blog-lerobot-datasets-v3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: `LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/lerobot-datasets-v3>
+
+* **[A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake](ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake
+  * Source URL: <https://huggingface.co/blog/phi2-intel-meteor-lake>
+
+* **[A Complete Guide to Audio Datasets](ai/models/huggingface-blog-audio-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Complete Guide to Audio Datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/audio-datasets>
+
+* **[A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality](ai/models/a-deepdive-into-aya-expanse-advancing-the-frontier.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality
+  * Source URL: <https://huggingface.co/blog/aya-expanse>
+
+* **[A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](ai/models/huggingface-blog-aya-vision.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality
+  * Source URL: <https://huggingface.co/blog/aya-vision>
+
+* **[A Dive into Text-to-Video Models](ai/models/huggingface-blog-text-to-video.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Dive into Text-to-Video Models
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/text-to-video>
+
+* **[A Dive into Vision-Language Models](ai/models/a-dive-into-vision-language-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Dive into Vision-Language Models
+  * Source URL: <https://huggingface.co/blog/vision_language_pretraining>
+
+* **[A failed experiment: Infini-Attention, and why we should keep trying?](ai/models/huggingface-blog-infini-attention.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A failed experiment: Infini-Attention, and why we should keep trying?
+  * Source URL: <https://huggingface.co/blog/infini-attention>
+
+* **[A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](ai/models/huggingface-blog-hf-bitsandbytes-integration.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes
+  * Source URL: <https://huggingface.co/blog/hf-bitsandbytes-integration>
+
+* **[A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](ai/models/huggingface-blog-leaderboard-vectara.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-vectara>
+
+* **[A Security Review of Gradio 5](ai/models/huggingface-blog-gradio-5-security.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Security Review of Gradio 5
+  * Source URL: <https://huggingface.co/blog/gradio-5-security>
+
+* **[A Short Summary of Chinese AI Global Expansion](ai/models/a-short-summary-of-chinese-ai-global-expansion.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: A Short Summary of Chinese AI Global Expansion
+  * Source URL: <https://huggingface.co/blog/chinese-ai-expansion>
+
+* **[Accelerate 1.0.0](ai/models/huggingface-blog-accelerate-v1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate 1.0.0
+  * Source URL: <https://huggingface.co/blog/accelerate-v1>
+
+* **[Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](ai/models/huggingface-blog-bert-inferentia-sagemaker.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia
+  * Source URL: <https://huggingface.co/blog/bert-inferentia-sagemaker>
+
+* **[Accelerate Large Model Training using DeepSpeed](ai/models/huggingface-blog-accelerate-deepspeed.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate Large Model Training using DeepSpeed
+  * Source URL: <https://huggingface.co/blog/accelerate-deepspeed>
+
+* **[Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](ai/models/huggingface-blog-pytorch-fsdp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel
+  * Source URL: <https://huggingface.co/blog/pytorch-fsdp>
+
+* **[Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training](ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training
+  * Source URL: <https://huggingface.co/blog/accelerate-nd-parallel>
+
+* **[Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding](ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding
+  * Source URL: <https://huggingface.co/blog/intel-starcoder-quantization>
+
+* **[Accelerate your models with 🤗 Optimum Intel and OpenVINO](ai/models/huggingface-blog-openvino.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerate your models with 🤗 Optimum Intel and OpenVINO
+  * Source URL: <https://huggingface.co/blog/openvino>
+
+* **[Accelerated Inference with Optimum and Transformers Pipelines](ai/models/huggingface-blog-optimum-inference.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerated Inference with Optimum and Transformers Pipelines
+  * Source URL: <https://huggingface.co/blog/optimum-inference>
+
+* **[Accelerating Document AI](ai/models/huggingface-blog-document-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Document AI
+  * Source URL: <https://huggingface.co/blog/document-ai>
+
+* **[Accelerating Hugging Face Transformers with AWS Inferentia2](ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Hugging Face Transformers with AWS Inferentia2
+  * Source URL: <https://huggingface.co/blog/accelerate-transformers-with-inferentia2>
+
+* **[Accelerating over 130,000 Hugging Face models with ONNX Runtime](ai/models/huggingface-blog-ort-accelerating-hf-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating over 130,000 Hugging Face models with ONNX Runtime
+  * Source URL: <https://huggingface.co/blog/ort-accelerating-hf-models>
+
+* **[Accelerating Protein Language Model ProtST on Intel Gaudi 2](ai/models/accelerating-protein-language-model-protst-on-inte.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Protein Language Model ProtST on Intel Gaudi 2
+  * Source URL: <https://huggingface.co/blog/intel-protein-language-model-protst>
+
+* **[Accelerating PyTorch distributed fine-tuning with Intel technologies](ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating PyTorch distributed fine-tuning with Intel technologies
+  * Tags: `hackernews`, `models`
+  * Source URL: <https://huggingface.co/blog/accelerating-pytorch>
+
+* **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](ai/models/huggingface-blog-intel-sapphire-rapids-inference.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2
+  * Source URL: <https://huggingface.co/blog/intel-sapphire-rapids-inference>
+
+* **[Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive](ai/models/accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive
+  * Source URL: <https://huggingface.co/blog/sdxl_ort_inference>
+
+* **[Accelerating Stable Diffusion Inference on Intel CPUs](ai/models/huggingface-blog-stable-diffusion-inference-intel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Stable Diffusion Inference on Intel CPUs
+  * Source URL: <https://huggingface.co/blog/stable-diffusion-inference-intel>
+
+* **[Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](ai/models/huggingface-blog-bridgetower.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2
+  * Source URL: <https://huggingface.co/blog/bridgetower>
+
+* **[Active Learning with AutoNLP and Prodigy](ai/models/huggingface-blog-autonlp-prodigy.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Active Learning with AutoNLP and Prodigy
+  * Source URL: <https://huggingface.co/blog/autonlp-prodigy>
+
+* **[Adding Benchmaxxer Repellant to the Open ASR Leaderboard](ai/models/huggingface-blog-open-asr-leaderboard-private-data.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Adding Benchmaxxer Repellant to the Open ASR Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/open-asr-leaderboard-private-data>
+
+* **[Adding MCP Tools to Reachy Mini](ai/models/adding-mcp-tools-to-reachy-mini.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Adding MCP Tools to Reachy Mini
+  * Source URL: <https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini>
+
+* **[Advantage Actor Critic (A2C)](ai/models/advantage-actor-critic-a2c.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Advantage Actor Critic (A2C)
+  * Source URL: <https://huggingface.co/blog/deep-rl-a2c>
+
+* **[AI and the Future of Cybersecurity: Why Openness Matters](ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI and the Future of Cybersecurity: Why Openness Matters
+  * Source URL: <https://huggingface.co/blog/cybersecurity-openness>
+
+* **[AI Apps in a Flash with Gradio's Reload Mode](ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Apps in a Flash with Gradio's Reload Mode
+  * Source URL: <https://huggingface.co/blog/gradio-reload>
+
+* **[AI for Game Development: Creating a Farming Game in 5 Days. Part 2](ai/models/huggingface-blog-ml-for-games-2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI for Game Development: Creating a Farming Game in 5 Days. Part 2
+  * Source URL: <https://huggingface.co/blog/ml-for-games-2>
+
+* **[AI Policy @🤗: Open ML Considerations in the EU AI Act](ai/models/huggingface-blog-eu-ai-act-oss.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Policy @🤗: Open ML Considerations in the EU AI Act
+  * Source URL: <https://huggingface.co/blog/eu-ai-act-oss>
+
+* **[AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](ai/models/huggingface-blog-policy-ntia-rfc.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability
+  * Source URL: <https://huggingface.co/blog/policy-ntia-rfc>
+
+* **[AI Policy @🤗: Response to the White House AI Action Plan RFI](ai/models/huggingface-blog-ai-action-wh-2025.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Policy @🤗: Response to the White House AI Action Plan RFI
+  * Source URL: <https://huggingface.co/blog/ai-action-wh-2025>
+
+* **[AI Speech Recognition in Unity](ai/models/huggingface-blog-unity-asr.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Speech Recognition in Unity
+  * Source URL: <https://huggingface.co/blog/unity-asr>
+
+* **[AI Watermarking 101: Tools and Techniques](ai/models/huggingface-blog-watermarking.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AI Watermarking 101: Tools and Techniques
+  * Tags: `hackernews`
+  * Source URL: <https://huggingface.co/blog/watermarking>
+
+* **[AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](ai/models/amd-large-language-models-out-of-the-box-accelerat.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
+  * Source URL: <https://huggingface.co/blog/huggingface-and-optimum-amd>
+
+* **[AMD Pervasive AI Developer Contest!](ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AMD Pervasive AI Developer Contest!
+  * Source URL: <https://huggingface.co/blog/amd_pervasive_developer_ai_contest>
+
+* **[An Introduction to AI Secure LLM Safety Leaderboard](ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: An Introduction to AI Secure LLM Safety Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-decodingtrust>
+
+* **[An Introduction to Deep Reinforcement Learning](ai/models/an-introduction-to-deep-reinforcement-learning.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: An Introduction to Deep Reinforcement Learning
+  * Source URL: <https://huggingface.co/blog/deep-rl-intro>
+
+* **[An Introduction to Q-Learning Part 1](ai/models/an-introduction-to-q-learning-part-1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: An Introduction to Q-Learning Part 1
+  * Source URL: <https://huggingface.co/blog/deep-rl-q-part1>
+
+* **[An Introduction to Q-Learning Part 2/2](ai/models/huggingface-blog-deep-rl-q-part2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: An Introduction to Q-Learning Part 2/2
+  * Source URL: <https://huggingface.co/blog/deep-rl-q-part2>
+
+* **[An overview of inference solutions on Hugging Face](ai/models/an-overview-of-inference-solutions-on-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: An overview of inference solutions on Hugging Face
+  * Source URL: <https://huggingface.co/blog/inference-update>
+
+* **[Announcing Evaluation on the Hub](ai/models/huggingface-blog-eval-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing Evaluation on the Hub
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/eval-on-the-hub>
+
+* **[Announcing New Dataset Search Features](ai/models/huggingface-blog-datasets-filters.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing New Dataset Search Features
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/datasets-filters>
+
+* **[Announcing New Hugging Face and KerasHub integration](ai/models/huggingface-blog-keras-hub-integration.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing New Hugging Face and KerasHub integration
+  * Source URL: <https://huggingface.co/blog/keras-hub-integration>
+
+* **[Announcing our new Content Guidelines and Policy](ai/models/announcing-our-new-content-guidelines-and-policy.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing our new Content Guidelines and Policy
+  * Source URL: <https://huggingface.co/blog/content-guidelines-update>
+
+* **[Announcing the Hugging Face Fellowship Program](ai/models/huggingface-blog-fellowship.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing the Hugging Face Fellowship Program
+  * Source URL: <https://huggingface.co/blog/fellowship>
+
+* **[Announcing the Open Source AI Game Jam 🎮](ai/models/announcing-the-open-source-ai-game-jam.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing the Open Source AI Game Jam 🎮
+  * Source URL: <https://huggingface.co/blog/game-jam>
+
+* **[Announcing the 🤗 AI Research Residency Program](ai/models/announcing-the-ai-research-residency-program.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Announcing the 🤗 AI Research Residency Program
+  * Source URL: <https://huggingface.co/blog/ai-residency>
+
+* **[Any Custom Frontend with Gradio's Backend](ai/models/any-custom-frontend-with-gradio-s-backend.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Any Custom Frontend with Gradio's Backend
+  * Source URL: <https://huggingface.co/blog/introducing-gradio-server>
+
+* **[Arc Virtual Cell Challenge: A Primer](ai/models/huggingface-blog-virtual-cell-challenge.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Arc Virtual Cell Challenge: A Primer
+  * Source URL: <https://huggingface.co/blog/virtual-cell-challenge>
+
+* **[Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required](ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required
+  * Tags: `benchmark`, `dataset`, `models`
+  * Source URL: <https://huggingface.co/blog/argilla-ui-hub>
+
+* **[Assisted Generation: a new direction toward low-latency text generation](ai/models/huggingface-blog-assisted-generation.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Assisted Generation: a new direction toward low-latency text generation
+  * Source URL: <https://huggingface.co/blog/assisted-generation>
+
+* **[Asynchronous Robot Inference: Decoupling Action Prediction and Execution](ai/models/huggingface-blog-async-robot-inference.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Asynchronous Robot Inference: Decoupling Action Prediction and Execution
+  * Source URL: <https://huggingface.co/blog/async-robot-inference>
+
+* **[AudioLDM 2, but faster ⚡️](ai/models/huggingface-blog-audioldm2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: AudioLDM 2, but faster ⚡️
+  * Source URL: <https://huggingface.co/blog/audioldm2>
+
+* **[Bamba: Inference-Efficient Hybrid Mamba2 Model](ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Bamba: Inference-Efficient Hybrid Mamba2 Model
+  * Source URL: <https://huggingface.co/blog/bamba>
+
+* **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/huggingface-blog-sovereign-data-solution-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
+  * Source URL: <https://huggingface.co/blog/sovereign-data-solution-case-study>
+
+* **[Benchmarking Language Model Performance on 5th Gen Xeon at GCP](ai/models/huggingface-blog-intel-gcp-c4.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Benchmarking Language Model Performance on 5th Gen Xeon at GCP
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/intel-gcp-c4>
+
+* **[Benchmarking Text Generation Inference](ai/models/huggingface-blog-tgi-benchmarking.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Benchmarking Text Generation Inference
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/tgi-benchmarking>
+
+* **[BERT 101 - State Of The Art NLP Model Explained](ai/models/huggingface-blog-bert-101.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: BERT 101 - State Of The Art NLP Model Explained
+  * Source URL: <https://huggingface.co/blog/bert-101>
+
+* **[BigCodeBench: The Next Generation of HumanEval](ai/models/huggingface-blog-leaderboard-bigcodebench.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: BigCodeBench: The Next Generation of HumanEval
+  * Source URL: <https://huggingface.co/blog/leaderboard-bigcodebench>
+
+* **[Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](ai/models/binary-and-scalar-embedding-quantization-for-signi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/embedding-quantization>
+
+* **[Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon](ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon
+  * Source URL: <https://huggingface.co/blog/setfit-optimum-intel>
+
+* **[Blazingly fast whisper transcriptions with Inference Endpoints](ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Blazingly fast whisper transcriptions with Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/fast-whisper-endpoints>
+
+* **[Block Sparse Matrices for Smaller and Faster Language Models](ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Block Sparse Matrices for Smaller and Faster Language Models
+  * Source URL: <https://huggingface.co/blog/pytorch_block_sparse>
+
+* **[Boosting Wav2Vec2 with n-grams in 🤗 Transformers](ai/models/huggingface-blog-wav2vec2-with-ngram.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Boosting Wav2Vec2 with n-grams in 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/wav2vec2-with-ngram>
+
+* **[Bringing serverless GPU inference to Hugging Face users](ai/models/huggingface-blog-cloudflare-workers-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Bringing serverless GPU inference to Hugging Face users
+  * Source URL: <https://huggingface.co/blog/cloudflare-workers-ai>
+
+* **[Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face](ai/models/bringing-the-artificial-analysis-llm-performance-l.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-artificial-analysis>
+
+* **[Build AI on premise with Dell Enterprise Hub](ai/models/build-ai-on-premise-with-dell-enterprise-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Build AI on premise with Dell Enterprise Hub
+  * Source URL: <https://huggingface.co/blog/dell-enterprise-hub>
+
+* **[Build awesome datasets for video generation](ai/models/huggingface-blog-vid-ds-scripts.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Build awesome datasets for video generation
+  * Tags: `dataset`, `youtube`
+  * Source URL: <https://huggingface.co/blog/vid_ds_scripts>
+
+* **[Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](ai/models/huggingface-blog-lerobotxnvidia-healthcare.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac
+  * Source URL: <https://huggingface.co/blog/lerobotxnvidia-healthcare>
+
+* **[Building a Playlist Generator with Sentence Transformers](ai/models/huggingface-blog-playlist-generator.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building a Playlist Generator with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/playlist-generator>
+
+* **[Building an AI WebTV](ai/models/huggingface-blog-ai-webtv.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building an AI WebTV
+  * Source URL: <https://huggingface.co/blog/ai-webtv>
+
+* **[Building for an Open Future - our new partnership with Google Cloud](ai/models/huggingface-blog-google-cloud.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building for an Open Future - our new partnership with Google Cloud
+  * Source URL: <https://huggingface.co/blog/google-cloud>
+
+* **[Building the Hugging Face MCP Server](ai/models/building-the-hugging-face-mcp-server.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building the Hugging Face MCP Server
+  * Source URL: <https://huggingface.co/blog/building-hf-mcp>
+
+* **[Can foundation models label data like humans?](ai/models/can-foundation-models-label-data-like-humans.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Can foundation models label data like humans?
+  * Source URL: <https://huggingface.co/blog/open-llm-leaderboard-rlhf>
+
+* **[Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](ai/models/huggingface-blog-infinity-cpu-performance.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs
+  * Source URL: <https://huggingface.co/blog/infinity-cpu-performance>
+
+* **[Chat Templates: An End to the Silent Performance Killer](ai/models/huggingface-blog-chat-templates.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Chat Templates: An End to the Silent Performance Killer
+  * Source URL: <https://huggingface.co/blog/chat-templates>
+
+* **[CinePile 2.0 - making stronger datasets with adversarial refinement](ai/models/huggingface-blog-cinepile2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CinePile 2.0 - making stronger datasets with adversarial refinement
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/cinepile2>
+
+* **[CO2 Emissions and the 🤗 Hub: Leading the Charge](ai/models/huggingface-blog-carbon-emissions-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CO2 Emissions and the 🤗 Hub: Leading the Charge
+  * Source URL: <https://huggingface.co/blog/carbon-emissions-on-the-hub>
+
+* **[Code Llama: Llama 2 learns to code](ai/models/huggingface-blog-codellama.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Code Llama: Llama 2 learns to code
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/codellama>
+
+* **[CodeGemma - an official Google release for code LLMs](ai/models/codegemma-an-official-google-release-for-code-llms.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CodeGemma - an official Google release for code LLMs
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/codegemma>
+
+* **[Codex is Open Sourcing AI models](ai/models/huggingface-blog-hf-skills-training-codex.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Codex is Open Sourcing AI models
+  * Source URL: <https://huggingface.co/blog/hf-skills-training-codex>
+
+* **[Cohere on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-cohere.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Cohere on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-cohere>
+
+* **[Comments on U.S. National AI Research Resource Interim Report](ai/models/huggingface-blog-us-national-ai-research-resource.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Comments on U.S. National AI Research Resource Interim Report
+  * Source URL: <https://huggingface.co/blog/us-national-ai-research-resource>
+
+* **[Community Evals: Because we're done trusting black-box leaderboards over the community](ai/models/community-evals-because-we-re-done-trusting-black.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Community Evals: Because we're done trusting black-box leaderboards over the community
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/community-evals>
+
+* **[Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
+  * Tags: `meta-ai`, `mistral`, `models`
+  * Source URL: <https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral>
+
+* **[Consilium: When Multiple LLMs Collaborate](ai/models/huggingface-blog-consilium-multi-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Consilium: When Multiple LLMs Collaborate
+  * Source URL: <https://huggingface.co/blog/consilium-multi-llm>
+
+* **[Constitutional AI with Open LLMs](ai/models/huggingface-blog-constitutional-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Constitutional AI with Open LLMs
+  * Source URL: <https://huggingface.co/blog/constitutional_ai>
+
+* **[Continuous batching from first principles](ai/models/huggingface-blog-continuous-batching.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Continuous batching from first principles
+  * Source URL: <https://huggingface.co/blog/continuous_batching>
+
+* **[Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo](ai/models/controlling-language-model-generation-with-nvidia.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo
+  * Source URL: <https://huggingface.co/blog/logits-processor-zoo>
+
+* **[ControlNet in 🧨 Diffusers](ai/models/huggingface-blog-controlnet.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: ControlNet in 🧨 Diffusers
+  * Source URL: <https://huggingface.co/blog/controlnet>
+
+* **[Convert Transformers to ONNX with Hugging Face Optimum](ai/models/huggingface-blog-convert-transformers-to-onnx.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Convert Transformers to ONNX with Hugging Face Optimum
+  * Source URL: <https://huggingface.co/blog/convert-transformers-to-onnx>
+
+* **[Converting Vertex-Colored Meshes to Textured Meshes](ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Converting Vertex-Colored Meshes to Textured Meshes
+  * Source URL: <https://huggingface.co/blog/vertex-colored-to-textured-mesh>
+
+* **[Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models](ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models
+  * Source URL: <https://huggingface.co/blog/cosmopedia>
+
+* **[Course Launch Community Event](ai/models/huggingface-blog-course-launch-event.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Course Launch Community Event
+  * Tags: `producthunt`
+  * Source URL: <https://huggingface.co/blog/course-launch-event>
+
+* **[CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard](ai/models/co2-emissions-and-models-performance-insights-from.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-emissions-analysis>
+
+* **[Creating a Coding Assistant with StarCoder](ai/models/creating-a-coding-assistant-with-starcoder.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Creating a Coding Assistant with StarCoder
+  * Source URL: <https://huggingface.co/blog/starchat-alpha>
+
+* **[Creating custom kernels for the AMD MI300](ai/models/creating-custom-kernels-for-the-amd-mi300.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Creating custom kernels for the AMD MI300
+  * Source URL: <https://huggingface.co/blog/mi300kernels>
+
+* **[Creating Privacy Preserving AI with Substra](ai/models/huggingface-blog-owkin-substra.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Creating Privacy Preserving AI with Substra
+  * Source URL: <https://huggingface.co/blog/owkin-substra>
+
+* **[Custom Kernels for All from Codex and Claude](ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Custom Kernels for All from Codex and Claude
+  * Tags: `anthropic`
+  * Source URL: <https://huggingface.co/blog/custom-cuda-kernels-agent-skills>
+
+* **[CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models](ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/leaderboard-llamaguard>
+
+* **[Data Is Better Together: A Look Back and Forward](ai/models/data-is-better-together-a-look-back-and-forward.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Data Is Better Together: A Look Back and Forward
+  * Source URL: <https://huggingface.co/blog/dibt>
+
+* **[Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](ai/models/huggingface-blog-community-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/community-datasets>
+
+* **[Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](ai/models/huggingface-blog-databricks-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models
+  * Source URL: <https://huggingface.co/blog/databricks-case-study>
+
+* **[Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore](ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore
+  * Source URL: <https://huggingface.co/blog/vision-transformers>
+
+* **[Deep Learning over the Internet: Training Language Models Collaboratively](ai/models/huggingface-blog-collaborative-training.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deep Learning over the Internet: Training Language Models Collaboratively
+  * Source URL: <https://huggingface.co/blog/collaborative-training>
+
+* **[Deep Learning with Proteins](ai/models/deep-learning-with-proteins.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deep Learning with Proteins
+  * Source URL: <https://huggingface.co/blog/deep-learning-with-proteins>
+
+* **[Deep Q-Learning with Space Invaders](ai/models/huggingface-blog-deep-rl-dqn.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deep Q-Learning with Space Invaders
+  * Source URL: <https://huggingface.co/blog/deep-rl-dqn>
+
+* **[DeepInfra on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-deepinfra.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: DeepInfra on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-deepinfra>
+
+* **[Dell Enterprise Hub is all you need to build AI on premises](ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Dell Enterprise Hub is all you need to build AI on premises
+  * Source URL: <https://huggingface.co/blog/dell-ai-applications>
+
+* **[Democratizing AI Safety with RiskRubric.ai](ai/models/democratizing-ai-safety-with-riskrubric-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Democratizing AI Safety with RiskRubric.ai
+  * Source URL: <https://huggingface.co/blog/riskrubric>
+
+* **[Deploy Embedding Models with Hugging Face Inference Endpoints](ai/models/huggingface-blog-inference-endpoints-embeddings.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy Embedding Models with Hugging Face Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/inference-endpoints-embeddings>
+
+* **[Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker](ai/models/huggingface-blog-gptj-sagemaker.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker
+  * Source URL: <https://huggingface.co/blog/gptj-sagemaker>
+
+* **[Deploy Hugging Face models easily with Amazon SageMaker](ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy Hugging Face models easily with Amazon SageMaker
+  * Source URL: <https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker>
+
+* **[Deploy Livebook notebooks as apps to Hugging Face Spaces](ai/models/huggingface-blog-livebook-app-deployment.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy Livebook notebooks as apps to Hugging Face Spaces
+  * Source URL: <https://huggingface.co/blog/livebook-app-deployment>
+
+* **[Deploy LLMs with Hugging Face Inference Endpoints](ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy LLMs with Hugging Face Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/inference-endpoints-llm>
+
+* **[Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI](ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama31-on-vertex-ai>
+
+* **[Deploy models on AWS Inferentia2 from Hugging Face](ai/models/huggingface-blog-inferentia-inference-endpoints.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy models on AWS Inferentia2 from Hugging Face
+  * Source URL: <https://huggingface.co/blog/inferentia-inference-endpoints>
+
+* **[Deploy MusicGen in no time with Inference Endpoints](ai/models/huggingface-blog-run-musicgen-as-an-api.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploy MusicGen in no time with Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/run-musicgen-as-an-api>
+
+* **[Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action
+  * Source URL: <https://huggingface.co/blog/deploy-deepfloydif-using-bentoml>
+
+* **[Deploying Speech-to-Speech on Hugging Face](ai/models/huggingface-blog-s2s-endpoint.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying Speech-to-Speech on Hugging Face
+  * Source URL: <https://huggingface.co/blog/s2s_endpoint>
+
+* **[Deploying TensorFlow Vision Models in Hugging Face with TF Serving](ai/models/huggingface-blog-tf-serving-vision.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying TensorFlow Vision Models in Hugging Face with TF Serving
+  * Source URL: <https://huggingface.co/blog/tf-serving-vision>
+
+* **[Deploying the AI Comic Factory using the Inference API](ai/models/deploying-the-ai-comic-factory-using-the-inference.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying the AI Comic Factory using the Inference API
+  * Source URL: <https://huggingface.co/blog/ai-comic-factory>
+
+* **[Deploying 🤗 ViT on Kubernetes with TF Serving](ai/models/deploying-vit-on-kubernetes-with-tf-serving.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying 🤗 ViT on Kubernetes with TF Serving
+  * Source URL: <https://huggingface.co/blog/deploy-tfserving-kubernetes>
+
+* **[Deploying 🤗 ViT on Vertex AI](ai/models/deploying-vit-on-vertex-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deploying 🤗 ViT on Vertex AI
+  * Source URL: <https://huggingface.co/blog/deploy-vertex-ai>
+
+* **[Deprecation of Git Authentication using password](ai/models/huggingface-blog-password-git-deprecation.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Deprecation of Git Authentication using password
+  * Source URL: <https://huggingface.co/blog/password-git-deprecation>
+
+* **[Diffusers welcomes FLUX-2](ai/models/huggingface-blog-flux-2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Diffusers welcomes FLUX-2
+  * Source URL: <https://huggingface.co/blog/flux-2>
+
+* **[Diffusers welcomes Stable Diffusion 3](ai/models/huggingface-blog-sd3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Diffusers welcomes Stable Diffusion 3
+  * Source URL: <https://huggingface.co/blog/sd3>
+
+* **[Diffusers welcomes Stable Diffusion 3.5 Large](ai/models/huggingface-blog-sd3-5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Diffusers welcomes Stable Diffusion 3.5 Large
+  * Source URL: <https://huggingface.co/blog/sd3-5>
+
+* **[Diffusion Models Live Event](ai/models/diffusion-models-live-event.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Diffusion Models Live Event
+  * Source URL: <https://huggingface.co/blog/diffusion-models-event>
+
+* **[Director of Machine Learning Insights](ai/models/director-of-machine-learning-insights.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Director of Machine Learning Insights
+  * Source URL: <https://huggingface.co/blog/ml-director-insights>
+
+* **[Director of Machine Learning Insights [Part 2: SaaS Edition]](ai/models/director-of-machine-learning-insights-part-2-saas.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 2: SaaS Edition]
+  * Source URL: <https://huggingface.co/blog/ml-director-insights-2>
+
+* **[Director of Machine Learning Insights [Part 3: Finance Edition]](ai/models/huggingface-blog-ml-director-insights-3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 3: Finance Edition]
+  * Source URL: <https://huggingface.co/blog/ml-director-insights-3>
+
+* **[Director of Machine Learning Insights [Part 4]](ai/models/huggingface-blog-ml-director-insights-4.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 4]
+  * Source URL: <https://huggingface.co/blog/ml-director-insights-4>
+
+* **[Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker
+  * Source URL: <https://huggingface.co/blog/sagemaker-distributed-training-seq2seq>
+
+* **[Docmatix - a huge dataset for Document Visual Question Answering](ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Docmatix - a huge dataset for Document Visual Question Answering
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/docmatix>
+
+* **[DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](ai/models/huggingface-blog-hub-duckdb.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/hub-duckdb>
+
+* **[Easily Build and Share ROCm Kernels with Hugging Face](ai/models/huggingface-blog-build-rocm-kernels.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Easily Build and Share ROCm Kernels with Hugging Face
+  * Source URL: <https://huggingface.co/blog/build-rocm-kernels>
+
+* **[Easily Train Models with H100 GPUs on NVIDIA DGX Cloud](ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Easily Train Models with H100 GPUs on NVIDIA DGX Cloud
+  * Source URL: <https://huggingface.co/blog/train-dgx-cloud>
+
+* **[Efficient Controllable Generation for SDXL with T2I-Adapters](ai/models/huggingface-blog-t2i-sdxl-adapters.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Efficient Controllable Generation for SDXL with T2I-Adapters
+  * Source URL: <https://huggingface.co/blog/t2i-sdxl-adapters>
+
+* **[Efficient MultiModal Data Pipeline](ai/models/efficient-multimodal-data-pipeline.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Efficient MultiModal Data Pipeline
+  * Source URL: <https://huggingface.co/blog/mmdp>
+
+* **[Efficient Table Pre-training without Real Data: An Introduction to TAPEX](ai/models/efficient-table-pre-training-without-real-data-an.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Efficient Table Pre-training without Real Data: An Introduction to TAPEX
+  * Source URL: <https://huggingface.co/blog/tapex>
+
+* **[Ethical Guidelines for developing the Diffusers library](ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethical Guidelines for developing the Diffusers library
+  * Source URL: <https://huggingface.co/blog/ethics-diffusers>
+
+* **[Ethics and Society Newsletter #1](ai/models/huggingface-blog-ethics-soc-1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #1
+  * Source URL: <https://huggingface.co/blog/ethics-soc-1>
+
+* **[Ethics and Society Newsletter #3: Ethical Openness at Hugging Face](ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #3: Ethical Openness at Hugging Face
+  * Source URL: <https://huggingface.co/blog/ethics-soc-3>
+
+* **[Ethics and Society Newsletter #4: Bias in Text-to-Image Models](ai/models/ethics-and-society-newsletter-4-bias-in-text-to-im.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #4: Bias in Text-to-Image Models
+  * Source URL: <https://huggingface.co/blog/ethics-soc-4>
+
+* **[Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](ai/models/huggingface-blog-ethics-soc-5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings
+  * Source URL: <https://huggingface.co/blog/ethics-soc-5>
+
+* **[Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality](ai/models/ethics-and-society-newsletter-6-building-better-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality
+  * Source URL: <https://huggingface.co/blog/ethics-soc-6>
+
+* **[Ettin Suite: SoTA Paired Encoders and Decoders](ai/models/huggingface-blog-ettin.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ettin Suite: SoTA Paired Encoders and Decoders
+  * Source URL: <https://huggingface.co/blog/ettin>
+
+* **[Evaluating Audio Reasoning with Big Bench Audio](ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Evaluating Audio Reasoning with Big Bench Audio
+  * Source URL: <https://huggingface.co/blog/big-bench-audio-release>
+
+* **[Evaluating Language Model Bias with 🤗 Evaluate](ai/models/evaluating-language-model-bias-with-evaluate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Evaluating Language Model Bias with 🤗 Evaluate
+  * Source URL: <https://huggingface.co/blog/evaluating-llm-bias>
+
+* **[Experimenting with Automatic PII Detection on the Hub using Presidio](ai/models/huggingface-blog-presidio-pii-detection.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Experimenting with Automatic PII Detection on the Hub using Presidio
+  * Source URL: <https://huggingface.co/blog/presidio-pii-detection>
+
+* **[Exploring Quantization Backends in Diffusers](ai/models/exploring-quantization-backends-in-diffusers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Exploring Quantization Backends in Diffusers
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/diffusers-quantization>
+
+* **[Exploring simple optimizations for SDXL](ai/models/exploring-simple-optimizations-for-sdxl.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Exploring simple optimizations for SDXL
+  * Source URL: <https://huggingface.co/blog/simple_sdxl_optimizations>
+
+* **[Exploring the Daily Papers Page on Hugging Face](ai/models/exploring-the-daily-papers-page-on-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Exploring the Daily Papers Page on Hugging Face
+  * Tags: `paper`
+  * Source URL: <https://huggingface.co/blog/daily-papers>
+
+* **[Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](ai/models/huggingface-blog-falcon2-11b.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages
+  * Source URL: <https://huggingface.co/blog/falcon2-11b>
+
+* **[Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator](ai/models/fast-inference-on-large-language-models-bloomz-on.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator
+  * Source URL: <https://huggingface.co/blog/habana-gaudi-2-bloom>
+
+* **[Fast LoRA inference for Flux with Diffusers and PEFT](ai/models/huggingface-blog-lora-fast.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fast LoRA inference for Flux with Diffusers and PEFT
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/lora-fast>
+
+* **[Faster assisted generation support for Intel Gaudi](ai/models/faster-assisted-generation-support-for-intel-gaudi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster assisted generation support for Intel Gaudi
+  * Source URL: <https://huggingface.co/blog/assisted-generation-support-gaudi>
+
+* **[Faster Assisted Generation with Dynamic Speculation](ai/models/huggingface-blog-dynamic-speculation-lookahead.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster Assisted Generation with Dynamic Speculation
+  * Source URL: <https://huggingface.co/blog/dynamic_speculation_lookahead>
+
+* **[Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](ai/models/huggingface-blog-fast-diffusers-coreml.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac
+  * Source URL: <https://huggingface.co/blog/fast-diffusers-coreml>
+
+* **[Faster TensorFlow models in Hugging Face Transformers](ai/models/huggingface-blog-tf-serving.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster TensorFlow models in Hugging Face Transformers
+  * Source URL: <https://huggingface.co/blog/tf-serving>
+
+* **[Faster Text Generation with Self-Speculative Decoding](ai/models/huggingface-blog-layerskip.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster Text Generation with Self-Speculative Decoding
+  * Source URL: <https://huggingface.co/blog/layerskip>
+
+* **[Faster Text Generation with TensorFlow and XLA](ai/models/faster-text-generation-with-tensorflow-and-xla.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster Text Generation with TensorFlow and XLA
+  * Source URL: <https://huggingface.co/blog/tf-xla-generate>
+
+* **[Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](ai/models/huggingface-blog-habana-gaudi-2-benchmark.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB
+  * Source URL: <https://huggingface.co/blog/habana-gaudi-2-benchmark>
+
+* **[FastRTC: The Real-Time Communication Library for Python](ai/models/fastrtc-the-real-time-communication-library-for-py.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: FastRTC: The Real-Time Communication Library for Python
+  * Source URL: <https://huggingface.co/blog/fastrtc>
+
+* **[Featherless AI on Hugging Face Inference Providers 🔥](ai/models/featherless-ai-on-hugging-face-inference-providers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Featherless AI on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-featherless>
+
+* **[Federated Learning using Hugging Face and Flower](ai/models/federated-learning-using-hugging-face-and-flower.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Federated Learning using Hugging Face and Flower
+  * Source URL: <https://huggingface.co/blog/fl-with-flower>
+
+* **[Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS](ai/models/huggingface-blog-fetch-eap-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS
+  * Source URL: <https://huggingface.co/blog/fetch-eap-case-study>
+
+* **[Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face
+  * Source URL: <https://huggingface.co/blog/fetch-case-study>
+
+* **[Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API
+  * Source URL: <https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api>
+
+* **[Finally, a Replacement for BERT: Introducing ModernBERT](ai/models/finally-a-replacement-for-bert-introducing-modernb.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Finally, a Replacement for BERT: Introducing ModernBERT
+  * Source URL: <https://huggingface.co/blog/modernbert>
+
+* **[Fine tuning CLIP with Remote Sensing (Satellite) images and captions](ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine tuning CLIP with Remote Sensing (Satellite) images and captions
+  * Source URL: <https://huggingface.co/blog/fine-tune-clip-rsicd>
+
+* **[Fine-Tune a Semantic Segmentation Model with a Custom Dataset](ai/models/huggingface-blog-fine-tune-segformer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune a Semantic Segmentation Model with a Custom Dataset
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/fine-tune-segformer>
+
+* **[Fine-tune Llama 2 with DPO](ai/models/fine-tune-llama-2-with-dpo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tune Llama 2 with DPO
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/dpo-trl>
+
+* **[Fine-Tune MMS Adapter Models for low-resource ASR](ai/models/huggingface-blog-mms-adapters.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune MMS Adapter Models for low-resource ASR
+  * Source URL: <https://huggingface.co/blog/mms_adapters>
+
+* **[Fine-Tune ViT for Image Classification with 🤗 Transformers](ai/models/fine-tune-vit-for-image-classification-with-transf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune ViT for Image Classification with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/fine-tune-vit>
+
+* **[Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers](ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/fine-tune-w2v2-bert>
+
+* **[Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers](ai/models/fine-tune-wav2vec2-for-english-asr-in-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/fine-tune-wav2vec2-english>
+
+* **[Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](ai/models/huggingface-blog-fine-tune-whisper.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/fine-tune-whisper>
+
+* **[Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers](ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/fine-tune-xlsr-wav2vec2>
+
+* **[Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/trl-peft>
+
+* **[Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](ai/models/huggingface-blog-finetune-florence2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/finetune-florence2>
+
+* **[Fine-Tuning Gemma Models in Hugging Face](ai/models/huggingface-blog-gemma-peft.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-Tuning Gemma Models in Hugging Face
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma-peft>
+
+* **[Fine-tuning Llama 2 70B using PyTorch FSDP](ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tuning Llama 2 70B using PyTorch FSDP
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/ram-efficient-pytorch-fsdp>
+
+* **[Fine-tuning LLMs to 1.58bit: extreme quantization made easy](ai/models/huggingface-blog-1-58-llm-extreme-quantization.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tuning LLMs to 1.58bit: extreme quantization made easy
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/1_58_llm_extreme_quantization>
+
+* **[Fine-tuning Stable Diffusion models on Intel CPUs](ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fine-tuning Stable Diffusion models on Intel CPUs
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/stable-diffusion-finetuning-intel>
+
+* **[Finetune Stable Diffusion Models with DDPO via TRL](ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Finetune Stable Diffusion Models with DDPO via TRL
+  * Source URL: <https://huggingface.co/blog/trl-ddpo>
+
+* **[FineVideo: behind the scenes](ai/models/huggingface-blog-fine-video.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: FineVideo: behind the scenes
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/fine-video>
+
+* **[Fit More and Train Faster With ZeRO via DeepSpeed and FairScale](ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fit More and Train Faster With ZeRO via DeepSpeed and FairScale
+  * Source URL: <https://huggingface.co/blog/zero-deepspeed-fairscale>
+
+* **[Five Big Improvements to Gradio MCP Servers](ai/models/five-big-improvements-to-gradio-mcp-servers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Five Big Improvements to Gradio MCP Servers
+  * Source URL: <https://huggingface.co/blog/gradio-mcp-updates>
+
+* **[Fixing Gradient Accumulation](ai/models/fixing-gradient-accumulation.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fixing Gradient Accumulation
+  * Source URL: <https://huggingface.co/blog/gradient_accumulation>
+
+* **[Fixing Open LLM Leaderboard with Math-Verify](ai/models/fixing-open-llm-leaderboard-with-math-verify.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Fixing Open LLM Leaderboard with Math-Verify
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/math_verify_leaderboard>
+
+* **[From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](ai/models/huggingface-blog-from-chunks-to-blocks.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub
+  * Source URL: <https://huggingface.co/blog/from-chunks-to-blocks>
+
+* **[From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](ai/models/huggingface-blog-microsoft-collaboration.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From cloud to developers: Hugging Face and Microsoft Deepen Collaboration
+  * Source URL: <https://huggingface.co/blog/microsoft-collaboration>
+
+* **[From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate](ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate
+  * Source URL: <https://huggingface.co/blog/deepspeed-to-fsdp-and-back>
+
+* **[From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](ai/models/huggingface-blog-elixir-bumblebee.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community
+  * Source URL: <https://huggingface.co/blog/elixir-bumblebee>
+
+* **[From OpenAI to Open LLMs with Messages API on Hugging Face](ai/models/huggingface-blog-tgi-messages-api.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From OpenAI to Open LLMs with Messages API on Hugging Face
+  * Tags: `openai`
+  * Source URL: <https://huggingface.co/blog/tgi-messages-api>
+
+* **[From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease
+  * Source URL: <https://huggingface.co/blog/pytorch-ddp-accelerate-transformers>
+
+* **[From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels
+  * Source URL: <https://huggingface.co/blog/kernel-builder>
+
+* **[GaLore: Advancing Large Model Training on Consumer-grade Hardware](ai/models/galore-advancing-large-model-training-on-consumer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: GaLore: Advancing Large Model Training on Consumer-grade Hardware
+  * Source URL: <https://huggingface.co/blog/galore>
+
+* **[Gemma 3n fully available in the open-source ecosystem!](ai/models/huggingface-blog-gemma3n.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Gemma 3n fully available in the open-source ecosystem!
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma3n>
+
+* **[Generate Images with Claude and Hugging Face](ai/models/huggingface-blog-claude-and-mcp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Generate Images with Claude and Hugging Face
+  * Tags: `anthropic`
+  * Source URL: <https://huggingface.co/blog/claude-and-mcp>
+
+* **[Generating Human-level Text with Contrastive Search in Transformers 🤗](ai/models/generating-human-level-text-with-contrastive-searc.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Generating Human-level Text with Contrastive Search in Transformers 🤗
+  * Source URL: <https://huggingface.co/blog/introducing-csearch>
+
+* **[Generating Stories: AI for Game Development #5](ai/models/huggingface-blog-ml-for-games-5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Generating Stories: AI for Game Development #5
+  * Source URL: <https://huggingface.co/blog/ml-for-games-5>
+
+* **[Get your VLM running in 3 simple steps on Intel CPUs](ai/models/huggingface-blog-openvino-vlm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Get your VLM running in 3 simple steps on Intel CPUs
+  * Source URL: <https://huggingface.co/blog/openvino-vlm>
+
+* **[Getting Started with Hugging Face Inference Endpoints](ai/models/getting-started-with-hugging-face-inference-endpoi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started with Hugging Face Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/inference-endpoints>
+
+* **[Getting Started with Hugging Face Transformers for IPUs with Optimum](ai/models/getting-started-with-hugging-face-transformers-for.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started with Hugging Face Transformers for IPUs with Optimum
+  * Source URL: <https://huggingface.co/blog/graphcore-getting-started>
+
+* **[Getting Started with Sentiment Analysis on Twitter](ai/models/huggingface-blog-sentiment-analysis-twitter.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started with Sentiment Analysis on Twitter
+  * Source URL: <https://huggingface.co/blog/sentiment-analysis-twitter>
+
+* **[Getting Started with Sentiment Analysis using Python](ai/models/getting-started-with-sentiment-analysis-using-pyth.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started with Sentiment Analysis using Python
+  * Source URL: <https://huggingface.co/blog/sentiment-analysis-python>
+
+* **[Getting Started with Transformers on Habana Gaudi](ai/models/huggingface-blog-getting-started-habana.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started with Transformers on Habana Gaudi
+  * Source URL: <https://huggingface.co/blog/getting-started-habana>
+
+* **[GGML and llama.cpp join HF to ensure the long-term progress of Local AI](ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: GGML and llama.cpp join HF to ensure the long-term progress of Local AI
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/ggml-joins-hf>
+
+* **[Goodbye cold boot - how we made LoRA Inference 300% faster](ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Goodbye cold boot - how we made LoRA Inference 300% faster
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/lora-adapters-dynamic-loading>
+
+* **[Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face
+  * Source URL: <https://huggingface.co/blog/gpt-oss-on-intel-xeon>
+
+* **[Google Cloud TPUs made available to Hugging Face users](ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Google Cloud TPUs made available to Hugging Face users
+  * Source URL: <https://huggingface.co/blog/tpu-inference-endpoints-spaces>
+
+* **[Google releases Gemma 2 2B, ShieldGemma and Gemma Scope](ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Google releases Gemma 2 2B, ShieldGemma and Gemma Scope
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma-july-update>
+
+* **[Gradio 3.0 is Out!](ai/models/gradio-3-0-is-out.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Gradio 3.0 is Out!
+  * Source URL: <https://huggingface.co/blog/gradio-blocks>
+
+* **[Gradio is joining Hugging Face!](ai/models/huggingface-blog-gradio-joins-hf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Gradio is joining Hugging Face!
+  * Source URL: <https://huggingface.co/blog/gradio-joins-hf>
+
+* **[Gradio-Lite: Serverless Gradio Running Entirely in Your Browser](ai/models/gradio-lite-serverless-gradio-running-entirely-in.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Gradio-Lite: Serverless Gradio Running Entirely in Your Browser
+  * Source URL: <https://huggingface.co/blog/gradio-lite>
+
+* **[Graph Classification with Transformers](ai/models/graph-classification-with-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Graph Classification with Transformers
+  * Source URL: <https://huggingface.co/blog/graphml-classification>
+
+* **[Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](ai/models/huggingface-blog-graphcore-update.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers
+  * Tags: `producthunt`
+  * Source URL: <https://huggingface.co/blog/graphcore-update>
+
+* **[Groq on Hugging Face Inference Providers 🔥](ai/models/groq-on-hugging-face-inference-providers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Groq on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-groq>
+
+* **[Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](ai/models/guiding-text-generation-with-constrained-beam-sear.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Guiding Text Generation with Constrained Beam Search in 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/constrained-beam-search>
+
+* **[Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training
+  * Source URL: <https://huggingface.co/blog/habana>
+
+* **[Happy 1st anniversary 🤗 Diffusers!](ai/models/happy-1st-anniversary-diffusers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Happy 1st anniversary 🤗 Diffusers!
+  * Source URL: <https://huggingface.co/blog/diffusers-turns-1>
+
+* **[Hosting your Models and Datasets on Hugging Face Spaces using Streamlit](ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hosting your Models and Datasets on Hugging Face Spaces using Streamlit
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/streamlit-spaces>
+
+* **[How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](ai/models/huggingface-blog-keras-chatbot-arena.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs
+  * Source URL: <https://huggingface.co/blog/keras-chatbot-arena>
+
+* **[How Hugging Face Accelerated Development of Witty Works Writing Assistant](ai/models/how-hugging-face-accelerated-development-of-witty.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How Hugging Face Accelerated Development of Witty Works Writing Assistant
+  * Source URL: <https://huggingface.co/blog/classification-use-cases>
+
+* **[How Hugging Face Scaled Secrets Management for AI Infrastructure](ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How Hugging Face Scaled Secrets Management for AI Infrastructure
+  * Source URL: <https://huggingface.co/blog/scaling-secrets-management>
+
+* **[How NuminaMath Won the 1st AIMO Progress Prize](ai/models/huggingface-blog-winning-aimo-progress-prize.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How NuminaMath Won the 1st AIMO Progress Prize
+  * Source URL: <https://huggingface.co/blog/winning-aimo-progress-prize>
+
+* **[How to Build an MCP Server with Gradio](ai/models/huggingface-blog-gradio-mcp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to Build an MCP Server with Gradio
+  * Source URL: <https://huggingface.co/blog/gradio-mcp>
+
+* **[How to build scalable web apps with OpenAI's Privacy Filter](ai/models/huggingface-blog-openai-privacy-filter-web-apps.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to build scalable web apps with OpenAI's Privacy Filter
+  * Tags: `openai`
+  * Source URL: <https://huggingface.co/blog/openai-privacy-filter-web-apps>
+
+* **[How to deploy and fine-tune DeepSeek models on AWS](ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to deploy and fine-tune DeepSeek models on AWS
+  * Source URL: <https://huggingface.co/blog/deepseek-r1-aws>
+
+* **[How to generate text: using different decoding methods for language generation with Transformers](ai/models/huggingface-blog-how-to-generate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to generate text: using different decoding methods for language generation with Transformers
+  * Source URL: <https://huggingface.co/blog/how-to-generate>
+
+* **[How to host a Unity game in a Space](ai/models/huggingface-blog-unity-in-spaces.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to host a Unity game in a Space
+  * Source URL: <https://huggingface.co/blog/unity-in-spaces>
+
+* **[How to Install and Use the Hugging Face Unity API](ai/models/how-to-install-and-use-the-hugging-face-unity-api.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to Install and Use the Hugging Face Unity API
+  * Source URL: <https://huggingface.co/blog/unity-api>
+
+* **[How to train a Language Model with Megatron-LM](ai/models/huggingface-blog-megatron-training.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to train a Language Model with Megatron-LM
+  * Source URL: <https://huggingface.co/blog/megatron-training>
+
+* **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/huggingface-blog-how-to-train.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to train a new language model from scratch using Transformers and Tokenizers
+  * Source URL: <https://huggingface.co/blog/how-to-train>
+
+* **[How to train your model dynamically using adversarial data](ai/models/huggingface-blog-mnist-adversarial.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to train your model dynamically using adversarial data
+  * Source URL: <https://huggingface.co/blog/mnist-adversarial>
+
+* **[How to Use Transformers.js in a Chrome Extension](ai/models/huggingface-blog-transformersjs-chrome-extension.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How to Use Transformers.js in a Chrome Extension
+  * Source URL: <https://huggingface.co/blog/transformersjs-chrome-extension>
+
+* **[How we sped up transformer inference 100x for 🤗 API customers](ai/models/huggingface-blog-accelerated-inference.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How we sped up transformer inference 100x for 🤗 API customers
+  * Source URL: <https://huggingface.co/blog/accelerated-inference>
+
+* **[How 🤗 Accelerate runs very large models thanks to PyTorch](ai/models/how-accelerate-runs-very-large-models-thanks-to-py.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How 🤗 Accelerate runs very large models thanks to PyTorch
+  * Source URL: <https://huggingface.co/blog/accelerate-large-models>
+
+* **[Hugging Face + PyCharm](ai/models/hugging-face-pycharm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face + PyCharm
+  * Source URL: <https://huggingface.co/blog/pycharm-integration>
+
+* **[Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms](ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms
+  * Source URL: <https://huggingface.co/blog/huggingface-and-amd>
+
+* **[Hugging Face and AWS partner to make AI more accessible](ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and AWS partner to make AI more accessible
+  * Source URL: <https://huggingface.co/blog/aws-partnership>
+
+* **[Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC](ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/fastrtc-cloudflare>
+
+* **[Hugging Face and FriendliAI partner to supercharge model deployment on the Hub](ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and FriendliAI partner to supercharge model deployment on the Hub
+  * Source URL: <https://huggingface.co/blog/friendliai-partnership>
+
+* **[Hugging Face and Google partner for open AI collaboration](ai/models/hugging-face-and-google-partner-for-open-ai-collab.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and Google partner for open AI collaboration
+  * Source URL: <https://huggingface.co/blog/gcp-partnership>
+
+* **[Hugging Face and Graphcore partner for IPU-optimized Transformers](ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and Graphcore partner for IPU-optimized Transformers
+  * Source URL: <https://huggingface.co/blog/graphcore>
+
+* **[Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders](ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders
+  * Source URL: <https://huggingface.co/blog/huggingface-and-ibm>
+
+* **[Hugging Face and JFrog partner to make AI Security more transparent](ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and JFrog partner to make AI Security more transparent
+  * Source URL: <https://huggingface.co/blog/jfrog>
+
+* **[Hugging Face and VirusTotal collaborate to strengthen AI security](ai/models/huggingface-blog-virustotal.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face and VirusTotal collaborate to strengthen AI security
+  * Source URL: <https://huggingface.co/blog/virustotal>
+
+* **[Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure
+  * Tags: `producthunt`
+  * Source URL: <https://huggingface.co/blog/hugging-face-endpoints-on-azure>
+
+* **[Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account](ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-y.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account
+  * Source URL: <https://huggingface.co/blog/aws-marketplace>
+
+* **[Hugging Face Machine Learning Demos on arXiv](ai/models/huggingface-blog-arxiv.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Machine Learning Demos on arXiv
+  * Source URL: <https://huggingface.co/blog/arxiv>
+
+* **[Hugging Face models in Amazon Bedrock](ai/models/hugging-face-models-in-amazon-bedrock.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face models in Amazon Bedrock
+  * Source URL: <https://huggingface.co/blog/bedrock-marketplace>
+
+* **[Hugging Face on AMD Instinct MI300 GPU](ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face on AMD Instinct MI300 GPU
+  * Source URL: <https://huggingface.co/blog/huggingface-amd-mi300>
+
+* **[Hugging Face on PyTorch / XLA TPUs](ai/models/huggingface-blog-pytorch-xla.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face on PyTorch / XLA TPUs
+  * Source URL: <https://huggingface.co/blog/pytorch-xla>
+
+* **[Hugging Face partners with TruffleHog to Scan for Secrets](ai/models/huggingface-blog-trufflesecurity-partnership.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face partners with TruffleHog to Scan for Secrets
+  * Source URL: <https://huggingface.co/blog/trufflesecurity-partnership>
+
+* **[Hugging Face partners with Wiz Research to Improve AI Security](ai/models/hugging-face-partners-with-wiz-research-to-improve.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face partners with Wiz Research to Improve AI Security
+  * Source URL: <https://huggingface.co/blog/hugging-face-wiz-security-blog>
+
+* **[Hugging Face Reads, Feb. 2021 - Long-range Transformers](ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Reads, Feb. 2021 - Long-range Transformers
+  * Source URL: <https://huggingface.co/blog/long-range-transformers>
+
+* **[Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](ai/models/huggingface-blog-cnil.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Selected for the French Data Protection Agency Enhanced Support Program
+  * Source URL: <https://huggingface.co/blog/cnil>
+
+* **[Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](ai/models/huggingface-blog-protectai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community
+  * Source URL: <https://huggingface.co/blog/protectai>
+
+* **[Hugging Face Text Generation Inference available for AWS Inferentia2](ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face Text Generation Inference available for AWS Inferentia2
+  * Source URL: <https://huggingface.co/blog/text-generation-inference-on-inferentia2>
+
+* **[Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖](ai/models/hugging-face-to-sell-open-source-robots-thanks-to.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face to sell open-source robots thanks to Pollen Robotics acquisition 🤖
+  * Source URL: <https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition>
+
+* **[Hugging Face x LangChain : A new partner package](ai/models/hugging-face-x-langchain-a-new-partner-package.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face x LangChain : A new partner package
+  * Source URL: <https://huggingface.co/blog/langchain>
+
+* **[Hugging Face's TensorFlow Philosophy](ai/models/huggingface-blog-tensorflow-philosophy.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hugging Face's TensorFlow Philosophy
+  * Source URL: <https://huggingface.co/blog/tensorflow-philosophy>
+
+* **[HuggingFace, IISc partner to supercharge model building on India's diverse languages](ai/models/huggingface-blog-iisc-huggingface-collab.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: HuggingFace, IISc partner to supercharge model building on India's diverse languages
+  * Source URL: <https://huggingface.co/blog/iisc-huggingface-collab>
+
+* **[huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](ai/models/huggingface-blog-huggingface-hub-v1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
+  * Source URL: <https://huggingface.co/blog/huggingface-hub-v1>
+
+* **[Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub](ai/models/huggy-lingo-using-machine-learning-to-improve-lang.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/huggy-lingo>
+
+* **[Hyperparameter Search with Transformers and Ray Tune](ai/models/huggingface-blog-ray-tune.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Hyperparameter Search with Transformers and Ray Tune
+  * Source URL: <https://huggingface.co/blog/ray-tune>
+
+* **[Illustrating Reinforcement Learning from Human Feedback (RLHF)](ai/models/huggingface-blog-rlhf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Illustrating Reinforcement Learning from Human Feedback (RLHF)
+  * Source URL: <https://huggingface.co/blog/rlhf>
+
+* **[Image Classification with AutoTrain](ai/models/image-classification-with-autotrain.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Image Classification with AutoTrain
+  * Source URL: <https://huggingface.co/blog/autotrain-image-classification>
+
+* **[Image search with 🤗 datasets](ai/models/image-search-with-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Image search with 🤗 datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/image-search-datasets>
+
+* **[Image Similarity with Hugging Face Datasets and Transformers](ai/models/huggingface-blog-image-similarity.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Image Similarity with Hugging Face Datasets and Transformers
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/image-similarity>
+
+* **[Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](ai/models/huggingface-blog-gradio-vton-mcp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio
+  * Source URL: <https://huggingface.co/blog/gradio-vton-mcp>
+
+* **[Improving Hugging Face Model Access for Kaggle Users](ai/models/huggingface-blog-kaggle-integration.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Improving Hugging Face Model Access for Kaggle Users
+  * Source URL: <https://huggingface.co/blog/kaggle-integration>
+
+* **[Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](ai/models/improving-hugging-face-training-efficiency-through.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2
+  * Source URL: <https://huggingface.co/blog/packing-with-fa2>
+
+* **[Improving Parquet Dedupe on Hugging Face Hub](ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Improving Parquet Dedupe on Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/improve_parquet_dedupe>
+
+* **[Improving Prompt Consistency with Structured Generations](ai/models/huggingface-blog-evaluation-structured-outputs.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Improving Prompt Consistency with Structured Generations
+  * Source URL: <https://huggingface.co/blog/evaluation-structured-outputs>
+
+* **[Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate](ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate
+  * Source URL: <https://huggingface.co/blog/bloom-inference-pytorch-scripts>
+
+* **[Inference for PROs](ai/models/inference-for-pros.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Inference for PROs
+  * Source URL: <https://huggingface.co/blog/inference-pro>
+
+* **[Instruction-tuning Stable Diffusion with InstructPix2Pix](ai/models/instruction-tuning-stable-diffusion-with-instructp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Instruction-tuning Stable Diffusion with InstructPix2Pix
+  * Source URL: <https://huggingface.co/blog/instruction-tuning-sd>
+
+* **[Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](ai/models/huggingface-blog-intel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
+  * Source URL: <https://huggingface.co/blog/intel>
+
+* **[Interactively explore your Huggingface dataset with one line of code](ai/models/interactively-explore-your-huggingface-dataset-wit.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Interactively explore your Huggingface dataset with one line of code
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/scalable-data-inspection>
+
+* **[Introducing AI Sheets: a tool to work with datasets using open AI models!](ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing AI Sheets: a tool to work with datasets using open AI models!
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/aisheets>
+
+* **[Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](ai/models/huggingface-blog-anylanguagemodel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms
+  * Source URL: <https://huggingface.co/blog/anylanguagemodel>
+
+* **[Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs](ai/models/introducing-autoround-intels-advanced-quantization.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/autoround>
+
+* **[Introducing BERTopic Integration with the Hugging Face Hub](ai/models/introducing-bertopic-integration-with-the-hugging.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing BERTopic Integration with the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/bertopic>
+
+* **[Introducing Community Tools on HuggingChat](ai/models/huggingface-blog-community-tools.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Community Tools on HuggingChat
+  * Source URL: <https://huggingface.co/blog/community-tools>
+
+* **[Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?](ai/models/introducing-contextual-how-well-can-your-multimoda.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?
+  * Source URL: <https://huggingface.co/blog/leaderboard-contextual>
+
+* **[Introducing Daggr: Chain apps programmatically, inspect visually](ai/models/huggingface-blog-daggr.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Daggr: Chain apps programmatically, inspect visually
+  * Source URL: <https://huggingface.co/blog/daggr>
+
+* **[Introducing Decision Transformers on Hugging Face 🤗](ai/models/huggingface-blog-decision-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Decision Transformers on Hugging Face 🤗
+  * Source URL: <https://huggingface.co/blog/decision-transformers>
+
+* **[Introducing DOI: the Digital Object Identifier to Datasets and Models](ai/models/introducing-doi-the-digital-object-identifier-to-d.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing DOI: the Digital Object Identifier to Datasets and Models
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/introducing-doi>
+
+* **[Introducing Gradio's new Dataframe!](ai/models/introducing-gradio-s-new-dataframe.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Gradio's new Dataframe!
+  * Source URL: <https://huggingface.co/blog/gradio-dataframe-upgrade>
+
+* **[Introducing HELMET: Holistically Evaluating Long-context Language Models](ai/models/huggingface-blog-helmet.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing HELMET: Holistically Evaluating Long-context Language Models
+  * Source URL: <https://huggingface.co/blog/helmet>
+
+* **[Introducing Hugging Face for Education 🤗](ai/models/huggingface-blog-education.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Hugging Face for Education 🤗
+  * Source URL: <https://huggingface.co/blog/education>
+
+* **[Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community](ai/models/introducing-huggingface-blog-for-chinese-speakers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community
+  * Source URL: <https://huggingface.co/blog/chinese-language-blog>
+
+* **[Introducing HUGS - Scale your AI with Open Models](ai/models/huggingface-blog-hugs.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing HUGS - Scale your AI with Open Models
+  * Source URL: <https://huggingface.co/blog/hugs>
+
+* **[Introducing Idefics2: A Powerful 8B Vision-Language Model for the community](ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Idefics2: A Powerful 8B Vision-Language Model for the community
+  * Source URL: <https://huggingface.co/blog/idefics2>
+
+* **[Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](ai/models/huggingface-blog-idefics.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model
+  * Source URL: <https://huggingface.co/blog/idefics>
+
+* **[Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](ai/models/introducing-modular-diffusers-composable-building.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines
+  * Source URL: <https://huggingface.co/blog/modular-diffusers>
+
+* **[Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](ai/models/huggingface-blog-tgi-multi-backend.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference
+  * Source URL: <https://huggingface.co/blog/tgi-multi-backend>
+
+* **[Introducing new audio and vision documentation in 🤗 Datasets](ai/models/introducing-new-audio-and-vision-documentation-in.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing new audio and vision documentation in 🤗 Datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/datasets-docs-update>
+
+* **[Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](ai/models/huggingface-blog-npc-gigax-cubzh.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs
+  * Source URL: <https://huggingface.co/blog/npc-gigax-cubzh>
+
+* **[Introducing Optimum: The Optimization Toolkit for Transformers at Scale](ai/models/huggingface-blog-hardware-partners-program.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Optimum: The Optimization Toolkit for Transformers at Scale
+  * Source URL: <https://huggingface.co/blog/hardware-partners-program>
+
+* **[Introducing our new pricing](ai/models/huggingface-blog-pricing-update.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing our new pricing
+  * Source URL: <https://huggingface.co/blog/pricing-update>
+
+* **[Introducing Prodigy-HF: a direct integration with Hugging Face](ai/models/huggingface-blog-prodigy-hf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Prodigy-HF: a direct integration with Hugging Face
+  * Source URL: <https://huggingface.co/blog/prodigy-hf>
+
+* **[Introducing Pull Requests and Discussions 🥳](ai/models/huggingface-blog-community-update.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Pull Requests and Discussions 🥳
+  * Source URL: <https://huggingface.co/blog/community-update>
+
+* **[Introducing RTEB: A New Standard for Retrieval Evaluation](ai/models/huggingface-blog-rteb.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing RTEB: A New Standard for Retrieval Evaluation
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/rteb>
+
+* **[Introducing RWKV - An RNN with the advantages of a transformer](ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing RWKV - An RNN with the advantages of a transformer
+  * Source URL: <https://huggingface.co/blog/rwkv>
+
+* **[Introducing SafeCoder](ai/models/introducing-safecoder.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing SafeCoder
+  * Source URL: <https://huggingface.co/blog/safecoder>
+
+* **[Introducing Skops](ai/models/huggingface-blog-skops.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Skops
+  * Source URL: <https://huggingface.co/blog/skops>
+
+* **[Introducing Spaces Dev Mode for a seamless developer experience](ai/models/huggingface-blog-spaces-dev-mode.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Spaces Dev Mode for a seamless developer experience
+  * Source URL: <https://huggingface.co/blog/spaces-dev-mode>
+
+* **[Introducing swift-huggingface: The Complete Swift Client for Hugging Face](ai/models/huggingface-blog-swift-huggingface.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing swift-huggingface: The Complete Swift Client for Hugging Face
+  * Source URL: <https://huggingface.co/blog/swift-huggingface>
+
+* **[Introducing SynthID Text](ai/models/huggingface-blog-synthid-text.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing SynthID Text
+  * Source URL: <https://huggingface.co/blog/synthid-text>
+
+* **[Introducing TextImage Augmentation for Document Images](ai/models/introducing-textimage-augmentation-for-document-im.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing TextImage Augmentation for Document Images
+  * Source URL: <https://huggingface.co/blog/doc_aug_hf_alb>
+
+* **[Introducing the AMD 5th Gen EPYC™ CPU](ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the AMD 5th Gen EPYC™ CPU
+  * Source URL: <https://huggingface.co/blog/huggingface-amd-turin>
+
+* **[Introducing the Chatbot Guardrails Arena](ai/models/huggingface-blog-arena-lighthouz.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Chatbot Guardrails Arena
+  * Source URL: <https://huggingface.co/blog/arena-lighthouz>
+
+* **[Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](ai/models/huggingface-blog-data-measurements-tool.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/data-measurements-tool>
+
+* **[Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases](ai/models/introducing-the-enterprise-scenarios-leaderboard-a.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-patronus>
+
+* **[Introducing the Ettin Reranker Family](ai/models/huggingface-blog-ettin-reranker.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Ettin Reranker Family
+  * Source URL: <https://huggingface.co/blog/ettin-reranker>
+
+* **[Introducing the Hugging Face Embedding Container for Amazon SageMaker](ai/models/introducing-the-hugging-face-embedding-container-f.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Hugging Face Embedding Container for Amazon SageMaker
+  * Source URL: <https://huggingface.co/blog/sagemaker-huggingface-embedding>
+
+* **[Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](ai/models/huggingface-blog-sagemaker-huggingface-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Hugging Face LLM Inference Container for Amazon SageMaker
+  * Source URL: <https://huggingface.co/blog/sagemaker-huggingface-llm>
+
+* **[Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs](ai/models/introducing-the-livecodebench-leaderboard-holistic.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs
+  * Tags: `benchmark`, `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-livecodebench>
+
+* **[Introducing the Open Arabic LLM Leaderboard](ai/models/huggingface-blog-leaderboard-arabic.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open Arabic LLM Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-arabic>
+
+* **[Introducing the Open Chain of Thought Leaderboard](ai/models/introducing-the-open-chain-of-thought-leaderboard.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open Chain of Thought Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-cot>
+
+* **[Introducing the Open FinLLM Leaderboard](ai/models/introducing-the-open-finllm-leaderboard.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open FinLLM Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-finbench>
+
+* **[Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](ai/models/huggingface-blog-leaderboard-upstage.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem
+  * Tags: `benchmark`, `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-upstage>
+
+* **[Introducing the Open Leaderboard for Hebrew LLMs!](ai/models/huggingface-blog-leaderboard-hebrew.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open Leaderboard for Hebrew LLMs!
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-hebrew>
+
+* **[Introducing the Open Leaderboard for Japanese LLMs!](ai/models/huggingface-blog-leaderboard-japanese.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Open Leaderboard for Japanese LLMs!
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-japanese>
+
+* **[Introducing the Private Hub: A New Way to Build With Machine Learning](ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Private Hub: A New Way to Build With Machine Learning
+  * Source URL: <https://huggingface.co/blog/introducing-private-hub>
+
+* **[Introducing the Red-Teaming Resistance Leaderboard](ai/models/huggingface-blog-leaderboard-haizelab.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Red-Teaming Resistance Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-haizelab>
+
+* **[Introducing the SQL Console on Datasets](ai/models/introducing-the-sql-console-on-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the SQL Console on Datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/sql-console>
+
+* **[Introducing the Synthetic Data Generator - Build Datasets with Natural Language](ai/models/huggingface-blog-synthetic-data-generator.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Synthetic Data Generator - Build Datasets with Natural Language
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/synthetic-data-generator>
+
+* **[Introducing The World's Largest Open Multilingual Language Model: BLOOM](ai/models/introducing-the-world-s-largest-open-multilingual.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing The World's Largest Open Multilingual Language Model: BLOOM
+  * Source URL: <https://huggingface.co/blog/bloom>
+
+* **[Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥](ai/models/introducing-three-new-serverless-inference-provide.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic>
+
+* **[Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face](ai/models/introducing-trackio-a-lightweight-experiment-track.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face
+  * Source URL: <https://huggingface.co/blog/trackio>
+
+* **[Introducing Training Cluster as a Service - a new collaboration with NVIDIA](ai/models/huggingface-blog-nvidia-training-cluster.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Training Cluster as a Service - a new collaboration with NVIDIA
+  * Source URL: <https://huggingface.co/blog/nvidia-training-cluster>
+
+* **[Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](ai/models/huggingface-blog-waypoint-1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Waypoint-1: Real-time interactive video diffusion from Overworld
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/waypoint-1>
+
+* **[Introducing Würstchen: Fast Diffusion for Image Generation](ai/models/huggingface-blog-wuerstchen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Würstchen: Fast Diffusion for Image Generation
+  * Source URL: <https://huggingface.co/blog/wuerstchen>
+
+* **[Introducing 🤗 Accelerate](ai/models/huggingface-blog-accelerate-library.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing 🤗 Accelerate
+  * Source URL: <https://huggingface.co/blog/accelerate-library>
+
+* **[Introduction to 3D Gaussian Splatting](ai/models/introduction-to-3d-gaussian-splatting.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introduction to 3D Gaussian Splatting
+  * Source URL: <https://huggingface.co/blog/gaussian-splatting>
+
+* **[Introduction to ggml](ai/models/introduction-to-ggml.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introduction to ggml
+  * Source URL: <https://huggingface.co/blog/introduction-to-ggml>
+
+* **[Introduction to Graph Machine Learning](ai/models/huggingface-blog-intro-graphml.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introduction to Graph Machine Learning
+  * Source URL: <https://huggingface.co/blog/intro-graphml>
+
+* **[Investing in Performance: Fine-tune small models with LLM insights - a CFM case study](ai/models/investing-in-performance-fine-tune-small-models-wi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Investing in Performance: Fine-tune small models with LLM insights - a CFM case study
+  * Source URL: <https://huggingface.co/blog/cfm-case-study>
+
+* **[Japanese Stable Diffusion](ai/models/huggingface-blog-japanese-stable-diffusion.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Japanese Stable Diffusion
+  * Source URL: <https://huggingface.co/blog/japanese-stable-diffusion>
+
+* **[Journey to 1 Million Gradio Users!](ai/models/huggingface-blog-gradio-1m.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Journey to 1 Million Gradio Users!
+  * Source URL: <https://huggingface.co/blog/gradio-1m>
+
+* **[Judge Arena: Benchmarking LLMs as Evaluators](ai/models/judge-arena-benchmarking-llms-as-evaluators.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Judge Arena: Benchmarking LLMs as Evaluators
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/arena-atla>
+
+* **[Jupyter X Hugging Face](ai/models/huggingface-blog-notebooks-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Jupyter X Hugging Face
+  * Source URL: <https://huggingface.co/blog/notebooks-hub>
+
+* **[Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](ai/models/huggingface-blog-async-rl-training-landscape.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
+  * Source URL: <https://huggingface.co/blog/async-rl-training-landscape>
+
+* **[KV Cache from scratch in nanoVLM](ai/models/huggingface-blog-kv-cache.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: KV Cache from scratch in nanoVLM
+  * Source URL: <https://huggingface.co/blog/kv-cache>
+
+* **[Large Language Models: A New Moore's Law?](ai/models/huggingface-blog-large-language-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Large Language Models: A New Moore's Law?
+  * Source URL: <https://huggingface.co/blog/large-language-models>
+
+* **[Large-scale Near-deduplication Behind BigCode](ai/models/huggingface-blog-dedup.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Large-scale Near-deduplication Behind BigCode
+  * Source URL: <https://huggingface.co/blog/dedup>
+
+* **[Launching the Artificial Analysis Text to Image Leaderboard & Arena](ai/models/launching-the-artificial-analysis-text-to-image-le.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Launching the Artificial Analysis Text to Image Leaderboard & Arena
+  * Tags: `leaderboard`, `producthunt`
+  * Source URL: <https://huggingface.co/blog/leaderboard-artificial-analysis2>
+
+* **[LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
+  * Tags: `benchmark`, `models`
+  * Source URL: <https://huggingface.co/blog/zero-shot-vqa-docmatix>
+
+* **[Learn the Hugging Face Kernel Hub in 5 Minutes](ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Learn the Hugging Face Kernel Hub in 5 Minutes
+  * Source URL: <https://huggingface.co/blog/hello-hf-kernels>
+
+* **[LeMaterial: an open source initiative to accelerate materials discovery and research](ai/models/lematerial-an-open-source-initiative-to-accelerate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LeMaterial: an open source initiative to accelerate materials discovery and research
+  * Source URL: <https://huggingface.co/blog/lematerial>
+
+* **[LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](ai/models/huggingface-blog-lerobot-datasets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/lerobot-datasets>
+
+* **[LeRobot goes to driving school: World’s largest open-source self-driving dataset](ai/models/huggingface-blog-lerobot-goes-to-driving-school.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LeRobot goes to driving school: World’s largest open-source self-driving dataset
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/lerobot-goes-to-driving-school>
+
+* **[LeRobot v0.4.0: Supercharging OSS Robot Learning](ai/models/huggingface-blog-lerobot-release-v040.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LeRobot v0.4.0: Supercharging OSS Robot Learning
+  * Source URL: <https://huggingface.co/blog/lerobot-release-v040>
+
+* **[LeRobot v0.5.0: Scaling Every Dimension](ai/models/lerobot-v0-5-0-scaling-every-dimension.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LeRobot v0.5.0: Scaling Every Dimension
+  * Source URL: <https://huggingface.co/blog/lerobot-release-v050>
+
+* **[Let's talk about biases in machine learning! Ethics and Society Newsletter #2](ai/models/huggingface-blog-ethics-soc-2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Let's talk about biases in machine learning! Ethics and Society Newsletter #2
+  * Source URL: <https://huggingface.co/blog/ethics-soc-2>
+
+* **[Letting Large Models Debate: The First Multilingual LLM Debate Competition](ai/models/huggingface-blog-debate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Letting Large Models Debate: The First Multilingual LLM Debate Competition
+  * Source URL: <https://huggingface.co/blog/debate>
+
+* **[Liberate your OpenClaw](ai/models/huggingface-blog-liberate-your-openclaw.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Liberate your OpenClaw
+  * Source URL: <https://huggingface.co/blog/liberate-your-openclaw>
+
+* **[Liftoff! How to get started with your first ML project 🚀](ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Liftoff! How to get started with your first ML project 🚀
+  * Source URL: <https://huggingface.co/blog/your-first-ml-project>
+
+* **[Llama 2 is here - get it on Hugging Face](ai/models/huggingface-blog-llama2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Llama 2 is here - get it on Hugging Face
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama2>
+
+* **[Llama 2 on Amazon SageMaker a Benchmark](ai/models/huggingface-blog-llama-sagemaker-benchmark.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Llama 2 on Amazon SageMaker a Benchmark
+  * Tags: `benchmark`, `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama-sagemaker-benchmark>
+
+* **[Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](ai/models/huggingface-blog-llama31.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Llama 3.1 - 405B, 70B & 8B with multilinguality and long context
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama31>
+
+* **[Llama can now see and run on your device - welcome Llama 3.2](ai/models/llama-can-now-see-and-run-on-your-device-welcome-l.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Llama can now see and run on your device - welcome Llama 3.2
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama32>
+
+* **[LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](ai/models/huggingface-blog-llm-inference-on-edge.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!
+  * Tags: `frontend_ui`
+  * Source URL: <https://huggingface.co/blog/llm-inference-on-edge>
+
+* **[LoRA training scripts of the world, unite!](ai/models/lora-training-scripts-of-the-world-unite.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: LoRA training scripts of the world, unite!
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/sdxl_lora_advanced_script>
+
+* **[Machine Learning Experts - Lewis Tunstall](ai/models/huggingface-blog-lewis-tunstall-interview.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Machine Learning Experts - Lewis Tunstall
+  * Source URL: <https://huggingface.co/blog/lewis-tunstall-interview>
+
+* **[Machine Learning Experts - Margaret Mitchell](ai/models/huggingface-blog-meg-mitchell-interview.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Machine Learning Experts - Margaret Mitchell
+  * Source URL: <https://huggingface.co/blog/meg-mitchell-interview>
+
+* **[Machine Learning Experts - Sasha Luccioni](ai/models/machine-learning-experts-sasha-luccioni.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Machine Learning Experts - Sasha Luccioni
+  * Source URL: <https://huggingface.co/blog/sasha-luccioni-interview>
+
+* **[Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL](ai/models/make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/unsloth-trl>
+
+* **[Make your llama generation time fly with AWS Inferentia2](ai/models/huggingface-blog-inferentia-llama2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Make your llama generation time fly with AWS Inferentia2
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/inferentia-llama2>
+
+* **[Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](ai/models/huggingface-blog-zerogpu-aoti.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Make your ZeroGPU Spaces go brrr with ahead-of-time compilation
+  * Source URL: <https://huggingface.co/blog/zerogpu-aoti>
+
+* **[Making a web app generator with open ML models](ai/models/huggingface-blog-text-to-webapp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making a web app generator with open ML models
+  * Source URL: <https://huggingface.co/blog/text-to-webapp>
+
+* **[Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](ai/models/huggingface-blog-asr-chunking.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/asr-chunking>
+
+* **[Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/4bit-transformers-bitsandbytes>
+
+* **[Making LLMs lighter with AutoGPTQ and transformers](ai/models/making-llms-lighter-with-autogptq-and-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making LLMs lighter with AutoGPTQ and transformers
+  * Source URL: <https://huggingface.co/blog/gptq-integration>
+
+* **[Making ML-powered web games with Transformers.js](ai/models/huggingface-blog-ml-web-games.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making ML-powered web games with Transformers.js
+  * Source URL: <https://huggingface.co/blog/ml-web-games>
+
+* **[Making sense of this mess](ai/models/making-sense-of-this-mess.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making sense of this mess
+  * Source URL: <https://huggingface.co/blog/transformers-docs-redesign>
+
+* **[Making thousands of open LLMs bloom in the Vertex AI Model Garden](ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Making thousands of open LLMs bloom in the Vertex AI Model Garden
+  * Source URL: <https://huggingface.co/blog/google-cloud-model-garden>
+
+* **[MCP for Research: How to Connect AI to Research Tools](ai/models/mcp-for-research-how-to-connect-ai-to-research-too.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: MCP for Research: How to Connect AI to Research Tools
+  * Source URL: <https://huggingface.co/blog/mcp-for-research>
+
+* **[Memory-efficient Diffusion Transformers with Quanto and Diffusers](ai/models/huggingface-blog-quanto-diffusers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Memory-efficient Diffusion Transformers with Quanto and Diffusers
+  * Source URL: <https://huggingface.co/blog/quanto-diffusers>
+
+* **[Microsoft and Hugging Face expand collaboration](ai/models/microsoft-and-hugging-face-expand-collaboration.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Microsoft and Hugging Face expand collaboration
+  * Source URL: <https://huggingface.co/blog/azure-ai-foundry>
+
+* **[Migrating the Hub from Git LFS to Xet](ai/models/huggingface-blog-migrating-the-hub-to-xet.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Migrating the Hub from Git LFS to Xet
+  * Source URL: <https://huggingface.co/blog/migrating-the-hub-to-xet>
+
+* **[Migrating Your GitHub CI to Hugging Face Jobs](ai/models/huggingface-blog-github-ci-hf-jobs.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Migrating Your GitHub CI to Hugging Face Jobs
+  * Source URL: <https://huggingface.co/blog/github-ci-hf-jobs>
+
+* **[Mixture of Experts (MoEs) in Transformers](ai/models/huggingface-blog-moe-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Mixture of Experts (MoEs) in Transformers
+  * Source URL: <https://huggingface.co/blog/moe-transformers>
+
+* **[Mixture of Experts Explained](ai/models/mixture-of-experts-explained.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Mixture of Experts Explained
+  * Source URL: <https://huggingface.co/blog/moe>
+
+* **[mmBERT: ModernBERT goes Multilingual](ai/models/huggingface-blog-mmbert.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: mmBERT: ModernBERT goes Multilingual
+  * Source URL: <https://huggingface.co/blog/mmbert>
+
+* **[Model Cards](ai/models/huggingface-blog-model-cards.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Model Cards
+  * Source URL: <https://huggingface.co/blog/model-cards>
+
+* **[MTEB: Massive Text Embedding Benchmark](ai/models/huggingface-blog-mteb.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: MTEB: Massive Text Embedding Benchmark
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/mteb>
+
+* **[Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/huggingface-blog-multimodal-sentence-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Multimodal Embedding & Reranker Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/multimodal-sentence-transformers>
+
+* **[Multivariate Probabilistic Time Series Forecasting with Informer](ai/models/huggingface-blog-informer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Multivariate Probabilistic Time Series Forecasting with Informer
+  * Source URL: <https://huggingface.co/blog/informer>
+
+* **[My Journey to a serverless transformers pipeline on Google Cloud](ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: My Journey to a serverless transformers pipeline on Google Cloud
+  * Source URL: <https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds>
+
+* **[nanoVLM: The simplest repository to train your VLM in pure PyTorch](ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: nanoVLM: The simplest repository to train your VLM in pure PyTorch
+  * Source URL: <https://huggingface.co/blog/nanovlm>
+
+* **[New ViT and ALIGN Models From Kakao Brain](ai/models/huggingface-blog-vit-align.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: New ViT and ALIGN Models From Kakao Brain
+  * Source URL: <https://huggingface.co/blog/vit-align>
+
+* **[No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](ai/models/huggingface-blog-vllm-colocate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL
+  * Source URL: <https://huggingface.co/blog/vllm-colocate>
+
+* **[Non-engineers guide: Train a LLaMA 2 chatbot](ai/models/huggingface-blog-llama2-for-non-engineers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Non-engineers guide: Train a LLaMA 2 chatbot
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama2-for-non-engineers>
+
+* **[NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](ai/models/huggingface-blog-leaderboard-nphardeval.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-nphardeval>
+
+* **[NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](ai/models/huggingface-blog-nvidia-physical-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
+
+* **[Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](ai/models/huggingface-blog-nystromformer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method
+  * Source URL: <https://huggingface.co/blog/nystromformer>
+
+* **[Object Detection Leaderboard](ai/models/huggingface-blog-object-detection-leaderboard.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Object Detection Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/object-detection-leaderboard>
+
+* **[One-Shot Any Web App with Gradio's gr.HTML](ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: One-Shot Any Web App with Gradio's gr.HTML
+  * Source URL: <https://huggingface.co/blog/gradio-html-one-shot-apps>
+
+* **[Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](ai/models/huggingface-blog-open-asr-leaderboard.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/open-asr-leaderboard>
+
+* **[Open LLM Leaderboard: DROP deep dive](ai/models/open-llm-leaderboard-drop-deep-dive.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open LLM Leaderboard: DROP deep dive
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/open-llm-leaderboard-drop>
+
+* **[Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](ai/models/huggingface-blog-image-preferences.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open Preference Dataset for Text-to-Image Generation by the 🤗 Community
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/image-preferences>
+
+* **[Open R1: How to use OlympicCoder locally for coding](ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open R1: How to use OlympicCoder locally for coding
+  * Source URL: <https://huggingface.co/blog/olympic-coder-lmstudio>
+
+* **[Open Responses: What you need to know](ai/models/huggingface-blog-open-responses.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open Responses: What you need to know
+  * Source URL: <https://huggingface.co/blog/open-responses>
+
+* **[Open Source Developers Guide to the EU AI Act](ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open Source Developers Guide to the EU AI Act
+  * Source URL: <https://huggingface.co/blog/eu-ai-act-for-oss-developers>
+
+* **[Open-Source Text Generation & LLM Ecosystem at Hugging Face](ai/models/huggingface-blog-os-llms.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open-Source Text Generation & LLM Ecosystem at Hugging Face
+  * Source URL: <https://huggingface.co/blog/os-llms>
+
+* **[Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny](ai/models/open-sourcing-knowledge-distillation-code-and-weig.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/sd_distillation>
+
+* **[OpenRAIL: Towards open and responsible AI licensing frameworks](ai/models/openrail-towards-open-and-responsible-ai-licensing.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: OpenRAIL: Towards open and responsible AI licensing frameworks
+  * Source URL: <https://huggingface.co/blog/open_rail>
+
+* **[Opinion Classification with Kili and HuggingFace AutoTrain](ai/models/huggingface-blog-opinion-classification-with-kili.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Opinion Classification with Kili and HuggingFace AutoTrain
+  * Source URL: <https://huggingface.co/blog/opinion-classification-with-kili>
+
+* **[Optimization story: Bloom inference](ai/models/huggingface-blog-bloom-inference-optimization.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimization story: Bloom inference
+  * Source URL: <https://huggingface.co/blog/bloom-inference-optimization>
+
+* **[Optimize and deploy with Optimum-Intel and OpenVINO GenAI](ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimize and deploy with Optimum-Intel and OpenVINO GenAI
+  * Source URL: <https://huggingface.co/blog/deploy-with-openvino>
+
+* **[Optimizing Bark using 🤗 Transformers](ai/models/optimizing-bark-using-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimizing Bark using 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/optimizing-bark>
+
+* **[Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](ai/models/huggingface-blog-train-optimize-sd-intel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum
+  * Source URL: <https://huggingface.co/blog/train-optimize-sd-intel>
+
+* **[Optimizing your LLM in production](ai/models/huggingface-blog-optimize-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimizing your LLM in production
+  * Source URL: <https://huggingface.co/blog/optimize-llm>
+
+* **[Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](ai/models/huggingface-blog-optimum-onnxruntime-training.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models
+  * Source URL: <https://huggingface.co/blog/optimum-onnxruntime-training>
+
+* **[Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](ai/models/huggingface-blog-optimum-nvidia.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code
+  * Source URL: <https://huggingface.co/blog/optimum-nvidia>
+
+* **[Overview of natively supported quantization schemes in 🤗 Transformers](ai/models/overview-of-natively-supported-quantization-scheme.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Overview of natively supported quantization schemes in 🤗 Transformers
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/overview-quantization-transformers>
+
+* **[PaliGemma 2 Mix - New Instruction Vision Language Models by Google](ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: PaliGemma 2 Mix - New Instruction Vision Language Models by Google
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/paligemma2mix>
+
+* **[PaliGemma – Google's Cutting-Edge Open Vision Language Model](ai/models/huggingface-blog-paligemma.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: PaliGemma – Google's Cutting-Edge Open Vision Language Model
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/paligemma>
+
+* **[Panel on Hugging Face](ai/models/huggingface-blog-panel-on-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Panel on Hugging Face
+  * Source URL: <https://huggingface.co/blog/panel-on-hugging-face>
+
+* **[Parameter-Efficient Fine-Tuning using 🤗 PEFT](ai/models/parameter-efficient-fine-tuning-using-peft.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Parameter-Efficient Fine-Tuning using 🤗 PEFT
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/peft>
+
+* **[Patch Time Series Transformer in Hugging Face](ai/models/huggingface-blog-patchtst.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Patch Time Series Transformer in Hugging Face
+  * Source URL: <https://huggingface.co/blog/patchtst>
+
+* **[PatchTSMixer in HuggingFace](ai/models/patchtsmixer-in-huggingface.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: PatchTSMixer in HuggingFace
+  * Source URL: <https://huggingface.co/blog/patchtsmixer>
+
+* **[Perceiver IO: a scalable, fully-attentional model that works on any modality](ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Perceiver IO: a scalable, fully-attentional model that works on any modality
+  * Source URL: <https://huggingface.co/blog/perceiver>
+
+* **[Personal Copilot: Train Your Own Coding Assistant](ai/models/personal-copilot-train-your-own-coding-assistant.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Personal Copilot: Train Your Own Coding Assistant
+  * Source URL: <https://huggingface.co/blog/personal-copilot>
+
+* **[Policy Gradient with PyTorch](ai/models/policy-gradient-with-pytorch.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Policy Gradient with PyTorch
+  * Source URL: <https://huggingface.co/blog/deep-rl-pg>
+
+* **[Pollen-Vision: Unified interface for Zero-Shot vision models in robotics](ai/models/pollen-vision-unified-interface-for-zero-shot-visi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Pollen-Vision: Unified interface for Zero-Shot vision models in robotics
+  * Source URL: <https://huggingface.co/blog/pollen-vision>
+
+* **[Porting fairseq wmt19 translation system to transformers](ai/models/huggingface-blog-porting-fsmt.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Porting fairseq wmt19 translation system to transformers
+  * Source URL: <https://huggingface.co/blog/porting-fsmt>
+
+* **[Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints](ai/models/powerful-asr-diarization-speculative-decoding-with.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/asr-diarization>
+
+* **[Practical 3D Asset Generation: A Step-by-Step Guide](ai/models/huggingface-blog-3d-assets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Practical 3D Asset Generation: A Step-by-Step Guide
+  * Source URL: <https://huggingface.co/blog/3d-assets>
+
+* **[Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](ai/models/huggingface-blog-pretraining-bert.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Pre-Train BERT with Hugging Face Transformers and Habana Gaudi
+  * Source URL: <https://huggingface.co/blog/pretraining-bert>
+
+* **[Preference Optimization for Vision Language Models](ai/models/huggingface-blog-dpo-vlm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Preference Optimization for Vision Language Models
+  * Source URL: <https://huggingface.co/blog/dpo_vlm>
+
+* **[Preference Tuning LLMs with Direct Preference Optimization Methods](ai/models/huggingface-blog-pref-tuning.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Preference Tuning LLMs with Direct Preference Optimization Methods
+  * Source URL: <https://huggingface.co/blog/pref-tuning>
+
+* **[Probabilistic Time Series Forecasting with 🤗 Transformers](ai/models/huggingface-blog-time-series-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Probabilistic Time Series Forecasting with 🤗 Transformers
+  * Source URL: <https://huggingface.co/blog/time-series-transformers>
+
+* **[Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](ai/models/huggingface-blog-torch-profiler.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler
+  * Source URL: <https://huggingface.co/blog/torch-profiler>
+
+* **[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](ai/models/huggingface-blog-torch-mlp-fusion.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
+  * Source URL: <https://huggingface.co/blog/torch-mlp-fusion>
+
+* **[Proximal Policy Optimization (PPO)](ai/models/huggingface-blog-deep-rl-ppo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Proximal Policy Optimization (PPO)
+  * Source URL: <https://huggingface.co/blog/deep-rl-ppo>
+
+* **[Public AI on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-publicai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Public AI on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-publicai>
+
+* **[Public Policy at Hugging Face](ai/models/public-policy-at-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Public Policy at Hugging Face
+  * Source URL: <https://huggingface.co/blog/policy-blog>
+
+* **[Putting ethical principles at the core of the research lifecycle](ai/models/putting-ethical-principles-at-the-core-of-the-rese.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Putting ethical principles at the core of the research lifecycle
+  * Source URL: <https://huggingface.co/blog/ethical-charter-multimodal>
+
+* **[Putting RL back in RLHF](ai/models/putting-rl-back-in-rlhf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Putting RL back in RLHF
+  * Source URL: <https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo>
+
+* **[Quanto: a PyTorch quantization backend for Optimum](ai/models/huggingface-blog-quanto-introduction.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Quanto: a PyTorch quantization backend for Optimum
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/quanto-introduction>
+
+* **[Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](ai/models/huggingface-blog-reachy-mini.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders
+  * Source URL: <https://huggingface.co/blog/reachy-mini>
+
+* **[Reachy Mini goes fully local](ai/models/reachy-mini-goes-fully-local.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Reachy Mini goes fully local
+  * Source URL: <https://huggingface.co/blog/local-reachy-mini-conversation>
+
+* **[Rearchitecting Hugging Face Uploads and Downloads](ai/models/rearchitecting-hugging-face-uploads-and-downloads.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Rearchitecting Hugging Face Uploads and Downloads
+  * Source URL: <https://huggingface.co/blog/rearchitecting-uploads-and-downloads>
+
+* **[Red-Teaming Large Language Models](ai/models/huggingface-blog-red-teaming.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Red-Teaming Large Language Models
+  * Source URL: <https://huggingface.co/blog/red-teaming>
+
+* **[Releasing Outlines-core 0.1.0: structured generation in Rust and Python](ai/models/huggingface-blog-outlines-core.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Releasing Outlines-core 0.1.0: structured generation in Rust and Python
+  * Source URL: <https://huggingface.co/blog/outlines-core>
+
+* **[Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](ai/models/huggingface-blog-swift-coreml-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Releasing Swift Transformers: Run On-Device LLMs in Apple Devices
+  * Source URL: <https://huggingface.co/blog/swift-coreml-llm>
+
+* **[Remote VAEs for decoding with Inference Endpoints 🤗](ai/models/huggingface-blog-remote-vae.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Remote VAEs for decoding with Inference Endpoints 🤗
+  * Source URL: <https://huggingface.co/blog/remote_vae>
+
+* **[Results of the Open Source AI Game Jam](ai/models/results-of-the-open-source-ai-game-jam.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Results of the Open Source AI Game Jam
+  * Source URL: <https://huggingface.co/blog/game-jam-first-edition-results>
+
+* **[Retrieval Augmented Generation with Huggingface Transformers and Ray](ai/models/retrieval-augmented-generation-with-huggingface-tr.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Retrieval Augmented Generation with Huggingface Transformers and Ray
+  * Source URL: <https://huggingface.co/blog/ray-rag>
+
+* **[Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](ai/models/huggingface-blog-rocketmoney-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​
+  * Source URL: <https://huggingface.co/blog/rocketmoney-case-study>
+
+* **[Run a Chatgpt-like Chatbot on a Single GPU with ROCm](ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Run a Chatgpt-like Chatbot on a Single GPU with ROCm
+  * Tags: `openai`
+  * Source URL: <https://huggingface.co/blog/chatbot-amd-gpu>
+
+* **[Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
+  * Tags: `workflows`
+  * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
+
+* **[Running IF with 🧨 diffusers on a Free Tier Google Colab](ai/models/huggingface-blog-if.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Running IF with 🧨 diffusers on a Free Tier Google Colab
+  * Source URL: <https://huggingface.co/blog/if>
+
+* **[Running Privacy-Preserving Inferences on Hugging Face Endpoints](ai/models/huggingface-blog-fhe-endpoints.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Running Privacy-Preserving Inferences on Hugging Face Endpoints
+  * Source URL: <https://huggingface.co/blog/fhe-endpoints>
+
+* **[Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
+  * Source URL: <https://huggingface.co/blog/ryght-case-study>
+
+* **[SafeCoder vs. Closed-source Code Assistants](ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SafeCoder vs. Closed-source Code Assistants
+  * Source URL: <https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants>
+
+* **[Safetensors is Joining the PyTorch Foundation](ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Safetensors is Joining the PyTorch Foundation
+  * Source URL: <https://huggingface.co/blog/safetensors-joins-pytorch-foundation>
+
+* **[Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](ai/models/huggingface-blog-hf-cli.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨
+  * Source URL: <https://huggingface.co/blog/hf-cli>
+
+* **[Scaleway on Hugging Face Inference Providers 🔥](ai/models/scaleway-on-hugging-face-inference-providers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Scaleway on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers-scaleway>
+
+* **[Scaling AI-based Data Processing with Hugging Face + Dask](ai/models/huggingface-blog-dask-scaling.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Scaling AI-based Data Processing with Hugging Face + Dask
+  * Source URL: <https://huggingface.co/blog/dask-scaling>
+
+* **[Scaling robotics datasets with video encoding](ai/models/scaling-robotics-datasets-with-video-encoding.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Scaling robotics datasets with video encoding
+  * Tags: `dataset`, `youtube`
+  * Source URL: <https://huggingface.co/blog/video-encoding>
+
+* **[Scaling up BERT-like model Inference on modern CPU - Part 2](ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Scaling up BERT-like model Inference on modern CPU - Part 2
+  * Source URL: <https://huggingface.co/blog/bert-cpu-scaling-part-2>
+
+* **[Scaling-up BERT Inference on CPU (Part 1)](ai/models/scaling-up-bert-inference-on-cpu-part-1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Scaling-up BERT Inference on CPU (Part 1)
+  * Source URL: <https://huggingface.co/blog/bert-cpu-scaling-part-1>
+
+* **[SDXL in 4 steps with Latent Consistency LoRAs](ai/models/sdxl-in-4-steps-with-latent-consistency-loras.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SDXL in 4 steps with Latent Consistency LoRAs
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/lcm_lora>
+
+* **[SegMoE: Segmind Mixture of Diffusion Experts](ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SegMoE: Segmind Mixture of Diffusion Experts
+  * Source URL: <https://huggingface.co/blog/segmoe>
+
+* **[Sentence Transformers in the Hugging Face Hub](ai/models/huggingface-blog-sentence-transformers-in-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Sentence Transformers in the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/sentence-transformers-in-the-hub>
+
+* **[Sentence Transformers is joining Hugging Face!](ai/models/huggingface-blog-sentence-transformers-joins-hf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Sentence Transformers is joining Hugging Face!
+  * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
+
+* **[Sentiment Analysis on Encrypted Data with Homomorphic Encryption](ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Sentiment Analysis on Encrypted Data with Homomorphic Encryption
+  * Source URL: <https://huggingface.co/blog/sentiment-analysis-fhe>
+
+* **[Serverless Inference with Hugging Face and NVIDIA NIM](ai/models/huggingface-blog-inference-dgx-cloud.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Serverless Inference with Hugging Face and NVIDIA NIM
+  * Source URL: <https://huggingface.co/blog/inference-dgx-cloud>
+
+* **[SetFit: Efficient Few-Shot Learning Without Prompts](ai/models/setfit-efficient-few-shot-learning-without-prompts.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SetFit: Efficient Few-Shot Learning Without Prompts
+  * Source URL: <https://huggingface.co/blog/setfit>
+
+* **[SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](ai/models/huggingface-blog-setfit-absa.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit
+  * Source URL: <https://huggingface.co/blog/setfit-absa>
+
+* **[Share your open ML datasets on Hugging Face Hub!](ai/models/huggingface-blog-researcher-dataset-sharing.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Share your open ML datasets on Hugging Face Hub!
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/researcher-dataset-sharing>
+
+* **[Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](ai/models/huggingface-blog-delta-weight-sync.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
+  * Source URL: <https://huggingface.co/blog/delta-weight-sync>
+
+* **[Showcase Your Projects in Spaces using Gradio](ai/models/showcase-your-projects-in-spaces-using-gradio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Showcase Your Projects in Spaces using Gradio
+  * Source URL: <https://huggingface.co/blog/gradio-spaces>
+
+* **[SigLIP 2: A better multilingual vision language encoder](ai/models/huggingface-blog-siglip2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SigLIP 2: A better multilingual vision language encoder
+  * Source URL: <https://huggingface.co/blog/siglip2>
+
+* **[Simple considerations for simple people building fancy neural networks](ai/models/huggingface-blog-simple-considerations.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Simple considerations for simple people building fancy neural networks
+  * Source URL: <https://huggingface.co/blog/simple-considerations>
+
+* **[Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon](ai/models/smaller-is-better-q8-chat-an-efficient-generative.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon
+  * Source URL: <https://huggingface.co/blog/generative-ai-models-on-intel-cpu>
+
+* **[SmolLM - blazingly fast and remarkably powerful](ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolLM - blazingly fast and remarkably powerful
+  * Source URL: <https://huggingface.co/blog/smollm>
+
+* **[SmolLM3: smol, multilingual, long-context reasoner](ai/models/huggingface-blog-smollm3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolLM3: smol, multilingual, long-context reasoner
+  * Source URL: <https://huggingface.co/blog/smollm3>
+
+* **[SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](ai/models/huggingface-blog-smolvla.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data
+  * Source URL: <https://huggingface.co/blog/smolvla>
+
+* **[SmolVLM - small yet mighty Vision Language Model](ai/models/huggingface-blog-smolvlm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolVLM - small yet mighty Vision Language Model
+  * Source URL: <https://huggingface.co/blog/smolvlm>
+
+* **[SmolVLM Grows Smaller – Introducing the 256M & 500M Models!](ai/models/smolvlm-grows-smaller-introducing-the-256m-500m-mo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolVLM Grows Smaller – Introducing the 256M & 500M Models!
+  * Source URL: <https://huggingface.co/blog/smolervlm>
+
+* **[SmolVLM2: Bringing Video Understanding to Every Device](ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SmolVLM2: Bringing Video Understanding to Every Device
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/smolvlm2>
+
+* **[Snorkel AI x Hugging Face: unlock foundation models for enterprises](ai/models/huggingface-blog-snorkel-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Snorkel AI x Hugging Face: unlock foundation models for enterprises
+  * Source URL: <https://huggingface.co/blog/snorkel-case-study>
+
+* **[SOTA OCR with Core ML and dots.ocr](ai/models/huggingface-blog-dots-ocr-ne.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: SOTA OCR with Core ML and dots.ocr
+  * Source URL: <https://huggingface.co/blog/dots-ocr-ne>
+
+* **[Space secrets security update](ai/models/space-secrets-security-update.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Space secrets security update
+  * Source URL: <https://huggingface.co/blog/space-secrets-disclosure>
+
+* **[Speculative Decoding for 2x Faster Whisper Inference](ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Speculative Decoding for 2x Faster Whisper Inference
+  * Source URL: <https://huggingface.co/blog/whisper-speculative-decoding>
+
+* **[Speech Synthesis, Recognition, and More With SpeechT5](ai/models/huggingface-blog-speecht5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Speech Synthesis, Recognition, and More With SpeechT5
+  * Source URL: <https://huggingface.co/blog/speecht5>
+
+* **[Spread Your Wings: Falcon 180B is here](ai/models/spread-your-wings-falcon-180b-is-here.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Spread Your Wings: Falcon 180B is here
+  * Source URL: <https://huggingface.co/blog/falcon-180b>
+
+* **[Stable Diffusion with 🧨 Diffusers](ai/models/stable-diffusion-with-diffusers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Stable Diffusion with 🧨 Diffusers
+  * Source URL: <https://huggingface.co/blog/stable_diffusion>
+
+* **[Stable Diffusion XL on Mac with Advanced Core ML Quantization](ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Stable Diffusion XL on Mac with Advanced Core ML Quantization
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/stable-diffusion-xl-coreml>
+
+* **[StackLLaMA: A hands-on guide to train LLaMA with RLHF](ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: StackLLaMA: A hands-on guide to train LLaMA with RLHF
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/stackllama>
+
+* **[StarCoder2 and The Stack v2](ai/models/starcoder2-and-the-stack-v2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: StarCoder2 and The Stack v2
+  * Source URL: <https://huggingface.co/blog/starcoder2>
+
+* **[StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](ai/models/huggingface-blog-sc2-instruct.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation
+  * Source URL: <https://huggingface.co/blog/sc2-instruct>
+
+* **[StarCoder: A State-of-the-Art LLM for Code](ai/models/starcoder-a-state-of-the-art-llm-for-code.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: StarCoder: A State-of-the-Art LLM for Code
+  * Source URL: <https://huggingface.co/blog/starcoder>
+
+* **[State of open video generation models in Diffusers](ai/models/huggingface-blog-video-gen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: State of open video generation models in Diffusers
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/video_gen>
+
+* **[Streaming datasets: 100x More Efficient](ai/models/streaming-datasets-100x-more-efficient.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Streaming datasets: 100x More Efficient
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/streaming-datasets>
+
+* **[Student Ambassador Program’s call for applications is open!](ai/models/huggingface-blog-ambassadors.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Student Ambassador Program’s call for applications is open!
+  * Source URL: <https://huggingface.co/blog/ambassadors>
+
+* **[Subscribe to Enterprise Hub with your AWS Account](ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Subscribe to Enterprise Hub with your AWS Account
+  * Source URL: <https://huggingface.co/blog/enterprise-hub-aws-marketplace>
+
+* **[Summer at Hugging Face](ai/models/huggingface-blog-summer-at-huggingface.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Summer at Hugging Face
+  * Source URL: <https://huggingface.co/blog/summer-at-huggingface>
+
+* **[Supercharge your OCR Pipelines with Open Models](ai/models/supercharge-your-ocr-pipelines-with-open-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Supercharge your OCR Pipelines with Open Models
+  * Source URL: <https://huggingface.co/blog/ocr-open-models>
+
+* **[Supercharged Customer Service with Machine Learning](ai/models/supercharged-customer-service-with-machine-learnin.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Supercharged Customer Service with Machine Learning
+  * Source URL: <https://huggingface.co/blog/supercharge-customer-service-with-machine-learning>
+
+* **[Supercharged Searching on the 🤗 Hub](ai/models/supercharged-searching-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Supercharged Searching on the 🤗 Hub
+  * Source URL: <https://huggingface.co/blog/searching-the-hub>
+
+* **[Swift Transformers Reaches 1.0 – and Looks to the Future](ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Swift Transformers Reaches 1.0 – and Looks to the Future
+  * Source URL: <https://huggingface.co/blog/swift-transformers>
+
+* **[Swift 🧨Diffusers - Fast Stable Diffusion for Mac](ai/models/swift-diffusers-fast-stable-diffusion-for-mac.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Swift 🧨Diffusers - Fast Stable Diffusion for Mac
+  * Source URL: <https://huggingface.co/blog/fast-mac-diffusers>
+
+* **[Synthetic data: save money, time and carbon with open source](ai/models/huggingface-blog-synthetic-data-save-costs.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Synthetic data: save money, time and carbon with open source
+  * Source URL: <https://huggingface.co/blog/synthetic-data-save-costs>
+
+* **[Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](ai/models/huggingface-blog-textgen-pipe-gaudi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator
+  * Source URL: <https://huggingface.co/blog/textgen-pipe-gaudi>
+
+* **[Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B](ai/models/text2sql-using-hugging-face-dataset-viewer-api-and.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/duckdb-nsql-7b>
+
+* **[TextQuests: How Good are LLMs at Text-Based Video Games?](ai/models/textquests-how-good-are-llms-at-text-based-video-g.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: TextQuests: How Good are LLMs at Text-Based Video Games?
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/textquests>
+
+* **[TGI Multi-LoRA: Deploy Once, Serve 30 Models](ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: TGI Multi-LoRA: Deploy Once, Serve 30 Models
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/multi-lora-serving>
+
+* **[The 4 Things Qwen-3’s Chat Template Teaches Us](ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The 4 Things Qwen-3’s Chat Template Teaches Us
+  * Source URL: <https://huggingface.co/blog/qwen-3-chat-template-deep-dive>
+
+* **[The 5 Most Under-Rated Tools on Hugging Face](ai/models/huggingface-blog-unsung-heroes.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The 5 Most Under-Rated Tools on Hugging Face
+  * Source URL: <https://huggingface.co/blog/unsung-heroes>
+
+* **[The Age of Machine Learning As Code Has Arrived](ai/models/huggingface-blog-the-age-of-ml-as-code.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Age of Machine Learning As Code Has Arrived
+  * Source URL: <https://huggingface.co/blog/the-age-of-ml-as-code>
+
+* **[The AI tools for Art Newsletter - Issue 1](ai/models/huggingface-blog-ai-art-newsletter-jan-25.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The AI tools for Art Newsletter - Issue 1
+  * Source URL: <https://huggingface.co/blog/ai-art-newsletter-jan-25>
+
+* **[The Annotated Diffusion Model](ai/models/huggingface-blog-annotated-diffusion.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Annotated Diffusion Model
+  * Source URL: <https://huggingface.co/blog/annotated-diffusion>
+
+* **[The Falcon has landed in the Hugging Face ecosystem](ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Falcon has landed in the Hugging Face ecosystem
+  * Source URL: <https://huggingface.co/blog/falcon>
+
+* **[The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models](ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-hallucinations>
+
+* **[The Hugging Face Hub for Galleries, Libraries, Archives and Museums](ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Hugging Face Hub for Galleries, Libraries, Archives and Museums
+  * Source URL: <https://huggingface.co/blog/hf-hub-glam-guide>
+
+* **[The N Implementation Details of RLHF with PPO](ai/models/the-n-implementation-details-of-rlhf-with-ppo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The N Implementation Details of RLHF with PPO
+  * Source URL: <https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo>
+
+* **[The New and Fresh analytics in Inference Endpoints](ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The New and Fresh analytics in Inference Endpoints
+  * Source URL: <https://huggingface.co/blog/endpoint-analytics>
+
+* **[The NLP Course is becoming the LLM Course](ai/models/huggingface-blog-llm-course.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The NLP Course is becoming the LLM Course
+  * Source URL: <https://huggingface.co/blog/llm-course>
+
+* **[The Open Arabic LLM Leaderboard 2](ai/models/huggingface-blog-leaderboard-arabic-v2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Open Arabic LLM Leaderboard 2
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-arabic-v2>
+
+* **[The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare
+  * Tags: `benchmark`, `leaderboard`
+  * Source URL: <https://huggingface.co/blog/leaderboard-medicalllm>
+
+* **[The Partnership: Amazon SageMaker and Hugging Face](ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Partnership: Amazon SageMaker and Hugging Face
+  * Source URL: <https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face>
+
+* **[The PR you would have opened yourself](ai/models/huggingface-blog-transformers-to-mlx.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The PR you would have opened yourself
+  * Source URL: <https://huggingface.co/blog/transformers-to-mlx>
+
+* **[The Reformer - Pushing the limits of language modeling](ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Reformer - Pushing the limits of language modeling
+  * Source URL: <https://huggingface.co/blog/reformer>
+
+* **[The State of Computer Vision at Hugging Face 🤗](ai/models/the-state-of-computer-vision-at-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The State of Computer Vision at Hugging Face 🤗
+  * Source URL: <https://huggingface.co/blog/cv_state>
+
+* **[The Technology Behind BLOOM Training](ai/models/huggingface-blog-bloom-megatron-deepspeed.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Technology Behind BLOOM Training
+  * Tags: `hackernews`
+  * Source URL: <https://huggingface.co/blog/bloom-megatron-deepspeed>
+
+* **[The Transformers Library: standardizing model definitions](ai/models/the-transformers-library-standardizing-model-defin.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: The Transformers Library: standardizing model definitions
+  * Source URL: <https://huggingface.co/blog/transformers-model-definition>
+
+* **[Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](ai/models/huggingface-blog-infrastructure-alerting.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure
+  * Source URL: <https://huggingface.co/blog/infrastructure-alerting>
+
+* **[TimeScope: How Long Can Your Video Large Multimodal Model Go?](ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: TimeScope: How Long Can Your Video Large Multimodal Model Go?
+  * Tags: `youtube`
+  * Source URL: <https://huggingface.co/blog/timescope-video-lmm-benchmark>
+
+* **[Timm ❤️ Transformers: Use any timm model with transformers](ai/models/timm-transformers-use-any-timm-model-with-transfor.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Timm ❤️ Transformers: Use any timm model with transformers
+  * Source URL: <https://huggingface.co/blog/timm-transformers>
+
+* **[Tokenization in Transformers v5: Simpler, Clearer, and More Modular](ai/models/huggingface-blog-tokenizers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Tokenization in Transformers v5: Simpler, Clearer, and More Modular
+  * Source URL: <https://huggingface.co/blog/tokenizers>
+
+* **[Tool Use, Unified](ai/models/tool-use-unified.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Tool Use, Unified
+  * Source URL: <https://huggingface.co/blog/unified-tool-use>
+
+* **[Total noob’s intro to Hugging Face Transformers](ai/models/total-noobs-intro-to-hugging-face-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Total noob’s intro to Hugging Face Transformers
+  * Source URL: <https://huggingface.co/blog/noob_intro_transformers>
+
+* **[Towards Encrypted Large Language Models with FHE](ai/models/towards-encrypted-large-language-models-with-fhe.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Towards Encrypted Large Language Models with FHE
+  * Source URL: <https://huggingface.co/blog/encrypted-llm>
+
+* **[Train 400x faster Static Embedding Models with Sentence Transformers](ai/models/train-400x-faster-static-embedding-models-with-sen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train 400x faster Static Embedding Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/static-embeddings>
+
+* **[Train a Sentence Embedding Model with 1B Training Pairs](ai/models/huggingface-blog-1b-sentence-embeddings.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train a Sentence Embedding Model with 1B Training Pairs
+  * Source URL: <https://huggingface.co/blog/1b-sentence-embeddings>
+
+* **[Train AI models with Unsloth and Hugging Face Jobs for FREE](ai/models/huggingface-blog-unsloth-jobs.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train AI models with Unsloth and Hugging Face Jobs for FREE
+  * Source URL: <https://huggingface.co/blog/unsloth-jobs>
+
+* **[Train and Fine-Tune Sentence Transformers Models](ai/models/huggingface-blog-how-to-train-sentence-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train and Fine-Tune Sentence Transformers Models
+  * Source URL: <https://huggingface.co/blog/how-to-train-sentence-transformers>
+
+* **[Train your ControlNet with diffusers](ai/models/train-your-controlnet-with-diffusers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train your ControlNet with diffusers
+  * Source URL: <https://huggingface.co/blog/train-your-controlnet>
+
+* **[Train your first Decision Transformer](ai/models/train-your-first-decision-transformer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Train your first Decision Transformer
+  * Source URL: <https://huggingface.co/blog/train-decision-transformers>
+
+* **[Training a language model with 🤗 Transformers using TensorFlow and TPUs](ai/models/training-a-language-model-with-transformers-using.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training a language model with 🤗 Transformers using TensorFlow and TPUs
+  * Source URL: <https://huggingface.co/blog/tf_tpu>
+
+* **[Training and Finetuning Embedding Models with Sentence Transformers](ai/models/training-and-finetuning-embedding-models-with-sent.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training and Finetuning Embedding Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/train-sentence-transformers>
+
+* **[Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/huggingface-blog-train-multimodal-sentence-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/train-multimodal-sentence-transformers>
+
+* **[Training and Finetuning Reranker Models with Sentence Transformers](ai/models/huggingface-blog-train-reranker.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training and Finetuning Reranker Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/train-reranker>
+
+* **[Training and Finetuning Sparse Embedding Models with Sentence Transformers](ai/models/training-and-finetuning-sparse-embedding-models-wi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training and Finetuning Sparse Embedding Models with Sentence Transformers
+  * Source URL: <https://huggingface.co/blog/train-sparse-encoder>
+
+* **[Training CodeParrot 🦜 from Scratch](ai/models/huggingface-blog-codeparrot.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training CodeParrot 🦜 from Scratch
+  * Source URL: <https://huggingface.co/blog/codeparrot>
+
+* **[Training Stable Diffusion with Dreambooth using Diffusers](ai/models/huggingface-blog-dreambooth.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Training Stable Diffusion with Dreambooth using Diffusers
+  * Source URL: <https://huggingface.co/blog/dreambooth>
+
+* **[Transformer-based Encoder-Decoder Models](ai/models/transformer-based-encoder-decoder-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Transformer-based Encoder-Decoder Models
+  * Source URL: <https://huggingface.co/blog/encoder-decoder>
+
+* **[Transformers backend integration in SGLang](ai/models/transformers-backend-integration-in-sglang.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Transformers backend integration in SGLang
+  * Source URL: <https://huggingface.co/blog/transformers-backend-sglang>
+
+* **[Transformers v5: Simple model definitions powering the AI ecosystem](ai/models/transformers-v5-simple-model-definitions-powering.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Transformers v5: Simple model definitions powering the AI ecosystem
+  * Source URL: <https://huggingface.co/blog/transformers-v5>
+
+* **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
+  * Tags: `threejs`
+  * Source URL: <https://huggingface.co/blog/transformersjs-v3>
+
+* **[Transformers.js v4: Now Available on NPM!](ai/models/transformers-js-v4-now-available-on-npm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Transformers.js v4: Now Available on NPM!
+  * Source URL: <https://huggingface.co/blog/transformersjs-v4>
+
+* **[Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](ai/models/huggingface-blog-faster-transformers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers
+  * Tags: `openai`
+  * Source URL: <https://huggingface.co/blog/faster-transformers>
+
+* **[TRL v1.0: Post-Training Library Built to Move with the Field](ai/models/huggingface-blog-trl-v1.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: TRL v1.0: Post-Training Library Built to Move with the Field
+  * Source URL: <https://huggingface.co/blog/trl-v1>
+
+* **[TTS Arena: Benchmarking Text-to-Speech Models in the Wild](ai/models/huggingface-blog-arena-tts.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: TTS Arena: Benchmarking Text-to-Speech Models in the Wild
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/arena-tts>
+
+* **[Ulysses Sequence Parallelism: Training with Million-Token Contexts](ai/models/ulysses-sequence-parallelism-training-with-million.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Ulysses Sequence Parallelism: Training with Million-Token Contexts
+  * Source URL: <https://huggingface.co/blog/ulysses-sp>
+
+* **[Understanding BigBird's Block Sparse Attention](ai/models/huggingface-blog-big-bird.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Understanding BigBird's Block Sparse Attention
+  * Source URL: <https://huggingface.co/blog/big-bird>
+
+* **[Universal Assisted Generation: Faster Decoding with Any Assistant Model](ai/models/universal-assisted-generation-faster-decoding-with.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Universal Assisted Generation: Faster Decoding with Any Assistant Model
+  * Source URL: <https://huggingface.co/blog/universal_assisted_generation>
+
+* **[Universal Image Segmentation with Mask2Former and OneFormer](ai/models/universal-image-segmentation-with-mask2former-and.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Universal Image Segmentation with Mask2Former and OneFormer
+  * Source URL: <https://huggingface.co/blog/mask2former>
+
+* **[Unlock the power of images with AI Sheets](ai/models/huggingface-blog-aisheets-unlock-images.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Unlock the power of images with AI Sheets
+  * Source URL: <https://huggingface.co/blog/aisheets-unlock-images>
+
+* **[Unlocking asynchronicity in continuous batching](ai/models/huggingface-blog-continuous-async.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Unlocking asynchronicity in continuous batching
+  * Source URL: <https://huggingface.co/blog/continuous_async>
+
+* **[Unlocking Longer Generation with Key-Value Cache Quantization](ai/models/unlocking-longer-generation-with-key-value-cache-q.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Unlocking Longer Generation with Key-Value Cache Quantization
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/kv-cache-quantization>
+
+* **[Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](ai/models/huggingface-blog-websight.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/websight>
+
+* **[Upskill your LLMs With Gradio MCP Servers](ai/models/huggingface-blog-gradio-mcp-servers.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Upskill your LLMs With Gradio MCP Servers
+  * Source URL: <https://huggingface.co/blog/gradio-mcp-servers>
+
+* **[Using & Mixing Hugging Face Models with Gradio 2.0](ai/models/huggingface-blog-gradio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Using & Mixing Hugging Face Models with Gradio 2.0
+  * Source URL: <https://huggingface.co/blog/gradio>
+
+* **[Using LoRA for Efficient Stable Diffusion Fine-Tuning](ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Using LoRA for Efficient Stable Diffusion Fine-Tuning
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/lora>
+
+* **[Using Machine Learning to Aid Survivors and Race through Time](ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Using Machine Learning to Aid Survivors and Race through Time
+  * Source URL: <https://huggingface.co/blog/using-ml-for-disasters>
+
+* **[Using Stable Diffusion with Core ML on Apple Silicon](ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Using Stable Diffusion with Core ML on Apple Silicon
+  * Source URL: <https://huggingface.co/blog/diffusers-coreml>
+
+* **[Very Large Language Models and How to Evaluate Them](ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Very Large Language Models and How to Evaluate Them
+  * Source URL: <https://huggingface.co/blog/zero-shot-eval-on-the-hub>
+
+* **[VibeGame: Exploring Vibe Coding Games](ai/models/huggingface-blog-vibegame.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: VibeGame: Exploring Vibe Coding Games
+  * Source URL: <https://huggingface.co/blog/vibegame>
+
+* **[Visible Watermarking with Gradio](ai/models/huggingface-blog-watermarking-with-gradio.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Visible Watermarking with Gradio
+  * Source URL: <https://huggingface.co/blog/watermarking-with-gradio>
+
+* **[Vision Language Model Alignment in TRL ⚡️](ai/models/huggingface-blog-trl-vlm-alignment.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Vision Language Model Alignment in TRL ⚡️
+  * Source URL: <https://huggingface.co/blog/trl-vlm-alignment>
+
+* **[Vision Language Models (Better, faster, stronger)](ai/models/vision-language-models-better-faster-stronger.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Vision Language Models (Better, faster, stronger)
+  * Source URL: <https://huggingface.co/blog/vlms-2025>
+
+* **[Vision Language Models Explained](ai/models/vision-language-models-explained.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Vision Language Models Explained
+  * Source URL: <https://huggingface.co/blog/vlms>
+
+* **[Visual Document Retrieval Goes Multilingual](ai/models/visual-document-retrieval-goes-multilingual.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Visual Document Retrieval Goes Multilingual
+  * Source URL: <https://huggingface.co/blog/vdr-2b-multilingual>
+
+* **[Visualize and understand GPU memory in PyTorch](ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Visualize and understand GPU memory in PyTorch
+  * Source URL: <https://huggingface.co/blog/train_memory>
+
+* **[Visualize proteins on Hugging Face Spaces](ai/models/visualize-proteins-on-hugging-face-spaces.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Visualize proteins on Hugging Face Spaces
+  * Source URL: <https://huggingface.co/blog/spaces_3dmoljs>
+
+* **[Voice Cloning with Consent](ai/models/huggingface-blog-voice-consent-gate.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Voice Cloning with Consent
+  * Source URL: <https://huggingface.co/blog/voice-consent-gate>
+
+* **[VQ-Diffusion](ai/models/huggingface-blog-vq-diffusion.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: VQ-Diffusion
+  * Source URL: <https://huggingface.co/blog/vq-diffusion>
+
+* **[Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](ai/models/huggingface-blog-waypoint-1-5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs
+  * Source URL: <https://huggingface.co/blog/waypoint-1-5>
+
+* **[We are hiring interns!](ai/models/we-are-hiring-interns.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: We are hiring interns!
+  * Source URL: <https://huggingface.co/blog/interns-2023>
+
+* **[We Got Claude to Build CUDA Kernels and teach open models!](ai/models/we-got-claude-to-build-cuda-kernels-and-teach-open.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: We Got Claude to Build CUDA Kernels and teach open models!
+  * Tags: `anthropic`
+  * Source URL: <https://huggingface.co/blog/upskill>
+
+* **[We Got Claude to Fine-Tune an Open Source LLM](ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: We Got Claude to Fine-Tune an Open Source LLM
+  * Tags: `anthropic`
+  * Source URL: <https://huggingface.co/blog/hf-skills-training>
+
+* **[We Raised $100 Million for Open & Collaborative Machine Learning 🚀](ai/models/huggingface-blog-series-c.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: We Raised $100 Million for Open & Collaborative Machine Learning 🚀
+  * Source URL: <https://huggingface.co/blog/series-c>
+
+* **[Welcome aMUSEd: Efficient Text-to-Image Generation](ai/models/huggingface-blog-amused.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome aMUSEd: Efficient Text-to-Image Generation
+  * Source URL: <https://huggingface.co/blog/amused>
+
+* **[Welcome EmbeddingGemma, Google's new efficient embedding model](ai/models/huggingface-blog-embeddinggemma.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome EmbeddingGemma, Google's new efficient embedding model
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/embeddinggemma>
+
+* **[Welcome Falcon Mamba: The first strong attention-free 7B model](ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Falcon Mamba: The first strong attention-free 7B model
+  * Source URL: <https://huggingface.co/blog/falconmamba>
+
+* **[Welcome fastai to the Hugging Face Hub](ai/models/welcome-fastai-to-the-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome fastai to the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/fastai>
+
+* **[Welcome fastText to the Hugging Face Hub](ai/models/welcome-fasttext-to-the-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome fastText to the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/fasttext>
+
+* **[Welcome Fireworks.ai on the Hub 🎆](ai/models/welcome-fireworks-ai-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Fireworks.ai on the Hub 🎆
+  * Source URL: <https://huggingface.co/blog/fireworks-ai>
+
+* **[Welcome Gemma - Google’s new open LLM](ai/models/welcome-gemma-googles-new-open-llm.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Gemma - Google’s new open LLM
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma>
+
+* **[Welcome Gemma 2 - Google’s new open LLM](ai/models/huggingface-blog-gemma2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Gemma 2 - Google’s new open LLM
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma2>
+
+* **[Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM](ai/models/welcome-gemma-3-google-s-all-new-multimodal-multil.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma3>
+
+* **[Welcome Gemma 4: Frontier multimodal intelligence on device](ai/models/welcome-gemma-4-frontier-multimodal-intelligence-o.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Gemma 4: Frontier multimodal intelligence on device
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/gemma4>
+
+* **[Welcome GPT OSS, the new open-source model family from OpenAI!](ai/models/welcome-gpt-oss-the-new-open-source-model-family-f.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome GPT OSS, the new open-source model family from OpenAI!
+  * Tags: `openai`
+  * Source URL: <https://huggingface.co/blog/welcome-openai-gpt-oss>
+
+* **[Welcome Llama 3 - Meta's new open LLM](ai/models/huggingface-blog-llama3.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Llama 3 - Meta's new open LLM
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama3>
+
+* **[Welcome Llama 4 Maverick & Scout on Hugging Face](ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Llama 4 Maverick & Scout on Hugging Face
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama4-release>
+
+* **[Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face
+  * Tags: `mistral`
+  * Source URL: <https://huggingface.co/blog/mixtral>
+
+* **[Welcome PaddlePaddle to the Hugging Face Hub](ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome PaddlePaddle to the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/paddlepaddle>
+
+* **[Welcome PaliGemma 2 – New vision language models by Google](ai/models/huggingface-blog-paligemma2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome PaliGemma 2 – New vision language models by Google
+  * Tags: `models`
+  * Source URL: <https://huggingface.co/blog/paligemma2>
+
+* **[Welcome spaCy to the Hugging Face Hub](ai/models/welcome-spacy-to-the-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome spaCy to the Hugging Face Hub
+  * Source URL: <https://huggingface.co/blog/spacy>
+
+* **[Welcome Stable-baselines3 to the Hugging Face Hub 🤗](ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome Stable-baselines3 to the Hugging Face Hub 🤗
+  * Source URL: <https://huggingface.co/blog/sb3>
+
+* **[Welcome to Inference Providers on the Hub 🔥](ai/models/welcome-to-inference-providers-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome to Inference Providers on the Hub 🔥
+  * Source URL: <https://huggingface.co/blog/inference-providers>
+
+* **[Welcome to the Falcon 3 Family of Open Models!](ai/models/welcome-to-the-falcon-3-family-of-open-models.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome to the Falcon 3 Family of Open Models!
+  * Source URL: <https://huggingface.co/blog/falcon3>
+
+* **[Welcome, Gradio 5](ai/models/huggingface-blog-gradio-5.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcome, Gradio 5
+  * Source URL: <https://huggingface.co/blog/gradio-5>
+
+* **[Welcoming Llama Guard 4 on Hugging Face Hub](ai/models/welcoming-llama-guard-4-on-hugging-face-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Welcoming Llama Guard 4 on Hugging Face Hub
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/llama-guard-4>
+
+* **[What's going on with the Open LLM Leaderboard?](ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: What's going on with the Open LLM Leaderboard?
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/open-llm-leaderboard-mmlu>
+
+* **[What's new in Diffusers? 🎨](ai/models/huggingface-blog-diffusers-2nd-month.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: What's new in Diffusers? 🎨
+  * Source URL: <https://huggingface.co/blog/diffusers-2nd-month>
+
+* **[Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too](ai/models/why-were-switching-to-hugging-face-inference-endpo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too
+  * Source URL: <https://huggingface.co/blog/mantis-case-study>
+
+* **[WWDC 24: Running Mistral 7B with Core ML](ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: WWDC 24: Running Mistral 7B with Core ML
+  * Tags: `mistral`, `models`
+  * Source URL: <https://huggingface.co/blog/mistral-coreml>
+
+* **[Xet is on the Hub](ai/models/xet-is-on-the-hub.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Xet is on the Hub
+  * Source URL: <https://huggingface.co/blog/xet-on-the-hub>
+
+* **[XetHub is joining Hugging Face!](ai/models/huggingface-blog-xethub-joins-hf.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: XetHub is joining Hugging Face!
+  * Source URL: <https://huggingface.co/blog/xethub-joins-hf>
+
+* **[XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](ai/models/huggingface-blog-xlscout-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face
+  * Source URL: <https://huggingface.co/blog/xlscout-case-study>
+
+* **[Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](ai/models/huggingface-blog-autoformer.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)
+  * Source URL: <https://huggingface.co/blog/autoformer>
+
+* **[You could have designed state of the art positional encoding](ai/models/huggingface-blog-designing-positional-encoding.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: You could have designed state of the art positional encoding
+  * Source URL: <https://huggingface.co/blog/designing-positional-encoding>
+
+* **[Zero-shot image segmentation with CLIPSeg](ai/models/zero-shot-image-segmentation-with-clipseg.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Zero-shot image segmentation with CLIPSeg
+  * Source URL: <https://huggingface.co/blog/clipseg-zero-shot>
+
+* **[Zero-shot image-to-text generation with BLIP-2](ai/models/huggingface-blog-blip-2.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Zero-shot image-to-text generation with BLIP-2
+  * Source URL: <https://huggingface.co/blog/blip-2>
+
+* **[~Don't~ Repeat Yourself](ai/models/don-t-repeat-yourself.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: ~Don't~ Repeat Yourself
+  * Source URL: <https://huggingface.co/blog/transformers-design-philosophy>
+
+* **[π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](ai/models/huggingface-blog-pi0.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: π0 and π0-FAST: Vision-Language-Action Models for General Robot Control
+  * Source URL: <https://huggingface.co/blog/pi0>
+
+* **[“Llama 3.2 in Keras”](ai/models/llama-3-2-in-keras.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: “Llama 3.2 in Keras”
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/keras-llama-32>
+
+* **[🇨🇿 BenCzechMark - Can your LLM Understand Czech?](ai/models/benczechmark-can-your-llm-understand-czech.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🇨🇿 BenCzechMark - Can your LLM Understand Czech?
+  * Source URL: <https://huggingface.co/blog/benczechmark>
+
+* **[🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?](ai/models/filbench-can-llms-understand-and-generate-filipino.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?
+  * Source URL: <https://huggingface.co/blog/filbench>
+
+* **[🐯 Liger GRPO meets TRL](ai/models/huggingface-blog-liger-grpo.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🐯 Liger GRPO meets TRL
+  * Source URL: <https://huggingface.co/blog/liger-grpo>
+
+* **[🐶Safetensors audited as really safe and becoming the default](ai/models/huggingface-blog-safetensors-security-audit.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🐶Safetensors audited as really safe and becoming the default
+  * Source URL: <https://huggingface.co/blog/safetensors-security-audit>
+
+* **[🚀 Accelerating LLM Inference with TGI on Intel Gaudi](ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🚀 Accelerating LLM Inference with TGI on Intel Gaudi
+  * Source URL: <https://huggingface.co/blog/intel-gaudi-backend-for-tgi>
+
+* **[🤗 PEFT welcomes new merging methods](ai/models/huggingface-blog-peft-merging.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🤗 PEFT welcomes new merging methods
+  * Source URL: <https://huggingface.co/blog/peft_merging>
+
+* **[🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](ai/models/huggingface-blog-sdxl-jax.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e
+  * Source URL: <https://huggingface.co/blog/sdxl_jax>
+
+* **[🧨 Stable Diffusion in JAX / Flax !](ai/models/stable-diffusion-in-jax-flax.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🧨 Stable Diffusion in JAX / Flax !
+  * Source URL: <https://huggingface.co/blog/stable_diffusion_jax>
+
+* **[🪆 Introduction to Matryoshka Embedding Models](ai/models/huggingface-blog-matryoshka.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: 🪆 Introduction to Matryoshka Embedding Models
+  * Source URL: <https://huggingface.co/blog/matryoshka>
+
+## Ai — Rag
+
+* **[Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More](ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More
+  * Tags: `leaderboard`, `rag`
+  * Source URL: <https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval>
+
+* **[Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/cost-efficient-rag-applications-with-intel>
+
+* **[CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](ai/rag/huggingface-blog-intel-fast-embedding.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/intel-fast-embedding>
+
+* **[Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge](ai/rag/expert-support-case-study-bolstering-a-rag-app-wit.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/digital-green-llm-judge>
+
+* **[From Files to Chunks: Improving HF Storage Efficiency](ai/rag/huggingface-blog-from-files-to-chunks.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: From Files to Chunks: Improving HF Storage Efficiency
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/from-files-to-chunks>
+
+* **[Getting Started With Embeddings](ai/rag/getting-started-with-embeddings.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Getting Started With Embeddings
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/getting-started-with-embeddings>
+
+* **[Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](ai/rag/huggingface-blog-prezi-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/prezi-case-study>
+
+* **[How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](ai/rag/huggingface-blog-sempre-health-eap-case-study.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/sempre-health-eap-case-study>
+
+* **[How we leveraged distilabel to create an Argilla 2.0 Chatbot](ai/rag/huggingface-blog-argilla-chatbot.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: How we leveraged distilabel to create an Argilla 2.0 Chatbot
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/argilla-chatbot>
+
+* **[Introducing Storage Buckets on the Hugging Face Hub](ai/rag/huggingface-blog-storage-buckets.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Storage Buckets on the Hugging Face Hub
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/storage-buckets>
+
+* **[Introducing Storage Regions on the HF Hub](ai/rag/huggingface-blog-regions.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Introducing Storage Regions on the HF Hub
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/regions>
+
+* **[Leveraging Hugging Face for complex generative AI use cases](ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Leveraging Hugging Face for complex generative AI use cases
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/writer-case-study>
+
+* **[Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](ai/rag/huggingface-blog-warm-starting-encoder-decoder.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/warm-starting-encoder-decoder>
+
+* **[Parquet Content-Defined Chunking](ai/rag/huggingface-blog-parquet-cdc.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Parquet Content-Defined Chunking
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/parquet-cdc>
+
+* **[Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md)** (`reference` | `reference` tier)
+  * Summary: No summary provided. Reference resource: Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard
+  * Tags: `benchmark`, `leaderboard`, `rag`
+  * Source URL: <https://huggingface.co/blog/leaderboard-3c3h-aragen>
 
 ## Ai — Resources
 
@@ -1466,7 +4557,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)** (`benchmark` | `useful` tier)
@@ -1540,7 +4631,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.13380>
 
 * **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rarisma. Score: 428, Comments: 387. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
+  * Summary: Hacker News story by rarisma. Score: 477, Comments: 413. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail>
 
@@ -1770,9 +4861,9 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://benchlm.ai/llm-agent-benchmarks>
 
 * **[Making a vintage LLM from scratch](ai/community/making-a-vintage-llm-from-scratch.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by croqaz. Score: 35, Comments: 5. Original Link: https://crlf.link/log/entries/260525-1/
+  * Summary: Hacker News story by croqaz. Score: 70, Comments: 19. Original Link: https://crlf.link/log/entries/260525-1/
   * Tags: `hackernews`, `llm`
-  * Source URL: <https://crlf.link/log/entries/260525-1/>
+  * Source URL: <https://crlf.link/log/entries/260525-1>
 
 * **[Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)** (`dataset` | `useful` tier)
   * Summary: Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers David Richards 🚀 Agency Owner or Entrepreneur? Build your own branded AI platform with Parallel AI’s white-label solutions. Complete customization, API access, and ente
@@ -1849,10 +4940,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12231>
 
-* **[Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md)** (`tutorial` | `useful` tier)
+* **[Run ComfyUI workflows for free with Gradio on Hugging Face Spaces](ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
   * Tags: `workflows`
   * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
+
+* **[Ryanair dark UX patterns summer 2026 refresher](ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by danosull. Score: 174, Comments: 135. Original Link: https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher/
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher>
 
 * **[Shall we play a game? – LLMs use tactical nukes in 95% of simulations](ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by nick238. Score: 141, Comments: 130. Original Link: https://www.kennethpayne.uk/p/shall-we-play-a-game
@@ -1868,6 +4964,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by GeorgeCurtis. Score: 122, Comments: 36. Original Link: https://github.com/HelixDB/helix-db/tree/main
   * Tags: `hackernews`, `rag`
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
+
+* **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by FergusArgyll. Score: 14, Comments: 2. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 
 * **[Sovereign, Open Source Retrieval-Augmented Generation](ai/rag/sovereign-open-source-retrieval-augmented-generati.md)** (`dataset` | `useful` tier)
   * Summary: Understanding OpenRag Features Tech stack How it Works Webinar Understanding OpenRag Features Tech stack How it Works Webinar Contact Us Contact us Just type your contacts Inquiry Type - Select - Marketing HR Sales Inquiry Type Press & Relations publ
@@ -1898,6 +4999,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Home » PostsThe Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation SystemsJanuary 6, 2026 · 5 min · 944 words · martinuke0Table of ContentsWhat is RAG and Why Frameworks MatterTop 5 Best RAG Framewo
   * Tags: `agents`, `benchmark`, `dataset`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems>
+
+* **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (`dataset` | `useful` tier)
+  * Summary: Mr. Latte Hello ▾AboutWork With MeContactBuild ▾ProductsProjectsWriting ▾BlogResearchLearn ▾CoursesStoreHobby ▾PaintingsKOAboutWork With MeContactProductsProjectsBlogResearchCoursesStorePaintings한국어The Complete Guide to RAG: Naive, Advanced, and Grap
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide>
+
+* **[The Future of Email](ai/community/the-future-of-email.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by soheilpro. Score: 149, Comments: 171. Original Link: https://www.fastmail.com/blog/the-future-of-email/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://fastmail.com/blog/the-future-of-email>
 
 * **[Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](ai/rag/top-10-llm-observability-tools-complete-guide-for.md)** (`dataset` | `useful` tier)
   * Summary: ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don
@@ -1984,7 +5095,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: 1 Billion Classifications
   * Source URL: <https://huggingface.co/blog/billion-classifications>
 
-* **[17 Reasons Why Gradio Isn't Just Another UI Library](ai/models/huggingface-blog-why-gradio-stands-out.md)** (`framework` | `useful` tier)
+* **[17 Reasons Why Gradio Isn't Just Another UI Library](ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)** (`framework` | `useful` tier)
   * Summary: No summary provided. Reference resource: 17 Reasons Why Gradio Isn't Just Another UI Library
   * Source URL: <https://huggingface.co/blog/why-gradio-stands-out>
 
@@ -1992,11 +5103,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: 2023, year of open LLMs
   * Source URL: <https://huggingface.co/blog/2023-in-llms>
 
-* **[2024 Security Feature Highlights](ai/models/huggingface-blog-2024-security-features.md)** (`tutorial` | `useful` tier)
+* **[2024 Security Feature Highlights](ai/models/2024-security-feature-highlights.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 2024 Security Feature Highlights
   * Source URL: <https://huggingface.co/blog/2024-security-features>
 
-* **[20x Faster TRL Fine-tuning with RapidFire AI](ai/models/huggingface-blog-rapidfireai.md)** (`tutorial` | `useful` tier)
+* **[20x Faster TRL Fine-tuning with RapidFire AI](ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 20x Faster TRL Fine-tuning with RapidFire AI
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/rapidfireai>
@@ -2017,7 +5128,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2505.17623v2 Announce Type: replace-cross Abstract: Verifiable computing (VC) has gained prominence in decentralized machine learning systems, where resource-intensive tasks like deep neural network (DNN) inference are offloaded to external par
   * Source URL: <https://arxiv.org/abs/2505.17623>
 
-* **[`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](ai/models/huggingface-blog-lerobot-datasets-v3.md)** (`dataset` | `useful` tier)
+* **[`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`](ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: `LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/lerobot-datasets-v3>
@@ -2026,7 +5137,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake
   * Source URL: <https://huggingface.co/blog/phi2-intel-meteor-lake>
 
-* **[A Complete Guide to Audio Datasets](ai/models/huggingface-blog-audio-datasets.md)** (`dataset` | `useful` tier)
+* **[A Complete Guide to Audio Datasets](ai/models/a-complete-guide-to-audio-datasets.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: A Complete Guide to Audio Datasets
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/audio-datasets>
@@ -2040,11 +5151,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality
   * Source URL: <https://huggingface.co/blog/aya-expanse>
 
-* **[A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](ai/models/huggingface-blog-aya-vision.md)** (`tutorial` | `useful` tier)
+* **[A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality](ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality
   * Source URL: <https://huggingface.co/blog/aya-vision>
 
-* **[A Dive into Text-to-Video Models](ai/models/huggingface-blog-text-to-video.md)** (`tutorial` | `useful` tier)
+* **[A Dive into Text-to-Video Models](ai/models/a-dive-into-text-to-video-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A Dive into Text-to-Video Models
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/text-to-video>
@@ -2053,15 +5164,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: A Dive into Vision-Language Models
   * Source URL: <https://huggingface.co/blog/vision_language_pretraining>
 
-* **[A failed experiment: Infini-Attention, and why we should keep trying?](ai/models/huggingface-blog-infini-attention.md)** (`tutorial` | `useful` tier)
+* **[A failed experiment: Infini-Attention, and why we should keep trying?](ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A failed experiment: Infini-Attention, and why we should keep trying?
   * Source URL: <https://huggingface.co/blog/infini-attention>
 
-* **[A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](ai/models/huggingface-blog-hf-bitsandbytes-integration.md)** (`tutorial` | `useful` tier)
+* **[A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes](ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes
   * Source URL: <https://huggingface.co/blog/hf-bitsandbytes-integration>
 
-* **[A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](ai/models/huggingface-blog-leaderboard-vectara.md)** (`tutorial` | `useful` tier)
+* **[A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard](ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-vectara>
@@ -2103,7 +5214,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.12120>
 
-* **[A Security Review of Gradio 5](ai/models/huggingface-blog-gradio-5-security.md)** (`tutorial` | `useful` tier)
+* **[A Security Review of Gradio 5](ai/models/a-security-review-of-gradio-5.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: A Security Review of Gradio 5
   * Source URL: <https://huggingface.co/blog/gradio-5-security>
 
@@ -2144,19 +5255,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13051v1 Announce Type: new Abstract: Despite advances in information extraction driven by deep learning and large language models, performance gaps remain in highly specialized biomedical fields, where domainspecific complexity poses chall
   * Source URL: <https://arxiv.org/abs/2606.13051>
 
-* **[Accelerate 1.0.0](ai/models/huggingface-blog-accelerate-v1.md)** (`tutorial` | `useful` tier)
+* **[Accelerate 1.0.0](ai/models/accelerate-1-0-0.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerate 1.0.0
   * Source URL: <https://huggingface.co/blog/accelerate-v1>
 
-* **[Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](ai/models/huggingface-blog-bert-inferentia-sagemaker.md)** (`tutorial` | `useful` tier)
+* **[Accelerate a World of LLMs on Hugging Face with NVIDIA NIM](ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nv.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Accelerate a World of LLMs on Hugging Face with NVIDIA NIM
+  * Source URL: <https://huggingface.co/blog/nvidia/multi-llm-nim>
+
+* **[Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia](ai/models/accelerate-bert-inference-with-hugging-face-transf.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia
   * Source URL: <https://huggingface.co/blog/bert-inferentia-sagemaker>
 
-* **[Accelerate Large Model Training using DeepSpeed](ai/models/huggingface-blog-accelerate-deepspeed.md)** (`tutorial` | `useful` tier)
+* **[Accelerate Large Model Training using DeepSpeed](ai/models/accelerate-large-model-training-using-deepspeed.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerate Large Model Training using DeepSpeed
   * Source URL: <https://huggingface.co/blog/accelerate-deepspeed>
 
-* **[Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](ai/models/huggingface-blog-pytorch-fsdp.md)** (`tutorial` | `useful` tier)
+* **[Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel](ai/models/accelerate-large-model-training-using-pytorch-full.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel
   * Source URL: <https://huggingface.co/blog/pytorch-fsdp>
 
@@ -2168,23 +5283,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding
   * Source URL: <https://huggingface.co/blog/intel-starcoder-quantization>
 
-* **[Accelerate your models with 🤗 Optimum Intel and OpenVINO](ai/models/huggingface-blog-openvino.md)** (`tutorial` | `useful` tier)
+* **[Accelerate your models with 🤗 Optimum Intel and OpenVINO](ai/models/accelerate-your-models-with-optimum-intel-and-open.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerate your models with 🤗 Optimum Intel and OpenVINO
   * Source URL: <https://huggingface.co/blog/openvino>
 
-* **[Accelerated Inference with Optimum and Transformers Pipelines](ai/models/huggingface-blog-optimum-inference.md)** (`tutorial` | `useful` tier)
+* **[Accelerated Inference with Optimum and Transformers Pipelines](ai/models/accelerated-inference-with-optimum-and-transformer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerated Inference with Optimum and Transformers Pipelines
   * Source URL: <https://huggingface.co/blog/optimum-inference>
 
-* **[Accelerating Document AI](ai/models/huggingface-blog-document-ai.md)** (`tutorial` | `useful` tier)
+* **[Accelerating Document AI](ai/models/accelerating-document-ai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating Document AI
   * Source URL: <https://huggingface.co/blog/document-ai>
 
-* **[Accelerating Hugging Face Transformers with AWS Inferentia2](ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md)** (`tutorial` | `useful` tier)
+* **[Accelerating Hugging Face Transformers with AWS Inferentia2](ai/models/accelerating-hugging-face-transformers-with-aws-in.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating Hugging Face Transformers with AWS Inferentia2
   * Source URL: <https://huggingface.co/blog/accelerate-transformers-with-inferentia2>
 
-* **[Accelerating over 130,000 Hugging Face models with ONNX Runtime](ai/models/huggingface-blog-ort-accelerating-hf-models.md)** (`tutorial` | `useful` tier)
+* **[Accelerating over 130,000 Hugging Face models with ONNX Runtime](ai/models/accelerating-over-130000-hugging-face-models-with.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating over 130,000 Hugging Face models with ONNX Runtime
   * Source URL: <https://huggingface.co/blog/ort-accelerating-hf-models>
 
@@ -2201,7 +5316,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1
   * Source URL: <https://huggingface.co/blog/intel-sapphire-rapids>
 
-* **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](ai/models/huggingface-blog-intel-sapphire-rapids-inference.md)** (`tutorial` | `useful` tier)
+* **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2](ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2
   * Source URL: <https://huggingface.co/blog/intel-sapphire-rapids-inference>
 
@@ -2209,11 +5324,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive
   * Source URL: <https://huggingface.co/blog/sdxl_ort_inference>
 
-* **[Accelerating Stable Diffusion Inference on Intel CPUs](ai/models/huggingface-blog-stable-diffusion-inference-intel.md)** (`tutorial` | `useful` tier)
+* **[Accelerating Stable Diffusion Inference on Intel CPUs](ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating Stable Diffusion Inference on Intel CPUs
   * Source URL: <https://huggingface.co/blog/stable-diffusion-inference-intel>
 
-* **[Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](ai/models/huggingface-blog-bridgetower.md)** (`tutorial` | `useful` tier)
+* **[Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2](ai/models/accelerating-vision-language-models-bridgetower-on.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2
   * Source URL: <https://huggingface.co/blog/bridgetower>
 
@@ -2222,7 +5337,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11480>
 
-* **[Active Learning with AutoNLP and Prodigy](ai/models/huggingface-blog-autonlp-prodigy.md)** (`tutorial` | `useful` tier)
+* **[Active Learning with AutoNLP and Prodigy](ai/models/active-learning-with-autonlp-and-prodigy.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Active Learning with AutoNLP and Prodigy
   * Source URL: <https://huggingface.co/blog/autonlp-prodigy>
 
@@ -2231,7 +5346,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.12218>
 
-* **[Adding Benchmaxxer Repellant to the Open ASR Leaderboard](ai/models/huggingface-blog-open-asr-leaderboard-private-data.md)** (`tutorial` | `useful` tier)
+* **[Adding Benchmaxxer Repellant to the Open ASR Leaderboard](ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leade.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Adding Benchmaxxer Repellant to the Open ASR Leaderboard
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/open-asr-leaderboard-private-data>
@@ -2261,6 +5376,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: AI Apps in a Flash with Gradio's Reload Mode
   * Source URL: <https://huggingface.co/blog/gradio-reload>
 
+* **[AI for Food Allergies](ai/models/ai-for-food-allergies.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: AI for Food Allergies
+  * Source URL: <https://huggingface.co/blog/hugging-science/ai-for-food-allergies>
+
 * **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI for Food Allergies
   * Source URL: <https://huggingface.co/blog/hugging-science>
@@ -2269,19 +5388,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: AI for Game Development: Creating a Farming Game in 5 Days. Part 1
   * Source URL: <https://huggingface.co/blog/ml-for-games-1>
 
-* **[AI for Game Development: Creating a Farming Game in 5 Days. Part 2](ai/models/huggingface-blog-ml-for-games-2.md)** (`tutorial` | `useful` tier)
+* **[AI for Game Development: Creating a Farming Game in 5 Days. Part 2](ai/models/ai-for-game-development-creating-a-farming-game-in.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI for Game Development: Creating a Farming Game in 5 Days. Part 2
   * Source URL: <https://huggingface.co/blog/ml-for-games-2>
 
-* **[AI Policy @🤗: Open ML Considerations in the EU AI Act](ai/models/huggingface-blog-eu-ai-act-oss.md)** (`tutorial` | `useful` tier)
+* **[AI Policy @🤗: Open ML Considerations in the EU AI Act](ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI Policy @🤗: Open ML Considerations in the EU AI Act
   * Source URL: <https://huggingface.co/blog/eu-ai-act-oss>
 
-* **[AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](ai/models/huggingface-blog-policy-ntia-rfc.md)** (`tutorial` | `useful` tier)
+* **[AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability](ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability
   * Source URL: <https://huggingface.co/blog/policy-ntia-rfc>
 
-* **[AI Policy @🤗: Response to the White House AI Action Plan RFI](ai/models/huggingface-blog-ai-action-wh-2025.md)** (`tutorial` | `useful` tier)
+* **[AI Policy @🤗: Response to the White House AI Action Plan RFI](ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI Policy @🤗: Response to the White House AI Action Plan RFI
   * Source URL: <https://huggingface.co/blog/ai-action-wh-2025>
 
@@ -2290,11 +5409,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.11533>
 
-* **[AI Speech Recognition in Unity](ai/models/huggingface-blog-unity-asr.md)** (`tutorial` | `useful` tier)
+* **[AI Speech Recognition in Unity](ai/models/ai-speech-recognition-in-unity.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI Speech Recognition in Unity
   * Source URL: <https://huggingface.co/blog/unity-asr>
 
-* **[AI Watermarking 101: Tools and Techniques](ai/models/huggingface-blog-watermarking.md)** (`tutorial` | `useful` tier)
+* **[AI Watermarking 101: Tools and Techniques](ai/models/ai-watermarking-101-tools-and-techniques.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI Watermarking 101: Tools and Techniques
   * Tags: `hackernews`
   * Source URL: <https://huggingface.co/blog/watermarking>
@@ -2304,6 +5423,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12342>
 
+* **[Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](ai/models/alyah-toward-robust-evaluation-of-emirati-dialect.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
+
 * **[Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Robotics](ai/research/arxiv-2606-12365.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.12365v1 Announce Type: cross Abstract: We propose Ambient Diffusion Policy, a simple and principled method for imitation learning from suboptimal data in robotics. High-quality, task-specific robot data is expensive and time-consuming to c
   * Source URL: <https://arxiv.org/abs/2606.12365>
@@ -2312,7 +5436,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
   * Source URL: <https://huggingface.co/blog/huggingface-and-optimum-amd>
 
-* **[AMD Pervasive AI Developer Contest!](ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md)** (`tutorial` | `useful` tier)
+* **[AMD Pervasive AI Developer Contest!](ai/models/amd-pervasive-ai-developer-contest.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AMD Pervasive AI Developer Contest!
   * Source URL: <https://huggingface.co/blog/amd_pervasive_developer_ai_contest>
 
@@ -2329,7 +5453,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: An Introduction to Q-Learning Part 1
   * Source URL: <https://huggingface.co/blog/deep-rl-q-part1>
 
-* **[An Introduction to Q-Learning Part 2/2](ai/models/huggingface-blog-deep-rl-q-part2.md)** (`tutorial` | `useful` tier)
+* **[An Introduction to Q-Learning Part 2/2](ai/models/an-introduction-to-q-learning-part-2-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: An Introduction to Q-Learning Part 2/2
   * Source URL: <https://huggingface.co/blog/deep-rl-q-part2>
 
@@ -2347,17 +5471,22 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11347>
 
-* **[Announcing Evaluation on the Hub](ai/models/huggingface-blog-eval-on-the-hub.md)** (`benchmark` | `useful` tier)
+* **[Announcing Evaluation on the Hub](ai/models/announcing-evaluation-on-the-hub.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Announcing Evaluation on the Hub
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/eval-on-the-hub>
 
-* **[Announcing New Dataset Search Features](ai/models/huggingface-blog-datasets-filters.md)** (`dataset` | `useful` tier)
+* **[Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](ai/models/announcing-neurips-2025-e2lm-competition-early-tra.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/tiiuae/e2lm-competition>
+
+* **[Announcing New Dataset Search Features](ai/models/announcing-new-dataset-search-features.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Announcing New Dataset Search Features
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/datasets-filters>
 
-* **[Announcing New Hugging Face and KerasHub integration](ai/models/huggingface-blog-keras-hub-integration.md)** (`tutorial` | `useful` tier)
+* **[Announcing New Hugging Face and KerasHub integration](ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Announcing New Hugging Face and KerasHub integration
   * Source URL: <https://huggingface.co/blog/keras-hub-integration>
 
@@ -2365,7 +5494,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Announcing our new Content Guidelines and Policy
   * Source URL: <https://huggingface.co/blog/content-guidelines-update>
 
-* **[Announcing the Hugging Face Fellowship Program](ai/models/huggingface-blog-fellowship.md)** (`tutorial` | `useful` tier)
+* **[Announcing the Hugging Face Fellowship Program](ai/models/announcing-the-hugging-face-fellowship-program.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Announcing the Hugging Face Fellowship Program
   * Source URL: <https://huggingface.co/blog/fellowship>
 
@@ -2396,7 +5525,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.11553>
 
-* **[Arc Virtual Cell Challenge: A Primer](ai/models/huggingface-blog-virtual-cell-challenge.md)** (`tutorial` | `useful` tier)
+* **[Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](ai/models/apriel-h1-the-surprising-key-to-distilling-efficie.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/apriel-h1>
+
+* **[AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](ai/models/aprielguard-a-guardrail-for-safety-and-adversarial.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/aprielguard>
+
+* **[Arc Virtual Cell Challenge: A Primer](ai/models/arc-virtual-cell-challenge-a-primer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Arc Virtual Cell Challenge: A Primer
   * Source URL: <https://huggingface.co/blog/virtual-cell-challenge>
 
@@ -2409,6 +5546,14 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11670v1 Announce Type: cross Abstract: Subject-preserving video generation is not solved by frontal-face similarity alone: a generated person must remain recognizable across motion, large viewpoint changes, expression shifts, occlusion, sc
   * Source URL: <https://arxiv.org/abs/2606.11670>
 
+* **[Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Arm & ExecuTorch 0.7: Bringing Generative AI to the masses
+  * Source URL: <https://huggingface.co/blog/arm/executorch-0-dot-7>
+
+* **[Arm will be @ PyTorch Conference, Join Us!](ai/models/arm-will-be-pytorch-conference-join-us.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join Us!
+  * Source URL: <https://huggingface.co/blog/arm/arm-at-pytorch-conference>
+
 * **[Arm will be @ PyTorch Conference, Join Us!](ai/models/huggingface-blog-arm.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join Us!
   * Source URL: <https://huggingface.co/blog/arm>
@@ -2418,7 +5563,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2506.08473>
 
-* **[Assisted Generation: a new direction toward low-latency text generation](ai/models/huggingface-blog-assisted-generation.md)** (`tutorial` | `useful` tier)
+* **[Assisted Generation: a new direction toward low-latency text generation](ai/models/assisted-generation-a-new-direction-toward-low-lat.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Assisted Generation: a new direction toward low-latency text generation
   * Source URL: <https://huggingface.co/blog/assisted-generation>
 
@@ -2427,7 +5572,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2604.13924>
 
-* **[Asynchronous Robot Inference: Decoupling Action Prediction and Execution](ai/models/huggingface-blog-async-robot-inference.md)** (`tutorial` | `useful` tier)
+* **[Asynchronous Robot Inference: Decoupling Action Prediction and Execution](ai/models/asynchronous-robot-inference-decoupling-action-pre.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Asynchronous Robot Inference: Decoupling Action Prediction and Execution
   * Source URL: <https://huggingface.co/blog/async-robot-inference>
 
@@ -2441,7 +5586,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.12059>
 
-* **[AudioLDM 2, but faster ⚡️](ai/models/huggingface-blog-audioldm2.md)** (`tutorial` | `useful` tier)
+* **[AudioLDM 2, but faster ⚡️](ai/models/audioldm-2-but-faster.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AudioLDM 2, but faster ⚡️
   * Source URL: <https://huggingface.co/blog/audioldm2>
 
@@ -2467,7 +5612,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Bamba: Inference-Efficient Hybrid Mamba2 Model
   * Source URL: <https://huggingface.co/blog/bamba>
 
-* **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/huggingface-blog-sovereign-data-solution-case-study.md)** (`tutorial` | `useful` tier)
+* **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-h.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
   * Source URL: <https://huggingface.co/blog/sovereign-data-solution-case-study>
 
@@ -2485,12 +5630,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.05692>
 
-* **[Benchmarking Language Model Performance on 5th Gen Xeon at GCP](ai/models/huggingface-blog-intel-gcp-c4.md)** (`benchmark` | `useful` tier)
+* **[Benchmarking Language Model Performance on 5th Gen Xeon at GCP](ai/models/benchmarking-language-model-performance-on-5th-gen.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Benchmarking Language Model Performance on 5th Gen Xeon at GCP
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/intel-gcp-c4>
 
-* **[Benchmarking Text Generation Inference](ai/models/huggingface-blog-tgi-benchmarking.md)** (`benchmark` | `useful` tier)
+* **[Benchmarking Text Generation Inference](ai/models/benchmarking-text-generation-inference.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Benchmarking Text Generation Inference
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/tgi-benchmarking>
@@ -2500,7 +5645,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.11660>
 
-* **[BERT 101 - State Of The Art NLP Model Explained](ai/models/huggingface-blog-bert-101.md)** (`tutorial` | `useful` tier)
+* **[BERT 101 - State Of The Art NLP Model Explained](ai/models/bert-101-state-of-the-art-nlp-model-explained.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: BERT 101 - State Of The Art NLP Model Explained
   * Source URL: <https://huggingface.co/blog/bert-101>
 
@@ -2534,11 +5679,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.10968>
 
+* **[BigCodeArena: Judging code generations end to end with code executions](ai/models/bigcodearena-judging-code-generations-end-to-end-w.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: BigCodeArena: Judging code generations end to end with code executions
+  * Source URL: <https://huggingface.co/blog/bigcode/arena>
+
 * **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: BigCodeArena: Judging code generations end to end with code executions
   * Source URL: <https://huggingface.co/blog/bigcode>
 
-* **[BigCodeBench: The Next Generation of HumanEval](ai/models/huggingface-blog-leaderboard-bigcodebench.md)** (`benchmark` | `useful` tier)
+* **[BigCodeBench: The Next Generation of HumanEval](ai/models/bigcodebench-the-next-generation-of-humaneval.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: BigCodeBench: The Next Generation of HumanEval
   * Source URL: <https://huggingface.co/blog/leaderboard-bigcodebench>
 
@@ -2574,7 +5723,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12505>
 
-* **[Boosting Wav2Vec2 with n-grams in 🤗 Transformers](ai/models/huggingface-blog-wav2vec2-with-ngram.md)** (`tutorial` | `useful` tier)
+* **[Boosting Wav2Vec2 with n-grams in 🤗 Transformers](ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Boosting Wav2Vec2 with n-grams in 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/wav2vec2-with-ngram>
 
@@ -2593,12 +5742,17 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.12886>
 
+* **[Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md)** (`dataset` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms>
+
 * **[Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](ai/models/huggingface-blog-nxp.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/nxp>
 
-* **[Bringing serverless GPU inference to Hugging Face users](ai/models/huggingface-blog-cloudflare-workers-ai.md)** (`tutorial` | `useful` tier)
+* **[Bringing serverless GPU inference to Hugging Face users](ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Bringing serverless GPU inference to Hugging Face users
   * Source URL: <https://huggingface.co/blog/cloudflare-workers-ai>
 
@@ -2606,6 +5760,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-artificial-analysis>
+
+* **[Build a Domain-Specific Embedding Model in Under a Day](ai/models/build-a-domain-specific-embedding-model-in-under-a.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Build a Domain-Specific Embedding Model in Under a Day
+  * Source URL: <https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune>
 
 * **[Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)** (`dataset` | `useful` tier)
   * Summary: {/* Last updated: 2026-04-10 | Verified on: Docker python:3.12-slim | LangChain 0.3.25 | LangGraph 1.1+ | ChromaDB 0.6.3 | RAGAS 0.2.15 */} Every code block in this guide was executed in a clean Docker container and produces real output. The terminal
@@ -2616,20 +5774,20 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Build AI on premise with Dell Enterprise Hub
   * Source URL: <https://huggingface.co/blog/dell-enterprise-hub>
 
-* **[Build awesome datasets for video generation](ai/models/huggingface-blog-vid-ds-scripts.md)** (`dataset` | `useful` tier)
+* **[Build awesome datasets for video generation](ai/models/build-awesome-datasets-for-video-generation.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Build awesome datasets for video generation
   * Tags: `dataset`, `youtube`
   * Source URL: <https://huggingface.co/blog/vid_ds_scripts>
 
-* **[Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](ai/models/huggingface-blog-lerobotxnvidia-healthcare.md)** (`tutorial` | `useful` tier)
+* **[Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac](ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac
   * Source URL: <https://huggingface.co/blog/lerobotxnvidia-healthcare>
 
-* **[Building a Playlist Generator with Sentence Transformers](ai/models/huggingface-blog-playlist-generator.md)** (`tutorial` | `useful` tier)
+* **[Building a Playlist Generator with Sentence Transformers](ai/models/building-a-playlist-generator-with-sentence-transf.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building a Playlist Generator with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/playlist-generator>
 
-* **[Building an AI WebTV](ai/models/huggingface-blog-ai-webtv.md)** (`tutorial` | `useful` tier)
+* **[Building an AI WebTV](ai/models/building-an-ai-webtv.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building an AI WebTV
   * Source URL: <https://huggingface.co/blog/ai-webtv>
 
@@ -2637,11 +5795,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
   * Source URL: <https://huggingface.co/blog/amazon>
 
+* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
+  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
+
+* **[Building Deep Research: How we Achieved State of the Art](ai/models/building-deep-research-how-we-achieved-state-of-th.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Building Deep Research: How we Achieved State of the Art
+  * Source URL: <https://huggingface.co/blog/tavily/tavily-deep-research>
+
 * **[Building Deep Research: How we Achieved State of the Art](ai/models/huggingface-blog-tavily.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Deep Research: How we Achieved State of the Art
   * Source URL: <https://huggingface.co/blog/tavily>
 
-* **[Building for an Open Future - our new partnership with Google Cloud](ai/models/huggingface-blog-google-cloud.md)** (`tutorial` | `useful` tier)
+* **[Building for an Open Future - our new partnership with Google Cloud](ai/models/building-for-an-open-future-our-new-partnership-wi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building for an Open Future - our new partnership with Google Cloud
   * Source URL: <https://huggingface.co/blog/google-cloud>
 
@@ -2683,7 +5849,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.13135>
 
-* **[Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](ai/models/huggingface-blog-infinity-cpu-performance.md)** (`tutorial` | `useful` tier)
+* **[Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](ai/models/case-study-millisecond-latency-using-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs
   * Source URL: <https://huggingface.co/blog/infinity-cpu-performance>
 
@@ -2712,11 +5878,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2510.03520>
 
-* **[Chat Templates: An End to the Silent Performance Killer](ai/models/huggingface-blog-chat-templates.md)** (`template` | `useful` tier)
+* **[Chat Templates: An End to the Silent Performance Killer](ai/models/chat-templates-an-end-to-the-silent-performance-ki.md)** (`template` | `useful` tier)
   * Summary: No summary provided. Reference resource: Chat Templates: An End to the Silent Performance Killer
   * Source URL: <https://huggingface.co/blog/chat-templates>
 
-* **[CinePile 2.0 - making stronger datasets with adversarial refinement](ai/models/huggingface-blog-cinepile2.md)** (`dataset` | `useful` tier)
+* **[CinePile 2.0 - making stronger datasets with adversarial refinement](ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: CinePile 2.0 - making stronger datasets with adversarial refinement
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/cinepile2>
@@ -2736,11 +5902,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2603.00610>
 
-* **[CO2 Emissions and the 🤗 Hub: Leading the Charge](ai/models/huggingface-blog-carbon-emissions-on-the-hub.md)** (`tutorial` | `useful` tier)
+* **[CO2 Emissions and the 🤗 Hub: Leading the Charge](ai/models/co2-emissions-and-the-hub-leading-the-charge.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: CO2 Emissions and the 🤗 Hub: Leading the Charge
   * Source URL: <https://huggingface.co/blog/carbon-emissions-on-the-hub>
 
-* **[Code Llama: Llama 2 learns to code](ai/models/huggingface-blog-codellama.md)** (`tutorial` | `useful` tier)
+* **[Code Llama: Llama 2 learns to code](ai/models/code-llama-llama-2-learns-to-code.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Code Llama: Llama 2 learns to code
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/codellama>
@@ -2750,15 +5916,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/codegemma>
 
-* **[Codex is Open Sourcing AI models](ai/models/huggingface-blog-hf-skills-training-codex.md)** (`tutorial` | `useful` tier)
+* **[Codex is Open Sourcing AI models](ai/models/codex-is-open-sourcing-ai-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Codex is Open Sourcing AI models
   * Source URL: <https://huggingface.co/blog/hf-skills-training-codex>
 
-* **[Cohere on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-cohere.md)** (`tutorial` | `useful` tier)
+* **[Cohere on Hugging Face Inference Providers 🔥](ai/models/cohere-on-hugging-face-inference-providers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Cohere on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/inference-providers-cohere>
 
-* **[Comments on U.S. National AI Research Resource Interim Report](ai/models/huggingface-blog-us-national-ai-research-resource.md)** (`tutorial` | `useful` tier)
+* **[Comments on U.S. National AI Research Resource Interim Report](ai/models/comments-on-u-s-national-ai-research-resource-inte.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Comments on U.S. National AI Research Resource Interim Report
   * Source URL: <https://huggingface.co/blog/us-national-ai-research-resource>
 
@@ -2791,11 +5957,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.05551>
 
-* **[Consilium: When Multiple LLMs Collaborate](ai/models/huggingface-blog-consilium-multi-llm.md)** (`tutorial` | `useful` tier)
+* **[Consilium: When Multiple LLMs Collaborate](ai/models/consilium-when-multiple-llms-collaborate.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Consilium: When Multiple LLMs Collaborate
   * Source URL: <https://huggingface.co/blog/consilium-multi-llm>
 
-* **[Constitutional AI with Open LLMs](ai/models/huggingface-blog-constitutional-ai.md)** (`tutorial` | `useful` tier)
+* **[Constitutional AI with Open LLMs](ai/models/constitutional-ai-with-open-llms.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Constitutional AI with Open LLMs
   * Source URL: <https://huggingface.co/blog/constitutional_ai>
 
@@ -2804,7 +5970,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12767>
 
-* **[Continuous batching from first principles](ai/models/huggingface-blog-continuous-batching.md)** (`tutorial` | `useful` tier)
+* **[Continuous batching from first principles](ai/models/continuous-batching-from-first-principles.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Continuous batching from first principles
   * Source URL: <https://huggingface.co/blog/continuous_batching>
 
@@ -2817,15 +5983,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo
   * Source URL: <https://huggingface.co/blog/logits-processor-zoo>
 
-* **[ControlNet in 🧨 Diffusers](ai/models/huggingface-blog-controlnet.md)** (`tutorial` | `useful` tier)
+* **[ControlNet in 🧨 Diffusers](ai/models/controlnet-in-diffusers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: ControlNet in 🧨 Diffusers
   * Source URL: <https://huggingface.co/blog/controlnet>
 
-* **[Convert Transformers to ONNX with Hugging Face Optimum](ai/models/huggingface-blog-convert-transformers-to-onnx.md)** (`tutorial` | `useful` tier)
+* **[Convert Transformers to ONNX with Hugging Face Optimum](ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Convert Transformers to ONNX with Hugging Face Optimum
   * Source URL: <https://huggingface.co/blog/convert-transformers-to-onnx>
 
-* **[Converting Vertex-Colored Meshes to Textured Meshes](ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md)** (`tutorial` | `useful` tier)
+* **[Converting Vertex-Colored Meshes to Textured Meshes](ai/models/converting-vertex-colored-meshes-to-textured-meshe.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Converting Vertex-Colored Meshes to Textured Meshes
   * Source URL: <https://huggingface.co/blog/vertex-colored-to-textured-mesh>
 
@@ -2848,7 +6014,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.04009>
 
-* **[Course Launch Community Event](ai/models/huggingface-blog-course-launch-event.md)** (`tutorial` | `useful` tier)
+* **[Course Launch Community Event](ai/models/course-launch-community-event.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Course Launch Community Event
   * Tags: `producthunt`
   * Source URL: <https://huggingface.co/blog/course-launch-event>
@@ -2876,7 +6042,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Creating custom kernels for the AMD MI300
   * Source URL: <https://huggingface.co/blog/mi300kernels>
 
-* **[Creating Privacy Preserving AI with Substra](ai/models/huggingface-blog-owkin-substra.md)** (`tutorial` | `useful` tier)
+* **[Creating Privacy Preserving AI with Substra](ai/models/creating-privacy-preserving-ai-with-substra.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Creating Privacy Preserving AI with Substra
   * Source URL: <https://huggingface.co/blog/owkin-substra>
 
@@ -2905,7 +6071,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.11473>
 
-* **[Custom Kernels for All from Codex and Claude](ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)** (`tutorial` | `useful` tier)
+* **[Custom Kernels for All from Codex and Claude](ai/models/custom-kernels-for-all-from-codex-and-claude.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Custom Kernels for All from Codex and Claude
   * Tags: `anthropic`
   * Source URL: <https://huggingface.co/blog/custom-cuda-kernels-agent-skills>
@@ -2924,7 +6090,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Data Is Better Together: A Look Back and Forward
   * Source URL: <https://huggingface.co/blog/dibt>
 
-* **[Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](ai/models/huggingface-blog-community-datasets.md)** (`dataset` | `useful` tier)
+* **[Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces](ai/models/data-is-better-together-enabling-communities-to-co.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/community-datasets>
@@ -2934,7 +6100,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.11118>
 
-* **[Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](ai/models/huggingface-blog-databricks-case-study.md)** (`tutorial` | `useful` tier)
+* **[Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models](ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models
   * Source URL: <https://huggingface.co/blog/databricks-case-study>
 
@@ -2952,7 +6118,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore
   * Source URL: <https://huggingface.co/blog/vision-transformers>
 
-* **[Deep Learning over the Internet: Training Language Models Collaboratively](ai/models/huggingface-blog-collaborative-training.md)** (`tutorial` | `useful` tier)
+* **[Deep Learning over the Internet: Training Language Models Collaboratively](ai/models/deep-learning-over-the-internet-training-language.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deep Learning over the Internet: Training Language Models Collaboratively
   * Source URL: <https://huggingface.co/blog/collaborative-training>
 
@@ -2960,11 +6126,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Deep Learning with Proteins
   * Source URL: <https://huggingface.co/blog/deep-learning-with-proteins>
 
-* **[Deep Q-Learning with Space Invaders](ai/models/huggingface-blog-deep-rl-dqn.md)** (`tutorial` | `useful` tier)
+* **[Deep Q-Learning with Space Invaders](ai/models/deep-q-learning-with-space-invaders.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deep Q-Learning with Space Invaders
   * Source URL: <https://huggingface.co/blog/deep-rl-dqn>
 
-* **[DeepInfra on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-deepinfra.md)** (`tutorial` | `useful` tier)
+* **[DeepInfra on Hugging Face Inference Providers 🔥](ai/models/deepinfra-on-hugging-face-inference-providers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: DeepInfra on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/inference-providers-deepinfra>
 
@@ -3009,11 +6175,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.10198>
 
-* **[Deploy Embedding Models with Hugging Face Inference Endpoints](ai/models/huggingface-blog-inference-endpoints-embeddings.md)** (`tutorial` | `useful` tier)
+* **[Deploy Embedding Models with Hugging Face Inference Endpoints](ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploy Embedding Models with Hugging Face Inference Endpoints
   * Source URL: <https://huggingface.co/blog/inference-endpoints-embeddings>
 
-* **[Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker](ai/models/huggingface-blog-gptj-sagemaker.md)** (`tutorial` | `useful` tier)
+* **[Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker](ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker
   * Source URL: <https://huggingface.co/blog/gptj-sagemaker>
 
@@ -3021,7 +6187,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Deploy Hugging Face models easily with Amazon SageMaker
   * Source URL: <https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker>
 
-* **[Deploy Livebook notebooks as apps to Hugging Face Spaces](ai/models/huggingface-blog-livebook-app-deployment.md)** (`tutorial` | `useful` tier)
+* **[Deploy Livebook notebooks as apps to Hugging Face Spaces](ai/models/deploy-livebook-notebooks-as-apps-to-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploy Livebook notebooks as apps to Hugging Face Spaces
   * Source URL: <https://huggingface.co/blog/livebook-app-deployment>
 
@@ -3034,23 +6200,23 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama31-on-vertex-ai>
 
-* **[Deploy models on AWS Inferentia2 from Hugging Face](ai/models/huggingface-blog-inferentia-inference-endpoints.md)** (`tutorial` | `useful` tier)
+* **[Deploy models on AWS Inferentia2 from Hugging Face](ai/models/deploy-models-on-aws-inferentia2-from-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploy models on AWS Inferentia2 from Hugging Face
   * Source URL: <https://huggingface.co/blog/inferentia-inference-endpoints>
 
-* **[Deploy MusicGen in no time with Inference Endpoints](ai/models/huggingface-blog-run-musicgen-as-an-api.md)** (`tutorial` | `useful` tier)
+* **[Deploy MusicGen in no time with Inference Endpoints](ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploy MusicGen in no time with Inference Endpoints
   * Source URL: <https://huggingface.co/blog/run-musicgen-as-an-api>
 
-* **[Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md)** (`tutorial` | `useful` tier)
+* **[Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action](ai/models/deploying-hugging-face-models-with-bentoml-deepflo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action
   * Source URL: <https://huggingface.co/blog/deploy-deepfloydif-using-bentoml>
 
-* **[Deploying Speech-to-Speech on Hugging Face](ai/models/huggingface-blog-s2s-endpoint.md)** (`tutorial` | `useful` tier)
+* **[Deploying Speech-to-Speech on Hugging Face](ai/models/deploying-speech-to-speech-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploying Speech-to-Speech on Hugging Face
   * Source URL: <https://huggingface.co/blog/s2s_endpoint>
 
-* **[Deploying TensorFlow Vision Models in Hugging Face with TF Serving](ai/models/huggingface-blog-tf-serving-vision.md)** (`tutorial` | `useful` tier)
+* **[Deploying TensorFlow Vision Models in Hugging Face with TF Serving](ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deploying TensorFlow Vision Models in Hugging Face with TF Serving
   * Source URL: <https://huggingface.co/blog/tf-serving-vision>
 
@@ -3071,7 +6237,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.12702>
 
-* **[Deprecation of Git Authentication using password](ai/models/huggingface-blog-password-git-deprecation.md)** (`tutorial` | `useful` tier)
+* **[Deprecation of Git Authentication using password](ai/models/deprecation-of-git-authentication-using-password.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Deprecation of Git Authentication using password
   * Source URL: <https://huggingface.co/blog/password-git-deprecation>
 
@@ -3085,19 +6251,23 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.13276>
 
+* **[Differential Transformer V2](ai/models/differential-transformer-v2.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Differential Transformer V2
+  * Source URL: <https://huggingface.co/blog/microsoft/diff-attn-v2>
+
 * **[Differential Transformer V2](ai/models/huggingface-blog-microsoft.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Differential Transformer V2
   * Source URL: <https://huggingface.co/blog/microsoft>
 
-* **[Diffusers welcomes FLUX-2](ai/models/huggingface-blog-flux-2.md)** (`tutorial` | `useful` tier)
+* **[Diffusers welcomes FLUX-2](ai/models/diffusers-welcomes-flux-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Diffusers welcomes FLUX-2
   * Source URL: <https://huggingface.co/blog/flux-2>
 
-* **[Diffusers welcomes Stable Diffusion 3](ai/models/huggingface-blog-sd3.md)** (`tutorial` | `useful` tier)
+* **[Diffusers welcomes Stable Diffusion 3](ai/models/diffusers-welcomes-stable-diffusion-3.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Diffusers welcomes Stable Diffusion 3
   * Source URL: <https://huggingface.co/blog/sd3>
 
-* **[Diffusers welcomes Stable Diffusion 3.5 Large](ai/models/huggingface-blog-sd3-5.md)** (`tutorial` | `useful` tier)
+* **[Diffusers welcomes Stable Diffusion 3.5 Large](ai/models/diffusers-welcomes-stable-diffusion-3-5-large.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Diffusers welcomes Stable Diffusion 3.5 Large
   * Source URL: <https://huggingface.co/blog/sd3-5>
 
@@ -3114,6 +6284,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
   * Source URL: <https://huggingface.co/blog/dharma-ai>
 
+* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
+  * Source URL: <https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots>
+
 * **[Director of Machine Learning Insights](ai/models/huggingface-blog-ml-director-insights.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights
   * Source URL: <https://huggingface.co/blog/ml-director-insights>
@@ -3122,11 +6296,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 2: SaaS Edition]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-2>
 
-* **[Director of Machine Learning Insights [Part 3: Finance Edition]](ai/models/huggingface-blog-ml-director-insights-3.md)** (`tutorial` | `useful` tier)
+* **[Director of Machine Learning Insights [Part 3: Finance Edition]](ai/models/director-of-machine-learning-insights-part-3-finan.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 3: Finance Edition]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-3>
 
-* **[Director of Machine Learning Insights [Part 4]](ai/models/huggingface-blog-ml-director-insights-4.md)** (`tutorial` | `useful` tier)
+* **[Director of Machine Learning Insights [Part 4]](ai/models/director-of-machine-learning-insights-part-4.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 4]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-4>
 
@@ -3135,7 +6309,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2505.00571>
 
-* **[Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md)** (`tutorial` | `useful` tier)
+* **[Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker](ai/models/distributed-training-train-bart-t5-for-summarizati.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker
   * Source URL: <https://huggingface.co/blog/sagemaker-distributed-training-seq2seq>
 
@@ -3154,7 +6328,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.11205>
 
-* **[DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](ai/models/huggingface-blog-hub-duckdb.md)** (`dataset` | `useful` tier)
+* **[DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub](ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/hub-duckdb>
@@ -3163,7 +6337,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13053v1 Announce Type: cross Abstract: Pretrained-feature world models provide a useful substrate for robot imagination, but visual or latent prediction alone does not determine whether an imagined future satisfies task-relevant events. Lo
   * Source URL: <https://arxiv.org/abs/2606.13053>
 
-* **[Easily Build and Share ROCm Kernels with Hugging Face](ai/models/huggingface-blog-build-rocm-kernels.md)** (`tutorial` | `useful` tier)
+* **[Easily Build and Share ROCm Kernels with Hugging Face](ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Easily Build and Share ROCm Kernels with Hugging Face
   * Source URL: <https://huggingface.co/blog/build-rocm-kernels>
 
@@ -3181,7 +6355,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12569>
 
-* **[Efficient Controllable Generation for SDXL with T2I-Adapters](ai/models/huggingface-blog-t2i-sdxl-adapters.md)** (`tutorial` | `useful` tier)
+* **[Efficient Controllable Generation for SDXL with T2I-Adapters](ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Efficient Controllable Generation for SDXL with T2I-Adapters
   * Source URL: <https://huggingface.co/blog/t2i-sdxl-adapters>
 
@@ -3193,6 +6367,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11968v1 Announce Type: new Abstract: This paper studies efficient online algorithms for multinomial logistic bandits (MLogB), where the feedback distribution over $K+1$ outcomes follows a multinomial logistic model of $d$-dimensional actio
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.11968>
+
+* **[Efficient Request Queueing – Optimizing LLM Performance](ai/models/efficient-request-queueing-optimizing-llm-performa.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Efficient Request Queueing – Optimizing LLM Performance
+  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-request-queueing>
 
 * **[Efficient Table Pre-training without Real Data: An Introduction to TAPEX](ai/models/huggingface-blog-tapex.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Efficient Table Pre-training without Real Data: An Introduction to TAPEX
@@ -3255,7 +6433,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Ethical Guidelines for developing the Diffusers library
   * Source URL: <https://huggingface.co/blog/ethics-diffusers>
 
-* **[Ethics and Society Newsletter #1](ai/models/huggingface-blog-ethics-soc-1.md)** (`tutorial` | `useful` tier)
+* **[Ethics and Society Newsletter #1](ai/models/ethics-and-society-newsletter-1.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #1
   * Source URL: <https://huggingface.co/blog/ethics-soc-1>
 
@@ -3267,7 +6445,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #4: Bias in Text-to-Image Models
   * Source URL: <https://huggingface.co/blog/ethics-soc-4>
 
-* **[Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](ai/models/huggingface-blog-ethics-soc-5.md)** (`tutorial` | `useful` tier)
+* **[Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings](ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings
   * Source URL: <https://huggingface.co/blog/ethics-soc-5>
 
@@ -3275,7 +6453,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality
   * Source URL: <https://huggingface.co/blog/ethics-soc-6>
 
-* **[Ettin Suite: SoTA Paired Encoders and Decoders](ai/models/huggingface-blog-ettin.md)** (`tutorial` | `useful` tier)
+* **[Ettin Suite: SoTA Paired Encoders and Decoders](ai/models/ettin-suite-sota-paired-encoders-and-decoders.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Ettin Suite: SoTA Paired Encoders and Decoders
   * Source URL: <https://huggingface.co/blog/ettin>
 
@@ -3332,7 +6510,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.12032>
 
-* **[Experimenting with Automatic PII Detection on the Hub using Presidio](ai/models/huggingface-blog-presidio-pii-detection.md)** (`tutorial` | `useful` tier)
+* **[Experimenting with Automatic PII Detection on the Hub using Presidio](ai/models/experimenting-with-automatic-pii-detection-on-the.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Experimenting with Automatic PII Detection on the Hub using Presidio
   * Source URL: <https://huggingface.co/blog/presidio-pii-detection>
 
@@ -3355,9 +6533,25 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `youtube`
   * Source URL: <https://arxiv.org/abs/2606.12406>
 
-* **[Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](ai/models/huggingface-blog-falcon2-11b.md)** (`tutorial` | `useful` tier)
+* **[Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages](ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages
   * Source URL: <https://huggingface.co/blog/falcon2-11b>
+
+* **[Falcon Perception](ai/models/falcon-perception.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Falcon Perception
+  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-perception>
+
+* **[Falcon-Arabic: A Breakthrough in Arabic Language Models](ai/models/falcon-arabic-a-breakthrough-in-arabic-language-mo.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Falcon-Arabic: A Breakthrough in Arabic Language Models
+  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-arabic>
+
+* **[Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](ai/models/falcon-edge-a-series-of-powerful-universal-fine-tu.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.
+  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-edge>
+
+* **[Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](ai/models/falcon-h1-a-family-of-hybrid-head-language-models.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance
+  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-h1>
 
 * **[Family-Aware Residual Architecture for Predicting Quantum Circuit Simulation Performance](ai/research/arxiv-2606-11620.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11620v1 Announce Type: cross Abstract: Approximate tensor-network simulators enable classical simulation of quantum circuits beyond the reach of exact methods, but selecting optimal approximation parameters -- such as bond dimension thresh
@@ -3368,7 +6562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator
   * Source URL: <https://huggingface.co/blog/habana-gaudi-2-bloom>
 
-* **[Fast LoRA inference for Flux with Diffusers and PEFT](ai/models/huggingface-blog-lora-fast.md)** (`tutorial` | `useful` tier)
+* **[Fast LoRA inference for Flux with Diffusers and PEFT](ai/models/fast-lora-inference-for-flux-with-diffusers-and-pe.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fast LoRA inference for Flux with Diffusers and PEFT
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/lora-fast>
@@ -3377,19 +6571,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Faster assisted generation support for Intel Gaudi
   * Source URL: <https://huggingface.co/blog/assisted-generation-support-gaudi>
 
-* **[Faster Assisted Generation with Dynamic Speculation](ai/models/huggingface-blog-dynamic-speculation-lookahead.md)** (`tutorial` | `useful` tier)
+* **[Faster Assisted Generation with Dynamic Speculation](ai/models/faster-assisted-generation-with-dynamic-speculatio.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Faster Assisted Generation with Dynamic Speculation
   * Source URL: <https://huggingface.co/blog/dynamic_speculation_lookahead>
 
-* **[Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](ai/models/huggingface-blog-fast-diffusers-coreml.md)** (`tutorial` | `useful` tier)
+* **[Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac](ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac
   * Source URL: <https://huggingface.co/blog/fast-diffusers-coreml>
 
-* **[Faster TensorFlow models in Hugging Face Transformers](ai/models/huggingface-blog-tf-serving.md)** (`tutorial` | `useful` tier)
+* **[Faster TensorFlow models in Hugging Face Transformers](ai/models/faster-tensorflow-models-in-hugging-face-transform.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Faster TensorFlow models in Hugging Face Transformers
   * Source URL: <https://huggingface.co/blog/tf-serving>
 
-* **[Faster Text Generation with Self-Speculative Decoding](ai/models/huggingface-blog-layerskip.md)** (`tutorial` | `useful` tier)
+* **[Faster Text Generation with Self-Speculative Decoding](ai/models/faster-text-generation-with-self-speculative-decod.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Faster Text Generation with Self-Speculative Decoding
   * Source URL: <https://huggingface.co/blog/layerskip>
 
@@ -3397,7 +6591,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Faster Text Generation with TensorFlow and XLA
   * Source URL: <https://huggingface.co/blog/tf-xla-generate>
 
-* **[Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](ai/models/huggingface-blog-habana-gaudi-2-benchmark.md)** (`benchmark` | `useful` tier)
+* **[Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB](ai/models/faster-training-and-inference-habana-gaudi-r-2-vs.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Faster Training and Inference: Habana Gaudi®2 vs Nvidia A100 80GB
   * Source URL: <https://huggingface.co/blog/habana-gaudi-2-benchmark>
 
@@ -3453,7 +6647,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Fine tuning CLIP with Remote Sensing (Satellite) images and captions
   * Source URL: <https://huggingface.co/blog/fine-tune-clip-rsicd>
 
-* **[Fine-Tune a Semantic Segmentation Model with a Custom Dataset](ai/models/huggingface-blog-fine-tune-segformer.md)** (`dataset` | `useful` tier)
+* **[Fine-Tune a Semantic Segmentation Model with a Custom Dataset](ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-Tune a Semantic Segmentation Model with a Custom Dataset
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/fine-tune-segformer>
@@ -3462,12 +6656,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
   * Source URL: <https://huggingface.co/blog/togethercomputer>
 
+* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
+  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
+
 * **[Fine-tune Llama 2 with DPO](ai/models/huggingface-blog-dpo-trl.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tune Llama 2 with DPO
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/dpo-trl>
 
-* **[Fine-Tune MMS Adapter Models for low-resource ASR](ai/models/huggingface-blog-mms-adapters.md)** (`tutorial` | `useful` tier)
+* **[Fine-Tune MMS Adapter Models for low-resource ASR](ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-Tune MMS Adapter Models for low-resource ASR
   * Source URL: <https://huggingface.co/blog/mms_adapters>
 
@@ -3483,7 +6681,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/fine-tune-wav2vec2-english>
 
-* **[Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](ai/models/huggingface-blog-fine-tune-whisper.md)** (`tutorial` | `useful` tier)
+* **[Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/fine-tune-whisper>
 
@@ -3496,22 +6694,22 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/trl-peft>
 
-* **[Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](ai/models/huggingface-blog-finetune-florence2.md)** (`tutorial` | `useful` tier)
+* **[Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models](ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/finetune-florence2>
 
-* **[Fine-Tuning Gemma Models in Hugging Face](ai/models/huggingface-blog-gemma-peft.md)** (`tutorial` | `useful` tier)
+* **[Fine-Tuning Gemma Models in Hugging Face](ai/models/fine-tuning-gemma-models-in-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-Tuning Gemma Models in Hugging Face
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/gemma-peft>
 
-* **[Fine-tuning Llama 2 70B using PyTorch FSDP](ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md)** (`tutorial` | `useful` tier)
+* **[Fine-tuning Llama 2 70B using PyTorch FSDP](ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tuning Llama 2 70B using PyTorch FSDP
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/ram-efficient-pytorch-fsdp>
 
-* **[Fine-tuning LLMs to 1.58bit: extreme quantization made easy](ai/models/huggingface-blog-1-58-llm-extreme-quantization.md)** (`tutorial` | `useful` tier)
+* **[Fine-tuning LLMs to 1.58bit: extreme quantization made easy](ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tuning LLMs to 1.58bit: extreme quantization made easy
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/1_58_llm_extreme_quantization>
@@ -3521,7 +6719,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `models`
   * Source URL: <https://arxiv.org/abs/2606.11854>
 
-* **[Fine-tuning Stable Diffusion models on Intel CPUs](ai/models/huggingface-blog-stable-diffusion-finetuning-intel.md)** (`tutorial` | `useful` tier)
+* **[Fine-tuning Stable Diffusion models on Intel CPUs](ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tuning Stable Diffusion models on Intel CPUs
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/stable-diffusion-finetuning-intel>
@@ -3530,7 +6728,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Finetune Stable Diffusion Models with DDPO via TRL
   * Source URL: <https://huggingface.co/blog/trl-ddpo>
 
-* **[FineVideo: behind the scenes](ai/models/huggingface-blog-fine-video.md)** (`tutorial` | `useful` tier)
+* **[Finetuning olmOCR to be a faithful OCR-Engine](ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Finetuning olmOCR to be a faithful OCR-Engine
+  * Source URL: <https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine>
+
+* **[FineVideo: behind the scenes](ai/models/finevideo-behind-the-scenes.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: FineVideo: behind the scenes
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/fine-video>
@@ -3586,11 +6788,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.07537>
 
-* **[From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](ai/models/huggingface-blog-from-chunks-to-blocks.md)** (`tutorial` | `useful` tier)
+* **[From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub](ai/models/from-chunks-to-blocks-accelerating-uploads-and-dow.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub
   * Source URL: <https://huggingface.co/blog/from-chunks-to-blocks>
 
-* **[From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](ai/models/huggingface-blog-microsoft-collaboration.md)** (`tutorial` | `useful` tier)
+* **[From cloud to developers: Hugging Face and Microsoft Deepen Collaboration](ai/models/from-cloud-to-developers-hugging-face-and-microsof.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From cloud to developers: Hugging Face and Microsoft Deepen Collaboration
   * Source URL: <https://huggingface.co/blog/microsoft-collaboration>
 
@@ -3603,7 +6805,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.11207>
 
-* **[From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](ai/models/huggingface-blog-elixir-bumblebee.md)** (`tutorial` | `useful` tier)
+* **[From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community](ai/models/from-gpt2-to-stable-diffusion-hugging-face-arrives.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community
   * Source URL: <https://huggingface.co/blog/elixir-bumblebee>
 
@@ -3612,7 +6814,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2512.15134>
 
-* **[From OpenAI to Open LLMs with Messages API on Hugging Face](ai/models/huggingface-blog-tgi-messages-api.md)** (`tutorial` | `useful` tier)
+* **[From OpenAI to Open LLMs with Messages API on Hugging Face](ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From OpenAI to Open LLMs with Messages API on Hugging Face
   * Tags: `openai`
   * Source URL: <https://huggingface.co/blog/tgi-messages-api>
@@ -3622,7 +6824,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.11911>
 
-* **[From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md)** (`tutorial` | `useful` tier)
+* **[From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease](ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease
   * Source URL: <https://huggingface.co/blog/pytorch-ddp-accelerate-transformers>
 
@@ -3658,7 +6860,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2605.01733>
 
-* **[Gemma 3n fully available in the open-source ecosystem!](ai/models/huggingface-blog-gemma3n.md)** (`tutorial` | `useful` tier)
+* **[Gemma 3n fully available in the open-source ecosystem!](ai/models/gemma-3n-fully-available-in-the-open-source-ecosys.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Gemma 3n fully available in the open-source ecosystem!
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/gemma3n>
@@ -3673,7 +6875,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2509.10303>
 
-* **[Generate Images with Claude and Hugging Face](ai/models/huggingface-blog-claude-and-mcp.md)** (`tutorial` | `useful` tier)
+* **[Generate Images with Claude and Hugging Face](ai/models/generate-images-with-claude-and-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Generate Images with Claude and Hugging Face
   * Tags: `anthropic`
   * Source URL: <https://huggingface.co/blog/claude-and-mcp>
@@ -3682,7 +6884,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Generating Human-level Text with Contrastive Search in Transformers 🤗
   * Source URL: <https://huggingface.co/blog/introducing-csearch>
 
-* **[Generating Stories: AI for Game Development #5](ai/models/huggingface-blog-ml-for-games-5.md)** (`tutorial` | `useful` tier)
+* **[Generating Stories: AI for Game Development #5](ai/models/generating-stories-ai-for-game-development-5.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Generating Stories: AI for Game Development #5
   * Source URL: <https://huggingface.co/blog/ml-for-games-5>
 
@@ -3714,7 +6916,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `youtube`
   * Source URL: <https://arxiv.org/abs/2605.16713>
 
-* **[Get your VLM running in 3 simple steps on Intel CPUs](ai/models/huggingface-blog-openvino-vlm.md)** (`tutorial` | `useful` tier)
+* **[Get your VLM running in 3 simple steps on Intel CPUs](ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Get your VLM running in 3 simple steps on Intel CPUs
   * Source URL: <https://huggingface.co/blog/openvino-vlm>
 
@@ -3731,7 +6933,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Getting Started with Hugging Face Transformers for IPUs with Optimum
   * Source URL: <https://huggingface.co/blog/graphcore-getting-started>
 
-* **[Getting Started with Sentiment Analysis on Twitter](ai/models/huggingface-blog-sentiment-analysis-twitter.md)** (`tutorial` | `useful` tier)
+* **[Getting Started with Sentiment Analysis on Twitter](ai/models/getting-started-with-sentiment-analysis-on-twitter.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Getting Started with Sentiment Analysis on Twitter
   * Source URL: <https://huggingface.co/blog/sentiment-analysis-twitter>
 
@@ -3739,7 +6941,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Getting Started with Sentiment Analysis using Python
   * Source URL: <https://huggingface.co/blog/sentiment-analysis-python>
 
-* **[Getting Started with Transformers on Habana Gaudi](ai/models/huggingface-blog-getting-started-habana.md)** (`tutorial` | `useful` tier)
+* **[Getting Started with Transformers on Habana Gaudi](ai/models/getting-started-with-transformers-on-habana-gaudi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Getting Started with Transformers on Habana Gaudi
   * Source URL: <https://huggingface.co/blog/getting-started-habana>
 
@@ -3758,7 +6960,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/lora-adapters-dynamic-loading>
 
-* **[Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md)** (`tutorial` | `useful` tier)
+* **[Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face](ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Google Cloud C4 Brings a 70% TCO improvement on GPT OSS with Intel and Hugging Face
   * Source URL: <https://huggingface.co/blog/gpt-oss-on-intel-xeon>
 
@@ -3780,13 +6982,25 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Gradio 3.0 is Out!
   * Source URL: <https://huggingface.co/blog/gradio-blocks>
 
-* **[Gradio is joining Hugging Face!](ai/models/huggingface-blog-gradio-joins-hf.md)** (`tutorial` | `useful` tier)
+* **[Gradio is joining Hugging Face!](ai/models/gradio-is-joining-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Gradio is joining Hugging Face!
   * Source URL: <https://huggingface.co/blog/gradio-joins-hf>
 
 * **[Gradio-Lite: Serverless Gradio Running Entirely in Your Browser](ai/models/huggingface-blog-gradio-lite.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Gradio-Lite: Serverless Gradio Running Entirely in Your Browser
   * Source URL: <https://huggingface.co/blog/gradio-lite>
+
+* **[Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents
+  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-vision>
+
+* **[Granite 4.0 Nano: Just how small can you go?](ai/models/granite-4-0-nano-just-how-small-can-you-go.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Granite 4.0 Nano: Just how small can you go?
+  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-nano>
+
+* **[Granite 4.1 LLMs: How They’re Built](ai/models/granite-4-1-llms-how-theyre-built.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Granite 4.1 LLMs: How They’re Built
+  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-1>
 
 * **[Graph Classification with Transformers](ai/models/huggingface-blog-graphml-classification.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Graph Classification with Transformers
@@ -3797,7 +7011,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.12581>
 
-* **[Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](ai/models/huggingface-blog-graphcore-update.md)** (`tutorial` | `useful` tier)
+* **[Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers](ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers
   * Tags: `producthunt`
   * Source URL: <https://huggingface.co/blog/graphcore-update>
@@ -3814,6 +7028,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Guiding Text Generation with Constrained Beam Search in 🤗 Transformers](ai/models/huggingface-blog-constrained-beam-search.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Guiding Text Generation with Constrained Beam Search in 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/constrained-beam-search>
+
+* **[H Company's new Holo2 model takes the lead in UI Localization](ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: H Company's new Holo2 model takes the lead in UI Localization
+  * Source URL: <https://huggingface.co/blog/hcompany/introducing-holo2-235b-a22b>
 
 * **[Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training](ai/models/huggingface-blog-habana.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training
@@ -3856,7 +7074,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/streamlit-spaces>
 
-* **[How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](ai/models/huggingface-blog-keras-chatbot-arena.md)** (`tutorial` | `useful` tier)
+* **[How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs](ai/models/how-good-are-llms-at-fixing-their-mistakes-a-chatb.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs
   * Source URL: <https://huggingface.co/blog/keras-chatbot-arena>
 
@@ -3872,11 +7090,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
   * Source URL: <https://huggingface.co/blog/tngtech>
 
+* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
+  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
+
 * **[How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit](ai/research/arxiv-2606-12182.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12182v1 Announce Type: new Abstract: Identifying the governing equations of complex dynamical systems remains a fundamental challenge across science and engineering. While early approaches relied on empirical data and heuristics, modern da
   * Source URL: <https://arxiv.org/abs/2606.12182>
 
-* **[How NuminaMath Won the 1st AIMO Progress Prize](ai/models/huggingface-blog-winning-aimo-progress-prize.md)** (`tutorial` | `useful` tier)
+* **[How NuminaMath Won the 1st AIMO Progress Prize](ai/models/how-numinamath-won-the-1st-aimo-progress-prize.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How NuminaMath Won the 1st AIMO Progress Prize
   * Source URL: <https://huggingface.co/blog/winning-aimo-progress-prize>
 
@@ -3885,11 +7107,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.07515>
 
-* **[How to Build an MCP Server with Gradio](ai/models/huggingface-blog-gradio-mcp.md)** (`mcp-server` | `useful` tier)
+* **[How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](ai/models/how-to-build-a-healthcare-robot-from-simulation-to.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare
+  * Source URL: <https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare>
+
+* **[How to Build an MCP Server with Gradio](ai/models/how-to-build-an-mcp-server-with-gradio.md)** (`mcp-server` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to Build an MCP Server with Gradio
   * Source URL: <https://huggingface.co/blog/gradio-mcp>
 
-* **[How to build scalable web apps with OpenAI's Privacy Filter](ai/models/huggingface-blog-openai-privacy-filter-web-apps.md)** (`tutorial` | `useful` tier)
+* **[How to build scalable web apps with OpenAI's Privacy Filter](ai/models/how-to-build-scalable-web-apps-with-openai-s-priva.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to build scalable web apps with OpenAI's Privacy Filter
   * Tags: `openai`
   * Source URL: <https://huggingface.co/blog/openai-privacy-filter-web-apps>
@@ -3898,11 +7124,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How to deploy and fine-tune DeepSeek models on AWS
   * Source URL: <https://huggingface.co/blog/deepseek-r1-aws>
 
-* **[How to generate text: using different decoding methods for language generation with Transformers](ai/models/huggingface-blog-how-to-generate.md)** (`tutorial` | `useful` tier)
+* **[How to generate text: using different decoding methods for language generation with Transformers](ai/models/how-to-generate-text-using-different-decoding-meth.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to generate text: using different decoding methods for language generation with Transformers
   * Source URL: <https://huggingface.co/blog/how-to-generate>
 
-* **[How to host a Unity game in a Space](ai/models/huggingface-blog-unity-in-spaces.md)** (`tutorial` | `useful` tier)
+* **[How to host a Unity game in a Space](ai/models/how-to-host-a-unity-game-in-a-space.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to host a Unity game in a Space
   * Source URL: <https://huggingface.co/blog/unity-in-spaces>
 
@@ -3910,23 +7136,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How to Install and Use the Hugging Face Unity API
   * Source URL: <https://huggingface.co/blog/unity-api>
 
-* **[How to train a Language Model with Megatron-LM](ai/models/huggingface-blog-megatron-training.md)** (`tutorial` | `useful` tier)
+* **[How to train a Language Model with Megatron-LM](ai/models/how-to-train-a-language-model-with-megatron-lm.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to train a Language Model with Megatron-LM
   * Source URL: <https://huggingface.co/blog/megatron-training>
 
-* **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/huggingface-blog-how-to-train.md)** (`tutorial` | `useful` tier)
+* **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to train a new language model from scratch using Transformers and Tokenizers
   * Source URL: <https://huggingface.co/blog/how-to-train>
 
-* **[How to train your model dynamically using adversarial data](ai/models/huggingface-blog-mnist-adversarial.md)** (`tutorial` | `useful` tier)
+* **[How to train your model dynamically using adversarial data](ai/models/how-to-train-your-model-dynamically-using-adversar.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to train your model dynamically using adversarial data
   * Source URL: <https://huggingface.co/blog/mnist-adversarial>
 
-* **[How to Use Transformers.js in a Chrome Extension](ai/models/huggingface-blog-transformersjs-chrome-extension.md)** (`tutorial` | `useful` tier)
+* **[How to Use Transformers.js in a Chrome Extension](ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How to Use Transformers.js in a Chrome Extension
   * Source URL: <https://huggingface.co/blog/transformersjs-chrome-extension>
 
-* **[How we sped up transformer inference 100x for 🤗 API customers](ai/models/huggingface-blog-accelerated-inference.md)** (`tutorial` | `useful` tier)
+* **[How we sped up transformer inference 100x for 🤗 API customers](ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How we sped up transformer inference 100x for 🤗 API customers
   * Source URL: <https://huggingface.co/blog/accelerated-inference>
 
@@ -3971,7 +7197,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Hugging Face and JFrog partner to make AI Security more transparent
   * Source URL: <https://huggingface.co/blog/jfrog>
 
-* **[Hugging Face and VirusTotal collaborate to strengthen AI security](ai/models/huggingface-blog-virustotal.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face and VirusTotal collaborate to strengthen AI security](ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face and VirusTotal collaborate to strengthen AI security
   * Source URL: <https://huggingface.co/blog/virustotal>
 
@@ -3984,7 +7210,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account
   * Source URL: <https://huggingface.co/blog/aws-marketplace>
 
-* **[Hugging Face Machine Learning Demos on arXiv](ai/models/huggingface-blog-arxiv.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face Machine Learning Demos on arXiv](ai/models/hugging-face-machine-learning-demos-on-arxiv.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face Machine Learning Demos on arXiv
   * Source URL: <https://huggingface.co/blog/arxiv>
 
@@ -3996,11 +7222,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Hugging Face on AMD Instinct MI300 GPU
   * Source URL: <https://huggingface.co/blog/huggingface-amd-mi300>
 
-* **[Hugging Face on PyTorch / XLA TPUs](ai/models/huggingface-blog-pytorch-xla.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face on PyTorch / XLA TPUs](ai/models/hugging-face-on-pytorch-xla-tpus.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face on PyTorch / XLA TPUs
   * Source URL: <https://huggingface.co/blog/pytorch-xla>
 
-* **[Hugging Face partners with TruffleHog to Scan for Secrets](ai/models/huggingface-blog-trufflesecurity-partnership.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face partners with TruffleHog to Scan for Secrets](ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face partners with TruffleHog to Scan for Secrets
   * Source URL: <https://huggingface.co/blog/trufflesecurity-partnership>
 
@@ -4012,15 +7238,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Hugging Face Reads, Feb. 2021 - Long-range Transformers
   * Source URL: <https://huggingface.co/blog/long-range-transformers>
 
-* **[Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](ai/models/huggingface-blog-cnil.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face Selected for the French Data Protection Agency Enhanced Support Program](ai/models/hugging-face-selected-for-the-french-data-protecti.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face Selected for the French Data Protection Agency Enhanced Support Program
   * Source URL: <https://huggingface.co/blog/cnil>
 
-* **[Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](ai/models/huggingface-blog-protectai.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community](ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community
   * Source URL: <https://huggingface.co/blog/protectai>
 
-* **[Hugging Face Text Generation Inference available for AWS Inferentia2](ai/models/huggingface-blog-text-generation-inference-on-inferentia2.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face Text Generation Inference available for AWS Inferentia2](ai/models/hugging-face-text-generation-inference-available-f.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face Text Generation Inference available for AWS Inferentia2
   * Source URL: <https://huggingface.co/blog/text-generation-inference-on-inferentia2>
 
@@ -4032,15 +7258,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Hugging Face x LangChain : A new partner package
   * Source URL: <https://huggingface.co/blog/langchain>
 
-* **[Hugging Face's TensorFlow Philosophy](ai/models/huggingface-blog-tensorflow-philosophy.md)** (`tutorial` | `useful` tier)
+* **[Hugging Face's TensorFlow Philosophy](ai/models/hugging-face-s-tensorflow-philosophy.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hugging Face's TensorFlow Philosophy
   * Source URL: <https://huggingface.co/blog/tensorflow-philosophy>
 
-* **[HuggingFace, IISc partner to supercharge model building on India's diverse languages](ai/models/huggingface-blog-iisc-huggingface-collab.md)** (`tutorial` | `useful` tier)
+* **[HuggingFace, IISc partner to supercharge model building on India's diverse languages](ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: HuggingFace, IISc partner to supercharge model building on India's diverse languages
   * Source URL: <https://huggingface.co/blog/iisc-huggingface-collab>
 
-* **[huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](ai/models/huggingface-blog-huggingface-hub-v1.md)** (`tutorial` | `useful` tier)
+* **[huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
   * Source URL: <https://huggingface.co/blog/huggingface-hub-v1>
 
@@ -4063,11 +7289,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.13289>
 
-* **[Hyperparameter Search with Transformers and Ray Tune](ai/models/huggingface-blog-ray-tune.md)** (`tutorial` | `useful` tier)
+* **[Hyperparameter Search with Transformers and Ray Tune](ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Hyperparameter Search with Transformers and Ray Tune
   * Source URL: <https://huggingface.co/blog/ray-tune>
 
-* **[Illustrating Reinforcement Learning from Human Feedback (RLHF)](ai/models/huggingface-blog-rlhf.md)** (`tutorial` | `useful` tier)
+* **[Illustrating Reinforcement Learning from Human Feedback (RLHF)](ai/models/illustrating-reinforcement-learning-from-human-fee.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Illustrating Reinforcement Learning from Human Feedback (RLHF)
   * Source URL: <https://huggingface.co/blog/rlhf>
 
@@ -4080,12 +7306,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/image-search-datasets>
 
-* **[Image Similarity with Hugging Face Datasets and Transformers](ai/models/huggingface-blog-image-similarity.md)** (`dataset` | `useful` tier)
+* **[Image Similarity with Hugging Face Datasets and Transformers](ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Image Similarity with Hugging Face Datasets and Transformers
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/image-similarity>
 
-* **[Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](ai/models/huggingface-blog-gradio-vton-mcp.md)** (`mcp-server` | `useful` tier)
+* **[Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)** (`mcp-server` | `useful` tier)
   * Summary: No summary provided. Reference resource: Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio
   * Source URL: <https://huggingface.co/blog/gradio-vton-mcp>
 
@@ -4099,7 +7325,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.08986>
 
-* **[Improving Hugging Face Model Access for Kaggle Users](ai/models/huggingface-blog-kaggle-integration.md)** (`tutorial` | `useful` tier)
+* **[Improving Hugging Face Model Access for Kaggle Users](ai/models/improving-hugging-face-model-access-for-kaggle-use.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Improving Hugging Face Model Access for Kaggle Users
   * Source URL: <https://huggingface.co/blog/kaggle-integration>
 
@@ -4116,7 +7342,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2512.14937>
 
-* **[Improving Prompt Consistency with Structured Generations](ai/models/huggingface-blog-evaluation-structured-outputs.md)** (`prompt` | `useful` tier)
+* **[Improving Prompt Consistency with Structured Generations](ai/models/improving-prompt-consistency-with-structured-gener.md)** (`prompt` | `useful` tier)
   * Summary: No summary provided. Reference resource: Improving Prompt Consistency with Structured Generations
   * Source URL: <https://huggingface.co/blog/evaluation-structured-outputs>
 
@@ -4141,7 +7367,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11629v1 Announce Type: cross Abstract: This manuscript proposes an integral formulation of the newly defined quadratic embedding method for identifying nonlinear systems (QENDy). In the original algorithm, trajectory data points along with
   * Source URL: <https://arxiv.org/abs/2606.11629>
 
-* **[Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](ai/models/huggingface-blog-intel.md)** (`tutorial` | `useful` tier)
+* **[Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration](ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
   * Source URL: <https://huggingface.co/blog/intel>
 
@@ -4169,7 +7395,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/aisheets>
 
-* **[Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](ai/models/huggingface-blog-anylanguagemodel.md)** (`tutorial` | `useful` tier)
+* **[Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms](ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms
   * Source URL: <https://huggingface.co/blog/anylanguagemodel>
 
@@ -4182,7 +7408,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing BERTopic Integration with the Hugging Face Hub
   * Source URL: <https://huggingface.co/blog/bertopic>
 
-* **[Introducing Community Tools on HuggingChat](ai/models/huggingface-blog-community-tools.md)** (`tutorial` | `useful` tier)
+* **[Introducing Community Tools on HuggingChat](ai/models/introducing-community-tools-on-huggingchat.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Community Tools on HuggingChat
   * Source URL: <https://huggingface.co/blog/community-tools>
 
@@ -4190,11 +7416,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?
   * Source URL: <https://huggingface.co/blog/leaderboard-contextual>
 
-* **[Introducing Daggr: Chain apps programmatically, inspect visually](ai/models/huggingface-blog-daggr.md)** (`tutorial` | `useful` tier)
+* **[Introducing Daggr: Chain apps programmatically, inspect visually](ai/models/introducing-daggr-chain-apps-programmatically-insp.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Daggr: Chain apps programmatically, inspect visually
   * Source URL: <https://huggingface.co/blog/daggr>
 
-* **[Introducing Decision Transformers on Hugging Face 🤗](ai/models/huggingface-blog-decision-transformers.md)** (`tutorial` | `useful` tier)
+* **[Introducing Decision Transformers on Hugging Face 🤗](ai/models/introducing-decision-transformers-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Decision Transformers on Hugging Face 🤗
   * Source URL: <https://huggingface.co/blog/decision-transformers>
 
@@ -4203,15 +7429,19 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/introducing-doi>
 
+* **[Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](ai/models/introducing-falcon-h1-arabic-pushing-the-boundarie.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture
+  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-h1-arabic>
+
 * **[Introducing Gradio's new Dataframe!](ai/models/huggingface-blog-gradio-dataframe-upgrade.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Gradio's new Dataframe!
   * Source URL: <https://huggingface.co/blog/gradio-dataframe-upgrade>
 
-* **[Introducing HELMET: Holistically Evaluating Long-context Language Models](ai/models/huggingface-blog-helmet.md)** (`benchmark` | `useful` tier)
+* **[Introducing HELMET: Holistically Evaluating Long-context Language Models](ai/models/introducing-helmet-holistically-evaluating-long-co.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing HELMET: Holistically Evaluating Long-context Language Models
   * Source URL: <https://huggingface.co/blog/helmet>
 
-* **[Introducing Hugging Face for Education 🤗](ai/models/huggingface-blog-education.md)** (`tutorial` | `useful` tier)
+* **[Introducing Hugging Face for Education 🤗](ai/models/introducing-hugging-face-for-education.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Hugging Face for Education 🤗
   * Source URL: <https://huggingface.co/blog/education>
 
@@ -4219,7 +7449,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community
   * Source URL: <https://huggingface.co/blog/chinese-language-blog>
 
-* **[Introducing HUGS - Scale your AI with Open Models](ai/models/huggingface-blog-hugs.md)** (`tutorial` | `useful` tier)
+* **[Introducing HUGS - Scale your AI with Open Models](ai/models/introducing-hugs-scale-your-ai-with-open-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing HUGS - Scale your AI with Open Models
   * Source URL: <https://huggingface.co/blog/hugs>
 
@@ -4227,7 +7457,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing Idefics2: A Powerful 8B Vision-Language Model for the community
   * Source URL: <https://huggingface.co/blog/idefics2>
 
-* **[Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](ai/models/huggingface-blog-idefics.md)** (`tutorial` | `useful` tier)
+* **[Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model](ai/models/introducing-idefics-an-open-reproduction-of-state.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model
   * Source URL: <https://huggingface.co/blog/idefics>
 
@@ -4235,11 +7465,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
   * Source URL: <https://huggingface.co/blog/jetbrains>
 
+* **[Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
+  * Source URL: <https://huggingface.co/blog/jetbrains/mellum2-launch>
+
 * **[Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](ai/models/huggingface-blog-modular-diffusers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines
   * Source URL: <https://huggingface.co/blog/modular-diffusers>
 
-* **[Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](ai/models/huggingface-blog-tgi-multi-backend.md)** (`tutorial` | `useful` tier)
+* **[Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference
   * Source URL: <https://huggingface.co/blog/tgi-multi-backend>
 
@@ -4248,27 +7482,31 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/datasets-docs-update>
 
+* **[Introducing North Mini Code: Cohere’s First Model For Developers](ai/models/introducing-north-mini-code-coheres-first-model-fo.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing North Mini Code: Cohere’s First Model For Developers
+  * Source URL: <https://huggingface.co/blog/coherelabs/introducing-north-mini-code>
+
 * **[Introducing North Mini Code: Cohere’s First Model For Developers](ai/models/huggingface-blog-coherelabs.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing North Mini Code: Cohere’s First Model For Developers
   * Source URL: <https://huggingface.co/blog/coherelabs>
 
-* **[Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](ai/models/huggingface-blog-npc-gigax-cubzh.md)** (`tutorial` | `useful` tier)
+* **[Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs
   * Source URL: <https://huggingface.co/blog/npc-gigax-cubzh>
 
-* **[Introducing Optimum: The Optimization Toolkit for Transformers at Scale](ai/models/huggingface-blog-hardware-partners-program.md)** (`tutorial` | `useful` tier)
+* **[Introducing Optimum: The Optimization Toolkit for Transformers at Scale](ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Optimum: The Optimization Toolkit for Transformers at Scale
   * Source URL: <https://huggingface.co/blog/hardware-partners-program>
 
-* **[Introducing Prodigy-HF: a direct integration with Hugging Face](ai/models/huggingface-blog-prodigy-hf.md)** (`tutorial` | `useful` tier)
+* **[Introducing Prodigy-HF: a direct integration with Hugging Face](ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Prodigy-HF: a direct integration with Hugging Face
   * Source URL: <https://huggingface.co/blog/prodigy-hf>
 
-* **[Introducing Pull Requests and Discussions 🥳](ai/models/huggingface-blog-community-update.md)** (`tutorial` | `useful` tier)
+* **[Introducing Pull Requests and Discussions 🥳](ai/models/introducing-pull-requests-and-discussions.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Pull Requests and Discussions 🥳
   * Source URL: <https://huggingface.co/blog/community-update>
 
-* **[Introducing RTEB: A New Standard for Retrieval Evaluation](ai/models/huggingface-blog-rteb.md)** (`benchmark` | `useful` tier)
+* **[Introducing RTEB: A New Standard for Retrieval Evaluation](ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing RTEB: A New Standard for Retrieval Evaluation
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/rteb>
@@ -4281,19 +7519,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing SafeCoder
   * Source URL: <https://huggingface.co/blog/safecoder>
 
-* **[Introducing Skops](ai/models/huggingface-blog-skops.md)** (`tutorial` | `useful` tier)
+* **[Introducing Skops](ai/models/introducing-skops.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Skops
   * Source URL: <https://huggingface.co/blog/skops>
 
-* **[Introducing Spaces Dev Mode for a seamless developer experience](ai/models/huggingface-blog-spaces-dev-mode.md)** (`tutorial` | `useful` tier)
+* **[Introducing Spaces Dev Mode for a seamless developer experience](ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Spaces Dev Mode for a seamless developer experience
   * Source URL: <https://huggingface.co/blog/spaces-dev-mode>
 
-* **[Introducing swift-huggingface: The Complete Swift Client for Hugging Face](ai/models/huggingface-blog-swift-huggingface.md)** (`tutorial` | `useful` tier)
+* **[Introducing swift-huggingface: The Complete Swift Client for Hugging Face](ai/models/introducing-swift-huggingface-the-complete-swift-c.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing swift-huggingface: The Complete Swift Client for Hugging Face
   * Source URL: <https://huggingface.co/blog/swift-huggingface>
 
-* **[Introducing SynthID Text](ai/models/huggingface-blog-synthid-text.md)** (`tutorial` | `useful` tier)
+* **[Introducing SyGra Studio](ai/models/introducing-sygra-studio.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing SyGra Studio
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/sygra-studio>
+
+* **[Introducing SynthID Text](ai/models/introducing-synthid-text.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing SynthID Text
   * Source URL: <https://huggingface.co/blog/synthid-text>
 
@@ -4305,11 +7547,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing the AMD 5th Gen EPYC™ CPU
   * Source URL: <https://huggingface.co/blog/huggingface-amd-turin>
 
-* **[Introducing the Chatbot Guardrails Arena](ai/models/huggingface-blog-arena-lighthouz.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Chatbot Guardrails Arena](ai/models/introducing-the-chatbot-guardrails-arena.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Chatbot Guardrails Arena
   * Source URL: <https://huggingface.co/blog/arena-lighthouz>
 
-* **[Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](ai/models/huggingface-blog-data-measurements-tool.md)** (`dataset` | `useful` tier)
+* **[Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets](ai/models/introducing-the-data-measurements-tool-an-interact.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/data-measurements-tool>
@@ -4319,7 +7561,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-patronus>
 
-* **[Introducing the Ettin Reranker Family](ai/models/huggingface-blog-ettin-reranker.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Ettin Reranker Family](ai/models/introducing-the-ettin-reranker-family.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Ettin Reranker Family
   * Source URL: <https://huggingface.co/blog/ettin-reranker>
 
@@ -4327,7 +7569,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing the Hugging Face Embedding Container for Amazon SageMaker
   * Source URL: <https://huggingface.co/blog/sagemaker-huggingface-embedding>
 
-* **[Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](ai/models/huggingface-blog-sagemaker-huggingface-llm.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Hugging Face LLM Inference Container for Amazon SageMaker](ai/models/introducing-the-hugging-face-llm-inference-contain.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Hugging Face LLM Inference Container for Amazon SageMaker
   * Source URL: <https://huggingface.co/blog/sagemaker-huggingface-llm>
 
@@ -4336,7 +7578,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-livecodebench>
 
-* **[Introducing the Open Arabic LLM Leaderboard](ai/models/huggingface-blog-leaderboard-arabic.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Open Arabic LLM Leaderboard](ai/models/introducing-the-open-arabic-llm-leaderboard.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Open Arabic LLM Leaderboard
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-arabic>
@@ -4351,17 +7593,17 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-finbench>
 
-* **[Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](ai/models/huggingface-blog-leaderboard-upstage.md)** (`benchmark` | `useful` tier)
+* **[Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem](ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem
   * Tags: `benchmark`, `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-upstage>
 
-* **[Introducing the Open Leaderboard for Hebrew LLMs!](ai/models/huggingface-blog-leaderboard-hebrew.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Open Leaderboard for Hebrew LLMs!](ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Open Leaderboard for Hebrew LLMs!
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-hebrew>
 
-* **[Introducing the Open Leaderboard for Japanese LLMs!](ai/models/huggingface-blog-leaderboard-japanese.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Open Leaderboard for Japanese LLMs!](ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Open Leaderboard for Japanese LLMs!
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-japanese>
@@ -4370,11 +7612,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!
   * Source URL: <https://huggingface.co/blog/writer>
 
+* **[Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](ai/models/introducing-the-palmyra-mini-family-powerful-light.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!
+  * Source URL: <https://huggingface.co/blog/writer/announcing-palmyra-mini>
+
 * **[Introducing the Private Hub: A New Way to Build With Machine Learning](ai/models/huggingface-blog-introducing-private-hub.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Private Hub: A New Way to Build With Machine Learning
   * Source URL: <https://huggingface.co/blog/introducing-private-hub>
 
-* **[Introducing the Red-Teaming Resistance Leaderboard](ai/models/huggingface-blog-leaderboard-haizelab.md)** (`tutorial` | `useful` tier)
+* **[Introducing the Red-Teaming Resistance Leaderboard](ai/models/introducing-the-red-teaming-resistance-leaderboard.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Red-Teaming Resistance Leaderboard
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-haizelab>
@@ -4384,7 +7630,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/sql-console>
 
-* **[Introducing the Synthetic Data Generator - Build Datasets with Natural Language](ai/models/huggingface-blog-synthetic-data-generator.md)** (`dataset` | `useful` tier)
+* **[Introducing the Synthetic Data Generator - Build Datasets with Natural Language](ai/models/introducing-the-synthetic-data-generator-build-dat.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing the Synthetic Data Generator - Build Datasets with Natural Language
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/synthetic-data-generator>
@@ -4401,20 +7647,20 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face
   * Source URL: <https://huggingface.co/blog/trackio>
 
-* **[Introducing Training Cluster as a Service - a new collaboration with NVIDIA](ai/models/huggingface-blog-nvidia-training-cluster.md)** (`tutorial` | `useful` tier)
+* **[Introducing Training Cluster as a Service - a new collaboration with NVIDIA](ai/models/introducing-training-cluster-as-a-service-a-new-co.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Training Cluster as a Service - a new collaboration with NVIDIA
   * Source URL: <https://huggingface.co/blog/nvidia-training-cluster>
 
-* **[Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](ai/models/huggingface-blog-waypoint-1.md)** (`tutorial` | `useful` tier)
+* **[Introducing Waypoint-1: Real-time interactive video diffusion from Overworld](ai/models/introducing-waypoint-1-real-time-interactive-video.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Waypoint-1: Real-time interactive video diffusion from Overworld
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/waypoint-1>
 
-* **[Introducing Würstchen: Fast Diffusion for Image Generation](ai/models/huggingface-blog-wuerstchen.md)** (`tutorial` | `useful` tier)
+* **[Introducing Würstchen: Fast Diffusion for Image Generation](ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Würstchen: Fast Diffusion for Image Generation
   * Source URL: <https://huggingface.co/blog/wuerstchen>
 
-* **[Introducing 🤗 Accelerate](ai/models/huggingface-blog-accelerate-library.md)** (`framework` | `useful` tier)
+* **[Introducing 🤗 Accelerate](ai/models/introducing-accelerate.md)** (`framework` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing 🤗 Accelerate
   * Source URL: <https://huggingface.co/blog/accelerate-library>
 
@@ -4426,7 +7672,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introduction to ggml
   * Source URL: <https://huggingface.co/blog/introduction-to-ggml>
 
-* **[Introduction to Graph Machine Learning](ai/models/huggingface-blog-intro-graphml.md)** (`tutorial` | `useful` tier)
+* **[Introduction to Graph Machine Learning](ai/models/introduction-to-graph-machine-learning.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introduction to Graph Machine Learning
   * Source URL: <https://huggingface.co/blog/intro-graphml>
 
@@ -4453,7 +7699,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.13348>
 
-* **[Japanese Stable Diffusion](ai/models/huggingface-blog-japanese-stable-diffusion.md)** (`tutorial` | `useful` tier)
+* **[Japanese Stable Diffusion](ai/models/japanese-stable-diffusion.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Japanese Stable Diffusion
   * Source URL: <https://huggingface.co/blog/japanese-stable-diffusion>
 
@@ -4465,7 +7711,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Join the AMD Open Robotics Hackathon
   * Source URL: <https://huggingface.co/blog/amd>
 
-* **[Journey to 1 Million Gradio Users!](ai/models/huggingface-blog-gradio-1m.md)** (`tutorial` | `useful` tier)
+* **[Join the AMD Open Robotics Hackathon](ai/models/join-the-amd-open-robotics-hackathon.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Join the AMD Open Robotics Hackathon
+  * Source URL: <https://huggingface.co/blog/amd/openroboticshackathon>
+
+* **[Journey to 1 Million Gradio Users!](ai/models/journey-to-1-million-gradio-users.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Journey to 1 Million Gradio Users!
   * Source URL: <https://huggingface.co/blog/gradio-1m>
 
@@ -4479,7 +7729,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/arena-atla>
 
-* **[Jupyter X Hugging Face](ai/models/huggingface-blog-notebooks-hub.md)** (`tutorial` | `useful` tier)
+* **[Jupyter X Hugging Face](ai/models/jupyter-x-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Jupyter X Hugging Face
   * Source URL: <https://huggingface.co/blog/notebooks-hub>
 
@@ -4497,7 +7747,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2605.19031>
 
-* **[Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](ai/models/huggingface-blog-async-rl-training-landscape.md)** (`tutorial` | `useful` tier)
+* **[Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
   * Source URL: <https://huggingface.co/blog/async-rl-training-landscape>
 
@@ -4505,12 +7755,20 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Kimina-Prover-RL
   * Source URL: <https://huggingface.co/blog/ai-mo>
 
+* **[Kimina-Prover-RL](ai/models/kimina-prover-rl.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Kimina-Prover-RL
+  * Source URL: <https://huggingface.co/blog/ai-mo/kimina-prover-rl>
+
+* **[Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](ai/models/kimina-prover-applying-test-time-rl-search-on-larg.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models
+  * Source URL: <https://huggingface.co/blog/ai-mo/kimina-prover>
+
 * **[Kuramoto Attention: Synchronizing Self-Attention on the Torus](ai/research/arxiv-2606-11585.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11585v1 Announce Type: new Abstract: We introduce Kuramoto attention, a self-attention layer in which each hidden coordinate is an angle. The layer scores tokens by gated cosine similarity, attends over previous phase states, and updates e
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11585>
 
-* **[KV Cache from scratch in nanoVLM](ai/models/huggingface-blog-kv-cache.md)** (`tutorial` | `useful` tier)
+* **[KV Cache from scratch in nanoVLM](ai/models/kv-cache-from-scratch-in-nanovlm.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: KV Cache from scratch in nanoVLM
   * Source URL: <https://huggingface.co/blog/kv-cache>
 
@@ -4528,11 +7786,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2508.18636v2 Announce Type: replace-cross Abstract: Representing a new paradigm in software distribution, LLM app stores are rapidly emerging, offering users diverse choices for content generation, coding assistance, education, and more. Howeve
   * Source URL: <https://arxiv.org/abs/2508.18636>
 
-* **[Large Language Models: A New Moore's Law?](ai/models/huggingface-blog-large-language-models.md)** (`tutorial` | `useful` tier)
+* **[Large Language Models: A New Moore's Law?](ai/models/large-language-models-a-new-moore-s-law.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Large Language Models: A New Moore's Law?
   * Source URL: <https://huggingface.co/blog/large-language-models>
 
-* **[Large-scale Near-deduplication Behind BigCode](ai/models/huggingface-blog-dedup.md)** (`tutorial` | `useful` tier)
+* **[Large-scale Near-deduplication Behind BigCode](ai/models/large-scale-near-deduplication-behind-bigcode.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Large-scale Near-deduplication Behind BigCode
   * Source URL: <https://huggingface.co/blog/dedup>
 
@@ -4555,7 +7813,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`, `producthunt`
   * Source URL: <https://huggingface.co/blog/leaderboard-artificial-analysis2>
 
-* **[LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)** (`benchmark` | `useful` tier)
+* **[LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?](ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
   * Tags: `benchmark`, `models`
   * Source URL: <https://huggingface.co/blog/zero-shot-vqa-docmatix>
@@ -4582,17 +7840,17 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: LeMaterial: an open source initiative to accelerate materials discovery and research
   * Source URL: <https://huggingface.co/blog/lematerial>
 
-* **[LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](ai/models/huggingface-blog-lerobot-datasets.md)** (`dataset` | `useful` tier)
+* **[LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?](ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/lerobot-datasets>
 
-* **[LeRobot goes to driving school: World’s largest open-source self-driving dataset](ai/models/huggingface-blog-lerobot-goes-to-driving-school.md)** (`dataset` | `useful` tier)
+* **[LeRobot goes to driving school: World’s largest open-source self-driving dataset](ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: LeRobot goes to driving school: World’s largest open-source self-driving dataset
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/lerobot-goes-to-driving-school>
 
-* **[LeRobot v0.4.0: Supercharging OSS Robot Learning](ai/models/huggingface-blog-lerobot-release-v040.md)** (`tutorial` | `useful` tier)
+* **[LeRobot v0.4.0: Supercharging OSS Robot Learning](ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: LeRobot v0.4.0: Supercharging OSS Robot Learning
   * Source URL: <https://huggingface.co/blog/lerobot-release-v040>
 
@@ -4600,15 +7858,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: LeRobot v0.5.0: Scaling Every Dimension
   * Source URL: <https://huggingface.co/blog/lerobot-release-v050>
 
-* **[Let's talk about biases in machine learning! Ethics and Society Newsletter #2](ai/models/huggingface-blog-ethics-soc-2.md)** (`tutorial` | `useful` tier)
+* **[Let's talk about biases in machine learning! Ethics and Society Newsletter #2](ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Let's talk about biases in machine learning! Ethics and Society Newsletter #2
   * Source URL: <https://huggingface.co/blog/ethics-soc-2>
 
-* **[Letting Large Models Debate: The First Multilingual LLM Debate Competition](ai/models/huggingface-blog-debate.md)** (`tutorial` | `useful` tier)
+* **[Letting Large Models Debate: The First Multilingual LLM Debate Competition](ai/models/letting-large-models-debate-the-first-multilingual.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Letting Large Models Debate: The First Multilingual LLM Debate Competition
   * Source URL: <https://huggingface.co/blog/debate>
 
-* **[Liberate your OpenClaw](ai/models/huggingface-blog-liberate-your-openclaw.md)** (`tutorial` | `useful` tier)
+* **[Liberate your OpenClaw](ai/models/liberate-your-openclaw.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Liberate your OpenClaw
   * Source URL: <https://huggingface.co/blog/liberate-your-openclaw>
 
@@ -4626,17 +7884,17 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`
   * Source URL: <https://arxiv.org/abs/2505.13102>
 
-* **[Llama 2 is here - get it on Hugging Face](ai/models/huggingface-blog-llama2.md)** (`tutorial` | `useful` tier)
+* **[Llama 2 is here - get it on Hugging Face](ai/models/llama-2-is-here-get-it-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Llama 2 is here - get it on Hugging Face
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama2>
 
-* **[Llama 2 on Amazon SageMaker a Benchmark](ai/models/huggingface-blog-llama-sagemaker-benchmark.md)** (`benchmark` | `useful` tier)
+* **[Llama 2 on Amazon SageMaker a Benchmark](ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Llama 2 on Amazon SageMaker a Benchmark
   * Tags: `benchmark`, `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama-sagemaker-benchmark>
 
-* **[Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](ai/models/huggingface-blog-llama31.md)** (`tutorial` | `useful` tier)
+* **[Llama 3.1 - 405B, 70B & 8B with multilinguality and long context](ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Llama 3.1 - 405B, 70B & 8B with multilinguality and long context
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama31>
@@ -4646,7 +7904,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama32>
 
-* **[LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](ai/models/huggingface-blog-llm-inference-on-edge.md)** (`tutorial` | `useful` tier)
+* **[LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!](ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!
   * Tags: `frontend_ui`
   * Source URL: <https://huggingface.co/blog/llm-inference-on-edge>
@@ -4691,11 +7949,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.11463>
 
-* **[Machine Learning Experts - Lewis Tunstall](ai/models/huggingface-blog-lewis-tunstall-interview.md)** (`tutorial` | `useful` tier)
+* **[Machine Learning Experts - Lewis Tunstall](ai/models/machine-learning-experts-lewis-tunstall.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Machine Learning Experts - Lewis Tunstall
   * Source URL: <https://huggingface.co/blog/lewis-tunstall-interview>
 
-* **[Machine Learning Experts - Margaret Mitchell](ai/models/huggingface-blog-meg-mitchell-interview.md)** (`tutorial` | `useful` tier)
+* **[Machine Learning Experts - Margaret Mitchell](ai/models/machine-learning-experts-margaret-mitchell.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Machine Learning Experts - Margaret Mitchell
   * Source URL: <https://huggingface.co/blog/meg-mitchell-interview>
 
@@ -4717,20 +7975,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/unsloth-trl>
 
-* **[Make your llama generation time fly with AWS Inferentia2](ai/models/huggingface-blog-inferentia-llama2.md)** (`tutorial` | `useful` tier)
+* **[Make your llama generation time fly with AWS Inferentia2](ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Make your llama generation time fly with AWS Inferentia2
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/inferentia-llama2>
 
-* **[Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](ai/models/huggingface-blog-zerogpu-aoti.md)** (`tutorial` | `useful` tier)
+* **[Make your ZeroGPU Spaces go brrr with ahead-of-time compilation](ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Make your ZeroGPU Spaces go brrr with ahead-of-time compilation
   * Source URL: <https://huggingface.co/blog/zerogpu-aoti>
 
-* **[Making a web app generator with open ML models](ai/models/huggingface-blog-text-to-webapp.md)** (`tutorial` | `useful` tier)
+* **[Making a web app generator with open ML models](ai/models/making-a-web-app-generator-with-open-ml-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Making a web app generator with open ML models
   * Source URL: <https://huggingface.co/blog/text-to-webapp>
 
-* **[Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](ai/models/huggingface-blog-asr-chunking.md)** (`tutorial` | `useful` tier)
+* **[Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers](ai/models/making-automatic-speech-recognition-work-on-large.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/asr-chunking>
 
@@ -4743,7 +8001,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Making LLMs lighter with AutoGPTQ and transformers
   * Source URL: <https://huggingface.co/blog/gptq-integration>
 
-* **[Making ML-powered web games with Transformers.js](ai/models/huggingface-blog-ml-web-games.md)** (`tutorial` | `useful` tier)
+* **[Making ML-powered web games with Transformers.js](ai/models/making-ml-powered-web-games-with-transformers-js.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Making ML-powered web games with Transformers.js
   * Source URL: <https://huggingface.co/blog/ml-web-games>
 
@@ -4779,6 +8037,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11279>
 
+* **[Mastering Long Contexts in LLMs with KVPress](ai/models/mastering-long-contexts-in-llms-with-kvpress.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Mastering Long Contexts in LLMs with KVPress
+  * Source URL: <https://huggingface.co/blog/nvidia/kvpress>
+
 * **[MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](ai/research/arxiv-2606-13473.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13473v1 Announce Type: cross Abstract: We present MaxProof, a population-level test-time scaling framework for competition-level mathematical proof in the MiniMax-M3 series. M3 first trains three proof-oriented capabilities -- proof genera
   * Source URL: <https://arxiv.org/abs/2606.13473>
@@ -4786,6 +8048,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[MCP for Research: How to Connect AI to Research Tools](ai/models/huggingface-blog-mcp-for-research.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: MCP for Research: How to Connect AI to Research Tools
   * Source URL: <https://huggingface.co/blog/mcp-for-research>
+
+* **[Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](ai/models/measuring-open-source-llama-nemotron-models-on-dee.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Measuring Open-Source Llama Nemotron Models on DeepResearch Bench
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent>
 
 * **[Measuring Semantic Progress in Multi-turn Dialogue via Information Gain](ai/research/arxiv-2606-12332.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12332v1 Announce Type: cross Abstract: Evaluating multi-turn dialogue is challenging because quality emerges across turns rather than within individual responses. We focus on a key dimension of information-seeking dialogue: semantic progre
@@ -4802,12 +8069,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2603.21396>
 
+* **[Meet HoloTab by HCompany. Your AI browser companion.](ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Meet HoloTab by HCompany. Your AI browser companion.
+  * Source URL: <https://huggingface.co/blog/hcompany/holotab>
+
 * **[MemNovo: Look Back at the Spectrum for Balanced De Novo Peptide Sequencing from Mass Spectrometry](ai/research/arxiv-2606-11868.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11868v1 Announce Type: new Abstract: De novo peptide sequencing from tandem mass spectrometry is pivotal in proteomics, enabling identification of novel peptides without reference databases. While recent Transformer-based encoder-decoder m
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.11868>
 
-* **[Memory-efficient Diffusion Transformers with Quanto and Diffusers](ai/models/huggingface-blog-quanto-diffusers.md)** (`tutorial` | `useful` tier)
+* **[Memory-efficient Diffusion Transformers with Quanto and Diffusers](ai/models/memory-efficient-diffusion-transformers-with-quant.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Memory-efficient Diffusion Transformers with Quanto and Diffusers
   * Source URL: <https://huggingface.co/blog/quanto-diffusers>
 
@@ -4825,13 +8096,17 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Microsoft and Hugging Face expand collaboration
   * Source URL: <https://huggingface.co/blog/azure-ai-foundry>
 
-* **[Migrating the Hub from Git LFS to Xet](ai/models/huggingface-blog-migrating-the-hub-to-xet.md)** (`tutorial` | `useful` tier)
+* **[Migrating the Hub from Git LFS to Xet](ai/models/migrating-the-hub-from-git-lfs-to-xet.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Migrating the Hub from Git LFS to Xet
   * Source URL: <https://huggingface.co/blog/migrating-the-hub-to-xet>
 
-* **[Migrating Your GitHub CI to Hugging Face Jobs](ai/models/huggingface-blog-github-ci-hf-jobs.md)** (`tutorial` | `useful` tier)
+* **[Migrating Your GitHub CI to Hugging Face Jobs](ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Migrating Your GitHub CI to Hugging Face Jobs
   * Source URL: <https://huggingface.co/blog/github-ci-hf-jobs>
+
+* **[Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial
+  * Source URL: <https://huggingface.co/blog/open-r1/mini-r1-contdown-game>
 
 * **[Minimal surfaces, Knots, and Neural Networks](ai/research/arxiv-2605-26234.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.26234v2 Announce Type: replace-cross Abstract: A recent conjecture by Joel Fine posits a relationship between the coefficients of the HOMFLY polynomial of a knot $K$ in the 3-sphere $S^3$, and the signed count of minimal surfaces in hyperb
@@ -4846,7 +8121,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2506.01396v2 Announce Type: replace Abstract: Differential privacy (DP) has become an essential framework for privacy-preserving machine learning. Existing DP learning methods, however, often have disparate impacts on model predictions, e.g., f
   * Source URL: <https://arxiv.org/abs/2506.01396>
 
-* **[Mixture of Experts (MoEs) in Transformers](ai/models/huggingface-blog-moe-transformers.md)** (`tutorial` | `useful` tier)
+* **[Mixture of Experts (MoEs) in Transformers](ai/models/mixture-of-experts-moes-in-transformers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Mixture of Experts (MoEs) in Transformers
   * Source URL: <https://huggingface.co/blog/moe-transformers>
 
@@ -4859,11 +8134,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.12809>
 
-* **[mmBERT: ModernBERT goes Multilingual](ai/models/huggingface-blog-mmbert.md)** (`tutorial` | `useful` tier)
+* **[mmBERT: ModernBERT goes Multilingual](ai/models/mmbert-modernbert-goes-multilingual.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: mmBERT: ModernBERT goes Multilingual
   * Source URL: <https://huggingface.co/blog/mmbert>
 
-* **[Model Cards](ai/models/huggingface-blog-model-cards.md)** (`tutorial` | `useful` tier)
+* **[Model Cards](ai/models/model-cards.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Model Cards
   * Source URL: <https://huggingface.co/blog/model-cards>
 
@@ -4890,7 +8165,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13119>
 
-* **[MTEB: Massive Text Embedding Benchmark](ai/models/huggingface-blog-mteb.md)** (`benchmark` | `useful` tier)
+* **[MTEB: Massive Text Embedding Benchmark](ai/models/mteb-massive-text-embedding-benchmark.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: MTEB: Massive Text Embedding Benchmark
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/mteb>
@@ -4904,7 +8179,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.11107>
 
-* **[Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/huggingface-blog-multimodal-sentence-transformers.md)** (`tutorial` | `useful` tier)
+* **[Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/multimodal-embedding-reranker-models-with-sentence.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Multimodal Embedding & Reranker Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/multimodal-sentence-transformers>
 
@@ -4918,11 +8193,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.11792>
 
-* **[Multivariate Probabilistic Time Series Forecasting with Informer](ai/models/huggingface-blog-informer.md)** (`tutorial` | `useful` tier)
+* **[Multivariate Probabilistic Time Series Forecasting with Informer](ai/models/multivariate-probabilistic-time-series-forecasting.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Multivariate Probabilistic Time Series Forecasting with Informer
   * Source URL: <https://huggingface.co/blog/informer>
 
-* **[My Journey to a serverless transformers pipeline on Google Cloud](ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)** (`tutorial` | `useful` tier)
+* **[My Journey to a serverless transformers pipeline on Google Cloud](ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: My Journey to a serverless transformers pipeline on Google Cloud
   * Source URL: <https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds>
 
@@ -4930,9 +8205,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: nanoVLM: The simplest repository to train your VLM in pure PyTorch
   * Source URL: <https://huggingface.co/blog/nanovlm>
 
+* **[Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
+  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety>
+
 * **[Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](ai/models/huggingface-blog-nvidia.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
   * Source URL: <https://huggingface.co/blog/nvidia>
+
+* **[Nemotron-Personas-India: Synthesized Data for Sovereign AI](ai/models/nemotron-personas-india-synthesized-data-for-sover.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Nemotron-Personas-India: Synthesized Data for Sovereign AI
+  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-personas-india>
+
+* **[Nemotron-Personas-Japan: ソブリン AI のための合成データセット](ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-chen.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Nemotron-Personas-Japan: ソブリン AI のための合成データセット
+  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja>
 
 * **[Neural ensemble Kalman filter: Data assimilation for compressible flows with shocks](ai/research/arxiv-2602-23461.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.23461v2 Announce Type: replace-cross Abstract: Data assimilation (DA) for compressible flows with shocks is challenging because many classical DA methods generate spurious oscillations and nonphysical features near uncertain shocks. We foc
@@ -4943,20 +8230,29 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.00945v2 Announce Type: replace-cross Abstract: LLMs are multilingual by training, yet their lingua franca is often English, reflecting English language dominance in pretraining. Other languages remain in parametric memory but are systemati
   * Source URL: <https://arxiv.org/abs/2602.00945>
 
+* **[Neural Super Sampling is here!](ai/models/neural-super-sampling-is-here.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Neural Super Sampling is here!
+  * Source URL: <https://huggingface.co/blog/arm/neural-super-sampling>
+
 * **[Neural-Parameterized Cellular Automata for Wildfire Spread](ai/research/arxiv-2606-11676.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11676v1 Announce Type: cross Abstract: Traditional wildfire models rely on rigid, low-dimensional parameters and static fuel maps, frequently underpredicting fire spread. To address this weakness, we introduce a hybrid deep-learning parame
   * Source URL: <https://arxiv.org/abs/2606.11676>
+
+* **[New in llama.cpp: Model Management](ai/models/new-in-llama-cpp-model-management.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: New in llama.cpp: Model Management
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/ggml-org/model-management-in-llamacpp>
 
 * **[New in llama.cpp: Model Management](ai/models/huggingface-blog-ggml-org.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: New in llama.cpp: Model Management
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/ggml-org>
 
-* **[New ViT and ALIGN Models From Kakao Brain](ai/models/huggingface-blog-vit-align.md)** (`tutorial` | `useful` tier)
+* **[New ViT and ALIGN Models From Kakao Brain](ai/models/new-vit-and-align-models-from-kakao-brain.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: New ViT and ALIGN Models From Kakao Brain
   * Source URL: <https://huggingface.co/blog/vit-align>
 
-* **[No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](ai/models/huggingface-blog-vllm-colocate.md)** (`tutorial` | `useful` tier)
+* **[No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL](ai/models/no-gpu-left-behind-unlocking-efficiency-with-co-lo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL
   * Source URL: <https://huggingface.co/blog/vllm-colocate>
 
@@ -4969,7 +8265,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2509.26294v2 Announce Type: replace Abstract: We consider imitation learning in the low-data regime, where only a limited number of expert demonstrations are available. In this setting, methods that rely on large-scale pretraining or high-capac
   * Source URL: <https://arxiv.org/abs/2509.26294>
 
-* **[Non-engineers guide: Train a LLaMA 2 chatbot](ai/models/huggingface-blog-llama2-for-non-engineers.md)** (`tutorial` | `useful` tier)
+* **[Non-engineers guide: Train a LLaMA 2 chatbot](ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Non-engineers guide: Train a LLaMA 2 chatbot
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama2-for-non-engineers>
@@ -4978,21 +8274,30 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12350v1 Announce Type: new Abstract: The rapid proliferation of large language models (LLMs) raises critical questions about human creativity and individual expression in an era of AI-assisted creation. When do humans adopt AI suggestions,
   * Source URL: <https://arxiv.org/abs/2606.12350>
 
-* **[NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](ai/models/huggingface-blog-leaderboard-nphardeval.md)** (`benchmark` | `useful` tier)
+* **[NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates](ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-nphardeval>
 
-* **[NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](ai/models/huggingface-blog-nvidia-physical-ai.md)** (`dataset` | `useful` tier)
+* **[NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](ai/models/nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI
+  * Source URL: <https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning>
+
+* **[NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](ai/models/nvidia-releases-6-million-multi-lingual-reasoning.md)** (`dataset` | `useful` tier)
+  * Summary: No summary provided. Reference resource: NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset
+  * Tags: `dataset`
+  * Source URL: <https://huggingface.co/blog/nvidia/multilingual-reasoning-v1>
+
+* **[NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets](ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/nvidia-physical-ai>
 
-* **[Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](ai/models/huggingface-blog-nystromformer.md)** (`tutorial` | `useful` tier)
+* **[Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method](ai/models/nystromformer-approximating-self-attention-in-line.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method
   * Source URL: <https://huggingface.co/blog/nystromformer>
 
-* **[Object Detection Leaderboard](ai/models/huggingface-blog-object-detection-leaderboard.md)** (`tutorial` | `useful` tier)
+* **[Object Detection Leaderboard](ai/models/object-detection-leaderboard.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Object Detection Leaderboard
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/object-detection-leaderboard>
@@ -5014,6 +8319,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[OGPO: Sample Efficient Full-Finetuning of Generative Control Policies](ai/research/arxiv-2605-03065.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.03065v2 Announce Type: replace Abstract: Generative control policies (GCPs), such as diffusion- and flow-based control policies, have emerged as effective parameterizations for robot learning. This work introduces Off-policy Generative Pol
   * Source URL: <https://arxiv.org/abs/2605.03065>
+
+* **[OlmoEarth v1.1: A more efficient family of Earth observation models](ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: OlmoEarth v1.1: A more efficient family of Earth observation models
+  * Source URL: <https://huggingface.co/blog/allenai/olmoearth-v1-1>
 
 * **[OlmoEarth v1.1: A more efficient family of Earth observation models](ai/models/huggingface-blog-allenai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: OlmoEarth v1.1: A more efficient family of Earth observation models
@@ -5052,6 +8361,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2603.10834>
 
+* **[On the Shifting Global Compute Landscape](ai/models/on-the-shifting-global-compute-landscape.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: On the Shifting Global Compute Landscape
+  * Source URL: <https://huggingface.co/blog/huggingface/shifting-compute-landscape>
+
 * **[Once-for-All: Scalable Simultaneous Forecasting via Equilibrium State Estimation](ai/research/arxiv-2606-13285.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13285v1 Announce Type: cross Abstract: We introduce Equilibrium State Estimation (ESE), a novel paradigm for simultaneous prediction, where multiple interacting systems require separate yet coordinated forecasts. Such scenarios often arise
   * Tags: `dataset`
@@ -5061,6 +8374,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13610v1 Announce Type: cross Abstract: Search-augmented LLMs increasingly mediate everyday consumer recommendations by retrieving live web content. This creates a new risk: generative recommenders may consume polluted web content, such as
   * Tags: `benchmark`, `models`
   * Source URL: <https://arxiv.org/abs/2606.13610>
+
+* **[One Year Since the “DeepSeek Moment”](ai/models/one-year-since-the-deepseek-moment.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: One Year Since the “DeepSeek Moment”
+  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment>
 
 * **[One-Shot Any Web App with Gradio's gr.HTML](ai/models/huggingface-blog-gradio-html-one-shot-apps.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: One-Shot Any Web App with Gradio's gr.HTML
@@ -5076,7 +8393,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13464>
 
-* **[Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](ai/models/huggingface-blog-open-asr-leaderboard.md)** (`tutorial` | `useful` tier)
+* **[Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks](ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/open-asr-leaderboard>
@@ -5086,7 +8403,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/open-llm-leaderboard-drop>
 
-* **[Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](ai/models/huggingface-blog-image-preferences.md)** (`dataset` | `useful` tier)
+* **[Open Preference Dataset for Text-to-Image Generation by the 🤗 Community](ai/models/open-preference-dataset-for-text-to-image-generati.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open Preference Dataset for Text-to-Image Generation by the 🤗 Community
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/image-preferences>
@@ -5095,15 +8412,35 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Open R1: How to use OlympicCoder locally for coding
   * Source URL: <https://huggingface.co/blog/olympic-coder-lmstudio>
 
-* **[Open Responses: What you need to know](ai/models/huggingface-blog-open-responses.md)** (`tutorial` | `useful` tier)
+* **[Open R1: Update #2](ai/models/open-r1-update-2.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open R1: Update #2
+  * Source URL: <https://huggingface.co/blog/open-r1/update-2>
+
+* **[Open R1: Update #3](ai/models/open-r1-update-3.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open R1: Update #3
+  * Source URL: <https://huggingface.co/blog/open-r1/update-3>
+
+* **[Open R1: Update #4](ai/models/open-r1-update-4.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open R1: Update #4
+  * Source URL: <https://huggingface.co/blog/open-r1/update-4>
+
+* **[Open Responses: What you need to know](ai/models/open-responses-what-you-need-to-know.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open Responses: What you need to know
   * Source URL: <https://huggingface.co/blog/open-responses>
 
-* **[Open Source Developers Guide to the EU AI Act](ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md)** (`tutorial` | `useful` tier)
+* **[Open Source Developers Guide to the EU AI Act](ai/models/open-source-developers-guide-to-the-eu-ai-act.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open Source Developers Guide to the EU AI Act
   * Source URL: <https://huggingface.co/blog/eu-ai-act-for-oss-developers>
 
-* **[Open-Source Text Generation & LLM Ecosystem at Hugging Face](ai/models/huggingface-blog-os-llms.md)** (`tutorial` | `useful` tier)
+* **[Open-R1: a fully open reproduction of DeepSeek-R1](ai/models/open-r1-a-fully-open-reproduction-of-deepseek-r1.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open-R1: a fully open reproduction of DeepSeek-R1
+  * Source URL: <https://huggingface.co/blog/open-r1>
+
+* **[Open-R1: Update #1](ai/models/open-r1-update-1.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Open-R1: Update #1
+  * Source URL: <https://huggingface.co/blog/open-r1/update-1>
+
+* **[Open-Source Text Generation & LLM Ecosystem at Hugging Face](ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open-Source Text Generation & LLM Ecosystem at Hugging Face
   * Source URL: <https://huggingface.co/blog/os-llms>
 
@@ -5126,11 +8463,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: OpenRAIL: Towards open and responsible AI licensing frameworks
   * Source URL: <https://huggingface.co/blog/open_rail>
 
-* **[Opinion Classification with Kili and HuggingFace AutoTrain](ai/models/huggingface-blog-opinion-classification-with-kili.md)** (`tutorial` | `useful` tier)
+* **[Opinion Classification with Kili and HuggingFace AutoTrain](ai/models/opinion-classification-with-kili-and-huggingface-a.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Opinion Classification with Kili and HuggingFace AutoTrain
   * Source URL: <https://huggingface.co/blog/opinion-classification-with-kili>
 
-* **[Optimization story: Bloom inference](ai/models/huggingface-blog-bloom-inference-optimization.md)** (`tutorial` | `useful` tier)
+* **[Optimization story: Bloom inference](ai/models/optimization-story-bloom-inference.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Optimization story: Bloom inference
   * Source URL: <https://huggingface.co/blog/bloom-inference-optimization>
 
@@ -5147,19 +8484,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Optimizing Bark using 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/optimizing-bark>
 
-* **[Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](ai/models/huggingface-blog-train-optimize-sd-intel.md)** (`tutorial` | `useful` tier)
+* **[Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum](ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nn.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum
   * Source URL: <https://huggingface.co/blog/train-optimize-sd-intel>
 
-* **[Optimizing your LLM in production](ai/models/huggingface-blog-optimize-llm.md)** (`tutorial` | `useful` tier)
+* **[Optimizing your LLM in production](ai/models/optimizing-your-llm-in-production.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Optimizing your LLM in production
   * Source URL: <https://huggingface.co/blog/optimize-llm>
 
-* **[Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](ai/models/huggingface-blog-optimum-onnxruntime-training.md)** (`tutorial` | `useful` tier)
+* **[Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models](ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models
   * Source URL: <https://huggingface.co/blog/optimum-onnxruntime-training>
 
-* **[Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](ai/models/huggingface-blog-optimum-nvidia.md)** (`tutorial` | `useful` tier)
+* **[Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code](ai/models/optimum-nvidia-unlocking-blazingly-fast-llm-infere.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code
   * Source URL: <https://huggingface.co/blog/optimum-nvidia>
 
@@ -5182,9 +8519,17 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/overview-quantization-transformers>
 
+* **[OVHcloud on Hugging Face Inference Providers 🔥](ai/models/ovhcloud-on-hugging-face-inference-providers.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: OVHcloud on Hugging Face Inference Providers 🔥
+  * Source URL: <https://huggingface.co/blog/ovhcloud/inference-providers-ovhcloud>
+
 * **[OVHcloud on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-ovhcloud.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: OVHcloud on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/ovhcloud>
+
+* **[PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+  * Source URL: <https://huggingface.co/blog/paddlepaddle/paddleocr-transformers>
 
 * **[PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](ai/models/huggingface-blog-paddlepaddle.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
@@ -5195,12 +8540,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/paligemma2mix>
 
-* **[PaliGemma – Google's Cutting-Edge Open Vision Language Model](ai/models/huggingface-blog-paligemma.md)** (`tutorial` | `useful` tier)
+* **[PaliGemma – Google's Cutting-Edge Open Vision Language Model](ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: PaliGemma – Google's Cutting-Edge Open Vision Language Model
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/paligemma>
 
-* **[Panel on Hugging Face](ai/models/huggingface-blog-panel-on-hugging-face.md)** (`tutorial` | `useful` tier)
+* **[Panel on Hugging Face](ai/models/panel-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Panel on Hugging Face
   * Source URL: <https://huggingface.co/blog/panel-on-hugging-face>
 
@@ -5219,7 +8564,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2505.15201>
 
-* **[Patch Time Series Transformer in Hugging Face](ai/models/huggingface-blog-patchtst.md)** (`tutorial` | `useful` tier)
+* **[Patch Time Series Transformer in Hugging Face](ai/models/patch-time-series-transformer-in-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Patch Time Series Transformer in Hugging Face
   * Source URL: <https://huggingface.co/blog/patchtst>
 
@@ -5263,6 +8608,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `hackernews`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.11605>
 
+* **[PipelineRL](ai/models/pipelinerl.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: PipelineRL
+  * Source URL: <https://huggingface.co/blog/servicenow/pipelinerl>
+
 * **[PipelineRL](ai/models/huggingface-blog-servicenow.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: PipelineRL
   * Source URL: <https://huggingface.co/blog/servicenow>
@@ -5289,7 +8638,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.11196>
 
-* **[Porting fairseq wmt19 translation system to transformers](ai/models/huggingface-blog-porting-fsmt.md)** (`tutorial` | `useful` tier)
+* **[Porting fairseq wmt19 translation system to transformers](ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Porting fairseq wmt19 translation system to transformers
   * Source URL: <https://huggingface.co/blog/porting-fsmt>
 
@@ -5298,11 +8647,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.12439>
 
+* **[Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm](ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm
+  * Source URL: <https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning>
+
 * **[Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints](ai/models/huggingface-blog-asr-diarization.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints
   * Source URL: <https://huggingface.co/blog/asr-diarization>
 
-* **[Practical 3D Asset Generation: A Step-by-Step Guide](ai/models/huggingface-blog-3d-assets.md)** (`tutorial` | `useful` tier)
+* **[Practical 3D Asset Generation: A Step-by-Step Guide](ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Practical 3D Asset Generation: A Step-by-Step Guide
   * Source URL: <https://huggingface.co/blog/3d-assets>
 
@@ -5310,7 +8663,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.10725v2 Announce Type: replace Abstract: Background. Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia and a major determinant of prognosis. Established AF risk scores rely on factors (older age, hypertension) nearly ubiqui
   * Source URL: <https://arxiv.org/abs/2606.10725>
 
-* **[Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](ai/models/huggingface-blog-pretraining-bert.md)** (`tutorial` | `useful` tier)
+* **[Pre-Train BERT with Hugging Face Transformers and Habana Gaudi](ai/models/pre-train-bert-with-hugging-face-transformers-and.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Pre-Train BERT with Hugging Face Transformers and Habana Gaudi
   * Source URL: <https://huggingface.co/blog/pretraining-bert>
 
@@ -5318,13 +8671,17 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.02229v2 Announce Type: replace Abstract: We study the problem of monitoring model performance in dynamic environments where labeled data are limited. To this end, we propose prediction-powered risk monitoring (PPRM), a semi-supervised risk
   * Source URL: <https://arxiv.org/abs/2602.02229>
 
-* **[Preference Optimization for Vision Language Models](ai/models/huggingface-blog-dpo-vlm.md)** (`tutorial` | `useful` tier)
+* **[Preference Optimization for Vision Language Models](ai/models/preference-optimization-for-vision-language-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Preference Optimization for Vision Language Models
   * Source URL: <https://huggingface.co/blog/dpo_vlm>
 
-* **[Preference Tuning LLMs with Direct Preference Optimization Methods](ai/models/huggingface-blog-pref-tuning.md)** (`tutorial` | `useful` tier)
+* **[Preference Tuning LLMs with Direct Preference Optimization Methods](ai/models/preference-tuning-llms-with-direct-preference-opti.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Preference Tuning LLMs with Direct Preference Optimization Methods
   * Source URL: <https://huggingface.co/blog/pref-tuning>
+
+* **[Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](ai/models/prefill-and-decode-for-concurrent-requests-optimiz.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Prefill and Decode for Concurrent Requests - Optimizing LLM Performance
+  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests>
 
 * **[Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](ai/research/arxiv-2505-04021.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.04021v3 Announce Type: replace-cross Abstract: Inference providers must maintain availability for many LLMs, including low-volume but essential models, making resource efficiency increasingly important as token prices fall. Analysis of pro
@@ -5335,15 +8692,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `hackernews`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11556>
 
-* **[Probabilistic Time Series Forecasting with 🤗 Transformers](ai/models/huggingface-blog-time-series-transformers.md)** (`tutorial` | `useful` tier)
+* **[Probabilistic Time Series Forecasting with 🤗 Transformers](ai/models/probabilistic-time-series-forecasting-with-transfo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Probabilistic Time Series Forecasting with 🤗 Transformers
   * Source URL: <https://huggingface.co/blog/time-series-transformers>
 
-* **[Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](ai/models/huggingface-blog-torch-profiler.md)** (`tutorial` | `useful` tier)
+* **[Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler
   * Source URL: <https://huggingface.co/blog/torch-profiler>
 
-* **[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](ai/models/huggingface-blog-torch-mlp-fusion.md)** (`tutorial` | `useful` tier)
+* **[Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP
   * Source URL: <https://huggingface.co/blog/torch-mlp-fusion>
 
@@ -5361,7 +8718,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.11081v2 Announce Type: replace-cross Abstract: Feature and Interaction Importance (FII) methods are essential in supervised learning for assessing the relevance of input variables and their interactions in complex prediction models. In man
   * Source URL: <https://arxiv.org/abs/2512.11081>
 
-* **[Proximal Policy Optimization (PPO)](ai/models/huggingface-blog-deep-rl-ppo.md)** (`tutorial` | `useful` tier)
+* **[Proximal Policy Optimization (PPO)](ai/models/proximal-policy-optimization-ppo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Proximal Policy Optimization (PPO)
   * Source URL: <https://huggingface.co/blog/deep-rl-ppo>
 
@@ -5369,7 +8726,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: PRX Part 3 — Training a Text-to-Image Model in 24h!
   * Source URL: <https://huggingface.co/blog/photoroom>
 
-* **[Public AI on Hugging Face Inference Providers 🔥](ai/models/huggingface-blog-inference-providers-publicai.md)** (`tutorial` | `useful` tier)
+* **[PRX Part 3 — Training a Text-to-Image Model in 24h!](ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: PRX Part 3 — Training a Text-to-Image Model in 24h!
+  * Source URL: <https://huggingface.co/blog/photoroom/prx-part3>
+
+* **[Public AI on Hugging Face Inference Providers 🔥](ai/models/public-ai-on-hugging-face-inference-providers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Public AI on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/inference-providers-publicai>
 
@@ -5395,6 +8756,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/tiiuae>
 
+* **[QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
+  * Tags: `leaderboard`
+  * Source URL: <https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard>
+
 * **[Quantifying Subliminal Behavioral Transfer Ratios in Language Model Distillation](ai/research/arxiv-2606-11270.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11270v1 Announce Type: new Abstract: Distillation of a language model intended to transfer benign behavior to a student model may also transfer undesirable characteristics, if they are present in the teacher model, a phenomenon known as su
   * Tags: `benchmark`, `meta-ai`, `models`, `openai`
@@ -5405,7 +8771,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11339>
 
-* **[Quanto: a PyTorch quantization backend for Optimum](ai/models/huggingface-blog-quanto-introduction.md)** (`tutorial` | `useful` tier)
+* **[Quanto: a PyTorch quantization backend for Optimum](ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Quanto: a PyTorch quantization backend for Optimum
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/quanto-introduction>
@@ -5448,7 +8814,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `youtube`
   * Source URL: <https://arxiv.org/abs/2606.11857>
 
-* **[Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](ai/models/huggingface-blog-reachy-mini.md)** (`tutorial` | `useful` tier)
+* **[Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders](ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders
   * Source URL: <https://huggingface.co/blog/reachy-mini>
 
@@ -5460,6 +8826,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.10794v2 Announce Type: replace Abstract: As agentic applications increasingly route user tasks through official and third-party LLM APIs, provenance becomes an operational question: which model generated a given black-box response? We stud
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.10794>
+
+* **[Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](ai/models/real-time-ai-sound-generation-on-arm-a-personal-to.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom
+  * Source URL: <https://huggingface.co/blog/arm/ai-sound-gen-on-arm>
 
 * **[Real-Time Execution with Autoregressive Policies](ai/research/arxiv-2606-13355.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13355v1 Announce Type: cross Abstract: Real-time execution, enabled by asynchronous inference that ensures both smooth action trajectories and fast reactivity, is critical for realistic deployments of large-scale Vision-Language-Action mod
@@ -5483,7 +8853,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11391v1 Announce Type: new Abstract: Tensor Product Representations provide the structural fidelity required for symbolic reasoning in models but suffer from exponential dimensionality growth when encoding deep recursive structures. Conver
   * Source URL: <https://arxiv.org/abs/2606.11391>
 
-* **[Red-Teaming Large Language Models](ai/models/huggingface-blog-red-teaming.md)** (`tutorial` | `useful` tier)
+* **[Red-Teaming Large Language Models](ai/models/red-teaming-large-language-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Red-Teaming Large Language Models
   * Source URL: <https://huggingface.co/blog/red-teaming>
 
@@ -5511,11 +8881,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2508.09459v3 Announce Type: replace-cross Abstract: Visual manipulation localization (VML) aims to identify tampered regions in images and videos, a task that has become increasingly challenging with the rise of advanced editing tools. Existing
   * Source URL: <https://arxiv.org/abs/2508.09459>
 
-* **[Releasing Outlines-core 0.1.0: structured generation in Rust and Python](ai/models/huggingface-blog-outlines-core.md)** (`tutorial` | `useful` tier)
+* **[Releasing Outlines-core 0.1.0: structured generation in Rust and Python](ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Releasing Outlines-core 0.1.0: structured generation in Rust and Python
   * Source URL: <https://huggingface.co/blog/outlines-core>
 
-* **[Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](ai/models/huggingface-blog-swift-coreml-llm.md)** (`tutorial` | `useful` tier)
+* **[Releasing Swift Transformers: Run On-Device LLMs in Apple Devices](ai/models/releasing-swift-transformers-run-on-device-llms-in.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Releasing Swift Transformers: Run On-Device LLMs in Apple Devices
   * Source URL: <https://huggingface.co/blog/swift-coreml-llm>
 
@@ -5529,7 +8899,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.12050>
 
-* **[Remote VAEs for decoding with Inference Endpoints 🤗](ai/models/huggingface-blog-remote-vae.md)** (`tutorial` | `useful` tier)
+* **[Remote VAEs for decoding with Inference Endpoints 🤗](ai/models/remote-vaes-for-decoding-with-inference-endpoints.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Remote VAEs for decoding with Inference Endpoints 🤗
   * Source URL: <https://huggingface.co/blog/remote_vae>
 
@@ -5582,7 +8952,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.14792v2 Announce Type: replace Abstract: Despite their practical success, it remains unclear why Mixture of Experts (MoE) models can outperform dense networks beyond sheer parameter scaling. We study an iso-parameter regime where inputs ex
   * Source URL: <https://arxiv.org/abs/2601.14792>
 
-* **[Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](ai/models/huggingface-blog-rocketmoney-case-study.md)** (`tutorial` | `useful` tier)
+* **[Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​](ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-mo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​
   * Source URL: <https://huggingface.co/blog/rocketmoney-case-study>
 
@@ -5591,11 +8961,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `openai`
   * Source URL: <https://huggingface.co/blog/chatbot-amd-gpu>
 
-* **[Running IF with 🧨 diffusers on a Free Tier Google Colab](ai/models/huggingface-blog-if.md)** (`tutorial` | `useful` tier)
+* **[Running IF with 🧨 diffusers on a Free Tier Google Colab](ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Running IF with 🧨 diffusers on a Free Tier Google Colab
   * Source URL: <https://huggingface.co/blog/if>
 
-* **[Running Privacy-Preserving Inferences on Hugging Face Endpoints](ai/models/huggingface-blog-fhe-endpoints.md)** (`tutorial` | `useful` tier)
+* **[Running Privacy-Preserving Inferences on Hugging Face Endpoints](ai/models/running-privacy-preserving-inferences-on-hugging-f.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Running Privacy-Preserving Inferences on Hugging Face Endpoints
   * Source URL: <https://huggingface.co/blog/fhe-endpoints>
 
@@ -5603,11 +8973,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
   * Source URL: <https://huggingface.co/blog/ryght-case-study>
 
-* **[SafeCoder vs. Closed-source Code Assistants](ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)** (`tutorial` | `useful` tier)
+* **[SafeCoder vs. Closed-source Code Assistants](ai/models/safecoder-vs-closed-source-code-assistants.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SafeCoder vs. Closed-source Code Assistants
   * Source URL: <https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants>
 
-* **[Safetensors is Joining the PyTorch Foundation](ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)** (`tutorial` | `useful` tier)
+* **[Safetensors is Joining the PyTorch Foundation](ai/models/safetensors-is-joining-the-pytorch-foundation.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Safetensors is Joining the PyTorch Foundation
   * Source URL: <https://huggingface.co/blog/safetensors-joins-pytorch-foundation>
 
@@ -5615,7 +8985,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence
   * Source URL: <https://huggingface.co/blog/sandboxaq>
 
-* **[Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](ai/models/huggingface-blog-hf-cli.md)** (`tutorial` | `useful` tier)
+* **[SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence
+  * Source URL: <https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai>
+
+* **[Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨](ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-c.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨
   * Source URL: <https://huggingface.co/blog/hf-cli>
 
@@ -5628,7 +9002,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Scaleway on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/inference-providers-scaleway>
 
-* **[Scaling AI-based Data Processing with Hugging Face + Dask](ai/models/huggingface-blog-dask-scaling.md)** (`tutorial` | `useful` tier)
+* **[Scaling AI-based Data Processing with Hugging Face + Dask](ai/models/scaling-ai-based-data-processing-with-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Scaling AI-based Data Processing with Hugging Face + Dask
   * Source URL: <https://huggingface.co/blog/dask-scaling>
 
@@ -5688,11 +9062,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13125v1 Announce Type: cross Abstract: Reinforcement learning has rapidly emerged as a key component in the training of reasoning and coding models, yet it remains poorly understood from a mechanistic perspective. We study how and through
   * Source URL: <https://arxiv.org/abs/2606.13125>
 
-* **[Sentence Transformers in the Hugging Face Hub](ai/models/huggingface-blog-sentence-transformers-in-the-hub.md)** (`tutorial` | `useful` tier)
+* **[Sentence Transformers in the Hugging Face Hub](ai/models/sentence-transformers-in-the-hugging-face-hub.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Sentence Transformers in the Hugging Face Hub
   * Source URL: <https://huggingface.co/blog/sentence-transformers-in-the-hub>
 
-* **[Sentence Transformers is joining Hugging Face!](ai/models/huggingface-blog-sentence-transformers-joins-hf.md)** (`tutorial` | `useful` tier)
+* **[Sentence Transformers is joining Hugging Face!](ai/models/sentence-transformers-is-joining-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Sentence Transformers is joining Hugging Face!
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
 
@@ -5700,7 +9074,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Sentiment Analysis on Encrypted Data with Homomorphic Encryption
   * Source URL: <https://huggingface.co/blog/sentiment-analysis-fhe>
 
-* **[Serverless Inference with Hugging Face and NVIDIA NIM](ai/models/huggingface-blog-inference-dgx-cloud.md)** (`tutorial` | `useful` tier)
+* **[Serverless Inference with Hugging Face and NVIDIA NIM](ai/models/serverless-inference-with-hugging-face-and-nvidia.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Serverless Inference with Hugging Face and NVIDIA NIM
   * Source URL: <https://huggingface.co/blog/inference-dgx-cloud>
 
@@ -5708,16 +9082,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: SetFit: Efficient Few-Shot Learning Without Prompts
   * Source URL: <https://huggingface.co/blog/setfit>
 
-* **[SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](ai/models/huggingface-blog-setfit-absa.md)** (`tutorial` | `useful` tier)
+* **[SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit
   * Source URL: <https://huggingface.co/blog/setfit-absa>
 
-* **[Share your open ML datasets on Hugging Face Hub!](ai/models/huggingface-blog-researcher-dataset-sharing.md)** (`dataset` | `useful` tier)
+* **[Share your open ML datasets on Hugging Face Hub!](ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Share your open ML datasets on Hugging Face Hub!
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/researcher-dataset-sharing>
 
-* **[Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](ai/models/huggingface-blog-delta-weight-sync.md)** (`tutorial` | `useful` tier)
+* **[Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
   * Source URL: <https://huggingface.co/blog/delta-weight-sync>
 
@@ -5725,11 +9099,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Showcase Your Projects in Spaces using Gradio
   * Source URL: <https://huggingface.co/blog/gradio-spaces>
 
-* **[SigLIP 2: A better multilingual vision language encoder](ai/models/huggingface-blog-siglip2.md)** (`tutorial` | `useful` tier)
+* **[SigLIP 2: A better multilingual vision language encoder](ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SigLIP 2: A better multilingual vision language encoder
   * Source URL: <https://huggingface.co/blog/siglip2>
 
-* **[Simple considerations for simple people building fancy neural networks](ai/models/huggingface-blog-simple-considerations.md)** (`tutorial` | `useful` tier)
+* **[Simple considerations for simple people building fancy neural networks](ai/models/simple-considerations-for-simple-people-building-f.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Simple considerations for simple people building fancy neural networks
   * Source URL: <https://huggingface.co/blog/simple-considerations>
 
@@ -5750,15 +9124,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: SmolLM - blazingly fast and remarkably powerful
   * Source URL: <https://huggingface.co/blog/smollm>
 
-* **[SmolLM3: smol, multilingual, long-context reasoner](ai/models/huggingface-blog-smollm3.md)** (`tutorial` | `useful` tier)
+* **[SmolLM3: smol, multilingual, long-context reasoner](ai/models/smollm3-smol-multilingual-long-context-reasoner.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SmolLM3: smol, multilingual, long-context reasoner
   * Source URL: <https://huggingface.co/blog/smollm3>
 
-* **[SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](ai/models/huggingface-blog-smolvla.md)** (`tutorial` | `useful` tier)
+* **[SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data](ai/models/smolvla-efficient-vision-language-action-model-tra.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data
   * Source URL: <https://huggingface.co/blog/smolvla>
 
-* **[SmolVLM - small yet mighty Vision Language Model](ai/models/huggingface-blog-smolvlm.md)** (`tutorial` | `useful` tier)
+* **[SmolVLM - small yet mighty Vision Language Model](ai/models/smolvlm-small-yet-mighty-vision-language-model.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SmolVLM - small yet mighty Vision Language Model
   * Source URL: <https://huggingface.co/blog/smolvlm>
 
@@ -5771,7 +9145,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/smolvlm2>
 
-* **[Snorkel AI x Hugging Face: unlock foundation models for enterprises](ai/models/huggingface-blog-snorkel-case-study.md)** (`tutorial` | `useful` tier)
+* **[Snorkel AI x Hugging Face: unlock foundation models for enterprises](ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Snorkel AI x Hugging Face: unlock foundation models for enterprises
   * Source URL: <https://huggingface.co/blog/snorkel-case-study>
 
@@ -5784,7 +9158,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2602.10908>
 
-* **[SOTA OCR with Core ML and dots.ocr](ai/models/huggingface-blog-dots-ocr-ne.md)** (`tutorial` | `useful` tier)
+* **[SOTA OCR with Core ML and dots.ocr](ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SOTA OCR with Core ML and dots.ocr
   * Source URL: <https://huggingface.co/blog/dots-ocr-ne>
 
@@ -5829,7 +9203,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Speculative Decoding for 2x Faster Whisper Inference
   * Source URL: <https://huggingface.co/blog/whisper-speculative-decoding>
 
-* **[Speech Synthesis, Recognition, and More With SpeechT5](ai/models/huggingface-blog-speecht5.md)** (`tutorial` | `useful` tier)
+* **[Speech Synthesis, Recognition, and More With SpeechT5](ai/models/speech-synthesis-recognition-and-more-with-speecht.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Speech Synthesis, Recognition, and More With SpeechT5
   * Source URL: <https://huggingface.co/blog/speecht5>
 
@@ -5864,7 +9238,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: StarCoder2 and The Stack v2
   * Source URL: <https://huggingface.co/blog/starcoder2>
 
-* **[StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](ai/models/huggingface-blog-sc2-instruct.md)** (`tutorial` | `useful` tier)
+* **[StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation](ai/models/starcoder2-instruct-fully-transparent-and-permissi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation
   * Source URL: <https://huggingface.co/blog/sc2-instruct>
 
@@ -5876,7 +9250,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: State of Open Source on Hugging Face: Spring 2026
   * Source URL: <https://huggingface.co/blog/huggingface>
 
-* **[State of open video generation models in Diffusers](ai/models/huggingface-blog-video-gen.md)** (`tutorial` | `useful` tier)
+* **[State of Open Source on Hugging Face: Spring 2026](ai/models/state-of-open-source-on-hugging-face-spring-2026.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: State of Open Source on Hugging Face: Spring 2026
+  * Source URL: <https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026>
+
+* **[State of open video generation models in Diffusers](ai/models/state-of-open-video-generation-models-in-diffusers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: State of open video generation models in Diffusers
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/video_gen>
@@ -5905,15 +9283,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2509.18085v4 Announce Type: replace-cross Abstract: Diffusion LLMs (dLLMs) have recently emerged as a powerful alternative to autoregressive LLMs (AR-LLMs) with the potential to operate at significantly higher token-generation rates. To unlock
   * Source URL: <https://arxiv.org/abs/2509.18085>
 
-* **[Student Ambassador Program’s call for applications is open!](ai/models/huggingface-blog-ambassadors.md)** (`tutorial` | `useful` tier)
+* **[Student Ambassador Program’s call for applications is open!](ai/models/student-ambassador-programs-call-for-applications.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Student Ambassador Program’s call for applications is open!
   * Source URL: <https://huggingface.co/blog/ambassadors>
 
-* **[Subscribe to Enterprise Hub with your AWS Account](ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)** (`tutorial` | `useful` tier)
+* **[Subscribe to Enterprise Hub with your AWS Account](ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Subscribe to Enterprise Hub with your AWS Account
   * Source URL: <https://huggingface.co/blog/enterprise-hub-aws-marketplace>
 
-* **[Summer at Hugging Face](ai/models/huggingface-blog-summer-at-huggingface.md)** (`tutorial` | `useful` tier)
+* **[Summer at Hugging Face](ai/models/summer-at-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Summer at Hugging Face
   * Source URL: <https://huggingface.co/blog/summer-at-huggingface>
 
@@ -5952,12 +9330,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `models`, `reddit`
   * Source URL: <https://arxiv.org/abs/2606.11348>
 
+* **[SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](ai/models/sygra-the-one-stop-framework-for-building-data-for.md)** (`framework` | `useful` tier)
+  * Summary: No summary provided. Reference resource: SyGra: The One-Stop Framework for Building Data for LLMs and SLMs
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/sygra-data-gen-framework>
+
 * **[SymQNet: Amortized Acquisition for Low-Latency Adaptive Hamiltonian Learning](ai/research/arxiv-2606-12808.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12808v1 Announce Type: cross Abstract: Adaptive Hamiltonian learning is central to calibrating and characterizing quantum devices. In an adaptive controller, choosing the next experiment is itself a computation. Bayesian design rules are r
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.12808>
 
-* **[Synthetic data: save money, time and carbon with open source](ai/models/huggingface-blog-synthetic-data-save-costs.md)** (`tutorial` | `useful` tier)
+* **[Synthetic data: save money, time and carbon with open source](ai/models/synthetic-data-save-money-time-and-carbon-with-ope.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Synthetic data: save money, time and carbon with open source
   * Source URL: <https://huggingface.co/blog/synthetic-data-save-costs>
 
@@ -6006,7 +9388,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.13035>
 
-* **[Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](ai/models/huggingface-blog-textgen-pipe-gaudi.md)** (`tutorial` | `useful` tier)
+* **[Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator](ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator
   * Source URL: <https://huggingface.co/blog/textgen-pipe-gaudi>
 
@@ -6029,15 +9411,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: The 4 Things Qwen-3’s Chat Template Teaches Us
   * Source URL: <https://huggingface.co/blog/qwen-3-chat-template-deep-dive>
 
-* **[The 5 Most Under-Rated Tools on Hugging Face](ai/models/huggingface-blog-unsung-heroes.md)** (`tutorial` | `useful` tier)
+* **[The 5 Most Under-Rated Tools on Hugging Face](ai/models/the-5-most-under-rated-tools-on-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The 5 Most Under-Rated Tools on Hugging Face
   * Source URL: <https://huggingface.co/blog/unsung-heroes>
 
-* **[The Age of Machine Learning As Code Has Arrived](ai/models/huggingface-blog-the-age-of-ml-as-code.md)** (`tutorial` | `useful` tier)
+* **[The Age of Machine Learning As Code Has Arrived](ai/models/the-age-of-machine-learning-as-code-has-arrived.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The Age of Machine Learning As Code Has Arrived
   * Source URL: <https://huggingface.co/blog/the-age-of-ml-as-code>
 
-* **[The Annotated Diffusion Model](ai/models/huggingface-blog-annotated-diffusion.md)** (`tutorial` | `useful` tier)
+* **[The Annotated Diffusion Model](ai/models/the-annotated-diffusion-model.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The Annotated Diffusion Model
   * Source URL: <https://huggingface.co/blog/annotated-diffusion>
 
@@ -6075,14 +9457,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: The New and Fresh analytics in Inference Endpoints
   * Source URL: <https://huggingface.co/blog/endpoint-analytics>
 
-* **[The NLP Course is becoming the LLM Course](ai/models/huggingface-blog-llm-course.md)** (`tutorial` | `useful` tier)
+* **[The NLP Course is becoming the LLM Course](ai/models/the-nlp-course-is-becoming-the-llm-course.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The NLP Course is becoming the LLM Course
   * Source URL: <https://huggingface.co/blog/llm-course>
 
-* **[The Open Arabic LLM Leaderboard 2](ai/models/huggingface-blog-leaderboard-arabic-v2.md)** (`tutorial` | `useful` tier)
+* **[The Open Arabic LLM Leaderboard 2](ai/models/the-open-arabic-llm-leaderboard-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The Open Arabic LLM Leaderboard 2
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/leaderboard-arabic-v2>
+
+* **[The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe>
 
 * **[The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare](ai/models/huggingface-blog-leaderboard-medicalllm.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare
@@ -6098,7 +9485,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.11437>
 
-* **[The PR you would have opened yourself](ai/models/huggingface-blog-transformers-to-mlx.md)** (`tutorial` | `useful` tier)
+* **[The PR you would have opened yourself](ai/models/the-pr-you-would-have-opened-yourself.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The PR you would have opened yourself
   * Source URL: <https://huggingface.co/blog/transformers-to-mlx>
 
@@ -6119,7 +9506,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: The State of Computer Vision at Hugging Face 🤗
   * Source URL: <https://huggingface.co/blog/cv_state>
 
-* **[The Technology Behind BLOOM Training](ai/models/huggingface-blog-bloom-megatron-deepspeed.md)** (`tutorial` | `useful` tier)
+* **[The Technology Behind BLOOM Training](ai/models/the-technology-behind-bloom-training.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The Technology Behind BLOOM Training
   * Tags: `hackernews`
   * Source URL: <https://huggingface.co/blog/bloom-megatron-deepspeed>
@@ -6133,7 +9520,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2505.03296>
 
-* **[Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](ai/models/huggingface-blog-infrastructure-alerting.md)** (`tutorial` | `useful` tier)
+* **[Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure](ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure
   * Source URL: <https://huggingface.co/blog/infrastructure-alerting>
 
@@ -6152,7 +9539,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `meta-ai`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12841>
 
-* **[TimeScope: How Long Can Your Video Large Multimodal Model Go?](ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)** (`benchmark` | `useful` tier)
+* **[TimeScope: How Long Can Your Video Large Multimodal Model Go?](ai/models/timescope-how-long-can-your-video-large-multimodal.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: TimeScope: How Long Can Your Video Large Multimodal Model Go?
   * Tags: `youtube`
   * Source URL: <https://huggingface.co/blog/timescope-video-lmm-benchmark>
@@ -6175,7 +9562,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12647v1 Announce Type: cross Abstract: AI-augmented computing delegates natural language queries, code generation requests, and other open-ended tasks to a cluster of AI models that processes queries and generates responses. This paradigm
   * Source URL: <https://arxiv.org/abs/2606.12647>
 
-* **[Tokenization in Transformers v5: Simpler, Clearer, and More Modular](ai/models/huggingface-blog-tokenizers.md)** (`tutorial` | `useful` tier)
+* **[Tokenization in Transformers v5: Simpler, Clearer, and More Modular](ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Tokenization in Transformers v5: Simpler, Clearer, and More Modular
   * Source URL: <https://huggingface.co/blog/tokenizers>
 
@@ -6222,15 +9609,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Train 400x faster Static Embedding Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/static-embeddings>
 
-* **[Train a Sentence Embedding Model with 1B Training Pairs](ai/models/huggingface-blog-1b-sentence-embeddings.md)** (`tutorial` | `useful` tier)
+* **[Train a Sentence Embedding Model with 1B Training Pairs](ai/models/train-a-sentence-embedding-model-with-1b-training.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Train a Sentence Embedding Model with 1B Training Pairs
   * Source URL: <https://huggingface.co/blog/1b-sentence-embeddings>
 
-* **[Train AI models with Unsloth and Hugging Face Jobs for FREE](ai/models/huggingface-blog-unsloth-jobs.md)** (`tutorial` | `useful` tier)
+* **[Train AI models with Unsloth and Hugging Face Jobs for FREE](ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Train AI models with Unsloth and Hugging Face Jobs for FREE
   * Source URL: <https://huggingface.co/blog/unsloth-jobs>
 
-* **[Train and Fine-Tune Sentence Transformers Models](ai/models/huggingface-blog-how-to-train-sentence-transformers.md)** (`tutorial` | `useful` tier)
+* **[Train and Fine-Tune Sentence Transformers Models](ai/models/train-and-fine-tune-sentence-transformers-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Train and Fine-Tune Sentence Transformers Models
   * Source URL: <https://huggingface.co/blog/how-to-train-sentence-transformers>
 
@@ -6250,11 +9637,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Training and Finetuning Embedding Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/train-sentence-transformers>
 
-* **[Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/huggingface-blog-train-multimodal-sentence-transformers.md)** (`tutorial` | `useful` tier)
+* **[Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers](ai/models/training-and-finetuning-multimodal-embedding-reran.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/train-multimodal-sentence-transformers>
 
-* **[Training and Finetuning Reranker Models with Sentence Transformers](ai/models/huggingface-blog-train-reranker.md)** (`tutorial` | `useful` tier)
+* **[Training and Finetuning Reranker Models with Sentence Transformers](ai/models/training-and-finetuning-reranker-models-with-sente.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Training and Finetuning Reranker Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/train-reranker>
 
@@ -6262,15 +9649,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Training and Finetuning Sparse Embedding Models with Sentence Transformers
   * Source URL: <https://huggingface.co/blog/train-sparse-encoder>
 
-* **[Training CodeParrot 🦜 from Scratch](ai/models/huggingface-blog-codeparrot.md)** (`tutorial` | `useful` tier)
+* **[Training CodeParrot 🦜 from Scratch](ai/models/training-codeparrot-from-scratch.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Training CodeParrot 🦜 from Scratch
   * Source URL: <https://huggingface.co/blog/codeparrot>
+
+* **[Training Design for Text-to-Image Models: Lessons from Ablations](ai/models/training-design-for-text-to-image-models-lessons-f.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Training Design for Text-to-Image Models: Lessons from Ablations
+  * Source URL: <https://huggingface.co/blog/photoroom/prx-part2>
 
 * **[Training mRNA Language Models Across 25 Species for $165](ai/models/huggingface-blog-openmed.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Training mRNA Language Models Across 25 Species for $165
   * Source URL: <https://huggingface.co/blog/openmed>
 
-* **[Training Stable Diffusion with Dreambooth using Diffusers](ai/models/huggingface-blog-dreambooth.md)** (`tutorial` | `useful` tier)
+* **[Training mRNA Language Models Across 25 Species for $165](ai/models/training-mrna-language-models-across-25-species-fo.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Training mRNA Language Models Across 25 Species for $165
+  * Source URL: <https://huggingface.co/blog/openmed/training-mrna-models-25-species>
+
+* **[Training Stable Diffusion with Dreambooth using Diffusers](ai/models/training-stable-diffusion-with-dreambooth-using-di.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Training Stable Diffusion with Dreambooth using Diffusers
   * Source URL: <https://huggingface.co/blog/dreambooth>
 
@@ -6304,16 +9699,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.27478v3 Announce Type: replace-cross Abstract: Schr\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data
   * Source URL: <https://arxiv.org/abs/2605.27478>
 
-* **[Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](ai/models/huggingface-blog-faster-transformers.md)** (`tutorial` | `useful` tier)
+* **[Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers](ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers
   * Tags: `openai`
   * Source URL: <https://huggingface.co/blog/faster-transformers>
 
-* **[TRL v1.0: Post-Training Library Built to Move with the Field](ai/models/huggingface-blog-trl-v1.md)** (`framework` | `useful` tier)
+* **[TRL v1.0: Post-Training Library Built to Move with the Field](ai/models/trl-v1-0-post-training-library-built-to-move-with.md)** (`framework` | `useful` tier)
   * Summary: No summary provided. Reference resource: TRL v1.0: Post-Training Library Built to Move with the Field
   * Source URL: <https://huggingface.co/blog/trl-v1>
 
-* **[TTS Arena: Benchmarking Text-to-Speech Models in the Wild](ai/models/huggingface-blog-arena-tts.md)** (`benchmark` | `useful` tier)
+* **[TTS Arena: Benchmarking Text-to-Speech Models in the Wild](ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: TTS Arena: Benchmarking Text-to-Speech Models in the Wild
   * Tags: `benchmark`
   * Source URL: <https://huggingface.co/blog/arena-tts>
@@ -6332,7 +9727,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Ulysses Sequence Parallelism: Training with Million-Token Contexts
   * Source URL: <https://huggingface.co/blog/ulysses-sp>
 
-* **[Understanding BigBird's Block Sparse Attention](ai/models/huggingface-blog-big-bird.md)** (`tutorial` | `useful` tier)
+* **[Understanding BigBird's Block Sparse Attention](ai/models/understanding-bigbird-s-block-sparse-attention.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Understanding BigBird's Block Sparse Attention
   * Source URL: <https://huggingface.co/blog/big-bird>
 
@@ -6353,11 +9748,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Universal Image Segmentation with Mask2Former and OneFormer
   * Source URL: <https://huggingface.co/blog/mask2former>
 
-* **[Unlock the power of images with AI Sheets](ai/models/huggingface-blog-aisheets-unlock-images.md)** (`tutorial` | `useful` tier)
+* **[Unlock the power of images with AI Sheets](ai/models/unlock-the-power-of-images-with-ai-sheets.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Unlock the power of images with AI Sheets
   * Source URL: <https://huggingface.co/blog/aisheets-unlock-images>
 
-* **[Unlocking asynchronicity in continuous batching](ai/models/huggingface-blog-continuous-async.md)** (`tutorial` | `useful` tier)
+* **[Unlocking asynchronicity in continuous batching](ai/models/unlocking-asynchronicity-in-continuous-batching.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Unlocking asynchronicity in continuous batching
   * Source URL: <https://huggingface.co/blog/continuous_async>
 
@@ -6366,7 +9761,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/kv-cache-quantization>
 
-* **[Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](ai/models/huggingface-blog-websight.md)** (`dataset` | `useful` tier)
+* **[Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](ai/models/unlocking-the-conversion-of-web-screenshots-into-h.md)** (`dataset` | `useful` tier)
   * Summary: No summary provided. Reference resource: Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/websight>
@@ -6375,7 +9770,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12138v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are widely used to interpret neural network representations, but their utility depends on whether the learned features are reproducible across training runs. We study this que
   * Source URL: <https://arxiv.org/abs/2606.12138>
 
-* **[Upskill your LLMs With Gradio MCP Servers](ai/models/huggingface-blog-gradio-mcp-servers.md)** (`mcp-server` | `useful` tier)
+* **[Upskill your LLMs With Gradio MCP Servers](ai/models/upskill-your-llms-with-gradio-mcp-servers.md)** (`mcp-server` | `useful` tier)
   * Summary: No summary provided. Reference resource: Upskill your LLMs With Gradio MCP Servers
   * Source URL: <https://huggingface.co/blog/gradio-mcp-servers>
 
@@ -6384,7 +9779,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.11534>
 
-* **[Using & Mixing Hugging Face Models with Gradio 2.0](ai/models/huggingface-blog-gradio.md)** (`tutorial` | `useful` tier)
+* **[Using & Mixing Hugging Face Models with Gradio 2.0](ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Using & Mixing Hugging Face Models with Gradio 2.0
   * Source URL: <https://huggingface.co/blog/gradio>
 
@@ -6430,19 +9825,19 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2604.24806>
 
-* **[Very Large Language Models and How to Evaluate Them](ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md)** (`benchmark` | `useful` tier)
+* **[Very Large Language Models and How to Evaluate Them](ai/models/very-large-language-models-and-how-to-evaluate-the.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Very Large Language Models and How to Evaluate Them
   * Source URL: <https://huggingface.co/blog/zero-shot-eval-on-the-hub>
 
-* **[VibeGame: Exploring Vibe Coding Games](ai/models/huggingface-blog-vibegame.md)** (`tutorial` | `useful` tier)
+* **[VibeGame: Exploring Vibe Coding Games](ai/models/vibegame-exploring-vibe-coding-games.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: VibeGame: Exploring Vibe Coding Games
   * Source URL: <https://huggingface.co/blog/vibegame>
 
-* **[Visible Watermarking with Gradio](ai/models/huggingface-blog-watermarking-with-gradio.md)** (`tutorial` | `useful` tier)
+* **[Visible Watermarking with Gradio](ai/models/visible-watermarking-with-gradio.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Visible Watermarking with Gradio
   * Source URL: <https://huggingface.co/blog/watermarking-with-gradio>
 
-* **[Vision Language Model Alignment in TRL ⚡️](ai/models/huggingface-blog-trl-vlm-alignment.md)** (`tutorial` | `useful` tier)
+* **[Vision Language Model Alignment in TRL ⚡️](ai/models/vision-language-model-alignment-in-trl.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Vision Language Model Alignment in TRL ⚡️
   * Source URL: <https://huggingface.co/blog/trl-vlm-alignment>
 
@@ -6457,6 +9852,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[Visual Document Retrieval Goes Multilingual](ai/models/huggingface-blog-vdr-2b-multilingual.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Visual Document Retrieval Goes Multilingual
   * Source URL: <https://huggingface.co/blog/vdr-2b-multilingual>
+
+* **[Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
+  * Source URL: <https://huggingface.co/blog/bsc-lt/visualsalamandra7b>
 
 * **[Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](ai/models/huggingface-blog-bsc-lt.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
@@ -6479,15 +9878,19 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: vLLM V0 to V1: Correctness Before Corrections in RL
   * Source URL: <https://huggingface.co/blog/servicenow-ai>
 
-* **[Voice Cloning with Consent](ai/models/huggingface-blog-voice-consent-gate.md)** (`tutorial` | `useful` tier)
+* **[vLLM V0 to V1: Correctness Before Corrections in RL](ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: vLLM V0 to V1: Correctness Before Corrections in RL
+  * Source URL: <https://huggingface.co/blog/servicenow-ai/correctness-before-corrections>
+
+* **[Voice Cloning with Consent](ai/models/voice-cloning-with-consent.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Voice Cloning with Consent
   * Source URL: <https://huggingface.co/blog/voice-consent-gate>
 
-* **[VQ-Diffusion](ai/models/huggingface-blog-vq-diffusion.md)** (`tutorial` | `useful` tier)
+* **[VQ-Diffusion](ai/models/vq-diffusion.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: VQ-Diffusion
   * Source URL: <https://huggingface.co/blog/vq-diffusion>
 
-* **[Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](ai/models/huggingface-blog-waypoint-1-5.md)** (`tutorial` | `useful` tier)
+* **[Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs
   * Source URL: <https://huggingface.co/blog/waypoint-1-5>
 
@@ -6505,7 +9908,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`
   * Source URL: <https://huggingface.co/blog/hf-skills-training>
 
-* **[We Raised $100 Million for Open & Collaborative Machine Learning 🚀](ai/models/huggingface-blog-series-c.md)** (`tutorial` | `useful` tier)
+* **[We Raised $100 Million for Open & Collaborative Machine Learning 🚀](ai/models/we-raised-100-million-for-open-collaborative-machi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: We Raised $100 Million for Open & Collaborative Machine Learning 🚀
   * Source URL: <https://huggingface.co/blog/series-c>
 
@@ -6514,11 +9917,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2505.03649>
 
-* **[Welcome aMUSEd: Efficient Text-to-Image Generation](ai/models/huggingface-blog-amused.md)** (`tutorial` | `useful` tier)
+* **[Welcome aMUSEd: Efficient Text-to-Image Generation](ai/models/welcome-amused-efficient-text-to-image-generation.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome aMUSEd: Efficient Text-to-Image Generation
   * Source URL: <https://huggingface.co/blog/amused>
 
-* **[Welcome EmbeddingGemma, Google's new efficient embedding model](ai/models/huggingface-blog-embeddinggemma.md)** (`tutorial` | `useful` tier)
+* **[Welcome EmbeddingGemma, Google's new efficient embedding model](ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome EmbeddingGemma, Google's new efficient embedding model
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/embeddinggemma>
@@ -6544,7 +9947,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/gemma>
 
-* **[Welcome Gemma 2 - Google’s new open LLM](ai/models/huggingface-blog-gemma2.md)** (`tutorial` | `useful` tier)
+* **[Welcome Gemma 2 - Google’s new open LLM](ai/models/welcome-gemma-2-googles-new-open-llm.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome Gemma 2 - Google’s new open LLM
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/gemma2>
@@ -6564,7 +9967,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `openai`
   * Source URL: <https://huggingface.co/blog/welcome-openai-gpt-oss>
 
-* **[Welcome Llama 3 - Meta's new open LLM](ai/models/huggingface-blog-llama3.md)** (`tutorial` | `useful` tier)
+* **[Welcome Llama 3 - Meta's new open LLM](ai/models/welcome-llama-3-meta-s-new-open-llm.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome Llama 3 - Meta's new open LLM
   * Tags: `meta-ai`, `models`
   * Source URL: <https://huggingface.co/blog/llama3>
@@ -6579,7 +9982,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `mistral`
   * Source URL: <https://huggingface.co/blog/mixtral>
 
-* **[Welcome PaliGemma 2 – New vision language models by Google](ai/models/huggingface-blog-paligemma2.md)** (`tutorial` | `useful` tier)
+* **[Welcome PaliGemma 2 – New vision language models by Google](ai/models/welcome-paligemma-2-new-vision-language-models-by.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome PaliGemma 2 – New vision language models by Google
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/paligemma2>
@@ -6592,6 +9995,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Welcome Stable-baselines3 to the Hugging Face Hub 🤗
   * Source URL: <https://huggingface.co/blog/sb3>
 
+* **[Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub
+  * Tags: `meta-ai`, `models`
+  * Source URL: <https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl>
+
 * **[Welcome to Inference Providers on the Hub 🔥](ai/models/huggingface-blog-inference-providers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome to Inference Providers on the Hub 🔥
   * Source URL: <https://huggingface.co/blog/inference-providers>
@@ -6600,7 +10008,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Welcome to the Falcon 3 Family of Open Models!
   * Source URL: <https://huggingface.co/blog/falcon3>
 
-* **[Welcome, Gradio 5](ai/models/huggingface-blog-gradio-5.md)** (`tutorial` | `useful` tier)
+* **[Welcome, Gradio 5](ai/models/welcome-gradio-5.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome, Gradio 5
   * Source URL: <https://huggingface.co/blog/gradio-5>
 
@@ -6628,7 +10036,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `leaderboard`
   * Source URL: <https://huggingface.co/blog/open-llm-leaderboard-mmlu>
 
-* **[What's new in Diffusers? 🎨](ai/models/huggingface-blog-diffusers-2nd-month.md)** (`tutorial` | `useful` tier)
+* **[What's new in Diffusers? 🎨](ai/models/what-s-new-in-diffusers.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: What's new in Diffusers? 🎨
   * Source URL: <https://huggingface.co/blog/diffusers-2nd-month>
 
@@ -6684,19 +10092,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Xet is on the Hub
   * Source URL: <https://huggingface.co/blog/xet-on-the-hub>
 
-* **[XetHub is joining Hugging Face!](ai/models/huggingface-blog-xethub-joins-hf.md)** (`tutorial` | `useful` tier)
+* **[XetHub is joining Hugging Face!](ai/models/xethub-is-joining-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: XetHub is joining Hugging Face!
   * Source URL: <https://huggingface.co/blog/xethub-joins-hf>
 
-* **[XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](ai/models/huggingface-blog-xlscout-case-study.md)** (`tutorial` | `useful` tier)
+* **[XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face
   * Source URL: <https://huggingface.co/blog/xlscout-case-study>
 
-* **[Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](ai/models/huggingface-blog-autoformer.md)** (`tutorial` | `useful` tier)
+* **[Yay! Organizations can now publish blog Articles](ai/models/yay-organizations-can-now-publish-blog-articles.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Yay! Organizations can now publish blog Articles
+  * Source URL: <https://huggingface.co/blog/huggingface/blog-articles-for-orgs>
+
+* **[Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)](ai/models/yes-transformers-are-effective-for-time-series-for.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Yes, Transformers are Effective for Time Series Forecasting (+ Autoformer)
   * Source URL: <https://huggingface.co/blog/autoformer>
 
-* **[You could have designed state of the art positional encoding](ai/models/huggingface-blog-designing-positional-encoding.md)** (`tutorial` | `useful` tier)
+* **[You could have designed state of the art positional encoding](ai/models/you-could-have-designed-state-of-the-art-positiona.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: You could have designed state of the art positional encoding
   * Source URL: <https://huggingface.co/blog/designing-positional-encoding>
 
@@ -6704,7 +10116,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Zero-shot image segmentation with CLIPSeg
   * Source URL: <https://huggingface.co/blog/clipseg-zero-shot>
 
-* **[Zero-shot image-to-text generation with BLIP-2](ai/models/huggingface-blog-blip-2.md)** (`tutorial` | `useful` tier)
+* **[Zero-shot image-to-text generation with BLIP-2](ai/models/zero-shot-image-to-text-generation-with-blip-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Zero-shot image-to-text generation with BLIP-2
   * Source URL: <https://huggingface.co/blog/blip-2>
 
@@ -6712,7 +10124,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: ~Don't~ Repeat Yourself
   * Source URL: <https://huggingface.co/blog/transformers-design-philosophy>
 
-* **[π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](ai/models/huggingface-blog-pi0.md)** (`tutorial` | `useful` tier)
+* **[π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: π0 and π0-FAST: Vision-Language-Action Models for General Robot Control
   * Source URL: <https://huggingface.co/blog/pi0>
 
@@ -6729,23 +10141,28 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?
   * Source URL: <https://huggingface.co/blog/filbench>
 
-* **[🐯 Liger GRPO meets TRL](ai/models/huggingface-blog-liger-grpo.md)** (`tutorial` | `useful` tier)
+* **[🐯 Liger GRPO meets TRL](ai/models/liger-grpo-meets-trl.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🐯 Liger GRPO meets TRL
   * Source URL: <https://huggingface.co/blog/liger-grpo>
 
-* **[🐶Safetensors audited as really safe and becoming the default](ai/models/huggingface-blog-safetensors-security-audit.md)** (`tutorial` | `useful` tier)
+* **[🐶Safetensors audited as really safe and becoming the default](ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🐶Safetensors audited as really safe and becoming the default
   * Source URL: <https://huggingface.co/blog/safetensors-security-audit>
+
+* **[📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: 📚 3LM: A Benchmark for Arabic LLMs in STEM and Code
+  * Tags: `benchmark`
+  * Source URL: <https://huggingface.co/blog/tiiuae/3lm-benchmark>
 
 * **[🚀 Accelerating LLM Inference with TGI on Intel Gaudi](ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🚀 Accelerating LLM Inference with TGI on Intel Gaudi
   * Source URL: <https://huggingface.co/blog/intel-gaudi-backend-for-tgi>
 
-* **[🤗 PEFT welcomes new merging methods](ai/models/huggingface-blog-peft-merging.md)** (`tutorial` | `useful` tier)
+* **[🤗 PEFT welcomes new merging methods](ai/models/peft-welcomes-new-merging-methods.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🤗 PEFT welcomes new merging methods
   * Source URL: <https://huggingface.co/blog/peft_merging>
 
-* **[🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](ai/models/huggingface-blog-sdxl-jax.md)** (`tutorial` | `useful` tier)
+* **[🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e](ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e
   * Source URL: <https://huggingface.co/blog/sdxl_jax>
 
@@ -6753,7 +10170,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: 🧨 Stable Diffusion in JAX / Flax !
   * Source URL: <https://huggingface.co/blog/stable_diffusion_jax>
 
-* **[🪆 Introduction to Matryoshka Embedding Models](ai/models/huggingface-blog-matryoshka.md)** (`tutorial` | `useful` tier)
+* **[🪆 Introduction to Matryoshka Embedding Models](ai/models/introduction-to-matryoshka-embedding-models.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: 🪆 Introduction to Matryoshka Embedding Models
   * Source URL: <https://huggingface.co/blog/matryoshka>
 
@@ -6819,7 +10236,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[asbhogal/Fyrre-Magazine](web-development/nextjs/asbhogal-fyrre-magazine.md)** (`template` | `useful` tier)
   * Summary: A bold, striking arts and life magazine website built as an SPA using Next.js, TypeScript, React Suspense, React Hook Form, Zod, Tailwind, Shadcn, GSAP and E2E Testing using Playwright from Figma templates designed by Pawel Gola.
   * Tags: `animation`, `frontend_ui`, `scripts`
-  * Source URL: <https://github.com/asbhogal/Fyrre-Magazine>
+  * Source URL: <https://github.com/asbhogal/fyrre-magazine>
 
 * **[birobirobiro/awesome-shadcn-ui](web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: A curated list of awesome things related to shadcn/ui.
@@ -6839,7 +10256,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[ChangoMan/nextjs-mdx-blog](web-development/nextjs/changoman-nextjs-mdx-blog.md)** (`template` | `useful` tier)
   * Summary: UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
   * Tags: `frontend_ui`
-  * Source URL: <https://github.com/ChangoMan/nextjs-mdx-blog>
+  * Source URL: <https://github.com/changoman/nextjs-mdx-blog>
 
 * **[ChrisAbdo/MotionVariants](web-development/framer-motion/chrisabdo-motionvariants.md)** (`tool` | `useful` tier)
   * Summary: A collection of handmade Framer Motion variants made for your next project.
@@ -6914,7 +10331,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Jpisnice/shadcn-ui-mcp-server](web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)** (`mcp-server` | `useful` tier)
   * Summary: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
   * Tags: `frontend_ui`
-  * Source URL: <https://github.com/Jpisnice/shadcn-ui-mcp-server>
+  * Source URL: <https://github.com/jpisnice/shadcn-ui-mcp-server>
 
 * **[K-H-Rayhan/nextjs-animated-slider](web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)** (`tool` | `useful` tier)
   * Summary: Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
@@ -6959,7 +10376,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[NotStark/portfolio](web-development/nextjs/notstark-portfolio.md)** (`template` | `useful` tier)
   * Summary: A portfolio template built with Next.js, Tailwind CSS, and TypeScript.
   * Tags: `creative_dev`, `frontend_ui`
-  * Source URL: <https://github.com/NotStark/portfolio>
+  * Source URL: <https://github.com/notstark/portfolio>
 
 * **[ObservedObserver/streamlit-shadcn-ui](web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: Using shadcn-ui components in streamlit
@@ -7077,12 +10494,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.11272>
 
-* **[Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](ai/rag/huggingface-blog-prezi-case-study.md)** (`tutorial` | `useful` tier)
+* **[Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/prezi-case-study>
 
-* **[How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](ai/rag/huggingface-blog-sempre-health-eap-case-study.md)** (`tutorial` | `useful` tier)
+* **[How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/sempre-health-eap-case-study>
@@ -7164,7 +10581,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/claude-fable-5-mythos-5>
+  * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
 
 * **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI
@@ -7199,12 +10616,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/confidential-draft-s1-sec>
+  * Source URL: <https://anthropic.com/news/confidential-draft-s1-sec>
 
 * **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/dxc-anthropic-alliance>
+  * Source URL: <https://anthropic.com/news/dxc-anthropic-alliance>
 
 * **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
@@ -7214,7 +10631,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/AI-enabled-cyber-threats-mitre-attack>
+  * Source URL: <https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack>
 
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
@@ -7224,17 +10641,17 @@ All resources are linked to their local vault paths and preserve original source
 * **[May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-offi.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/milan-office-opening>
+  * Source URL: <https://anthropic.com/news/milan-office-opening>
 
 * **[May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation](ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-se.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/series-h>
+  * Source URL: <https://anthropic.com/news/series-h>
 
 * **[May 28, 2026ProductIntroducing Claude Opus 4.8](ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 28, 2026ProductIntroducing Claude Opus 4.8
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/claude-opus-4-8>
+  * Source URL: <https://anthropic.com/news/claude-opus-4-8>
 
 * **[Mistral Medium 3.5](ai/companies/mistral/mistral-medium-3-5.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Mistral Medium 3.5
@@ -7288,35 +10705,13 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Project Ideas
 
-* **[A New Framework for Evaluating Voice Agents (EVA)](ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md)** (`framework` | `useful` tier)
-  * Summary: No summary provided. Reference resource: A New Framework for Evaluating Voice Agents (EVA)
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/eva>
-
 * **[A New Perspective on Precision and Recall for Generative Models](ai/research/arxiv-2511-02414.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2511.02414v3 Announce Type: replace Abstract: With the recent success of generative models in image and text, the question of their evaluation has recently gained a lot of attention. While most methods from the state of the art rely on scalar m
   * Source URL: <https://arxiv.org/abs/2511.02414>
 
-* **[Accelerate a World of LLMs on Hugging Face with NVIDIA NIM](ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nv.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Accelerate a World of LLMs on Hugging Face with NVIDIA NIM
-  * Source URL: <https://huggingface.co/blog/nvidia/multi-llm-nim>
-
 * **[Afrispeech Semantics: Evaluating Audio Semantic Reasoning in Spoken Language Models Across Domains and Accents](ai/research/arxiv-2606-11219.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11219v1 Announce Type: cross Abstract: Audio language models (ALMs) are increasingly used for speech-based understanding, yet their ability to perform semantic reasoning beyond transcription, Text-to-Audio Retrieval, Captioning, and Questi
   * Source URL: <https://arxiv.org/abs/2606.11219>
-
-* **[AI for Food Allergies](ai/models/ai-for-food-allergies.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: AI for Food Allergies
-  * Source URL: <https://huggingface.co/blog/hugging-science/ai-for-food-allergies>
-
-* **[Aligning to What? Rethinking Agent Generalization in MiniMax M2](ai/agents/aligning-to-what-rethinking-agent-generalization-i.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Aligning to What? Rethinking Agent Generalization in MiniMax M2
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/MiniMax-AI/aligning-to-what>
-
-* **[Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](ai/models/alyah-toward-robust-evaluation-of-emirati-dialect.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs
-  * Source URL: <https://huggingface.co/blog/tiiuae/emirati-benchmarks>
 
 * **[An XAI View on Explainable ASP: Methods, Systems, and Perspectives](ai/rag/arxiv-2601-14764.md)** (`tutorial` | `useful` tier)
   * Summary: arXiv:2601.14764v2 Announce Type: replace Abstract: Answer Set Programming (ASP) is a popular declarative reasoning and problem solving approach in symbolic AI. Its rule-based formalism makes it inherently attractive for explainable and interpretive
@@ -7328,22 +10723,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11751>
 
-* **[Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models](ai/models/announcing-neurips-2025-e2lm-competition-early-tra.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models
-  * Source URL: <https://huggingface.co/blog/tiiuae/e2lm-competition>
-
-* **[Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models](ai/models/apriel-h1-the-surprising-key-to-distilling-efficie.md)** (`product` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/apriel-h1>
-
-* **[AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems](ai/models/aprielguard-a-guardrail-for-safety-and-adversarial.md)** (`product` | `useful` tier)
-  * Summary: No summary provided. Reference resource: AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/aprielguard>
-
-* **[Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
-  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2>
-
 * **[Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](ai/agents/arxiv-2606-11634.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11634v1 Announce Type: new Abstract: The rapid progress of reasoning and agentic large language models (LLMs) has increased the demand for long-context inference, but self-attention (SA) scales quadratically with context length. To address
   * Tags: `agents`, `models`
@@ -7353,23 +10732,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11635v1 Announce Type: cross Abstract: For highly capable AI systems to operate safely in dynamic, open-ended environments, they must be able to identify, understand, and respond to moral reasons for action, and constrain their behaviour a
   * Source URL: <https://arxiv.org/abs/2606.11635>
 
-* **[Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Arm & ExecuTorch 0.7: Bringing Generative AI to the masses
-  * Source URL: <https://huggingface.co/blog/Arm/executorch-0-dot-7>
-
-* **[Arm will be @ PyTorch Conference, Join Us!](ai/models/arm-will-be-pytorch-conference-join-us.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join Us!
-  * Source URL: <https://huggingface.co/blog/Arm/arm-at-pytorch-conference>
-
 * **[ASRU: Activation Steering Meets Reinforcement Unlearning for Multimodal Large Language Models](ai/rag/arxiv-2605-15687.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.15687v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) may memorize sensitive cross-modal information during pretraining, making machine unlearning (MU) crucial. Existing methods typically evaluate unlearni
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2605.15687>
-
-* **[AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face>
 
 * **[Augmenting Molecular Language Models with Local $n$-gram Memory](ai/rag/arxiv-2606-12113.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.12113v1 Announce Type: cross Abstract: Transformer-based language models for SMILES strings suffer from a locality gap: standard character-level tokenization fragments chemically meaningful motifs, forcing models to repeatedly learn local
@@ -7399,15 +10765,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.03504>
 
-* **[Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](ai/agents/beyond-llms-why-scalable-enterprise-ai-adoption-de.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption>
-
-* **[BigCodeArena: Judging code generations end to end with code executions](ai/models/bigcodearena-judging-code-generations-end-to-end-w.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: BigCodeArena: Judging code generations end to end with code executions
-  * Source URL: <https://huggingface.co/blog/bigcode/arena>
-
 * **[Bimanual Robot Manipulation via Multi-Agent In-Context Learning](ai/rag/arxiv-2604-20348.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.20348v2 Announce Type: replace-cross Abstract: Language Models (LLMs) have emerged as powerful reasoning engines for embodied control. In particular, In-Context Learning (ICL) enables off-the-shelf, text-only LLMs to predict robot actions
   * Tags: `agents`, `models`, `rag`
@@ -7422,22 +10779,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12109v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have demonstrated remarkable zero-shot generalization in robotic manipulation, yet the vast majority of pre-trained pipelines remain strictly confined to low-DoF pa
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12109>
-
-* **[Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md)** (`dataset` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations
-  * Source URL: <https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms>
-
-* **[Build a Domain-Specific Embedding Model in Under a Day](ai/models/build-a-domain-specific-embedding-model-in-under-a.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Build a Domain-Specific Embedding Model in Under a Day
-  * Source URL: <https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune>
-
-* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
-  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
-
-* **[Building Deep Research: How we Achieved State of the Art](ai/models/building-deep-research-how-we-achieved-state-of-th.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Building Deep Research: How we Achieved State of the Art
-  * Source URL: <https://huggingface.co/blog/Tavily/tavily-deep-research>
 
 * **[Can AI Agents Synthesize Scientific Conclusions?](ai/agents/arxiv-2606-11337.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11337v1 Announce Type: new Abstract: Scientific AI agents increasingly retrieve evidence, reason across sources, and synthesize conclusions used in consequential decisions. Yet, their ability to do so in high-stakes domains such as health
@@ -7481,11 +10822,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2605.14084>
 
-* **[CUGA on Hugging Face: Democratizing Configurable AI Agents](ai/agents/cuga-on-hugging-face-democratizing-configurable-ai.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: CUGA on Hugging Face: Democratizing Configurable AI Agents
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research/cuga-on-hugging-face>
-
 * **[DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](ai/rag/arxiv-2606-07001.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.07001v2 Announce Type: replace-cross Abstract: High-quality training data is essential to large language models (LLMs) and typically requires extensive and costly manual curation. Existing automatic data preparation methods rely on predefi
   * Tags: `rag`
@@ -7495,18 +10831,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11835v1 Announce Type: cross Abstract: Collecting participants' lived experiences is central to design research. Focus groups are uniquely valuable because participants not only share individual accounts but also respond to one another, su
   * Source URL: <https://arxiv.org/abs/2606.11835>
 
-* **[Differential Transformer V2](ai/models/differential-transformer-v2.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Differential Transformer V2
-  * Source URL: <https://huggingface.co/blog/microsoft/diff-attn-v2>
-
 * **[Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](ai/rag/arxiv-2602-18291.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.18291v2 Announce Type: replace Abstract: Online Multi-Agent Reinforcement Learning (MARL) is a prominent framework for efficient agent coordination. Crucially, enhancing policy expressiveness is pivotal for achieving superior performance.
   * Tags: `agents`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2602.18291>
-
-* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
-  * Source URL: <https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots>
 
 * **[DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?](ai/rag/arxiv-2606-12402.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12402v1 Announce Type: cross Abstract: Vision-Language Models (VLMs) are increasingly deployed as high-level planners for embodied agents, with an emerging strategy of scaling test-time compute to improve capability. However, we observe th
@@ -7522,10 +10850,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11901v1 Announce Type: cross Abstract: Bimanual robot systems substantially expand manipulation capabilities, but coordinating two arms introduces additional control complexity and failure modes that are not well captured by existing bench
   * Source URL: <https://arxiv.org/abs/2606.11901>
 
-* **[Efficient Request Queueing – Optimizing LLM Performance](ai/models/efficient-request-queueing-optimizing-llm-performa.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Efficient Request Queueing – Optimizing LLM Performance
-  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-request-queueing>
-
 * **[Engineering Robustness into Personal Agents with the AI Workflow Store](ai/agents/arxiv-2605-10907.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2605.10907v3 Announce Type: replace-cross Abstract: The dominant paradigm for AI agents is an "on-the-fly" loop in which agents synthesize plans and execute actions within seconds or minutes in response to user prompts. We argue that this parad
   * Tags: `agents`, `workflows`
@@ -7535,22 +10859,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11232v1 Announce Type: cross Abstract: Existing LLM moral benchmarks usually ask which isolated moral act, value, or foundation a model prefers. This is useful but incomplete. Realistic judgments often require a model to combine several mo
   * Source URL: <https://arxiv.org/abs/2606.11232>
 
-* **[Falcon Perception](ai/models/falcon-perception.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Falcon Perception
-  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-perception>
-
-* **[Falcon-Arabic: A Breakthrough in Arabic Language Models](ai/models/falcon-arabic-a-breakthrough-in-arabic-language-mo.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Falcon-Arabic: A Breakthrough in Arabic Language Models
-  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-arabic>
-
-* **[Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.](ai/models/falcon-edge-a-series-of-powerful-universal-fine-tu.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.
-  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-edge>
-
-* **[Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance](ai/models/falcon-h1-a-family-of-hybrid-head-language-models.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance
-  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-h1>
-
 * **[Fast Speech Foundation Model Distillation Using Interleaved Stacking](ai/research/arxiv-2606-11766.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.11766v1 Announce Type: cross Abstract: Distilling a large speech foundation model (SFM) into an efficient student model has been successfully applied to low-resource environments. Although distillation reduces inference latency, it require
   * Source URL: <https://arxiv.org/abs/2606.11766>
@@ -7558,14 +10866,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Feature-Aligned Speech Watermarking for Robustness to Reconstruction Distortions](ai/research/arxiv-2606-11828.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.11828v1 Announce Type: cross Abstract: Audio watermarking aims to embed identifiable information into audio while remaining imperceptible. Existing methods adopt high-fidelity, low-energy designs to preserve perceptual quality, but the res
   * Source URL: <https://arxiv.org/abs/2606.11828>
-
-* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
-  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
-
-* **[Finetuning olmOCR to be a faithful OCR-Engine](ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Finetuning olmOCR to be a faithful OCR-Engine
-  * Source URL: <https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine>
 
 * **[Forecasting Future Behavior as a Learning Task](ai/research/arxiv-2606-11445.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11445v1 Announce Type: new Abstract: Trust in an AI system is often anchored by explanations of how it works, which one then uses to forecast its behavior on new inputs. For large reasoning models (LRMs), this conventional route is particu
@@ -7591,69 +10891,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2602.03282>
 
-* **[Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents
-  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-vision>
-
-* **[Granite 4.0 Nano: Just how small can you go?](ai/models/granite-4-0-nano-just-how-small-can-you-go.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Granite 4.0 Nano: Just how small can you go?
-  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-nano>
-
-* **[Granite 4.1 LLMs: How They’re Built](ai/models/granite-4-1-llms-how-theyre-built.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Granite 4.1 LLMs: How They’re Built
-  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-4-1>
-
-* **[Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
-  * Tags: `rag`
-  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2>
-
-* **[H Company's new Holo2 model takes the lead in UI Localization](ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: H Company's new Holo2 model takes the lead in UI Localization
-  * Source URL: <https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b>
-
 * **[HERO: Hindsight-Enhanced Reflection from Environment Observations for Agentic Self-Distillation](ai/agents/arxiv-2606-11559.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11559v1 Announce Type: new Abstract: Reinforcement learning typically improves multi-turn agent capabilities through the terminal outcome of the trajectories, which makes it difficult to determine credit assignments for each intermediate t
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11559>
 
-* **[Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](ai/agents/holo1-new-family-of-gui-automation-vlms-powering-g.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H
-  * Tags: `agents`, `scripts`
-  * Source URL: <https://huggingface.co/blog/Hcompany/holo1>
-
-* **[Holo3.1: Fast & Local Computer Use Agents](ai/agents/holo3-1-fast-local-computer-use-agents.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Holo3.1: Fast & Local Computer Use Agents
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/Hcompany/holo31>
-
-* **[Holotron-12B - High Throughput Computer Use Agent](ai/agents/holotron-12b-high-throughput-computer-use-agent.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Holotron-12B - High Throughput Computer Use Agent
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/Hcompany/holotron-12b>
-
-* **[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/mishig/spaces-agents-md>
-
-* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
-  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
-
-* **[How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare](ai/models/how-to-build-a-healthcare-robot-from-simulation-to.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare
-  * Source URL: <https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthcare>
-
 * **[Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality](ai/rag/arxiv-2606-11499.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11499v1 Announce Type: cross Abstract: The performance of modern language models depends critically on pretraining data composition. Yet existing data selection methods rely on auxiliary classifiers for document scoring or mixture optimiza
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.11499>
-
-* **[IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research/itbenchandmast>
 
 * **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](ai/research/arxiv-2606-12378.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12378v1 Announce Type: cross Abstract: Physiological awareness is important for service, social, and assistive robots that interact with humans in everyday environments. Remote photoplethysmography (rPPG) enables non-contact heart-rate (HR
@@ -7667,11 +10913,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.10046v2 Announce Type: replace-cross Abstract: Flow-matching transformers achieve strong audio separation, yet their attention dynamics are opaque. We adapt established causal-intervention principles into a deterministic, inference-time pr
   * Source URL: <https://arxiv.org/abs/2606.10046>
 
-* **[Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis>
-
 * **[Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends](ai/agents/arxiv-2606-12207.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.12207v1 Announce Type: cross Abstract: Embodied intelligence now spans navigation, household assistance, manipulation, autonomous driving, aerial agents, and multimodal large-model control. This expansion has made benchmark construction a
   * Tags: `agents`, `scripts`, `workflows`
@@ -7682,31 +10923,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `scripts`
   * Source URL: <https://arxiv.org/abs/2604.25018>
 
-* **[Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture](ai/models/introducing-falcon-h1-arabic-pushing-the-boundarie.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture
-  * Source URL: <https://huggingface.co/blog/tiiuae/falcon-h1-arabic>
-
-* **[Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
-  * Source URL: <https://huggingface.co/blog/JetBrains/mellum2-launch>
-
-* **[Introducing North Mini Code: Cohere’s First Model For Developers](ai/models/introducing-north-mini-code-coheres-first-model-fo.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing North Mini Code: Cohere’s First Model For Developers
-  * Source URL: <https://huggingface.co/blog/CohereLabs/introducing-north-mini-code>
-
-* **[Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence>
-
-* **[Introducing SyGra Studio](ai/models/introducing-sygra-studio.md)** (`product` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing SyGra Studio
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/sygra-studio>
-
-* **[Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!](ai/models/introducing-the-palmyra-mini-family-powerful-light.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!
-  * Source URL: <https://huggingface.co/blog/Writer/announcing-palmyra-mini>
-
 * **[Irresponsible AI: big tech's influence on AI research and associated impacts](ai/research/arxiv-2512-03077.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2512.03077v2 Announce Type: replace-cross Abstract: The accelerated development, deployment and adoption of artificial intelligence systems has been fuelled by the increasing presence of big tech in the AI field. This trend has been accompanied
   * Source URL: <https://arxiv.org/abs/2512.03077>
@@ -7715,18 +10931,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11425v1 Announce Type: cross Abstract: Jailbreak attacks expose persistent safety weaknesses in large language models (LLMs), but existing stateless single-turn methods face a trade-off: hand-crafted prompts are expressive but static, whil
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11425>
-
-* **[Join the AMD Open Robotics Hackathon](ai/models/join-the-amd-open-robotics-hackathon.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Join the AMD Open Robotics Hackathon
-  * Source URL: <https://huggingface.co/blog/amd/openroboticshackathon>
-
-* **[Kimina-Prover-RL](ai/models/kimina-prover-rl.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Kimina-Prover-RL
-  * Source URL: <https://huggingface.co/blog/AI-MO/kimina-prover-rl>
-
-* **[Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models](ai/models/kimina-prover-applying-test-time-rl-search-on-larg.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models
-  * Source URL: <https://huggingface.co/blog/AI-MO/kimina-prover>
 
 * **[LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation](ai/rag/arxiv-2606-11837.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11837v1 Announce Type: cross Abstract: Open-vocabulary scene sketch semantic segmentation aims to assign dense semantic labels to sparse line drawings based on flexible category vocabularies specified at inference time, without relying on
@@ -7773,23 +10977,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2509.14860>
 
-* **[Mastering Long Contexts in LLMs with KVPress](ai/models/mastering-long-contexts-in-llms-with-kvpress.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Mastering Long Contexts in LLMs with KVPress
-  * Source URL: <https://huggingface.co/blog/nvidia/kvpress>
-
-* **[Measuring Open-Source Llama Nemotron Models on DeepResearch Bench](ai/models/measuring-open-source-llama-nemotron-models-on-dee.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Measuring Open-Source Llama Nemotron Models on DeepResearch Bench
-  * Tags: `models`
-  * Source URL: <https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent>
-
 * **[MedCTA: A Benchmark for Clinical Tool Agents](ai/agents/arxiv-2606-11702.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11702v1 Announce Type: cross Abstract: To make clinically grounded decisions, medical AI agents are expected to go beyond simple recognition and be capable of tool retrieval, evidence acquisition, and integration. Existing benchmarks large
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11702>
-
-* **[Meet HoloTab by HCompany. Your AI browser companion.](ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Meet HoloTab by HCompany. Your AI browser companion.
-  * Source URL: <https://huggingface.co/blog/Hcompany/holotab>
 
 * **[MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback](ai/rag/arxiv-2606-07909.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.07909v2 Announce Type: replace Abstract: Modern large language model (LLM) agents can use external tools to help users solve complex tasks. However, for problems that require learning from long-term historical events or from previous agent
@@ -7804,10 +10995,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11724v1 Announce Type: new Abstract: Theory of Mind (ToM) reasoning requires inferring agents' beliefs from partial and asymmetric observations, which remains an open challenge for LLMs. Existing prompting-based approaches improve ToM reas
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11724>
-
-* **[Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial](ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial
-  * Source URL: <https://huggingface.co/blog/open-r1/mini-r1-contdown-game>
 
 * **[MLaGA: Multimodal Large Language and Graph Assistant](ai/research/arxiv-2506-02568.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2506.02568v2 Announce Type: replace Abstract: Large Language Models (LLMs) have demonstrated substantial efficacy in advancing graph-structured data analysis. Prevailing LLM-based graph methods excel in adapting LLMs to text-rich graphs, wherei
@@ -7839,42 +11026,9 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12300v1 Announce Type: cross Abstract: Temporal grounding--returning the interval $[t_s, t_e]$ for a natural-language query over a video--is the language interface to long-form video, yet has been studied on short videos; the dynamics of h
   * Source URL: <https://arxiv.org/abs/2606.12300>
 
-* **[Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety>
-
-* **[Nemotron-Personas-India: Synthesized Data for Sovereign AI](ai/models/nemotron-personas-india-synthesized-data-for-sover.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Nemotron-Personas-India: Synthesized Data for Sovereign AI
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-personas-india>
-
-* **[Nemotron-Personas-Japan: ソブリン AI のための合成データセット](ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-chen.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Nemotron-Personas-Japan: ソブリン AI のための合成データセット
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja>
-
-* **[Neural Super Sampling is here!](ai/models/neural-super-sampling-is-here.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Neural Super Sampling is here!
-  * Source URL: <https://huggingface.co/blog/Arm/neural-super-sampling>
-
-* **[New in llama.cpp: Model Management](ai/models/new-in-llama-cpp-model-management.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: New in llama.cpp: Model Management
-  * Tags: `models`
-  * Source URL: <https://huggingface.co/blog/ggml-org/model-management-in-llamacpp>
-
 * **[Non-frontal face recognition using GANs and memristor-based classifiers](ai/research/arxiv-2606-12074.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12074v1 Announce Type: cross Abstract: Face recognition systems have advanced significantly through deep learning techniques, delivering high performance and robustness in complex scenarios. However, these approaches incur substantial comp
   * Source URL: <https://arxiv.org/abs/2606.12074>
-
-* **[NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI](ai/models/nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI
-  * Source URL: <https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning>
-
-* **[NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset](ai/models/nvidia-releases-6-million-multi-lingual-reasoning.md)** (`dataset` | `useful` tier)
-  * Summary: No summary provided. Reference resource: NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset
-  * Source URL: <https://huggingface.co/blog/nvidia/multilingual-reasoning-v1>
-
-* **[OlmoEarth v1.1: A more efficient family of Earth observation models](ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: OlmoEarth v1.1: A more efficient family of Earth observation models
-  * Source URL: <https://huggingface.co/blog/allenai/olmoearth-v1-1>
 
 * **[OmniBioTwin: A System-of-Twinned-Systems Framework for Health Digital Twins](ai/rag/arxiv-2606-11264.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11264v1 Announce Type: cross Abstract: Health digital twins (HDTs) promise patient-specific modeling and decision support but current approaches remain structurally fragmented: monolithic models that address a single organ or task lack cro
@@ -7886,53 +11040,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.12071>
 
-* **[On the Shifting Global Compute Landscape](ai/models/on-the-shifting-global-compute-landscape.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: On the Shifting Global Compute Landscape
-  * Source URL: <https://huggingface.co/blog/huggingface/shifting-compute-landscape>
-
 * **[On the Study of Biometric Spoofing Detection using Deep Learning](ai/research/arxiv-2606-11505.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11505v1 Announce Type: cross Abstract: Biometric systems are increasingly deployed in security applications; however, they remain vulnerable to spoofing attacks, in which attackers exploit counterfeit biometric data to gain unauthorized ac
   * Source URL: <https://arxiv.org/abs/2606.11505>
 
-* **[One Year Since the “DeepSeek Moment”](ai/models/one-year-since-the-deepseek-moment.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: One Year Since the “DeepSeek Moment”
-  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment>
-
-* **[Open R1: Update #2](ai/models/open-r1-update-2.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Open R1: Update #2
-  * Source URL: <https://huggingface.co/blog/open-r1/update-2>
-
-* **[Open R1: Update #3](ai/models/open-r1-update-3.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Open R1: Update #3
-  * Source URL: <https://huggingface.co/blog/open-r1/update-3>
-
-* **[Open R1: Update #4](ai/models/open-r1-update-4.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Open R1: Update #4
-  * Source URL: <https://huggingface.co/blog/open-r1/update-4>
-
-* **[Open-R1: a fully open reproduction of DeepSeek-R1](ai/models/open-r1-a-fully-open-reproduction-of-deepseek-r1.md)** (`product` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Open-R1: a fully open reproduction of DeepSeek-R1
-  * Source URL: <https://huggingface.co/blog/open-r1>
-
-* **[Open-R1: Update #1](ai/models/open-r1-update-1.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Open-R1: Update #1
-  * Source URL: <https://huggingface.co/blog/open-r1/update-1>
-
 * **[OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation](ai/research/arxiv-2601-22725.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2601.22725v4 Announce Type: replace-cross Abstract: Recent advances in diffusion models have significantly elevated the visual fidelity of Virtual Try-On (VTON) systems, yet reliable evaluation remains a persistent bottleneck. Traditional metri
   * Source URL: <https://arxiv.org/abs/2601.22725>
-
-* **[OVHcloud on Hugging Face Inference Providers 🔥](ai/models/ovhcloud-on-hugging-face-inference-providers.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: OVHcloud on Hugging Face Inference Providers 🔥
-  * Source URL: <https://huggingface.co/blog/OVHcloud/inference-providers-ovhcloud>
-
-* **[PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
-  * Source URL: <https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers>
-
-* **[PipelineRL](ai/models/pipelinerl.md)** (`workflow` | `useful` tier)
-  * Summary: No summary provided. Reference resource: PipelineRL
-  * Source URL: <https://huggingface.co/blog/ServiceNow/pipelinerl>
 
 * **[Planning under Distribution Shifts with Causal POMDPs](ai/research/arxiv-2602-23545.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.23545v2 Announce Type: replace Abstract: In the real world, planning is often challenged by distribution shifts. As such, a model of the environment obtained under one set of conditions may no longer remain valid as the distribution of sta
@@ -7946,10 +11060,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2504.09762v4 Announce Type: replace Abstract: Intermediate token generation (ITG), where a model produces output before the solution, has become a standard method to improve the performance of language models on reasoning tasks. These intermedi
   * Source URL: <https://arxiv.org/abs/2504.09762>
 
-* **[Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm](ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm
-  * Source URL: <https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning>
-
 * **[Power Term Polynomial Algebra for Boolean Logic](ai/rag/arxiv-2603-13854.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.13854v2 Announce Type: replace-cross Abstract: We introduce power term polynomial algebra, a representation language for Boolean formulae designed to bridge conjunctive normal form (CNF) and algebraic normal form (ANF). The language is mot
   * Tags: `rag`
@@ -7959,10 +11069,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.04884v3 Announce Type: replace Abstract: Executing a multi-agent plan can be challenging when an agent is delayed, because this typically creates conflicts with other agents. So, we need to quickly find a new safe plan. Replanning only the
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2601.04884>
-
-* **[Prefill and Decode for Concurrent Requests - Optimizing LLM Performance](ai/models/prefill-and-decode-for-concurrent-requests-optimiz.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Prefill and Decode for Concurrent Requests - Optimizing LLM Performance
-  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests>
 
 * **[Pretrained self-supervised speech models can recognize unseen consonants](ai/research/arxiv-2606-11542.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.11542v1 Announce Type: cross Abstract: Modern pretrained self-supervised automatic speech recognition models are trained on large-scale audio data to encode speech into contextualized representations. However, their training data are heavi
@@ -7978,14 +11084,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12329>
 
-* **[PRX Part 3 — Training a Text-to-Image Model in 24h!](ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: PRX Part 3 — Training a Text-to-Image Model in 24h!
-  * Source URL: <https://huggingface.co/blog/Photoroom/prx-part3>
-
-* **[QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard](ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
-  * Source URL: <https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard>
-
 * **[Quality Adaptive Angular Margin Learning for Respiratory Sound Classification](ai/research/arxiv-2606-11915.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11915v1 Announce Type: cross Abstract: We present a quality-adaptive angular-margin learning framework that improves feature generalization by enforcing intra-class compactness and inter-class separability. Our framework, titled QLung, int
   * Tags: `models`
@@ -7999,10 +11097,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models with a CHC-Grounded Benchmark](ai/research/arxiv-2606-11260.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11260v1 Announce Type: cross Abstract: Humans process rich auditory environments through tightly integrated cognitive capabilities such as audio perception, audio reasoning, and memory. Despite recent progress in large audio-language model
   * Source URL: <https://arxiv.org/abs/2606.11260>
-
-* **[Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom](ai/models/real-time-ai-sound-generation-on-arm-a-personal-to.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom
-  * Source URL: <https://huggingface.co/blog/Arm/ai-sound-gen-on-arm>
 
 * **[Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning](ai/rag/arxiv-2606-11683.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11683v1 Announce Type: cross Abstract: Spatial reasoning from egocentric videos is inherently challenging because the observable evidence is constrained by the camera trajectory. Existing methods rely on single-turn inference, forcing mode
@@ -8037,10 +11131,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.07840v4 Announce Type: replace-cross Abstract: Evaluating relevance in large-scale search systems is fundamentally constrained by the governance gap between nuanced, resource-constrained human oversight and the high-throughput requirements
   * Source URL: <https://arxiv.org/abs/2602.07840>
 
-* **[SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence
-  * Source URL: <https://huggingface.co/blog/SandboxAQ/sair-data-accelerating-drug-discovery-with-ai>
-
 * **[Self-Prompting Small Language Models for Privacy-Sensitive Clinical Information Extraction](ai/research/arxiv-2605-04221.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.04221v2 Announce Type: replace-cross Abstract: Clinical named entity recognition from dental progress notes is challenging because documentation is highly unstructured, domain-specific, and often privacy-sensitive. We developed a locally d
   * Tags: `models`
@@ -8059,10 +11149,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12382v1 Announce Type: cross Abstract: The Strength Pareto Evolutionary Algorithm 2 (SPEA2) is a popular and prominent evolutionary algorithm for solving multi-objective optimisation problems. Despite its popularity, theoretical analyses o
   * Source URL: <https://arxiv.org/abs/2606.12382>
 
-* **[State of Open Source on Hugging Face: Spring 2026](ai/models/state-of-open-source-on-hugging-face-spring-2026.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: State of Open Source on Hugging Face: Spring 2026
-  * Source URL: <https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026>
-
 * **[StatefulDiscovery: Evidence-Calibrated Claim Formation in Open-Ended Scientific Discovery](ai/agents/arxiv-2606-11851.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11851v1 Announce Type: new Abstract: Open-ended scientific discovery asks agents to move beyond executing analyses for predefined questions. Across multiple rounds of exploration, a discovery agent must decide which phenomena warrant inves
   * Tags: `agents`, `models`
@@ -8076,10 +11162,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2507.17012v2 Announce Type: replace Abstract: Reducing the rapidly growing environmental impact of the computing industry requires assessing the emissions of electronics at scale. However, a traditional life cycle assessment (LCA) of an electro
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2507.17012>
-
-* **[SyGra: The One-Stop Framework for Building Data for LLMs and SLMs](ai/models/sygra-the-one-stop-framework-for-building-data-for.md)** (`framework` | `useful` tier)
-  * Summary: No summary provided. Reference resource: SyGra: The One-Stop Framework for Building Data for LLMs and SLMs
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework>
 
 * **[T2MM: An LLM Supported Architecture For Inquiry-Based Modeling](ai/research/arxiv-2606-11210.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11210v1 Announce Type: cross Abstract: Model Construction is a foundational practice in science learning that relies on visualization and interactivity. Large Language Models, increasingly augmented with multimodal capabilities, have been
@@ -8112,18 +11194,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11215v1 Announce Type: cross Abstract: Large Language Model (LLM) usage in recent years has become increasingly widespread in the Artificial Intelligence in Education (AIED) community. While LLMs offer unique avenues for learners and educa
   * Source URL: <https://arxiv.org/abs/2606.11215>
 
-* **[The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](ai/models/the-future-of-the-global-open-source-ai-ecosystem.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+
-  * Source URL: <https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3>
-
 * **[The Impossibility of Eliciting Latent Knowledge](ai/agents/arxiv-2606-12268.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.12268v1 Announce Type: new Abstract: Advanced AI systems have extensive knowledge of their environments; in fact, their knowledge may (far) exceed that of their developers or users. Consequently, a desirable property for an AI system is th
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12268>
-
-* **[The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator
-  * Source URL: <https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe>
 
 * **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)** (`benchmark` | `useful` tier)
   * Summary: The Ultimate List of Python RAG Projects on GitHub 2 March 2026·13 mins AI/ML DevOps Community Python RAG LangChain LlamaIndex RAGFlow Retrieval-Augmented Generation The landscape of Retrieval-Augmented Generation (RAG) in Python has evolved signific
@@ -8144,35 +11218,14 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.12147>
 
-* **[Training Design for Text-to-Image Models: Lessons from Ablations](ai/models/training-design-for-text-to-image-models-lessons-f.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Training Design for Text-to-Image Models: Lessons from Ablations
-  * Source URL: <https://huggingface.co/blog/Photoroom/prx-part2>
-
-* **[Training mRNA Language Models Across 25 Species for $165](ai/models/training-mrna-language-models-across-25-species-fo.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Training mRNA Language Models Across 25 Species for $165
-  * Source URL: <https://huggingface.co/blog/OpenMed/training-mrna-models-25-species>
-
 * **[TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search](ai/agents/arxiv-2606-11662.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11662v1 Announce Type: new Abstract: Deep search requires agents to answer complex questions through multi-step web search, browsing, evidence comparison, and synthesis. A central challenge is deciding how to search when several directions
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.11662>
 
-* **[Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl>
-
 * **[VIA-SD: Verification via Intra-Model Routing for Speculative Decoding](ai/research/arxiv-2606-12243.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12243v1 Announce Type: cross Abstract: Speculative decoding (SD) addresses the high inference costs of LLMs by having lightweight drafters generate candidates for large verifiers to validate in parallel. Existing draft-verify methods use b
   * Source URL: <https://arxiv.org/abs/2606.12243>
-
-* **[Visual Salamandra: Pushing the Boundaries of Multimodal Understanding](ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
-  * Source URL: <https://huggingface.co/blog/BSC-LT/visualsalamandra7b>
-
-* **[vLLM V0 to V1: Correctness Before Corrections in RL](ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md)** (`product` | `useful` tier)
-  * Summary: No summary provided. Reference resource: vLLM V0 to V1: Correctness Before Corrections in RL
-  * Source URL: <https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections>
 
 * **[Weakly Supervised Segmentation as Semantic-Based Regularization](ai/rag/arxiv-2605-13674.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2605.13674v2 Announce Type: replace-cross Abstract: Weakly supervised semantic segmentation (WSSS) trains dense pixel-level segmentation models from partial or coarse annotations such as bounding boxes, scribbles, or image-level tags. While rec
@@ -8184,11 +11237,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.09426>
 
-* **[Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub
-  * Tags: `models`
-  * Source URL: <https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl>
-
 * **[What Limits Does Quantization Place on Dense Top-$k$ Retrieval? A Theoretical Study](ai/rag/arxiv-2606-11780.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.11780v1 Announce Type: cross Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S \subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vec
   * Tags: `models`, `rag`
@@ -8197,14 +11245,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[When Researchers Say Mental Model/Theory of Mind of AI, What Are They Really Talking About?](ai/research/arxiv-2510-02660.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.02660v2 Announce Type: replace-cross Abstract: When researchers claim AI systems possess ToM or mental models, they are fundamentally discussing behavioral predictions and bias corrections rather than genuine mental states. This position p
   * Source URL: <https://arxiv.org/abs/2510.02660>
-
-* **[Yay! Organizations can now publish blog Articles](ai/models/yay-organizations-can-now-publish-blog-articles.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Yay! Organizations can now publish blog Articles
-  * Source URL: <https://huggingface.co/blog/huggingface/blog-articles-for-orgs>
-
-* **[📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md)** (`benchmark` | `useful` tier)
-  * Summary: No summary provided. Reference resource: 📚 3LM: A Benchmark for Arabic LLMs in STEM and Code
-  * Source URL: <https://huggingface.co/blog/tiiuae/3lm-benchmark>
 
 ## Prompt Libraries
 
@@ -8247,29 +11287,29 @@ All resources are linked to their local vault paths and preserve original source
 * **[codebucks27/3D-Landing-page-for-Apple-iPhone](web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md)** (`template` | `useful` tier)
   * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
   * Tags: `animation`, `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone>
+  * Source URL: <https://github.com/codebucks27/3d-landing-page-for-apple-iphone>
 
 * **[codebucks27/Apple-iphone-3d-landing-page-starter-Code](web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md)** (`template` | `useful` tier)
   * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
   * Tags: `animation`, `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code>
+  * Source URL: <https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code>
 
 * **[codebucks27/The-Weirdos-NFT-Website-Starter-Code](web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md)** (`template` | `useful` tier)
   * Summary: Build a cool NFT Collection website landing page with React JS . This website is created using Gsap for cool scrolling and animation. If you want to learn how to create this website then you can follow below tutorial link in the ReadMe.
   * Tags: `animation`, `frontend_ui`
-  * Source URL: <https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code>
+  * Source URL: <https://github.com/codebucks27/the-weirdos-nft-website-starter-code>
 
 * **[EasyFrontendHQ/html-tailwindcss-components](web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)** (`template` | `useful` tier)
   * Summary: Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
   * Tags: `frontend_ui`
-  * Source URL: <https://github.com/EasyFrontendHQ/html-tailwindcss-components>
+  * Source URL: <https://github.com/easyfrontendhq/html-tailwindcss-components>
 
 * **[gonzalochale/saas-landing-template](web-development/nextjs/gonzalochale-saas-landing-template.md)** (`template` | `useful` tier)
   * Summary: SaaS landing page using Next.js 16, ShadcnUI and Tailwind CSS v4.
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/gonzalochale/saas-landing-template>
 
-* **[Introducing our new pricing](ai/models/huggingface-blog-pricing-update.md)** (`tutorial` | `useful` tier)
+* **[Introducing our new pricing](ai/models/introducing-our-new-pricing.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing our new pricing
   * Source URL: <https://huggingface.co/blog/pricing-update>
 
@@ -8344,11 +11384,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12413v1 Announce Type: cross Abstract: Students at all levels of higher education face a significant barrier in the form of information overload, which often paralyzes the initial stages of the research process and suppresses motivation. I
   * Tags: `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.12413>
-
-* **[AI4Land: Scalable Deep Learning for Global High-Resolution Land Use Reconstruction](ai/rag/arxiv-2606-11793.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.11793v1 Announce Type: cross Abstract: Uncertainty in the terrestrial carbon cycle remains a major constraint in climate projections, partly driven by the uncertainties affecting the land surface representation and variability in Earth sys
-  * Tags: `rag`
-  * Source URL: <https://arxiv.org/abs/2606.11793>
 
 * **[All-in-RAG | 大模型应用开发实战：RAG技术全栈指南](ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: All-in-RAG | 大模型应用开发实战：RAG技术全栈指南
@@ -8435,7 +11470,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`, `models`, `rag`, `reddit`, `web-crawled`, `youtube`
   * Source URL: <https://www.geeksforgeeks.org/data-science/building-a-rag-application>
 
-* **[Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md)** (`tutorial` | `useful` tier)
+* **[Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon](ai/rag/building-cost-efficient-enterprise-rag-application.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/cost-efficient-rag-applications-with-intel>
@@ -8495,7 +11530,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2508.17077>
 
-* **[CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](ai/rag/huggingface-blog-intel-fast-embedding.md)** (`tutorial` | `useful` tier)
+* **[CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG](ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/intel-fast-embedding>
@@ -8655,7 +11690,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.12334>
 
-* **[From Files to Chunks: Improving HF Storage Efficiency](ai/rag/huggingface-blog-from-files-to-chunks.md)** (`tutorial` | `useful` tier)
+* **[From Files to Chunks: Improving HF Storage Efficiency](ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From Files to Chunks: Improving HF Storage Efficiency
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/from-files-to-chunks>
@@ -8709,6 +11744,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11817v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used for code generation, raising concerns that they may be misused to produce malicious code. Meanwhile, Grammar-Constrained Decoding (GCD) has been wide
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.11817>
+
+* **[Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
+  * Tags: `rag`
+  * Source URL: <https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2>
 
 * **[Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](ai/rag/huggingface-blog-ibm-granite.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
@@ -8770,7 +11810,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`, `web-crawled`
   * Source URL: <https://www.datacamp.com/tutorial/how-to-improve-rag-performance-5-key-techniques-with-examples>
 
-* **[How we leveraged distilabel to create an Argilla 2.0 Chatbot](ai/rag/huggingface-blog-argilla-chatbot.md)** (`tutorial` | `useful` tier)
+* **[How we leveraged distilabel to create an Argilla 2.0 Chatbot](ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: How we leveraged distilabel to create an Argilla 2.0 Chatbot
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/argilla-chatbot>
@@ -8800,12 +11840,12 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.09289>
 
-* **[Introducing Storage Buckets on the Hugging Face Hub](ai/rag/huggingface-blog-storage-buckets.md)** (`tutorial` | `useful` tier)
+* **[Introducing Storage Buckets on the Hugging Face Hub](ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Storage Buckets on the Hugging Face Hub
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/storage-buckets>
 
-* **[Introducing Storage Regions on the HF Hub](ai/rag/huggingface-blog-regions.md)** (`tutorial` | `useful` tier)
+* **[Introducing Storage Regions on the HF Hub](ai/rag/introducing-storage-regions-on-the-hf-hub.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing Storage Regions on the HF Hub
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/regions>
@@ -8860,7 +11900,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/writer-case-study>
 
-* **[Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](ai/rag/huggingface-blog-warm-starting-encoder-decoder.md)** (`tutorial` | `useful` tier)
+* **[Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models](ai/rag/leveraging-pre-trained-language-model-checkpoints.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/warm-starting-encoder-decoder>
@@ -9015,7 +12055,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2603.06652>
 
-* **[Parquet Content-Defined Chunking](ai/rag/huggingface-blog-parquet-cdc.md)** (`tutorial` | `useful` tier)
+* **[Parquet Content-Defined Chunking](ai/rag/parquet-content-defined-chunking.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Parquet Content-Defined Chunking
   * Tags: `rag`
   * Source URL: <https://huggingface.co/blog/parquet-cdc>
@@ -9170,7 +12210,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13316>
 
-* **[Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md)** (`benchmark` | `useful` tier)
+* **[Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard](ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard
   * Tags: `benchmark`, `leaderboard`, `rag`
   * Source URL: <https://huggingface.co/blog/leaderboard-3c3h-aragen>
@@ -9224,6 +12264,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Awesome list for AI chaos engineering: experiments, evaluations, guardrails & observability for LLM/RAG.
   * Tags: `benchmark`, `github-repo`, `rag`, `unknown`
   * Source URL: <https://github.com/sbalnojan/ai-chaos-awesome>
+
+* **[Scalable Deep Learning Framework for Global High-Resolution Land Use Reconstruction](ai/rag/arxiv-2606-11793.md)** (`framework` | `useful` tier)
+  * Summary: arXiv:2606.11793v2 Announce Type: replace-cross Abstract: Uncertainty in the terrestrial carbon cycle remains a major constraint in climate projections, partly driven by the uncertainties affecting the land surface representation and variability in E
+  * Tags: `rag`
+  * Source URL: <https://arxiv.org/abs/2606.11793>
 
 * **[scLLM-DSC: LLM-Knowledge Enhanced Cross-Modal Deep Structural Clustering for Single-Cell RNA Sequencing](ai/rag/arxiv-2606-13007.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13007v1 Announce Type: cross Abstract: Clustering is fundamental to scRNA-seq analysis, serving as a cornerstone for identifying cell populations and resolving tissue heterogeneity. However, existing methods focus on mining numerical stati
@@ -9426,7 +12471,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/wgcyeo/UniversalRAG>
 
 * **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (`benchmark` | `useful` tier)
-  * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
+  * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #rag #beginners #tutorial If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
   * Tags: `anthropic`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `web-crawled`
   * Source URL: <https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm>
 
@@ -9532,7 +12577,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[chrisgannon/ScrollLottie](web-development/gsap/chrisgannon-scrolllottie.md)** (`reference` | `reference` tier)
   * Summary: Use GSAP ScrollTrigger to scroll through a Lottie animation
   * Tags: `animation`
-  * Source URL: <https://github.com/chrisgannon/ScrollLottie>
+  * Source URL: <https://github.com/chrisgannon/scrolllottie>
 
 * **[codrops/ScrollBasedLayoutAnimations](web-development/gsap/codrops-scrollbasedlayoutanimations.md)** (`reference` | `reference` tier)
   * Summary: An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
@@ -9584,7 +12629,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[chenjsh36/ThreeJSForFun](web-development/threejs/chenjsh36-threejsforfun.md)** (`tool` | `useful` tier)
   * Summary: 收集关于 ThreeJS 的系列教程、Demo、工具，整理学习笔记和Demo
   * Tags: `threejs`
-  * Source URL: <https://github.com/chenjsh36/ThreeJSForFun>
+  * Source URL: <https://github.com/chenjsh36/threejsforfun>
 
 * **[coldi/r3f-game-demo](web-development/react-three-fiber/coldi-r3f-game-demo.md)** (`tool` | `useful` tier)
   * Summary: A demo on how to do a simple tile-based game with React and react-three-fiber
@@ -9628,8 +12673,8 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[Epiczzor/r3f-template](web-development/react-three-fiber/epiczzor-r3f-template.md)** (`template` | `useful` tier)
   * Summary: a starter project for react-three-fiber and some more useful packages
-  * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/Epiczzor/r3f-template>
+  * Tags: `frontend_ui`, `reddit`, `threejs`
+  * Source URL: <https://github.com/epiczzor/r3f-template>
 
 * **[fireship-io/threejs-scroll-animation-demo](web-development/threejs/fireship-io-threejs-scroll-animation-demo.md)** (`tool` | `useful` tier)
   * Summary: 3D Scrolling Portfolio Website with Three.js
@@ -9684,12 +12729,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[hjlld/LearningWebGPU](web-development/webgpu/hjlld-learningwebgpu.md)** (`tutorial` | `useful` tier)
   * Summary: WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.
   * Tags: `threejs`
-  * Source URL: <https://github.com/hjlld/LearningWebGPU>
+  * Source URL: <https://github.com/hjlld/learningwebgpu>
 
 * **[idflood/ThreeNodes.js](web-development/webgl/idflood-threenodes-js.md)** (`tool` | `useful` tier)
   * Summary: vvvv "clone" in javascript/webgl
   * Tags: `threejs`
-  * Source URL: <https://github.com/idflood/ThreeNodes.js>
+  * Source URL: <https://github.com/idflood/threenodes.js>
 
 * **[josdirksen/learning-threejs-third](web-development/threejs/josdirksen-learning-threejs-third.md)** (`tool` | `useful` tier)
   * Summary: Ongoing project for learning Three.js third edition
@@ -9699,7 +12744,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[juniorxsound/R3F.Multiplayer](web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)** (`template` | `useful` tier)
   * Summary: Small React three fiber multiplayer template 🎮
   * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/juniorxsound/R3F.Multiplayer>
+  * Source URL: <https://github.com/juniorxsound/r3f.multiplayer>
 
 * **[Knowledge Manifold: A Riemannian Geometric Framework for Semantic Mapping and Geodesic Analysis of Scientific Literature](ai/research/arxiv-2606-05907.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.05907v2 Announce Type: replace-cross Abstract: We present the knowledge manifold: a Riemannian geometric space in which a corpus of documents is arranged according to semantic positional relationships derived from character n-gram TF-IDF r
@@ -9714,7 +12759,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Mario343214420/Webgl-Data-Demo](web-development/threejs/mario343214420-webgl-data-demo.md)** (`tool` | `useful` tier)
   * Summary: 基于Vue、three.js、echarts，数据可视化展示项目，包含三维模型导入交互、三维模型标注等功能
   * Tags: `threejs`
-  * Source URL: <https://github.com/Mario343214420/Webgl-Data-Demo>
+  * Source URL: <https://github.com/mario343214420/webgl-data-demo>
 
 * **[mikbry/awesome-webgpu](web-development/webgpu/mikbry-awesome-webgpu.md)** (`tool` | `useful` tier)
   * Summary: 😎 Curated list of awesome things around WebGPU ecosystem.
@@ -9739,12 +12784,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[nklsrh/BuildNewGames_ThreeJSGame](web-development/threejs/nklsrh-buildnewgames-threejsgame.md)** (`framework` | `useful` tier)
   * Summary: A game built to show off some of the basic features of the Three.JS WebGL library.
   * Tags: `threejs`
-  * Source URL: <https://github.com/nklsrh/BuildNewGames_ThreeJSGame>
+  * Source URL: <https://github.com/nklsrh/buildnewgames_threejsgame>
 
 * **[Orillusion/orillusion](web-development/webgpu/orillusion-orillusion.md)** (`tool` | `useful` tier)
   * Summary: Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
   * Tags: `threejs`
-  * Source URL: <https://github.com/Orillusion/orillusion>
+  * Source URL: <https://github.com/orillusion/orillusion>
 
 * **[patriciogonzalezvivo/lygia](web-development/webgpu/patriciogonzalezvivo-lygia.md)** (`framework` | `useful` tier)
   * Summary: LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal, WGSL, WEGL and CUDA) shader library designed for performance and flexibility
@@ -9809,7 +12854,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[PolyMeilex/vscode-wgsl](web-development/webgpu/polymeilex-vscode-wgsl.md)** (`tool` | `useful` tier)
   * Summary: VsCode Syntax highlight for WGSL files
   * Tags: `threejs`
-  * Source URL: <https://github.com/PolyMeilex/vscode-wgsl>
+  * Source URL: <https://github.com/polymeilex/vscode-wgsl>
 
 * **[puxiao/threejs-tutorial](web-development/threejs/puxiao-threejs-tutorial.md)** (`tutorial` | `useful` tier)
   * Summary: Three.js 系列教程，学习和探索 Three.js 世界。
@@ -9824,7 +12869,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[redcamel/RedGPU](web-development/webgpu/redcamel-redgpu.md)** (`framework` | `useful` tier)
   * Summary: RedGPU - JavaScript WebGPU Library
   * Tags: `threejs`
-  * Source URL: <https://github.com/redcamel/RedGPU>
+  * Source URL: <https://github.com/redcamel/redgpu>
 
 * **[sanderblue/solar-system-threejs](web-development/threejs/sanderblue-solar-system-threejs.md)** (`tool` | `useful` tier)
   * Summary: The Solar System modeled to scale with Three.js
@@ -9834,22 +12879,22 @@ All resources are linked to their local vault paths and preserve original source
 * **[Scthe/nanite-webgpu](web-development/webgpu/scthe-nanite-webgpu.md)** (`tool` | `useful` tier)
   * Summary: UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.
   * Tags: `threejs`
-  * Source URL: <https://github.com/Scthe/nanite-webgpu>
+  * Source URL: <https://github.com/scthe/nanite-webgpu>
 
 * **[ShowravKormokar/capsule](web-development/gsap/showravkormokar-capsule.md)** (`tool` | `useful` tier)
   * Summary: This is a clone of the Awwwards-winning "capsule.moyra.co," developed to level up my frontend skills. The goal was to reverse-engineer the site's complex animations and responsive layout using React, Vite, GSAP, and Tailwind CSS. It serves as a portf
-  * Tags: `animation`, `creative_dev`, `frontend_ui`
-  * Source URL: <https://github.com/ShowravKormokar/capsule>
+  * Tags: `animation`, `creative_dev`, `frontend_ui`, `reddit`
+  * Source URL: <https://github.com/showravkormokar/capsule>
 
 * **[spite/Wagner](web-development/threejs/spite-wagner.md)** (`tool` | `useful` tier)
   * Summary: Effects composer for three.js
   * Tags: `threejs`
-  * Source URL: <https://github.com/spite/Wagner>
+  * Source URL: <https://github.com/spite/wagner>
 
 * **[SuboptimalEng/slime-sim-webgpu](web-development/webgpu/suboptimaleng-slime-sim-webgpu.md)** (`tool` | `useful` tier)
   * Summary: 🦠 Slime mold simulation with WebGPU and TypeScript.
   * Tags: `threejs`
-  * Source URL: <https://github.com/SuboptimalEng/slime-sim-webgpu>
+  * Source URL: <https://github.com/suboptimaleng/slime-sim-webgpu>
 
 * **[szebniok/tree-sitter-wgsl](web-development/webgpu/szebniok-tree-sitter-wgsl.md)** (`tool` | `useful` tier)
   * Summary: WebGPU Shading Language grammar for tree-sitter parser
@@ -9864,7 +12909,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[TiagoCavalcante/r3f-native-orbitcontrols](web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)** (`tool` | `useful` tier)
   * Summary: OrbitControls for React Three Fiber in React Native
   * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/TiagoCavalcante/r3f-native-orbitcontrols>
+  * Source URL: <https://github.com/tiagocavalcante/r3f-native-orbitcontrols>
 
 * **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/huggingface-blog-transformersjs-v3.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
@@ -9919,12 +12964,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[wrongakram/R3F-Chairs](web-development/react-three-fiber/wrongakram-r3f-chairs.md)** (`tool` | `useful` tier)
   * Summary: React three fiber
   * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/wrongakram/R3F-Chairs>
+  * Source URL: <https://github.com/wrongakram/r3f-chairs>
 
 * **[xiao149/ThreeJsDemo](web-development/threejs/xiao149-threejsdemo.md)** (`tool` | `useful` tier)
   * Summary: ThreeJs示例代码
   * Tags: `threejs`
-  * Source URL: <https://github.com/xiao149/ThreeJsDemo>
+  * Source URL: <https://github.com/xiao149/threejsdemo>
 
 * **[ykob/sketch-threejs](web-development/threejs/ykob-sketch-threejs.md)** (`tool` | `useful` tier)
   * Summary: Interactive sketches made with three.js.

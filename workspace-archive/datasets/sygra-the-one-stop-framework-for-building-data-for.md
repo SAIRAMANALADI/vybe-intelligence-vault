@@ -2,7 +2,7 @@
 title: 'SyGra: The One-Stop Framework for Building Data for LLMs and SLMs'
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework
+source_url: https://huggingface.co/blog/servicenow-ai/sygra-data-gen-framework
 resource_id: blog:sygra-the-one-stop-framework-for-building-data-for
 local_vault_path: ai/models/sygra-the-one-stop-framework-for-building-data-for.md
 quality_score: 70
@@ -36,7 +36,7 @@ No summary provided. Reference resource: SyGra: The One-Stop Framework for Build
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/ServiceNow-AI/sygra-data-gen-framework
+Original source URL: https://huggingface.co/blog/servicenow-ai/sygra-data-gen-framework
 
 ## Local Vault File
 

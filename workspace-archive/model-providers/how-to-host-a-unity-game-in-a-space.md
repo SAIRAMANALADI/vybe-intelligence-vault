@@ -3,7 +3,8 @@ title: How to host a Unity game in a Space
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/unity-in-spaces
-local_vault_path: ai/models/huggingface-blog-unity-in-spaces.md
+resource_id: blog:how-to-host-a-unity-game-in-a-space
+local_vault_path: ai/models/how-to-host-a-unity-game-in-a-space.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-to-host-a-unity-game-in-a-space
 ---
-
-
 
 # How to host a Unity game in a Space
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-in-spaces
 
 ## Local Vault File
 
-Path: [how-to-host-a-unity-game-in-a-space-a67cb8.md](file:///../../ai/models/huggingface-blog-unity-in-spaces.md)
+Path: [how-to-host-a-unity-game-in-a-space.md](file:///../../ai/models/how-to-host-a-unity-game-in-a-space.md)

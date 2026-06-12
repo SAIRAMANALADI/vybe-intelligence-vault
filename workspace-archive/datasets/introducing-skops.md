@@ -3,7 +3,8 @@ title: Introducing Skops
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/skops
-local_vault_path: ai/models/huggingface-blog-skops.md
+resource_id: blog:introducing-skops
+local_vault_path: ai/models/introducing-skops.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-skops
 ---
-
-
 
 # Introducing Skops
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/skops
 
 ## Local Vault File
 
-Path: [introducing-skops-979bd0.md](file:///../../ai/models/huggingface-blog-skops.md)
+Path: [introducing-skops.md](file:///../../ai/models/introducing-skops.md)

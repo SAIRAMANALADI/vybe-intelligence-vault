@@ -2,7 +2,7 @@
 title: Making a vintage LLM from scratch
 archive_category: automation-workflows
 source_category: ai/community
-source_url: https://crlf.link/log/entries/260525-1/
+source_url: https://crlf.link/log/entries/260525-1
 resource_id: hackernews:making-a-vintage-llm-from-scratch
 local_vault_path: ai/community/making-a-vintage-llm-from-scratch.md
 quality_score: 70
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by croqaz. Score: 35, Comments: 5.
+Hacker News story by croqaz. Score: 70, Comments: 19.
 Original Link: https://crlf.link/log/entries/260525-1/
 
 ## Use Cases
@@ -42,7 +42,7 @@ Original Link: https://crlf.link/log/entries/260525-1/
 
 ## Source
 
-Original source URL: https://crlf.link/log/entries/260525-1/
+Original source URL: https://crlf.link/log/entries/260525-1
 
 ## Local Vault File
 

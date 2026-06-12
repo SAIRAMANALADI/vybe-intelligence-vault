@@ -2,7 +2,7 @@
 title: chenjsh36/ThreeJSForFun
 archive_category: webdev-3d-creative
 source_category: web-development/threejs
-source_url: https://github.com/chenjsh36/ThreeJSForFun
+source_url: https://github.com/chenjsh36/threejsforfun
 resource_id: github:chenjsh36/threejsforfun
 local_vault_path: web-development/threejs/chenjsh36-threejsforfun.md
 quality_score: 70
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/chenjsh36/ThreeJSForFun
+Original source URL: https://github.com/chenjsh36/threejsforfun
 
 ## Local Vault File
 

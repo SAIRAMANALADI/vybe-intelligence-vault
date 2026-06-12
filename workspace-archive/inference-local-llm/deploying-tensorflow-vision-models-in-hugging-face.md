@@ -3,7 +3,8 @@ title: Deploying TensorFlow Vision Models in Hugging Face with TF Serving
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf-serving-vision
-local_vault_path: ai/models/huggingface-blog-tf-serving-vision.md
+resource_id: blog:deploying-tensorflow-vision-models-in-hugging-face
+local_vault_path: ai/models/deploying-tensorflow-vision-models-in-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploying-tensorflow-vision-models-in-hugging-face
 ---
-
-
 
 # Deploying TensorFlow Vision Models in Hugging Face with TF Serving
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving-vision
 
 ## Local Vault File
 
-Path: [deploying-tensorflow-vision-models-in-hugging-face-with-tf-serving-fa7778.md](file:///../../ai/models/huggingface-blog-tf-serving-vision.md)
+Path: [deploying-tensorflow-vision-models-in-hugging-face.md](file:///../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)

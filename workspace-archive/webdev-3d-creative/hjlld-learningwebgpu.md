@@ -2,7 +2,7 @@
 title: hjlld/LearningWebGPU
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/hjlld/LearningWebGPU
+source_url: https://github.com/hjlld/learningwebgpu
 resource_id: github:hjlld/learningwebgpu
 local_vault_path: web-development/webgpu/hjlld-learningwebgpu.md
 quality_score: 70
@@ -40,7 +40,7 @@ WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.
 
 ## Source
 
-Original source URL: https://github.com/hjlld/LearningWebGPU
+Original source URL: https://github.com/hjlld/learningwebgpu
 
 ## Local Vault File
 

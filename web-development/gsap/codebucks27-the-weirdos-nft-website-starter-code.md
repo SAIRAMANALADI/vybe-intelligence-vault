@@ -3,8 +3,8 @@ title: codebucks27/The-Weirdos-NFT-Website-Starter-Code
 category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
-source_url: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
-collected_at: '2026-06-11T08:45:42.451799+00:00'
+source_url: https://github.com/codebucks27/the-weirdos-nft-website-starter-code
+collected_at: '2026-06-12T15:38:19.314154+00:00'
 published_at: '2026-06-04T23:50:47Z'
 tags:
 - animation
@@ -13,23 +13,11 @@ stars: 429
 language: JavaScript
 status: active
 resource_id: github:codebucks27/the-weirdos-nft-website-starter-code
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 63
-change_history:
-- timestamp: '2026-06-11T08:45:42.451799+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 224.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 224
-archived: false
+first_seen: '2026-06-12T15:38:19.314154+00:00'
+last_seen: '2026-06-12T15:38:19.314154+00:00'
+last_checked: '2026-06-12T15:38:19.314154+00:00'
+health_score: 100
 ---
-
-
 
 # codebucks27/The-Weirdos-NFT-Website-Starter-Code
 
@@ -66,4 +54,4 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 ## Source
 
-Original source: https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code
+Original source: https://github.com/codebucks27/the-weirdos-nft-website-starter-code

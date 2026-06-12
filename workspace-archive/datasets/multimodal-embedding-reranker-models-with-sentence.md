@@ -3,7 +3,8 @@ title: Multimodal Embedding & Reranker Models with Sentence Transformers
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/multimodal-sentence-transformers
-local_vault_path: ai/models/huggingface-blog-multimodal-sentence-transformers.md
+resource_id: blog:multimodal-embedding-reranker-models-with-sentence
+local_vault_path: ai/models/multimodal-embedding-reranker-models-with-sentence.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:multimodal-embedding-reranker-models-with-sentence
 ---
-
-
 
 # Multimodal Embedding & Reranker Models with Sentence Transformers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/multimodal-sentence-transformer
 
 ## Local Vault File
 
-Path: [multimodal-embedding-reranker-models-with-sentence-transformers-aeed52.md](file:///../../ai/models/huggingface-blog-multimodal-sentence-transformers.md)
+Path: [multimodal-embedding-reranker-models-with-sentence.md](file:///../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)

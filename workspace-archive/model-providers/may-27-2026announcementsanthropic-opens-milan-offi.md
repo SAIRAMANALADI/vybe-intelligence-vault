@@ -3,7 +3,7 @@ title: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian 
   research, and developers
 archive_category: model-providers
 source_category: ai/companies/anthropic
-source_url: https://www.anthropic.com/news/milan-office-opening
+source_url: https://anthropic.com/news/milan-office-opening
 resource_id: blog:may-27-2026announcementsanthropic-opens-milan-offi
 local_vault_path: ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-offi.md
 quality_score: 70
@@ -43,7 +43,7 @@ Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens
 
 ## Source
 
-Original source URL: https://www.anthropic.com/news/milan-office-opening
+Original source URL: https://anthropic.com/news/milan-office-opening
 
 ## Local Vault File
 

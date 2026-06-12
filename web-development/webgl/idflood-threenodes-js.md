@@ -3,17 +3,20 @@ title: idflood/ThreeNodes.js
 category: web-development/webgl
 source_type: github
 source_name: GitHub Three.js Resources
-source_url: https://github.com/idflood/ThreeNodes.js
-collected_at: '2026-06-11T08:45:35.488422+00:00'
+source_url: https://github.com/idflood/threenodes.js
+collected_at: '2026-06-12T15:38:14.348989+00:00'
 published_at: '2026-06-08T13:26:04Z'
 tags:
 - threejs
 stars: 2332
 language: JavaScript
-status: new
+status: active
 resource_id: github:idflood/threenodes.js
+first_seen: '2026-06-12T15:38:14.348989+00:00'
+last_seen: '2026-06-12T15:38:14.348989+00:00'
+last_checked: '2026-06-12T15:38:14.348989+00:00'
+health_score: 100
 ---
-
 
 # idflood/ThreeNodes.js
 
@@ -50,4 +53,4 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source: https://github.com/idflood/ThreeNodes.js
+Original source: https://github.com/idflood/threenodes.js

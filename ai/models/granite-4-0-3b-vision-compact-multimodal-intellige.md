@@ -4,13 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/ibm-granite/granite-4-vision
-published_at: '2026-03-31T09:40:41+00:00'
-collected_at: '2026-06-11T08:37:58.323857+00:00'
+published_at: '2026-03-31T15:10:41+00:00'
+collected_at: '2026-06-12T15:38:08.288625+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:granite-4-0-3b-vision-compact-multimodal-intellige
+first_seen: '2026-06-12T15:38:08.288625+00:00'
+last_seen: '2026-06-12T15:38:08.288625+00:00'
+last_checked: '2026-06-12T15:38:08.288625+00:00'
+health_score: 100
 ---
-
 
 # Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents
 
@@ -20,17 +23,13 @@ No summary provided. Reference resource: Granite 4.0 3B Vision: Compact Multimod
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-03-31T09:40:41+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-03-31T15:10:41+00:00
 
 ## Related Tags
 

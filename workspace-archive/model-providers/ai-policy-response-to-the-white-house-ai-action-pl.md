@@ -3,7 +3,8 @@ title: 'AI Policy @🤗: Response to the White House AI Action Plan RFI'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-action-wh-2025
-local_vault_path: ai/models/huggingface-blog-ai-action-wh-2025.md
+resource_id: blog:ai-policy-response-to-the-white-house-ai-action-pl
+local_vault_path: ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ai-policy-response-to-the-white-house-ai-action-pl
 ---
-
 
 # AI Policy @🤗: Response to the White House AI Action Plan RFI
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-action-wh-2025
 
 ## Local Vault File
 
-Path: [ai-policy-response-to-the-white-house-ai-action-plan-rfi-4a3759.md](file:///../../ai/models/huggingface-blog-ai-action-wh-2025.md)
+Path: [ai-policy-response-to-the-white-house-ai-action-pl.md](file:///../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)

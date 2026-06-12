@@ -3,7 +3,8 @@ title: SafeCoder vs. Closed-source Code Assistants
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants
-local_vault_path: ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md
+resource_id: blog:safecoder-vs-closed-source-code-assistants
+local_vault_path: ai/models/safecoder-vs-closed-source-code-assistants.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:safecoder-vs-closed-source-code-assistants
 ---
-
-
 
 # SafeCoder vs. Closed-source Code Assistants
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder-vs-closed-source-code
 
 ## Local Vault File
 
-Path: [safecoder-vs-closed-source-code-assistants-3f8875.md](file:///../../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)
+Path: [safecoder-vs-closed-source-code-assistants.md](file:///../../ai/models/safecoder-vs-closed-source-code-assistants.md)

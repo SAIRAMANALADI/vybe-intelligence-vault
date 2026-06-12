@@ -3,18 +3,21 @@ title: juniorxsound/R3F.Multiplayer
 category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
-source_url: https://github.com/juniorxsound/R3F.Multiplayer
-collected_at: '2026-06-11T08:45:37.431927+00:00'
+source_url: https://github.com/juniorxsound/r3f.multiplayer
+collected_at: '2026-06-12T15:38:15.659416+00:00'
 published_at: '2026-03-06T07:36:04Z'
 tags:
 - frontend_ui
 - threejs
 stars: 146
 language: JavaScript
-status: new
+status: active
 resource_id: github:juniorxsound/r3f.multiplayer
+first_seen: '2026-06-12T15:38:15.659416+00:00'
+last_seen: '2026-06-12T15:38:15.659416+00:00'
+last_checked: '2026-06-12T15:38:15.659416+00:00'
+health_score: 100
 ---
-
 
 # juniorxsound/R3F.Multiplayer
 
@@ -51,4 +54,4 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source: https://github.com/juniorxsound/R3F.Multiplayer
+Original source: https://github.com/juniorxsound/r3f.multiplayer

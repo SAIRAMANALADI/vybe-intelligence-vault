@@ -3,7 +3,8 @@ title: 'Introducing Waypoint-1: Real-time interactive video diffusion from Overw
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/waypoint-1
-local_vault_path: ai/models/huggingface-blog-waypoint-1.md
+resource_id: blog:introducing-waypoint-1-real-time-interactive-video
+local_vault_path: ai/models/introducing-waypoint-1-real-time-interactive-video.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,10 +14,7 @@ tags:
 - youtube
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-waypoint-1-real-time-interactive-video
 ---
-
-
 
 # Introducing Waypoint-1: Real-time interactive video diffusion from Overworld
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1
 
 ## Local Vault File
 
-Path: [introducing-waypoint-1-real-time-interactive-video-diffusion-from-overworld-4d1007.md](file:///../../ai/models/huggingface-blog-waypoint-1.md)
+Path: [introducing-waypoint-1-real-time-interactive-video.md](file:///../../ai/models/introducing-waypoint-1-real-time-interactive-video.md)

@@ -10,6 +10,8 @@ archive_score: 72
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
+tags:
+- benchmark
 selection_reason:
 - Strong keyword match
 - Valuable developer reference

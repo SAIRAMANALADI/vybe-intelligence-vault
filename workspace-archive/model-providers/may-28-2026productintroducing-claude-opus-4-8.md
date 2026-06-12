@@ -2,7 +2,7 @@
 title: May 28, 2026ProductIntroducing Claude Opus 4.8
 archive_category: model-providers
 source_category: ai/companies/anthropic
-source_url: https://www.anthropic.com/news/claude-opus-4-8
+source_url: https://anthropic.com/news/claude-opus-4-8
 resource_id: blog:may-28-2026productintroducing-claude-opus-4-8
 local_vault_path: ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8.md
 quality_score: 70
@@ -42,7 +42,7 @@ Recent update from Anthropic News Blog: May 28, 2026ProductIntroducing Claude Op
 
 ## Source
 
-Original source URL: https://www.anthropic.com/news/claude-opus-4-8
+Original source URL: https://anthropic.com/news/claude-opus-4-8
 
 ## Local Vault File
 

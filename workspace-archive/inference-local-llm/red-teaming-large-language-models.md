@@ -3,7 +3,8 @@ title: Red-Teaming Large Language Models
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/red-teaming
-local_vault_path: ai/models/huggingface-blog-red-teaming.md
+resource_id: blog:red-teaming-large-language-models
+local_vault_path: ai/models/red-teaming-large-language-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:red-teaming-large-language-models
 ---
-
-
 
 # Red-Teaming Large Language Models
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/red-teaming
 
 ## Local Vault File
 
-Path: [red-teaming-large-language-models-575417.md](file:///../../ai/models/huggingface-blog-red-teaming.md)
+Path: [red-teaming-large-language-models.md](file:///../../ai/models/red-teaming-large-language-models.md)

@@ -3,8 +3,8 @@ title: NotStark/portfolio
 category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
-source_url: https://github.com/NotStark/portfolio
-collected_at: '2026-06-11T08:45:43.851307+00:00'
+source_url: https://github.com/notstark/portfolio
+collected_at: '2026-06-12T15:38:20.237753+00:00'
 published_at: '2026-06-07T16:07:29Z'
 tags:
 - creative_dev
@@ -13,23 +13,11 @@ stars: 122
 language: TypeScript
 status: active
 resource_id: github:notstark/portfolio
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 70
-change_history:
-- timestamp: '2026-06-11T08:45:43.851307+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 31.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 31
-archived: false
+first_seen: '2026-06-12T15:38:20.237753+00:00'
+last_seen: '2026-06-12T15:38:20.237753+00:00'
+last_checked: '2026-06-12T15:38:20.237753+00:00'
+health_score: 100
 ---
-
-
 
 # NotStark/portfolio
 
@@ -66,4 +54,4 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 ## Source
 
-Original source: https://github.com/NotStark/portfolio
+Original source: https://github.com/notstark/portfolio

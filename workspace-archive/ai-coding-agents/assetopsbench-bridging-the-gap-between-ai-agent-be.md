@@ -13,6 +13,7 @@ resource_kind: benchmark
 importance: medium
 tags:
 - agents
+- benchmark
 selection_reason:
 - Valuable developer reference
 ---

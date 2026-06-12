@@ -3,7 +3,8 @@ title: ControlNet in 🧨 Diffusers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/controlnet
-local_vault_path: ai/models/huggingface-blog-controlnet.md
+resource_id: blog:controlnet-in-diffusers
+local_vault_path: ai/models/controlnet-in-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:controlnet-in-diffusers
 ---
-
-
 
 # ControlNet in 🧨 Diffusers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/controlnet
 
 ## Local Vault File
 
-Path: [controlnet-in-diffusers-2494cd.md](file:///../../ai/models/huggingface-blog-controlnet.md)
+Path: [controlnet-in-diffusers.md](file:///../../ai/models/controlnet-in-diffusers.md)

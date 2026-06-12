@@ -3,7 +3,8 @@ title: Image Similarity with Hugging Face Datasets and Transformers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-similarity
-local_vault_path: ai/models/huggingface-blog-image-similarity.md
+resource_id: blog:image-similarity-with-hugging-face-datasets-and-tr
+local_vault_path: ai/models/image-similarity-with-hugging-face-datasets-and-tr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,9 +14,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:image-similarity-with-hugging-face-datasets-and-tr
 ---
-
 
 # Image Similarity with Hugging Face Datasets and Transformers
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [image-similarity-with-hugging-face-datasets-and-transformers-b41a60.md](file:///../../ai/models/huggingface-blog-image-similarity.md)
+Path: [image-similarity-with-hugging-face-datasets-and-tr.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)

@@ -3,7 +3,8 @@ title: Memory-efficient Diffusion Transformers with Quanto and Diffusers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/quanto-diffusers
-local_vault_path: ai/models/huggingface-blog-quanto-diffusers.md
+resource_id: blog:memory-efficient-diffusion-transformers-with-quant
+local_vault_path: ai/models/memory-efficient-diffusion-transformers-with-quant.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:memory-efficient-diffusion-transformers-with-quant
 ---
-
 
 # Memory-efficient Diffusion Transformers with Quanto and Diffusers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/quanto-diffusers
 
 ## Local Vault File
 
-Path: [memory-efficient-diffusion-transformers-with-quanto-and-diffusers-465bd0.md](file:///../../ai/models/huggingface-blog-quanto-diffusers.md)
+Path: [memory-efficient-diffusion-transformers-with-quant.md](file:///../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)

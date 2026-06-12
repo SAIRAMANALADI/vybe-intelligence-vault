@@ -2,13 +2,13 @@
 title: 'vLLM V0 to V1: Correctness Before Corrections in RL'
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
+source_url: https://huggingface.co/blog/servicenow-ai/correctness-before-corrections
 resource_id: blog:vllm-v0-to-v1-correctness-before-corrections-in-rl
 local_vault_path: ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: product
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: product
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: vLLM V0 to V1: Correctness Before Corre
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
+Original source URL: https://huggingface.co/blog/servicenow-ai/correctness-before-corrections
 
 ## Local Vault File
 

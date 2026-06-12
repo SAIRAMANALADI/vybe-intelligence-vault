@@ -3,7 +3,8 @@ title: Active Learning with AutoNLP and Prodigy
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/autonlp-prodigy
-local_vault_path: ai/models/huggingface-blog-autonlp-prodigy.md
+resource_id: blog:active-learning-with-autonlp-and-prodigy
+local_vault_path: ai/models/active-learning-with-autonlp-and-prodigy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:active-learning-with-autonlp-and-prodigy
 ---
-
-
 
 # Active Learning with AutoNLP and Prodigy
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autonlp-prodigy
 
 ## Local Vault File
 
-Path: [active-learning-with-autonlp-and-prodigy-c70dbb.md](file:///../../ai/models/huggingface-blog-autonlp-prodigy.md)
+Path: [active-learning-with-autonlp-and-prodigy.md](file:///../../ai/models/active-learning-with-autonlp-and-prodigy.md)

@@ -3,7 +3,8 @@ title: 'mmBERT: ModernBERT goes Multilingual'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/mmbert
-local_vault_path: ai/models/huggingface-blog-mmbert.md
+resource_id: blog:mmbert-modernbert-goes-multilingual
+local_vault_path: ai/models/mmbert-modernbert-goes-multilingual.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:mmbert-modernbert-goes-multilingual
 ---
-
-
 
 # mmBERT: ModernBERT goes Multilingual
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [mmbert-modernbert-goes-multilingual-03f3c0.md](file:///../../ai/models/huggingface-blog-mmbert.md)
+Path: [mmbert-modernbert-goes-multilingual.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual.md)

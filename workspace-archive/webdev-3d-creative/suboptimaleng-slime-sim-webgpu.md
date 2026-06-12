@@ -2,7 +2,7 @@
 title: SuboptimalEng/slime-sim-webgpu
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/SuboptimalEng/slime-sim-webgpu
+source_url: https://github.com/suboptimaleng/slime-sim-webgpu
 resource_id: github:suboptimaleng/slime-sim-webgpu
 local_vault_path: web-development/webgpu/suboptimaleng-slime-sim-webgpu.md
 quality_score: 70
@@ -40,7 +40,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://github.com/SuboptimalEng/slime-sim-webgpu
+Original source URL: https://github.com/suboptimaleng/slime-sim-webgpu
 
 ## Local Vault File
 

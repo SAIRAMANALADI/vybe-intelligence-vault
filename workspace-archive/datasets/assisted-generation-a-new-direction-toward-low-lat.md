@@ -3,7 +3,8 @@ title: 'Assisted Generation: a new direction toward low-latency text generation'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/assisted-generation
-local_vault_path: ai/models/huggingface-blog-assisted-generation.md
+resource_id: blog:assisted-generation-a-new-direction-toward-low-lat
+local_vault_path: ai/models/assisted-generation-a-new-direction-toward-low-lat.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:assisted-generation-a-new-direction-toward-low-lat
 ---
-
 
 # Assisted Generation: a new direction toward low-latency text generation
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation
 
 ## Local Vault File
 
-Path: [assisted-generation-a-new-direction-toward-low-latency-text-generation-61b655.md](file:///../../ai/models/huggingface-blog-assisted-generation.md)
+Path: [assisted-generation-a-new-direction-toward-low-lat.md](file:///../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)

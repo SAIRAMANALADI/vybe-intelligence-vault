@@ -3,7 +3,8 @@ title: Liberate your OpenClaw
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/liberate-your-openclaw
-local_vault_path: ai/models/huggingface-blog-liberate-your-openclaw.md
+resource_id: blog:liberate-your-openclaw
+local_vault_path: ai/models/liberate-your-openclaw.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:liberate-your-openclaw
 ---
-
-
 
 # Liberate your OpenClaw
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liberate-your-openclaw
 
 ## Local Vault File
 
-Path: [liberate-your-openclaw-f380ae.md](file:///../../ai/models/huggingface-blog-liberate-your-openclaw.md)
+Path: [liberate-your-openclaw.md](file:///../../ai/models/liberate-your-openclaw.md)

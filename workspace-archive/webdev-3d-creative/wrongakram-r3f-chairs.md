@@ -2,7 +2,7 @@
 title: wrongakram/R3F-Chairs
 archive_category: webdev-3d-creative
 source_category: web-development/react-three-fiber
-source_url: https://github.com/wrongakram/R3F-Chairs
+source_url: https://github.com/wrongakram/r3f-chairs
 resource_id: github:wrongakram/r3f-chairs
 local_vault_path: web-development/react-three-fiber/wrongakram-r3f-chairs.md
 quality_score: 70
@@ -41,7 +41,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source URL: https://github.com/wrongakram/R3F-Chairs
+Original source URL: https://github.com/wrongakram/r3f-chairs
 
 ## Local Vault File
 

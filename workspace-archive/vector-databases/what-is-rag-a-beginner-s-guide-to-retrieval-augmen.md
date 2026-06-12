@@ -37,7 +37,7 @@ selection_reason:
 
 ## Summary
 
-Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int...
+Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #rag #beginners #tutorial If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int...
 
 ## Use Cases
 

@@ -3,7 +3,8 @@ title: Patch Time Series Transformer in Hugging Face
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/patchtst
-local_vault_path: ai/models/huggingface-blog-patchtst.md
+resource_id: blog:patch-time-series-transformer-in-hugging-face
+local_vault_path: ai/models/patch-time-series-transformer-in-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:patch-time-series-transformer-in-hugging-face
 ---
-
-
 
 # Patch Time Series Transformer in Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtst
 
 ## Local Vault File
 
-Path: [patch-time-series-transformer-in-hugging-face-eb69ee.md](file:///../../ai/models/huggingface-blog-patchtst.md)
+Path: [patch-time-series-transformer-in-hugging-face.md](file:///../../ai/models/patch-time-series-transformer-in-hugging-face.md)

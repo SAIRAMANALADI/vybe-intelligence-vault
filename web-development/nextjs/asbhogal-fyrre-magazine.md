@@ -3,8 +3,8 @@ title: asbhogal/Fyrre-Magazine
 category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
-source_url: https://github.com/asbhogal/Fyrre-Magazine
-collected_at: '2026-06-11T08:45:43.851346+00:00'
+source_url: https://github.com/asbhogal/fyrre-magazine
+collected_at: '2026-06-12T15:38:20.237812+00:00'
 published_at: '2026-06-04T11:36:04Z'
 tags:
 - animation
@@ -14,23 +14,11 @@ stars: 125
 language: TypeScript
 status: active
 resource_id: github:asbhogal/fyrre-magazine
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 60
-change_history:
-- timestamp: '2026-06-11T08:45:43.851346+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 33.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 33
-archived: false
+first_seen: '2026-06-12T15:38:20.237812+00:00'
+last_seen: '2026-06-12T15:38:20.237812+00:00'
+last_checked: '2026-06-12T15:38:20.237812+00:00'
+health_score: 100
 ---
-
-
 
 # asbhogal/Fyrre-Magazine
 
@@ -67,4 +55,4 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 ## Source
 
-Original source: https://github.com/asbhogal/Fyrre-Magazine
+Original source: https://github.com/asbhogal/fyrre-magazine

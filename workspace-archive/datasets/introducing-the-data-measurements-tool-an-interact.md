@@ -4,7 +4,8 @@ title: 'Introducing the Data Measurements Tool: an Interactive Tool for Looking 
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/data-measurements-tool
-local_vault_path: ai/models/huggingface-blog-data-measurements-tool.md
+resource_id: blog:introducing-the-data-measurements-tool-an-interact
+local_vault_path: ai/models/introducing-the-data-measurements-tool-an-interact.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -15,9 +16,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:introducing-the-data-measurements-tool-an-interact
 ---
-
 
 # Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets
 
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/data-measurements-tool
 
 ## Local Vault File
 
-Path: [introducing-the-data-measurements-tool-an-interactive-tool-for-looking-at-datase-414a04.md](file:///../../ai/models/huggingface-blog-data-measurements-tool.md)
+Path: [introducing-the-data-measurements-tool-an-interact.md](file:///../../ai/models/introducing-the-data-measurements-tool-an-interact.md)

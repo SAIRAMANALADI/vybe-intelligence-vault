@@ -3,37 +3,23 @@ title: ShowravKormokar/capsule
 category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
-source_url: https://github.com/ShowravKormokar/capsule
-collected_at: '2026-06-11T08:45:42.451825+00:00'
-published_at: '2026-05-28T20:37:11Z'
+source_url: https://github.com/showravkormokar/capsule
+collected_at: '2026-06-12T15:38:19.314191+00:00'
+published_at: '2026-06-12T11:53:12Z'
 tags:
 - animation
 - creative_dev
 - frontend_ui
+- reddit
 stars: 59
 language: JavaScript
 status: active
 resource_id: github:showravkormokar/capsule
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 83
-change_history:
-- timestamp: '2026-06-11T08:45:42.451825+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Stars updated from 60 to 59.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 9.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 9
-archived: false
+first_seen: '2026-06-12T15:38:19.314191+00:00'
+last_seen: '2026-06-12T15:38:19.314191+00:00'
+last_checked: '2026-06-12T15:38:19.314191+00:00'
+health_score: 100
 ---
-
-
 
 # ShowravKormokar/capsule
 
@@ -48,11 +34,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: ShowravKormokar
-- Stars: 60
+- Stars: 59
 - Forks: 9
 - Language: JavaScript
 - Topics: awwwards, awwwards-inspired, capsules, gsap-animation, react-icons, reactjs, scrolltrigger, tailwind-css, website
-- Last Updated: 2026-05-28T20:37:11Z
+- Last Updated: 2026-06-12T11:53:12Z
 
 ## Possible Use Cases
 
@@ -70,4 +56,4 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 ## Source
 
-Original source: https://github.com/ShowravKormokar/capsule
+Original source: https://github.com/showravkormokar/capsule

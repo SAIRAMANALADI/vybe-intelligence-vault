@@ -3,7 +3,8 @@ title: Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore-update
-local_vault_path: ai/models/huggingface-blog-graphcore-update.md
+resource_id: blog:graphcore-and-hugging-face-launch-new-lineup-of-ip
+local_vault_path: ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,9 +14,7 @@ tags:
 - producthunt
 selection_reason:
 - Valuable developer reference
-resource_id: blog:graphcore-and-hugging-face-launch-new-lineup-of-ip
 ---
-
 
 # Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/graphcore-update
 
 ## Local Vault File
 
-Path: [graphcore-and-hugging-face-launch-new-lineup-of-ipu-ready-transformers-dbdf7d.md](file:///../../ai/models/huggingface-blog-graphcore-update.md)
+Path: [graphcore-and-hugging-face-launch-new-lineup-of-ip.md](file:///../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)

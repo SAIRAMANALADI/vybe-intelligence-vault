@@ -3,17 +3,20 @@ title: Scthe/nanite-webgpu
 category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
-source_url: https://github.com/Scthe/nanite-webgpu
-collected_at: '2026-06-11T08:45:39.177283+00:00'
-published_at: '2026-06-09T06:53:56Z'
+source_url: https://github.com/scthe/nanite-webgpu
+collected_at: '2026-06-12T15:38:17.156141+00:00'
+published_at: '2026-06-12T06:47:55Z'
 tags:
 - threejs
-stars: 1069
+stars: 1071
 language: TypeScript
-status: new
+status: active
 resource_id: github:scthe/nanite-webgpu
+first_seen: '2026-06-12T15:38:17.156141+00:00'
+last_seen: '2026-06-12T15:38:17.156141+00:00'
+last_checked: '2026-06-12T15:38:17.156141+00:00'
+health_score: 100
 ---
-
 
 # Scthe/nanite-webgpu
 
@@ -28,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Scthe
-- Stars: 1069
-- Forks: 52
+- Stars: 1071
+- Forks: 54
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-09T06:53:56Z
+- Last Updated: 2026-06-12T06:47:55Z
 
 ## Possible Use Cases
 
@@ -50,4 +53,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/Scthe/nanite-webgpu
+Original source: https://github.com/scthe/nanite-webgpu

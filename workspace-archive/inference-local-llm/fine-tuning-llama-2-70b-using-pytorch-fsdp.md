@@ -3,7 +3,8 @@ title: Fine-tuning Llama 2 70B using PyTorch FSDP
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ram-efficient-pytorch-fsdp
-local_vault_path: ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md
+resource_id: blog:fine-tuning-llama-2-70b-using-pytorch-fsdp
+local_vault_path: ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fine-tuning-llama-2-70b-using-pytorch-fsdp
 ---
-
-
 
 # Fine-tuning Llama 2 70B using PyTorch FSDP
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 
 ## Local Vault File
 
-Path: [fine-tuning-llama-2-70b-using-pytorch-fsdp-778281.md](file:///../../ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md)
+Path: [fine-tuning-llama-2-70b-using-pytorch-fsdp.md](file:///../../ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md)

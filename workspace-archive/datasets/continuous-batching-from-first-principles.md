@@ -3,7 +3,8 @@ title: Continuous batching from first principles
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/continuous_batching
-local_vault_path: ai/models/huggingface-blog-continuous-batching.md
+resource_id: blog:continuous-batching-from-first-principles
+local_vault_path: ai/models/continuous-batching-from-first-principles.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:continuous-batching-from-first-principles
 ---
-
-
 
 # Continuous batching from first principles
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_batching
 
 ## Local Vault File
 
-Path: [continuous-batching-from-first-principles-bbdfaf.md](file:///../../ai/models/huggingface-blog-continuous-batching.md)
+Path: [continuous-batching-from-first-principles.md](file:///../../ai/models/continuous-batching-from-first-principles.md)

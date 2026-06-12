@@ -3,7 +3,8 @@ title: 'Introducing Würstchen: Fast Diffusion for Image Generation'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/wuerstchen
-local_vault_path: ai/models/huggingface-blog-wuerstchen.md
+resource_id: blog:introducing-wurstchen-fast-diffusion-for-image-gen
+local_vault_path: ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-wurstchen-fast-diffusion-for-image-gen
 ---
-
 
 # Introducing Würstchen: Fast Diffusion for Image Generation
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wuerstchen
 
 ## Local Vault File
 
-Path: [introducing-wurstchen-fast-diffusion-for-image-generation-d865e7.md](file:///../../ai/models/huggingface-blog-wuerstchen.md)
+Path: [introducing-wurstchen-fast-diffusion-for-image-gen.md](file:///../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)

@@ -11,6 +11,8 @@ archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
+tags:
+- dataset
 selection_reason:
 - Strong keyword match
 - Valuable developer reference

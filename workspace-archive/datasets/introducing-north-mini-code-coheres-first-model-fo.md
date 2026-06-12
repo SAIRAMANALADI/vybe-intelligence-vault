@@ -2,13 +2,13 @@
 title: 'Introducing North Mini Code: Cohere’s First Model For Developers'
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
+source_url: https://huggingface.co/blog/coherelabs/introducing-north-mini-code
 resource_id: blog:introducing-north-mini-code-coheres-first-model-fo
 local_vault_path: ai/models/introducing-north-mini-code-coheres-first-model-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Introducing North Mini Code: Cohere’s
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
+Original source URL: https://huggingface.co/blog/coherelabs/introducing-north-mini-code
 
 ## Local Vault File
 

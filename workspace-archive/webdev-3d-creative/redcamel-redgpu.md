@@ -2,7 +2,7 @@
 title: redcamel/RedGPU
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/redcamel/RedGPU
+source_url: https://github.com/redcamel/redgpu
 resource_id: github:redcamel/redgpu
 local_vault_path: web-development/webgpu/redcamel-redgpu.md
 quality_score: 70
@@ -40,7 +40,7 @@ RedGPU - JavaScript WebGPU Library
 
 ## Source
 
-Original source URL: https://github.com/redcamel/RedGPU
+Original source URL: https://github.com/redcamel/redgpu
 
 ## Local Vault File
 

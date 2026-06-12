@@ -3,7 +3,8 @@ title: Opinion Classification with Kili and HuggingFace AutoTrain
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/opinion-classification-with-kili
-local_vault_path: ai/models/huggingface-blog-opinion-classification-with-kili.md
+resource_id: blog:opinion-classification-with-kili-and-huggingface-a
+local_vault_path: ai/models/opinion-classification-with-kili-and-huggingface-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:opinion-classification-with-kili-and-huggingface-a
 ---
-
 
 # Opinion Classification with Kili and HuggingFace AutoTrain
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/opinion-classification-with-kil
 
 ## Local Vault File
 
-Path: [opinion-classification-with-kili-and-huggingface-autotrain-27d303.md](file:///../../ai/models/huggingface-blog-opinion-classification-with-kili.md)
+Path: [opinion-classification-with-kili-and-huggingface-a.md](file:///../../ai/models/opinion-classification-with-kili-and-huggingface-a.md)

@@ -3,7 +3,8 @@ title: Public AI on Hugging Face Inference Providers 🔥
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-publicai
-local_vault_path: ai/models/huggingface-blog-inference-providers-publicai.md
+resource_id: blog:public-ai-on-hugging-face-inference-providers
+local_vault_path: ai/models/public-ai-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:public-ai-on-hugging-face-inference-providers
 ---
-
-
 
 # Public AI on Hugging Face Inference Providers 🔥
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-publicai
 
 ## Local Vault File
 
-Path: [public-ai-on-hugging-face-inference-providers-f9506c.md](file:///../../ai/models/huggingface-blog-inference-providers-publicai.md)
+Path: [public-ai-on-hugging-face-inference-providers.md](file:///../../ai/models/public-ai-on-hugging-face-inference-providers.md)

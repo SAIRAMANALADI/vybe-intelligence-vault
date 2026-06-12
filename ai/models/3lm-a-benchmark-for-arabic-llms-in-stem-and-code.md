@@ -4,13 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/tiiuae/3lm-benchmark
-published_at: '2025-08-01T08:55:21+00:00'
-collected_at: '2026-06-11T08:37:58.324941+00:00'
-tags: []
-status: new
+published_at: '2025-08-01T14:25:21+00:00'
+collected_at: '2026-06-12T15:38:08.291220+00:00'
+tags:
+- benchmark
+status: active
 resource_id: blog:3lm-a-benchmark-for-arabic-llms-in-stem-and-code
+first_seen: '2026-06-12T15:38:08.291220+00:00'
+last_seen: '2026-06-12T15:38:08.291220+00:00'
+last_checked: '2026-06-12T15:38:08.291220+00:00'
+health_score: 100
 ---
-
 
 # 📚 3LM: A Benchmark for Arabic LLMs in STEM and Code
 
@@ -20,21 +24,17 @@ No summary provided. Reference resource: 📚 3LM: A Benchmark for Arabic LLMs i
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-08-01T08:55:21+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2025-08-01T14:25:21+00:00
 
 ## Related Tags
 
-- None
+- benchmark
 
 ## Source
 

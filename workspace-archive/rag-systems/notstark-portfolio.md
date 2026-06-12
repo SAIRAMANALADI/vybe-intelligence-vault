@@ -2,7 +2,7 @@
 title: NotStark/portfolio
 archive_category: rag-systems
 source_category: web-development/nextjs
-source_url: https://github.com/NotStark/portfolio
+source_url: https://github.com/notstark/portfolio
 resource_id: github:notstark/portfolio
 local_vault_path: web-development/nextjs/notstark-portfolio.md
 quality_score: 70
@@ -41,7 +41,7 @@ A portfolio template built with Next.js, Tailwind CSS, and TypeScript.
 
 ## Source
 
-Original source URL: https://github.com/NotStark/portfolio
+Original source URL: https://github.com/notstark/portfolio
 
 ## Local Vault File
 

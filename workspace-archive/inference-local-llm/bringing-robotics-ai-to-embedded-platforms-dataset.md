@@ -11,6 +11,8 @@ archive_score: 70
 archive_tier: useful
 resource_kind: dataset
 importance: medium
+tags:
+- dataset
 selection_reason:
 - Valuable developer reference
 ---

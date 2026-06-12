@@ -3,7 +3,8 @@ title: Efficient Controllable Generation for SDXL with T2I-Adapters
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/t2i-sdxl-adapters
-local_vault_path: ai/models/huggingface-blog-t2i-sdxl-adapters.md
+resource_id: blog:efficient-controllable-generation-for-sdxl-with-t2
+local_vault_path: ai/models/efficient-controllable-generation-for-sdxl-with-t2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:efficient-controllable-generation-for-sdxl-with-t2
 ---
-
 
 # Efficient Controllable Generation for SDXL with T2I-Adapters
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/t2i-sdxl-adapters
 
 ## Local Vault File
 
-Path: [efficient-controllable-generation-for-sdxl-with-t2i-adapters-f33782.md](file:///../../ai/models/huggingface-blog-t2i-sdxl-adapters.md)
+Path: [efficient-controllable-generation-for-sdxl-with-t2.md](file:///../../ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)

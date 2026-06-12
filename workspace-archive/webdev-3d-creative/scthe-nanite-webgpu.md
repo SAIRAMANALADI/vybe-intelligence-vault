@@ -2,7 +2,7 @@
 title: Scthe/nanite-webgpu
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/Scthe/nanite-webgpu
+source_url: https://github.com/scthe/nanite-webgpu
 resource_id: github:scthe/nanite-webgpu
 local_vault_path: web-development/webgpu/scthe-nanite-webgpu.md
 quality_score: 70
@@ -40,7 +40,7 @@ UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, so
 
 ## Source
 
-Original source URL: https://github.com/Scthe/nanite-webgpu
+Original source URL: https://github.com/scthe/nanite-webgpu
 
 ## Local Vault File
 

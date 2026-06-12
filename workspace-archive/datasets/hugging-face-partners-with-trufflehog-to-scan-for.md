@@ -3,7 +3,8 @@ title: Hugging Face partners with TruffleHog to Scan for Secrets
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/trufflesecurity-partnership
-local_vault_path: ai/models/huggingface-blog-trufflesecurity-partnership.md
+resource_id: blog:hugging-face-partners-with-trufflehog-to-scan-for
+local_vault_path: ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-partners-with-trufflehog-to-scan-for
 ---
-
-
 
 # Hugging Face partners with TruffleHog to Scan for Secrets
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trufflesecurity-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-partners-with-trufflehog-to-scan-for-secrets-6718c9.md](file:///../../ai/models/huggingface-blog-trufflesecurity-partnership.md)
+Path: [hugging-face-partners-with-trufflehog-to-scan-for.md](file:///../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)

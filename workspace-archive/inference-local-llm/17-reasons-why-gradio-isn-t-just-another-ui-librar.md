@@ -3,7 +3,8 @@ title: 17 Reasons Why Gradio Isn't Just Another UI Library
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/why-gradio-stands-out
-local_vault_path: ai/models/huggingface-blog-why-gradio-stands-out.md
+resource_id: blog:17-reasons-why-gradio-isn-t-just-another-ui-librar
+local_vault_path: ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: framework
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:17-reasons-why-gradio-isn-t-just-another-ui-librar
 ---
-
 
 # 17 Reasons Why Gradio Isn't Just Another UI Library
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/why-gradio-stands-out
 
 ## Local Vault File
 
-Path: [17-reasons-why-gradio-isn-t-just-another-ui-library-75f8ad.md](file:///../../ai/models/huggingface-blog-why-gradio-stands-out.md)
+Path: [17-reasons-why-gradio-isn-t-just-another-ui-librar.md](file:///../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)

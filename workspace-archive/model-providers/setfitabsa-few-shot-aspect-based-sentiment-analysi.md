@@ -3,7 +3,8 @@ title: 'SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/setfit-absa
-local_vault_path: ai/models/huggingface-blog-setfit-absa.md
+resource_id: blog:setfitabsa-few-shot-aspect-based-sentiment-analysi
+local_vault_path: ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:setfitabsa-few-shot-aspect-based-sentiment-analysi
 ---
-
 
 # SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-absa
 
 ## Local Vault File
 
-Path: [setfitabsa-few-shot-aspect-based-sentiment-analysis-using-setfit-84e1be.md](file:///../../ai/models/huggingface-blog-setfit-absa.md)
+Path: [setfitabsa-few-shot-aspect-based-sentiment-analysi.md](file:///../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)

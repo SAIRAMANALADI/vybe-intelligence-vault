@@ -3,7 +3,8 @@ title: 'Practical 3D Asset Generation: A Step-by-Step Guide'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/3d-assets
-local_vault_path: ai/models/huggingface-blog-3d-assets.md
+resource_id: blog:practical-3d-asset-generation-a-step-by-step-guide
+local_vault_path: ai/models/practical-3d-asset-generation-a-step-by-step-guide.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:practical-3d-asset-generation-a-step-by-step-guide
 ---
-
-
 
 # Practical 3D Asset Generation: A Step-by-Step Guide
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/3d-assets
 
 ## Local Vault File
 
-Path: [practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md](file:///../../ai/models/huggingface-blog-3d-assets.md)
+Path: [practical-3d-asset-generation-a-step-by-step-guide.md](file:///../../ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)

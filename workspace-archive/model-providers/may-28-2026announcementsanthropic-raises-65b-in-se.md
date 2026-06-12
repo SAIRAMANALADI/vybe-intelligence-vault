@@ -3,7 +3,7 @@ title: May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $96
   post-money valuation
 archive_category: model-providers
 source_category: ai/companies/anthropic
-source_url: https://www.anthropic.com/news/series-h
+source_url: https://anthropic.com/news/series-h
 resource_id: blog:may-28-2026announcementsanthropic-raises-65b-in-se
 local_vault_path: ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-se.md
 quality_score: 70
@@ -43,7 +43,7 @@ Recent update from Anthropic News Blog: May 28, 2026AnnouncementsAnthropic raise
 
 ## Source
 
-Original source URL: https://www.anthropic.com/news/series-h
+Original source URL: https://anthropic.com/news/series-h
 
 ## Local Vault File
 

@@ -2,13 +2,13 @@
 title: Arm will be @ PyTorch Conference, Join Us!
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/Arm/arm-at-pytorch-conference
+source_url: https://huggingface.co/blog/arm/arm-at-pytorch-conference
 resource_id: blog:arm-will-be-pytorch-conference-join-us
 local_vault_path: ai/models/arm-will-be-pytorch-conference-join-us.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join 
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Arm/arm-at-pytorch-conference
+Original source URL: https://huggingface.co/blog/arm/arm-at-pytorch-conference
 
 ## Local Vault File
 

@@ -3,7 +3,8 @@ title: Introducing Storage Regions on the HF Hub
 archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/regions
-local_vault_path: ai/rag/huggingface-blog-regions.md
+resource_id: blog:introducing-storage-regions-on-the-hf-hub
+local_vault_path: ai/rag/introducing-storage-regions-on-the-hf-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:introducing-storage-regions-on-the-hf-hub
 ---
-
-
 
 # Introducing Storage Regions on the HF Hub
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/regions
 
 ## Local Vault File
 
-Path: [introducing-storage-regions-on-the-hf-hub-e89645.md](file:///../../ai/rag/huggingface-blog-regions.md)
+Path: [introducing-storage-regions-on-the-hf-hub.md](file:///../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)

@@ -3,7 +3,8 @@ title: Unlocking asynchronicity in continuous batching
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/continuous_async
-local_vault_path: ai/models/huggingface-blog-continuous-async.md
+resource_id: blog:unlocking-asynchronicity-in-continuous-batching
+local_vault_path: ai/models/unlocking-asynchronicity-in-continuous-batching.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:unlocking-asynchronicity-in-continuous-batching
 ---
-
-
 
 # Unlocking asynchronicity in continuous batching
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [unlocking-asynchronicity-in-continuous-batching-c2fad0.md](file:///../../ai/models/huggingface-blog-continuous-async.md)
+Path: [unlocking-asynchronicity-in-continuous-batching.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)

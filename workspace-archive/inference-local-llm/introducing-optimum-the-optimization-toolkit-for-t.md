@@ -3,7 +3,8 @@ title: 'Introducing Optimum: The Optimization Toolkit for Transformers at Scale'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/hardware-partners-program
-local_vault_path: ai/models/huggingface-blog-hardware-partners-program.md
+resource_id: blog:introducing-optimum-the-optimization-toolkit-for-t
+local_vault_path: ai/models/introducing-optimum-the-optimization-toolkit-for-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-optimum-the-optimization-toolkit-for-t
 ---
-
 
 # Introducing Optimum: The Optimization Toolkit for Transformers at Scale
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hardware-partners-program
 
 ## Local Vault File
 
-Path: [introducing-optimum-the-optimization-toolkit-for-transformers-at-scale-6cbd02.md](file:///../../ai/models/huggingface-blog-hardware-partners-program.md)
+Path: [introducing-optimum-the-optimization-toolkit-for-t.md](file:///../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)

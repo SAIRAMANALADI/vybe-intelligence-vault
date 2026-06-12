@@ -2,7 +2,7 @@
 title: Epiczzor/r3f-template
 archive_category: webdev-3d-creative
 source_category: web-development/react-three-fiber
-source_url: https://github.com/Epiczzor/r3f-template
+source_url: https://github.com/epiczzor/r3f-template
 resource_id: github:epiczzor/r3f-template
 local_vault_path: web-development/react-three-fiber/epiczzor-r3f-template.md
 quality_score: 70
@@ -12,6 +12,7 @@ resource_kind: template
 importance: medium
 tags:
 - frontend_ui
+- reddit
 - threejs
 selection_reason:
 - Strong keyword match
@@ -41,7 +42,7 @@ a starter project for react-three-fiber and some more useful packages
 
 ## Source
 
-Original source URL: https://github.com/Epiczzor/r3f-template
+Original source URL: https://github.com/epiczzor/r3f-template
 
 ## Local Vault File
 
