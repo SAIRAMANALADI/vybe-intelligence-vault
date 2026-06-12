@@ -3,7 +3,7 @@ title: "Mario343214420/Webgl-Data-Demo"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/Mario343214420/Webgl-Data-Demo"
-local_vault_path: "web-development/threejs/mario343214420-webgl-data-demo-d95fd3.md"
+local_vault_path: "web-development\threejs\mario343214420-webgl-data-demo-d95fd3.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Mario343214420/Webgl-Data-Demo
 
 ## Local Vault File
 
-Path: [mario343214420-webgl-data-demo-d95fd3.md](file:///../../web-development/threejs/mario343214420-webgl-data-demo-d95fd3.md)
+Path: [mario343214420-webgl-data-demo-d95fd3.md](file:///../../web-development\threejs\mario343214420-webgl-data-demo-d95fd3.md)

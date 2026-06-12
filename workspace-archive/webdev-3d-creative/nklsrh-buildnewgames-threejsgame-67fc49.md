@@ -3,7 +3,7 @@ title: "nklsrh/BuildNewGames_ThreeJSGame"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/nklsrh/BuildNewGames_ThreeJSGame"
-local_vault_path: "web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md"
+local_vault_path: "web-development\threejs\nklsrh-buildnewgames-threejsgame-67fc49.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/nklsrh/BuildNewGames_ThreeJSGame
 
 ## Local Vault File
 
-Path: [nklsrh-buildnewgames-threejsgame-67fc49.md](file:///../../web-development/threejs/nklsrh-buildnewgames-threejsgame-67fc49.md)
+Path: [nklsrh-buildnewgames-threejsgame-67fc49.md](file:///../../web-development\threejs\nklsrh-buildnewgames-threejsgame-67fc49.md)

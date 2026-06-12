@@ -3,7 +3,7 @@ title: "Retrieval Augmented Generation with Huggingface Transformers and Ray"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ray-rag"
-local_vault_path: "ai/models/retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md"
+local_vault_path: "ai\models\retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ray-rag
 
 ## Local Vault File
 
-Path: [retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md](file:///../../ai/models/retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md)
+Path: [retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md](file:///../../ai\models\retrieval-augmented-generation-with-huggingface-transformers-and-ray-6b0e98.md)

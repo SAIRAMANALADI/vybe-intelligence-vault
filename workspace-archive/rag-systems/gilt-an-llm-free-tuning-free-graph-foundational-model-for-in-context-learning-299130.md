@@ -3,7 +3,7 @@ title: "GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context L
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.04567"
-local_vault_path: "ai/rag/gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md"
+local_vault_path: "ai\rag\gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2510.04567
 
 ## Local Vault File
 
-Path: [gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md](file:///../../ai/rag/gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md)
+Path: [gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md](file:///../../ai\rag\gilt-an-llm-free-tuning-free-graph-foundational-model-for-in-context-learning-299130.md)

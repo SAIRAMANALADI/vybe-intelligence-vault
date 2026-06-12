@@ -253,4 +253,4 @@ The 50 newest resources collected across the intelligence vault.
 - **Local Path**: `ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with-you-1c968d.md`
 
 ---
-*Index generated on 2026-06-11T23:01:32.818953+00:00*
+*Index generated on 2026-06-12T04:38:15.372450+00:00*

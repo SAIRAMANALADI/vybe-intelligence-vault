@@ -3,7 +3,7 @@ title: "SkillJuror: Measuring How Agent Skill Organization Changes Runtime Behav
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11543"
-local_vault_path: "ai/agents/skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md"
+local_vault_path: "ai\agents\skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11543
 
 ## Local Vault File
 
-Path: [skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md](file:///../../ai/agents/skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md)
+Path: [skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md](file:///../../ai\agents\skilljuror-measuring-how-agent-skill-organization-changes-runtime-behavior-8cfd12.md)

@@ -3,7 +3,7 @@ title: "Resource-Aware LLM Reasoning for Mobile Edge General Intelligence"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2509.23248"
-local_vault_path: "ai/agents/resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md"
+local_vault_path: "ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.23248
 
 ## Local Vault File
 
-Path: [resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md](file:///../../ai/agents/resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md)
+Path: [resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md](file:///../../ai\agents\resource-aware-llm-reasoning-for-mobile-edge-general-intelligence-53f462.md)

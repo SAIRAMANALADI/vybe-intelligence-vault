@@ -3,7 +3,7 @@ title: "Hugging Face's TensorFlow Philosophy"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tensorflow-philosophy"
-local_vault_path: "ai/models/hugging-face-s-tensorflow-philosophy-5a4de4.md"
+local_vault_path: "ai\models\hugging-face-s-tensorflow-philosophy-5a4de4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tensorflow-philosophy
 
 ## Local Vault File
 
-Path: [hugging-face-s-tensorflow-philosophy-5a4de4.md](file:///../../ai/models/hugging-face-s-tensorflow-philosophy-5a4de4.md)
+Path: [hugging-face-s-tensorflow-philosophy-5a4de4.md](file:///../../ai\models\hugging-face-s-tensorflow-philosophy-5a4de4.md)

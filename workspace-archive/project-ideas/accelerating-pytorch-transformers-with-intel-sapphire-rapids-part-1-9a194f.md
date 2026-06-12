@@ -3,7 +3,7 @@ title: "Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/intel-sapphire-rapids"
-local_vault_path: "ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md"
+local_vault_path: "ai\models\accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/intel-sapphire-rapids
 
 ## Local Vault File
 
-Path: [accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md](file:///../../ai/models/accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md)
+Path: [accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md](file:///../../ai\models\accelerating-pytorch-transformers-with-intel-sapphire-rapids-part-1-9a194f.md)

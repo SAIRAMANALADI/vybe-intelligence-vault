@@ -3,7 +3,7 @@ title: "Learn more"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://antigravity.google/blog/introducing-google-antigravity-2-0"
-local_vault_path: "ai/companies/deepmind/learn-more-1d9b12.md"
+local_vault_path: "ai\companies\deepmind\learn-more-1d9b12.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://antigravity.google/blog/introducing-google-antigrav
 
 ## Local Vault File
 
-Path: [learn-more-1d9b12.md](file:///../../ai/companies/deepmind/learn-more-1d9b12.md)
+Path: [learn-more-1d9b12.md](file:///../../ai\companies\deepmind\learn-more-1d9b12.md)

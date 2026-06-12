@@ -3,7 +3,7 @@ title: "Visual Document Retrieval Goes Multilingual"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/vdr-2b-multilingual"
-local_vault_path: "ai/models/visual-document-retrieval-goes-multilingual-2c22f9.md"
+local_vault_path: "ai\models\visual-document-retrieval-goes-multilingual-2c22f9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/vdr-2b-multilingual
 
 ## Local Vault File
 
-Path: [visual-document-retrieval-goes-multilingual-2c22f9.md](file:///../../ai/models/visual-document-retrieval-goes-multilingual-2c22f9.md)
+Path: [visual-document-retrieval-goes-multilingual-2c22f9.md](file:///../../ai\models\visual-document-retrieval-goes-multilingual-2c22f9.md)

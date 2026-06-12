@@ -3,7 +3,7 @@ title: "What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With 
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm"
-local_vault_path: "ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md"
+local_vault_path: "ai\rag\what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-r
 
 ## Local Vault File
 
-Path: [what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md](file:///../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md)
+Path: [what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md](file:///../../ai\rag\what-is-rag-a-beginner-s-guide-to-retrieval-augmented-generation-with-a-full-pip-cc2093.md)

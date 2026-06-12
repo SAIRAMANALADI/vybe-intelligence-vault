@@ -3,7 +3,7 @@ title: "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Space
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/mishig/spaces-agents-md"
-local_vault_path: "ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md"
+local_vault_path: "ai\agents\how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/mishig/spaces-agents-md
 
 ## Local Vault File
 
-Path: [how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md](file:///../../ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md)
+Path: [how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md](file:///../../ai\agents\how-an-agent-built-a-3d-paris-gallery-by-chaining-two-hugging-face-spaces-6d8d38.md)

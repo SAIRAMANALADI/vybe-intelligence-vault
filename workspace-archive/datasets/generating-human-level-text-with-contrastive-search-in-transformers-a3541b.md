@@ -3,7 +3,7 @@ title: "Generating Human-level Text with Contrastive Search in Transformers 🤗
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/introducing-csearch"
-local_vault_path: "ai/models/generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md"
+local_vault_path: "ai\models\generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/introducing-csearch
 
 ## Local Vault File
 
-Path: [generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md](file:///../../ai/models/generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md)
+Path: [generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md](file:///../../ai\models\generating-human-level-text-with-contrastive-search-in-transformers-a3541b.md)

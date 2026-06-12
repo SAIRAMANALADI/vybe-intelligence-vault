@@ -3,7 +3,7 @@ title: "Skill-Augmented AI Agents for Medical Research Analysis: An Exploratory 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11830"
-local_vault_path: "ai/agents/skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md"
+local_vault_path: "ai\agents\skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11830
 
 ## Local Vault File
 
-Path: [skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md](file:///../../ai/agents/skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md)
+Path: [skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md](file:///../../ai\agents\skill-augmented-ai-agents-for-medical-research-analysis-an-exploratory-multi-mod-815ec5.md)

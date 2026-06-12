@@ -3,7 +3,7 @@ title: "i-am-bee/beeai-framework"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/i-am-bee/beeai-framework"
-local_vault_path: "ai/agents/i-am-bee-beeai-framework-ec9cc6.md"
+local_vault_path: "ai\agents\i-am-bee-beeai-framework-ec9cc6.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "essential"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/i-am-bee/beeai-framework
 
 ## Local Vault File
 
-Path: [i-am-bee-beeai-framework-ec9cc6.md](file:///../../ai/agents/i-am-bee-beeai-framework-ec9cc6.md)
+Path: [i-am-bee-beeai-framework-ec9cc6.md](file:///../../ai\agents\i-am-bee-beeai-framework-ec9cc6.md)

@@ -3,7 +3,7 @@ title: "SmolLM - blazingly fast and remarkably powerful"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/smollm"
-local_vault_path: "ai/models/smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md"
+local_vault_path: "ai\models\smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md](file:///../../ai/models/smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md)
+Path: [smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md](file:///../../ai\models\smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md)

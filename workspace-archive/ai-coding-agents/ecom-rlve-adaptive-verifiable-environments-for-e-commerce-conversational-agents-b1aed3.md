@@ -3,7 +3,7 @@ title: "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversationa
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ecom-rlve"
-local_vault_path: "ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md"
+local_vault_path: "ai\agents\ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ecom-rlve
 
 ## Local Vault File
 
-Path: [ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md](file:///../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md)
+Path: [ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md](file:///../../ai\agents\ecom-rlve-adaptive-verifiable-environments-for-e-commerce-conversational-agents-b1aed3.md)

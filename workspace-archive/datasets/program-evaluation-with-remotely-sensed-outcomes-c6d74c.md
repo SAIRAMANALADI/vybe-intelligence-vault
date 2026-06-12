@@ -3,7 +3,7 @@ title: "Program Evaluation with Remotely Sensed Outcomes"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2411.10959"
-local_vault_path: "ai/research/program-evaluation-with-remotely-sensed-outcomes-c6d74c.md"
+local_vault_path: "ai\research\program-evaluation-with-remotely-sensed-outcomes-c6d74c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2411.10959
 
 ## Local Vault File
 
-Path: [program-evaluation-with-remotely-sensed-outcomes-c6d74c.md](file:///../../ai/research/program-evaluation-with-remotely-sensed-outcomes-c6d74c.md)
+Path: [program-evaluation-with-remotely-sensed-outcomes-c6d74c.md](file:///../../ai\research\program-evaluation-with-remotely-sensed-outcomes-c6d74c.md)

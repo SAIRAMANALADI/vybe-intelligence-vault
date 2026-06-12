@@ -3,7 +3,7 @@ title: "Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl"
-local_vault_path: "ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md"
+local_vault_path: "ai\models\welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl
 
 ## Local Vault File
 
-Path: [welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md](file:///../../ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md)
+Path: [welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md](file:///../../ai\models\welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugging-face-hub-0011e7.md)

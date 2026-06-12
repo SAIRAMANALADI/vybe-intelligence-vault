@@ -3,7 +3,7 @@ title: "grafana/o11y-bench"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://github.com/grafana/o11y-bench"
-local_vault_path: "ai/agents/grafana-o11y-bench-628889.md"
+local_vault_path: "ai\agents\grafana-o11y-bench-628889.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/grafana/o11y-bench
 
 ## Local Vault File
 
-Path: [grafana-o11y-bench-628889.md](file:///../../ai/agents/grafana-o11y-bench-628889.md)
+Path: [grafana-o11y-bench-628889.md](file:///../../ai\agents\grafana-o11y-bench-628889.md)

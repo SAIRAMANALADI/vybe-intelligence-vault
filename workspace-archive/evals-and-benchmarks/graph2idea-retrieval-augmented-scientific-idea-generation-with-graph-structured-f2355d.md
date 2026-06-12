@@ -3,7 +3,7 @@ title: "Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Str
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.09105"
-local_vault_path: "ai/rag/graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md"
+local_vault_path: "ai\rag\graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.09105
 
 ## Local Vault File
 
-Path: [graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md](file:///../../ai/rag/graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md)
+Path: [graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md](file:///../../ai\rag\graph2idea-retrieval-augmented-scientific-idea-generation-with-graph-structured-f2355d.md)

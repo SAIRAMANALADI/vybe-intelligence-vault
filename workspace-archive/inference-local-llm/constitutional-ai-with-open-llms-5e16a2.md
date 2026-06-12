@@ -3,7 +3,7 @@ title: "Constitutional AI with Open LLMs"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/constitutional_ai"
-local_vault_path: "ai/models/constitutional-ai-with-open-llms-5e16a2.md"
+local_vault_path: "ai\models\constitutional-ai-with-open-llms-5e16a2.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/constitutional_ai
 
 ## Local Vault File
 
-Path: [constitutional-ai-with-open-llms-5e16a2.md](file:///../../ai/models/constitutional-ai-with-open-llms-5e16a2.md)
+Path: [constitutional-ai-with-open-llms-5e16a2.md](file:///../../ai\models\constitutional-ai-with-open-llms-5e16a2.md)

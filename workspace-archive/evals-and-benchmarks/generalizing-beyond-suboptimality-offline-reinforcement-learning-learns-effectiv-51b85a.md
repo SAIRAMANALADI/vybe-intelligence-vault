@@ -3,7 +3,7 @@ title: "Generalizing Beyond Suboptimality: Offline Reinforcement Learning Learns
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2509.10303"
-local_vault_path: "ai/rag/generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md"
+local_vault_path: "ai\rag\generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2509.10303
 
 ## Local Vault File
 
-Path: [generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md](file:///../../ai/rag/generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md)
+Path: [generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md](file:///../../ai\rag\generalizing-beyond-suboptimality-offline-reinforcement-learning-learns-effectiv-51b85a.md)

@@ -3,7 +3,7 @@ title: "From Explicit Elements to Implicit Intent: A Predefined Library for Audi
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11207"
-local_vault_path: "ai/rag/from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md"
+local_vault_path: "ai\rag\from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11207
 
 ## Local Vault File
 
-Path: [from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md](file:///../../ai/rag/from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md)
+Path: [from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md](file:///../../ai\rag\from-explicit-elements-to-implicit-intent-a-predefined-library-for-auditable-beh-a30b8b.md)

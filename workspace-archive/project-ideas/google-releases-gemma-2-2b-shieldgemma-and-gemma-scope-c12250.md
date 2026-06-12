@@ -3,7 +3,7 @@ title: "Google releases Gemma 2 2B, ShieldGemma and Gemma Scope"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma-july-update"
-local_vault_path: "ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md"
+local_vault_path: "ai\models\google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma-july-update
 
 ## Local Vault File
 
-Path: [google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md](file:///../../ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md)
+Path: [google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md](file:///../../ai\models\google-releases-gemma-2-2b-shieldgemma-and-gemma-scope-c12250.md)

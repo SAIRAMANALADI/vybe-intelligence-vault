@@ -3,7 +3,7 @@ title: "Weighted Random Dot Product Graphs"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.03649"
-local_vault_path: "ai/research/weighted-random-dot-product-graphs-c9e221.md"
+local_vault_path: "ai\research\weighted-random-dot-product-graphs-c9e221.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.03649
 
 ## Local Vault File
 
-Path: [weighted-random-dot-product-graphs-c9e221.md](file:///../../ai/research/weighted-random-dot-product-graphs-c9e221.md)
+Path: [weighted-random-dot-product-graphs-c9e221.md](file:///../../ai\research\weighted-random-dot-product-graphs-c9e221.md)

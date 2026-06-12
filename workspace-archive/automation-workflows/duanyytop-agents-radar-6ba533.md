@@ -3,7 +3,7 @@ title: "duanyytop/agents-radar"
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://github.com/duanyytop/agents-radar"
-local_vault_path: "ai/agents/duanyytop-agents-radar-6ba533.md"
+local_vault_path: "ai\agents\duanyytop-agents-radar-6ba533.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -48,4 +48,4 @@ Original source URL: https://github.com/duanyytop/agents-radar
 
 ## Local Vault File
 
-Path: [duanyytop-agents-radar-6ba533.md](file:///../../ai/agents/duanyytop-agents-radar-6ba533.md)
+Path: [duanyytop-agents-radar-6ba533.md](file:///../../ai\agents\duanyytop-agents-radar-6ba533.md)

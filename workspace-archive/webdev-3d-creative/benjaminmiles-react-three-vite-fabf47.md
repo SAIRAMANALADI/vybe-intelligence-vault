@@ -3,7 +3,7 @@ title: "benjaminmiles/react-three-vite"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/benjaminmiles/react-three-vite"
-local_vault_path: "web-development/react-three-fiber/benjaminmiles-react-three-vite-fabf47.md"
+local_vault_path: "web-development\react-three-fiber\benjaminmiles-react-three-vite-fabf47.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/benjaminmiles/react-three-vite
 
 ## Local Vault File
 
-Path: [benjaminmiles-react-three-vite-fabf47.md](file:///../../web-development/react-three-fiber/benjaminmiles-react-three-vite-fabf47.md)
+Path: [benjaminmiles-react-three-vite-fabf47.md](file:///../../web-development\react-three-fiber\benjaminmiles-react-three-vite-fabf47.md)

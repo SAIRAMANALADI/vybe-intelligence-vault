@@ -3,7 +3,7 @@ title: "Showcase Your Projects in Spaces using Gradio"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gradio-spaces"
-local_vault_path: "ai/models/showcase-your-projects-in-spaces-using-gradio-084226.md"
+local_vault_path: "ai\models\showcase-your-projects-in-spaces-using-gradio-084226.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-spaces
 
 ## Local Vault File
 
-Path: [showcase-your-projects-in-spaces-using-gradio-084226.md](file:///../../ai/models/showcase-your-projects-in-spaces-using-gradio-084226.md)
+Path: [showcase-your-projects-in-spaces-using-gradio-084226.md](file:///../../ai\models\showcase-your-projects-in-spaces-using-gradio-084226.md)

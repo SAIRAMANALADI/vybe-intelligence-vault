@@ -3,7 +3,7 @@ title: "Reliability-Calibrated Edge-IoT Early Fault Warning for Rotating Machine
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.21293"
-local_vault_path: "ai/research/reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md"
+local_vault_path: "ai\research\reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2601.21293
 
 ## Local Vault File
 
-Path: [reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md](file:///../../ai/research/reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md)
+Path: [reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md](file:///../../ai\research\reliability-calibrated-edge-iot-early-fault-warning-for-rotating-machinery-with-985e0b.md)

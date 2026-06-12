@@ -3,7 +3,7 @@ title: "Learn more"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica"
-local_vault_path: "ai/companies/deepmind/learn-more-92fbb6.md"
+local_vault_path: "ai\companies\deepmind\learn-more-92fbb6.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://deepmind.google/blog/how-weathernext-helped-the-nat
 
 ## Local Vault File
 
-Path: [learn-more-92fbb6.md](file:///../../ai/companies/deepmind/learn-more-92fbb6.md)
+Path: [learn-more-92fbb6.md](file:///../../ai\companies\deepmind\learn-more-92fbb6.md)

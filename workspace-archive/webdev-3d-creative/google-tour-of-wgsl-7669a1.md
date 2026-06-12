@@ -3,7 +3,7 @@ title: "google/tour-of-wgsl"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/google/tour-of-wgsl"
-local_vault_path: "web-development/webgpu/google-tour-of-wgsl-7669a1.md"
+local_vault_path: "web-development\webgpu\google-tour-of-wgsl-7669a1.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/google/tour-of-wgsl
 
 ## Local Vault File
 
-Path: [google-tour-of-wgsl-7669a1.md](file:///../../web-development/webgpu/google-tour-of-wgsl-7669a1.md)
+Path: [google-tour-of-wgsl-7669a1.md](file:///../../web-development\webgpu\google-tour-of-wgsl-7669a1.md)

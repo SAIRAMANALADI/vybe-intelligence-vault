@@ -3,7 +3,7 @@ title: "Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddin
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
-local_vault_path: "ai/rag/granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md"
+local_vault_path: "ai\rag\granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-embedding-m
 
 ## Local Vault File
 
-Path: [granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md](file:///../../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md)
+Path: [granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md](file:///../../ai\rag\granite-embedding-multilingual-r2-open-apache-2-0-multilingual-embeddings-with-3-3d3072.md)

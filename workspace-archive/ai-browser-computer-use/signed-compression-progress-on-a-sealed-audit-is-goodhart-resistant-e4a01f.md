@@ -3,7 +3,7 @@ title: "Signed Compression Progress on a Sealed Audit is Goodhart-Resistant"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11417"
-local_vault_path: "ai/agents/signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md"
+local_vault_path: "ai\agents\signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11417
 
 ## Local Vault File
 
-Path: [signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md](file:///../../ai/agents/signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md)
+Path: [signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md](file:///../../ai\agents\signed-compression-progress-on-a-sealed-audit-is-goodhart-resistant-e4a01f.md)

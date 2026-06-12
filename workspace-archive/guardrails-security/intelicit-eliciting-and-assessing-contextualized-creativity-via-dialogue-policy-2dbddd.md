@@ -3,7 +3,7 @@ title: "IntElicit: Eliciting and Assessing Contextualized Creativity via Dialogu
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12086"
-local_vault_path: "ai/research/intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md"
+local_vault_path: "ai\research\intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12086
 
 ## Local Vault File
 
-Path: [intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md](file:///../../ai/research/intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md)
+Path: [intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md](file:///../../ai\research\intelicit-eliciting-and-assessing-contextualized-creativity-via-dialogue-policy-2dbddd.md)

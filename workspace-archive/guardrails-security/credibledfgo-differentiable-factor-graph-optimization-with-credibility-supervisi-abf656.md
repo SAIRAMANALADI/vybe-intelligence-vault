@@ -3,7 +3,7 @@ title: "CredibleDFGO: Differentiable Factor Graph Optimization with Credibility 
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.06100"
-local_vault_path: "ai/research/credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md"
+local_vault_path: "ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.06100
 
 ## Local Vault File
 
-Path: [credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md](file:///../../ai/research/credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md)
+Path: [credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md](file:///../../ai\research\credibledfgo-differentiable-factor-graph-optimization-with-credibility-supervisi-abf656.md)

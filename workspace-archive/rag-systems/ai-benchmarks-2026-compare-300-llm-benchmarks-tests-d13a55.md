@@ -3,7 +3,7 @@ title: "AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://llm-stats.com/benchmarks"
-local_vault_path: "ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md"
+local_vault_path: "ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://llm-stats.com/benchmarks
 
 ## Local Vault File
 
-Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md](file:///../../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md)
+Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md](file:///../../ai\rag\ai-benchmarks-2026-compare-300-llm-benchmarks-tests-d13a55.md)

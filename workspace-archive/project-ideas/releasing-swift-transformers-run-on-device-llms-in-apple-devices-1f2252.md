@@ -3,7 +3,7 @@ title: "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/swift-coreml-llm"
-local_vault_path: "ai/models/releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md"
+local_vault_path: "ai\models\releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/swift-coreml-llm
 
 ## Local Vault File
 
-Path: [releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md](file:///../../ai/models/releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md)
+Path: [releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md](file:///../../ai\models\releasing-swift-transformers-run-on-device-llms-in-apple-devices-1f2252.md)

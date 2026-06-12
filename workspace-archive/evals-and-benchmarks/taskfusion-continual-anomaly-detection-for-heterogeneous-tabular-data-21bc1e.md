@@ -1,20 +1,20 @@
 ---
 title: "TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data"
 archive_category: "evals-and-benchmarks"
-source_category: "ai/research"
+source_category: "web-development/threejs"
 source_url: "https://arxiv.org/abs/2606.11844"
-local_vault_path: "ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md"
+local_vault_path: "web-development\threejs\taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md"
 quality_score: 70
-archive_score: 74
+archive_score: 72
 archive_tier: "useful"
-resource_kind: "framework"
+resource_kind: "dataset"
 importance: "medium"
 tags:
-  - dataset
   - models
+  - threejs
 selection_reason:
   - "Strong keyword match"
-  - "Useful for project building"
+  - "Valuable developer reference"
 ---
 
 # TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data
@@ -22,11 +22,11 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Evals and Benchmarks`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: framework
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11844
 
 ## Local Vault File
 
-Path: [taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md](file:///../../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)
+Path: [taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md](file:///../../web-development\threejs\taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md)

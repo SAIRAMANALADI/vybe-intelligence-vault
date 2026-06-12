@@ -3,7 +3,7 @@ title: "RePAIR: Predictive Self-Supervised Representation Learning in Chess"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11860"
-local_vault_path: "ai/research/repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md"
+local_vault_path: "ai\research\repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11860
 
 ## Local Vault File
 
-Path: [repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md](file:///../../ai/research/repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md)
+Path: [repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md](file:///../../ai\research\repair-predictive-self-supervised-representation-learning-in-chess-5b68d9.md)

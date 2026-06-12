@@ -3,7 +3,7 @@ title: "How to build scalable web apps with OpenAI's Privacy Filter"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/openai-privacy-filter-web-apps"
-local_vault_path: "ai/models/how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md"
+local_vault_path: "ai\models\how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/openai-privacy-filter-web-apps
 
 ## Local Vault File
 
-Path: [how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md](file:///../../ai/models/how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md)
+Path: [how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md](file:///../../ai\models\how-to-build-scalable-web-apps-with-openai-s-privacy-filter-100e89.md)

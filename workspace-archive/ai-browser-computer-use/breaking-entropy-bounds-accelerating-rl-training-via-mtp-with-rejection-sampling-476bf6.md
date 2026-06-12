@@ -3,7 +3,7 @@ title: "Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12370"
-local_vault_path: "ai/agents/breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md"
+local_vault_path: "ai\agents\breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12370
 
 ## Local Vault File
 
-Path: [breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md](file:///../../ai/agents/breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md)
+Path: [breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md](file:///../../ai\agents\breaking-entropy-bounds-accelerating-rl-training-via-mtp-with-rejection-sampling-476bf6.md)

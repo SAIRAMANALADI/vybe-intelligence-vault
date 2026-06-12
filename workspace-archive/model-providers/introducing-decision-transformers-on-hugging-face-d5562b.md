@@ -3,7 +3,7 @@ title: "Introducing Decision Transformers on Hugging Face 🤗"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/decision-transformers"
-local_vault_path: "ai/models/introducing-decision-transformers-on-hugging-face-d5562b.md"
+local_vault_path: "ai\models\introducing-decision-transformers-on-hugging-face-d5562b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/decision-transformers
 
 ## Local Vault File
 
-Path: [introducing-decision-transformers-on-hugging-face-d5562b.md](file:///../../ai/models/introducing-decision-transformers-on-hugging-face-d5562b.md)
+Path: [introducing-decision-transformers-on-hugging-face-d5562b.md](file:///../../ai\models\introducing-decision-transformers-on-hugging-face-d5562b.md)

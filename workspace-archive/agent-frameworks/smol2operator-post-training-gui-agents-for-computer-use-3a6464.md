@@ -3,7 +3,7 @@ title: "Smol2Operator: Post-Training GUI Agents for Computer Use"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/smol2operator"
-local_vault_path: "ai/agents/smol2operator-post-training-gui-agents-for-computer-use-3a6464.md"
+local_vault_path: "ai\agents\smol2operator-post-training-gui-agents-for-computer-use-3a6464.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smol2operator
 
 ## Local Vault File
 
-Path: [smol2operator-post-training-gui-agents-for-computer-use-3a6464.md](file:///../../ai/agents/smol2operator-post-training-gui-agents-for-computer-use-3a6464.md)
+Path: [smol2operator-post-training-gui-agents-for-computer-use-3a6464.md](file:///../../ai\agents\smol2operator-post-training-gui-agents-for-computer-use-3a6464.md)

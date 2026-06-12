@@ -3,7 +3,7 @@ title: "OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.22725"
-local_vault_path: "ai/research/openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md"
+local_vault_path: "ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2601.22725
 
 ## Local Vault File
 
-Path: [openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md](file:///../../ai/research/openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md)
+Path: [openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md](file:///../../ai\research\openvton-bench-a-large-scale-high-resolution-benchmark-for-controllable-virtual-0f2dae.md)

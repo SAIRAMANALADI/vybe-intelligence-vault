@@ -3,7 +3,7 @@ title: "Show HN: Claw Patrol, a security firewall for agents"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://github.com/denoland/clawpatrol"
-local_vault_path: "ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md"
+local_vault_path: "ai\community\show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/denoland/clawpatrol
 
 ## Local Vault File
 
-Path: [show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md](file:///../../ai/community/show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md)
+Path: [show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md](file:///../../ai\community\show-hn-claw-patrol-a-security-firewall-for-agents-8c389a.md)

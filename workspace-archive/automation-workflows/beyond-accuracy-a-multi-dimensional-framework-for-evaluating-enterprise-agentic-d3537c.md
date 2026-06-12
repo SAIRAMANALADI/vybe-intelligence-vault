@@ -3,7 +3,7 @@ title: "Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/html/2511.14136v1"
-local_vault_path: "ai/rag/beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md"
+local_vault_path: "ai\rag\beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://arxiv.org/html/2511.14136v1
 
 ## Local Vault File
 
-Path: [beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md](file:///../../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md)
+Path: [beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md](file:///../../ai\rag\beyond-accuracy-a-multi-dimensional-framework-for-evaluating-enterprise-agentic-d3537c.md)

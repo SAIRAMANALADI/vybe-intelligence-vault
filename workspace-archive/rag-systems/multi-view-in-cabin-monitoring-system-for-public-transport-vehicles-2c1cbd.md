@@ -3,7 +3,7 @@ title: "Multi-View In-Cabin Monitoring System for Public Transport Vehicles"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11739"
-local_vault_path: "ai/research/multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md"
+local_vault_path: "ai\research\multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11739
 
 ## Local Vault File
 
-Path: [multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md](file:///../../ai/research/multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md)
+Path: [multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md](file:///../../ai\research\multi-view-in-cabin-monitoring-system-for-public-transport-vehicles-2c1cbd.md)

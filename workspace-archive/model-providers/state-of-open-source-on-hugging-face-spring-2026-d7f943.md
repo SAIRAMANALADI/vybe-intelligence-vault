@@ -3,7 +3,7 @@ title: "State of Open Source on Hugging Face: Spring 2026"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
-local_vault_path: "ai/models/state-of-open-source-on-hugging-face-spring-2026-d7f943.md"
+local_vault_path: "ai\models\state-of-open-source-on-hugging-face-spring-2026-d7f943.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/huggingface/state-of-os-hf-spri
 
 ## Local Vault File
 
-Path: [state-of-open-source-on-hugging-face-spring-2026-d7f943.md](file:///../../ai/models/state-of-open-source-on-hugging-face-spring-2026-d7f943.md)
+Path: [state-of-open-source-on-hugging-face-spring-2026-d7f943.md](file:///../../ai\models\state-of-open-source-on-hugging-face-spring-2026-d7f943.md)

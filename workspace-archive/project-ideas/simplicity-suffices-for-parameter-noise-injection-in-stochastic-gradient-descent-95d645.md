@@ -3,7 +3,7 @@ title: "Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12054"
-local_vault_path: "ai/rag/simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md"
+local_vault_path: "ai\rag\simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.12054
 
 ## Local Vault File
 
-Path: [simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md](file:///../../ai/rag/simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md)
+Path: [simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md](file:///../../ai\rag\simplicity-suffices-for-parameter-noise-injection-in-stochastic-gradient-descent-95d645.md)

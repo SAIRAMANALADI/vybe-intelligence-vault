@@ -3,7 +3,7 @@ title: "How Sempre Health is leveraging the Expert Acceleration Program to accel
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://huggingface.co/blog/sempre-health-eap-case-study"
-local_vault_path: "ai/rag/how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md"
+local_vault_path: "ai\rag\how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sempre-health-eap-case-study
 
 ## Local Vault File
 
-Path: [how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md](file:///../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md)
+Path: [how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md](file:///../../ai\rag\how-sempre-health-is-leveraging-the-expert-acceleration-program-to-accelerate-th-147475.md)

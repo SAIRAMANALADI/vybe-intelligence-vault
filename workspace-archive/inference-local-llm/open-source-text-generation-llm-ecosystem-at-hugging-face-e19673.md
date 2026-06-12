@@ -3,7 +3,7 @@ title: "Open-Source Text Generation & LLM Ecosystem at Hugging Face"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/os-llms"
-local_vault_path: "ai/models/open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md"
+local_vault_path: "ai\models\open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/os-llms
 
 ## Local Vault File
 
-Path: [open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md](file:///../../ai/models/open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md)
+Path: [open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md](file:///../../ai\models\open-source-text-generation-llm-ecosystem-at-hugging-face-e19673.md)

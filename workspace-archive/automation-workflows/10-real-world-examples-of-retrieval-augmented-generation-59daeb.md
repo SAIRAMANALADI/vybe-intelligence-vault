@@ -3,7 +3,7 @@ title: "10 Real-World Examples of Retrieval Augmented Generation"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://www.signitysolutions.com/blog/real-world-examples-of-retrieval-augmented-generation"
-local_vault_path: "ai/rag/10-real-world-examples-of-retrieval-augmented-generation-59daeb.md"
+local_vault_path: "ai\rag\10-real-world-examples-of-retrieval-augmented-generation-59daeb.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.signitysolutions.com/blog/real-world-examples-o
 
 ## Local Vault File
 
-Path: [10-real-world-examples-of-retrieval-augmented-generation-59daeb.md](file:///../../ai/rag/10-real-world-examples-of-retrieval-augmented-generation-59daeb.md)
+Path: [10-real-world-examples-of-retrieval-augmented-generation-59daeb.md](file:///../../ai\rag\10-real-world-examples-of-retrieval-augmented-generation-59daeb.md)

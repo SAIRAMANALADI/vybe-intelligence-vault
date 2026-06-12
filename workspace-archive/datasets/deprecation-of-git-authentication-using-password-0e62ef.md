@@ -3,7 +3,7 @@ title: "Deprecation of Git Authentication using password"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/password-git-deprecation"
-local_vault_path: "ai/models/deprecation-of-git-authentication-using-password-0e62ef.md"
+local_vault_path: "ai\models\deprecation-of-git-authentication-using-password-0e62ef.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/password-git-deprecation
 
 ## Local Vault File
 
-Path: [deprecation-of-git-authentication-using-password-0e62ef.md](file:///../../ai/models/deprecation-of-git-authentication-using-password-0e62ef.md)
+Path: [deprecation-of-git-authentication-using-password-0e62ef.md](file:///../../ai\models\deprecation-of-git-authentication-using-password-0e62ef.md)

@@ -3,7 +3,7 @@ title: "nank1ro/flutter-shadcn-ui"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/nank1ro/flutter-shadcn-ui"
-local_vault_path: "web-development/shadcn-ui/nank1ro-flutter-shadcn-ui-7f126e.md"
+local_vault_path: "web-development\shadcn-ui\nank1ro-flutter-shadcn-ui-7f126e.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/nank1ro/flutter-shadcn-ui
 
 ## Local Vault File
 
-Path: [nank1ro-flutter-shadcn-ui-7f126e.md](file:///../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui-7f126e.md)
+Path: [nank1ro-flutter-shadcn-ui-7f126e.md](file:///../../web-development\shadcn-ui\nank1ro-flutter-shadcn-ui-7f126e.md)

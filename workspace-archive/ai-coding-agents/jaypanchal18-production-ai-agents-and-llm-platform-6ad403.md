@@ -3,7 +3,7 @@ title: "jaypanchal18/production-ai-agents-and-llm-platform"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/jaypanchal18/production-ai-agents-and-llm-platform"
-local_vault_path: "ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md"
+local_vault_path: "ai\agents\jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/jaypanchal18/production-ai-agents-and-ll
 
 ## Local Vault File
 
-Path: [jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md](file:///../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md)
+Path: [jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md](file:///../../ai\agents\jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md)

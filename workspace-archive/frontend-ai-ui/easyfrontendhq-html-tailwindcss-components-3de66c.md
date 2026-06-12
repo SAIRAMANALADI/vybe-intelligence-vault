@@ -3,7 +3,7 @@ title: "EasyFrontendHQ/html-tailwindcss-components"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/tailwind"
 source_url: "https://github.com/EasyFrontendHQ/html-tailwindcss-components"
-local_vault_path: "web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md"
+local_vault_path: "web-development\tailwind\easyfrontendhq-html-tailwindcss-components-3de66c.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/EasyFrontendHQ/html-tailwindcss-componen
 
 ## Local Vault File
 
-Path: [easyfrontendhq-html-tailwindcss-components-3de66c.md](file:///../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components-3de66c.md)
+Path: [easyfrontendhq-html-tailwindcss-components-3de66c.md](file:///../../web-development\tailwind\easyfrontendhq-html-tailwindcss-components-3de66c.md)

@@ -3,7 +3,7 @@ title: "humanlaya/OneMillion-Bench"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://github.com/humanlaya/OneMillion-Bench"
-local_vault_path: "ai/agents/humanlaya-onemillion-bench-43fc9d.md"
+local_vault_path: "ai\agents\humanlaya-onemillion-bench-43fc9d.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/humanlaya/OneMillion-Bench
 
 ## Local Vault File
 
-Path: [humanlaya-onemillion-bench-43fc9d.md](file:///../../ai/agents/humanlaya-onemillion-bench-43fc9d.md)
+Path: [humanlaya-onemillion-bench-43fc9d.md](file:///../../ai\agents\humanlaya-onemillion-bench-43fc9d.md)

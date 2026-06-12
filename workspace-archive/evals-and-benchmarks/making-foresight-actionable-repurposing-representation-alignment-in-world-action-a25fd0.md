@@ -3,7 +3,7 @@ title: "Making Foresight Actionable: Repurposing Representation Alignment in Wor
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12217"
-local_vault_path: "ai/research/making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md"
+local_vault_path: "ai\research\making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12217
 
 ## Local Vault File
 
-Path: [making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md](file:///../../ai/research/making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md)
+Path: [making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md](file:///../../ai\research\making-foresight-actionable-repurposing-representation-alignment-in-world-action-a25fd0.md)

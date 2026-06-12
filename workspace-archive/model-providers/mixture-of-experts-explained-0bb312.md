@@ -3,7 +3,7 @@ title: "Mixture of Experts Explained"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/moe"
-local_vault_path: "ai/models/mixture-of-experts-explained-0bb312.md"
+local_vault_path: "ai\models\mixture-of-experts-explained-0bb312.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/moe
 
 ## Local Vault File
 
-Path: [mixture-of-experts-explained-0bb312.md](file:///../../ai/models/mixture-of-experts-explained-0bb312.md)
+Path: [mixture-of-experts-explained-0bb312.md](file:///../../ai\models\mixture-of-experts-explained-0bb312.md)

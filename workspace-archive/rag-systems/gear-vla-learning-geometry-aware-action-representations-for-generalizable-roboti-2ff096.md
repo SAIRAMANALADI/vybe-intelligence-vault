@@ -3,7 +3,7 @@ title: "GEAR-VLA: Learning Geometry-Aware Action Representations for Generalizab
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.08530"
-local_vault_path: "ai/research/gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md"
+local_vault_path: "ai\research\gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.08530
 
 ## Local Vault File
 
-Path: [gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md](file:///../../ai/research/gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md)
+Path: [gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md](file:///../../ai\research\gear-vla-learning-geometry-aware-action-representations-for-generalizable-roboti-2ff096.md)

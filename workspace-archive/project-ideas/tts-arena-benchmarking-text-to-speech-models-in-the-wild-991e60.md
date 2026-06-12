@@ -3,7 +3,7 @@ title: "TTS Arena: Benchmarking Text-to-Speech Models in the Wild"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/arena-tts"
-local_vault_path: "ai/models/tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md"
+local_vault_path: "ai\models\tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: [tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md](file:///../../ai/models/tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md)
+Path: [tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md](file:///../../ai\models\tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md)

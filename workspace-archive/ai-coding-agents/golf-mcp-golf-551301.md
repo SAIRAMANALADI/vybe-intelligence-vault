@@ -3,7 +3,7 @@ title: "golf-mcp/golf"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/golf-mcp/golf"
-local_vault_path: "ai/agents/golf-mcp-golf-551301.md"
+local_vault_path: "ai\agents\golf-mcp-golf-551301.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "essential"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/golf-mcp/golf
 
 ## Local Vault File
 
-Path: [golf-mcp-golf-551301.md](file:///../../ai/agents/golf-mcp-golf-551301.md)
+Path: [golf-mcp-golf-551301.md](file:///../../ai\agents\golf-mcp-golf-551301.md)

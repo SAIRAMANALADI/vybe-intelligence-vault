@@ -3,7 +3,7 @@ title: "~Don't~ Repeat Yourself"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformers-design-philosophy"
-local_vault_path: "ai/models/don-t-repeat-yourself-343ec7.md"
+local_vault_path: "ai\models\don-t-repeat-yourself-343ec7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai/models/don-t-repeat-yourself-343ec7.md)
+Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai\models\don-t-repeat-yourself-343ec7.md)

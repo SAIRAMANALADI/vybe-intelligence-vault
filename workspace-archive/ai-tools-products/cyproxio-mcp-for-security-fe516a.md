@@ -3,7 +3,7 @@ title: "cyproxio/mcp-for-security"
 archive_category: "ai-tools-products"
 source_category: "ai/resources"
 source_url: "https://github.com/cyproxio/mcp-for-security"
-local_vault_path: "ai/resources/cyproxio-mcp-for-security-fe516a.md"
+local_vault_path: "ai\resources\cyproxio-mcp-for-security-fe516a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/cyproxio/mcp-for-security
 
 ## Local Vault File
 
-Path: [cyproxio-mcp-for-security-fe516a.md](file:///../../ai/resources/cyproxio-mcp-for-security-fe516a.md)
+Path: [cyproxio-mcp-for-security-fe516a.md](file:///../../ai\resources\cyproxio-mcp-for-security-fe516a.md)

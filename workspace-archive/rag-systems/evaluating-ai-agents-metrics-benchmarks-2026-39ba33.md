@@ -3,7 +3,7 @@ title: "Evaluating AI Agents: Metrics & Benchmarks 2026"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026"
-local_vault_path: "ai/rag/evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md"
+local_vault_path: "ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metri
 
 ## Local Vault File
 
-Path: [evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md](file:///../../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md)
+Path: [evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md](file:///../../ai\rag\evaluating-ai-agents-metrics-benchmarks-2026-39ba33.md)

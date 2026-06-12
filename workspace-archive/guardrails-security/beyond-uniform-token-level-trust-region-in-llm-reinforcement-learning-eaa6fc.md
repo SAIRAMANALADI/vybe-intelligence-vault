@@ -3,7 +3,7 @@ title: "Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10968"
-local_vault_path: "ai/research/beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md"
+local_vault_path: "ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.10968
 
 ## Local Vault File
 
-Path: [beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md](file:///../../ai/research/beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md)
+Path: [beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md](file:///../../ai\research\beyond-uniform-token-level-trust-region-in-llm-reinforcement-learning-eaa6fc.md)

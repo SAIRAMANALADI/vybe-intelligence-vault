@@ -3,7 +3,7 @@ title: "Introducing Community Tools on HuggingChat"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/community-tools"
-local_vault_path: "ai/models/introducing-community-tools-on-huggingchat-f3b9d6.md"
+local_vault_path: "ai\models\introducing-community-tools-on-huggingchat-f3b9d6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/community-tools
 
 ## Local Vault File
 
-Path: [introducing-community-tools-on-huggingchat-f3b9d6.md](file:///../../ai/models/introducing-community-tools-on-huggingchat-f3b9d6.md)
+Path: [introducing-community-tools-on-huggingchat-f3b9d6.md](file:///../../ai\models\introducing-community-tools-on-huggingchat-f3b9d6.md)

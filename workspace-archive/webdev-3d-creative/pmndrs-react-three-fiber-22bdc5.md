@@ -3,7 +3,7 @@ title: "pmndrs/react-three-fiber"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/pmndrs/react-three-fiber"
-local_vault_path: "web-development/threejs/pmndrs-react-three-fiber-22bdc5.md"
+local_vault_path: "web-development\threejs\pmndrs-react-three-fiber-22bdc5.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/react-three-fiber
 
 ## Local Vault File
 
-Path: [pmndrs-react-three-fiber-22bdc5.md](file:///../../web-development/threejs/pmndrs-react-three-fiber-22bdc5.md)
+Path: [pmndrs-react-three-fiber-22bdc5.md](file:///../../web-development\threejs\pmndrs-react-three-fiber-22bdc5.md)

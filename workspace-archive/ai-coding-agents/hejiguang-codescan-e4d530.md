@@ -3,7 +3,7 @@ title: "HeJiguang/codescan"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/HeJiguang/codescan"
-local_vault_path: "ai/agents/hejiguang-codescan-e4d530.md"
+local_vault_path: "ai\agents\hejiguang-codescan-e4d530.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/HeJiguang/codescan
 
 ## Local Vault File
 
-Path: [hejiguang-codescan-e4d530.md](file:///../../ai/agents/hejiguang-codescan-e4d530.md)
+Path: [hejiguang-codescan-e4d530.md](file:///../../ai\agents\hejiguang-codescan-e4d530.md)

@@ -3,7 +3,7 @@ title: "Energy Use of AI Inference, Efficiency Pathways, and Test-Time Scaling"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.20241"
-local_vault_path: "ai/research/energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md"
+local_vault_path: "ai\research\energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.20241
 
 ## Local Vault File
 
-Path: [energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md](file:///../../ai/research/energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md)
+Path: [energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md](file:///../../ai\research\energy-use-of-ai-inference-efficiency-pathways-and-test-time-scaling-4fe4b3.md)

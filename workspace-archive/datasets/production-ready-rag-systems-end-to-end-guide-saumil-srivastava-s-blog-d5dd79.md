@@ -3,7 +3,7 @@ title: "Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blo
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide"
-local_vault_path: "ai/rag/production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md"
+local_vault_path: "ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.saumilsrivastava.ai/blog/production-ready-rag-s
 
 ## Local Vault File
 
-Path: [production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)
+Path: [production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md](file:///../../ai\rag\production-ready-rag-systems-end-to-end-guide-saumil-srivastava-s-blog-d5dd79.md)

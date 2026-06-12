@@ -3,7 +3,7 @@ title: "TencentCloudADP/youtu-graphrag"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/TencentCloudADP/youtu-graphrag"
-local_vault_path: "ai/rag/tencentcloudadp-youtu-graphrag-718ade.md"
+local_vault_path: "ai\rag\tencentcloudadp-youtu-graphrag-718ade.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/TencentCloudADP/youtu-graphrag
 
 ## Local Vault File
 
-Path: [tencentcloudadp-youtu-graphrag-718ade.md](file:///../../ai/rag/tencentcloudadp-youtu-graphrag-718ade.md)
+Path: [tencentcloudadp-youtu-graphrag-718ade.md](file:///../../ai\rag\tencentcloudadp-youtu-graphrag-718ade.md)

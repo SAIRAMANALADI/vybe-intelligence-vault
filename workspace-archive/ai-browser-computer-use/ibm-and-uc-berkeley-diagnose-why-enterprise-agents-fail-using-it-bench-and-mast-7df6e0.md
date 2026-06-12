@@ -3,7 +3,7 @@ title: "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench a
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ibm-research/itbenchandmast"
-local_vault_path: "ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md"
+local_vault_path: "ai\agents\ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/itbenchandmast
 
 ## Local Vault File
 
-Path: [ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md](file:///../../ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md)
+Path: [ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md](file:///../../ai\agents\ibm-and-uc-berkeley-diagnose-why-enterprise-agents-fail-using-it-bench-and-mast-7df6e0.md)

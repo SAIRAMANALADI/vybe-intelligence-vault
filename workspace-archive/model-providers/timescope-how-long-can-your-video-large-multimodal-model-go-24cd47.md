@@ -3,7 +3,7 @@ title: "TimeScope: How Long Can Your Video Large Multimodal Model Go?"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/timescope-video-lmm-benchmark"
-local_vault_path: "ai/models/timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md"
+local_vault_path: "ai\models\timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/timescope-video-lmm-benchmark
 
 ## Local Vault File
 
-Path: [timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md](file:///../../ai/models/timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md)
+Path: [timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md](file:///../../ai\models\timescope-how-long-can-your-video-large-multimodal-model-go-24cd47.md)

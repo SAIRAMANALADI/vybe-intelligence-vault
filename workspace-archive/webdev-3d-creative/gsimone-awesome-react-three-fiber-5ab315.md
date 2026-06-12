@@ -3,7 +3,7 @@ title: "gsimone/awesome-react-three-fiber"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/gsimone/awesome-react-three-fiber"
-local_vault_path: "web-development/react-three-fiber/gsimone-awesome-react-three-fiber-5ab315.md"
+local_vault_path: "web-development\react-three-fiber\gsimone-awesome-react-three-fiber-5ab315.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/gsimone/awesome-react-three-fiber
 
 ## Local Vault File
 
-Path: [gsimone-awesome-react-three-fiber-5ab315.md](file:///../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber-5ab315.md)
+Path: [gsimone-awesome-react-three-fiber-5ab315.md](file:///../../web-development\react-three-fiber\gsimone-awesome-react-three-fiber-5ab315.md)

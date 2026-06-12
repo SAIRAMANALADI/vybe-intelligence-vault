@@ -3,7 +3,7 @@ title: "Blind Dexterous Grasping via Real2Sim2Real Tactile Policy Learning"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11767"
-local_vault_path: "ai/research/blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md"
+local_vault_path: "ai\research\blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11767
 
 ## Local Vault File
 
-Path: [blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md](file:///../../ai/research/blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md)
+Path: [blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md](file:///../../ai\research\blind-dexterous-grasping-via-real2sim2real-tactile-policy-learning-eba65f.md)

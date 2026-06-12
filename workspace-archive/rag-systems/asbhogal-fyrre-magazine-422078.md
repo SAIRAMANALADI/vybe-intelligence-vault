@@ -3,7 +3,7 @@ title: "asbhogal/Fyrre-Magazine"
 archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/asbhogal/Fyrre-Magazine"
-local_vault_path: "web-development/nextjs/asbhogal-fyrre-magazine-422078.md"
+local_vault_path: "web-development\nextjs\asbhogal-fyrre-magazine-422078.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/asbhogal/Fyrre-Magazine
 
 ## Local Vault File
 
-Path: [asbhogal-fyrre-magazine-422078.md](file:///../../web-development/nextjs/asbhogal-fyrre-magazine-422078.md)
+Path: [asbhogal-fyrre-magazine-422078.md](file:///../../web-development\nextjs\asbhogal-fyrre-magazine-422078.md)

@@ -3,7 +3,7 @@ title: "Image Classification with AutoTrain"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/autotrain-image-classification"
-local_vault_path: "ai/models/image-classification-with-autotrain-f1932e.md"
+local_vault_path: "ai\models\image-classification-with-autotrain-f1932e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [image-classification-with-autotrain-f1932e.md](file:///../../ai/models/image-classification-with-autotrain-f1932e.md)
+Path: [image-classification-with-autotrain-f1932e.md](file:///../../ai\models\image-classification-with-autotrain-f1932e.md)

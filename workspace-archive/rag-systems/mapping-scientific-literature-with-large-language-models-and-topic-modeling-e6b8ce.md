@@ -3,7 +3,7 @@ title: "Mapping Scientific Literature with Large Language Models and Topic Model
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2510.16152"
-local_vault_path: "ai/rag/mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md"
+local_vault_path: "ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2510.16152
 
 ## Local Vault File
 
-Path: [mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md](file:///../../ai/rag/mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md)
+Path: [mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md](file:///../../ai\rag\mapping-scientific-literature-with-large-language-models-and-topic-modeling-e6b8ce.md)

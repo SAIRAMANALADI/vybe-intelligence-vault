@@ -3,7 +3,7 @@ title: "Lung-SRAD: Spectral-Aware Regularized Audio DASS with Dual-Axis Patch-Mi
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11922"
-local_vault_path: "ai/research/lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md"
+local_vault_path: "ai\research\lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11922
 
 ## Local Vault File
 
-Path: [lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md](file:///../../ai/research/lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md)
+Path: [lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md](file:///../../ai\research\lung-srad-spectral-aware-regularized-audio-dass-with-dual-axis-patch-mix-contras-f807a6.md)

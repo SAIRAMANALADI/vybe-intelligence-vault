@@ -3,7 +3,7 @@ title: "Vibe gets to work."
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/vibe-agent"
-local_vault_path: "ai/companies/mistral/vibe-gets-to-work-e11a89.md"
+local_vault_path: "ai\companies\mistral\vibe-gets-to-work-e11a89.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/vibe-agent
 
 ## Local Vault File
 
-Path: [vibe-gets-to-work-e11a89.md](file:///../../ai/companies/mistral/vibe-gets-to-work-e11a89.md)
+Path: [vibe-gets-to-work-e11a89.md](file:///../../ai\companies\mistral\vibe-gets-to-work-e11a89.md)

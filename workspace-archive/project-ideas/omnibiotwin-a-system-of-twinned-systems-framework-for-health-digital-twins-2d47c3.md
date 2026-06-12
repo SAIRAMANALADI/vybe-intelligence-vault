@@ -3,7 +3,7 @@ title: "OmniBioTwin: A System-of-Twinned-Systems Framework for Health Digital Tw
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11264"
-local_vault_path: "ai/rag/omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md"
+local_vault_path: "ai\rag\omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11264
 
 ## Local Vault File
 
-Path: [omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md](file:///../../ai/rag/omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md)
+Path: [omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md](file:///../../ai\rag\omnibiotwin-a-system-of-twinned-systems-framework-for-health-digital-twins-2d47c3.md)

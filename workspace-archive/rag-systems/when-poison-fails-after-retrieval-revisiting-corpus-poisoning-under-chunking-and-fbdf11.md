@@ -3,7 +3,7 @@ title: "When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chu
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11265"
-local_vault_path: "ai/rag/when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md"
+local_vault_path: "ai\rag\when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md"
 quality_score: 70
 archive_score: 78
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11265
 
 ## Local Vault File
 
-Path: [when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md](file:///../../ai/rag/when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md)
+Path: [when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md](file:///../../ai\rag\when-poison-fails-after-retrieval-revisiting-corpus-poisoning-under-chunking-and-fbdf11.md)

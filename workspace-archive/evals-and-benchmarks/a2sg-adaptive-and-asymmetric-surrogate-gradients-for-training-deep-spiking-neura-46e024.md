@@ -3,7 +3,7 @@ title: "A2SG:Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiki
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11236"
-local_vault_path: "ai/research/a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md"
+local_vault_path: "ai\research\a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11236
 
 ## Local Vault File
 
-Path: [a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md](file:///../../ai/research/a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md)
+Path: [a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md](file:///../../ai\research\a2sg-adaptive-and-asymmetric-surrogate-gradients-for-training-deep-spiking-neura-46e024.md)

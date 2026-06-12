@@ -3,7 +3,7 @@ title: "Time-Series Foundation Model Embeddings for Remaining Useful Life Estima
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11990"
-local_vault_path: "ai/rag/time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md"
+local_vault_path: "ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11990
 
 ## Local Vault File
 
-Path: [time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md](file:///../../ai/rag/time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md)
+Path: [time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md](file:///../../ai\rag\time-series-foundation-model-embeddings-for-remaining-useful-life-estimation-847cd6.md)

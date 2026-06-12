@@ -3,7 +3,7 @@ title: "Top 7 LLM Observability Tools in 2026 - Confident AI"
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://www.confident-ai.com/knowledge-base/compare/top-7-llm-observability-tools"
-local_vault_path: "ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md"
+local_vault_path: "ai\rag\top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://www.confident-ai.com/knowledge-base/compare/top-7-l
 
 ## Local Vault File
 
-Path: [top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md](file:///../../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)
+Path: [top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md](file:///../../ai\rag\top-7-llm-observability-tools-in-2026-confident-ai-0ec480.md)

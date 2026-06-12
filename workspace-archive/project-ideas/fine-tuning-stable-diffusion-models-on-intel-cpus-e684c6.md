@@ -3,7 +3,7 @@ title: "Fine-tuning Stable Diffusion models on Intel CPUs"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/stable-diffusion-finetuning-intel"
-local_vault_path: "ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md"
+local_vault_path: "ai\models\fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-finetuning-int
 
 ## Local Vault File
 
-Path: [fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md](file:///../../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md)
+Path: [fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md](file:///../../ai\models\fine-tuning-stable-diffusion-models-on-intel-cpus-e684c6.md)

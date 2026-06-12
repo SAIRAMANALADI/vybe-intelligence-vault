@@ -3,7 +3,7 @@ title: "anyone-yuren/degital-twin-3d"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/anyone-yuren/degital-twin-3d"
-local_vault_path: "web-development/react-three-fiber/anyone-yuren-degital-twin-3d-c21c78.md"
+local_vault_path: "web-development\react-three-fiber\anyone-yuren-degital-twin-3d-c21c78.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/anyone-yuren/degital-twin-3d
 
 ## Local Vault File
 
-Path: [anyone-yuren-degital-twin-3d-c21c78.md](file:///../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d-c21c78.md)
+Path: [anyone-yuren-degital-twin-3d-c21c78.md](file:///../../web-development\react-three-fiber\anyone-yuren-degital-twin-3d-c21c78.md)

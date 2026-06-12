@@ -3,7 +3,7 @@ title: "AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11533"
-local_vault_path: "ai/research/ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md"
+local_vault_path: "ai\research\ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11533
 
 ## Local Vault File
 
-Path: [ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md](file:///../../ai/research/ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md)
+Path: [ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md](file:///../../ai\research\ai-researchers-must-help-lead-arms-control-to-mitigate-military-ai-risks-e28ce1.md)

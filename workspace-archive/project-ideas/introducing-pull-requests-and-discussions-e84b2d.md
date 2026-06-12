@@ -3,7 +3,7 @@ title: "Introducing Pull Requests and Discussions 🥳"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/community-update"
-local_vault_path: "ai/models/introducing-pull-requests-and-discussions-e84b2d.md"
+local_vault_path: "ai\models\introducing-pull-requests-and-discussions-e84b2d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/community-update
 
 ## Local Vault File
 
-Path: [introducing-pull-requests-and-discussions-e84b2d.md](file:///../../ai/models/introducing-pull-requests-and-discussions-e84b2d.md)
+Path: [introducing-pull-requests-and-discussions-e84b2d.md](file:///../../ai\models\introducing-pull-requests-and-discussions-e84b2d.md)

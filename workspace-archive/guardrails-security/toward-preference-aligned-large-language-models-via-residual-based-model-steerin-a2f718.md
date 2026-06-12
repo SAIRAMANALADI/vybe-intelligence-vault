@@ -3,7 +3,7 @@ title: "Toward Preference-aligned Large Language Models via Residual-based Model
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.23982"
-local_vault_path: "ai/research/toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md"
+local_vault_path: "ai\research\toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2509.23982
 
 ## Local Vault File
 
-Path: [toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md](file:///../../ai/research/toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md)
+Path: [toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md](file:///../../ai\research\toward-preference-aligned-large-language-models-via-residual-based-model-steerin-a2f718.md)

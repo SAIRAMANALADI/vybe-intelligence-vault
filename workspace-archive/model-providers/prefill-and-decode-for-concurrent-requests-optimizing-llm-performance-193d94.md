@@ -3,7 +3,7 @@ title: "Prefill and Decode for Concurrent Requests - Optimizing LLM Performance"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tngtech/llm-performance-prefill-decode-concurrent-requests"
-local_vault_path: "ai/models/prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md"
+local_vault_path: "ai\models\prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-prefill
 
 ## Local Vault File
 
-Path: [prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md](file:///../../ai/models/prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md)
+Path: [prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md](file:///../../ai\models\prefill-and-decode-for-concurrent-requests-optimizing-llm-performance-193d94.md)

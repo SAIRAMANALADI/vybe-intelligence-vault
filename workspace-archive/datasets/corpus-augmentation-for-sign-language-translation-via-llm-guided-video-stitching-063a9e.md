@@ -3,7 +3,7 @@ title: "Corpus Augmentation for Sign Language Translation via LLM-Guided Video S
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11925"
-local_vault_path: "ai/research/corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md"
+local_vault_path: "ai\research\corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md"
 quality_score: 70
 archive_score: 76
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11925
 
 ## Local Vault File
 
-Path: [corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md](file:///../../ai/research/corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md)
+Path: [corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md](file:///../../ai\research\corpus-augmentation-for-sign-language-translation-via-llm-guided-video-stitching-063a9e.md)

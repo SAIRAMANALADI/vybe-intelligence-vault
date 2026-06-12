@@ -3,7 +3,7 @@ title: "lancedb/vectordb-recipes"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://github.com/lancedb/vectordb-recipes"
-local_vault_path: "ai/rag/lancedb-vectordb-recipes-f02963.md"
+local_vault_path: "ai\rag\lancedb-vectordb-recipes-f02963.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://github.com/lancedb/vectordb-recipes
 
 ## Local Vault File
 
-Path: [lancedb-vectordb-recipes-f02963.md](file:///../../ai/rag/lancedb-vectordb-recipes-f02963.md)
+Path: [lancedb-vectordb-recipes-f02963.md](file:///../../ai\rag\lancedb-vectordb-recipes-f02963.md)

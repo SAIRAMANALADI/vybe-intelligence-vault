@@ -3,7 +3,7 @@ title: "Train your ControlNet with diffusers"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/train-your-controlnet"
-local_vault_path: "ai/models/train-your-controlnet-with-diffusers-ece7b0.md"
+local_vault_path: "ai\models\train-your-controlnet-with-diffusers-ece7b0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/train-your-controlnet
 
 ## Local Vault File
 
-Path: [train-your-controlnet-with-diffusers-ece7b0.md](file:///../../ai/models/train-your-controlnet-with-diffusers-ece7b0.md)
+Path: [train-your-controlnet-with-diffusers-ece7b0.md](file:///../../ai\models\train-your-controlnet-with-diffusers-ece7b0.md)

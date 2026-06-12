@@ -3,7 +3,7 @@ title: "AI for Game Development: Creating a Farming Game in 5 Days. Part 1"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/ml-for-games-1"
-local_vault_path: "ai/models/ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md"
+local_vault_path: "ai\models\ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-1
 
 ## Local Vault File
 
-Path: [ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md](file:///../../ai/models/ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md)
+Path: [ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md](file:///../../ai\models\ai-for-game-development-creating-a-farming-game-in-5-days-part-1-6b2368.md)

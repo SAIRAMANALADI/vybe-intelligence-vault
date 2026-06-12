@@ -3,7 +3,7 @@ title: "Forecasting Future Behavior as a Learning Task"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11445"
-local_vault_path: "ai/research/forecasting-future-behavior-as-a-learning-task-2446fe.md"
+local_vault_path: "ai\research\forecasting-future-behavior-as-a-learning-task-2446fe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11445
 
 ## Local Vault File
 
-Path: [forecasting-future-behavior-as-a-learning-task-2446fe.md](file:///../../ai/research/forecasting-future-behavior-as-a-learning-task-2446fe.md)
+Path: [forecasting-future-behavior-as-a-learning-task-2446fe.md](file:///../../ai\research\forecasting-future-behavior-as-a-learning-task-2446fe.md)

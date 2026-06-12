@@ -3,7 +3,7 @@ title: "GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11562"
-local_vault_path: "ai/rag/graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md"
+local_vault_path: "ai\rag\graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11562
 
 ## Local Vault File
 
-Path: [graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md](file:///../../ai/rag/graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md)
+Path: [graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md](file:///../../ai\rag\graphinfer-bench-benchmarking-llm-s-inference-capability-on-graphs-1864a4.md)

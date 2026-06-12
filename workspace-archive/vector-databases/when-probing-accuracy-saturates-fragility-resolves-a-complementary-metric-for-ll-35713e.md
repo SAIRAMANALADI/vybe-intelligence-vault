@@ -3,7 +3,7 @@ title: "When Probing Accuracy Saturates, Fragility Resolves: A Complementary Met
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11375"
-local_vault_path: "ai/rag/when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md"
+local_vault_path: "ai\rag\when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11375
 
 ## Local Vault File
 
-Path: [when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md](file:///../../ai/rag/when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md)
+Path: [when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md](file:///../../ai\rag\when-probing-accuracy-saturates-fragility-resolves-a-complementary-metric-for-ll-35713e.md)

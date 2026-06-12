@@ -3,7 +3,7 @@ title: "pmndrs/uikit"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/pmndrs/uikit"
-local_vault_path: "web-development/react-three-fiber/pmndrs-uikit-313dba.md"
+local_vault_path: "web-development\react-three-fiber\pmndrs-uikit-313dba.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/pmndrs/uikit
 
 ## Local Vault File
 
-Path: [pmndrs-uikit-313dba.md](file:///../../web-development/react-three-fiber/pmndrs-uikit-313dba.md)
+Path: [pmndrs-uikit-313dba.md](file:///../../web-development\react-three-fiber\pmndrs-uikit-313dba.md)

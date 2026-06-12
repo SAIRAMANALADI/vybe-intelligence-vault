@@ -3,7 +3,7 @@ title: "LightRAG"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://lightrag.github.io"
-local_vault_path: "ai/rag/lightrag-65e88f.md"
+local_vault_path: "ai\rag\lightrag-65e88f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://lightrag.github.io
 
 ## Local Vault File
 
-Path: [lightrag-65e88f.md](file:///../../ai/rag/lightrag-65e88f.md)
+Path: [lightrag-65e88f.md](file:///../../ai\rag\lightrag-65e88f.md)

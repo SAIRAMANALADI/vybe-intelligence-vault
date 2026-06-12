@@ -3,7 +3,7 @@ title: "NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/multilingual-reasoning-v1"
-local_vault_path: "ai/models/nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md"
+local_vault_path: "ai\models\nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/multilingual-reasoning-v
 
 ## Local Vault File
 
-Path: [nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md](file:///../../ai/models/nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md)
+Path: [nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md](file:///../../ai\models\nvidia-releases-6-million-multi-lingual-reasoning-dataset-81cf75.md)

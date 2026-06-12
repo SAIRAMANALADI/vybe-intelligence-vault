@@ -3,7 +3,7 @@ title: "Building Effective AI Agents \ Anthropic"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://www.anthropic.com/research/building-effective-agents"
-local_vault_path: "ai/rag/building-effective-ai-agents-anthropic-d4f17e.md"
+local_vault_path: "ai\rag\building-effective-ai-agents-anthropic-d4f17e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://www.anthropic.com/research/building-effective-agent
 
 ## Local Vault File
 
-Path: [building-effective-ai-agents-anthropic-d4f17e.md](file:///../../ai/rag/building-effective-ai-agents-anthropic-d4f17e.md)
+Path: [building-effective-ai-agents-anthropic-d4f17e.md](file:///../../ai\rag\building-effective-ai-agents-anthropic-d4f17e.md)

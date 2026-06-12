@@ -3,7 +3,7 @@ title: "The Complete Guide to RAG: Building Retrieval-Augmented Generation Syste
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://nerdleveltech.com/guides/rag-systems"
-local_vault_path: "ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md"
+local_vault_path: "ai\rag\the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md"
 quality_score: 70
 archive_score: 84
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://nerdleveltech.com/guides/rag-systems
 
 ## Local Vault File
 
-Path: [the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md)
+Path: [the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md](file:///../../ai\rag\the-complete-guide-to-rag-building-retrieval-augmented-generation-systems-2026-n-2441f3.md)

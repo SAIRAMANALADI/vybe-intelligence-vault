@@ -3,7 +3,7 @@ title: "mergisi/awesome-openclaw-agents"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/mergisi/awesome-openclaw-agents"
-local_vault_path: "ai/agents/mergisi-awesome-openclaw-agents-ea577d.md"
+local_vault_path: "ai\agents\mergisi-awesome-openclaw-agents-ea577d.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "essential"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/mergisi/awesome-openclaw-agents
 
 ## Local Vault File
 
-Path: [mergisi-awesome-openclaw-agents-ea577d.md](file:///../../ai/agents/mergisi-awesome-openclaw-agents-ea577d.md)
+Path: [mergisi-awesome-openclaw-agents-ea577d.md](file:///../../ai\agents\mergisi-awesome-openclaw-agents-ea577d.md)

@@ -3,7 +3,7 @@ title: "Cybersecurity researchers aren't happy about the guardrails on Anthropic
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/"
-local_vault_path: "ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md"
+local_vault_path: "ai\community\cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://techcrunch.com/2026/06/10/cybersecurity-researchers
 
 ## Local Vault File
 
-Path: [cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md](file:///../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)
+Path: [cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md](file:///../../ai\community\cybersecurity-researchers-aren-t-happy-about-the-guardrails-on-anthropic-s-fable-778e7a.md)

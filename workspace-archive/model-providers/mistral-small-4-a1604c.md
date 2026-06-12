@@ -3,7 +3,7 @@ title: "Mistral Small 4"
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/mistral-small-4"
-local_vault_path: "ai/companies/mistral/mistral-small-4-a1604c.md"
+local_vault_path: "ai\companies\mistral\mistral-small-4-a1604c.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/mistral-small-4
 
 ## Local Vault File
 
-Path: [mistral-small-4-a1604c.md](file:///../../ai/companies/mistral/mistral-small-4-a1604c.md)
+Path: [mistral-small-4-a1604c.md](file:///../../ai\companies\mistral\mistral-small-4-a1604c.md)

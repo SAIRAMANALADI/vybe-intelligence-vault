@@ -3,7 +3,7 @@ title: "Litespark Inference For CPUs: Ultra-Fast SIMD Framework for Ternary (1.5
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.06485"
-local_vault_path: "ai/research/litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md"
+local_vault_path: "ai\research\litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.06485
 
 ## Local Vault File
 
-Path: [litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md](file:///../../ai/research/litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md)
+Path: [litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md](file:///../../ai\research\litespark-inference-for-cpus-ultra-fast-simd-framework-for-ternary-1-58-bit-lang-1181d7.md)

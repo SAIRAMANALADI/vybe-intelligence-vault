@@ -3,7 +3,7 @@ title: "Arm will be @ PyTorch Conference, Join Us!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Arm/arm-at-pytorch-conference"
-local_vault_path: "ai/models/arm-will-be-pytorch-conference-join-us-9edbde.md"
+local_vault_path: "ai\models\arm-will-be-pytorch-conference-join-us-9edbde.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Arm/arm-at-pytorch-conference
 
 ## Local Vault File
 
-Path: [arm-will-be-pytorch-conference-join-us-9edbde.md](file:///../../ai/models/arm-will-be-pytorch-conference-join-us-9edbde.md)
+Path: [arm-will-be-pytorch-conference-join-us-9edbde.md](file:///../../ai\models\arm-will-be-pytorch-conference-join-us-9edbde.md)

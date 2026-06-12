@@ -3,7 +3,7 @@ title: "Neural FOXP2 -- Language Specific Neuron Steering for Targeted Language 
 archive_category: "observability"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.00945"
-local_vault_path: "ai/research/neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md"
+local_vault_path: "ai\research\neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2602.00945
 
 ## Local Vault File
 
-Path: [neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md](file:///../../ai/research/neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md)
+Path: [neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md](file:///../../ai\research\neural-foxp2-language-specific-neuron-steering-for-targeted-language-improvement-4625d9.md)

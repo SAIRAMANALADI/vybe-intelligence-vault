@@ -3,7 +3,7 @@ title: "MedCTA: A Benchmark for Clinical Tool Agents"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11702"
-local_vault_path: "ai/agents/medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md"
+local_vault_path: "ai\agents\medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11702
 
 ## Local Vault File
 
-Path: [medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md](file:///../../ai/agents/medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md)
+Path: [medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md](file:///../../ai\agents\medcta-a-benchmark-for-clinical-tool-agents-e3c4df.md)

@@ -3,7 +3,7 @@ title: "On Regret Bounds of Thompson Sampling for Bayesian Optimization"
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2603.09276"
-local_vault_path: "ai/research/on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md"
+local_vault_path: "ai\research\on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.09276
 
 ## Local Vault File
 
-Path: [on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md](file:///../../ai/research/on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md)
+Path: [on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md](file:///../../ai\research\on-regret-bounds-of-thompson-sampling-for-bayesian-optimization-221e07.md)

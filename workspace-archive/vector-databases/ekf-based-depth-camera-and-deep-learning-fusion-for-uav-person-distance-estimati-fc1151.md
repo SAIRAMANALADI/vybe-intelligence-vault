@@ -3,7 +3,7 @@ title: "EKF-Based Depth Camera and Deep Learning Fusion for UAV-Person Distance 
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.20958"
-local_vault_path: "ai/rag/ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md"
+local_vault_path: "ai\rag\ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.20958
 
 ## Local Vault File
 
-Path: [ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md](file:///../../ai/rag/ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md)
+Path: [ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md](file:///../../ai\rag\ekf-based-depth-camera-and-deep-learning-fusion-for-uav-person-distance-estimati-fc1151.md)

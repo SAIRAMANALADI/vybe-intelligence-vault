@@ -3,7 +3,7 @@ title: "ProHiFlo: Hierarchical Flow Matching with Functional Guidance for De Nov
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11243"
-local_vault_path: "ai/rag/prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md"
+local_vault_path: "ai\rag\prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11243
 
 ## Local Vault File
 
-Path: [prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md](file:///../../ai/rag/prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md)
+Path: [prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md](file:///../../ai\rag\prohiflo-hierarchical-flow-matching-with-functional-guidance-for-de-novo-protein-28d805.md)

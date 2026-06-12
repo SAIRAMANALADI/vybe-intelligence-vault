@@ -3,7 +3,7 @@ title: "WorldReasoner: Evaluating Whether Language Model Agents Forecast Events 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11816"
-local_vault_path: "ai/agents/worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md"
+local_vault_path: "ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11816
 
 ## Local Vault File
 
-Path: [worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md](file:///../../ai/agents/worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md)
+Path: [worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md](file:///../../ai\agents\worldreasoner-evaluating-whether-language-model-agents-forecast-events-with-vali-80d775.md)

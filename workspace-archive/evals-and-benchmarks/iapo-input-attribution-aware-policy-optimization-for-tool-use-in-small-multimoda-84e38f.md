@@ -3,7 +3,7 @@ title: "IAPO: Input Attribution-Aware Policy Optimization for Tool Use in Small 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11652"
-local_vault_path: "ai/rag/iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md"
+local_vault_path: "ai\rag\iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11652
 
 ## Local Vault File
 
-Path: [iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md](file:///../../ai/rag/iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md)
+Path: [iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md](file:///../../ai\rag\iapo-input-attribution-aware-policy-optimization-for-tool-use-in-small-multimoda-84e38f.md)

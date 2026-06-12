@@ -3,7 +3,7 @@ title: "mmBERT: ModernBERT goes Multilingual"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mmbert"
-local_vault_path: "ai/models/mmbert-modernbert-goes-multilingual-03f3c0.md"
+local_vault_path: "ai\models\mmbert-modernbert-goes-multilingual-03f3c0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [mmbert-modernbert-goes-multilingual-03f3c0.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual-03f3c0.md)
+Path: [mmbert-modernbert-goes-multilingual-03f3c0.md](file:///../../ai\models\mmbert-modernbert-goes-multilingual-03f3c0.md)

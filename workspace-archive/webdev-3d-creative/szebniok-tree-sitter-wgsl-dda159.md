@@ -3,7 +3,7 @@ title: "szebniok/tree-sitter-wgsl"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/szebniok/tree-sitter-wgsl"
-local_vault_path: "web-development/webgpu/szebniok-tree-sitter-wgsl-dda159.md"
+local_vault_path: "web-development\webgpu\szebniok-tree-sitter-wgsl-dda159.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/szebniok/tree-sitter-wgsl
 
 ## Local Vault File
 
-Path: [szebniok-tree-sitter-wgsl-dda159.md](file:///../../web-development/webgpu/szebniok-tree-sitter-wgsl-dda159.md)
+Path: [szebniok-tree-sitter-wgsl-dda159.md](file:///../../web-development\webgpu\szebniok-tree-sitter-wgsl-dda159.md)

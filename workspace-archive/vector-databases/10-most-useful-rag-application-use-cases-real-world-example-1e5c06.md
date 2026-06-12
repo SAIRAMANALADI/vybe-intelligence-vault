@@ -3,7 +3,7 @@ title: "10 Most Useful RAG Application & Use Cases [Real World Example]"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://botpenguin.com/blogs/most-useful-rag-application-and-use-cases"
-local_vault_path: "ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md"
+local_vault_path: "ai\rag\10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://botpenguin.com/blogs/most-useful-rag-application-an
 
 ## Local Vault File
 
-Path: [10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md](file:///../../ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md)
+Path: [10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md](file:///../../ai\rag\10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md)

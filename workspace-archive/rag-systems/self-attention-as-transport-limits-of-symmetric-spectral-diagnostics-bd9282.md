@@ -3,7 +3,7 @@ title: "Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.04893"
-local_vault_path: "ai/research/self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md"
+local_vault_path: "ai\research\self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.04893
 
 ## Local Vault File
 
-Path: [self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md](file:///../../ai/research/self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md)
+Path: [self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md](file:///../../ai\research\self-attention-as-transport-limits-of-symmetric-spectral-diagnostics-bd9282.md)

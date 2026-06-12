@@ -3,7 +3,7 @@ title: "MARIC: Multi-Agent Reasoning for Image Classification"
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2509.14860"
-local_vault_path: "ai/rag/maric-multi-agent-reasoning-for-image-classification-67fbad.md"
+local_vault_path: "ai\rag\maric-multi-agent-reasoning-for-image-classification-67fbad.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2509.14860
 
 ## Local Vault File
 
-Path: [maric-multi-agent-reasoning-for-image-classification-67fbad.md](file:///../../ai/rag/maric-multi-agent-reasoning-for-image-classification-67fbad.md)
+Path: [maric-multi-agent-reasoning-for-image-classification-67fbad.md](file:///../../ai\rag\maric-multi-agent-reasoning-for-image-classification-67fbad.md)

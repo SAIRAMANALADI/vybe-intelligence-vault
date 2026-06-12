@@ -3,7 +3,7 @@ title: "StackLLaMA: A hands-on guide to train LLaMA with RLHF"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/stackllama"
-local_vault_path: "ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md"
+local_vault_path: "ai\models\stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/stackllama
 
 ## Local Vault File
 
-Path: [stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md](file:///../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md)
+Path: [stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md](file:///../../ai\models\stackllama-a-hands-on-guide-to-train-llama-with-rlhf-bb663d.md)

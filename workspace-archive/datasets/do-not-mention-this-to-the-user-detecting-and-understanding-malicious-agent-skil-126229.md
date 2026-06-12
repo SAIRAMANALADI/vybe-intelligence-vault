@@ -3,7 +3,7 @@ title: "\"Do Not Mention This to the User\": Detecting and Understanding Malicio
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.06547"
-local_vault_path: "ai/rag/do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md"
+local_vault_path: "ai\rag\do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2602.06547
 
 ## Local Vault File
 
-Path: [do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md](file:///../../ai/rag/do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md)
+Path: [do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md](file:///../../ai\rag\do-not-mention-this-to-the-user-detecting-and-understanding-malicious-agent-skil-126229.md)

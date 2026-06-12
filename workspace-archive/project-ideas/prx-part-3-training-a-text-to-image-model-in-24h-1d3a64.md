@@ -3,7 +3,7 @@ title: "PRX Part 3 — Training a Text-to-Image Model in 24h!"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Photoroom/prx-part3"
-local_vault_path: "ai/models/prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md"
+local_vault_path: "ai\models\prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Photoroom/prx-part3
 
 ## Local Vault File
 
-Path: [prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md](file:///../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md)
+Path: [prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md](file:///../../ai\models\prx-part-3-training-a-text-to-image-model-in-24h-1d3a64.md)

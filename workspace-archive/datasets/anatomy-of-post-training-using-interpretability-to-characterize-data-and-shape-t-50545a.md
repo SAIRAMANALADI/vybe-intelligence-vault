@@ -3,7 +3,7 @@ title: "Anatomy of Post-Training: Using Interpretability to Characterize Data an
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12360"
-local_vault_path: "ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
+local_vault_path: "ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12360
 
 ## Local Vault File
 
-Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai/research/anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)
+Path: [anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md](file:///../../ai\research\anatomy-of-post-training-using-interpretability-to-characterize-data-and-shape-t-50545a.md)

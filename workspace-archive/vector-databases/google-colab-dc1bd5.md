@@ -3,7 +3,7 @@ title: "Google Colab"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb"
-local_vault_path: "ai/rag/google-colab-dc1bd5.md"
+local_vault_path: "ai\rag\google-colab-dc1bd5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://colab.research.google.com/github/mrdbourke/simple-l
 
 ## Local Vault File
 
-Path: [google-colab-dc1bd5.md](file:///../../ai/rag/google-colab-dc1bd5.md)
+Path: [google-colab-dc1bd5.md](file:///../../ai\rag\google-colab-dc1bd5.md)

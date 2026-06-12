@@ -3,7 +3,7 @@ title: "datawhalechina/wow-rag"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/wow-rag"
-local_vault_path: "ai/rag/datawhalechina-wow-rag-15a159.md"
+local_vault_path: "ai\rag\datawhalechina-wow-rag-15a159.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/datawhalechina/wow-rag
 
 ## Local Vault File
 
-Path: [datawhalechina-wow-rag-15a159.md](file:///../../ai/rag/datawhalechina-wow-rag-15a159.md)
+Path: [datawhalechina-wow-rag-15a159.md](file:///../../ai\rag\datawhalechina-wow-rag-15a159.md)

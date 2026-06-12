@@ -3,7 +3,7 @@ title: "OpenAI Prepping for On-Prem Product?"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/"
-local_vault_path: "ai/community/openai-prepping-for-on-prem-product-670828.md"
+local_vault_path: "ai\community\openai-prepping-for-on-prem-product-670828.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-fo
 
 ## Local Vault File
 
-Path: [openai-prepping-for-on-prem-product-670828.md](file:///../../ai/community/openai-prepping-for-on-prem-product-670828.md)
+Path: [openai-prepping-for-on-prem-product-670828.md](file:///../../ai\community\openai-prepping-for-on-prem-product-670828.md)

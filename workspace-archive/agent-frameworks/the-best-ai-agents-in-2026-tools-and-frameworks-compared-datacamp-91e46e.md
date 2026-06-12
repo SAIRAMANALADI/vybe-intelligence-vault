@@ -3,7 +3,7 @@ title: "The Best AI Agents in 2026: Tools and Frameworks Compared | DataCamp"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://www.datacamp.com/blog/best-ai-agents"
-local_vault_path: "ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md"
+local_vault_path: "ai\agents\the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://www.datacamp.com/blog/best-ai-agents
 
 ## Local Vault File
 
-Path: [the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md](file:///../../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md)
+Path: [the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md](file:///../../ai\agents\the-best-ai-agents-in-2026-tools-and-frameworks-compared-datacamp-91e46e.md)

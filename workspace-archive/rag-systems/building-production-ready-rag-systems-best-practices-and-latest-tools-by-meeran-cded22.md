@@ -3,7 +3,7 @@ title: "Building Production-Ready RAG Systems: Best Practices and Latest Tools |
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7"
-local_vault_path: "ai/rag/building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md"
+local_vault_path: "ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://medium.com/@meeran03/building-production-ready-rag-
 
 ## Local Vault File
 
-Path: [building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md](file:///../../ai/rag/building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)
+Path: [building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md](file:///../../ai\rag\building-production-ready-rag-systems-best-practices-and-latest-tools-by-meeran-cded22.md)

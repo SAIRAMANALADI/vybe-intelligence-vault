@@ -3,7 +3,7 @@ title: "MSUE: Multi-Modal Soccer Understanding Expert"
 archive_category: "model-providers"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12106"
-local_vault_path: "ai/research/msue-multi-modal-soccer-understanding-expert-2638fc.md"
+local_vault_path: "ai\research\msue-multi-modal-soccer-understanding-expert-2638fc.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12106
 
 ## Local Vault File
 
-Path: [msue-multi-modal-soccer-understanding-expert-2638fc.md](file:///../../ai/research/msue-multi-modal-soccer-understanding-expert-2638fc.md)
+Path: [msue-multi-modal-soccer-understanding-expert-2638fc.md](file:///../../ai\research\msue-multi-modal-soccer-understanding-expert-2638fc.md)

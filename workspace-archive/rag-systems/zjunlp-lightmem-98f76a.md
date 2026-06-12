@@ -3,7 +3,7 @@ title: "zjunlp/LightMem"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://github.com/zjunlp/LightMem"
-local_vault_path: "ai/rag/zjunlp-lightmem-98f76a.md"
+local_vault_path: "ai\rag\zjunlp-lightmem-98f76a.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/zjunlp/LightMem
 
 ## Local Vault File
 
-Path: [zjunlp-lightmem-98f76a.md](file:///../../ai/rag/zjunlp-lightmem-98f76a.md)
+Path: [zjunlp-lightmem-98f76a.md](file:///../../ai\rag\zjunlp-lightmem-98f76a.md)

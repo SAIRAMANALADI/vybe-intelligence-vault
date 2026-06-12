@@ -3,7 +3,7 @@ title: "Migrating Your GitHub CI to Hugging Face Jobs"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/github-ci-hf-jobs"
-local_vault_path: "ai/models/migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md"
+local_vault_path: "ai\models\migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md](file:///../../ai/models/migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md)
+Path: [migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md](file:///../../ai\models\migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md)

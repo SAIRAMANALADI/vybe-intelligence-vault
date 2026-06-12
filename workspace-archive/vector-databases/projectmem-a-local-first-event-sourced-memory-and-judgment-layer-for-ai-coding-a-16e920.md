@@ -3,7 +3,7 @@ title: "PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for A
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12329"
-local_vault_path: "ai/rag/projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md"
+local_vault_path: "ai\rag\projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.12329
 
 ## Local Vault File
 
-Path: [projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md](file:///../../ai/rag/projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md)
+Path: [projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md](file:///../../ai\rag\projectmem-a-local-first-event-sourced-memory-and-judgment-layer-for-ai-coding-a-16e920.md)

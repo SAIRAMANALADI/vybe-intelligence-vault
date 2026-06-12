@@ -3,7 +3,7 @@ title: "Spatially Masked Regression Reveals Local and Distributed Predictability
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11415"
-local_vault_path: "ai/rag/spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md"
+local_vault_path: "ai\rag\spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11415
 
 ## Local Vault File
 
-Path: [spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md](file:///../../ai/rag/spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md)
+Path: [spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md](file:///../../ai\rag\spatially-masked-regression-reveals-local-and-distributed-predictability-in-elec-923c9c.md)

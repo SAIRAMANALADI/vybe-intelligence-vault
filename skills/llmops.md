@@ -19,42 +19,52 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 79 resources matched in the intelligence vault.
+Active signals: 78 resources matched in the intelligence vault.
 Recently detected signals:
-- [TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md) (Source: arXiv Machine Learning) - Collected 2026-06-11
-- [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) (Source: GitHub Discovery) - Collected 2026-06-11
+- [TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](../ai/research/taskfusion-continual-anomaly-detection-for-heterogeneous-tabular-data-21bc1e.md) (Source: Unknown Source) - Collected 2026-06-11
+- [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) (Source: Unknown Source) - Collected 2026-06-11
+- [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) (Source: Unknown Source) - Collected 2026-06-11
+- [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) (Source: Unknown Source) - Collected 2026-06-11
+- [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) (Source: Unknown Source) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
 ### 1. [brandonhimpfen/awesome-llmops](../ai/resources/brandonhimpfen-awesome-llmops-8b4f25.md) ([GitHub](https://github.com/brandonhimpfen/awesome-llmops))
-- Stars: 16
-- Language: Python
+- Stars: 0
+- Language: Unknown
 - Description: A curated list of tools, frameworks, platforms, and resources for Large Language Model Operations (LLMOps).
 
-### 2. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
-- Stars: 960
-- Language: Jupyter Notebook
+### 2. [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops-c723f0.md) ([GitHub](https://github.com/tensorchord/awesome-llmops))
+- Stars: 0
+- Language: Unknown
+- Description: An awesome & curated list of best LLMOps tools for developers
+
+### 3. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes-f02963.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+- Stars: 0
+- Language: Unknown
 - Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 
-### 3. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
-- Stars: 13
-- Language: Python
+### 4. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+- Stars: 0
+- Language: Unknown
+- Description: No description provided.
+
+### 5. [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape-95f0b2.md) ([GitHub](https://github.com/dyronrh/awesome-agentops-landscape))
+- Stars: 0
+- Language: Unknown
 - Description: A curated list of the best AgentOps tools for 2026 — observability, tracing, evaluation, cost monitoring, and guardrails for LLM agents. Covering open-source and SaaS tools with feature benchmarks ...
 
-### 4. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
-- Stars: 821
-- Language: Python
+### 6. [Haohao-end/openagent](../ai/agents/haohao-end-openagent-402239.md) ([GitHub](https://github.com/Haohao-end/openagent))
+- Stars: 0
+- Language: Unknown
 - Description: AI Agent Development Platform - Supports multiple models (OpenAI/DeepSeek/Wenxin/Tongyi), knowledge base management, workflow automation, and enterprise-grade security. Built with Flask + Vue3 + La...
 
-### 5. [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark-8237bb.md) ([GitHub](https://github.com/phoenix0706/langgraph-agent-gaia-benchmark))
+### 7. [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets-1de1c1.md) ([GitHub](https://github.com/glgh/awesome-llm-human-preference-datasets))
 - Stars: 0
-- Language: Jupyter Notebook
-- Description: No description provided.
+- Language: Unknown
+- Description: A curated list of Human Preference Datasets for LLM fine-tuning, RLHF, and eval.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -76,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T23:01:28.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T04:38:13.496346+00:00.563871+00:00.737506+00:00.899215+00:00.612142+00:00.770750+00:00.526983+00:00.

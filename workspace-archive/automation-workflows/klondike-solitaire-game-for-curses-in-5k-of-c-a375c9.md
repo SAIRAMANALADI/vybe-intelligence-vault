@@ -3,7 +3,7 @@ title: "Klondike Solitaire game for curses in 5k of C"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://nanochess.org/klondike_in_c.html"
-local_vault_path: "ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md"
+local_vault_path: "ai\community\klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://nanochess.org/klondike_in_c.html
 
 ## Local Vault File
 
-Path: [klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md](file:///../../ai/community/klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md)
+Path: [klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md](file:///../../ai\community\klondike-solitaire-game-for-curses-in-5k-of-c-a375c9.md)

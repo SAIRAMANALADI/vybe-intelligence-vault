@@ -3,7 +3,7 @@ title: "Adding Benchmaxxer Repellant to the Open ASR Leaderboard"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-asr-leaderboard-private-data"
-local_vault_path: "ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md"
+local_vault_path: "ai\models\adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/open-asr-leaderboard-private-da
 
 ## Local Vault File
 
-Path: [adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md](file:///../../ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md)
+Path: [adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md](file:///../../ai\models\adding-benchmaxxer-repellant-to-the-open-asr-leaderboard-6491f8.md)

@@ -3,7 +3,7 @@ title: "Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhanci
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sovereign-data-solution-case-study"
-local_vault_path: "ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md"
+local_vault_path: "ai\models\banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sovereign-data-solution-case-st
 
 ## Local Vault File
 
-Path: [banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md](file:///../../ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md)
+Path: [banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md](file:///../../ai\models\banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md)

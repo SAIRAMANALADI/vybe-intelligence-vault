@@ -3,7 +3,7 @@ title: "Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic ta
 archive_category: "automation-workflows"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11042"
-local_vault_path: "ai/agents/workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md"
+local_vault_path: "ai\agents\workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11042
 
 ## Local Vault File
 
-Path: [workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md](file:///../../ai/agents/workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md)
+Path: [workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md](file:///../../ai\agents\workflow-gym-towards-long-horizon-evaluation-of-computer-use-agentic-tasks-in-re-afa0b0.md)

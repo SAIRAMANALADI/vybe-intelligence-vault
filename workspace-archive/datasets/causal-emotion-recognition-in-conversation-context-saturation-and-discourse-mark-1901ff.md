@@ -3,7 +3,7 @@ title: "Causal Emotion Recognition in Conversation: Context Saturation and Disco
 archive_category: "datasets"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.00181"
-local_vault_path: "ai/rag/causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md"
+local_vault_path: "ai\rag\causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2601.00181
 
 ## Local Vault File
 
-Path: [causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md](file:///../../ai/rag/causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md)
+Path: [causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md](file:///../../ai\rag\causal-emotion-recognition-in-conversation-context-saturation-and-discourse-mark-1901ff.md)

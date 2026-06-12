@@ -3,7 +3,7 @@ title: "StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sc2-instruct"
-local_vault_path: "ai/models/starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md"
+local_vault_path: "ai\models\starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sc2-instruct
 
 ## Local Vault File
 
-Path: [starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md](file:///../../ai/models/starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md)
+Path: [starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md](file:///../../ai\models\starcoder2-instruct-fully-transparent-and-permissive-self-alignment-for-code-gen-90a4e3.md)

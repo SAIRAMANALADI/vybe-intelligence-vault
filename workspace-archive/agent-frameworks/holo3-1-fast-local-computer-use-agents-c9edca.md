@@ -3,7 +3,7 @@ title: "Holo3.1: Fast & Local Computer Use Agents"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/Hcompany/holo31"
-local_vault_path: "ai/agents/holo3-1-fast-local-computer-use-agents-c9edca.md"
+local_vault_path: "ai\agents\holo3-1-fast-local-computer-use-agents-c9edca.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Hcompany/holo31
 
 ## Local Vault File
 
-Path: [holo3-1-fast-local-computer-use-agents-c9edca.md](file:///../../ai/agents/holo3-1-fast-local-computer-use-agents-c9edca.md)
+Path: [holo3-1-fast-local-computer-use-agents-c9edca.md](file:///../../ai\agents\holo3-1-fast-local-computer-use-agents-c9edca.md)

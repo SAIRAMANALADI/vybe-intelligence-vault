@@ -3,7 +3,7 @@ title: "READER: Robust Evidence-based Authorship Decoding via Extracted Represen
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.10794"
-local_vault_path: "ai/rag/reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md"
+local_vault_path: "ai\rag\reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.10794
 
 ## Local Vault File
 
-Path: [reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md](file:///../../ai/rag/reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md)
+Path: [reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md](file:///../../ai\rag\reader-robust-evidence-based-authorship-decoding-via-extracted-representations-62e18d.md)

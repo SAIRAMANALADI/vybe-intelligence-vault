@@ -3,7 +3,7 @@ title: "Instruction-tuning Stable Diffusion with InstructPix2Pix"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/instruction-tuning-sd"
-local_vault_path: "ai/models/instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md"
+local_vault_path: "ai\models\instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/instruction-tuning-sd
 
 ## Local Vault File
 
-Path: [instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md](file:///../../ai/models/instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md)
+Path: [instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md](file:///../../ai\models\instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md)

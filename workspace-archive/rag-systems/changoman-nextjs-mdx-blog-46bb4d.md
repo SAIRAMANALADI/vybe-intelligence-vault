@@ -3,7 +3,7 @@ title: "ChangoMan/nextjs-mdx-blog"
 archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/ChangoMan/nextjs-mdx-blog"
-local_vault_path: "web-development/nextjs/changoman-nextjs-mdx-blog-46bb4d.md"
+local_vault_path: "web-development\nextjs\changoman-nextjs-mdx-blog-46bb4d.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/ChangoMan/nextjs-mdx-blog
 
 ## Local Vault File
 
-Path: [changoman-nextjs-mdx-blog-46bb4d.md](file:///../../web-development/nextjs/changoman-nextjs-mdx-blog-46bb4d.md)
+Path: [changoman-nextjs-mdx-blog-46bb4d.md](file:///../../web-development\nextjs\changoman-nextjs-mdx-blog-46bb4d.md)

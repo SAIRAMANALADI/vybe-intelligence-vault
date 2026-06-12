@@ -3,7 +3,7 @@ title: "Open R1: Update #4"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/open-r1/update-4"
-local_vault_path: "ai/models/open-r1-update-4-a89a2c.md"
+local_vault_path: "ai\models\open-r1-update-4-a89a2c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/open-r1/update-4
 
 ## Local Vault File
 
-Path: [open-r1-update-4-a89a2c.md](file:///../../ai/models/open-r1-update-4-a89a2c.md)
+Path: [open-r1-update-4-a89a2c.md](file:///../../ai\models\open-r1-update-4-a89a2c.md)

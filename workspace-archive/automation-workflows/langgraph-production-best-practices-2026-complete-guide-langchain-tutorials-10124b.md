@@ -3,7 +3,7 @@ title: "LangGraph Production Best Practices 2026: Complete Guide | LangChain Tut
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://langchain-tutorials.github.io/langgraph-production-best-practices-2026"
-local_vault_path: "ai/rag/langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md"
+local_vault_path: "ai\rag\langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://langchain-tutorials.github.io/langgraph-production-
 
 ## Local Vault File
 
-Path: [langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md](file:///../../ai/rag/langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md)
+Path: [langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md](file:///../../ai\rag\langgraph-production-best-practices-2026-complete-guide-langchain-tutorials-10124b.md)

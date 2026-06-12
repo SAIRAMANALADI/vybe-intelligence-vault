@@ -3,7 +3,7 @@ title: "RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide"
-local_vault_path: "ai/rag/rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md"
+local_vault_path: "ai\rag\rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://lushbinary.com/blog/rag-retrieval-augmented-generat
 
 ## Local Vault File
 
-Path: [rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md](file:///../../ai/rag/rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md)
+Path: [rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md](file:///../../ai\rag\rag-production-guide-2026-retrieval-augmented-generation-lushbinary-7b8767.md)

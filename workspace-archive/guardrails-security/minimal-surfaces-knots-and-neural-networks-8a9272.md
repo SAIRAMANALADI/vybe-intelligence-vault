@@ -3,7 +3,7 @@ title: "Minimal surfaces, Knots, and Neural Networks"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.26234"
-local_vault_path: "ai/research/minimal-surfaces-knots-and-neural-networks-8a9272.md"
+local_vault_path: "ai\research\minimal-surfaces-knots-and-neural-networks-8a9272.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.26234
 
 ## Local Vault File
 
-Path: [minimal-surfaces-knots-and-neural-networks-8a9272.md](file:///../../ai/research/minimal-surfaces-knots-and-neural-networks-8a9272.md)
+Path: [minimal-surfaces-knots-and-neural-networks-8a9272.md](file:///../../ai\research\minimal-surfaces-knots-and-neural-networks-8a9272.md)

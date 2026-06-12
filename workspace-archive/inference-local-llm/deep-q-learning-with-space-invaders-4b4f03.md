@@ -3,7 +3,7 @@ title: "Deep Q-Learning with Space Invaders"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deep-rl-dqn"
-local_vault_path: "ai/models/deep-q-learning-with-space-invaders-4b4f03.md"
+local_vault_path: "ai\models\deep-q-learning-with-space-invaders-4b4f03.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-dqn
 
 ## Local Vault File
 
-Path: [deep-q-learning-with-space-invaders-4b4f03.md](file:///../../ai/models/deep-q-learning-with-space-invaders-4b4f03.md)
+Path: [deep-q-learning-with-space-invaders-4b4f03.md](file:///../../ai\models\deep-q-learning-with-space-invaders-4b4f03.md)

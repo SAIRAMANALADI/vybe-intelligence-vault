@@ -3,7 +3,7 @@ title: "Mind the Perspective: Let's Reason Recursively for Theory of Mind"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11724"
-local_vault_path: "ai/agents/mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md"
+local_vault_path: "ai\agents\mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11724
 
 ## Local Vault File
 
-Path: [mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md](file:///../../ai/agents/mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md)
+Path: [mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md](file:///../../ai\agents\mind-the-perspective-let-s-reason-recursively-for-theory-of-mind-ceeb14.md)

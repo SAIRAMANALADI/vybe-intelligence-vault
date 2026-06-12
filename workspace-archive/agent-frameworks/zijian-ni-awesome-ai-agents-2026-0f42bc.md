@@ -3,7 +3,7 @@ title: "Zijian-Ni/awesome-ai-agents-2026"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/Zijian-Ni/awesome-ai-agents-2026"
-local_vault_path: "ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md"
+local_vault_path: "ai\agents\zijian-ni-awesome-ai-agents-2026-0f42bc.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Zijian-Ni/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [zijian-ni-awesome-ai-agents-2026-0f42bc.md](file:///../../ai/agents/zijian-ni-awesome-ai-agents-2026-0f42bc.md)
+Path: [zijian-ni-awesome-ai-agents-2026-0f42bc.md](file:///../../ai\agents\zijian-ni-awesome-ai-agents-2026-0f42bc.md)

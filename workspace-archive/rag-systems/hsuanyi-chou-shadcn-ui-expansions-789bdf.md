@@ -3,7 +3,7 @@ title: "hsuanyi-chou/shadcn-ui-expansions"
 archive_category: "rag-systems"
 source_category: "web-development/shadcn-ui"
 source_url: "https://github.com/hsuanyi-chou/shadcn-ui-expansions"
-local_vault_path: "web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions-789bdf.md"
+local_vault_path: "web-development\shadcn-ui\hsuanyi-chou-shadcn-ui-expansions-789bdf.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/hsuanyi-chou/shadcn-ui-expansions
 
 ## Local Vault File
 
-Path: [hsuanyi-chou-shadcn-ui-expansions-789bdf.md](file:///../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions-789bdf.md)
+Path: [hsuanyi-chou-shadcn-ui-expansions-789bdf.md](file:///../../web-development\shadcn-ui\hsuanyi-chou-shadcn-ui-expansions-789bdf.md)

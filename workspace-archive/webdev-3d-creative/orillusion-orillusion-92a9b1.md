@@ -3,7 +3,7 @@ title: "Orillusion/orillusion"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/Orillusion/orillusion"
-local_vault_path: "web-development/webgpu/orillusion-orillusion-92a9b1.md"
+local_vault_path: "web-development\webgpu\orillusion-orillusion-92a9b1.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/Orillusion/orillusion
 
 ## Local Vault File
 
-Path: [orillusion-orillusion-92a9b1.md](file:///../../web-development/webgpu/orillusion-orillusion-92a9b1.md)
+Path: [orillusion-orillusion-92a9b1.md](file:///../../web-development\webgpu\orillusion-orillusion-92a9b1.md)

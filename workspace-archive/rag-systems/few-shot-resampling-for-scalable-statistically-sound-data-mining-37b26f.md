@@ -3,7 +3,7 @@ title: "Few-Shot Resampling for Scalable Statistically-Sound Data Mining"
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11235"
-local_vault_path: "ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
+local_vault_path: "ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11235
 
 ## Local Vault File
 
-Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai/research/few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)
+Path: [few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md](file:///../../ai\research\few-shot-resampling-for-scalable-statistically-sound-data-mining-37b26f.md)

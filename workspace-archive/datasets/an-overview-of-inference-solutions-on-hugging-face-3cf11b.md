@@ -3,7 +3,7 @@ title: "An overview of inference solutions on Hugging Face"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-update"
-local_vault_path: "ai/models/an-overview-of-inference-solutions-on-hugging-face-3cf11b.md"
+local_vault_path: "ai\models\an-overview-of-inference-solutions-on-hugging-face-3cf11b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [an-overview-of-inference-solutions-on-hugging-face-3cf11b.md](file:///../../ai/models/an-overview-of-inference-solutions-on-hugging-face-3cf11b.md)
+Path: [an-overview-of-inference-solutions-on-hugging-face-3cf11b.md](file:///../../ai\models\an-overview-of-inference-solutions-on-hugging-face-3cf11b.md)

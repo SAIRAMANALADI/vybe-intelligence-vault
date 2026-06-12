@@ -3,7 +3,7 @@ title: "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/transformersjs-v3"
-local_vault_path: "ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md"
+local_vault_path: "ai\models\transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v3
 
 ## Local Vault File
 
-Path: [transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md](file:///../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md)
+Path: [transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md](file:///../../ai\models\transformers-js-v3-webgpu-support-new-models-tasks-and-more-3bbd79.md)

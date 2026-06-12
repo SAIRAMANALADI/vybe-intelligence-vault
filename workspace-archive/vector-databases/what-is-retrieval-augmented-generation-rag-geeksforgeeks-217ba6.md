@@ -3,7 +3,7 @@ title: "What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://www.geeksforgeeks.org/nlp/what-is-retrieval-augmented-generation-rag"
-local_vault_path: "ai/rag/what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md"
+local_vault_path: "ai\rag\what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://www.geeksforgeeks.org/nlp/what-is-retrieval-augment
 
 ## Local Vault File
 
-Path: [what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md](file:///../../ai/rag/what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md)
+Path: [what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md](file:///../../ai\rag\what-is-retrieval-augmented-generation-rag-geeksforgeeks-217ba6.md)

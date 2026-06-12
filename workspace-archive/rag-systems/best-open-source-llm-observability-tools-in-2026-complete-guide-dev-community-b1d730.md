@@ -3,7 +3,7 @@ title: "Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV C
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://dev.to/openobserve/best-open-source-llm-observability-tools-in-2026-complete-guide-kn5"
-local_vault_path: "ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md"
+local_vault_path: "ai\rag\best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -52,4 +52,4 @@ Original source URL: https://dev.to/openobserve/best-open-source-llm-observabili
 
 ## Local Vault File
 
-Path: [best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md](file:///../../ai/rag/best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md)
+Path: [best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md](file:///../../ai\rag\best-open-source-llm-observability-tools-in-2026-complete-guide-dev-community-b1d730.md)

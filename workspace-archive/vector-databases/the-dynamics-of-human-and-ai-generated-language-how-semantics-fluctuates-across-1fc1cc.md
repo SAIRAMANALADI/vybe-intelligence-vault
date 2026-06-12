@@ -3,7 +3,7 @@ title: "The Dynamics of Human and AI-Generated Language: How Semantics Fluctuate
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11371"
-local_vault_path: "ai/rag/the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md"
+local_vault_path: "ai\rag\the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11371
 
 ## Local Vault File
 
-Path: [the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md](file:///../../ai/rag/the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md)
+Path: [the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md](file:///../../ai\rag\the-dynamics-of-human-and-ai-generated-language-how-semantics-fluctuates-across-1fc1cc.md)

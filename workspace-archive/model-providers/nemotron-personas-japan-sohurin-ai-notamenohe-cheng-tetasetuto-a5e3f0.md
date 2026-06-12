@@ -3,7 +3,7 @@ title: "Nemotron-Personas-Japan: ソブリン AI のための合成データセ�
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/nemotron-personas-japan-ja"
-local_vault_path: "ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md"
+local_vault_path: "ai\models\nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-personas-japan-
 
 ## Local Vault File
 
-Path: [nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md](file:///../../ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md)
+Path: [nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md](file:///../../ai\models\nemotron-personas-japan-sohurin-ai-notamenohe-cheng-tetasetuto-a5e3f0.md)

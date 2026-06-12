@@ -3,7 +3,7 @@ title: "Hugging Face on AMD Instinct MI300 GPU"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/huggingface-amd-mi300"
-local_vault_path: "ai/models/hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md"
+local_vault_path: "ai\models\hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-mi300
 
 ## Local Vault File
 
-Path: [hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md](file:///../../ai/models/hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md)
+Path: [hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md](file:///../../ai\models\hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md)

@@ -3,7 +3,7 @@ title: "Documentation best practices for RAG applications - AWS Prescriptive Gui
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://docs.aws.amazon.com/prescriptive-guidance/latest/writing-best-practices-rag/best-practices.html"
-local_vault_path: "ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md"
+local_vault_path: "ai\rag\documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://docs.aws.amazon.com/prescriptive-guidance/latest/wr
 
 ## Local Vault File
 
-Path: [documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md](file:///../../ai/rag/documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md)
+Path: [documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md](file:///../../ai\rag\documentation-best-practices-for-rag-applications-aws-prescriptive-guidance-988225.md)

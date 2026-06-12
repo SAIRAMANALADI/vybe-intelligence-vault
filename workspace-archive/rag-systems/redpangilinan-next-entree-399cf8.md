@@ -3,7 +3,7 @@ title: "redpangilinan/next-entree"
 archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/redpangilinan/next-entree"
-local_vault_path: "web-development/nextjs/redpangilinan-next-entree-399cf8.md"
+local_vault_path: "web-development\nextjs\redpangilinan-next-entree-399cf8.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/redpangilinan/next-entree
 
 ## Local Vault File
 
-Path: [redpangilinan-next-entree-399cf8.md](file:///../../web-development/nextjs/redpangilinan-next-entree-399cf8.md)
+Path: [redpangilinan-next-entree-399cf8.md](file:///../../web-development\nextjs\redpangilinan-next-entree-399cf8.md)

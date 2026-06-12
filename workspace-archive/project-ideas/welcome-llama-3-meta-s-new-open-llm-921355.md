@@ -3,7 +3,7 @@ title: "Welcome Llama 3 - Meta's new open LLM"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llama3"
-local_vault_path: "ai/models/welcome-llama-3-meta-s-new-open-llm-921355.md"
+local_vault_path: "ai\models\welcome-llama-3-meta-s-new-open-llm-921355.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama3
 
 ## Local Vault File
 
-Path: [welcome-llama-3-meta-s-new-open-llm-921355.md](file:///../../ai/models/welcome-llama-3-meta-s-new-open-llm-921355.md)
+Path: [welcome-llama-3-meta-s-new-open-llm-921355.md](file:///../../ai\models\welcome-llama-3-meta-s-new-open-llm-921355.md)

@@ -3,7 +3,7 @@ title: "Anthropic requires 30 day data retention for Fable and Mythos"
 archive_category: "model-providers"
 source_category: "ai/community"
 source_url: "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models"
-local_vault_path: "ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md"
+local_vault_path: "ai\community\anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://support.claude.com/en/articles/15425996-data-retent
 
 ## Local Vault File
 
-Path: [anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md](file:///../../ai/community/anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)
+Path: [anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md](file:///../../ai\community\anthropic-requires-30-day-data-retention-for-fable-and-mythos-4f1bce.md)

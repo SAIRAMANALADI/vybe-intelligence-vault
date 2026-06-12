@@ -3,7 +3,7 @@ title: "CUGA on Hugging Face: Democratizing Configurable AI Agents"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ibm-research/cuga-on-hugging-face"
-local_vault_path: "ai/agents/cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md"
+local_vault_path: "ai\agents\cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/cuga-on-hugging-fa
 
 ## Local Vault File
 
-Path: [cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md](file:///../../ai/agents/cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md)
+Path: [cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md](file:///../../ai\agents\cuga-on-hugging-face-democratizing-configurable-ai-agents-ff468c.md)

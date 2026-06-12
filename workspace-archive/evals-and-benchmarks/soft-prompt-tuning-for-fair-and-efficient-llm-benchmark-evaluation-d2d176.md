@@ -3,7 +3,7 @@ title: "Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12117"
-local_vault_path: "ai/research/soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md"
+local_vault_path: "ai\research\soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12117
 
 ## Local Vault File
 
-Path: [soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md](file:///../../ai/research/soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md)
+Path: [soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md](file:///../../ai\research\soft-prompt-tuning-for-fair-and-efficient-llm-benchmark-evaluation-d2d176.md)

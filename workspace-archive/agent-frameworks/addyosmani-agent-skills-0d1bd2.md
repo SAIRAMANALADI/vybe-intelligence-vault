@@ -3,7 +3,7 @@ title: "addyosmani/agent-skills"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/addyosmani/agent-skills"
-local_vault_path: "ai/agents/addyosmani-agent-skills-0d1bd2.md"
+local_vault_path: "ai\agents\addyosmani-agent-skills-0d1bd2.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/addyosmani/agent-skills
 
 ## Local Vault File
 
-Path: [addyosmani-agent-skills-0d1bd2.md](file:///../../ai/agents/addyosmani-agent-skills-0d1bd2.md)
+Path: [addyosmani-agent-skills-0d1bd2.md](file:///../../ai\agents\addyosmani-agent-skills-0d1bd2.md)

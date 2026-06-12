@@ -3,7 +3,7 @@ title: "From Architecture to Output: Structural Origins of Hallucination in Larg
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.07537"
-local_vault_path: "ai/research/from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md"
+local_vault_path: "ai\research\from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.07537
 
 ## Local Vault File
 
-Path: [from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md](file:///../../ai/research/from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md)
+Path: [from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md](file:///../../ai\research\from-architecture-to-output-structural-origins-of-hallucination-in-large-languag-d39237.md)

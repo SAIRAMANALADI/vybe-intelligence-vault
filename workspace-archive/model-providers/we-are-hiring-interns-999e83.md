@@ -3,7 +3,7 @@ title: "We are hiring interns!"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/interns-2023"
-local_vault_path: "ai/models/we-are-hiring-interns-999e83.md"
+local_vault_path: "ai\models\we-are-hiring-interns-999e83.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/interns-2023
 
 ## Local Vault File
 
-Path: [we-are-hiring-interns-999e83.md](file:///../../ai/models/we-are-hiring-interns-999e83.md)
+Path: [we-are-hiring-interns-999e83.md](file:///../../ai\models\we-are-hiring-interns-999e83.md)

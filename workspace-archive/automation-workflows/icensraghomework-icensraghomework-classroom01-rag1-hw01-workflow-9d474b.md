@@ -3,7 +3,7 @@ title: "IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow"
-local_vault_path: "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md"
+local_vault_path: "ai\rag\icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://github.com/IcensRAGHomework/icensraghomework-classr
 
 ## Local Vault File
 
-Path: [icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md](file:///../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md)
+Path: [icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md](file:///../../ai\rag\icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow-9d474b.md)

@@ -3,7 +3,7 @@ title: "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12138"
-local_vault_path: "ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md"
+local_vault_path: "ai\research\unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12138
 
 ## Local Vault File
 
-Path: [unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md](file:///../../ai/research/unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)
+Path: [unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md](file:///../../ai\research\unstable-features-reproducible-subspaces-understanding-seed-dependence-in-sparse-b83bfe.md)

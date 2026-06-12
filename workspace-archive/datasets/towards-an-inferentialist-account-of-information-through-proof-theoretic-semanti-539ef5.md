@@ -3,7 +3,7 @@ title: "Towards an Inferentialist Account of Information Through Proof-theoretic
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.05368"
-local_vault_path: "ai/research/towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md"
+local_vault_path: "ai\research\towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.05368
 
 ## Local Vault File
 
-Path: [towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md](file:///../../ai/research/towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md)
+Path: [towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md](file:///../../ai\research\towards-an-inferentialist-account-of-information-through-proof-theoretic-semanti-539ef5.md)

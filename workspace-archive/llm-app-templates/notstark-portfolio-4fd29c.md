@@ -3,7 +3,7 @@ title: "NotStark/portfolio"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/NotStark/portfolio"
-local_vault_path: "web-development/nextjs/notstark-portfolio-4fd29c.md"
+local_vault_path: "web-development\nextjs\notstark-portfolio-4fd29c.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://github.com/NotStark/portfolio
 
 ## Local Vault File
 
-Path: [notstark-portfolio-4fd29c.md](file:///../../web-development/nextjs/notstark-portfolio-4fd29c.md)
+Path: [notstark-portfolio-4fd29c.md](file:///../../web-development\nextjs\notstark-portfolio-4fd29c.md)

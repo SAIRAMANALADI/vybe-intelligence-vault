@@ -3,7 +3,7 @@ title: "ChrisChen667788/Your-First-LLM-Studio"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/ChrisChen667788/Your-First-LLM-Studio"
-local_vault_path: "ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md"
+local_vault_path: "ai\agents\chrischen667788-your-first-llm-studio-e62cd0.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/ChrisChen667788/Your-First-LLM-Studio
 
 ## Local Vault File
 
-Path: [chrischen667788-your-first-llm-studio-e62cd0.md](file:///../../ai/agents/chrischen667788-your-first-llm-studio-e62cd0.md)
+Path: [chrischen667788-your-first-llm-studio-e62cd0.md](file:///../../ai\agents\chrischen667788-your-first-llm-studio-e62cd0.md)

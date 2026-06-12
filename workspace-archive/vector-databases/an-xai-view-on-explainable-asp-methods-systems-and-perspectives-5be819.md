@@ -3,7 +3,7 @@ title: "An XAI View on Explainable ASP: Methods, Systems, and Perspectives"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.14764"
-local_vault_path: "ai/rag/an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md"
+local_vault_path: "ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.14764
 
 ## Local Vault File
 
-Path: [an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md](file:///../../ai/rag/an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md)
+Path: [an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md](file:///../../ai\rag\an-xai-view-on-explainable-asp-methods-systems-and-perspectives-5be819.md)

@@ -3,7 +3,7 @@ title: "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems bank
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/dxc-anthropic-alliance"
-local_vault_path: "ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md"
+local_vault_path: "ai\companies\anthropic\jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/dxc-anthropic-alliance
 
 ## Local Vault File
 
-Path: [jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md](file:///../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md)
+Path: [jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md](file:///../../ai\companies\anthropic\jun-11-2026announcementsdxc-will-integrate-claude-into-the-systems-banks-airline-22518c.md)

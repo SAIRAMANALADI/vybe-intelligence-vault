@@ -3,7 +3,7 @@ title: "Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fetch-case-study"
-local_vault_path: "ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md"
+local_vault_path: "ai\models\fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fetch-case-study
 
 ## Local Vault File
 
-Path: [fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md](file:///../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md)
+Path: [fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md](file:///../../ai\models\fetch-cuts-ml-processing-latency-by-50-using-amazon-sagemaker-hugging-face-6c8e90.md)

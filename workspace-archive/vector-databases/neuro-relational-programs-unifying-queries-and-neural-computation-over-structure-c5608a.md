@@ -3,7 +3,7 @@ title: "Neuro-Relational Programs: Unifying Queries and Neural Computation over 
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11946"
-local_vault_path: "ai/rag/neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md"
+local_vault_path: "ai\rag\neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11946
 
 ## Local Vault File
 
-Path: [neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md](file:///../../ai/rag/neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md)
+Path: [neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md](file:///../../ai\rag\neuro-relational-programs-unifying-queries-and-neural-computation-over-structure-c5608a.md)

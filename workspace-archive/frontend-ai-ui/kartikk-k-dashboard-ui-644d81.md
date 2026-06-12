@@ -3,7 +3,7 @@ title: "kartikk-k/dashboard-ui"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/kartikk-k/dashboard-ui"
-local_vault_path: "web-development/framer-motion/kartikk-k-dashboard-ui-644d81.md"
+local_vault_path: "web-development\framer-motion\kartikk-k-dashboard-ui-644d81.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/kartikk-k/dashboard-ui
 
 ## Local Vault File
 
-Path: [kartikk-k-dashboard-ui-644d81.md](file:///../../web-development/framer-motion/kartikk-k-dashboard-ui-644d81.md)
+Path: [kartikk-k-dashboard-ui-644d81.md](file:///../../web-development\framer-motion\kartikk-k-dashboard-ui-644d81.md)

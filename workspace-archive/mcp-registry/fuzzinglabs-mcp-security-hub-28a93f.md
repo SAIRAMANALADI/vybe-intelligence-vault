@@ -3,7 +3,7 @@ title: "FuzzingLabs/mcp-security-hub"
 archive_category: "mcp-registry"
 source_category: "ai/resources"
 source_url: "https://github.com/FuzzingLabs/mcp-security-hub"
-local_vault_path: "ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md"
+local_vault_path: "ai\resources\fuzzinglabs-mcp-security-hub-28a93f.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/FuzzingLabs/mcp-security-hub
 
 ## Local Vault File
 
-Path: [fuzzinglabs-mcp-security-hub-28a93f.md](file:///../../ai/resources/fuzzinglabs-mcp-security-hub-28a93f.md)
+Path: [fuzzinglabs-mcp-security-hub-28a93f.md](file:///../../ai\resources\fuzzinglabs-mcp-security-hub-28a93f.md)

@@ -3,7 +3,7 @@ title: "Quantifying Subliminal Behavioral Transfer Ratios in Language Model Dist
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11270"
-local_vault_path: "ai/research/quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md"
+local_vault_path: "ai\research\quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11270
 
 ## Local Vault File
 
-Path: [quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md](file:///../../ai/research/quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md)
+Path: [quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md](file:///../../ai\research\quantifying-subliminal-behavioral-transfer-ratios-in-language-model-distillation-f1b79c.md)

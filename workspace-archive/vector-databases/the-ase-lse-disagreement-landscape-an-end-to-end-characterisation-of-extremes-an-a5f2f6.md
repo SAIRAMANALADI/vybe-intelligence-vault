@@ -3,7 +3,7 @@ title: "The ASE-LSE Disagreement Landscape: An End-to-End Characterisation of Ex
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.22346"
-local_vault_path: "ai/rag/the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md"
+local_vault_path: "ai\rag\the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.22346
 
 ## Local Vault File
 
-Path: [the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md](file:///../../ai/rag/the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md)
+Path: [the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md](file:///../../ai\rag\the-ase-lse-disagreement-landscape-an-end-to-end-characterisation-of-extremes-an-a5f2f6.md)

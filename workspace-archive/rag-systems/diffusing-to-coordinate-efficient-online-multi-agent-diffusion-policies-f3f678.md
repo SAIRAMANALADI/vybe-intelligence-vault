@@ -3,7 +3,7 @@ title: "Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2602.18291"
-local_vault_path: "ai/rag/diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md"
+local_vault_path: "ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2602.18291
 
 ## Local Vault File
 
-Path: [diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md](file:///../../ai/rag/diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md)
+Path: [diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md](file:///../../ai\rag\diffusing-to-coordinate-efficient-online-multi-agent-diffusion-policies-f3f678.md)

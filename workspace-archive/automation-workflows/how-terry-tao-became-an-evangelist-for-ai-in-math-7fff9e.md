@@ -3,7 +3,7 @@ title: "How Terry Tao became an evangelist for AI in math"
 archive_category: "automation-workflows"
 source_category: "ai/community"
 source_url: "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/"
-local_vault_path: "ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md"
+local_vault_path: "ai\community\how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.quantamagazine.org/how-terry-tao-became-an-evan
 
 ## Local Vault File
 
-Path: [how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md](file:///../../ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md)
+Path: [how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md](file:///../../ai\community\how-terry-tao-became-an-evangelist-for-ai-in-math-7fff9e.md)

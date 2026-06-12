@@ -3,7 +3,7 @@ title: "Natural-Language Temporal Grounding in Hour-Long Videos is a Search Prob
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12300"
-local_vault_path: "ai/research/natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md"
+local_vault_path: "ai\research\natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.12300
 
 ## Local Vault File
 
-Path: [natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md](file:///../../ai/research/natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md)
+Path: [natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md](file:///../../ai\research\natural-language-temporal-grounding-in-hour-long-videos-is-a-search-problem-a-be-d04217.md)

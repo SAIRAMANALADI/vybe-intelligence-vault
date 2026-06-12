@@ -3,7 +3,7 @@ title: "ShowravKormokar/capsule"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/gsap"
 source_url: "https://github.com/ShowravKormokar/capsule"
-local_vault_path: "web-development/gsap/showravkormokar-capsule-bc6505.md"
+local_vault_path: "web-development\gsap\showravkormokar-capsule-bc6505.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/ShowravKormokar/capsule
 
 ## Local Vault File
 
-Path: [showravkormokar-capsule-bc6505.md](file:///../../web-development/gsap/showravkormokar-capsule-bc6505.md)
+Path: [showravkormokar-capsule-bc6505.md](file:///../../web-development\gsap\showravkormokar-capsule-bc6505.md)

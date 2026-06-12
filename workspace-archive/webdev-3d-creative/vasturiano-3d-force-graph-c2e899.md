@@ -3,7 +3,7 @@ title: "vasturiano/3d-force-graph"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://github.com/vasturiano/3d-force-graph"
-local_vault_path: "web-development/threejs/vasturiano-3d-force-graph-c2e899.md"
+local_vault_path: "web-development\threejs\vasturiano-3d-force-graph-c2e899.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/vasturiano/3d-force-graph
 
 ## Local Vault File
 
-Path: [vasturiano-3d-force-graph-c2e899.md](file:///../../web-development/threejs/vasturiano-3d-force-graph-c2e899.md)
+Path: [vasturiano-3d-force-graph-c2e899.md](file:///../../web-development\threejs\vasturiano-3d-force-graph-c2e899.md)

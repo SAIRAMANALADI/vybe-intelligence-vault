@@ -3,7 +3,7 @@ title: "Existential Indifference: Self-Nonpreservation as a Necessary Architectu
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12032"
-local_vault_path: "ai/research/existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md"
+local_vault_path: "ai\research\existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12032
 
 ## Local Vault File
 
-Path: [existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md](file:///../../ai/research/existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md)
+Path: [existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md](file:///../../ai\research\existential-indifference-self-nonpreservation-as-a-necessary-architectural-condi-909a03.md)

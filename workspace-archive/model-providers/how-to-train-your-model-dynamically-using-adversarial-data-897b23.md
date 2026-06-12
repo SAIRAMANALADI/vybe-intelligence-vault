@@ -3,7 +3,7 @@ title: "How to train your model dynamically using adversarial data"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/mnist-adversarial"
-local_vault_path: "ai/models/how-to-train-your-model-dynamically-using-adversarial-data-897b23.md"
+local_vault_path: "ai\models\how-to-train-your-model-dynamically-using-adversarial-data-897b23.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/mnist-adversarial
 
 ## Local Vault File
 
-Path: [how-to-train-your-model-dynamically-using-adversarial-data-897b23.md](file:///../../ai/models/how-to-train-your-model-dynamically-using-adversarial-data-897b23.md)
+Path: [how-to-train-your-model-dynamically-using-adversarial-data-897b23.md](file:///../../ai\models\how-to-train-your-model-dynamically-using-adversarial-data-897b23.md)

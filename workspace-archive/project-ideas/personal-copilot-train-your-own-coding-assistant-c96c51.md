@@ -3,7 +3,7 @@ title: "Personal Copilot: Train Your Own Coding Assistant"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/personal-copilot"
-local_vault_path: "ai/models/personal-copilot-train-your-own-coding-assistant-c96c51.md"
+local_vault_path: "ai\models\personal-copilot-train-your-own-coding-assistant-c96c51.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/personal-copilot
 
 ## Local Vault File
 
-Path: [personal-copilot-train-your-own-coding-assistant-c96c51.md](file:///../../ai/models/personal-copilot-train-your-own-coding-assistant-c96c51.md)
+Path: [personal-copilot-train-your-own-coding-assistant-c96c51.md](file:///../../ai\models\personal-copilot-train-your-own-coding-assistant-c96c51.md)

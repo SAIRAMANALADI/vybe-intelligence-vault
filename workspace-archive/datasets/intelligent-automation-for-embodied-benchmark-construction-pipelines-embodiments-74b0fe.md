@@ -3,7 +3,7 @@ title: "Intelligent Automation for Embodied Benchmark Construction: Pipelines, E
 archive_category: "datasets"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12207"
-local_vault_path: "ai/agents/intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md"
+local_vault_path: "ai\agents\intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://arxiv.org/abs/2606.12207
 
 ## Local Vault File
 
-Path: [intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md](file:///../../ai/agents/intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md)
+Path: [intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md](file:///../../ai\agents\intelligent-automation-for-embodied-benchmark-construction-pipelines-embodiments-74b0fe.md)

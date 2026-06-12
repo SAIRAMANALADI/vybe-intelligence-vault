@@ -3,7 +3,7 @@ title: "ProcessThinker: Enhancing Multi-modal Large Language Models Reasoning vi
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11209"
-local_vault_path: "ai/rag/processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md"
+local_vault_path: "ai\rag\processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11209
 
 ## Local Vault File
 
-Path: [processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md](file:///../../ai/rag/processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md)
+Path: [processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md](file:///../../ai\rag\processthinker-enhancing-multi-modal-large-language-models-reasoning-via-rollout-b38ca3.md)

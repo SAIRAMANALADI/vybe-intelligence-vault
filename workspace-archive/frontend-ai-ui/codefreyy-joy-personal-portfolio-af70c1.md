@@ -3,7 +3,7 @@ title: "Codefreyy/joy-personal-portfolio"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/Codefreyy/joy-personal-portfolio"
-local_vault_path: "web-development/framer-motion/codefreyy-joy-personal-portfolio-af70c1.md"
+local_vault_path: "web-development\framer-motion\codefreyy-joy-personal-portfolio-af70c1.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/Codefreyy/joy-personal-portfolio
 
 ## Local Vault File
 
-Path: [codefreyy-joy-personal-portfolio-af70c1.md](file:///../../web-development/framer-motion/codefreyy-joy-personal-portfolio-af70c1.md)
+Path: [codefreyy-joy-personal-portfolio-af70c1.md](file:///../../web-development\framer-motion\codefreyy-joy-personal-portfolio-af70c1.md)

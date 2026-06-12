@@ -3,7 +3,7 @@ title: "0x4m4/hexstrike-ai"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/0x4m4/hexstrike-ai"
-local_vault_path: "ai/agents/0x4m4-hexstrike-ai-2237a9.md"
+local_vault_path: "ai\agents\0x4m4-hexstrike-ai-2237a9.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/0x4m4/hexstrike-ai
 
 ## Local Vault File
 
-Path: [0x4m4-hexstrike-ai-2237a9.md](file:///../../ai/agents/0x4m4-hexstrike-ai-2237a9.md)
+Path: [0x4m4-hexstrike-ai-2237a9.md](file:///../../ai\agents\0x4m4-hexstrike-ai-2237a9.md)

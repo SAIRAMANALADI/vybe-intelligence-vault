@@ -3,7 +3,7 @@ title: "LUCID: Learning Embodiment-Agnostic Intent Models from Unstructured Huma
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11628"
-local_vault_path: "ai/research/lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md"
+local_vault_path: "ai\research\lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11628
 
 ## Local Vault File
 
-Path: [lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md](file:///../../ai/research/lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md)
+Path: [lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md](file:///../../ai\research\lucid-learning-embodiment-agnostic-intent-models-from-unstructured-human-videos-1e1f72.md)

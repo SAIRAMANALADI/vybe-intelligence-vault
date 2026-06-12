@@ -3,7 +3,7 @@ title: "Density Ridge Selective Prediction for LLM and VLM Hallucination Detecti
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.10198"
-local_vault_path: "ai/research/density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md"
+local_vault_path: "ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.10198
 
 ## Local Vault File
 
-Path: [density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md](file:///../../ai/research/density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md)
+Path: [density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md](file:///../../ai\research\density-ridge-selective-prediction-for-llm-and-vlm-hallucination-detection-under-6851d5.md)

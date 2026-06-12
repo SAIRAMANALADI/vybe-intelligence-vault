@@ -3,7 +3,7 @@ title: "LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/llm-inference-on-edge"
-local_vault_path: "ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md"
+local_vault_path: "ai\models\llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/llm-inference-on-edge
 
 ## Local Vault File
 
-Path: [llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md](file:///../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md)
+Path: [llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md](file:///../../ai\models\llm-inference-on-edge-a-fun-and-easy-guide-to-run-llms-via-react-native-on-your-f83648.md)

@@ -3,7 +3,7 @@ title: "Multi-agent rendezvous in fluid flows via reinforcement learning"
 archive_category: "agent-frameworks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11274"
-local_vault_path: "ai/rag/multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md"
+local_vault_path: "ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.11274
 
 ## Local Vault File
 
-Path: [multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md](file:///../../ai/rag/multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md)
+Path: [multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md](file:///../../ai\rag\multi-agent-rendezvous-in-fluid-flows-via-reinforcement-learning-f284fe.md)

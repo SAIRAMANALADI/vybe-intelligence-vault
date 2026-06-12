@@ -3,7 +3,7 @@ title: "Towards a Bridge Layer Between Bibliographic and Formalized Mathematical
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11430"
-local_vault_path: "ai/rag/towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md"
+local_vault_path: "ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11430
 
 ## Local Vault File
 
-Path: [towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md](file:///../../ai/rag/towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md)
+Path: [towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md](file:///../../ai\rag\towards-a-bridge-layer-between-bibliographic-and-formalized-mathematical-knowled-547a57.md)

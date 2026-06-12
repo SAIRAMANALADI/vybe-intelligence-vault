@@ -3,7 +3,7 @@ title: "TacCoRL: Integrating Tactile Feedback into VLA via Simulation"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11743"
-local_vault_path: "ai/rag/taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md"
+local_vault_path: "ai\rag\taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11743
 
 ## Local Vault File
 
-Path: [taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md](file:///../../ai/rag/taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md)
+Path: [taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md](file:///../../ai\rag\taccorl-integrating-tactile-feedback-into-vla-via-simulation-e7186d.md)

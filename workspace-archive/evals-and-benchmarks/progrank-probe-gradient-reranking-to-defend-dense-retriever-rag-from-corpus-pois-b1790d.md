@@ -3,7 +3,7 @@ title: "ProGRank: Probe-Gradient Reranking to Defend Dense-Retriever RAG from Co
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.22934"
-local_vault_path: "ai/rag/progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md"
+local_vault_path: "ai\rag\progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2603.22934
 
 ## Local Vault File
 
-Path: [progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md](file:///../../ai/rag/progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md)
+Path: [progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md](file:///../../ai\rag\progrank-probe-gradient-reranking-to-defend-dense-retriever-rag-from-corpus-pois-b1790d.md)

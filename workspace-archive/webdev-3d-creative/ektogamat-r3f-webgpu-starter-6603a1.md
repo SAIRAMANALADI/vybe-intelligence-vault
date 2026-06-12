@@ -3,7 +3,7 @@ title: "ektogamat/r3f-webgpu-starter"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/react-three-fiber"
 source_url: "https://github.com/ektogamat/r3f-webgpu-starter"
-local_vault_path: "web-development/react-three-fiber/ektogamat-r3f-webgpu-starter-6603a1.md"
+local_vault_path: "web-development\react-three-fiber\ektogamat-r3f-webgpu-starter-6603a1.md"
 quality_score: 70
 archive_score: 85
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/ektogamat/r3f-webgpu-starter
 
 ## Local Vault File
 
-Path: [ektogamat-r3f-webgpu-starter-6603a1.md](file:///../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter-6603a1.md)
+Path: [ektogamat-r3f-webgpu-starter-6603a1.md](file:///../../web-development\react-three-fiber\ektogamat-r3f-webgpu-starter-6603a1.md)

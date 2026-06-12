@@ -3,7 +3,7 @@ title: "linkb15/turborepo-shadcn-ui-tailwind-4"
 archive_category: "rag-systems"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4"
-local_vault_path: "web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md"
+local_vault_path: "web-development\nextjs\linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4
 
 ## Local Vault File
 
-Path: [linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md](file:///../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md)
+Path: [linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md](file:///../../web-development\nextjs\linkb15-turborepo-shadcn-ui-tailwind-4-85ca0c.md)

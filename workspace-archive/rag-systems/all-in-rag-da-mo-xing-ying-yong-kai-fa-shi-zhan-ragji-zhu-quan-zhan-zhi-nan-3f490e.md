@@ -3,7 +3,7 @@ title: "All-in-RAG | 大模型应用开发实战：RAG技术全栈指南"
 archive_category: "rag-systems"
 source_category: "ai/rag"
 source_url: "https://datawhalechina.github.io/all-in-rag"
-local_vault_path: "ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md"
+local_vault_path: "ai\rag\all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://datawhalechina.github.io/all-in-rag
 
 ## Local Vault File
 
-Path: [all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md](file:///../../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md)
+Path: [all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md](file:///../../ai\rag\all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ragji-zhu-quan-zhan-zhi-nan-3f490e.md)

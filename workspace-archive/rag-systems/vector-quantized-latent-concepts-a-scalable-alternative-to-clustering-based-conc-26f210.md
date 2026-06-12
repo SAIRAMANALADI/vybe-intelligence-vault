@@ -3,7 +3,7 @@ title: "Vector Quantized Latent Concepts: A Scalable Alternative to Clustering-B
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.02726"
-local_vault_path: "ai/research/vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md"
+local_vault_path: "ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.02726
 
 ## Local Vault File
 
-Path: [vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md](file:///../../ai/research/vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md)
+Path: [vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md](file:///../../ai\research\vector-quantized-latent-concepts-a-scalable-alternative-to-clustering-based-conc-26f210.md)

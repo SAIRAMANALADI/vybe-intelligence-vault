@@ -3,7 +3,7 @@ title: "Spread Your Wings: Falcon 180B is here"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/falcon-180b"
-local_vault_path: "ai/models/spread-your-wings-falcon-180b-is-here-51bcfe.md"
+local_vault_path: "ai\models\spread-your-wings-falcon-180b-is-here-51bcfe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/falcon-180b
 
 ## Local Vault File
 
-Path: [spread-your-wings-falcon-180b-is-here-51bcfe.md](file:///../../ai/models/spread-your-wings-falcon-180b-is-here-51bcfe.md)
+Path: [spread-your-wings-falcon-180b-is-here-51bcfe.md](file:///../../ai\models\spread-your-wings-falcon-180b-is-here-51bcfe.md)

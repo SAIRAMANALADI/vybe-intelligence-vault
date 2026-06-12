@@ -3,7 +3,7 @@ title: "Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/anylanguagemodel"
-local_vault_path: "ai/models/introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md"
+local_vault_path: "ai\models\introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/anylanguagemodel
 
 ## Local Vault File
 
-Path: [introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md](file:///../../ai/models/introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md)
+Path: [introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md](file:///../../ai\models\introducing-anylanguagemodel-one-api-for-local-and-remote-llms-on-apple-platform-d0e47e.md)

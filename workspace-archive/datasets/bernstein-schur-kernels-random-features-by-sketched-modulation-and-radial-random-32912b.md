@@ -3,7 +3,7 @@ title: "Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radi
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11255"
-local_vault_path: "ai/research/bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md"
+local_vault_path: "ai\research\bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11255
 
 ## Local Vault File
 
-Path: [bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md](file:///../../ai/research/bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md)
+Path: [bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md](file:///../../ai\research\bernstein-schur-kernels-random-features-by-sketched-modulation-and-radial-random-32912b.md)

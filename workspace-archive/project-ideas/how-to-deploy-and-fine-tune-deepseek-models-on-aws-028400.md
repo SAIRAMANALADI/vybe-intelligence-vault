@@ -3,7 +3,7 @@ title: "How to deploy and fine-tune DeepSeek models on AWS"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/deepseek-r1-aws"
-local_vault_path: "ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md"
+local_vault_path: "ai\models\how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deepseek-r1-aws
 
 ## Local Vault File
 
-Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md](file:///../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md)
+Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md](file:///../../ai\models\how-to-deploy-and-fine-tune-deepseek-models-on-aws-028400.md)

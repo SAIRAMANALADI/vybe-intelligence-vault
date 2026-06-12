@@ -3,7 +3,7 @@ title: "Scaleway on Hugging Face Inference Providers 🔥"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-providers-scaleway"
-local_vault_path: "ai/models/scaleway-on-hugging-face-inference-providers-c8953e.md"
+local_vault_path: "ai\models\scaleway-on-hugging-face-inference-providers-c8953e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-scaleway
 
 ## Local Vault File
 
-Path: [scaleway-on-hugging-face-inference-providers-c8953e.md](file:///../../ai/models/scaleway-on-hugging-face-inference-providers-c8953e.md)
+Path: [scaleway-on-hugging-face-inference-providers-c8953e.md](file:///../../ai\models\scaleway-on-hugging-face-inference-providers-c8953e.md)

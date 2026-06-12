@@ -3,7 +3,7 @@ title: "From Prompts to Tokens: Internalizing Causal Supervision in Vision-Langu
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11745"
-local_vault_path: "ai/research/from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md"
+local_vault_path: "ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11745
 
 ## Local Vault File
 
-Path: [from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md](file:///../../ai/research/from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md)
+Path: [from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md](file:///../../ai\research\from-prompts-to-tokens-internalizing-causal-supervision-in-vision-language-model-387b24.md)

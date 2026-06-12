@@ -3,7 +3,7 @@ title: "uixmat/onborda"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/uixmat/onborda"
-local_vault_path: "web-development/framer-motion/uixmat-onborda-15177b.md"
+local_vault_path: "web-development\framer-motion\uixmat-onborda-15177b.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/uixmat/onborda
 
 ## Local Vault File
 
-Path: [uixmat-onborda-15177b.md](file:///../../web-development/framer-motion/uixmat-onborda-15177b.md)
+Path: [uixmat-onborda-15177b.md](file:///../../web-development\framer-motion\uixmat-onborda-15177b.md)

@@ -3,7 +3,7 @@ title: "Continual Learning with Support Boundary Experience Blending"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2507.23534"
-local_vault_path: "ai/rag/continual-learning-with-support-boundary-experience-blending-e4c794.md"
+local_vault_path: "ai\rag\continual-learning-with-support-boundary-experience-blending-e4c794.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2507.23534
 
 ## Local Vault File
 
-Path: [continual-learning-with-support-boundary-experience-blending-e4c794.md](file:///../../ai/rag/continual-learning-with-support-boundary-experience-blending-e4c794.md)
+Path: [continual-learning-with-support-boundary-experience-blending-e4c794.md](file:///../../ai\rag\continual-learning-with-support-boundary-experience-blending-e4c794.md)

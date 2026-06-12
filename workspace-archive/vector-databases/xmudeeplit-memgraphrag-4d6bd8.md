@@ -3,7 +3,7 @@ title: "XMUDeepLIT/MemGraphRAG"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/XMUDeepLIT/MemGraphRAG"
-local_vault_path: "ai/rag/xmudeeplit-memgraphrag-4d6bd8.md"
+local_vault_path: "ai\rag\xmudeeplit-memgraphrag-4d6bd8.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/XMUDeepLIT/MemGraphRAG
 
 ## Local Vault File
 
-Path: [xmudeeplit-memgraphrag-4d6bd8.md](file:///../../ai/rag/xmudeeplit-memgraphrag-4d6bd8.md)
+Path: [xmudeeplit-memgraphrag-4d6bd8.md](file:///../../ai\rag\xmudeeplit-memgraphrag-4d6bd8.md)

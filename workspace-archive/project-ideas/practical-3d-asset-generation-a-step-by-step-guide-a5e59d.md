@@ -3,7 +3,7 @@ title: "Practical 3D Asset Generation: A Step-by-Step Guide"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/3d-assets"
-local_vault_path: "ai/models/practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md"
+local_vault_path: "ai\models\practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/3d-assets
 
 ## Local Vault File
 
-Path: [practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md](file:///../../ai/models/practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md)
+Path: [practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md](file:///../../ai\models\practical-3d-asset-generation-a-step-by-step-guide-a5e59d.md)

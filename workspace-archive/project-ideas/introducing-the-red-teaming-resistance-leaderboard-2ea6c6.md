@@ -3,7 +3,7 @@ title: "Introducing the Red-Teaming Resistance Leaderboard"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/leaderboard-haizelab"
-local_vault_path: "ai/models/introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md"
+local_vault_path: "ai\models\introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-haizelab
 
 ## Local Vault File
 
-Path: [introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md](file:///../../ai/models/introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md)
+Path: [introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md](file:///../../ai\models\introducing-the-red-teaming-resistance-leaderboard-2ea6c6.md)

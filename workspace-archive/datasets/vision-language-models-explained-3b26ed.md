@@ -3,7 +3,7 @@ title: "Vision Language Models Explained"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/vlms"
-local_vault_path: "ai/models/vision-language-models-explained-3b26ed.md"
+local_vault_path: "ai\models\vision-language-models-explained-3b26ed.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/vlms
 
 ## Local Vault File
 
-Path: [vision-language-models-explained-3b26ed.md](file:///../../ai/models/vision-language-models-explained-3b26ed.md)
+Path: [vision-language-models-explained-3b26ed.md](file:///../../ai\models\vision-language-models-explained-3b26ed.md)

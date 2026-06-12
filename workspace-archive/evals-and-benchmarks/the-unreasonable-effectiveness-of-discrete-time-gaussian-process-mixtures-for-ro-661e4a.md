@@ -3,7 +3,7 @@ title: "The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixture
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.03296"
-local_vault_path: "ai/research/the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md"
+local_vault_path: "ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.03296
 
 ## Local Vault File
 
-Path: [the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md](file:///../../ai/research/the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)
+Path: [the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md](file:///../../ai\research\the-unreasonable-effectiveness-of-discrete-time-gaussian-process-mixtures-for-ro-661e4a.md)

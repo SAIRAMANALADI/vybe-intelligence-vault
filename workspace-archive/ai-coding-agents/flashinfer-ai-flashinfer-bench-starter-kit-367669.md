@@ -3,7 +3,7 @@ title: "flashinfer-ai/flashinfer-bench-starter-kit"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/flashinfer-ai/flashinfer-bench-starter-kit"
-local_vault_path: "ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md"
+local_vault_path: "ai\agents\flashinfer-ai-flashinfer-bench-starter-kit-367669.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/flashinfer-ai/flashinfer-bench-starter-k
 
 ## Local Vault File
 
-Path: [flashinfer-ai-flashinfer-bench-starter-kit-367669.md](file:///../../ai/agents/flashinfer-ai-flashinfer-bench-starter-kit-367669.md)
+Path: [flashinfer-ai-flashinfer-bench-starter-kit-367669.md](file:///../../ai\agents\flashinfer-ai-flashinfer-bench-starter-kit-367669.md)

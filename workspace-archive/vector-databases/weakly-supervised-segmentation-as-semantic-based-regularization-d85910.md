@@ -3,7 +3,7 @@ title: "Weakly Supervised Segmentation as Semantic-Based Regularization"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2605.13674"
-local_vault_path: "ai/rag/weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md"
+local_vault_path: "ai\rag\weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2605.13674
 
 ## Local Vault File
 
-Path: [weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md](file:///../../ai/rag/weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md)
+Path: [weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md](file:///../../ai\rag\weakly-supervised-segmentation-as-semantic-based-regularization-d85910.md)

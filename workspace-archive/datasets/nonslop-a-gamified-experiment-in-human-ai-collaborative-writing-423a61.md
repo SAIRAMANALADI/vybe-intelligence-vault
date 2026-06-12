@@ -3,7 +3,7 @@ title: "Nonslop: A Gamified Experiment in Human-AI Collaborative Writing"
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12350"
-local_vault_path: "ai/research/nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md"
+local_vault_path: "ai\research\nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://arxiv.org/abs/2606.12350
 
 ## Local Vault File
 
-Path: [nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md](file:///../../ai/research/nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md)
+Path: [nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md](file:///../../ai\research\nonslop-a-gamified-experiment-in-human-ai-collaborative-writing-423a61.md)

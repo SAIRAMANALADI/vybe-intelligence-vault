@@ -3,7 +3,7 @@ title: "Unifying Learning Dynamics and Generalization in Transformers Scaling La
 archive_category: "webdev-3d-creative"
 source_category: "web-development/threejs"
 source_url: "https://arxiv.org/abs/2512.22088"
-local_vault_path: "web-development/threejs/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md"
+local_vault_path: "web-development\threejs\unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2512.22088
 
 ## Local Vault File
 
-Path: [unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md](file:///../../web-development/threejs/unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)
+Path: [unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md](file:///../../web-development\threejs\unifying-learning-dynamics-and-generalization-in-transformers-scaling-law-8d6dcb.md)

@@ -3,7 +3,7 @@ title: "Federated continual learning: A comprehensive survey on lifelong and pri
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11272"
-local_vault_path: "ai/research/federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md"
+local_vault_path: "ai\research\federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11272
 
 ## Local Vault File
 
-Path: [federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md](file:///../../ai/research/federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md)
+Path: [federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md](file:///../../ai\research\federated-continual-learning-a-comprehensive-survey-on-lifelong-and-privacy-pres-9f42d2.md)

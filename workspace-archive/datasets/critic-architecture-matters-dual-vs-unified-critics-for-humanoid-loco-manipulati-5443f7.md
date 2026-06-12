@@ -3,7 +3,7 @@ title: "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11891"
-local_vault_path: "ai/research/critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md"
+local_vault_path: "ai\research\critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11891
 
 ## Local Vault File
 
-Path: [critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md](file:///../../ai/research/critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md)
+Path: [critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md](file:///../../ai\research\critic-architecture-matters-dual-vs-unified-critics-for-humanoid-loco-manipulati-5443f7.md)

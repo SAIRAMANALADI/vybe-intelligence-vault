@@ -3,7 +3,7 @@ title: "Best Practices for AI Agent Implementations: Enterprise Guide 2026"
 archive_category: "automation-workflows"
 source_category: "ai/rag"
 source_url: "https://onereach.ai/blog/best-practices-for-ai-agent-implementations"
-local_vault_path: "ai/rag/best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md"
+local_vault_path: "ai\rag\best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -50,4 +50,4 @@ Original source URL: https://onereach.ai/blog/best-practices-for-ai-agent-implem
 
 ## Local Vault File
 
-Path: [best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md](file:///../../ai/rag/best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md)
+Path: [best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md](file:///../../ai\rag\best-practices-for-ai-agent-implementations-enterprise-guide-2026-36c11f.md)

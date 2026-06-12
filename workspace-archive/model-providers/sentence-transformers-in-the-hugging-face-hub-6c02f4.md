@@ -3,7 +3,7 @@ title: "Sentence Transformers in the Hugging Face Hub"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/sentence-transformers-in-the-hub"
-local_vault_path: "ai/models/sentence-transformers-in-the-hugging-face-hub-6c02f4.md"
+local_vault_path: "ai\models\sentence-transformers-in-the-hugging-face-hub-6c02f4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-in-the-hu
 
 ## Local Vault File
 
-Path: [sentence-transformers-in-the-hugging-face-hub-6c02f4.md](file:///../../ai/models/sentence-transformers-in-the-hugging-face-hub-6c02f4.md)
+Path: [sentence-transformers-in-the-hugging-face-hub-6c02f4.md](file:///../../ai\models\sentence-transformers-in-the-hugging-face-hub-6c02f4.md)

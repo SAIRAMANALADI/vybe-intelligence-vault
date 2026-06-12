@@ -3,7 +3,7 @@ title: "Pass@K Policy Optimization: Solving Harder Reinforcement Learning Proble
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.15201"
-local_vault_path: "ai/research/pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md"
+local_vault_path: "ai\research\pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2505.15201
 
 ## Local Vault File
 
-Path: [pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md](file:///../../ai/research/pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md)
+Path: [pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md](file:///../../ai\research\pass-k-policy-optimization-solving-harder-reinforcement-learning-problems-ab0f04.md)

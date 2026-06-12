@@ -3,7 +3,7 @@ title: "hjlld/LearningWebGPU"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/hjlld/LearningWebGPU"
-local_vault_path: "web-development/webgpu/hjlld-learningwebgpu-e96ddf.md"
+local_vault_path: "web-development\webgpu\hjlld-learningwebgpu-e96ddf.md"
 quality_score: 70
 archive_score: 83
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/hjlld/LearningWebGPU
 
 ## Local Vault File
 
-Path: [hjlld-learningwebgpu-e96ddf.md](file:///../../web-development/webgpu/hjlld-learningwebgpu-e96ddf.md)
+Path: [hjlld-learningwebgpu-e96ddf.md](file:///../../web-development\webgpu\hjlld-learningwebgpu-e96ddf.md)

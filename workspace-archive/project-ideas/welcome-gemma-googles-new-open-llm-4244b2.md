@@ -3,7 +3,7 @@ title: "Welcome Gemma - Google’s new open LLM"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/gemma"
-local_vault_path: "ai/models/welcome-gemma-googles-new-open-llm-4244b2.md"
+local_vault_path: "ai\models\welcome-gemma-googles-new-open-llm-4244b2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma
 
 ## Local Vault File
 
-Path: [welcome-gemma-googles-new-open-llm-4244b2.md](file:///../../ai/models/welcome-gemma-googles-new-open-llm-4244b2.md)
+Path: [welcome-gemma-googles-new-open-llm-4244b2.md](file:///../../ai\models\welcome-gemma-googles-new-open-llm-4244b2.md)

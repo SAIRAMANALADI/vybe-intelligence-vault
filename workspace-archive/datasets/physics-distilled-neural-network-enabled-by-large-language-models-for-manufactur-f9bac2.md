@@ -3,7 +3,7 @@ title: "Physics-Distilled Neural Network enabled by Large Language Models for Ma
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11605"
-local_vault_path: "ai/research/physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md"
+local_vault_path: "ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11605
 
 ## Local Vault File
 
-Path: [physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md](file:///../../ai/research/physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md)
+Path: [physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md](file:///../../ai\research\physics-distilled-neural-network-enabled-by-large-language-models-for-manufactur-f9bac2.md)

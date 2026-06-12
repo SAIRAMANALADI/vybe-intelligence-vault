@@ -3,7 +3,7 @@ title: "Massive Open-Vocabulary Keyword Spotting"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11279"
-local_vault_path: "ai/research/massive-open-vocabulary-keyword-spotting-985866.md"
+local_vault_path: "ai\research\massive-open-vocabulary-keyword-spotting-985866.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11279
 
 ## Local Vault File
 
-Path: [massive-open-vocabulary-keyword-spotting-985866.md](file:///../../ai/research/massive-open-vocabulary-keyword-spotting-985866.md)
+Path: [massive-open-vocabulary-keyword-spotting-985866.md](file:///../../ai\research\massive-open-vocabulary-keyword-spotting-985866.md)

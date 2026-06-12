@@ -4,30 +4,30 @@ Academic preprints, benchmark publications, and evaluation frameworks for large 
 
 | Research / Paper | Vault Folder | Score |
 | :--- | :--- | :--- |
-| [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) | `ai-coding-agents/` | 70 |
-| [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) | `ai-coding-agents/` | 70 |
-| [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) | `ai-coding-agents/` | 70 |
-| [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) | `ai-coding-agents/` | 70 |
-| [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) | `ai-coding-agents/` | 70 |
-| ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) | `ai-coding-agents/` | 70 |
-| [Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework](https://arxiv.org/abs/2606.12065) | `ai-coding-agents/` | 70 |
-| [Improving Generalization and Data Efficiency with Diffusion in Offline Multi-agent RL](https://arxiv.org/abs/2307.01472) | `ai-coding-agents/` | 70 |
-| [Human-Enhanced Loop Modeling (HELM): Agent-Based Finite Element Modeling of Concrete Bridge Barriers](https://arxiv.org/abs/2606.12025) | `ai-coding-agents/` | 70 |
-| [Robust Instruction Compliance in Cooperative Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.12655) | `ai-coding-agents/` | 70 |
-| [CRANE: Constrained Reasoning Injection for Code Agents via Nullspace Editing](https://arxiv.org/abs/2605.14084) | `ai-coding-agents/` | 70 |
-| [Precomputing Multi-Agent Path Replanning Using Temporal Flexibility](https://arxiv.org/abs/2601.04884) | `ai-coding-agents/` | 70 |
-| [Mind the Perspective: Let's Reason Recursively for Theory of Mind](https://arxiv.org/abs/2606.11724) | `ai-coding-agents/` | 70 |
-| [Embodied-BenchClaw: An Autonomous Multi-Agent System for Embodied Spatial Intelligence Benchmark Construction](https://arxiv.org/abs/2606.11909) | `ai-coding-agents/` | 70 |
-| [WorldReasoner: Evaluating Whether Language Model Agents Forecast Events with Valid Reasoning](https://arxiv.org/abs/2606.11816) | `ai-coding-agents/` | 70 |
-| [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](https://arxiv.org/abs/2602.02285) | `ai-coding-agents/` | 70 |
-| [Exploration Structure in LLM Agents for Multi-File Change Localization](https://arxiv.org/abs/2606.11976) | `ai-coding-agents/` | 70 |
-| [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) | `ai-coding-agents/` | 70 |
-| [Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory](https://arxiv.org/abs/2606.09365) | `ai-coding-agents/` | 70 |
+| [A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents](https://arxiv.org/abs/2606.12320) | `ai-coding-agents/` | 70 |
+| [A Lightweight Multi-Agent Framework for Automated Concrete Barrier Design](https://arxiv.org/abs/2606.12040) | `ai-coding-agents/` | 70 |
+| [A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models](https://arxiv.org/abs/2509.11575) | `ai-coding-agents/` | 70 |
+| [Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application](https://arxiv.org/abs/2606.12191) | `ai-coding-agents/` | 70 |
+| [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](https://arxiv.org/abs/2606.05608) | `ai-coding-agents/` | 70 |
+| [Agents All the Way Down; A Methodology for Building Custom AI Agents from Substrate to Production](https://arxiv.org/abs/2606.11869) | `ai-coding-agents/` | 70 |
 | [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) | `ai-coding-agents/` | 70 |
-| [Resource-Aware LLM Reasoning for Mobile Edge General Intelligence](https://arxiv.org/abs/2509.23248) | `ai-coding-agents/` | 70 |
+| [AI4SLT: Empirical Processes in Lean 4 for Formal Statistical Learning Theory](https://arxiv.org/abs/2602.02285) | `ai-coding-agents/` | 70 |
+| [An Ethical eValuation Agent (EeVA): Results of a Proof-of-Concept Test on a Prototype Agentic-like Workflow to Assist Ethical Deliberations](https://arxiv.org/abs/2606.11218) | `ai-coding-agents/` | 70 |
+| [APPO: Agentic Procedural Policy Optimization](https://arxiv.org/abs/2606.12384) | `ai-coding-agents/` | 70 |
+| [Architecture-Aware Reinforcement Learning Makes Sliding-Window Attention Competitive in Math Reasoning](https://arxiv.org/abs/2606.11634) | `ai-coding-agents/` | 70 |
+| [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](https://arxiv.org/abs/2606.11238) | `ai-coding-agents/` | 70 |
+| [ATLAS: Active Theory Learning for Automated Science](https://arxiv.org/abs/2606.12386) | `ai-coding-agents/` | 70 |
+| [Automated Creativity Evaluation of Language Models Across Open-Ended Tasks](https://arxiv.org/abs/2606.11762) | `ai-coding-agents/` | 70 |
+| [Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline](https://arxiv.org/abs/2606.11379) | `ai-coding-agents/` | 70 |
+| [Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework](https://arxiv.org/abs/2606.12065) | `ai-coding-agents/` | 70 |
+| [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) | `ai-coding-agents/` | 70 |
+| [Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling](https://arxiv.org/abs/2606.12370) | `ai-coding-agents/` | 70 |
+| [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) | `ai-coding-agents/` | 70 |
+| [Can Open-Source LLM Agents Replace Static Application Security Testing Tools? An Empirical Assessment](https://arxiv.org/abs/2606.11672) | `ai-coding-agents/` | 70 |
+| [CCKS: Consensus-based Communication and Knowledge Sharing](https://arxiv.org/abs/2606.12281) | `ai-coding-agents/` | 70 |
+| [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) | `ai-coding-agents/` | 70 |
 | [ClawEnvKit: Automatic Environment Generation for Claw-Like Agents](https://arxiv.org/abs/2604.18543) | `ai-coding-agents/` | 70 |
-| [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](https://arxiv.org/abs/2606.11042) | `ai-coding-agents/` | 70 |
-| [Search Discipline for Long-Horizon Research Agents](https://arxiv.org/abs/2606.11522) | `ai-coding-agents/` | 70 |
-| [Towards Responsibly Non-Compliant Machines](https://arxiv.org/abs/2606.12147) | `ai-coding-agents/` | 70 |
+| [ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Models](https://arxiv.org/abs/2606.11569) | `ai-coding-agents/` | 70 |
+| [Counterexample Guided Learning in the Large using Reasoning Agents](https://arxiv.org/abs/2606.11521) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

@@ -3,7 +3,7 @@ title: "safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System"
 archive_category: "model-providers"
 source_category: "ai/rag"
 source_url: "https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System"
-local_vault_path: "ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md"
+local_vault_path: "ai\rag\safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -49,4 +49,4 @@ Original source URL: https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-
 
 ## Local Vault File
 
-Path: [safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md](file:///../../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md)
+Path: [safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md](file:///../../ai\rag\safishamsi-knowledge-graph-based-hybrid-rag-system-3a3a88.md)

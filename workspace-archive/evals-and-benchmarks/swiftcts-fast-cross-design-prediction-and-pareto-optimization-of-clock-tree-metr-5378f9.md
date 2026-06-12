@@ -3,7 +3,7 @@ title: "SwiftCTS: Fast Cross-Design Prediction and Pareto Optimization of Clock 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11348"
-local_vault_path: "ai/research/swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md"
+local_vault_path: "ai\research\swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11348
 
 ## Local Vault File
 
-Path: [swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md](file:///../../ai/research/swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md)
+Path: [swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md](file:///../../ai\research\swiftcts-fast-cross-design-prediction-and-pareto-optimization-of-clock-tree-metr-5378f9.md)

@@ -3,7 +3,7 @@ title: "takahirox/online-wgsl-editor"
 archive_category: "webdev-3d-creative"
 source_category: "web-development/webgpu"
 source_url: "https://github.com/takahirox/online-wgsl-editor"
-local_vault_path: "web-development/webgpu/takahirox-online-wgsl-editor-4a28a8.md"
+local_vault_path: "web-development\webgpu\takahirox-online-wgsl-editor-4a28a8.md"
 quality_score: 70
 archive_score: 79
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://github.com/takahirox/online-wgsl-editor
 
 ## Local Vault File
 
-Path: [takahirox-online-wgsl-editor-4a28a8.md](file:///../../web-development/webgpu/takahirox-online-wgsl-editor-4a28a8.md)
+Path: [takahirox-online-wgsl-editor-4a28a8.md](file:///../../web-development\webgpu\takahirox-online-wgsl-editor-4a28a8.md)

@@ -3,7 +3,7 @@ title: "Synthetic Homes: A Multimodal Generative AI Pipeline for Residential Bui
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2509.09794"
-local_vault_path: "ai/research/synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md"
+local_vault_path: "ai\research\synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2509.09794
 
 ## Local Vault File
 
-Path: [synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md](file:///../../ai/research/synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md)
+Path: [synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md](file:///../../ai\research\synthetic-homes-a-multimodal-generative-ai-pipeline-for-residential-building-dat-048f1f.md)

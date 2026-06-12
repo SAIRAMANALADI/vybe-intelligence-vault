@@ -3,7 +3,7 @@ title: "Frozen Multimodal Embeddings for Personality and Cognitive Ability Asses
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11930"
-local_vault_path: "ai/rag/frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md"
+local_vault_path: "ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11930
 
 ## Local Vault File
 
-Path: [frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md](file:///../../ai/rag/frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)
+Path: [frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md](file:///../../ai\rag\frozen-multimodal-embeddings-for-personality-and-cognitive-ability-assessment-in-3800a1.md)

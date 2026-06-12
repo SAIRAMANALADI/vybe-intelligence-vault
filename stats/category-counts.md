@@ -8,9 +8,10 @@ Below is the file distribution across the vault categories.
 | `ai-tools-products/` | 5 |
 | `ai/resources/` | 3 |
 | `automation-workflows/` | 84 |
-| `datasets/` | 128 |
+| `datasets/` | 127 |
 | `evals-and-benchmarks/` | 8 |
 | `frontend-ai-ui/` | 49 |
+| `guardrails-security/` | 2 |
 | `inference-local-llm/` | 1 |
 | `jobs-market/` | 1 |
 | `learning-paths/` | 3 |
@@ -22,7 +23,7 @@ Below is the file distribution across the vault categories.
 | `vector-databases/` | 108 |
 | `web-development/framer-motion/` | 13 |
 | `web-development/gsap/` | 2 |
-| `webdev-3d-creative/` | 81 |
+| `webdev-3d-creative/` | 80 |
 
 ## Categories Needing More Coverage
 

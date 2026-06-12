@@ -3,7 +3,7 @@ title: "Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning"
-local_vault_path: "ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md"
+local_vault_path: "ai\models\post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning
 
 ## Local Vault File
 
-Path: [post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md](file:///../../ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md)
+Path: [post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md](file:///../../ai\models\post-training-isaac-gr00t-n1-5-for-lerobot-so-101-arm-5a7f4f.md)

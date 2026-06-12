@@ -3,7 +3,7 @@ title: "Custom Kernels for All from Codex and Claude"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/custom-cuda-kernels-agent-skills"
-local_vault_path: "ai/models/custom-kernels-for-all-from-codex-and-claude-7553dd.md"
+local_vault_path: "ai\models\custom-kernels-for-all-from-codex-and-claude-7553dd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [custom-kernels-for-all-from-codex-and-claude-7553dd.md](file:///../../ai/models/custom-kernels-for-all-from-codex-and-claude-7553dd.md)
+Path: [custom-kernels-for-all-from-codex-and-claude-7553dd.md](file:///../../ai\models\custom-kernels-for-all-from-codex-and-claude-7553dd.md)

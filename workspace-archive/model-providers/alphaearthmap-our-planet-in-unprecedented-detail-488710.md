@@ -3,7 +3,7 @@ title: "AlphaEarthMap our planet in unprecedented detail"
 archive_category: "model-providers"
 source_category: "ai/companies/deepmind"
 source_url: "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail"
-local_vault_path: "ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md"
+local_vault_path: "ai\companies\deepmind\alphaearthmap-our-planet-in-unprecedented-detail-488710.md"
 quality_score: 70
 archive_score: 80
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://deepmind.google/blog/alphaearth-foundations-helps-m
 
 ## Local Vault File
 
-Path: [alphaearthmap-our-planet-in-unprecedented-detail-488710.md](file:///../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail-488710.md)
+Path: [alphaearthmap-our-planet-in-unprecedented-detail-488710.md](file:///../../ai\companies\deepmind\alphaearthmap-our-planet-in-unprecedented-detail-488710.md)

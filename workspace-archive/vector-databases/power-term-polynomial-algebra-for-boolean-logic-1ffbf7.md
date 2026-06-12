@@ -3,7 +3,7 @@ title: "Power Term Polynomial Algebra for Boolean Logic"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2603.13854"
-local_vault_path: "ai/rag/power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md"
+local_vault_path: "ai\rag\power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2603.13854
 
 ## Local Vault File
 
-Path: [power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md](file:///../../ai/rag/power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md)
+Path: [power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md](file:///../../ai\rag\power-term-polynomial-algebra-for-boolean-logic-1ffbf7.md)

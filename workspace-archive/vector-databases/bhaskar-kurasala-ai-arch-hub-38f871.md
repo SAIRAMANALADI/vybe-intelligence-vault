@@ -3,7 +3,7 @@ title: "Bhaskar-Kurasala/AI-Arch-Hub"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/Bhaskar-Kurasala/AI-Arch-Hub"
-local_vault_path: "ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md"
+local_vault_path: "ai\rag\bhaskar-kurasala-ai-arch-hub-38f871.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/Bhaskar-Kurasala/AI-Arch-Hub
 
 ## Local Vault File
 
-Path: [bhaskar-kurasala-ai-arch-hub-38f871.md](file:///../../ai/rag/bhaskar-kurasala-ai-arch-hub-38f871.md)
+Path: [bhaskar-kurasala-ai-arch-hub-38f871.md](file:///../../ai\rag\bhaskar-kurasala-ai-arch-hub-38f871.md)

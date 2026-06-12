@@ -3,7 +3,7 @@ title: "AI4Land: Scalable Deep Learning for Global High-Resolution Land Use Reco
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11793"
-local_vault_path: "ai/rag/ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md"
+local_vault_path: "ai\rag\ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11793
 
 ## Local Vault File
 
-Path: [ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md](file:///../../ai/rag/ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md)
+Path: [ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md](file:///../../ai\rag\ai4land-scalable-deep-learning-for-global-high-resolution-land-use-reconstructio-b69031.md)

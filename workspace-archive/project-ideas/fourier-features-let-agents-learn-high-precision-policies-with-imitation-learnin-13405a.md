@@ -3,7 +3,7 @@ title: "Fourier Features Let Agents Learn High Precision Policies with Imitation
 archive_category: "project-ideas"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12334"
-local_vault_path: "ai/rag/fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md"
+local_vault_path: "ai\rag\fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12334
 
 ## Local Vault File
 
-Path: [fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md](file:///../../ai/rag/fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md)
+Path: [fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md](file:///../../ai\rag\fourier-features-let-agents-learn-high-precision-policies-with-imitation-learnin-13405a.md)

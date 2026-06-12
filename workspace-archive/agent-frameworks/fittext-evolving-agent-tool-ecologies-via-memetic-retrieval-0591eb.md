@@ -3,7 +3,7 @@ title: "FitText: Evolving Agent Tool Ecologies via Memetic Retrieval"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2605.02411"
-local_vault_path: "ai/agents/fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md"
+local_vault_path: "ai\agents\fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2605.02411
 
 ## Local Vault File
 
-Path: [fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md](file:///../../ai/agents/fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md)
+Path: [fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md](file:///../../ai\agents\fittext-evolving-agent-tool-ecologies-via-memetic-retrieval-0591eb.md)

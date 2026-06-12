@@ -3,7 +3,7 @@ title: "Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 a
 archive_category: "inference-local-llm"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12280"
-local_vault_path: "ai/rag/holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md"
+local_vault_path: "ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12280
 
 ## Local Vault File
 
-Path: [holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md](file:///../../ai/rag/holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md)
+Path: [holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md](file:///../../ai\rag\holding-the-fp8-quality-ceiling-at-8-bit-weights-and-activations-int8-and-gguf-p-227d3f.md)

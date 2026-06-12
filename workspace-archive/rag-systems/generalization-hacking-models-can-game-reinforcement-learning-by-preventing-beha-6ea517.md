@@ -3,7 +3,7 @@ title: "Generalization Hacking: Models Can Game Reinforcement Learning by Preven
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12016"
-local_vault_path: "ai/research/generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md"
+local_vault_path: "ai\research\generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12016
 
 ## Local Vault File
 
-Path: [generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md](file:///../../ai/research/generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md)
+Path: [generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md](file:///../../ai\research\generalization-hacking-models-can-game-reinforcement-learning-by-preventing-beha-6ea517.md)

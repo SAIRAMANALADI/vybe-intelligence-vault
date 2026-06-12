@@ -3,7 +3,7 @@ title: "Ambient Diffusion Policy: Imitation Learning from Suboptimal Data in Rob
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.12365"
-local_vault_path: "ai/research/ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md"
+local_vault_path: "ai\research\ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.12365
 
 ## Local Vault File
 
-Path: [ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md](file:///../../ai/research/ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md)
+Path: [ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md](file:///../../ai\research\ambient-diffusion-policy-imitation-learning-from-suboptimal-data-in-robotics-31d3f7.md)

@@ -3,7 +3,7 @@ title: "Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Langu
 archive_category: "datasets"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2602.10743"
-local_vault_path: "ai/research/kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md"
+local_vault_path: "ai\research\kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2602.10743
 
 ## Local Vault File
 
-Path: [kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md](file:///../../ai/research/kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md)
+Path: [kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md](file:///../../ai\research\kalman-linear-attention-parallel-bayesian-filtering-for-efficient-language-model-d5e27e.md)

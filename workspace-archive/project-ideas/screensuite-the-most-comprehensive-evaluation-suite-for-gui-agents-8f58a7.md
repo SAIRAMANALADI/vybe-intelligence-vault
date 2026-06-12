@@ -3,7 +3,7 @@ title: "ScreenSuite - The most comprehensive evaluation suite for GUI Agents!"
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/screensuite"
-local_vault_path: "ai/agents/screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md"
+local_vault_path: "ai\agents\screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/screensuite
 
 ## Local Vault File
 
-Path: [screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md](file:///../../ai/agents/screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md)
+Path: [screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md](file:///../../ai\agents\screensuite-the-most-comprehensive-evaluation-suite-for-gui-agents-8f58a7.md)

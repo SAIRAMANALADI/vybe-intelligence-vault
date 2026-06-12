@@ -3,7 +3,7 @@ title: "DeepInfra on Hugging Face Inference Providers 🔥"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-providers-deepinfra"
-local_vault_path: "ai/models/deepinfra-on-hugging-face-inference-providers-f66745.md"
+local_vault_path: "ai\models\deepinfra-on-hugging-face-inference-providers-f66745.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-deepinfra
 
 ## Local Vault File
 
-Path: [deepinfra-on-hugging-face-inference-providers-f66745.md](file:///../../ai/models/deepinfra-on-hugging-face-inference-providers-f66745.md)
+Path: [deepinfra-on-hugging-face-inference-providers-f66745.md](file:///../../ai\models\deepinfra-on-hugging-face-inference-providers-f66745.md)

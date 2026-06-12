@@ -3,7 +3,7 @@ title: "Deploy Embedding Models with Hugging Face Inference Endpoints"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/inference-endpoints-embeddings"
-local_vault_path: "ai/models/deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md"
+local_vault_path: "ai\models\deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-embeddings
 
 ## Local Vault File
 
-Path: [deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md](file:///../../ai/models/deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md)
+Path: [deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md](file:///../../ai\models\deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md)

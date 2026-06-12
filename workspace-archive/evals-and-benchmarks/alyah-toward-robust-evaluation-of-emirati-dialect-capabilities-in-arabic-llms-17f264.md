@@ -3,7 +3,7 @@ title: "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities i
 archive_category: "evals-and-benchmarks"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tiiuae/emirati-benchmarks"
-local_vault_path: "ai/models/alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md"
+local_vault_path: "ai\models\alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/emirati-benchmarks
 
 ## Local Vault File
 
-Path: [alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md](file:///../../ai/models/alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md)
+Path: [alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md](file:///../../ai\models\alyah-toward-robust-evaluation-of-emirati-dialect-capabilities-in-arabic-llms-17f264.md)

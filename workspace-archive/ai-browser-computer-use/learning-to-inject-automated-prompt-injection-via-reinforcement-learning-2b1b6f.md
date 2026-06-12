@@ -3,7 +3,7 @@ title: "Learning to Inject: Automated Prompt Injection via Reinforcement Learnin
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2602.05746"
-local_vault_path: "ai/agents/learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md"
+local_vault_path: "ai\agents\learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2602.05746
 
 ## Local Vault File
 
-Path: [learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md](file:///../../ai/agents/learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md)
+Path: [learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md](file:///../../ai\agents\learning-to-inject-automated-prompt-injection-via-reinforcement-learning-2b1b6f.md)

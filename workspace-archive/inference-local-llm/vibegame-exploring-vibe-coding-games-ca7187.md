@@ -3,7 +3,7 @@ title: "VibeGame: Exploring Vibe Coding Games"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/vibegame"
-local_vault_path: "ai/models/vibegame-exploring-vibe-coding-games-ca7187.md"
+local_vault_path: "ai\models\vibegame-exploring-vibe-coding-games-ca7187.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/vibegame
 
 ## Local Vault File
 
-Path: [vibegame-exploring-vibe-coding-games-ca7187.md](file:///../../ai/models/vibegame-exploring-vibe-coding-games-ca7187.md)
+Path: [vibegame-exploring-vibe-coding-games-ca7187.md](file:///../../ai\models\vibegame-exploring-vibe-coding-games-ca7187.md)

@@ -3,7 +3,7 @@ title: "Illustrating Reinforcement Learning from Human Feedback (RLHF)"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/rlhf"
-local_vault_path: "ai/models/illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md"
+local_vault_path: "ai\models\illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/rlhf
 
 ## Local Vault File
 
-Path: [illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md](file:///../../ai/models/illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md)
+Path: [illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md](file:///../../ai\models\illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md)

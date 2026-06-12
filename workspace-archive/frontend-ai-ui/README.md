@@ -9,24 +9,24 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 ## Top Matched Resources
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
-- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4) (template - USEFUL Tier)
-- [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter) (template - USEFUL Tier)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (template - USEFUL Tier)
-- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree) (template - USEFUL Tier)
-- [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine) (template - USEFUL Tier)
-- [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace) (template - USEFUL Tier)
+- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (template - USEFUL Tier)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
+- [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
+- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/SaaS-Boilerplate) (template - USEFUL Tier)
+- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
-- [pdsuwwz/nextjs-nextra-starter](https://github.com/pdsuwwz/nextjs-nextra-starter)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
 - [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
-- [redpangilinan/next-entree](https://github.com/redpangilinan/next-entree)
+- [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 - [enesien/venefish](https://github.com/enesien/venefish)
+- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-06-11 23:01 UTC*
+*Last updated: 2026-06-12 04:38 UTC*

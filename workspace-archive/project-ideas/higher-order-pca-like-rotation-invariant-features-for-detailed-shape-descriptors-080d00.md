@@ -3,7 +3,7 @@ title: "Higher order PCA-like rotation-invariant features for detailed shape des
 archive_category: "project-ideas"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2601.03326"
-local_vault_path: "ai/research/higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md"
+local_vault_path: "ai\research\higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2601.03326
 
 ## Local Vault File
 
-Path: [higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md](file:///../../ai/research/higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md)
+Path: [higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md](file:///../../ai\research\higher-order-pca-like-rotation-invariant-features-for-detailed-shape-descriptors-080d00.md)

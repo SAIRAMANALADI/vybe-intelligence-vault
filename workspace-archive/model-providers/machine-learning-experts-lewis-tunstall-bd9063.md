@@ -3,7 +3,7 @@ title: "Machine Learning Experts - Lewis Tunstall"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/lewis-tunstall-interview"
-local_vault_path: "ai/models/machine-learning-experts-lewis-tunstall-bd9063.md"
+local_vault_path: "ai\models\machine-learning-experts-lewis-tunstall-bd9063.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/lewis-tunstall-interview
 
 ## Local Vault File
 
-Path: [machine-learning-experts-lewis-tunstall-bd9063.md](file:///../../ai/models/machine-learning-experts-lewis-tunstall-bd9063.md)
+Path: [machine-learning-experts-lewis-tunstall-bd9063.md](file:///../../ai\models\machine-learning-experts-lewis-tunstall-bd9063.md)

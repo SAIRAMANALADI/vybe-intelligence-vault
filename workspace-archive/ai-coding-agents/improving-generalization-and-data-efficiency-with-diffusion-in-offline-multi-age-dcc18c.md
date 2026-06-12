@@ -3,7 +3,7 @@ title: "Improving Generalization and Data Efficiency with Diffusion in Offline M
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2307.01472"
-local_vault_path: "ai/agents/improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md"
+local_vault_path: "ai\agents\improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2307.01472
 
 ## Local Vault File
 
-Path: [improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md](file:///../../ai/agents/improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md)
+Path: [improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md](file:///../../ai\agents\improving-generalization-and-data-efficiency-with-diffusion-in-offline-multi-age-dcc18c.md)

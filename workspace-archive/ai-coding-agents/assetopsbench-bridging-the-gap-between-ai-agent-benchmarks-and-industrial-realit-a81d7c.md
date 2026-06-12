@@ -3,7 +3,7 @@ title: "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industri
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face"
-local_vault_path: "ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md"
+local_vault_path: "ai\agents\assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/assetopsbench-play
 
 ## Local Vault File
 
-Path: [assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md](file:///../../ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md)
+Path: [assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md](file:///../../ai\agents\assetopsbench-bridging-the-gap-between-ai-agent-benchmarks-and-industrial-realit-a81d7c.md)

@@ -3,7 +3,7 @@ title: "Design and Develop a RAG Solution - Azure Architecture Center | Microsof
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide"
-local_vault_path: "ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md"
+local_vault_path: "ai\rag\design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
 
 ## Local Vault File
 
-Path: [design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md](file:///../../ai/rag/design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md)
+Path: [design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md](file:///../../ai\rag\design-and-develop-a-rag-solution-azure-architecture-center-microsoft-learn-df9597.md)

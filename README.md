@@ -51,7 +51,7 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-11 23:01 UTC |
+| Last meaningful update | 2026-06-12 04:38 UTC |
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds meaningful changes, not just because a scheduled run happened.
 

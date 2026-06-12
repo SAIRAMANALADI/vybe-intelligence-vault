@@ -3,7 +3,7 @@ title: "Context-Driven Incremental Compression for Multi-Turn Dialogue Generatio
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12411"
-local_vault_path: "ai/rag/context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md"
+local_vault_path: "ai\rag\context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12411
 
 ## Local Vault File
 
-Path: [context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md](file:///../../ai/rag/context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md)
+Path: [context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md](file:///../../ai\rag\context-driven-incremental-compression-for-multi-turn-dialogue-generation-5c1d1c.md)

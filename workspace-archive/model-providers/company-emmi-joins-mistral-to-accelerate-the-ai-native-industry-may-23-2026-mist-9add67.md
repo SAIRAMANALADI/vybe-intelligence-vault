@@ -3,7 +3,7 @@ title: "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 
 archive_category: "model-providers"
 source_category: "ai/companies/mistral"
 source_url: "https://mistral.ai/news/accelerate-ai-native-industry"
-local_vault_path: "ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md"
+local_vault_path: "ai\companies\mistral\company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -46,4 +46,4 @@ Original source URL: https://mistral.ai/news/accelerate-ai-native-industry
 
 ## Local Vault File
 
-Path: [company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md](file:///../../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md)
+Path: [company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md](file:///../../ai\companies\mistral\company-emmi-joins-mistral-to-accelerate-the-ai-native-industry-may-23-2026-mist-9add67.md)

@@ -3,7 +3,7 @@ title: "Discovery and inference beyond linearity for epidemiological data by int
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2505.00571"
-local_vault_path: "ai/research/discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md"
+local_vault_path: "ai\research\discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2505.00571
 
 ## Local Vault File
 
-Path: [discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md](file:///../../ai/research/discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md)
+Path: [discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md](file:///../../ai\research\discovery-and-inference-beyond-linearity-for-epidemiological-data-by-integrating-8d3914.md)

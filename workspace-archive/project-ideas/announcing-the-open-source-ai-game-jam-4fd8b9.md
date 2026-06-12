@@ -3,7 +3,7 @@ title: "Announcing the Open Source AI Game Jam 🎮"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/game-jam"
-local_vault_path: "ai/models/announcing-the-open-source-ai-game-jam-4fd8b9.md"
+local_vault_path: "ai\models\announcing-the-open-source-ai-game-jam-4fd8b9.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/game-jam
 
 ## Local Vault File
 
-Path: [announcing-the-open-source-ai-game-jam-4fd8b9.md](file:///../../ai/models/announcing-the-open-source-ai-game-jam-4fd8b9.md)
+Path: [announcing-the-open-source-ai-game-jam-4fd8b9.md](file:///../../ai\models\announcing-the-open-source-ai-game-jam-4fd8b9.md)

@@ -3,7 +3,7 @@ title: "Machine Learning Experts - Margaret Mitchell"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/meg-mitchell-interview"
-local_vault_path: "ai/models/machine-learning-experts-margaret-mitchell-95af6c.md"
+local_vault_path: "ai\models\machine-learning-experts-margaret-mitchell-95af6c.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/meg-mitchell-interview
 
 ## Local Vault File
 
-Path: [machine-learning-experts-margaret-mitchell-95af6c.md](file:///../../ai/models/machine-learning-experts-margaret-mitchell-95af6c.md)
+Path: [machine-learning-experts-margaret-mitchell-95af6c.md](file:///../../ai\models\machine-learning-experts-margaret-mitchell-95af6c.md)

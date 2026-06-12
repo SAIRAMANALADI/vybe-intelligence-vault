@@ -3,7 +3,7 @@ title: "ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preservi
 archive_category: "evals-and-benchmarks"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11670"
-local_vault_path: "ai/research/argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md"
+local_vault_path: "ai\research\argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md"
 quality_score: 70
 archive_score: 74
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11670
 
 ## Local Vault File
 
-Path: [argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md](file:///../../ai/research/argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md)
+Path: [argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md](file:///../../ai\research\argus-stacked-multi-view-identity-mosaic-injection-for-subject-preserving-video-1c3a11.md)

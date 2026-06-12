@@ -3,7 +3,7 @@ title: "TouchThinker: Scaling Tactile Commonsense Reasoning to the Open World wi
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11637"
-local_vault_path: "ai/agents/touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md"
+local_vault_path: "ai\agents\touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11637
 
 ## Local Vault File
 
-Path: [touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md](file:///../../ai/agents/touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md)
+Path: [touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md](file:///../../ai\agents\touchthinker-scaling-tactile-commonsense-reasoning-to-the-open-world-with-large-129203.md)

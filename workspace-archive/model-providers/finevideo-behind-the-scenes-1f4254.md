@@ -3,7 +3,7 @@ title: "FineVideo: behind the scenes"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/fine-video"
-local_vault_path: "ai/models/finevideo-behind-the-scenes-1f4254.md"
+local_vault_path: "ai\models\finevideo-behind-the-scenes-1f4254.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/fine-video
 
 ## Local Vault File
 
-Path: [finevideo-behind-the-scenes-1f4254.md](file:///../../ai/models/finevideo-behind-the-scenes-1f4254.md)
+Path: [finevideo-behind-the-scenes-1f4254.md](file:///../../ai\models\finevideo-behind-the-scenes-1f4254.md)

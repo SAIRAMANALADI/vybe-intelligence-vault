@@ -3,7 +3,7 @@ title: "Family-Aware Residual Architecture for Predicting Quantum Circuit Simula
 archive_category: "rag-systems"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11620"
-local_vault_path: "ai/research/family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md"
+local_vault_path: "ai\research\family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11620
 
 ## Local Vault File
 
-Path: [family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md](file:///../../ai/research/family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md)
+Path: [family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md](file:///../../ai\research\family-aware-residual-architecture-for-predicting-quantum-circuit-simulation-per-1cdd0b.md)

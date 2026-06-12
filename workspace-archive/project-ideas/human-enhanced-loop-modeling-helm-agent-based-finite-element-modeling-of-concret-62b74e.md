@@ -3,7 +3,7 @@ title: "Human-Enhanced Loop Modeling (HELM): Agent-Based Finite Element Modeling
 archive_category: "project-ideas"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.12025"
-local_vault_path: "ai/agents/human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md"
+local_vault_path: "ai\agents\human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12025
 
 ## Local Vault File
 
-Path: [human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md](file:///../../ai/agents/human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md)
+Path: [human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md](file:///../../ai\agents\human-enhanced-loop-modeling-helm-agent-based-finite-element-modeling-of-concret-62b74e.md)

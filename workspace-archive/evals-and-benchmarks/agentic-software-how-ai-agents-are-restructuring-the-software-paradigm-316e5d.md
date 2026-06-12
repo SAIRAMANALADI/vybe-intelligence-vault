@@ -3,7 +3,7 @@ title: "Agentic Software: How AI Agents Are Restructuring the Software Paradigm"
 archive_category: "evals-and-benchmarks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.05608"
-local_vault_path: "ai/agents/agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md"
+local_vault_path: "ai\agents\agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.05608
 
 ## Local Vault File
 
-Path: [agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md](file:///../../ai/agents/agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md)
+Path: [agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md](file:///../../ai\agents\agentic-software-how-ai-agents-are-restructuring-the-software-paradigm-316e5d.md)

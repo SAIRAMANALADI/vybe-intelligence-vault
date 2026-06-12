@@ -3,7 +3,7 @@ title: "May 28, 2026ProductIntroducing Claude Opus 4.8"
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/claude-opus-4-8"
-local_vault_path: "ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md"
+local_vault_path: "ai\companies\anthropic\may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/claude-opus-4-8
 
 ## Local Vault File
 
-Path: [may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md](file:///../../ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md)
+Path: [may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md](file:///../../ai\companies\anthropic\may-28-2026productintroducing-claude-opus-4-8-5f3a9a.md)

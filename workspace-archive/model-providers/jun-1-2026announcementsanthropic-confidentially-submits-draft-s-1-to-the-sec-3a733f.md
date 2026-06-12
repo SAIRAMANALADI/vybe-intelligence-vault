@@ -3,7 +3,7 @@ title: "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to th
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/confidential-draft-s1-sec"
-local_vault_path: "ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md"
+local_vault_path: "ai\companies\anthropic\jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/confidential-draft-s1-sec
 
 ## Local Vault File
 
-Path: [jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md](file:///../../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md)
+Path: [jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md](file:///../../ai\companies\anthropic\jun-1-2026announcementsanthropic-confidentially-submits-draft-s-1-to-the-sec-3a733f.md)

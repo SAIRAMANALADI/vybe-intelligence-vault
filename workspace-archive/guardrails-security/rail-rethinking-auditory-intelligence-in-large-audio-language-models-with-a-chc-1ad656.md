@@ -3,7 +3,7 @@ title: "RAIL: Rethinking Auditory Intelligence in Large Audio-Language Models wi
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2606.11260"
-local_vault_path: "ai/research/rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md"
+local_vault_path: "ai\research\rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2606.11260
 
 ## Local Vault File
 
-Path: [rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md](file:///../../ai/research/rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md)
+Path: [rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md](file:///../../ai\research\rail-rethinking-auditory-intelligence-in-large-audio-language-models-with-a-chc-1ad656.md)

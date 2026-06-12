@@ -3,7 +3,7 @@ title: "datawhalechina/hello-agents"
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://github.com/datawhalechina/hello-agents"
-local_vault_path: "ai/rag/datawhalechina-hello-agents-150ed4.md"
+local_vault_path: "ai\rag\datawhalechina-hello-agents-150ed4.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://github.com/datawhalechina/hello-agents
 
 ## Local Vault File
 
-Path: [datawhalechina-hello-agents-150ed4.md](file:///../../ai/rag/datawhalechina-hello-agents-150ed4.md)
+Path: [datawhalechina-hello-agents-150ed4.md](file:///../../ai\rag\datawhalechina-hello-agents-150ed4.md)

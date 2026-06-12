@@ -3,7 +3,7 @@ title: "Remote VAEs for decoding with Inference Endpoints 🤗"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/remote_vae"
-local_vault_path: "ai/models/remote-vaes-for-decoding-with-inference-endpoints-48fbad.md"
+local_vault_path: "ai\models\remote-vaes-for-decoding-with-inference-endpoints-48fbad.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/remote_vae
 
 ## Local Vault File
 
-Path: [remote-vaes-for-decoding-with-inference-endpoints-48fbad.md](file:///../../ai/models/remote-vaes-for-decoding-with-inference-endpoints-48fbad.md)
+Path: [remote-vaes-for-decoding-with-inference-endpoints-48fbad.md](file:///../../ai\models\remote-vaes-for-decoding-with-inference-endpoints-48fbad.md)

@@ -3,7 +3,7 @@ title: "Welcome aMUSEd: Efficient Text-to-Image Generation"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/amused"
-local_vault_path: "ai/models/welcome-amused-efficient-text-to-image-generation-d172e3.md"
+local_vault_path: "ai\models\welcome-amused-efficient-text-to-image-generation-d172e3.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/amused
 
 ## Local Vault File
 
-Path: [welcome-amused-efficient-text-to-image-generation-d172e3.md](file:///../../ai/models/welcome-amused-efficient-text-to-image-generation-d172e3.md)
+Path: [welcome-amused-efficient-text-to-image-generation-d172e3.md](file:///../../ai\models\welcome-amused-efficient-text-to-image-generation-d172e3.md)

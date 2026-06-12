@@ -3,7 +3,7 @@ title: "4M Models Scanned: Protect AI + Hugging Face 6 Months In"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/pai-6-month"
-local_vault_path: "ai/models/4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md"
+local_vault_path: "ai\models\4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/pai-6-month
 
 ## Local Vault File
 
-Path: [4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md](file:///../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md)
+Path: [4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md](file:///../../ai\models\4m-models-scanned-protect-ai-hugging-face-6-months-in-9b606a.md)

@@ -3,7 +3,7 @@ title: "realstoman/react-tailwindcss-portfolio"
 archive_category: "frontend-ai-ui"
 source_category: "web-development/framer-motion"
 source_url: "https://github.com/realstoman/react-tailwindcss-portfolio"
-local_vault_path: "web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md"
+local_vault_path: "web-development\framer-motion\realstoman-react-tailwindcss-portfolio-abb92c.md"
 quality_score: 70
 archive_score: 77
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/realstoman/react-tailwindcss-portfolio
 
 ## Local Vault File
 
-Path: [realstoman-react-tailwindcss-portfolio-abb92c.md](file:///../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio-abb92c.md)
+Path: [realstoman-react-tailwindcss-portfolio-abb92c.md](file:///../../web-development\framer-motion\realstoman-react-tailwindcss-portfolio-abb92c.md)

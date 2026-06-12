@@ -3,7 +3,7 @@ title: "OGPO: Sample Efficient Full-Finetuning of Generative Control Policies"
 archive_category: "guardrails-security"
 source_category: "ai/research"
 source_url: "https://arxiv.org/abs/2605.03065"
-local_vault_path: "ai/research/ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md"
+local_vault_path: "ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -40,4 +40,4 @@ Original source URL: https://arxiv.org/abs/2605.03065
 
 ## Local Vault File
 
-Path: [ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md](file:///../../ai/research/ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md)
+Path: [ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md](file:///../../ai\research\ogpo-sample-efficient-full-finetuning-of-generative-control-policies-2736f9.md)

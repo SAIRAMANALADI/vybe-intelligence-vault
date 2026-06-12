@@ -3,7 +3,7 @@ title: "AI Policy @🤗: Open ML Considerations in the EU AI Act"
 archive_category: "inference-local-llm"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/eu-ai-act-oss"
-local_vault_path: "ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md"
+local_vault_path: "ai\models\ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-oss
 
 ## Local Vault File
 
-Path: [ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md](file:///../../ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md)
+Path: [ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md](file:///../../ai\models\ai-policy-open-ml-considerations-in-the-eu-ai-act-51f082.md)

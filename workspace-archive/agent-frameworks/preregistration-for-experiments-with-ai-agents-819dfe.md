@@ -3,7 +3,7 @@ title: "Preregistration for Experiments with AI Agents"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://arxiv.org/abs/2606.11217"
-local_vault_path: "ai/agents/preregistration-for-experiments-with-ai-agents-819dfe.md"
+local_vault_path: "ai\agents\preregistration-for-experiments-with-ai-agents-819dfe.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -42,4 +42,4 @@ Original source URL: https://arxiv.org/abs/2606.11217
 
 ## Local Vault File
 
-Path: [preregistration-for-experiments-with-ai-agents-819dfe.md](file:///../../ai/agents/preregistration-for-experiments-with-ai-agents-819dfe.md)
+Path: [preregistration-for-experiments-with-ai-agents-819dfe.md](file:///../../ai\agents\preregistration-for-experiments-with-ai-agents-819dfe.md)

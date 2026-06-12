@@ -3,7 +3,7 @@ title: "pdsuwwz/nextjs-nextra-starter"
 archive_category: "llm-app-templates"
 source_category: "web-development/nextjs"
 source_url: "https://github.com/pdsuwwz/nextjs-nextra-starter"
-local_vault_path: "web-development/nextjs/pdsuwwz-nextjs-nextra-starter-bfee14.md"
+local_vault_path: "web-development\nextjs\pdsuwwz-nextjs-nextra-starter-bfee14.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://github.com/pdsuwwz/nextjs-nextra-starter
 
 ## Local Vault File
 
-Path: [pdsuwwz-nextjs-nextra-starter-bfee14.md](file:///../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter-bfee14.md)
+Path: [pdsuwwz-nextjs-nextra-starter-bfee14.md](file:///../../web-development\nextjs\pdsuwwz-nextjs-nextra-starter-bfee14.md)

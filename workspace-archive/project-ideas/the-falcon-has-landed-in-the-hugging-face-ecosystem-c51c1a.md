@@ -3,7 +3,7 @@ title: "The Falcon has landed in the Hugging Face ecosystem"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/falcon"
-local_vault_path: "ai/models/the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md"
+local_vault_path: "ai\models\the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md](file:///../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md)
+Path: [the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md](file:///../../ai\models\the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md)

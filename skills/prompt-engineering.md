@@ -20,11 +20,11 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 28 resources matched in the intelligence vault.
 Recently detected signals:
-- [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) (Source: GitHub Discovery) - Collected 2026-06-11
-- [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md) (Source: Web Discovery) - Collected 2026-06-11
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md) (Source: Hugging Face Blog) - Collected 2026-06-11
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts-fc14db.md) (Source: Hugging Face Blog) - Collected 2026-06-11
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysis-using-setfit-84e1be.md) (Source: Hugging Face Blog) - Collected 2026-06-11
+- [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) (Source: Unknown Source) - Collected 2026-06-11
+- [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp-structured-output-rankings-20-04aa21.md) (Source: Unknown Source) - Collected 2026-06-11
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md) (Source: Unknown Source) - Collected 2026-06-11
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts-fc14db.md) (Source: Unknown Source) - Collected 2026-06-11
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysis-using-setfit-84e1be.md) (Source: Unknown Source) - Collected 2026-06-11
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -32,7 +32,7 @@ Recently detected signals:
 <!-- GENERATED:BEST_REPOS_START -->
 ### 1. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform-6ad403.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
-- Language: Python
+- Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
 <!-- GENERATED:BEST_REPOS_END -->
 
@@ -55,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-11T23:01:28.544798+00:00.718725+00:00.879920+00:00.575440+00:00.483996+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T04:38:13.473910+00:00.544798+00:00.718725+00:00.879920+00:00.575440+00:00.483996+00:00.

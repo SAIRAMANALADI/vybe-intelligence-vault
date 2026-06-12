@@ -3,7 +3,7 @@ title: "When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for L
 archive_category: "ai-coding-agents"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2601.22025"
-local_vault_path: "ai/rag/when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md"
+local_vault_path: "ai\rag\when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://arxiv.org/abs/2601.22025
 
 ## Local Vault File
 
-Path: [when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md](file:///../../ai/rag/when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md)
+Path: [when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md](file:///../../ai\rag\when-generic-prompt-improvements-hurt-evaluation-driven-iteration-for-llm-applic-6c7e7f.md)

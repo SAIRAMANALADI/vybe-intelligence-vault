@@ -3,7 +3,7 @@ title: "The Open Source Community is backing OpenEnv for Agentic RL"
 archive_category: "ai-browser-computer-use"
 source_category: "ai/agents"
 source_url: "https://huggingface.co/blog/openenv-agentic-rl"
-local_vault_path: "ai/agents/the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md"
+local_vault_path: "ai\agents\the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/openenv-agentic-rl
 
 ## Local Vault File
 
-Path: [the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md](file:///../../ai/agents/the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md)
+Path: [the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md](file:///../../ai\agents\the-open-source-community-is-backing-openenv-for-agentic-rl-4cd526.md)

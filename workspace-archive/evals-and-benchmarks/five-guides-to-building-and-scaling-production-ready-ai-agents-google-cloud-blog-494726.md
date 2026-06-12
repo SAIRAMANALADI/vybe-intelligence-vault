@@ -3,7 +3,7 @@ title: "Five guides to building and scaling production-ready AI agents | Google 
 archive_category: "evals-and-benchmarks"
 source_category: "ai/rag"
 source_url: "https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents"
-local_vault_path: "ai/rag/five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md"
+local_vault_path: "ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -51,4 +51,4 @@ Original source URL: https://cloud.google.com/blog/topics/developers-practitione
 
 ## Local Vault File
 
-Path: [five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md](file:///../../ai/rag/five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)
+Path: [five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md](file:///../../ai\rag\five-guides-to-building-and-scaling-production-ready-ai-agents-google-cloud-blog-494726.md)

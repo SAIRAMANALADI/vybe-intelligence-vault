@@ -3,7 +3,7 @@ title: "Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Produc
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11686"
-local_vault_path: "ai/rag/layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md"
+local_vault_path: "ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -44,4 +44,4 @@ Original source URL: https://arxiv.org/abs/2606.11686
 
 ## Local Vault File
 
-Path: [layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md](file:///../../ai/rag/layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md)
+Path: [layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md](file:///../../ai\rag\layer-isolated-evaluation-gating-the-deterministic-scaffold-of-a-production-llm-5eccf4.md)

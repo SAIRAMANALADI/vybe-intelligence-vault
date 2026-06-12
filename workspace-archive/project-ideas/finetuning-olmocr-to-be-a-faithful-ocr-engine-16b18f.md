@@ -3,7 +3,7 @@ title: "Finetuning olmOCR to be a faithful OCR-Engine"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be-a-faithful-ocr-engine"
-local_vault_path: "ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md"
+local_vault_path: "ai\models\finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be
 
 ## Local Vault File
 
-Path: [finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md](file:///../../ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md)
+Path: [finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md](file:///../../ai\models\finetuning-olmocr-to-be-a-faithful-ocr-engine-16b18f.md)

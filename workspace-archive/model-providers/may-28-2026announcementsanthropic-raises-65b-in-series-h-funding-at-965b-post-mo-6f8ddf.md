@@ -3,7 +3,7 @@ title: "May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $9
 archive_category: "model-providers"
 source_category: "ai/companies/anthropic"
 source_url: "https://www.anthropic.com/news/series-h"
-local_vault_path: "ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md"
+local_vault_path: "ai\companies\anthropic\may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md"
 quality_score: 70
 archive_score: 82
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://www.anthropic.com/news/series-h
 
 ## Local Vault File
 
-Path: [may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md](file:///../../ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md)
+Path: [may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md](file:///../../ai\companies\anthropic\may-28-2026announcementsanthropic-raises-65b-in-series-h-funding-at-965b-post-mo-6f8ddf.md)

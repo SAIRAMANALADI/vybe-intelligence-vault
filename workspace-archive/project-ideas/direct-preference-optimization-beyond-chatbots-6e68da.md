@@ -3,7 +3,7 @@ title: "Direct Preference Optimization Beyond Chatbots"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots"
-local_vault_path: "ai/models/direct-preference-optimization-beyond-chatbots-6e68da.md"
+local_vault_path: "ai\models\direct-preference-optimization-beyond-chatbots-6e68da.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/Dharma-AI/direct-preference-opt
 
 ## Local Vault File
 
-Path: [direct-preference-optimization-beyond-chatbots-6e68da.md](file:///../../ai/models/direct-preference-optimization-beyond-chatbots-6e68da.md)
+Path: [direct-preference-optimization-beyond-chatbots-6e68da.md](file:///../../ai\models\direct-preference-optimization-beyond-chatbots-6e68da.md)

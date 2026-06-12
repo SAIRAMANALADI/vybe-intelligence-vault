@@ -3,7 +3,7 @@ title: "Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account"
 archive_category: "project-ideas"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/aws-marketplace"
-local_vault_path: "ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md"
+local_vault_path: "ai\models\hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/aws-marketplace
 
 ## Local Vault File
 
-Path: [hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md](file:///../../ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md)
+Path: [hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md](file:///../../ai\models\hugging-face-hub-on-the-aws-marketplace-pay-with-your-aws-account-67fd64.md)

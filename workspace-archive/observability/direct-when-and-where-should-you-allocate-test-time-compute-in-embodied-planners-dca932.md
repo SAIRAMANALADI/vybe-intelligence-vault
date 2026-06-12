@@ -3,7 +3,7 @@ title: "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied
 archive_category: "observability"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.12402"
-local_vault_path: "ai/rag/direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md"
+local_vault_path: "ai\rag\direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md"
 quality_score: 70
 archive_score: 72
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://arxiv.org/abs/2606.12402
 
 ## Local Vault File
 
-Path: [direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md](file:///../../ai/rag/direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md)
+Path: [direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md](file:///../../ai\rag\direct-when-and-where-should-you-allocate-test-time-compute-in-embodied-planners-dca932.md)

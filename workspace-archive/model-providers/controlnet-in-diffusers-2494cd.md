@@ -3,7 +3,7 @@ title: "ControlNet in 🧨 Diffusers"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/controlnet"
-local_vault_path: "ai/models/controlnet-in-diffusers-2494cd.md"
+local_vault_path: "ai\models\controlnet-in-diffusers-2494cd.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/controlnet
 
 ## Local Vault File
 
-Path: [controlnet-in-diffusers-2494cd.md](file:///../../ai/models/controlnet-in-diffusers-2494cd.md)
+Path: [controlnet-in-diffusers-2494cd.md](file:///../../ai\models\controlnet-in-diffusers-2494cd.md)

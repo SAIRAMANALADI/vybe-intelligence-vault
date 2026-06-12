@@ -3,7 +3,7 @@ title: "Mixture of Experts (MoEs) in Transformers"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/moe-transformers"
-local_vault_path: "ai/models/mixture-of-experts-moes-in-transformers-27a9dc.md"
+local_vault_path: "ai\models\mixture-of-experts-moes-in-transformers-27a9dc.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/moe-transformers
 
 ## Local Vault File
 
-Path: [mixture-of-experts-moes-in-transformers-27a9dc.md](file:///../../ai/models/mixture-of-experts-moes-in-transformers-27a9dc.md)
+Path: [mixture-of-experts-moes-in-transformers-27a9dc.md](file:///../../ai\models\mixture-of-experts-moes-in-transformers-27a9dc.md)

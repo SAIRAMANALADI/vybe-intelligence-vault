@@ -3,7 +3,7 @@ title: "Join the AMD Open Robotics Hackathon"
 archive_category: "model-providers"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/amd/openroboticshackathon"
-local_vault_path: "ai/models/join-the-amd-open-robotics-hackathon-3272be.md"
+local_vault_path: "ai\models\join-the-amd-open-robotics-hackathon-3272be.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -39,4 +39,4 @@ Original source URL: https://huggingface.co/blog/amd/openroboticshackathon
 
 ## Local Vault File
 
-Path: [join-the-amd-open-robotics-hackathon-3272be.md](file:///../../ai/models/join-the-amd-open-robotics-hackathon-3272be.md)
+Path: [join-the-amd-open-robotics-hackathon-3272be.md](file:///../../ai\models\join-the-amd-open-robotics-hackathon-3272be.md)

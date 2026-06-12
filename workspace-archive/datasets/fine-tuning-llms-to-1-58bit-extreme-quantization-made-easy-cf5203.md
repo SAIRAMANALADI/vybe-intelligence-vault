@@ -3,7 +3,7 @@ title: "Fine-tuning LLMs to 1.58bit: extreme quantization made easy"
 archive_category: "datasets"
 source_category: "ai/models"
 source_url: "https://huggingface.co/blog/1_58_llm_extreme_quantization"
-local_vault_path: "ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md"
+local_vault_path: "ai\models\fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/1_58_llm_extreme_quantization
 
 ## Local Vault File
 
-Path: [fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md](file:///../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md)
+Path: [fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md](file:///../../ai\models\fine-tuning-llms-to-1-58bit-extreme-quantization-made-easy-cf5203.md)

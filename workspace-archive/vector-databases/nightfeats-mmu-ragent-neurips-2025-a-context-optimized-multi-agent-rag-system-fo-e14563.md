@@ -3,7 +3,7 @@ title: "NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RA
 archive_category: "vector-databases"
 source_category: "ai/rag"
 source_url: "https://arxiv.org/abs/2606.11199"
-local_vault_path: "ai/rag/nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md"
+local_vault_path: "ai\rag\nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md"
 quality_score: 70
 archive_score: 70
 archive_tier: "useful"
@@ -43,4 +43,4 @@ Original source URL: https://arxiv.org/abs/2606.11199
 
 ## Local Vault File
 
-Path: [nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md](file:///../../ai/rag/nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md)
+Path: [nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md](file:///../../ai\rag\nightfeats-mmu-ragent-neurips-2025-a-context-optimized-multi-agent-rag-system-fo-e14563.md)

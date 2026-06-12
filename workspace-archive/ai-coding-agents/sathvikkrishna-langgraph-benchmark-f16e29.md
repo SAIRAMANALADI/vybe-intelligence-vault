@@ -3,7 +3,7 @@ title: "Sathvikkrishna/langgraph-benchmark"
 archive_category: "ai-coding-agents"
 source_category: "ai/agents"
 source_url: "https://github.com/Sathvikkrishna/langgraph-benchmark"
-local_vault_path: "ai/agents/sathvikkrishna-langgraph-benchmark-f16e29.md"
+local_vault_path: "ai\agents\sathvikkrishna-langgraph-benchmark-f16e29.md"
 quality_score: 70
 archive_score: 75
 archive_tier: "useful"
@@ -45,4 +45,4 @@ Original source URL: https://github.com/Sathvikkrishna/langgraph-benchmark
 
 ## Local Vault File
 
-Path: [sathvikkrishna-langgraph-benchmark-f16e29.md](file:///../../ai/agents/sathvikkrishna-langgraph-benchmark-f16e29.md)
+Path: [sathvikkrishna-langgraph-benchmark-f16e29.md](file:///../../ai\agents\sathvikkrishna-langgraph-benchmark-f16e29.md)

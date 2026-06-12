@@ -3,7 +3,7 @@ title: "microsoft/SafeAgents"
 archive_category: "agent-frameworks"
 source_category: "ai/agents"
 source_url: "https://github.com/microsoft/SafeAgents"
-local_vault_path: "ai/agents/microsoft-safeagents-4e3b3a.md"
+local_vault_path: "ai\agents\microsoft-safeagents-4e3b3a.md"
 quality_score: 70
 archive_score: 81
 archive_tier: "useful"
@@ -47,4 +47,4 @@ Original source URL: https://github.com/microsoft/SafeAgents
 
 ## Local Vault File
 
-Path: [microsoft-safeagents-4e3b3a.md](file:///../../ai/agents/microsoft-safeagents-4e3b3a.md)
+Path: [microsoft-safeagents-4e3b3a.md](file:///../../ai\agents\microsoft-safeagents-4e3b3a.md)
