@@ -14,7 +14,22 @@ status: active
 first_seen: '2026-06-12T10:40:20.338242+00:00'
 last_seen: '2026-06-12T10:40:20.338242+00:00'
 resource_id: github:danybeltran/nextjs-typescript-and-postgresql
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 81
+change_history:
+- timestamp: '2026-06-12T10:40:20.338242+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 21.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 21
+archived: false
 ---
+
 
 
 # danybeltran/nextjs-typescript-and-postgresql

@@ -12,9 +12,24 @@ tags:
 - scripts
 stars: 125
 language: TypeScript
-status: new
+status: active
 resource_id: github:asbhogal/fyrre-magazine
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 60
+change_history:
+- timestamp: '2026-06-11T08:45:43.851346+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 33.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 33
+archived: false
 ---
+
 
 
 # asbhogal/Fyrre-Magazine

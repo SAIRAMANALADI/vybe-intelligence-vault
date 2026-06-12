@@ -8,7 +8,24 @@ tags:
 - animation
 - frontend_ui
 resource_id: github:fireship-io/framer-demo
+status: active
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 59
+change_history:
+- timestamp: '2026-06-12T10:40:18.782996+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 21.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+stars: 98
+forks: 21
+archived: false
 ---
+
 
 
 

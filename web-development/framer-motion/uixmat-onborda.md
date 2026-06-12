@@ -9,13 +9,31 @@ published_at: '2026-06-11T18:28:21Z'
 tags:
 - animation
 - frontend_ui
-stars: 1389
+stars: 1390
 language: TypeScript
 status: active
 first_seen: '2026-06-12T10:40:18.782887+00:00'
 last_seen: '2026-06-12T10:40:18.782887+00:00'
 resource_id: github:uixmat/onborda
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 95
+change_history:
+- timestamp: '2026-06-12T10:40:18.782887+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Stars updated from 1389 to 1390.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 68.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 68
+archived: false
 ---
+
 
 
 # uixmat/onborda

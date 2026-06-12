@@ -54,4 +54,4 @@ Welcome to your private local Intelligence Vault.
 - [Skill Index](skill-index.md)
 
 ---
-*Index generated on 2026-06-12T14:36:57.850857+00:00*
+*Index generated on 2026-06-12T15:23:56.044480+00:00*

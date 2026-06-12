@@ -1410,30 +1410,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: The AI tools for Art Newsletter - Issue 1
   * Source URL: <https://huggingface.co/blog/ai-art-newsletter-jan-25>
 
-## Ai — Community
-
-* **[Ear Training Practice Exercises](ai/community/ear-training-practice.md)** (`reference` | `reference` tier)
-  * Summary: Hacker News story by mattbit. Score: 45, Comments: 28. Original Link: https://tonedear.com/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tonedear.com/>
-
-## Ai — Models
-
-* **[Open R1: Update #4](ai/models/open-r1-a-fully-open-reproduction-of-deepseek-r1.md)** (`reference` | `reference` tier)
-  * Summary: No summary provided. Reference resource: Open R1: Update #4
-  * Source URL: <https://huggingface.co/blog/open-r1>
-
-* **[PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](ai/models/huggingface-blog-paddlepaddle.md)** (`reference` | `reference` tier)
-  * Summary: No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
-  * Source URL: <https://huggingface.co/blog/paddlepaddle>
-
-## Ai — Rag
-
-* **[Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](ai/rag/arxiv-2606-11930.md)** (`reference` | `reference` tier)
-  * Summary: arXiv:2606.11930v2 Announce Type: replace-cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging problem in AI-assisted interview assessment because labeled datasets are limited while each response
-  * Tags: `dataset`, `models`, `paper`, `rag`, `youtube`
-  * Source URL: <https://arxiv.org/abs/2606.11930>
-
 ## Ai — Resources
 
 * **[brandonhimpfen/awesome-llmops](ai/resources/brandonhimpfen-awesome-llmops.md)** (`reference` | `reference` tier)
@@ -1458,7 +1434,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.confident-ai.com/knowledge-base/compare/10-llm-observability-tools-to-evaluate-and-monitor-ai-2026>
 
-* **[10 Most Useful RAG Application & Use Cases [Real World Example]](ai/rag/10-most-useful-rag-application-use-cases-real-world-example-1e5c06.md)** (`dataset` | `useful` tier)
+* **[10 Most Useful RAG Application & Use Cases [Real World Example]](ai/rag/10-most-useful-rag-application-use-cases-real-worl.md)** (`dataset` | `useful` tier)
   * Summary: 10 RAG Use Cases and Real-World Applications with Examples (2026) AI-ML Updated On May 5, 2026 7 min to readArun Kumar Technology Lead Try BotPenguin Table of Contents What Is a RAG ? What is RAG Application Why Businesses are Switching to RAG Real-W
   * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://botpenguin.com/blogs/most-useful-rag-application-and-use-cases>
@@ -1502,11 +1478,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by ilreb. Score: 70, Comments: 47. Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/>
-
-* **[A jacket that harvests drinking water from the air](ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ilreb. Score: 110, Comments: 70. Original Link: https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air>
 
 * **[A practical guide to building agents | OpenAI](ai/rag/a-practical-guide-to-building-agents-openai.md)** (`benchmark` | `useful` tier)
   * Summary: A practical guide to building agentsTry ChatGPT(opens in a new window)Contact salesIntroductionLarge language models are becoming increasingly capable of handling complex, multi-step tasks. Advances in reasoning, multimodality, and tool use have unlo
@@ -1572,11 +1543,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by rarisma. Score: 428, Comments: 387. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail>
-
-* **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rarisma. Score: 158, Comments: 148. Original Link: https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail
-  * Tags: `ai`, `anthropic`, `hackernews`
-  * Source URL: <https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail>
 
 * **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by lebovic. Score: 414, Comments: 212. Original Link: https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models
@@ -1654,11 +1620,6 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://korte.co/2026/06/11/digital-sovereignty-becomes-an-imparative-as-the-us-reads-dutch-emails>
 
 * **[Ear Training Practice](ai/community/ear-training-practice.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mattbit. Score: 248, Comments: 101. Original Link: https://tonedear.com/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tonedear.com>
-
-* **[Ear Training Practice](ai/community/ear-training-practice.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by mattbit. Score: 193, Comments: 92. Original Link: https://tonedear.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tonedear.com/>
@@ -1709,11 +1670,6 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms>
 
 * **[How Terry Tao became an evangelist for AI in math](ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by Tomte. Score: 128, Comments: 104. Original Link: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608>
-
-* **[How Terry Tao became an evangelist for AI in math](ai/community/how-terry-tao-became-an-evangelist-for-ai-in-math.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by Tomte. Score: 47, Comments: 20. Original Link: https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-in-math-20260608/>
@@ -1723,7 +1679,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://dataengineeracademy.com/blog/production-rag-pipeline>
 
-* **[How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in-14-steps-2026-ff8e61.md)** (`framework` | `useful` tier)
+* **[How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)** (`framework` | `useful` tier)
   * Summary: How to Build an AI Agent with LangGraph Python in 14 Steps [2026]Sofia LindströmApril 8, 2026AI & Machine Learning Sofia Lindström April 8, 2026 27 min read LangGraph has become the go-to framework for building production-grade AI agents in Python. W
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://tech-insider.org/langgraph-tutorial-ai-agent-python-2026>
@@ -1793,7 +1749,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison>
 
-* **[LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison-2026-cf7203.md)** (`framework` | `useful` tier)
+* **[LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)** (`framework` | `useful` tier)
   * Summary: Key Findings AI Agents are evolving from "passively answering questions" to autonomous systems that "proactively perceive environments, plan steps, call tools, and self-reflect." The ReAct framework, which interleaves reasoning and action, is the mos
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `producthunt`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.meta-intelligence.tech/en/insight-ai-agent-frameworks>
@@ -2544,10 +2500,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2606.11660>
 
-* **[Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization](ai/rag/arxiv-2606-11255.md)** (`template` | `useful` tier)
-  * Summary: arXiv:2606.11255v1 Announce Type: new Abstract: Bernstein--Schur kernels are products of a finite-feature kernel (one with an explicit finite-dimensional feature map) and a completely monotone shift-invariant kernel: nonstationary kernels that fall b
-  * Source URL: <https://arxiv.org/abs/2606.11255>
-
 * **[BERT 101 - State Of The Art NLP Model Explained](ai/models/huggingface-blog-bert-101.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: BERT 101 - State Of The Art NLP Model Explained
   * Source URL: <https://huggingface.co/blog/bert-101>
@@ -3166,15 +3118,15 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights
   * Source URL: <https://huggingface.co/blog/ml-director-insights>
 
-* **[Director of Machine Learning Insights [Part 2: SaaS Edition]](ai/models/director-of-machine-learning-insights-part-2-saas-edition-9e4ac8.md)** (`tutorial` | `useful` tier)
+* **[Director of Machine Learning Insights [Part 2: SaaS Edition]](ai/models/huggingface-blog-ml-director-insights-2.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 2: SaaS Edition]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-2>
 
-* **[Director of Machine Learning Insights [Part 3: Finance Edition]](ai/models/director-of-machine-learning-insights-part-3-finance-edition-13ac40.md)** (`tutorial` | `useful` tier)
+* **[Director of Machine Learning Insights [Part 3: Finance Edition]](ai/models/huggingface-blog-ml-director-insights-3.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 3: Finance Edition]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-3>
 
-* **[Director of Machine Learning Insights [Part 4]](ai/models/director-of-machine-learning-insights-part-4-9c8855.md)** (`tutorial` | `useful` tier)
+* **[Director of Machine Learning Insights [Part 4]](ai/models/huggingface-blog-ml-director-insights-4.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Director of Machine Learning Insights [Part 4]
   * Source URL: <https://huggingface.co/blog/ml-director-insights-4>
 
@@ -3683,9 +3635,9 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels
   * Source URL: <https://huggingface.co/blog/kernel-builder>
 
-* **[Frozen Multimodal Embeddings for Personality and Cognitive Ability Assessment in Asynchronous Video Interviews](ai/rag/arxiv-2606-11930.md)** (`dataset` | `useful` tier)
-  * Summary: arXiv:2606.11930v1 Announce Type: cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging multimodal learning problem because labeled datasets are limited while each response contains high-dimensiona
-  * Tags: `models`, `rag`
+* **[Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](ai/rag/arxiv-2606-11930.md)** (`dataset` | `useful` tier)
+  * Summary: arXiv:2606.11930v2 Announce Type: replace-cross Abstract: Predicting psychological traits from asynchronous video interviews (AVIs) is a challenging problem in AI-assisted interview assessment because labeled datasets are limited while each response
+  * Tags: `dataset`, `models`, `paper`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.11930>
 
 * **[Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders](ai/rag/arxiv-2603-24603.md)** (`framework` | `useful` tier)
@@ -5234,6 +5186,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: OVHcloud on Hugging Face Inference Providers 🔥
   * Source URL: <https://huggingface.co/blog/ovhcloud>
 
+* **[PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](ai/models/huggingface-blog-paddlepaddle.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+  * Source URL: <https://huggingface.co/blog/paddlepaddle>
+
 * **[PaliGemma 2 Mix - New Instruction Vision Language Models by Google](ai/models/huggingface-blog-paligemma2mix.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: PaliGemma 2 Mix - New Instruction Vision Language Models by Google
   * Tags: `models`
@@ -5609,7 +5565,7 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Retrieval Augmented Generation with Huggingface Transformers and Ray
   * Source URL: <https://huggingface.co/blog/ray-rag>
 
-* **[Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations](ai/research/arxiv-2605-16651.md)** (`framework` | `useful` tier)
+* **[Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations](ai/research/arxiv-2605-16651.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2605.16651v2 Announce Type: replace-cross Abstract: Explanation mechanisms are increasingly used to support transparency and trust in vision-language models (VLMs), particularly in settings where model decisions require human oversight. However
   * Source URL: <https://arxiv.org/abs/2605.16651>
 
@@ -6843,11 +6799,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `python`
   * Source URL: <https://github.com/microsoft/a11y-llm-eval>
 
-* **[Scalable Deep Learning Framework for Global High-Resolution Land Use Reconstruction](ai/rag/arxiv-2606-11793.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2606.11793v2 Announce Type: replace-cross Abstract: Uncertainty in the terrestrial carbon cycle remains a major constraint in climate projections, partly driven by the uncertainties affecting the land surface representation and variability in E
-  * Tags: `rag`
-  * Source URL: <https://arxiv.org/abs/2606.11793>
-
 ## Frontend Ai Ui
 
 * **[A Resilient Solution for Sewer Overflow Monitoring across Cloud and Edge](ai/research/arxiv-2605-10592.md)** (`framework` | `useful` tier)
@@ -6870,11 +6821,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `animation`, `frontend_ui`, `scripts`
   * Source URL: <https://github.com/asbhogal/Fyrre-Magazine>
 
-* **[asbhogal/Fyrre-Magazine](web-development/nextjs/asbhogal-fyrre-magazine.md)** (`template` | `useful` tier)
-  * Summary: A bold, striking arts and life magazine website built as an SPA using Next.js, TypeScript, React Suspense, React Hook Form, Zod, Tailwind, Shadcn, GSAP and E2E Testing using Playwright from Figma templates designed by Pawel Gola.
-  * Tags: `animation`, `frontend_ui`, `scripts`
-  * Source URL: <https://github.com/asbhogal/fyrre-magazine>
-
 * **[birobirobiro/awesome-shadcn-ui](web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: A curated list of awesome things related to shadcn/ui.
   * Tags: `frontend_ui`
@@ -6895,25 +6841,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/ChangoMan/nextjs-mdx-blog>
 
-* **[ChangoMan/nextjs-mdx-blog](web-development/nextjs/changoman-nextjs-mdx-blog.md)** (`template` | `useful` tier)
-  * Summary: UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, shadcn-ui, and Tailwind CSS.
-  * Tags: `frontend_ui`
-  * Source URL: <https://github.com/changoman/nextjs-mdx-blog>
-
 * **[ChrisAbdo/MotionVariants](web-development/framer-motion/chrisabdo-motionvariants.md)** (`tool` | `useful` tier)
   * Summary: A collection of handmade Framer Motion variants made for your next project.
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/chrisabdo/motionvariants>
-
-* **[ChrisAbdo/MotionVariants](web-development/framer-motion/chrisabdo-motionvariants.md)** (`tool` | `useful` tier)
-  * Summary: A collection of handmade Framer Motion variants made for your next project.
-  * Tags: `animation`, `frontend_ui`
-  * Source URL: <https://github.com/ChrisAbdo/MotionVariants>
-
-* **[Codefreyy/joy-personal-portfolio](web-development/framer-motion/codefreyy-joy-personal-portfolio.md)** (`tool` | `useful` tier)
-  * Summary: Next.js App router, TypeScript, TailwindCSS, Framer Motion
-  * Tags: `animation`, `creative_dev`, `frontend_ui`
-  * Source URL: <https://github.com/Codefreyy/joy-personal-portfolio>
 
 * **[Codefreyy/joy-personal-portfolio](web-development/framer-motion/codefreyy-joy-personal-portfolio.md)** (`tool` | `useful` tier)
   * Summary: Next.js App router, TypeScript, TailwindCSS, Framer Motion
@@ -6983,22 +6914,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[Jpisnice/shadcn-ui-mcp-server](web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)** (`mcp-server` | `useful` tier)
   * Summary: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
   * Tags: `frontend_ui`
-  * Source URL: <https://github.com/jpisnice/shadcn-ui-mcp-server>
-
-* **[Jpisnice/shadcn-ui-mcp-server](web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)** (`mcp-server` | `useful` tier)
-  * Summary: A mcp server to allow LLMS gain context about shadcn ui component structure,usage and installation,compaitable with react,svelte 5,vue & React Native
-  * Tags: `frontend_ui`
   * Source URL: <https://github.com/Jpisnice/shadcn-ui-mcp-server>
 
 * **[K-H-Rayhan/nextjs-animated-slider](web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)** (`tool` | `useful` tier)
   * Summary: Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/k-h-rayhan/nextjs-animated-slider>
-
-* **[K-H-Rayhan/nextjs-animated-slider](web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)** (`tool` | `useful` tier)
-  * Summary: Stunning animated slider website built using Next.js, Framer Motion, and Tailwind CSS.
-  * Tags: `animation`, `frontend_ui`
-  * Source URL: <https://github.com/K-H-Rayhan/nextjs-animated-slider>
 
 * **[kartikk-k/dashboard-ui](web-development/framer-motion/kartikk-k-dashboard-ui.md)** (`tool` | `useful` tier)
   * Summary: Nextjs dashboard app built using nextjs, tailwindcss and framer-motion
@@ -7038,22 +6959,12 @@ All resources are linked to their local vault paths and preserve original source
 * **[NotStark/portfolio](web-development/nextjs/notstark-portfolio.md)** (`template` | `useful` tier)
   * Summary: A portfolio template built with Next.js, Tailwind CSS, and TypeScript.
   * Tags: `creative_dev`, `frontend_ui`
-  * Source URL: <https://github.com/notstark/portfolio>
-
-* **[NotStark/portfolio](web-development/nextjs/notstark-portfolio.md)** (`template` | `useful` tier)
-  * Summary: A portfolio template built with Next.js, Tailwind CSS, and TypeScript.
-  * Tags: `creative_dev`, `frontend_ui`
   * Source URL: <https://github.com/NotStark/portfolio>
 
 * **[ObservedObserver/streamlit-shadcn-ui](web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: Using shadcn-ui components in streamlit
   * Tags: `frontend_ui`, `reddit`
   * Source URL: <https://github.com/observedobserver/streamlit-shadcn-ui>
-
-* **[ObservedObserver/streamlit-shadcn-ui](web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)** (`template` | `useful` tier)
-  * Summary: Using shadcn-ui components in streamlit
-  * Tags: `frontend_ui`
-  * Source URL: <https://github.com/ObservedObserver/streamlit-shadcn-ui>
 
 * **[pdsuwwz/nextjs-nextra-starter](web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md)** (`template` | `useful` tier)
   * Summary: 🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI 落地页等核心场景，提供响应式设计、暗黑模式和鉴权示例代码，开箱即用、工程化完善, Deployed on Netlify and Ve
@@ -7119,11 +7030,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/sikandarjodd/svelte-animations>
-
-* **[SikandarJODD/svelte-animations](web-development/framer-motion/sikandarjodd-svelte-animations.md)** (`tool` | `useful` tier)
-  * Summary: Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
-  * Tags: `animation`, `frontend_ui`
-  * Source URL: <https://github.com/SikandarJODD/svelte-animations>
 
 * **[udecode/plate](web-development/shadcn-ui/udecode-plate.md)** (`template` | `useful` tier)
   * Summary: Rich-text editor with AI and shadcn/ui
@@ -7260,11 +7166,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/claude-fable-5-mythos-5>
 
-* **[Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
-
 * **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -7298,11 +7199,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/confidential-draft-s1-sec>
-
-* **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/confidential-draft-s1-sec>
 
 * **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)** (`reference` | `useful` tier)
@@ -7310,25 +7206,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/dxc-anthropic-alliance>
 
-* **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/dxc-anthropic-alliance>
-
 * **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/services-track-partner-hub>
-
-* **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)** (`product` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/services-track-partner-hub>
-
-* **[Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack>
 
 * **[Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats
@@ -7338,37 +7219,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
   * Source URL: <https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://antigravity.google/blog/introducing-google-antigravity-2-0>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership>
-
-* **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond>
-
-* **[May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-offi.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/milan-office-opening>
 
 * **[May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers](ai/companies/anthropic/may-27-2026announcementsanthropic-opens-milan-offi.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
@@ -7379,16 +7230,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://www.anthropic.com/news/series-h>
-
-* **[May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation](ai/companies/anthropic/may-28-2026announcementsanthropic-raises-65b-in-se.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/series-h>
-
-* **[May 28, 2026ProductIntroducing Claude Opus 4.8](ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8.md)** (`product` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: May 28, 2026ProductIntroducing Claude Opus 4.8
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-opus-4-8>
 
 * **[May 28, 2026ProductIntroducing Claude Opus 4.8](ai/companies/anthropic/may-28-2026productintroducing-claude-opus-4-8.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: May 28, 2026ProductIntroducing Claude Opus 4.8
@@ -7429,11 +7270,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
-
-* **[Responsible Scaling Policy](ai/companies/anthropic/responsible-scaling-policy.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
 
 * **[SIMA 2An agent that plays, reasons, and learns with you](ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: SIMA 2An agent that plays, reasons, and learns with you
@@ -7630,11 +7466,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12352v1 Announce Type: cross Abstract: Multi-robot collaboration allows robots to efficiently take on a wide range of tasks, from moving a couch through a doorway to assembling structures on a construction site. However, achieving such coo
   * Source URL: <https://arxiv.org/abs/2606.12352>
 
-* **[Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora](ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
-  * Tags: `models`
-  * Source URL: <https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral>
-
 * **[ConsistencyPlanner: Real-time Planning with Fast-Sampling Consistency Models](ai/agents/arxiv-2606-11569.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11569v1 Announce Type: cross Abstract: Closed-loop planning in complex, real-world driving scenarios presents a critical challenge for autonomous driving systems. While traditional rule-based methods are interpretable, their predefined heu
   * Tags: `agents`, `models`
@@ -7827,10 +7658,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Illumination-Robust Camera-Based Heart-Rate Estimation for Physiological Sensing in Robots](ai/research/arxiv-2606-12378.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12378v1 Announce Type: cross Abstract: Physiological awareness is important for service, social, and assistive robots that interact with humans in everyday environments. Remote photoplethysmography (rPPG) enables non-contact heart-rate (HR
   * Source URL: <https://arxiv.org/abs/2606.12378>
-
-* **[Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2](ai/models/huggingface-blog-packing-with-fa2.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2
-  * Source URL: <https://huggingface.co/blog/packing-with-FA2>
 
 * **[Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data](ai/research/arxiv-2604-24662.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2604.24662v2 Announce Type: replace-cross Abstract: Identifying the dynamical state variables of a system from high-dimensional observations is a central problem across physical sciences. The challenge is that the state variables are not direct
@@ -8032,11 +7859,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: New in llama.cpp: Model Management
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/ggml-org/model-management-in-llamacpp>
-
-* **[Non-engineers guide: Train a LLaMA 2 chatbot](ai/models/huggingface-blog-llama2-for-non-engineers.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Non-engineers guide: Train a LLaMA 2 chatbot
-  * Tags: `models`
-  * Source URL: <https://huggingface.co/blog/Llama2-for-non-engineers>
 
 * **[Non-frontal face recognition using GANs and memristor-based classifiers](ai/research/arxiv-2606-12074.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12074v1 Announce Type: cross Abstract: Face recognition systems have advanced significantly through deep learning techniques, delivering high performance and robustness in complex scenarios. However, these approaches incur substantial comp
@@ -8330,11 +8152,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Training mRNA Language Models Across 25 Species for $165
   * Source URL: <https://huggingface.co/blog/OpenMed/training-mrna-models-25-species>
 
-* **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/huggingface-blog-transformersjs-v3.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
-  * Tags: `webgpu`
-  * Source URL: <https://huggingface.co/blog/transformersjs-v3>
-
 * **[TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search](ai/agents/arxiv-2606-11662.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11662v1 Announce Type: new Abstract: Deep search requires agents to answer complex questions through multi-step web search, browsing, evidence comparison, and synthesis. A central challenge is deciding how to search when several directions
   * Tags: `agents`
@@ -8366,10 +8183,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.09426v2 Announce Type: replace Abstract: Computer-use agents (CUAs) increasingly operate in runtimes that combine visual desktop control, command-line execution, code editing, browsers, and external tools. Existing benchmarks, however, oft
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.09426>
-
-* **[Welcome PaddlePaddle to the Hugging Face Hub](ai/models/huggingface-blog-paddlepaddle.md)** (`reference` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Welcome PaddlePaddle to the Hugging Face Hub
-  * Source URL: <https://huggingface.co/blog/paddlepaddle>
 
 * **[Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub](ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md)** (`reference` | `useful` tier)
   * Summary: No summary provided. Reference resource: Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub
@@ -8434,17 +8247,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[codebucks27/3D-Landing-page-for-Apple-iPhone](web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md)** (`template` | `useful` tier)
   * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
   * Tags: `animation`, `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/codebucks27/3d-landing-page-for-apple-iphone>
-
-* **[codebucks27/3D-Landing-page-for-Apple-iPhone](web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md)** (`template` | `useful` tier)
-  * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
-  * Tags: `animation`, `frontend_ui`, `threejs`
   * Source URL: <https://github.com/codebucks27/3D-Landing-page-for-Apple-iPhone>
-
-* **[codebucks27/Apple-iphone-3d-landing-page-starter-Code](web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md)** (`template` | `useful` tier)
-  * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
-  * Tags: `animation`, `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code>
 
 * **[codebucks27/Apple-iphone-3d-landing-page-starter-Code](web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md)** (`template` | `useful` tier)
   * Summary: Create awesome landing page for Apple iPhone 14 using Three JS and React JS. This website uses threeJS to render 3D model of iPhone and GSAP for scrolling animations. If you want to learn how to create this website then you can follow tutorial link g
@@ -8455,16 +8258,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Build a cool NFT Collection website landing page with React JS . This website is created using Gsap for cool scrolling and animation. If you want to learn how to create this website then you can follow below tutorial link in the ReadMe.
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/codebucks27/The-Weirdos-NFT-Website-Starter-Code>
-
-* **[codebucks27/The-Weirdos-NFT-Website-Starter-Code](web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md)** (`template` | `useful` tier)
-  * Summary: Build a cool NFT Collection website landing page with React JS . This website is created using Gsap for cool scrolling and animation. If you want to learn how to create this website then you can follow below tutorial link in the ReadMe.
-  * Tags: `animation`, `frontend_ui`
-  * Source URL: <https://github.com/codebucks27/the-weirdos-nft-website-starter-code>
-
-* **[EasyFrontendHQ/html-tailwindcss-components](web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)** (`template` | `useful` tier)
-  * Summary: Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
-  * Tags: `frontend_ui`
-  * Source URL: <https://github.com/easyfrontendhq/html-tailwindcss-components>
 
 * **[EasyFrontendHQ/html-tailwindcss-components](web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)** (`template` | `useful` tier)
   * Summary: Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
@@ -8484,11 +8277,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/ixartz/saas-boilerplate>
-
-* **[ixartz/SaaS-Boilerplate](web-development/nextjs/ixartz-saas-boilerplate.md)** (`template` | `useful` tier)
-  * Summary: 🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing
-  * Tags: `frontend_ui`
-  * Source URL: <https://github.com/ixartz/SaaS-Boilerplate>
 
 * **[nobruf/shadcn-landing-page](web-development/nextjs/nobruf-shadcn-landing-page.md)** (`template` | `useful` tier)
   * Summary: New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
@@ -8512,12 +8300,12 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Vector Databases
 
-* **[[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](ai/rag/2501-07391-enhancing-retrieval-augmented-generation-a-study-of-best-practices-c2a56b.md)** (`benchmark` | `useful` tier)
+* **[[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](ai/rag/arxiv-2501-07391.md)** (`benchmark` | `useful` tier)
   * Summary: Computer Science > Computation and Language arXiv:2501.07391 (cs) [Submitted on 13 Jan 2025] Title:Enhancing Retrieval-Augmented Generation: A Study of Best Practices Authors:Siran Li, Linus Stenzel, Carsten Eickhoff, Seyed Ali Bahrainian View a PDF
   * Tags: `hackernews`, `paper`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://arxiv.org/abs/2501.07391>
 
-* **[[2510.12323] RAG-Anything: All-in-One RAG Framework](ai/rag/2510-12323-rag-anything-all-in-one-rag-framework-ad9680.md)** (`framework` | `useful` tier)
+* **[[2510.12323] RAG-Anything: All-in-One RAG Framework](ai/rag/arxiv-2510-12323.md)** (`framework` | `useful` tier)
   * Summary: Computer Science > Artificial Intelligence arXiv:2510.12323 (cs) [Submitted on 14 Oct 2025] Title:RAG-Anything: All-in-One RAG Framework Authors:Zirui Guo, Xubin Ren, Lingrui Xu, Jiahao Zhang, Chao Huang View a PDF of the paper titled RAG-Anything: A
   * Tags: `benchmark`, `paper`, `paperswithcode`, `rag`, `reddit`, `semantic-scholar`, `web-crawled`
   * Source URL: <https://arxiv.org/abs/2510.12323>
@@ -8942,7 +8730,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `rag`
   * Source URL: <https://arxiv.org/abs/2605.28882>
 
-* **[Hands-On RAG for Production [Book]](ai/rag/hands-on-rag-for-production-book-b22f88.md)** (`framework` | `useful` tier)
+* **[Hands-On RAG for Production [Book]](ai/rag/hands-on-rag-for-production-book.md)** (`framework` | `useful` tier)
   * Summary: June 2026Intermediate to advanced358 pages10h 52mEnglishO'Reilly Media, Inc.
   * Tags: `rag`, `reddit`, `web-crawled`
   * Source URL: <https://www.oreilly.com/library/view/hands-on-rag-for/9798341621701>
@@ -9727,11 +9515,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[TomIsLoading/framer-motion-crash-course](web-development/framer-motion/tomisloading-framer-motion-crash-course.md)** (`reference` | `reference` tier)
   * Summary: No description provided.
   * Tags: `animation`
-  * Source URL: <https://github.com/TomIsLoading/framer-motion-crash-course>
-
-* **[TomIsLoading/framer-motion-crash-course](web-development/framer-motion/tomisloading-framer-motion-crash-course.md)** (`reference` | `reference` tier)
-  * Summary: No description provided.
-  * Tags: `animation`
   * Source URL: <https://github.com/tomisloading/framer-motion-crash-course>
 
 * **[wrongakram/framermotion-react-router](web-development/framer-motion/wrongakram-framermotion-react-router.md)** (`reference` | `reference` tier)
@@ -9749,17 +9532,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[chrisgannon/ScrollLottie](web-development/gsap/chrisgannon-scrolllottie.md)** (`reference` | `reference` tier)
   * Summary: Use GSAP ScrollTrigger to scroll through a Lottie animation
   * Tags: `animation`
-  * Source URL: <https://github.com/chrisgannon/scrolllottie>
-
-* **[chrisgannon/ScrollLottie](web-development/gsap/chrisgannon-scrolllottie.md)** (`reference` | `reference` tier)
-  * Summary: Use GSAP ScrollTrigger to scroll through a Lottie animation
-  * Tags: `animation`
   * Source URL: <https://github.com/chrisgannon/ScrollLottie>
-
-* **[codrops/ScrollBasedLayoutAnimations](web-development/gsap/codrops-scrollbasedlayoutanimations.md)** (`reference` | `reference` tier)
-  * Summary: An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
-  * Tags: `animation`, `models`
-  * Source URL: <https://github.com/codrops/ScrollBasedLayoutAnimations>
 
 * **[codrops/ScrollBasedLayoutAnimations](web-development/gsap/codrops-scrollbasedlayoutanimations.md)** (`reference` | `reference` tier)
   * Summary: An exploration of different scroll based layout switch animations using GSAP's ScrollTrigger and Flip.
@@ -9803,30 +9576,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/brendan-duncan/wgsl_reflect>
 
-* **[Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](ai/research/arxiv-2510-03520.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2510.03520v2 Announce Type: replace-cross Abstract: Ensuring safety is a foundational requirement for large language models (LLMs). Achieving an appropriate balance between enhancing the utility of model outputs and mitigating their potential f
-  * Tags: `threejs`
-  * Source URL: <https://arxiv.org/abs/2510.03520>
-
 * **[ChartGPU/ChartGPU](web-development/webgpu/chartgpu-chartgpu.md)** (`framework` | `useful` tier)
   * Summary: Beautiful, open source, WebGPU-based charting library
   * Tags: `threejs`
   * Source URL: <https://github.com/chartgpu/chartgpu>
 
-* **[ChartGPU/ChartGPU](web-development/webgpu/chartgpu-chartgpu.md)** (`framework` | `useful` tier)
-  * Summary: Beautiful, open source, WebGPU-based charting library
-  * Tags: `threejs`
-  * Source URL: <https://github.com/ChartGPU/ChartGPU>
-
 * **[chenjsh36/ThreeJSForFun](web-development/threejs/chenjsh36-threejsforfun.md)** (`tool` | `useful` tier)
   * Summary: 收集关于 ThreeJS 的系列教程、Demo、工具，整理学习笔记和Demo
   * Tags: `threejs`
   * Source URL: <https://github.com/chenjsh36/ThreeJSForFun>
-
-* **[chenjsh36/ThreeJSForFun](web-development/threejs/chenjsh36-threejsforfun.md)** (`tool` | `useful` tier)
-  * Summary: 收集关于 ThreeJS 的系列教程、Demo、工具，整理学习笔记和Demo
-  * Tags: `threejs`
-  * Source URL: <https://github.com/chenjsh36/threejsforfun>
 
 * **[coldi/r3f-game-demo](web-development/react-three-fiber/coldi-r3f-game-demo.md)** (`tool` | `useful` tier)
   * Summary: A demo on how to do a simple tile-based game with React and react-three-fiber
@@ -9853,11 +9611,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/dhruvmisra/pathfinding-visualizer-threejs>
 
-* **[dhruvmisra/Pathfinding-Visualizer-ThreeJS](web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md)** (`tool` | `useful` tier)
-  * Summary: A visualizer for pathfinding algorithms in 3D with maze generation, first-person view and device camera input.
-  * Tags: `threejs`
-  * Source URL: <https://github.com/dhruvmisra/Pathfinding-Visualizer-ThreeJS>
-
 * **[ektogamat/r3f-webgpu-starter](web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md)** (`tool` | `useful` tier)
   * Summary: React Three Fiber WebGPU Post Processing by Anderson Mancini. A very simple scene to demonstrate how to integrate Threejs WebGPU with React Three Fiber using Post Processing effects.
   * Tags: `frontend_ui`, `threejs`
@@ -9872,11 +9625,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Liquid shader with glass material using threejs and react-three-fiber
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/emmelleppi/r3f-cheers>
-
-* **[Epiczzor/r3f-template](web-development/react-three-fiber/epiczzor-r3f-template.md)** (`template` | `useful` tier)
-  * Summary: a starter project for react-three-fiber and some more useful packages
-  * Tags: `frontend_ui`, `reddit`, `threejs`
-  * Source URL: <https://github.com/epiczzor/r3f-template>
 
 * **[Epiczzor/r3f-template](web-development/react-three-fiber/epiczzor-r3f-template.md)** (`template` | `useful` tier)
   * Summary: a starter project for react-three-fiber and some more useful packages
@@ -9897,11 +9645,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Rendering engine based on webgpu
   * Tags: `threejs`
   * Source URL: <https://github.com/gengine-js/gengine>
-
-* **[GEngine-js/GEngine](web-development/webgpu/gengine-js-gengine.md)** (`tool` | `useful` tier)
-  * Summary: Rendering engine based on webgpu
-  * Tags: `threejs`
-  * Source URL: <https://github.com/GEngine-js/GEngine>
 
 * **[gkjohnson/threejs-sandbox](web-development/threejs/gkjohnson-threejs-sandbox.md)** (`tool` | `useful` tier)
   * Summary: Set of experiments and extensions to THREE.js.
@@ -9941,17 +9684,7 @@ All resources are linked to their local vault paths and preserve original source
 * **[hjlld/LearningWebGPU](web-development/webgpu/hjlld-learningwebgpu.md)** (`tutorial` | `useful` tier)
   * Summary: WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.
   * Tags: `threejs`
-  * Source URL: <https://github.com/hjlld/learningwebgpu>
-
-* **[hjlld/LearningWebGPU](web-development/webgpu/hjlld-learningwebgpu.md)** (`tutorial` | `useful` tier)
-  * Summary: WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.
-  * Tags: `threejs`
   * Source URL: <https://github.com/hjlld/LearningWebGPU>
-
-* **[idflood/ThreeNodes.js](web-development/webgl/idflood-threenodes-js.md)** (`tool` | `useful` tier)
-  * Summary: vvvv "clone" in javascript/webgl
-  * Tags: `threejs`
-  * Source URL: <https://github.com/idflood/threenodes.js>
 
 * **[idflood/ThreeNodes.js](web-development/webgl/idflood-threenodes-js.md)** (`tool` | `useful` tier)
   * Summary: vvvv "clone" in javascript/webgl
@@ -9968,11 +9701,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/juniorxsound/R3F.Multiplayer>
 
-* **[juniorxsound/R3F.Multiplayer](web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)** (`template` | `useful` tier)
-  * Summary: Small React three fiber multiplayer template 🎮
-  * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/juniorxsound/r3f.multiplayer>
-
 * **[Knowledge Manifold: A Riemannian Geometric Framework for Semantic Mapping and Geodesic Analysis of Scientific Literature](ai/research/arxiv-2606-05907.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.05907v2 Announce Type: replace-cross Abstract: We present the knowledge manifold: a Riemannian geometric space in which a corpus of documents is arranged according to semantic positional relationships derived from character n-gram TF-IDF r
   * Tags: `paper`, `threejs`
@@ -9988,11 +9716,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/Mario343214420/Webgl-Data-Demo>
 
-* **[Mario343214420/Webgl-Data-Demo](web-development/threejs/mario343214420-webgl-data-demo.md)** (`tool` | `useful` tier)
-  * Summary: 基于Vue、three.js、echarts，数据可视化展示项目，包含三维模型导入交互、三维模型标注等功能
-  * Tags: `threejs`
-  * Source URL: <https://github.com/mario343214420/webgl-data-demo>
-
 * **[mikbry/awesome-webgpu](web-development/webgpu/mikbry-awesome-webgpu.md)** (`tool` | `useful` tier)
   * Summary: 😎 Curated list of awesome things around WebGPU ecosystem.
   * Tags: `threejs`
@@ -10002,11 +9725,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Three.js-based implementation of 3D Gaussian splatting
   * Tags: `threejs`
   * Source URL: <https://github.com/mkkellogg/gaussiansplats3d>
-
-* **[mkkellogg/GaussianSplats3D](web-development/threejs/mkkellogg-gaussiansplats3d.md)** (`tool` | `useful` tier)
-  * Summary: Three.js-based implementation of 3D Gaussian splatting
-  * Tags: `threejs`
-  * Source URL: <https://github.com/mkkellogg/GaussianSplats3D>
 
 * **[mohitvirli/mohitvirli.github.io](web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)** (`tool` | `useful` tier)
   * Summary: Portfolio website in React-three-fiber, Drei & GSAP
@@ -10027,11 +9745,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
   * Tags: `threejs`
   * Source URL: <https://github.com/Orillusion/orillusion>
-
-* **[Orillusion/orillusion](web-development/webgpu/orillusion-orillusion.md)** (`tool` | `useful` tier)
-  * Summary: Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard.
-  * Tags: `threejs`
-  * Source URL: <https://github.com/orillusion/orillusion>
 
 * **[patriciogonzalezvivo/lygia](web-development/webgpu/patriciogonzalezvivo-lygia.md)** (`framework` | `useful` tier)
   * Summary: LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal, WGSL, WEGL and CUDA) shader library designed for performance and flexibility
@@ -10096,11 +9809,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[PolyMeilex/vscode-wgsl](web-development/webgpu/polymeilex-vscode-wgsl.md)** (`tool` | `useful` tier)
   * Summary: VsCode Syntax highlight for WGSL files
   * Tags: `threejs`
-  * Source URL: <https://github.com/polymeilex/vscode-wgsl>
-
-* **[PolyMeilex/vscode-wgsl](web-development/webgpu/polymeilex-vscode-wgsl.md)** (`tool` | `useful` tier)
-  * Summary: VsCode Syntax highlight for WGSL files
-  * Tags: `threejs`
   * Source URL: <https://github.com/PolyMeilex/vscode-wgsl>
 
 * **[puxiao/threejs-tutorial](web-development/threejs/puxiao-threejs-tutorial.md)** (`tutorial` | `useful` tier)
@@ -10112,11 +9820,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Go bindings for WebGPU, a safe & cross-platform GPU abstraction
   * Tags: `threejs`
   * Source URL: <https://github.com/rajveermalviya/go-webgpu>
-
-* **[redcamel/RedGPU](web-development/webgpu/redcamel-redgpu.md)** (`framework` | `useful` tier)
-  * Summary: RedGPU - JavaScript WebGPU Library
-  * Tags: `threejs`
-  * Source URL: <https://github.com/redcamel/redgpu>
 
 * **[redcamel/RedGPU](web-development/webgpu/redcamel-redgpu.md)** (`framework` | `useful` tier)
   * Summary: RedGPU - JavaScript WebGPU Library
@@ -10133,35 +9836,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/Scthe/nanite-webgpu>
 
-* **[Scthe/nanite-webgpu](web-development/webgpu/scthe-nanite-webgpu.md)** (`tool` | `useful` tier)
-  * Summary: UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis.
-  * Tags: `threejs`
-  * Source URL: <https://github.com/scthe/nanite-webgpu>
-
 * **[ShowravKormokar/capsule](web-development/gsap/showravkormokar-capsule.md)** (`tool` | `useful` tier)
   * Summary: This is a clone of the Awwwards-winning "capsule.moyra.co," developed to level up my frontend skills. The goal was to reverse-engineer the site's complex animations and responsive layout using React, Vite, GSAP, and Tailwind CSS. It serves as a portf
   * Tags: `animation`, `creative_dev`, `frontend_ui`
   * Source URL: <https://github.com/ShowravKormokar/capsule>
 
-* **[ShowravKormokar/capsule](web-development/gsap/showravkormokar-capsule.md)** (`tool` | `useful` tier)
-  * Summary: This is a clone of the Awwwards-winning "capsule.moyra.co," developed to level up my frontend skills. The goal was to reverse-engineer the site's complex animations and responsive layout using React, Vite, GSAP, and Tailwind CSS. It serves as a portf
-  * Tags: `animation`, `creative_dev`, `frontend_ui`, `reddit`
-  * Source URL: <https://github.com/showravkormokar/capsule>
-
 * **[spite/Wagner](web-development/threejs/spite-wagner.md)** (`tool` | `useful` tier)
   * Summary: Effects composer for three.js
   * Tags: `threejs`
   * Source URL: <https://github.com/spite/Wagner>
-
-* **[spite/Wagner](web-development/threejs/spite-wagner.md)** (`tool` | `useful` tier)
-  * Summary: Effects composer for three.js
-  * Tags: `threejs`
-  * Source URL: <https://github.com/spite/wagner>
-
-* **[SuboptimalEng/slime-sim-webgpu](web-development/webgpu/suboptimaleng-slime-sim-webgpu.md)** (`tool` | `useful` tier)
-  * Summary: 🦠 Slime mold simulation with WebGPU and TypeScript.
-  * Tags: `threejs`
-  * Source URL: <https://github.com/suboptimaleng/slime-sim-webgpu>
 
 * **[SuboptimalEng/slime-sim-webgpu](web-development/webgpu/suboptimaleng-slime-sim-webgpu.md)** (`tool` | `useful` tier)
   * Summary: 🦠 Slime mold simulation with WebGPU and TypeScript.
@@ -10178,30 +9861,15 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/takahirox/online-wgsl-editor>
 
-* **[TaskFusion: Continual Anomaly Detection for Heterogeneous Tabular Data](ai/research/arxiv-2606-11844.md)** (`dataset` | `useful` tier)
-  * Summary: arXiv:2606.11844v1 Announce Type: new Abstract: Continual anomaly detection in tabular data is challenging and remains largely underexplored, particularly in settings with heterogeneous feature schemas, distribution shifts, and severe class imbalance
-  * Tags: `models`, `threejs`
-  * Source URL: <https://arxiv.org/abs/2606.11844>
-
 * **[TiagoCavalcante/r3f-native-orbitcontrols](web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)** (`tool` | `useful` tier)
   * Summary: OrbitControls for React Three Fiber in React Native
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/TiagoCavalcante/r3f-native-orbitcontrols>
 
-* **[TiagoCavalcante/r3f-native-orbitcontrols](web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)** (`tool` | `useful` tier)
-  * Summary: OrbitControls for React Three Fiber in React Native
-  * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/tiagocavalcante/r3f-native-orbitcontrols>
-
 * **[Transformers.js v3: WebGPU Support, New Models & Tasks, and More…](ai/models/huggingface-blog-transformersjs-v3.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
   * Tags: `threejs`
   * Source URL: <https://huggingface.co/blog/transformersjs-v3>
-
-* **[Unifying Learning Dynamics and Generalization in Transformers Scaling Law](ai/research/arxiv-2512-22088.md)** (`framework` | `useful` tier)
-  * Summary: arXiv:2512.22088v3 Announce Type: replace-cross Abstract: The scaling law, a cornerstone of Large Language Model (LLM) development, predicts improvements in model performance with increasing computational resources. Yet, while empirically validated,
-  * Tags: `threejs`
-  * Source URL: <https://arxiv.org/abs/2512.22088>
 
 * **[vasturiano/3d-force-graph](web-development/threejs/vasturiano-3d-force-graph.md)** (`tool` | `useful` tier)
   * Summary: 3D force-directed graph component using ThreeJS/WebGL
@@ -10248,25 +9916,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `threejs`
   * Source URL: <https://github.com/wolfwind521/indoor3d>
 
-* **[wolfwind521/indoor3D](web-development/threejs/wolfwind521-indoor3d.md)** (`tool` | `useful` tier)
-  * Summary: a js lib based on three.js to show 3D indoor map
-  * Tags: `threejs`
-  * Source URL: <https://github.com/wolfwind521/indoor3D>
-
 * **[wrongakram/R3F-Chairs](web-development/react-three-fiber/wrongakram-r3f-chairs.md)** (`tool` | `useful` tier)
   * Summary: React three fiber
   * Tags: `frontend_ui`, `threejs`
   * Source URL: <https://github.com/wrongakram/R3F-Chairs>
-
-* **[wrongakram/R3F-Chairs](web-development/react-three-fiber/wrongakram-r3f-chairs.md)** (`tool` | `useful` tier)
-  * Summary: React three fiber
-  * Tags: `frontend_ui`, `threejs`
-  * Source URL: <https://github.com/wrongakram/r3f-chairs>
-
-* **[xiao149/ThreeJsDemo](web-development/threejs/xiao149-threejsdemo.md)** (`tool` | `useful` tier)
-  * Summary: ThreeJs示例代码
-  * Tags: `threejs`
-  * Source URL: <https://github.com/xiao149/threejsdemo>
 
 * **[xiao149/ThreeJsDemo](web-development/threejs/xiao149-threejsdemo.md)** (`tool` | `useful` tier)
   * Summary: ThreeJs示例代码

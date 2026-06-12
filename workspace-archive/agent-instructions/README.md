@@ -31,4 +31,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-06-12 14:37 UTC*
+*Last updated: 2026-06-12 15:23 UTC*

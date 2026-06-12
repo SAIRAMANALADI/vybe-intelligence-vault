@@ -12,9 +12,24 @@ tags:
 - threejs
 stars: 107
 language: JavaScript
-status: new
+status: active
 resource_id: github:codebucks27/3d-landing-page-for-apple-iphone
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 60
+change_history:
+- timestamp: '2026-06-11T08:45:42.451808+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 34.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 34
+archived: false
 ---
+
 
 
 # codebucks27/3D-Landing-page-for-Apple-iPhone

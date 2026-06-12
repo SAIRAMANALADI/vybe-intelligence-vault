@@ -10,11 +10,29 @@ tags:
 - animation
 - creative_dev
 - frontend_ui
-stars: 60
+stars: 59
 language: JavaScript
-status: new
+status: active
 resource_id: github:showravkormokar/capsule
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 83
+change_history:
+- timestamp: '2026-06-11T08:45:42.451825+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Stars updated from 60 to 59.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 9.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 9
+archived: false
 ---
+
 
 
 # ShowravKormokar/capsule

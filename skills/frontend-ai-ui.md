@@ -15,23 +15,30 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 - Natural Language Form-Filling and UI Controls
 - State Management for Multi-Modal AI Conversations
 
-## Best Resources Found
+## Current Signal
 
-No resources found matching this skill yet.
+<!-- GENERATED:CURRENT_SIGNAL_START -->
+No active signals detected in the vault yet.
+<!-- GENERATED:CURRENT_SIGNAL_END -->
 
-## Best GitHub Repositories
+## Best Repositories
 
+<!-- GENERATED:BEST_REPOS_START -->
 No GitHub repositories found matching this skill yet.
+<!-- GENERATED:BEST_REPOS_END -->
 
-## Projects To Build
+## Project Ideas
 
-1. Build a real-time chat client that streams interactive charts
-2. Develop a voice-controlled dashboard using natural language commands
-3. Create a generative code-editor component visualizer
+<!-- GENERATED:PROJECT_IDEAS_START -->
+- Build a real-time chat client that streams interactive charts
+- Develop a voice-controlled dashboard using natural language commands
+- Create a generative code-editor component visualizer
+<!-- GENERATED:PROJECT_IDEAS_END -->
 
 ## Related Skills
 
-- Three.js & WebGL
+- web-development/ai-ui
+- web-development/react
 
 ## Job Relevance
 
@@ -39,4 +46,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T14:36:54.957653+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.913945+00:00.

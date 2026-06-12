@@ -15,7 +15,22 @@ status: active
 first_seen: '2026-06-12T10:40:18.782986+00:00'
 last_seen: '2026-06-12T10:40:18.782986+00:00'
 resource_id: github:kheruc/rt-next-motion
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 61
+change_history:
+- timestamp: '2026-06-12T10:40:18.782986+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 13.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 13
+archived: false
 ---
+
 
 
 # kheruc/rt-next-motion

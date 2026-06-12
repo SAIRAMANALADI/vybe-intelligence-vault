@@ -11,9 +11,24 @@ tags:
 - frontend_ui
 stars: 429
 language: JavaScript
-status: new
+status: active
 resource_id: github:codebucks27/the-weirdos-nft-website-starter-code
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 63
+change_history:
+- timestamp: '2026-06-11T08:45:42.451799+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 224.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+forks: 224
+archived: false
 ---
+
 
 
 # codebucks27/The-Weirdos-NFT-Website-Starter-Code

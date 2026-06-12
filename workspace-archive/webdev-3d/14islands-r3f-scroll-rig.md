@@ -8,7 +8,28 @@ tags:
 - frontend_ui
 - threejs
 resource_id: github:14islands/r3f-scroll-rig
+status: active
+last_checked: '2026-06-12T15:13:16.093710Z'
+health_score: 84
+change_history:
+- timestamp: '2026-06-12T10:40:15.865486+00:00'
+  event_type: discovered
+  description: Resource first seen and stored in the vault.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Forks updated from None to 48.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: Archived updated from None to False.
+- timestamp: '2026-06-12T15:13:16.093710Z'
+  event_type: metadata_update
+  description: License updated from None to MIT License.
+stars: 941
+forks: 48
+archived: false
+license: MIT License
 ---
+
 
 
 

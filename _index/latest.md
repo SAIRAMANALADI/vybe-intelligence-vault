@@ -253,4 +253,4 @@ The 50 newest resources collected across the intelligence vault.
 - **Local Path**: `ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md`
 
 ---
-*Index generated on 2026-06-12T14:36:58.017738+00:00*
+*Index generated on 2026-06-12T15:23:56.157355+00:00*

@@ -44,28 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2041 |
-| Active resources | 2041 |
+| Resources tracked | 2095 |
+| Active resources | 2095 |
 | Inactive resources | 0 |
-| Archive files | 9367 |
+| Archive files | 11449 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 10:42 UTC |
+| Last meaningful update | 2026-06-12 15:24 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- No trending items found.
+- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (Rank: +6) (+270 points)
+- **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (Rank: +538)
+- **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (Rank: +538)
+- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +538)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +538)
 
 #### ✨ New Discoveries
 - **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 631)
-- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md)** (Score: 427)
-- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable.md)** (Score: 414)
-- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)** (Score: 384)
-- **[L'Affaire Siloxane](ai/community/l-affaire-siloxane.md)** (Score: 225)
+- **[Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md)** (Score: 143)
+- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Score: 0)
+- **[Unlocking the power of unstructured data with RAG - The GitHub Blog](ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)** (Score: 0)
+- **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/huggingface-blog-how-to-train.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.
