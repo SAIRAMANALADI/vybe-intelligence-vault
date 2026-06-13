@@ -17,15 +17,15 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Category | Count |
 |---|---:|
 | ai/models | 733 |
+| ai/rag | 438 |
 | ai/research | 433 |
-| ai/rag | 430 |
 | ai/agents | 279 |
-| ai/community | 41 |
+| ai/community | 42 |
+| ai/resources | 26 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
-| ai/resources | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
 | ai/companies/anthropic | 11 |
@@ -42,17 +42,17 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Tag | Count |
 |---|---:|
 | agents | 451 |
-| rag | 431 |
-| benchmark | 384 |
+| rag | 439 |
+| benchmark | 385 |
 | models | 328 |
 | dataset | 219 |
-| hackernews | 181 |
-| paper | 161 |
+| hackernews | 186 |
+| paper | 162 |
 | github-repo | 142 |
 | workflows | 138 |
-| frontend_ui | 132 |
-| youtube | 100 |
-| web-crawled | 99 |
+| frontend_ui | 133 |
+| web-crawled | 108 |
+| youtube | 101 |
 | openai | 93 |
 | anthropic | 84 |
 | threejs | 82 |
@@ -64,14 +64,14 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 3. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md) ([Source](https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 477) - `ai/community`
 4. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md) ([Source](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable)) (HN Score: 427) - `ai/community`
 5. [Anthropic requires 30 day data retention for Fable and Mythos](../../../ai/community/anthropic-requires-30-day-data-retention-for-fable.md) ([Source](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)) (HN Score: 414) - `ai/community`
-6. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md) ([Source](https://lwn.net/subscriberlink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
-7. [Palantir loses legal challenge against Swiss investigative magazine](../../../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md) ([Source](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) (HN Score: 338) - `ai/community`
-8. [Show HN: Putt.day a daily mini golf game](../../../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md) ([Source](https://putt.day)) (HN Score: 281) - `ai/community`
-9. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
-10. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
-11. [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](../../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md) ([Source](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578)) (HN Score: 215) - `ai/community`
-12. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 211) - `ai/community`
-13. [AI OSS tool repo goes archived over night after raising $7.3M Seed](../../../ai/community/tensorzero-tensorzero.md) ([Source](https://github.com/tensorzero/tensorzero)) (HN Score: 208) - `ai/community`
+6. [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](../../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md) ([Source](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink)) (HN Score: 396) - `ai/community`
+7. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md) ([Source](https://lwn.net/subscriberlink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
+8. [Palantir loses legal challenge against Swiss investigative magazine](../../../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md) ([Source](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) (HN Score: 338) - `ai/community`
+9. [Show HN: Putt.day a daily mini golf game](../../../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md) ([Source](https://putt.day)) (HN Score: 281) - `ai/community`
+10. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
+11. [AI OSS tool repo goes archived over night after raising $7.3M Seed](../../../ai/community/tensorzero-tensorzero.md) ([Source](https://github.com/tensorzero/tensorzero)) (HN Score: 221) - `ai/community`
+12. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
+13. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 211) - `ai/community`
 14. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
 15. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
 
@@ -123,11 +123,11 @@ No updates collected under this section this week.
 4. [davidlyons/threejs-intro](../../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 5. [fireship-io/threejs-scroll-animation-demo](../../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 6. [pmndrs/react-three-fiber](../../../web-development/threejs/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-7. [mkkellogg/GaussianSplats3D](../../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-8. [idflood/ThreeNodes.js](../../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
+7. [idflood/ThreeNodes.js](../../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
+8. [mkkellogg/GaussianSplats3D](../../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 9. [vasturiano/3d-force-graph](../../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-10. [creativelifeform/three-nebula](../../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-11. [pixiv/three-vrm](../../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+10. [pixiv/three-vrm](../../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+11. [creativelifeform/three-nebula](../../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 12. [gkjohnson/threejs-sandbox](../../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 13. [xiao149/ThreeJsDemo](../../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 14. [puxiao/threejs-tutorial](../../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
@@ -135,10 +135,10 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [RAG](../../../skills/rag.md) (894 updates)
-- [Workflow Automation](../../../skills/automation.md) (679 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (444 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (431 updates)
+- [RAG](../../../skills/rag.md) (902 updates)
+- [Workflow Automation](../../../skills/automation.md) (683 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (447 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (439 updates)
 - [AI Agents](../../../skills/ai-agents.md) (366 updates)
 - [LLMOps](../../../skills/llmops.md) (97 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (82 updates)
@@ -153,4 +153,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-13T19:56:30.812584+00:00
+2026-06-13T22:21:11.723218+00:00

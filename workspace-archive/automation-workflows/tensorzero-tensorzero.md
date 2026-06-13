@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by hek2sch. Score: 208, Comments: 140.
+Hacker News story by hek2sch. Score: 221, Comments: 148.
 Original Link: https://github.com/tensorzero/tensorzero
 
 ## Use Cases

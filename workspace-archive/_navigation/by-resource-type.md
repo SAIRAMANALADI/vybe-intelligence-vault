@@ -169,9 +169,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 ## WORKFLOW
 
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
-- [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578) (Tier: `useful` | [`Local File`](file:///../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md))
+- [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) (Tier: `useful` | [`Local File`](file:///../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md))
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
-- [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578) (Tier: `useful` | [`Local File`](file:///../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md))
+- [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) (Tier: `useful` | [`Local File`](file:///../../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md))
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (Tier: `useful` | [`Local File`](file:///../../ai/resources/cyproxio-mcp-for-security.md))
 - [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) (Tier: `useful` | [`Local File`](file:///../../ai/agents/infiniumtek-terraform-review-agent.md))
 - [fzn0x/watchtower](https://github.com/fzn0x/watchtower) (Tier: `useful` | [`Local File`](file:///../../ai/rag/fzn0x-watchtower.md))
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [fzn0x/watchtower](https://github.com/fzn0x/watchtower) (Tier: `useful` | [`Local File`](file:///../../ai/rag/fzn0x-watchtower.md))
 
 ---
-*Last updated: 2026-06-13 19:56 UTC*
+*Last updated: 2026-06-13 22:21 UTC*

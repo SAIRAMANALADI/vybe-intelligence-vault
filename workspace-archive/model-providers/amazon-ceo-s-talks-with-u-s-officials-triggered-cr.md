@@ -1,8 +1,8 @@
 ---
-title: Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models
+title: Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
 archive_category: model-providers
 source_category: ai/community
-source_url: https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578
+source_url: https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
 resource_id: hackernews:amazon-ceo-s-talks-with-u-s-officials-triggered-cr
 local_vault_path: ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md
 quality_score: 70
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models
+# Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models
 
 ## Why This Is In The Archive
 
@@ -31,8 +31,8 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ls612. Score: 215, Comments: 193.
-Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578
+Hacker News story by ls612. Score: 396, Comments: 305.
+Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
 
 ## Use Cases
 
@@ -42,7 +42,7 @@ Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-
 
 ## Source
 
-Original source URL: https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578
+Original source URL: https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
 
 ## Local Vault File
 

@@ -1475,6 +1475,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `hackernews`, `models`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents>
 
+* **[RAG Status Template (Word, Excel)](ai/rag/rag-status-template-word-excel.md)** (`template` | `useful` tier)
+  * Summary: NewExplore Mastt's New AI FeaturesAboutProduct The PlatformMastt AIReal AI tools you can use today, integrated into the Mastt PlatformPlatform OverviewUnified platform for construction project managementProjectCore workspace to manage a single projec
+  * Tags: `creative_dev`, `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://www.mastt.com/resources/rag-status-template>
+
 * **[The AI tools for Art Newsletter - Issue 1](ai/models/the-ai-tools-for-art-newsletter-issue-1.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The AI tools for Art Newsletter - Issue 1
   * Source URL: <https://huggingface.co/blog/ai-art-newsletter-jan-25>
@@ -4515,6 +4520,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `python`
   * Source URL: <https://github.com/brandonhimpfen/awesome-llmops>
 
+* **[Free Project Status Report Template](ai/resources/free-project-status-report-template.md)** (`reference` | `reference` tier)
+  * Summary: Byblos Constructions cut report compilation time by 50% and saved 20–30 hours weekly after ditching paper-based project reporting for SafetyCulture across 8 remote mining sites.Read success storyRead success story
+  * Tags: `paper`, `web-crawled`
+  * Source URL: <https://safetyculture.com/checklists/operations/project-status-report>
+
 * **[Mattbusel/awesome-llm-infra](ai/resources/mattbusel-awesome-llm-infra.md)** (`reference` | `reference` tier)
   * Summary: Curated list of production LLM infrastructure — runtimes, clients, observability, safety, memory, and finance
   * Tags: `github-repo`, `unknown`
@@ -4564,7 +4574,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)** (`benchmark` | `useful` tier)
@@ -4627,13 +4637,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
-* **[AI Coding at Home Without Going Broke](ai/community/ai-coding-at-home-without-going-broke.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sbochins. Score: 134, Comments: 123. Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/
+* **[AI coding at home without going broke](ai/community/ai-coding-at-home-without-going-broke.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by sbochins. Score: 188, Comments: 174. Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke>
 
 * **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hek2sch. Score: 208, Comments: 140. Original Link: https://github.com/tensorzero/tensorzero
+  * Summary: Hacker News story by hek2sch. Score: 221, Comments: 148. Original Link: https://github.com/tensorzero/tensorzero
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/tensorzero/tensorzero>
 
@@ -4642,10 +4652,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12424>
 
-* **[Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ls612. Score: 215, Comments: 193. Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578
+* **[Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ls612. Score: 396, Comments: 305. Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink
   * Tags: `anthropic`, `hackernews`
-  * Source URL: <https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578>
+  * Source URL: <https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink>
 
 * **[An LLM System for Autonomous Variational Quantum Circuit Design](ai/rag/arxiv-2606-13380.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13380v1 Announce Type: cross Abstract: The design of high performing quantum circuits remains largely dependent on human expertise. We introduce an autonomous agentic framework that employs large language models (LLMs) to conduct iterative
@@ -4957,6 +4967,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `ai`, `hackernews`
   * Source URL: <https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/>
 
+* **[Police officer investigated for using AI to 'create evidence' in multiple cases](ai/community/police-officer-investigated-for-using-ai-to-create.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by austinallegro. Score: 87, Comments: 21. Original Link: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661>
+
 * **[Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)** (`workflow` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`, `workflows`
@@ -5028,7 +5043,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pikann22. Score: 115, Comments: 46. Original Link: https://github.com/Paca-AI/paca
+  * Summary: Hacker News story by pikann22. Score: 124, Comments: 50. Original Link: https://github.com/Paca-AI/paca
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/paca-ai/paca>
 
@@ -10485,6 +10500,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/pdsuwwz/nextjs-nextra-starter>
 
+* **[RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](ai/rag/rag-status-template-excel-free-download-techno-pm.md)** (`template` | `useful` tier)
+  * Summary: Excel RAID Logs RAG RAG Status RAG Status Template RAG Status Template Excel Free Download Oct 21, 2023by Kishan Tambralli What is RAG Status? RAG is an acronym that stands for Red, Amber, and Green. RAG status comes into the picture when you track t
+  * Tags: `creative_dev`, `hackernews`, `rag`, `scripts`, `web-crawled`
+  * Source URL: <https://www.techno-pm.com/blogs/project-dashboard/rag-status-template-excel>
+
 * **[realstoman/react-tailwindcss-portfolio](web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)** (`template` | `useful` tier)
   * Summary: A simple React app that uses Context API, custom Hooks, Tailwind CSS & Framer Motion.
   * Tags: `animation`, `creative_dev`, `frontend_ui`
@@ -10605,6 +10625,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: All course files for the Framer Motion & React tutorial series on The Net Ninja YouTube channel.
   * Tags: `animation`, `frontend_ui`, `youtube`
   * Source URL: <https://github.com/iamshaunjp/framer-motion>
+
+* **[RAG Status Dashboard Roadmap Template - WordLayouts](ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)** (`template` | `useful` tier)
+  * Summary: 5 WhysChore ChartsColor WheelFamily TreeFishbone DiagramsGenogramsKanbanLogic ModelsMilitary Time ChartsRACIReflexologyRoadmapsRoot Cause AnalysisRubricSMART GoalsStool Color ChartsSWOTTimelineUrine Color ChartsVenn DiagramsWork Breakdown Structure (
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template>
+
+* **[RAG Status Reports, Dashboards, and Templates: Red Amber Green](ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)** (`template` | `useful` tier)
+  * Summary: Skip to navigation Skip to content My Account Currency Search for: Search Menu Templates Agile Planning Dashboards Excel Roadmaps Gantt Chart Procurement and Supply Chain Templates Product Management Project Management Roadmaps Discount Deals All in
+  * Tags: `creative_dev`, `rag`, `web-crawled`
+  * Source URL: <https://business-docs.co.uk/downloads/category/rag>
 
 ## Mcp Registry
 
@@ -11196,6 +11226,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11915>
 
+* **[RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](ai/rag/rag-project-status-report-template-document-templa.md)** (`template` | `useful` tier)
+  * Summary: What Is A RAG Status Template?A RAG Status Template is a project management tool that uses a color-coded system to show the health of a project. RAG stands for Red, Amber, and Green. In project management RAG acts as a KPI traffic light: red is an al
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://www.itsm-docs.com/en-gb/products/rag-status-template>
+
 * **[RAG System with LangChain and LangGraph - GeeksforGeeks](ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)** (`dataset` | `useful` tier)
   * Summary: CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsRAG System with LangChain and LangGraphLast Updated :
   * Tags: `agents`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -11429,6 +11464,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/nobruf/shadcn-landing-page>
+
+* **[RAG Status Template | Red, Amber, Green Status | Project Slides](ai/rag/rag-status-template-red-amber-green-status-project.md)** (`template` | `useful` tier)
+  * Summary: BusinessStartups & Pitch DecksSWOT AnalysisAnnual ReportBusiness StrategyBusiness AnalysisBusiness ModelsBusiness PlanBusiness ProcessProject ManagementMarketing & MediaAnalyticsDevices & MockupsFunnel TemplatesOnline MarketingPortfolioSocial MediaWe
+  * Tags: `creative_dev`, `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://powerslides.com/powerpoint-business/project-management-templates/rag-status>
 
 * **[reliverse/relivator](web-development/nextjs/reliverse-relivator.md)** (`template` | `useful` tier)
   * Summary: 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark mode full stack free ⭐ more stars 👉 more features
@@ -11801,6 +11841,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12334v1 Announce Type: new Abstract: High-precision robotic manipulation requires fine-grained spatial reasoning that is often difficult to achieve with RGB-only policies due to depth ambiguity and perspective scale issues. Policies that l
   * Tags: `agents`, `benchmark`, `rag`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.12334>
+
+* **[Free RAG Status Report Template to Edit Online](ai/rag/free-rag-status-report-template-to-edit-online.md)** (`template` | `useful` tier)
+  * Summary: HomeTemplatesReportStatus ReportFree RAG Status Report TemplateStar this templateUnstar this templateShare to Social MediaRAG Status ReportPrepared by: [YOUR NAME]I. IntroductionThis RAG Status Report provides an overview of [YOUR COMPANY NAME]'s New
+  * Tags: `benchmark`, `hackernews`, `producthunt`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.template.net/edit-online/394147/rag-status-report>
 
 * **[From Files to Chunks: Improving HF Storage Efficiency](ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: From Files to Chunks: Improving HF Storage Efficiency
@@ -12586,6 +12631,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: [ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/wgcyeo/UniversalRAG>
+
+* **[What is RAG Status Reporting in Project Management? | PM Study Circle](ai/rag/what-is-rag-status-reporting-in-project-management.md)** (`tutorial` | `useful` tier)
+  * Summary: Many project managers report the project status as “Red,” “Amber,” or “Green,” which is commonly known as “RAG status reporting.” RAG status in project management helps the project manager visually share the project status with stakeholders. RAG Repo
+  * Tags: `frontend_ui`, `rag`, `web-crawled`
+  * Source URL: <https://pmstudycircle.com/rag-status-reporting>
 
 * **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (`benchmark` | `useful` tier)
   * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #rag #beginners #tutorial If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int

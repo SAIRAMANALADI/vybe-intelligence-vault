@@ -343,8 +343,10 @@ This index groups curated resources by target developer skills.
 ## Roadmap Planning
 
 - [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (Tier: `useful` | [`Local File`](file:///../../web-development/framer-motion/iamshaunjp-framer-motion.md))
+- [RAG Status Reports, Dashboards, and Templates: Red Amber Green](https://business-docs.co.uk/downloads/category/rag) (Tier: `useful` | [`Local File`](file:///../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
 - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](https://huggingface.co/blog/prezi-case-study) (Tier: `useful` | [`Local File`](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md))
 - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) (Tier: `useful` | [`Local File`](file:///../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md))
+- [RAG Status Dashboard Roadmap Template - WordLayouts](https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template) (Tier: `useful` | [`Local File`](file:///../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md))
 - [Top LLM Observability platforms 2025](https://agenta.ai/blog/top-llm-observability-platforms) (Tier: `useful` | [`Local File`](file:///../../ai/rag/top-llm-observability-platforms-2025.md))
 - [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](https://arxiv.org/abs/2606.05608) (Tier: `useful` | [`Local File`](file:///../../ai/agents/arxiv-2606-05608.md))
 - [Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data](https://arxiv.org/abs/2606.11272) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2606-11272.md))
@@ -493,4 +495,4 @@ This index groups curated resources by target developer skills.
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md))
 
 ---
-*Last updated: 2026-06-13 19:56 UTC*
+*Last updated: 2026-06-13 22:21 UTC*

@@ -44,30 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2122 |
-| Active resources | 2122 |
+| Resources tracked | 2132 |
+| Active resources | 2132 |
 | Inactive resources | 0 |
-| Archive files | 11507 |
+| Archive files | 11534 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-13 19:56 UTC |
+| Last meaningful update | 2026-06-13 22:21 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (+112 points)
-- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Rank: +2) (+42 points)
-- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (+28 points)
-- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (+28 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +259)
+- **[Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (Rank: +5) (+181 points)
+- **[AI coding at home without going broke](ai/community/ai-coding-at-home-without-going-broke.md)** (Rank: +6) (+54 points)
+- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Rank: +2) (+13 points)
+- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (Rank: +1) (+9 points)
+- **[RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)** (Rank: +9)
 
 #### ✨ New Discoveries
-- **[Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (Score: 215)
-- **[AI Coding at Home Without Going Broke](ai/community/ai-coding-at-home-without-going-broke.md)** (Score: 134)
-- **[PwC Report: AI Making Medical Bills Higher](ai/community/pwc-report-ai-making-medical-bills-higher.md)** (Score: 28)
+- **[Police officer investigated for using AI to 'create evidence' in multiple cases](ai/community/police-officer-investigated-for-using-ai-to-create.md)** (Score: 87)
+- **[Free RAG Status Report Template to Edit Online](ai/rag/free-rag-status-report-template-to-edit-online.md)** (Score: 0)
+- **[RAG Status Template | Red, Amber, Green Status | Project Slides](ai/rag/rag-status-template-red-amber-green-status-project.md)** (Score: 0)
+- **[Free Project Status Report Template](ai/resources/free-project-status-report-template.md)** (Score: 0)
+- **[RAG Status Reports, Dashboards, and Templates: Red Amber Green](ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

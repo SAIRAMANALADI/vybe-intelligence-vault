@@ -4,18 +4,19 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/sadmann7/file-uploader
-collected_at: '2026-06-12T10:40:21.841680+00:00'
-published_at: '2026-06-12T02:01:19Z'
+collected_at: '2026-06-13T22:18:39.443746+00:00'
+published_at: '2026-06-13T21:35:41Z'
 tags:
 - frontend_ui
-stars: 1423
+stars: 1424
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:21.841680+00:00'
-last_seen: '2026-06-12T10:40:21.841680+00:00'
 resource_id: github:sadmann7/file-uploader
+first_seen: '2026-06-13T22:18:39.443746+00:00'
+last_seen: '2026-06-13T22:18:39.443746+00:00'
+last_checked: '2026-06-13T22:18:39.443746+00:00'
+health_score: 100
 ---
-
 
 # sadmann7/file-uploader
 
@@ -30,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: sadmann7
-- Stars: 1423
+- Stars: 1424
 - Forks: 93
 - Language: TypeScript
 - Topics: dropzone, shadcnui, uploader, uploadthing
-- Last Updated: 2026-06-12T02:01:19Z
+- Last Updated: 2026-06-13T21:35:41Z
 
 ## Possible Use Cases
 

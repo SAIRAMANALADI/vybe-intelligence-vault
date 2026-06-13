@@ -1202,11 +1202,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A jacket that harvests drinking water from the air](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)
-  - [AI Coding at Home Without Going Broke](../ai/community/ai-coding-at-home-without-going-broke.md)
   - [AI OSS tool repo goes archived over night after raising $7.3M Seed](../ai/community/tensorzero-tensorzero.md)
   - [AI agent bankrupted their operator while trying to scan DN42](../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)
   - [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)
-  - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)
+  - [AI coding at home without going broke](../ai/community/ai-coding-at-home-without-going-broke.md)
+  - [Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable.md)
   - [Apache Burr: Build reliable AI agents and applications](../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md)
@@ -1226,6 +1226,7 @@ Resources organized by publisher feed and query sources.
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
   - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
+  - [Police officer investigated for using AI to 'create evidence' in multiple cases](../ai/community/police-officer-investigated-for-using-ai-to-create.md)
   - [PwC Report: AI Making Medical Bills Higher](../ai/community/pwc-report-ai-making-medical-bills-higher.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
   - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](../ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)
@@ -2089,6 +2090,8 @@ Resources organized by publisher feed and query sources.
   - [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications.md)
   - [Evaluating AI Agents: Metrics & Benchmarks 2026](../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
+  - [Free Project Status Report Template](../ai/resources/free-project-status-report-template.md)
+  - [Free RAG Status Report Template to Edit Online](../ai/rag/free-rag-status-report-template-to-edit-online.md)
   - [Google Colab](../ai/rag/google-colab.md)
   - [Hands-On RAG for Production [Book]](../ai/rag/hands-on-rag-for-production-book.md)
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
@@ -2118,6 +2121,12 @@ Resources organized by publisher feed and query sources.
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
+  - [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../ai/rag/rag-project-status-report-template-document-templa.md)
+  - [RAG Status Dashboard Roadmap Template - WordLayouts](../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)
+  - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)
+  - [RAG Status Template (Word, Excel)](../ai/rag/rag-status-template-word-excel.md)
+  - [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../ai/rag/rag-status-template-excel-free-download-techno-pm.md)
+  - [RAG Status Template | Red, Amber, Green Status | Project Slides](../ai/rag/rag-status-template-red-amber-green-status-project.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
@@ -2139,6 +2148,7 @@ Resources organized by publisher feed and query sources.
   - [Top Open-Source LLM Observability Tools in 2025 | by The Practical Developer | Medium](../ai/rag/top-open-source-llm-observability-tools-in-2025-by.md)
   - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [Unlocking the power of unstructured data with RAG - The GitHub Blog](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)
+  - [What is RAG Status Reporting in Project Management? | PM Study Circle](../ai/rag/what-is-rag-status-reporting-in-project-management.md)
   - [What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)
   - [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)
   - [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)
@@ -2147,4 +2157,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-13T19:56:31.888210+00:00*
+*Index generated on 2026-06-13T22:21:12.790261+00:00*

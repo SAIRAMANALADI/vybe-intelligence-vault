@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms
-published_at: '2026-06-13T19:54:23.829682+00:00'
-collected_at: '2026-06-13T19:54:23.829685+00:00'
+published_at: '2026-06-13T22:18:51.925458+00:00'
+collected_at: '2026-06-13T22:18:51.925460+00:00'
 tags:
 - agents
 - blog-post
@@ -14,9 +14,9 @@ tags:
 - reddit
 status: active
 resource_id: blog:alphaevolvedesign-advanced-algorithms-for-math-and
-first_seen: '2026-06-13T19:54:23.829685+00:00'
-last_seen: '2026-06-13T19:54:23.829685+00:00'
-last_checked: '2026-06-13T19:54:23.829685+00:00'
+first_seen: '2026-06-13T22:18:51.925460+00:00'
+last_seen: '2026-06-13T22:18:51.925460+00:00'
+last_checked: '2026-06-13T22:18:51.925460+00:00'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms
-- Collected At: 2026-06-13T19:54:23.829685+00:00
+- Collected At: 2026-06-13T22:18:51.925460+00:00
 
 ## Related Tags
 

@@ -1,5 +1,5 @@
 ---
-title: AI Coding at Home Without Going Broke
+title: AI coding at home without going broke
 archive_category: ai-coding-agents
 source_category: ai/community
 source_url: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# AI Coding at Home Without Going Broke
+# AI coding at home without going broke
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by sbochins. Score: 134, Comments: 123.
+Hacker News story by sbochins. Score: 188, Comments: 174.
 Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/
 
 ## Use Cases

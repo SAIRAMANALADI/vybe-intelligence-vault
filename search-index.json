@@ -228,6 +228,23 @@
     "last_updated": "2026-06-11T13:43:32.058681+00:00"
   },
   {
+    "title": "Free Project Status Report Template",
+    "category": "ai/resources",
+    "section": "ai/resources",
+    "tags": [
+      "paper",
+      "web-crawled"
+    ],
+    "source_url": "https://safetyculture.com/checklists/operations/project-status-report",
+    "local_path": "ai/resources/free-project-status-report-template.md",
+    "summary": "Byblos Constructions cut report compilation time by 50% and saved 20–30 hours weekly after ditching paper-based project reporting for SafetyCulture across 8 remote mining sites.Read success storyRead success story",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-13T22:19:41.312262+00:00"
+  },
+  {
     "title": "cyproxio/mcp-for-security",
     "category": "ai/resources",
     "section": "ai-tools-products",
@@ -457,7 +474,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371666+00:00"
+    "last_updated": "2026-06-13T22:18:51.359207+00:00"
   },
   {
     "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -475,7 +492,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "product",
-    "last_updated": "2026-06-13T19:54:23.371398+00:00"
+    "last_updated": "2026-06-13T22:18:51.358952+00:00"
   },
   {
     "title": "May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers",
@@ -529,7 +546,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371370+00:00"
+    "last_updated": "2026-06-13T22:18:51.358922+00:00"
   },
   {
     "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -547,7 +564,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371329+00:00"
+    "last_updated": "2026-06-13T22:18:51.358852+00:00"
   },
   {
     "title": "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
@@ -565,7 +582,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371426+00:00"
+    "last_updated": "2026-06-13T22:18:51.358983+00:00"
   },
   {
     "title": "Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.",
@@ -601,7 +618,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371242+00:00"
+    "last_updated": "2026-06-13T22:18:51.358763+00:00"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -619,7 +636,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371296+00:00"
+    "last_updated": "2026-06-13T22:18:51.358819+00:00"
   },
   {
     "title": "May 28, 2026ProductIntroducing Claude Opus 4.8",
@@ -655,7 +672,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.371465+00:00"
+    "last_updated": "2026-06-13T22:18:51.359023+00:00"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -675,7 +692,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.829685+00:00"
+    "last_updated": "2026-06-13T22:18:51.925460+00:00"
   },
   {
     "title": "AlphaEarthMap our planet in unprecedented detail",
@@ -694,7 +711,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.829650+00:00"
+    "last_updated": "2026-06-13T22:18:51.925425+00:00"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -713,7 +730,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.829732+00:00"
+    "last_updated": "2026-06-13T22:18:51.925508+00:00"
   },
   {
     "title": "Learn more",
@@ -733,7 +750,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.829987+00:00"
+    "last_updated": "2026-06-13T22:18:51.925770+00:00"
   },
   {
     "title": "SIMA 2An agent that plays, reasons, and learns with you",
@@ -753,7 +770,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:23.829534+00:00"
+    "last_updated": "2026-06-13T22:18:51.925330+00:00"
   },
   {
     "title": "Applied AI",
@@ -771,7 +788,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:21.428807+00:00"
+    "last_updated": "2026-06-13T22:18:49.431235+00:00"
   },
   {
     "title": "AI Adoption",
@@ -789,7 +806,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:21.428781+00:00"
+    "last_updated": "2026-06-13T22:18:49.431208+00:00"
   },
   {
     "title": "Global Affairs",
@@ -807,7 +824,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:21.428749+00:00"
+    "last_updated": "2026-06-13T22:18:49.431178+00:00"
   },
   {
     "title": "Engineering",
@@ -825,7 +842,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:21.428690+00:00"
+    "last_updated": "2026-06-13T22:18:49.431118+00:00"
   },
   {
     "title": "AI Now Summit 2026",
@@ -844,7 +861,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515567+00:00"
+    "last_updated": "2026-06-13T22:18:52.541416+00:00"
   },
   {
     "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -863,7 +880,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-13T19:54:24.516412+00:00"
+    "last_updated": "2026-06-13T22:18:52.542211+00:00"
   },
   {
     "title": "Vibe gets to work.",
@@ -883,7 +900,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515603+00:00"
+    "last_updated": "2026-06-13T22:18:52.541449+00:00"
   },
   {
     "title": "Introducing Search Toolkit",
@@ -902,7 +919,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515636+00:00"
+    "last_updated": "2026-06-13T22:18:52.541484+00:00"
   },
   {
     "title": "Voxtral TTS",
@@ -921,7 +938,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515476+00:00"
+    "last_updated": "2026-06-13T22:18:52.541345+00:00"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -940,7 +957,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.516458+00:00"
+    "last_updated": "2026-06-13T22:18:52.542262+00:00"
   },
   {
     "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI",
@@ -959,7 +976,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.516792+00:00"
+    "last_updated": "2026-06-13T22:18:52.542483+00:00"
   },
   {
     "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -979,7 +996,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-13T19:54:24.516575+00:00"
+    "last_updated": "2026-06-13T22:18:52.542360+00:00"
   },
   {
     "title": "Mistral Small 4",
@@ -998,7 +1015,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515430+00:00"
+    "last_updated": "2026-06-13T22:18:52.541299+00:00"
   },
   {
     "title": "Mistral Medium 3.5",
@@ -1018,7 +1035,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-13T19:54:24.515362+00:00"
+    "last_updated": "2026-06-13T22:18:52.541234+00:00"
   },
   {
     "title": "AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA",
@@ -1609,7 +1626,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-13T19:55:46.147093+00:00"
+    "last_updated": "2026-06-13T22:20:21.798456+00:00"
   },
   {
     "title": "Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts",
@@ -1698,6 +1715,26 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-12T10:40:03.102576+00:00"
+  },
+  {
+    "title": "RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download",
+    "category": "ai/rag",
+    "section": "frontend-ai-ui",
+    "tags": [
+      "creative_dev",
+      "hackernews",
+      "rag",
+      "scripts",
+      "web-crawled"
+    ],
+    "source_url": "https://www.techno-pm.com/blogs/project-dashboard/rag-status-template-excel",
+    "local_path": "ai/rag/rag-status-template-excel-free-download-techno-pm.md",
+    "summary": "Excel RAID Logs RAG RAG Status RAG Status Template RAG Status Template Excel Free Download Oct 21, 2023by Kishan Tambralli What is RAG Status? RAG is an acronym that stands for Red, Amber, and Green. RAG status comes into the picture when you track t",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:33.963523+00:00"
   },
   {
     "title": "TencentCloudADP/youtu-graphrag",
@@ -1871,6 +1908,24 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-13T04:51:08.078819+00:00"
+  },
+  {
+    "title": "RAG Status Reports, Dashboards, and Templates: Red Amber Green",
+    "category": "ai/rag",
+    "section": "learning-paths",
+    "tags": [
+      "creative_dev",
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://business-docs.co.uk/downloads/category/rag",
+    "local_path": "ai/rag/rag-status-reports-dashboards-and-templates-red-am.md",
+    "summary": "Skip to navigation Skip to content My Account Currency Search for: Search Menu Templates Agile Planning Dashboards Excel Roadmaps Gantt Chart Procurement and Supply Chain Templates Product Management Project Management Roadmaps Discount Deals All in",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:40.392972+00:00"
   },
   {
     "title": "techwithtim/Langflow-RAG-Tutorial",
@@ -2268,6 +2323,23 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-12T10:40:06.018563+00:00"
+  },
+  {
+    "title": "RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates",
+    "category": "ai/rag",
+    "section": "project-ideas",
+    "tags": [
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://www.itsm-docs.com/en-gb/products/rag-status-template",
+    "local_path": "ai/rag/rag-project-status-report-template-document-templa.md",
+    "summary": "What Is A RAG Status Template?A RAG Status Template is a project management tool that uses a color-coded system to show the health of a project. RAG stands for Red, Amber, and Green. In project management RAG acts as a KPI traffic light: red is an al",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:35.197418+00:00"
   },
   {
     "title": "DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving",
@@ -3767,7 +3839,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-13T16:46:11.328814+00:00"
+    "last_updated": "2026-06-13T22:19:33.231272+00:00"
   },
   {
     "title": "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning",
@@ -4177,6 +4249,26 @@
     "last_updated": "2026-06-11T08:37:53.523907+00:00"
   },
   {
+    "title": "RAG Status Template | Red, Amber, Green Status | Project Slides",
+    "category": "ai/rag",
+    "section": "startup-builder",
+    "tags": [
+      "creative_dev",
+      "hackernews",
+      "rag",
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://powerslides.com/powerpoint-business/project-management-templates/rag-status",
+    "local_path": "ai/rag/rag-status-template-red-amber-green-status-project.md",
+    "summary": "BusinessStartups & Pitch DecksSWOT AnalysisAnnual ReportBusiness StrategyBusiness AnalysisBusiness ModelsBusiness PlanBusiness ProcessProject ManagementMarketing & MediaAnalyticsDevices & MockupsFunnel TemplatesOnline MarketingPortfolioSocial MediaWe",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:44.226898+00:00"
+  },
+  {
     "title": "UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -4251,7 +4343,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-13T19:55:07.232940+00:00"
+    "last_updated": "2026-06-13T22:19:43.072186+00:00"
   },
   {
     "title": "Geometric bias in eigenspace perturbation under random heterogeneous noise",
@@ -4780,7 +4872,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-13T19:54:50.554951+00:00"
+    "last_updated": "2026-06-13T22:19:47.313805+00:00"
   },
   {
     "title": "Mapping Scientific Literature with Large Language Models and Topic Modeling",
@@ -4832,6 +4924,27 @@
     "archive_tier": "useful",
     "resource_kind": "dataset",
     "last_updated": "2026-06-11T13:05:29.058314+00:00"
+  },
+  {
+    "title": "Free RAG Status Report Template to Edit Online",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "benchmark",
+      "hackernews",
+      "producthunt",
+      "rag",
+      "reddit",
+      "web-crawled"
+    ],
+    "source_url": "https://www.template.net/edit-online/394147/rag-status-report",
+    "local_path": "ai/rag/free-rag-status-report-template-to-edit-online.md",
+    "summary": "HomeTemplatesReportStatus ReportFree RAG Status Report TemplateStar this templateUnstar this templateShare to Social MediaRAG Status ReportPrepared by: [YOUR NAME]I. IntroductionThis RAG Status Report provides an overview of [YOUR COMPANY NAME]'s New",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:52.892788+00:00"
   },
   {
     "title": "Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization",
@@ -5200,6 +5313,23 @@
     "last_updated": "2026-06-11T08:37:53.523684+00:00"
   },
   {
+    "title": "RAG Status Dashboard Roadmap Template - WordLayouts",
+    "category": "ai/rag",
+    "section": "learning-paths",
+    "tags": [
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template",
+    "local_path": "ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md",
+    "summary": "5 WhysChore ChartsColor WheelFamily TreeFishbone DiagramsGenogramsKanbanLogic ModelsMilitary Time ChartsRACIReflexologyRoadmapsRoot Cause AnalysisRubricSMART GoalsStool Color ChartsSWOTTimelineUrine Color ChartsVenn DiagramsWork Breakdown Structure (",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:36.425029+00:00"
+  },
+  {
     "title": "Proto-LeakNet: Towards Signal-Leak Aware Attribution in Synthetic Human Face Imagery",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -5528,7 +5658,6 @@
       "paper",
       "rag",
       "reddit",
-      "scripts",
       "web-crawled",
       "workflows"
     ],
@@ -5539,7 +5668,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-13T14:25:21.662542+00:00"
+    "last_updated": "2026-06-13T22:19:38.790500+00:00"
   },
   {
     "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
@@ -6559,7 +6688,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-13T19:54:56.923821+00:00"
+    "last_updated": "2026-06-13T22:19:31.474990+00:00"
   },
   {
     "title": "Online Learning for Supervisory Switching Control",
@@ -7117,7 +7246,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-13T19:55:56.062790+00:00"
+    "last_updated": "2026-06-13T22:20:31.701599+00:00"
   },
   {
     "title": "Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage",
@@ -7286,7 +7415,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-13T19:54:53.543384+00:00"
+    "last_updated": "2026-06-13T22:19:31.669062+00:00"
   },
   {
     "title": "From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health",
@@ -7391,6 +7520,24 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-12T10:40:06.013510+00:00"
+  },
+  {
+    "title": "What is RAG Status Reporting in Project Management? | PM Study Circle",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "frontend_ui",
+      "rag",
+      "web-crawled"
+    ],
+    "source_url": "https://pmstudycircle.com/rag-status-reporting",
+    "local_path": "ai/rag/what-is-rag-status-reporting-in-project-management.md",
+    "summary": "Many project managers report the project status as “Red,” “Amber,” or “Green,” which is commonly known as “RAG status reporting.” RAG status in project management helps the project manager visually share the project status with stakeholders. RAG Repo",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-13T22:19:34.456405+00:00"
   },
   {
     "title": "modelscope/evalscope",
@@ -7697,7 +7844,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-13T19:54:50.886817+00:00"
+    "last_updated": "2026-06-13T22:19:32.178117+00:00"
   },
   {
     "title": "When Poison Fails After Retrieval: Revisiting Corpus Poisoning under Chunking and Reranking Pipelines",
@@ -7948,7 +8095,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-13T19:54:49.493478+00:00"
+    "last_updated": "2026-06-13T22:19:38.482709+00:00"
   },
   {
     "title": "HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation",
@@ -8282,6 +8429,27 @@
     "archive_tier": "useful",
     "resource_kind": "prompt",
     "last_updated": "2026-06-11T08:37:53.524305+00:00"
+  },
+  {
+    "title": "RAG Status Template (Word, Excel)",
+    "category": "ai/rag",
+    "section": "ai-tools-products",
+    "tags": [
+      "creative_dev",
+      "hackernews",
+      "rag",
+      "reddit",
+      "web-crawled",
+      "youtube"
+    ],
+    "source_url": "https://www.mastt.com/resources/rag-status-template",
+    "local_path": "ai/rag/rag-status-template-word-excel.md",
+    "summary": "NewExplore Mastt's New AI FeaturesAboutProduct The PlatformMastt AIReal AI tools you can use today, integrated into the Mastt PlatformPlatform OverviewUnified platform for construction project managementProjectCore workspace to manage a single projec",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "template",
+    "last_updated": "2026-06-13T22:19:39.036082+00:00"
   },
   {
     "title": "Fusion Learning from Dynamic Functional Connectivity: Combining the Amplitude and Phase of fMRI Signals to Identify Brain Disorders",
@@ -9018,7 +9186,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-13T19:55:51.058613+00:00"
+    "last_updated": "2026-06-13T22:20:26.689496+00:00"
   },
   {
     "title": "APCyc: Property-Informed Design of Cyclic Peptides via Automated Cyclization",
@@ -9486,7 +9654,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-13T19:54:48.204733+00:00"
+    "last_updated": "2026-06-13T22:19:28.949742+00:00"
   },
   {
     "title": "zjunlp/LightMem",
@@ -35748,21 +35916,21 @@
     "last_updated": "2026-06-13T14:24:52.085387+00:00"
   },
   {
-    "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
+    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
     "category": "ai/community",
     "section": "automation-workflows",
     "tags": [
       "anthropic",
       "hackernews"
     ],
-    "source_url": "https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+    "source_url": "https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "local_path": "ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md",
-    "summary": "Hacker News story by ls612. Score: 215, Comments: 193. Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+    "summary": "Hacker News story by ls612. Score: 396, Comments: 305. Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
     "quality_score": 70,
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-13T19:54:16.915656+00:00"
+    "last_updated": "2026-06-13T22:18:40.923146+00:00"
   },
   {
     "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
@@ -35774,12 +35942,12 @@
     ],
     "source_url": "https://github.com/paca-ai/paca",
     "local_path": "ai/community/paca-ai-paca.md",
-    "summary": "Hacker News story by pikann22. Score: 115, Comments: 46. Original Link: https://github.com/Paca-AI/paca",
+    "summary": "Hacker News story by pikann22. Score: 124, Comments: 50. Original Link: https://github.com/Paca-AI/paca",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-13T19:54:17.079359+00:00"
+    "last_updated": "2026-06-13T22:18:43.096281+00:00"
   },
   {
     "title": "The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug",
@@ -36052,12 +36220,12 @@
     ],
     "source_url": "https://github.com/tensorzero/tensorzero",
     "local_path": "ai/community/tensorzero-tensorzero.md",
-    "summary": "Hacker News story by hek2sch. Score: 208, Comments: 140. Original Link: https://github.com/tensorzero/tensorzero",
+    "summary": "Hacker News story by hek2sch. Score: 221, Comments: 148. Original Link: https://github.com/tensorzero/tensorzero",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-13T19:54:16.832992+00:00"
+    "last_updated": "2026-06-13T22:18:42.805696+00:00"
   },
   {
     "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
@@ -36165,6 +36333,23 @@
     "last_updated": "2026-06-11T09:24:44.427433+00:00"
   },
   {
+    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "local_path": "ai/community/police-officer-investigated-for-using-ai-to-create.md",
+    "summary": "Hacker News story by austinallegro. Score: 87, Comments: 21. Original Link: https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-13T22:18:41.215482+00:00"
+  },
+  {
     "title": "AI agent bankrupted their operator while trying to scan DN42",
     "category": "ai/community",
     "section": "ai-browser-computer-use",
@@ -36201,7 +36386,7 @@
     "last_updated": "2026-06-11T22:58:50.285232+00:00"
   },
   {
-    "title": "AI Coding at Home Without Going Broke",
+    "title": "AI coding at home without going broke",
     "category": "ai/community",
     "section": "automation-workflows",
     "tags": [
@@ -36210,12 +36395,12 @@
     ],
     "source_url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
     "local_path": "ai/community/ai-coding-at-home-without-going-broke.md",
-    "summary": "Hacker News story by sbochins. Score: 134, Comments: 123. Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "summary": "Hacker News story by sbochins. Score: 188, Comments: 174. Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-13T19:54:16.197325+00:00"
+    "last_updated": "2026-06-13T22:18:41.936703+00:00"
   },
   {
     "title": "A jacket that harvests drinking water from the air",
@@ -43090,7 +43275,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-13T19:54:11.492435+00:00"
+    "last_updated": "2026-06-13T22:18:34.752190+00:00"
   },
   {
     "title": "ChartGPU/ChartGPU",
@@ -43171,7 +43356,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-13T04:50:14.986992+00:00"
+    "last_updated": "2026-06-13T22:18:34.752170+00:00"
   },
   {
     "title": "PolyMeilex/vscode-wgsl",
@@ -43654,7 +43839,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-13T19:54:09.205604+00:00"
+    "last_updated": "2026-06-13T22:18:31.983074+00:00"
   },
   {
     "title": "mkkellogg/GaussianSplats3D",
@@ -43816,7 +44001,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-13T19:54:09.205651+00:00"
+    "last_updated": "2026-06-13T22:18:31.983129+00:00"
   },
   {
     "title": "puxiao/threejs-tutorial",
@@ -44259,7 +44444,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-12T15:38:18.518460+00:00"
+    "last_updated": "2026-06-13T22:18:36.029883+00:00"
   },
   {
     "title": "codebucks27/react-portfolio-final",
@@ -44855,7 +45040,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T09:34:03.066433+00:00"
+    "last_updated": "2026-06-13T22:18:37.813785+00:00"
   },
   {
     "title": "linkb15/turborepo-shadcn-ui-tailwind-4",
@@ -44983,7 +45168,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-12T15:38:20.237776+00:00"
+    "last_updated": "2026-06-13T22:18:37.813887+00:00"
   },
   {
     "title": "NotStark/portfolio",
@@ -45171,7 +45356,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T19:54:15.309108+00:00"
+    "last_updated": "2026-06-13T22:18:39.443478+00:00"
   },
   {
     "title": "hsuanyi-chou/shadcn-ui-expansions",
@@ -45334,7 +45519,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T16:45:22.196806+00:00"
+    "last_updated": "2026-06-13T22:18:39.443638+00:00"
   },
   {
     "title": "dan5py/turborepo-shadcn-ui",
@@ -45366,7 +45551,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T14:24:48.355503+00:00"
+    "last_updated": "2026-06-13T22:18:39.443577+00:00"
   },
   {
     "title": "shadcn-ui/next-template",
@@ -45446,7 +45631,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-12T10:40:21.841680+00:00"
+    "last_updated": "2026-06-13T22:18:39.443746+00:00"
   },
   {
     "title": "nextjs/saas-starter",
@@ -45494,7 +45679,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T19:54:15.309255+00:00"
+    "last_updated": "2026-06-13T22:18:39.443628+00:00"
   },
   {
     "title": "akash3444/shadcn-ui-blocks",
@@ -45558,6 +45743,6 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-13T19:54:15.309342+00:00"
+    "last_updated": "2026-06-13T22:18:39.443727+00:00"
   }
 ]
