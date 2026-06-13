@@ -16,11 +16,11 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Category | Count |
 |---|---:|
-| ai/models | 734 |
+| ai/models | 733 |
 | ai/research | 433 |
-| ai/rag | 429 |
+| ai/rag | 430 |
 | ai/agents | 279 |
-| ai/community | 33 |
+| ai/community | 35 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
@@ -41,39 +41,39 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| agents | 450 |
-| rag | 430 |
+| agents | 451 |
+| rag | 431 |
 | benchmark | 384 |
 | models | 328 |
 | dataset | 219 |
-| hackernews | 173 |
+| hackernews | 175 |
 | paper | 161 |
 | github-repo | 142 |
-| workflows | 137 |
+| workflows | 138 |
 | frontend_ui | 132 |
 | youtube | 100 |
-| web-crawled | 98 |
-| openai | 92 |
+| web-crawled | 99 |
+| openai | 93 |
+| anthropic | 83 |
 | threejs | 82 |
-| anthropic | 82 |
 
 ## Weekly Community Updates
 
 1. [AI agent bankrupted their operator while trying to scan DN42](../../../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md) ([Source](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian)) (HN Score: 1343) - `ai/community`
-2. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md) ([Source](https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 477) - `ai/community`
-3. [Open source AI must win](../../../ai/community/open-source-ai-must-win.md) ([Source](https://opensourceaimustwin.com?share=v2)) (HN Score: 452) - `ai/community`
+2. [Open source AI must win](../../../ai/community/open-source-ai-must-win.md) ([Source](https://opensourceaimustwin.com?share=v2)) (HN Score: 893) - `ai/community`
+3. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md) ([Source](https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 477) - `ai/community`
 4. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md) ([Source](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable)) (HN Score: 427) - `ai/community`
 5. [Anthropic requires 30 day data retention for Fable and Mythos](../../../ai/community/anthropic-requires-30-day-data-retention-for-fable.md) ([Source](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)) (HN Score: 414) - `ai/community`
 6. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md) ([Source](https://lwn.net/subscriberlink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
-7. [Palantir loses legal challenge against Swiss investigative magazine](../../../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md) ([Source](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) (HN Score: 247) - `ai/community`
+7. [Palantir loses legal challenge against Swiss investigative magazine](../../../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md) ([Source](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) (HN Score: 338) - `ai/community`
 8. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
 9. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
 10. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
-11. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
-12. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 175) - `ai/community`
+11. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 193) - `ai/community`
+12. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
 13. [Ryanair dark UX patterns summer 2026 refresher](../../../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md) ([Source](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher)) (HN Score: 174) - `ai/community`
-14. [The Future of Email](../../../ai/community/the-future-of-email.md) ([Source](https://fastmail.com/blog/the-future-of-email)) (HN Score: 149) - `ai/community`
-15. [A jacket that harvests drinking water from the air](../../../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md) ([Source](https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air)) (HN Score: 148) - `ai/community`
+14. [Show HN: Putt.day a daily mini golf game](../../../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md) ([Source](https://putt.day)) (HN Score: 172) - `ai/community`
+15. [The Future of Email](../../../ai/community/the-future-of-email.md) ([Source](https://fastmail.com/blog/the-future-of-email)) (HN Score: 149) - `ai/community`
 
 ## Weekly Research Insights
 
@@ -95,21 +95,21 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 ## Weekly Company Updates
 
-1. [Engineering](../../../ai/companies/openai/engineering.md) ([Source](https://openai.com/news/engineering)) - `ai/companies/openai`
-2. [Global Affairs](../../../ai/companies/openai/global-affairs.md) ([Source](https://openai.com/news/global-affairs)) - `ai/companies/openai`
-3. [AI Adoption](../../../ai/companies/openai/ai-adoption.md) ([Source](https://openai.com/news/ai-adoption)) - `ai/companies/openai`
-4. [Applied AI](../../../ai/companies/openai/applied-ai.md) ([Source](https://openai.com/news/applied-ai)) - `ai/companies/openai`
-5. [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../../../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md) ([Source](https://anthropic.com/news/anthropic-public-record)) - `ai/companies/anthropic`
-6. [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../../../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md) ([Source](https://anthropic.com/news/tcs-anthropic-partnership)) - `ai/companies/anthropic`
-7. [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md) ([Source](https://anthropic.com/news/dxc-anthropic-alliance)) - `ai/companies/anthropic`
-8. [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../../../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md) ([Source](https://anthropic.com/news/services-track-partner-hub)) - `ai/companies/anthropic`
-9. [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../../../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md) ([Source](https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack)) - `ai/companies/anthropic`
-10. [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../../../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md) ([Source](https://anthropic.com/news/confidential-draft-s1-sec)) - `ai/companies/anthropic`
-11. [Responsible Scaling Policy](../../../ai/companies/anthropic/responsible-scaling-policy.md) ([Source](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy)) - `ai/companies/anthropic`
-12. [SIMA 2An agent that plays, reasons, and learns with you](../../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md) ([Source](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds)) - `ai/companies/deepmind`
-13. [AlphaEarthMap our planet in unprecedented detail](../../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md) ([Source](https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail)) - `ai/companies/deepmind`
-14. [AlphaEvolveDesign advanced algorithms for math and applications in computing](../../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md) ([Source](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms)) - `ai/companies/deepmind`
-15. [NewsDiscover our latest AI breakthroughs, projects, and updates](../../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md) ([Source](https://deepmind.google/blog)) - `ai/companies/deepmind`
+1. [olmo-eval: An evaluation workbench for the model development loop](../../../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md) ([Source](https://huggingface.co/blog/allenai/olmo-eval)) - `ai/models`
+2. [Granite 4.1 LLMs: How They’re Built](../../../ai/models/granite-4-1-llms-how-theyre-built.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-1)) - `ai/models`
+3. [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../../../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)) - `ai/agents`
+4. [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](../../../ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md) ([Source](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)) - `ai/agents`
+5. [Meet HoloTab by HCompany. Your AI browser companion.](../../../ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md) ([Source](https://huggingface.co/blog/hcompany/holotab)) - `ai/models`
+6. [Falcon Perception](../../../ai/models/falcon-perception.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-perception)) - `ai/models`
+7. [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](../../../ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-vision)) - `ai/models`
+8. [A New Framework for Evaluating Voice Agents (EVA)](../../../ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md) ([Source](https://huggingface.co/blog/servicenow-ai/eva)) - `ai/agents`
+9. [Build a Domain-Specific Embedding Model in Under a Day](../../../ai/models/build-a-domain-specific-embedding-model-in-under-a.md) ([Source](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)) - `ai/models`
+10. [Holotron-12B - High Throughput Computer Use Agent](../../../ai/agents/holotron-12b-high-throughput-computer-use-agent.md) ([Source](https://huggingface.co/blog/hcompany/holotron-12b)) - `ai/agents`
+11. [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../../../ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md) ([Source](https://huggingface.co/blog/ibm-research/itbenchandmast)) - `ai/agents`
+12. [Introducing SyGra Studio](../../../ai/models/introducing-sygra-studio.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-studio)) - `ai/models`
+13. [H Company's new Holo2 model takes the lead in UI Localization](../../../ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md) ([Source](https://huggingface.co/blog/hcompany/introducing-holo2-235b-a22b)) - `ai/models`
+14. [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../../../ai/models/the-future-of-the-global-open-source-ai-ecosystem.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3)) - `ai/models`
+15. [Training Design for Text-to-Image Models: Lessons from Ablations](../../../ai/models/training-design-for-text-to-image-models-lessons-f.md) ([Source](https://huggingface.co/blog/photoroom/prx-part2)) - `ai/models`
 
 ## Weekly Videos & Demos
 
@@ -135,10 +135,10 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [RAG](../../../skills/rag.md) (893 updates)
-- [Workflow Automation](../../../skills/automation.md) (670 updates)
+- [RAG](../../../skills/rag.md) (894 updates)
+- [Workflow Automation](../../../skills/automation.md) (671 updates)
 - [AI Coding Agents](../../../skills/ai-coding-agents.md) (436 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (430 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (431 updates)
 - [AI Agents](../../../skills/ai-agents.md) (366 updates)
 - [LLMOps](../../../skills/llmops.md) (97 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (82 updates)
@@ -153,4 +153,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-13T04:52:50.263345+00:00
+2026-06-13T09:36:40.249077+00:00

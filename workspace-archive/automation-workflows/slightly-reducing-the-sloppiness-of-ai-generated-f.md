@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by FergusArgyll. Score: 175, Comments: 112.
+Hacker News story by FergusArgyll. Score: 193, Comments: 120.
 Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
 
 ## Use Cases

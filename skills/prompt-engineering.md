@@ -20,8 +20,8 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 43 resources matched in the intelligence vault.
 Recently detected signals:
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-12
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) (Source: Unknown Source) - Collected 2026-06-12
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/huggingface-blog-setfit.md) (Source: Unknown Source) - Collected 2026-06-12
 - [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-06-12
 - [On the Optimal Reasoning Length for RL-Trained Language Models](../ai/research/arxiv-2602-09591.md) (Source: Unknown Source) - Collected 2026-06-12
 - [The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning](../ai/research/arxiv-2505-03296.md) (Source: Unknown Source) - Collected 2026-06-12
@@ -55,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.825278+00:00.561909+00:00.595417+00:00.401963+00:00.745949+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T09:36:37.776456+00:00.825278+00:00.561909+00:00.595417+00:00.401963+00:00.745949+00:00.

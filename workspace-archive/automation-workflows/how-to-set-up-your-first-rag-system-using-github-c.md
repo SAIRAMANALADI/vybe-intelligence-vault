@@ -1,0 +1,51 @@
+---
+title: How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour |
+  Ryz Labs | Ryz Labs Learn
+archive_category: automation-workflows
+source_category: ai/rag
+source_url: https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour
+resource_id: blog:how-to-set-up-your-first-rag-system-using-github-c
+local_vault_path: ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: tutorial
+importance: medium
+tags:
+- openai
+- rag
+- web-crawled
+- workflows
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn
+
+## Why This Is In The Archive
+
+- Matched archive category: `Automation Workflows`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Ai Coding AssistantsHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 HourBy Ryz Labs Team•March 13, 2026•3 min readHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour (2026) In 2026, the rapid evolution of AI c...
+
+## Use Cases
+
+- Local cron scheduling
+- n8n pipeline setups
+- OS task automations
+
+## Source
+
+Original source URL: https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour
+
+## Local Vault File
+
+Path: [how-to-set-up-your-first-rag-system-using-github-c.md](file:///../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)

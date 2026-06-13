@@ -44,32 +44,30 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2114 |
-| Active resources | 2114 |
+| Resources tracked | 2116 |
+| Active resources | 2116 |
 | Inactive resources | 0 |
-| Archive files | 11491 |
+| Archive files | 11499 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-13 04:53 UTC |
+| Last meaningful update | 2026-06-13 09:37 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (Rank: +10) (+139 points)
-- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (+22 points)
-- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (+9 points)
-- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +936)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +936)
+- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Rank: +1) (+441 points)
+- **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (+91 points)
+- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Rank: +5) (+61 points)
+- **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (Rank: +4) (+27 points)
+- **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (Rank: +3) (+19 points)
 
 #### ✨ New Discoveries
-- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Score: 452)
-- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Score: 111)
-- **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (Score: 25)
-- **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (Score: 6)
-- **[How to Learn RAGs from Scratch: A Step-by-Step Guide](ai/rag/how-to-learn-rags-from-scratch-a-step-by-step-guid.md)** (Score: 0)
+- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (Score: 84)
+- **[Show HN: Skill for your agent to visualize your gbrain and Obsidian](ai/community/vladignatyev-brain-map-skill.md)** (Score: 6)
+- **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

@@ -21,10 +21,10 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 Active signals: 33 resources matched in the intelligence vault.
 Recently detected signals:
 - [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-13
-- [Building the Hugging Face MCP Server](../ai/models/building-the-hugging-face-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Five Big Improvements to Gradio MCP Servers](../ai/models/five-big-improvements-to-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-12
 - [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Five Big Improvements to Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-updates.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -175,4 +175,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.806072+00:00.543904+00:00.576889+00:00.380664+00:00.692169+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T09:36:37.757488+00:00.806072+00:00.543904+00:00.576889+00:00.380664+00:00.692169+00:00.

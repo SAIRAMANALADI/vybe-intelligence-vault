@@ -44,4 +44,4 @@ https://github.com/pydantic/pydantic-ai (Pydantic AI)
 
 ---
 
-*Last updated: 2026-06-13 04:52 UTC*
+*Last updated: 2026-06-13 09:36 UTC*

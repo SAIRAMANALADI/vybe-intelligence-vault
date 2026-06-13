@@ -4564,7 +4564,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)** (`benchmark` | `useful` tier)
@@ -4787,6 +4787,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.projectpro.io/article/learn-rag-from-scratch/1061>
 
+* **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (`tutorial` | `useful` tier)
+  * Summary: Ai Coding AssistantsHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 HourBy Ryz Labs Team•March 13, 2026•3 min readHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour (2026) In 2026, the rapid evolution of AI c
+  * Tags: `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour>
+
 * **[IBM RAG and Agentic AI Professional Certificate | Coursera](ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)** (`benchmark` | `useful` tier)
   * Summary: IBM RAG and Agentic AI Professional CertificateAboutOutcomesCoursesTestimonialsBrowseComputer ScienceSoftware Development Get extra savings on Coursera Plus. Join for â¹6,999 (usually â¹13,999). Save now.IBM RAG and Agentic AI Professional Certific
   * Tags: `agents`, `benchmark`, `creative_dev`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -4863,7 +4868,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.langchain.com/langgraph>
 
 * **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by arcb. Score: 38, Comments: 20. Original Link: https://bitboard.work/
+  * Summary: Hacker News story by arcb. Score: 43, Comments: 21. Original Link: https://bitboard.work/
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://bitboard.work>
 
@@ -4913,7 +4918,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vednig. Score: 452, Comments: 145. Original Link: https://opensourceaimustwin.com/?share=v2
+  * Summary: Hacker News story by vednig. Score: 893, Comments: 280. Original Link: https://opensourceaimustwin.com/?share=v2
   * Tags: `ai`, `hackernews`
   * Source URL: <https://opensourceaimustwin.com?share=v2>
 
@@ -4923,7 +4928,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/>
 
 * **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sschueller. Score: 247, Comments: 52. Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
+  * Summary: Hacker News story by sschueller. Score: 338, Comments: 69. Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
   * Tags: `ai`, `hackernews`
   * Source URL: <https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979>
 
@@ -4982,6 +4987,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `llm`
   * Source URL: <https://www.kennethpayne.uk/p/shall-we-play-a-game>
 
+* **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by vnglst. Score: 84, Comments: 65. Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
+  * Tags: `ai`, `anthropic`, `hackernews`
+  * Source URL: <https://koenvangilst.nl/lab/claude-fable-shepherds-dog>
+
 * **[Show HN: Claw Patrol, a security firewall for agents](ai/community/denoland-clawpatrol.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by rough-sea. Score: 38, Comments: 10. Original Link: https://github.com/denoland/clawpatrol
   * Tags: `agents`, `hackernews`
@@ -4993,12 +5003,17 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ellg. Score: 111, Comments: 62. Original Link: https://putt.day/
+  * Summary: Hacker News story by ellg. Score: 172, Comments: 74. Original Link: https://putt.day/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://putt.day>
 
+* **[Show HN: Skill for your agent to visualize your gbrain and Obsidian](ai/community/vladignatyev-brain-map-skill.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by v_ignatyev. Score: 6, Comments: 1. Original Link: https://github.com/vladignatyev/brain-map-skill
+  * Tags: `agents`, `ai`, `hackernews`
+  * Source URL: <https://github.com/vladignatyev/brain-map-skill>
+
 * **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by FergusArgyll. Score: 175, Comments: 112. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Summary: Hacker News story by FergusArgyll. Score: 193, Comments: 120. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 
@@ -5023,7 +5038,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12387>
 
 * **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by maxloh. Score: 25, Comments: 3. Original Link: https://tectonic-typesetting.github.io/en-US/
+  * Summary: Hacker News story by maxloh. Score: 52, Comments: 21. Original Link: https://tectonic-typesetting.github.io/en-US/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tectonic-typesetting.github.io/en-us>
 
@@ -11553,7 +11568,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.06527>
 
 * **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (`tutorial` | `useful` tier)
-  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.64k • 16
+  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.32k • 16
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://huggingface.co/blog/ngxson/make-your-own-rag>
 
@@ -12979,7 +12994,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/takahirox/online-wgsl-editor>
 
 * **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by mendyberger. Score: 6, Comments: 0. Original Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
+  * Summary: Hacker News story by mendyberger. Score: 25, Comments: 5. Original Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
   * Tags: `hackernews`, `threejs`, `webgpu`
   * Source URL: <https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx>
 

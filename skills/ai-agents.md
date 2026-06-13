@@ -25,7 +25,7 @@ Recently detected signals:
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-13
 - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) (Source: Unknown Source) - Collected 2026-06-13
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-13
-- [How to Learn RAGs from Scratch: A Step-by-Step Guide](../ai/rag/how-to-learn-rags-from-scratch-a-step-by-step-guid.md) (Source: Unknown Source) - Collected 2026-06-13
+- [Learn more](../ai/companies/deepmind/learn-more.md) (Source: Unknown Source) - Collected 2026-06-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.768749+00:00.506526+00:00.538312+00:00.338101+00:00.630591+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T09:36:37.720478+00:00.768749+00:00.506526+00:00.538312+00:00.338101+00:00.630591+00:00.

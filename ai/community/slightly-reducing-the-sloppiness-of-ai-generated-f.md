@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://envs.net/~volpe/blog/posts/reduce-slop.html
 hn_url: https://news.ycombinator.com/item?id=48504912
-score: 175
+score: 193
 author: FergusArgyll
-comments_count: 112
+comments_count: 120
 published_at: '2026-06-12T14:48:38+00:00'
-collected_at: '2026-06-13T04:50:21.893306+00:00'
+collected_at: '2026-06-13T09:34:09.615231+00:00'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:slightly-reducing-the-sloppiness-of-ai-generated-f
-first_seen: '2026-06-13T04:50:21.893306+00:00'
-last_seen: '2026-06-13T04:50:21.893306+00:00'
-last_checked: '2026-06-13T04:50:21.893306+00:00'
+first_seen: '2026-06-13T09:34:09.615231+00:00'
+last_seen: '2026-06-13T09:34:09.615231+00:00'
+last_checked: '2026-06-13T09:34:09.615231+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by FergusArgyll. Score: 175, Comments: 112.
+Hacker News story by FergusArgyll. Score: 193, Comments: 120.
 Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: FergusArgyll
-- Score: 175 Upvotes
-- Comments: 112 Discussions
+- Score: 193 Upvotes
+- Comments: 120 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48504912
 - Original Article: https://envs.net/~volpe/blog/posts/reduce-slop.html
 

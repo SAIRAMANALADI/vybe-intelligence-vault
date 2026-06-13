@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News Web Development
 source_url: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx
 hn_url: https://news.ycombinator.com/item?id=48465634
-score: 6
+score: 25
 author: mendyberger
-comments_count: 0
+comments_count: 5
 published_at: '2026-06-09T18:42:58+00:00'
-collected_at: '2026-06-13T04:50:26.339371+00:00'
+collected_at: '2026-06-13T09:34:14.255030+00:00'
 tags:
 - hackernews
 - threejs
 - webgpu
 status: active
 resource_id: hackernews:the-future-of-wasi-gfx-and-wasi-webgpu
-first_seen: '2026-06-13T04:50:26.339371+00:00'
-last_seen: '2026-06-13T04:50:26.339371+00:00'
-last_checked: '2026-06-13T04:50:26.339371+00:00'
+first_seen: '2026-06-13T09:34:14.255030+00:00'
+last_seen: '2026-06-13T09:34:14.255030+00:00'
+last_checked: '2026-06-13T09:34:14.255030+00:00'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by mendyberger. Score: 6, Comments: 0.
+Hacker News story by mendyberger. Score: 25, Comments: 5.
 Original Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: mendyberger
-- Score: 6 Upvotes
-- Comments: 0 Discussions
+- Score: 25 Upvotes
+- Comments: 5 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48465634
 - Original Article: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx
 

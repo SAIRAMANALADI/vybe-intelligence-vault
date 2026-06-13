@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280
-published_at: '2026-06-12T22:48:20.411337+00:00'
-collected_at: '2026-06-12T22:48:20.411351+00:00'
+published_at: '2026-06-13T09:35:06.112783+00:00'
+collected_at: '2026-06-13T09:35:06.112797+00:00'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
-first_seen: '2026-06-12T22:48:20.411351+00:00'
-last_seen: '2026-06-12T22:48:20.411351+00:00'
-last_checked: '2026-06-12T22:48:20.411351+00:00'
+first_seen: '2026-06-13T09:35:06.112797+00:00'
+last_seen: '2026-06-13T09:35:06.112797+00:00'
+last_checked: '2026-06-13T09:35:06.112797+00:00'
 health_score: 100
 ---
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T22:48:20.411337+00:00
+- Published: 2026-06-13T09:35:06.112783+00:00
 
 ## Related Tags
 

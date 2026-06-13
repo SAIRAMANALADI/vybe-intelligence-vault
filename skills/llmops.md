@@ -23,9 +23,9 @@ Active signals: 97 resources matched in the intelligence vault.
 Recently detected signals:
 - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-13
 - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) (Source: Unknown Source) - Collected 2026-06-13
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/huggingface-blog-accelerating-pytorch.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/huggingface-blog-lora.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/huggingface-blog-peft.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -86,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.848838+00:00.586899+00:00.618046+00:00.426834+00:00.784633+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T09:36:37.799725+00:00.848838+00:00.586899+00:00.618046+00:00.426834+00:00.784633+00:00.

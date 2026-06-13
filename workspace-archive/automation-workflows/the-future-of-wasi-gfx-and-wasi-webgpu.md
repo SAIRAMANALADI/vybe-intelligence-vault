@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by mendyberger. Score: 6, Comments: 0.
+Hacker News story by mendyberger. Score: 25, Comments: 5.
 Original Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
 
 ## Use Cases

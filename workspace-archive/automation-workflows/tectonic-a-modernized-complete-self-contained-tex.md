@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by maxloh. Score: 25, Comments: 3.
+Hacker News story by maxloh. Score: 52, Comments: 21.
 Original Link: https://tectonic-typesetting.github.io/en-US/
 
 ## Use Cases
