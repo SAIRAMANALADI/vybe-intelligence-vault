@@ -4,8 +4,8 @@ category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
 source_url: https://deepmind.google/blog
-published_at: '2026-06-13T14:24:57.241372+00:00'
-collected_at: '2026-06-13T14:24:57.241374+00:00'
+published_at: '2026-06-13T16:45:30.253290+00:00'
+collected_at: '2026-06-13T16:45:30.253292+00:00'
 tags:
 - blog-post
 - deepmind
@@ -13,9 +13,9 @@ tags:
 - reddit
 status: active
 resource_id: blog:newsdiscover-our-latest-ai-breakthroughs-projects
-first_seen: '2026-06-13T14:24:57.241374+00:00'
-last_seen: '2026-06-13T14:24:57.241374+00:00'
-last_checked: '2026-06-13T14:24:57.241374+00:00'
+first_seen: '2026-06-13T16:45:30.253292+00:00'
+last_seen: '2026-06-13T16:45:30.253292+00:00'
+last_checked: '2026-06-13T16:45:30.253292+00:00'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Google DeepMind Blog
 - Article URL: https://deepmind.google/blog
-- Collected At: 2026-06-13T14:24:57.241374+00:00
+- Collected At: 2026-06-13T16:45:30.253292+00:00
 
 ## Related Tags
 

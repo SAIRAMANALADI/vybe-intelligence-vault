@@ -18,10 +18,10 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 675 resources matched in the intelligence vault.
+Active signals: 678 resources matched in the intelligence vault.
 Recently detected signals:
 - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-13
-- [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) (Source: Unknown Source) - Collected 2026-06-13
+- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-13
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-13
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-13
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T14:27:01.183744+00:00.905110+00:00.955142+00:00.689386+00:00.721256+00:00.538693+00:00.012818+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T16:47:47.368469+00:00.183744+00:00.905110+00:00.955142+00:00.689386+00:00.721256+00:00.538693+00:00.012818+00:00.

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/lancedb/vectordb-recipes
-collected_at: '2026-06-13T14:26:54.041639+00:00'
+collected_at: '2026-06-13T16:47:35.168362+00:00'
 published_at: '2026-06-13T00:55:18Z'
 tags:
 - agents
@@ -22,9 +22,9 @@ archived: false
 created_at: '2023-06-25T06:10:35Z'
 pushed_at: '2026-04-24T11:29:16Z'
 resource_id: github:lancedb/vectordb-recipes
-first_seen: '2026-06-13T14:26:54.041639+00:00'
-last_seen: '2026-06-13T14:26:54.041639+00:00'
-last_checked: '2026-06-13T14:26:54.041639+00:00'
+first_seen: '2026-06-13T16:47:35.168362+00:00'
+last_seen: '2026-06-13T16:47:35.168362+00:00'
+last_checked: '2026-06-13T16:47:35.168362+00:00'
 health_score: 100
 ---
 
@@ -42,7 +42,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: lancedb
 - Stars: 961
-- Forks: 170
+- Forks: 169
 - Language: Jupyter Notebook
 - Topics: agents, ai, deep-learning, embeddings, fine-tuning, gpt, gpt-4-vision, lancedb, langchain, llama-index, llms, machine-learning, multimodal, multimodal-ai, openai, rag, vector-database
 - Last Updated: 2026-06-13T00:55:18Z

@@ -3772,4 +3772,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-13T14:27:04.252129+00:00*
+*Index generated on 2026-06-13T16:47:50.306209+00:00*

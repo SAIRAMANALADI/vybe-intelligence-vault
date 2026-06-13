@@ -5,20 +5,20 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
 hn_url: https://news.ycombinator.com/item?id=48513728
-score: 116
+score: 142
 author: vnglst
-comments_count: 97
+comments_count: 112
 published_at: '2026-06-13T05:44:46+00:00'
-collected_at: '2026-06-13T14:24:50.832728+00:00'
+collected_at: '2026-06-13T16:45:24.159998+00:00'
 tags:
 - ai
 - anthropic
 - hackernews
 status: active
 resource_id: hackernews:shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod
-first_seen: '2026-06-13T14:24:50.832728+00:00'
-last_seen: '2026-06-13T14:24:50.832728+00:00'
-last_checked: '2026-06-13T14:24:50.832728+00:00'
+first_seen: '2026-06-13T16:45:24.159998+00:00'
+last_seen: '2026-06-13T16:45:24.159998+00:00'
+last_checked: '2026-06-13T16:45:24.159998+00:00'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by vnglst. Score: 116, Comments: 97.
+Hacker News story by vnglst. Score: 142, Comments: 112.
 Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: vnglst
-- Score: 116 Upvotes
-- Comments: 97 Discussions
+- Score: 142 Upvotes
+- Comments: 112 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48513728
 - Original Article: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
 

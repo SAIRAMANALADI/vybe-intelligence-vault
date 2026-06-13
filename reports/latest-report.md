@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-13T14:27:23.432718+00:00`
+Generated at: `2026-06-13T16:48:08.462945+00:00`
 
 ## Executive Summary
 
@@ -8,35 +8,34 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **AI OSS tool repo goes archived over night after raising $7.3M Seed** - Score: `72` in category `ai/community` ([Link](https://github.com/tensorzero/tensorzero)) ([File](../ai/community/tensorzero-tensorzero.md))
-- **Show HN: Paca – Lightweight Jira alternative for human-AI collaboration** - Score: `62` in category `ai/community` ([Link](https://github.com/paca-ai/paca)) ([File](../ai/community/paca-ai-paca.md))
-- **Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case** - Score: `22` in category `ai/community` ([Link](https://theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal)) ([File](../ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md))
+No new discoveries tracked in this run.
+
 
 ## 🔥 Top Trending Resources
 
-- **Open source AI must win** - Score: `1226` (+333), Rank Change: `0` ([File](../ai/community/open-source-ai-must-win.md))
-- **Show HN: Putt.day a daily mini golf game** - Score: `228` (+56), Rank Change: `+6` ([File](../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md))
-- **Shepherd's Dog: A Game by the Most Dangerous AI Model** - Score: `116` (+32), Rank Change: `0` ([File](../ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md))
-- **Slightly reducing the sloppiness of AI generated front end** - Score: `211` (+18), Rank Change: `0` ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
-- **Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents** - Score: `48` (+5), Rank Change: `-1` ([File](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md))
-- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+251` ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+277` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **HKUDS/RAG-Anything** - Score: `0` (0), Rank Change: `+248` ([File](../ai/rag/hkuds-rag-anything.md))
-- **Code a simple RAG from scratch** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/code-a-simple-rag-from-scratch.md))
-- **LightRAG** - Score: `0` (0), Rank Change: `+255` ([File](../ai/rag/lightrag.md))
+- **Open source AI must win** - Score: `1352` (+126), Rank Change: `+1` ([File](../ai/community/open-source-ai-must-win.md))
+- **AI OSS tool repo goes archived over night after raising $7.3M Seed** - Score: `166` (+94), Rank Change: `+7` ([File](../ai/community/tensorzero-tensorzero.md))
+- **Shepherd's Dog: A Game by the Most Dangerous AI Model** - Score: `142` (+26), Rank Change: `+1` ([File](../ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md))
+- **Show HN: Putt.day a daily mini golf game** - Score: `253` (+25), Rank Change: `0` ([File](../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md))
+- **Show HN: Paca – Lightweight Jira alternative for human-AI collaboration** - Score: `87` (+25), Rank Change: `+3` ([File](../ai/community/paca-ai-paca.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+259` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - Score: `0` (0), Rank Change: `+11` ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
+- **Google Colab** - Score: `0` (0), Rank Change: `+260` ([File](../ai/rag/google-colab.md))
+- **RAG System with LangChain and LangGraph - GeeksforGeeks** - Score: `0` (0), Rank Change: `+260` ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
+- **15 Best Open-Source RAG Frameworks in 2026** - Score: `0` (0), Rank Change: `+12` ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **pixegami/langchain-rag-tutorial** - (Rank Change: `+277`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
-- **LightRAG** - (Rank Change: `+255`) ([File](../ai/rag/lightrag.md))
-- **lancedb/vectordb-recipes** - (Rank Change: `+251`) ([File](../ai/rag/lancedb-vectordb-recipes.md))
-- **HKUDS/RAG-Anything** - (Rank Change: `+248`) ([File](../ai/rag/hkuds-rag-anything.md))
-- **What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog** - (Rank Change: `+243`) ([File](../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md))
-- **Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium** - (Rank Change: `+240`) ([File](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md))
-- **nklsrh/BuildNewGames_ThreeJSGame** - (Rank Change: `+100`) ([File](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md))
-- **Show HN: Putt.day a daily mini golf game** - (Rank Change: `+6`) ([File](../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md))
-- **Code a simple RAG from scratch** - (Rank Change: `+5`) ([File](../ai/rag/code-a-simple-rag-from-scratch.md))
-- **Build a RAG agent with LangChain - Docs by LangChain** - (Rank Change: `+1`) ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
+- **Google Colab** - (Rank Change: `+260`) ([File](../ai/rag/google-colab.md))
+- **RAG System with LangChain and LangGraph - GeeksforGeeks** - (Rank Change: `+260`) ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+259`) ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+251`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - (Rank Change: `+244`) ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+244`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Retrieval-Augmented Generation (RAG) — RAG multi model documentation** - (Rank Change: `+239`) ([File](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md))
+- **15 Best Open-Source RAG Frameworks in 2026** - (Rank Change: `+12`) ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
+- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - (Rank Change: `+11`) ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
+- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - (Rank Change: `+8`) ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
 
 ## 🔄 Essential Tier Transitions
 

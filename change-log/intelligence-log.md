@@ -2,6 +2,290 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-06-13T16:48:08.462945+00:00
+- **[Score Increase]** `Open source AI must win`: 1226 -> 1352 (+126)
+- **[Score Increase]** `Show HN: Putt.day a daily mini golf game`: 228 -> 253 (+25)
+- **[Score Increase]** `AI OSS tool repo goes archived over night after raising $7.3M Seed`: 72 -> 166 (+94)
+- **[Score Increase]** `Shepherd's Dog: A Game by the Most Dangerous AI Model`: 116 -> 142 (+26)
+- **[Score Increase]** `Show HN: Paca – Lightweight Jira alternative for human-AI collaboration`: 62 -> 87 (+25)
+- **[Rank Rise]** `Open source AI must win`: Rank rose by +1
+- **[Rank Rise]** `AI OSS tool repo goes archived over night after raising $7.3M Seed`: Rank rose by +7
+- **[Rank Rise]** `Shepherd's Dog: A Game by the Most Dangerous AI Model`: Rank rose by +1
+- **[Rank Rise]** `Show HN: Paca – Lightweight Jira alternative for human-AI collaboration`: Rank rose by +3
+- **[Rank Rise]** `pguso/rag-from-scratch`: Rank rose by +259
+- **[Rank Rise]** `RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org`: Rank rose by +11
+- **[Rank Rise]** `Google Colab`: Rank rose by +260
+- **[Rank Rise]** `RAG System with LangChain and LangGraph - GeeksforGeeks`: Rank rose by +260
+- **[Rank Rise]** `15 Best Open-Source RAG Frameworks in 2026`: Rank rose by +12
+- **[Rank Rise]** `What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community`: Rank rose by +8
+- **[Rank Rise]** `Building a RAG Application - GeeksforGeeks`: Rank rose by +7
+- **[Rank Rise]** `UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities`: Rank rose by +244
+- **[Rank Rise]** `datawhalechina/llm-universe`: Rank rose by +244
+- **[Rank Rise]** `Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium`: Rank rose by +251
+- **[Rank Rise]** `Retrieval-Augmented Generation (RAG) — RAG multi model documentation`: Rank rose by +239
+- **[Rank Drop]** `AI agent bankrupted their operator while trying to scan DN42`: Rank dropped by -1
+- **[Rank Drop]** `The Future of Email`: Rank dropped by -1
+- **[Rank Drop]** `A jacket that harvests drinking water from the air`: Rank dropped by -1
+- **[Rank Drop]** `Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails`: Rank dropped by -1
+- **[Rank Drop]** `Shall we play a game? – LLMs use tactical nukes in 95% of simulations`: Rank dropped by -2
+- **[Rank Drop]** `Show HN: HelixDB – A graph database built on object storage`: Rank dropped by -2
+- **[Rank Drop]** `Klondike Solitaire game for curses in 5k of C`: Rank dropped by -2
+- **[Rank Drop]** `Making a vintage LLM from scratch`: Rank dropped by -1
+- **[Rank Drop]** `There Is Life Before Main in Rust`: Rank dropped by -1
+- **[Rank Drop]** `RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium`: Rank dropped by -2
+- **[Rank Drop]** `The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte`: Rank dropped by -2
+- **[Rank Drop]** `Code a simple RAG from scratch`: Rank dropped by -9
+- **[Rank Drop]** `Build a RAG agent with LangChain - Docs by LangChain`: Rank dropped by -5
+- **[Rank Drop]** `Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech`: Rank dropped by -11
+- **[Rank Drop]** `What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog`: Rank dropped by -7
+- **[Rank Drop]** `7 Best GitHub Repositories For Mastering RAG Systems`: Rank dropped by -8
+- **[Rank Drop]** `Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium`: Rank dropped by -1
+- **[Rank Drop]** `datawhalechina/all-in-rag`: Rank dropped by -1
+- **[Rank Drop]** `Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI`: Rank dropped by -1
+- **[Rank Drop]** `Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI`: Rank dropped by -1
+- **[Rank Drop]** `Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI`: Rank dropped by -1
+- **[Rank Drop]** `Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral`: Rank dropped by -1
+- **[Rank Drop]** `Introducing Search Toolkit`: Rank dropped by -1
+- **[Rank Drop]** `Vibe gets to work.`: Rank dropped by -1
+- **[Rank Drop]** `AI Now Summit 2026`: Rank dropped by -1
+- **[Rank Drop]** `Voxtral TTS`: Rank dropped by -1
+- **[Rank Drop]** `Mistral Small 4`: Rank dropped by -1
+- **[Rank Drop]** `Mistral Medium 3.5`: Rank dropped by -1
+- **[Rank Drop]** `Learn more`: Rank dropped by -1
+- **[Rank Drop]** `NewsDiscover our latest AI breakthroughs, projects, and updates`: Rank dropped by -1
+- **[Rank Drop]** `AlphaEvolveDesign advanced algorithms for math and applications in computing`: Rank dropped by -1
+- **[Rank Drop]** `AlphaEarthMap our planet in unprecedented detail`: Rank dropped by -1
+- **[Rank Drop]** `SIMA 2An agent that plays, reasons, and learns with you`: Rank dropped by -1
+- **[Rank Drop]** `Responsible Scaling Policy`: Rank dropped by -1
+- **[Rank Drop]** `Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC`: Rank dropped by -1
+- **[Rank Drop]** `Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats`: Rank dropped by -1
+- **[Rank Drop]** `Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network`: Rank dropped by -1
+- **[Rank Drop]** `Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on`: Rank dropped by -1
+- **[Rank Drop]** `Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries`: Rank dropped by -1
+- **[Rank Drop]** `Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record`: Rank dropped by -1
+- **[Rank Drop]** `Applied AI`: Rank dropped by -1
+- **[Rank Drop]** `AI Adoption`: Rank dropped by -1
+- **[Rank Drop]** `Global Affairs`: Rank dropped by -1
+- **[Rank Drop]** `Engineering`: Rank dropped by -1
+- **[Rank Drop]** `jln13x/ui.jln.dev`: Rank dropped by -1
+- **[Rank Drop]** `magicuidesign/portfolio`: Rank dropped by -1
+- **[Rank Drop]** `sadmann7/file-uploader`: Rank dropped by -1
+- **[Rank Drop]** `shadcn-ui/next-template`: Rank dropped by -1
+- **[Rank Drop]** `marmelab/atomic-crm`: Rank dropped by -1
+- **[Rank Drop]** `akash3444/shadcn-ui-blocks`: Rank dropped by -1
+- **[Rank Drop]** `bytefer/awesome-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `dan5py/react-vite-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `ObservedObserver/streamlit-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `jnsahaj/tweakcn`: Rank dropped by -1
+- **[Rank Drop]** `dan5py/turborepo-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `hsuanyi-chou/shadcn-ui-expansions`: Rank dropped by -1
+- **[Rank Drop]** `vbenjs/vue-vben-admin`: Rank dropped by -1
+- **[Rank Drop]** `ln-dev7/square-ui`: Rank dropped by -1
+- **[Rank Drop]** `nextjs/saas-starter`: Rank dropped by -1
+- **[Rank Drop]** `salimi-my/shadcn-ui-sidebar`: Rank dropped by -1
+- **[Rank Drop]** `nank1ro/flutter-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `Jpisnice/shadcn-ui-mcp-server`: Rank dropped by -1
+- **[Rank Drop]** `udecode/plate`: Rank dropped by -1
+- **[Rank Drop]** `huntabyte/shadcn-svelte`: Rank dropped by -1
+- **[Rank Drop]** `satnaing/shadcn-admin`: Rank dropped by -1
+- **[Rank Drop]** `unovue/shadcn-vue`: Rank dropped by -1
+- **[Rank Drop]** `shadcn-ui/taxonomy`: Rank dropped by -1
+- **[Rank Drop]** `birobirobiro/awesome-shadcn-ui`: Rank dropped by -1
+- **[Rank Drop]** `shadcn-ui/ui`: Rank dropped by -1
+- **[Rank Drop]** `EasyFrontendHQ/html-tailwindcss-components`: Rank dropped by -1
+- **[Rank Drop]** `asbhogal/Fyrre-Magazine`: Rank dropped by -1
+- **[Rank Drop]** `redpangilinan/next-entree`: Rank dropped by -1
+- **[Rank Drop]** `pdsuwwz/nextjs-nextra-starter`: Rank dropped by -1
+- **[Rank Drop]** `reliverse/relivator`: Rank dropped by -1
+- **[Rank Drop]** `gonzalochale/saas-landing-template`: Rank dropped by -1
+- **[Rank Drop]** `NotStark/portfolio`: Rank dropped by -1
+- **[Rank Drop]** `danybeltran/nextjs-typescript-and-postgresql`: Rank dropped by -1
+- **[Rank Drop]** `enesien/venefish`: Rank dropped by -1
+- **[Rank Drop]** `linkb15/turborepo-shadcn-ui-tailwind-4`: Rank dropped by -1
+- **[Rank Drop]** `ixartz/SaaS-Boilerplate`: Rank dropped by -1
+- **[Rank Drop]** `shadcnspace/shadcnspace`: Rank dropped by -1
+- **[Rank Drop]** `jolbol1/nextjs-velite-blog-template`: Rank dropped by -1
+- **[Rank Drop]** `ChangoMan/nextjs-mdx-blog`: Rank dropped by -1
+- **[Rank Drop]** `saasykits/nextjs-sessionauth-template`: Rank dropped by -1
+- **[Rank Drop]** `shadcnstore/shadcn-dashboard-landing-template`: Rank dropped by -1
+- **[Rank Drop]** `shadcnblocks/mainline-nextjs-template`: Rank dropped by -1
+- **[Rank Drop]** `nobruf/shadcn-landing-page`: Rank dropped by -1
+- **[Rank Drop]** `ShowravKormokar/capsule`: Rank dropped by -1
+- **[Rank Drop]** `codebucks27/Apple-iphone-3d-landing-page-starter-Code`: Rank dropped by -1
+- **[Rank Drop]** `codebucks27/3D-Landing-page-for-Apple-iPhone`: Rank dropped by -1
+- **[Rank Drop]** `codebucks27/The-Weirdos-NFT-Website-Starter-Code`: Rank dropped by -1
+- **[Rank Drop]** `chrisgannon/ScrollLottie`: Rank dropped by -1
+- **[Rank Drop]** `codrops/ScrollBasedLayoutAnimations`: Rank dropped by -1
+- **[Rank Drop]** `kartikk-k/dashboard-ui`: Rank dropped by -1
+- **[Rank Drop]** `codebucks27/react-portfolio-final`: Rank dropped by -1
+- **[Rank Drop]** `braydoncoyer/braydoncoyer.dev`: Rank dropped by -1
+- **[Rank Drop]** `itsfaqih/fama`: Rank dropped by -1
+- **[Rank Drop]** `SikandarJODD/svelte-animations`: Rank dropped by -1
+- **[Rank Drop]** `fireship-io/framer-demo`: Rank dropped by -1
+- **[Rank Drop]** `kheruc/rt-next-motion`: Rank dropped by -1
+- **[Rank Drop]** `Codefreyy/joy-personal-portfolio`: Rank dropped by -1
+- **[Rank Drop]** `jiangbo2015/framer-motion-carousel`: Rank dropped by -1
+- **[Rank Drop]** `iamshaunjp/firegram`: Rank dropped by -1
+- **[Rank Drop]** `ChrisAbdo/MotionVariants`: Rank dropped by -1
+- **[Rank Drop]** `K-H-Rayhan/nextjs-animated-slider`: Rank dropped by -1
+- **[Rank Drop]** `frontendfyi/rebuilding-linear.app`: Rank dropped by -1
+- **[Rank Drop]** `realstoman/react-tailwindcss-portfolio`: Rank dropped by -1
+- **[Rank Drop]** `anl331/goey-toast`: Rank dropped by -1
+- **[Rank Drop]** `wrongakram/nextjs-page-transitions`: Rank dropped by -1
+- **[Rank Drop]** `uixmat/onborda`: Rank dropped by -1
+- **[Rank Drop]** `wrongakram/framermotion-react-router`: Rank dropped by -1
+- **[Rank Drop]** `frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects`: Rank dropped by -1
+- **[Rank Drop]** `TomIsLoading/framer-motion-crash-course`: Rank dropped by -1
+- **[Rank Drop]** `builduilabs/framer-motion-recipes`: Rank dropped by -1
+- **[Rank Drop]** `sanidhyy/modern-portfolio`: Rank dropped by -1
+- **[Rank Drop]** `adrianhajdin/project_metaverse`: Rank dropped by -1
+- **[Rank Drop]** `google-research/frame-interpolation`: Rank dropped by -1
+- **[Rank Drop]** `iamshaunjp/framer-motion`: Rank dropped by -1
+- **[Rank Drop]** `Scthe/nanite-webgpu`: Rank dropped by -1
+- **[Rank Drop]** `dgreenheck/webgpu-claude-skill`: Rank dropped by -1
+- **[Rank Drop]** `gnikoloff/webgpu-sponza-demo`: Rank dropped by -1
+- **[Rank Drop]** `SuboptimalEng/slime-sim-webgpu`: Rank dropped by -1
+- **[Rank Drop]** `gnikoloff/webgpu-raytracer`: Rank dropped by -1
+- **[Rank Drop]** `rajveermalviya/go-webgpu`: Rank dropped by -1
+- **[Rank Drop]** `mikbry/awesome-webgpu`: Rank dropped by -1
+- **[Rank Drop]** `playcanvas/engine`: Rank dropped by -1
+- **[Rank Drop]** `GEngine-js/GEngine`: Rank dropped by -1
+- **[Rank Drop]** `patriciogonzalezvivo/lygia`: Rank dropped by -1
+- **[Rank Drop]** `webgpu/webgpufundamentals`: Rank dropped by -1
+- **[Rank Drop]** `webgpu-tools/wesl-rs`: Rank dropped by -1
+- **[Rank Drop]** `PolyMeilex/vscode-wgsl`: Rank dropped by -1
+- **[Rank Drop]** `wgsl-analyzer/wgsl-analyzer`: Rank dropped by -1
+- **[Rank Drop]** `redcamel/RedGPU`: Rank dropped by -1
+- **[Rank Drop]** `takahirox/online-wgsl-editor`: Rank dropped by -1
+- **[Rank Drop]** `szebniok/tree-sitter-wgsl`: Rank dropped by -1
+- **[Rank Drop]** `ChartGPU/ChartGPU`: Rank dropped by -1
+- **[Rank Drop]** `brendan-duncan/webgpu_inspector`: Rank dropped by -1
+- **[Rank Drop]** `webgpu/webgpu-samples`: Rank dropped by -1
+- **[Rank Drop]** `Orillusion/orillusion`: Rank dropped by -1
+- **[Rank Drop]** `google/tour-of-wgsl`: Rank dropped by -1
+- **[Rank Drop]** `brendan-duncan/wgsl_reflect`: Rank dropped by -1
+- **[Rank Drop]** `hjlld/LearningWebGPU`: Rank dropped by -1
+- **[Rank Drop]** `gpuweb/gpuweb`: Rank dropped by -1
+- **[Rank Drop]** `TiagoCavalcante/r3f-native-orbitcontrols`: Rank dropped by -1
+- **[Rank Drop]** `emmelleppi/r3f-cheers`: Rank dropped by -1
+- **[Rank Drop]** `ektogamat/r3f-webgpu-starter`: Rank dropped by -1
+- **[Rank Drop]** `whoisryosuke/r3f-next-starter`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/use-cannon`: Rank dropped by -1
+- **[Rank Drop]** `gsimone/awesome-react-three-fiber`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/triplex`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/react-postprocessing`: Rank dropped by -1
+- **[Rank Drop]** `juniorxsound/R3F.Multiplayer`: Rank dropped by -1
+- **[Rank Drop]** `benjaminmiles/react-three-vite`: Rank dropped by -1
+- **[Rank Drop]** `Epiczzor/r3f-template`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/xr`: Rank dropped by -1
+- **[Rank Drop]** `anyone-yuren/degital-twin-3d`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/react-three-flex`: Rank dropped by -1
+- **[Rank Drop]** `wass08/r3f-ultimate-character-configurator`: Rank dropped by -1
+- **[Rank Drop]** `14islands/r3f-scroll-rig`: Rank dropped by -1
+- **[Rank Drop]** `gsimone/r3f-bubbles`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/react-three-next`: Rank dropped by -1
+- **[Rank Drop]** `coldi/r3f-game-demo`: Rank dropped by -1
+- **[Rank Drop]** `mohitvirli/mohitvirli.github.io`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/uikit`: Rank dropped by -1
+- **[Rank Drop]** `emmelleppi/codrops-r3f-mirrors`: Rank dropped by -1
+- **[Rank Drop]** `wrongakram/R3F-Chairs`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/drei`: Rank dropped by -1
+- **[Rank Drop]** `nklsrh/BuildNewGames_ThreeJSGame`: Rank dropped by -1
+- **[Rank Drop]** `josdirksen/learning-threejs-third`: Rank dropped by -1
+- **[Rank Drop]** `Mario343214420/Webgl-Data-Demo`: Rank dropped by -1
+- **[Rank Drop]** `sanderblue/solar-system-threejs`: Rank dropped by -1
+- **[Rank Drop]** `spite/Wagner`: Rank dropped by -1
+- **[Rank Drop]** `fritx/vue-threejs`: Rank dropped by -1
+- **[Rank Drop]** `chenjsh36/ThreeJSForFun`: Rank dropped by -1
+- **[Rank Drop]** `wolfwind521/indoor3D`: Rank dropped by -1
+- **[Rank Drop]** `wechat-miniprogram/threejs-miniprogram`: Rank dropped by -1
+- **[Rank Drop]** `dhruvmisra/Pathfinding-Visualizer-ThreeJS`: Rank dropped by -1
+- **[Rank Drop]** `z2586300277/three-cesium-examples`: Rank dropped by -1
+- **[Rank Drop]** `puxiao/threejs-tutorial`: Rank dropped by -1
+- **[Rank Drop]** `xiao149/ThreeJsDemo`: Rank dropped by -1
+- **[Rank Drop]** `gkjohnson/threejs-sandbox`: Rank dropped by -1
+- **[Rank Drop]** `pixiv/three-vrm`: Rank dropped by -1
+- **[Rank Drop]** `creativelifeform/three-nebula`: Rank dropped by -1
+- **[Rank Drop]** `vasturiano/3d-force-graph`: Rank dropped by -1
+- **[Rank Drop]** `mkkellogg/GaussianSplats3D`: Rank dropped by -1
+- **[Rank Drop]** `idflood/ThreeNodes.js`: Rank dropped by -1
+- **[Rank Drop]** `pmndrs/react-three-fiber`: Rank dropped by -1
+- **[Rank Drop]** `fireship-io/threejs-scroll-animation-demo`: Rank dropped by -1
+- **[Rank Drop]** `davidlyons/threejs-intro`: Rank dropped by -1
+- **[Rank Drop]** `luosijie/threejs-examples`: Rank dropped by -1
+- **[Rank Drop]** `mrdoob/three.js`: Rank dropped by -1
+- **[Rank Drop]** `ykob/sketch-threejs`: Rank dropped by -1
+- **[Rank Drop]** `Yay! Organizations can now publish blog Articles`: Rank dropped by -1
+- **[Rank Drop]** `Mastering Long Contexts in LLMs with KVPress`: Rank dropped by -1
+- **[Rank Drop]** `Open-R1: a fully open reproduction of DeepSeek-R1`: Rank dropped by -1
+- **[Rank Drop]** `Mini-R1: Reproduce Deepseek R1 „aha moment“ a RL tutorial`: Rank dropped by -1
+- **[Rank Drop]** `Open-R1: Update #1`: Rank dropped by -1
+- **[Rank Drop]** `Open R1: Update #2`: Rank dropped by -1
+- **[Rank Drop]** `Open R1: Update #3`: Rank dropped by -1
+- **[Rank Drop]** `Open R1: Update #4`: Rank dropped by -1
+- **[Rank Drop]** `Efficient Request Queueing – Optimizing LLM Performance`: Rank dropped by -1
+- **[Rank Drop]** `Prefill and Decode for Concurrent Requests - Optimizing LLM Performance`: Rank dropped by -1
+- **[Rank Drop]** `Finetuning olmOCR to be a faithful OCR-Engine`: Rank dropped by -1
+- **[Rank Drop]** `Falcon-Edge: A series of powerful, universal, fine-tunable 1.58bit language models.`: Rank dropped by -1
+- **[Rank Drop]** `Falcon-Arabic: A Breakthrough in Arabic Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Falcon-H1: A Family of Hybrid-Head Language Models Redefining Efficiency and Performance`: Rank dropped by -1
+- **[Rank Drop]** `Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H`: Rank dropped by -1
+- **[Rank Drop]** `Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom`: Rank dropped by -1
+- **[Rank Drop]** `Post-Training Isaac GR00T N1.5 for LeRobot SO-101 Arm`: Rank dropped by -1
+- **[Rank Drop]** `Welcome the NVIDIA Llama Nemotron Nano VLM to Hugging Face Hub`: Rank dropped by -1
+- **[Rank Drop]** `Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models`: Rank dropped by -1
+- **[Rank Drop]** `Kimina-Prover: Applying Test-time RL Search on Large Formal Reasoning Models`: Rank dropped by -1
+- **[Rank Drop]** `Accelerate a World of LLMs on Hugging Face with NVIDIA NIM`: Rank dropped by -1
+- **[Rank Drop]** `📚 3LM: A Benchmark for Arabic LLMs in STEM and Code`: Rank dropped by -1
+- **[Rank Drop]** `Measuring Open-Source Llama Nemotron Models on DeepResearch Bench`: Rank dropped by -1
+- **[Rank Drop]** `Neural Super Sampling is here!`: Rank dropped by -1
+- **[Rank Drop]** `Arm & ExecuTorch 0.7: Bringing Generative AI to the masses`: Rank dropped by -1
+- **[Rank Drop]** `NVIDIA Releases 6 Million Multi-Lingual Reasoning Dataset`: Rank dropped by -1
+- **[Rank Drop]** `SyGra: The One-Stop Framework for Building Data for LLMs and SLMs`: Rank dropped by -1
+- **[Rank Drop]** `Nemotron-Personas-Japan: ソブリン AI のための合成データセット`: Rank dropped by -1
+- **[Rank Drop]** `Nemotron-Personas-India: Synthesized Data for Sovereign AI`: Rank dropped by -1
+- **[Rank Drop]** `Granite 4.0 Nano: Just how small can you go?`: Rank dropped by -1
+- **[Rank Drop]** `How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare`: Rank dropped by -1
+- **[Rank Drop]** `On the Shifting Global Compute Landscape`: Rank dropped by -1
+- **[Rank Drop]** `Apriel-H1: The Surprising Key to Distilling Efficient Reasoning Models`: Rank dropped by -1
+- **[Rank Drop]** `CUGA on Hugging Face: Democratizing Configurable AI Agents`: Rank dropped by -1
+- **[Rank Drop]** `The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator`: Rank dropped by -1
+- **[Rank Drop]** `AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems`: Rank dropped by -1
+- **[Rank Drop]** `Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture`: Rank dropped by -1
+- **[Rank Drop]** `NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI`: Rank dropped by -1
+- **[Rank Drop]** `One Year Since the “DeepSeek Moment”`: Rank dropped by -1
+- **[Rank Drop]** `AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality`: Rank dropped by -1
+- **[Rank Drop]** `Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs`: Rank dropped by -1
+- **[Rank Drop]** `Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek`: Rank dropped by -1
+- **[Rank Drop]** `Training Design for Text-to-Image Models: Lessons from Ablations`: Rank dropped by -1
+- **[Rank Drop]** `The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+`: Rank dropped by -1
+- **[Rank Drop]** `H Company's new Holo2 model takes the lead in UI Localization`: Rank dropped by -1
+- **[Rank Drop]** `Introducing SyGra Studio`: Rank dropped by -1
+- **[Rank Drop]** `IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST`: Rank dropped by -1
+- **[Rank Drop]** `Holotron-12B - High Throughput Computer Use Agent`: Rank dropped by -1
+- **[Rank Drop]** `Build a Domain-Specific Embedding Model in Under a Day`: Rank dropped by -1
+- **[Rank Drop]** `A New Framework for Evaluating Voice Agents (EVA)`: Rank dropped by -1
+- **[Rank Drop]** `Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents`: Rank dropped by -1
+- **[Rank Drop]** `Falcon Perception`: Rank dropped by -1
+- **[Rank Drop]** `Meet HoloTab by HCompany. Your AI browser companion.`: Rank dropped by -1
+- **[Rank Drop]** `Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents`: Rank dropped by -1
+- **[Rank Drop]** `Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents`: Rank dropped by -1
+- **[Rank Drop]** `Granite 4.1 LLMs: How They’re Built`: Rank dropped by -1
+- **[Rank Drop]** `olmo-eval: An evaluation workbench for the model development loop`: Rank dropped by -1
+- **[Rank Drop]** `pixegami/langchain-rag-tutorial`: Rank dropped by -255
+- **[Rank Drop]** `HKUDS/RAG-Anything`: Rank dropped by -252
+- **[Rank Drop]** `LightRAG`: Rank dropped by -249
+- **[Rank Drop]** `The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech`: Rank dropped by -246
+- **[Rank Drop]** `7 Steps to Build a Simple RAG System from Scratch - KDnuggets`: Rank dropped by -245
+- **[Rank Drop]** `Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium`: Rank dropped by -242
+- **[Rank Drop]** `krishnaik06/RAG-Tutorials`: Rank dropped by -7
+- **[Rank Drop]** `How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn`: Rank dropped by -7
+- **[Rank Drop]** `RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary`: Rank dropped by -3
+- **[Rank Drop]** `How to Learn RAGs from Scratch: A Step-by-Step Guide`: Rank dropped by -3
+- **[Rank Drop]** `Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial - DEV Community`: Rank dropped by -3
+- **[Rank Drop]** `Build a RAG Chatbot in 30 Min with Python + LangChain [2026]`: Rank dropped by -3
+- **[Rank Drop]** `infiniflow/ragflow`: Rank dropped by -3
+
 ### Run: 2026-06-13T14:27:23.432718+00:00
 - **[New Discovery]** `AI OSS tool repo goes archived over night after raising $7.3M Seed` registered with score `72` in `ai/community`
 - **[New Discovery]** `Show HN: Paca – Lightweight Jira alternative for human-AI collaboration` registered with score `62` in `ai/community`

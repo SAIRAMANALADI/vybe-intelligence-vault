@@ -4628,7 +4628,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
 * **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hek2sch. Score: 72, Comments: 40. Original Link: https://github.com/tensorzero/tensorzero
+  * Summary: Hacker News story by hek2sch. Score: 166, Comments: 117. Original Link: https://github.com/tensorzero/tensorzero
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/tensorzero/tensorzero>
 
@@ -4923,7 +4923,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vednig. Score: 1226, Comments: 388. Original Link: https://opensourceaimustwin.com/?share=v2
+  * Summary: Hacker News story by vednig. Score: 1352, Comments: 416. Original Link: https://opensourceaimustwin.com/?share=v2
   * Tags: `ai`, `hackernews`
   * Source URL: <https://opensourceaimustwin.com?share=v2>
 
@@ -4998,7 +4998,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.kennethpayne.uk/p/shall-we-play-a-game>
 
 * **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vnglst. Score: 116, Comments: 97. Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
+  * Summary: Hacker News story by vnglst. Score: 142, Comments: 112. Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://koenvangilst.nl/lab/claude-fable-shepherds-dog>
 
@@ -5013,12 +5013,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pikann22. Score: 62, Comments: 24. Original Link: https://github.com/Paca-AI/paca
+  * Summary: Hacker News story by pikann22. Score: 87, Comments: 30. Original Link: https://github.com/Paca-AI/paca
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/paca-ai/paca>
 
 * **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ellg. Score: 228, Comments: 94. Original Link: https://putt.day/
+  * Summary: Hacker News story by ellg. Score: 253, Comments: 98. Original Link: https://putt.day/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://putt.day>
 

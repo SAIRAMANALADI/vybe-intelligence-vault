@@ -53,21 +53,19 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-13 14:27 UTC |
+| Last meaningful update | 2026-06-13 16:48 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (+333 points)
-- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Rank: +6) (+56 points)
-- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (+32 points)
-- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (+18 points)
-- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (+5 points)
+- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Rank: +1) (+126 points)
+- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Rank: +7) (+94 points)
+- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (Rank: +1) (+26 points)
+- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (+25 points)
+- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (Rank: +3) (+25 points)
 
 #### ✨ New Discoveries
-- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Score: 72)
-- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (Score: 62)
-- **[Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)** (Score: 22)
+- No new discoveries in this run.
 
 #### 💤 Recently Inactive Resources
 - None.

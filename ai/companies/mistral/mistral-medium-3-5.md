@@ -4,8 +4,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
-published_at: '2026-06-13T14:24:57.692113+00:00'
-collected_at: '2026-06-13T14:24:57.692129+00:00'
+published_at: '2026-06-13T16:45:31.206994+00:00'
+collected_at: '2026-06-13T16:45:31.207008+00:00'
 tags:
 - agents
 - blog-post
@@ -14,9 +14,9 @@ tags:
 - models
 status: active
 resource_id: blog:mistral-medium-3-5
-first_seen: '2026-06-13T14:24:57.692129+00:00'
-last_seen: '2026-06-13T14:24:57.692129+00:00'
-last_checked: '2026-06-13T14:24:57.692129+00:00'
+first_seen: '2026-06-13T16:45:31.207008+00:00'
+last_seen: '2026-06-13T16:45:31.207008+00:00'
+last_checked: '2026-06-13T16:45:31.207008+00:00'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5
-- Collected At: 2026-06-13T14:24:57.692129+00:00
+- Collected At: 2026-06-13T16:45:31.207008+00:00
 
 ## Related Tags
 

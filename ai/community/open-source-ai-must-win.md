@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://opensourceaimustwin.com?share=v2
 hn_url: https://news.ycombinator.com/item?id=48511908
-score: 1226
+score: 1352
 author: vednig
-comments_count: 388
+comments_count: 416
 published_at: '2026-06-13T02:14:24+00:00'
-collected_at: '2026-06-13T14:24:50.207182+00:00'
+collected_at: '2026-06-13T16:45:23.887364+00:00'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:open-source-ai-must-win
-first_seen: '2026-06-13T14:24:50.207182+00:00'
-last_seen: '2026-06-13T14:24:50.207182+00:00'
-last_checked: '2026-06-13T14:24:50.207182+00:00'
+first_seen: '2026-06-13T16:45:23.887364+00:00'
+last_seen: '2026-06-13T16:45:23.887364+00:00'
+last_checked: '2026-06-13T16:45:23.887364+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by vednig. Score: 1226, Comments: 388.
+Hacker News story by vednig. Score: 1352, Comments: 416.
 Original Link: https://opensourceaimustwin.com/?share=v2
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: vednig
-- Score: 1226 Upvotes
-- Comments: 388 Discussions
+- Score: 1352 Upvotes
+- Comments: 416 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48511908
 - Original Article: https://opensourceaimustwin.com?share=v2
 

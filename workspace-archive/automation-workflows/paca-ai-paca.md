@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by pikann22. Score: 62, Comments: 24.
+Hacker News story by pikann22. Score: 87, Comments: 30.
 Original Link: https://github.com/Paca-AI/paca
 
 ## Use Cases

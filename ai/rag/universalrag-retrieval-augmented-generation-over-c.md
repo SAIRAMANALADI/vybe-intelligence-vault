@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://universalrag.github.io
-published_at: '2026-06-13T09:35:05.579381+00:00'
-collected_at: '2026-06-13T09:35:05.579388+00:00'
+published_at: '2026-06-13T16:46:10.495698+00:00'
+collected_at: '2026-06-13T16:46:10.495710+00:00'
 tags:
 - benchmark
 - rag
@@ -14,9 +14,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:universalrag-retrieval-augmented-generation-over-c
-first_seen: '2026-06-13T09:35:05.579388+00:00'
-last_seen: '2026-06-13T09:35:05.579388+00:00'
-last_checked: '2026-06-13T09:35:05.579388+00:00'
+first_seen: '2026-06-13T16:46:10.495710+00:00'
+last_seen: '2026-06-13T16:46:10.495710+00:00'
+last_checked: '2026-06-13T16:46:10.495710+00:00'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-13T09:35:05.579381+00:00
+- Published: 2026-06-13T16:46:10.495698+00:00
 
 ## Related Tags
 
