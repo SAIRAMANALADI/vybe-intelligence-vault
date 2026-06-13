@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm
-published_at: '2026-06-13T16:46:12.520645+00:00'
-collected_at: '2026-06-13T16:46:12.520657+00:00'
+published_at: '2026-06-13T19:54:53.543372+00:00'
+collected_at: '2026-06-13T19:54:53.543384+00:00'
 tags:
 - anthropic
 - frontend_ui
@@ -19,9 +19,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:what-is-rag-a-beginner-s-guide-to-retrieval-augmen
-first_seen: '2026-06-13T16:46:12.520657+00:00'
-last_seen: '2026-06-13T16:46:12.520657+00:00'
-last_checked: '2026-06-13T16:46:12.520657+00:00'
+first_seen: '2026-06-13T19:54:53.543384+00:00'
+last_seen: '2026-06-13T19:54:53.543384+00:00'
+last_checked: '2026-06-13T19:54:53.543384+00:00'
 health_score: 100
 ---
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-13T16:46:12.520645+00:00
+- Published: 2026-06-13T19:54:53.543372+00:00
 
 ## Related Tags
 

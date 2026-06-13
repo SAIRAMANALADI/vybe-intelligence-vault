@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag
-published_at: '2026-06-12T20:27:04.819771+00:00'
-collected_at: '2026-06-12T20:27:04.819785+00:00'
+published_at: '2026-06-13T19:55:01.639524+00:00'
+collected_at: '2026-06-13T19:55:01.639536+00:00'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:unlocking-the-power-of-unstructured-data-with-rag
-first_seen: '2026-06-12T20:27:04.819785+00:00'
-last_seen: '2026-06-12T20:27:04.819785+00:00'
-last_checked: '2026-06-12T20:27:04.819785+00:00'
+first_seen: '2026-06-13T19:55:01.639536+00:00'
+last_seen: '2026-06-13T19:55:01.639536+00:00'
+last_checked: '2026-06-13T19:55:01.639536+00:00'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T20:27:04.819771+00:00
+- Published: 2026-06-13T19:55:01.639524+00:00
 
 ## Related Tags
 

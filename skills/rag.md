@@ -21,11 +21,11 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 895 resources matched in the intelligence vault.
 Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-13
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
+- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-13
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-13
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-13
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-13
+- [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) (Source: Unknown Source) - Collected 2026-06-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T16:47:47.198354+00:00.008104+00:00.738017+00:00.786495+00:00.525537+00:00.557787+00:00.359608+00:00.660901+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T19:56:28.399033+00:00.198354+00:00.008104+00:00.738017+00:00.786495+00:00.525537+00:00.557787+00:00.359608+00:00.660901+00:00.

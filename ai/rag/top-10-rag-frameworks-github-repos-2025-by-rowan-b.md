@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355
-published_at: '2026-06-13T16:46:02.057585+00:00'
-collected_at: '2026-06-13T16:46:02.057599+00:00'
+published_at: '2026-06-13T19:54:44.793237+00:00'
+collected_at: '2026-06-13T19:54:44.793251+00:00'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:top-10-rag-frameworks-github-repos-2025-by-rowan-b
-first_seen: '2026-06-13T16:46:02.057599+00:00'
-last_seen: '2026-06-13T16:46:02.057599+00:00'
-last_checked: '2026-06-13T16:46:02.057599+00:00'
+first_seen: '2026-06-13T19:54:44.793251+00:00'
+last_seen: '2026-06-13T19:54:44.793251+00:00'
+last_checked: '2026-06-13T19:54:44.793251+00:00'
 health_score: 100
 ---
 
@@ -38,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-13T16:46:02.057585+00:00
+- Published: 2026-06-13T19:54:44.793237+00:00
 
 ## Related Tags
 

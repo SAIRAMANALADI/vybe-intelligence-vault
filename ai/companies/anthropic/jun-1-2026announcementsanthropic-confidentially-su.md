@@ -4,17 +4,17 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/confidential-draft-s1-sec
-published_at: '2026-06-13T16:45:29.802635+00:00'
-collected_at: '2026-06-13T16:45:29.802637+00:00'
+published_at: '2026-06-13T19:54:23.371463+00:00'
+collected_at: '2026-06-13T19:54:23.371465+00:00'
 tags:
 - anthropic
 - anthropic-news
 - blog-post
 status: active
 resource_id: blog:jun-1-2026announcementsanthropic-confidentially-su
-first_seen: '2026-06-13T16:45:29.802637+00:00'
-last_seen: '2026-06-13T16:45:29.802637+00:00'
-last_checked: '2026-06-13T16:45:29.802637+00:00'
+first_seen: '2026-06-13T19:54:23.371465+00:00'
+last_seen: '2026-06-13T19:54:23.371465+00:00'
+last_checked: '2026-06-13T19:54:23.371465+00:00'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/confidential-draft-s1-sec
-- Collected At: 2026-06-13T16:45:29.802637+00:00
+- Collected At: 2026-06-13T19:54:23.371465+00:00
 
 ## Related Tags
 

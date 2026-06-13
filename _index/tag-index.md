@@ -459,6 +459,7 @@ Resources organized by keyword tags.
 ## ai
 
   - [A jacket that harvests drinking water from the air](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)
+  - [AI Coding at Home Without Going Broke](../ai/community/ai-coding-at-home-without-going-broke.md)
   - [AI OSS tool repo goes archived over night after raising $7.3M Seed](../ai/community/tensorzero-tensorzero.md)
   - [AI agent bankrupted their operator while trying to scan DN42](../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)
   - [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)
@@ -475,6 +476,7 @@ Resources organized by keyword tags.
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
   - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
+  - [PwC Report: AI Making Medical Bills Higher](../ai/community/pwc-report-ai-making-medical-bills-higher.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
   - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](../ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)
   - [Shepherd's Dog: A Game by the Most Dangerous AI Model](../ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)
@@ -539,6 +541,7 @@ Resources organized by keyword tags.
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
+  - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
@@ -1619,6 +1622,7 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
+  - [AI Coding at Home Without Going Broke](../ai/community/ai-coding-at-home-without-going-broke.md)
   - [AI OSS tool repo goes archived over night after raising $7.3M Seed](../ai/community/tensorzero-tensorzero.md)
   - [AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks](../ai/research/arxiv-2606-11533.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/ai-watermarking-101-tools-and-techniques.md)
@@ -1628,6 +1632,7 @@ Resources organized by keyword tags.
   - [Acquisition state behaves as a structured, measurable variable governing lung-nodule AI: kernel-driven measurement instability and noise-driven detection fragility, invisible to DICOM metadata](../ai/rag/arxiv-2606-12824.md)
   - [Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems](../ai/rag/arxiv-2606-12337.md)
   - [Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](../ai/rag/arxiv-2606-11615.md)
+  - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable.md)
@@ -1725,6 +1730,7 @@ Resources organized by keyword tags.
   - [Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices](../ai/rag/arxiv-2606-11556.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
   - [Projected random forests and conformal prediction of circular data](../ai/rag/arxiv-2410-24145.md)
+  - [PwC Report: AI Making Medical Bills Higher](../ai/community/pwc-report-ai-making-medical-bills-higher.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
@@ -3184,6 +3190,7 @@ Resources organized by keyword tags.
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
+  - [PwC Report: AI Making Medical Bills Higher](../ai/community/pwc-report-ai-making-medical-bills-higher.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
@@ -3772,4 +3779,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-13T16:47:50.306209+00:00*
+*Index generated on 2026-06-13T19:56:31.865874+00:00*

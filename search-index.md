@@ -4627,8 +4627,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
+* **[AI Coding at Home Without Going Broke](ai/community/ai-coding-at-home-without-going-broke.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by sbochins. Score: 134, Comments: 123. Original Link: https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke>
+
 * **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by hek2sch. Score: 166, Comments: 117. Original Link: https://github.com/tensorzero/tensorzero
+  * Summary: Hacker News story by hek2sch. Score: 208, Comments: 140. Original Link: https://github.com/tensorzero/tensorzero
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/tensorzero/tensorzero>
 
@@ -4636,6 +4641,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12424v1 Announce Type: cross Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful,
   * Tags: `paper`, `scripts`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12424>
+
+* **[Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ls612. Score: 215, Comments: 193. Original Link: https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578
+  * Tags: `anthropic`, `hackernews`
+  * Source URL: <https://wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578>
 
 * **[An LLM System for Autonomous Variational Quantum Circuit Design](ai/rag/arxiv-2606-13380.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13380v1 Announce Type: cross Abstract: The design of high performing quantum circuits remains largely dependent on human expertise. We introduce an autonomous agentic framework that employs large language models (LLMs) to conduct iterative
@@ -4923,7 +4933,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vednig. Score: 1352, Comments: 416. Original Link: https://opensourceaimustwin.com/?share=v2
+  * Summary: Hacker News story by vednig. Score: 1464, Comments: 457. Original Link: https://opensourceaimustwin.com/?share=v2
   * Tags: `ai`, `hackernews`
   * Source URL: <https://opensourceaimustwin.com?share=v2>
 
@@ -4956,6 +4966,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Back to BlogAI ImplementationProduction-Ready RAG Systems: End to End GuideMay 16, 202537 min readSaumil SrivastavaEngineering LeaderTable Of ContentsLoading content outline...Executive SummaryThis guide provides a comprehensive framework for impleme
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide>
+
+* **[PwC Report: AI Making Medical Bills Higher](ai/community/pwc-report-ai-making-medical-bills-higher.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by karakoram. Score: 28, Comments: 7. Original Link: https://fortune.com/2026/06/12/ai-making-medical-bills-higher/
+  * Tags: `ai`, `hackernews`, `reddit`
+  * Source URL: <https://fortune.com/2026/06/12/ai-making-medical-bills-higher>
 
 * **[RAG Examples: 15 Real Use Cases from Companies in 2026](ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)** (`dataset` | `useful` tier)
   * Summary: Large language models are powerful, but they have one big problem: they do not automatically know your latest documents, internal policies, product updates, customer history, or private company knowledge. That is where Retrieval-Augmented Generation,
@@ -5013,12 +5028,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
 * **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by pikann22. Score: 87, Comments: 30. Original Link: https://github.com/Paca-AI/paca
+  * Summary: Hacker News story by pikann22. Score: 115, Comments: 46. Original Link: https://github.com/Paca-AI/paca
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/paca-ai/paca>
 
 * **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ellg. Score: 253, Comments: 98. Original Link: https://putt.day/
+  * Summary: Hacker News story by ellg. Score: 281, Comments: 104. Original Link: https://putt.day/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://putt.day>
 

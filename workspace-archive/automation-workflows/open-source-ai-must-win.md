@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by vednig. Score: 1352, Comments: 416.
+Hacker News story by vednig. Score: 1464, Comments: 457.
 Original Link: https://opensourceaimustwin.com/?share=v2
 
 ## Use Cases

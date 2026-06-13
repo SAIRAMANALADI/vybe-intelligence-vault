@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ellg. Score: 253, Comments: 98.
+Hacker News story by ellg. Score: 281, Comments: 104.
 Original Link: https://putt.day/
 
 ## Use Cases

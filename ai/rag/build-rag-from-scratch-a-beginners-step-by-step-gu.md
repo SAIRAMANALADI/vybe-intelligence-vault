@@ -5,17 +5,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-06-13T16:46:08.369886+00:00'
-collected_at: '2026-06-13T16:46:08.369899+00:00'
+published_at: '2026-06-13T19:54:49.725135+00:00'
+collected_at: '2026-06-13T19:54:49.725147+00:00'
 tags:
 - openai
 - rag
 - web-crawled
 status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
-first_seen: '2026-06-13T16:46:08.369899+00:00'
-last_seen: '2026-06-13T16:46:08.369899+00:00'
-last_checked: '2026-06-13T16:46:08.369899+00:00'
+first_seen: '2026-06-13T19:54:49.725147+00:00'
+last_seen: '2026-06-13T19:54:49.725147+00:00'
+last_checked: '2026-06-13T19:54:49.725147+00:00'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-13T16:46:08.369886+00:00
+- Published: 2026-06-13T19:54:49.725135+00:00
 
 ## Related Tags
 

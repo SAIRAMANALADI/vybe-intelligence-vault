@@ -44,28 +44,30 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2119 |
-| Active resources | 2119 |
+| Resources tracked | 2122 |
+| Active resources | 2122 |
 | Inactive resources | 0 |
-| Archive files | 11502 |
+| Archive files | 11507 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-13 16:48 UTC |
+| Last meaningful update | 2026-06-13 19:56 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Rank: +1) (+126 points)
-- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Rank: +7) (+94 points)
-- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (Rank: +1) (+26 points)
-- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (+25 points)
-- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (Rank: +3) (+25 points)
+- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (+112 points)
+- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Rank: +2) (+42 points)
+- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (+28 points)
+- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (+28 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +259)
 
 #### ✨ New Discoveries
-- No new discoveries in this run.
+- **[Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)** (Score: 215)
+- **[AI Coding at Home Without Going Broke](ai/community/ai-coding-at-home-without-going-broke.md)** (Score: 134)
+- **[PwC Report: AI Making Medical Bills Higher](ai/community/pwc-report-ai-making-medical-bills-higher.md)** (Score: 28)
 
 #### 💤 Recently Inactive Resources
 - None.

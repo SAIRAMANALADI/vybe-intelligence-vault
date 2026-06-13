@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems
-published_at: '2026-06-12T20:26:54.760369+00:00'
-collected_at: '2026-06-12T20:26:54.760383+00:00'
+published_at: '2026-06-13T19:54:52.472059+00:00'
+collected_at: '2026-06-13T19:54:52.472069+00:00'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-best-rag-frameworks-in-2026-a-comprehensive-gu
-first_seen: '2026-06-12T20:26:54.760383+00:00'
-last_seen: '2026-06-12T20:26:54.760383+00:00'
-last_checked: '2026-06-12T20:26:54.760383+00:00'
+first_seen: '2026-06-13T19:54:52.472069+00:00'
+last_seen: '2026-06-13T19:54:52.472069+00:00'
+last_checked: '2026-06-13T19:54:52.472069+00:00'
 health_score: 100
 ---
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T20:26:54.760369+00:00
+- Published: 2026-06-13T19:54:52.472059+00:00
 
 ## Related Tags
 

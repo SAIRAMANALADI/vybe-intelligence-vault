@@ -1202,9 +1202,11 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A jacket that harvests drinking water from the air](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)
+  - [AI Coding at Home Without Going Broke](../ai/community/ai-coding-at-home-without-going-broke.md)
   - [AI OSS tool repo goes archived over night after raising $7.3M Seed](../ai/community/tensorzero-tensorzero.md)
   - [AI agent bankrupted their operator while trying to scan DN42](../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)
   - [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)
+  - [Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models](../ai/community/amazon-ceo-s-talks-with-u-s-officials-triggered-cr.md)
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)
   - [Anthropic requires 30 day data retention for Fable and Mythos](../ai/community/anthropic-requires-30-day-data-retention-for-fable.md)
   - [Apache Burr: Build reliable AI agents and applications](../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md)
@@ -1224,6 +1226,7 @@ Resources organized by publisher feed and query sources.
   - [OpenAI Prepping for On-Prem Product?](../ai/community/openai-prepping-for-on-prem-product.md)
   - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
+  - [PwC Report: AI Making Medical Bills Higher](../ai/community/pwc-report-ai-making-medical-bills-higher.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
   - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](../ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)
   - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md)
@@ -2144,4 +2147,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-13T16:47:50.327226+00:00*
+*Index generated on 2026-06-13T19:56:31.888210+00:00*

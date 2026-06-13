@@ -20,8 +20,8 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 45 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
 - [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
+- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
 - [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-12
 - [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-06-12
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T16:47:47.434593+00:00.254895+00:00.970278+00:00.020551+00:00.750967+00:00.784734+00:00.608839+00:00.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T19:56:28.626393+00:00.434593+00:00.254895+00:00.970278+00:00.020551+00:00.750967+00:00.784734+00:00.608839+00:00.204506+00:00.
