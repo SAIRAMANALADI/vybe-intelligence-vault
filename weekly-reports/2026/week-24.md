@@ -20,7 +20,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/research | 433 |
 | ai/rag | 430 |
 | ai/agents | 279 |
-| ai/community | 35 |
+| ai/community | 38 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
@@ -46,7 +46,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | benchmark | 384 |
 | models | 328 |
 | dataset | 219 |
-| hackernews | 175 |
+| hackernews | 178 |
 | paper | 161 |
 | github-repo | 142 |
 | workflows | 138 |
@@ -60,19 +60,19 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 ## Weekly Community Updates
 
 1. [AI agent bankrupted their operator while trying to scan DN42](../../../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md) ([Source](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian)) (HN Score: 1343) - `ai/community`
-2. [Open source AI must win](../../../ai/community/open-source-ai-must-win.md) ([Source](https://opensourceaimustwin.com?share=v2)) (HN Score: 893) - `ai/community`
+2. [Open source AI must win](../../../ai/community/open-source-ai-must-win.md) ([Source](https://opensourceaimustwin.com?share=v2)) (HN Score: 1226) - `ai/community`
 3. [Anthropic apologizes for invisible Claude Fable guardrails](../../../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md) ([Source](https://theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)) (HN Score: 477) - `ai/community`
 4. [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](../../../ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md) ([Source](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable)) (HN Score: 427) - `ai/community`
 5. [Anthropic requires 30 day data retention for Fable and Mythos](../../../ai/community/anthropic-requires-30-day-data-retention-for-fable.md) ([Source](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)) (HN Score: 414) - `ai/community`
 6. [AI agent runs amok in Fedora and elsewhere](../../../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md) ([Source](https://lwn.net/subscriberlink/1077035/c7e7c14fbd60fae9)) (HN Score: 384) - `ai/community`
 7. [Palantir loses legal challenge against Swiss investigative magazine](../../../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md) ([Source](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) (HN Score: 338) - `ai/community`
-8. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
-9. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
-10. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
-11. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 193) - `ai/community`
-12. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
-13. [Ryanair dark UX patterns summer 2026 refresher](../../../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md) ([Source](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher)) (HN Score: 174) - `ai/community`
-14. [Show HN: Putt.day a daily mini golf game](../../../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md) ([Source](https://putt.day)) (HN Score: 172) - `ai/community`
+8. [Show HN: Putt.day a daily mini golf game](../../../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md) ([Source](https://putt.day)) (HN Score: 228) - `ai/community`
+9. [L'Affaire Siloxane](../../../ai/community/l-affaire-siloxane.md) ([Source](https://mceglowski.substack.com/p/laffaire-siloxane)) (HN Score: 225) - `ai/community`
+10. [Apache Burr: Build reliable AI agents and applications](../../../ai/community/apache-burr-build-reliable-ai-agents-and-applicati.md) ([Source](https://burr.apache.org)) (HN Score: 216) - `ai/community`
+11. [Slightly reducing the sloppiness of AI generated front end](../../../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md) ([Source](https://envs.net/~volpe/blog/posts/reduce-slop.html)) (HN Score: 211) - `ai/community`
+12. [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../../../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md) ([Source](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation)) (HN Score: 205) - `ai/community`
+13. [Ear Training Practice](../../../ai/community/ear-training-practice.md) ([Source](https://tonedear.com)) (HN Score: 193) - `ai/community`
+14. [Ryanair dark UX patterns summer 2026 refresher](../../../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md) ([Source](https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher)) (HN Score: 174) - `ai/community`
 15. [The Future of Email](../../../ai/community/the-future-of-email.md) ([Source](https://fastmail.com/blog/the-future-of-email)) (HN Score: 149) - `ai/community`
 
 ## Weekly Research Insights
@@ -136,8 +136,8 @@ No updates collected under this section this week.
 ## Most Updated Skills
 
 - [RAG](../../../skills/rag.md) (894 updates)
-- [Workflow Automation](../../../skills/automation.md) (671 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (436 updates)
+- [Workflow Automation](../../../skills/automation.md) (675 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (440 updates)
 - [Vector Databases](../../../skills/vector-databases.md) (431 updates)
 - [AI Agents](../../../skills/ai-agents.md) (366 updates)
 - [LLMOps](../../../skills/llmops.md) (97 updates)
@@ -153,4 +153,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-13T09:36:40.249077+00:00
+2026-06-13T14:27:03.299333+00:00

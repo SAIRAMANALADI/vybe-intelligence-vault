@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-13T09:35:15.870841+00:00'
-collected_at: '2026-06-13T09:35:15.870848+00:00'
+published_at: '2026-06-13T14:25:21.435682+00:00'
+collected_at: '2026-06-13T14:25:21.435698+00:00'
 tags:
 - benchmark
 - models
@@ -17,9 +17,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
-first_seen: '2026-06-13T09:35:15.870848+00:00'
-last_seen: '2026-06-13T09:35:15.870848+00:00'
-last_checked: '2026-06-13T09:35:15.870848+00:00'
+first_seen: '2026-06-13T14:25:21.435698+00:00'
+last_seen: '2026-06-13T14:25:21.435698+00:00'
+last_checked: '2026-06-13T14:25:21.435698+00:00'
 health_score: 100
 ---
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-13T09:35:15.870841+00:00
+- Published: 2026-06-13T14:25:21.435682+00:00
 
 ## Related Tags
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by vnglst. Score: 84, Comments: 65.
+Hacker News story by vnglst. Score: 116, Comments: 97.
 Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
 
 ## Use Cases

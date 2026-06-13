@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 671 resources matched in the intelligence vault.
+Active signals: 675 resources matched in the intelligence vault.
 Recently detected signals:
-- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-13
+- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-13
+- [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) (Source: Unknown Source) - Collected 2026-06-13
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-13
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-13
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-13
-- [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md) (Source: Unknown Source) - Collected 2026-06-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-13T09:36:37.905110+00:00.955142+00:00.689386+00:00.721256+00:00.538693+00:00.012818+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T14:27:01.183744+00:00.905110+00:00.955142+00:00.689386+00:00.721256+00:00.538693+00:00.012818+00:00.

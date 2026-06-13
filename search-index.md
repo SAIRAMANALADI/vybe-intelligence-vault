@@ -4564,7 +4564,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)** (`benchmark` | `useful` tier)
@@ -4626,6 +4626,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Artificial AnalysisArtificial AnalysisModelsCoding AgentsSpeech, Image, Video, MusicHardwareLeaderboardsAboutAI TrendsArenasKArtificial Analysis Coding Agent BenchmarksWe measure real-world performance of coding agents on software engineering tasks,
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
+
+* **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by hek2sch. Score: 72, Comments: 40. Original Link: https://github.com/tensorzero/tensorzero
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/tensorzero/tensorzero>
 
 * **[AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude](ai/research/arxiv-2606-12424.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.12424v1 Announce Type: cross Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful,
@@ -4868,7 +4873,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.langchain.com/langgraph>
 
 * **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by arcb. Score: 43, Comments: 21. Original Link: https://bitboard.work/
+  * Summary: Hacker News story by arcb. Score: 48, Comments: 21. Original Link: https://bitboard.work/
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://bitboard.work>
 
@@ -4918,7 +4923,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vednig. Score: 893, Comments: 280. Original Link: https://opensourceaimustwin.com/?share=v2
+  * Summary: Hacker News story by vednig. Score: 1226, Comments: 388. Original Link: https://opensourceaimustwin.com/?share=v2
   * Tags: `ai`, `hackernews`
   * Source URL: <https://opensourceaimustwin.com?share=v2>
 
@@ -4982,13 +4987,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://blog.osull.com/2026/06/12/ryanair-dark-ux-patterns-summer-2026-refresher>
 
+* **[Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pseudolus. Score: 22, Comments: 5. Original Link: https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal>
+
 * **[Shall we play a game? – LLMs use tactical nukes in 95% of simulations](ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by nick238. Score: 141, Comments: 130. Original Link: https://www.kennethpayne.uk/p/shall-we-play-a-game
   * Tags: `hackernews`, `llm`
   * Source URL: <https://www.kennethpayne.uk/p/shall-we-play-a-game>
 
 * **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by vnglst. Score: 84, Comments: 65. Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
+  * Summary: Hacker News story by vnglst. Score: 116, Comments: 97. Original Link: https://koenvangilst.nl/lab/claude-fable-shepherds-dog
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://koenvangilst.nl/lab/claude-fable-shepherds-dog>
 
@@ -5002,8 +5012,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
+* **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by pikann22. Score: 62, Comments: 24. Original Link: https://github.com/Paca-AI/paca
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/paca-ai/paca>
+
 * **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ellg. Score: 172, Comments: 74. Original Link: https://putt.day/
+  * Summary: Hacker News story by ellg. Score: 228, Comments: 94. Original Link: https://putt.day/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://putt.day>
 
@@ -5013,7 +5028,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/vladignatyev/brain-map-skill>
 
 * **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by FergusArgyll. Score: 193, Comments: 120. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Summary: Hacker News story by FergusArgyll. Score: 211, Comments: 125. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 

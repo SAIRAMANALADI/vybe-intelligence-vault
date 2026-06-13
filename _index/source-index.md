@@ -1202,6 +1202,7 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A jacket that harvests drinking water from the air](../ai/community/a-jacket-that-harvests-drinking-water-from-the-air.md)
+  - [AI OSS tool repo goes archived over night after raising $7.3M Seed](../ai/community/tensorzero-tensorzero.md)
   - [AI agent bankrupted their operator while trying to scan DN42](../ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)
   - [AI agent runs amok in Fedora and elsewhere](../ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)
   - [Anthropic apologizes for invisible Claude Fable guardrails](../ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)
@@ -1224,10 +1225,12 @@ Resources organized by publisher feed and query sources.
   - [Palantir loses legal challenge against Swiss investigative magazine](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)
   - [Pokémon Go Scans Trained the Navigation Tech for Military Drones](../ai/community/pokemon-go-scans-trained-the-navigation-tech-for-m.md)
   - [Ryanair dark UX patterns summer 2026 refresher](../ai/community/ryanair-dark-ux-patterns-summer-2026-refresher.md)
+  - [Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](../ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)
   - [Shall we play a game? – LLMs use tactical nukes in 95% of simulations](../ai/community/shall-we-play-a-game-llms-use-tactical-nukes-in-95.md)
   - [Shepherd's Dog: A Game by the Most Dangerous AI Model](../ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)
   - [Show HN: Claw Patrol, a security firewall for agents](../ai/community/denoland-clawpatrol.md)
   - [Show HN: HelixDB – A graph database built on object storage](../ai/community/helixdb-helix-db.md)
+  - [Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](../ai/community/paca-ai-paca.md)
   - [Show HN: Putt.day a daily mini golf game](../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)
   - [Show HN: Skill for your agent to visualize your gbrain and Obsidian](../ai/community/vladignatyev-brain-map-skill.md)
   - [Slightly reducing the sloppiness of AI generated front end](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)
@@ -2141,4 +2144,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-13T09:36:41.351901+00:00*
+*Index generated on 2026-06-13T14:27:04.275246+00:00*

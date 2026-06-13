@@ -44,30 +44,30 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2116 |
-| Active resources | 2116 |
+| Resources tracked | 2119 |
+| Active resources | 2119 |
 | Inactive resources | 0 |
-| Archive files | 11499 |
+| Archive files | 11502 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-13 09:37 UTC |
+| Last meaningful update | 2026-06-13 14:27 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Rank: +1) (+441 points)
-- **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (+91 points)
-- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Rank: +5) (+61 points)
-- **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (Rank: +4) (+27 points)
-- **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (Rank: +3) (+19 points)
+- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (+333 points)
+- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Rank: +6) (+56 points)
+- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (+32 points)
+- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (+18 points)
+- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (+5 points)
 
 #### ✨ New Discoveries
-- **[Shepherd's Dog: A Game by the Most Dangerous AI Model](ai/community/shepherd-s-dog-a-game-by-the-most-dangerous-ai-mod.md)** (Score: 84)
-- **[Show HN: Skill for your agent to visualize your gbrain and Obsidian](ai/community/vladignatyev-brain-map-skill.md)** (Score: 6)
-- **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (Score: 0)
+- **[AI OSS tool repo goes archived over night after raising $7.3M Seed](ai/community/tensorzero-tensorzero.md)** (Score: 72)
+- **[Show HN: Paca – Lightweight Jira alternative for human-AI collaboration](ai/community/paca-ai-paca.md)** (Score: 62)
+- **[Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case](ai/community/sam-bankman-fried-loses-bid-to-appeal-against-frau.md)** (Score: 22)
 
 #### 💤 Recently Inactive Resources
 - None.
