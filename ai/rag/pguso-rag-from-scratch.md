@@ -4,8 +4,8 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pguso/rag-from-scratch
-collected_at: '2026-06-12T10:42:29.034535+00:00'
-published_at: '2026-06-11T16:08:16Z'
+collected_at: '2026-06-13T04:52:34.622733+00:00'
+published_at: '2026-06-13T01:07:51Z'
 tags:
 - agents
 - github-repo
@@ -13,19 +13,19 @@ tags:
 - meta-ai
 - models
 - rag
-stars: 1456
+stars: 1457
 language: JavaScript
 status: active
 license: MIT
 archived: false
 created_at: '2025-10-27T16:19:58Z'
 pushed_at: '2026-03-11T11:44:33Z'
-id: null
-first_seen: '2026-06-12T10:42:29.034535+00:00'
-last_seen: '2026-06-12T10:42:29.034535+00:00'
 resource_id: github:pguso/rag-from-scratch
+first_seen: '2026-06-13T04:52:34.622733+00:00'
+last_seen: '2026-06-13T04:52:34.622733+00:00'
+last_checked: '2026-06-13T04:52:34.622733+00:00'
+health_score: 100
 ---
-
 
 # pguso/rag-from-scratch
 
@@ -40,11 +40,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: pguso
-- Stars: 1456
+- Stars: 1457
 - Forks: 173
 - Language: JavaScript
 - Topics: agents, ai-agents, educational, llm, node-llama-cpp, nodejs, rag, rag-chatbot, rag-pipeline, tutorial
-- Last Updated: 2026-06-11T16:08:16Z
+- Last Updated: 2026-06-13T01:07:51Z
 - License: MIT
 - Archived: No
 - Created At: 2025-10-27T16:19:58Z

@@ -58,14 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `84` | **Path**: [`five-guides-to-building-and-scaling-production-rea.md`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial - DEV Community](https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`build-a-production-ready-rag-system-over-your-own.md`](file:///../../ai/rag/build-a-production-ready-rag-system-over-your-own.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `84` | **Path**: [`arxiv-2606-11304.md`](file:///../../ai/rag/arxiv-2606-11304.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`arxiv-2606-11751.md`](file:///../../ai/rag/arxiv-2606-11751.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 22:50 UTC*
+*Last updated: 2026-06-13 04:53 UTC*

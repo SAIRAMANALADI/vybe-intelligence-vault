@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by arcb. Score: 29, Comments: 17.
+Hacker News story by arcb. Score: 38, Comments: 20.
 Original Link: https://bitboard.work/
 
 ## Use Cases

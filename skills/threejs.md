@@ -19,13 +19,13 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 81 resources matched in the intelligence vault.
+Active signals: 82 resources matched in the intelligence vault.
 Recently detected signals:
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-12
-- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) (Source: Unknown Source) - Collected 2026-06-12
-- [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Scthe/nanite-webgpu](../web-development/webgpu/scthe-nanite-webgpu.md) (Source: Unknown Source) - Collected 2026-06-12
-- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-12
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-13
+- [The Future of wasi-gfx and wasi:webgpu](../web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md) (Source: Unknown Source) - Collected 2026-06-13
+- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) (Source: Unknown Source) - Collected 2026-06-13
+- [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) (Source: Unknown Source) - Collected 2026-06-13
+- [Scthe/nanite-webgpu](../web-development/webgpu/scthe-nanite-webgpu.md) (Source: Unknown Source) - Collected 2026-06-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T22:49:59.657413+00:00.691119+00:00.505881+00:00.952230+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.924281+00:00.657413+00:00.691119+00:00.505881+00:00.952230+00:00.

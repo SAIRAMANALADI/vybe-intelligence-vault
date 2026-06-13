@@ -18,13 +18,13 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 434 resources matched in the intelligence vault.
+Active signals: 436 resources matched in the intelligence vault.
 Recently detected signals:
-- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-12
-- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-12
-- [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Scthe/nanite-webgpu](../web-development/webgpu/scthe-nanite-webgpu.md) (Source: Unknown Source) - Collected 2026-06-12
-- [wgsl-analyzer/wgsl-analyzer](../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) (Source: Unknown Source) - Collected 2026-06-12
+- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-13
+- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-13
+- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-13
+- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-13
+- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-13
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T22:49:59.615967+00:00.647594+00:00.458467+00:00.851352+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.879781+00:00.615967+00:00.647594+00:00.458467+00:00.851352+00:00.

@@ -44,29 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2106 |
-| Active resources | 2106 |
+| Resources tracked | 2114 |
+| Active resources | 2114 |
 | Inactive resources | 0 |
-| Archive files | 11470 |
+| Archive files | 11491 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 22:50 UTC |
+| Last meaningful update | 2026-06-13 04:53 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (Rank: +4) (+24 points)
-- **[There Is Life Before Main in Rust](ai/community/there-is-life-before-main-in-rust.md)** (+19 points)
-- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (+8 points)
-- **[RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)** (Rank: +5)
-- **[Google Colab](ai/rag/google-colab.md)** (Rank: +923)
+- **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (Rank: +10) (+139 points)
+- **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (+22 points)
+- **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (+9 points)
+- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +936)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +936)
 
 #### ✨ New Discoveries
-- **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (Score: 108)
-- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Score: 0)
+- **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (Score: 452)
+- **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (Score: 111)
+- **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (Score: 25)
+- **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (Score: 6)
+- **[How to Learn RAGs from Scratch: A Step-by-Step Guide](ai/rag/how-to-learn-rags-from-scratch-a-step-by-step-guid.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

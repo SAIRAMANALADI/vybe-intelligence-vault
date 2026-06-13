@@ -10,28 +10,28 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Retrieval & Knowledge Stack (RAG)
 
-- **[RAG Systems](../rag-systems/README.md)** (993 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
-- **[Vector Databases](../vector-databases/README.md)** (428 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
-- **[Datasets](../datasets/README.md)** (1324 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
+- **[RAG Systems](../rag-systems/README.md)** (996 files): RAG apps, retrieval pipelines, embeddings, chunking, reranking, graph RAG, and multimodal retrieval systems.
+- **[Vector Databases](../vector-databases/README.md)** (431 files): Vector databases, embedding stores, vector search libraries, and retrieval storage examples.
+- **[Datasets](../datasets/README.md)** (1326 files): AI datasets, evaluation datasets, RAG datasets, benchmark datasets, and synthetic data tools.
 
 ## LLMOps, Evals & Model Infrastructure
 
-- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (982 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
+- **[Evals and Benchmarks](../evals-and-benchmarks/README.md)** (985 files): Evaluation tools and benchmarks for LLMs, RAG systems, agents, prompts, hallucinations, and SWE tasks.
 - **[Observability](../observability/README.md)** (58 files): LLMOps observability, tracing, prompt logs, latency tracking, cost tracking, and production monitoring.
 - **[Guardrails and Security](../guardrails-security/README.md)** (455 files): Prompt injection defenses, jailbreak detection, LLM firewalls, PII redaction, agent security, and MCP security warnings.
-- **[Model Providers](../model-providers/README.md)** (929 files): Public metadata and documentation links for model APIs and provider ecosystems.
+- **[Model Providers](../model-providers/README.md)** (932 files): Public metadata and documentation links for model APIs and provider ecosystems.
 - **[Inference and Local LLM](../inference-local-llm/README.md)** (792 files): Local inference tools, model serving, quantization, GGUF models, Ollama, llama.cpp, vLLM, and LM Studio.
 
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (9 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (169 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (174 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[AI Tools and Products](../ai-tools-products/README.md)** (14 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
 ## Creative 3D Dev & Frontend Interfaces
 
 - **[Frontend AI UI](../frontend-ai-ui/README.md)** (58 files): AI chat UI, dashboards, shadcn/ui, Tailwind components, bento grids, AI app layouts, and design systems.
-- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (79 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
+- **[Webdev 3D Creative](../webdev-3d-creative/README.md)** (80 files): Three.js, React Three Fiber, WebGL, WebGPU, shaders, Spline, GLTF/GLB, Blender-to-web, and creative coding.
 - **[LLM App Templates](../llm-app-templates/README.md)** (37 files): Runnable AI app templates, agent apps, RAG starters, chat apps, FastAPI examples, and Next.js AI templates.
 
 ## Career Track & Startup Engineering
@@ -42,4 +42,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (13 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-06-12 22:50 UTC*
+*Last updated: 2026-06-13 04:53 UTC*

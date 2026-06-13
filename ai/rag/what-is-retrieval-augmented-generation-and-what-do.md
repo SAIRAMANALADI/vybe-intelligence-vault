@@ -5,16 +5,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai
-published_at: '2026-06-11T23:00:03.542753+00:00'
-collected_at: '2026-06-11T23:00:03.542765+00:00'
+published_at: '2026-06-13T04:51:12.038676+00:00'
+collected_at: '2026-06-13T04:51:12.038687+00:00'
 tags:
 - rag
 - reddit
 - web-crawled
-status: new
+status: active
 resource_id: blog:what-is-retrieval-augmented-generation-and-what-do
+first_seen: '2026-06-13T04:51:12.038687+00:00'
+last_seen: '2026-06-13T04:51:12.038687+00:00'
+last_checked: '2026-06-13T04:51:12.038687+00:00'
+health_score: 100
 ---
-
 
 # What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog
 
@@ -30,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T23:00:03.542753+00:00
+- Published: 2026-06-13T04:51:12.038676+00:00
 
 ## Related Tags
 

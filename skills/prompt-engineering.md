@@ -20,11 +20,11 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 43 resources matched in the intelligence vault.
 Recently detected signals:
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-12
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-12
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-06-12
 - [On the Optimal Reasoning Length for RL-Trained Language Models](../ai/research/arxiv-2602-09591.md) (Source: Unknown Source) - Collected 2026-06-12
 - [The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning](../ai/research/arxiv-2505-03296.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](../ai/research/arxiv-2601-00791.md) (Source: Unknown Source) - Collected 2026-06-12
-- [GILT: An LLM-Free, Tuning-Free Graph Foundational Model for In-Context Learning](../ai/rag/arxiv-2510-04567.md) (Source: Unknown Source) - Collected 2026-06-12
-- [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](../ai/rag/arxiv-2606-11459.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -55,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T22:49:59.561909+00:00.595417+00:00.401963+00:00.745949+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.825278+00:00.561909+00:00.595417+00:00.401963+00:00.745949+00:00.

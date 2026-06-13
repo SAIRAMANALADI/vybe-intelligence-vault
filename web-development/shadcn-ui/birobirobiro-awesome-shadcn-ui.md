@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/birobirobiro/awesome-shadcn-ui
-collected_at: '2026-06-12T22:47:10.861835+00:00'
-published_at: '2026-06-12T21:35:00Z'
+collected_at: '2026-06-13T04:50:19.195440+00:00'
+published_at: '2026-06-13T03:03:12Z'
 tags:
 - frontend_ui
-stars: 19793
+stars: 19797
 language: TypeScript
 status: active
 resource_id: github:birobirobiro/awesome-shadcn-ui
-first_seen: '2026-06-12T22:47:10.861835+00:00'
-last_seen: '2026-06-12T22:47:10.861835+00:00'
-last_checked: '2026-06-12T22:47:10.861835+00:00'
+first_seen: '2026-06-13T04:50:19.195440+00:00'
+last_seen: '2026-06-13T04:50:19.195440+00:00'
+last_checked: '2026-06-13T04:50:19.195440+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: birobirobiro
-- Stars: 19793
+- Stars: 19797
 - Forks: 1217
 - Language: TypeScript
 - Topics: awesome, awesome-list, list, open-source, resources, shad, shadcn, shadcn-ui
-- Last Updated: 2026-06-12T21:35:00Z
+- Last Updated: 2026-06-13T03:03:12Z
 
 ## Possible Use Cases
 

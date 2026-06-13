@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-12T22:50:24.636841+00:00`
+Generated at: `2026-06-13T04:53:13.226986+00:00`
 
 ## Executive Summary
 
@@ -8,34 +8,40 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Palantir loses legal challenge against Swiss investigative magazine** - Score: `108` in category `ai/community` ([Link](https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979)) ([File](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md))
-- **infiniflow/ragflow** - Score: `0` in category `ai/rag` ([Link](https://github.com/infiniflow/ragflow)) ([File](../ai/rag/infiniflow-ragflow.md))
+- **Open source AI must win** - Score: `452` in category `ai/community` ([Link](https://opensourceaimustwin.com?share=v2)) ([File](../ai/community/open-source-ai-must-win.md))
+- **Show HN: Putt.day a daily mini golf game** - Score: `111` in category `ai/community` ([Link](https://putt.day)) ([File](../ai/community/show-hn-putt-day-a-daily-mini-golf-game.md))
+- **Tectonic: A modernized, complete, self-contained TeX/LaTeX engine** - Score: `25` in category `ai/community` ([Link](https://tectonic-typesetting.github.io/en-us)) ([File](../ai/community/tectonic-a-modernized-complete-self-contained-tex.md))
+- **The Future of wasi-gfx and wasi:webgpu** - Score: `6` in category `web-development/community` ([Link](https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx)) ([File](../web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md))
+- **How to Learn RAGs from Scratch: A Step-by-Step Guide** - Score: `0` in category `ai/rag` ([Link](https://projectpro.io/article/learn-rag-from-scratch/1061)) ([File](../ai/rag/how-to-learn-rags-from-scratch-a-step-by-step-guid.md))
+- **Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial - DEV Community** - Score: `0` in category `ai/rag` ([Link](https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0)) ([File](../ai/rag/build-a-production-ready-rag-system-over-your-own.md))
+- **Build a RAG Chatbot in 30 Min with Python + LangChain [2026]** - Score: `0` in category `ai/rag` ([Link](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) ([File](../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md))
+- **Welcome PaddlePaddle to the Hugging Face Hub** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/paddlepaddle)) ([File](../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md))
 
 ## 🔥 Top Trending Resources
 
-- **Slightly reducing the sloppiness of AI generated front end** - Score: `153` (+24), Rank Change: `+4` ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
-- **There Is Life Before Main in Rust** - Score: `63` (+19), Rank Change: `0` ([File](../ai/community/there-is-life-before-main-in-rust.md))
-- **Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents** - Score: `29` (+8), Rank Change: `-1` ([File](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md))
-- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
-- **Google Colab** - Score: `0` (0), Rank Change: `+923` ([File](../ai/rag/google-colab.md))
-- **RAG System with LangChain and LangGraph - GeeksforGeeks** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
-- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - Score: `0` (0), Rank Change: `+1862` ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **Building a RAG Application - GeeksforGeeks** - Score: `0` (0), Rank Change: `+7` ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - Score: `0` (0), Rank Change: `+1678` ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
+- **Palantir loses legal challenge against Swiss investigative magazine** - Score: `247` (+139), Rank Change: `+10` ([File](../ai/community/palantir-loses-legal-challenge-against-swiss-inves.md))
+- **Slightly reducing the sloppiness of AI generated front end** - Score: `175` (+22), Rank Change: `-1` ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
+- **Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents** - Score: `38` (+9), Rank Change: `0` ([File](../ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md))
+- **lancedb/vectordb-recipes** - Score: `0` (0), Rank Change: `+936` ([File](../ai/rag/lancedb-vectordb-recipes.md))
+- **pguso/rag-from-scratch** - Score: `0` (0), Rank Change: `+936` ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+918` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **datawhalechina/hello-agents** - Score: `0` (0), Rank Change: `+916` ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **HKUDS/RAG-Anything** - Score: `0` (0), Rank Change: `+916` ([File](../ai/rag/hkuds-rag-anything.md))
+- **Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md))
+- **Build a RAG agent with LangChain - Docs by LangChain** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+1862`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** - (Rank Change: `+1678`) ([File](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md))
-- **Google Colab** - (Rank Change: `+923`) ([File](../ai/rag/google-colab.md))
-- **LightRAG** - (Rank Change: `+914`) ([File](../ai/rag/lightrag.md))
-- **Building a RAG Application - GeeksforGeeks** - (Rank Change: `+7`) ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - (Rank Change: `+5`) ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
-- **Slightly reducing the sloppiness of AI generated front end** - (Rank Change: `+4`) ([File](../ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md))
-- **RAG System with LangChain and LangGraph - GeeksforGeeks** - (Rank Change: `+4`) ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
-- **hjlld/LearningWebGPU** - (Rank Change: `+3`) ([File](../web-development/webgpu/hjlld-learningwebgpu.md))
-- **Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI** - (Rank Change: `+2`) ([File](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md))
+- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - (Rank Change: `+1856`) ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
+- **What is retrieval-augmented generation, and what does it do for generative AI? - The GitHub Blog** - (Rank Change: `+1677`) ([File](../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md))
+- **The Open Source Community is backing OpenEnv for Agentic RL** - (Rank Change: `+1060`) ([File](../ai/agents/the-open-source-community-is-backing-openenv-for-a.md))
+- **Adding MCP Tools to Reachy Mini** - (Rank Change: `+1059`) ([File](../ai/models/adding-mcp-tools-to-reachy-mini.md))
+- **Direct Preference Optimization Beyond Chatbots** - (Rank Change: `+1059`) ([File](../ai/models/direct-preference-optimization-beyond-chatbots.md))
+- **Designing the hf CLI as an agent-optimized way to work with the Hub** - (Rank Change: `+1059`) ([File](../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md))
+- **Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains** - (Rank Change: `+1058`) ([File](../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md))
+- **Reachy Mini goes fully local** - (Rank Change: `+1056`) ([File](../ai/models/reachy-mini-goes-fully-local.md))
+- **Harness, Scaffold, and the AI Agent Terms Worth Getting Right** - (Rank Change: `+1055`) ([File](../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md))
+- **PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend** - (Rank Change: `+1053`) ([File](../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md))
 
 ## 🔄 Essential Tier Transitions
 

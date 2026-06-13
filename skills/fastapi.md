@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 21 resources matched in the intelligence vault.
+Active signals: 20 resources matched in the intelligence vault.
 Recently detected signals:
-- [Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](../ai/rag/arxiv-2603-09555.md) (Source: Unknown Source) - Collected 2026-06-12
-- [SpAArSIST: Sparsified AASIST for Efficient and Reliable Anti-Spoofing](../ai/research/arxiv-2606-11674.md) (Source: Unknown Source) - Collected 2026-06-12
-- [A Scalable PyTorch Abstraction for Multi-GPU Gaussian Splatting](../ai/research/arxiv-2606-11390.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](../ai/rag/arxiv-2606-11257.md) (Source: Unknown Source) - Collected 2026-06-12
-- [From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](../ai/rag/arxiv-2601-21570.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Accelerating LLM Inference with TGI on Intel Gaudi](../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Exploring Quantization Backends in Diffusers](../ai/models/exploring-quantization-backends-in-diffusers.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Transformers backend integration in SGLang](../ai/models/transformers-backend-integration-in-sglang.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Any Custom Frontend with Gradio's Backend](../ai/models/any-custom-frontend-with-gradio-s-backend.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-12
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -85,4 +85,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T22:49:59.709590+00:00.742312+00:00.561767+00:00.077422+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-13T04:52:47.976884+00:00.709590+00:00.742312+00:00.561767+00:00.077422+00:00.

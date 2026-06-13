@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/krishnaik06/RAG-Tutorials
-collected_at: '2026-06-12T20:28:14.185896+00:00'
-published_at: '2026-06-12T13:26:08Z'
+collected_at: '2026-06-13T04:52:29.635727+00:00'
+published_at: '2026-06-13T01:08:19Z'
 tags:
 - github-repo
 - hackernews
 - jupyter notebook
 - rag
-stars: 336
+stars: 337
 language: Jupyter Notebook
 status: active
 license: GPL-3.0
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-03T03:41:25Z'
 pushed_at: '2026-04-03T17:43:05Z'
 resource_id: github:krishnaik06/rag-tutorials
-first_seen: '2026-06-12T20:28:14.185896+00:00'
-last_seen: '2026-06-12T20:28:14.185896+00:00'
-last_checked: '2026-06-12T20:28:14.185896+00:00'
+first_seen: '2026-06-13T04:52:29.635727+00:00'
+last_seen: '2026-06-13T04:52:29.635727+00:00'
+last_checked: '2026-06-13T04:52:29.635727+00:00'
 health_score: 100
 ---
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: krishnaik06
-- Stars: 336
+- Stars: 337
 - Forks: 307
 - Language: Jupyter Notebook
 - Topics: None
-- Last Updated: 2026-06-12T13:26:08Z
+- Last Updated: 2026-06-13T01:08:19Z
 - License: GPL-3.0
 - Archived: No
 - Created At: 2025-09-03T03:41:25Z

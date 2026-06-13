@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/orillusion/orillusion
-collected_at: '2026-06-12T15:38:17.155923+00:00'
-published_at: '2026-06-12T04:06:28Z'
+collected_at: '2026-06-13T04:50:14.986863+00:00'
+published_at: '2026-06-13T04:15:00Z'
 tags:
 - threejs
-stars: 5181
+stars: 5182
 language: TypeScript
 status: active
 resource_id: github:orillusion/orillusion
-first_seen: '2026-06-12T15:38:17.155923+00:00'
-last_seen: '2026-06-12T15:38:17.155923+00:00'
-last_checked: '2026-06-12T15:38:17.155923+00:00'
+first_seen: '2026-06-13T04:50:14.986863+00:00'
+last_seen: '2026-06-13T04:50:14.986863+00:00'
+last_checked: '2026-06-13T04:50:14.986863+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: Orillusion
-- Stars: 5181
+- Stars: 5182
 - Forks: 598
 - Language: TypeScript
 - Topics: 3d, graphics, html5, javascript, orillusion, typescript, web3d, webgpu, wgsl
-- Last Updated: 2026-06-12T04:06:28Z
+- Last Updated: 2026-06-13T04:15:00Z
 
 ## Possible Use Cases
 

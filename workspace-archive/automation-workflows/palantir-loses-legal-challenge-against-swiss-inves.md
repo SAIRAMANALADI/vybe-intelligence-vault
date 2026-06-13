@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by sschueller. Score: 108, Comments: 18.
+Hacker News story by sschueller. Score: 247, Comments: 52.
 Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
 
 ## Use Cases

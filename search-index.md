@@ -1650,6 +1650,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/dialog-agents>
 
+## Ai — Companies — Anthropic
+
+* **[Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)** (`reference` | `reference` tier)
+  * Summary: Recent update from Anthropic News Blog: Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
+
 ## Ai — Models
 
 * **[(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware](ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)** (`reference` | `reference` tier)
@@ -4775,6 +4782,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://tech-insider.org/langgraph-tutorial-ai-agent-python-2026>
 
+* **[How to Learn RAGs from Scratch: A Step-by-Step Guide](ai/rag/how-to-learn-rags-from-scratch-a-step-by-step-guid.md)** (`dataset` | `useful` tier)
+  * Summary: How to Learn RAGs from Scratch: A Step-by-Step Guide A comprehensive guide on how to learn RAG, focusing on implementation and practica RAGl projects. | ProjectPro Get Solved Code + Solutions Build AI Agents → Last Updated: 05 May 2026 | BY Manika A
+  * Tags: `agents`, `benchmark`, `creative_dev`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://www.projectpro.io/article/learn-rag-from-scratch/1061>
+
 * **[IBM RAG and Agentic AI Professional Certificate | Coursera](ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)** (`benchmark` | `useful` tier)
   * Summary: IBM RAG and Agentic AI Professional CertificateAboutOutcomesCoursesTestimonialsBrowseComputer ScienceSoftware Development Get extra savings on Coursera Plus. Join for â¹6,999 (usually â¹13,999). Save now.IBM RAG and Agentic AI Professional Certific
   * Tags: `agents`, `benchmark`, `creative_dev`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -4851,7 +4863,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://www.langchain.com/langgraph>
 
 * **[Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents](ai/community/launch-hn-bitboard-yc-p25-analytics-workspace-for.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by arcb. Score: 29, Comments: 17. Original Link: https://bitboard.work/
+  * Summary: Hacker News story by arcb. Score: 38, Comments: 20. Original Link: https://bitboard.work/
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://bitboard.work>
 
@@ -4900,13 +4912,18 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
+* **[Open source AI must win](ai/community/open-source-ai-must-win.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by vednig. Score: 452, Comments: 145. Original Link: https://opensourceaimustwin.com/?share=v2
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://opensourceaimustwin.com?share=v2>
+
 * **[OpenAI Prepping for On-Prem Product?](ai/community/openai-prepping-for-on-prem-product.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by bdroopy. Score: 5, Comments: 0. Original Link: https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/
   * Tags: `ai`, `hackernews`, `openai`
   * Source URL: <https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/>
 
 * **[Palantir loses legal challenge against Swiss investigative magazine](ai/community/palantir-loses-legal-challenge-against-swiss-inves.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by sschueller. Score: 108, Comments: 18. Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
+  * Summary: Hacker News story by sschueller. Score: 247, Comments: 52. Original Link: https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979
   * Tags: `ai`, `hackernews`
   * Source URL: <https://ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979>
 
@@ -4975,8 +4992,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `hackernews`, `rag`
   * Source URL: <https://github.com/HelixDB/helix-db/tree/main>
 
+* **[Show HN: Putt.day a daily mini golf game](ai/community/show-hn-putt-day-a-daily-mini-golf-game.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ellg. Score: 111, Comments: 62. Original Link: https://putt.day/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://putt.day>
+
 * **[Slightly reducing the sloppiness of AI generated front end](ai/community/slightly-reducing-the-sloppiness-of-ai-generated-f.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by FergusArgyll. Score: 153, Comments: 105. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
+  * Summary: Hacker News story by FergusArgyll. Score: 175, Comments: 112. Original Link: https://envs.net/~volpe/blog/posts/reduce-slop.html
   * Tags: `ai`, `hackernews`
   * Source URL: <https://envs.net/~volpe/blog/posts/reduce-slop.html>
 
@@ -4999,6 +5021,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12387v1 Announce Type: cross Abstract: Large Language Models (LLMs) have democratized database access through Text-to-SQL, but moving from prototypes to production remains difficult. Real deployments must handle strict SQL dialects, massiv
   * Tags: `agents`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12387>
+
+* **[Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](ai/community/tectonic-a-modernized-complete-self-contained-tex.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by maxloh. Score: 25, Comments: 3. Original Link: https://tectonic-typesetting.github.io/en-US/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://tectonic-typesetting.github.io/en-us>
 
 * **[The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug](ai/community/the-ai-agent-in-the-billing-department-of-verizon.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by 6stringmerc. Score: 17, Comments: 2. Original Link: https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5
@@ -5779,6 +5806,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Build a Domain-Specific Embedding Model in Under a Day](ai/models/build-a-domain-specific-embedding-model-in-under-a.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Build a Domain-Specific Embedding Model in Under a Day
   * Source URL: <https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune>
+
+* **[Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial - DEV Community](ai/rag/build-a-production-ready-rag-system-over-your-own.md)** (`dataset` | `useful` tier)
+  * Summary: Dharshan A Posted on Apr 4 Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial #ai #llm #rag #tutorial ` Retrieval-Augmented Generation (RAG) has moved far beyond simple chat-over-PDF demos. In 2026, if your RAG
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0>
 
 * **[Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)** (`dataset` | `useful` tier)
   * Summary: {/* Last updated: 2026-04-10 | Verified on: Docker python:3.12-slim | LangChain 0.3.25 | LangGraph 1.1+ | ChromaDB 0.6.3 | RAGAS 0.2.15 */} Every code block in this guide was executed in a clean Docker container and produces real output. The terminal
@@ -10598,11 +10630,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `openai`, `openai-news`
   * Source URL: <https://openai.com/news/applied-ai>
 
-* **[Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.](ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
-
 * **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -10662,6 +10689,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack>
+
+* **[Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
 
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
@@ -11484,6 +11516,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: On this pageOverviewConceptsPreviewSetupInstallationLangSmithComponents1. IndexingLoading documentsSplitting documentsStoring documents2. Retrieval and generationRAG agentsRAG chainsSecurity: indirect prompt injectionNext stepsTutorialsLangChainBuild
   * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://docs.langchain.com/oss/python/langchain/rag>
+
+* **[Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)** (`benchmark` | `useful` tier)
+  * Summary: How to Build a RAG Chatbot with Python and LangChain: Complete Tutorial (2026)Marcus ChenMarch 20, 2026AI & Machine Learning Marcus Chen March 20, 2026 25 min read Retrieval augmented generation (RAG) has become the go-to architecture for building AI
+  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial>
 
 * **[Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)** (`tutorial` | `useful` tier)
   * Summary: Build RAG From Scratch: A Beginner’s Step-by-Step GuideVivek Malhan4 min read·Dec 27, 2025--ListenSharePress enter or click to view image in full sizeMost AI demos look impressive — until you try to use them in production.They hallucinate. They guess
@@ -12940,6 +12977,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: A tiny WGSL online editor
   * Tags: `threejs`
   * Source URL: <https://github.com/takahirox/online-wgsl-editor>
+
+* **[The Future of wasi-gfx and wasi:webgpu](web-development/community/the-future-of-wasi-gfx-and-wasi-webgpu.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by mendyberger. Score: 6, Comments: 0. Original Link: https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx/
+  * Tags: `hackernews`, `threejs`, `webgpu`
+  * Source URL: <https://wasi-gfx.dev/blog/posts/future-of-wasi-gfx>
 
 * **[TiagoCavalcante/r3f-native-orbitcontrols](web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)** (`tool` | `useful` tier)
   * Summary: OrbitControls for React Three Fiber in React Native
