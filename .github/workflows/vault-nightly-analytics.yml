@@ -20,6 +20,7 @@ jobs:
         with:
           repository: sairaman436/vybe-intelligence-engine
           path: engine
+          token: ${{ secrets.VAULT_GITHUB_TOKEN || github.token }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
