@@ -176,20 +176,20 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: wrongakram/R3F-Chairs
 
-### 30. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([GitHub](https://github.com/nklsrh/buildnewgames_threejsgame))
-- Stars: 0
-- Language: Unknown
-- Description: A game built to show off some of the basic features of the Three.JS WebGL library.
-
-### 31. [chenjsh36/ThreeJSForFun](../web-development/threejs/chenjsh36-threejsforfun.md) ([GitHub](https://github.com/chenjsh36/threejsforfun))
+### 30. [chenjsh36/ThreeJSForFun](../web-development/threejs/chenjsh36-threejsforfun.md) ([GitHub](https://github.com/chenjsh36/threejsforfun))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: chenjsh36/ThreeJSForFun
 
-### 32. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([GitHub](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code))
+### 31. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([GitHub](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: codebucks27/Apple-iphone-3d-landing-page-starter-Code
+
+### 32. [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([GitHub](https://github.com/nklsrh/buildnewgames_threejsgame))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: nklsrh/BuildNewGames_ThreeJSGame
 
 ### 33. [codebucks27/3D-Landing-page-for-Apple-iPhone](../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) ([GitHub](https://github.com/codebucks27/3d-landing-page-for-apple-iphone))
 - Stars: 0
@@ -201,55 +201,55 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: gnikoloff/webgpu-sponza-demo
 
-### 35. [pmndrs/react-three-next](../web-development/react-three-fiber/pmndrs-react-three-next.md) ([GitHub](https://github.com/pmndrs/react-three-next))
+### 35. [alphardex/kokomi.js](../web-development/threejs/alphardex-kokomi-js.md) ([GitHub](https://github.com/alphardex/kokomi.js))
+- Stars: 0
+- Language: Unknown
+- Description: A growing three.js helper library.
+
+### 36. [pmndrs/react-three-next](../web-development/react-three-fiber/pmndrs-react-three-next.md) ([GitHub](https://github.com/pmndrs/react-three-next))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pmndrs/react-three-next
 
-### 36. [benjaminmiles/react-three-vite](../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([GitHub](https://github.com/benjaminmiles/react-three-vite))
+### 37. [benjaminmiles/react-three-vite](../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([GitHub](https://github.com/benjaminmiles/react-three-vite))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: benjaminmiles/react-three-vite
 
-### 37. [vasturiano/3d-force-graph](../web-development/threejs/vasturiano-3d-force-graph.md) ([GitHub](https://github.com/vasturiano/3d-force-graph))
+### 38. [vasturiano/3d-force-graph](../web-development/threejs/vasturiano-3d-force-graph.md) ([GitHub](https://github.com/vasturiano/3d-force-graph))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: vasturiano/3d-force-graph
 
-### 38. [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula.md) ([GitHub](https://github.com/creativelifeform/three-nebula))
+### 39. [creativelifeform/three-nebula](../web-development/threejs/creativelifeform-three-nebula.md) ([GitHub](https://github.com/creativelifeform/three-nebula))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: creativelifeform/three-nebula
 
-### 39. [spite/Wagner](../web-development/threejs/spite-wagner.md) ([GitHub](https://github.com/spite/wagner))
+### 40. [spite/Wagner](../web-development/threejs/spite-wagner.md) ([GitHub](https://github.com/spite/wagner))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: spite/Wagner
 
-### 40. [pmndrs/react-postprocessing](../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([GitHub](https://github.com/pmndrs/react-postprocessing))
+### 41. [pmndrs/react-postprocessing](../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([GitHub](https://github.com/pmndrs/react-postprocessing))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pmndrs/react-postprocessing
 
-### 41. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
+### 42. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mkkellogg/GaussianSplats3D
 
-### 42. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
+### 43. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pixiv/three-vrm
 
-### 43. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+### 44. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wolfwind521/indoor3D
-
-### 44. [alphardex/kokomi.js](../web-development/threejs/alphardex-kokomi-js.md) ([GitHub](https://github.com/alphardex/kokomi.js))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: alphardex/kokomi.js
 
 ### 45. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.845071+00:00.882391+00:00.952230+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T08:11:28.174656+00:00.845071+00:00.882391+00:00.952230+00:00.

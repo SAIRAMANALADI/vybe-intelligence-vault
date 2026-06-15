@@ -2498,6 +2498,7 @@ Resources organized by publisher feed and query sources.
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
   - [How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)
   - [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
+  - [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)
   - [I Built a Production-Grade RAG System for Real PDFs (Text, Tables, Images, Scans) — Here’s the Full Blueprint | by Dharm](../ai/rag/i-built-a-production-grade-rag-system-for-real-pdf.md)
   - [IBM RAG and Agentic AI Professional Certificate | Coursera](../ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)
   - [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp.md)
@@ -2547,6 +2548,7 @@ Resources organized by publisher feed and query sources.
   - [Top Open-Source LLM Observability Tools in 2025 | by The Practical Developer | Medium](../ai/rag/top-open-source-llm-observability-tools-in-2025-by.md)
   - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [Unlocking the power of unstructured data with RAG - The GitHub Blog](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)
+  - [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
   - [What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)
   - [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)
   - [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)
@@ -2555,4 +2557,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-15T06:38:47.646367+00:00*
+*Index generated on 2026-06-15T08:11:31.923726+00:00*

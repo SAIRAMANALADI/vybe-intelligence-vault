@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1013 resources matched in the intelligence vault.
+Active signals: 1015 resources matched in the intelligence vault.
 Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-15
 - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
-- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-15
-- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-15
-- [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) (Source: Unknown Source) - Collected 2026-06-15
+- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-15
+- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-15
+- [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.675513+00:00.617935+00:00.660901+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T08:11:28.006807+00:00.675513+00:00.617935+00:00.660901+00:00.

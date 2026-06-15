@@ -44,39 +44,35 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2558 |
-| Active resources | 2531 |
+| Resources tracked | 2560 |
+| Active resources | 2533 |
 | Inactive resources | 27 |
-| Archive files | 13374 |
+| Archive files | 13385 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 06:39 UTC |
+| Last meaningful update | 2026-06-15 08:11 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +23)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +23)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +23)
-- **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (Rank: +23)
-- **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (Rank: +23)
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+16 points)
+- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (+10 points)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +461)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +464)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +464)
 
 #### ✨ New Discoveries
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (Score: 325)
-- **[The hallucinogenic mushroom that contains no known psychedelic](ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)** (Score: 59)
-- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (Score: 28)
-- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Score: 0)
+- **[Using a knowledge graph to implement a RAG application](ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)** (Score: 0)
+- **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (Score: 0)
 - **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Score: 0)
+- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Score: 0)
+- **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)**
-- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)**
-- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md)**
-- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable.md)**
-- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

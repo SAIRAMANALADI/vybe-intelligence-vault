@@ -18,7 +18,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 722 |
 | ai/research | 239 |
-| ai/rag | 183 |
+| ai/rag | 185 |
 | ai/agents | 136 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
@@ -40,38 +40,38 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Tag | Count |
 |---|---:|
 | benchmark | 217 |
-| rag | 183 |
-| models | 183 |
-| agents | 180 |
-| dataset | 127 |
+| rag | 185 |
+| models | 184 |
+| agents | 181 |
+| dataset | 128 |
 | frontend_ui | 112 |
-| paper | 83 |
+| paper | 84 |
 | threejs | 81 |
-| openai | 59 |
-| hackernews | 59 |
-| youtube | 47 |
+| openai | 61 |
+| hackernews | 60 |
+| youtube | 48 |
+| workflows | 47 |
 | meta-ai | 47 |
-| workflows | 45 |
 | animation | 33 |
 | leaderboard | 32 |
 
 ## Weekly Community Updates
 
-1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 325) - `ai/community`
+1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 337) - `ai/community`
 2. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
-3. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 28) - `ai/community`
+3. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 35) - `ai/community`
 4. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
 5. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-6. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
-7. [15 Best Open-Source RAG Frameworks in 2026](../../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
-8. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-9. [Build a RAG agent with LangChain - Docs by LangChain](../../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
-10. [LightRAG](../../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
-11. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
-12. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
-13. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
-14. [7 Best GitHub Repositories For Mastering RAG Systems](../../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
-15. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
+6. [Using a knowledge graph to implement a RAG application](../../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+7. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
+8. [15 Best Open-Source RAG Frameworks in 2026](../../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+9. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+10. [Build a RAG agent with LangChain - Docs by LangChain](../../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
+11. [LightRAG](../../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
+12. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
+13. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
+14. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
+15. [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](../../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md) ([Source](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -133,9 +133,9 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (259 updates)
-- [RAG](../../../skills/rag.md) (188 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (183 updates)
+- [Workflow Automation](../../../skills/automation.md) (261 updates)
+- [RAG](../../../skills/rag.md) (190 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (185 updates)
 - [AI Agents](../../../skills/ai-agents.md) (156 updates)
 - [AI Coding Agents](../../../skills/ai-coding-agents.md) (90 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
@@ -151,4 +151,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-15T06:38:46.444351+00:00
+2026-06-15T08:11:30.750068+00:00

@@ -18,13 +18,13 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 743 resources matched in the intelligence vault.
+Active signals: 745 resources matched in the intelligence vault.
 Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-15
 - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
-- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-15
-- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-15
-- [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md) (Source: Unknown Source) - Collected 2026-06-15
+- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-15
+- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-15
+- [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.882367+00:00.949301+00:00.012818+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T08:11:28.211749+00:00.882367+00:00.949301+00:00.012818+00:00.

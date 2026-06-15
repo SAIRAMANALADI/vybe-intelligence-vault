@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/patchy631/ai-engineering-hub
-collected_at: '2026-06-15T06:38:11.116001+00:00'
-published_at: '2026-06-15T04:19:42Z'
+collected_at: '2026-06-15T08:10:50.302759+00:00'
+published_at: '2026-06-15T08:05:08Z'
 tags:
 - agents
 - github-repo
 - jupyter notebook
 - rag
-stars: 35811
+stars: 35812
 language: Jupyter Notebook
 status: active
 license: MIT
@@ -19,9 +19,9 @@ archived: false
 created_at: '2024-10-21T10:43:24Z'
 pushed_at: '2026-06-08T11:18:11Z'
 resource_id: github:patchy631/ai-engineering-hub
-first_seen: '2026-06-15T06:38:11.116001+00:00'
-last_seen: '2026-06-15T06:38:11.116001+00:00'
-last_checked: '2026-06-15T06:38:11.116001+00:00'
+first_seen: '2026-06-15T08:10:50.302759+00:00'
+last_seen: '2026-06-15T08:10:50.302759+00:00'
+last_checked: '2026-06-15T08:10:50.302759+00:00'
 health_score: 100
 ---
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: patchy631
-- Stars: 35811
-- Forks: 5939
+- Stars: 35812
+- Forks: 5941
 - Language: Jupyter Notebook
 - Topics: agents, ai, llms, machine-learning, mcp, rag
-- Last Updated: 2026-06-15T04:19:42Z
+- Last Updated: 2026-06-15T08:05:08Z
 - License: MIT
 - Archived: No
 - Created At: 2024-10-21T10:43:24Z

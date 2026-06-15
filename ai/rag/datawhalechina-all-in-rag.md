@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/all-in-rag
-collected_at: '2026-06-15T06:36:56.626779+00:00'
-published_at: '2026-06-15T06:31:29Z'
+collected_at: '2026-06-15T08:09:42.350320+00:00'
+published_at: '2026-06-15T07:41:23Z'
 tags:
 - github-repo
 - meta-ai
 - models
 - python
 - rag
-stars: 8578
+stars: 8583
 language: Python
 status: active
 archived: false
 created_at: '2025-06-05T08:12:35Z'
 pushed_at: '2026-06-05T08:29:26Z'
 resource_id: github:datawhalechina/all-in-rag
-first_seen: '2026-06-15T06:36:56.626779+00:00'
-last_seen: '2026-06-15T06:36:56.626779+00:00'
-last_checked: '2026-06-15T06:36:56.626779+00:00'
+first_seen: '2026-06-15T08:09:42.350320+00:00'
+last_seen: '2026-06-15T08:09:42.350320+00:00'
+last_checked: '2026-06-15T08:09:42.350320+00:00'
 health_score: 100
 ---
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 8578
-- Forks: 4279
+- Stars: 8583
+- Forks: 4286
 - Language: Python
 - Topics: ai, deepseek, embedding, kimi-k2, langchain, llama-index, llm, milvus, multimodal, neo4j, python, rag
-- Last Updated: 2026-06-15T06:31:29Z
+- Last Updated: 2026-06-15T07:41:23Z
 - Archived: No
 - Created At: 2025-06-05T08:12:35Z
 - Pushed At: 2026-06-05T08:29:26Z

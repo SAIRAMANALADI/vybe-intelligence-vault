@@ -5183,7 +5183,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents>
 
 * **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joebig. Score: 28, Comments: 9. Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
+  * Summary: Hacker News story by joebig. Score: 35, Comments: 14. Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre>
 
@@ -5367,6 +5367,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://tech-insider.org/langgraph-tutorial-ai-agent-python-2026>
 
+* **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (`tutorial` | `useful` tier)
+  * Summary: Ai Coding AssistantsHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 HourBy Ryz Labs Team•March 13, 2026•3 min readHow to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour (2026) In 2026, the rapid evolution of AI c
+  * Tags: `openai`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour>
+
 * **[IBM RAG and Agentic AI Professional Certificate | Coursera](ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)** (`benchmark` | `useful` tier)
   * Summary: IBM RAG and Agentic AI Professional CertificateAboutOutcomesCoursesTestimonialsBrowseComputer ScienceSoftware Development Get extra savings on Coursera Plus. Join for â¹6,999 (usually â¹13,999). Save now.IBM RAG and Agentic AI Professional Certific
   * Tags: `agents`, `benchmark`, `creative_dev`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -5513,7 +5518,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide>
 
 * **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by unrvl22. Score: 325, Comments: 180. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
+  * Summary: Hacker News story by unrvl22. Score: 337, Comments: 182. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/nex-agi/nex-n2>
 
@@ -5601,6 +5606,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Top Open-Source LLM Observability Tools in 2025The Practical Developer5 min read·Jun 20, 2025--ListenShareObjective overview with each tool listed.Press enter or click to view image in full sizeTop Open-Source LLM Observability ToolsTL;DRA curated li
   * Tags: `anthropic`, `benchmark`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://medium.com/@thepracticaldeveloper/top-open-source-llm-observability-tools-in-2025-d2d5cbf4b932>
+
+* **[Using a knowledge graph to implement a RAG application](ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)** (`dataset` | `useful` tier)
+  * Summary: Blog home Close Blog homeDeveloperGenAINews Developer GenAI Knowledge graph RAG tutorial: How to build a RAG system on a knowledge graph Tomaž Bratanič Graph ML and GenAI Research, Neo4j August 22, 2025 18 min read Building a retrieval-augmented gene
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
+  * Source URL: <https://neo4j.com/blog/developer/rag-tutorial>
 
 * **[VoltAgent/awesome-ai-agent-papers](ai/rag/voltagent-awesome-ai-agent-papers.md)** (`benchmark` | `useful` tier)
   * Summary: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
@@ -13220,7 +13230,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14211>
 
 * **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (`tutorial` | `useful` tier)
-  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.27k • 16
+  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.28k • 16
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://huggingface.co/blog/ngxson/make-your-own-rag>
 

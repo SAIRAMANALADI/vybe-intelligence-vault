@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems
-published_at: '2026-06-15T06:36:59.596407+00:00'
-collected_at: '2026-06-15T06:36:59.596423+00:00'
+published_at: '2026-06-15T08:09:52.822357+00:00'
+collected_at: '2026-06-15T08:09:52.822371+00:00'
 tags:
 - agents
 - anthropic
@@ -26,9 +26,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-best-github-repositories-for-mastering-rag-syste
-first_seen: '2026-06-15T06:36:59.596423+00:00'
-last_seen: '2026-06-15T06:36:59.596423+00:00'
-last_checked: '2026-06-15T06:36:59.596423+00:00'
+first_seen: '2026-06-15T08:09:52.822371+00:00'
+last_seen: '2026-06-15T08:09:52.822371+00:00'
+last_checked: '2026-06-15T08:09:52.822371+00:00'
 health_score: 100
 ---
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T06:36:59.596407+00:00
+- Published: 2026-06-15T08:09:52.822357+00:00
 
 ## Related Tags
 

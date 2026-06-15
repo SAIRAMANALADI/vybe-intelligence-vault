@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 128 resources matched in the intelligence vault.
 Recently detected signals:
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](../ai/research/arxiv-2606-12881.md) (Source: Unknown Source) - Collected 2026-06-15
 - [NeST: Neuron Selective Tuning for LLM Safety](../ai/rag/arxiv-2602-16835.md) (Source: Unknown Source) - Collected 2026-06-15
 - [From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation](../ai/rag/arxiv-2606-13221.md) (Source: Unknown Source) - Collected 2026-06-15
 - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Towards Steering without Sacrifice: Principled Training of Steering Vectors for Prompt-only Interventions](../ai/research/arxiv-2605-05983.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -86,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.753424+00:00.741893+00:00.784633+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T08:11:28.081852+00:00.753424+00:00.741893+00:00.784633+00:00.

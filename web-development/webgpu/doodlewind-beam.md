@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/doodlewind/beam
-collected_at: '2026-06-15T06:04:14.952684+00:00'
-published_at: '2026-06-14T12:06:50Z'
+collected_at: '2026-06-15T08:08:18.538242+00:00'
+published_at: '2026-06-15T06:58:23Z'
 tags:
 - threejs
 stars: 528
 language: TypeScript
 status: active
 resource_id: github:doodlewind/beam
-first_seen: '2026-06-15T06:04:14.952684+00:00'
-last_seen: '2026-06-15T06:04:14.952684+00:00'
-last_checked: '2026-06-15T06:04:14.952684+00:00'
+first_seen: '2026-06-15T08:08:18.538242+00:00'
+last_seen: '2026-06-15T08:08:18.538242+00:00'
+last_checked: '2026-06-15T08:08:18.538242+00:00'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 42
 - Language: TypeScript
 - Topics: 3d, frontend, graphics, image-processing, library, particles, pbr, renderer, shadow-mapping, webgpu, webgpu-library, wgsl
-- Last Updated: 2026-06-14T12:06:50Z
+- Last Updated: 2026-06-15T06:58:23Z
 
 ## Possible Use Cases
 

@@ -21,10 +21,10 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 Active signals: 57 resources matched in the intelligence vault.
 Recently detected signals:
 - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
-- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches](../ai/research/arxiv-2606-13626.md) (Source: Unknown Source) - Collected 2026-06-15
 - [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](../ai/rag/arxiv-2508-18166.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score](../ai/research/arxiv-2606-13300.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.964270+00:00.103911+00:00.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T08:11:28.290344+00:00.964270+00:00.103911+00:00.204506+00:00.

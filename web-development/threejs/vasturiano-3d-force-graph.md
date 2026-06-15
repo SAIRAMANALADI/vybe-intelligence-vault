@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/vasturiano/3d-force-graph
-collected_at: '2026-06-15T06:04:10.448974+00:00'
-published_at: '2026-06-14T23:20:38Z'
+collected_at: '2026-06-15T08:08:14.974090+00:00'
+published_at: '2026-06-15T06:41:50Z'
 tags:
 - threejs
-stars: 6124
+stars: 6125
 language: HTML
 status: active
 resource_id: github:vasturiano/3d-force-graph
-first_seen: '2026-06-12T10:40:14.585810+00:00'
-last_seen: '2026-06-15T06:04:10.448974+00:00'
-last_checked: '2026-06-15T06:04:10.448974+00:00'
+first_seen: '2026-06-15T08:08:14.974090+00:00'
+last_seen: '2026-06-15T08:08:14.974090+00:00'
+last_checked: '2026-06-15T08:08:14.974090+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: vasturiano
-- Stars: 6124
+- Stars: 6125
 - Forks: 990
 - Language: HTML
 - Topics: 3d, 3d-force-graph, d3js, data-visualization, force-directed-graphs, threejs, webgl
-- Last Updated: 2026-06-14T23:20:38Z
+- Last Updated: 2026-06-15T06:41:50Z
 
 ## Possible Use Cases
 

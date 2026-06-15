@@ -10,6 +10,7 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
 *   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
 *   [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](https://artificialanalysis.ai/agents/coding-agents) (Score: 70) - Category: `ai-coding-agents/`
+*   [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour) (Score: 70) - Category: `ai-coding-agents/`
 *   [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) (Score: 70) - Category: `ai-coding-agents/`
 *   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
 *   [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) (Score: 70) - Category: `ai-coding-agents/`
 *   [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Score: 70) - Category: `ai-coding-agents/`
 *   [Custom Kernels for All from Codex and Claude](https://huggingface.co/blog/custom-cuda-kernels-agent-skills) (Score: 70) - Category: `ai-coding-agents/`
-*   [Codex is Open Sourcing AI models](https://huggingface.co/blog/hf-skills-training-codex) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.
