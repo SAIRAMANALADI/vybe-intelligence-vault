@@ -13,9 +13,11 @@ collected_at: '2026-06-11T22:58:48.408063+00:00'
 tags:
 - hackernews
 - llm
-status: new
+status: inactive
 resource_id: hackernews:shall-we-play-a-game-llms-use-tactical-nukes-in-95
+last_seen: '2026-06-11T22:58:48.408063+00:00'
 ---
+
 
 
 # Shall we play a game? – LLMs use tactical nukes in 95% of simulations

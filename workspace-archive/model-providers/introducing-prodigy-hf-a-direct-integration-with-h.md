@@ -3,6 +3,7 @@ title: 'Introducing Prodigy-HF: a direct integration with Hugging Face'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/prodigy-hf
+resource_id: blog:introducing-prodigy-hf-a-direct-integration-with-h
 local_vault_path: ai/models/huggingface-blog-prodigy-hf.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-prodigy-hf-a-direct-integration-with-h
 ---
-
 
 # Introducing Prodigy-HF: a direct integration with Hugging Face
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/prodigy-hf
 
 ## Local Vault File
 
-Path: [introducing-prodigy-hf-a-direct-integration-with-hugging-face-03b963.md](file:///../../ai/models/huggingface-blog-prodigy-hf.md)
+Path: [huggingface-blog-prodigy-hf.md](file:///../../ai/models/huggingface-blog-prodigy-hf.md)

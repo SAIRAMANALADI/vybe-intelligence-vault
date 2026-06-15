@@ -3,6 +3,7 @@ title: PatchTSMixer in HuggingFace
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/patchtsmixer
+resource_id: blog:patchtsmixer-in-huggingface
 local_vault_path: ai/models/huggingface-blog-patchtsmixer.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:patchtsmixer-in-huggingface
 ---
-
-
 
 # PatchTSMixer in HuggingFace
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtsmixer
 
 ## Local Vault File
 
-Path: [patchtsmixer-in-huggingface-a2c863.md](file:///../../ai/models/huggingface-blog-patchtsmixer.md)
+Path: [huggingface-blog-patchtsmixer.md](file:///../../ai/models/huggingface-blog-patchtsmixer.md)

@@ -4,6 +4,7 @@ title: Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging F
 archive_category: ai-tools-products
 source_category: ai/models
 source_url: https://huggingface.co/blog/fetch-eap-case-study
+resource_id: blog:fetch-consolidates-ai-tools-and-saves-30-developme
 local_vault_path: ai/models/huggingface-blog-fetch-eap-case-study.md
 quality_score: 70
 archive_score: 72
@@ -13,9 +14,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:fetch-consolidates-ai-tools-and-saves-30-developme
 ---
-
 
 # Fetch Consolidates AI Tools and Saves 30% Development Time with Hugging Face on AWS
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fetch-eap-case-study
 
 ## Local Vault File
 
-Path: [fetch-consolidates-ai-tools-and-saves-30-development-time-with-hugging-face-on-a-7bc668.md](file:///../../ai/models/huggingface-blog-fetch-eap-case-study.md)
+Path: [huggingface-blog-fetch-eap-case-study.md](file:///../../ai/models/huggingface-blog-fetch-eap-case-study.md)

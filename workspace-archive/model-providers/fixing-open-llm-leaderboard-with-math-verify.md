@@ -3,6 +3,7 @@ title: Fixing Open LLM Leaderboard with Math-Verify
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/math_verify_leaderboard
+resource_id: blog:fixing-open-llm-leaderboard-with-math-verify
 local_vault_path: ai/models/huggingface-blog-math-verify-leaderboard.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fixing-open-llm-leaderboard-with-math-verify
 ---
-
-
 
 # Fixing Open LLM Leaderboard with Math-Verify
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/math_verify_leaderboard
 
 ## Local Vault File
 
-Path: [fixing-open-llm-leaderboard-with-math-verify-53f80f.md](file:///../../ai/models/huggingface-blog-math-verify-leaderboard.md)
+Path: [huggingface-blog-math-verify-leaderboard.md](file:///../../ai/models/huggingface-blog-math-verify-leaderboard.md)

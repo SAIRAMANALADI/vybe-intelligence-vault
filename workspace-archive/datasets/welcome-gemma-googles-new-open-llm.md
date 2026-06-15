@@ -3,6 +3,7 @@ title: Welcome Gemma - Google’s new open LLM
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma
+resource_id: blog:welcome-gemma-googles-new-open-llm
 local_vault_path: ai/models/huggingface-blog-gemma.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-gemma-googles-new-open-llm
 ---
-
-
 
 # Welcome Gemma - Google’s new open LLM
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma
 
 ## Local Vault File
 
-Path: [welcome-gemma-googles-new-open-llm-4244b2.md](file:///../../ai/models/huggingface-blog-gemma.md)
+Path: [huggingface-blog-gemma.md](file:///../../ai/models/huggingface-blog-gemma.md)

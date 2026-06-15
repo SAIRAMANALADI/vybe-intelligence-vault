@@ -3,6 +3,7 @@ title: 'Chat Templates: An End to the Silent Performance Killer'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/chat-templates
+resource_id: blog:chat-templates-an-end-to-the-silent-performance-ki
 local_vault_path: ai/models/huggingface-blog-chat-templates.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: template
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:chat-templates-an-end-to-the-silent-performance-ki
 ---
-
 
 # Chat Templates: An End to the Silent Performance Killer
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chat-templates
 
 ## Local Vault File
 
-Path: [chat-templates-an-end-to-the-silent-performance-killer-a144d3.md](file:///../../ai/models/huggingface-blog-chat-templates.md)
+Path: [huggingface-blog-chat-templates.md](file:///../../ai/models/huggingface-blog-chat-templates.md)

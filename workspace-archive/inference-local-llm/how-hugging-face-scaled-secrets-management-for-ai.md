@@ -3,6 +3,7 @@ title: How Hugging Face Scaled Secrets Management for AI Infrastructure
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/scaling-secrets-management
+resource_id: blog:how-hugging-face-scaled-secrets-management-for-ai
 local_vault_path: ai/models/huggingface-blog-scaling-secrets-management.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-hugging-face-scaled-secrets-management-for-ai
 ---
-
-
 
 # How Hugging Face Scaled Secrets Management for AI Infrastructure
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/scaling-secrets-management
 
 ## Local Vault File
 
-Path: [how-hugging-face-scaled-secrets-management-for-ai-infrastructure-0cad07.md](file:///../../ai/models/huggingface-blog-scaling-secrets-management.md)
+Path: [huggingface-blog-scaling-secrets-management.md](file:///../../ai/models/huggingface-blog-scaling-secrets-management.md)

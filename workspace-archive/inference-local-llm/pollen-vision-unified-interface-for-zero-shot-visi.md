@@ -3,6 +3,7 @@ title: 'Pollen-Vision: Unified interface for Zero-Shot vision models in robotics
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pollen-vision
+resource_id: blog:pollen-vision-unified-interface-for-zero-shot-visi
 local_vault_path: ai/models/huggingface-blog-pollen-vision.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:pollen-vision-unified-interface-for-zero-shot-visi
 ---
-
 
 # Pollen-Vision: Unified interface for Zero-Shot vision models in robotics
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pollen-vision
 
 ## Local Vault File
 
-Path: [pollen-vision-unified-interface-for-zero-shot-vision-models-in-robotics-9bb04e.md](file:///../../ai/models/huggingface-blog-pollen-vision.md)
+Path: [huggingface-blog-pollen-vision.md](file:///../../ai/models/huggingface-blog-pollen-vision.md)

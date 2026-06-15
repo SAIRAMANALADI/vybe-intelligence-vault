@@ -3,6 +3,7 @@ title: Fine-tune Llama 2 with DPO
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dpo-trl
+resource_id: blog:fine-tune-llama-2-with-dpo
 local_vault_path: ai/models/huggingface-blog-dpo-trl.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fine-tune-llama-2-with-dpo
 ---
-
-
 
 # Fine-tune Llama 2 with DPO
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/dpo-trl
 
 ## Local Vault File
 
-Path: [fine-tune-llama-2-with-dpo-46510a.md](file:///../../ai/models/huggingface-blog-dpo-trl.md)
+Path: [huggingface-blog-dpo-trl.md](file:///../../ai/models/huggingface-blog-dpo-trl.md)

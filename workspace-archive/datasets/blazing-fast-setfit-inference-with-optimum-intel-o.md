@@ -3,6 +3,7 @@ title: Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/setfit-optimum-intel
+resource_id: blog:blazing-fast-setfit-inference-with-optimum-intel-o
 local_vault_path: ai/models/huggingface-blog-setfit-optimum-intel.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:blazing-fast-setfit-inference-with-optimum-intel-o
 ---
-
 
 # Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-optimum-intel
 
 ## Local Vault File
 
-Path: [blazing-fast-setfit-inference-with-optimum-intel-on-xeon-47011e.md](file:///../../ai/models/huggingface-blog-setfit-optimum-intel.md)
+Path: [huggingface-blog-setfit-optimum-intel.md](file:///../../ai/models/huggingface-blog-setfit-optimum-intel.md)

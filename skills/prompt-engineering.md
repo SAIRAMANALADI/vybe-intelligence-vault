@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 43 resources matched in the intelligence vault.
+Active signals: 63 resources matched in the intelligence vault.
 Recently detected signals:
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) (Source: Unknown Source) - Collected 2026-06-12
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/huggingface-blog-setfit.md) (Source: Unknown Source) - Collected 2026-06-12
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-06-12
-- [On the Optimal Reasoning Length for RL-Trained Language Models](../ai/research/arxiv-2602-09591.md) (Source: Unknown Source) - Collected 2026-06-12
-- [The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning](../ai/research/arxiv-2505-03296.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md) (Source: Unknown Source) - Collected 2026-06-15
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/huggingface-blog-setfit.md) (Source: Unknown Source) - Collected 2026-06-15
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/huggingface-blog-setfit-absa.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches](../ai/research/arxiv-2606-13626.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Aligned but Stereotypical? How System Prompts Shape Demographic Bias in LLM-Based Text-to-Image Models](../ai/rag/arxiv-2512-04981.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -55,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.745949+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:36.700805+00:00.745949+00:00.

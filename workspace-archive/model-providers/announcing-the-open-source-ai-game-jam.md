@@ -3,6 +3,7 @@ title: Announcing the Open Source AI Game Jam 🎮
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/game-jam
+resource_id: blog:announcing-the-open-source-ai-game-jam
 local_vault_path: ai/models/huggingface-blog-game-jam.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:announcing-the-open-source-ai-game-jam
 ---
-
-
 
 # Announcing the Open Source AI Game Jam 🎮
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam
 
 ## Local Vault File
 
-Path: [announcing-the-open-source-ai-game-jam-4fd8b9.md](file:///../../ai/models/huggingface-blog-game-jam.md)
+Path: [huggingface-blog-game-jam.md](file:///../../ai/models/huggingface-blog-game-jam.md)

@@ -3,6 +3,7 @@ title: The Hugging Face Hub for Galleries, Libraries, Archives and Museums
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-hub-glam-guide
+resource_id: blog:the-hugging-face-hub-for-galleries-libraries-archi
 local_vault_path: ai/models/huggingface-blog-hf-hub-glam-guide.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-hugging-face-hub-for-galleries-libraries-archi
 ---
-
 
 # The Hugging Face Hub for Galleries, Libraries, Archives and Museums
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-hub-glam-guide
 
 ## Local Vault File
 
-Path: [the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md](file:///../../ai/models/huggingface-blog-hf-hub-glam-guide.md)
+Path: [huggingface-blog-hf-hub-glam-guide.md](file:///../../ai/models/huggingface-blog-hf-hub-glam-guide.md)

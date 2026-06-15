@@ -3,6 +3,7 @@ title: 'SmolVLM2: Bringing Video Understanding to Every Device'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvlm2
+resource_id: blog:smolvlm2-bringing-video-understanding-to-every-dev
 local_vault_path: ai/models/huggingface-blog-smolvlm2.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - youtube
 selection_reason:
 - Valuable developer reference
-resource_id: blog:smolvlm2-bringing-video-understanding-to-every-dev
 ---
-
 
 # SmolVLM2: Bringing Video Understanding to Every Device
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolvlm2
 
 ## Local Vault File
 
-Path: [smolvlm2-bringing-video-understanding-to-every-device-056a44.md](file:///../../ai/models/huggingface-blog-smolvlm2.md)
+Path: [huggingface-blog-smolvlm2.md](file:///../../ai/models/huggingface-blog-smolvlm2.md)

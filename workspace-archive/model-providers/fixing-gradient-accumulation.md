@@ -3,6 +3,7 @@ title: Fixing Gradient Accumulation
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradient_accumulation
+resource_id: blog:fixing-gradient-accumulation
 local_vault_path: ai/models/huggingface-blog-gradient-accumulation.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fixing-gradient-accumulation
 ---
-
-
 
 # Fixing Gradient Accumulation
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradient_accumulation
 
 ## Local Vault File
 
-Path: [fixing-gradient-accumulation-c3e3c4.md](file:///../../ai/models/huggingface-blog-gradient-accumulation.md)
+Path: [huggingface-blog-gradient-accumulation.md](file:///../../ai/models/huggingface-blog-gradient-accumulation.md)

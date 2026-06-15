@@ -3,6 +3,7 @@ title: Using Stable Diffusion with Core ML on Apple Silicon
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-coreml
+resource_id: blog:using-stable-diffusion-with-core-ml-on-apple-silic
 local_vault_path: ai/models/huggingface-blog-diffusers-coreml.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:using-stable-diffusion-with-core-ml-on-apple-silic
 ---
-
 
 # Using Stable Diffusion with Core ML on Apple Silicon
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-coreml
 
 ## Local Vault File
 
-Path: [using-stable-diffusion-with-core-ml-on-apple-silicon-ca5f65.md](file:///../../ai/models/huggingface-blog-diffusers-coreml.md)
+Path: [huggingface-blog-diffusers-coreml.md](file:///../../ai/models/huggingface-blog-diffusers-coreml.md)

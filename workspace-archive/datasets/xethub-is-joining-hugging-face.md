@@ -3,6 +3,7 @@ title: XetHub is joining Hugging Face!
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/xethub-joins-hf
+resource_id: blog:xethub-is-joining-hugging-face
 local_vault_path: ai/models/huggingface-blog-xethub-joins-hf.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:xethub-is-joining-hugging-face
 ---
-
-
 
 # XetHub is joining Hugging Face!
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xethub-joins-hf
 
 ## Local Vault File
 
-Path: [xethub-is-joining-hugging-face-99338a.md](file:///../../ai/models/huggingface-blog-xethub-joins-hf.md)
+Path: [huggingface-blog-xethub-joins-hf.md](file:///../../ai/models/huggingface-blog-xethub-joins-hf.md)

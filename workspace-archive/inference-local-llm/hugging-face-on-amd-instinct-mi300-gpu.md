@@ -3,6 +3,7 @@ title: Hugging Face on AMD Instinct MI300 GPU
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-amd-mi300
+resource_id: blog:hugging-face-on-amd-instinct-mi300-gpu
 local_vault_path: ai/models/huggingface-blog-huggingface-amd-mi300.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-on-amd-instinct-mi300-gpu
 ---
-
-
 
 # Hugging Face on AMD Instinct MI300 GPU
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-mi300
 
 ## Local Vault File
 
-Path: [hugging-face-on-amd-instinct-mi300-gpu-ec86ac.md](file:///../../ai/models/huggingface-blog-huggingface-amd-mi300.md)
+Path: [huggingface-blog-huggingface-amd-mi300.md](file:///../../ai/models/huggingface-blog-huggingface-amd-mi300.md)

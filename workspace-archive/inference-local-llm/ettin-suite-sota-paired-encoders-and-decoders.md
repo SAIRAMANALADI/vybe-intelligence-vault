@@ -3,6 +3,7 @@ title: 'Ettin Suite: SoTA Paired Encoders and Decoders'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ettin
+resource_id: blog:ettin-suite-sota-paired-encoders-and-decoders
 local_vault_path: ai/models/huggingface-blog-ettin.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ettin-suite-sota-paired-encoders-and-decoders
 ---
-
-
 
 # Ettin Suite: SoTA Paired Encoders and Decoders
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin
 
 ## Local Vault File
 
-Path: [ettin-suite-sota-paired-encoders-and-decoders-f91504.md](file:///../../ai/models/huggingface-blog-ettin.md)
+Path: [huggingface-blog-ettin.md](file:///../../ai/models/huggingface-blog-ettin.md)

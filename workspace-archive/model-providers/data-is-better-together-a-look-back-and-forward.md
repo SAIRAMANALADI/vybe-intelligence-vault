@@ -3,6 +3,7 @@ title: 'Data Is Better Together: A Look Back and Forward'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dibt
+resource_id: blog:data-is-better-together-a-look-back-and-forward
 local_vault_path: ai/models/huggingface-blog-dibt.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:data-is-better-together-a-look-back-and-forward
 ---
-
-
 
 # Data Is Better Together: A Look Back and Forward
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dibt
 
 ## Local Vault File
 
-Path: [data-is-better-together-a-look-back-and-forward-4d7005.md](file:///../../ai/models/huggingface-blog-dibt.md)
+Path: [huggingface-blog-dibt.md](file:///../../ai/models/huggingface-blog-dibt.md)

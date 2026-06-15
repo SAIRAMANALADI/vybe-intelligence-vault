@@ -3,6 +3,7 @@ title: 🇨🇿 BenCzechMark - Can your LLM Understand Czech?
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/benczechmark
+resource_id: blog:benczechmark-can-your-llm-understand-czech
 local_vault_path: ai/models/huggingface-blog-benczechmark.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:benczechmark-can-your-llm-understand-czech
 ---
-
-
 
 # 🇨🇿 BenCzechMark - Can your LLM Understand Czech?
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: [benczechmark-can-your-llm-understand-czech-d407e1.md](file:///../../ai/models/huggingface-blog-benczechmark.md)
+Path: [huggingface-blog-benczechmark.md](file:///../../ai/models/huggingface-blog-benczechmark.md)

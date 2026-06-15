@@ -3,6 +3,7 @@ title: Porting fairseq wmt19 translation system to transformers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/porting-fsmt
+resource_id: blog:porting-fairseq-wmt19-translation-system-to-transf
 local_vault_path: ai/models/huggingface-blog-porting-fsmt.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:porting-fairseq-wmt19-translation-system-to-transf
 ---
-
 
 # Porting fairseq wmt19 translation system to transformers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/porting-fsmt
 
 ## Local Vault File
 
-Path: [porting-fairseq-wmt19-translation-system-to-transformers-f3ab7a.md](file:///../../ai/models/huggingface-blog-porting-fsmt.md)
+Path: [huggingface-blog-porting-fsmt.md](file:///../../ai/models/huggingface-blog-porting-fsmt.md)

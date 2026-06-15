@@ -3,6 +3,7 @@ title: SmolLM - blazingly fast and remarkably powerful
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/smollm
+resource_id: blog:smollm-blazingly-fast-and-remarkably-powerful
 local_vault_path: ai/models/huggingface-blog-smollm.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:smollm-blazingly-fast-and-remarkably-powerful
 ---
-
-
 
 # SmolLM - blazingly fast and remarkably powerful
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [smollm-blazingly-fast-and-remarkably-powerful-63bdbd.md](file:///../../ai/models/huggingface-blog-smollm.md)
+Path: [huggingface-blog-smollm.md](file:///../../ai/models/huggingface-blog-smollm.md)

@@ -3,6 +3,7 @@ title: Universal Image Segmentation with Mask2Former and OneFormer
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/mask2former
+resource_id: blog:universal-image-segmentation-with-mask2former-and
 local_vault_path: ai/models/huggingface-blog-mask2former.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:universal-image-segmentation-with-mask2former-and
 ---
-
-
 
 # Universal Image Segmentation with Mask2Former and OneFormer
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mask2former
 
 ## Local Vault File
 
-Path: [universal-image-segmentation-with-mask2former-and-oneformer-69317e.md](file:///../../ai/models/huggingface-blog-mask2former.md)
+Path: [huggingface-blog-mask2former.md](file:///../../ai/models/huggingface-blog-mask2former.md)

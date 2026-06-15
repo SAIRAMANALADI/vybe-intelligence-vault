@@ -3,6 +3,7 @@ title: We now support VLMs in smolagents!
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents-can-see
+resource_id: blog:we-now-support-vlms-in-smolagents
 local_vault_path: ai/agents/huggingface-blog-smolagents-can-see.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:we-now-support-vlms-in-smolagents
 ---
-
-
 
 # We now support VLMs in smolagents!
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents-can-see
 
 ## Local Vault File
 
-Path: [we-now-support-vlms-in-smolagents-2eef7f.md](file:///../../ai/agents/huggingface-blog-smolagents-can-see.md)
+Path: [huggingface-blog-smolagents-can-see.md](file:///../../ai/agents/huggingface-blog-smolagents-can-see.md)

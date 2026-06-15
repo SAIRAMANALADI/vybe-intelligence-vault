@@ -3,6 +3,7 @@ title: 'Judge Arena: Benchmarking LLMs as Evaluators'
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-atla
+resource_id: blog:judge-arena-benchmarking-llms-as-evaluators
 local_vault_path: ai/models/huggingface-blog-arena-atla.md
 quality_score: 70
 archive_score: 74
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:judge-arena-benchmarking-llms-as-evaluators
 ---
-
-
 
 # Judge Arena: Benchmarking LLMs as Evaluators
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/arena-atla
 
 ## Local Vault File
 
-Path: [judge-arena-benchmarking-llms-as-evaluators-84a78b.md](file:///../../ai/models/huggingface-blog-arena-atla.md)
+Path: [huggingface-blog-arena-atla.md](file:///../../ai/models/huggingface-blog-arena-atla.md)

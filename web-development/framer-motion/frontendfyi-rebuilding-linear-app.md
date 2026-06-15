@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/frontendfyi/rebuilding-linear.app
-collected_at: '2026-06-12T10:40:18.782926+00:00'
+collected_at: '2026-06-15T06:04:17.304154+00:00'
 published_at: '2026-06-03T21:33:55Z'
 tags:
 - animation
@@ -12,30 +12,12 @@ tags:
 stars: 313
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:18.782926+00:00'
-last_seen: '2026-06-12T10:40:18.782926+00:00'
 resource_id: github:frontendfyi/rebuilding-linear.app
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 62
-change_history:
-- timestamp: '2026-06-12T10:40:18.782926+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 78.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: License updated from None to Other.
-forks: 78
-archived: false
-license: Other
+first_seen: '2026-06-12T10:40:18.782926+00:00'
+last_seen: '2026-06-15T06:04:17.304154+00:00'
+last_checked: '2026-06-15T06:04:17.304154+00:00'
+health_score: 100
 ---
-
-
 
 # frontendfyi/rebuilding-linear.app
 

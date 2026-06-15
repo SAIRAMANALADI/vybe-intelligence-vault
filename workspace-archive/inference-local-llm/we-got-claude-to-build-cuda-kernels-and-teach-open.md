@@ -3,6 +3,7 @@ title: We Got Claude to Build CUDA Kernels and teach open models!
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/upskill
+resource_id: blog:we-got-claude-to-build-cuda-kernels-and-teach-open
 local_vault_path: ai/models/huggingface-blog-upskill.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - anthropic
 selection_reason:
 - Valuable developer reference
-resource_id: blog:we-got-claude-to-build-cuda-kernels-and-teach-open
 ---
-
-
 
 # We Got Claude to Build CUDA Kernels and teach open models!
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/upskill
 
 ## Local Vault File
 
-Path: [we-got-claude-to-build-cuda-kernels-and-teach-open-models-419cdc.md](file:///../../ai/models/huggingface-blog-upskill.md)
+Path: [huggingface-blog-upskill.md](file:///../../ai/models/huggingface-blog-upskill.md)

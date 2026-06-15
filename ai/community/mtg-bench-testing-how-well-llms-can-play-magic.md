@@ -13,9 +13,11 @@ collected_at: '2026-06-12T05:02:10.996229+00:00'
 tags:
 - hackernews
 - llm
-status: new
+status: inactive
 resource_id: hackernews:mtg-bench-testing-how-well-llms-can-play-magic
+last_seen: '2026-06-12T05:02:10.996229+00:00'
 ---
+
 
 
 # MTG Bench: Testing how well LLMs can play Magic

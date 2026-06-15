@@ -3,6 +3,7 @@ title: 'Bamba: Inference-Efficient Hybrid Mamba2 Model'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bamba
+resource_id: blog:bamba-inference-efficient-hybrid-mamba2-model
 local_vault_path: ai/models/huggingface-blog-bamba.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:bamba-inference-efficient-hybrid-mamba2-model
 ---
-
-
 
 # Bamba: Inference-Efficient Hybrid Mamba2 Model
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bamba
 
 ## Local Vault File
 
-Path: [bamba-inference-efficient-hybrid-mamba2-model-e1dc39.md](file:///../../ai/models/huggingface-blog-bamba.md)
+Path: [huggingface-blog-bamba.md](file:///../../ai/models/huggingface-blog-bamba.md)

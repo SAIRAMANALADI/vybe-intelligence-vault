@@ -14,9 +14,11 @@ tags:
 - ai
 - hackernews
 - reddit
-status: new
+status: inactive
 resource_id: hackernews:a-jacket-that-harvests-drinking-water-from-the-air
+last_seen: '2026-06-12T05:02:09.842911+00:00'
 ---
+
 
 
 # A jacket that harvests drinking water from the air

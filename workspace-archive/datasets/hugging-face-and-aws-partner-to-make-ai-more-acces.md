@@ -3,6 +3,7 @@ title: Hugging Face and AWS partner to make AI more accessible
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/aws-partnership
+resource_id: blog:hugging-face-and-aws-partner-to-make-ai-more-acces
 local_vault_path: ai/models/huggingface-blog-aws-partnership.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-and-aws-partner-to-make-ai-more-acces
 ---
-
 
 # Hugging Face and AWS partner to make AI more accessible
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-aws-partner-to-make-ai-more-accessible-25a345.md](file:///../../ai/models/huggingface-blog-aws-partnership.md)
+Path: [huggingface-blog-aws-partnership.md](file:///../../ai/models/huggingface-blog-aws-partnership.md)

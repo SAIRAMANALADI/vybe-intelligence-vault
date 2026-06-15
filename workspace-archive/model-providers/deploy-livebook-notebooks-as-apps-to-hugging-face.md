@@ -3,6 +3,7 @@ title: Deploy Livebook notebooks as apps to Hugging Face Spaces
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/livebook-app-deployment
+resource_id: blog:deploy-livebook-notebooks-as-apps-to-hugging-face
 local_vault_path: ai/models/huggingface-blog-livebook-app-deployment.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploy-livebook-notebooks-as-apps-to-hugging-face
 ---
-
-
 
 # Deploy Livebook notebooks as apps to Hugging Face Spaces
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/livebook-app-deployment
 
 ## Local Vault File
 
-Path: [deploy-livebook-notebooks-as-apps-to-hugging-face-spaces-6514c6.md](file:///../../ai/models/huggingface-blog-livebook-app-deployment.md)
+Path: [huggingface-blog-livebook-app-deployment.md](file:///../../ai/models/huggingface-blog-livebook-app-deployment.md)

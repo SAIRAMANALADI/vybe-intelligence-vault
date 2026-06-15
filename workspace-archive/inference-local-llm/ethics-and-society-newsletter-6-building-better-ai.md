@@ -4,6 +4,7 @@ title: 'Ethics and Society Newsletter #6: Building Better AI: The Importance of 
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-6
+resource_id: blog:ethics-and-society-newsletter-6-building-better-ai
 local_vault_path: ai/models/huggingface-blog-ethics-soc-6.md
 quality_score: 70
 archive_score: 70
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ethics-and-society-newsletter-6-building-better-ai
 ---
-
-
 
 # Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-6
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md](file:///../../ai/models/huggingface-blog-ethics-soc-6.md)
+Path: [huggingface-blog-ethics-soc-6.md](file:///../../ai/models/huggingface-blog-ethics-soc-6.md)

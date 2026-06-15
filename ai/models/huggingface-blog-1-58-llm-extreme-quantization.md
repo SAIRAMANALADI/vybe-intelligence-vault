@@ -4,16 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/1_58_llm_extreme_quantization
-published_at: '2024-09-18T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.814260+00:00'
+published_at: '2024-09-17T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.275084+00:00'
 tags:
 - models
 status: active
+resource_id: blog:fine-tuning-llms-to-1-58bit-extreme-quantization-m
 first_seen: '2026-06-12T10:40:08.814260+00:00'
-last_seen: '2026-06-12T10:40:08.814260+00:00'
-resource_id: huggingface:blog/1_58_llm_extreme_quantization
+last_seen: '2026-06-15T06:03:50.275084+00:00'
+last_checked: '2026-06-15T06:03:50.275084+00:00'
+health_score: 100
 ---
-
 
 # Fine-tuning LLMs to 1.58bit: extreme quantization made easy
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-09-18T00:00:00+00:00
+- Published: 2024-09-17T18:30:00+00:00
 
 ## Related Tags
 

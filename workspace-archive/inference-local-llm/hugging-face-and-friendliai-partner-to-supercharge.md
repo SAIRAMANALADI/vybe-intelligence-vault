@@ -4,6 +4,7 @@ title: Hugging Face and FriendliAI partner to supercharge model deployment on th
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/friendliai-partnership
+resource_id: blog:hugging-face-and-friendliai-partner-to-supercharge
 local_vault_path: ai/models/huggingface-blog-friendliai-partnership.md
 quality_score: 70
 archive_score: 70
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-and-friendliai-partner-to-supercharge
 ---
-
-
 
 # Hugging Face and FriendliAI partner to supercharge model deployment on the Hub
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/friendliai-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-friendliai-partner-to-supercharge-model-deployment-on-the-hub-438700.md](file:///../../ai/models/huggingface-blog-friendliai-partnership.md)
+Path: [huggingface-blog-friendliai-partnership.md](file:///../../ai/models/huggingface-blog-friendliai-partnership.md)

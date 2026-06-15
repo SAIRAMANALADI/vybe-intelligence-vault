@@ -3,6 +3,7 @@ title: Accelerating Document AI
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/document-ai
+resource_id: blog:accelerating-document-ai
 local_vault_path: ai/models/huggingface-blog-document-ai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerating-document-ai
 ---
-
-
 
 # Accelerating Document AI
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/document-ai
 
 ## Local Vault File
 
-Path: [accelerating-document-ai-48b42f.md](file:///../../ai/models/huggingface-blog-document-ai.md)
+Path: [huggingface-blog-document-ai.md](file:///../../ai/models/huggingface-blog-document-ai.md)

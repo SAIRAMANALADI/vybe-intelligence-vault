@@ -4,18 +4,19 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/ykob/sketch-threejs
-collected_at: '2026-06-12T10:40:14.585676+00:00'
+collected_at: '2026-06-15T06:04:10.448862+00:00'
 published_at: '2026-06-08T10:00:51Z'
 tags:
 - threejs
 stars: 2532
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:14.585676+00:00'
-last_seen: '2026-06-12T10:40:14.585676+00:00'
 resource_id: github:ykob/sketch-threejs
+first_seen: '2026-06-12T10:40:14.585676+00:00'
+last_seen: '2026-06-15T06:04:10.448862+00:00'
+last_checked: '2026-06-15T06:04:10.448862+00:00'
+health_score: 100
 ---
-
 
 # ykob/sketch-threejs
 

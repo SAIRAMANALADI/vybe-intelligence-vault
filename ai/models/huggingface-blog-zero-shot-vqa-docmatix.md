@@ -4,17 +4,18 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/zero-shot-vqa-docmatix
-published_at: '2024-07-25T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.814678+00:00'
+published_at: '2024-07-24T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.275436+00:00'
 tags:
 - benchmark
 - models
 status: active
+resource_id: blog:lave-zero-shot-vqa-evaluation-on-docmatix-with-llm
 first_seen: '2026-06-12T10:40:08.814678+00:00'
-last_seen: '2026-06-12T10:40:08.814678+00:00'
-resource_id: huggingface:blog/zero-shot-vqa-docmatix
+last_seen: '2026-06-15T06:03:50.275436+00:00'
+last_checked: '2026-06-15T06:03:50.275436+00:00'
+health_score: 100
 ---
-
 
 # LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
 
@@ -30,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-07-25T00:00:00+00:00
+- Published: 2024-07-24T18:30:00+00:00
 
 ## Related Tags
 

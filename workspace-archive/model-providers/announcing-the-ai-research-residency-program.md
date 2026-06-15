@@ -3,6 +3,7 @@ title: Announcing the 🤗 AI Research Residency Program
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-residency
+resource_id: blog:announcing-the-ai-research-residency-program
 local_vault_path: ai/models/huggingface-blog-ai-residency.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:announcing-the-ai-research-residency-program
 ---
-
-
 
 # Announcing the 🤗 AI Research Residency Program
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-residency
 
 ## Local Vault File
 
-Path: [announcing-the-ai-research-residency-program-596b14.md](file:///../../ai/models/huggingface-blog-ai-residency.md)
+Path: [huggingface-blog-ai-residency.md](file:///../../ai/models/huggingface-blog-ai-residency.md)

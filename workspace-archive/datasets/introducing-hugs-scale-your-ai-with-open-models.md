@@ -3,6 +3,7 @@ title: Introducing HUGS - Scale your AI with Open Models
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hugs
+resource_id: blog:introducing-hugs-scale-your-ai-with-open-models
 local_vault_path: ai/models/huggingface-blog-hugs.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-hugs-scale-your-ai-with-open-models
 ---
-
-
 
 # Introducing HUGS - Scale your AI with Open Models
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugs
 
 ## Local Vault File
 
-Path: [introducing-hugs-scale-your-ai-with-open-models-f2ad5c.md](file:///../../ai/models/huggingface-blog-hugs.md)
+Path: [huggingface-blog-hugs.md](file:///../../ai/models/huggingface-blog-hugs.md)

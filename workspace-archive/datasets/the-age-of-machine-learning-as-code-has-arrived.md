@@ -3,6 +3,7 @@ title: The Age of Machine Learning As Code Has Arrived
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/the-age-of-ml-as-code
+resource_id: blog:the-age-of-machine-learning-as-code-has-arrived
 local_vault_path: ai/models/huggingface-blog-the-age-of-ml-as-code.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-age-of-machine-learning-as-code-has-arrived
 ---
-
-
 
 # The Age of Machine Learning As Code Has Arrived
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-age-of-ml-as-code
 
 ## Local Vault File
 
-Path: [the-age-of-machine-learning-as-code-has-arrived-655110.md](file:///../../ai/models/huggingface-blog-the-age-of-ml-as-code.md)
+Path: [huggingface-blog-the-age-of-ml-as-code.md](file:///../../ai/models/huggingface-blog-the-age-of-ml-as-code.md)

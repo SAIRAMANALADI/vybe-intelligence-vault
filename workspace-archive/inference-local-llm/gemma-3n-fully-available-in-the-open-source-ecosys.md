@@ -3,6 +3,7 @@ title: Gemma 3n fully available in the open-source ecosystem!
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma3n
+resource_id: blog:gemma-3n-fully-available-in-the-open-source-ecosys
 local_vault_path: ai/models/huggingface-blog-gemma3n.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:gemma-3n-fully-available-in-the-open-source-ecosys
 ---
-
 
 # Gemma 3n fully available in the open-source ecosystem!
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma3n
 
 ## Local Vault File
 
-Path: [gemma-3n-fully-available-in-the-open-source-ecosystem-1c1fde.md](file:///../../ai/models/huggingface-blog-gemma3n.md)
+Path: [huggingface-blog-gemma3n.md](file:///../../ai/models/huggingface-blog-gemma3n.md)

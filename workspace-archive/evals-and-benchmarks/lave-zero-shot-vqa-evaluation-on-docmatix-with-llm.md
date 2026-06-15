@@ -3,6 +3,7 @@ title: 'LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need 
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-shot-vqa-docmatix
+resource_id: blog:lave-zero-shot-vqa-evaluation-on-docmatix-with-llm
 local_vault_path: ai/models/huggingface-blog-zero-shot-vqa-docmatix.md
 quality_score: 70
 archive_score: 74
@@ -15,9 +16,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:lave-zero-shot-vqa-evaluation-on-docmatix-with-llm
 ---
-
 
 # LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
 
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-vqa-docmatix
 
 ## Local Vault File
 
-Path: [lave-zero-shot-vqa-evaluation-on-docmatix-with-llms-do-we-still-need-fine-tuning-df079e.md](file:///../../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
+Path: [huggingface-blog-zero-shot-vqa-docmatix.md](file:///../../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)

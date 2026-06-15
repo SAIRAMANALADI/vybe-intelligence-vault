@@ -3,6 +3,7 @@ title: State of open video generation models in Diffusers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/video_gen
+resource_id: blog:state-of-open-video-generation-models-in-diffusers
 local_vault_path: ai/models/huggingface-blog-video-gen.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - youtube
 selection_reason:
 - Valuable developer reference
-resource_id: blog:state-of-open-video-generation-models-in-diffusers
 ---
-
-
 
 # State of open video generation models in Diffusers
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/video_gen
 
 ## Local Vault File
 
-Path: [state-of-open-video-generation-models-in-diffusers-0c935b.md](file:///../../ai/models/huggingface-blog-video-gen.md)
+Path: [huggingface-blog-video-gen.md](file:///../../ai/models/huggingface-blog-video-gen.md)

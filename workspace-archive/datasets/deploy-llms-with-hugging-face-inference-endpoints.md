@@ -3,6 +3,7 @@ title: Deploy LLMs with Hugging Face Inference Endpoints
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-endpoints-llm
+resource_id: blog:deploy-llms-with-hugging-face-inference-endpoints
 local_vault_path: ai/models/huggingface-blog-inference-endpoints-llm.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploy-llms-with-hugging-face-inference-endpoints
 ---
-
-
 
 # Deploy LLMs with Hugging Face Inference Endpoints
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-llm
 
 ## Local Vault File
 
-Path: [deploy-llms-with-hugging-face-inference-endpoints-871c5e.md](file:///../../ai/models/huggingface-blog-inference-endpoints-llm.md)
+Path: [huggingface-blog-inference-endpoints-llm.md](file:///../../ai/models/huggingface-blog-inference-endpoints-llm.md)

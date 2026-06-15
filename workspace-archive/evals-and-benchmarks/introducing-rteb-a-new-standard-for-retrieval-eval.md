@@ -3,6 +3,7 @@ title: 'Introducing RTEB: A New Standard for Retrieval Evaluation'
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/rteb
+resource_id: blog:introducing-rteb-a-new-standard-for-retrieval-eval
 local_vault_path: ai/models/huggingface-blog-rteb.md
 quality_score: 70
 archive_score: 74
@@ -14,9 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:introducing-rteb-a-new-standard-for-retrieval-eval
 ---
-
 
 # Introducing RTEB: A New Standard for Retrieval Evaluation
 
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/rteb
 
 ## Local Vault File
 
-Path: [introducing-rteb-a-new-standard-for-retrieval-evaluation-54784c.md](file:///../../ai/models/huggingface-blog-rteb.md)
+Path: [huggingface-blog-rteb.md](file:///../../ai/models/huggingface-blog-rteb.md)

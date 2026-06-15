@@ -15,9 +15,11 @@ tags:
 - agents
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:the-ai-agent-in-the-billing-department-of-verizon
+last_seen: '2026-06-11T14:00:58.590961+00:00'
 ---
+
 
 
 # The AI Agent in the Billing Department of Verizon Is a Mentally Handicapped Thug

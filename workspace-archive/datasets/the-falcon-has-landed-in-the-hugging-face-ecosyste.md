@@ -3,6 +3,7 @@ title: The Falcon has landed in the Hugging Face ecosystem
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon
+resource_id: blog:the-falcon-has-landed-in-the-hugging-face-ecosyste
 local_vault_path: ai/models/huggingface-blog-falcon.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-falcon-has-landed-in-the-hugging-face-ecosyste
 ---
-
 
 # The Falcon has landed in the Hugging Face ecosystem
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [the-falcon-has-landed-in-the-hugging-face-ecosystem-c51c1a.md](file:///../../ai/models/huggingface-blog-falcon.md)
+Path: [huggingface-blog-falcon.md](file:///../../ai/models/huggingface-blog-falcon.md)

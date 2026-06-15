@@ -3,6 +3,7 @@ title: 'Open Responses: What you need to know'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-responses
+resource_id: blog:open-responses-what-you-need-to-know
 local_vault_path: ai/models/huggingface-blog-open-responses.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:open-responses-what-you-need-to-know
 ---
-
-
 
 # Open Responses: What you need to know
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-responses
 
 ## Local Vault File
 
-Path: [open-responses-what-you-need-to-know-f04c2f.md](file:///../../ai/models/huggingface-blog-open-responses.md)
+Path: [huggingface-blog-open-responses.md](file:///../../ai/models/huggingface-blog-open-responses.md)

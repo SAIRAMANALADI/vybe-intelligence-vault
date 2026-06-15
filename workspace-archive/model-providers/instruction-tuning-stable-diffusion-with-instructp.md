@@ -3,6 +3,7 @@ title: Instruction-tuning Stable Diffusion with InstructPix2Pix
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/instruction-tuning-sd
+resource_id: blog:instruction-tuning-stable-diffusion-with-instructp
 local_vault_path: ai/models/huggingface-blog-instruction-tuning-sd.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:instruction-tuning-stable-diffusion-with-instructp
 ---
-
 
 # Instruction-tuning Stable Diffusion with InstructPix2Pix
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/instruction-tuning-sd
 
 ## Local Vault File
 
-Path: [instruction-tuning-stable-diffusion-with-instructpix2pix-d1d4e8.md](file:///../../ai/models/huggingface-blog-instruction-tuning-sd.md)
+Path: [huggingface-blog-instruction-tuning-sd.md](file:///../../ai/models/huggingface-blog-instruction-tuning-sd.md)

@@ -2,7 +2,7 @@
 title: Jpisnice/shadcn-ui-mcp-server
 archive_category: mcp-registry
 source_category: web-development/shadcn-ui
-source_url: https://github.com/Jpisnice/shadcn-ui-mcp-server
+source_url: https://github.com/jpisnice/shadcn-ui-mcp-server
 resource_id: github:jpisnice/shadcn-ui-mcp-server
 local_vault_path: web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md
 quality_score: 70
@@ -40,7 +40,7 @@ A mcp server to allow LLMS gain context about shadcn ui component structure,usag
 
 ## Source
 
-Original source URL: https://github.com/Jpisnice/shadcn-ui-mcp-server
+Original source URL: https://github.com/jpisnice/shadcn-ui-mcp-server
 
 ## Local Vault File
 

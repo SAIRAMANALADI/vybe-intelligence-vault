@@ -2,7 +2,7 @@
 title: Orillusion/orillusion
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/Orillusion/orillusion
+source_url: https://github.com/orillusion/orillusion
 resource_id: github:orillusion/orillusion
 local_vault_path: web-development/webgpu/orillusion-orillusion.md
 quality_score: 70
@@ -40,7 +40,7 @@ Orillusion is a pure Web3D rendering engine which is fully developed based on th
 
 ## Source
 
-Original source URL: https://github.com/Orillusion/orillusion
+Original source URL: https://github.com/orillusion/orillusion
 
 ## Local Vault File
 

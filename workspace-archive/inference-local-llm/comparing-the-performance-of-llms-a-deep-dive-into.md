@@ -3,21 +3,21 @@ title: 'Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, an
   Mistral for Disaster Tweets Analysis with Lora'
 archive_category: inference-local-llm
 source_category: ai/models
-source_url: https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral
+source_url: https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral
+resource_id: blog:comparing-the-performance-of-llms-a-deep-dive-into
 local_vault_path: ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 tags:
+- meta-ai
+- mistral
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:comparing-the-performance-of-llms-a-deep-dive-into
 ---
-
-
 
 # Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
 
@@ -25,7 +25,7 @@ resource_id: blog:comparing-the-performance-of-llms-a-deep-dive-into
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -41,8 +41,8 @@ No summary provided. Reference resource: Comparing the Performance of LLMs: A De
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral
+Original source URL: https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral
 
 ## Local Vault File
 
-Path: [comparing-the-performance-of-llms-a-deep-dive-into-roberta-llama-2-and-mistral-f-8e1956.md](file:///../../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md)
+Path: [huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md](file:///../../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md)

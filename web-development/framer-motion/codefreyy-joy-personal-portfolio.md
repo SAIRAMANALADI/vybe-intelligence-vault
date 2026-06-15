@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/codefreyy/joy-personal-portfolio
-collected_at: '2026-06-12T10:40:18.782977+00:00'
+collected_at: '2026-06-15T06:04:17.304207+00:00'
 published_at: '2026-05-07T13:56:31Z'
 tags:
 - animation
@@ -13,26 +13,12 @@ tags:
 stars: 186
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:18.782977+00:00'
-last_seen: '2026-06-12T10:40:18.782977+00:00'
 resource_id: github:codefreyy/joy-personal-portfolio
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 91
-change_history:
-- timestamp: '2026-06-12T10:40:18.782977+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 33.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 33
-archived: false
+first_seen: '2026-06-12T10:40:18.782977+00:00'
+last_seen: '2026-06-15T06:04:17.304207+00:00'
+last_checked: '2026-06-15T06:04:17.304207+00:00'
+health_score: 100
 ---
-
-
 
 # Codefreyy/joy-personal-portfolio
 

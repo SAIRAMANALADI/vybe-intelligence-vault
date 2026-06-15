@@ -3,6 +3,7 @@ title: How 🤗 Accelerate runs very large models thanks to PyTorch
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-large-models
+resource_id: blog:how-accelerate-runs-very-large-models-thanks-to-py
 local_vault_path: ai/models/huggingface-blog-accelerate-large-models.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-accelerate-runs-very-large-models-thanks-to-py
 ---
-
 
 # How 🤗 Accelerate runs very large models thanks to PyTorch
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-large-models
 
 ## Local Vault File
 
-Path: [how-accelerate-runs-very-large-models-thanks-to-pytorch-e9d0f1.md](file:///../../ai/models/huggingface-blog-accelerate-large-models.md)
+Path: [huggingface-blog-accelerate-large-models.md](file:///../../ai/models/huggingface-blog-accelerate-large-models.md)

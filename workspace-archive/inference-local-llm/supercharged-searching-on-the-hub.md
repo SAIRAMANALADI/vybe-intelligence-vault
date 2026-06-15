@@ -3,6 +3,7 @@ title: Supercharged Searching on the 🤗 Hub
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/searching-the-hub
+resource_id: blog:supercharged-searching-on-the-hub
 local_vault_path: ai/models/huggingface-blog-searching-the-hub.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:supercharged-searching-on-the-hub
 ---
-
-
 
 # Supercharged Searching on the 🤗 Hub
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/searching-the-hub
 
 ## Local Vault File
 
-Path: [supercharged-searching-on-the-hub-095436.md](file:///../../ai/models/huggingface-blog-searching-the-hub.md)
+Path: [huggingface-blog-searching-the-hub.md](file:///../../ai/models/huggingface-blog-searching-the-hub.md)

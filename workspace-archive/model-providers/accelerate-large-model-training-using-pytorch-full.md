@@ -3,6 +3,7 @@ title: Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch-fsdp
+resource_id: blog:accelerate-large-model-training-using-pytorch-full
 local_vault_path: ai/models/huggingface-blog-pytorch-fsdp.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerate-large-model-training-using-pytorch-full
 ---
-
 
 # Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-fsdp
 
 ## Local Vault File
 
-Path: [accelerate-large-model-training-using-pytorch-fully-sharded-data-parallel-607a8c.md](file:///../../ai/models/huggingface-blog-pytorch-fsdp.md)
+Path: [huggingface-blog-pytorch-fsdp.md](file:///../../ai/models/huggingface-blog-pytorch-fsdp.md)

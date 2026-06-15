@@ -3,6 +3,7 @@ title: New ViT and ALIGN Models From Kakao Brain
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/vit-align
+resource_id: blog:new-vit-and-align-models-from-kakao-brain
 local_vault_path: ai/models/huggingface-blog-vit-align.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:new-vit-and-align-models-from-kakao-brain
 ---
-
-
 
 # New ViT and ALIGN Models From Kakao Brain
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vit-align
 
 ## Local Vault File
 
-Path: [new-vit-and-align-models-from-kakao-brain-7fa755.md](file:///../../ai/models/huggingface-blog-vit-align.md)
+Path: [huggingface-blog-vit-align.md](file:///../../ai/models/huggingface-blog-vit-align.md)

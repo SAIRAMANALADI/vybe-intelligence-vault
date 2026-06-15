@@ -3,6 +3,7 @@ title: Bringing serverless GPU inference to Hugging Face users
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cloudflare-workers-ai
+resource_id: blog:bringing-serverless-gpu-inference-to-hugging-face
 local_vault_path: ai/models/huggingface-blog-cloudflare-workers-ai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:bringing-serverless-gpu-inference-to-hugging-face
 ---
-
-
 
 # Bringing serverless GPU inference to Hugging Face users
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [bringing-serverless-gpu-inference-to-hugging-face-users-4a4b56.md](file:///../../ai/models/huggingface-blog-cloudflare-workers-ai.md)
+Path: [huggingface-blog-cloudflare-workers-ai.md](file:///../../ai/models/huggingface-blog-cloudflare-workers-ai.md)

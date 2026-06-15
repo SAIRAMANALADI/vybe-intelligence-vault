@@ -4,6 +4,7 @@ title: Unlocking the conversion of Web Screenshots into HTML Code with the WebSi
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/websight
+resource_id: blog:unlocking-the-conversion-of-web-screenshots-into-h
 local_vault_path: ai/models/huggingface-blog-websight.md
 quality_score: 70
 archive_score: 70
@@ -14,9 +15,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:unlocking-the-conversion-of-web-screenshots-into-h
 ---
-
 
 # Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/websight
 
 ## Local Vault File
 
-Path: [unlocking-the-conversion-of-web-screenshots-into-html-code-with-the-websight-dat-d3c614.md](file:///../../ai/models/huggingface-blog-websight.md)
+Path: [huggingface-blog-websight.md](file:///../../ai/models/huggingface-blog-websight.md)

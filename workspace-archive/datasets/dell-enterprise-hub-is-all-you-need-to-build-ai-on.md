@@ -3,6 +3,7 @@ title: Dell Enterprise Hub is all you need to build AI on premises
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/dell-ai-applications
+resource_id: blog:dell-enterprise-hub-is-all-you-need-to-build-ai-on
 local_vault_path: ai/models/huggingface-blog-dell-ai-applications.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:dell-enterprise-hub-is-all-you-need-to-build-ai-on
 ---
-
-
 
 # Dell Enterprise Hub is all you need to build AI on premises
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dell-ai-applications
 
 ## Local Vault File
 
-Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on-premises-979866.md](file:///../../ai/models/huggingface-blog-dell-ai-applications.md)
+Path: [huggingface-blog-dell-ai-applications.md](file:///../../ai/models/huggingface-blog-dell-ai-applications.md)

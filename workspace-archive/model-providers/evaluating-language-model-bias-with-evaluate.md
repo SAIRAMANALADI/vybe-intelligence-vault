@@ -3,6 +3,7 @@ title: Evaluating Language Model Bias with 🤗 Evaluate
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/evaluating-llm-bias
+resource_id: blog:evaluating-language-model-bias-with-evaluate
 local_vault_path: ai/models/huggingface-blog-evaluating-llm-bias.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: benchmark
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:evaluating-language-model-bias-with-evaluate
 ---
-
-
 
 # Evaluating Language Model Bias with 🤗 Evaluate
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/evaluating-llm-bias
 
 ## Local Vault File
 
-Path: [evaluating-language-model-bias-with-evaluate-8a6c71.md](file:///../../ai/models/huggingface-blog-evaluating-llm-bias.md)
+Path: [huggingface-blog-evaluating-llm-bias.md](file:///../../ai/models/huggingface-blog-evaluating-llm-bias.md)

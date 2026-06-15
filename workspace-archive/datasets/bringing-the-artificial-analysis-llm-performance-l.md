@@ -3,6 +3,7 @@ title: Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging F
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-artificial-analysis
+resource_id: blog:bringing-the-artificial-analysis-llm-performance-l
 local_vault_path: ai/models/huggingface-blog-leaderboard-artificial-analysis.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:bringing-the-artificial-analysis-llm-performance-l
 ---
-
 
 # Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [bringing-the-artificial-analysis-llm-performance-leaderboard-to-hugging-face-464a96.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis.md)
+Path: [huggingface-blog-leaderboard-artificial-analysis.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis.md)

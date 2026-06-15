@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/vit-align
-published_at: '2023-03-06T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.821426+00:00'
+published_at: '2023-03-05T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.279236+00:00'
 tags: []
 status: active
+resource_id: blog:new-vit-and-align-models-from-kakao-brain
 first_seen: '2026-06-12T10:40:08.821426+00:00'
-last_seen: '2026-06-12T10:40:08.821426+00:00'
-resource_id: huggingface:blog/vit-align
+last_seen: '2026-06-15T06:03:50.279236+00:00'
+last_checked: '2026-06-15T06:03:50.279236+00:00'
+health_score: 100
 ---
-
 
 # New ViT and ALIGN Models From Kakao Brain
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-03-06T00:00:00+00:00
+- Published: 2023-03-05T18:30:00+00:00
 
 ## Related Tags
 

@@ -3,6 +3,7 @@ title: Scaling up BERT-like model Inference on modern CPU - Part 2
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-cpu-scaling-part-2
+resource_id: blog:scaling-up-bert-like-model-inference-on-modern-cpu
 local_vault_path: ai/models/huggingface-blog-bert-cpu-scaling-part-2.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:scaling-up-bert-like-model-inference-on-modern-cpu
 ---
-
-
 
 # Scaling up BERT-like model Inference on modern CPU - Part 2
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-cpu-scaling-part-2
 
 ## Local Vault File
 
-Path: [scaling-up-bert-like-model-inference-on-modern-cpu-part-2-e2781e.md](file:///../../ai/models/huggingface-blog-bert-cpu-scaling-part-2.md)
+Path: [huggingface-blog-bert-cpu-scaling-part-2.md](file:///../../ai/models/huggingface-blog-bert-cpu-scaling-part-2.md)

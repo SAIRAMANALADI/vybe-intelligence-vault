@@ -3,6 +3,7 @@ title: Rearchitecting Hugging Face Uploads and Downloads
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/rearchitecting-uploads-and-downloads
+resource_id: blog:rearchitecting-hugging-face-uploads-and-downloads
 local_vault_path: ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:rearchitecting-hugging-face-uploads-and-downloads
 ---
-
-
 
 # Rearchitecting Hugging Face Uploads and Downloads
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rearchitecting-uploads-and-down
 
 ## Local Vault File
 
-Path: [rearchitecting-hugging-face-uploads-and-downloads-37e186.md](file:///../../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md)
+Path: [huggingface-blog-rearchitecting-uploads-and-downloads.md](file:///../../ai/models/huggingface-blog-rearchitecting-uploads-and-downloads.md)

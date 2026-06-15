@@ -4,19 +4,20 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/emmelleppi/codrops-r3f-mirrors
-collected_at: '2026-06-12T10:40:15.865418+00:00'
-published_at: '2026-03-06T07:16:55Z'
+collected_at: '2026-06-15T06:04:12.610251+00:00'
+published_at: '2026-06-13T16:08:03Z'
 tags:
 - frontend_ui
 - threejs
-stars: 143
+stars: 144
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:15.865418+00:00'
-last_seen: '2026-06-12T10:40:15.865418+00:00'
 resource_id: github:emmelleppi/codrops-r3f-mirrors
+first_seen: '2026-06-12T10:40:15.865418+00:00'
+last_seen: '2026-06-15T06:04:12.610251+00:00'
+last_checked: '2026-06-15T06:04:12.610251+00:00'
+health_score: 100
 ---
-
 
 # emmelleppi/codrops-r3f-mirrors
 
@@ -31,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: emmelleppi
-- Stars: 143
+- Stars: 144
 - Forks: 41
 - Language: JavaScript
 - Topics: cannonjs, drei, javascript, react, react-three-fiber, reactjs, three-js, threejs
-- Last Updated: 2026-03-06T07:16:55Z
+- Last Updated: 2026-06-13T16:08:03Z
 
 ## Possible Use Cases
 

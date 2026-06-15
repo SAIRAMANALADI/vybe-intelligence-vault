@@ -3,19 +3,17 @@ title: Improving Hugging Face Training Efficiency Through Packing with Flash Att
   2
 archive_category: model-providers
 source_category: ai/models
-source_url: https://huggingface.co/blog/packing-with-FA2
+source_url: https://huggingface.co/blog/packing-with-fa2
+resource_id: blog:improving-hugging-face-training-efficiency-through
 local_vault_path: ai/models/huggingface-blog-packing-with-fa2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:improving-hugging-face-training-efficiency-through
 ---
-
-
 
 # Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2
 
@@ -23,7 +21,7 @@ resource_id: blog:improving-hugging-face-training-efficiency-through
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -39,8 +37,8 @@ No summary provided. Reference resource: Improving Hugging Face Training Efficie
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/packing-with-FA2
+Original source URL: https://huggingface.co/blog/packing-with-fa2
 
 ## Local Vault File
 
-Path: [improving-hugging-face-training-efficiency-through-packing-with-flash-attention-34fd11.md](file:///../../ai/models/huggingface-blog-packing-with-fa2.md)
+Path: [huggingface-blog-packing-with-fa2.md](file:///../../ai/models/huggingface-blog-packing-with-fa2.md)

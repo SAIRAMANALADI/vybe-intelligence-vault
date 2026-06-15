@@ -4,6 +4,7 @@ title: How good are LLMs at fixing their mistakes? A chatbot arena experiment wi
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/keras-chatbot-arena
+resource_id: blog:how-good-are-llms-at-fixing-their-mistakes-a-chatb
 local_vault_path: ai/models/huggingface-blog-keras-chatbot-arena.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-good-are-llms-at-fixing-their-mistakes-a-chatb
 ---
-
 
 # How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/keras-chatbot-arena
 
 ## Local Vault File
 
-Path: [how-good-are-llms-at-fixing-their-mistakes-a-chatbot-arena-experiment-with-keras-194651.md](file:///../../ai/models/huggingface-blog-keras-chatbot-arena.md)
+Path: [huggingface-blog-keras-chatbot-arena.md](file:///../../ai/models/huggingface-blog-keras-chatbot-arena.md)

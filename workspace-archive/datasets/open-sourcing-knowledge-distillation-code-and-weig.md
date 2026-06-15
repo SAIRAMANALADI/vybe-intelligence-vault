@@ -3,6 +3,7 @@ title: Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sd_distillation
+resource_id: blog:open-sourcing-knowledge-distillation-code-and-weig
 local_vault_path: ai/models/huggingface-blog-sd-distillation.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:open-sourcing-knowledge-distillation-code-and-weig
 ---
-
 
 # Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sd_distillation
 
 ## Local Vault File
 
-Path: [open-sourcing-knowledge-distillation-code-and-weights-of-sd-small-and-sd-tiny-1b1fea.md](file:///../../ai/models/huggingface-blog-sd-distillation.md)
+Path: [huggingface-blog-sd-distillation.md](file:///../../ai/models/huggingface-blog-sd-distillation.md)

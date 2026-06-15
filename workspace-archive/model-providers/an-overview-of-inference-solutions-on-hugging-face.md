@@ -3,6 +3,7 @@ title: An overview of inference solutions on Hugging Face
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-update
+resource_id: blog:an-overview-of-inference-solutions-on-hugging-face
 local_vault_path: ai/models/huggingface-blog-inference-update.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:an-overview-of-inference-solutions-on-hugging-face
 ---
-
-
 
 # An overview of inference solutions on Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [an-overview-of-inference-solutions-on-hugging-face-3cf11b.md](file:///../../ai/models/huggingface-blog-inference-update.md)
+Path: [huggingface-blog-inference-update.md](file:///../../ai/models/huggingface-blog-inference-update.md)

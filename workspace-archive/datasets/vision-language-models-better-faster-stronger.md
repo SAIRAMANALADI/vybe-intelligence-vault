@@ -3,6 +3,7 @@ title: Vision Language Models (Better, faster, stronger)
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/vlms-2025
+resource_id: blog:vision-language-models-better-faster-stronger
 local_vault_path: ai/models/huggingface-blog-vlms-2025.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:vision-language-models-better-faster-stronger
 ---
-
-
 
 # Vision Language Models (Better, faster, stronger)
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vlms-2025
 
 ## Local Vault File
 
-Path: [vision-language-models-better-faster-stronger-162982.md](file:///../../ai/models/huggingface-blog-vlms-2025.md)
+Path: [huggingface-blog-vlms-2025.md](file:///../../ai/models/huggingface-blog-vlms-2025.md)

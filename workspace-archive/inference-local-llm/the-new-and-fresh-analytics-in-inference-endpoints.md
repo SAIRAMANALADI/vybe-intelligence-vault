@@ -3,6 +3,7 @@ title: The New and Fresh analytics in Inference Endpoints
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/endpoint-analytics
+resource_id: blog:the-new-and-fresh-analytics-in-inference-endpoints
 local_vault_path: ai/models/huggingface-blog-endpoint-analytics.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-new-and-fresh-analytics-in-inference-endpoints
 ---
-
-
 
 # The New and Fresh analytics in Inference Endpoints
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/endpoint-analytics
 
 ## Local Vault File
 
-Path: [the-new-and-fresh-analytics-in-inference-endpoints-75e5bf.md](file:///../../ai/models/huggingface-blog-endpoint-analytics.md)
+Path: [huggingface-blog-endpoint-analytics.md](file:///../../ai/models/huggingface-blog-endpoint-analytics.md)

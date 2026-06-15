@@ -4,6 +4,7 @@ title: Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Fr
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-livecodebench
+resource_id: blog:introducing-the-livecodebench-leaderboard-holistic
 local_vault_path: ai/models/huggingface-blog-leaderboard-livecodebench.md
 quality_score: 70
 archive_score: 74
@@ -16,10 +17,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:introducing-the-livecodebench-leaderboard-holistic
 ---
-
-
 
 # Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs
 
@@ -48,4 +46,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-livecodebench
 
 ## Local Vault File
 
-Path: [introducing-the-livecodebench-leaderboard-holistic-and-contamination-free-evalua-074e0c.md](file:///../../ai/models/huggingface-blog-leaderboard-livecodebench.md)
+Path: [huggingface-blog-leaderboard-livecodebench.md](file:///../../ai/models/huggingface-blog-leaderboard-livecodebench.md)

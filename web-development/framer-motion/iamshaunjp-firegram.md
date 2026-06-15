@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/iamshaunjp/firegram
-collected_at: '2026-06-12T10:40:18.782957+00:00'
+collected_at: '2026-06-15T06:04:17.304184+00:00'
 published_at: '2025-09-20T14:22:38Z'
 tags:
 - animation
@@ -13,26 +13,12 @@ tags:
 stars: 302
 language: Unknown
 status: active
-first_seen: '2026-06-12T10:40:18.782957+00:00'
-last_seen: '2026-06-12T10:40:18.782957+00:00'
 resource_id: github:iamshaunjp/firegram
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 62
-change_history:
-- timestamp: '2026-06-12T10:40:18.782957+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 243.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 243
-archived: false
+first_seen: '2026-06-12T10:40:18.782957+00:00'
+last_seen: '2026-06-15T06:04:17.304184+00:00'
+last_checked: '2026-06-15T06:04:17.304184+00:00'
+health_score: 100
 ---
-
-
 
 # iamshaunjp/firegram
 
@@ -48,7 +34,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: iamshaunjp
 - Stars: 302
-- Forks: 243
+- Forks: 244
 - Language: Unknown
 - Topics: None
 - Last Updated: 2025-09-20T14:22:38Z

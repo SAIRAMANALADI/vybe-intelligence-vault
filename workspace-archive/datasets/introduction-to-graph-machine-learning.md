@@ -3,6 +3,7 @@ title: Introduction to Graph Machine Learning
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/intro-graphml
+resource_id: blog:introduction-to-graph-machine-learning
 local_vault_path: ai/models/huggingface-blog-intro-graphml.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introduction-to-graph-machine-learning
 ---
-
-
 
 # Introduction to Graph Machine Learning
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intro-graphml
 
 ## Local Vault File
 
-Path: [introduction-to-graph-machine-learning-b9e8dd.md](file:///../../ai/models/huggingface-blog-intro-graphml.md)
+Path: [huggingface-blog-intro-graphml.md](file:///../../ai/models/huggingface-blog-intro-graphml.md)

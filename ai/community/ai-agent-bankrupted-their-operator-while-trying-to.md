@@ -14,11 +14,12 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 first_seen: '2026-06-12T10:40:22.162211+00:00'
 last_seen: '2026-06-12T10:40:22.162211+00:00'
 resource_id: hackernews:ai-agent-bankrupted-their-operator-while-trying-to
 ---
+
 
 
 # AI agent bankrupted their operator while trying to scan DN42

@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/eu-ai-act-oss
-published_at: '2023-07-24T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.820069+00:00'
+published_at: '2023-07-23T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.278500+00:00'
 tags: []
 status: active
+resource_id: blog:ai-policy-open-ml-considerations-in-the-eu-ai-act
 first_seen: '2026-06-12T10:40:08.820069+00:00'
-last_seen: '2026-06-12T10:40:08.820069+00:00'
-resource_id: huggingface:blog/eu-ai-act-oss
+last_seen: '2026-06-15T06:03:50.278500+00:00'
+last_checked: '2026-06-15T06:03:50.278500+00:00'
+health_score: 100
 ---
-
 
 # AI Policy @🤗: Open ML Considerations in the EU AI Act
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-07-24T00:00:00+00:00
+- Published: 2023-07-23T18:30:00+00:00
 
 ## Related Tags
 

@@ -3,6 +3,7 @@ title: Hugging Face models in Amazon Bedrock
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bedrock-marketplace
+resource_id: blog:hugging-face-models-in-amazon-bedrock
 local_vault_path: ai/models/huggingface-blog-bedrock-marketplace.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-models-in-amazon-bedrock
 ---
-
-
 
 # Hugging Face models in Amazon Bedrock
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bedrock-marketplace
 
 ## Local Vault File
 
-Path: [hugging-face-models-in-amazon-bedrock-fc4268.md](file:///../../ai/models/huggingface-blog-bedrock-marketplace.md)
+Path: [huggingface-blog-bedrock-marketplace.md](file:///../../ai/models/huggingface-blog-bedrock-marketplace.md)

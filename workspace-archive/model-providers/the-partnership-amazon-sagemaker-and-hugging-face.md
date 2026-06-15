@@ -3,6 +3,7 @@ title: 'The Partnership: Amazon SageMaker and Hugging Face'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face
+resource_id: blog:the-partnership-amazon-sagemaker-and-hugging-face
 local_vault_path: ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-partnership-amazon-sagemaker-and-hugging-face
 ---
-
-
 
 # The Partnership: Amazon SageMaker and Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-partnership-amazon-sagemake
 
 ## Local Vault File
 
-Path: [the-partnership-amazon-sagemaker-and-hugging-face-413c5a.md](file:///../../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md)
+Path: [huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md](file:///../../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md)

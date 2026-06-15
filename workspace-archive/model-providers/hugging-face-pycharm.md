@@ -3,6 +3,7 @@ title: Hugging Face + PyCharm
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/pycharm-integration
+resource_id: blog:hugging-face-pycharm
 local_vault_path: ai/models/huggingface-blog-pycharm-integration.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-pycharm
 ---
-
-
 
 # Hugging Face + PyCharm
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pycharm-integration
 
 ## Local Vault File
 
-Path: [hugging-face-pycharm-77a86d.md](file:///../../ai/models/huggingface-blog-pycharm-integration.md)
+Path: [huggingface-blog-pycharm-integration.md](file:///../../ai/models/huggingface-blog-pycharm-integration.md)

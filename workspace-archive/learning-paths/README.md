@@ -14,6 +14,7 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) (tutorial - USEFUL Tier)
 - [Top LLM Observability platforms 2025](https://agenta.ai/blog/top-llm-observability-platforms) (dataset - USEFUL Tier)
 - [Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data](https://arxiv.org/abs/2606.11272) (benchmark - USEFUL Tier)
+- [Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](https://arxiv.org/abs/2606.14350) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -34,4 +35,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

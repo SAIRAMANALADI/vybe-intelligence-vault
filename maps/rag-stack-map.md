@@ -10,8 +10,8 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
-*   [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
+*   [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+*   [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
 *   [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 *   [enesien/venefish](https://github.com/enesien/venefish)
 *   [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)

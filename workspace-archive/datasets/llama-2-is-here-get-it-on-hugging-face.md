@@ -3,6 +3,7 @@ title: Llama 2 is here - get it on Hugging Face
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama2
+resource_id: blog:llama-2-is-here-get-it-on-hugging-face
 local_vault_path: ai/models/huggingface-blog-llama2.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:llama-2-is-here-get-it-on-hugging-face
 ---
-
-
 
 # Llama 2 is here - get it on Hugging Face
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2
 
 ## Local Vault File
 
-Path: [llama-2-is-here-get-it-on-hugging-face-a5828f.md](file:///../../ai/models/huggingface-blog-llama2.md)
+Path: [huggingface-blog-llama2.md](file:///../../ai/models/huggingface-blog-llama2.md)

@@ -3,6 +3,7 @@ title: Launching the Artificial Analysis Text to Image Leaderboard & Arena
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-artificial-analysis2
+resource_id: blog:launching-the-artificial-analysis-text-to-image-le
 local_vault_path: ai/models/huggingface-blog-leaderboard-artificial-analysis2.md
 quality_score: 70
 archive_score: 70
@@ -14,9 +15,7 @@ tags:
 - producthunt
 selection_reason:
 - Valuable developer reference
-resource_id: blog:launching-the-artificial-analysis-text-to-image-le
 ---
-
 
 # Launching the Artificial Analysis Text to Image Leaderboard & Arena
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [launching-the-artificial-analysis-text-to-image-leaderboard-arena-5b966d.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
+Path: [huggingface-blog-leaderboard-artificial-analysis2.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)

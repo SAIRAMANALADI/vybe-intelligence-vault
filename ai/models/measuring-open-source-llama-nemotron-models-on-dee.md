@@ -5,13 +5,17 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-portable-deep-research-agent
 published_at: '2025-08-04T14:21:50+00:00'
-collected_at: '2026-06-11T08:37:58.324933+00:00'
+collected_at: '2026-06-15T06:03:50.270425+00:00'
 tags:
+- meta-ai
 - models
-status: new
+status: active
 resource_id: blog:measuring-open-source-llama-nemotron-models-on-dee
+first_seen: '2026-06-11T08:37:58.324933+00:00'
+last_seen: '2026-06-15T06:03:50.270425+00:00'
+last_checked: '2026-06-15T06:03:50.270425+00:00'
+health_score: 100
 ---
-
 
 # Measuring Open-Source Llama Nemotron Models on DeepResearch Bench
 
@@ -21,20 +25,17 @@ No summary provided. Reference resource: Measuring Open-Source Llama Nemotron Mo
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
 - Published: 2025-08-04T14:21:50+00:00
 
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
-
 ## Related Tags
 
+- meta-ai
 - models
 
 ## Source

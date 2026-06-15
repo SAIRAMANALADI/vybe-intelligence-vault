@@ -3,6 +3,7 @@ title: Deploy Embedding Models with Hugging Face Inference Endpoints
 archive_category: rag-systems
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-endpoints-embeddings
+resource_id: blog:deploy-embedding-models-with-hugging-face-inferenc
 local_vault_path: ai/models/huggingface-blog-inference-endpoints-embeddings.md
 quality_score: 70
 archive_score: 72
@@ -12,9 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:deploy-embedding-models-with-hugging-face-inferenc
 ---
-
 
 # Deploy Embedding Models with Hugging Face Inference Endpoints
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-embeddings
 
 ## Local Vault File
 
-Path: [deploy-embedding-models-with-hugging-face-inference-endpoints-2034ad.md](file:///../../ai/models/huggingface-blog-inference-endpoints-embeddings.md)
+Path: [huggingface-blog-inference-endpoints-embeddings.md](file:///../../ai/models/huggingface-blog-inference-endpoints-embeddings.md)

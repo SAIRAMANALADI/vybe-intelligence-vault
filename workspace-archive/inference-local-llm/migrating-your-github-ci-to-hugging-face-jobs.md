@@ -3,6 +3,7 @@ title: Migrating Your GitHub CI to Hugging Face Jobs
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/github-ci-hf-jobs
+resource_id: blog:migrating-your-github-ci-to-hugging-face-jobs
 local_vault_path: ai/models/huggingface-blog-github-ci-hf-jobs.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:migrating-your-github-ci-to-hugging-face-jobs
 ---
-
-
 
 # Migrating Your GitHub CI to Hugging Face Jobs
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [migrating-your-github-ci-to-hugging-face-jobs-eb3e2d.md](file:///../../ai/models/huggingface-blog-github-ci-hf-jobs.md)
+Path: [huggingface-blog-github-ci-hf-jobs.md](file:///../../ai/models/huggingface-blog-github-ci-hf-jobs.md)

@@ -3,6 +3,7 @@ title: Constitutional AI with Open LLMs
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/constitutional_ai
+resource_id: blog:constitutional-ai-with-open-llms
 local_vault_path: ai/models/huggingface-blog-constitutional-ai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:constitutional-ai-with-open-llms
 ---
-
-
 
 # Constitutional AI with Open LLMs
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/constitutional_ai
 
 ## Local Vault File
 
-Path: [constitutional-ai-with-open-llms-5e16a2.md](file:///../../ai/models/huggingface-blog-constitutional-ai.md)
+Path: [huggingface-blog-constitutional-ai.md](file:///../../ai/models/huggingface-blog-constitutional-ai.md)

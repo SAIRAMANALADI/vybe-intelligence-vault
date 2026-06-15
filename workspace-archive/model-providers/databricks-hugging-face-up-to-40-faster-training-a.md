@@ -4,6 +4,7 @@ title: 'Databricks ❤️ Hugging Face: up to 40% faster training and tuning of 
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/databricks-case-study
+resource_id: blog:databricks-hugging-face-up-to-40-faster-training-a
 local_vault_path: ai/models/huggingface-blog-databricks-case-study.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:databricks-hugging-face-up-to-40-faster-training-a
 ---
-
 
 # Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/databricks-case-study
 
 ## Local Vault File
 
-Path: [databricks-hugging-face-up-to-40-faster-training-and-tuning-of-large-language-mo-696fab.md](file:///../../ai/models/huggingface-blog-databricks-case-study.md)
+Path: [huggingface-blog-databricks-case-study.md](file:///../../ai/models/huggingface-blog-databricks-case-study.md)

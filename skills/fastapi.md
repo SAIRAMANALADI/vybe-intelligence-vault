@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 21 resources matched in the intelligence vault.
+Active signals: 25 resources matched in the intelligence vault.
 Recently detected signals:
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Accelerating LLM Inference with TGI on Intel Gaudi](../ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Exploring Quantization Backends in Diffusers](../ai/models/huggingface-blog-diffusers-quantization.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Transformers backend integration in SGLang](../ai/models/huggingface-blog-transformers-backend-sglang.md) (Source: Unknown Source) - Collected 2026-06-12
+- [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) (Source: Unknown Source) - Collected 2026-06-15
+- [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -40,27 +40,37 @@ Recently detected signals:
 - Language: Unknown
 - Description: An opinionated list of awesome Pydantic-AI frameworks, libraries, software and resources.
 
-### 3. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
+### 3. [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) ([GitHub](https://github.com/hamzaahmedsheikh/fastapi-openai-agents-sdk-template))
+- Stars: 0
+- Language: Unknown
+- Description: No description provided.
+
+### 4. [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md) ([GitHub](https://github.com/redhat-data-and-ai/template-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready Python template for building MCP servers with FastMCP, FastAPI, OAuth, and OpenShift deployment.
 
-### 4. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md) ([GitHub](https://github.com/coleam00/pydantic-ai-github-agent))
+### 5. [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md) ([GitHub](https://github.com/coleam00/pydantic-ai-github-agent))
 - Stars: 0
 - Language: Unknown
 - Description: The agent I built for my AI Agents series on YouTube - breaking down my entire process of building AI agents from idea to production!
 
-### 5. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 6. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 6. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+### 7. [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) ([GitHub](https://github.com/mjunaidca/create-daca))
+- Stars: 0
+- Language: Unknown
+- Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
+
+### 8. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
 - Stars: 0
 - Language: Unknown
 - Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
-### 7. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
+### 9. [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md) ([GitHub](https://github.com/omrylcn/python-vs-js-langgraph))
 - Stars: 0
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
@@ -85,4 +95,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:54.077422+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:37.003616+00:00.077422+00:00.

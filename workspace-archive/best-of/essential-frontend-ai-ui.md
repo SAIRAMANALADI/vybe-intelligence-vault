@@ -28,12 +28,12 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-12344.md`](file:///../../ai/agents/arxiv-2606-12344.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
+### [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](file:///../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
+### [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`changoman-nextjs-mdx-blog.md`](file:///../../web-development/nextjs/changoman-nextjs-mdx-blog.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

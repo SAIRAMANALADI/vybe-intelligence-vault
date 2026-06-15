@@ -2,13 +2,13 @@
 title: 'Arm & ExecuTorch 0.7: Bringing Generative AI to the masses'
 archive_category: datasets
 source_category: ai/models
-source_url: https://huggingface.co/blog/Arm/executorch-0-dot-7
+source_url: https://huggingface.co/blog/arm/executorch-0-dot-7
 resource_id: blog:arm-executorch-0-7-bringing-generative-ai-to-the-m
 local_vault_path: ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Datasets`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Arm & ExecuTorch 0.7: Bringing Generati
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Arm/executorch-0-dot-7
+Original source URL: https://huggingface.co/blog/arm/executorch-0-dot-7
 
 ## Local Vault File
 

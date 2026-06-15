@@ -3,6 +3,7 @@ title: Welcome to Inference Providers on the Hub 🔥
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers
+resource_id: blog:welcome-to-inference-providers-on-the-hub
 local_vault_path: ai/models/huggingface-blog-inference-providers.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-to-inference-providers-on-the-hub
 ---
-
-
 
 # Welcome to Inference Providers on the Hub 🔥
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers
 
 ## Local Vault File
 
-Path: [welcome-to-inference-providers-on-the-hub-450c71.md](file:///../../ai/models/huggingface-blog-inference-providers.md)
+Path: [huggingface-blog-inference-providers.md](file:///../../ai/models/huggingface-blog-inference-providers.md)

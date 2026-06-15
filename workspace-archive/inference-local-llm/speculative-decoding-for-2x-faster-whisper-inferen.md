@@ -3,6 +3,7 @@ title: Speculative Decoding for 2x Faster Whisper Inference
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/whisper-speculative-decoding
+resource_id: blog:speculative-decoding-for-2x-faster-whisper-inferen
 local_vault_path: ai/models/huggingface-blog-whisper-speculative-decoding.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:speculative-decoding-for-2x-faster-whisper-inferen
 ---
-
 
 # Speculative Decoding for 2x Faster Whisper Inference
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/whisper-speculative-decoding
 
 ## Local Vault File
 
-Path: [speculative-decoding-for-2x-faster-whisper-inference-cc4412.md](file:///../../ai/models/huggingface-blog-whisper-speculative-decoding.md)
+Path: [huggingface-blog-whisper-speculative-decoding.md](file:///../../ai/models/huggingface-blog-whisper-speculative-decoding.md)

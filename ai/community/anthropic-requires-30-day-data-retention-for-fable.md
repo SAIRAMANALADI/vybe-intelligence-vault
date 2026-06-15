@@ -13,9 +13,11 @@ collected_at: '2026-06-11T09:24:46.271705+00:00'
 tags:
 - anthropic
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:anthropic-requires-30-day-data-retention-for-fable
+last_seen: '2026-06-11T09:24:46.271705+00:00'
 ---
+
 
 
 # Anthropic requires 30 day data retention for Fable and Mythos

@@ -18,13 +18,18 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-No active signals detected in the vault yet.
+Active signals: 1 resources matched in the intelligence vault.
+Recently detected signals:
+- [mkrl/e0](../ai/agents/mkrl-e0.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-No GitHub repositories found matching this skill yet.
+### 1. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
+- Stars: 0
+- Language: Unknown
+- Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -46,4 +51,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.913945+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:36.840465+00:00.913945+00:00.

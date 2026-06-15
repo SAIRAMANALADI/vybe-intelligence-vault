@@ -2,7 +2,7 @@
 title: spite/Wagner
 archive_category: webdev-3d-creative
 source_category: web-development/threejs
-source_url: https://github.com/spite/Wagner
+source_url: https://github.com/spite/wagner
 resource_id: github:spite/wagner
 local_vault_path: web-development/threejs/spite-wagner.md
 quality_score: 70
@@ -40,7 +40,7 @@ Effects composer for three.js
 
 ## Source
 
-Original source URL: https://github.com/spite/Wagner
+Original source URL: https://github.com/spite/wagner
 
 ## Local Vault File
 

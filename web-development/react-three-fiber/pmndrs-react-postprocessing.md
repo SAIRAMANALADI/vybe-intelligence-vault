@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-postprocessing
-collected_at: '2026-06-12T10:40:15.865569+00:00'
+collected_at: '2026-06-15T06:04:12.610378+00:00'
 published_at: '2026-06-08T18:12:31Z'
 tags:
 - frontend_ui
@@ -12,11 +12,12 @@ tags:
 stars: 1322
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:15.865569+00:00'
-last_seen: '2026-06-12T10:40:15.865569+00:00'
 resource_id: github:pmndrs/react-postprocessing
+first_seen: '2026-06-12T10:40:15.865569+00:00'
+last_seen: '2026-06-15T06:04:12.610378+00:00'
+last_checked: '2026-06-15T06:04:12.610378+00:00'
+health_score: 100
 ---
-
 
 # pmndrs/react-postprocessing
 

@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/cloudflare-workers-ai
-published_at: '2024-04-02T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.816219+00:00'
+published_at: '2024-04-01T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.276420+00:00'
 tags: []
 status: active
+resource_id: blog:bringing-serverless-gpu-inference-to-hugging-face
 first_seen: '2026-06-12T10:40:08.816219+00:00'
-last_seen: '2026-06-12T10:40:08.816219+00:00'
-resource_id: huggingface:blog/cloudflare-workers-ai
+last_seen: '2026-06-15T06:03:50.276420+00:00'
+last_checked: '2026-06-15T06:03:50.276420+00:00'
+health_score: 100
 ---
-
 
 # Bringing serverless GPU inference to Hugging Face users
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-04-02T00:00:00+00:00
+- Published: 2024-04-01T18:30:00+00:00
 
 ## Related Tags
 

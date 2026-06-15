@@ -13,9 +13,11 @@ collected_at: '2026-06-11T13:41:22.925098+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:workers-are-spending-over-6-hours-a-week-botsittin
+last_seen: '2026-06-11T13:41:22.925098+00:00'
 ---
+
 
 
 # Workers are spending over 6 hours a week botsitting AI, fueling job frustration

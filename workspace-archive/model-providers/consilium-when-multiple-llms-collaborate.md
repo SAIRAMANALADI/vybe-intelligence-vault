@@ -3,6 +3,7 @@ title: 'Consilium: When Multiple LLMs Collaborate'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/consilium-multi-llm
+resource_id: blog:consilium-when-multiple-llms-collaborate
 local_vault_path: ai/models/huggingface-blog-consilium-multi-llm.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:consilium-when-multiple-llms-collaborate
 ---
-
-
 
 # Consilium: When Multiple LLMs Collaborate
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/consilium-multi-llm
 
 ## Local Vault File
 
-Path: [consilium-when-multiple-llms-collaborate-0deb0a.md](file:///../../ai/models/huggingface-blog-consilium-multi-llm.md)
+Path: [huggingface-blog-consilium-multi-llm.md](file:///../../ai/models/huggingface-blog-consilium-multi-llm.md)

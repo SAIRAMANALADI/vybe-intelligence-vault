@@ -3,6 +3,7 @@ title: How Hugging Face Accelerated Development of Witty Works Writing Assistant
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/classification-use-cases
+resource_id: blog:how-hugging-face-accelerated-development-of-witty
 local_vault_path: ai/models/huggingface-blog-classification-use-cases.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-hugging-face-accelerated-development-of-witty
 ---
-
-
 
 # How Hugging Face Accelerated Development of Witty Works Writing Assistant
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/classification-use-cases
 
 ## Local Vault File
 
-Path: [how-hugging-face-accelerated-development-of-witty-works-writing-assistant-ec4309.md](file:///../../ai/models/huggingface-blog-classification-use-cases.md)
+Path: [huggingface-blog-classification-use-cases.md](file:///../../ai/models/huggingface-blog-classification-use-cases.md)

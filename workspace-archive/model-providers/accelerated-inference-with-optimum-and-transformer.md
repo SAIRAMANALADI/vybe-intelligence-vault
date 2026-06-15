@@ -3,6 +3,7 @@ title: Accelerated Inference with Optimum and Transformers Pipelines
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-inference
+resource_id: blog:accelerated-inference-with-optimum-and-transformer
 local_vault_path: ai/models/huggingface-blog-optimum-inference.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerated-inference-with-optimum-and-transformer
 ---
-
 
 # Accelerated Inference with Optimum and Transformers Pipelines
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-inference
 
 ## Local Vault File
 
-Path: [accelerated-inference-with-optimum-and-transformers-pipelines-ac5f59.md](file:///../../ai/models/huggingface-blog-optimum-inference.md)
+Path: [huggingface-blog-optimum-inference.md](file:///../../ai/models/huggingface-blog-optimum-inference.md)

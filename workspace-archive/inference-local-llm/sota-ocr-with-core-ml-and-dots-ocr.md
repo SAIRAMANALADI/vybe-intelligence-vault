@@ -3,6 +3,7 @@ title: SOTA OCR with Core ML and dots.ocr
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dots-ocr-ne
+resource_id: blog:sota-ocr-with-core-ml-and-dots-ocr
 local_vault_path: ai/models/huggingface-blog-dots-ocr-ne.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:sota-ocr-with-core-ml-and-dots-ocr
 ---
-
-
 
 # SOTA OCR with Core ML and dots.ocr
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dots-ocr-ne
 
 ## Local Vault File
 
-Path: [sota-ocr-with-core-ml-and-dots-ocr-d1301a.md](file:///../../ai/models/huggingface-blog-dots-ocr-ne.md)
+Path: [huggingface-blog-dots-ocr-ne.md](file:///../../ai/models/huggingface-blog-dots-ocr-ne.md)

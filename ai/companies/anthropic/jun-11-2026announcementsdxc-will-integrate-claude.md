@@ -4,17 +4,20 @@ title: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks
 category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
-source_url: https://www.anthropic.com/news/dxc-anthropic-alliance
-published_at: '2026-06-11T18:07:47.800038+00:00'
-collected_at: '2026-06-11T18:07:47.800041+00:00'
+source_url: https://anthropic.com/news/dxc-anthropic-alliance
+published_at: '2026-06-15T06:05:37.496660+00:00'
+collected_at: '2026-06-15T06:05:37.496662+00:00'
 tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: new
+status: active
 resource_id: blog:jun-11-2026announcementsdxc-will-integrate-claude
+first_seen: '2026-06-11T18:07:47.800041+00:00'
+last_seen: '2026-06-15T06:05:37.496662+00:00'
+last_checked: '2026-06-15T06:05:37.496662+00:00'
+health_score: 100
 ---
-
 
 # Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
 
@@ -29,8 +32,8 @@ Official release, policy update, or technical blog post from a core AI company.
 ## Blog Post Details
 
 - Company: Anthropic News
-- Article URL: https://www.anthropic.com/news/dxc-anthropic-alliance
-- Collected At: 2026-06-11T18:07:47.800041+00:00
+- Article URL: https://anthropic.com/news/dxc-anthropic-alliance
+- Collected At: 2026-06-15T06:05:37.496662+00:00
 
 ## Related Tags
 

@@ -2,7 +2,7 @@
 title: asbhogal/Fyrre-Magazine
 archive_category: rag-systems
 source_category: web-development/nextjs
-source_url: https://github.com/asbhogal/Fyrre-Magazine
+source_url: https://github.com/asbhogal/fyrre-magazine
 resource_id: github:asbhogal/fyrre-magazine
 local_vault_path: web-development/nextjs/asbhogal-fyrre-magazine.md
 quality_score: 70
@@ -42,7 +42,7 @@ A bold, striking arts and life magazine website built as an SPA using Next.js, T
 
 ## Source
 
-Original source URL: https://github.com/asbhogal/Fyrre-Magazine
+Original source URL: https://github.com/asbhogal/fyrre-magazine
 
 ## Local Vault File
 

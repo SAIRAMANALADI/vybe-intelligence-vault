@@ -13,9 +13,11 @@ collected_at: '2026-06-12T05:02:11.683189+00:00'
 tags:
 - hackernews
 - llm
-status: new
+status: inactive
 resource_id: hackernews:making-a-vintage-llm-from-scratch
+last_seen: '2026-06-12T05:02:11.683189+00:00'
 ---
+
 
 
 # Making a vintage LLM from scratch

@@ -3,6 +3,7 @@ title: Trace & Evaluate your Agent with Arize Phoenix
 archive_category: observability
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents-phoenix
+resource_id: blog:trace-evaluate-your-agent-with-arize-phoenix
 local_vault_path: ai/agents/huggingface-blog-smolagents-phoenix.md
 quality_score: 70
 archive_score: 72
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:trace-evaluate-your-agent-with-arize-phoenix
 ---
-
-
 
 # Trace & Evaluate your Agent with Arize Phoenix
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/smolagents-phoenix
 
 ## Local Vault File
 
-Path: [trace-evaluate-your-agent-with-arize-phoenix-661714.md](file:///../../ai/agents/huggingface-blog-smolagents-phoenix.md)
+Path: [huggingface-blog-smolagents-phoenix.md](file:///../../ai/agents/huggingface-blog-smolagents-phoenix.md)

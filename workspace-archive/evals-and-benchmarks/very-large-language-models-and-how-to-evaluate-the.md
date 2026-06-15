@@ -3,6 +3,7 @@ title: Very Large Language Models and How to Evaluate Them
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-shot-eval-on-the-hub
+resource_id: blog:very-large-language-models-and-how-to-evaluate-the
 local_vault_path: ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md
 quality_score: 70
 archive_score: 72
@@ -12,9 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:very-large-language-models-and-how-to-evaluate-the
 ---
-
 
 # Very Large Language Models and How to Evaluate Them
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 
 ## Local Vault File
 
-Path: [very-large-language-models-and-how-to-evaluate-them-6b7c1d.md](file:///../../ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md)
+Path: [huggingface-blog-zero-shot-eval-on-the-hub.md](file:///../../ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md)

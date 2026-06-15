@@ -3,6 +3,7 @@ title: 'Welcome aMUSEd: Efficient Text-to-Image Generation'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/amused
+resource_id: blog:welcome-amused-efficient-text-to-image-generation
 local_vault_path: ai/models/huggingface-blog-amused.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-amused-efficient-text-to-image-generation
 ---
-
-
 
 # Welcome aMUSEd: Efficient Text-to-Image Generation
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amused
 
 ## Local Vault File
 
-Path: [welcome-amused-efficient-text-to-image-generation-d172e3.md](file:///../../ai/models/huggingface-blog-amused.md)
+Path: [huggingface-blog-amused.md](file:///../../ai/models/huggingface-blog-amused.md)

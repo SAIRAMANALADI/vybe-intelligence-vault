@@ -3,6 +3,7 @@ title: Getting Started with Hugging Face Transformers for IPUs with Optimum
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore-getting-started
+resource_id: blog:getting-started-with-hugging-face-transformers-for
 local_vault_path: ai/models/huggingface-blog-graphcore-getting-started.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:getting-started-with-hugging-face-transformers-for
 ---
-
-
 
 # Getting Started with Hugging Face Transformers for IPUs with Optimum
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore-getting-started
 
 ## Local Vault File
 
-Path: [getting-started-with-hugging-face-transformers-for-ipus-with-optimum-825af7.md](file:///../../ai/models/huggingface-blog-graphcore-getting-started.md)
+Path: [huggingface-blog-graphcore-getting-started.md](file:///../../ai/models/huggingface-blog-graphcore-getting-started.md)

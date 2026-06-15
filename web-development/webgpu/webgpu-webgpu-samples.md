@@ -4,18 +4,19 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/webgpu/webgpu-samples
-collected_at: '2026-06-12T10:40:17.491084+00:00'
+collected_at: '2026-06-15T06:04:14.952641+00:00'
 published_at: '2026-06-06T15:41:53Z'
 tags:
 - threejs
 stars: 2136
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:17.491084+00:00'
-last_seen: '2026-06-12T10:40:17.491084+00:00'
 resource_id: github:webgpu/webgpu-samples
+first_seen: '2026-06-12T10:40:17.491084+00:00'
+last_seen: '2026-06-15T06:04:14.952641+00:00'
+last_checked: '2026-06-15T06:04:14.952641+00:00'
+health_score: 100
 ---
-
 
 # webgpu/webgpu-samples
 

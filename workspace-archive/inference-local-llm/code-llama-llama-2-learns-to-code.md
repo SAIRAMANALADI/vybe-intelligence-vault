@@ -3,6 +3,7 @@ title: 'Code Llama: Llama 2 learns to code'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/codellama
+resource_id: blog:code-llama-llama-2-learns-to-code
 local_vault_path: ai/models/huggingface-blog-codellama.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:code-llama-llama-2-learns-to-code
 ---
-
-
 
 # Code Llama: Llama 2 learns to code
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [code-llama-llama-2-learns-to-code-440f7b.md](file:///../../ai/models/huggingface-blog-codellama.md)
+Path: [huggingface-blog-codellama.md](file:///../../ai/models/huggingface-blog-codellama.md)

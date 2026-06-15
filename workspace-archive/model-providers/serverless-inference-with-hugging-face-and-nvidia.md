@@ -3,6 +3,7 @@ title: Serverless Inference with Hugging Face and NVIDIA NIM
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-dgx-cloud
+resource_id: blog:serverless-inference-with-hugging-face-and-nvidia
 local_vault_path: ai/models/huggingface-blog-inference-dgx-cloud.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:serverless-inference-with-hugging-face-and-nvidia
 ---
-
-
 
 # Serverless Inference with Hugging Face and NVIDIA NIM
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-dgx-cloud
 
 ## Local Vault File
 
-Path: [serverless-inference-with-hugging-face-and-nvidia-nim-9746a6.md](file:///../../ai/models/huggingface-blog-inference-dgx-cloud.md)
+Path: [huggingface-blog-inference-dgx-cloud.md](file:///../../ai/models/huggingface-blog-inference-dgx-cloud.md)

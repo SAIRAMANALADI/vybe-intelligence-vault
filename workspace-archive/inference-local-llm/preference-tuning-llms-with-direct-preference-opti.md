@@ -3,6 +3,7 @@ title: Preference Tuning LLMs with Direct Preference Optimization Methods
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pref-tuning
+resource_id: blog:preference-tuning-llms-with-direct-preference-opti
 local_vault_path: ai/models/huggingface-blog-pref-tuning.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:preference-tuning-llms-with-direct-preference-opti
 ---
-
 
 # Preference Tuning LLMs with Direct Preference Optimization Methods
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pref-tuning
 
 ## Local Vault File
 
-Path: [preference-tuning-llms-with-direct-preference-optimization-methods-1e3fe2.md](file:///../../ai/models/huggingface-blog-pref-tuning.md)
+Path: [huggingface-blog-pref-tuning.md](file:///../../ai/models/huggingface-blog-pref-tuning.md)

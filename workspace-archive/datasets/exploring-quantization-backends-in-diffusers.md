@@ -3,6 +3,7 @@ title: Exploring Quantization Backends in Diffusers
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-quantization
+resource_id: blog:exploring-quantization-backends-in-diffusers
 local_vault_path: ai/models/huggingface-blog-diffusers-quantization.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:exploring-quantization-backends-in-diffusers
 ---
-
-
 
 # Exploring Quantization Backends in Diffusers
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/diffusers-quantization
 
 ## Local Vault File
 
-Path: [exploring-quantization-backends-in-diffusers-bbb537.md](file:///../../ai/models/huggingface-blog-diffusers-quantization.md)
+Path: [huggingface-blog-diffusers-quantization.md](file:///../../ai/models/huggingface-blog-diffusers-quantization.md)

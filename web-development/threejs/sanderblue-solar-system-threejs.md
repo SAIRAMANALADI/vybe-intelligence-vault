@@ -4,18 +4,19 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/sanderblue/solar-system-threejs
-collected_at: '2026-06-12T10:40:14.585941+00:00'
-published_at: '2026-06-02T02:26:48Z'
+collected_at: '2026-06-15T06:04:10.449074+00:00'
+published_at: '2026-06-13T15:23:20Z'
 tags:
 - threejs
 stars: 405
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:14.585941+00:00'
-last_seen: '2026-06-12T10:40:14.585941+00:00'
 resource_id: github:sanderblue/solar-system-threejs
+first_seen: '2026-06-12T10:40:14.585941+00:00'
+last_seen: '2026-06-15T06:04:10.449074+00:00'
+last_checked: '2026-06-15T06:04:10.449074+00:00'
+health_score: 100
 ---
-
 
 # sanderblue/solar-system-threejs
 
@@ -34,7 +35,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 - Forks: 82
 - Language: JavaScript
 - Topics: 3d, astrology, astronomy, css, es6, nasa, planet, planets, threejs, webgl
-- Last Updated: 2026-06-02T02:26:48Z
+- Last Updated: 2026-06-13T15:23:20Z
 
 ## Possible Use Cases
 

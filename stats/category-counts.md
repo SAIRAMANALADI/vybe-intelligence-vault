@@ -5,15 +5,15 @@ Below is the file distribution across the vault categories.
 | Folder | Files |
 | :--- | ---: |
 | `/` | 1 |
-| `ai/agents/` | 279 |
-| `ai/community/` | 24 |
-| `ai/companies/anthropic/` | 9 |
+| `ai/agents/` | 367 |
+| `ai/community/` | 3 |
+| `ai/companies/anthropic/` | 8 |
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
-| `ai/models/` | 732 |
-| `ai/rag/` | 424 |
-| `ai/research/` | 433 |
+| `ai/models/` | 734 |
+| `ai/rag/` | 558 |
+| `ai/research/` | 664 |
 | `ai/resources/` | 25 |
 | `web-development/framer-motion/` | 25 |
 | `web-development/gsap/` | 6 |
@@ -23,7 +23,7 @@ Below is the file distribution across the vault categories.
 | `web-development/tailwind/` | 1 |
 | `web-development/threejs/` | 25 |
 | `web-development/webgl/` | 1 |
-| `web-development/webgpu/` | 25 |
+| `web-development/webgpu/` | 26 |
 
 ## Categories Needing More Coverage
 

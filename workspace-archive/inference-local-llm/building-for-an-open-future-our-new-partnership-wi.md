@@ -3,6 +3,7 @@ title: Building for an Open Future - our new partnership with Google Cloud
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/google-cloud
+resource_id: blog:building-for-an-open-future-our-new-partnership-wi
 local_vault_path: ai/models/huggingface-blog-google-cloud.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:building-for-an-open-future-our-new-partnership-wi
 ---
-
 
 # Building for an Open Future - our new partnership with Google Cloud
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud
 
 ## Local Vault File
 
-Path: [building-for-an-open-future-our-new-partnership-with-google-cloud-4dd439.md](file:///../../ai/models/huggingface-blog-google-cloud.md)
+Path: [huggingface-blog-google-cloud.md](file:///../../ai/models/huggingface-blog-google-cloud.md)

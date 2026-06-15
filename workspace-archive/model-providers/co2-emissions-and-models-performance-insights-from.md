@@ -3,6 +3,7 @@ title: 'CO₂ Emissions and Models Performance: Insights from the Open LLM Leade
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-emissions-analysis
+resource_id: blog:co2-emissions-and-models-performance-insights-from
 local_vault_path: ai/models/huggingface-blog-leaderboard-emissions-analysis.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:co2-emissions-and-models-performance-insights-from
 ---
-
-
 
 # CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-emissions-analysis
 
 ## Local Vault File
 
-Path: [co2-emissions-and-models-performance-insights-from-the-open-llm-leaderboard-19f09f.md](file:///../../ai/models/huggingface-blog-leaderboard-emissions-analysis.md)
+Path: [huggingface-blog-leaderboard-emissions-analysis.md](file:///../../ai/models/huggingface-blog-leaderboard-emissions-analysis.md)

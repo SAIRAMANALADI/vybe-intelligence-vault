@@ -4,19 +4,20 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/mistral-small-4
-published_at: '2026-06-12T10:40:34.037058+00:00'
-collected_at: '2026-06-12T10:40:34.037061+00:00'
+published_at: '2026-06-15T06:05:40.897909+00:00'
+collected_at: '2026-06-15T06:05:40.897911+00:00'
 tags:
 - blog-post
 - mistral
 - mistral-ai-news
 - models
 status: active
-first_seen: '2026-06-12T10:40:34.037061+00:00'
-last_seen: '2026-06-12T10:40:34.037061+00:00'
 resource_id: blog:mistral-small-4
+first_seen: '2026-06-12T10:40:34.037061+00:00'
+last_seen: '2026-06-15T06:05:40.897911+00:00'
+last_checked: '2026-06-15T06:05:40.897911+00:00'
+health_score: 100
 ---
-
 
 # Mistral Small 4
 
@@ -32,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/mistral-small-4
-- Collected At: 2026-06-12T10:40:34.037061+00:00
+- Collected At: 2026-06-15T06:05:40.897911+00:00
 
 ## Related Tags
 

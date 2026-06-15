@@ -3,6 +3,7 @@ title: Simple considerations for simple people building fancy neural networks
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/simple-considerations
+resource_id: blog:simple-considerations-for-simple-people-building-f
 local_vault_path: ai/models/huggingface-blog-simple-considerations.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:simple-considerations-for-simple-people-building-f
 ---
-
 
 # Simple considerations for simple people building fancy neural networks
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple-considerations
 
 ## Local Vault File
 
-Path: [simple-considerations-for-simple-people-building-fancy-neural-networks-e62863.md](file:///../../ai/models/huggingface-blog-simple-considerations.md)
+Path: [huggingface-blog-simple-considerations.md](file:///../../ai/models/huggingface-blog-simple-considerations.md)

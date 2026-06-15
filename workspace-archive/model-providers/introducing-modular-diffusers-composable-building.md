@@ -3,6 +3,7 @@ title: Introducing Modular Diffusers - Composable Building Blocks for Diffusion 
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/modular-diffusers
+resource_id: blog:introducing-modular-diffusers-composable-building
 local_vault_path: ai/models/huggingface-blog-modular-diffusers.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-modular-diffusers-composable-building
 ---
-
-
 
 # Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modular-diffusers
 
 ## Local Vault File
 
-Path: [introducing-modular-diffusers-composable-building-blocks-for-diffusion-pipelines-de3570.md](file:///../../ai/models/huggingface-blog-modular-diffusers.md)
+Path: [huggingface-blog-modular-diffusers.md](file:///../../ai/models/huggingface-blog-modular-diffusers.md)

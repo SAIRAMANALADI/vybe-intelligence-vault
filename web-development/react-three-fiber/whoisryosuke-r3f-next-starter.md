@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/whoisryosuke/r3f-next-starter
-collected_at: '2026-06-12T10:40:15.865610+00:00'
+collected_at: '2026-06-15T06:04:12.610411+00:00'
 published_at: '2026-02-23T12:21:39Z'
 tags:
 - frontend_ui
@@ -12,11 +12,12 @@ tags:
 stars: 130
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:15.865610+00:00'
-last_seen: '2026-06-12T10:40:15.865610+00:00'
 resource_id: github:whoisryosuke/r3f-next-starter
+first_seen: '2026-06-12T10:40:15.865610+00:00'
+last_seen: '2026-06-15T06:04:12.610411+00:00'
+last_checked: '2026-06-15T06:04:12.610411+00:00'
+health_score: 100
 ---
-
 
 # whoisryosuke/r3f-next-starter
 

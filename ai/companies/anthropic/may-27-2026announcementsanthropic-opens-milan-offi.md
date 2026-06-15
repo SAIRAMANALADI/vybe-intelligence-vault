@@ -11,9 +11,11 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: new
+status: inactive
 resource_id: blog:may-27-2026announcementsanthropic-opens-milan-offi
+last_seen: '2026-06-11T18:20:57.834894+00:00'
 ---
+
 
 
 # May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers

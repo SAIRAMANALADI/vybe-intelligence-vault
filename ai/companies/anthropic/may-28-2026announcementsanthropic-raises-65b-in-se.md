@@ -11,9 +11,11 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: new
+status: inactive
 resource_id: blog:may-28-2026announcementsanthropic-raises-65b-in-se
+last_seen: '2026-06-11T18:20:57.834815+00:00'
 ---
+
 
 
 # May 28, 2026AnnouncementsAnthropic raises $65B in Series H funding at $965B post-money valuation

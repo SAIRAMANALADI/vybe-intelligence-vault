@@ -3,6 +3,7 @@ title: 'Ethics and Society Newsletter #4: Bias in Text-to-Image Models'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-4
+resource_id: blog:ethics-and-society-newsletter-4-bias-in-text-to-im
 local_vault_path: ai/models/huggingface-blog-ethics-soc-4.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ethics-and-society-newsletter-4-bias-in-text-to-im
 ---
-
 
 # Ethics and Society Newsletter #4: Bias in Text-to-Image Models
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-4
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-4-bias-in-text-to-image-models-6417cb.md](file:///../../ai/models/huggingface-blog-ethics-soc-4.md)
+Path: [huggingface-blog-ethics-soc-4.md](file:///../../ai/models/huggingface-blog-ethics-soc-4.md)

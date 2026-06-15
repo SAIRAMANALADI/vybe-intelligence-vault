@@ -3,6 +3,7 @@ title: Accelerating PyTorch distributed fine-tuning with Intel technologies
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerating-pytorch
+resource_id: blog:accelerating-pytorch-distributed-fine-tuning-with
 local_vault_path: ai/models/huggingface-blog-accelerating-pytorch.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerating-pytorch-distributed-fine-tuning-with
 ---
-
-
 
 # Accelerating PyTorch distributed fine-tuning with Intel technologies
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/accelerating-pytorch
 
 ## Local Vault File
 
-Path: [accelerating-pytorch-distributed-fine-tuning-with-intel-technologies-e51135.md](file:///../../ai/models/huggingface-blog-accelerating-pytorch.md)
+Path: [huggingface-blog-accelerating-pytorch.md](file:///../../ai/models/huggingface-blog-accelerating-pytorch.md)

@@ -3,6 +3,7 @@ title: Machine Learning Experts - Lewis Tunstall
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lewis-tunstall-interview
+resource_id: blog:machine-learning-experts-lewis-tunstall
 local_vault_path: ai/models/huggingface-blog-lewis-tunstall-interview.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:machine-learning-experts-lewis-tunstall
 ---
-
-
 
 # Machine Learning Experts - Lewis Tunstall
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lewis-tunstall-interview
 
 ## Local Vault File
 
-Path: [machine-learning-experts-lewis-tunstall-bd9063.md](file:///../../ai/models/huggingface-blog-lewis-tunstall-interview.md)
+Path: [huggingface-blog-lewis-tunstall-interview.md](file:///../../ai/models/huggingface-blog-lewis-tunstall-interview.md)

@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/wass08/r3f-ultimate-character-configurator
-collected_at: '2026-06-12T10:40:15.865496+00:00'
+collected_at: '2026-06-15T06:04:12.610314+00:00'
 published_at: '2026-06-03T21:33:05Z'
 tags:
 - frontend_ui
@@ -12,11 +12,12 @@ tags:
 stars: 133
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:15.865496+00:00'
-last_seen: '2026-06-12T10:40:15.865496+00:00'
 resource_id: github:wass08/r3f-ultimate-character-configurator
+first_seen: '2026-06-12T10:40:15.865496+00:00'
+last_seen: '2026-06-15T06:04:12.610314+00:00'
+last_checked: '2026-06-15T06:04:12.610314+00:00'
+health_score: 100
 ---
-
 
 # wass08/r3f-ultimate-character-configurator
 

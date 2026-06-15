@@ -3,6 +3,7 @@ title: Graph Classification with Transformers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphml-classification
+resource_id: blog:graph-classification-with-transformers
 local_vault_path: ai/models/huggingface-blog-graphml-classification.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:graph-classification-with-transformers
 ---
-
-
 
 # Graph Classification with Transformers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphml-classification
 
 ## Local Vault File
 
-Path: [graph-classification-with-transformers-d330d4.md](file:///../../ai/models/huggingface-blog-graphml-classification.md)
+Path: [huggingface-blog-graphml-classification.md](file:///../../ai/models/huggingface-blog-graphml-classification.md)

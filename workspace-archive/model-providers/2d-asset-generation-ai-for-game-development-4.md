@@ -3,6 +3,7 @@ title: '2D Asset Generation: AI for Game Development #4'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-4
+resource_id: blog:2d-asset-generation-ai-for-game-development-4
 local_vault_path: ai/models/huggingface-blog-ml-for-games-4.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:2d-asset-generation-ai-for-game-development-4
 ---
-
-
 
 # 2D Asset Generation: AI for Game Development #4
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-4
 
 ## Local Vault File
 
-Path: [2d-asset-generation-ai-for-game-development-4-73f68e.md](file:///../../ai/models/huggingface-blog-ml-for-games-4.md)
+Path: [huggingface-blog-ml-for-games-4.md](file:///../../ai/models/huggingface-blog-ml-for-games-4.md)

@@ -1,0 +1,48 @@
+---
+title: maunappl8/openai-agents-ts-kit
+archive_category: ai-coding-agents
+source_category: ai/agents
+source_url: https://github.com/maunappl8/openai-agents-ts-kit
+resource_id: github:maunappl8/openai-agents-ts-kit
+local_vault_path: ai/agents/maunappl8-openai-agents-ts-kit.md
+quality_score: 70
+archive_score: 85
+archive_tier: essential
+resource_kind: template
+importance: high
+tags:
+- agents
+- github-repo
+- openai
+- typescript
+selection_reason:
+- Useful for project building
+---
+
+# maunappl8/openai-agents-ts-kit
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Coding Agents`
+- Quality score: 70 | Archive score: 85 (essential)
+- Resource kind: template
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+Production-ready OpenAI Agents SDK (TypeScript) template — agents, handoffs, tools, guardrails, sessions, tracing, CLI.
+
+## Use Cases
+
+- Assisted programming workflows
+- Auto-debugging codebases
+- Autonomous feature building
+
+## Source
+
+Original source URL: https://github.com/maunappl8/openai-agents-ts-kit
+
+## Local Vault File
+
+Path: [maunappl8-openai-agents-ts-kit.md](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md)

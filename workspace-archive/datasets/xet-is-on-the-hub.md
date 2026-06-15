@@ -3,6 +3,7 @@ title: Xet is on the Hub
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/xet-on-the-hub
+resource_id: blog:xet-is-on-the-hub
 local_vault_path: ai/models/huggingface-blog-xet-on-the-hub.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:xet-is-on-the-hub
 ---
-
-
 
 # Xet is on the Hub
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xet-on-the-hub
 
 ## Local Vault File
 
-Path: [xet-is-on-the-hub-d7eab0.md](file:///../../ai/models/huggingface-blog-xet-on-the-hub.md)
+Path: [huggingface-blog-xet-on-the-hub.md](file:///../../ai/models/huggingface-blog-xet-on-the-hub.md)

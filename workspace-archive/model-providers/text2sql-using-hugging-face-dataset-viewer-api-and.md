@@ -3,6 +3,7 @@ title: Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/duckdb-nsql-7b
+resource_id: blog:text2sql-using-hugging-face-dataset-viewer-api-and
 local_vault_path: ai/models/huggingface-blog-duckdb-nsql-7b.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:text2sql-using-hugging-face-dataset-viewer-api-and
 ---
-
-
 
 # Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/duckdb-nsql-7b
 
 ## Local Vault File
 
-Path: [text2sql-using-hugging-face-dataset-viewer-api-and-motherduck-duckdb-nsql-7b-1099d5.md](file:///../../ai/models/huggingface-blog-duckdb-nsql-7b.md)
+Path: [huggingface-blog-duckdb-nsql-7b.md](file:///../../ai/models/huggingface-blog-duckdb-nsql-7b.md)

@@ -3,6 +3,7 @@ title: Reachy Mini goes fully local
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/local-reachy-mini-conversation
+resource_id: blog:reachy-mini-goes-fully-local
 local_vault_path: ai/models/huggingface-blog-local-reachy-mini-conversation.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:reachy-mini-goes-fully-local
 ---
-
-
 
 # Reachy Mini goes fully local
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## Local Vault File
 
-Path: [reachy-mini-goes-fully-local-7cdcfd.md](file:///../../ai/models/huggingface-blog-local-reachy-mini-conversation.md)
+Path: [huggingface-blog-local-reachy-mini-conversation.md](file:///../../ai/models/huggingface-blog-local-reachy-mini-conversation.md)

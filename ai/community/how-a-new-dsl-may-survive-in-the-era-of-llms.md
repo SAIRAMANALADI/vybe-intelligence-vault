@@ -13,9 +13,11 @@ collected_at: '2026-06-12T05:02:11.300600+00:00'
 tags:
 - hackernews
 - llm
-status: new
+status: inactive
 resource_id: hackernews:how-a-new-dsl-may-survive-in-the-era-of-llms
+last_seen: '2026-06-12T05:02:11.300600+00:00'
 ---
+
 
 
 # How a new DSL may survive in the era of LLMs

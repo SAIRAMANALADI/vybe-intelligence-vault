@@ -3,6 +3,7 @@ title: (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/flux-qlora
+resource_id: blog:lora-fine-tuning-flux-1-dev-on-consumer-hardware
 local_vault_path: ai/models/huggingface-blog-flux-qlora.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:lora-fine-tuning-flux-1-dev-on-consumer-hardware
 ---
-
-
 
 # (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware-c5eb6e.md](file:///../../ai/models/huggingface-blog-flux-qlora.md)
+Path: [huggingface-blog-flux-qlora.md](file:///../../ai/models/huggingface-blog-flux-qlora.md)

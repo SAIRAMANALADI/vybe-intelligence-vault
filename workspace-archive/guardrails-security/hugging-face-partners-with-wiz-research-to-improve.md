@@ -3,6 +3,7 @@ title: Hugging Face partners with Wiz Research to Improve AI Security
 archive_category: guardrails-security
 source_category: ai/models
 source_url: https://huggingface.co/blog/hugging-face-wiz-security-blog
+resource_id: blog:hugging-face-partners-with-wiz-research-to-improve
 local_vault_path: ai/models/huggingface-blog-hugging-face-wiz-security-blog.md
 quality_score: 70
 archive_score: 72
@@ -12,10 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:hugging-face-partners-with-wiz-research-to-improve
 ---
-
-
 
 # Hugging Face partners with Wiz Research to Improve AI Security
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-wiz-security-blog
 
 ## Local Vault File
 
-Path: [hugging-face-partners-with-wiz-research-to-improve-ai-security-1454bb.md](file:///../../ai/models/huggingface-blog-hugging-face-wiz-security-blog.md)
+Path: [huggingface-blog-hugging-face-wiz-security-blog.md](file:///../../ai/models/huggingface-blog-hugging-face-wiz-security-blog.md)

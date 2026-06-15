@@ -44,35 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2095 |
-| Active resources | 2095 |
-| Inactive resources | 0 |
-| Archive files | 11449 |
+| Resources tracked | 2556 |
+| Active resources | 2529 |
+| Inactive resources | 27 |
+| Archive files | 13365 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-12 15:24 UTC |
+| Last meaningful update | 2026-06-15 06:12 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)** (Rank: +6) (+270 points)
-- **[datawhalechina/wow-rag](ai/rag/datawhalechina-wow-rag.md)** (Rank: +538)
-- **[techwithtim/Langflow-RAG-Tutorial](ai/rag/techwithtim-langflow-rag-tutorial.md)** (Rank: +538)
-- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +538)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +538)
+- **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** (Rank: +620)
+- **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** (Rank: +590)
+- **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** (Rank: +579)
+- **[Arm will be @ PyTorch Conference, Join Us!](ai/models/huggingface-blog-arm.md)** (Rank: +579)
+- **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** (Rank: +578)
 
 #### ✨ New Discoveries
-- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)** (Score: 631)
-- **[Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails](ai/community/digital-sovereignty-becomes-an-imperative-as-the-u.md)** (Score: 143)
-- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Score: 0)
-- **[Unlocking the power of unstructured data with RAG - The GitHub Blog](ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)** (Score: 0)
-- **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/huggingface-blog-how-to-train.md)** (Score: 0)
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (Score: 321)
+- **[The hallucinogenic mushroom that contains no known psychedelic](ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)** (Score: 59)
+- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (Score: 25)
+- **[HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md)** (Score: 0)
+- **[lchen4-godaddy/agent-template-openai-agents-sdk](ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- None.
+- **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)**
+- **[Anthropic apologizes for invisible Claude Fable guardrails](ai/community/anthropic-apologizes-for-invisible-claude-fable-gu.md)**
+- **[Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](ai/community/cybersecurity-researchers-aren-t-happy-about-the-g.md)**
+- **[Anthropic requires 30 day data retention for Fable and Mythos](ai/community/anthropic-requires-30-day-data-retention-for-fable.md)**
+- **[AI agent runs amok in Fedora and elsewhere](ai/community/ai-agent-runs-amok-in-fedora-and-elsewhere.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

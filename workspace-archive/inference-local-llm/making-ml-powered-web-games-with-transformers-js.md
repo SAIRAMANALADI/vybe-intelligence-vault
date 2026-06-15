@@ -3,6 +3,7 @@ title: Making ML-powered web games with Transformers.js
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-web-games
+resource_id: blog:making-ml-powered-web-games-with-transformers-js
 local_vault_path: ai/models/huggingface-blog-ml-web-games.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:making-ml-powered-web-games-with-transformers-js
 ---
-
-
 
 # Making ML-powered web games with Transformers.js
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-web-games
 
 ## Local Vault File
 
-Path: [making-ml-powered-web-games-with-transformers-js-4ed512.md](file:///../../ai/models/huggingface-blog-ml-web-games.md)
+Path: [huggingface-blog-ml-web-games.md](file:///../../ai/models/huggingface-blog-ml-web-games.md)

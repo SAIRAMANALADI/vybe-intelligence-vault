@@ -4,6 +4,7 @@ title: 'Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhanci
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sovereign-data-solution-case-study
+resource_id: blog:banque-des-territoires-cdc-group-x-polyconseil-x-h
 local_vault_path: ai/models/huggingface-blog-sovereign-data-solution-case-study.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:banque-des-territoires-cdc-group-x-polyconseil-x-h
 ---
-
 
 # Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sovereign-data-solution-case-st
 
 ## Local Vault File
 
-Path: [banque-des-territoires-cdc-group-x-polyconseil-x-hugging-face-enhancing-a-major-9095fd.md](file:///../../ai/models/huggingface-blog-sovereign-data-solution-case-study.md)
+Path: [huggingface-blog-sovereign-data-solution-case-study.md](file:///../../ai/models/huggingface-blog-sovereign-data-solution-case-study.md)

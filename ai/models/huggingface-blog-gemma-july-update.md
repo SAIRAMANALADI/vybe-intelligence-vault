@@ -4,16 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/gemma-july-update
-published_at: '2024-07-31T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.814595+00:00'
+published_at: '2024-07-30T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.275405+00:00'
 tags:
 - models
 status: active
+resource_id: blog:google-releases-gemma-2-2b-shieldgemma-and-gemma-s
 first_seen: '2026-06-12T10:40:08.814595+00:00'
-last_seen: '2026-06-12T10:40:08.814595+00:00'
-resource_id: huggingface:blog/gemma-july-update
+last_seen: '2026-06-15T06:03:50.275405+00:00'
+last_checked: '2026-06-15T06:03:50.275405+00:00'
+health_score: 100
 ---
-
 
 # Google releases Gemma 2 2B, ShieldGemma and Gemma Scope
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-07-31T00:00:00+00:00
+- Published: 2024-07-30T18:30:00+00:00
 
 ## Related Tags
 

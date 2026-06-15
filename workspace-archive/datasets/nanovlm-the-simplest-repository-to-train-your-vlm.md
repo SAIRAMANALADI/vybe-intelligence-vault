@@ -3,6 +3,7 @@ title: 'nanoVLM: The simplest repository to train your VLM in pure PyTorch'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/nanovlm
+resource_id: blog:nanovlm-the-simplest-repository-to-train-your-vlm
 local_vault_path: ai/models/huggingface-blog-nanovlm.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:nanovlm-the-simplest-repository-to-train-your-vlm
 ---
-
-
 
 # nanoVLM: The simplest repository to train your VLM in pure PyTorch
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nanovlm
 
 ## Local Vault File
 
-Path: [nanovlm-the-simplest-repository-to-train-your-vlm-in-pure-pytorch-46c426.md](file:///../../ai/models/huggingface-blog-nanovlm.md)
+Path: [huggingface-blog-nanovlm.md](file:///../../ai/models/huggingface-blog-nanovlm.md)

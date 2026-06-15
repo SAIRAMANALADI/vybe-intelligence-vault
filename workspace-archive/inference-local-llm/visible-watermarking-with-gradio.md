@@ -3,6 +3,7 @@ title: Visible Watermarking with Gradio
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/watermarking-with-gradio
+resource_id: blog:visible-watermarking-with-gradio
 local_vault_path: ai/models/huggingface-blog-watermarking-with-gradio.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:visible-watermarking-with-gradio
 ---
-
-
 
 # Visible Watermarking with Gradio
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/watermarking-with-gradio
 
 ## Local Vault File
 
-Path: [visible-watermarking-with-gradio-48c1e6.md](file:///../../ai/models/huggingface-blog-watermarking-with-gradio.md)
+Path: [huggingface-blog-watermarking-with-gradio.md](file:///../../ai/models/huggingface-blog-watermarking-with-gradio.md)

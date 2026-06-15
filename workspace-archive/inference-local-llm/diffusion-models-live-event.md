@@ -3,6 +3,7 @@ title: Diffusion Models Live Event
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusion-models-event
+resource_id: blog:diffusion-models-live-event
 local_vault_path: ai/models/huggingface-blog-diffusion-models-event.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:diffusion-models-live-event
 ---
-
-
 
 # Diffusion Models Live Event
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [diffusion-models-live-event-e2b6d9.md](file:///../../ai/models/huggingface-blog-diffusion-models-event.md)
+Path: [huggingface-blog-diffusion-models-event.md](file:///../../ai/models/huggingface-blog-diffusion-models-event.md)

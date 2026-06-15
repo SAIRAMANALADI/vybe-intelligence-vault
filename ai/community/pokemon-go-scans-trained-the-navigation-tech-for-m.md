@@ -13,9 +13,11 @@ collected_at: '2026-06-11T09:24:42.468947+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:pokemon-go-scans-trained-the-navigation-tech-for-m
+last_seen: '2026-06-11T09:24:42.468947+00:00'
 ---
+
 
 
 # Pokémon Go Scans Trained the Navigation Tech for Military Drones

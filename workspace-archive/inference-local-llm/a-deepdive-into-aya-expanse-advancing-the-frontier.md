@@ -3,6 +3,7 @@ title: 'A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/aya-expanse
+resource_id: blog:a-deepdive-into-aya-expanse-advancing-the-frontier
 local_vault_path: ai/models/huggingface-blog-aya-expanse.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:a-deepdive-into-aya-expanse-advancing-the-frontier
 ---
-
-
 
 # A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-expanse
 
 ## Local Vault File
 
-Path: [a-deepdive-into-aya-expanse-advancing-the-frontier-of-multilinguality-f25713.md](file:///../../ai/models/huggingface-blog-aya-expanse.md)
+Path: [huggingface-blog-aya-expanse.md](file:///../../ai/models/huggingface-blog-aya-expanse.md)

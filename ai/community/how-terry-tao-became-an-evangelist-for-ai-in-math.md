@@ -13,9 +13,11 @@ collected_at: '2026-06-11T18:00:57.381924+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:how-terry-tao-became-an-evangelist-for-ai-in-math
+last_seen: '2026-06-11T18:00:57.381924+00:00'
 ---
+
 
 
 # How Terry Tao became an evangelist for AI in math

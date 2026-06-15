@@ -2,7 +2,7 @@
 title: nklsrh/BuildNewGames_ThreeJSGame
 archive_category: webdev-3d-creative
 source_category: web-development/threejs
-source_url: https://github.com/nklsrh/BuildNewGames_ThreeJSGame
+source_url: https://github.com/nklsrh/buildnewgames_threejsgame
 resource_id: github:nklsrh/buildnewgames_threejsgame
 local_vault_path: web-development/threejs/nklsrh-buildnewgames-threejsgame.md
 quality_score: 70
@@ -40,7 +40,7 @@ A game built to show off some of the basic features of the Three.JS WebGL librar
 
 ## Source
 
-Original source URL: https://github.com/nklsrh/BuildNewGames_ThreeJSGame
+Original source URL: https://github.com/nklsrh/buildnewgames_threejsgame
 
 ## Local Vault File
 

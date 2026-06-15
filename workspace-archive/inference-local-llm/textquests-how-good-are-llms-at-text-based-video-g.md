@@ -3,6 +3,7 @@ title: 'TextQuests: How Good are LLMs at Text-Based Video Games?'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/textquests
+resource_id: blog:textquests-how-good-are-llms-at-text-based-video-g
 local_vault_path: ai/models/huggingface-blog-textquests.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - youtube
 selection_reason:
 - Valuable developer reference
-resource_id: blog:textquests-how-good-are-llms-at-text-based-video-g
 ---
-
 
 # TextQuests: How Good are LLMs at Text-Based Video Games?
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/textquests
 
 ## Local Vault File
 
-Path: [textquests-how-good-are-llms-at-text-based-video-games-de8956.md](file:///../../ai/models/huggingface-blog-textquests.md)
+Path: [huggingface-blog-textquests.md](file:///../../ai/models/huggingface-blog-textquests.md)

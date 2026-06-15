@@ -4,16 +4,17 @@ category: ai/agents
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/smolagents
-published_at: '2024-12-31T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.813092+00:00'
+published_at: '2024-12-30T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.274497+00:00'
 tags:
 - agents
 status: active
+resource_id: blog:introducing-smolagents-simple-agents-that-write-ac
 first_seen: '2026-06-12T10:40:08.813092+00:00'
-last_seen: '2026-06-12T10:40:08.813092+00:00'
-resource_id: huggingface:blog/smolagents
+last_seen: '2026-06-15T06:03:50.274497+00:00'
+last_checked: '2026-06-15T06:03:50.274497+00:00'
+health_score: 100
 ---
-
 
 # Introducing smolagents: simple agents that write actions in code.
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/agents
-- Published: 2024-12-31T00:00:00+00:00
+- Published: 2024-12-30T18:30:00+00:00
 
 ## Related Tags
 

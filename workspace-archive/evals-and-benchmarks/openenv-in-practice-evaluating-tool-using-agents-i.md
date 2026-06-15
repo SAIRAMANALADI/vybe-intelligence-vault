@@ -3,6 +3,7 @@ title: 'OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environm
 archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/openenv-turing
+resource_id: blog:openenv-in-practice-evaluating-tool-using-agents-i
 local_vault_path: ai/agents/huggingface-blog-openenv-turing.md
 quality_score: 70
 archive_score: 72
@@ -14,9 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:openenv-in-practice-evaluating-tool-using-agents-i
 ---
-
 
 # OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments
 
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/openenv-turing
 
 ## Local Vault File
 
-Path: [openenv-in-practice-evaluating-tool-using-agents-in-real-world-environments-a09280.md](file:///../../ai/agents/huggingface-blog-openenv-turing.md)
+Path: [huggingface-blog-openenv-turing.md](file:///../../ai/agents/huggingface-blog-openenv-turing.md)

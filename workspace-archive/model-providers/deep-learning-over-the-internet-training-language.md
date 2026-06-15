@@ -3,6 +3,7 @@ title: 'Deep Learning over the Internet: Training Language Models Collaborativel
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/collaborative-training
+resource_id: blog:deep-learning-over-the-internet-training-language
 local_vault_path: ai/models/huggingface-blog-collaborative-training.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deep-learning-over-the-internet-training-language
 ---
-
-
 
 # Deep Learning over the Internet: Training Language Models Collaboratively
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/collaborative-training
 
 ## Local Vault File
 
-Path: [deep-learning-over-the-internet-training-language-models-collaboratively-a17f23.md](file:///../../ai/models/huggingface-blog-collaborative-training.md)
+Path: [huggingface-blog-collaborative-training.md](file:///../../ai/models/huggingface-blog-collaborative-training.md)

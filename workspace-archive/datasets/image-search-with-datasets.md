@@ -3,6 +3,7 @@ title: Image search with 🤗 datasets
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-search-datasets
+resource_id: blog:image-search-with-datasets
 local_vault_path: ai/models/huggingface-blog-image-search-datasets.md
 quality_score: 70
 archive_score: 74
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:image-search-with-datasets
 ---
-
-
 
 # Image search with 🤗 datasets
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-search-datasets
 
 ## Local Vault File
 
-Path: [image-search-with-datasets-42c9ce.md](file:///../../ai/models/huggingface-blog-image-search-datasets.md)
+Path: [huggingface-blog-image-search-datasets.md](file:///../../ai/models/huggingface-blog-image-search-datasets.md)

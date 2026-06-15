@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/huggingface-and-optimum-amd
-published_at: '2023-12-05T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.817391+00:00'
+published_at: '2023-12-04T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.277835+00:00'
 tags: []
 status: active
+resource_id: blog:amd-large-language-models-out-of-the-box-accelerat
 first_seen: '2026-06-12T10:40:08.817391+00:00'
-last_seen: '2026-06-12T10:40:08.817391+00:00'
-resource_id: huggingface:blog/huggingface-and-optimum-amd
+last_seen: '2026-06-15T06:03:50.277835+00:00'
+last_checked: '2026-06-15T06:03:50.277835+00:00'
+health_score: 100
 ---
-
 
 # AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-12-05T00:00:00+00:00
+- Published: 2023-12-04T18:30:00+00:00
 
 ## Related Tags
 

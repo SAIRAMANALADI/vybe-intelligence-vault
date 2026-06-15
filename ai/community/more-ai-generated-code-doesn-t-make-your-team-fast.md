@@ -13,9 +13,11 @@ collected_at: '2026-06-11T13:41:08.760479+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:more-ai-generated-code-doesn-t-make-your-team-fast
+last_seen: '2026-06-11T13:41:08.760479+00:00'
 ---
+
 
 
 # More AI-generated code doesn't make your team faster. It might slow you

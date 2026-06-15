@@ -3,6 +3,7 @@ title: 1 Billion Classifications
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/billion-classifications
+resource_id: blog:1-billion-classifications
 local_vault_path: ai/models/huggingface-blog-billion-classifications.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:1-billion-classifications
 ---
-
-
 
 # 1 Billion Classifications
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/billion-classifications
 
 ## Local Vault File
 
-Path: [1-billion-classifications-02cac2.md](file:///../../ai/models/huggingface-blog-billion-classifications.md)
+Path: [huggingface-blog-billion-classifications.md](file:///../../ai/models/huggingface-blog-billion-classifications.md)

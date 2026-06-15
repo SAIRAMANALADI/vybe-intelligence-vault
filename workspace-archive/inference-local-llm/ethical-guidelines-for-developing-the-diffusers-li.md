@@ -3,6 +3,7 @@ title: Ethical Guidelines for developing the Diffusers library
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-diffusers
+resource_id: blog:ethical-guidelines-for-developing-the-diffusers-li
 local_vault_path: ai/models/huggingface-blog-ethics-diffusers.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: framework
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:ethical-guidelines-for-developing-the-diffusers-li
 ---
-
 
 # Ethical Guidelines for developing the Diffusers library
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-diffusers
 
 ## Local Vault File
 
-Path: [ethical-guidelines-for-developing-the-diffusers-library-76a336.md](file:///../../ai/models/huggingface-blog-ethics-diffusers.md)
+Path: [huggingface-blog-ethics-diffusers.md](file:///../../ai/models/huggingface-blog-ethics-diffusers.md)

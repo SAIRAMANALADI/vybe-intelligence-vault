@@ -3,6 +3,7 @@ title: Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Mod
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/warm-starting-encoder-decoder
+resource_id: blog:leveraging-pre-trained-language-model-checkpoints
 local_vault_path: ai/rag/huggingface-blog-warm-starting-encoder-decoder.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - rag
 selection_reason:
 - Valuable developer reference
-resource_id: blog:leveraging-pre-trained-language-model-checkpoints
 ---
-
-
 
 # Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/warm-starting-encoder-decoder
 
 ## Local Vault File
 
-Path: [leveraging-pre-trained-language-model-checkpoints-for-encoder-decoder-models-c73e01.md](file:///../../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md)
+Path: [huggingface-blog-warm-starting-encoder-decoder.md](file:///../../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md)

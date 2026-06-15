@@ -3,6 +3,7 @@ title: Easily Train Models with H100 GPUs on NVIDIA DGX Cloud
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-dgx-cloud
+resource_id: blog:easily-train-models-with-h100-gpus-on-nvidia-dgx-c
 local_vault_path: ai/models/huggingface-blog-train-dgx-cloud.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:easily-train-models-with-h100-gpus-on-nvidia-dgx-c
 ---
-
 
 # Easily Train Models with H100 GPUs on NVIDIA DGX Cloud
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-dgx-cloud
 
 ## Local Vault File
 
-Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-cloud-589a8d.md](file:///../../ai/models/huggingface-blog-train-dgx-cloud.md)
+Path: [huggingface-blog-train-dgx-cloud.md](file:///../../ai/models/huggingface-blog-train-dgx-cloud.md)

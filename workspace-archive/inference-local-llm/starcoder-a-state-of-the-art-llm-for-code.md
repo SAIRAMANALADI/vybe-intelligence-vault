@@ -3,6 +3,7 @@ title: 'StarCoder: A State-of-the-Art LLM for Code'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/starcoder
+resource_id: blog:starcoder-a-state-of-the-art-llm-for-code
 local_vault_path: ai/models/huggingface-blog-starcoder.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:starcoder-a-state-of-the-art-llm-for-code
 ---
-
-
 
 # StarCoder: A State-of-the-Art LLM for Code
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starcoder
 
 ## Local Vault File
 
-Path: [starcoder-a-state-of-the-art-llm-for-code-f2b9c0.md](file:///../../ai/models/huggingface-blog-starcoder.md)
+Path: [huggingface-blog-starcoder.md](file:///../../ai/models/huggingface-blog-starcoder.md)

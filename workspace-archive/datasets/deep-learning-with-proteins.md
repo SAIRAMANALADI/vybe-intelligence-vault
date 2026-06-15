@@ -3,6 +3,7 @@ title: Deep Learning with Proteins
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-learning-with-proteins
+resource_id: blog:deep-learning-with-proteins
 local_vault_path: ai/models/huggingface-blog-deep-learning-with-proteins.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deep-learning-with-proteins
 ---
-
-
 
 # Deep Learning with Proteins
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-learning-with-proteins
 
 ## Local Vault File
 
-Path: [deep-learning-with-proteins-f43715.md](file:///../../ai/models/huggingface-blog-deep-learning-with-proteins.md)
+Path: [huggingface-blog-deep-learning-with-proteins.md](file:///../../ai/models/huggingface-blog-deep-learning-with-proteins.md)

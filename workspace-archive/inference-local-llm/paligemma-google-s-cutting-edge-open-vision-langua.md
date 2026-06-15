@@ -3,6 +3,7 @@ title: PaliGemma – Google's Cutting-Edge Open Vision Language Model
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma
+resource_id: blog:paligemma-google-s-cutting-edge-open-vision-langua
 local_vault_path: ai/models/huggingface-blog-paligemma.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:paligemma-google-s-cutting-edge-open-vision-langua
 ---
-
 
 # PaliGemma – Google's Cutting-Edge Open Vision Language Model
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma
 
 ## Local Vault File
 
-Path: [paligemma-google-s-cutting-edge-open-vision-language-model-e49320.md](file:///../../ai/models/huggingface-blog-paligemma.md)
+Path: [huggingface-blog-paligemma.md](file:///../../ai/models/huggingface-blog-paligemma.md)

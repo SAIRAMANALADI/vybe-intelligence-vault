@@ -3,6 +3,7 @@ title: Introducing SafeCoder
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/safecoder
+resource_id: blog:introducing-safecoder
 local_vault_path: ai/models/huggingface-blog-safecoder.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-safecoder
 ---
-
-
 
 # Introducing SafeCoder
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder
 
 ## Local Vault File
 
-Path: [introducing-safecoder-e29942.md](file:///../../ai/models/huggingface-blog-safecoder.md)
+Path: [huggingface-blog-safecoder.md](file:///../../ai/models/huggingface-blog-safecoder.md)

@@ -2,13 +2,13 @@
 title: Direct Preference Optimization Beyond Chatbots
 archive_category: model-providers
 source_category: ai/models
-source_url: https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots
+source_url: https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots
 resource_id: blog:direct-preference-optimization-beyond-chatbots
 local_vault_path: ai/models/direct-preference-optimization-beyond-chatbots.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Direct Preference Optimization Beyond 
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots
+Original source URL: https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots
 
 ## Local Vault File
 

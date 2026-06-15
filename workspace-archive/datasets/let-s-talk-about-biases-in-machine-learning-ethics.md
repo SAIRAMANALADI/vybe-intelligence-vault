@@ -4,6 +4,7 @@ title: 'Let''s talk about biases in machine learning! Ethics and Society Newslet
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-2
+resource_id: blog:let-s-talk-about-biases-in-machine-learning-ethics
 local_vault_path: ai/models/huggingface-blog-ethics-soc-2.md
 quality_score: 70
 archive_score: 70
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:let-s-talk-about-biases-in-machine-learning-ethics
 ---
-
-
 
 # Let's talk about biases in machine learning! Ethics and Society Newsletter #2
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-2
 
 ## Local Vault File
 
-Path: [let-s-talk-about-biases-in-machine-learning-ethics-and-society-newsletter-2-70cba1.md](file:///../../ai/models/huggingface-blog-ethics-soc-2.md)
+Path: [huggingface-blog-ethics-soc-2.md](file:///../../ai/models/huggingface-blog-ethics-soc-2.md)

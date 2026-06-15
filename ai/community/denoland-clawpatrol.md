@@ -13,9 +13,11 @@ collected_at: '2026-06-11T18:00:54.101715+00:00'
 tags:
 - agents
 - hackernews
-status: new
+status: inactive
 resource_id: github:denoland/clawpatrol
+last_seen: '2026-06-11T18:00:54.101715+00:00'
 ---
+
 
 
 # Show HN: Claw Patrol, a security firewall for agents

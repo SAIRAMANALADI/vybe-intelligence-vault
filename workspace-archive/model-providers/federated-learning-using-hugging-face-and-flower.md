@@ -3,6 +3,7 @@ title: Federated Learning using Hugging Face and Flower
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fl-with-flower
+resource_id: blog:federated-learning-using-hugging-face-and-flower
 local_vault_path: ai/models/huggingface-blog-fl-with-flower.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:federated-learning-using-hugging-face-and-flower
 ---
-
-
 
 # Federated Learning using Hugging Face and Flower
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fl-with-flower
 
 ## Local Vault File
 
-Path: [federated-learning-using-hugging-face-and-flower-1c01fc.md](file:///../../ai/models/huggingface-blog-fl-with-flower.md)
+Path: [huggingface-blog-fl-with-flower.md](file:///../../ai/models/huggingface-blog-fl-with-flower.md)

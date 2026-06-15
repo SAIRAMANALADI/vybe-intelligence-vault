@@ -3,6 +3,7 @@ title: Can foundation models label data like humans?
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-llm-leaderboard-rlhf
+resource_id: blog:can-foundation-models-label-data-like-humans
 local_vault_path: ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:can-foundation-models-label-data-like-humans
 ---
-
-
 
 # Can foundation models label data like humans?
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-rlhf
 
 ## Local Vault File
 
-Path: [can-foundation-models-label-data-like-humans-6c23ff.md](file:///../../ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md)
+Path: [huggingface-blog-open-llm-leaderboard-rlhf.md](file:///../../ai/models/huggingface-blog-open-llm-leaderboard-rlhf.md)

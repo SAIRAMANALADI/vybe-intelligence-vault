@@ -13,9 +13,11 @@ collected_at: '2026-06-11T09:25:09.590362+00:00'
 tags:
 - hackernews
 - rag
-status: new
+status: inactive
 resource_id: github:helixdb/helix-db
+last_seen: '2026-06-11T09:25:09.590362+00:00'
 ---
+
 
 
 # Show HN: HelixDB – A graph database built on object storage

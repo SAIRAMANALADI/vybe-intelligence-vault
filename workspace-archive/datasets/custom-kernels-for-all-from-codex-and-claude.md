@@ -3,6 +3,7 @@ title: Custom Kernels for All from Codex and Claude
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/custom-cuda-kernels-agent-skills
+resource_id: blog:custom-kernels-for-all-from-codex-and-claude
 local_vault_path: ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - anthropic
 selection_reason:
 - Valuable developer reference
-resource_id: blog:custom-kernels-for-all-from-codex-and-claude
 ---
-
-
 
 # Custom Kernels for All from Codex and Claude
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [custom-kernels-for-all-from-codex-and-claude-7553dd.md](file:///../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)
+Path: [huggingface-blog-custom-cuda-kernels-agent-skills.md](file:///../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)

@@ -3,6 +3,7 @@ title: Training and Finetuning Embedding Models with Sentence Transformers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-sentence-transformers
+resource_id: blog:training-and-finetuning-embedding-models-with-sent
 local_vault_path: ai/models/huggingface-blog-train-sentence-transformers.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:training-and-finetuning-embedding-models-with-sent
 ---
-
 
 # Training and Finetuning Embedding Models with Sentence Transformers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [training-and-finetuning-embedding-models-with-sentence-transformers-7eb4f9.md](file:///../../ai/models/huggingface-blog-train-sentence-transformers.md)
+Path: [huggingface-blog-train-sentence-transformers.md](file:///../../ai/models/huggingface-blog-train-sentence-transformers.md)

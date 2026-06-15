@@ -4,6 +4,7 @@ title: 'Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic
+resource_id: blog:introducing-three-new-serverless-inference-provide
 local_vault_path: ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-three-new-serverless-inference-provide
 ---
-
 
 # Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-nebius-novi
 
 ## Local Vault File
 
-Path: [introducing-three-new-serverless-inference-providers-hyperbolic-nebius-ai-studio-fbfff1.md](file:///../../ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md)
+Path: [huggingface-blog-inference-providers-nebius-novita-hyperbolic.md](file:///../../ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md)

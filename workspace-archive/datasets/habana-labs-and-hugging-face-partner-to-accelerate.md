@@ -3,6 +3,7 @@ title: Habana Labs and Hugging Face Partner to Accelerate Transformer Model Trai
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana
+resource_id: blog:habana-labs-and-hugging-face-partner-to-accelerate
 local_vault_path: ai/models/huggingface-blog-habana.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:habana-labs-and-hugging-face-partner-to-accelerate
 ---
-
-
 
 # Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana
 
 ## Local Vault File
 
-Path: [habana-labs-and-hugging-face-partner-to-accelerate-transformer-model-training-ecc788.md](file:///../../ai/models/huggingface-blog-habana.md)
+Path: [huggingface-blog-habana.md](file:///../../ai/models/huggingface-blog-habana.md)

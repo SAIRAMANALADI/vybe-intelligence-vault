@@ -3,6 +3,7 @@ title: How to train a new language model from scratch using Transformers and Tok
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-train
+resource_id: blog:how-to-train-a-new-language-model-from-scratch-usi
 local_vault_path: ai/models/huggingface-blog-how-to-train.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-to-train-a-new-language-model-from-scratch-usi
 ---
-
 
 # How to train a new language model from scratch using Transformers and Tokenizers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train
 
 ## Local Vault File
 
-Path: [how-to-train-a-new-language-model-from-scratch-using-transformers-and-tokenizers-00d47c.md](file:///../../ai/models/huggingface-blog-how-to-train.md)
+Path: [huggingface-blog-how-to-train.md](file:///../../ai/models/huggingface-blog-how-to-train.md)

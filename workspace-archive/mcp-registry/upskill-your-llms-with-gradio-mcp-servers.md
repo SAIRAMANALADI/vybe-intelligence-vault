@@ -3,6 +3,7 @@ title: Upskill your LLMs With Gradio MCP Servers
 archive_category: mcp-registry
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-mcp-servers
+resource_id: blog:upskill-your-llms-with-gradio-mcp-servers
 local_vault_path: ai/models/huggingface-blog-gradio-mcp-servers.md
 quality_score: 70
 archive_score: 74
@@ -12,10 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Useful for project building
-resource_id: blog:upskill-your-llms-with-gradio-mcp-servers
 ---
-
-
 
 # Upskill your LLMs With Gradio MCP Servers
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-servers
 
 ## Local Vault File
 
-Path: [upskill-your-llms-with-gradio-mcp-servers-dcedfc.md](file:///../../ai/models/huggingface-blog-gradio-mcp-servers.md)
+Path: [huggingface-blog-gradio-mcp-servers.md](file:///../../ai/models/huggingface-blog-gradio-mcp-servers.md)

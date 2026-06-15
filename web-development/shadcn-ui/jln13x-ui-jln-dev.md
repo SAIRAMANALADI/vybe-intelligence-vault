@@ -4,18 +4,19 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/jln13x/ui.jln.dev
-collected_at: '2026-06-12T10:40:21.841699+00:00'
+collected_at: '2026-06-15T06:04:25.609259+00:00'
 published_at: '2026-06-04T17:10:32Z'
 tags:
 - frontend_ui
 stars: 1289
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:21.841699+00:00'
-last_seen: '2026-06-12T10:40:21.841699+00:00'
 resource_id: github:jln13x/ui.jln.dev
+first_seen: '2026-06-12T10:40:21.841699+00:00'
+last_seen: '2026-06-15T06:04:25.609259+00:00'
+last_checked: '2026-06-15T06:04:25.609259+00:00'
+health_score: 100
 ---
-
 
 # jln13x/ui.jln.dev
 

@@ -3,6 +3,7 @@ title: Introducing RWKV - An RNN with the advantages of a transformer
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/rwkv
+resource_id: blog:introducing-rwkv-an-rnn-with-the-advantages-of-a-t
 local_vault_path: ai/models/huggingface-blog-rwkv.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-rwkv-an-rnn-with-the-advantages-of-a-t
 ---
-
 
 # Introducing RWKV - An RNN with the advantages of a transformer
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rwkv
 
 ## Local Vault File
 
-Path: [introducing-rwkv-an-rnn-with-the-advantages-of-a-transformer-2b2790.md](file:///../../ai/models/huggingface-blog-rwkv.md)
+Path: [huggingface-blog-rwkv.md](file:///../../ai/models/huggingface-blog-rwkv.md)

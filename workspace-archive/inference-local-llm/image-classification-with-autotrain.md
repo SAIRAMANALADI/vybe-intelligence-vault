@@ -3,6 +3,7 @@ title: Image Classification with AutoTrain
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/autotrain-image-classification
+resource_id: blog:image-classification-with-autotrain
 local_vault_path: ai/models/huggingface-blog-autotrain-image-classification.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:image-classification-with-autotrain
 ---
-
-
 
 # Image Classification with AutoTrain
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [image-classification-with-autotrain-f1932e.md](file:///../../ai/models/huggingface-blog-autotrain-image-classification.md)
+Path: [huggingface-blog-autotrain-image-classification.md](file:///../../ai/models/huggingface-blog-autotrain-image-classification.md)

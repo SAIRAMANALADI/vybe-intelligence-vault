@@ -3,6 +3,7 @@ title: Introducing the Synthetic Data Generator - Build Datasets with Natural La
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/synthetic-data-generator
+resource_id: blog:introducing-the-synthetic-data-generator-build-dat
 local_vault_path: ai/models/huggingface-blog-synthetic-data-generator.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - dataset
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-synthetic-data-generator-build-dat
 ---
-
 
 # Introducing the Synthetic Data Generator - Build Datasets with Natural Language
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-generator
 
 ## Local Vault File
 
-Path: [introducing-the-synthetic-data-generator-build-datasets-with-natural-language-b9baf0.md](file:///../../ai/models/huggingface-blog-synthetic-data-generator.md)
+Path: [huggingface-blog-synthetic-data-generator.md](file:///../../ai/models/huggingface-blog-synthetic-data-generator.md)

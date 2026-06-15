@@ -3,6 +3,7 @@ title: Sentence Transformers in the Hugging Face Hub
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentence-transformers-in-the-hub
+resource_id: blog:sentence-transformers-in-the-hugging-face-hub
 local_vault_path: ai/models/huggingface-blog-sentence-transformers-in-the-hub.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:sentence-transformers-in-the-hugging-face-hub
 ---
-
-
 
 # Sentence Transformers in the Hugging Face Hub
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-in-the-hu
 
 ## Local Vault File
 
-Path: [sentence-transformers-in-the-hugging-face-hub-6c02f4.md](file:///../../ai/models/huggingface-blog-sentence-transformers-in-the-hub.md)
+Path: [huggingface-blog-sentence-transformers-in-the-hub.md](file:///../../ai/models/huggingface-blog-sentence-transformers-in-the-hub.md)

@@ -13,9 +13,11 @@ collected_at: '2026-06-11T09:24:57.635037+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:klondike-solitaire-game-for-curses-in-5k-of-c
+last_seen: '2026-06-11T09:24:57.635037+00:00'
 ---
+
 
 
 # Klondike Solitaire game for curses in 5k of C

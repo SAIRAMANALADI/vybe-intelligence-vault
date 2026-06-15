@@ -3,8 +3,8 @@ title: ChangoMan/nextjs-mdx-blog
 category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
-source_url: https://github.com/ChangoMan/nextjs-mdx-blog
-collected_at: '2026-06-11T08:45:43.851251+00:00'
+source_url: https://github.com/changoman/nextjs-mdx-blog
+collected_at: '2026-06-15T06:04:21.398306+00:00'
 published_at: '2026-05-15T21:15:08Z'
 tags:
 - frontend_ui
@@ -12,23 +12,11 @@ stars: 432
 language: TypeScript
 status: active
 resource_id: github:changoman/nextjs-mdx-blog
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 63
-change_history:
-- timestamp: '2026-06-11T08:45:43.851251+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 172.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 172
-archived: false
+first_seen: '2026-06-11T08:45:43.851251+00:00'
+last_seen: '2026-06-15T06:04:21.398306+00:00'
+last_checked: '2026-06-15T06:04:21.398306+00:00'
+health_score: 100
 ---
-
-
 
 # ChangoMan/nextjs-mdx-blog
 
@@ -65,4 +53,4 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 
 ## Source
 
-Original source: https://github.com/ChangoMan/nextjs-mdx-blog
+Original source: https://github.com/changoman/nextjs-mdx-blog

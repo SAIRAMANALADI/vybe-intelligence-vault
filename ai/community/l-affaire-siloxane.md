@@ -13,9 +13,11 @@ collected_at: '2026-06-11T09:24:59.474306+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:l-affaire-siloxane
+last_seen: '2026-06-11T09:24:59.474306+00:00'
 ---
+
 
 
 # L'Affaire Siloxane

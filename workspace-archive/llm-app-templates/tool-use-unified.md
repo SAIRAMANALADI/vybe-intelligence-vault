@@ -3,6 +3,7 @@ title: Tool Use, Unified
 archive_category: llm-app-templates
 source_category: ai/models
 source_url: https://huggingface.co/blog/unified-tool-use
+resource_id: blog:tool-use-unified
 local_vault_path: ai/models/huggingface-blog-unified-tool-use.md
 quality_score: 70
 archive_score: 72
@@ -12,10 +13,7 @@ importance: medium
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:tool-use-unified
 ---
-
-
 
 # Tool Use, Unified
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [tool-use-unified-a318ba.md](file:///../../ai/models/huggingface-blog-unified-tool-use.md)
+Path: [huggingface-blog-unified-tool-use.md](file:///../../ai/models/huggingface-blog-unified-tool-use.md)

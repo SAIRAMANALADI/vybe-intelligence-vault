@@ -3,6 +3,7 @@ title: SmolVLM Grows Smaller – Introducing the 256M & 500M Models!
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolervlm
+resource_id: blog:smolvlm-grows-smaller-introducing-the-256m-500m-mo
 local_vault_path: ai/models/huggingface-blog-smolervlm.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:smolvlm-grows-smaller-introducing-the-256m-500m-mo
 ---
-
 
 # SmolVLM Grows Smaller – Introducing the 256M & 500M Models!
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolervlm
 
 ## Local Vault File
 
-Path: [smolvlm-grows-smaller-introducing-the-256m-500m-models-1b3a1a.md](file:///../../ai/models/huggingface-blog-smolervlm.md)
+Path: [huggingface-blog-smolervlm.md](file:///../../ai/models/huggingface-blog-smolervlm.md)

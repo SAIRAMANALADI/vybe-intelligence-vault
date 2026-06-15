@@ -3,6 +3,7 @@ title: 'Introducing The World''s Largest Open Multilingual Language Model: BLOOM
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom
+resource_id: blog:introducing-the-world-s-largest-open-multilingual
 local_vault_path: ai/models/huggingface-blog-bloom.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-world-s-largest-open-multilingual
 ---
-
-
 
 # Introducing The World's Largest Open Multilingual Language Model: BLOOM
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom
 
 ## Local Vault File
 
-Path: [introducing-the-world-s-largest-open-multilingual-language-model-bloom-09b9be.md](file:///../../ai/models/huggingface-blog-bloom.md)
+Path: [huggingface-blog-bloom.md](file:///../../ai/models/huggingface-blog-bloom.md)

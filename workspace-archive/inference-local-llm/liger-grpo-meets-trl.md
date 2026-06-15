@@ -3,6 +3,7 @@ title: 🐯 Liger GRPO meets TRL
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/liger-grpo
+resource_id: blog:liger-grpo-meets-trl
 local_vault_path: ai/models/huggingface-blog-liger-grpo.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:liger-grpo-meets-trl
 ---
-
-
 
 # 🐯 Liger GRPO meets TRL
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liger-grpo
 
 ## Local Vault File
 
-Path: [liger-grpo-meets-trl-816c0f.md](file:///../../ai/models/huggingface-blog-liger-grpo.md)
+Path: [huggingface-blog-liger-grpo.md](file:///../../ai/models/huggingface-blog-liger-grpo.md)

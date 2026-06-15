@@ -3,6 +3,7 @@ title: Finetune Stable Diffusion Models with DDPO via TRL
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-ddpo
+resource_id: blog:finetune-stable-diffusion-models-with-ddpo-via-trl
 local_vault_path: ai/models/huggingface-blog-trl-ddpo.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:finetune-stable-diffusion-models-with-ddpo-via-trl
 ---
-
-
 
 # Finetune Stable Diffusion Models with DDPO via TRL
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-ddpo
 
 ## Local Vault File
 
-Path: [finetune-stable-diffusion-models-with-ddpo-via-trl-68fb57.md](file:///../../ai/models/huggingface-blog-trl-ddpo.md)
+Path: [huggingface-blog-trl-ddpo.md](file:///../../ai/models/huggingface-blog-trl-ddpo.md)

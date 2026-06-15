@@ -18,7 +18,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`benjaminmiles-react-three-vite.md`](file:///../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/R3F.Multiplayer)
+### [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`juniorxsound-r3f-multiplayer.md`](file:///../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
@@ -28,7 +28,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`pmndrs-react-three-next.md`](file:///../../web-development/react-three-fiber/pmndrs-react-three-next.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols)
+### [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`tiagocavalcante-r3f-native-orbitcontrols.md`](file:///../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
@@ -43,7 +43,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`whoisryosuke-r3f-next-starter.md`](file:///../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [wrongakram/R3F-Chairs](https://github.com/wrongakram/R3F-Chairs)
+### [wrongakram/R3F-Chairs](https://github.com/wrongakram/r3f-chairs)
 - **Category**: `web-development/react-three-fiber` | **Kind**: `TOOL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`wrongakram-r3f-chairs.md`](file:///../../web-development/react-three-fiber/wrongakram-r3f-chairs.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
@@ -63,7 +63,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `83` | **Path**: [`pixiv-three-vrm.md`](file:///../../web-development/threejs/pixiv-three-vrm.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [spite/Wagner](https://github.com/spite/Wagner)
+### [spite/Wagner](https://github.com/spite/wagner)
 - **Category**: `web-development/threejs` | **Kind**: `TOOL` | **Tier**: `USEFUL`
 - **Score**: `83` | **Path**: [`spite-wagner.md`](file:///../../web-development/threejs/spite-wagner.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

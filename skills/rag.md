@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 931 resources matched in the intelligence vault.
+Active signals: 1006 resources matched in the intelligence vault.
 Recently detected signals:
-- [datawhalechina/wow-rag](../ai/rag/datawhalechina-wow-rag.md) (Source: Unknown Source) - Collected 2026-06-12
-- [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md) (Source: Unknown Source) - Collected 2026-06-12
-- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-12
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-12
+- [The next evolution of the Agents SDK | OpenAI](../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) (Source: Unknown Source) - Collected 2026-06-15
+- [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) (Source: Unknown Source) - Collected 2026-06-15
+- [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Agents SDK | OpenAI API](../ai/rag/agents-sdk-openai-api.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:53.660901+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:36.617935+00:00.660901+00:00.

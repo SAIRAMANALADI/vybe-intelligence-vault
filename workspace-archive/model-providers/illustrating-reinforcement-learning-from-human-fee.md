@@ -3,6 +3,7 @@ title: Illustrating Reinforcement Learning from Human Feedback (RLHF)
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/rlhf
+resource_id: blog:illustrating-reinforcement-learning-from-human-fee
 local_vault_path: ai/models/huggingface-blog-rlhf.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:illustrating-reinforcement-learning-from-human-fee
 ---
-
 
 # Illustrating Reinforcement Learning from Human Feedback (RLHF)
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rlhf
 
 ## Local Vault File
 
-Path: [illustrating-reinforcement-learning-from-human-feedback-rlhf-150ec9.md](file:///../../ai/models/huggingface-blog-rlhf.md)
+Path: [huggingface-blog-rlhf.md](file:///../../ai/models/huggingface-blog-rlhf.md)

@@ -3,6 +3,7 @@ title: 'SegMoE: Segmind Mixture of Diffusion Experts'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/segmoe
+resource_id: blog:segmoe-segmind-mixture-of-diffusion-experts
 local_vault_path: ai/models/huggingface-blog-segmoe.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:segmoe-segmind-mixture-of-diffusion-experts
 ---
-
-
 
 # SegMoE: Segmind Mixture of Diffusion Experts
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/segmoe
 
 ## Local Vault File
 
-Path: [segmoe-segmind-mixture-of-diffusion-experts-8fd960.md](file:///../../ai/models/huggingface-blog-segmoe.md)
+Path: [huggingface-blog-segmoe.md](file:///../../ai/models/huggingface-blog-segmoe.md)

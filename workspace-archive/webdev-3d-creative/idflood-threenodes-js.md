@@ -2,7 +2,7 @@
 title: idflood/ThreeNodes.js
 archive_category: webdev-3d-creative
 source_category: web-development/webgl
-source_url: https://github.com/idflood/ThreeNodes.js
+source_url: https://github.com/idflood/threenodes.js
 resource_id: github:idflood/threenodes.js
 local_vault_path: web-development/webgl/idflood-threenodes-js.md
 quality_score: 70
@@ -40,7 +40,7 @@ vvvv "clone" in javascript/webgl
 
 ## Source
 
-Original source URL: https://github.com/idflood/ThreeNodes.js
+Original source URL: https://github.com/idflood/threenodes.js
 
 ## Local Vault File
 

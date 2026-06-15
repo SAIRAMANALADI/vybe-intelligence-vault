@@ -1,0 +1,50 @@
+---
+title: lchen4-godaddy/agent-template-openai-agents-sdk
+archive_category: agent-frameworks
+source_category: ai/agents
+source_url: https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk
+resource_id: github:lchen4-godaddy/agent-template-openai-agents-sdk
+local_vault_path: ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md
+quality_score: 70
+archive_score: 77
+archive_tier: useful
+resource_kind: template
+importance: medium
+tags:
+- agents
+- github-repo
+- openai
+- python
+selection_reason:
+- Strong keyword match
+- Useful for project building
+---
+
+# lchen4-godaddy/agent-template-openai-agents-sdk
+
+## Why This Is In The Archive
+
+- Matched archive category: `Agent Frameworks`
+- Quality score: 70 | Archive score: 77 (useful)
+- Resource kind: template
+- Selection reasons:
+  - Strong keyword match
+  - Useful for project building
+
+## Summary
+
+Template for building an agent using the OpenAI Agents SDK.
+
+## Use Cases
+
+- Multi-agent coordination
+- Structured tool usage
+- Memory integration
+
+## Source
+
+Original source URL: https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk
+
+## Local Vault File
+
+Path: [lchen4-godaddy-agent-template-openai-agents-sdk.md](file:///../../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)

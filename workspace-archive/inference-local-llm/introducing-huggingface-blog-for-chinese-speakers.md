@@ -4,6 +4,7 @@ title: 'Introducing HuggingFace blog for Chinese speakers: Fostering Collaborati
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/chinese-language-blog
+resource_id: blog:introducing-huggingface-blog-for-chinese-speakers
 local_vault_path: ai/models/huggingface-blog-chinese-language-blog.md
 quality_score: 70
 archive_score: 70
@@ -12,10 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-huggingface-blog-for-chinese-speakers
 ---
-
-
 
 # Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community
 
@@ -43,4 +41,4 @@ Original source URL: https://huggingface.co/blog/chinese-language-blog
 
 ## Local Vault File
 
-Path: [introducing-huggingface-blog-for-chinese-speakers-fostering-collaboration-with-t-9541c1.md](file:///../../ai/models/huggingface-blog-chinese-language-blog.md)
+Path: [huggingface-blog-chinese-language-blog.md](file:///../../ai/models/huggingface-blog-chinese-language-blog.md)

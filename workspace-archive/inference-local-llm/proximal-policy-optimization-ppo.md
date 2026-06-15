@@ -3,6 +3,7 @@ title: Proximal Policy Optimization (PPO)
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-ppo
+resource_id: blog:proximal-policy-optimization-ppo
 local_vault_path: ai/models/huggingface-blog-deep-rl-ppo.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:proximal-policy-optimization-ppo
 ---
-
-
 
 # Proximal Policy Optimization (PPO)
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-ppo
 
 ## Local Vault File
 
-Path: [proximal-policy-optimization-ppo-35c9eb.md](file:///../../ai/models/huggingface-blog-deep-rl-ppo.md)
+Path: [huggingface-blog-deep-rl-ppo.md](file:///../../ai/models/huggingface-blog-deep-rl-ppo.md)

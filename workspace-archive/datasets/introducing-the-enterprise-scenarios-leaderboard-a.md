@@ -4,6 +4,7 @@ title: 'Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-patronus
+resource_id: blog:introducing-the-enterprise-scenarios-leaderboard-a
 local_vault_path: ai/models/huggingface-blog-leaderboard-patronus.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-enterprise-scenarios-leaderboard-a
 ---
-
-
 
 # Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-patronus
 
 ## Local Vault File
 
-Path: [introducing-the-enterprise-scenarios-leaderboard-a-leaderboard-for-real-world-us-e873ca.md](file:///../../ai/models/huggingface-blog-leaderboard-patronus.md)
+Path: [huggingface-blog-leaderboard-patronus.md](file:///../../ai/models/huggingface-blog-leaderboard-patronus.md)

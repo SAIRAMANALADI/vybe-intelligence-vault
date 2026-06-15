@@ -3,6 +3,7 @@ title: Welcome Stable-baselines3 to the Hugging Face Hub 🤗
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sb3
+resource_id: blog:welcome-stable-baselines3-to-the-hugging-face-hub
 local_vault_path: ai/models/huggingface-blog-sb3.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-stable-baselines3-to-the-hugging-face-hub
 ---
-
-
 
 # Welcome Stable-baselines3 to the Hugging Face Hub 🤗
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sb3
 
 ## Local Vault File
 
-Path: [welcome-stable-baselines3-to-the-hugging-face-hub-b5a2b2.md](file:///../../ai/models/huggingface-blog-sb3.md)
+Path: [huggingface-blog-sb3.md](file:///../../ai/models/huggingface-blog-sb3.md)

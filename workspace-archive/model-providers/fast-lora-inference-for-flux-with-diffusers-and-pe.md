@@ -3,6 +3,7 @@ title: Fast LoRA inference for Flux with Diffusers and PEFT
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora-fast
+resource_id: blog:fast-lora-inference-for-flux-with-diffusers-and-pe
 local_vault_path: ai/models/huggingface-blog-lora-fast.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fast-lora-inference-for-flux-with-diffusers-and-pe
 ---
-
 
 # Fast LoRA inference for Flux with Diffusers and PEFT
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-fast
 
 ## Local Vault File
 
-Path: [fast-lora-inference-for-flux-with-diffusers-and-peft-bb4098.md](file:///../../ai/models/huggingface-blog-lora-fast.md)
+Path: [huggingface-blog-lora-fast.md](file:///../../ai/models/huggingface-blog-lora-fast.md)

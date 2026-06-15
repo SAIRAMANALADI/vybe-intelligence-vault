@@ -3,6 +3,7 @@ title: Goodbye cold boot - how we made LoRA Inference 300% faster
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora-adapters-dynamic-loading
+resource_id: blog:goodbye-cold-boot-how-we-made-lora-inference-300-f
 local_vault_path: ai/models/huggingface-blog-lora-adapters-dynamic-loading.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:goodbye-cold-boot-how-we-made-lora-inference-300-f
 ---
-
 
 # Goodbye cold boot - how we made LoRA Inference 300% faster
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-adapters-dynamic-loading
 
 ## Local Vault File
 
-Path: [goodbye-cold-boot-how-we-made-lora-inference-300-faster-5faa4a.md](file:///../../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md)
+Path: [huggingface-blog-lora-adapters-dynamic-loading.md](file:///../../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md)

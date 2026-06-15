@@ -3,6 +3,7 @@ title: DeepInfra on Hugging Face Inference Providers 🔥
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-deepinfra
+resource_id: blog:deepinfra-on-hugging-face-inference-providers
 local_vault_path: ai/models/huggingface-blog-inference-providers-deepinfra.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deepinfra-on-hugging-face-inference-providers
 ---
-
-
 
 # DeepInfra on Hugging Face Inference Providers 🔥
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-deepinfra
 
 ## Local Vault File
 
-Path: [deepinfra-on-hugging-face-inference-providers-f66745.md](file:///../../ai/models/huggingface-blog-inference-providers-deepinfra.md)
+Path: [huggingface-blog-inference-providers-deepinfra.md](file:///../../ai/models/huggingface-blog-inference-providers-deepinfra.md)

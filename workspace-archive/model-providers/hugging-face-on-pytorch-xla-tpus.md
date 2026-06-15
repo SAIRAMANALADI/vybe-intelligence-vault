@@ -3,6 +3,7 @@ title: Hugging Face on PyTorch / XLA TPUs
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch-xla
+resource_id: blog:hugging-face-on-pytorch-xla-tpus
 local_vault_path: ai/models/huggingface-blog-pytorch-xla.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-on-pytorch-xla-tpus
 ---
-
-
 
 # Hugging Face on PyTorch / XLA TPUs
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-xla
 
 ## Local Vault File
 
-Path: [hugging-face-on-pytorch-xla-tpus-42161f.md](file:///../../ai/models/huggingface-blog-pytorch-xla.md)
+Path: [huggingface-blog-pytorch-xla.md](file:///../../ai/models/huggingface-blog-pytorch-xla.md)

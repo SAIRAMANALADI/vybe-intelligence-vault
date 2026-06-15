@@ -3,6 +3,7 @@ title: 'Director of Machine Learning Insights [Part 2: SaaS Edition]'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights-2
+resource_id: blog:director-of-machine-learning-insights-part-2-saas
 local_vault_path: ai/models/huggingface-blog-ml-director-insights-2.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:director-of-machine-learning-insights-part-2-saas
 ---
-
-
 
 # Director of Machine Learning Insights [Part 2: SaaS Edition]
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights-2
 
 ## Local Vault File
 
-Path: [director-of-machine-learning-insights-part-2-saas-edition-9e4ac8.md](file:///../../ai/models/huggingface-blog-ml-director-insights-2.md)
+Path: [huggingface-blog-ml-director-insights-2.md](file:///../../ai/models/huggingface-blog-ml-director-insights-2.md)

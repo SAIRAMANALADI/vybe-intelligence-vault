@@ -3,18 +3,16 @@ title: Welcome PaddlePaddle to the Hugging Face Hub
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/paddlepaddle
-local_vault_path: ai/models/huggingface-blog-paddlepaddle.md
+resource_id: blog:welcome-paddlepaddle-to-the-hugging-face-hub
+local_vault_path: ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-paddlepaddle-to-the-hugging-face-hub
 ---
-
-
 
 # Welcome PaddlePaddle to the Hugging Face Hub
 
@@ -22,7 +20,7 @@ resource_id: blog:welcome-paddlepaddle-to-the-hugging-face-hub
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md](file:///../../ai/models/huggingface-blog-paddlepaddle.md)
+Path: [welcome-paddlepaddle-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md)

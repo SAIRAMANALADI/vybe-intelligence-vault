@@ -3,6 +3,7 @@ title: Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of c
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-nvidia
+resource_id: blog:optimum-nvidia-unlocking-blazingly-fast-llm-infere
 local_vault_path: ai/models/huggingface-blog-optimum-nvidia.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:optimum-nvidia-unlocking-blazingly-fast-llm-infere
 ---
-
 
 # Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-nvidia
 
 ## Local Vault File
 
-Path: [optimum-nvidia-unlocking-blazingly-fast-llm-inference-in-just-1-line-of-code-40762f.md](file:///../../ai/models/huggingface-blog-optimum-nvidia.md)
+Path: [huggingface-blog-optimum-nvidia.md](file:///../../ai/models/huggingface-blog-optimum-nvidia.md)

@@ -3,6 +3,7 @@ title: 'TGI Multi-LoRA: Deploy Once, Serve 30 Models'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/multi-lora-serving
+resource_id: blog:tgi-multi-lora-deploy-once-serve-30-models
 local_vault_path: ai/models/huggingface-blog-multi-lora-serving.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:tgi-multi-lora-deploy-once-serve-30-models
 ---
-
-
 
 # TGI Multi-LoRA: Deploy Once, Serve 30 Models
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/multi-lora-serving
 
 ## Local Vault File
 
-Path: [tgi-multi-lora-deploy-once-serve-30-models-12a564.md](file:///../../ai/models/huggingface-blog-multi-lora-serving.md)
+Path: [huggingface-blog-multi-lora-serving.md](file:///../../ai/models/huggingface-blog-multi-lora-serving.md)

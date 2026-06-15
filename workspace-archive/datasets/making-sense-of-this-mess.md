@@ -3,6 +3,7 @@ title: Making sense of this mess
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-docs-redesign
+resource_id: blog:making-sense-of-this-mess
 local_vault_path: ai/models/huggingface-blog-transformers-docs-redesign.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:making-sense-of-this-mess
 ---
-
-
 
 # Making sense of this mess
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [making-sense-of-this-mess-bb633b.md](file:///../../ai/models/huggingface-blog-transformers-docs-redesign.md)
+Path: [huggingface-blog-transformers-docs-redesign.md](file:///../../ai/models/huggingface-blog-transformers-docs-redesign.md)

@@ -14,11 +14,12 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 first_seen: '2026-06-12T10:40:22.805926+00:00'
 last_seen: '2026-06-12T10:40:22.805926+00:00'
 resource_id: hackernews:anthropic-apologizes-for-invisible-claude-fable-gu
 ---
+
 
 
 # Anthropic apologizes for invisible Claude Fable guardrails

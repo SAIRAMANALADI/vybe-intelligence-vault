@@ -3,6 +3,7 @@ title: Inference for PROs
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-pro
+resource_id: blog:inference-for-pros
 local_vault_path: ai/models/huggingface-blog-inference-pro.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:inference-for-pros
 ---
-
-
 
 # Inference for PROs
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: [inference-for-pros-6507dd.md](file:///../../ai/models/huggingface-blog-inference-pro.md)
+Path: [huggingface-blog-inference-pro.md](file:///../../ai/models/huggingface-blog-inference-pro.md)

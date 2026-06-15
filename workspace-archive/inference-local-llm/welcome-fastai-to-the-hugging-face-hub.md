@@ -3,6 +3,7 @@ title: Welcome fastai to the Hugging Face Hub
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fastai
+resource_id: blog:welcome-fastai-to-the-hugging-face-hub
 local_vault_path: ai/models/huggingface-blog-fastai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-fastai-to-the-hugging-face-hub
 ---
-
-
 
 # Welcome fastai to the Hugging Face Hub
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai/models/huggingface-blog-fastai.md)
+Path: [huggingface-blog-fastai.md](file:///../../ai/models/huggingface-blog-fastai.md)

@@ -4,16 +4,17 @@ category: ai/agents
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/futurebench
-published_at: '2025-07-17T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.810455+00:00'
+published_at: '2025-07-16T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.270545+00:00'
 tags:
 - agents
 status: active
+resource_id: blog:back-to-the-future-evaluating-ai-agents-on-predict
 first_seen: '2026-06-12T10:40:08.810455+00:00'
-last_seen: '2026-06-12T10:40:08.810455+00:00'
-resource_id: huggingface:blog/futurebench
+last_seen: '2026-06-15T06:03:50.270545+00:00'
+last_checked: '2026-06-15T06:03:50.270545+00:00'
+health_score: 100
 ---
-
 
 # Back to The Future: Evaluating AI Agents on Predicting Future Events
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/agents
-- Published: 2025-07-17T00:00:00+00:00
+- Published: 2025-07-16T18:30:00+00:00
 
 ## Related Tags
 

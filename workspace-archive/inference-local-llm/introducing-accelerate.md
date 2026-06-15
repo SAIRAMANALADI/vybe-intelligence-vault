@@ -3,6 +3,7 @@ title: Introducing 🤗 Accelerate
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-library
+resource_id: blog:introducing-accelerate
 local_vault_path: ai/models/huggingface-blog-accelerate-library.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: framework
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:introducing-accelerate
 ---
-
-
 
 # Introducing 🤗 Accelerate
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [introducing-accelerate-61a53b.md](file:///../../ai/models/huggingface-blog-accelerate-library.md)
+Path: [huggingface-blog-accelerate-library.md](file:///../../ai/models/huggingface-blog-accelerate-library.md)

@@ -3,6 +3,7 @@ title: Journey to 1 Million Gradio Users!
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-1m
+resource_id: blog:journey-to-1-million-gradio-users
 local_vault_path: ai/models/huggingface-blog-gradio-1m.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:journey-to-1-million-gradio-users
 ---
-
-
 
 # Journey to 1 Million Gradio Users!
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-1m
 
 ## Local Vault File
 
-Path: [journey-to-1-million-gradio-users-685027.md](file:///../../ai/models/huggingface-blog-gradio-1m.md)
+Path: [huggingface-blog-gradio-1m.md](file:///../../ai/models/huggingface-blog-gradio-1m.md)

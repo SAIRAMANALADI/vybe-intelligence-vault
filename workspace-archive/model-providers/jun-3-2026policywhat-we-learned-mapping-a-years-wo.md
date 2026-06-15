@@ -3,7 +3,7 @@ title: Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled c
   threats
 archive_category: model-providers
 source_category: ai/companies/anthropic
-source_url: https://anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
+source_url: https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack
 resource_id: blog:jun-3-2026policywhat-we-learned-mapping-a-years-wo
 local_vault_path: ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md
 quality_score: 70
@@ -43,7 +43,7 @@ Recent update from Anthropic News Blog: Jun 3, 2026PolicyWhat we learned mapping
 
 ## Source
 
-Original source URL: https://anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
+Original source URL: https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack
 
 ## Local Vault File
 

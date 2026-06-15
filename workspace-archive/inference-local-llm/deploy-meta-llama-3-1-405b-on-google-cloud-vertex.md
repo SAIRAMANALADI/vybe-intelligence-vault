@@ -3,6 +3,7 @@ title: Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama31-on-vertex-ai
+resource_id: blog:deploy-meta-llama-3-1-405b-on-google-cloud-vertex
 local_vault_path: ai/models/huggingface-blog-llama31-on-vertex-ai.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploy-meta-llama-3-1-405b-on-google-cloud-vertex
 ---
-
-
 
 # Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama31-on-vertex-ai
 
 ## Local Vault File
 
-Path: [deploy-meta-llama-3-1-405b-on-google-cloud-vertex-ai-57a105.md](file:///../../ai/models/huggingface-blog-llama31-on-vertex-ai.md)
+Path: [huggingface-blog-llama31-on-vertex-ai.md](file:///../../ai/models/huggingface-blog-llama31-on-vertex-ai.md)

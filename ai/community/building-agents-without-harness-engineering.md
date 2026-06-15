@@ -13,9 +13,11 @@ collected_at: '2026-06-11T20:35:31.610981+00:00'
 tags:
 - agents
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:building-agents-without-harness-engineering
+last_seen: '2026-06-11T20:35:31.610981+00:00'
 ---
+
 
 
 # Building agents without harness engineering

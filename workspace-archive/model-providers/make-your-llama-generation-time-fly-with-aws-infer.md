@@ -3,6 +3,7 @@ title: Make your llama generation time fly with AWS Inferentia2
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inferentia-llama2
+resource_id: blog:make-your-llama-generation-time-fly-with-aws-infer
 local_vault_path: ai/models/huggingface-blog-inferentia-llama2.md
 quality_score: 70
 archive_score: 70
@@ -14,9 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:make-your-llama-generation-time-fly-with-aws-infer
 ---
-
 
 # Make your llama generation time fly with AWS Inferentia2
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [make-your-llama-generation-time-fly-with-aws-inferentia2-45bb18.md](file:///../../ai/models/huggingface-blog-inferentia-llama2.md)
+Path: [huggingface-blog-inferentia-llama2.md](file:///../../ai/models/huggingface-blog-inferentia-llama2.md)

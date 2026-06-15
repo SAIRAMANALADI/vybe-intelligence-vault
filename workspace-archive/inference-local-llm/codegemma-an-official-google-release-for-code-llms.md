@@ -3,6 +3,7 @@ title: CodeGemma - an official Google release for code LLMs
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/codegemma
+resource_id: blog:codegemma-an-official-google-release-for-code-llms
 local_vault_path: ai/models/huggingface-blog-codegemma.md
 quality_score: 70
 archive_score: 80
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:codegemma-an-official-google-release-for-code-llms
 ---
-
-
 
 # CodeGemma - an official Google release for code LLMs
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/codegemma
 
 ## Local Vault File
 
-Path: [codegemma-an-official-google-release-for-code-llms-ce2711.md](file:///../../ai/models/huggingface-blog-codegemma.md)
+Path: [huggingface-blog-codegemma.md](file:///../../ai/models/huggingface-blog-codegemma.md)

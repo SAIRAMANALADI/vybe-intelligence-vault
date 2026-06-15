@@ -3,6 +3,7 @@ title: Train AI models with Unsloth and Hugging Face Jobs for FREE
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/unsloth-jobs
+resource_id: blog:train-ai-models-with-unsloth-and-hugging-face-jobs
 local_vault_path: ai/models/huggingface-blog-unsloth-jobs.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:train-ai-models-with-unsloth-and-hugging-face-jobs
 ---
-
-
 
 # Train AI models with Unsloth and Hugging Face Jobs for FREE
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsloth-jobs
 
 ## Local Vault File
 
-Path: [train-ai-models-with-unsloth-and-hugging-face-jobs-for-free-8464cd.md](file:///../../ai/models/huggingface-blog-unsloth-jobs.md)
+Path: [huggingface-blog-unsloth-jobs.md](file:///../../ai/models/huggingface-blog-unsloth-jobs.md)

@@ -3,6 +3,7 @@ title: Results of the Open Source AI Game Jam
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/game-jam-first-edition-results
+resource_id: blog:results-of-the-open-source-ai-game-jam
 local_vault_path: ai/models/huggingface-blog-game-jam-first-edition-results.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:results-of-the-open-source-ai-game-jam
 ---
-
-
 
 # Results of the Open Source AI Game Jam
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [results-of-the-open-source-ai-game-jam-3f05dc.md](file:///../../ai/models/huggingface-blog-game-jam-first-edition-results.md)
+Path: [huggingface-blog-game-jam-first-edition-results.md](file:///../../ai/models/huggingface-blog-game-jam-first-edition-results.md)

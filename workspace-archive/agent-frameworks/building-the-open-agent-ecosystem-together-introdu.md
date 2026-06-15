@@ -3,6 +3,7 @@ title: 'Building the Open Agent Ecosystem Together: Introducing OpenEnv'
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/openenv
+resource_id: blog:building-the-open-agent-ecosystem-together-introdu
 local_vault_path: ai/agents/huggingface-blog-openenv.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:building-the-open-agent-ecosystem-together-introdu
 ---
-
 
 # Building the Open Agent Ecosystem Together: Introducing OpenEnv
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv
 
 ## Local Vault File
 
-Path: [building-the-open-agent-ecosystem-together-introducing-openenv-269415.md](file:///../../ai/agents/huggingface-blog-openenv.md)
+Path: [huggingface-blog-openenv.md](file:///../../ai/agents/huggingface-blog-openenv.md)

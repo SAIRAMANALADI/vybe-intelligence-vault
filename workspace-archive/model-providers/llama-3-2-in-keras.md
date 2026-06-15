@@ -3,6 +3,7 @@ title: “Llama 3.2 in Keras”
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/keras-llama-32
+resource_id: blog:llama-3-2-in-keras
 local_vault_path: ai/models/huggingface-blog-keras-llama-32.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:llama-3-2-in-keras
 ---
-
-
 
 # “Llama 3.2 in Keras”
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/keras-llama-32
 
 ## Local Vault File
 
-Path: [llama-3-2-in-keras-e188f0.md](file:///../../ai/models/huggingface-blog-keras-llama-32.md)
+Path: [huggingface-blog-keras-llama-32.md](file:///../../ai/models/huggingface-blog-keras-llama-32.md)

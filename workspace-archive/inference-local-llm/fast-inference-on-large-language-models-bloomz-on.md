@@ -3,6 +3,7 @@ title: 'Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Acceler
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana-gaudi-2-bloom
+resource_id: blog:fast-inference-on-large-language-models-bloomz-on
 local_vault_path: ai/models/huggingface-blog-habana-gaudi-2-bloom.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fast-inference-on-large-language-models-bloomz-on
 ---
-
-
 
 # Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-bloom
 
 ## Local Vault File
 
-Path: [fast-inference-on-large-language-models-bloomz-on-habana-gaudi2-accelerator-d5b804.md](file:///../../ai/models/huggingface-blog-habana-gaudi-2-bloom.md)
+Path: [huggingface-blog-habana-gaudi-2-bloom.md](file:///../../ai/models/huggingface-blog-habana-gaudi-2-bloom.md)

@@ -3,6 +3,7 @@ title: 'Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-nd-parallel
+resource_id: blog:accelerate-nd-parallel-a-guide-to-efficient-multi
 local_vault_path: ai/models/huggingface-blog-accelerate-nd-parallel.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerate-nd-parallel-a-guide-to-efficient-multi
 ---
-
-
 
 # Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-nd-parallel
 
 ## Local Vault File
 
-Path: [accelerate-nd-parallel-a-guide-to-efficient-multi-gpu-training-992015.md](file:///../../ai/models/huggingface-blog-accelerate-nd-parallel.md)
+Path: [huggingface-blog-accelerate-nd-parallel.md](file:///../../ai/models/huggingface-blog-accelerate-nd-parallel.md)

@@ -3,6 +3,7 @@ title: How we sped up transformer inference 100x for 🤗 API customers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerated-inference
+resource_id: blog:how-we-sped-up-transformer-inference-100x-for-api
 local_vault_path: ai/models/huggingface-blog-accelerated-inference.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-we-sped-up-transformer-inference-100x-for-api
 ---
-
-
 
 # How we sped up transformer inference 100x for 🤗 API customers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [how-we-sped-up-transformer-inference-100x-for-api-customers-b9eec6.md](file:///../../ai/models/huggingface-blog-accelerated-inference.md)
+Path: [huggingface-blog-accelerated-inference.md](file:///../../ai/models/huggingface-blog-accelerated-inference.md)

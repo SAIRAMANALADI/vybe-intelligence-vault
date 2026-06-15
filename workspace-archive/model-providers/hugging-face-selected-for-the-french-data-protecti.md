@@ -4,6 +4,7 @@ title: Hugging Face Selected for the French Data Protection Agency Enhanced Supp
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cnil
+resource_id: blog:hugging-face-selected-for-the-french-data-protecti
 local_vault_path: ai/models/huggingface-blog-cnil.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-selected-for-the-french-data-protecti
 ---
-
 
 # Hugging Face Selected for the French Data Protection Agency Enhanced Support Program
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cnil
 
 ## Local Vault File
 
-Path: [hugging-face-selected-for-the-french-data-protection-agency-enhanced-support-pro-9a3089.md](file:///../../ai/models/huggingface-blog-cnil.md)
+Path: [huggingface-blog-cnil.md](file:///../../ai/models/huggingface-blog-cnil.md)

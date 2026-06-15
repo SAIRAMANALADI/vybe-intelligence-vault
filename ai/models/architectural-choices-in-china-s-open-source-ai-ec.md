@@ -6,12 +6,15 @@ source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
 published_at: '2026-01-27T09:31:45+00:00'
-collected_at: '2026-06-11T08:37:58.324105+00:00'
+collected_at: '2026-06-15T06:03:50.269487+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:architectural-choices-in-china-s-open-source-ai-ec
+first_seen: '2026-06-11T08:37:58.324105+00:00'
+last_seen: '2026-06-15T06:03:50.269487+00:00'
+last_checked: '2026-06-15T06:03:50.269487+00:00'
+health_score: 100
 ---
-
 
 # Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek
 
@@ -21,17 +24,13 @@ No summary provided. Reference resource: Architectural Choices in China's Open-S
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
 - Published: 2026-01-27T09:31:45+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
 
 ## Related Tags
 

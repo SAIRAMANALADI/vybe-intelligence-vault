@@ -3,6 +3,7 @@ title: Announcing the Hugging Face Fellowship Program
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fellowship
+resource_id: blog:announcing-the-hugging-face-fellowship-program
 local_vault_path: ai/models/huggingface-blog-fellowship.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:announcing-the-hugging-face-fellowship-program
 ---
-
-
 
 # Announcing the Hugging Face Fellowship Program
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fellowship
 
 ## Local Vault File
 
-Path: [announcing-the-hugging-face-fellowship-program-c887eb.md](file:///../../ai/models/huggingface-blog-fellowship.md)
+Path: [huggingface-blog-fellowship.md](file:///../../ai/models/huggingface-blog-fellowship.md)

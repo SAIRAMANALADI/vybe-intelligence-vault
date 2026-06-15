@@ -3,6 +3,7 @@ title: A Dive into Vision-Language Models
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/vision_language_pretraining
+resource_id: blog:a-dive-into-vision-language-models
 local_vault_path: ai/models/huggingface-blog-vision-language-pretraining.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:a-dive-into-vision-language-models
 ---
-
-
 
 # A Dive into Vision-Language Models
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vision_language_pretraining
 
 ## Local Vault File
 
-Path: [a-dive-into-vision-language-models-d958d9.md](file:///../../ai/models/huggingface-blog-vision-language-pretraining.md)
+Path: [huggingface-blog-vision-language-pretraining.md](file:///../../ai/models/huggingface-blog-vision-language-pretraining.md)

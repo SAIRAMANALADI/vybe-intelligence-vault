@@ -3,6 +3,7 @@ title: Building the Hugging Face MCP Server
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/building-hf-mcp
+resource_id: blog:building-the-hugging-face-mcp-server
 local_vault_path: ai/models/huggingface-blog-building-hf-mcp.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: mcp-server
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:building-the-hugging-face-mcp-server
 ---
-
-
 
 # Building the Hugging Face MCP Server
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [building-the-hugging-face-mcp-server-10269f.md](file:///../../ai/models/huggingface-blog-building-hf-mcp.md)
+Path: [huggingface-blog-building-hf-mcp.md](file:///../../ai/models/huggingface-blog-building-hf-mcp.md)

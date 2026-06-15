@@ -4,6 +4,7 @@ title: 'Community Evals: Because we''re done trusting black-box leaderboards ove
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/community-evals
+resource_id: blog:community-evals-because-we-re-done-trusting-black
 local_vault_path: ai/models/huggingface-blog-community-evals.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:community-evals-because-we-re-done-trusting-black
 ---
-
-
 
 # Community Evals: Because we're done trusting black-box leaderboards over the community
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/community-evals
 
 ## Local Vault File
 
-Path: [community-evals-because-we-re-done-trusting-black-box-leaderboards-over-the-comm-54a2e4.md](file:///../../ai/models/huggingface-blog-community-evals.md)
+Path: [huggingface-blog-community-evals.md](file:///../../ai/models/huggingface-blog-community-evals.md)

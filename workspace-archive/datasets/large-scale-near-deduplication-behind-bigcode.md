@@ -3,6 +3,7 @@ title: Large-scale Near-deduplication Behind BigCode
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/dedup
+resource_id: blog:large-scale-near-deduplication-behind-bigcode
 local_vault_path: ai/models/huggingface-blog-dedup.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:large-scale-near-deduplication-behind-bigcode
 ---
-
-
 
 # Large-scale Near-deduplication Behind BigCode
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dedup
 
 ## Local Vault File
 
-Path: [large-scale-near-deduplication-behind-bigcode-7940f9.md](file:///../../ai/models/huggingface-blog-dedup.md)
+Path: [huggingface-blog-dedup.md](file:///../../ai/models/huggingface-blog-dedup.md)

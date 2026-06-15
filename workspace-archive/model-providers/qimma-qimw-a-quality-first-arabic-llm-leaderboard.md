@@ -4,12 +4,14 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 resource_id: blog:qimma-qimw-a-quality-first-arabic-llm-leaderboard
-local_vault_path: ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md
+local_vault_path: ai/models/huggingface-blog-tiiuae.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
+tags:
+- leaderboard
 selection_reason:
 - Valuable developer reference
 ---
@@ -20,7 +22,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -40,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 
 ## Local Vault File
 
-Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard.md](file:///../../ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)
+Path: [huggingface-blog-tiiuae.md](file:///../../ai/models/huggingface-blog-tiiuae.md)

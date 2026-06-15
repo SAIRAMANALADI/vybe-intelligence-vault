@@ -13,19 +13,19 @@ Automated workflows connect AI models to tasks, databases, and cron schedules.
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (benchmark - USEFUL Tier)
 - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](https://arxiv.org/abs/2606.05922) (framework - USEFUL Tier)
 - [How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489) (framework - USEFUL Tier)
+- [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (framework - USEFUL Tier)
+- [OpenAI Agents SDK](https://openai.github.io/openai-agents-python) (framework - USEFUL Tier)
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (dataset - USEFUL Tier)
-- [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/n8n-io/n8n (n8n)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [langgenius/dify](https://github.com/langgenius/dify)
+- [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](https://github.com/ChinskiKaczynski/Awesome-OpenAI-Agent-Templates)
 - [duanyytop/agents-radar](https://github.com/duanyytop/agents-radar)
 - [FailproofAI/ai-reliability-standards](https://github.com/FailproofAI/ai-reliability-standards)
 - [FuzzingLabs/secpipe](https://github.com/FuzzingLabs/secpipe)
-- [Haohao-end/openagent](https://github.com/Haohao-end/openagent)
 
 ## Best Learning Resources
 
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

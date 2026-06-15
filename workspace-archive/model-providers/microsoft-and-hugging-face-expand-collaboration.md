@@ -3,6 +3,7 @@ title: Microsoft and Hugging Face expand collaboration
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/azure-ai-foundry
+resource_id: blog:microsoft-and-hugging-face-expand-collaboration
 local_vault_path: ai/models/huggingface-blog-azure-ai-foundry.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:microsoft-and-hugging-face-expand-collaboration
 ---
-
-
 
 # Microsoft and Hugging Face expand collaboration
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/azure-ai-foundry
 
 ## Local Vault File
 
-Path: [microsoft-and-hugging-face-expand-collaboration-576333.md](file:///../../ai/models/huggingface-blog-azure-ai-foundry.md)
+Path: [huggingface-blog-azure-ai-foundry.md](file:///../../ai/models/huggingface-blog-azure-ai-foundry.md)

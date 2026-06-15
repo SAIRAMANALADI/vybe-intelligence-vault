@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/sdxl_jax
-published_at: '2023-10-03T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.819238+00:00'
+published_at: '2023-10-02T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.278015+00:00'
 tags: []
 status: active
+resource_id: blog:accelerating-stable-diffusion-xl-inference-with-ja
 first_seen: '2026-06-12T10:40:08.819238+00:00'
-last_seen: '2026-06-12T10:40:08.819238+00:00'
-resource_id: huggingface:blog/sdxl_jax
+last_seen: '2026-06-15T06:03:50.278015+00:00'
+last_checked: '2026-06-15T06:03:50.278015+00:00'
+health_score: 100
 ---
-
 
 # 🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-10-03T00:00:00+00:00
+- Published: 2023-10-02T18:30:00+00:00
 
 ## Related Tags
 

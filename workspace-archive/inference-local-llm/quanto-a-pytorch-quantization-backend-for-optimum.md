@@ -3,6 +3,7 @@ title: 'Quanto: a PyTorch quantization backend for Optimum'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/quanto-introduction
+resource_id: blog:quanto-a-pytorch-quantization-backend-for-optimum
 local_vault_path: ai/models/huggingface-blog-quanto-introduction.md
 quality_score: 70
 archive_score: 72
@@ -14,10 +15,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:quanto-a-pytorch-quantization-backend-for-optimum
 ---
-
-
 
 # Quanto: a PyTorch quantization backend for Optimum
 
@@ -46,4 +44,4 @@ Original source URL: https://huggingface.co/blog/quanto-introduction
 
 ## Local Vault File
 
-Path: [quanto-a-pytorch-quantization-backend-for-optimum-488e23.md](file:///../../ai/models/huggingface-blog-quanto-introduction.md)
+Path: [huggingface-blog-quanto-introduction.md](file:///../../ai/models/huggingface-blog-quanto-introduction.md)

@@ -15,9 +15,11 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:cybersecurity-researchers-aren-t-happy-about-the-g
+last_seen: '2026-06-11T09:24:44.427433+00:00'
 ---
+
 
 
 # Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable

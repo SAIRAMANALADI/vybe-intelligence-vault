@@ -3,6 +3,7 @@ title: Run a Chatgpt-like Chatbot on a Single GPU with ROCm
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/chatbot-amd-gpu
+resource_id: blog:run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro
 local_vault_path: ai/models/huggingface-blog-chatbot-amd-gpu.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - openai
 selection_reason:
 - Valuable developer reference
-resource_id: blog:run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro
 ---
-
 
 # Run a Chatgpt-like Chatbot on a Single GPU with ROCm
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/chatbot-amd-gpu
 
 ## Local Vault File
 
-Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-rocm-bedcd1.md](file:///../../ai/models/huggingface-blog-chatbot-amd-gpu.md)
+Path: [huggingface-blog-chatbot-amd-gpu.md](file:///../../ai/models/huggingface-blog-chatbot-amd-gpu.md)

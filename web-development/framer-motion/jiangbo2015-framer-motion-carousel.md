@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/jiangbo2015/framer-motion-carousel
-collected_at: '2026-06-12T10:40:18.782967+00:00'
+collected_at: '2026-06-15T06:04:17.304198+00:00'
 published_at: '2025-12-21T08:55:17Z'
 tags:
 - animation
@@ -12,26 +12,12 @@ tags:
 stars: 95
 language: TypeScript
 status: active
-first_seen: '2026-06-12T10:40:18.782967+00:00'
-last_seen: '2026-06-12T10:40:18.782967+00:00'
 resource_id: github:jiangbo2015/framer-motion-carousel
-last_checked: '2026-06-12T15:13:16.093710Z'
-health_score: 59
-change_history:
-- timestamp: '2026-06-12T10:40:18.782967+00:00'
-  event_type: discovered
-  description: Resource first seen and stored in the vault.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Forks updated from None to 18.
-- timestamp: '2026-06-12T15:13:16.093710Z'
-  event_type: metadata_update
-  description: Archived updated from None to False.
-forks: 18
-archived: false
+first_seen: '2026-06-12T10:40:18.782967+00:00'
+last_seen: '2026-06-15T06:04:17.304198+00:00'
+last_checked: '2026-06-15T06:04:17.304198+00:00'
+health_score: 100
 ---
-
-
 
 # jiangbo2015/framer-motion-carousel
 

@@ -3,17 +3,20 @@ title: PolyMeilex/vscode-wgsl
 category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
-source_url: https://github.com/PolyMeilex/vscode-wgsl
-collected_at: '2026-06-11T08:45:39.177192+00:00'
+source_url: https://github.com/polymeilex/vscode-wgsl
+collected_at: '2026-06-15T06:04:14.952741+00:00'
 published_at: '2026-06-07T01:58:19Z'
 tags:
 - threejs
 stars: 94
 language: TypeScript
-status: new
+status: active
 resource_id: github:polymeilex/vscode-wgsl
+first_seen: '2026-06-11T08:45:39.177192+00:00'
+last_seen: '2026-06-15T06:04:14.952741+00:00'
+last_checked: '2026-06-15T06:04:14.952741+00:00'
+health_score: 100
 ---
-
 
 # PolyMeilex/vscode-wgsl
 
@@ -50,4 +53,4 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 ## Source
 
-Original source: https://github.com/PolyMeilex/vscode-wgsl
+Original source: https://github.com/polymeilex/vscode-wgsl

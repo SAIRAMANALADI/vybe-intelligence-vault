@@ -2,7 +2,7 @@
 title: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
 archive_category: model-providers
 source_category: ai/companies/anthropic
-source_url: https://www.anthropic.com/news/confidential-draft-s1-sec
+source_url: https://anthropic.com/news/confidential-draft-s1-sec
 resource_id: blog:jun-1-2026announcementsanthropic-confidentially-su
 local_vault_path: ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md
 quality_score: 70
@@ -42,7 +42,7 @@ Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confid
 
 ## Source
 
-Original source URL: https://www.anthropic.com/news/confidential-draft-s1-sec
+Original source URL: https://anthropic.com/news/confidential-draft-s1-sec
 
 ## Local Vault File
 

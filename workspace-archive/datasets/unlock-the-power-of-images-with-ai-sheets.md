@@ -3,6 +3,7 @@ title: Unlock the power of images with AI Sheets
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/aisheets-unlock-images
+resource_id: blog:unlock-the-power-of-images-with-ai-sheets
 local_vault_path: ai/models/huggingface-blog-aisheets-unlock-images.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:unlock-the-power-of-images-with-ai-sheets
 ---
-
-
 
 # Unlock the power of images with AI Sheets
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aisheets-unlock-images
 
 ## Local Vault File
 
-Path: [unlock-the-power-of-images-with-ai-sheets-d90682.md](file:///../../ai/models/huggingface-blog-aisheets-unlock-images.md)
+Path: [huggingface-blog-aisheets-unlock-images.md](file:///../../ai/models/huggingface-blog-aisheets-unlock-images.md)

@@ -3,6 +3,7 @@ title: Welcome fastText to the Hugging Face Hub
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fasttext
+resource_id: blog:welcome-fasttext-to-the-hugging-face-hub
 local_vault_path: ai/models/huggingface-blog-fasttext.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-fasttext-to-the-hugging-face-hub
 ---
-
-
 
 # Welcome fastText to the Hugging Face Hub
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fasttext
 
 ## Local Vault File
 
-Path: [welcome-fasttext-to-the-hugging-face-hub-a4a618.md](file:///../../ai/models/huggingface-blog-fasttext.md)
+Path: [huggingface-blog-fasttext.md](file:///../../ai/models/huggingface-blog-fasttext.md)

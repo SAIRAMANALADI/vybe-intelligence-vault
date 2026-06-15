@@ -3,6 +3,7 @@ title: Optimize and deploy with Optimum-Intel and OpenVINO GenAI
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-with-openvino
+resource_id: blog:optimize-and-deploy-with-optimum-intel-and-openvin
 local_vault_path: ai/models/huggingface-blog-deploy-with-openvino.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:optimize-and-deploy-with-optimum-intel-and-openvin
 ---
-
 
 # Optimize and deploy with Optimum-Intel and OpenVINO GenAI
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-with-openvino
 
 ## Local Vault File
 
-Path: [optimize-and-deploy-with-optimum-intel-and-openvino-genai-91c59d.md](file:///../../ai/models/huggingface-blog-deploy-with-openvino.md)
+Path: [huggingface-blog-deploy-with-openvino.md](file:///../../ai/models/huggingface-blog-deploy-with-openvino.md)

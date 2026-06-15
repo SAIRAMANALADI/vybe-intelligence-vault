@@ -3,6 +3,7 @@ title: Welcome Llama 4 Maverick & Scout on Hugging Face
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama4-release
+resource_id: blog:welcome-llama-4-maverick-scout-on-hugging-face
 local_vault_path: ai/models/huggingface-blog-llama4-release.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-llama-4-maverick-scout-on-hugging-face
 ---
-
-
 
 # Welcome Llama 4 Maverick & Scout on Hugging Face
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama4-release
 
 ## Local Vault File
 
-Path: [welcome-llama-4-maverick-scout-on-hugging-face-db1a88.md](file:///../../ai/models/huggingface-blog-llama4-release.md)
+Path: [huggingface-blog-llama4-release.md](file:///../../ai/models/huggingface-blog-llama4-release.md)

@@ -3,6 +3,7 @@ title: 'Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inferenc
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
+resource_id: blog:few-shot-learning-in-practice-gpt-neo-and-the-acce
 local_vault_path: ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:few-shot-learning-in-practice-gpt-neo-and-the-acce
 ---
-
 
 # Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-i
 
 ## Local Vault File
 
-Path: [few-shot-learning-in-practice-gpt-neo-and-the-accelerated-inference-api-f79536.md](file:///../../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md)
+Path: [huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md](file:///../../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md)

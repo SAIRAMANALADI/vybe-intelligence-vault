@@ -3,6 +3,7 @@ title: Accelerate 1.0.0
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-v1
+resource_id: blog:accelerate-1-0-0
 local_vault_path: ai/models/huggingface-blog-accelerate-v1.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:accelerate-1-0-0
 ---
-
-
 
 # Accelerate 1.0.0
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-v1
 
 ## Local Vault File
 
-Path: [accelerate-1-0-0-d1dfe2.md](file:///../../ai/models/huggingface-blog-accelerate-v1.md)
+Path: [huggingface-blog-accelerate-v1.md](file:///../../ai/models/huggingface-blog-accelerate-v1.md)

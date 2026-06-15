@@ -3,6 +3,7 @@ title: SmolVLM - small yet mighty Vision Language Model
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvlm
+resource_id: blog:smolvlm-small-yet-mighty-vision-language-model
 local_vault_path: ai/models/huggingface-blog-smolvlm.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:smolvlm-small-yet-mighty-vision-language-model
 ---
-
-
 
 # SmolVLM - small yet mighty Vision Language Model
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolvlm
 
 ## Local Vault File
 
-Path: [smolvlm-small-yet-mighty-vision-language-model-d396f1.md](file:///../../ai/models/huggingface-blog-smolvlm.md)
+Path: [huggingface-blog-smolvlm.md](file:///../../ai/models/huggingface-blog-smolvlm.md)

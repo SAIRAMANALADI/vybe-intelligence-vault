@@ -3,6 +3,7 @@ title: Remote VAEs for decoding with Inference Endpoints 🤗
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/remote_vae
+resource_id: blog:remote-vaes-for-decoding-with-inference-endpoints
 local_vault_path: ai/models/huggingface-blog-remote-vae.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:remote-vaes-for-decoding-with-inference-endpoints
 ---
-
-
 
 # Remote VAEs for decoding with Inference Endpoints 🤗
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/remote_vae
 
 ## Local Vault File
 
-Path: [remote-vaes-for-decoding-with-inference-endpoints-48fbad.md](file:///../../ai/models/huggingface-blog-remote-vae.md)
+Path: [huggingface-blog-remote-vae.md](file:///../../ai/models/huggingface-blog-remote-vae.md)

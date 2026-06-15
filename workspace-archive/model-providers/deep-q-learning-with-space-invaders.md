@@ -3,6 +3,7 @@ title: Deep Q-Learning with Space Invaders
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-dqn
+resource_id: blog:deep-q-learning-with-space-invaders
 local_vault_path: ai/models/huggingface-blog-deep-rl-dqn.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deep-q-learning-with-space-invaders
 ---
-
-
 
 # Deep Q-Learning with Space Invaders
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-dqn
 
 ## Local Vault File
 
-Path: [deep-q-learning-with-space-invaders-4b4f03.md](file:///../../ai/models/huggingface-blog-deep-rl-dqn.md)
+Path: [huggingface-blog-deep-rl-dqn.md](file:///../../ai/models/huggingface-blog-deep-rl-dqn.md)

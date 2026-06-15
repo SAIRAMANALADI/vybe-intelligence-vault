@@ -3,6 +3,7 @@ title: Introduction to 3D Gaussian Splatting
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gaussian-splatting
+resource_id: blog:introduction-to-3d-gaussian-splatting
 local_vault_path: ai/models/huggingface-blog-gaussian-splatting.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introduction-to-3d-gaussian-splatting
 ---
-
-
 
 # Introduction to 3D Gaussian Splatting
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gaussian-splatting
 
 ## Local Vault File
 
-Path: [introduction-to-3d-gaussian-splatting-e418df.md](file:///../../ai/models/huggingface-blog-gaussian-splatting.md)
+Path: [huggingface-blog-gaussian-splatting.md](file:///../../ai/models/huggingface-blog-gaussian-splatting.md)

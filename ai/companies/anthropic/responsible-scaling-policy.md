@@ -4,18 +4,19 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy
-published_at: '2026-06-12T10:40:30.958690+00:00'
-collected_at: '2026-06-12T10:40:30.958694+00:00'
+published_at: '2026-06-15T06:05:37.496847+00:00'
+collected_at: '2026-06-15T06:05:37.496848+00:00'
 tags:
 - anthropic
 - anthropic-news
 - blog-post
 status: active
-first_seen: '2026-06-12T10:40:30.958694+00:00'
-last_seen: '2026-06-12T10:40:30.958694+00:00'
 resource_id: blog:responsible-scaling-policy
+first_seen: '2026-06-12T10:40:30.958694+00:00'
+last_seen: '2026-06-15T06:05:37.496848+00:00'
+last_checked: '2026-06-15T06:05:37.496848+00:00'
+health_score: 100
 ---
-
 
 # Responsible Scaling Policy
 
@@ -31,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy
-- Collected At: 2026-06-12T10:40:30.958694+00:00
+- Collected At: 2026-06-15T06:05:37.496848+00:00
 
 ## Related Tags
 

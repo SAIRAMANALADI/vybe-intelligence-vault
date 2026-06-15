@@ -4,6 +4,7 @@ title: 'Introducing ConTextual: How well can your Multimodal model jointly reaso
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-contextual
+resource_id: blog:introducing-contextual-how-well-can-your-multimoda
 local_vault_path: ai/models/huggingface-blog-leaderboard-contextual.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-contextual-how-well-can-your-multimoda
 ---
-
 
 # Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-contextual
 
 ## Local Vault File
 
-Path: [introducing-contextual-how-well-can-your-multimodal-model-jointly-reason-over-te-049330.md](file:///../../ai/models/huggingface-blog-leaderboard-contextual.md)
+Path: [huggingface-blog-leaderboard-contextual.md](file:///../../ai/models/huggingface-blog-leaderboard-contextual.md)

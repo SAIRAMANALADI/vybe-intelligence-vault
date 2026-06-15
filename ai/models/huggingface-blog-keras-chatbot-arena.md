@@ -5,15 +5,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/keras-chatbot-arena
-published_at: '2024-12-05T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.813361+00:00'
+published_at: '2024-12-04T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.274634+00:00'
 tags: []
 status: active
+resource_id: blog:how-good-are-llms-at-fixing-their-mistakes-a-chatb
 first_seen: '2026-06-12T10:40:08.813361+00:00'
-last_seen: '2026-06-12T10:40:08.813361+00:00'
-resource_id: huggingface:blog/keras-chatbot-arena
+last_seen: '2026-06-15T06:03:50.274634+00:00'
+last_checked: '2026-06-15T06:03:50.274634+00:00'
+health_score: 100
 ---
-
 
 # How good are LLMs at fixing their mistakes? A chatbot arena experiment with Keras and TPUs
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-12-05T00:00:00+00:00
+- Published: 2024-12-04T18:30:00+00:00
 
 ## Related Tags
 

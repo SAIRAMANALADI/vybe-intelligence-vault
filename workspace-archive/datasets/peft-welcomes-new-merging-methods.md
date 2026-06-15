@@ -3,6 +3,7 @@ title: 🤗 PEFT welcomes new merging methods
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/peft_merging
+resource_id: blog:peft-welcomes-new-merging-methods
 local_vault_path: ai/models/huggingface-blog-peft-merging.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:peft-welcomes-new-merging-methods
 ---
-
-
 
 # 🤗 PEFT welcomes new merging methods
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/peft_merging
 
 ## Local Vault File
 
-Path: [peft-welcomes-new-merging-methods-cbf4af.md](file:///../../ai/models/huggingface-blog-peft-merging.md)
+Path: [huggingface-blog-peft-merging.md](file:///../../ai/models/huggingface-blog-peft-merging.md)

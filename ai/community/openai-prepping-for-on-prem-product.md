@@ -14,9 +14,11 @@ tags:
 - ai
 - hackernews
 - openai
-status: new
+status: inactive
 resource_id: hackernews:openai-prepping-for-on-prem-product
+last_seen: '2026-06-11T22:58:50.285232+00:00'
 ---
+
 
 
 # OpenAI Prepping for On-Prem Product?

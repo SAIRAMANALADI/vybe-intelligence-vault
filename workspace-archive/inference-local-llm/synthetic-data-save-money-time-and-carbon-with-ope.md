@@ -3,6 +3,7 @@ title: 'Synthetic data: save money, time and carbon with open source'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/synthetic-data-save-costs
+resource_id: blog:synthetic-data-save-money-time-and-carbon-with-ope
 local_vault_path: ai/models/huggingface-blog-synthetic-data-save-costs.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:synthetic-data-save-money-time-and-carbon-with-ope
 ---
-
 
 # Synthetic data: save money, time and carbon with open source
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-save-costs
 
 ## Local Vault File
 
-Path: [synthetic-data-save-money-time-and-carbon-with-open-source-9584c7.md](file:///../../ai/models/huggingface-blog-synthetic-data-save-costs.md)
+Path: [huggingface-blog-synthetic-data-save-costs.md](file:///../../ai/models/huggingface-blog-synthetic-data-save-costs.md)

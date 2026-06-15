@@ -3,6 +3,7 @@ title: Google Cloud TPUs made available to Hugging Face users
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/tpu-inference-endpoints-spaces
+resource_id: blog:google-cloud-tpus-made-available-to-hugging-face-u
 local_vault_path: ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:google-cloud-tpus-made-available-to-hugging-face-u
 ---
-
 
 # Google Cloud TPUs made available to Hugging Face users
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tpu-inference-endpoints-spaces
 
 ## Local Vault File
 
-Path: [google-cloud-tpus-made-available-to-hugging-face-users-61a7ae.md](file:///../../ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md)
+Path: [huggingface-blog-tpu-inference-endpoints-spaces.md](file:///../../ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md)

@@ -10,12 +10,12 @@ WebGL/WebGPU and 3D creative design elevate traditional UI pages into wow-worthy
 
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter) (tool - USEFUL Tier)
 - [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite) (template - USEFUL Tier)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/R3F.Multiplayer) (template - USEFUL Tier)
+- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer) (template - USEFUL Tier)
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) (tool - USEFUL Tier)
-- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
+- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols) (tool - USEFUL Tier)
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator) (tutorial - USEFUL Tier)
 - [whoisryosuke/r3f-next-starter](https://github.com/whoisryosuke/r3f-next-starter) (template - USEFUL Tier)
-- [wrongakram/R3F-Chairs](https://github.com/wrongakram/R3F-Chairs) (tool - USEFUL Tier)
+- [wrongakram/R3F-Chairs](https://github.com/wrongakram/r3f-chairs) (tool - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -23,9 +23,9 @@ https://github.com/mrdoob/three.js (Three.js)
 https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 - [ektogamat/r3f-webgpu-starter](https://github.com/ektogamat/r3f-webgpu-starter)
 - [benjaminmiles/react-three-vite](https://github.com/benjaminmiles/react-three-vite)
-- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/R3F.Multiplayer)
+- [juniorxsound/R3F.Multiplayer](https://github.com/juniorxsound/r3f.multiplayer)
 - [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next)
-- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/TiagoCavalcante/r3f-native-orbitcontrols)
+- [TiagoCavalcante/r3f-native-orbitcontrols](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)
 - [wass08/r3f-ultimate-character-configurator](https://github.com/wass08/r3f-ultimate-character-configurator)
 
 ## Best Learning Resources
@@ -44,4 +44,4 @@ https://github.com/pmndrs/react-three-fiber (React Three Fiber)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

@@ -3,17 +3,20 @@ title: chenjsh36/ThreeJSForFun
 category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
-source_url: https://github.com/chenjsh36/ThreeJSForFun
-collected_at: '2026-06-11T08:45:35.488504+00:00'
+source_url: https://github.com/chenjsh36/threejsforfun
+collected_at: '2026-06-15T06:04:10.449057+00:00'
 published_at: '2026-05-22T11:45:56Z'
 tags:
 - threejs
 stars: 123
 language: JavaScript
-status: new
+status: active
 resource_id: github:chenjsh36/threejsforfun
+first_seen: '2026-06-11T08:45:35.488504+00:00'
+last_seen: '2026-06-15T06:04:10.449057+00:00'
+last_checked: '2026-06-15T06:04:10.449057+00:00'
+health_score: 100
 ---
-
 
 # chenjsh36/ThreeJSForFun
 
@@ -50,4 +53,4 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 ## Source
 
-Original source: https://github.com/chenjsh36/ThreeJSForFun
+Original source: https://github.com/chenjsh36/threejsforfun

@@ -3,6 +3,7 @@ title: Mixture of Experts (MoEs) in Transformers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/moe-transformers
+resource_id: blog:mixture-of-experts-moes-in-transformers
 local_vault_path: ai/models/huggingface-blog-moe-transformers.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:mixture-of-experts-moes-in-transformers
 ---
-
-
 
 # Mixture of Experts (MoEs) in Transformers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/moe-transformers
 
 ## Local Vault File
 
-Path: [mixture-of-experts-moes-in-transformers-27a9dc.md](file:///../../ai/models/huggingface-blog-moe-transformers.md)
+Path: [huggingface-blog-moe-transformers.md](file:///../../ai/models/huggingface-blog-moe-transformers.md)

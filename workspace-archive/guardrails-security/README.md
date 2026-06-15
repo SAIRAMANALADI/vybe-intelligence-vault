@@ -8,25 +8,25 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 
 ## Top Matched Resources
 
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (framework - USEFUL Tier)
+- [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - USEFUL Tier)
 - [Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning](https://arxiv.org/abs/2505.04021) (framework - USEFUL Tier)
 - [Mitigating Disparate Impact of Differentially Private Learning through Bounded Adaptive Clipping](https://arxiv.org/abs/2506.01396) (framework - USEFUL Tier)
 - [A New Perspective on Precision and Recall for Generative Models](https://arxiv.org/abs/2511.02414) (framework - USEFUL Tier)
-- [Provable Recovery of Locally Important Signed Features and Interactions from Random Forest](https://arxiv.org/abs/2512.11081) (framework - USEFUL Tier)
-- [Cluster Aggregated GAN (CAG): A Cluster-Based Hybrid Model for Appliance Pattern Generation](https://arxiv.org/abs/2512.22287) (framework - USEFUL Tier)
-- [SpaTeoGL: Spatiotemporal Graph Learning for Interpretable Seizure Onset Zone Analysis from Intracranial EEG](https://arxiv.org/abs/2602.11801) (framework - USEFUL Tier)
+- [Trend-Aware Multi-Task Learning for Short-Term Energy Forecasting](https://arxiv.org/abs/2511.09789) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/guardrails-ai/guardrails (Guardrails AI)
 https://github.com/neuri-ai/llm-guard (LLM Guard)
+- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [affaan-m/agentshield](https://github.com/affaan-m/agentshield)
 - [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
-- [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:11 UTC*

@@ -4,7 +4,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 
 | Product | Focus Area | Score |
 | :--- | :--- | :--- |
-| [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
+| [Jpisnice/shadcn-ui-mcp-server](https://github.com/jpisnice/shadcn-ui-mcp-server) | `mcp-registry/` | 70 |
 | [udecode/plate](https://github.com/udecode/plate) | `mcp-registry/` | 70 |
 | [Adding MCP Tools to Reachy Mini](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini) | `mcp-registry/` | 70 |
 | [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | `mcp-registry/` | 70 |

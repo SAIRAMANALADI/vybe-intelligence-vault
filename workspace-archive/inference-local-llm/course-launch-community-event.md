@@ -3,6 +3,7 @@ title: Course Launch Community Event
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/course-launch-event
+resource_id: blog:course-launch-community-event
 local_vault_path: ai/models/huggingface-blog-course-launch-event.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - producthunt
 selection_reason:
 - Valuable developer reference
-resource_id: blog:course-launch-community-event
 ---
-
-
 
 # Course Launch Community Event
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/course-launch-event
 
 ## Local Vault File
 
-Path: [course-launch-community-event-7222ad.md](file:///../../ai/models/huggingface-blog-course-launch-event.md)
+Path: [huggingface-blog-course-launch-event.md](file:///../../ai/models/huggingface-blog-course-launch-event.md)

@@ -3,6 +3,7 @@ title: Jupyter X Hugging Face
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/notebooks-hub
+resource_id: blog:jupyter-x-hugging-face
 local_vault_path: ai/models/huggingface-blog-notebooks-hub.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:jupyter-x-hugging-face
 ---
-
-
 
 # Jupyter X Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/notebooks-hub
 
 ## Local Vault File
 
-Path: [jupyter-x-hugging-face-679d75.md](file:///../../ai/models/huggingface-blog-notebooks-hub.md)
+Path: [huggingface-blog-notebooks-hub.md](file:///../../ai/models/huggingface-blog-notebooks-hub.md)

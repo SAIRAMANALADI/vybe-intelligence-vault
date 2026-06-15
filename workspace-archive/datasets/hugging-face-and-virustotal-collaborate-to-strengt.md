@@ -3,6 +3,7 @@ title: Hugging Face and VirusTotal collaborate to strengthen AI security
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/virustotal
+resource_id: blog:hugging-face-and-virustotal-collaborate-to-strengt
 local_vault_path: ai/models/huggingface-blog-virustotal.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:hugging-face-and-virustotal-collaborate-to-strengt
 ---
-
 
 # Hugging Face and VirusTotal collaborate to strengthen AI security
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: [hugging-face-and-virustotal-collaborate-to-strengthen-ai-security-e93730.md](file:///../../ai/models/huggingface-blog-virustotal.md)
+Path: [huggingface-blog-virustotal.md](file:///../../ai/models/huggingface-blog-virustotal.md)

@@ -3,6 +3,7 @@ title: A Security Review of Gradio 5
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-5-security
+resource_id: blog:a-security-review-of-gradio-5
 local_vault_path: ai/models/huggingface-blog-gradio-5-security.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:a-security-review-of-gradio-5
 ---
-
-
 
 # A Security Review of Gradio 5
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [a-security-review-of-gradio-5-482ddc.md](file:///../../ai/models/huggingface-blog-gradio-5-security.md)
+Path: [huggingface-blog-gradio-5-security.md](file:///../../ai/models/huggingface-blog-gradio-5-security.md)

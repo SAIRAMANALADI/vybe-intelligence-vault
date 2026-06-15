@@ -3,6 +3,7 @@ title: Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon 
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gptj-sagemaker
+resource_id: blog:deploy-gpt-j-6b-for-inference-using-hugging-face-t
 local_vault_path: ai/models/huggingface-blog-gptj-sagemaker.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploy-gpt-j-6b-for-inference-using-hugging-face-t
 ---
-
 
 # Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptj-sagemaker
 
 ## Local Vault File
 
-Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-transformers-and-amazon-sagemak-a2f774.md](file:///../../ai/models/huggingface-blog-gptj-sagemaker.md)
+Path: [huggingface-blog-gptj-sagemaker.md](file:///../../ai/models/huggingface-blog-gptj-sagemaker.md)

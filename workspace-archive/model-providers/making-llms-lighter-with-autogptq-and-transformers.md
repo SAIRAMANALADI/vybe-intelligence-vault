@@ -3,6 +3,7 @@ title: Making LLMs lighter with AutoGPTQ and transformers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gptq-integration
+resource_id: blog:making-llms-lighter-with-autogptq-and-transformers
 local_vault_path: ai/models/huggingface-blog-gptq-integration.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:making-llms-lighter-with-autogptq-and-transformers
 ---
-
-
 
 # Making LLMs lighter with AutoGPTQ and transformers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [making-llms-lighter-with-autogptq-and-transformers-6a20e0.md](file:///../../ai/models/huggingface-blog-gptq-integration.md)
+Path: [huggingface-blog-gptq-integration.md](file:///../../ai/models/huggingface-blog-gptq-integration.md)

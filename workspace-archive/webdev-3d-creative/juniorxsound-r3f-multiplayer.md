@@ -2,7 +2,7 @@
 title: juniorxsound/R3F.Multiplayer
 archive_category: webdev-3d-creative
 source_category: web-development/react-three-fiber
-source_url: https://github.com/juniorxsound/R3F.Multiplayer
+source_url: https://github.com/juniorxsound/r3f.multiplayer
 resource_id: github:juniorxsound/r3f.multiplayer
 local_vault_path: web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md
 quality_score: 70
@@ -41,7 +41,7 @@ Small React three fiber multiplayer template 🎮
 
 ## Source
 
-Original source URL: https://github.com/juniorxsound/R3F.Multiplayer
+Original source URL: https://github.com/juniorxsound/r3f.multiplayer
 
 ## Local Vault File
 

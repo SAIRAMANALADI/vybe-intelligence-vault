@@ -3,6 +3,7 @@ title: AI Agents Are Here. What Now?
 archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ethics-soc-7
+resource_id: blog:ai-agents-are-here-what-now
 local_vault_path: ai/agents/huggingface-blog-ethics-soc-7.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ai-agents-are-here-what-now
 ---
-
-
 
 # AI Agents Are Here. What Now?
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-7
 
 ## Local Vault File
 
-Path: [ai-agents-are-here-what-now-1dd7c4.md](file:///../../ai/agents/huggingface-blog-ethics-soc-7.md)
+Path: [huggingface-blog-ethics-soc-7.md](file:///../../ai/agents/huggingface-blog-ethics-soc-7.md)

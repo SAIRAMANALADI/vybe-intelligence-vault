@@ -3,6 +3,7 @@ title: Any Custom Frontend with Gradio's Backend
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-gradio-server
+resource_id: blog:any-custom-frontend-with-gradio-s-backend
 local_vault_path: ai/models/huggingface-blog-introducing-gradio-server.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:any-custom-frontend-with-gradio-s-backend
 ---
-
-
 
 # Any Custom Frontend with Gradio's Backend
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-gradio-server
 
 ## Local Vault File
 
-Path: [any-custom-frontend-with-gradio-s-backend-7c7940.md](file:///../../ai/models/huggingface-blog-introducing-gradio-server.md)
+Path: [huggingface-blog-introducing-gradio-server.md](file:///../../ai/models/huggingface-blog-introducing-gradio-server.md)

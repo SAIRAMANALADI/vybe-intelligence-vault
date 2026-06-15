@@ -53,6 +53,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `86` | **Path**: [`arxiv-2505-08784.md`](file:///../../ai/rag/arxiv-2505-08784.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`arxiv-2603-15481.md`](file:///../../ai/rag/arxiv-2603-15481.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`arxiv-2606-11990.md`](file:///../../ai/rag/arxiv-2606-11990.md)
@@ -61,11 +66,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235)
 - **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`arxiv-2606-11235.md`](file:///../../ai/research/arxiv-2606-11235.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors](https://arxiv.org/abs/2606.11616)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-11616.md`](file:///../../ai/research/arxiv-2606-11616.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

@@ -3,6 +3,7 @@ title: Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-wav2vec2-english
+resource_id: blog:fine-tune-wav2vec2-for-english-asr-in-hugging-face
 local_vault_path: ai/models/huggingface-blog-fine-tune-wav2vec2-english.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fine-tune-wav2vec2-for-english-asr-in-hugging-face
 ---
-
-
 
 # Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-wav2vec2-english
 
 ## Local Vault File
 
-Path: [fine-tune-wav2vec2-for-english-asr-in-hugging-face-with-transformers-2bd612.md](file:///../../ai/models/huggingface-blog-fine-tune-wav2vec2-english.md)
+Path: [huggingface-blog-fine-tune-wav2vec2-english.md](file:///../../ai/models/huggingface-blog-fine-tune-wav2vec2-english.md)

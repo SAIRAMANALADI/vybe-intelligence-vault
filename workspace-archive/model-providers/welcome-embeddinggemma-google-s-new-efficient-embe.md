@@ -3,6 +3,7 @@ title: Welcome EmbeddingGemma, Google's new efficient embedding model
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/embeddinggemma
+resource_id: blog:welcome-embeddinggemma-google-s-new-efficient-embe
 local_vault_path: ai/models/huggingface-blog-embeddinggemma.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-embeddinggemma-google-s-new-efficient-embe
 ---
-
 
 # Welcome EmbeddingGemma, Google's new efficient embedding model
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/embeddinggemma
 
 ## Local Vault File
 
-Path: [welcome-embeddinggemma-google-s-new-efficient-embedding-model-6be68c.md](file:///../../ai/models/huggingface-blog-embeddinggemma.md)
+Path: [huggingface-blog-embeddinggemma.md](file:///../../ai/models/huggingface-blog-embeddinggemma.md)

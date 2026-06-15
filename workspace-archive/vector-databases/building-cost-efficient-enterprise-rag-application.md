@@ -4,6 +4,7 @@ title: Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 an
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/cost-efficient-rag-applications-with-intel
+resource_id: blog:building-cost-efficient-enterprise-rag-application
 local_vault_path: ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md
 quality_score: 70
 archive_score: 70
@@ -14,9 +15,7 @@ tags:
 - rag
 selection_reason:
 - Valuable developer reference
-resource_id: blog:building-cost-efficient-enterprise-rag-application
 ---
-
 
 # Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon
 
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/cost-efficient-rag-applications
 
 ## Local Vault File
 
-Path: [building-cost-efficient-enterprise-rag-applications-with-intel-gaudi-2-and-intel-632090.md](file:///../../ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md)
+Path: [huggingface-blog-cost-efficient-rag-applications-with-intel.md](file:///../../ai/rag/huggingface-blog-cost-efficient-rag-applications-with-intel.md)

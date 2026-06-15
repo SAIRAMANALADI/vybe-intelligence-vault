@@ -4,15 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/safetensors-security-audit
-published_at: '2023-05-23T00:00:00+00:00'
-collected_at: '2026-06-12T10:40:08.820828+00:00'
+published_at: '2023-05-22T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.278898+00:00'
 tags: []
 status: active
+resource_id: blog:safetensors-audited-as-really-safe-and-becoming-th
 first_seen: '2026-06-12T10:40:08.820828+00:00'
-last_seen: '2026-06-12T10:40:08.820828+00:00'
-resource_id: huggingface:blog/safetensors-security-audit
+last_seen: '2026-06-15T06:03:50.278898+00:00'
+last_checked: '2026-06-15T06:03:50.278898+00:00'
+health_score: 100
 ---
-
 
 # 🐶Safetensors audited as really safe and becoming the default
 
@@ -28,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2023-05-23T00:00:00+00:00
+- Published: 2023-05-22T18:30:00+00:00
 
 ## Related Tags
 

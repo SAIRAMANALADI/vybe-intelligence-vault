@@ -3,6 +3,7 @@ title: Welcome Fireworks.ai on the Hub 🎆
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fireworks-ai
+resource_id: blog:welcome-fireworks-ai-on-the-hub
 local_vault_path: ai/models/huggingface-blog-fireworks-ai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-fireworks-ai-on-the-hub
 ---
-
-
 
 # Welcome Fireworks.ai on the Hub 🎆
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fireworks-ai
 
 ## Local Vault File
 
-Path: [welcome-fireworks-ai-on-the-hub-5aba7c.md](file:///../../ai/models/huggingface-blog-fireworks-ai.md)
+Path: [huggingface-blog-fireworks-ai.md](file:///../../ai/models/huggingface-blog-fireworks-ai.md)

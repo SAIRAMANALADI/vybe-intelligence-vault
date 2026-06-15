@@ -3,6 +3,7 @@ title: Liftoff! How to get started with your first ML project 🚀
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/your-first-ml-project
+resource_id: blog:liftoff-how-to-get-started-with-your-first-ml-proj
 local_vault_path: ai/models/huggingface-blog-your-first-ml-project.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:liftoff-how-to-get-started-with-your-first-ml-proj
 ---
-
 
 # Liftoff! How to get started with your first ML project 🚀
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/your-first-ml-project
 
 ## Local Vault File
 
-Path: [liftoff-how-to-get-started-with-your-first-ml-project-05ccdc.md](file:///../../ai/models/huggingface-blog-your-first-ml-project.md)
+Path: [huggingface-blog-your-first-ml-project.md](file:///../../ai/models/huggingface-blog-your-first-ml-project.md)

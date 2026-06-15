@@ -3,6 +3,7 @@ title: Llama 2 on Amazon SageMaker a Benchmark
 archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama-sagemaker-benchmark
+resource_id: blog:llama-2-on-amazon-sagemaker-a-benchmark
 local_vault_path: ai/models/huggingface-blog-llama-sagemaker-benchmark.md
 quality_score: 70
 archive_score: 72
@@ -16,10 +17,7 @@ tags:
 selection_reason:
 - Strong keyword match
 - Valuable developer reference
-resource_id: blog:llama-2-on-amazon-sagemaker-a-benchmark
 ---
-
-
 
 # Llama 2 on Amazon SageMaker a Benchmark
 
@@ -48,4 +46,4 @@ Original source URL: https://huggingface.co/blog/llama-sagemaker-benchmark
 
 ## Local Vault File
 
-Path: [llama-2-on-amazon-sagemaker-a-benchmark-fe8bfa.md](file:///../../ai/models/huggingface-blog-llama-sagemaker-benchmark.md)
+Path: [huggingface-blog-llama-sagemaker-benchmark.md](file:///../../ai/models/huggingface-blog-llama-sagemaker-benchmark.md)

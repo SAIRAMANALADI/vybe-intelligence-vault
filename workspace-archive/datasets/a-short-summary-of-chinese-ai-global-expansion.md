@@ -3,6 +3,7 @@ title: A Short Summary of Chinese AI Global Expansion
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/chinese-ai-expansion
+resource_id: blog:a-short-summary-of-chinese-ai-global-expansion
 local_vault_path: ai/models/huggingface-blog-chinese-ai-expansion.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:a-short-summary-of-chinese-ai-global-expansion
 ---
-
-
 
 # A Short Summary of Chinese AI Global Expansion
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chinese-ai-expansion
 
 ## Local Vault File
 
-Path: [a-short-summary-of-chinese-ai-global-expansion-fbcd07.md](file:///../../ai/models/huggingface-blog-chinese-ai-expansion.md)
+Path: [huggingface-blog-chinese-ai-expansion.md](file:///../../ai/models/huggingface-blog-chinese-ai-expansion.md)

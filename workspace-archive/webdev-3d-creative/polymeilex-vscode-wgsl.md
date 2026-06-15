@@ -2,7 +2,7 @@
 title: PolyMeilex/vscode-wgsl
 archive_category: webdev-3d-creative
 source_category: web-development/webgpu
-source_url: https://github.com/PolyMeilex/vscode-wgsl
+source_url: https://github.com/polymeilex/vscode-wgsl
 resource_id: github:polymeilex/vscode-wgsl
 local_vault_path: web-development/webgpu/polymeilex-vscode-wgsl.md
 quality_score: 70
@@ -40,7 +40,7 @@ VsCode Syntax highlight for WGSL files
 
 ## Source
 
-Original source URL: https://github.com/PolyMeilex/vscode-wgsl
+Original source URL: https://github.com/polymeilex/vscode-wgsl
 
 ## Local Vault File
 

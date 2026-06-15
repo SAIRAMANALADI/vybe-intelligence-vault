@@ -4,18 +4,19 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/z2586300277/three-cesium-examples
-collected_at: '2026-06-12T10:40:14.585871+00:00'
+collected_at: '2026-06-15T06:04:10.449031+00:00'
 published_at: '2026-06-11T11:53:28Z'
 tags:
 - threejs
 stars: 2066
 language: JavaScript
 status: active
-first_seen: '2026-06-12T10:40:14.585871+00:00'
-last_seen: '2026-06-12T10:40:14.585871+00:00'
 resource_id: github:z2586300277/three-cesium-examples
+first_seen: '2026-06-12T10:40:14.585871+00:00'
+last_seen: '2026-06-15T06:04:10.449031+00:00'
+last_checked: '2026-06-15T06:04:10.449031+00:00'
+health_score: 100
 ---
-
 
 # z2586300277/three-cesium-examples
 

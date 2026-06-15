@@ -3,6 +3,7 @@ title: Voice Cloning with Consent
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/voice-consent-gate
+resource_id: blog:voice-cloning-with-consent
 local_vault_path: ai/models/huggingface-blog-voice-consent-gate.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:voice-cloning-with-consent
 ---
-
-
 
 # Voice Cloning with Consent
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/voice-consent-gate
 
 ## Local Vault File
 
-Path: [voice-cloning-with-consent-e4cbf1.md](file:///../../ai/models/huggingface-blog-voice-consent-gate.md)
+Path: [huggingface-blog-voice-consent-gate.md](file:///../../ai/models/huggingface-blog-voice-consent-gate.md)

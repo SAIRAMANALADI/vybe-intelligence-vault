@@ -4,7 +4,7 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/bytefer/awesome-shadcn-ui
-collected_at: '2026-06-12T10:40:21.841643+00:00'
+collected_at: '2026-06-15T06:04:25.609209+00:00'
 published_at: '2026-06-11T23:32:55Z'
 tags:
 - frontend_ui
@@ -12,11 +12,12 @@ tags:
 stars: 703
 language: Unknown
 status: active
-first_seen: '2026-06-12T10:40:21.841643+00:00'
-last_seen: '2026-06-12T10:40:21.841643+00:00'
 resource_id: github:bytefer/awesome-shadcn-ui
+first_seen: '2026-06-12T10:40:21.841643+00:00'
+last_seen: '2026-06-15T06:04:25.609209+00:00'
+last_checked: '2026-06-15T06:04:25.609209+00:00'
+health_score: 100
 ---
-
 
 # bytefer/awesome-shadcn-ui
 

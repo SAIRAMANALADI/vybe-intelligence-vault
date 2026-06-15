@@ -3,6 +3,7 @@ title: The State of Computer Vision at Hugging Face 🤗
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/cv_state
+resource_id: blog:the-state-of-computer-vision-at-hugging-face
 local_vault_path: ai/models/huggingface-blog-cv-state.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:the-state-of-computer-vision-at-hugging-face
 ---
-
-
 
 # The State of Computer Vision at Hugging Face 🤗
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cv_state
 
 ## Local Vault File
 
-Path: [the-state-of-computer-vision-at-hugging-face-94bd77.md](file:///../../ai/models/huggingface-blog-cv-state.md)
+Path: [huggingface-blog-cv-state.md](file:///../../ai/models/huggingface-blog-cv-state.md)

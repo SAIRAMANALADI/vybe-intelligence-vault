@@ -9,8 +9,8 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 ## Top Matched Resources
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine) (template - USEFUL Tier)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog) (template - USEFUL Tier)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
+- [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog) (template - USEFUL Tier)
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql) (template - USEFUL Tier)
 - [enesien/venefish](https://github.com/enesien/venefish) (template - USEFUL Tier)
 - [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
@@ -22,8 +22,8 @@ Aesthetic, responsive AI chat interfaces and bento grids enhance user engagement
 https://github.com/shadcn-ui/ui (shadcn/ui)
 https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/Fyrre-Magazine)
-- [ChangoMan/nextjs-mdx-blog](https://github.com/ChangoMan/nextjs-mdx-blog)
+- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
+- [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
 - [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
 - [enesien/venefish](https://github.com/enesien/venefish)
 - [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
@@ -44,4 +44,4 @@ https://github.com/tailwindlabs/tailwindcss (Tailwind CSS)
 
 ---
 
-*Last updated: 2026-06-12 15:24 UTC*
+*Last updated: 2026-06-15 06:12 UTC*

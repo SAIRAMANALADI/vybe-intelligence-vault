@@ -3,6 +3,7 @@ title: We Got Claude to Fine-Tune an Open Source LLM
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-skills-training
+resource_id: blog:we-got-claude-to-fine-tune-an-open-source-llm
 local_vault_path: ai/models/huggingface-blog-hf-skills-training.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - anthropic
 selection_reason:
 - Valuable developer reference
-resource_id: blog:we-got-claude-to-fine-tune-an-open-source-llm
 ---
-
-
 
 # We Got Claude to Fine-Tune an Open Source LLM
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training
 
 ## Local Vault File
 
-Path: [we-got-claude-to-fine-tune-an-open-source-llm-e4d18f.md](file:///../../ai/models/huggingface-blog-hf-skills-training.md)
+Path: [huggingface-blog-hf-skills-training.md](file:///../../ai/models/huggingface-blog-hf-skills-training.md)

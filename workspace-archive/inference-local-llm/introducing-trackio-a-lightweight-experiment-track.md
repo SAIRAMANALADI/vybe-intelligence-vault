@@ -4,6 +4,7 @@ title: 'Introducing Trackio: A Lightweight Experiment Tracking Library from Hugg
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/trackio
+resource_id: blog:introducing-trackio-a-lightweight-experiment-track
 local_vault_path: ai/models/huggingface-blog-trackio.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: framework
 importance: medium
 selection_reason:
 - Useful for project building
-resource_id: blog:introducing-trackio-a-lightweight-experiment-track
 ---
-
 
 # Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/trackio
 
 ## Local Vault File
 
-Path: [introducing-trackio-a-lightweight-experiment-tracking-library-from-hugging-face-684905.md](file:///../../ai/models/huggingface-blog-trackio.md)
+Path: [huggingface-blog-trackio.md](file:///../../ai/models/huggingface-blog-trackio.md)

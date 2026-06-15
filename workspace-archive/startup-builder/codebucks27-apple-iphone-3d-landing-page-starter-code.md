@@ -2,7 +2,7 @@
 title: codebucks27/Apple-iphone-3d-landing-page-starter-Code
 archive_category: startup-builder
 source_category: web-development/gsap
-source_url: https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code
+source_url: https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code
 resource_id: github:codebucks27/apple-iphone-3d-landing-page-starter-code
 local_vault_path: web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md
 quality_score: 70
@@ -42,7 +42,7 @@ Create awesome landing page for Apple iPhone 14 using Three JS and React JS. Thi
 
 ## Source
 
-Original source URL: https://github.com/codebucks27/Apple-iphone-3d-landing-page-starter-Code
+Original source URL: https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code
 
 ## Local Vault File
 

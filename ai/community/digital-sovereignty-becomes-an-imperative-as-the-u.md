@@ -13,11 +13,12 @@ collected_at: '2026-06-12T10:40:22.658137+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 first_seen: '2026-06-12T10:40:22.658137+00:00'
 last_seen: '2026-06-12T10:40:22.658137+00:00'
 resource_id: hackernews:digital-sovereignty-becomes-an-imperative-as-the-u
 ---
+
 
 
 # Digital Sovereignty Becomes an Imperative as the US Reads Dutch Emails

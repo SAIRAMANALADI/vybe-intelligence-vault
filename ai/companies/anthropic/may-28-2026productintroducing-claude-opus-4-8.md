@@ -10,9 +10,11 @@ tags:
 - anthropic
 - anthropic-news
 - blog-post
-status: new
+status: inactive
 resource_id: blog:may-28-2026productintroducing-claude-opus-4-8
+last_seen: '2026-06-11T13:04:31.691476+00:00'
 ---
+
 
 
 # May 28, 2026ProductIntroducing Claude Opus 4.8

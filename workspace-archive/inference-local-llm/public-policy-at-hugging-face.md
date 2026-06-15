@@ -3,6 +3,7 @@ title: Public Policy at Hugging Face
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/policy-blog
+resource_id: blog:public-policy-at-hugging-face
 local_vault_path: ai/models/huggingface-blog-policy-blog.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:public-policy-at-hugging-face
 ---
-
-
 
 # Public Policy at Hugging Face
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-blog
 
 ## Local Vault File
 
-Path: [public-policy-at-hugging-face-b8a373.md](file:///../../ai/models/huggingface-blog-policy-blog.md)
+Path: [huggingface-blog-policy-blog.md](file:///../../ai/models/huggingface-blog-policy-blog.md)

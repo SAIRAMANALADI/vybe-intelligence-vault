@@ -2,7 +2,8 @@
 title: 'Non-engineers guide: Train a LLaMA 2 chatbot'
 archive_category: inference-local-llm
 source_category: ai/models
-source_url: https://huggingface.co/blog/Llama2-for-non-engineers
+source_url: https://huggingface.co/blog/llama2-for-non-engineers
+resource_id: blog:non-engineers-guide-train-a-llama-2-chatbot
 local_vault_path: ai/models/huggingface-blog-llama2-for-non-engineers.md
 quality_score: 70
 archive_score: 70
@@ -10,13 +11,11 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- meta-ai
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:non-engineers-guide-train-a-llama-2-chatbot
 ---
-
-
 
 # Non-engineers guide: Train a LLaMA 2 chatbot
 
@@ -40,8 +39,8 @@ No summary provided. Reference resource: Non-engineers guide: Train a LLaMA 2 ch
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Llama2-for-non-engineers
+Original source URL: https://huggingface.co/blog/llama2-for-non-engineers
 
 ## Local Vault File
 
-Path: [non-engineers-guide-train-a-llama-2-chatbot-7218f4.md](file:///../../ai/models/huggingface-blog-llama2-for-non-engineers.md)
+Path: [huggingface-blog-llama2-for-non-engineers.md](file:///../../ai/models/huggingface-blog-llama2-for-non-engineers.md)

@@ -3,6 +3,7 @@ title: Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-whisper
+resource_id: blog:fine-tune-whisper-for-multilingual-asr-with-transf
 local_vault_path: ai/models/huggingface-blog-fine-tune-whisper.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:fine-tune-whisper-for-multilingual-asr-with-transf
 ---
-
 
 # Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-whisper
 
 ## Local Vault File
 
-Path: [fine-tune-whisper-for-multilingual-asr-with-transformers-7cb361.md](file:///../../ai/models/huggingface-blog-fine-tune-whisper.md)
+Path: [huggingface-blog-fine-tune-whisper.md](file:///../../ai/models/huggingface-blog-fine-tune-whisper.md)

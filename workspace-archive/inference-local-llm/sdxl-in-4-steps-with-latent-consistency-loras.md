@@ -3,6 +3,7 @@ title: SDXL in 4 steps with Latent Consistency LoRAs
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lcm_lora
+resource_id: blog:sdxl-in-4-steps-with-latent-consistency-loras
 local_vault_path: ai/models/huggingface-blog-lcm-lora.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:sdxl-in-4-steps-with-latent-consistency-loras
 ---
-
-
 
 # SDXL in 4 steps with Latent Consistency LoRAs
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lcm_lora
 
 ## Local Vault File
 
-Path: [sdxl-in-4-steps-with-latent-consistency-loras-bae4ed.md](file:///../../ai/models/huggingface-blog-lcm-lora.md)
+Path: [huggingface-blog-lcm-lora.md](file:///../../ai/models/huggingface-blog-lcm-lora.md)

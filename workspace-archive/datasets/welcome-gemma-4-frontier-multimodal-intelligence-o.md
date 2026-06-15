@@ -3,6 +3,7 @@ title: 'Welcome Gemma 4: Frontier multimodal intelligence on device'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma4
+resource_id: blog:welcome-gemma-4-frontier-multimodal-intelligence-o
 local_vault_path: ai/models/huggingface-blog-gemma4.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:welcome-gemma-4-frontier-multimodal-intelligence-o
 ---
-
 
 # Welcome Gemma 4: Frontier multimodal intelligence on device
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma4
 
 ## Local Vault File
 
-Path: [welcome-gemma-4-frontier-multimodal-intelligence-on-device-a38a6a.md](file:///../../ai/models/huggingface-blog-gemma4.md)
+Path: [huggingface-blog-gemma4.md](file:///../../ai/models/huggingface-blog-gemma4.md)

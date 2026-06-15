@@ -2,13 +2,13 @@
 title: 'Training Design for Text-to-Image Models: Lessons from Ablations'
 archive_category: inference-local-llm
 source_category: ai/models
-source_url: https://huggingface.co/blog/Photoroom/prx-part2
+source_url: https://huggingface.co/blog/photoroom/prx-part2
 resource_id: blog:training-design-for-text-to-image-models-lessons-f
 local_vault_path: ai/models/training-design-for-text-to-image-models-lessons-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Training Design for Text-to-Image Model
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Photoroom/prx-part2
+Original source URL: https://huggingface.co/blog/photoroom/prx-part2
 
 ## Local Vault File
 

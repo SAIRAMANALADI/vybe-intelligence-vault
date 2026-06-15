@@ -3,6 +3,7 @@ title: An Introduction to AI Secure LLM Safety Leaderboard
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-decodingtrust
+resource_id: blog:an-introduction-to-ai-secure-llm-safety-leaderboar
 local_vault_path: ai/models/huggingface-blog-leaderboard-decodingtrust.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:an-introduction-to-ai-secure-llm-safety-leaderboar
 ---
-
 
 # An Introduction to AI Secure LLM Safety Leaderboard
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-decodingtrust
 
 ## Local Vault File
 
-Path: [an-introduction-to-ai-secure-llm-safety-leaderboard-f0da78.md](file:///../../ai/models/huggingface-blog-leaderboard-decodingtrust.md)
+Path: [huggingface-blog-leaderboard-decodingtrust.md](file:///../../ai/models/huggingface-blog-leaderboard-decodingtrust.md)

@@ -3,6 +3,7 @@ title: 'LeRobot v0.5.0: Scaling Every Dimension'
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-release-v050
+resource_id: blog:lerobot-v0-5-0-scaling-every-dimension
 local_vault_path: ai/models/huggingface-blog-lerobot-release-v050.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:lerobot-v0-5-0-scaling-every-dimension
 ---
-
-
 
 # LeRobot v0.5.0: Scaling Every Dimension
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v050
 
 ## Local Vault File
 
-Path: [lerobot-v0-5-0-scaling-every-dimension-3ca16d.md](file:///../../ai/models/huggingface-blog-lerobot-release-v050.md)
+Path: [huggingface-blog-lerobot-release-v050.md](file:///../../ai/models/huggingface-blog-lerobot-release-v050.md)

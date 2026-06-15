@@ -14,9 +14,11 @@ tags:
 - agents
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:ai-agent-runs-amok-in-fedora-and-elsewhere
+last_seen: '2026-06-11T09:24:43.478866+00:00'
 ---
+
 
 
 # AI agent runs amok in Fedora and elsewhere

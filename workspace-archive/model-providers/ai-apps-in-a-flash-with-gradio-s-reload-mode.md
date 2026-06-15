@@ -3,6 +3,7 @@ title: AI Apps in a Flash with Gradio's Reload Mode
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-reload
+resource_id: blog:ai-apps-in-a-flash-with-gradio-s-reload-mode
 local_vault_path: ai/models/huggingface-blog-gradio-reload.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ai-apps-in-a-flash-with-gradio-s-reload-mode
 ---
-
-
 
 # AI Apps in a Flash with Gradio's Reload Mode
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-reload
 
 ## Local Vault File
 
-Path: [ai-apps-in-a-flash-with-gradio-s-reload-mode-5693ea.md](file:///../../ai/models/huggingface-blog-gradio-reload.md)
+Path: [huggingface-blog-gradio-reload.md](file:///../../ai/models/huggingface-blog-gradio-reload.md)

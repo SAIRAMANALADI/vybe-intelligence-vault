@@ -14,9 +14,11 @@ tags:
 - agents
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:apache-burr-build-reliable-ai-agents-and-applicati
+last_seen: '2026-06-11T09:25:07.701591+00:00'
 ---
+
 
 
 # Apache Burr: Build reliable AI agents and applications

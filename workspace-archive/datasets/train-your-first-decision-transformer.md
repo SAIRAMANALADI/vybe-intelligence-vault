@@ -3,6 +3,7 @@ title: Train your first Decision Transformer
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-decision-transformers
+resource_id: blog:train-your-first-decision-transformer
 local_vault_path: ai/models/huggingface-blog-train-decision-transformers.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:train-your-first-decision-transformer
 ---
-
-
 
 # Train your first Decision Transformer
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [train-your-first-decision-transformer-bcc95c.md](file:///../../ai/models/huggingface-blog-train-decision-transformers.md)
+Path: [huggingface-blog-train-decision-transformers.md](file:///../../ai/models/huggingface-blog-train-decision-transformers.md)

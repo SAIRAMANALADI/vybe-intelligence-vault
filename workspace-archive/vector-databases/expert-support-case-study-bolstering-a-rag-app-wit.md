@@ -3,6 +3,7 @@ title: 'Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge'
 archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/digital-green-llm-judge
+resource_id: blog:expert-support-case-study-bolstering-a-rag-app-wit
 local_vault_path: ai/rag/huggingface-blog-digital-green-llm-judge.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - rag
 selection_reason:
 - Valuable developer reference
-resource_id: blog:expert-support-case-study-bolstering-a-rag-app-wit
 ---
-
 
 # Expert Support case study: Bolstering a RAG app with LLM-as-a-Judge
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/digital-green-llm-judge
 
 ## Local Vault File
 
-Path: [expert-support-case-study-bolstering-a-rag-app-with-llm-as-a-judge-b626fd.md](file:///../../ai/rag/huggingface-blog-digital-green-llm-judge.md)
+Path: [huggingface-blog-digital-green-llm-judge.md](file:///../../ai/rag/huggingface-blog-digital-green-llm-judge.md)

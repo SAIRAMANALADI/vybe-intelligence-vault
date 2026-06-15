@@ -3,6 +3,7 @@ title: GGML and llama.cpp join HF to ensure the long-term progress of Local AI
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ggml-joins-hf
+resource_id: blog:ggml-and-llama-cpp-join-hf-to-ensure-the-long-term
 local_vault_path: ai/models/huggingface-blog-ggml-joins-hf.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:ggml-and-llama-cpp-join-hf-to-ensure-the-long-term
 ---
-
-
 
 # GGML and llama.cpp join HF to ensure the long-term progress of Local AI
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ggml-joins-hf
 
 ## Local Vault File
 
-Path: [ggml-and-llama-cpp-join-hf-to-ensure-the-long-term-progress-of-local-ai-e4d4cd.md](file:///../../ai/models/huggingface-blog-ggml-joins-hf.md)
+Path: [huggingface-blog-ggml-joins-hf.md](file:///../../ai/models/huggingface-blog-ggml-joins-hf.md)

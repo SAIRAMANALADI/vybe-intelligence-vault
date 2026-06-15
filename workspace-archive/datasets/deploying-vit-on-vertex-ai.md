@@ -3,6 +3,7 @@ title: Deploying 🤗 ViT on Vertex AI
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-vertex-ai
+resource_id: blog:deploying-vit-on-vertex-ai
 local_vault_path: ai/models/huggingface-blog-deploy-vertex-ai.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploying-vit-on-vertex-ai
 ---
-
-
 
 # Deploying 🤗 ViT on Vertex AI
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-vertex-ai
 
 ## Local Vault File
 
-Path: [deploying-vit-on-vertex-ai-e1e80d.md](file:///../../ai/models/huggingface-blog-deploy-vertex-ai.md)
+Path: [huggingface-blog-deploy-vertex-ai.md](file:///../../ai/models/huggingface-blog-deploy-vertex-ai.md)

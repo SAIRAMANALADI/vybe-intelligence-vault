@@ -2,13 +2,13 @@
 title: 'Real-Time AI Sound Generation on Arm: A Personal Tool for Creative Freedom'
 archive_category: model-providers
 source_category: ai/models
-source_url: https://huggingface.co/blog/Arm/ai-sound-gen-on-arm
+source_url: https://huggingface.co/blog/arm/ai-sound-gen-on-arm
 resource_id: blog:real-time-ai-sound-generation-on-arm-a-personal-to
 local_vault_path: ai/models/real-time-ai-sound-generation-on-arm-a-personal-to.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,7 +36,7 @@ No summary provided. Reference resource: Real-Time AI Sound Generation on Arm: A
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/Arm/ai-sound-gen-on-arm
+Original source URL: https://huggingface.co/blog/arm/ai-sound-gen-on-arm
 
 ## Local Vault File
 

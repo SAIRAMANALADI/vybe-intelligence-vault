@@ -3,6 +3,7 @@ title: Announcing our new Content Guidelines and Policy
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/content-guidelines-update
+resource_id: blog:announcing-our-new-content-guidelines-and-policy
 local_vault_path: ai/models/huggingface-blog-content-guidelines-update.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:announcing-our-new-content-guidelines-and-policy
 ---
-
-
 
 # Announcing our new Content Guidelines and Policy
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/content-guidelines-update
 
 ## Local Vault File
 
-Path: [announcing-our-new-content-guidelines-and-policy-3c70ac.md](file:///../../ai/models/huggingface-blog-content-guidelines-update.md)
+Path: [huggingface-blog-content-guidelines-update.md](file:///../../ai/models/huggingface-blog-content-guidelines-update.md)

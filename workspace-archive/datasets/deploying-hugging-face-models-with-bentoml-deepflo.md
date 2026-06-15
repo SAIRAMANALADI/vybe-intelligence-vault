@@ -3,6 +3,7 @@ title: 'Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-deepfloydif-using-bentoml
+resource_id: blog:deploying-hugging-face-models-with-bentoml-deepflo
 local_vault_path: ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:deploying-hugging-face-models-with-bentoml-deepflo
 ---
-
 
 # Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-deepfloydif-using-bentom
 
 ## Local Vault File
 
-Path: [deploying-hugging-face-models-with-bentoml-deepfloyd-if-in-action-0cc86e.md](file:///../../ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md)
+Path: [huggingface-blog-deploy-deepfloydif-using-bentoml.md](file:///../../ai/models/huggingface-blog-deploy-deepfloydif-using-bentoml.md)

@@ -3,6 +3,7 @@ title: 'Tiny Agents: an MCP-powered agent in 50 lines of code'
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/tiny-agents
+resource_id: blog:tiny-agents-an-mcp-powered-agent-in-50-lines-of-co
 local_vault_path: ai/agents/huggingface-blog-tiny-agents.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:tiny-agents-an-mcp-powered-agent-in-50-lines-of-co
 ---
-
 
 # Tiny Agents: an MCP-powered agent in 50 lines of code
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tiny-agents
 
 ## Local Vault File
 
-Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-code-df501f.md](file:///../../ai/agents/huggingface-blog-tiny-agents.md)
+Path: [huggingface-blog-tiny-agents.md](file:///../../ai/agents/huggingface-blog-tiny-agents.md)

@@ -3,6 +3,7 @@ title: 'LeRobot v0.4.0: Supercharging OSS Robot Learning'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-release-v040
+resource_id: blog:lerobot-v0-4-0-supercharging-oss-robot-learning
 local_vault_path: ai/models/huggingface-blog-lerobot-release-v040.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:lerobot-v0-4-0-supercharging-oss-robot-learning
 ---
-
-
 
 # LeRobot v0.4.0: Supercharging OSS Robot Learning
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v040
 
 ## Local Vault File
 
-Path: [lerobot-v0-4-0-supercharging-oss-robot-learning-9d6671.md](file:///../../ai/models/huggingface-blog-lerobot-release-v040.md)
+Path: [huggingface-blog-lerobot-release-v040.md](file:///../../ai/models/huggingface-blog-lerobot-release-v040.md)

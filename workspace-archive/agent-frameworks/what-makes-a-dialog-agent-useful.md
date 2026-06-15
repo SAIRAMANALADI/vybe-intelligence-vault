@@ -3,6 +3,7 @@ title: What Makes a Dialog Agent Useful?
 archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/dialog-agents
+resource_id: blog:what-makes-a-dialog-agent-useful
 local_vault_path: ai/agents/huggingface-blog-dialog-agents.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - agents
 selection_reason:
 - Valuable developer reference
-resource_id: blog:what-makes-a-dialog-agent-useful
 ---
-
-
 
 # What Makes a Dialog Agent Useful?
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/dialog-agents
 
 ## Local Vault File
 
-Path: [what-makes-a-dialog-agent-useful-b02e06.md](file:///../../ai/agents/huggingface-blog-dialog-agents.md)
+Path: [huggingface-blog-dialog-agents.md](file:///../../ai/agents/huggingface-blog-dialog-agents.md)

@@ -2,7 +2,7 @@
 title: EasyFrontendHQ/html-tailwindcss-components
 archive_category: rag-systems
 source_category: web-development/tailwind
-source_url: https://github.com/EasyFrontendHQ/html-tailwindcss-components
+source_url: https://github.com/easyfrontendhq/html-tailwindcss-components
 resource_id: github:easyfrontendhq/html-tailwindcss-components
 local_vault_path: web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md
 quality_score: 70
@@ -40,7 +40,7 @@ Free TailwindCSS HTML UI Components - built to create landing pages and websites
 
 ## Source
 
-Original source URL: https://github.com/EasyFrontendHQ/html-tailwindcss-components
+Original source URL: https://github.com/easyfrontendhq/html-tailwindcss-components
 
 ## Local Vault File
 

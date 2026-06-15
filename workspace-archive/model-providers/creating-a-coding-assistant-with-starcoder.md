@@ -3,6 +3,7 @@ title: Creating a Coding Assistant with StarCoder
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/starchat-alpha
+resource_id: blog:creating-a-coding-assistant-with-starcoder
 local_vault_path: ai/models/huggingface-blog-starchat-alpha.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:creating-a-coding-assistant-with-starcoder
 ---
-
-
 
 # Creating a Coding Assistant with StarCoder
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starchat-alpha
 
 ## Local Vault File
 
-Path: [creating-a-coding-assistant-with-starcoder-e29bd7.md](file:///../../ai/models/huggingface-blog-starchat-alpha.md)
+Path: [huggingface-blog-starchat-alpha.md](file:///../../ai/models/huggingface-blog-starchat-alpha.md)

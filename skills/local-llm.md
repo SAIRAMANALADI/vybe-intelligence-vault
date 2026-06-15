@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 45 resources matched in the intelligence vault.
+Active signals: 56 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-12
-- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-06-12
+- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Overview of natively supported quantization schemes in 🤗 Transformers](../ai/models/huggingface-blog-overview-quantization-transformers.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval](../ai/models/huggingface-blog-embedding-quantization.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-12T15:23:54.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:37.103911+00:00.204506+00:00.

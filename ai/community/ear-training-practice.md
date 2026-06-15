@@ -13,9 +13,11 @@ collected_at: '2026-06-12T05:02:09.934855+00:00'
 tags:
 - ai
 - hackernews
-status: new
+status: inactive
 resource_id: hackernews:ear-training-practice
+last_seen: '2026-06-12T05:02:09.934855+00:00'
 ---
+
 
 
 # Ear Training Practice

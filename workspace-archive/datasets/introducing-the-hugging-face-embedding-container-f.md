@@ -3,6 +3,7 @@ title: Introducing the Hugging Face Embedding Container for Amazon SageMaker
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sagemaker-huggingface-embedding
+resource_id: blog:introducing-the-hugging-face-embedding-container-f
 local_vault_path: ai/models/huggingface-blog-sagemaker-huggingface-embedding.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-hugging-face-embedding-container-f
 ---
-
 
 # Introducing the Hugging Face Embedding Container for Amazon SageMaker
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-embedding
 
 ## Local Vault File
 
-Path: [introducing-the-hugging-face-embedding-container-for-amazon-sagemaker-7f63da.md](file:///../../ai/models/huggingface-blog-sagemaker-huggingface-embedding.md)
+Path: [huggingface-blog-sagemaker-huggingface-embedding.md](file:///../../ai/models/huggingface-blog-sagemaker-huggingface-embedding.md)

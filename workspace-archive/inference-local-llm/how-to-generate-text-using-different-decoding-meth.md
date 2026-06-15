@@ -4,6 +4,7 @@ title: 'How to generate text: using different decoding methods for language gene
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-generate
+resource_id: blog:how-to-generate-text-using-different-decoding-meth
 local_vault_path: ai/models/huggingface-blog-how-to-generate.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:how-to-generate-text-using-different-decoding-meth
 ---
-
 
 # How to generate text: using different decoding methods for language generation with Transformers
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/how-to-generate
 
 ## Local Vault File
 
-Path: [how-to-generate-text-using-different-decoding-methods-for-language-generation-wi-78b038.md](file:///../../ai/models/huggingface-blog-how-to-generate.md)
+Path: [huggingface-blog-how-to-generate.md](file:///../../ai/models/huggingface-blog-how-to-generate.md)

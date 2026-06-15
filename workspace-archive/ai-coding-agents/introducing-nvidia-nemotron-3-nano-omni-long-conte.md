@@ -9,10 +9,11 @@ local_vault_path: ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.m
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
+- youtube
 selection_reason:
 - Valuable developer reference
 ---
@@ -23,7 +24,7 @@ selection_reason:
 
 - Matched archive category: `AI Coding Agents`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 

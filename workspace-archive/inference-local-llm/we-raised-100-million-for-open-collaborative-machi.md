@@ -3,6 +3,7 @@ title: We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/series-c
+resource_id: blog:we-raised-100-million-for-open-collaborative-machi
 local_vault_path: ai/models/huggingface-blog-series-c.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:we-raised-100-million-for-open-collaborative-machi
 ---
-
 
 # We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai/models/huggingface-blog-series-c.md)
+Path: [huggingface-blog-series-c.md](file:///../../ai/models/huggingface-blog-series-c.md)

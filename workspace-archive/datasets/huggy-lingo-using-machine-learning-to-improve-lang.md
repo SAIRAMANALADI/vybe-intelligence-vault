@@ -4,6 +4,7 @@ title: 'Huggy Lingo: Using Machine Learning to Improve Language Metadata on the 
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggy-lingo
+resource_id: blog:huggy-lingo-using-machine-learning-to-improve-lang
 local_vault_path: ai/models/huggingface-blog-huggy-lingo.md
 quality_score: 70
 archive_score: 70
@@ -12,9 +13,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:huggy-lingo-using-machine-learning-to-improve-lang
 ---
-
 
 # Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub
 
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggy-lingo
 
 ## Local Vault File
 
-Path: [huggy-lingo-using-machine-learning-to-improve-language-metadata-on-the-hugging-f-09bc07.md](file:///../../ai/models/huggingface-blog-huggy-lingo.md)
+Path: [huggingface-blog-huggy-lingo.md](file:///../../ai/models/huggingface-blog-huggy-lingo.md)

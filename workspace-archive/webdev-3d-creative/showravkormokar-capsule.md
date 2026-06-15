@@ -2,7 +2,7 @@
 title: ShowravKormokar/capsule
 archive_category: webdev-3d-creative
 source_category: web-development/gsap
-source_url: https://github.com/ShowravKormokar/capsule
+source_url: https://github.com/showravkormokar/capsule
 resource_id: github:showravkormokar/capsule
 local_vault_path: web-development/gsap/showravkormokar-capsule.md
 quality_score: 70
@@ -14,6 +14,7 @@ tags:
 - animation
 - creative_dev
 - frontend_ui
+- reddit
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -42,7 +43,7 @@ This is a clone of the Awwwards-winning "capsule.moyra.co," developed to level u
 
 ## Source
 
-Original source URL: https://github.com/ShowravKormokar/capsule
+Original source URL: https://github.com/showravkormokar/capsule
 
 ## Local Vault File
 

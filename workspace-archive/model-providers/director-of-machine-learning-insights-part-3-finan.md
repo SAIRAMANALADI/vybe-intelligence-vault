@@ -3,6 +3,7 @@ title: 'Director of Machine Learning Insights [Part 3: Finance Edition]'
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights-3
+resource_id: blog:director-of-machine-learning-insights-part-3-finan
 local_vault_path: ai/models/huggingface-blog-ml-director-insights-3.md
 quality_score: 70
 archive_score: 70
@@ -11,9 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:director-of-machine-learning-insights-part-3-finan
 ---
-
 
 # Director of Machine Learning Insights [Part 3: Finance Edition]
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights-3
 
 ## Local Vault File
 
-Path: [director-of-machine-learning-insights-part-3-finance-edition-13ac40.md](file:///../../ai/models/huggingface-blog-ml-director-insights-3.md)
+Path: [huggingface-blog-ml-director-insights-3.md](file:///../../ai/models/huggingface-blog-ml-director-insights-3.md)

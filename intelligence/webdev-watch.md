@@ -15,7 +15,7 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio) | `frontend-ai-ui/` | 70 |
 | [SikandarJODD/svelte-animations](https://github.com/sikandarjodd/svelte-animations) | `frontend-ai-ui/` | 70 |
 | [uixmat/onborda](https://github.com/uixmat/onborda) | `frontend-ai-ui/` | 70 |
-| [ShowravKormokar/capsule](https://github.com/ShowravKormokar/capsule) | `frontend-ai-ui/` | 70 |
+| [ShowravKormokar/capsule](https://github.com/showravkormokar/capsule) | `frontend-ai-ui/` | 70 |
 | [pmndrs/react-three-next](https://github.com/pmndrs/react-three-next) | `frontend-ai-ui/` | 70 |
 | [14islands/r3f-scroll-rig](https://github.com/14islands/r3f-scroll-rig) | `webdev-3d-creative/` | 70 |
 | [anyone-yuren/degital-twin-3d](https://github.com/anyone-yuren/degital-twin-3d) | `webdev-3d-creative/` | 70 |

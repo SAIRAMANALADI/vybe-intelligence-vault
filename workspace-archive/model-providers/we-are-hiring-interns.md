@@ -3,6 +3,7 @@ title: We are hiring interns!
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/interns-2023
+resource_id: blog:we-are-hiring-interns
 local_vault_path: ai/models/huggingface-blog-interns-2023.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:we-are-hiring-interns
 ---
-
-
 
 # We are hiring interns!
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/interns-2023
 
 ## Local Vault File
 
-Path: [we-are-hiring-interns-999e83.md](file:///../../ai/models/huggingface-blog-interns-2023.md)
+Path: [huggingface-blog-interns-2023.md](file:///../../ai/models/huggingface-blog-interns-2023.md)

@@ -2,7 +2,7 @@
 title: ChangoMan/nextjs-mdx-blog
 archive_category: frontend-ai-ui
 source_category: web-development/nextjs
-source_url: https://github.com/ChangoMan/nextjs-mdx-blog
+source_url: https://github.com/changoman/nextjs-mdx-blog
 resource_id: github:changoman/nextjs-mdx-blog
 local_vault_path: web-development/nextjs/changoman-nextjs-mdx-blog.md
 quality_score: 70
@@ -40,7 +40,7 @@ UPDATED to Next.js App Router! Starter template built with Contentlayer, MDX, sh
 
 ## Source
 
-Original source URL: https://github.com/ChangoMan/nextjs-mdx-blog
+Original source URL: https://github.com/changoman/nextjs-mdx-blog
 
 ## Local Vault File
 

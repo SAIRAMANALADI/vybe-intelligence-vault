@@ -3,6 +3,7 @@ title: 'Transformers v5: Simple model definitions powering the AI ecosystem'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-v5
+resource_id: blog:transformers-v5-simple-model-definitions-powering
 local_vault_path: ai/models/huggingface-blog-transformers-v5.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:transformers-v5-simple-model-definitions-powering
 ---
-
-
 
 # Transformers v5: Simple model definitions powering the AI ecosystem
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-v5
 
 ## Local Vault File
 
-Path: [transformers-v5-simple-model-definitions-powering-the-ai-ecosystem-85c8ab.md](file:///../../ai/models/huggingface-blog-transformers-v5.md)
+Path: [huggingface-blog-transformers-v5.md](file:///../../ai/models/huggingface-blog-transformers-v5.md)

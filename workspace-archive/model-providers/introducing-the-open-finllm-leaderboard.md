@@ -3,6 +3,7 @@ title: Introducing the Open FinLLM Leaderboard
 archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-finbench
+resource_id: blog:introducing-the-open-finllm-leaderboard
 local_vault_path: ai/models/huggingface-blog-leaderboard-finbench.md
 quality_score: 70
 archive_score: 70
@@ -13,10 +14,7 @@ tags:
 - leaderboard
 selection_reason:
 - Valuable developer reference
-resource_id: blog:introducing-the-open-finllm-leaderboard
 ---
-
-
 
 # Introducing the Open FinLLM Leaderboard
 
@@ -44,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-finbench
 
 ## Local Vault File
 
-Path: [introducing-the-open-finllm-leaderboard-5ac70c.md](file:///../../ai/models/huggingface-blog-leaderboard-finbench.md)
+Path: [huggingface-blog-leaderboard-finbench.md](file:///../../ai/models/huggingface-blog-leaderboard-finbench.md)

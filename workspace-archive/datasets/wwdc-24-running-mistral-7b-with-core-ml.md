@@ -3,6 +3,7 @@ title: 'WWDC 24: Running Mistral 7B with Core ML'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mistral-coreml
+resource_id: blog:wwdc-24-running-mistral-7b-with-core-ml
 local_vault_path: ai/models/huggingface-blog-mistral-coreml.md
 quality_score: 70
 archive_score: 70
@@ -14,10 +15,7 @@ tags:
 - models
 selection_reason:
 - Valuable developer reference
-resource_id: blog:wwdc-24-running-mistral-7b-with-core-ml
 ---
-
-
 
 # WWDC 24: Running Mistral 7B with Core ML
 
@@ -45,4 +43,4 @@ Original source URL: https://huggingface.co/blog/mistral-coreml
 
 ## Local Vault File
 
-Path: [wwdc-24-running-mistral-7b-with-core-ml-4d871c.md](file:///../../ai/models/huggingface-blog-mistral-coreml.md)
+Path: [huggingface-blog-mistral-coreml.md](file:///../../ai/models/huggingface-blog-mistral-coreml.md)

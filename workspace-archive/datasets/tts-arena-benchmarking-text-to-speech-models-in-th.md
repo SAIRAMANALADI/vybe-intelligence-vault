@@ -3,6 +3,7 @@ title: 'TTS Arena: Benchmarking Text-to-Speech Models in the Wild'
 archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-tts
+resource_id: blog:tts-arena-benchmarking-text-to-speech-models-in-th
 local_vault_path: ai/models/huggingface-blog-arena-tts.md
 quality_score: 70
 archive_score: 70
@@ -13,9 +14,7 @@ tags:
 - benchmark
 selection_reason:
 - Valuable developer reference
-resource_id: blog:tts-arena-benchmarking-text-to-speech-models-in-th
 ---
-
 
 # TTS Arena: Benchmarking Text-to-Speech Models in the Wild
 
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: [tts-arena-benchmarking-text-to-speech-models-in-the-wild-991e60.md](file:///../../ai/models/huggingface-blog-arena-tts.md)
+Path: [huggingface-blog-arena-tts.md](file:///../../ai/models/huggingface-blog-arena-tts.md)

@@ -3,6 +3,7 @@ title: Swift 🧨Diffusers - Fast Stable Diffusion for Mac
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fast-mac-diffusers
+resource_id: blog:swift-diffusers-fast-stable-diffusion-for-mac
 local_vault_path: ai/models/huggingface-blog-fast-mac-diffusers.md
 quality_score: 70
 archive_score: 70
@@ -11,10 +12,7 @@ resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
-resource_id: blog:swift-diffusers-fast-stable-diffusion-for-mac
 ---
-
-
 
 # Swift 🧨Diffusers - Fast Stable Diffusion for Mac
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-mac-diffusers
 
 ## Local Vault File
 
-Path: [swift-diffusers-fast-stable-diffusion-for-mac-95df56.md](file:///../../ai/models/huggingface-blog-fast-mac-diffusers.md)
+Path: [huggingface-blog-fast-mac-diffusers.md](file:///../../ai/models/huggingface-blog-fast-mac-diffusers.md)
