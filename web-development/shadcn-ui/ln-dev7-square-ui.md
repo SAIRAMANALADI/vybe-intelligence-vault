@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/ln-dev7/square-ui
-collected_at: '2026-06-15T16:20:31.241872+00:00'
-published_at: '2026-06-15T15:04:50Z'
+collected_at: '2026-06-15T19:09:24.644056+00:00'
+published_at: '2026-06-15T17:54:08Z'
 tags:
 - frontend_ui
-stars: 5459
+stars: 5460
 language: TypeScript
 status: active
 resource_id: github:ln-dev7/square-ui
-first_seen: '2026-06-15T16:20:31.241872+00:00'
-last_seen: '2026-06-15T16:20:31.241872+00:00'
-last_checked: '2026-06-15T16:20:31.241872+00:00'
+first_seen: '2026-06-15T19:09:24.644056+00:00'
+last_seen: '2026-06-15T19:09:24.644056+00:00'
+last_checked: '2026-06-15T19:09:24.644056+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: ln-dev7
-- Stars: 5459
-- Forks: 610
+- Stars: 5460
+- Forks: 611
 - Language: TypeScript
 - Topics: layout, shadcn-ui, template
-- Last Updated: 2026-06-15T15:04:50Z
+- Last Updated: 2026-06-15T17:54:08Z
 
 ## Possible Use Cases
 

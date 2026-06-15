@@ -26,9 +26,9 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | web-development/shadcn-ui | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
+| ai/community | 11 |
 | ai/companies/mistral | 10 |
 | ai/companies/anthropic | 8 |
-| ai/community | 7 |
 | web-development/gsap | 6 |
 | ai/companies/deepmind | 5 |
 | ai/companies/openai | 4 |
@@ -47,31 +47,31 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | frontend_ui | 112 |
 | paper | 84 |
 | threejs | 81 |
-| hackernews | 65 |
+| hackernews | 69 |
 | openai | 63 |
 | youtube | 49 |
 | workflows | 48 |
 | meta-ai | 47 |
 | animation | 33 |
-| leaderboard | 32 |
+| anthropic | 32 |
 
 ## Weekly Community Updates
 
 1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 381) - `ai/community`
-2. [Show HN: I wrote a C++ ray tracer from scratch without AI](../../../ai/community/themartiano-luz.md) ([Source](https://github.com/themartiano/luz)) (HN Score: 116) - `ai/community`
-3. [Anthropic's Safety Superpower](../../../ai/community/anthropic-s-safety-superpower.md) ([Source](https://stratechery.com/2026/anthropics-safety-superpower)) (HN Score: 97) - `ai/community`
-4. [Foreign business owners are scrambling to raise capital to stay in Japan](../../../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md) ([Source](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling)) (HN Score: 68) - `ai/community`
-5. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
-6. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
-7. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 14) - `ai/community`
-8. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
-9. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-10. [Using a knowledge graph to implement a RAG application](../../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-11. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
-12. [15 Best Open-Source RAG Frameworks in 2026](../../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
-13. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-14. [Build a RAG agent with LangChain - Docs by LangChain](../../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
-15. [LightRAG](../../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
+2. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md) ([Source](https://tinywind.io)) (HN Score: 273) - `ai/community`
+3. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) ([Source](https://news.ycombinator.com/item?id=48542100)) (HN Score: 235) - `ai/community`
+4. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 122) - `ai/community`
+5. [Show HN: I wrote a C++ ray tracer from scratch without AI](../../../ai/community/themartiano-luz.md) ([Source](https://github.com/themartiano/luz)) (HN Score: 116) - `ai/community`
+6. [Anthropic's Safety Superpower](../../../ai/community/anthropic-s-safety-superpower.md) ([Source](https://stratechery.com/2026/anthropics-safety-superpower)) (HN Score: 97) - `ai/community`
+7. [Foreign business owners are scrambling to raise capital to stay in Japan](../../../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md) ([Source](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling)) (HN Score: 68) - `ai/community`
+8. [Can Europe train a frontier AI model on the compute it owns?](../../../ai/community/sammysltd-euromesh.md) ([Source](https://github.com/sammysltd/euromesh)) (HN Score: 65) - `ai/community`
+9. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
+10. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
+11. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../../../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source](https://fata.dev)) (HN Score: 25) - `ai/community`
+12. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
+13. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
+14. [Using a knowledge graph to implement a RAG application](../../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+15. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -133,14 +133,14 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (265 updates)
+- [Workflow Automation](../../../skills/automation.md) (267 updates)
 - [RAG](../../../skills/rag.md) (193 updates)
 - [Vector Databases](../../../skills/vector-databases.md) (188 updates)
 - [AI Agents](../../../skills/ai-agents.md) (156 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (94 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (96 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
 - [LLMOps](../../../skills/llmops.md) (51 updates)
-- [Local LLMs & Inference](../../../skills/local-llm.md) (32 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (33 updates)
 - [Prompt Engineering](../../../skills/prompt-engineering.md) (23 updates)
 - [FastAPI](../../../skills/fastapi.md) (12 updates)
 
@@ -151,4 +151,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-15T16:23:24.403583+00:00
+2026-06-15T19:11:48.403296+00:00

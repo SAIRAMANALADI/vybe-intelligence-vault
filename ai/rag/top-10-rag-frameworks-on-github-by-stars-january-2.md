@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91
-published_at: '2026-06-15T06:37:06.623806+00:00'
-collected_at: '2026-06-15T06:37:06.623821+00:00'
+published_at: '2026-06-15T19:10:08.944970+00:00'
+collected_at: '2026-06-15T19:10:08.944988+00:00'
 tags:
 - agents
 - anthropic
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:top-10-rag-frameworks-on-github-by-stars-january-2
-first_seen: '2026-06-15T06:37:06.623821+00:00'
-last_seen: '2026-06-15T06:37:06.623821+00:00'
-last_checked: '2026-06-15T06:37:06.623821+00:00'
+first_seen: '2026-06-15T19:10:08.944988+00:00'
+last_seen: '2026-06-15T19:10:08.944988+00:00'
+last_checked: '2026-06-15T19:10:08.944988+00:00'
 health_score: 100
 ---
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T06:37:06.623806+00:00
+- Published: 2026-06-15T19:10:08.944970+00:00
 
 ## Related Tags
 

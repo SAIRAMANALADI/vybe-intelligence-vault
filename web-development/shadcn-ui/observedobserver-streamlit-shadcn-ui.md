@@ -4,18 +4,18 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/observedobserver/streamlit-shadcn-ui
-collected_at: '2026-06-15T06:04:25.609191+00:00'
-published_at: '2026-06-08T13:07:25Z'
+collected_at: '2026-06-15T19:09:24.644109+00:00'
+published_at: '2026-06-15T16:35:43Z'
 tags:
 - frontend_ui
 - reddit
-stars: 1139
+stars: 1140
 language: TypeScript
 status: active
 resource_id: github:observedobserver/streamlit-shadcn-ui
-first_seen: '2026-06-12T10:40:21.841605+00:00'
-last_seen: '2026-06-15T06:04:25.609191+00:00'
-last_checked: '2026-06-15T06:04:25.609191+00:00'
+first_seen: '2026-06-15T19:09:24.644109+00:00'
+last_seen: '2026-06-15T19:09:24.644109+00:00'
+last_checked: '2026-06-15T19:09:24.644109+00:00'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: ObservedObserver
-- Stars: 1139
+- Stars: 1140
 - Forks: 95
 - Language: TypeScript
 - Topics: shadcn, shadcn-ui, streamlit, tailwindcss
-- Last Updated: 2026-06-08T13:07:25Z
+- Last Updated: 2026-06-15T16:35:43Z
 
 ## Possible Use Cases
 

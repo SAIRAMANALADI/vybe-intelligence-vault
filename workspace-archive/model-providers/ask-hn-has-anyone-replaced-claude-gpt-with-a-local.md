@@ -1,0 +1,50 @@
+---
+title: 'Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?'
+archive_category: model-providers
+source_category: ai/community
+source_url: https://news.ycombinator.com/item?id=48542100
+resource_id: hackernews:ask-hn-has-anyone-replaced-claude-gpt-with-a-local
+local_vault_path: ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md
+quality_score: 70
+archive_score: 72
+archive_tier: useful
+resource_kind: workflow
+importance: medium
+tags:
+- ai
+- anthropic
+- hackernews
+selection_reason:
+- Strong keyword match
+- Valuable developer reference
+---
+
+# Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?
+
+## Why This Is In The Archive
+
+- Matched archive category: `Model Providers`
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: workflow
+- Selection reasons:
+  - Strong keyword match
+  - Valuable developer reference
+
+## Summary
+
+Hacker News story by cloudking. Score: 235, Comments: 146.
+Original Link: None
+
+## Use Cases
+
+- API key selection
+- Cost/capability profiling
+- Provider fallback routing
+
+## Source
+
+Original source URL: https://news.ycombinator.com/item?id=48542100
+
+## Local Vault File
+
+Path: [ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md](file:///../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)

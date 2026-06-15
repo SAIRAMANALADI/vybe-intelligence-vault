@@ -44,28 +44,31 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2564 |
-| Active resources | 2537 |
+| Resources tracked | 2568 |
+| Active resources | 2541 |
 | Inactive resources | 27 |
-| Archive files | 13390 |
+| Archive files | 13396 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 16:23 UTC |
+| Last meaningful update | 2026-06-15 19:12 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (Rank: +4) (+86 points)
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+14 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +704)
-- **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (Rank: +6)
-- **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (Rank: +15)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Rank: +3) (+108 points)
+- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Rank: +700)
+- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Rank: +674)
+- **[Google Colab](ai/rag/google-colab.md)** (Rank: +679)
+- **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (Rank: +682)
 
 #### ✨ New Discoveries
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Score: 14)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (Score: 273)
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (Score: 235)
+- **[Can Europe train a frontier AI model on the compute it owns?](ai/community/sammysltd-euromesh.md)** (Score: 65)
+- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (Score: 25)
 
 #### 💤 Recently Inactive Resources
 - None.

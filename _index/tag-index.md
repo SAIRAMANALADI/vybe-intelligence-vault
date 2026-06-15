@@ -559,10 +559,14 @@ Resources organized by keyword tags.
 ## ai
 
   - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
+  - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
+  - [Can Europe train a frontier AI model on the compute it owns?](../ai/community/sammysltd-euromesh.md)
   - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
   - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
+  - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
   - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
+  - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
 
 ## animation
 
@@ -617,6 +621,7 @@ Resources organized by keyword tags.
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
   - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
+  - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
   - [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)
   - [Building Effective AI Agents \ Anthropic](../ai/rag/building-effective-ai-agents-anthropic.md)
@@ -1994,6 +1999,7 @@ Resources organized by keyword tags.
   - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
+  - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
   - [Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](../ai/research/arxiv-2606-12346.md)
   - [Augmentation techniques for video surveillance in the visible and thermal spectral range](../ai/research/arxiv-2606-13042.md)
   - [Bergson: An Open Source Library for Data Attribution](../ai/research/arxiv-2606-11660.md)
@@ -2013,6 +2019,7 @@ Resources organized by keyword tags.
   - [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
   - [Building a RAG Application - GeeksforGeeks](../ai/rag/building-a-rag-application-geeksforgeeks.md)
   - [Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](../ai/rag/arxiv-2606-14353.md)
+  - [Can Europe train a frontier AI model on the compute it owns?](../ai/community/sammysltd-euromesh.md)
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
   - [CoVar: Confidence-Variance-Guided Pseudo-Label Selection for Semi-Supervised Learning](../ai/research/arxiv-2601-11670.md)
   - [Constructing Evaluation Datasets for Procedural Reasoning: Balancing Naturalness, Grounding, and Multi-Hop Coverage](../ai/rag/arxiv-2606-12767.md)
@@ -2108,6 +2115,7 @@ Resources organized by keyword tags.
   - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
   - [Sathvikkrishna/langgraph-benchmark](../ai/agents/sathvikkrishna-langgraph-benchmark.md)
   - [Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach](../ai/research/arxiv-2606-14515.md)
+  - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
   - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
@@ -2125,6 +2133,7 @@ Resources organized by keyword tags.
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
+  - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
@@ -4558,4 +4567,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-15T16:23:25.549613+00:00*
+*Index generated on 2026-06-15T19:11:49.592455+00:00*

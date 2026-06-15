@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/infiniflow/ragflow
-collected_at: '2026-06-15T06:37:56.184642+00:00'
-published_at: '2026-06-15T06:37:50Z'
+collected_at: '2026-06-15T19:10:58.003709+00:00'
+published_at: '2026-06-15T17:31:21Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 82757
+stars: 82824
 language: Python
 status: active
 license: Apache-2.0
 archived: false
 created_at: '2023-12-12T06:13:13Z'
-pushed_at: '2026-06-15T06:06:07Z'
+pushed_at: '2026-06-15T15:05:53Z'
 resource_id: github:infiniflow/ragflow
-first_seen: '2026-06-15T06:37:56.184642+00:00'
-last_seen: '2026-06-15T06:37:56.184642+00:00'
-last_checked: '2026-06-15T06:37:56.184642+00:00'
+first_seen: '2026-06-15T19:10:58.003709+00:00'
+last_seen: '2026-06-15T19:10:58.003709+00:00'
+last_checked: '2026-06-15T19:10:58.003709+00:00'
 health_score: 100
 ---
 
@@ -38,15 +38,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: infiniflow
-- Stars: 82757
-- Forks: 9546
+- Stars: 82824
+- Forks: 9559
 - Language: Python
 - Topics: agentic-ai, agentic-retrieval, agentic-search, ai, ai-agents, context-engine, context-management, llm-apps, rag, retrieval-augmented-generation
-- Last Updated: 2026-06-15T06:37:50Z
+- Last Updated: 2026-06-15T17:31:21Z
 - License: Apache-2.0
 - Archived: No
 - Created At: 2023-12-12T06:13:13Z
-- Pushed At: 2026-06-15T06:06:07Z
+- Pushed At: 2026-06-15T15:05:53Z
 
 ## Possible Use Cases
 

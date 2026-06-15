@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 57 resources matched in the intelligence vault.
+Active signals: 58 resources matched in the intelligence vault.
 Recently detected signals:
+- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches](../ai/research/arxiv-2606-13626.md) (Source: Unknown Source) - Collected 2026-06-15
 - [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](../ai/rag/arxiv-2508-18166.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score](../ai/research/arxiv-2606-13300.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Holding the FP8 Quality Ceiling at 8-Bit Weights and Activations: INT8 and GGUF Post-Training Quantization of Ideogram 4.0 for Consumer GPUs](../ai/rag/arxiv-2606-12280.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Learning Variable-Length Tokenization for Generative Recommendation](../ai/rag/arxiv-2605-17779.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T16:23:21.917878+00:00.574711+00:00.290344+00:00.964270+00:00.103911+00:00.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T19:11:45.859523+00:00.917878+00:00.574711+00:00.290344+00:00.964270+00:00.103911+00:00.204506+00:00.

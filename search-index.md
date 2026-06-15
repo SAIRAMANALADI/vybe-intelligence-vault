@@ -5247,6 +5247,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `hackernews`, `reddit`
   * Source URL: <https://stratechery.com/2026/anthropics-safety-superpower>
 
+* **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by cloudking. Score: 235, Comments: 146. Original Link: None
+  * Tags: `ai`, `anthropic`, `hackernews`
+  * Source URL: <https://news.ycombinator.com/item?id=48542100>
+
 * **[Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)** (`dataset` | `useful` tier)
   * Summary: Simran Kumari for OpenObserve Posted on Mar 25 • Edited on May 18 • Originally published at openobserve.ai Best Open Source LLM Observability Tools in 2026: Complete Guide #opentelemetry #observability #llm #ai What Is LLM Observability? LLM observab
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
@@ -5291,6 +5296,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Building RAG Applications with Python: Complete 2026 GuideNinadJanuary 30, 2026Python Programming Examples Building RAG Applications With Python C Your chatbot can’t answer questions about your company’s internal docs. Your AI assistant ha...
   * Tags: `anthropic`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.askpython.com/python/examples/building-rag-applications-with-python>
+
+* **[Can Europe train a frontier AI model on the compute it owns?](ai/community/sammysltd-euromesh.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by smashini. Score: 65, Comments: 81. Original Link: https://github.com/sammysltd/euromesh
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/sammysltd/euromesh>
 
 * **[Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning](ai/research/arxiv-2605-24609.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.24609v2 Announce Type: replace-cross Abstract: Artificial intelligence is increasingly integrated into radiotherapy workflows, yet such pipelines remain vulnerable to out-of-distribution image data that may introduce unexpected behavior in
@@ -5488,7 +5498,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rsgm. Score: 14, Comments: 2. Original Link: https://rsgm.dev/post/ai-dev-platform/
+  * Summary: Hacker News story by rsgm. Score: 122, Comments: 32. Original Link: https://rsgm.dev/post/ai-dev-platform/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://rsgm.dev/post/ai-dev-platform>
 
@@ -5547,6 +5557,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
 
+* **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by djoume. Score: 25, Comments: 13. Original Link: https://fata.dev
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://fata.dev>
+
 * **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (`workflow` | `useful` tier)
   * Summary: Hacker News story by martiano. Score: 116, Comments: 46. Original Link: https://github.com/themartiano/luz
   * Tags: `ai`, `hackernews`
@@ -5596,6 +5611,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: April 15, 2026ProductThe next evolution of the Agents SDKThe updated Agents SDK helps developers build agents that can inspect files, run commands, edit code, and work on long-horizon tasks within controlled sandbox environments.Loading…ShareA more c
   * Tags: `agents`, `openai`, `producthunt`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://openai.com/index/the-next-evolution-of-the-agents-sdk>
+
+* **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by tinywind. Score: 273, Comments: 55. Original Link: https://tinywind.io
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://tinywind.io>
 
 * **[Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](ai/rag/top-10-llm-observability-tools-complete-guide-for.md)** (`dataset` | `useful` tier)
   * Summary: ArticlesTop 10 LLM observability tools: Complete guide for 20252 October 2025Braintrust Team23 minTop 10 LLM observability tools: Complete guide for 2025Start building Large language models are now ubiquitous in production AI applications. If you don

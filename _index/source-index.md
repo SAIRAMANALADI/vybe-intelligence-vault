@@ -1646,11 +1646,15 @@ Resources organized by publisher feed and query sources.
 
   - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
   - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
+  - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
+  - [Can Europe train a frontier AI model on the compute it owns?](../ai/community/sammysltd-euromesh.md)
   - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
   - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
   - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
+  - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
   - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
+  - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -2561,4 +2565,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-15T16:23:25.577139+00:00*
+*Index generated on 2026-06-15T19:11:49.621837+00:00*
