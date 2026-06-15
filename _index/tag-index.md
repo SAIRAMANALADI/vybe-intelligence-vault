@@ -559,6 +559,8 @@ Resources organized by keyword tags.
 ## ai
 
   - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
+  - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
+  - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
 
 ## animation
@@ -613,6 +615,7 @@ Resources organized by keyword tags.
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
+  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
   - [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)
   - [Building Effective AI Agents \ Anthropic](../ai/rag/building-effective-ai-agents-anthropic.md)
@@ -1987,6 +1990,7 @@ Resources organized by keyword tags.
   - [Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](../ai/rag/arxiv-2606-11615.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
+  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
   - [Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](../ai/research/arxiv-2606-12346.md)
@@ -2037,6 +2041,7 @@ Resources organized by keyword tags.
   - [Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](../ai/research/arxiv-2606-11854.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
+  - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
   - [Fractured Chain-of-Thought Reasoning](../ai/research/arxiv-2505-12992.md)
   - [From AGI to ASI](../ai/agents/arxiv-2606-12683.md)
   - [Generalized Discrete Diffusion with Self-Correction](../ai/research/arxiv-2603-02230.md)
@@ -2101,6 +2106,7 @@ Resources organized by keyword tags.
   - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
   - [Sathvikkrishna/langgraph-benchmark](../ai/agents/sathvikkrishna-langgraph-benchmark.md)
   - [Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach](../ai/research/arxiv-2606-14515.md)
+  - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
   - [Succeeding at Scale: Enterprise Retrieval Benchmark Construction and Index-Preserving Query Adaptation for Multi-Tenant Search](../ai/research/arxiv-2601-04646.md)
@@ -3855,6 +3861,7 @@ Resources organized by keyword tags.
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
+  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off - Google Developers Blog](../ai/rag/build-better-ai-agents-5-developer-tips-from-the-a.md)
   - [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md)
   - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
@@ -4549,4 +4556,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-15T08:11:31.897525+00:00*
+*Index generated on 2026-06-15T12:44:56.878908+00:00*

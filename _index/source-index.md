@@ -1645,7 +1645,10 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: hackernews)
 
   - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
+  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
+  - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
   - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
+  - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
 
 ## Unknown Source (type: huggingface)
@@ -2557,4 +2560,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-15T08:11:31.923726+00:00*
+*Index generated on 2026-06-15T12:44:56.906408+00:00*

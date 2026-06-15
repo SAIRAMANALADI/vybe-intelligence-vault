@@ -5,16 +5,19 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd
-published_at: '2026-06-11T13:01:01.929918+00:00'
-collected_at: '2026-06-11T13:01:01.929930+00:00'
+published_at: '2026-06-15T12:43:22.507439+00:00'
+collected_at: '2026-06-15T12:43:22.507466+00:00'
 tags:
 - openai
 - rag
 - web-crawled
-status: new
+status: active
 resource_id: blog:build-rag-from-scratch-a-beginners-step-by-step-gu
+first_seen: '2026-06-15T12:43:22.507466+00:00'
+last_seen: '2026-06-15T12:43:22.507466+00:00'
+last_checked: '2026-06-15T12:43:22.507466+00:00'
+health_score: 100
 ---
-
 
 # Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium
 
@@ -30,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T13:01:01.929918+00:00
+- Published: 2026-06-15T12:43:22.507439+00:00
 
 ## Related Tags
 

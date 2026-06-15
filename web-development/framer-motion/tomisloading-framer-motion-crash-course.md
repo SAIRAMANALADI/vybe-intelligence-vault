@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/tomisloading/framer-motion-crash-course
-collected_at: '2026-06-15T06:04:17.304084+00:00'
+collected_at: '2026-06-15T12:42:31.615075+00:00'
 published_at: '2026-06-07T05:00:24Z'
 tags:
 - animation
@@ -12,9 +12,9 @@ stars: 57
 language: JavaScript
 status: active
 resource_id: github:tomisloading/framer-motion-crash-course
-first_seen: '2026-06-12T10:40:18.782858+00:00'
-last_seen: '2026-06-15T06:04:17.304084+00:00'
-last_checked: '2026-06-15T06:04:17.304084+00:00'
+first_seen: '2026-06-15T12:42:31.615075+00:00'
+last_seen: '2026-06-15T12:42:31.615075+00:00'
+last_checked: '2026-06-15T12:42:31.615075+00:00'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 
 - Owner: TomIsLoading
 - Stars: 57
-- Forks: 56
+- Forks: 55
 - Language: JavaScript
 - Topics: None
 - Last Updated: 2026-06-07T05:00:24Z

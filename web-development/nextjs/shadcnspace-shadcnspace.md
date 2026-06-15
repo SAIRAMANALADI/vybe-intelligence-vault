@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/shadcnspace/shadcnspace
-collected_at: '2026-06-15T06:04:21.398325+00:00'
-published_at: '2026-06-15T04:05:24Z'
+collected_at: '2026-06-15T12:42:33.302422+00:00'
+published_at: '2026-06-15T10:14:04Z'
 tags:
 - frontend_ui
-stars: 602
+stars: 603
 language: TypeScript
 status: active
 resource_id: github:shadcnspace/shadcnspace
-first_seen: '2026-06-12T10:40:20.338199+00:00'
-last_seen: '2026-06-15T06:04:21.398325+00:00'
-last_checked: '2026-06-15T06:04:21.398325+00:00'
+first_seen: '2026-06-15T12:42:33.302422+00:00'
+last_seen: '2026-06-15T12:42:33.302422+00:00'
+last_checked: '2026-06-15T12:42:33.302422+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: shadcnspace
-- Stars: 602
+- Stars: 603
 - Forks: 36
 - Language: TypeScript
 - Topics: base-ui, component-library, dashboard-ui, nextjs, radix-ui, react, shadcn, shadcn-admin, shadcn-blocks, shadcn-dashboard, shadcn-ui, shadcn-ui-blocks, shadcnui, tailwindcss, typescript, ui-blocks, ui-components
-- Last Updated: 2026-06-15T04:05:24Z
+- Last Updated: 2026-06-15T10:14:04Z
 
 ## Possible Use Cases
 

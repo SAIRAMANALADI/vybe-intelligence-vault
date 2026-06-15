@@ -44,32 +44,30 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2560 |
-| Active resources | 2533 |
+| Resources tracked | 2563 |
+| Active resources | 2536 |
 | Inactive resources | 27 |
-| Archive files | 13385 |
+| Archive files | 13389 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 08:11 UTC |
+| Last meaningful update | 2026-06-15 12:45 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+16 points)
-- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (+10 points)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +461)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +464)
-- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +464)
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+30 points)
+- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (+17 points)
+- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Rank: +11)
+- **[Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)** (Rank: +2318)
+- **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)** (Rank: +11)
 
 #### ✨ New Discoveries
-- **[Using a knowledge graph to implement a RAG application](ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)** (Score: 0)
-- **[How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)** (Score: 0)
-- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Score: 0)
-- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Score: 0)
-- **[[BROKEN LINK] - ](.github/ISSUE_TEMPLATE/broken-link.md)** (Score: 0)
+- **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)** (Score: 97)
+- **[Foreign business owners are scrambling to raise capital to stay in Japan](ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)** (Score: 68)
+- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (Score: 30)
 
 #### 💤 Recently Inactive Resources
 - None.

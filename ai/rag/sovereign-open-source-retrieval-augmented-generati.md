@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://open-rag.ai
-published_at: '2026-06-11T20:36:08.744480+00:00'
-collected_at: '2026-06-11T20:36:08.744493+00:00'
+published_at: '2026-06-15T12:43:12.497766+00:00'
+collected_at: '2026-06-15T12:43:12.497782+00:00'
 tags:
 - anthropic
 - benchmark
@@ -19,10 +19,13 @@ tags:
 - web-crawled
 - workflows
 - youtube
-status: new
+status: active
 resource_id: blog:sovereign-open-source-retrieval-augmented-generati
+first_seen: '2026-06-15T12:43:12.497782+00:00'
+last_seen: '2026-06-15T12:43:12.497782+00:00'
+last_checked: '2026-06-15T12:43:12.497782+00:00'
+health_score: 100
 ---
-
 
 # Sovereign, Open Source Retrieval-Augmented Generation
 
@@ -38,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-11T20:36:08.744480+00:00
+- Published: 2026-06-15T12:43:12.497766+00:00
 
 ## Related Tags
 

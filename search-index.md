@@ -5183,7 +5183,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents>
 
 * **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joebig. Score: 35, Comments: 14. Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
+  * Summary: Hacker News story by joebig. Score: 52, Comments: 27. Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre>
 
@@ -5241,6 +5241,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13380v1 Announce Type: cross Abstract: The design of high performing quantum circuits remains largely dependent on human expertise. We introduce an autonomous agentic framework that employs large language models (LLMs) to conduct iterative
   * Tags: `agents`, `benchmark`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.13380>
+
+* **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by swolpers. Score: 97, Comments: 66. Original Link: https://stratechery.com/2026/anthropics-safety-superpower/
+  * Tags: `anthropic`, `hackernews`, `reddit`
+  * Source URL: <https://stratechery.com/2026/anthropics-safety-superpower>
 
 * **[Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)** (`dataset` | `useful` tier)
   * Summary: Simran Kumari for OpenObserve Posted on Mar 25 • Edited on May 18 • Originally published at openobserve.ai Best Open Source LLM Observability Tools in 2026: Complete Guide #opentelemetry #observability #llm #ai What Is LLM Observability? LLM observab
@@ -5326,6 +5331,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11290v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial o
   * Tags: `agents`, `benchmark`, `creative_dev`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11290>
+
+* **[Foreign business owners are scrambling to raise capital to stay in Japan](ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by zdw. Score: 68, Comments: 36. Original Link: https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling>
 
 * **[From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning](ai/research/arxiv-2606-11195.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.11195v1 Announce Type: cross Abstract: Large language models (LLMs) have transformed how humans access information, but not how we reason with it. Their fluency accelerates consumption while bypassing the slow, reflective processes that un
@@ -5518,7 +5528,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide>
 
 * **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by unrvl22. Score: 337, Comments: 182. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
+  * Summary: Hacker News story by unrvl22. Score: 367, Comments: 194. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/nex-agi/nex-n2>
 
@@ -5531,6 +5541,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
   * Tags: `workflows`
   * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
+
+* **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by martiano. Score: 30, Comments: 9. Original Link: https://github.com/themartiano/luz
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://github.com/themartiano/luz>
 
 * **[SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](ai/rag/arxiv-2606-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14239v1 Announce Type: new Abstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constrain
