@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/custom-cuda-kernels-agent-skills
 resource_id: blog:custom-kernels-for-all-from-codex-and-claude
-local_vault_path: ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md
+local_vault_path: ai/models/custom-kernels-for-all-from-codex-and-claude.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [huggingface-blog-custom-cuda-kernels-agent-skills.md](file:///../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)
+Path: [custom-kernels-for-all-from-codex-and-claude.md](file:///../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)

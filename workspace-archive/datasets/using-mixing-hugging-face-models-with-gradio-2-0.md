@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio
 resource_id: blog:using-mixing-hugging-face-models-with-gradio-2-0
-local_vault_path: ai/models/huggingface-blog-gradio.md
+local_vault_path: ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio.md](file:///../../ai/models/huggingface-blog-gradio.md)
+Path: [using-mixing-hugging-face-models-with-gradio-2-0.md](file:///../../ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md)

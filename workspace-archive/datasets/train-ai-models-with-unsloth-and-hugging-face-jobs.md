@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/unsloth-jobs
 resource_id: blog:train-ai-models-with-unsloth-and-hugging-face-jobs
-local_vault_path: ai/models/huggingface-blog-unsloth-jobs.md
+local_vault_path: ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsloth-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsloth-jobs.md](file:///../../ai/models/huggingface-blog-unsloth-jobs.md)
+Path: [train-ai-models-with-unsloth-and-hugging-face-jobs.md](file:///../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)

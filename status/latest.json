@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-06-15T06:15:33.827530Z",
-  "trigger": "manual",
-  "resources_scanned": 1524,
-  "resources_added": 461,
+  "last_run": "2026-06-15T06:40:03.728423Z",
+  "trigger": "workflow_dispatch",
+  "resources_scanned": 1523,
+  "resources_added": 1454,
   "resources_updated": 0,
-  "resources_removed": 27,
-  "files_modified": 0,
-  "commit_created": false,
-  "push_successful": false
+  "resources_removed": 0,
+  "files_modified": 2161,
+  "commit_created": true,
+  "push_successful": true
 }

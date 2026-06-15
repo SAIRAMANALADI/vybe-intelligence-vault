@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/us-national-ai-research-resource
 resource_id: blog:comments-on-u-s-national-ai-research-resource-inte
-local_vault_path: ai/models/huggingface-blog-us-national-ai-research-resource.md
+local_vault_path: ai/models/comments-on-u-s-national-ai-research-resource-inte.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/us-national-ai-research-resourc
 
 ## Local Vault File
 
-Path: [huggingface-blog-us-national-ai-research-resource.md](file:///../../ai/models/huggingface-blog-us-national-ai-research-resource.md)
+Path: [comments-on-u-s-national-ai-research-resource-inte.md](file:///../../ai/models/comments-on-u-s-national-ai-research-resource-inte.md)

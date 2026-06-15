@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://anthropic.com/news/claude-fable-5-mythos-5
 resource_id: blog:jun-9-2026announcementsclaude-fable-5-and-claude-m
-local_vault_path: ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md
+local_vault_path: ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/claude-fable-5-mythos-5
 
 ## Local Vault File
 
-Path: [claude-fable-5-and-claude-mythos-5announcementsjun.md](file:///../../ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)
+Path: [jun-9-2026announcementsclaude-fable-5-and-claude-m.md](file:///../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)

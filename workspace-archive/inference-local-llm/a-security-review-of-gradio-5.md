@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-5-security
 resource_id: blog:a-security-review-of-gradio-5
-local_vault_path: ai/models/huggingface-blog-gradio-5-security.md
+local_vault_path: ai/models/a-security-review-of-gradio-5.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-5-security.md](file:///../../ai/models/huggingface-blog-gradio-5-security.md)
+Path: [a-security-review-of-gradio-5.md](file:///../../ai/models/a-security-review-of-gradio-5.md)

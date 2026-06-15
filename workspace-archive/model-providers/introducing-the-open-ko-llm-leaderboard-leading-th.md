@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-upstage
 resource_id: blog:introducing-the-open-ko-llm-leaderboard-leading-th
-local_vault_path: ai/models/huggingface-blog-leaderboard-upstage.md
+local_vault_path: ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-upstage
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-upstage.md](file:///../../ai/models/huggingface-blog-leaderboard-upstage.md)
+Path: [introducing-the-open-ko-llm-leaderboard-leading-th.md](file:///../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)

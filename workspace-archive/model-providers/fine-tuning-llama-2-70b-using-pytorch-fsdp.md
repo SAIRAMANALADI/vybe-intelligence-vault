@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 resource_id: blog:fine-tuning-llama-2-70b-using-pytorch-fsdp
-local_vault_path: ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md
+local_vault_path: ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 
 ## Local Vault File
 
-Path: [huggingface-blog-ram-efficient-pytorch-fsdp.md](file:///../../ai/models/huggingface-blog-ram-efficient-pytorch-fsdp.md)
+Path: [fine-tuning-llama-2-70b-using-pytorch-fsdp.md](file:///../../ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md)

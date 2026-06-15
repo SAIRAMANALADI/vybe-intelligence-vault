@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gpt-oss-on-intel-xeon
 resource_id: blog:google-cloud-c4-brings-a-70-tco-improvement-on-gpt
-local_vault_path: ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md
+local_vault_path: ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gpt-oss-on-intel-xeon
 
 ## Local Vault File
 
-Path: [huggingface-blog-gpt-oss-on-intel-xeon.md](file:///../../ai/models/huggingface-blog-gpt-oss-on-intel-xeon.md)
+Path: [google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md](file:///../../ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md)

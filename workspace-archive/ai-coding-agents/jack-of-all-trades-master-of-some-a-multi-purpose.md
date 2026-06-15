@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/jat
 resource_id: blog:jack-of-all-trades-master-of-some-a-multi-purpose
-local_vault_path: ai/agents/huggingface-blog-jat.md
+local_vault_path: ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jat
 
 ## Local Vault File
 
-Path: [huggingface-blog-jat.md](file:///../../ai/agents/huggingface-blog-jat.md)
+Path: [jack-of-all-trades-master-of-some-a-multi-purpose.md](file:///../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/presidio-pii-detection
 resource_id: blog:experimenting-with-automatic-pii-detection-on-the
-local_vault_path: ai/models/huggingface-blog-presidio-pii-detection.md
+local_vault_path: ai/models/experimenting-with-automatic-pii-detection-on-the.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/presidio-pii-detection
 
 ## Local Vault File
 
-Path: [huggingface-blog-presidio-pii-detection.md](file:///../../ai/models/huggingface-blog-presidio-pii-detection.md)
+Path: [experimenting-with-automatic-pii-detection-on-the.md](file:///../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)

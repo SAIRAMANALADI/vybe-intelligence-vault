@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cloudflare-workers-ai
 resource_id: blog:bringing-serverless-gpu-inference-to-hugging-face
-local_vault_path: ai/models/huggingface-blog-cloudflare-workers-ai.md
+local_vault_path: ai/models/bringing-serverless-gpu-inference-to-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-cloudflare-workers-ai.md](file:///../../ai/models/huggingface-blog-cloudflare-workers-ai.md)
+Path: [bringing-serverless-gpu-inference-to-hugging-face.md](file:///../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)

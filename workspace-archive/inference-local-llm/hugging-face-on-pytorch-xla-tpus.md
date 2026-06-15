@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch-xla
 resource_id: blog:hugging-face-on-pytorch-xla-tpus
-local_vault_path: ai/models/huggingface-blog-pytorch-xla.md
+local_vault_path: ai/models/hugging-face-on-pytorch-xla-tpus.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-xla
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-xla.md](file:///../../ai/models/huggingface-blog-pytorch-xla.md)
+Path: [hugging-face-on-pytorch-xla-tpus.md](file:///../../ai/models/hugging-face-on-pytorch-xla-tpus.md)

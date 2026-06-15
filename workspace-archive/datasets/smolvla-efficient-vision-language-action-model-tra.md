@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvla
 resource_id: blog:smolvla-efficient-vision-language-action-model-tra
-local_vault_path: ai/models/huggingface-blog-smolvla.md
+local_vault_path: ai/models/smolvla-efficient-vision-language-action-model-tra.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smolvla
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvla.md](file:///../../ai/models/huggingface-blog-smolvla.md)
+Path: [smolvla-efficient-vision-language-action-model-tra.md](file:///../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)

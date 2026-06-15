@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/helmet
 resource_id: blog:introducing-helmet-holistically-evaluating-long-co
-local_vault_path: ai/models/huggingface-blog-helmet.md
+local_vault_path: ai/models/introducing-helmet-holistically-evaluating-long-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/helmet
 
 ## Local Vault File
 
-Path: [huggingface-blog-helmet.md](file:///../../ai/models/huggingface-blog-helmet.md)
+Path: [introducing-helmet-holistically-evaluating-long-co.md](file:///../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)

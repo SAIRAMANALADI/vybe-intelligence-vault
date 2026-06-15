@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-multimodal-sentence-transformers
 resource_id: blog:training-and-finetuning-multimodal-embedding-reran
-local_vault_path: ai/models/huggingface-blog-train-multimodal-sentence-transformers.md
+local_vault_path: ai/models/training-and-finetuning-multimodal-embedding-reran.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-multimodal-sentence-trans
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-multimodal-sentence-transformers.md](file:///../../ai/models/huggingface-blog-train-multimodal-sentence-transformers.md)
+Path: [training-and-finetuning-multimodal-embedding-reran.md](file:///../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)

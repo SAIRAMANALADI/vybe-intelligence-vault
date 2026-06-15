@@ -4,24 +4,24 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/llm-universe
-collected_at: '2026-06-12T10:41:09.127405+00:00'
-published_at: '2026-06-12T10:23:24Z'
+collected_at: '2026-06-15T06:37:06.261931+00:00'
+published_at: '2026-06-15T06:25:36Z'
 tags:
 - github-repo
 - jupyter notebook
 - rag
-stars: 13237
+stars: 13251
 language: Jupyter Notebook
 status: active
 archived: false
 created_at: '2023-10-29T16:01:22Z'
 pushed_at: '2026-02-24T14:33:21Z'
-id: null
-first_seen: '2026-06-12T10:41:09.127405+00:00'
-last_seen: '2026-06-12T10:41:09.127405+00:00'
 resource_id: github:datawhalechina/llm-universe
+first_seen: '2026-06-15T06:37:06.261931+00:00'
+last_seen: '2026-06-15T06:37:06.261931+00:00'
+last_checked: '2026-06-15T06:37:06.261931+00:00'
+health_score: 100
 ---
-
 
 # datawhalechina/llm-universe
 
@@ -36,11 +36,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 13237
+- Stars: 13251
 - Forks: 1356
 - Language: Jupyter Notebook
 - Topics: langchain, rag
-- Last Updated: 2026-06-12T10:23:24Z
+- Last Updated: 2026-06-15T06:25:36Z
 - Archived: No
 - Created At: 2023-10-29T16:01:22Z
 - Pushed At: 2026-02-24T14:33:21Z

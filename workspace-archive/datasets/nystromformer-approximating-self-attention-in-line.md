@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/nystromformer
 resource_id: blog:nystromformer-approximating-self-attention-in-line
-local_vault_path: ai/models/huggingface-blog-nystromformer.md
+local_vault_path: ai/models/nystromformer-approximating-self-attention-in-line.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nystromformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-nystromformer.md](file:///../../ai/models/huggingface-blog-nystromformer.md)
+Path: [nystromformer-approximating-self-attention-in-line.md](file:///../../ai/models/nystromformer-approximating-self-attention-in-line.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/timescope-video-lmm-benchmark
 resource_id: blog:timescope-how-long-can-your-video-large-multimodal
-local_vault_path: ai/models/huggingface-blog-timescope-video-lmm-benchmark.md
+local_vault_path: ai/models/timescope-how-long-can-your-video-large-multimodal.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/timescope-video-lmm-benchmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-timescope-video-lmm-benchmark.md](file:///../../ai/models/huggingface-blog-timescope-video-lmm-benchmark.md)
+Path: [timescope-how-long-can-your-video-large-multimodal.md](file:///../../ai/models/timescope-how-long-can-your-video-large-multimodal.md)

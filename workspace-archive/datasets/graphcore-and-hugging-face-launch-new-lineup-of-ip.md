@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore-update
 resource_id: blog:graphcore-and-hugging-face-launch-new-lineup-of-ip
-local_vault_path: ai/models/huggingface-blog-graphcore-update.md
+local_vault_path: ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/graphcore-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore-update.md](file:///../../ai/models/huggingface-blog-graphcore-update.md)
+Path: [graphcore-and-hugging-face-launch-new-lineup-of-ip.md](file:///../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)

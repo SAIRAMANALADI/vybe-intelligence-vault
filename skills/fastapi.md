@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 25 resources matched in the intelligence vault.
+Active signals: 26 resources matched in the intelligence vault.
 Recently detected signals:
+- [Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](../ai/rag/arxiv-2606-14353.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Selective Agentic Recovery for UAV Autonomy with a Persistent Mission Runtime](../ai/agents/arxiv-2606-14219.md) (Source: Unknown Source) - Collected 2026-06-15
 - [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) (Source: Unknown Source) - Collected 2026-06-15
 - [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Quanto: a PyTorch quantization backend for Optimum](../ai/models/huggingface-blog-quanto-introduction.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference](../ai/models/huggingface-blog-tgi-multi-backend.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T06:09:37.003616+00:00.077422+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T06:38:43.909915+00:00.003616+00:00.077422+00:00.

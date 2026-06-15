@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-library
 resource_id: blog:introducing-accelerate
-local_vault_path: ai/models/huggingface-blog-accelerate-library.md
+local_vault_path: ai/models/introducing-accelerate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-library.md](file:///../../ai/models/huggingface-blog-accelerate-library.md)
+Path: [introducing-accelerate.md](file:///../../ai/models/introducing-accelerate.md)

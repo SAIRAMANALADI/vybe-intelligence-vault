@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/the-age-of-ml-as-code
 resource_id: blog:the-age-of-machine-learning-as-code-has-arrived
-local_vault_path: ai/models/huggingface-blog-the-age-of-ml-as-code.md
+local_vault_path: ai/models/the-age-of-machine-learning-as-code-has-arrived.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-age-of-ml-as-code
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-age-of-ml-as-code.md](file:///../../ai/models/huggingface-blog-the-age-of-ml-as-code.md)
+Path: [the-age-of-machine-learning-as-code-has-arrived.md](file:///../../ai/models/the-age-of-machine-learning-as-code-has-arrived.md)

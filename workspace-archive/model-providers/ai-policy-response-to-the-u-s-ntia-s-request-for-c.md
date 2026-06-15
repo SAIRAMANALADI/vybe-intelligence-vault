@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/policy-ntia-rfc
 resource_id: blog:ai-policy-response-to-the-u-s-ntia-s-request-for-c
-local_vault_path: ai/models/huggingface-blog-policy-ntia-rfc.md
+local_vault_path: ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-ntia-rfc
 
 ## Local Vault File
 
-Path: [huggingface-blog-policy-ntia-rfc.md](file:///../../ai/models/huggingface-blog-policy-ntia-rfc.md)
+Path: [ai-policy-response-to-the-u-s-ntia-s-request-for-c.md](file:///../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)

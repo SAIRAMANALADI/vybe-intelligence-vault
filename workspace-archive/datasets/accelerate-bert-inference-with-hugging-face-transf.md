@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-inferentia-sagemaker
 resource_id: blog:accelerate-bert-inference-with-hugging-face-transf
-local_vault_path: ai/models/huggingface-blog-bert-inferentia-sagemaker.md
+local_vault_path: ai/models/accelerate-bert-inference-with-hugging-face-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-inferentia-sagemaker
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-inferentia-sagemaker.md](file:///../../ai/models/huggingface-blog-bert-inferentia-sagemaker.md)
+Path: [accelerate-bert-inference-with-hugging-face-transf.md](file:///../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-train-sentence-transformers
 resource_id: blog:train-and-fine-tune-sentence-transformers-models
-local_vault_path: ai/models/huggingface-blog-how-to-train-sentence-transformers.md
+local_vault_path: ai/models/train-and-fine-tune-sentence-transformers-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train-sentence-transform
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-train-sentence-transformers.md](file:///../../ai/models/huggingface-blog-how-to-train-sentence-transformers.md)
+Path: [train-and-fine-tune-sentence-transformers-models.md](file:///../../ai/models/train-and-fine-tune-sentence-transformers-models.md)

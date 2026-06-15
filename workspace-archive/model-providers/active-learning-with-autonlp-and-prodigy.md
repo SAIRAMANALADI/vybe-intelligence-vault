@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/autonlp-prodigy
 resource_id: blog:active-learning-with-autonlp-and-prodigy
-local_vault_path: ai/models/huggingface-blog-autonlp-prodigy.md
+local_vault_path: ai/models/active-learning-with-autonlp-and-prodigy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autonlp-prodigy
 
 ## Local Vault File
 
-Path: [huggingface-blog-autonlp-prodigy.md](file:///../../ai/models/huggingface-blog-autonlp-prodigy.md)
+Path: [active-learning-with-autonlp-and-prodigy.md](file:///../../ai/models/active-learning-with-autonlp-and-prodigy.md)

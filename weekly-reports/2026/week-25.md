@@ -16,14 +16,14 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Category | Count |
 |---|---:|
-| ai/models | 704 |
+| ai/models | 722 |
 | ai/research | 239 |
-| ai/rag | 155 |
-| ai/agents | 135 |
+| ai/rag | 183 |
+| ai/agents | 136 |
+| web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
-| web-development/threejs | 24 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
 | ai/companies/mistral | 10 |
@@ -39,35 +39,39 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| benchmark | 205 |
-| models | 164 |
-| agents | 162 |
-| rag | 155 |
-| dataset | 119 |
-| frontend_ui | 109 |
-| threejs | 79 |
-| paper | 74 |
-| hackernews | 45 |
-| openai | 44 |
-| youtube | 40 |
-| workflows | 37 |
+| benchmark | 217 |
+| rag | 183 |
+| models | 183 |
+| agents | 180 |
+| dataset | 127 |
+| frontend_ui | 112 |
+| paper | 83 |
+| threejs | 81 |
+| openai | 59 |
+| hackernews | 59 |
+| youtube | 47 |
+| meta-ai | 47 |
+| workflows | 45 |
 | animation | 33 |
-| meta-ai | 32 |
-| leaderboard | 30 |
+| leaderboard | 32 |
 
 ## Weekly Community Updates
 
-1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 321) - `ai/community`
+1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 325) - `ai/community`
 2. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
-3. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 25) - `ai/community`
-4. [OpenAI Agents SDK: Complete Setup Guide (2026)](../../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md) ([Source](https://aimadetools.com/blog/openai-agents-sdk-setup-guide)) - `ai/agents`
-5. [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../../../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-js)) - `ai/agents`
-6. [OpenAI Agents SDK](../../../ai/agents/openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-python)) - `ai/agents`
-7. [Agents SDK | OpenAI API](../../../ai/rag/agents-sdk-openai-api.md) ([Source](https://developers.openai.com/api/docs/guides/agents)) - `ai/rag`
-8. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
-9. [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md) ([Source](https://tech-insider.org/openai-agents-sdk-tutorial-python-13-steps-2026)) - `ai/rag`
-10. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
-11. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
+3. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 28) - `ai/community`
+4. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
+5. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
+6. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
+7. [15 Best Open-Source RAG Frameworks in 2026](../../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+8. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+9. [Build a RAG agent with LangChain - Docs by LangChain](../../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
+10. [LightRAG](../../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
+11. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
+12. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
+13. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
+14. [7 Best GitHub Repositories For Mastering RAG Systems](../../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+15. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -90,20 +94,20 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 ## Weekly Company Updates
 
 1. [olmo-eval: An evaluation workbench for the model development loop](../../../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md) ([Source](https://huggingface.co/blog/allenai/olmo-eval)) - `ai/models`
-2. [Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP](../../../ai/models/huggingface-blog-torch-mlp-fusion.md) ([Source](https://huggingface.co/blog/torch-mlp-fusion)) - `ai/models`
-3. [Migrating Your GitHub CI to Hugging Face Jobs](../../../ai/models/huggingface-blog-github-ci-hf-jobs.md) ([Source](https://huggingface.co/blog/github-ci-hf-jobs)) - `ai/models`
-4. [The Open Source Community is backing OpenEnv for Agentic RL](../../../ai/agents/huggingface-blog-openenv-agentic-rl.md) ([Source](https://huggingface.co/blog/openenv-agentic-rl)) - `ai/agents`
-5. [Designing the hf CLI as an agent-optimized way to work with the Hub](../../../ai/agents/huggingface-blog-hf-cli-for-agents.md) ([Source](https://huggingface.co/blog/hf-cli-for-agents)) - `ai/agents`
-6. [Adding MCP Tools to Reachy Mini](../../../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md) ([Source](https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini)) - `ai/models`
-7. [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](../../../ai/models/huggingface-blog-torch-profiler.md) ([Source](https://huggingface.co/blog/torch-profiler)) - `ai/models`
-8. [Reachy Mini goes fully local](../../../ai/models/huggingface-blog-local-reachy-mini-conversation.md) ([Source](https://huggingface.co/blog/local-reachy-mini-conversation)) - `ai/models`
-9. [Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL](../../../ai/models/huggingface-blog-delta-weight-sync.md) ([Source](https://huggingface.co/blog/delta-weight-sync)) - `ai/models`
-10. [Harness, Scaffold, and the AI Agent Terms Worth Getting Right](../../../ai/agents/huggingface-blog-agent-glossary.md) ([Source](https://huggingface.co/blog/agent-glossary)) - `ai/agents`
-11. [Introducing the Ettin Reranker Family](../../../ai/models/huggingface-blog-ettin-reranker.md) ([Source](https://huggingface.co/blog/ettin-reranker)) - `ai/models`
-12. [Unlocking asynchronicity in continuous batching](../../../ai/models/huggingface-blog-continuous-async.md) ([Source](https://huggingface.co/blog/continuous_async)) - `ai/models`
-13. [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../../../ai/models/huggingface-blog-open-asr-leaderboard-private-data.md) ([Source](https://huggingface.co/blog/open-asr-leaderboard-private-data)) - `ai/models`
-14. [Granite 4.1 LLMs: How They’re Built](../../../ai/models/granite-4-1-llms-how-theyre-built.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-1)) - `ai/models`
-15. [DeepInfra on Hugging Face Inference Providers 🔥](../../../ai/models/huggingface-blog-inference-providers-deepinfra.md) ([Source](https://huggingface.co/blog/inference-providers-deepinfra)) - `ai/models`
+2. [Granite 4.1 LLMs: How They’re Built](../../../ai/models/granite-4-1-llms-how-theyre-built.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-1)) - `ai/models`
+3. [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../../../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md) ([Source](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence)) - `ai/agents`
+4. [Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents](../../../ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md) ([Source](https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis)) - `ai/agents`
+5. [Meet HoloTab by HCompany. Your AI browser companion.](../../../ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md) ([Source](https://huggingface.co/blog/hcompany/holotab)) - `ai/models`
+6. [Falcon Perception](../../../ai/models/falcon-perception.md) ([Source](https://huggingface.co/blog/tiiuae/falcon-perception)) - `ai/models`
+7. [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](../../../ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md) ([Source](https://huggingface.co/blog/ibm-granite/granite-4-vision)) - `ai/models`
+8. [A New Framework for Evaluating Voice Agents (EVA)](../../../ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md) ([Source](https://huggingface.co/blog/servicenow-ai/eva)) - `ai/agents`
+9. [Build a Domain-Specific Embedding Model in Under a Day](../../../ai/models/build-a-domain-specific-embedding-model-in-under-a.md) ([Source](https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune)) - `ai/models`
+10. [Holotron-12B - High Throughput Computer Use Agent](../../../ai/agents/holotron-12b-high-throughput-computer-use-agent.md) ([Source](https://huggingface.co/blog/hcompany/holotron-12b)) - `ai/agents`
+11. [IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST](../../../ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md) ([Source](https://huggingface.co/blog/ibm-research/itbenchandmast)) - `ai/agents`
+12. [Introducing SyGra Studio](../../../ai/models/introducing-sygra-studio.md) ([Source](https://huggingface.co/blog/servicenow-ai/sygra-studio)) - `ai/models`
+13. [H Company's new Holo2 model takes the lead in UI Localization](../../../ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md) ([Source](https://huggingface.co/blog/hcompany/introducing-holo2-235b-a22b)) - `ai/models`
+14. [The Future of the Global Open-Source AI Ecosystem: From DeepSeek to AI+](../../../ai/models/the-future-of-the-global-open-source-ai-ecosystem.md) ([Source](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-3)) - `ai/models`
+15. [Training Design for Text-to-Image Models: Lessons from Ablations](../../../ai/models/training-design-for-text-to-image-models-lessons-f.md) ([Source](https://huggingface.co/blog/photoroom/prx-part2)) - `ai/models`
 
 ## Weekly Videos & Demos
 
@@ -129,16 +133,16 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (235 updates)
-- [RAG](../../../skills/rag.md) (156 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (155 updates)
-- [AI Agents](../../../skills/ai-agents.md) (150 updates)
-- [Three.js & WebGL](../../../skills/threejs.md) (79 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (77 updates)
-- [LLMOps](../../../skills/llmops.md) (50 updates)
-- [Local LLMs & Inference](../../../skills/local-llm.md) (26 updates)
+- [Workflow Automation](../../../skills/automation.md) (259 updates)
+- [RAG](../../../skills/rag.md) (188 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (183 updates)
+- [AI Agents](../../../skills/ai-agents.md) (156 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (90 updates)
+- [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
+- [LLMOps](../../../skills/llmops.md) (51 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (32 updates)
 - [Prompt Engineering](../../../skills/prompt-engineering.md) (23 updates)
-- [FastAPI](../../../skills/fastapi.md) (10 updates)
+- [FastAPI](../../../skills/fastapi.md) (12 updates)
 
 ## Recommended Projects To Build
 
@@ -147,4 +151,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-15T06:09:39.012019+00:00
+2026-06-15T06:38:46.444351+00:00

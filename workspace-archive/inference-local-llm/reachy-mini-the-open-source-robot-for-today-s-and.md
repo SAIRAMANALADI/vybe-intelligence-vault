@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/reachy-mini
 resource_id: blog:reachy-mini-the-open-source-robot-for-today-s-and
-local_vault_path: ai/models/huggingface-blog-reachy-mini.md
+local_vault_path: ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-reachy-mini.md](file:///../../ai/models/huggingface-blog-reachy-mini.md)
+Path: [reachy-mini-the-open-source-robot-for-today-s-and.md](file:///../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)

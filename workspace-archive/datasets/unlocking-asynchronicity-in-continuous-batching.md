@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/continuous_async
 resource_id: blog:unlocking-asynchronicity-in-continuous-batching
-local_vault_path: ai/models/huggingface-blog-continuous-async.md
+local_vault_path: ai/models/unlocking-asynchronicity-in-continuous-batching.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [huggingface-blog-continuous-async.md](file:///../../ai/models/huggingface-blog-continuous-async.md)
+Path: [unlocking-asynchronicity-in-continuous-batching.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)

@@ -4,14 +4,14 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/arm/executorch-0-dot-7
-published_at: '2025-08-13T09:25:10+00:00'
-collected_at: '2026-06-15T06:03:50.270339+00:00'
+published_at: '2025-08-13T14:55:10+00:00'
+collected_at: '2026-06-15T06:35:32.414290+00:00'
 tags: []
 status: active
 resource_id: blog:arm-executorch-0-7-bringing-generative-ai-to-the-m
-first_seen: '2026-06-11T08:37:58.324857+00:00'
-last_seen: '2026-06-15T06:03:50.270339+00:00'
-last_checked: '2026-06-15T06:03:50.270339+00:00'
+first_seen: '2026-06-15T06:35:32.414290+00:00'
+last_seen: '2026-06-15T06:35:32.414290+00:00'
+last_checked: '2026-06-15T06:35:32.414290+00:00'
 health_score: 100
 ---
 
@@ -29,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-08-13T09:25:10+00:00
+- Published: 2025-08-13T14:55:10+00:00
 
 ## Related Tags
 

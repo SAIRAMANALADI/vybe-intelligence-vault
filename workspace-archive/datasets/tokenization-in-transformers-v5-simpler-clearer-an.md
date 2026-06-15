@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tokenizers
 resource_id: blog:tokenization-in-transformers-v5-simpler-clearer-an
-local_vault_path: ai/models/huggingface-blog-tokenizers.md
+local_vault_path: ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tokenizers
 
 ## Local Vault File
 
-Path: [huggingface-blog-tokenizers.md](file:///../../ai/models/huggingface-blog-tokenizers.md)
+Path: [tokenization-in-transformers-v5-simpler-clearer-an.md](file:///../../ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)

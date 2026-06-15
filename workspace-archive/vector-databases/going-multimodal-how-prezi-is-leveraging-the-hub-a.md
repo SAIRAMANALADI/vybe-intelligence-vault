@@ -5,7 +5,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/prezi-case-study
 resource_id: blog:going-multimodal-how-prezi-is-leveraging-the-hub-a
-local_vault_path: ai/rag/huggingface-blog-prezi-case-study.md
+local_vault_path: ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/prezi-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-prezi-case-study.md](file:///../../ai/rag/huggingface-blog-prezi-case-study.md)
+Path: [going-multimodal-how-prezi-is-leveraging-the-hub-a.md](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)

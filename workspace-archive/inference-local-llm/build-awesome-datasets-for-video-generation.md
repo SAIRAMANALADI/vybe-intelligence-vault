@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/vid_ds_scripts
 resource_id: blog:build-awesome-datasets-for-video-generation
-local_vault_path: ai/models/huggingface-blog-vid-ds-scripts.md
+local_vault_path: ai/models/build-awesome-datasets-for-video-generation.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/vid_ds_scripts
 
 ## Local Vault File
 
-Path: [huggingface-blog-vid-ds-scripts.md](file:///../../ai/models/huggingface-blog-vid-ds-scripts.md)
+Path: [build-awesome-datasets-for-video-generation.md](file:///../../ai/models/build-awesome-datasets-for-video-generation.md)

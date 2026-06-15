@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/waypoint-1-5
 resource_id: blog:waypoint-1-5-higher-fidelity-interactive-worlds-fo
-local_vault_path: ai/models/huggingface-blog-waypoint-1-5.md
+local_vault_path: ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-waypoint-1-5.md](file:///../../ai/models/huggingface-blog-waypoint-1-5.md)
+Path: [waypoint-1-5-higher-fidelity-interactive-worlds-fo.md](file:///../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)

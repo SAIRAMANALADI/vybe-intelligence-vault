@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inferentia-llama2
 resource_id: blog:make-your-llama-generation-time-fly-with-aws-infer
-local_vault_path: ai/models/huggingface-blog-inferentia-llama2.md
+local_vault_path: ai/models/make-your-llama-generation-time-fly-with-aws-infer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [huggingface-blog-inferentia-llama2.md](file:///../../ai/models/huggingface-blog-inferentia-llama2.md)
+Path: [make-your-llama-generation-time-fly-with-aws-infer.md](file:///../../ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)

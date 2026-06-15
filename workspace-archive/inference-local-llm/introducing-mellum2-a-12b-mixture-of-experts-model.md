@@ -2,13 +2,13 @@
 title: 'Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains'
 archive_category: inference-local-llm
 source_category: ai/models
-source_url: https://huggingface.co/blog/JetBrains/mellum2-launch
+source_url: https://huggingface.co/blog/jetbrains/mellum2-launch
 resource_id: blog:introducing-mellum2-a-12b-mixture-of-experts-model
-local_vault_path: ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md
+local_vault_path: ai/models/huggingface-blog-jetbrains.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,8 +36,8 @@ No summary provided. Reference resource: Introducing Mellum2: A 12B Mixture-of-E
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/JetBrains/mellum2-launch
+Original source URL: https://huggingface.co/blog/jetbrains/mellum2-launch
 
 ## Local Vault File
 
-Path: [introducing-mellum2-a-12b-mixture-of-experts-model.md](file:///../../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)
+Path: [huggingface-blog-jetbrains.md](file:///../../ai/models/huggingface-blog-jetbrains.md)

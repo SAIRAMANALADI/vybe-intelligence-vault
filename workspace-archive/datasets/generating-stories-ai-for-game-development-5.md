@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-5
 resource_id: blog:generating-stories-ai-for-game-development-5
-local_vault_path: ai/models/huggingface-blog-ml-for-games-5.md
+local_vault_path: ai/models/generating-stories-ai-for-game-development-5.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-5.md](file:///../../ai/models/huggingface-blog-ml-for-games-5.md)
+Path: [generating-stories-ai-for-game-development-5.md](file:///../../ai/models/generating-stories-ai-for-game-development-5.md)

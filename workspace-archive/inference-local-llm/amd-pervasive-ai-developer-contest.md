@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/amd_pervasive_developer_ai_contest
 resource_id: blog:amd-pervasive-ai-developer-contest
-local_vault_path: ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md
+local_vault_path: ai/models/amd-pervasive-ai-developer-contest.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amd_pervasive_developer_ai_cont
 
 ## Local Vault File
 
-Path: [huggingface-blog-amd-pervasive-developer-ai-contest.md](file:///../../ai/models/huggingface-blog-amd-pervasive-developer-ai-contest.md)
+Path: [amd-pervasive-ai-developer-contest.md](file:///../../ai/models/amd-pervasive-ai-developer-contest.md)

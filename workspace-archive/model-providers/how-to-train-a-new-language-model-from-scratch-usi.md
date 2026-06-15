@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-train
 resource_id: blog:how-to-train-a-new-language-model-from-scratch-usi
-local_vault_path: ai/models/huggingface-blog-how-to-train.md
+local_vault_path: ai/models/how-to-train-a-new-language-model-from-scratch-usi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-train.md](file:///../../ai/models/huggingface-blog-how-to-train.md)
+Path: [how-to-train-a-new-language-model-from-scratch-usi.md](file:///../../ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)

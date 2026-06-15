@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/outlines-core
 resource_id: blog:releasing-outlines-core-0-1-0-structured-generatio
-local_vault_path: ai/models/huggingface-blog-outlines-core.md
+local_vault_path: ai/models/releasing-outlines-core-0-1-0-structured-generatio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/outlines-core
 
 ## Local Vault File
 
-Path: [huggingface-blog-outlines-core.md](file:///../../ai/models/huggingface-blog-outlines-core.md)
+Path: [releasing-outlines-core-0-1-0-structured-generatio.md](file:///../../ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/password-git-deprecation
 resource_id: blog:deprecation-of-git-authentication-using-password
-local_vault_path: ai/models/huggingface-blog-password-git-deprecation.md
+local_vault_path: ai/models/deprecation-of-git-authentication-using-password.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/password-git-deprecation
 
 ## Local Vault File
 
-Path: [huggingface-blog-password-git-deprecation.md](file:///../../ai/models/huggingface-blog-password-git-deprecation.md)
+Path: [deprecation-of-git-authentication-using-password.md](file:///../../ai/models/deprecation-of-git-authentication-using-password.md)

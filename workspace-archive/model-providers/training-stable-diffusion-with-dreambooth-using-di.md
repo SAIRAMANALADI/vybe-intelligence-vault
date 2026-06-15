@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dreambooth
 resource_id: blog:training-stable-diffusion-with-dreambooth-using-di
-local_vault_path: ai/models/huggingface-blog-dreambooth.md
+local_vault_path: ai/models/training-stable-diffusion-with-dreambooth-using-di.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dreambooth
 
 ## Local Vault File
 
-Path: [huggingface-blog-dreambooth.md](file:///../../ai/models/huggingface-blog-dreambooth.md)
+Path: [training-stable-diffusion-with-dreambooth-using-di.md](file:///../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)

@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-2
 resource_id: blog:let-s-talk-about-biases-in-machine-learning-ethics
-local_vault_path: ai/models/huggingface-blog-ethics-soc-2.md
+local_vault_path: ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-2.md](file:///../../ai/models/huggingface-blog-ethics-soc-2.md)
+Path: [let-s-talk-about-biases-in-machine-learning-ethics.md](file:///../../ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)

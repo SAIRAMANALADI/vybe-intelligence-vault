@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/npc-gigax-cubzh
 resource_id: blog:introducing-npc-playground-a-3d-playground-to-inte
-local_vault_path: ai/models/huggingface-blog-npc-gigax-cubzh.md
+local_vault_path: ai/models/introducing-npc-playground-a-3d-playground-to-inte.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/npc-gigax-cubzh
 
 ## Local Vault File
 
-Path: [huggingface-blog-npc-gigax-cubzh.md](file:///../../ai/models/huggingface-blog-npc-gigax-cubzh.md)
+Path: [introducing-npc-playground-a-3d-playground-to-inte.md](file:///../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)

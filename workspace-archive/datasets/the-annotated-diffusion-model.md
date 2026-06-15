@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/annotated-diffusion
 resource_id: blog:the-annotated-diffusion-model
-local_vault_path: ai/models/huggingface-blog-annotated-diffusion.md
+local_vault_path: ai/models/the-annotated-diffusion-model.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/annotated-diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-annotated-diffusion.md](file:///../../ai/models/huggingface-blog-annotated-diffusion.md)
+Path: [the-annotated-diffusion-model.md](file:///../../ai/models/the-annotated-diffusion-model.md)

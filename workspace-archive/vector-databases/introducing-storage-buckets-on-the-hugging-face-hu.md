@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/storage-buckets
 resource_id: blog:introducing-storage-buckets-on-the-hugging-face-hu
-local_vault_path: ai/rag/huggingface-blog-storage-buckets.md
+local_vault_path: ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: [huggingface-blog-storage-buckets.md](file:///../../ai/rag/huggingface-blog-storage-buckets.md)
+Path: [introducing-storage-buckets-on-the-hugging-face-hu.md](file:///../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)

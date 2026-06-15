@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-endpoints-embeddings
 resource_id: blog:deploy-embedding-models-with-hugging-face-inferenc
-local_vault_path: ai/models/huggingface-blog-inference-endpoints-embeddings.md
+local_vault_path: ai/models/deploy-embedding-models-with-hugging-face-inferenc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-endpoints-embeddings.md](file:///../../ai/models/huggingface-blog-inference-endpoints-embeddings.md)
+Path: [deploy-embedding-models-with-hugging-face-inferenc.md](file:///../../ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)

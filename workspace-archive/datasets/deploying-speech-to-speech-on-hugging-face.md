@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/s2s_endpoint
 resource_id: blog:deploying-speech-to-speech-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-s2s-endpoint.md
+local_vault_path: ai/models/deploying-speech-to-speech-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/s2s_endpoint
 
 ## Local Vault File
 
-Path: [huggingface-blog-s2s-endpoint.md](file:///../../ai/models/huggingface-blog-s2s-endpoint.md)
+Path: [deploying-speech-to-speech-on-hugging-face.md](file:///../../ai/models/deploying-speech-to-speech-on-hugging-face.md)

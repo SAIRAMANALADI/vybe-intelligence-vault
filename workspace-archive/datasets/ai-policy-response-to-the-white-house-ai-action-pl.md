@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-action-wh-2025
 resource_id: blog:ai-policy-response-to-the-white-house-ai-action-pl
-local_vault_path: ai/models/huggingface-blog-ai-action-wh-2025.md
+local_vault_path: ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-action-wh-2025
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-action-wh-2025.md](file:///../../ai/models/huggingface-blog-ai-action-wh-2025.md)
+Path: [ai-policy-response-to-the-white-house-ai-action-pl.md](file:///../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)

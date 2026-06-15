@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/async-robot-inference
 resource_id: blog:asynchronous-robot-inference-decoupling-action-pre
-local_vault_path: ai/models/huggingface-blog-async-robot-inference.md
+local_vault_path: ai/models/asynchronous-robot-inference-decoupling-action-pre.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-robot-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-async-robot-inference.md](file:///../../ai/models/huggingface-blog-async-robot-inference.md)
+Path: [asynchronous-robot-inference-decoupling-action-pre.md](file:///../../ai/models/asynchronous-robot-inference-decoupling-action-pre.md)

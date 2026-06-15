@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sagemaker-huggingface-llm
 resource_id: blog:introducing-the-hugging-face-llm-inference-contain
-local_vault_path: ai/models/huggingface-blog-sagemaker-huggingface-llm.md
+local_vault_path: ai/models/introducing-the-hugging-face-llm-inference-contain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-huggingface-llm.md](file:///../../ai/models/huggingface-blog-sagemaker-huggingface-llm.md)
+Path: [introducing-the-hugging-face-llm-inference-contain.md](file:///../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)

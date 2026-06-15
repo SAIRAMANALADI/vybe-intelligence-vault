@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/idefics
 resource_id: blog:introducing-idefics-an-open-reproduction-of-state
-local_vault_path: ai/models/huggingface-blog-idefics.md
+local_vault_path: ai/models/introducing-idefics-an-open-reproduction-of-state.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/idefics
 
 ## Local Vault File
 
-Path: [huggingface-blog-idefics.md](file:///../../ai/models/huggingface-blog-idefics.md)
+Path: [introducing-idefics-an-open-reproduction-of-state.md](file:///../../ai/models/introducing-idefics-an-open-reproduction-of-state.md)

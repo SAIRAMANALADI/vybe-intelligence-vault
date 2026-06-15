@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma
 resource_id: blog:paligemma-google-s-cutting-edge-open-vision-langua
-local_vault_path: ai/models/huggingface-blog-paligemma.md
+local_vault_path: ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma.md](file:///../../ai/models/huggingface-blog-paligemma.md)
+Path: [paligemma-google-s-cutting-edge-open-vision-langua.md](file:///../../ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)

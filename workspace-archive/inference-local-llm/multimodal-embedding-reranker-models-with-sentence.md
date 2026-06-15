@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/multimodal-sentence-transformers
 resource_id: blog:multimodal-embedding-reranker-models-with-sentence
-local_vault_path: ai/models/huggingface-blog-multimodal-sentence-transformers.md
+local_vault_path: ai/models/multimodal-embedding-reranker-models-with-sentence.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/multimodal-sentence-transformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-multimodal-sentence-transformers.md](file:///../../ai/models/huggingface-blog-multimodal-sentence-transformers.md)
+Path: [multimodal-embedding-reranker-models-with-sentence.md](file:///../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)

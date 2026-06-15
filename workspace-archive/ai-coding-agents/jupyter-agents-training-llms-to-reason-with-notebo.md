@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/jupyter-agent-2
 resource_id: blog:jupyter-agents-training-llms-to-reason-with-notebo
-local_vault_path: ai/agents/huggingface-blog-jupyter-agent-2.md
+local_vault_path: ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jupyter-agent-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-jupyter-agent-2.md](file:///../../ai/agents/huggingface-blog-jupyter-agent-2.md)
+Path: [jupyter-agents-training-llms-to-reason-with-notebo.md](file:///../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)

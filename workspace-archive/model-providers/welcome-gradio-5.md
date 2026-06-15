@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-5
 resource_id: blog:welcome-gradio-5
-local_vault_path: ai/models/huggingface-blog-gradio-5.md
+local_vault_path: ai/models/welcome-gradio-5.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-5.md](file:///../../ai/models/huggingface-blog-gradio-5.md)
+Path: [welcome-gradio-5.md](file:///../../ai/models/welcome-gradio-5.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-2
 resource_id: blog:ai-for-game-development-creating-a-farming-game-in
-local_vault_path: ai/models/huggingface-blog-ml-for-games-1.md
+local_vault_path: ai/models/ai-for-game-development-creating-a-farming-game-in.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-1.md](file:///../../ai/models/huggingface-blog-ml-for-games-1.md)
+Path: [ai-for-game-development-creating-a-farming-game-in.md](file:///../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)

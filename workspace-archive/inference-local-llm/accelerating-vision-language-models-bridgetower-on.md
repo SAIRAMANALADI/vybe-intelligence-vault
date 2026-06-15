@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bridgetower
 resource_id: blog:accelerating-vision-language-models-bridgetower-on
-local_vault_path: ai/models/huggingface-blog-bridgetower.md
+local_vault_path: ai/models/accelerating-vision-language-models-bridgetower-on.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bridgetower
 
 ## Local Vault File
 
-Path: [huggingface-blog-bridgetower.md](file:///../../ai/models/huggingface-blog-bridgetower.md)
+Path: [accelerating-vision-language-models-bridgetower-on.md](file:///../../ai/models/accelerating-vision-language-models-bridgetower-on.md)

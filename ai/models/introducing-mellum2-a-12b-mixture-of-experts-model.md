@@ -3,14 +3,17 @@ title: 'Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains'
 category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
-source_url: https://huggingface.co/blog/JetBrains/mellum2-launch
-published_at: '2026-06-01T10:15:17+00:00'
-collected_at: '2026-06-11T08:37:58.323540+00:00'
+source_url: https://huggingface.co/blog/jetbrains/mellum2-launch
+published_at: '2026-06-01T15:45:17+00:00'
+collected_at: '2026-06-15T06:35:32.410887+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:introducing-mellum2-a-12b-mixture-of-experts-model
+first_seen: '2026-06-15T06:35:32.410887+00:00'
+last_seen: '2026-06-15T06:35:32.410887+00:00'
+last_checked: '2026-06-15T06:35:32.410887+00:00'
+health_score: 100
 ---
-
 
 # Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
 
@@ -20,17 +23,13 @@ No summary provided. Reference resource: Introducing Mellum2: A 12B Mixture-of-E
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-06-01T10:15:17+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-06-01T15:45:17+00:00
 
 ## Related Tags
 
@@ -38,4 +37,4 @@ Use this as a learning/reference resource. Review the source and extract project
 
 ## Source
 
-Original source: https://huggingface.co/blog/JetBrains/mellum2-launch
+Original source: https://huggingface.co/blog/jetbrains/mellum2-launch

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/meg-mitchell-interview
 resource_id: blog:machine-learning-experts-margaret-mitchell
-local_vault_path: ai/models/huggingface-blog-meg-mitchell-interview.md
+local_vault_path: ai/models/machine-learning-experts-margaret-mitchell.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/meg-mitchell-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-meg-mitchell-interview.md](file:///../../ai/models/huggingface-blog-meg-mitchell-interview.md)
+Path: [machine-learning-experts-margaret-mitchell.md](file:///../../ai/models/machine-learning-experts-margaret-mitchell.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-tts
 resource_id: blog:tts-arena-benchmarking-text-to-speech-models-in-th
-local_vault_path: ai/models/huggingface-blog-arena-tts.md
+local_vault_path: ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-tts.md](file:///../../ai/models/huggingface-blog-arena-tts.md)
+Path: [tts-arena-benchmarking-text-to-speech-models-in-th.md](file:///../../ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md)

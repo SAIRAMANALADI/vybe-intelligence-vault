@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-goes-to-driving-school
 resource_id: blog:lerobot-goes-to-driving-school-worlds-largest-open
-local_vault_path: ai/models/huggingface-blog-lerobot-goes-to-driving-school.md
+local_vault_path: ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lerobot-goes-to-driving-school
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-goes-to-driving-school.md](file:///../../ai/models/huggingface-blog-lerobot-goes-to-driving-school.md)
+Path: [lerobot-goes-to-driving-school-worlds-largest-open.md](file:///../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)

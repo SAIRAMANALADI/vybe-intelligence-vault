@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/shadcn-ui/ui
-collected_at: '2026-06-15T06:04:25.609001+00:00'
-published_at: '2026-06-15T05:57:13Z'
+collected_at: '2026-06-15T06:35:47.467675+00:00'
+published_at: '2026-06-15T06:33:17Z'
 tags:
 - frontend_ui
-stars: 116602
+stars: 116604
 language: TypeScript
 status: active
 resource_id: github:shadcn-ui/ui
-first_seen: '2026-06-12T10:40:21.841409+00:00'
-last_seen: '2026-06-15T06:04:25.609001+00:00'
-last_checked: '2026-06-15T06:04:25.609001+00:00'
+first_seen: '2026-06-15T06:35:47.467675+00:00'
+last_seen: '2026-06-15T06:35:47.467675+00:00'
+last_checked: '2026-06-15T06:35:47.467675+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: shadcn-ui
-- Stars: 116602
+- Stars: 116604
 - Forks: 9062
 - Language: TypeScript
 - Topics: base-ui, components, laravel, nextjs, radix-ui, react, shadcn, tailwindcss, tanstack, ui, vite
-- Last Updated: 2026-06-15T05:57:13Z
+- Last Updated: 2026-06-15T06:33:17Z
 
 ## Possible Use Cases
 

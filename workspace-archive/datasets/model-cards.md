@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/model-cards
 resource_id: blog:model-cards
-local_vault_path: ai/models/huggingface-blog-model-cards.md
+local_vault_path: ai/models/model-cards.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/model-cards
 
 ## Local Vault File
 
-Path: [huggingface-blog-model-cards.md](file:///../../ai/models/huggingface-blog-model-cards.md)
+Path: [model-cards.md](file:///../../ai/models/model-cards.md)

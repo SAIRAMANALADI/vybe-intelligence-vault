@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/getting-started-habana
 resource_id: blog:getting-started-with-transformers-on-habana-gaudi
-local_vault_path: ai/models/huggingface-blog-getting-started-habana.md
+local_vault_path: ai/models/getting-started-with-transformers-on-habana-gaudi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/getting-started-habana
 
 ## Local Vault File
 
-Path: [huggingface-blog-getting-started-habana.md](file:///../../ai/models/huggingface-blog-getting-started-habana.md)
+Path: [getting-started-with-transformers-on-habana-gaudi.md](file:///../../ai/models/getting-started-with-transformers-on-habana-gaudi.md)

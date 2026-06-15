@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentiment-analysis-twitter
 resource_id: blog:getting-started-with-sentiment-analysis-on-twitter
-local_vault_path: ai/models/huggingface-blog-sentiment-analysis-twitter.md
+local_vault_path: ai/models/getting-started-with-sentiment-analysis-on-twitter.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-twitter
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentiment-analysis-twitter.md](file:///../../ai/models/huggingface-blog-sentiment-analysis-twitter.md)
+Path: [getting-started-with-sentiment-analysis-on-twitter.md](file:///../../ai/models/getting-started-with-sentiment-analysis-on-twitter.md)

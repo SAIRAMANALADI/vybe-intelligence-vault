@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/intro-graphml
 resource_id: blog:introduction-to-graph-machine-learning
-local_vault_path: ai/models/huggingface-blog-intro-graphml.md
+local_vault_path: ai/models/introduction-to-graph-machine-learning.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intro-graphml
 
 ## Local Vault File
 
-Path: [huggingface-blog-intro-graphml.md](file:///../../ai/models/huggingface-blog-intro-graphml.md)
+Path: [introduction-to-graph-machine-learning.md](file:///../../ai/models/introduction-to-graph-machine-learning.md)

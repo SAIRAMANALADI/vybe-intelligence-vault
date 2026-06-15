@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf-serving-vision
 resource_id: blog:deploying-tensorflow-vision-models-in-hugging-face
-local_vault_path: ai/models/huggingface-blog-tf-serving-vision.md
+local_vault_path: ai/models/deploying-tensorflow-vision-models-in-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving-vision
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-serving-vision.md](file:///../../ai/models/huggingface-blog-tf-serving-vision.md)
+Path: [deploying-tensorflow-vision-models-in-hugging-face.md](file:///../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)

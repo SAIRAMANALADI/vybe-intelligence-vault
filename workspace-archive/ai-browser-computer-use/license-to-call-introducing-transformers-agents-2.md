@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agents
 resource_id: blog:license-to-call-introducing-transformers-agents-2
-local_vault_path: ai/agents/huggingface-blog-agents.md
+local_vault_path: ai/agents/license-to-call-introducing-transformers-agents-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-agents.md](file:///../../ai/agents/huggingface-blog-agents.md)
+Path: [license-to-call-introducing-transformers-agents-2.md](file:///../../ai/agents/license-to-call-introducing-transformers-agents-2.md)

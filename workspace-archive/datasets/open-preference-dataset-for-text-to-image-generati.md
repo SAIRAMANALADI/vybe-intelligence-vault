@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-preferences
 resource_id: blog:open-preference-dataset-for-text-to-image-generati
-local_vault_path: ai/models/huggingface-blog-image-preferences.md
+local_vault_path: ai/models/open-preference-dataset-for-text-to-image-generati.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-preferences
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-preferences.md](file:///../../ai/models/huggingface-blog-image-preferences.md)
+Path: [open-preference-dataset-for-text-to-image-generati.md](file:///../../ai/models/open-preference-dataset-for-text-to-image-generati.md)

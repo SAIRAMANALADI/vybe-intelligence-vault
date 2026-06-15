@@ -4,14 +4,14 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/amazon/foundation-model-building-blocks
-published_at: '2026-05-11T17:48:26+00:00'
-collected_at: '2026-06-15T06:03:50.268903+00:00'
+published_at: '2026-05-11T23:18:26+00:00'
+collected_at: '2026-06-15T06:35:32.411174+00:00'
 tags: []
 status: active
 resource_id: blog:building-blocks-for-foundation-model-training-and
-first_seen: '2026-06-11T08:37:58.323668+00:00'
-last_seen: '2026-06-15T06:03:50.268903+00:00'
-last_checked: '2026-06-15T06:03:50.268903+00:00'
+first_seen: '2026-06-15T06:35:32.411174+00:00'
+last_seen: '2026-06-15T06:35:32.411174+00:00'
+last_checked: '2026-06-15T06:35:32.411174+00:00'
 health_score: 100
 ---
 
@@ -29,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-05-11T17:48:26+00:00
+- Published: 2026-05-11T23:18:26+00:00
 
 ## Related Tags
 

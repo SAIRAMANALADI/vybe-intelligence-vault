@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen
 resource_id: blog:rethinking-llm-evaluation-with-3c3h-aragen-benchma
-local_vault_path: ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md
+local_vault_path: ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-3c3h-aragen.md](file:///../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md)
+Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchma.md](file:///../../ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)

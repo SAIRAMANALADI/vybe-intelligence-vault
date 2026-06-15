@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/finetune-florence2
 resource_id: blog:fine-tuning-florence-2-microsoft-s-cutting-edge-vi
-local_vault_path: ai/models/huggingface-blog-finetune-florence2.md
+local_vault_path: ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/finetune-florence2
 
 ## Local Vault File
 
-Path: [huggingface-blog-finetune-florence2.md](file:///../../ai/models/huggingface-blog-finetune-florence2.md)
+Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md](file:///../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)

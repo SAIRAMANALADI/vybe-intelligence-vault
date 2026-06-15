@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pi0
 resource_id: blog:p0-and-p0-fast-vision-language-action-models-for-g
-local_vault_path: ai/models/huggingface-blog-pi0.md
+local_vault_path: ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pi0
 
 ## Local Vault File
 
-Path: [huggingface-blog-pi0.md](file:///../../ai/models/huggingface-blog-pi0.md)
+Path: [p0-and-p0-fast-vision-language-action-models-for-g.md](file:///../../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)

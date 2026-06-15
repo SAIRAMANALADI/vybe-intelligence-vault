@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/futurebench
 resource_id: blog:back-to-the-future-evaluating-ai-agents-on-predict
-local_vault_path: ai/agents/huggingface-blog-futurebench.md
+local_vault_path: ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/futurebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-futurebench.md](file:///../../ai/agents/huggingface-blog-futurebench.md)
+Path: [back-to-the-future-evaluating-ai-agents-on-predict.md](file:///../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/safetensors-security-audit
 resource_id: blog:safetensors-audited-as-really-safe-and-becoming-th
-local_vault_path: ai/models/huggingface-blog-safetensors-security-audit.md
+local_vault_path: ai/models/safetensors-audited-as-really-safe-and-becoming-th.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safetensors-security-audit
 
 ## Local Vault File
 
-Path: [huggingface-blog-safetensors-security-audit.md](file:///../../ai/models/huggingface-blog-safetensors-security-audit.md)
+Path: [safetensors-audited-as-really-safe-and-becoming-th.md](file:///../../ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)

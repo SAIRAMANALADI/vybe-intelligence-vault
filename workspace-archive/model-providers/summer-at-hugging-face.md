@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/summer-at-huggingface
 resource_id: blog:summer-at-hugging-face
-local_vault_path: ai/models/huggingface-blog-summer-at-huggingface.md
+local_vault_path: ai/models/summer-at-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/summer-at-huggingface
 
 ## Local Vault File
 
-Path: [huggingface-blog-summer-at-huggingface.md](file:///../../ai/models/huggingface-blog-summer-at-huggingface.md)
+Path: [summer-at-hugging-face.md](file:///../../ai/models/summer-at-hugging-face.md)

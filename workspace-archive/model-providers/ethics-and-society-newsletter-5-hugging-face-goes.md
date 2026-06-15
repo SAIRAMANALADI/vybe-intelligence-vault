@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-5
 resource_id: blog:ethics-and-society-newsletter-5-hugging-face-goes
-local_vault_path: ai/models/huggingface-blog-ethics-soc-5.md
+local_vault_path: ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-5.md](file:///../../ai/models/huggingface-blog-ethics-soc-5.md)
+Path: [ethics-and-society-newsletter-5-hugging-face-goes.md](file:///../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)

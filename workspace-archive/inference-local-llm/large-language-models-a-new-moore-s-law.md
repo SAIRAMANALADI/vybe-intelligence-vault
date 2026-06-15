@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/large-language-models
 resource_id: blog:large-language-models-a-new-moore-s-law
-local_vault_path: ai/models/huggingface-blog-large-language-models.md
+local_vault_path: ai/models/large-language-models-a-new-moore-s-law.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/large-language-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-large-language-models.md](file:///../../ai/models/huggingface-blog-large-language-models.md)
+Path: [large-language-models-a-new-moore-s-law.md](file:///../../ai/models/large-language-models-a-new-moore-s-law.md)

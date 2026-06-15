@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-dqn
 resource_id: blog:deep-q-learning-with-space-invaders
-local_vault_path: ai/models/huggingface-blog-deep-rl-dqn.md
+local_vault_path: ai/models/deep-q-learning-with-space-invaders.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-dqn
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-dqn.md](file:///../../ai/models/huggingface-blog-deep-rl-dqn.md)
+Path: [deep-q-learning-with-space-invaders.md](file:///../../ai/models/deep-q-learning-with-space-invaders.md)

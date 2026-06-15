@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/rlhf
 resource_id: blog:illustrating-reinforcement-learning-from-human-fee
-local_vault_path: ai/models/huggingface-blog-rlhf.md
+local_vault_path: ai/models/illustrating-reinforcement-learning-from-human-fee.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rlhf
 
 ## Local Vault File
 
-Path: [huggingface-blog-rlhf.md](file:///../../ai/models/huggingface-blog-rlhf.md)
+Path: [illustrating-reinforcement-learning-from-human-fee.md](file:///../../ai/models/illustrating-reinforcement-learning-from-human-fee.md)

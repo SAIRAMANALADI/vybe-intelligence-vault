@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 resource_id: blog:nemotron-3-5-content-safety-customizable-multimoda
-local_vault_path: ai/models/huggingface-blog-nvidia.md
+local_vault_path: ai/models/nemotron-3-5-content-safety-customizable-multimoda.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-5-content-saf
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia.md](file:///../../ai/models/huggingface-blog-nvidia.md)
+Path: [nemotron-3-5-content-safety-customizable-multimoda.md](file:///../../ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)

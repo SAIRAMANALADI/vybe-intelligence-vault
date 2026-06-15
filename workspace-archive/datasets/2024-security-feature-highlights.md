@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/2024-security-features
 resource_id: blog:2024-security-feature-highlights
-local_vault_path: ai/models/huggingface-blog-2024-security-features.md
+local_vault_path: ai/models/2024-security-feature-highlights.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [huggingface-blog-2024-security-features.md](file:///../../ai/models/huggingface-blog-2024-security-features.md)
+Path: [2024-security-feature-highlights.md](file:///../../ai/models/2024-security-feature-highlights.md)

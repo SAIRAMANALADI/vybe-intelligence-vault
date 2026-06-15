@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/keras-chatbot-arena
 resource_id: blog:how-good-are-llms-at-fixing-their-mistakes-a-chatb
-local_vault_path: ai/models/huggingface-blog-keras-chatbot-arena.md
+local_vault_path: ai/models/how-good-are-llms-at-fixing-their-mistakes-a-chatb.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/keras-chatbot-arena
 
 ## Local Vault File
 
-Path: [huggingface-blog-keras-chatbot-arena.md](file:///../../ai/models/huggingface-blog-keras-chatbot-arena.md)
+Path: [how-good-are-llms-at-fixing-their-mistakes-a-chatb.md](file:///../../ai/models/how-good-are-llms-at-fixing-their-mistakes-a-chatb.md)

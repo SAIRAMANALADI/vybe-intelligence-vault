@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-to-mlx
 resource_id: blog:the-pr-you-would-have-opened-yourself
-local_vault_path: ai/models/huggingface-blog-transformers-to-mlx.md
+local_vault_path: ai/models/the-pr-you-would-have-opened-yourself.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-to-mlx
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-to-mlx.md](file:///../../ai/models/huggingface-blog-transformers-to-mlx.md)
+Path: [the-pr-you-would-have-opened-yourself.md](file:///../../ai/models/the-pr-you-would-have-opened-yourself.md)

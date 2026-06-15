@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/watermarking-with-gradio
 resource_id: blog:visible-watermarking-with-gradio
-local_vault_path: ai/models/huggingface-blog-watermarking-with-gradio.md
+local_vault_path: ai/models/visible-watermarking-with-gradio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/watermarking-with-gradio
 
 ## Local Vault File
 
-Path: [huggingface-blog-watermarking-with-gradio.md](file:///../../ai/models/huggingface-blog-watermarking-with-gradio.md)
+Path: [visible-watermarking-with-gradio.md](file:///../../ai/models/visible-watermarking-with-gradio.md)

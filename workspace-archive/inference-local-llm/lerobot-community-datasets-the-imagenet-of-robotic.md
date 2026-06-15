@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-datasets
 resource_id: blog:lerobot-community-datasets-the-imagenet-of-robotic
-local_vault_path: ai/models/huggingface-blog-lerobot-datasets.md
+local_vault_path: ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-datasets.md](file:///../../ai/models/huggingface-blog-lerobot-datasets.md)
+Path: [lerobot-community-datasets-the-imagenet-of-robotic.md](file:///../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)

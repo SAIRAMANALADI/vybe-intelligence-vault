@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sd3
 resource_id: blog:diffusers-welcomes-stable-diffusion-3
-local_vault_path: ai/models/huggingface-blog-sd3.md
+local_vault_path: ai/models/diffusers-welcomes-stable-diffusion-3.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sd3
 
 ## Local Vault File
 
-Path: [huggingface-blog-sd3.md](file:///../../ai/models/huggingface-blog-sd3.md)
+Path: [diffusers-welcomes-stable-diffusion-3.md](file:///../../ai/models/diffusers-welcomes-stable-diffusion-3.md)

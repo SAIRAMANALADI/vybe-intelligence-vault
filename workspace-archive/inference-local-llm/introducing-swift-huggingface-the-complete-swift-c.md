@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-huggingface
 resource_id: blog:introducing-swift-huggingface-the-complete-swift-c
-local_vault_path: ai/models/huggingface-blog-swift-huggingface.md
+local_vault_path: ai/models/introducing-swift-huggingface-the-complete-swift-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-huggingface
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-huggingface.md](file:///../../ai/models/huggingface-blog-swift-huggingface.md)
+Path: [introducing-swift-huggingface-the-complete-swift-c.md](file:///../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)

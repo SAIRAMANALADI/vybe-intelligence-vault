@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/amused
 resource_id: blog:welcome-amused-efficient-text-to-image-generation
-local_vault_path: ai/models/huggingface-blog-amused.md
+local_vault_path: ai/models/welcome-amused-efficient-text-to-image-generation.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amused
 
 ## Local Vault File
 
-Path: [huggingface-blog-amused.md](file:///../../ai/models/huggingface-blog-amused.md)
+Path: [welcome-amused-efficient-text-to-image-generation.md](file:///../../ai/models/welcome-amused-efficient-text-to-image-generation.md)

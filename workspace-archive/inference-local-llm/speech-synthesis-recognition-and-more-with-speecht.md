@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/speecht5
 resource_id: blog:speech-synthesis-recognition-and-more-with-speecht
-local_vault_path: ai/models/huggingface-blog-speecht5.md
+local_vault_path: ai/models/speech-synthesis-recognition-and-more-with-speecht.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [huggingface-blog-speecht5.md](file:///../../ai/models/huggingface-blog-speecht5.md)
+Path: [speech-synthesis-recognition-and-more-with-speecht.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)

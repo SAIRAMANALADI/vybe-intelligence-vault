@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-coreml-llm
 resource_id: blog:releasing-swift-transformers-run-on-device-llms-in
-local_vault_path: ai/models/huggingface-blog-swift-coreml-llm.md
+local_vault_path: ai/models/releasing-swift-transformers-run-on-device-llms-in.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-coreml-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-coreml-llm.md](file:///../../ai/models/huggingface-blog-swift-coreml-llm.md)
+Path: [releasing-swift-transformers-run-on-device-llms-in.md](file:///../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)

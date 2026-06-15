@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/from-files-to-chunks
 resource_id: blog:from-files-to-chunks-improving-hf-storage-efficien
-local_vault_path: ai/rag/huggingface-blog-from-files-to-chunks.md
+local_vault_path: ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/from-files-to-chunks
 
 ## Local Vault File
 
-Path: [huggingface-blog-from-files-to-chunks.md](file:///../../ai/rag/huggingface-blog-from-files-to-chunks.md)
+Path: [from-files-to-chunks-improving-hf-storage-efficien.md](file:///../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)

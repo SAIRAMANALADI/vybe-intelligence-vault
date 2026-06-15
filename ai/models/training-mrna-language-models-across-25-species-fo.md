@@ -3,14 +3,17 @@ title: Training mRNA Language Models Across 25 Species for $165
 category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
-source_url: https://huggingface.co/blog/OpenMed/training-mrna-models-25-species
-published_at: '2026-03-31T02:53:44+00:00'
-collected_at: '2026-06-11T08:37:58.323865+00:00'
+source_url: https://huggingface.co/blog/openmed/training-mrna-models-25-species
+published_at: '2026-03-31T08:23:44+00:00'
+collected_at: '2026-06-15T06:35:32.411677+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:training-mrna-language-models-across-25-species-fo
+first_seen: '2026-06-15T06:35:32.411677+00:00'
+last_seen: '2026-06-15T06:35:32.411677+00:00'
+last_checked: '2026-06-15T06:35:32.411677+00:00'
+health_score: 100
 ---
-
 
 # Training mRNA Language Models Across 25 Species for $165
 
@@ -20,17 +23,13 @@ No summary provided. Reference resource: Training mRNA Language Models Across 25
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-03-31T02:53:44+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-03-31T08:23:44+00:00
 
 ## Related Tags
 
@@ -38,4 +37,4 @@ Use this as a learning/reference resource. Review the source and extract project
 
 ## Source
 
-Original source: https://huggingface.co/blog/OpenMed/training-mrna-models-25-species
+Original source: https://huggingface.co/blog/openmed/training-mrna-models-25-species

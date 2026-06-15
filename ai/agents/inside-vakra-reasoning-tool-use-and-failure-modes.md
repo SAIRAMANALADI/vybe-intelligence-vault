@@ -4,15 +4,15 @@ category: ai/agents
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
-published_at: '2026-04-15T06:37:25+00:00'
-collected_at: '2026-06-15T06:03:50.269056+00:00'
+published_at: '2026-04-15T12:07:25+00:00'
+collected_at: '2026-06-15T06:35:32.411477+00:00'
 tags:
 - agents
 status: active
 resource_id: blog:inside-vakra-reasoning-tool-use-and-failure-modes
-first_seen: '2026-06-11T08:37:58.323791+00:00'
-last_seen: '2026-06-15T06:03:50.269056+00:00'
-last_checked: '2026-06-15T06:03:50.269056+00:00'
+first_seen: '2026-06-15T06:35:32.411477+00:00'
+last_seen: '2026-06-15T06:35:32.411477+00:00'
+last_checked: '2026-06-15T06:35:32.411477+00:00'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/agents
-- Published: 2026-04-15T06:37:25+00:00
+- Published: 2026-04-15T12:07:25+00:00
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-1
 resource_id: blog:ethics-and-society-newsletter-1
-local_vault_path: ai/models/huggingface-blog-ethics-soc-1.md
+local_vault_path: ai/models/ethics-and-society-newsletter-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-1.md](file:///../../ai/models/huggingface-blog-ethics-soc-1.md)
+Path: [ethics-and-society-newsletter-1.md](file:///../../ai/models/ethics-and-society-newsletter-1.md)

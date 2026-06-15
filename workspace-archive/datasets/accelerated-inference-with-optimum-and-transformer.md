@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-inference
 resource_id: blog:accelerated-inference-with-optimum-and-transformer
-local_vault_path: ai/models/huggingface-blog-optimum-inference.md
+local_vault_path: ai/models/accelerated-inference-with-optimum-and-transformer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimum-inference.md](file:///../../ai/models/huggingface-blog-optimum-inference.md)
+Path: [accelerated-inference-with-optimum-and-transformer.md](file:///../../ai/models/accelerated-inference-with-optimum-and-transformer.md)

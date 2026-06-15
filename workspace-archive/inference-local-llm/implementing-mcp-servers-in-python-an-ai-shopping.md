@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-vton-mcp
 resource_id: blog:implementing-mcp-servers-in-python-an-ai-shopping
-local_vault_path: ai/models/huggingface-blog-gradio-vton-mcp.md
+local_vault_path: ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-vton-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-vton-mcp.md](file:///../../ai/models/huggingface-blog-gradio-vton-mcp.md)
+Path: [implementing-mcp-servers-in-python-an-ai-shopping.md](file:///../../ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)

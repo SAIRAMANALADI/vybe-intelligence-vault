@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/google-cloud
 resource_id: blog:building-for-an-open-future-our-new-partnership-wi
-local_vault_path: ai/models/huggingface-blog-google-cloud.md
+local_vault_path: ai/models/building-for-an-open-future-our-new-partnership-wi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud
 
 ## Local Vault File
 
-Path: [huggingface-blog-google-cloud.md](file:///../../ai/models/huggingface-blog-google-cloud.md)
+Path: [building-for-an-open-future-our-new-partnership-wi.md](file:///../../ai/models/building-for-an-open-future-our-new-partnership-wi.md)

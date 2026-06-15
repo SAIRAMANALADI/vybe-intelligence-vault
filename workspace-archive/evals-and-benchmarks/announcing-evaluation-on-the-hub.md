@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/eval-on-the-hub
 resource_id: blog:announcing-evaluation-on-the-hub
-local_vault_path: ai/models/huggingface-blog-eval-on-the-hub.md
+local_vault_path: ai/models/announcing-evaluation-on-the-hub.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/eval-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-eval-on-the-hub.md](file:///../../ai/models/huggingface-blog-eval-on-the-hub.md)
+Path: [announcing-evaluation-on-the-hub.md](file:///../../ai/models/announcing-evaluation-on-the-hub.md)

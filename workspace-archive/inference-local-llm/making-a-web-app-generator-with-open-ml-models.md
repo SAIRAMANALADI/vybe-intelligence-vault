@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/text-to-webapp
 resource_id: blog:making-a-web-app-generator-with-open-ml-models
-local_vault_path: ai/models/huggingface-blog-text-to-webapp.md
+local_vault_path: ai/models/making-a-web-app-generator-with-open-ml-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-to-webapp
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-to-webapp.md](file:///../../ai/models/huggingface-blog-text-to-webapp.md)
+Path: [making-a-web-app-generator-with-open-ml-models.md](file:///../../ai/models/making-a-web-app-generator-with-open-ml-models.md)

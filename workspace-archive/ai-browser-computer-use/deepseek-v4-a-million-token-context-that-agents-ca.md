@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/deepseekv4
 resource_id: blog:deepseek-v4-a-million-token-context-that-agents-ca
-local_vault_path: ai/agents/huggingface-blog-deepseekv4.md
+local_vault_path: ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/deepseekv4
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepseekv4.md](file:///../../ai/agents/huggingface-blog-deepseekv4.md)
+Path: [deepseek-v4-a-million-token-context-that-agents-ca.md](file:///../../ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)

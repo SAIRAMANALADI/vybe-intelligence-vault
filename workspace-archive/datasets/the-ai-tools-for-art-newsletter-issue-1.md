@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-art-newsletter-jan-25
 resource_id: blog:the-ai-tools-for-art-newsletter-issue-1
-local_vault_path: ai/models/huggingface-blog-ai-art-newsletter-jan-25.md
+local_vault_path: ai/models/the-ai-tools-for-art-newsletter-issue-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-art-newsletter-jan-25
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-art-newsletter-jan-25.md](file:///../../ai/models/huggingface-blog-ai-art-newsletter-jan-25.md)
+Path: [the-ai-tools-for-art-newsletter-issue-1.md](file:///../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)

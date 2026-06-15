@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/autoformer
 resource_id: blog:yes-transformers-are-effective-for-time-series-for
-local_vault_path: ai/models/huggingface-blog-autoformer.md
+local_vault_path: ai/models/yes-transformers-are-effective-for-time-series-for.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autoformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-autoformer.md](file:///../../ai/models/huggingface-blog-autoformer.md)
+Path: [yes-transformers-are-effective-for-time-series-for.md](file:///../../ai/models/yes-transformers-are-effective-for-time-series-for.md)

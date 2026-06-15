@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/vit-align
 resource_id: blog:new-vit-and-align-models-from-kakao-brain
-local_vault_path: ai/models/huggingface-blog-vit-align.md
+local_vault_path: ai/models/new-vit-and-align-models-from-kakao-brain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vit-align
 
 ## Local Vault File
 
-Path: [huggingface-blog-vit-align.md](file:///../../ai/models/huggingface-blog-vit-align.md)
+Path: [new-vit-and-align-models-from-kakao-brain.md](file:///../../ai/models/new-vit-and-align-models-from-kakao-brain.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/aya-vision
 resource_id: blog:a-deepdive-into-aya-vision-advancing-the-frontier
-local_vault_path: ai/models/huggingface-blog-aya-vision.md
+local_vault_path: ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-vision
 
 ## Local Vault File
 
-Path: [huggingface-blog-aya-vision.md](file:///../../ai/models/huggingface-blog-aya-vision.md)
+Path: [a-deepdive-into-aya-vision-advancing-the-frontier.md](file:///../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)

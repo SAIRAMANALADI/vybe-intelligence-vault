@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/simple-considerations
 resource_id: blog:simple-considerations-for-simple-people-building-f
-local_vault_path: ai/models/huggingface-blog-simple-considerations.md
+local_vault_path: ai/models/simple-considerations-for-simple-people-building-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple-considerations
 
 ## Local Vault File
 
-Path: [huggingface-blog-simple-considerations.md](file:///../../ai/models/huggingface-blog-simple-considerations.md)
+Path: [simple-considerations-for-simple-people-building-f.md](file:///../../ai/models/simple-considerations-for-simple-people-building-f.md)

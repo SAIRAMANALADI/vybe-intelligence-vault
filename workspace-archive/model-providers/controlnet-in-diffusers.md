@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/controlnet
 resource_id: blog:controlnet-in-diffusers
-local_vault_path: ai/models/huggingface-blog-controlnet.md
+local_vault_path: ai/models/controlnet-in-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/controlnet
 
 ## Local Vault File
 
-Path: [huggingface-blog-controlnet.md](file:///../../ai/models/huggingface-blog-controlnet.md)
+Path: [controlnet-in-diffusers.md](file:///../../ai/models/controlnet-in-diffusers.md)

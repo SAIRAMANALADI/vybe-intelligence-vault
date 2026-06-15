@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimize-llm
 resource_id: blog:optimizing-your-llm-in-production
-local_vault_path: ai/models/huggingface-blog-optimize-llm.md
+local_vault_path: ai/models/optimizing-your-llm-in-production.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimize-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimize-llm.md](file:///../../ai/models/huggingface-blog-optimize-llm.md)
+Path: [optimizing-your-llm-in-production.md](file:///../../ai/models/optimizing-your-llm-in-production.md)

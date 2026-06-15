@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ggml-org/model-management-in-llamacpp
 resource_id: blog:new-in-llama-cpp-model-management
-local_vault_path: ai/models/huggingface-blog-ggml-org.md
+local_vault_path: ai/models/new-in-llama-cpp-model-management.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ggml-org/model-management-in-ll
 
 ## Local Vault File
 
-Path: [huggingface-blog-ggml-org.md](file:///../../ai/models/huggingface-blog-ggml-org.md)
+Path: [new-in-llama-cpp-model-management.md](file:///../../ai/models/new-in-llama-cpp-model-management.md)

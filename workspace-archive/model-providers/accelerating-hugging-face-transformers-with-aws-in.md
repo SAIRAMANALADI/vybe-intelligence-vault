@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-transformers-with-inferentia2
 resource_id: blog:accelerating-hugging-face-transformers-with-aws-in
-local_vault_path: ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md
+local_vault_path: ai/models/accelerating-hugging-face-transformers-with-aws-in.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-transformers-with-in
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-transformers-with-inferentia2.md](file:///../../ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md)
+Path: [accelerating-hugging-face-transformers-with-aws-in.md](file:///../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)

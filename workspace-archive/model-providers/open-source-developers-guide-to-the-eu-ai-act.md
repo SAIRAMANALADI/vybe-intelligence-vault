@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/eu-ai-act-for-oss-developers
 resource_id: blog:open-source-developers-guide-to-the-eu-ai-act
-local_vault_path: ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md
+local_vault_path: ai/models/open-source-developers-guide-to-the-eu-ai-act.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-for-oss-developers
 
 ## Local Vault File
 
-Path: [huggingface-blog-eu-ai-act-for-oss-developers.md](file:///../../ai/models/huggingface-blog-eu-ai-act-for-oss-developers.md)
+Path: [open-source-developers-guide-to-the-eu-ai-act.md](file:///../../ai/models/open-source-developers-guide-to-the-eu-ai-act.md)

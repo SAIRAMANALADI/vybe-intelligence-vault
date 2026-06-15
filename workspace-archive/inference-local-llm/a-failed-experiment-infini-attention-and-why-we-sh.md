@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/infini-attention
 resource_id: blog:a-failed-experiment-infini-attention-and-why-we-sh
-local_vault_path: ai/models/huggingface-blog-infini-attention.md
+local_vault_path: ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infini-attention
 
 ## Local Vault File
 
-Path: [huggingface-blog-infini-attention.md](file:///../../ai/models/huggingface-blog-infini-attention.md)
+Path: [a-failed-experiment-infini-attention-and-why-we-sh.md](file:///../../ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)

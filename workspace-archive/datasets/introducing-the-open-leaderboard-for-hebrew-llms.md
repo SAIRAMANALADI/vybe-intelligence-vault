@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-hebrew
 resource_id: blog:introducing-the-open-leaderboard-for-hebrew-llms
-local_vault_path: ai/models/huggingface-blog-leaderboard-hebrew.md
+local_vault_path: ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hebrew
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-hebrew.md](file:///../../ai/models/huggingface-blog-leaderboard-hebrew.md)
+Path: [introducing-the-open-leaderboard-for-hebrew-llms.md](file:///../../ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ort-accelerating-hf-models
 resource_id: blog:accelerating-over-130000-hugging-face-models-with
-local_vault_path: ai/models/huggingface-blog-ort-accelerating-hf-models.md
+local_vault_path: ai/models/accelerating-over-130000-hugging-face-models-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ort-accelerating-hf-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-ort-accelerating-hf-models.md](file:///../../ai/models/huggingface-blog-ort-accelerating-hf-models.md)
+Path: [accelerating-over-130000-hugging-face-models-with.md](file:///../../ai/models/accelerating-over-130000-hugging-face-models-with.md)

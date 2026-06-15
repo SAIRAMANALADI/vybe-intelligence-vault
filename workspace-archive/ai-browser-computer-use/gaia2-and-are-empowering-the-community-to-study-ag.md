@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/gaia2
 resource_id: blog:gaia2-and-are-empowering-the-community-to-study-ag
-local_vault_path: ai/agents/huggingface-blog-gaia2.md
+local_vault_path: ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gaia2
 
 ## Local Vault File
 
-Path: [huggingface-blog-gaia2.md](file:///../../ai/agents/huggingface-blog-gaia2.md)
+Path: [gaia2-and-are-empowering-the-community-to-study-ag.md](file:///../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)

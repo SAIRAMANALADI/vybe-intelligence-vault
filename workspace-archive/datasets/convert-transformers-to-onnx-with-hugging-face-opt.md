@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/convert-transformers-to-onnx
 resource_id: blog:convert-transformers-to-onnx-with-hugging-face-opt
-local_vault_path: ai/models/huggingface-blog-convert-transformers-to-onnx.md
+local_vault_path: ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/convert-transformers-to-onnx
 
 ## Local Vault File
 
-Path: [huggingface-blog-convert-transformers-to-onnx.md](file:///../../ai/models/huggingface-blog-convert-transformers-to-onnx.md)
+Path: [convert-transformers-to-onnx-with-hugging-face-opt.md](file:///../../ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)

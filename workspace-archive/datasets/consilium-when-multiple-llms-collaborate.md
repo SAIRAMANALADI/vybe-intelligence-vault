@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/consilium-multi-llm
 resource_id: blog:consilium-when-multiple-llms-collaborate
-local_vault_path: ai/models/huggingface-blog-consilium-multi-llm.md
+local_vault_path: ai/models/consilium-when-multiple-llms-collaborate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/consilium-multi-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-consilium-multi-llm.md](file:///../../ai/models/huggingface-blog-consilium-multi-llm.md)
+Path: [consilium-when-multiple-llms-collaborate.md](file:///../../ai/models/consilium-when-multiple-llms-collaborate.md)

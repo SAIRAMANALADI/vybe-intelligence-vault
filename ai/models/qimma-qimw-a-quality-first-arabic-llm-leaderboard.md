@@ -4,13 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
-published_at: '2026-04-21T04:39:58+00:00'
-collected_at: '2026-06-11T08:37:58.323750+00:00'
-tags: []
-status: new
+published_at: '2026-04-21T10:09:58+00:00'
+collected_at: '2026-06-15T06:35:32.411369+00:00'
+tags:
+- leaderboard
+status: active
 resource_id: blog:qimma-qimw-a-quality-first-arabic-llm-leaderboard
+first_seen: '2026-06-15T06:35:32.411369+00:00'
+last_seen: '2026-06-15T06:35:32.411369+00:00'
+last_checked: '2026-06-15T06:35:32.411369+00:00'
+health_score: 100
 ---
-
 
 # QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
 
@@ -20,21 +24,17 @@ No summary provided. Reference resource: QIMMA قِمّة ⛰: A Quality-First A
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-04-21T04:39:58+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-04-21T10:09:58+00:00
 
 ## Related Tags
 
-- None
+- leaderboard
 
 ## Source
 

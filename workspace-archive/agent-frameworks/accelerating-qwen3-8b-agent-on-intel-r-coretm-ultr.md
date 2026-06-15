@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/intel-qwen3-agent
 resource_id: blog:accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr
-local_vault_path: ai/agents/huggingface-blog-intel-qwen3-agent.md
+local_vault_path: ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-qwen3-agent
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-qwen3-agent.md](file:///../../ai/agents/huggingface-blog-intel-qwen3-agent.md)
+Path: [accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md](file:///../../ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md)

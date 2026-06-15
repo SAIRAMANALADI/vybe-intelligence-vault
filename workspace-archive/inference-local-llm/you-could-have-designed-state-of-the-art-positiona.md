@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/designing-positional-encoding
 resource_id: blog:you-could-have-designed-state-of-the-art-positiona
-local_vault_path: ai/models/huggingface-blog-designing-positional-encoding.md
+local_vault_path: ai/models/you-could-have-designed-state-of-the-art-positiona.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/designing-positional-encoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-designing-positional-encoding.md](file:///../../ai/models/huggingface-blog-designing-positional-encoding.md)
+Path: [you-could-have-designed-state-of-the-art-positiona.md](file:///../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)

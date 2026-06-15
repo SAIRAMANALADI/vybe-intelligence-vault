@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/dialog-agents
 resource_id: blog:what-makes-a-dialog-agent-useful
-local_vault_path: ai/agents/huggingface-blog-dialog-agents.md
+local_vault_path: ai/agents/what-makes-a-dialog-agent-useful.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/dialog-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-dialog-agents.md](file:///../../ai/agents/huggingface-blog-dialog-agents.md)
+Path: [what-makes-a-dialog-agent-useful.md](file:///../../ai/agents/what-makes-a-dialog-agent-useful.md)

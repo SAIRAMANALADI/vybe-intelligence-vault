@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentence-transformers-in-the-hub
 resource_id: blog:sentence-transformers-in-the-hugging-face-hub
-local_vault_path: ai/models/huggingface-blog-sentence-transformers-in-the-hub.md
+local_vault_path: ai/models/sentence-transformers-in-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-in-the-hu
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentence-transformers-in-the-hub.md](file:///../../ai/models/huggingface-blog-sentence-transformers-in-the-hub.md)
+Path: [sentence-transformers-in-the-hugging-face-hub.md](file:///../../ai/models/sentence-transformers-in-the-hugging-face-hub.md)

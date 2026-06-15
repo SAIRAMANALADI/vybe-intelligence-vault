@@ -3,12 +3,12 @@
 ## Latest Update
 
 <!-- LATEST:START -->
-* Last updated: 2026-06-15 06:12 UTC
-* Resources tracked: 2095
-* Archive files: 11449
+* Last updated: 2026-06-15 06:39 UTC
+* Resources tracked: 2529
+* Archive files: 13365
 * Archive categories: 33
 * Changed sections: Refreshed all active archive directories and living skill guides
-* Safety scan: Skipped
+* Safety scan: Passed
 * Update policy: No-empty-commit active (committed only when meaningful changes are found)
 <!-- LATEST:END -->
 
@@ -17,7 +17,7 @@
 ### Daily Summaries
 
 <!-- DAILY:START -->
-* **2026-06-15**: Added 461 resources. Rebuilt archive and search index.
+* **2026-06-15**: Added 1915 resources. Rebuilt archive and search index.
 * **2026-06-12**: Added 1964 resources. Rebuilt archive and search index.
 * **2026-06-11**: Added 116 resources. Rebuilt archive and search index.
 <!-- DAILY:END -->

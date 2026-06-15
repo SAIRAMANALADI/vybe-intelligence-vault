@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-deepspeed
 resource_id: blog:accelerate-large-model-training-using-deepspeed
-local_vault_path: ai/models/huggingface-blog-accelerate-deepspeed.md
+local_vault_path: ai/models/accelerate-large-model-training-using-deepspeed.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-deepspeed
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-deepspeed.md](file:///../../ai/models/huggingface-blog-accelerate-deepspeed.md)
+Path: [accelerate-large-model-training-using-deepspeed.md](file:///../../ai/models/accelerate-large-model-training-using-deepspeed.md)

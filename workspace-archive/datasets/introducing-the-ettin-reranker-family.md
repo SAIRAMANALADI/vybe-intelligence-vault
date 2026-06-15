@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ettin-reranker
 resource_id: blog:introducing-the-ettin-reranker-family
-local_vault_path: ai/models/huggingface-blog-ettin-reranker.md
+local_vault_path: ai/models/introducing-the-ettin-reranker-family.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin-reranker
 
 ## Local Vault File
 
-Path: [huggingface-blog-ettin-reranker.md](file:///../../ai/models/huggingface-blog-ettin-reranker.md)
+Path: [introducing-the-ettin-reranker-family.md](file:///../../ai/models/introducing-the-ettin-reranker-family.md)

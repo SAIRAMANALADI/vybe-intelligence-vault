@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-onnxruntime-training
 resource_id: blog:optimum-onnx-runtime-easier-faster-training-for-yo
-local_vault_path: ai/models/huggingface-blog-optimum-onnxruntime-training.md
+local_vault_path: ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-onnxruntime-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimum-onnxruntime-training.md](file:///../../ai/models/huggingface-blog-optimum-onnxruntime-training.md)
+Path: [optimum-onnx-runtime-easier-faster-training-for-yo.md](file:///../../ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)

@@ -9,10 +9,10 @@ Structured roadmaps guide developers through the rapidly shifting landscape of A
 ## Top Matched Resources
 
 - [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (tutorial - USEFUL Tier)
-- [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](https://arxiv.org/abs/2606.05608) (benchmark - USEFUL Tier)
 - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](https://huggingface.co/blog/prezi-case-study) (tutorial - USEFUL Tier)
 - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) (tutorial - USEFUL Tier)
 - [Top LLM Observability platforms 2025](https://agenta.ai/blog/top-llm-observability-platforms) (dataset - USEFUL Tier)
+- [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](https://arxiv.org/abs/2606.05608) (benchmark - USEFUL Tier)
 - [Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data](https://arxiv.org/abs/2606.11272) (benchmark - USEFUL Tier)
 - [Design Methodology and Performance Trade-offs Management for Distributed and Compound AI Systems](https://arxiv.org/abs/2606.14350) (tutorial - USEFUL Tier)
 
@@ -35,4 +35,4 @@ https://github.com/kamranahmedse/developer-roadmap (Developer Roadmap)
 
 ---
 
-*Last updated: 2026-06-15 06:12 UTC*
+*Last updated: 2026-06-15 06:39 UTC*

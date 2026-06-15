@@ -4,13 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/allenai/olmoearth-v1-1
-published_at: '2026-05-19T13:08:09+00:00'
-collected_at: '2026-06-11T08:37:58.323605+00:00'
+published_at: '2026-05-19T18:38:09+00:00'
+collected_at: '2026-06-15T06:35:32.411019+00:00'
 tags: []
-status: new
+status: active
 resource_id: blog:olmoearth-v1-1-a-more-efficient-family-of-earth-ob
+first_seen: '2026-06-15T06:35:32.411019+00:00'
+last_seen: '2026-06-15T06:35:32.411019+00:00'
+last_checked: '2026-06-15T06:35:32.411019+00:00'
+health_score: 100
 ---
-
 
 # OlmoEarth v1.1: A more efficient family of Earth observation models
 
@@ -20,17 +23,13 @@ No summary provided. Reference resource: OlmoEarth v1.1: A more efficient family
 
 ## Why It Matters
 
-This resource may be useful for AI engineering, research, automation, or future project building.
+General public resource representing technology updates, guides, or tutorials.
 
-## Key Points
+## Details
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-05-19T13:08:09+00:00
-
-## Implementation Notes
-
-Use this as a learning/reference resource. Review the source and extract project ideas, techniques, or tools.
+- Published: 2026-05-19T18:38:09+00:00
 
 ## Related Tags
 

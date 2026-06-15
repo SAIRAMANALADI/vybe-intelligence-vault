@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon2-11b
 resource_id: blog:falcon-2-an-11b-parameter-pretrained-language-mode
-local_vault_path: ai/models/huggingface-blog-falcon2-11b.md
+local_vault_path: ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon2-11b
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon2-11b.md](file:///../../ai/models/huggingface-blog-falcon2-11b.md)
+Path: [falcon-2-an-11b-parameter-pretrained-language-mode.md](file:///../../ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lewis-tunstall-interview
 resource_id: blog:machine-learning-experts-lewis-tunstall
-local_vault_path: ai/models/huggingface-blog-lewis-tunstall-interview.md
+local_vault_path: ai/models/machine-learning-experts-lewis-tunstall.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lewis-tunstall-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-lewis-tunstall-interview.md](file:///../../ai/models/huggingface-blog-lewis-tunstall-interview.md)
+Path: [machine-learning-experts-lewis-tunstall.md](file:///../../ai/models/machine-learning-experts-lewis-tunstall.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/build-rocm-kernels
 resource_id: blog:easily-build-and-share-rocm-kernels-with-hugging-f
-local_vault_path: ai/models/huggingface-blog-build-rocm-kernels.md
+local_vault_path: ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/build-rocm-kernels
 
 ## Local Vault File
 
-Path: [huggingface-blog-build-rocm-kernels.md](file:///../../ai/models/huggingface-blog-build-rocm-kernels.md)
+Path: [easily-build-and-share-rocm-kernels-with-hugging-f.md](file:///../../ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md)

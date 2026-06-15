@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-mcp
 resource_id: blog:how-to-build-an-mcp-server-with-gradio
-local_vault_path: ai/models/huggingface-blog-gradio-mcp.md
+local_vault_path: ai/models/how-to-build-an-mcp-server-with-gradio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-mcp.md](file:///../../ai/models/huggingface-blog-gradio-mcp.md)
+Path: [how-to-build-an-mcp-server-with-gradio.md](file:///../../ai/models/how-to-build-an-mcp-server-with-gradio.md)

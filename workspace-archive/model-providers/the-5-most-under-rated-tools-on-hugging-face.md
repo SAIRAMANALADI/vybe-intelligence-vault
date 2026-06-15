@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/unsung-heroes
 resource_id: blog:the-5-most-under-rated-tools-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-unsung-heroes.md
+local_vault_path: ai/models/the-5-most-under-rated-tools-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsung-heroes
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsung-heroes.md](file:///../../ai/models/huggingface-blog-unsung-heroes.md)
+Path: [the-5-most-under-rated-tools-on-hugging-face.md](file:///../../ai/models/the-5-most-under-rated-tools-on-hugging-face.md)

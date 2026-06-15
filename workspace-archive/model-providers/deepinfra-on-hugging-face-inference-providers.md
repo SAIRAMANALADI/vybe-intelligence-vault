@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-deepinfra
 resource_id: blog:deepinfra-on-hugging-face-inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers-deepinfra.md
+local_vault_path: ai/models/deepinfra-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-deepinfra
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-deepinfra.md](file:///../../ai/models/huggingface-blog-inference-providers-deepinfra.md)
+Path: [deepinfra-on-hugging-face-inference-providers.md](file:///../../ai/models/deepinfra-on-hugging-face-inference-providers.md)

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/nex-agi/nex-n2
 hn_url: https://news.ycombinator.com/item?id=48528371
-score: 321
+score: 325
 author: unrvl22
-comments_count: 178
+comments_count: 180
 published_at: '2026-06-14T15:37:31+00:00'
-collected_at: '2026-06-15T06:04:35.544404+00:00'
+collected_at: '2026-06-15T06:35:48.820843+00:00'
 tags:
 - hackernews
 - llm
 status: active
 resource_id: github:nex-agi/nex-n2
-first_seen: '2026-06-15T06:04:35.544404+00:00'
-last_seen: '2026-06-15T06:04:35.544404+00:00'
-last_checked: '2026-06-15T06:04:35.544404+00:00'
+first_seen: '2026-06-15T06:35:48.820843+00:00'
+last_seen: '2026-06-15T06:35:48.820843+00:00'
+last_checked: '2026-06-15T06:35:48.820843+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by unrvl22. Score: 321, Comments: 178.
+Hacker News story by unrvl22. Score: 325, Comments: 180.
 Original Link: https://github.com/nex-agi/Nex-N2/issues/4
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: unrvl22
-- Score: 321 Upvotes
-- Comments: 178 Discussions
+- Score: 325 Upvotes
+- Comments: 180 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48528371
 - Original Article: https://github.com/nex-agi/nex-n2
 

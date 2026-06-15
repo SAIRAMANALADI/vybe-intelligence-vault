@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-shot-vqa-docmatix
 resource_id: blog:lave-zero-shot-vqa-evaluation-on-docmatix-with-llm
-local_vault_path: ai/models/huggingface-blog-zero-shot-vqa-docmatix.md
+local_vault_path: ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-vqa-docmatix
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-shot-vqa-docmatix.md](file:///../../ai/models/huggingface-blog-zero-shot-vqa-docmatix.md)
+Path: [lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md](file:///../../ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)

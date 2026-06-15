@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by joebig. Score: 25, Comments: 8.
+Hacker News story by joebig. Score: 28, Comments: 9.
 Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
 
 ## Use Cases

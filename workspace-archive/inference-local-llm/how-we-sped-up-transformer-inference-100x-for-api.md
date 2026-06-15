@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerated-inference
 resource_id: blog:how-we-sped-up-transformer-inference-100x-for-api
-local_vault_path: ai/models/huggingface-blog-accelerated-inference.md
+local_vault_path: ai/models/how-we-sped-up-transformer-inference-100x-for-api.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerated-inference.md](file:///../../ai/models/huggingface-blog-accelerated-inference.md)
+Path: [how-we-sped-up-transformer-inference-100x-for-api.md](file:///../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)

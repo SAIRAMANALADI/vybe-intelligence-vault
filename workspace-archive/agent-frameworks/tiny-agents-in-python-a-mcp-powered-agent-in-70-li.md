@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/python-tiny-agents
 resource_id: blog:tiny-agents-in-python-a-mcp-powered-agent-in-70-li
-local_vault_path: ai/agents/huggingface-blog-python-tiny-agents.md
+local_vault_path: ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/python-tiny-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-python-tiny-agents.md](file:///../../ai/agents/huggingface-blog-python-tiny-agents.md)
+Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md](file:///../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)

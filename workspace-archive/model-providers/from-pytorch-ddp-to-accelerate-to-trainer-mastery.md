@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch-ddp-accelerate-transformers
 resource_id: blog:from-pytorch-ddp-to-accelerate-to-trainer-mastery
-local_vault_path: ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md
+local_vault_path: ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/pytorch-ddp-accelerate-transfor
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-ddp-accelerate-transformers.md](file:///../../ai/models/huggingface-blog-pytorch-ddp-accelerate-transformers.md)
+Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery.md](file:///../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)

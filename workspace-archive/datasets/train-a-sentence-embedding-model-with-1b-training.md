@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/1b-sentence-embeddings
 resource_id: blog:train-a-sentence-embedding-model-with-1b-training
-local_vault_path: ai/models/huggingface-blog-1b-sentence-embeddings.md
+local_vault_path: ai/models/train-a-sentence-embedding-model-with-1b-training.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/1b-sentence-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-1b-sentence-embeddings.md](file:///../../ai/models/huggingface-blog-1b-sentence-embeddings.md)
+Path: [train-a-sentence-embedding-model-with-1b-training.md](file:///../../ai/models/train-a-sentence-embedding-model-with-1b-training.md)

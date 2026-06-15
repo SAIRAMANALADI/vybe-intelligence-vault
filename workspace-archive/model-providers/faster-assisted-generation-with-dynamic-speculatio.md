@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dynamic_speculation_lookahead
 resource_id: blog:faster-assisted-generation-with-dynamic-speculatio
-local_vault_path: ai/models/huggingface-blog-dynamic-speculation-lookahead.md
+local_vault_path: ai/models/faster-assisted-generation-with-dynamic-speculatio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dynamic_speculation_lookahead
 
 ## Local Vault File
 
-Path: [huggingface-blog-dynamic-speculation-lookahead.md](file:///../../ai/models/huggingface-blog-dynamic-speculation-lookahead.md)
+Path: [faster-assisted-generation-with-dynamic-speculatio.md](file:///../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)

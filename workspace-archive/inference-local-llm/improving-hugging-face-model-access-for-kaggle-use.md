@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/kaggle-integration
 resource_id: blog:improving-hugging-face-model-access-for-kaggle-use
-local_vault_path: ai/models/huggingface-blog-kaggle-integration.md
+local_vault_path: ai/models/improving-hugging-face-model-access-for-kaggle-use.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kaggle-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-kaggle-integration.md](file:///../../ai/models/huggingface-blog-kaggle-integration.md)
+Path: [improving-hugging-face-model-access-for-kaggle-use.md](file:///../../ai/models/improving-hugging-face-model-access-for-kaggle-use.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sdxl_jax
 resource_id: blog:accelerating-stable-diffusion-xl-inference-with-ja
-local_vault_path: ai/models/huggingface-blog-sdxl-jax.md
+local_vault_path: ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sdxl_jax
 
 ## Local Vault File
 
-Path: [huggingface-blog-sdxl-jax.md](file:///../../ai/models/huggingface-blog-sdxl-jax.md)
+Path: [accelerating-stable-diffusion-xl-inference-with-ja.md](file:///../../ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)

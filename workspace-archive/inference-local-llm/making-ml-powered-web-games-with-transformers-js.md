@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-web-games
 resource_id: blog:making-ml-powered-web-games-with-transformers-js
-local_vault_path: ai/models/huggingface-blog-ml-web-games.md
+local_vault_path: ai/models/making-ml-powered-web-games-with-transformers-js.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-web-games
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-web-games.md](file:///../../ai/models/huggingface-blog-ml-web-games.md)
+Path: [making-ml-powered-web-games-with-transformers-js.md](file:///../../ai/models/making-ml-powered-web-games-with-transformers-js.md)

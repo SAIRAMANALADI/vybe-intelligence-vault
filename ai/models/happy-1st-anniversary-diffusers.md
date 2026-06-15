@@ -1,0 +1,40 @@
+---
+title: Happy 1st anniversary 🤗 Diffusers!
+category: ai/models
+source_type: huggingface
+source_name: Hugging Face Blog
+source_url: https://huggingface.co/blog/diffusers-turns-1
+published_at: '2023-07-20T00:00:00+00:00'
+collected_at: '2026-06-15T06:35:32.423009+00:00'
+tags: []
+status: active
+resource_id: blog:happy-1st-anniversary-diffusers
+first_seen: '2026-06-15T06:35:32.423009+00:00'
+last_seen: '2026-06-15T06:35:32.423009+00:00'
+last_checked: '2026-06-15T06:35:32.423009+00:00'
+health_score: 100
+---
+
+# Happy 1st anniversary 🤗 Diffusers!
+
+## Summary
+
+No summary provided. Reference resource: Happy 1st anniversary 🤗 Diffusers!
+
+## Why It Matters
+
+General public resource representing technology updates, guides, or tutorials.
+
+## Details
+
+- Source: Hugging Face Blog
+- Category: ai/models
+- Published: 2023-07-20T00:00:00+00:00
+
+## Related Tags
+
+- None
+
+## Source
+
+Original source: https://huggingface.co/blog/diffusers-turns-1

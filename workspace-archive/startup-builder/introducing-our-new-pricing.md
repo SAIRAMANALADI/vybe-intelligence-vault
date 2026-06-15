@@ -4,7 +4,7 @@ archive_category: startup-builder
 source_category: ai/models
 source_url: https://huggingface.co/blog/pricing-update
 resource_id: blog:introducing-our-new-pricing
-local_vault_path: ai/models/huggingface-blog-pricing-update.md
+local_vault_path: ai/models/introducing-our-new-pricing.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/pricing-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-pricing-update.md](file:///../../ai/models/huggingface-blog-pricing-update.md)
+Path: [introducing-our-new-pricing.md](file:///../../ai/models/introducing-our-new-pricing.md)

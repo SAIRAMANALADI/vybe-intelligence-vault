@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/openvino
 resource_id: blog:accelerate-your-models-with-optimum-intel-and-open
-local_vault_path: ai/models/huggingface-blog-openvino.md
+local_vault_path: ai/models/accelerate-your-models-with-optimum-intel-and-open.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino
 
 ## Local Vault File
 
-Path: [huggingface-blog-openvino.md](file:///../../ai/models/huggingface-blog-openvino.md)
+Path: [accelerate-your-models-with-optimum-intel-and-open.md](file:///../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)

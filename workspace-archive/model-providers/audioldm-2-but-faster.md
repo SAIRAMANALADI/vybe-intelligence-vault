@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/audioldm2
 resource_id: blog:audioldm-2-but-faster
-local_vault_path: ai/models/huggingface-blog-audioldm2.md
+local_vault_path: ai/models/audioldm-2-but-faster.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/audioldm2
 
 ## Local Vault File
 
-Path: [huggingface-blog-audioldm2.md](file:///../../ai/models/huggingface-blog-audioldm2.md)
+Path: [audioldm-2-but-faster.md](file:///../../ai/models/audioldm-2-but-faster.md)

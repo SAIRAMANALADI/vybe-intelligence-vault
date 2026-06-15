@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-1m
 resource_id: blog:journey-to-1-million-gradio-users
-local_vault_path: ai/models/huggingface-blog-gradio-1m.md
+local_vault_path: ai/models/journey-to-1-million-gradio-users.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-1m
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-1m.md](file:///../../ai/models/huggingface-blog-gradio-1m.md)
+Path: [journey-to-1-million-gradio-users.md](file:///../../ai/models/journey-to-1-million-gradio-users.md)

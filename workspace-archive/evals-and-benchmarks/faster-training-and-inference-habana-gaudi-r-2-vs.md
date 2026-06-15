@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana-gaudi-2-benchmark
 resource_id: blog:faster-training-and-inference-habana-gaudi-r-2-vs
-local_vault_path: ai/models/huggingface-blog-habana-gaudi-2-benchmark.md
+local_vault_path: ai/models/faster-training-and-inference-habana-gaudi-r-2-vs.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-benchmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-habana-gaudi-2-benchmark.md](file:///../../ai/models/huggingface-blog-habana-gaudi-2-benchmark.md)
+Path: [faster-training-and-inference-habana-gaudi-r-2-vs.md](file:///../../ai/models/faster-training-and-inference-habana-gaudi-r-2-vs.md)

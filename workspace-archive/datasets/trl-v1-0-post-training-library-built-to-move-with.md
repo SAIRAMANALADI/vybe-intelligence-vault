@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-v1
 resource_id: blog:trl-v1-0-post-training-library-built-to-move-with
-local_vault_path: ai/models/huggingface-blog-trl-v1.md
+local_vault_path: ai/models/trl-v1-0-post-training-library-built-to-move-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-v1
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-v1.md](file:///../../ai/models/huggingface-blog-trl-v1.md)
+Path: [trl-v1-0-post-training-library-built-to-move-with.md](file:///../../ai/models/trl-v1-0-post-training-library-built-to-move-with.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/keras-hub-integration
 resource_id: blog:announcing-new-hugging-face-and-kerashub-integrati
-local_vault_path: ai/models/huggingface-blog-keras-hub-integration.md
+local_vault_path: ai/models/announcing-new-hugging-face-and-kerashub-integrati.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/keras-hub-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-keras-hub-integration.md](file:///../../ai/models/huggingface-blog-keras-hub-integration.md)
+Path: [announcing-new-hugging-face-and-kerashub-integrati.md](file:///../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/anylanguagemodel
 resource_id: blog:introducing-anylanguagemodel-one-api-for-local-and
-local_vault_path: ai/models/huggingface-blog-anylanguagemodel.md
+local_vault_path: ai/models/introducing-anylanguagemodel-one-api-for-local-and.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/anylanguagemodel
 
 ## Local Vault File
 
-Path: [huggingface-blog-anylanguagemodel.md](file:///../../ai/models/huggingface-blog-anylanguagemodel.md)
+Path: [introducing-anylanguagemodel-one-api-for-local-and.md](file:///../../ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)

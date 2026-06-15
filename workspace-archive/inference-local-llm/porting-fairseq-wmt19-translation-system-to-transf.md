@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/porting-fsmt
 resource_id: blog:porting-fairseq-wmt19-translation-system-to-transf
-local_vault_path: ai/models/huggingface-blog-porting-fsmt.md
+local_vault_path: ai/models/porting-fairseq-wmt19-translation-system-to-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/porting-fsmt
 
 ## Local Vault File
 
-Path: [huggingface-blog-porting-fsmt.md](file:///../../ai/models/huggingface-blog-porting-fsmt.md)
+Path: [porting-fairseq-wmt19-translation-system-to-transf.md](file:///../../ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)

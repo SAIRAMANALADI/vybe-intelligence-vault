@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mms_adapters
 resource_id: blog:fine-tune-mms-adapter-models-for-low-resource-asr
-local_vault_path: ai/models/huggingface-blog-mms-adapters.md
+local_vault_path: ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mms_adapters
 
 ## Local Vault File
 
-Path: [huggingface-blog-mms-adapters.md](file:///../../ai/models/huggingface-blog-mms-adapters.md)
+Path: [fine-tune-mms-adapter-models-for-low-resource-asr.md](file:///../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)

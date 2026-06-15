@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/beating-gaia
 resource_id: blog:our-transformers-code-agent-beats-the-gaia-benchma
-local_vault_path: ai/agents/huggingface-blog-beating-gaia.md
+local_vault_path: ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/beating-gaia
 
 ## Local Vault File
 
-Path: [huggingface-blog-beating-gaia.md](file:///../../ai/agents/huggingface-blog-beating-gaia.md)
+Path: [our-transformers-code-agent-beats-the-gaia-benchma.md](file:///../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)

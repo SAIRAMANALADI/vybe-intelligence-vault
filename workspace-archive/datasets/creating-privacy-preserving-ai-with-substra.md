@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/owkin-substra
 resource_id: blog:creating-privacy-preserving-ai-with-substra
-local_vault_path: ai/models/huggingface-blog-owkin-substra.md
+local_vault_path: ai/models/creating-privacy-preserving-ai-with-substra.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/owkin-substra
 
 ## Local Vault File
 
-Path: [huggingface-blog-owkin-substra.md](file:///../../ai/models/huggingface-blog-owkin-substra.md)
+Path: [creating-privacy-preserving-ai-with-substra.md](file:///../../ai/models/creating-privacy-preserving-ai-with-substra.md)

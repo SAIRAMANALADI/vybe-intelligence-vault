@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/codellama
 resource_id: blog:code-llama-llama-2-learns-to-code
-local_vault_path: ai/models/huggingface-blog-codellama.md
+local_vault_path: ai/models/code-llama-llama-2-learns-to-code.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [huggingface-blog-codellama.md](file:///../../ai/models/huggingface-blog-codellama.md)
+Path: [code-llama-llama-2-learns-to-code.md](file:///../../ai/models/code-llama-llama-2-learns-to-code.md)

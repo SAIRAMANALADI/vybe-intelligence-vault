@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/allenai/olmoearth-v1-1
 resource_id: blog:olmoearth-v1-1-a-more-efficient-family-of-earth-ob
-local_vault_path: ai/models/huggingface-blog-allenai.md
+local_vault_path: ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/allenai/olmoearth-v1-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-allenai.md](file:///../../ai/models/huggingface-blog-allenai.md)
+Path: [olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md](file:///../../ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)

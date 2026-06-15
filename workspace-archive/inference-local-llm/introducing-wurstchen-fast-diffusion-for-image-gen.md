@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/wuerstchen
 resource_id: blog:introducing-wurstchen-fast-diffusion-for-image-gen
-local_vault_path: ai/models/huggingface-blog-wuerstchen.md
+local_vault_path: ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wuerstchen
 
 ## Local Vault File
 
-Path: [huggingface-blog-wuerstchen.md](file:///../../ai/models/huggingface-blog-wuerstchen.md)
+Path: [introducing-wurstchen-fast-diffusion-for-image-gen.md](file:///../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mmbert
 resource_id: blog:mmbert-modernbert-goes-multilingual
-local_vault_path: ai/models/huggingface-blog-mmbert.md
+local_vault_path: ai/models/mmbert-modernbert-goes-multilingual.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [huggingface-blog-mmbert.md](file:///../../ai/models/huggingface-blog-mmbert.md)
+Path: [mmbert-modernbert-goes-multilingual.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual.md)

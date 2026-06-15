@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-cohere
 resource_id: blog:cohere-on-hugging-face-inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers-cohere.md
+local_vault_path: ai/models/cohere-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-cohere
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-cohere.md](file:///../../ai/models/huggingface-blog-inference-providers-cohere.md)
+Path: [cohere-on-hugging-face-inference-providers.md](file:///../../ai/models/cohere-on-hugging-face-inference-providers.md)

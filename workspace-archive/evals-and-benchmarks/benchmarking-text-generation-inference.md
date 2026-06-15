@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/tgi-benchmarking
 resource_id: blog:benchmarking-text-generation-inference
-local_vault_path: ai/models/huggingface-blog-tgi-benchmarking.md
+local_vault_path: ai/models/benchmarking-text-generation-inference.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tgi-benchmarking
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-benchmarking.md](file:///../../ai/models/huggingface-blog-tgi-benchmarking.md)
+Path: [benchmarking-text-generation-inference.md](file:///../../ai/models/benchmarking-text-generation-inference.md)

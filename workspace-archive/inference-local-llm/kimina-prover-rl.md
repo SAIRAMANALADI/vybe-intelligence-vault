@@ -2,13 +2,13 @@
 title: Kimina-Prover-RL
 archive_category: inference-local-llm
 source_category: ai/models
-source_url: https://huggingface.co/blog/AI-MO/kimina-prover-rl
+source_url: https://huggingface.co/blog/ai-mo/kimina-prover-rl
 resource_id: blog:kimina-prover-rl
-local_vault_path: ai/models/kimina-prover-rl.md
+local_vault_path: ai/models/huggingface-blog-ai-mo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: reference
+resource_kind: tutorial
 importance: medium
 selection_reason:
 - Valuable developer reference
@@ -20,7 +20,7 @@ selection_reason:
 
 - Matched archive category: `Inference and Local LLM`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: reference
+- Resource kind: tutorial
 - Selection reasons:
   - Valuable developer reference
 
@@ -36,8 +36,8 @@ No summary provided. Reference resource: Kimina-Prover-RL
 
 ## Source
 
-Original source URL: https://huggingface.co/blog/AI-MO/kimina-prover-rl
+Original source URL: https://huggingface.co/blog/ai-mo/kimina-prover-rl
 
 ## Local Vault File
 
-Path: [kimina-prover-rl.md](file:///../../ai/models/kimina-prover-rl.md)
+Path: [huggingface-blog-ai-mo.md](file:///../../ai/models/huggingface-blog-ai-mo.md)

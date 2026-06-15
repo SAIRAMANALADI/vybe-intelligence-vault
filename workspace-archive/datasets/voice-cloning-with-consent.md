@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/voice-consent-gate
 resource_id: blog:voice-cloning-with-consent
-local_vault_path: ai/models/huggingface-blog-voice-consent-gate.md
+local_vault_path: ai/models/voice-cloning-with-consent.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/voice-consent-gate
 
 ## Local Vault File
 
-Path: [huggingface-blog-voice-consent-gate.md](file:///../../ai/models/huggingface-blog-voice-consent-gate.md)
+Path: [voice-cloning-with-consent.md](file:///../../ai/models/voice-cloning-with-consent.md)

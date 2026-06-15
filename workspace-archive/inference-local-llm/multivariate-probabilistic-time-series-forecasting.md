@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/informer
 resource_id: blog:multivariate-probabilistic-time-series-forecasting
-local_vault_path: ai/models/huggingface-blog-informer.md
+local_vault_path: ai/models/multivariate-probabilistic-time-series-forecasting.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/informer
 
 ## Local Vault File
 
-Path: [huggingface-blog-informer.md](file:///../../ai/models/huggingface-blog-informer.md)
+Path: [multivariate-probabilistic-time-series-forecasting.md](file:///../../ai/models/multivariate-probabilistic-time-series-forecasting.md)

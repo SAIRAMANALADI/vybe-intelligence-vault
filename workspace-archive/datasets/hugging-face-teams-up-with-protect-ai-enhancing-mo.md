@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/protectai
 resource_id: blog:hugging-face-teams-up-with-protect-ai-enhancing-mo
-local_vault_path: ai/models/huggingface-blog-protectai.md
+local_vault_path: ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/protectai
 
 ## Local Vault File
 
-Path: [huggingface-blog-protectai.md](file:///../../ai/models/huggingface-blog-protectai.md)
+Path: [hugging-face-teams-up-with-protect-ai-enhancing-mo.md](file:///../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)

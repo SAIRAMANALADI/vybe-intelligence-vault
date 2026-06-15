@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/torch-profiler
 resource_id: blog:profiling-in-pytorch-part-1-a-beginner-s-guide-to
-local_vault_path: ai/models/huggingface-blog-torch-profiler.md
+local_vault_path: ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/torch-profiler
 
 ## Local Vault File
 
-Path: [huggingface-blog-torch-profiler.md](file:///../../ai/models/huggingface-blog-torch-profiler.md)
+Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to.md](file:///../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)

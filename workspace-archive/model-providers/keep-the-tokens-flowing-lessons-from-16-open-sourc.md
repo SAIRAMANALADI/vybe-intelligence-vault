@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/async-rl-training-landscape
 resource_id: blog:keep-the-tokens-flowing-lessons-from-16-open-sourc
-local_vault_path: ai/models/huggingface-blog-async-rl-training-landscape.md
+local_vault_path: ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-rl-training-landscape
 
 ## Local Vault File
 
-Path: [huggingface-blog-async-rl-training-landscape.md](file:///../../ai/models/huggingface-blog-async-rl-training-landscape.md)
+Path: [keep-the-tokens-flowing-lessons-from-16-open-sourc.md](file:///../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)

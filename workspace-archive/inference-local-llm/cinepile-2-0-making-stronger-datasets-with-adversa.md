@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/cinepile2
 resource_id: blog:cinepile-2-0-making-stronger-datasets-with-adversa
-local_vault_path: ai/models/huggingface-blog-cinepile2.md
+local_vault_path: ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/cinepile2
 
 ## Local Vault File
 
-Path: [huggingface-blog-cinepile2.md](file:///../../ai/models/huggingface-blog-cinepile2.md)
+Path: [cinepile-2-0-making-stronger-datasets-with-adversa.md](file:///../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)

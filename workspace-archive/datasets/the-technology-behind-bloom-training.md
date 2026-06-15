@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-megatron-deepspeed
 resource_id: blog:the-technology-behind-bloom-training
-local_vault_path: ai/models/huggingface-blog-bloom-megatron-deepspeed.md
+local_vault_path: ai/models/the-technology-behind-bloom-training.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/bloom-megatron-deepspeed
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-megatron-deepspeed.md](file:///../../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
+Path: [the-technology-behind-bloom-training.md](file:///../../ai/models/the-technology-behind-bloom-training.md)

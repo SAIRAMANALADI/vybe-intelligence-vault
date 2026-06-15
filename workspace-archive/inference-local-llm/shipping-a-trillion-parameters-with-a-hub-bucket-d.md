@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/delta-weight-sync
 resource_id: blog:shipping-a-trillion-parameters-with-a-hub-bucket-d
-local_vault_path: ai/models/huggingface-blog-delta-weight-sync.md
+local_vault_path: ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/delta-weight-sync
 
 ## Local Vault File
 
-Path: [huggingface-blog-delta-weight-sync.md](file:///../../ai/models/huggingface-blog-delta-weight-sync.md)
+Path: [shipping-a-trillion-parameters-with-a-hub-bucket-d.md](file:///../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)

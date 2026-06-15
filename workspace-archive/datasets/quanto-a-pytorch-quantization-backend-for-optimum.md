@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/quanto-introduction
 resource_id: blog:quanto-a-pytorch-quantization-backend-for-optimum
-local_vault_path: ai/models/huggingface-blog-quanto-introduction.md
+local_vault_path: ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/quanto-introduction
 
 ## Local Vault File
 
-Path: [huggingface-blog-quanto-introduction.md](file:///../../ai/models/huggingface-blog-quanto-introduction.md)
+Path: [quanto-a-pytorch-quantization-backend-for-optimum.md](file:///../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)

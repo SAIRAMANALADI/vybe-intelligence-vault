@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia-training-cluster
 resource_id: blog:introducing-training-cluster-as-a-service-a-new-co
-local_vault_path: ai/models/huggingface-blog-nvidia-training-cluster.md
+local_vault_path: ai/models/introducing-training-cluster-as-a-service-a-new-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia-training-cluster
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-training-cluster.md](file:///../../ai/models/huggingface-blog-nvidia-training-cluster.md)
+Path: [introducing-training-cluster-as-a-service-a-new-co.md](file:///../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)

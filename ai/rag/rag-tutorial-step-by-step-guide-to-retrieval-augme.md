@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://superml.org/tutorials/rag-beginner
-published_at: '2026-06-12T10:41:13.225710+00:00'
-collected_at: '2026-06-12T10:41:13.225721+00:00'
+published_at: '2026-06-15T06:37:05.777346+00:00'
+collected_at: '2026-06-15T06:37:05.777360+00:00'
 tags:
 - benchmark
 - models
@@ -16,12 +16,12 @@ tags:
 - reddit
 - web-crawled
 status: active
-id: null
-first_seen: '2026-06-12T10:41:13.225721+00:00'
-last_seen: '2026-06-12T10:41:13.225721+00:00'
 resource_id: blog:rag-tutorial-step-by-step-guide-to-retrieval-augme
+first_seen: '2026-06-15T06:37:05.777360+00:00'
+last_seen: '2026-06-15T06:37:05.777360+00:00'
+last_checked: '2026-06-15T06:37:05.777360+00:00'
+health_score: 100
 ---
-
 
 # RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org
 
@@ -37,7 +37,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T10:41:13.225710+00:00
+- Published: 2026-06-15T06:37:05.777346+00:00
 
 ## Related Tags
 

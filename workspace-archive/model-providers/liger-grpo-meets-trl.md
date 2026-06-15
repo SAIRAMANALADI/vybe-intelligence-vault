@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/liger-grpo
 resource_id: blog:liger-grpo-meets-trl
-local_vault_path: ai/models/huggingface-blog-liger-grpo.md
+local_vault_path: ai/models/liger-grpo-meets-trl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liger-grpo
 
 ## Local Vault File
 
-Path: [huggingface-blog-liger-grpo.md](file:///../../ai/models/huggingface-blog-liger-grpo.md)
+Path: [liger-grpo-meets-trl.md](file:///../../ai/models/liger-grpo-meets-trl.md)

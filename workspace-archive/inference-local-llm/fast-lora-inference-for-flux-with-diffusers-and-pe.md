@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora-fast
 resource_id: blog:fast-lora-inference-for-flux-with-diffusers-and-pe
-local_vault_path: ai/models/huggingface-blog-lora-fast.md
+local_vault_path: ai/models/fast-lora-inference-for-flux-with-diffusers-and-pe.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-fast
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora-fast.md](file:///../../ai/models/huggingface-blog-lora-fast.md)
+Path: [fast-lora-inference-for-flux-with-diffusers-and-pe.md](file:///../../ai/models/fast-lora-inference-for-flux-with-diffusers-and-pe.md)

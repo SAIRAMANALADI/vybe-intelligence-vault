@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-google-clouds
 resource_id: blog:my-journey-to-a-serverless-transformers-pipeline-o
-local_vault_path: ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md
+local_vault_path: ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-goo
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md](file:///../../ai/models/huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md)
+Path: [my-journey-to-a-serverless-transformers-pipeline-o.md](file:///../../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)

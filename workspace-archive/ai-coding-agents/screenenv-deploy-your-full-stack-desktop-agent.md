@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/screenenv
 resource_id: blog:screenenv-deploy-your-full-stack-desktop-agent
-local_vault_path: ai/agents/huggingface-blog-screenenv.md
+local_vault_path: ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/screenenv
 
 ## Local Vault File
 
-Path: [huggingface-blog-screenenv.md](file:///../../ai/agents/huggingface-blog-screenenv.md)
+Path: [screenenv-deploy-your-full-stack-desktop-agent.md](file:///../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)

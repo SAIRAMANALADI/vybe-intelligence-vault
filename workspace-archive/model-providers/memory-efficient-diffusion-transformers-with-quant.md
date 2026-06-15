@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/quanto-diffusers
 resource_id: blog:memory-efficient-diffusion-transformers-with-quant
-local_vault_path: ai/models/huggingface-blog-quanto-diffusers.md
+local_vault_path: ai/models/memory-efficient-diffusion-transformers-with-quant.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/quanto-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-quanto-diffusers.md](file:///../../ai/models/huggingface-blog-quanto-diffusers.md)
+Path: [memory-efficient-diffusion-transformers-with-quant.md](file:///../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)

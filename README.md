@@ -44,32 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2556 |
-| Active resources | 2529 |
+| Resources tracked | 2558 |
+| Active resources | 2531 |
 | Inactive resources | 27 |
-| Archive files | 13365 |
+| Archive files | 13374 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 06:12 UTC |
+| Last meaningful update | 2026-06-15 06:39 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** (Rank: +620)
-- **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** (Rank: +590)
-- **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** (Rank: +579)
-- **[Arm will be @ PyTorch Conference, Join Us!](ai/models/huggingface-blog-arm.md)** (Rank: +579)
-- **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** (Rank: +578)
+- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +23)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +23)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +23)
+- **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (Rank: +23)
+- **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (Rank: +23)
 
 #### ✨ New Discoveries
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (Score: 321)
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (Score: 325)
 - **[The hallucinogenic mushroom that contains no known psychedelic](ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)** (Score: 59)
-- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (Score: 25)
-- **[HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md)** (Score: 0)
-- **[lchen4-godaddy/agent-template-openai-agents-sdk](ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)** (Score: 0)
+- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (Score: 28)
+- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Score: 0)
+- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - **[AI agent bankrupted their operator while trying to scan DN42](ai/community/ai-agent-bankrupted-their-operator-while-trying-to.md)**

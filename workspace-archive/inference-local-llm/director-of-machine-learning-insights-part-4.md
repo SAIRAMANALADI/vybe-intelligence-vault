@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights-4
 resource_id: blog:director-of-machine-learning-insights-part-4
-local_vault_path: ai/models/huggingface-blog-ml-director-insights-4.md
+local_vault_path: ai/models/director-of-machine-learning-insights-part-4.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights-4
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-director-insights-4.md](file:///../../ai/models/huggingface-blog-ml-director-insights-4.md)
+Path: [director-of-machine-learning-insights-part-4.md](file:///../../ai/models/director-of-machine-learning-insights-part-4.md)

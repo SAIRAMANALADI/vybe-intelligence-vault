@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-bitsandbytes-integration
 resource_id: blog:a-gentle-introduction-to-8-bit-matrix-multiplicati
-local_vault_path: ai/models/huggingface-blog-hf-bitsandbytes-integration.md
+local_vault_path: ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hf-bitsandbytes-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-bitsandbytes-integration.md](file:///../../ai/models/huggingface-blog-hf-bitsandbytes-integration.md)
+Path: [a-gentle-introduction-to-8-bit-matrix-multiplicati.md](file:///../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)

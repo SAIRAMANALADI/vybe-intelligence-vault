@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/data-measurements-tool
 resource_id: blog:introducing-the-data-measurements-tool-an-interact
-local_vault_path: ai/models/huggingface-blog-data-measurements-tool.md
+local_vault_path: ai/models/introducing-the-data-measurements-tool-an-interact.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/data-measurements-tool
 
 ## Local Vault File
 
-Path: [huggingface-blog-data-measurements-tool.md](file:///../../ai/models/huggingface-blog-data-measurements-tool.md)
+Path: [introducing-the-data-measurements-tool-an-interact.md](file:///../../ai/models/introducing-the-data-measurements-tool-an-interact.md)

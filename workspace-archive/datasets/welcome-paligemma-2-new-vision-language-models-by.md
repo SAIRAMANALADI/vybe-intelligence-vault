@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma2
 resource_id: blog:welcome-paligemma-2-new-vision-language-models-by
-local_vault_path: ai/models/huggingface-blog-paligemma2.md
+local_vault_path: ai/models/welcome-paligemma-2-new-vision-language-models-by.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma2
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma2.md](file:///../../ai/models/huggingface-blog-paligemma2.md)
+Path: [welcome-paligemma-2-new-vision-language-models-by.md](file:///../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)

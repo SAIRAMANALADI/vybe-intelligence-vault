@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/screensuite
 resource_id: blog:screensuite-the-most-comprehensive-evaluation-suit
-local_vault_path: ai/agents/huggingface-blog-screensuite.md
+local_vault_path: ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/screensuite
 
 ## Local Vault File
 
-Path: [huggingface-blog-screensuite.md](file:///../../ai/agents/huggingface-blog-screensuite.md)
+Path: [screensuite-the-most-comprehensive-evaluation-suit.md](file:///../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)

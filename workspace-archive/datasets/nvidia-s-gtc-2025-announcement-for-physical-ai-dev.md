@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia-physical-ai
 resource_id: blog:nvidia-s-gtc-2025-announcement-for-physical-ai-dev
-local_vault_path: ai/models/huggingface-blog-nvidia-physical-ai.md
+local_vault_path: ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/nvidia-physical-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-physical-ai.md](file:///../../ai/models/huggingface-blog-nvidia-physical-ai.md)
+Path: [nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md](file:///../../ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md)

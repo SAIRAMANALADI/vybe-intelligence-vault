@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gptj-sagemaker
 resource_id: blog:deploy-gpt-j-6b-for-inference-using-hugging-face-t
-local_vault_path: ai/models/huggingface-blog-gptj-sagemaker.md
+local_vault_path: ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptj-sagemaker
 
 ## Local Vault File
 
-Path: [huggingface-blog-gptj-sagemaker.md](file:///../../ai/models/huggingface-blog-gptj-sagemaker.md)
+Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-t.md](file:///../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)

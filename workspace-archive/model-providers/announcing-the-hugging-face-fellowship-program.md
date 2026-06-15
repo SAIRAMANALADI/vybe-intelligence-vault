@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fellowship
 resource_id: blog:announcing-the-hugging-face-fellowship-program
-local_vault_path: ai/models/huggingface-blog-fellowship.md
+local_vault_path: ai/models/announcing-the-hugging-face-fellowship-program.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fellowship
 
 ## Local Vault File
 
-Path: [huggingface-blog-fellowship.md](file:///../../ai/models/huggingface-blog-fellowship.md)
+Path: [announcing-the-hugging-face-fellowship-program.md](file:///../../ai/models/announcing-the-hugging-face-fellowship-program.md)

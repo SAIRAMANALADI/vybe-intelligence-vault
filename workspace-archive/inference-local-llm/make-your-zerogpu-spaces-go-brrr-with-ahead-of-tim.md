@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/zerogpu-aoti
 resource_id: blog:make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim
-local_vault_path: ai/models/huggingface-blog-zerogpu-aoti.md
+local_vault_path: ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zerogpu-aoti
 
 ## Local Vault File
 
-Path: [huggingface-blog-zerogpu-aoti.md](file:///../../ai/models/huggingface-blog-zerogpu-aoti.md)
+Path: [make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md](file:///../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)

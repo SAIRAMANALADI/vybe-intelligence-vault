@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/video_gen
 resource_id: blog:state-of-open-video-generation-models-in-diffusers
-local_vault_path: ai/models/huggingface-blog-video-gen.md
+local_vault_path: ai/models/state-of-open-video-generation-models-in-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/video_gen
 
 ## Local Vault File
 
-Path: [huggingface-blog-video-gen.md](file:///../../ai/models/huggingface-blog-video-gen.md)
+Path: [state-of-open-video-generation-models-in-diffusers.md](file:///../../ai/models/state-of-open-video-generation-models-in-diffusers.md)

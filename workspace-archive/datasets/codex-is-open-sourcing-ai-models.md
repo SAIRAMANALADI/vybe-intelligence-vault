@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-skills-training-codex
 resource_id: blog:codex-is-open-sourcing-ai-models
-local_vault_path: ai/models/huggingface-blog-hf-skills-training-codex.md
+local_vault_path: ai/models/codex-is-open-sourcing-ai-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training-codex
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-skills-training-codex.md](file:///../../ai/models/huggingface-blog-hf-skills-training-codex.md)
+Path: [codex-is-open-sourcing-ai-models.md](file:///../../ai/models/codex-is-open-sourcing-ai-models.md)

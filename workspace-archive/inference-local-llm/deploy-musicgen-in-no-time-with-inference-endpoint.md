@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/run-musicgen-as-an-api
 resource_id: blog:deploy-musicgen-in-no-time-with-inference-endpoint
-local_vault_path: ai/models/huggingface-blog-run-musicgen-as-an-api.md
+local_vault_path: ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/run-musicgen-as-an-api
 
 ## Local Vault File
 
-Path: [huggingface-blog-run-musicgen-as-an-api.md](file:///../../ai/models/huggingface-blog-run-musicgen-as-an-api.md)
+Path: [deploy-musicgen-in-no-time-with-inference-endpoint.md](file:///../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)

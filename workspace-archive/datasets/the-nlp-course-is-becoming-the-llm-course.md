@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/llm-course
 resource_id: blog:the-nlp-course-is-becoming-the-llm-course
-local_vault_path: ai/models/huggingface-blog-llm-course.md
+local_vault_path: ai/models/the-nlp-course-is-becoming-the-llm-course.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/llm-course
 
 ## Local Vault File
 
-Path: [huggingface-blog-llm-course.md](file:///../../ai/models/huggingface-blog-llm-course.md)
+Path: [the-nlp-course-is-becoming-the-llm-course.md](file:///../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)

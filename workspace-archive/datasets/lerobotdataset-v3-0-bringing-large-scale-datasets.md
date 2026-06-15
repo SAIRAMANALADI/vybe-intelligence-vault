@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-datasets-v3
 resource_id: blog:lerobotdataset-v3-0-bringing-large-scale-datasets
-local_vault_path: ai/models/huggingface-blog-lerobot-datasets-v3.md
+local_vault_path: ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-datasets-v3.md](file:///../../ai/models/huggingface-blog-lerobot-datasets-v3.md)
+Path: [lerobotdataset-v3-0-bringing-large-scale-datasets.md](file:///../../ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md)

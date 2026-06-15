@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/virustotal
 resource_id: blog:hugging-face-and-virustotal-collaborate-to-strengt
-local_vault_path: ai/models/huggingface-blog-virustotal.md
+local_vault_path: ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: [huggingface-blog-virustotal.md](file:///../../ai/models/huggingface-blog-virustotal.md)
+Path: [hugging-face-and-virustotal-collaborate-to-strengt.md](file:///../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)

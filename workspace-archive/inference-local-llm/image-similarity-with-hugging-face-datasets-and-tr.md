@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-similarity
 resource_id: blog:image-similarity-with-hugging-face-datasets-and-tr
-local_vault_path: ai/models/huggingface-blog-image-similarity.md
+local_vault_path: ai/models/image-similarity-with-hugging-face-datasets-and-tr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-similarity.md](file:///../../ai/models/huggingface-blog-image-similarity.md)
+Path: [image-similarity-with-hugging-face-datasets-and-tr.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)

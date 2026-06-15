@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/hub-duckdb
 resource_id: blog:duckdb-analyze-50000-datasets-stored-on-the-huggin
-local_vault_path: ai/models/huggingface-blog-hub-duckdb.md
+local_vault_path: ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hub-duckdb
 
 ## Local Vault File
 
-Path: [huggingface-blog-hub-duckdb.md](file:///../../ai/models/huggingface-blog-hub-duckdb.md)
+Path: [duckdb-analyze-50000-datasets-stored-on-the-huggin.md](file:///../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)

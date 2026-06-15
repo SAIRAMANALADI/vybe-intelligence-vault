@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/tgi-messages-api
 resource_id: blog:from-openai-to-open-llms-with-messages-api-on-hugg
-local_vault_path: ai/models/huggingface-blog-tgi-messages-api.md
+local_vault_path: ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tgi-messages-api
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-messages-api.md](file:///../../ai/models/huggingface-blog-tgi-messages-api.md)
+Path: [from-openai-to-open-llms-with-messages-api-on-hugg.md](file:///../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)

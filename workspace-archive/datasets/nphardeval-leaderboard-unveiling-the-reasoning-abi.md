@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-nphardeval
 resource_id: blog:nphardeval-leaderboard-unveiling-the-reasoning-abi
-local_vault_path: ai/models/huggingface-blog-leaderboard-nphardeval.md
+local_vault_path: ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-nphardeval
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-nphardeval.md](file:///../../ai/models/huggingface-blog-leaderboard-nphardeval.md)
+Path: [nphardeval-leaderboard-unveiling-the-reasoning-abi.md](file:///../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)

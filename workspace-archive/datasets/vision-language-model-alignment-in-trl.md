@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-vlm-alignment
 resource_id: blog:vision-language-model-alignment-in-trl
-local_vault_path: ai/models/huggingface-blog-trl-vlm-alignment.md
+local_vault_path: ai/models/vision-language-model-alignment-in-trl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-vlm-alignment
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-vlm-alignment.md](file:///../../ai/models/huggingface-blog-trl-vlm-alignment.md)
+Path: [vision-language-model-alignment-in-trl.md](file:///../../ai/models/vision-language-model-alignment-in-trl.md)

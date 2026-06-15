@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/github-ci-hf-jobs
 resource_id: blog:migrating-your-github-ci-to-hugging-face-jobs
-local_vault_path: ai/models/huggingface-blog-github-ci-hf-jobs.md
+local_vault_path: ai/models/migrating-your-github-ci-to-hugging-face-jobs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-github-ci-hf-jobs.md](file:///../../ai/models/huggingface-blog-github-ci-hf-jobs.md)
+Path: [migrating-your-github-ci-to-hugging-face-jobs.md](file:///../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)

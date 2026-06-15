@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents-can-see
 resource_id: blog:we-now-support-vlms-in-smolagents
-local_vault_path: ai/agents/huggingface-blog-smolagents-can-see.md
+local_vault_path: ai/agents/we-now-support-vlms-in-smolagents.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents-can-see
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents-can-see.md](file:///../../ai/agents/huggingface-blog-smolagents-can-see.md)
+Path: [we-now-support-vlms-in-smolagents.md](file:///../../ai/agents/we-now-support-vlms-in-smolagents.md)

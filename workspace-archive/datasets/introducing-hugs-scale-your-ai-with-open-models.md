@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hugs
 resource_id: blog:introducing-hugs-scale-your-ai-with-open-models
-local_vault_path: ai/models/huggingface-blog-hugs.md
+local_vault_path: ai/models/introducing-hugs-scale-your-ai-with-open-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugs
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugs.md](file:///../../ai/models/huggingface-blog-hugs.md)
+Path: [introducing-hugs-scale-your-ai-with-open-models.md](file:///../../ai/models/introducing-hugs-scale-your-ai-with-open-models.md)

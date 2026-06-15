@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama2
 resource_id: blog:llama-2-is-here-get-it-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-llama2.md
+local_vault_path: ai/models/llama-2-is-here-get-it-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama2.md](file:///../../ai/models/huggingface-blog-llama2.md)
+Path: [llama-2-is-here-get-it-on-hugging-face.md](file:///../../ai/models/llama-2-is-here-get-it-on-hugging-face.md)

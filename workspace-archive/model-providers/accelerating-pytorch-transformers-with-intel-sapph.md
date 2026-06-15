@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-sapphire-rapids-inference
 resource_id: blog:accelerating-pytorch-transformers-with-intel-sapph
-local_vault_path: ai/models/huggingface-blog-intel-sapphire-rapids-inference.md
+local_vault_path: ai/models/accelerating-pytorch-transformers-with-intel-sapph.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-sapphire-rapids-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-sapphire-rapids-inference.md](file:///../../ai/models/huggingface-blog-intel-sapphire-rapids-inference.md)
+Path: [accelerating-pytorch-transformers-with-intel-sapph.md](file:///../../ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-lighthouz
 resource_id: blog:introducing-the-chatbot-guardrails-arena
-local_vault_path: ai/models/huggingface-blog-arena-lighthouz.md
+local_vault_path: ai/models/introducing-the-chatbot-guardrails-arena.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arena-lighthouz
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-lighthouz.md](file:///../../ai/models/huggingface-blog-arena-lighthouz.md)
+Path: [introducing-the-chatbot-guardrails-arena.md](file:///../../ai/models/introducing-the-chatbot-guardrails-arena.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/kv-cache
 resource_id: blog:kv-cache-from-scratch-in-nanovlm
-local_vault_path: ai/models/huggingface-blog-kv-cache.md
+local_vault_path: ai/models/kv-cache-from-scratch-in-nanovlm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kv-cache
 
 ## Local Vault File
 
-Path: [huggingface-blog-kv-cache.md](file:///../../ai/models/huggingface-blog-kv-cache.md)
+Path: [kv-cache-from-scratch-in-nanovlm.md](file:///../../ai/models/kv-cache-from-scratch-in-nanovlm.md)

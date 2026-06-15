@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama2-for-non-engineers
 resource_id: blog:non-engineers-guide-train-a-llama-2-chatbot
-local_vault_path: ai/models/huggingface-blog-llama2-for-non-engineers.md
+local_vault_path: ai/models/non-engineers-guide-train-a-llama-2-chatbot.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2-for-non-engineers
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama2-for-non-engineers.md](file:///../../ai/models/huggingface-blog-llama2-for-non-engineers.md)
+Path: [non-engineers-guide-train-a-llama-2-chatbot.md](file:///../../ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/why-gradio-stands-out
 resource_id: blog:17-reasons-why-gradio-isn-t-just-another-ui-librar
-local_vault_path: ai/models/huggingface-blog-why-gradio-stands-out.md
+local_vault_path: ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/why-gradio-stands-out
 
 ## Local Vault File
 
-Path: [huggingface-blog-why-gradio-stands-out.md](file:///../../ai/models/huggingface-blog-why-gradio-stands-out.md)
+Path: [17-reasons-why-gradio-isn-t-just-another-ui-librar.md](file:///../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)
