@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by martiano. Score: 30, Comments: 9.
+Hacker News story by martiano. Score: 116, Comments: 46.
 Original Link: https://github.com/themartiano/luz
 
 ## Use Cases

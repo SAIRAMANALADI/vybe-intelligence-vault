@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/themartiano/luz
 hn_url: https://news.ycombinator.com/item?id=48538833
-score: 30
+score: 116
 author: martiano
-comments_count: 9
+comments_count: 46
 published_at: '2026-06-15T09:34:10+00:00'
-collected_at: '2026-06-15T12:42:36.242106+00:00'
+collected_at: '2026-06-15T16:20:32.966854+00:00'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: github:themartiano/luz
-first_seen: '2026-06-15T12:42:36.242106+00:00'
-last_seen: '2026-06-15T12:42:36.242106+00:00'
-last_checked: '2026-06-15T12:42:36.242106+00:00'
+first_seen: '2026-06-15T16:20:32.966854+00:00'
+last_seen: '2026-06-15T16:20:32.966854+00:00'
+last_checked: '2026-06-15T16:20:32.966854+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by martiano. Score: 30, Comments: 9.
+Hacker News story by martiano. Score: 116, Comments: 46.
 Original Link: https://github.com/themartiano/luz
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: martiano
-- Score: 30 Upvotes
-- Comments: 9 Discussions
+- Score: 116 Upvotes
+- Comments: 46 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48538833
 - Original Article: https://github.com/themartiano/luz
 

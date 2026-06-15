@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/satnaing/shadcn-admin
-collected_at: '2026-06-15T12:42:34.859020+00:00'
-published_at: '2026-06-15T11:16:44Z'
+collected_at: '2026-06-15T16:20:31.241775+00:00'
+published_at: '2026-06-15T15:46:08Z'
 tags:
 - frontend_ui
-stars: 12349
+stars: 12352
 language: TypeScript
 status: active
 resource_id: github:satnaing/shadcn-admin
-first_seen: '2026-06-15T12:42:34.859020+00:00'
-last_seen: '2026-06-15T12:42:34.859020+00:00'
-last_checked: '2026-06-15T12:42:34.859020+00:00'
+first_seen: '2026-06-15T16:20:31.241775+00:00'
+last_seen: '2026-06-15T16:20:31.241775+00:00'
+last_checked: '2026-06-15T16:20:31.241775+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: satnaing
-- Stars: 12349
+- Stars: 12352
 - Forks: 1981
 - Language: TypeScript
 - Topics: admin-dashboard, admin-panel, dashboard, shadcn-admin, shadcn-ui
-- Last Updated: 2026-06-15T11:16:44Z
+- Last Updated: 2026-06-15T15:46:08Z
 
 ## Possible Use Cases
 

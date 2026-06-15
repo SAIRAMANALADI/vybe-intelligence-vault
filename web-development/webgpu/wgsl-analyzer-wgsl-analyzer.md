@@ -4,7 +4,7 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/wgsl-analyzer/wgsl-analyzer
-collected_at: '2026-06-15T06:04:14.952733+00:00'
+collected_at: '2026-06-15T16:20:25.621163+00:00'
 published_at: '2026-06-13T00:22:31Z'
 tags:
 - reddit
@@ -13,9 +13,9 @@ stars: 664
 language: Rust
 status: active
 resource_id: github:wgsl-analyzer/wgsl-analyzer
-first_seen: '2026-06-12T10:40:17.491146+00:00'
-last_seen: '2026-06-15T06:04:14.952733+00:00'
-last_checked: '2026-06-15T06:04:14.952733+00:00'
+first_seen: '2026-06-15T16:20:25.621163+00:00'
+last_seen: '2026-06-15T16:20:25.621163+00:00'
+last_checked: '2026-06-15T16:20:25.621163+00:00'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: wgsl-analyzer
 - Stars: 664
-- Forks: 89
+- Forks: 88
 - Language: Rust
 - Topics: None
 - Last Updated: 2026-06-13T00:22:31Z

@@ -44,30 +44,28 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2563 |
-| Active resources | 2536 |
+| Resources tracked | 2564 |
+| Active resources | 2537 |
 | Inactive resources | 27 |
-| Archive files | 13389 |
+| Archive files | 13390 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 12:45 UTC |
+| Last meaningful update | 2026-06-15 16:23 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+30 points)
-- **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (+17 points)
-- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Rank: +11)
-- **[Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)** (Rank: +2318)
-- **[The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)** (Rank: +11)
+- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (Rank: +4) (+86 points)
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (+14 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +704)
+- **[datawhalechina/llm-universe](ai/rag/datawhalechina-llm-universe.md)** (Rank: +6)
+- **[datawhalechina/all-in-rag](ai/rag/datawhalechina-all-in-rag.md)** (Rank: +15)
 
 #### ✨ New Discoveries
-- **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)** (Score: 97)
-- **[Foreign business owners are scrambling to raise capital to stay in Japan](ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)** (Score: 68)
-- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (Score: 30)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Score: 14)
 
 #### 💤 Recently Inactive Resources
 - None.

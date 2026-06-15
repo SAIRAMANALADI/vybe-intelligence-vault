@@ -5487,6 +5487,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
+* **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by rsgm. Score: 14, Comments: 2. Original Link: https://rsgm.dev/post/ai-dev-platform/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://rsgm.dev/post/ai-dev-platform>
+
 * **[OpenAI Agents SDK Tutorial: 13 Steps [2026]](ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)** (`framework` | `useful` tier)
   * Summary: OpenAI Agents SDK Tutorial: Build AI Agents in 13 Steps [2026]Elias VirtanenMay 14, 2026Software Elias Virtanen May 14, 2026 26 min read The OpenAI Agents SDK has become the default starting point for production-grade agentic systems in 2026. The off
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -5528,7 +5533,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide>
 
 * **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by unrvl22. Score: 367, Comments: 194. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
+  * Summary: Hacker News story by unrvl22. Score: 381, Comments: 201. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
   * Tags: `hackernews`, `llm`
   * Source URL: <https://github.com/nex-agi/nex-n2>
 
@@ -5543,7 +5548,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
 
 * **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by martiano. Score: 30, Comments: 9. Original Link: https://github.com/themartiano/luz
+  * Summary: Hacker News story by martiano. Score: 116, Comments: 46. Original Link: https://github.com/themartiano/luz
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/themartiano/luz>
 

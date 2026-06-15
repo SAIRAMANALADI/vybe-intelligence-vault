@@ -560,6 +560,7 @@ Resources organized by keyword tags.
 
   - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
   - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
+  - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
   - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
 
@@ -2079,6 +2080,7 @@ Resources organized by keyword tags.
   - [Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization](../ai/rag/arxiv-2606-13509.md)
   - [Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](../ai/rag/arxiv-2606-13397.md)
   - [Modern analog computing for solving differential and matrix equations](../ai/rag/arxiv-2606-13179.md)
+  - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [On Pitfalls of $\textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective](../ai/research/arxiv-2304-13836.md)
   - [Online Convex Optimization with Sublinear Noisy Probes](../ai/research/arxiv-2606-14640.md)
@@ -4556,4 +4558,4 @@ Resources organized by keyword tags.
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
 
 ---
-*Index generated on 2026-06-15T12:44:56.878908+00:00*
+*Index generated on 2026-06-15T16:23:25.549613+00:00*
