@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by djoume. Score: 25, Comments: 13.
+Hacker News story by djoume. Score: 67, Comments: 41.
 Original Link: https://fata.dev
 
 ## Use Cases

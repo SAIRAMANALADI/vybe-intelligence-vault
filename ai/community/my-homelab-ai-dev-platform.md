@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rsgm.dev/post/ai-dev-platform
 hn_url: https://news.ycombinator.com/item?id=48542433
-score: 122
+score: 202
 author: rsgm
-comments_count: 32
+comments_count: 42
 published_at: '2026-06-15T15:09:40+00:00'
-collected_at: '2026-06-15T19:09:25.441295+00:00'
+collected_at: '2026-06-15T23:08:41.245060+00:00'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:my-homelab-ai-dev-platform
-first_seen: '2026-06-15T19:09:25.441295+00:00'
-last_seen: '2026-06-15T19:09:25.441295+00:00'
-last_checked: '2026-06-15T19:09:25.441295+00:00'
+first_seen: '2026-06-15T23:08:41.245060+00:00'
+last_seen: '2026-06-15T23:08:41.245060+00:00'
+last_checked: '2026-06-15T23:08:41.245060+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by rsgm. Score: 122, Comments: 32.
+Hacker News story by rsgm. Score: 202, Comments: 42.
 Original Link: https://rsgm.dev/post/ai-dev-platform/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: rsgm
-- Score: 122 Upvotes
-- Comments: 32 Discussions
+- Score: 202 Upvotes
+- Comments: 42 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48542433
 - Original Article: https://rsgm.dev/post/ai-dev-platform
 

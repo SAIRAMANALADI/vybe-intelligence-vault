@@ -1653,8 +1653,10 @@ Resources organized by publisher feed and query sources.
   - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
   - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
   - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
+  - [Show HN: Vet turned founder, AI lawn diagnosis](../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)
   - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
   - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
+  - [Why I Email Complete Strangers](../ai/community/why-i-email-complete-strangers.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -2485,6 +2487,7 @@ Resources organized by publisher feed and query sources.
   - [Build Better AI Agents: 5 Developer Tips from the Agent Bake-Off - Google Developers Blog](../ai/rag/build-better-ai-agents-5-developer-tips-from-the-a.md)
   - [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)
   - [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md)
+  - [Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)
   - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
   - [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)
   - [Building Effective AI Agents \ Anthropic](../ai/rag/building-effective-ai-agents-anthropic.md)
@@ -2501,6 +2504,9 @@ Resources organized by publisher feed and query sources.
   - [Documentation best practices for RAG applications - AWS Prescriptive Guidance](../ai/rag/documentation-best-practices-for-rag-applications.md)
   - [Evaluating AI Agents: Metrics & Benchmarks 2026](../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
+  - [Free Project Status Report Template](../ai/resources/free-project-status-report-template.md)
+  - [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../ai/rag/free-project-status-report-template-weekly-monthly.md)
+  - [Free RAG Status Report Template to Edit Online](../ai/rag/free-rag-status-report-template-to-edit-online.md)
   - [Google Colab](../ai/rag/google-colab.md)
   - [Hands-On RAG for Production [Book]](../ai/rag/hands-on-rag-for-production-book.md)
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
@@ -2534,6 +2540,12 @@ Resources organized by publisher feed and query sources.
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
+  - [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../ai/rag/rag-project-status-report-template-document-templa.md)
+  - [RAG Status Dashboard Roadmap Template - WordLayouts](../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)
+  - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)
+  - [RAG Status Template (Word, Excel)](../ai/rag/rag-status-template-word-excel.md)
+  - [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../ai/rag/rag-status-template-excel-free-download-techno-pm.md)
+  - [RAG Status Template | Red, Amber, Green Status | Project Slides](../ai/rag/rag-status-template-red-amber-green-status-project.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
@@ -2557,6 +2569,7 @@ Resources organized by publisher feed and query sources.
   - [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
   - [Unlocking the power of unstructured data with RAG - The GitHub Blog](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)
   - [Using a knowledge graph to implement a RAG application](../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
+  - [What is RAG Status Reporting in Project Management? | PM Study Circle](../ai/rag/what-is-rag-status-reporting-in-project-management.md)
   - [What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)
   - [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)
   - [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)
@@ -2565,4 +2578,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-15T19:11:49.621837+00:00*
+*Index generated on 2026-06-15T23:10:52.004950+00:00*

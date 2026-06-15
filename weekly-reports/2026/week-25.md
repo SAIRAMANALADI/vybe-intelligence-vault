@@ -18,7 +18,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/models | 722 |
 | ai/research | 239 |
-| ai/rag | 188 |
+| ai/rag | 200 |
 | ai/agents | 136 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
@@ -26,7 +26,7 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | web-development/shadcn-ui | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
-| ai/community | 11 |
+| ai/community | 13 |
 | ai/companies/mistral | 10 |
 | ai/companies/anthropic | 8 |
 | web-development/gsap | 6 |
@@ -34,44 +34,45 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/companies/openai | 4 |
 | web-development/webgl | 1 |
 | web-development/tailwind | 1 |
+| ai/resources | 1 |
 
 ## Most Common Tags
 
 | Tag | Count |
 |---|---:|
-| benchmark | 218 |
-| rag | 188 |
-| models | 185 |
-| agents | 181 |
-| dataset | 129 |
-| frontend_ui | 112 |
-| paper | 84 |
+| benchmark | 220 |
+| rag | 200 |
+| models | 188 |
+| agents | 183 |
+| dataset | 130 |
+| frontend_ui | 113 |
+| paper | 87 |
 | threejs | 81 |
-| hackernews | 69 |
-| openai | 63 |
-| youtube | 49 |
-| workflows | 48 |
-| meta-ai | 47 |
-| animation | 33 |
-| anthropic | 32 |
+| hackernews | 78 |
+| openai | 66 |
+| workflows | 50 |
+| youtube | 50 |
+| meta-ai | 50 |
+| web-crawled | 43 |
+| reddit | 35 |
 
 ## Weekly Community Updates
 
-1. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 381) - `ai/community`
-2. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md) ([Source](https://tinywind.io)) (HN Score: 273) - `ai/community`
-3. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) ([Source](https://news.ycombinator.com/item?id=48542100)) (HN Score: 235) - `ai/community`
-4. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 122) - `ai/community`
+1. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) ([Source](https://news.ycombinator.com/item?id=48542100)) (HN Score: 562) - `ai/community`
+2. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md) ([Source](https://tinywind.io)) (HN Score: 527) - `ai/community`
+3. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 381) - `ai/community`
+4. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 202) - `ai/community`
 5. [Show HN: I wrote a C++ ray tracer from scratch without AI](../../../ai/community/themartiano-luz.md) ([Source](https://github.com/themartiano/luz)) (HN Score: 116) - `ai/community`
 6. [Anthropic's Safety Superpower](../../../ai/community/anthropic-s-safety-superpower.md) ([Source](https://stratechery.com/2026/anthropics-safety-superpower)) (HN Score: 97) - `ai/community`
 7. [Foreign business owners are scrambling to raise capital to stay in Japan](../../../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md) ([Source](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling)) (HN Score: 68) - `ai/community`
-8. [Can Europe train a frontier AI model on the compute it owns?](../../../ai/community/sammysltd-euromesh.md) ([Source](https://github.com/sammysltd/euromesh)) (HN Score: 65) - `ai/community`
-9. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
-10. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
-11. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../../../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source](https://fata.dev)) (HN Score: 25) - `ai/community`
-12. [The next evolution of the Agents SDK | OpenAI](../../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
-13. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-14. [Using a knowledge graph to implement a RAG application](../../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-15. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
+8. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../../../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source](https://fata.dev)) (HN Score: 67) - `ai/community`
+9. [Can Europe train a frontier AI model on the compute it owns?](../../../ai/community/sammysltd-euromesh.md) ([Source](https://github.com/sammysltd/euromesh)) (HN Score: 65) - `ai/community`
+10. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
+11. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
+12. [Show HN: Vet turned founder, AI lawn diagnosis](../../../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md) ([Source](https://grassdx.com)) (HN Score: 26) - `ai/community`
+13. [Why I Email Complete Strangers](../../../ai/community/why-i-email-complete-strangers.md) ([Source](https://goodinternetmagazine.com/why-i-email-complete-strangers)) (HN Score: 25) - `ai/community`
+14. [Free Project Status Report Template](../../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
+15. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -133,13 +134,13 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (267 updates)
-- [RAG](../../../skills/rag.md) (193 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (188 updates)
+- [Workflow Automation](../../../skills/automation.md) (272 updates)
+- [RAG](../../../skills/rag.md) (205 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (200 updates)
 - [AI Agents](../../../skills/ai-agents.md) (156 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (96 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (97 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
-- [LLMOps](../../../skills/llmops.md) (51 updates)
+- [LLMOps](../../../skills/llmops.md) (52 updates)
 - [Local LLMs & Inference](../../../skills/local-llm.md) (33 updates)
 - [Prompt Engineering](../../../skills/prompt-engineering.md) (23 updates)
 - [FastAPI](../../../skills/fastapi.md) (12 updates)
@@ -151,4 +152,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-15T19:11:48.403296+00:00
+2026-06-15T23:10:50.824001+00:00

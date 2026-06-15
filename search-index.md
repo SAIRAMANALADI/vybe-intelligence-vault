@@ -2000,6 +2000,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14356>
 
+* **[RAG Status Template (Word, Excel)](ai/rag/rag-status-template-word-excel.md)** (`template` | `useful` tier)
+  * Summary: NewExplore Mastt's New AI FeaturesAboutProduct The PlatformMastt AIReal AI tools you can use today, integrated into the Mastt PlatformPlatform OverviewUnified platform for construction project managementProjectCore workspace to manage a single projec
+  * Tags: `creative_dev`, `hackernews`, `rag`, `reddit`, `web-crawled`, `youtube`
+  * Source URL: <https://www.mastt.com/resources/rag-status-template>
+
 * **[The AI tools for Art Newsletter - Issue 1](ai/models/the-ai-tools-for-art-newsletter-issue-1.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: The AI tools for Art Newsletter - Issue 1
   * Source URL: <https://huggingface.co/blog/ai-art-newsletter-jan-25>
@@ -5115,6 +5120,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `python`
   * Source URL: <https://github.com/brandonhimpfen/awesome-llmops>
 
+* **[Free Project Status Report Template](ai/resources/free-project-status-report-template.md)** (`reference` | `reference` tier)
+  * Summary: Byblos Constructions cut report compilation time by 50% and saved 20–30 hours weekly after ditching paper-based project reporting for SafetyCulture across 8 remote mining sites.Read success storyRead success story
+  * Tags: `paper`, `web-crawled`
+  * Source URL: <https://safetyculture.com/checklists/operations/project-status-report>
+
 * **[Mattbusel/awesome-llm-infra](ai/resources/mattbusel-awesome-llm-infra.md)** (`reference` | `reference` tier)
   * Summary: Curated list of production LLM infrastructure — runtimes, clients, observability, safety, memory, and finance
   * Tags: `github-repo`, `unknown`
@@ -5248,7 +5258,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://stratechery.com/2026/anthropics-safety-superpower>
 
 * **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cloudking. Score: 235, Comments: 146. Original Link: None
+  * Summary: Hacker News story by cloudking. Score: 562, Comments: 286. Original Link: None
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://news.ycombinator.com/item?id=48542100>
 
@@ -5346,6 +5356,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by zdw. Score: 68, Comments: 36. Original Link: https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling>
+
+* **[Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](ai/rag/free-project-status-report-template-weekly-monthly.md)** (`template` | `useful` tier)
+  * Summary: Menu120+ Project Management TemplatesPREMIUMFREE Project Management TemplatesProject Management Templates Free DownloadMinutes of Meeting TemplateInvoice Excel TemplateProject Cost Estimator Excel TemplateProject Appraisal Excel TemplateProject Budge
+  * Tags: `creative_dev`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Source URL: <https://analysistabs.com/templates/project-status-report>
 
 * **[From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning](ai/research/arxiv-2606-11195.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.11195v1 Announce Type: cross Abstract: Large language models (LLMs) have transformed how humans access information, but not how we reason with it. Their fluency accelerates consumption while bypassing the slow, reflective processes that un
@@ -5498,7 +5513,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rsgm. Score: 122, Comments: 32. Original Link: https://rsgm.dev/post/ai-dev-platform/
+  * Summary: Hacker News story by rsgm. Score: 202, Comments: 42. Original Link: https://rsgm.dev/post/ai-dev-platform/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://rsgm.dev/post/ai-dev-platform>
 
@@ -5558,7 +5573,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://huggingface.co/blog/run-comfyui-workflows-on-spaces>
 
 * **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by djoume. Score: 25, Comments: 13. Original Link: https://fata.dev
+  * Summary: Hacker News story by djoume. Score: 67, Comments: 41. Original Link: https://fata.dev
   * Tags: `ai`, `hackernews`
   * Source URL: <https://fata.dev>
 
@@ -5566,6 +5581,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Hacker News story by martiano. Score: 116, Comments: 46. Original Link: https://github.com/themartiano/luz
   * Tags: `ai`, `hackernews`
   * Source URL: <https://github.com/themartiano/luz>
+
+* **[Show HN: Vet turned founder, AI lawn diagnosis](ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by andrewbr. Score: 26, Comments: 18. Original Link: https://grassdx.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://grassdx.com>
 
 * **[SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](ai/rag/arxiv-2606-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14239v1 Announce Type: new Abstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constrain
@@ -5613,7 +5633,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openai.com/index/the-next-evolution-of-the-agents-sdk>
 
 * **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tinywind. Score: 273, Comments: 55. Original Link: https://tinywind.io
+  * Summary: Hacker News story by tinywind. Score: 527, Comments: 108. Original Link: https://tinywind.io
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tinywind.io>
 
@@ -5671,6 +5691,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.22025v2 Announce Type: replace-cross Abstract: Evaluating Large Language Model (LLM) applications differs from conventional software testing because outputs are probabilistic, semantically variable, and sensitive to prompt and model change
   * Tags: `agents`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.22025>
+
+* **[Why I Email Complete Strangers](ai/community/why-i-email-complete-strangers.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by karakoram. Score: 25, Comments: 7. Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://goodinternetmagazine.com/why-i-email-complete-strangers>
 
 ## Datasets
 
@@ -12048,6 +12073,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/pdsuwwz/nextjs-nextra-starter>
 
+* **[RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](ai/rag/rag-status-template-excel-free-download-techno-pm.md)** (`template` | `useful` tier)
+  * Summary: Excel RAID Logs RAG RAG Status RAG Status Template RAG Status Template Excel Free Download Oct 21, 2023by Kishan Tambralli What is RAG Status? RAG is an acronym that stands for Red, Amber, and Green. RAG status comes into the picture when you track t
+  * Tags: `creative_dev`, `hackernews`, `rag`, `scripts`, `web-crawled`
+  * Source URL: <https://www.techno-pm.com/blogs/project-dashboard/rag-status-template-excel>
+
 * **[realstoman/react-tailwindcss-portfolio](web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)** (`template` | `useful` tier)
   * Summary: A simple React app that uses Context API, custom Hooks, Tailwind CSS & Framer Motion.
   * Tags: `animation`, `creative_dev`, `frontend_ui`
@@ -12178,6 +12208,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: All course files for the Framer Motion & React tutorial series on The Net Ninja YouTube channel.
   * Tags: `animation`, `frontend_ui`, `youtube`
   * Source URL: <https://github.com/iamshaunjp/framer-motion>
+
+* **[RAG Status Dashboard Roadmap Template - WordLayouts](ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)** (`template` | `useful` tier)
+  * Summary: 5 WhysChore ChartsColor WheelFamily TreeFishbone DiagramsGenogramsKanbanLogic ModelsMilitary Time ChartsRACIReflexologyRoadmapsRoot Cause AnalysisRubricSMART GoalsStool Color ChartsSWOTTimelineUrine Color ChartsVenn DiagramsWork Breakdown Structure (
+  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Source URL: <https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template>
+
+* **[RAG Status Reports, Dashboards, and Templates: Red Amber Green](ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)** (`template` | `useful` tier)
+  * Summary: Skip to navigation Skip to content My Account Currency Search for: Search Menu Templates Agile Planning Dashboards Excel Roadmaps Gantt Chart Procurement and Supply Chain Templates Product Management Project Management Roadmaps Discount Deals All in
+  * Tags: `creative_dev`, `rag`, `web-crawled`
+  * Source URL: <https://business-docs.co.uk/downloads/category/rag>
 
 ## Mcp Registry
 
@@ -12758,6 +12798,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.11915>
 
+* **[RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](ai/rag/rag-project-status-report-template-document-templa.md)** (`template` | `useful` tier)
+  * Summary: What Is A RAG Status Template?A RAG Status Template is a project management tool that uses a color-coded system to show the health of a project. RAG stands for Red, Amber, and Green. In project management RAG acts as a KPI traffic light: red is an al
+  * Tags: `rag`, `web-crawled`
+  * Source URL: <https://www.itsm-docs.com/en-gb/products/rag-status-template>
+
 * **[RAG System with LangChain and LangGraph - GeeksforGeeks](ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)** (`dataset` | `useful` tier)
   * Summary: CoursesTutorialsInterview PrepArtificial IntelligenceInterview QuestionsProject IdeasSearch AlgorithmsLocal Search AlgorithmGenerative AIData ScienceMachine LearningDeep LearningML-ProjectsRoboticsRAG System with LangChain and LangGraphLast Updated :
   * Tags: `agents`, `dataset`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -13027,6 +13072,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/nobruf/shadcn-landing-page>
 
+* **[RAG Status Template | Red, Amber, Green Status | Project Slides](ai/rag/rag-status-template-red-amber-green-status-project.md)** (`template` | `useful` tier)
+  * Summary: BusinessStartups & Pitch DecksSWOT AnalysisAnnual ReportBusiness StrategyBusiness AnalysisBusiness ModelsBusiness PlanBusiness ProcessProject ManagementMarketing & MediaAnalyticsDevices & MockupsFunnel TemplatesOnline MarketingPortfolioSocial MediaWe
+  * Tags: `creative_dev`, `hackernews`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://powerslides.com/powerpoint-business/project-management-templates/rag-status>
+
 * **[reliverse/relivator](web-development/nextjs/reliverse-relivator.md)** (`template` | `useful` tier)
   * Summary: 🏬 relivator: next.js 15 react 19 ecommerce template ▲ better-auth polar shadcn/ui tailwind drizzle orm typescript ts radix, postgres neon, app router saas commerce ecommerce shop pricing payments dark mode full stack free ⭐ more stars 👉 more features
   * Tags: `frontend_ui`
@@ -13213,6 +13263,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: On this pageOverviewConceptsPreviewSetupInstallationLangSmithComponents1. IndexingLoading documentsSplitting documentsStoring documents2. Retrieval and generationRAG agentsRAG chainsSecurity: indirect prompt injectionNext stepsTutorialsLangChainBuild
   * Tags: `agents`, `anthropic`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`
   * Source URL: <https://docs.langchain.com/oss/python/langchain/rag>
+
+* **[Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)** (`benchmark` | `useful` tier)
+  * Summary: How to Build a RAG Chatbot with Python and LangChain: Complete Tutorial (2026)Marcus ChenMarch 20, 2026AI & Machine Learning Marcus Chen March 20, 2026 25 min read Retrieval augmented generation (RAG) has become the go-to architecture for building AI
+  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial>
 
 * **[Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)** (`tutorial` | `useful` tier)
   * Summary: Build RAG From Scratch: A Beginner’s Step-by-Step GuideVivek Malhan4 min read·Dec 27, 2025--ListenSharePress enter or click to view image in full sizeMost AI demos look impressive — until you try to use them in production.They hallucinate. They guess
@@ -13533,6 +13588,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2512.22671v3 Announce Type: replace-cross Abstract: Structured width pruning of GLU-MLP layers in Llama-3.2 models, guided by the Peak-to-Peak Magnitude (PPM) criterion, reveals a systematic dichotomy in how reducing the expansion ratio affects
   * Tags: `benchmark`, `meta-ai`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2512.22671>
+
+* **[Free RAG Status Report Template to Edit Online](ai/rag/free-rag-status-report-template-to-edit-online.md)** (`template` | `useful` tier)
+  * Summary: Star this templateUnstar this templateShare to Social MediaBoost your project management efficiency with Template.net's RAG Status Report Template. This customizable and editable template offers a clear visual representation of project status using R
+  * Tags: `rag`, `reddit`, `web-crawled`
+  * Source URL: <https://www.template.net/edit-online/394147/rag-status-report>
 
 * **[From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI](ai/rag/arxiv-2606-14502.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14502v1 Announce Type: new Abstract: Large Language Models (LLMs) are undergoing a fundamental transformation from conversational generators into integrated AI systems capable of reasoning, action, memory, and self-improvement. We conceptu
@@ -14583,6 +14643,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: [ACL 2026] UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities
   * Tags: `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/wgcyeo/UniversalRAG>
+
+* **[What is RAG Status Reporting in Project Management? | PM Study Circle](ai/rag/what-is-rag-status-reporting-in-project-management.md)** (`tutorial` | `useful` tier)
+  * Summary: Many project managers report the project status as “Red,” “Amber,” or “Green,” which is commonly known as “RAG status reporting.” RAG status in project management helps the project manager visually share the project status with stakeholders. RAG Repo
+  * Tags: `frontend_ui`, `rag`, `web-crawled`
+  * Source URL: <https://pmstudycircle.com/rag-status-reporting>
 
 * **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (`benchmark` | `useful` tier)
   * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #rag #beginners #tutorial If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int

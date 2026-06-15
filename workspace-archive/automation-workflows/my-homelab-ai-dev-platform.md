@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rsgm. Score: 122, Comments: 32.
+Hacker News story by rsgm. Score: 202, Comments: 42.
 Original Link: https://rsgm.dev/post/ai-dev-platform/
 
 ## Use Cases

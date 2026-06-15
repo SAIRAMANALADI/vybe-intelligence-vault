@@ -23,9 +23,9 @@ Active signals: 467 resources matched in the intelligence vault.
 Recently detected signals:
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-15
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-15
-- [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) (Source: Unknown Source) - Collected 2026-06-15
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Learn more](../ai/companies/deepmind/learn-more.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H](../ai/agents/holo1-new-family-of-gui-automation-vlms-powering-g.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T19:11:45.547278+00:00.617377+00:00.257293+00:00.986132+00:00.653872+00:00.581235+00:00.630591+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.022161+00:00.547278+00:00.617377+00:00.257293+00:00.986132+00:00.653872+00:00.581235+00:00.630591+00:00.

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by tinywind. Score: 273, Comments: 55.
+Hacker News story by tinywind. Score: 527, Comments: 108.
 Original Link: https://tinywind.io
 
 ## Use Cases

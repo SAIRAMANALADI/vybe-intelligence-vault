@@ -44,31 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2568 |
-| Active resources | 2541 |
+| Resources tracked | 2581 |
+| Active resources | 2554 |
 | Inactive resources | 27 |
-| Archive files | 13396 |
+| Archive files | 13430 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 19:12 UTC |
+| Last meaningful update | 2026-06-15 23:11 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Rank: +3) (+108 points)
-- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Rank: +700)
-- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Rank: +674)
-- **[Google Colab](ai/rag/google-colab.md)** (Rank: +679)
-- **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (Rank: +682)
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (Rank: +2) (+327 points)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+254 points)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (+80 points)
+- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (Rank: +3) (+42 points)
+- **[RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)** (Rank: +2319)
 
 #### ✨ New Discoveries
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (Score: 273)
-- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (Score: 235)
-- **[Can Europe train a frontier AI model on the compute it owns?](ai/community/sammysltd-euromesh.md)** (Score: 65)
-- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (Score: 25)
+- **[Show HN: Vet turned founder, AI lawn diagnosis](ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)** (Score: 26)
+- **[Why I Email Complete Strangers](ai/community/why-i-email-complete-strangers.md)** (Score: 25)
+- **[Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](ai/rag/free-project-status-report-template-weekly-monthly.md)** (Score: 0)
+- **[RAG Status Template | Red, Amber, Green Status | Project Slides](ai/rag/rag-status-template-red-amber-green-status-project.md)** (Score: 0)
+- **[Free Project Status Report Template](ai/resources/free-project-status-report-template.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

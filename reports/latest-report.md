@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-15T19:12:17.265498+00:00`
+Generated at: `2026-06-15T23:11:19.000336+00:00`
 
 ## Executive Summary
 
@@ -8,36 +8,39 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)** - Score: `273` in category `ai/community` ([Link](https://tinywind.io)) ([File](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md))
-- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - Score: `235` in category `ai/community` ([Link](https://news.ycombinator.com/item?id=48542100)) ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
-- **Can Europe train a frontier AI model on the compute it owns?** - Score: `65` in category `ai/community` ([Link](https://github.com/sammysltd/euromesh)) ([File](../ai/community/sammysltd-euromesh.md))
-- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - Score: `25` in category `ai/community` ([Link](https://fata.dev)) ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
+- **Show HN: Vet turned founder, AI lawn diagnosis** - Score: `26` in category `ai/community` ([Link](https://grassdx.com)) ([File](../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md))
+- **Why I Email Complete Strangers** - Score: `25` in category `ai/community` ([Link](https://goodinternetmagazine.com/why-i-email-complete-strangers)) ([File](../ai/community/why-i-email-complete-strangers.md))
+- **Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs** - Score: `0` in category `ai/rag` ([Link](https://analysistabs.com/templates/project-status-report)) ([File](../ai/rag/free-project-status-report-template-weekly-monthly.md))
+- **RAG Status Template | Red, Amber, Green Status | Project Slides** - Score: `0` in category `ai/rag` ([Link](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) ([File](../ai/rag/rag-status-template-red-amber-green-status-project.md))
+- **Free Project Status Report Template** - Score: `0` in category `ai/resources` ([Link](https://safetyculture.com/checklists/operations/project-status-report)) ([File](../ai/resources/free-project-status-report-template.md))
+- **RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates** - Score: `0` in category `ai/rag` ([Link](https://itsm-docs.com/en-gb/products/rag-status-template)) ([File](../ai/rag/rag-project-status-report-template-document-templa.md))
+- **RAG Status Template (Word, Excel)** - Score: `0` in category `ai/rag` ([Link](https://mastt.com/resources/rag-status-template)) ([File](../ai/rag/rag-status-template-word-excel.md))
+- **RAG Status Dashboard Roadmap Template - WordLayouts** - Score: `0` in category `ai/rag` ([Link](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) ([File](../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md))
+- **Free RAG Status Report Template to Edit Online** - Score: `0` in category `ai/rag` ([Link](https://template.net/edit-online/394147/rag-status-report)) ([File](../ai/rag/free-rag-status-report-template-to-edit-online.md))
+- **RAG Status Reports, Dashboards, and Templates: Red Amber Green** - Score: `0` in category `ai/rag` ([Link](https://business-docs.co.uk/downloads/category/rag)) ([File](../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
+- **What is RAG Status Reporting in Project Management? | PM Study Circle** - Score: `0` in category `ai/rag` ([Link](https://pmstudycircle.com/rag-status-reporting)) ([File](../ai/rag/what-is-rag-status-reporting-in-project-management.md))
+- **RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download** - Score: `0` in category `ai/rag` ([Link](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) ([File](../ai/rag/rag-status-template-excel-free-download-techno-pm.md))
+- **Build a RAG Chatbot in 30 Min with Python + LangChain [2026]** - Score: `0` in category `ai/rag` ([Link](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) ([File](../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md))
 
 ## 🔥 Top Trending Resources
 
-- **My Homelab AI Dev Platform** - Score: `122` (+108), Rank Change: `+3` ([File](../ai/community/my-homelab-ai-dev-platform.md))
-- **infiniflow/ragflow** - Score: `0` (0), Rank Change: `+700` ([File](../ai/rag/infiniflow-ragflow.md))
-- **Code a simple RAG from scratch** - Score: `0` (0), Rank Change: `+674` ([File](../ai/rag/code-a-simple-rag-from-scratch.md))
-- **Google Colab** - Score: `0` (0), Rank Change: `+679` ([File](../ai/rag/google-colab.md))
-- **Build a RAG agent with LangChain - Docs by LangChain** - Score: `0` (0), Rank Change: `+682` ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - Score: `0` (0), Rank Change: `+691` ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
-- **7 Steps to Build a Simple RAG System from Scratch - KDnuggets** - Score: `0` (0), Rank Change: `+679` ([File](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - Score: `0` (0), Rank Change: `+671` ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+671` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
-- **Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium** - Score: `0` (0), Rank Change: `+693` ([File](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md))
+- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - Score: `562` (+327), Rank Change: `+2` ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
+- **TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)** - Score: `527` (+254), Rank Change: `0` ([File](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md))
+- **My Homelab AI Dev Platform** - Score: `202` (+80), Rank Change: `0` ([File](../ai/community/my-homelab-ai-dev-platform.md))
+- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - Score: `67` (+42), Rank Change: `+3` ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
+- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - Score: `0` (0), Rank Change: `+2319` ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
+- **Building a RAG Application - GeeksforGeeks** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+685` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - Score: `0` (0), Rank Change: `+729` ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **infiniflow/ragflow** - (Rank Change: `+700`) ([File](../ai/rag/infiniflow-ragflow.md))
-- **Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium** - (Rank Change: `+693`) ([File](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - (Rank Change: `+691`) ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
-- **Build a RAG agent with LangChain - Docs by LangChain** - (Rank Change: `+682`) ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
-- **Google Colab** - (Rank Change: `+679`) ([File](../ai/rag/google-colab.md))
-- **7 Steps to Build a Simple RAG System from Scratch - KDnuggets** - (Rank Change: `+679`) ([File](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md))
-- **LightRAG** - (Rank Change: `+676`) ([File](../ai/rag/lightrag.md))
-- **15 Best Open-Source RAG Frameworks in 2026** - (Rank Change: `+676`) ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
-- **Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech** - (Rank Change: `+675`) ([File](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md))
-- **Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium** - (Rank Change: `+675`) ([File](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md))
+- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - (Rank Change: `+2319`) ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
+- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+729`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+685`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - (Rank Change: `+3`) ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
+- **Building a RAG Application - GeeksforGeeks** - (Rank Change: `+3`) ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
+- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - (Rank Change: `+2`) ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
 
 ## 🔄 Essential Tier Transitions
 
