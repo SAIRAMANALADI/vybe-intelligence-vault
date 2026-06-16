@@ -10,11 +10,19 @@ on:
 jobs:
   validate:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Kolkata"
     steps:
       - name: Checkout Vault (PR Content)
         uses: actions/checkout@v4
         with:
           path: vault
+
+      - name: Verify Timezone & Print Current IST Time
+        run: |
+          echo "Timezone (TZ): $TZ"
+          echo "System Timezone: \$(date +%Z)"
+          echo "Current IST Time: \$(date)"
 
       - name: Resilient Checkout of Ingestion Engine (Scripts)
         env:

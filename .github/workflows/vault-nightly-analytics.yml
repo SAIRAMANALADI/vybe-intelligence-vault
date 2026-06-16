@@ -8,12 +8,20 @@ on:
 jobs:
   link-and-security-audit:
     runs-on: ubuntu-latest
+    env:
+      TZ: "Asia/Kolkata"
     steps:
       - name: Checkout Vault
         uses: actions/checkout@v4
         with:
           path: vault
           token: ${{ secrets.VAULT_GITHUB_TOKEN || github.token }}
+
+      - name: Verify Timezone & Print Current IST Time
+        run: |
+          echo "Timezone (TZ): $TZ"
+          echo "System Timezone: \$(date +%Z)"
+          echo "Current IST Time: \$(date)"
 
       - name: Resilient Checkout of Ingestion Engine (Scripts)
         env:
