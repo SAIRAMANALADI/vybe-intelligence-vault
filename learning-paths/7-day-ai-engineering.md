@@ -17,4 +17,4 @@ A working command line agent that calls external APIs, handles exceptions, and s
 
 ## Recommended Vault Resources
 *   Explore categories inside [workspace-archive/](../workspace-archive/README.md)
-*   Check curated lists under [best-of/](../workspace-archive/best-of/README.md)
+*   Check curated lists under best-of/

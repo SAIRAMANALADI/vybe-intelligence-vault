@@ -17,4 +17,4 @@ A responsive Next.js chatbot interface supporting text streaming and markdown bl
 
 ## Recommended Vault Resources
 *   Explore categories inside [workspace-archive/](../workspace-archive/README.md)
-*   Check curated lists under [best-of/](../workspace-archive/best-of/README.md)
+*   Check curated lists under best-of/
