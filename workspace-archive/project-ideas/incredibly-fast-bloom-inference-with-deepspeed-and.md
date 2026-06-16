@@ -3,7 +3,7 @@ title: Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-inference-pytorch-scripts
-local_vault_path: ai/models/huggingface-blog-bloom-inference-pytorch-scripts.md
+local_vault_path: ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:incredibly-fast-bloom-inference-with-deepspeed-and
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-pytorch-scripts
 
 ## Local Vault File
 
-Path: [incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md](file:///../../ai/models/huggingface-blog-bloom-inference-pytorch-scripts.md)
+Path: [incredibly-fast-bloom-inference-with-deepspeed-and-accelerate-9d8be8.md](file:///../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)

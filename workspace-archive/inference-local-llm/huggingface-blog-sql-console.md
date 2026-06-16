@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/sql-console
 resource_id: huggingface:blog/sql-console
-local_vault_path: ai/models/huggingface-blog-sql-console.md
+local_vault_path: ai/models/introducing-the-sql-console-on-datasets.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the SQL Console on Datasets
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/sql-console
 
 ## Local Vault File
 
-Path: [huggingface-blog-sql-console.md](file:///../../ai/models/huggingface-blog-sql-console.md)
+Path: [huggingface-blog-sql-console.md](file:///../../ai/models/introducing-the-sql-console-on-datasets.md)

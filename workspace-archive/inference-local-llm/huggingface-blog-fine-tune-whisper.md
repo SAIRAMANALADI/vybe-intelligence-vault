@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-whisper
 resource_id: huggingface:blog/fine-tune-whisper
-local_vault_path: ai/models/huggingface-blog-fine-tune-whisper.md
+local_vault_path: ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-whisper
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-whisper.md](file:///../../ai/models/huggingface-blog-fine-tune-whisper.md)
+Path: [huggingface-blog-fine-tune-whisper.md](file:///../../ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)

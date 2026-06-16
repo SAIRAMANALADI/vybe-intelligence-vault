@@ -3,7 +3,7 @@ title: Introducing TextImage Augmentation for Document Images
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/doc_aug_hf_alb
-local_vault_path: ai/models/huggingface-blog-doc-aug-hf-alb.md
+local_vault_path: ai/models/introducing-textimage-augmentation-for-document-im.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-textimage-augmentation-for-document-im
 ---
+
 
 
 # Introducing TextImage Augmentation for Document Images
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/doc_aug_hf_alb
 
 ## Local Vault File
 
-Path: [introducing-textimage-augmentation-for-document-images-8bc6e9.md](file:///../../ai/models/huggingface-blog-doc-aug-hf-alb.md)
+Path: [introducing-textimage-augmentation-for-document-images-8bc6e9.md](file:///../../ai/models/introducing-textimage-augmentation-for-document-im.md)

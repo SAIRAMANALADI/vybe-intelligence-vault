@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/qwen-3-chat-template-deep-dive
 resource_id: blog:the-4-things-qwen-3s-chat-template-teaches-us
-local_vault_path: ai/models/huggingface-blog-qwen-3-chat-template-deep-dive.md
+local_vault_path: ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/qwen-3-chat-template-deep-dive
 
 ## Local Vault File
 
-Path: [huggingface-blog-qwen-3-chat-template-deep-dive.md](file:///../../ai/models/huggingface-blog-qwen-3-chat-template-deep-dive.md)
+Path: [the-4-things-qwen-3s-chat-template-teaches-us.md](file:///../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)

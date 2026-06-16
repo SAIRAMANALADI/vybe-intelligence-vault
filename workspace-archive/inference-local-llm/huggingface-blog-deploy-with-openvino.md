@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-with-openvino
 resource_id: huggingface:blog/deploy-with-openvino
-local_vault_path: ai/models/huggingface-blog-deploy-with-openvino.md
+local_vault_path: ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Optimize and deploy with Optimum-Intel and OpenVINO GenAI
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deploy-with-openvino
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-with-openvino.md](file:///../../ai/models/huggingface-blog-deploy-with-openvino.md)
+Path: [huggingface-blog-deploy-with-openvino.md](file:///../../ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)

@@ -4,7 +4,7 @@ title: 'Cosmopedia: how to create large-scale synthetic data for pre-training La
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/cosmopedia
-local_vault_path: ai/models/huggingface-blog-cosmopedia.md
+local_vault_path: ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:cosmopedia-how-to-create-large-scale-synthetic-dat
 ---
+
 
 
 # Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/cosmopedia
 
 ## Local Vault File
 
-Path: [cosmopedia-how-to-create-large-scale-synthetic-data-for-pre-training-large-langu-78824c.md](file:///../../ai/models/huggingface-blog-cosmopedia.md)
+Path: [cosmopedia-how-to-create-large-scale-synthetic-data-for-pre-training-large-langu-78824c.md](file:///../../ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md)

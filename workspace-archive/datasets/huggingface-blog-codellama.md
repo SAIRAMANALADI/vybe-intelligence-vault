@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/codellama
 resource_id: huggingface:blog/codellama
-local_vault_path: ai/models/huggingface-blog-codellama.md
+local_vault_path: ai/models/code-llama-llama-2-learns-to-code.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Code Llama: Llama 2 learns to code
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [huggingface-blog-codellama.md](file:///../../ai/models/huggingface-blog-codellama.md)
+Path: [huggingface-blog-codellama.md](file:///../../ai/models/code-llama-llama-2-learns-to-code.md)

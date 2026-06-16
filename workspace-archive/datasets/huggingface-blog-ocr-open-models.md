@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ocr-open-models
 resource_id: huggingface:blog/ocr-open-models
-local_vault_path: ai/models/huggingface-blog-ocr-open-models.md
+local_vault_path: ai/models/supercharge-your-ocr-pipelines-with-open-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Supercharge your OCR Pipelines with Open Models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ocr-open-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-ocr-open-models.md](file:///../../ai/models/huggingface-blog-ocr-open-models.md)
+Path: [huggingface-blog-ocr-open-models.md](file:///../../ai/models/supercharge-your-ocr-pipelines-with-open-models.md)

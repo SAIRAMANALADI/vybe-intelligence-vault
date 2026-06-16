@@ -3,11 +3,12 @@ title: Parquet Content-Defined Chunking
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/parquet-cdc
-local_vault_path: ai/rag/huggingface-blog-parquet-cdc.md
+local_vault_path: ai/rag/parquet-content-defined-chunking.md
 tags:
 - rag
 resource_id: blog:parquet-content-defined-chunking
 ---
+
 
 
 

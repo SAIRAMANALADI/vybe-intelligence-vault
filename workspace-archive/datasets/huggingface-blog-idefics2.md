@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/idefics2
 resource_id: huggingface:blog/idefics2
-local_vault_path: ai/models/huggingface-blog-idefics2.md
+local_vault_path: ai/models/introducing-idefics2-a-powerful-8b-vision-language.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Idefics2: A Powerful 8B Vision-Language Model for the community
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/idefics2
 
 ## Local Vault File
 
-Path: [huggingface-blog-idefics2.md](file:///../../ai/models/huggingface-blog-idefics2.md)
+Path: [huggingface-blog-idefics2.md](file:///../../ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/snorkel-case-study
 resource_id: huggingface:blog/snorkel-case-study
-local_vault_path: ai/models/huggingface-blog-snorkel-case-study.md
+local_vault_path: ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Snorkel AI x Hugging Face: unlock foundation models for enterprises
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/snorkel-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-snorkel-case-study.md](file:///../../ai/models/huggingface-blog-snorkel-case-study.md)
+Path: [huggingface-blog-snorkel-case-study.md](file:///../../ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)

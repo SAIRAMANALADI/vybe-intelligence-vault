@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/unsloth-trl
 resource_id: huggingface:blog/unsloth-trl
-local_vault_path: ai/models/huggingface-blog-unsloth-trl.md
+local_vault_path: ai/models/make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Make LLM Fine-tuning 2x faster with Unsloth and 🤗 TRL
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/unsloth-trl
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsloth-trl.md](file:///../../ai/models/huggingface-blog-unsloth-trl.md)
+Path: [huggingface-blog-unsloth-trl.md](file:///../../ai/models/make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md)

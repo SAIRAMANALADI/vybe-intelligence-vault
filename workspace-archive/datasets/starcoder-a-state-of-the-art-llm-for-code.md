@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/starcoder
 resource_id: blog:starcoder-a-state-of-the-art-llm-for-code
-local_vault_path: ai/models/huggingface-blog-starcoder.md
+local_vault_path: ai/models/starcoder-a-state-of-the-art-llm-for-code.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starcoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-starcoder.md](file:///../../ai/models/huggingface-blog-starcoder.md)
+Path: [starcoder-a-state-of-the-art-llm-for-code.md](file:///../../ai/models/starcoder-a-state-of-the-art-llm-for-code.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/custom-cuda-kernels-agent-skills
 resource_id: huggingface:blog/custom-cuda-kernels-agent-skills
-local_vault_path: ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md
+local_vault_path: ai/models/custom-kernels-for-all-from-codex-and-claude.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Custom Kernels for All from Codex and Claude
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [huggingface-blog-custom-cuda-kernels-agent-skills.md](file:///../../ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md)
+Path: [huggingface-blog-custom-cuda-kernels-agent-skills.md](file:///../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)

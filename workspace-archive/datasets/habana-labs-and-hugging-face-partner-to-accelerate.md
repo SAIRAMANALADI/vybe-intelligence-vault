@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana
 resource_id: blog:habana-labs-and-hugging-face-partner-to-accelerate
-local_vault_path: ai/models/huggingface-blog-habana.md
+local_vault_path: ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana
 
 ## Local Vault File
 
-Path: [huggingface-blog-habana.md](file:///../../ai/models/huggingface-blog-habana.md)
+Path: [habana-labs-and-hugging-face-partner-to-accelerate.md](file:///../../ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md)

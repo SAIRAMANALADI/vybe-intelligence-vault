@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/aisheets
 resource_id: huggingface:blog/aisheets
-local_vault_path: ai/models/huggingface-blog-aisheets.md
+local_vault_path: ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Introducing AI Sheets: a tool to work with datasets using open AI models!
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: [huggingface-blog-aisheets.md](file:///../../ai/models/huggingface-blog-aisheets.md)
+Path: [huggingface-blog-aisheets.md](file:///../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)

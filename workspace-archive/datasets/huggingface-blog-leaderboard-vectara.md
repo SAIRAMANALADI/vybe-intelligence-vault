@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-vectara
 resource_id: huggingface:blog/leaderboard-vectara
-local_vault_path: ai/models/huggingface-blog-leaderboard-vectara.md
+local_vault_path: ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-vectara
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-vectara.md](file:///../../ai/models/huggingface-blog-leaderboard-vectara.md)
+Path: [huggingface-blog-leaderboard-vectara.md](file:///../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)

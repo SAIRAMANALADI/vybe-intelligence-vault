@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/endpoint-analytics
 resource_id: blog:the-new-and-fresh-analytics-in-inference-endpoints
-local_vault_path: ai/models/huggingface-blog-endpoint-analytics.md
+local_vault_path: ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/endpoint-analytics
 
 ## Local Vault File
 
-Path: [huggingface-blog-endpoint-analytics.md](file:///../../ai/models/huggingface-blog-endpoint-analytics.md)
+Path: [the-new-and-fresh-analytics-in-inference-endpoints.md](file:///../../ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-csearch
 resource_id: huggingface:blog/introducing-csearch
-local_vault_path: ai/models/huggingface-blog-introducing-csearch.md
+local_vault_path: ai/models/generating-human-level-text-with-contrastive-searc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Generating Human-level Text with Contrastive Search in Transformers 🤗
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/introducing-csearch
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-csearch.md](file:///../../ai/models/huggingface-blog-introducing-csearch.md)
+Path: [huggingface-blog-introducing-csearch.md](file:///../../ai/models/generating-human-level-text-with-contrastive-searc.md)

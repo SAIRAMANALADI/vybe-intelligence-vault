@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-docs-redesign
 resource_id: blog:making-sense-of-this-mess
-local_vault_path: ai/models/huggingface-blog-transformers-docs-redesign.md
+local_vault_path: ai/models/making-sense-of-this-mess.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-docs-redesign.md](file:///../../ai/models/huggingface-blog-transformers-docs-redesign.md)
+Path: [making-sense-of-this-mess.md](file:///../../ai/models/making-sense-of-this-mess.md)

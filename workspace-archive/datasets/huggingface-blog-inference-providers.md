@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers
 resource_id: huggingface:blog/inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers.md
+local_vault_path: ai/models/welcome-to-inference-providers-on-the-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Welcome to Inference Providers on the Hub 🔥
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers.md](file:///../../ai/models/huggingface-blog-inference-providers.md)
+Path: [huggingface-blog-inference-providers.md](file:///../../ai/models/welcome-to-inference-providers-on-the-hub.md)

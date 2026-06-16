@@ -4,7 +4,7 @@ title: Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-a
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/aivsai
-local_vault_path: ai/agents/huggingface-blog-aivsai.md
+local_vault_path: ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-ai-vs-ai-a-deep-reinforcement-learning
 ---
+
 
 
 
@@ -47,4 +48,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai/agents/huggingface-blog-aivsai.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning-multi-agents-competition-syst-d2f67a.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)

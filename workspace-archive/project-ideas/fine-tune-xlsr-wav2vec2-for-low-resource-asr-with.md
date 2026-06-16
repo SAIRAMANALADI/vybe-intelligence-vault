@@ -3,7 +3,7 @@ title: Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
-local_vault_path: ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md
+local_vault_path: ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tune-xlsr-wav2vec2-for-low-resource-asr-with
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
 
 ## Local Vault File
 
-Path: [fine-tune-xlsr-wav2vec2-for-low-resource-asr-with-transformers-b0a430.md](file:///../../ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md)
+Path: [fine-tune-xlsr-wav2vec2-for-low-resource-asr-with-transformers-b0a430.md](file:///../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)

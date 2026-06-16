@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sd_distillation
 resource_id: blog:open-sourcing-knowledge-distillation-code-and-weig
-local_vault_path: ai/models/huggingface-blog-sd-distillation.md
+local_vault_path: ai/models/open-sourcing-knowledge-distillation-code-and-weig.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sd_distillation
 
 ## Local Vault File
 
-Path: [huggingface-blog-sd-distillation.md](file:///../../ai/models/huggingface-blog-sd-distillation.md)
+Path: [open-sourcing-knowledge-distillation-code-and-weig.md](file:///../../ai/models/open-sourcing-knowledge-distillation-code-and-weig.md)

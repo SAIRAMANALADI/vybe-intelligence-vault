@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/constrained-beam-search
 resource_id: huggingface:blog/constrained-beam-search
-local_vault_path: ai/models/huggingface-blog-constrained-beam-search.md
+local_vault_path: ai/models/guiding-text-generation-with-constrained-beam-sear.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Guiding Text Generation with Constrained Beam Search in 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/constrained-beam-search
 
 ## Local Vault File
 
-Path: [huggingface-blog-constrained-beam-search.md](file:///../../ai/models/huggingface-blog-constrained-beam-search.md)
+Path: [huggingface-blog-constrained-beam-search.md](file:///../../ai/models/guiding-text-generation-with-constrained-beam-sear.md)

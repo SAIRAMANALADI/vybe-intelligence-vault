@@ -3,7 +3,7 @@ title: 'Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/vision-transformers
-local_vault_path: ai/models/huggingface-blog-vision-transformers.md
+local_vault_path: ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:deep-dive-vision-transformers-on-hugging-face-opti
 ---
+
 
 
 # Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/vision-transformers
 
 ## Local Vault File
 
-Path: [deep-dive-vision-transformers-on-hugging-face-optimum-graphcore-a34d18.md](file:///../../ai/models/huggingface-blog-vision-transformers.md)
+Path: [deep-dive-vision-transformers-on-hugging-face-optimum-graphcore-a34d18.md](file:///../../ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)

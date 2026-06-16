@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dell-enterprise-hub
 resource_id: huggingface:blog/dell-enterprise-hub
-local_vault_path: ai/models/huggingface-blog-dell-enterprise-hub.md
+local_vault_path: ai/models/build-ai-on-premise-with-dell-enterprise-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Build AI on premise with Dell Enterprise Hub
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dell-enterprise-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-dell-enterprise-hub.md](file:///../../ai/models/huggingface-blog-dell-enterprise-hub.md)
+Path: [huggingface-blog-dell-enterprise-hub.md](file:///../../ai/models/build-ai-on-premise-with-dell-enterprise-hub.md)

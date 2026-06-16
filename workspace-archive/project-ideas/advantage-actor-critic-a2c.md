@@ -3,7 +3,7 @@ title: Advantage Actor Critic (A2C)
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-a2c
-local_vault_path: ai/models/huggingface-blog-deep-rl-a2c.md
+local_vault_path: ai/models/advantage-actor-critic-a2c.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:advantage-actor-critic-a2c
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-a2c
 
 ## Local Vault File
 
-Path: [advantage-actor-critic-a2c-b4ec4e.md](file:///../../ai/models/huggingface-blog-deep-rl-a2c.md)
+Path: [advantage-actor-critic-a2c-b4ec4e.md](file:///../../ai/models/advantage-actor-critic-a2c.md)

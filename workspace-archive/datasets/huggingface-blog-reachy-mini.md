@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/reachy-mini
 resource_id: huggingface:blog/reachy-mini
-local_vault_path: ai/models/huggingface-blog-reachy-mini.md
+local_vault_path: ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-reachy-mini.md](file:///../../ai/models/huggingface-blog-reachy-mini.md)
+Path: [huggingface-blog-reachy-mini.md](file:///../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)

@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # On the Shifting Global Compute Landscape
 
 ## Why This Is In The Archive

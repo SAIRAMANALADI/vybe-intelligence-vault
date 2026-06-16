@@ -3,7 +3,7 @@ title: Deploying the AI Comic Factory using the Inference API
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-comic-factory
-local_vault_path: ai/models/huggingface-blog-ai-comic-factory.md
+local_vault_path: ai/models/deploying-the-ai-comic-factory-using-the-inference.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:deploying-the-ai-comic-factory-using-the-inference
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ai-comic-factory
 
 ## Local Vault File
 
-Path: [deploying-the-ai-comic-factory-using-the-inference-api-042d9c.md](file:///../../ai/models/huggingface-blog-ai-comic-factory.md)
+Path: [deploying-the-ai-comic-factory-using-the-inference-api-042d9c.md](file:///../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)

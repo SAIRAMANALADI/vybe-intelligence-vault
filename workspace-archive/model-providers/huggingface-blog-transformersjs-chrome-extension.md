@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformersjs-chrome-extension
 resource_id: huggingface:blog/transformersjs-chrome-extension
-local_vault_path: ai/models/huggingface-blog-transformersjs-chrome-extension.md
+local_vault_path: ai/models/how-to-use-transformers-js-in-a-chrome-extension.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How to Use Transformers.js in a Chrome Extension
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-chrome-extension
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-chrome-extension.md](file:///../../ai/models/huggingface-blog-transformersjs-chrome-extension.md)
+Path: [huggingface-blog-transformersjs-chrome-extension.md](file:///../../ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/unity-asr
 resource_id: huggingface:blog/unity-asr
-local_vault_path: ai/models/huggingface-blog-unity-asr.md
+local_vault_path: ai/models/ai-speech-recognition-in-unity.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI Speech Recognition in Unity
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/unity-asr
 
 ## Local Vault File
 
-Path: [huggingface-blog-unity-asr.md](file:///../../ai/models/huggingface-blog-unity-asr.md)
+Path: [huggingface-blog-unity-asr.md](file:///../../ai/models/ai-speech-recognition-in-unity.md)

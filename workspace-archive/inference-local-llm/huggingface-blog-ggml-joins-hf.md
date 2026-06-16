@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ggml-joins-hf
 resource_id: huggingface:blog/ggml-joins-hf
-local_vault_path: ai/models/huggingface-blog-ggml-joins-hf.md
+local_vault_path: ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # GGML and llama.cpp join HF to ensure the long-term progress of Local AI
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/ggml-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-ggml-joins-hf.md](file:///../../ai/models/huggingface-blog-ggml-joins-hf.md)
+Path: [huggingface-blog-ggml-joins-hf.md](file:///../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)

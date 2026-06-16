@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sasha-luccioni-interview
 resource_id: huggingface:blog/sasha-luccioni-interview
-local_vault_path: ai/models/huggingface-blog-sasha-luccioni-interview.md
+local_vault_path: ai/models/machine-learning-experts-sasha-luccioni.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Machine Learning Experts - Sasha Luccioni
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sasha-luccioni-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-sasha-luccioni-interview.md](file:///../../ai/models/huggingface-blog-sasha-luccioni-interview.md)
+Path: [huggingface-blog-sasha-luccioni-interview.md](file:///../../ai/models/machine-learning-experts-sasha-luccioni.md)

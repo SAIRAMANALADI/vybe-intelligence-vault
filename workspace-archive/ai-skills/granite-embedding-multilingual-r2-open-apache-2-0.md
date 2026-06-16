@@ -12,6 +12,7 @@ resource_id: blog:granite-embedding-multilingual-r2-open-apache-2-0
 
 
 
+
 # Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality
 
 ## Why This Is In The Archive

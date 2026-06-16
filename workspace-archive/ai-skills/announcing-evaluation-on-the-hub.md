@@ -3,9 +3,10 @@ title: Announcing Evaluation on the Hub
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/eval-on-the-hub
-local_vault_path: ai/models/huggingface-blog-eval-on-the-hub.md
+local_vault_path: ai/models/announcing-evaluation-on-the-hub.md
 resource_id: blog:announcing-evaluation-on-the-hub
 ---
+
 
 
 

@@ -4,7 +4,7 @@ title: 'A guide to setting up your own Hugging Face leaderboard: an end-to-end e
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-vectara
-local_vault_path: ai/models/huggingface-blog-leaderboard-vectara.md
+local_vault_path: ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:a-guide-to-setting-up-your-own-hugging-face-leader
 ---
+
 
 
 # A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-vectara
 
 ## Local Vault File
 
-Path: [a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md](file:///../../ai/models/huggingface-blog-leaderboard-vectara.md)
+Path: [a-guide-to-setting-up-your-own-hugging-face-leaderboard-an-end-to-end-example-wi-fb74ed.md](file:///../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)

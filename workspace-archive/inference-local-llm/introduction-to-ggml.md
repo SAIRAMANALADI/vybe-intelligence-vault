@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/introduction-to-ggml
 resource_id: blog:introduction-to-ggml
-local_vault_path: ai/models/huggingface-blog-introduction-to-ggml.md
+local_vault_path: ai/models/introduction-to-ggml.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introduction-to-ggml
 
 ## Local Vault File
 
-Path: [huggingface-blog-introduction-to-ggml.md](file:///../../ai/models/huggingface-blog-introduction-to-ggml.md)
+Path: [introduction-to-ggml.md](file:///../../ai/models/introduction-to-ggml.md)

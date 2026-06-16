@@ -4,9 +4,10 @@ title: 'Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluati
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-upstage
-local_vault_path: ai/models/huggingface-blog-leaderboard-upstage.md
+local_vault_path: ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md
 resource_id: blog:introducing-the-open-ko-llm-leaderboard-leading-th
 ---
+
 
 
 # Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem

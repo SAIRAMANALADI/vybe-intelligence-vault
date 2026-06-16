@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fastrtc
 resource_id: blog:fastrtc-the-real-time-communication-library-for-py
-local_vault_path: ai/models/huggingface-blog-fastrtc.md
+local_vault_path: ai/models/fastrtc-the-real-time-communication-library-for-py.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastrtc
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastrtc.md](file:///../../ai/models/huggingface-blog-fastrtc.md)
+Path: [fastrtc-the-real-time-communication-library-for-py.md](file:///../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)

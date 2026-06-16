@@ -3,9 +3,10 @@ title: Custom Kernels for All from Codex and Claude
 archive_category: agents
 source_category: ai/models
 source_url: https://huggingface.co/blog/custom-cuda-kernels-agent-skills
-local_vault_path: ai/models/huggingface-blog-custom-cuda-kernels-agent-skills.md
+local_vault_path: ai/models/custom-kernels-for-all-from-codex-and-claude.md
 resource_id: blog:custom-kernels-for-all-from-codex-and-claude
 ---
+
 
 
 

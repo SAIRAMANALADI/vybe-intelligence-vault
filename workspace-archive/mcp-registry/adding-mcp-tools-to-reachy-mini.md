@@ -4,7 +4,7 @@ archive_category: mcp-registry
 source_category: ai/models
 source_url: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 resource_id: blog:adding-mcp-tools-to-reachy-mini
-local_vault_path: ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md
+local_vault_path: ai/models/adding-mcp-tools-to-reachy-mini.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md)
+Path: [adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/adding-mcp-tools-to-reachy-mini.md)

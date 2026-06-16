@@ -11,6 +11,7 @@ resource_id: github:gnikoloff/webgpu-sponza-demo
 
 
 
+
 # gnikoloff/webgpu-sponza-demo
 
 ## Why This Is In The Archive

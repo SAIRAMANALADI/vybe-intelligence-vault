@@ -11,6 +11,7 @@ resource_id: github:szebniok/tree-sitter-wgsl
 
 
 
+
 # szebniok/tree-sitter-wgsl
 
 ## Why This Is In The Archive

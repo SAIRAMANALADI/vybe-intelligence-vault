@@ -3,11 +3,12 @@ title: 'Tiny Agents in Python: a MCP-powered agent in ~70 lines of code'
 archive_category: mcp-servers
 source_category: ai/agents
 source_url: https://huggingface.co/blog/python-tiny-agents
-local_vault_path: ai/agents/huggingface-blog-python-tiny-agents.md
+local_vault_path: ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md
 tags:
 - agents
 resource_id: blog:tiny-agents-in-python-a-mcp-powered-agent-in-70-li
 ---
+
 
 
 # Tiny Agents in Python: a MCP-powered agent in ~70 lines of code

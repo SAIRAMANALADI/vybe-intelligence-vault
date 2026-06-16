@@ -3,7 +3,7 @@ title: Space secrets security update
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/space-secrets-disclosure
-local_vault_path: ai/models/huggingface-blog-space-secrets-disclosure.md
+local_vault_path: ai/models/space-secrets-security-update.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:space-secrets-security-update
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/space-secrets-disclosure
 
 ## Local Vault File
 
-Path: [space-secrets-security-update-fed6fd.md](file:///../../ai/models/huggingface-blog-space-secrets-disclosure.md)
+Path: [space-secrets-security-update-fed6fd.md](file:///../../ai/models/space-secrets-security-update.md)

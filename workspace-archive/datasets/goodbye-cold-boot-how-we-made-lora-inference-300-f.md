@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora-adapters-dynamic-loading
 resource_id: blog:goodbye-cold-boot-how-we-made-lora-inference-300-f
-local_vault_path: ai/models/huggingface-blog-lora-adapters-dynamic-loading.md
+local_vault_path: ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-adapters-dynamic-loading
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora-adapters-dynamic-loading.md](file:///../../ai/models/huggingface-blog-lora-adapters-dynamic-loading.md)
+Path: [goodbye-cold-boot-how-we-made-lora-inference-300-f.md](file:///../../ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)

@@ -3,9 +3,10 @@ title: Generate Images with Claude and Hugging Face
 archive_category: mcp-servers
 source_category: ai/models
 source_url: https://huggingface.co/blog/claude-and-mcp
-local_vault_path: ai/models/huggingface-blog-claude-and-mcp.md
+local_vault_path: ai/models/generate-images-with-claude-and-hugging-face.md
 resource_id: blog:generate-images-with-claude-and-hugging-face
 ---
+
 
 
 

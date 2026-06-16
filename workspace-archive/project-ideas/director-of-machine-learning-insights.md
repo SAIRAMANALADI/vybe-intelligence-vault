@@ -3,7 +3,7 @@ title: Director of Machine Learning Insights
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights
-local_vault_path: ai/models/huggingface-blog-ml-director-insights.md
+local_vault_path: ai/models/director-of-machine-learning-insights.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:director-of-machine-learning-insights
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights
 
 ## Local Vault File
 
-Path: [director-of-machine-learning-insights-603a94.md](file:///../../ai/models/huggingface-blog-ml-director-insights.md)
+Path: [director-of-machine-learning-insights-603a94.md](file:///../../ai/models/director-of-machine-learning-insights.md)

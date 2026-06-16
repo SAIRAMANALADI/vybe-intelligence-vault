@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/riskrubric
 resource_id: huggingface:blog/riskrubric
-local_vault_path: ai/models/huggingface-blog-riskrubric.md
+local_vault_path: ai/models/democratizing-ai-safety-with-riskrubric-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Democratizing AI Safety with RiskRubric.ai
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/riskrubric
 
 ## Local Vault File
 
-Path: [huggingface-blog-riskrubric.md](file:///../../ai/models/huggingface-blog-riskrubric.md)
+Path: [huggingface-blog-riskrubric.md](file:///../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)

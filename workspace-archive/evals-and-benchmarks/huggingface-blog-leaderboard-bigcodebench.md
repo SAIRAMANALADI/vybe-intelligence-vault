@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-bigcodebench
 resource_id: huggingface:blog/leaderboard-bigcodebench
-local_vault_path: ai/models/huggingface-blog-leaderboard-bigcodebench.md
+local_vault_path: ai/models/bigcodebench-the-next-generation-of-humaneval.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # BigCodeBench: The Next Generation of HumanEval
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-bigcodebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-bigcodebench.md](file:///../../ai/models/huggingface-blog-leaderboard-bigcodebench.md)
+Path: [huggingface-blog-leaderboard-bigcodebench.md](file:///../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)

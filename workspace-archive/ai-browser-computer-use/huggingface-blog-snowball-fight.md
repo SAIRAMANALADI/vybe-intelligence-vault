@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/snowball-fight
 resource_id: huggingface:blog/snowball-fight
-local_vault_path: ai/agents/huggingface-blog-snowball-fight.md
+local_vault_path: ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Snowball Fight ☃️, our first ML-Agents environment
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/snowball-fight
 
 ## Local Vault File
 
-Path: [huggingface-blog-snowball-fight.md](file:///../../ai/agents/huggingface-blog-snowball-fight.md)
+Path: [huggingface-blog-snowball-fight.md](file:///../../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)

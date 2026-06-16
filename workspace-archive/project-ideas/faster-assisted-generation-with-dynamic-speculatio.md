@@ -3,7 +3,7 @@ title: Faster Assisted Generation with Dynamic Speculation
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/dynamic_speculation_lookahead
-local_vault_path: ai/models/huggingface-blog-dynamic-speculation-lookahead.md
+local_vault_path: ai/models/faster-assisted-generation-with-dynamic-speculatio.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:faster-assisted-generation-with-dynamic-speculatio
 ---
+
 
 
 # Faster Assisted Generation with Dynamic Speculation
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/dynamic_speculation_lookahead
 
 ## Local Vault File
 
-Path: [faster-assisted-generation-with-dynamic-speculation-c63dbb.md](file:///../../ai/models/huggingface-blog-dynamic-speculation-lookahead.md)
+Path: [faster-assisted-generation-with-dynamic-speculation-c63dbb.md](file:///../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)

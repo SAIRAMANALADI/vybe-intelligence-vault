@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable_diffusion
 resource_id: huggingface:blog/stable_diffusion
-local_vault_path: ai/models/huggingface-blog-stable-diffusion.md
+local_vault_path: ai/models/stable-diffusion-with-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Stable Diffusion with 🧨 Diffusers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion.md](file:///../../ai/models/huggingface-blog-stable-diffusion.md)
+Path: [huggingface-blog-stable-diffusion.md](file:///../../ai/models/stable-diffusion-with-diffusers.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformersjs-v3
 resource_id: huggingface:blog/transformersjs-v3
-local_vault_path: ai/models/huggingface-blog-transformersjs-v3.md
+local_vault_path: ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-v3.md](file:///../../ai/models/huggingface-blog-transformersjs-v3.md)
+Path: [huggingface-blog-transformersjs-v3.md](file:///../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)

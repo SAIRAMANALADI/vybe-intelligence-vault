@@ -3,7 +3,7 @@ title: Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/logits-processor-zoo
-local_vault_path: ai/models/huggingface-blog-logits-processor-zoo.md
+local_vault_path: ai/models/controlling-language-model-generation-with-nvidia.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:controlling-language-model-generation-with-nvidia
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/logits-processor-zoo
 
 ## Local Vault File
 
-Path: [controlling-language-model-generation-with-nvidia-s-logitsprocessorzoo-2a7f4a.md](file:///../../ai/models/huggingface-blog-logits-processor-zoo.md)
+Path: [controlling-language-model-generation-with-nvidia-s-logitsprocessorzoo-2a7f4a.md](file:///../../ai/models/controlling-language-model-generation-with-nvidia.md)

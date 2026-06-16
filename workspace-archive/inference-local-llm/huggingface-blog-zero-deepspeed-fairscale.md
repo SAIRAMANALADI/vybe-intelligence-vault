@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-deepspeed-fairscale
 resource_id: huggingface:blog/zero-deepspeed-fairscale
-local_vault_path: ai/models/huggingface-blog-zero-deepspeed-fairscale.md
+local_vault_path: ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fit More and Train Faster With ZeRO via DeepSpeed and FairScale
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/zero-deepspeed-fairscale
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-deepspeed-fairscale.md](file:///../../ai/models/huggingface-blog-zero-deepspeed-fairscale.md)
+Path: [huggingface-blog-zero-deepspeed-fairscale.md](file:///../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)

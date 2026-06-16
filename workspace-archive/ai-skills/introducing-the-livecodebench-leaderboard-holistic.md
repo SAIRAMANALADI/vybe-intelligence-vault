@@ -4,9 +4,10 @@ title: Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Fr
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-livecodebench
-local_vault_path: ai/models/huggingface-blog-leaderboard-livecodebench.md
+local_vault_path: ai/models/introducing-the-livecodebench-leaderboard-holistic.md
 resource_id: blog:introducing-the-livecodebench-leaderboard-holistic
 ---
+
 
 
 

@@ -3,7 +3,7 @@ title: Docmatix - a huge dataset for Document Visual Question Answering
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/docmatix
-local_vault_path: ai/models/huggingface-blog-docmatix.md
+local_vault_path: ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:docmatix-a-huge-dataset-for-document-visual-questi
 ---
+
 
 
 # Docmatix - a huge dataset for Document Visual Question Answering
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/docmatix
 
 ## Local Vault File
 
-Path: [docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md](file:///../../ai/models/huggingface-blog-docmatix.md)
+Path: [docmatix-a-huge-dataset-for-document-visual-question-answering-e9bc3b.md](file:///../../ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)

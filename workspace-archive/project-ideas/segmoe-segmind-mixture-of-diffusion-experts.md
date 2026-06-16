@@ -3,7 +3,7 @@ title: 'SegMoE: Segmind Mixture of Diffusion Experts'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/segmoe
-local_vault_path: ai/models/huggingface-blog-segmoe.md
+local_vault_path: ai/models/segmoe-segmind-mixture-of-diffusion-experts.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:segmoe-segmind-mixture-of-diffusion-experts
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/segmoe
 
 ## Local Vault File
 
-Path: [segmoe-segmind-mixture-of-diffusion-experts-8fd960.md](file:///../../ai/models/huggingface-blog-segmoe.md)
+Path: [segmoe-segmind-mixture-of-diffusion-experts-8fd960.md](file:///../../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)

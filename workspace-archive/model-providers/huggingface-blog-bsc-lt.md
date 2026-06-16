@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/bsc-lt
 resource_id: huggingface:blog/bsc-lt
-local_vault_path: ai/models/huggingface-blog-bsc-lt.md
+local_vault_path: ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bsc-lt
 
 ## Local Vault File
 
-Path: [huggingface-blog-bsc-lt.md](file:///../../ai/models/huggingface-blog-bsc-lt.md)
+Path: [huggingface-blog-bsc-lt.md](file:///../../ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md)

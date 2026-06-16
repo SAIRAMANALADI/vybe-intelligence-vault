@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dreambooth
 resource_id: huggingface:blog/dreambooth
-local_vault_path: ai/models/huggingface-blog-dreambooth.md
+local_vault_path: ai/models/training-stable-diffusion-with-dreambooth-using-di.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Training Stable Diffusion with Dreambooth using Diffusers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dreambooth
 
 ## Local Vault File
 
-Path: [huggingface-blog-dreambooth.md](file:///../../ai/models/huggingface-blog-dreambooth.md)
+Path: [huggingface-blog-dreambooth.md](file:///../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)

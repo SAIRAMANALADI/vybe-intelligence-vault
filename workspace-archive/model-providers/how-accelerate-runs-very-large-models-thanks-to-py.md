@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-large-models
 resource_id: blog:how-accelerate-runs-very-large-models-thanks-to-py
-local_vault_path: ai/models/huggingface-blog-accelerate-large-models.md
+local_vault_path: ai/models/how-accelerate-runs-very-large-models-thanks-to-py.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-large-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-large-models.md](file:///../../ai/models/huggingface-blog-accelerate-large-models.md)
+Path: [how-accelerate-runs-very-large-models-thanks-to-py.md](file:///../../ai/models/how-accelerate-runs-very-large-models-thanks-to-py.md)

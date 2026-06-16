@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/blip-2
 resource_id: huggingface:blog/blip-2
-local_vault_path: ai/models/huggingface-blog-blip-2.md
+local_vault_path: ai/models/zero-shot-image-to-text-generation-with-blip-2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Zero-shot image-to-text generation with BLIP-2
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/blip-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-blip-2.md](file:///../../ai/models/huggingface-blog-blip-2.md)
+Path: [huggingface-blog-blip-2.md](file:///../../ai/models/zero-shot-image-to-text-generation-with-blip-2.md)

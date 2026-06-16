@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/reformer
 resource_id: blog:the-reformer-pushing-the-limits-of-language-modeli
-local_vault_path: ai/models/huggingface-blog-reformer.md
+local_vault_path: ai/models/the-reformer-pushing-the-limits-of-language-modeli.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-reformer.md](file:///../../ai/models/huggingface-blog-reformer.md)
+Path: [the-reformer-pushing-the-limits-of-language-modeli.md](file:///../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)

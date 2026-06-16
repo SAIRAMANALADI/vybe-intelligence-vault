@@ -4,7 +4,7 @@ title: Why we’re switching to Hugging Face Inference Endpoints, and maybe you 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/mantis-case-study
-local_vault_path: ai/models/huggingface-blog-mantis-case-study.md
+local_vault_path: ai/models/why-were-switching-to-hugging-face-inference-endpo.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:why-were-switching-to-hugging-face-inference-endpo
 ---
+
 
 
 # Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/mantis-case-study
 
 ## Local Vault File
 
-Path: [why-were-switching-to-hugging-face-inference-endpoints-and-maybe-you-should-too-4ebb3a.md](file:///../../ai/models/huggingface-blog-mantis-case-study.md)
+Path: [why-were-switching-to-hugging-face-inference-endpoints-and-maybe-you-should-too-4ebb3a.md](file:///../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)

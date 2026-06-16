@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-tts
 resource_id: huggingface:blog/arena-tts
-local_vault_path: ai/models/huggingface-blog-arena-tts.md
+local_vault_path: ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # TTS Arena: Benchmarking Text-to-Speech Models in the Wild
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-tts.md](file:///../../ai/models/huggingface-blog-arena-tts.md)
+Path: [huggingface-blog-arena-tts.md](file:///../../ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md)

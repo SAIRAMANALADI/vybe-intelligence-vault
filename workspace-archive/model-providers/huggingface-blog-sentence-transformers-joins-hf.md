@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentence-transformers-joins-hf
 resource_id: huggingface:blog/sentence-transformers-joins-hf
-local_vault_path: ai/models/huggingface-blog-sentence-transformers-joins-hf.md
+local_vault_path: ai/models/sentence-transformers-is-joining-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Sentence Transformers is joining Hugging Face!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentence-transformers-joins-hf.md](file:///../../ai/models/huggingface-blog-sentence-transformers-joins-hf.md)
+Path: [huggingface-blog-sentence-transformers-joins-hf.md](file:///../../ai/models/sentence-transformers-is-joining-hugging-face.md)

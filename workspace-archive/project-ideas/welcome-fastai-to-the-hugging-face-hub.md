@@ -3,7 +3,7 @@ title: Welcome fastai to the Hugging Face Hub
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/fastai
-local_vault_path: ai/models/huggingface-blog-fastai.md
+local_vault_path: ai/models/welcome-fastai-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-fastai-to-the-hugging-face-hub
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai/models/huggingface-blog-fastai.md)
+Path: [welcome-fastai-to-the-hugging-face-hub-cb003f.md](file:///../../ai/models/welcome-fastai-to-the-hugging-face-hub.md)

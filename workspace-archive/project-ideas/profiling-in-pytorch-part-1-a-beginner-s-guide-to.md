@@ -3,7 +3,7 @@ title: 'Profiling in PyTorch (Part 1): A Beginner''s Guide to torch.profiler'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/torch-profiler
-local_vault_path: ai/models/huggingface-blog-torch-profiler.md
+local_vault_path: ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:profiling-in-pytorch-part-1-a-beginner-s-guide-to
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/torch-profiler
 
 ## Local Vault File
 
-Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to-torch-profiler-442e91.md](file:///../../ai/models/huggingface-blog-torch-profiler.md)
+Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to-torch-profiler-442e91.md](file:///../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)

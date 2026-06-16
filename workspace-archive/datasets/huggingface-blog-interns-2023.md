@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/interns-2023
 resource_id: huggingface:blog/interns-2023
-local_vault_path: ai/models/huggingface-blog-interns-2023.md
+local_vault_path: ai/models/we-are-hiring-interns.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # We are hiring interns!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/interns-2023
 
 ## Local Vault File
 
-Path: [huggingface-blog-interns-2023.md](file:///../../ai/models/huggingface-blog-interns-2023.md)
+Path: [huggingface-blog-interns-2023.md](file:///../../ai/models/we-are-hiring-interns.md)

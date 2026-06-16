@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/async-rl-training-landscape
 resource_id: huggingface:blog/async-rl-training-landscape
-local_vault_path: ai/models/huggingface-blog-async-rl-training-landscape.md
+local_vault_path: ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/async-rl-training-landscape
 
 ## Local Vault File
 
-Path: [huggingface-blog-async-rl-training-landscape.md](file:///../../ai/models/huggingface-blog-async-rl-training-landscape.md)
+Path: [huggingface-blog-async-rl-training-landscape.md](file:///../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)

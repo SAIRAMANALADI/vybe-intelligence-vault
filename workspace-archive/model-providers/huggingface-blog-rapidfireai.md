@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/rapidfireai
 resource_id: huggingface:blog/rapidfireai
-local_vault_path: ai/models/huggingface-blog-rapidfireai.md
+local_vault_path: ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 20x Faster TRL Fine-tuning with RapidFire AI
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/rapidfireai
 
 ## Local Vault File
 
-Path: [huggingface-blog-rapidfireai.md](file:///../../ai/models/huggingface-blog-rapidfireai.md)
+Path: [huggingface-blog-rapidfireai.md](file:///../../ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md)

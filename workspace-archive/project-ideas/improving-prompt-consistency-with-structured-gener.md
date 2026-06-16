@@ -3,7 +3,7 @@ title: Improving Prompt Consistency with Structured Generations
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/evaluation-structured-outputs
-local_vault_path: ai/models/huggingface-blog-evaluation-structured-outputs.md
+local_vault_path: ai/models/improving-prompt-consistency-with-structured-gener.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:improving-prompt-consistency-with-structured-gener
 ---
+
 
 
 # Improving Prompt Consistency with Structured Generations
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/evaluation-structured-outputs
 
 ## Local Vault File
 
-Path: [improving-prompt-consistency-with-structured-generations-6453cf.md](file:///../../ai/models/huggingface-blog-evaluation-structured-outputs.md)
+Path: [improving-prompt-consistency-with-structured-generations-6453cf.md](file:///../../ai/models/improving-prompt-consistency-with-structured-gener.md)

@@ -3,7 +3,7 @@ title: Building the Hugging Face MCP Server
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/building-hf-mcp
-local_vault_path: ai/models/huggingface-blog-building-hf-mcp.md
+local_vault_path: ai/models/building-the-hugging-face-mcp-server.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Useful for project building
 resource_id: blog:building-the-hugging-face-mcp-server
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [building-the-hugging-face-mcp-server-10269f.md](file:///../../ai/models/huggingface-blog-building-hf-mcp.md)
+Path: [building-the-hugging-face-mcp-server-10269f.md](file:///../../ai/models/building-the-hugging-face-mcp-server.md)

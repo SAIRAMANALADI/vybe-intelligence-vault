@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/winning-aimo-progress-prize
 resource_id: huggingface:blog/winning-aimo-progress-prize
-local_vault_path: ai/models/huggingface-blog-winning-aimo-progress-prize.md
+local_vault_path: ai/models/how-numinamath-won-the-1st-aimo-progress-prize.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How NuminaMath Won the 1st AIMO Progress Prize
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/winning-aimo-progress-prize
 
 ## Local Vault File
 
-Path: [huggingface-blog-winning-aimo-progress-prize.md](file:///../../ai/models/huggingface-blog-winning-aimo-progress-prize.md)
+Path: [huggingface-blog-winning-aimo-progress-prize.md](file:///../../ai/models/how-numinamath-won-the-1st-aimo-progress-prize.md)

@@ -4,7 +4,7 @@ title: CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity R
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-llamaguard
-local_vault_path: ai/models/huggingface-blog-leaderboard-llamaguard.md
+local_vault_path: ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Useful for project building
 resource_id: blog:cyberseceval-2-a-comprehensive-evaluation-framewor
 ---
+
 
 
 # CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md](file:///../../ai/models/huggingface-blog-leaderboard-llamaguard.md)
+Path: [cyberseceval-2-a-comprehensive-evaluation-framework-for-cybersecurity-risks-and-762925.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)

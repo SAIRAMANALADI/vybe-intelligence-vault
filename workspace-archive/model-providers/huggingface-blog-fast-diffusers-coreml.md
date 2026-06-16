@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fast-diffusers-coreml
 resource_id: huggingface:blog/fast-diffusers-coreml
-local_vault_path: ai/models/huggingface-blog-fast-diffusers-coreml.md
+local_vault_path: ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fast-diffusers-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-fast-diffusers-coreml.md](file:///../../ai/models/huggingface-blog-fast-diffusers-coreml.md)
+Path: [huggingface-blog-fast-diffusers-coreml.md](file:///../../ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)

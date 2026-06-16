@@ -3,9 +3,10 @@ title: Train 400x faster Static Embedding Models with Sentence Transformers
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/static-embeddings
-local_vault_path: ai/models/huggingface-blog-static-embeddings.md
+local_vault_path: ai/models/train-400x-faster-static-embedding-models-with-sen.md
 resource_id: blog:train-400x-faster-static-embedding-models-with-sen
 ---
+
 
 
 # Train 400x faster Static Embedding Models with Sentence Transformers

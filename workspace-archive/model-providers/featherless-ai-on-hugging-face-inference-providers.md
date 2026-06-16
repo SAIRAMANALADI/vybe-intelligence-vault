@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-featherless
 resource_id: blog:featherless-ai-on-hugging-face-inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers-featherless.md
+local_vault_path: ai/models/featherless-ai-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-featherless
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-featherless.md](file:///../../ai/models/huggingface-blog-inference-providers-featherless.md)
+Path: [featherless-ai-on-hugging-face-inference-providers.md](file:///../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)

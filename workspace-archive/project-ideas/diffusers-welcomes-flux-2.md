@@ -3,7 +3,7 @@ title: Diffusers welcomes FLUX-2
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/flux-2
-local_vault_path: ai/models/huggingface-blog-flux-2.md
+local_vault_path: ai/models/diffusers-welcomes-flux-2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:diffusers-welcomes-flux-2
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/flux-2
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-flux-2-f3064e.md](file:///../../ai/models/huggingface-blog-flux-2.md)
+Path: [diffusers-welcomes-flux-2-f3064e.md](file:///../../ai/models/diffusers-welcomes-flux-2.md)

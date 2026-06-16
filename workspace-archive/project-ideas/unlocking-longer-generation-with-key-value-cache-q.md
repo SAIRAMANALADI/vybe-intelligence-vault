@@ -3,7 +3,7 @@ title: Unlocking Longer Generation with Key-Value Cache Quantization
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/kv-cache-quantization
-local_vault_path: ai/models/huggingface-blog-kv-cache-quantization.md
+local_vault_path: ai/models/unlocking-longer-generation-with-key-value-cache-q.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:unlocking-longer-generation-with-key-value-cache-q
 ---
+
 
 
 # Unlocking Longer Generation with Key-Value Cache Quantization
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/kv-cache-quantization
 
 ## Local Vault File
 
-Path: [unlocking-longer-generation-with-key-value-cache-quantization-5b1fdc.md](file:///../../ai/models/huggingface-blog-kv-cache-quantization.md)
+Path: [unlocking-longer-generation-with-key-value-cache-quantization-5b1fdc.md](file:///../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)

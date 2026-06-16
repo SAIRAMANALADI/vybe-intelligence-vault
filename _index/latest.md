@@ -212,45 +212,45 @@ The 50 newest resources collected across the intelligence vault.
 - **Collected At**: 2026-06-16T04:26:32.176140+00:00
 - **Local Path**: `ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md`
 
-### 43. [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md) ([Source URL](https://anthropic.com/news/claude-fable-5-mythos-5))
-- **Category**: ai/companies/anthropic
-- **Collected At**: 2026-06-16T04:26:32.176112+00:00
-- **Local Path**: `ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md`
-
-### 44. [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md) ([Source URL](https://anthropic.com/news/dxc-anthropic-alliance))
+### 43. [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md) ([Source URL](https://anthropic.com/news/dxc-anthropic-alliance))
 - **Category**: ai/companies/anthropic
 - **Collected At**: 2026-06-16T04:26:32.176070+00:00
 - **Local Path**: `ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md`
 
-### 45. [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md) ([Source URL](https://anthropic.com/news/tcs-anthropic-partnership))
+### 44. [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md) ([Source URL](https://anthropic.com/news/tcs-anthropic-partnership))
 - **Category**: ai/companies/anthropic
 - **Collected At**: 2026-06-16T04:26:32.176037+00:00
 - **Local Path**: `ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md`
 
-### 46. [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md) ([Source URL](https://anthropic.com/news/anthropic-public-record))
+### 45. [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md) ([Source URL](https://anthropic.com/news/anthropic-public-record))
 - **Category**: ai/companies/anthropic
 - **Collected At**: 2026-06-16T04:26:32.175979+00:00
 - **Local Path**: `ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md`
 
-### 47. [Applied AI](../ai/companies/openai/applied-ai.md) ([Source URL](https://openai.com/news/applied-ai))
+### 46. [Applied AI](../ai/companies/openai/applied-ai.md) ([Source URL](https://openai.com/news/applied-ai))
 - **Category**: ai/companies/openai
 - **Collected At**: 2026-06-16T04:26:31.360519+00:00
 - **Local Path**: `ai/companies/openai/applied-ai.md`
 
-### 48. [AI Adoption](../ai/companies/openai/ai-adoption.md) ([Source URL](https://openai.com/news/ai-adoption))
+### 47. [AI Adoption](../ai/companies/openai/ai-adoption.md) ([Source URL](https://openai.com/news/ai-adoption))
 - **Category**: ai/companies/openai
 - **Collected At**: 2026-06-16T04:26:31.360493+00:00
 - **Local Path**: `ai/companies/openai/ai-adoption.md`
 
-### 49. [Global Affairs](../ai/companies/openai/global-affairs.md) ([Source URL](https://openai.com/news/global-affairs))
+### 48. [Global Affairs](../ai/companies/openai/global-affairs.md) ([Source URL](https://openai.com/news/global-affairs))
 - **Category**: ai/companies/openai
 - **Collected At**: 2026-06-16T04:26:31.360461+00:00
 - **Local Path**: `ai/companies/openai/global-affairs.md`
 
-### 50. [Engineering](../ai/companies/openai/engineering.md) ([Source URL](https://openai.com/news/engineering))
+### 49. [Engineering](../ai/companies/openai/engineering.md) ([Source URL](https://openai.com/news/engineering))
 - **Category**: ai/companies/openai
 - **Collected At**: 2026-06-16T04:26:31.360398+00:00
 - **Local Path**: `ai/companies/openai/engineering.md`
 
+### 50. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source URL](https://fata.dev))
+- **Category**: ai/community
+- **Collected At**: 2026-06-16T04:26:26.118771+00:00
+- **Local Path**: `ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md`
+
 ---
-*Index generated on 2026-06-16T04:29:03.401578+00:00*
+*Index generated on 2026-06-16T10:43:36.023274+05:30*

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-your-controlnet
 resource_id: blog:train-your-controlnet-with-diffusers
-local_vault_path: ai/models/huggingface-blog-train-your-controlnet.md
+local_vault_path: ai/models/train-your-controlnet-with-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-your-controlnet
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-your-controlnet.md](file:///../../ai/models/huggingface-blog-train-your-controlnet.md)
+Path: [train-your-controlnet-with-diffusers.md](file:///../../ai/models/train-your-controlnet-with-diffusers.md)

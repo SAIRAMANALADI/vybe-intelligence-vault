@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights
 resource_id: blog:director-of-machine-learning-insights
-local_vault_path: ai/models/huggingface-blog-ml-director-insights.md
+local_vault_path: ai/models/director-of-machine-learning-insights.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-director-insights.md](file:///../../ai/models/huggingface-blog-ml-director-insights.md)
+Path: [director-of-machine-learning-insights.md](file:///../../ai/models/director-of-machine-learning-insights.md)

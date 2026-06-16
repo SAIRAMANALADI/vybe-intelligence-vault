@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-mcp-updates
 resource_id: blog:five-big-improvements-to-gradio-mcp-servers
-local_vault_path: ai/models/huggingface-blog-gradio-mcp-updates.md
+local_vault_path: ai/models/five-big-improvements-to-gradio-mcp-servers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-updates
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-mcp-updates.md](file:///../../ai/models/huggingface-blog-gradio-mcp-updates.md)
+Path: [five-big-improvements-to-gradio-mcp-servers.md](file:///../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)

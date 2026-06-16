@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-update
 resource_id: blog:an-overview-of-inference-solutions-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-inference-update.md
+local_vault_path: ai/models/an-overview-of-inference-solutions-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-update.md](file:///../../ai/models/huggingface-blog-inference-update.md)
+Path: [an-overview-of-inference-solutions-on-hugging-face.md](file:///../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)

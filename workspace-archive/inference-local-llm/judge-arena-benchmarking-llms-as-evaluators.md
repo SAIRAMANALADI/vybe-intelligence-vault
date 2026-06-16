@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/arena-atla
 resource_id: blog:judge-arena-benchmarking-llms-as-evaluators
-local_vault_path: ai/models/huggingface-blog-arena-atla.md
+local_vault_path: ai/models/judge-arena-benchmarking-llms-as-evaluators.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/arena-atla
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-atla.md](file:///../../ai/models/huggingface-blog-arena-atla.md)
+Path: [judge-arena-benchmarking-llms-as-evaluators.md](file:///../../ai/models/judge-arena-benchmarking-llms-as-evaluators.md)

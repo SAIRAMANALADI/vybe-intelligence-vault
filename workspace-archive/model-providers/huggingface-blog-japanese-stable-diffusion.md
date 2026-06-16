@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/japanese-stable-diffusion
 resource_id: huggingface:blog/japanese-stable-diffusion
-local_vault_path: ai/models/huggingface-blog-japanese-stable-diffusion.md
+local_vault_path: ai/models/japanese-stable-diffusion.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Japanese Stable Diffusion
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/japanese-stable-diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-japanese-stable-diffusion.md](file:///../../ai/models/huggingface-blog-japanese-stable-diffusion.md)
+Path: [huggingface-blog-japanese-stable-diffusion.md](file:///../../ai/models/japanese-stable-diffusion.md)

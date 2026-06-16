@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-3
 resource_id: huggingface:blog/ethics-soc-3
-local_vault_path: ai/models/huggingface-blog-ethics-soc-3.md
+local_vault_path: ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Ethics and Society Newsletter #3: Ethical Openness at Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-3
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-3.md](file:///../../ai/models/huggingface-blog-ethics-soc-3.md)
+Path: [huggingface-blog-ethics-soc-3.md](file:///../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)

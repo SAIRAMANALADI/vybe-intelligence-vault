@@ -3,7 +3,7 @@ title: Leveraging Hugging Face for complex generative AI use cases
 archive_category: project-ideas
 source_category: ai/rag
 source_url: https://huggingface.co/blog/writer-case-study
-local_vault_path: ai/rag/huggingface-blog-writer-case-study.md
+local_vault_path: ai/rag/leveraging-hugging-face-for-complex-generative-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:leveraging-hugging-face-for-complex-generative-ai
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/writer-case-study
 
 ## Local Vault File
 
-Path: [leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md](file:///../../ai/rag/huggingface-blog-writer-case-study.md)
+Path: [leveraging-hugging-face-for-complex-generative-ai-use-cases-97ce8e.md](file:///../../ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)

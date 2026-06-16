@@ -3,7 +3,7 @@ title: Train and Fine-Tune Sentence Transformers Models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/how-to-train-sentence-transformers
-local_vault_path: ai/models/huggingface-blog-how-to-train-sentence-transformers.md
+local_vault_path: ai/models/train-and-fine-tune-sentence-transformers-models.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:train-and-fine-tune-sentence-transformers-models
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/how-to-train-sentence-transform
 
 ## Local Vault File
 
-Path: [train-and-fine-tune-sentence-transformers-models-7d3378.md](file:///../../ai/models/huggingface-blog-how-to-train-sentence-transformers.md)
+Path: [train-and-fine-tune-sentence-transformers-models-7d3378.md](file:///../../ai/models/train-and-fine-tune-sentence-transformers-models.md)

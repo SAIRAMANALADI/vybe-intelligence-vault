@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/kaggle-integration
 resource_id: huggingface:blog/kaggle-integration
-local_vault_path: ai/models/huggingface-blog-kaggle-integration.md
+local_vault_path: ai/models/improving-hugging-face-model-access-for-kaggle-use.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Improving Hugging Face Model Access for Kaggle Users
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/kaggle-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-kaggle-integration.md](file:///../../ai/models/huggingface-blog-kaggle-integration.md)
+Path: [huggingface-blog-kaggle-integration.md](file:///../../ai/models/improving-hugging-face-model-access-for-kaggle-use.md)

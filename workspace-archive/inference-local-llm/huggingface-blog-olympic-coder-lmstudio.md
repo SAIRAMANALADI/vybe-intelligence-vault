@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/olympic-coder-lmstudio
 resource_id: huggingface:blog/olympic-coder-lmstudio
-local_vault_path: ai/models/huggingface-blog-olympic-coder-lmstudio.md
+local_vault_path: ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Open R1: How to use OlympicCoder locally for coding
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/olympic-coder-lmstudio
 
 ## Local Vault File
 
-Path: [huggingface-blog-olympic-coder-lmstudio.md](file:///../../ai/models/huggingface-blog-olympic-coder-lmstudio.md)
+Path: [huggingface-blog-olympic-coder-lmstudio.md](file:///../../ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)

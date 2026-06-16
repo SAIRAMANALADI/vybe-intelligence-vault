@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/getting-started-with-embeddings
 resource_id: blog:getting-started-with-embeddings
-local_vault_path: ai/rag/huggingface-blog-getting-started-with-embeddings.md
+local_vault_path: ai/rag/getting-started-with-embeddings.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/getting-started-with-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-getting-started-with-embeddings.md](file:///../../ai/rag/huggingface-blog-getting-started-with-embeddings.md)
+Path: [getting-started-with-embeddings.md](file:///../../ai/rag/getting-started-with-embeddings.md)

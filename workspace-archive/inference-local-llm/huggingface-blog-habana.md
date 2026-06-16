@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana
 resource_id: huggingface:blog/habana
-local_vault_path: ai/models/huggingface-blog-habana.md
+local_vault_path: ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Habana Labs and Hugging Face Partner to Accelerate Transformer Model Training
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/habana
 
 ## Local Vault File
 
-Path: [huggingface-blog-habana.md](file:///../../ai/models/huggingface-blog-habana.md)
+Path: [huggingface-blog-habana.md](file:///../../ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md)

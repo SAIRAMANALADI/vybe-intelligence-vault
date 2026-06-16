@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-diffusers
 resource_id: blog:ethical-guidelines-for-developing-the-diffusers-li
-local_vault_path: ai/models/huggingface-blog-ethics-diffusers.md
+local_vault_path: ai/models/ethical-guidelines-for-developing-the-diffusers-li.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-diffusers.md](file:///../../ai/models/huggingface-blog-ethics-diffusers.md)
+Path: [ethical-guidelines-for-developing-the-diffusers-li.md](file:///../../ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)

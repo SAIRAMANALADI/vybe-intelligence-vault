@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/python-tiny-agents
 resource_id: huggingface:blog/python-tiny-agents
-local_vault_path: ai/agents/huggingface-blog-python-tiny-agents.md
+local_vault_path: ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Tiny Agents in Python: a MCP-powered agent in ~70 lines of code
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/python-tiny-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-python-tiny-agents.md](file:///../../ai/agents/huggingface-blog-python-tiny-agents.md)
+Path: [huggingface-blog-python-tiny-agents.md](file:///../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)

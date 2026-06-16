@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/daily-papers
 resource_id: huggingface:blog/daily-papers
-local_vault_path: ai/models/huggingface-blog-daily-papers.md
+local_vault_path: ai/models/exploring-the-daily-papers-page-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Exploring the Daily Papers Page on Hugging Face
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/daily-papers
 
 ## Local Vault File
 
-Path: [huggingface-blog-daily-papers.md](file:///../../ai/models/huggingface-blog-daily-papers.md)
+Path: [huggingface-blog-daily-papers.md](file:///../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)

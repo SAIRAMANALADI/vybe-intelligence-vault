@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/pref-tuning
 resource_id: huggingface:blog/pref-tuning
-local_vault_path: ai/models/huggingface-blog-pref-tuning.md
+local_vault_path: ai/models/preference-tuning-llms-with-direct-preference-opti.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Preference Tuning LLMs with Direct Preference Optimization Methods
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/pref-tuning
 
 ## Local Vault File
 
-Path: [huggingface-blog-pref-tuning.md](file:///../../ai/models/huggingface-blog-pref-tuning.md)
+Path: [huggingface-blog-pref-tuning.md](file:///../../ai/models/preference-tuning-llms-with-direct-preference-opti.md)

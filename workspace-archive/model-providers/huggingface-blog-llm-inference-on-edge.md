@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/llm-inference-on-edge
 resource_id: huggingface:blog/llm-inference-on-edge
-local_vault_path: ai/models/huggingface-blog-llm-inference-on-edge.md
+local_vault_path: ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/llm-inference-on-edge
 
 ## Local Vault File
 
-Path: [huggingface-blog-llm-inference-on-edge.md](file:///../../ai/models/huggingface-blog-llm-inference-on-edge.md)
+Path: [huggingface-blog-llm-inference-on-edge.md](file:///../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)

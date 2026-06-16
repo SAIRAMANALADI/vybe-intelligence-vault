@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-contextual
 resource_id: blog:introducing-contextual-how-well-can-your-multimoda
-local_vault_path: ai/models/huggingface-blog-leaderboard-contextual.md
+local_vault_path: ai/models/introducing-contextual-how-well-can-your-multimoda.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-contextual
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-contextual.md](file:///../../ai/models/huggingface-blog-leaderboard-contextual.md)
+Path: [introducing-contextual-how-well-can-your-multimoda.md](file:///../../ai/models/introducing-contextual-how-well-can-your-multimoda.md)

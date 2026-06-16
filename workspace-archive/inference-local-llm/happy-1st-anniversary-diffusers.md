@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-turns-1
 resource_id: blog:happy-1st-anniversary-diffusers
-local_vault_path: ai/models/huggingface-blog-diffusers-turns-1.md
+local_vault_path: ai/models/happy-1st-anniversary-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-turns-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-turns-1.md](file:///../../ai/models/huggingface-blog-diffusers-turns-1.md)
+Path: [happy-1st-anniversary-diffusers.md](file:///../../ai/models/happy-1st-anniversary-diffusers.md)

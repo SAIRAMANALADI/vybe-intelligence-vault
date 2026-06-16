@@ -3,7 +3,7 @@ title: Voice Cloning with Consent
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/voice-consent-gate
-local_vault_path: ai/models/huggingface-blog-voice-consent-gate.md
+local_vault_path: ai/models/voice-cloning-with-consent.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:voice-cloning-with-consent
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/voice-consent-gate
 
 ## Local Vault File
 
-Path: [voice-cloning-with-consent-e4cbf1.md](file:///../../ai/models/huggingface-blog-voice-consent-gate.md)
+Path: [voice-cloning-with-consent-e4cbf1.md](file:///../../ai/models/voice-cloning-with-consent.md)

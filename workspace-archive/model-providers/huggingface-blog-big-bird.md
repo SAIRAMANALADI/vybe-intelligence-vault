@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/big-bird
 resource_id: huggingface:blog/big-bird
-local_vault_path: ai/models/huggingface-blog-big-bird.md
+local_vault_path: ai/models/understanding-bigbird-s-block-sparse-attention.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Understanding BigBird's Block Sparse Attention
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/big-bird
 
 ## Local Vault File
 
-Path: [huggingface-blog-big-bird.md](file:///../../ai/models/huggingface-blog-big-bird.md)
+Path: [huggingface-blog-big-bird.md](file:///../../ai/models/understanding-bigbird-s-block-sparse-attention.md)

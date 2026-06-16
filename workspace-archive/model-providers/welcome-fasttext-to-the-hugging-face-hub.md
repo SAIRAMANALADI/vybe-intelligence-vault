@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fasttext
 resource_id: blog:welcome-fasttext-to-the-hugging-face-hub
-local_vault_path: ai/models/huggingface-blog-fasttext.md
+local_vault_path: ai/models/welcome-fasttext-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fasttext
 
 ## Local Vault File
 
-Path: [huggingface-blog-fasttext.md](file:///../../ai/models/huggingface-blog-fasttext.md)
+Path: [welcome-fasttext-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)

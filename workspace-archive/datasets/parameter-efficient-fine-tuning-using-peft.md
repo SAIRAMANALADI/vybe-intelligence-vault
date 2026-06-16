@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/peft
 resource_id: blog:parameter-efficient-fine-tuning-using-peft
-local_vault_path: ai/models/huggingface-blog-peft.md
+local_vault_path: ai/models/parameter-efficient-fine-tuning-using-peft.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-peft.md](file:///../../ai/models/huggingface-blog-peft.md)
+Path: [parameter-efficient-fine-tuning-using-peft.md](file:///../../ai/models/parameter-efficient-fine-tuning-using-peft.md)

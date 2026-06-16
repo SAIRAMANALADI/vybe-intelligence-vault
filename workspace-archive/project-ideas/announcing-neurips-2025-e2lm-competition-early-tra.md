@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models
 
 ## Why This Is In The Archive

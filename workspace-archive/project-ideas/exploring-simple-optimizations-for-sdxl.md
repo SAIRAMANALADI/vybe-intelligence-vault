@@ -3,7 +3,7 @@ title: Exploring simple optimizations for SDXL
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/simple_sdxl_optimizations
-local_vault_path: ai/models/huggingface-blog-simple-sdxl-optimizations.md
+local_vault_path: ai/models/exploring-simple-optimizations-for-sdxl.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:exploring-simple-optimizations-for-sdxl
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/simple_sdxl_optimizations
 
 ## Local Vault File
 
-Path: [exploring-simple-optimizations-for-sdxl-933e98.md](file:///../../ai/models/huggingface-blog-simple-sdxl-optimizations.md)
+Path: [exploring-simple-optimizations-for-sdxl-933e98.md](file:///../../ai/models/exploring-simple-optimizations-for-sdxl.md)

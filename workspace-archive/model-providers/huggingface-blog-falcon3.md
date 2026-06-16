@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon3
 resource_id: huggingface:blog/falcon3
-local_vault_path: ai/models/huggingface-blog-falcon3.md
+local_vault_path: ai/models/welcome-to-the-falcon-3-family-of-open-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Welcome to the Falcon 3 Family of Open Models!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon3
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon3.md](file:///../../ai/models/huggingface-blog-falcon3.md)
+Path: [huggingface-blog-falcon3.md](file:///../../ai/models/welcome-to-the-falcon-3-family-of-open-models.md)

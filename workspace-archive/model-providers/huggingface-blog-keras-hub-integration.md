@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/keras-hub-integration
 resource_id: huggingface:blog/keras-hub-integration
-local_vault_path: ai/models/huggingface-blog-keras-hub-integration.md
+local_vault_path: ai/models/announcing-new-hugging-face-and-kerashub-integrati.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Announcing New Hugging Face and KerasHub integration
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/keras-hub-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-keras-hub-integration.md](file:///../../ai/models/huggingface-blog-keras-hub-integration.md)
+Path: [huggingface-blog-keras-hub-integration.md](file:///../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)

@@ -4,7 +4,7 @@ archive_category: mcp-registry
 source_category: ai/models
 source_url: https://huggingface.co/blog/building-hf-mcp
 resource_id: huggingface:blog/building-hf-mcp
-local_vault_path: ai/models/huggingface-blog-building-hf-mcp.md
+local_vault_path: ai/models/building-the-hugging-face-mcp-server.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Useful for project building
 ---
+
 
 # Building the Hugging Face MCP Server
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-building-hf-mcp.md](file:///../../ai/models/huggingface-blog-building-hf-mcp.md)
+Path: [huggingface-blog-building-hf-mcp.md](file:///../../ai/models/building-the-hugging-face-mcp-server.md)

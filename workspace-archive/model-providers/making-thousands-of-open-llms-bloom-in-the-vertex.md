@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/google-cloud-model-garden
 resource_id: blog:making-thousands-of-open-llms-bloom-in-the-vertex
-local_vault_path: ai/models/huggingface-blog-google-cloud-model-garden.md
+local_vault_path: ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud-model-garden
 
 ## Local Vault File
 
-Path: [huggingface-blog-google-cloud-model-garden.md](file:///../../ai/models/huggingface-blog-google-cloud-model-garden.md)
+Path: [making-thousands-of-open-llms-bloom-in-the-vertex.md](file:///../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)

@@ -3,7 +3,7 @@ title: Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-peft
-local_vault_path: ai/models/huggingface-blog-trl-peft.md
+local_vault_path: ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/trl-peft
 
 ## Local Vault File
 
-Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer-gpu-e9fb41.md](file:///../../ai/models/huggingface-blog-trl-peft.md)
+Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer-gpu-e9fb41.md](file:///../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)

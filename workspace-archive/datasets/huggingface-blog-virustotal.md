@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/virustotal
 resource_id: huggingface:blog/virustotal
-local_vault_path: ai/models/huggingface-blog-virustotal.md
+local_vault_path: ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face and VirusTotal collaborate to strengthen AI security
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: [huggingface-blog-virustotal.md](file:///../../ai/models/huggingface-blog-virustotal.md)
+Path: [huggingface-blog-virustotal.md](file:///../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)

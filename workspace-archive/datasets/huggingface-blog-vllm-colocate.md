@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/vllm-colocate
 resource_id: huggingface:blog/vllm-colocate
-local_vault_path: ai/models/huggingface-blog-vllm-colocate.md
+local_vault_path: ai/models/no-gpu-left-behind-unlocking-efficiency-with-co-lo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # No GPU left behind: Unlocking Efficiency with Co-located vLLM in TRL
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vllm-colocate
 
 ## Local Vault File
 
-Path: [huggingface-blog-vllm-colocate.md](file:///../../ai/models/huggingface-blog-vllm-colocate.md)
+Path: [huggingface-blog-vllm-colocate.md](file:///../../ai/models/no-gpu-left-behind-unlocking-efficiency-with-co-lo.md)

@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/companies/anthropic
 source_url: https://www.anthropic.com/news/claude-fable-5-mythos-5
 resource_id: blog:claude-fable-5-and-claude-mythos-5announcementsjun
-local_vault_path: ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md
+local_vault_path: ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md
 quality_score: 70
 archive_score: 82
 archive_tier: useful
@@ -19,6 +19,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Claude Fable 5 and Claude Mythos 5AnnouncementsJun 9, 2026Our next generation of intelligence for the hardest knowledge work and coding problems.
 
@@ -47,4 +48,4 @@ Original source URL: https://www.anthropic.com/news/claude-fable-5-mythos-5
 
 ## Local Vault File
 
-Path: [claude-fable-5-and-claude-mythos-5announcementsjun.md](file:///../../ai/companies/anthropic/claude-fable-5-and-claude-mythos-5announcementsjun.md)
+Path: [claude-fable-5-and-claude-mythos-5announcementsjun.md](file:///../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)

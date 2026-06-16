@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-gradio-server
 resource_id: blog:any-custom-frontend-with-gradio-s-backend
-local_vault_path: ai/models/huggingface-blog-introducing-gradio-server.md
+local_vault_path: ai/models/any-custom-frontend-with-gradio-s-backend.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-gradio-server
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-gradio-server.md](file:///../../ai/models/huggingface-blog-introducing-gradio-server.md)
+Path: [any-custom-frontend-with-gradio-s-backend.md](file:///../../ai/models/any-custom-frontend-with-gradio-s-backend.md)

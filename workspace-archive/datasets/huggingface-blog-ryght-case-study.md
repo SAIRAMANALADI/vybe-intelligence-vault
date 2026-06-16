@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ryght-case-study
 resource_id: huggingface:blog/ryght-case-study
-local_vault_path: ai/models/huggingface-blog-ryght-case-study.md
+local_vault_path: ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ryght-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-ryght-case-study.md](file:///../../ai/models/huggingface-blog-ryght-case-study.md)
+Path: [huggingface-blog-ryght-case-study.md](file:///../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)

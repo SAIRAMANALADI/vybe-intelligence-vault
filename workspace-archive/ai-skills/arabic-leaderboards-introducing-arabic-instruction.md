@@ -4,11 +4,12 @@ title: 'Arabic Leaderboards: Introducing Arabic Instruction Following, Updating 
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
-local_vault_path: ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md
+local_vault_path: ai/rag/arabic-leaderboards-introducing-arabic-instruction.md
 tags:
 - rag
 resource_id: blog:arabic-leaderboards-introducing-arabic-instruction
 ---
+
 
 
 

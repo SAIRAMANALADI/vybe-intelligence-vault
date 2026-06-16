@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-starcoder-quantization
 resource_id: blog:accelerate-starcoder-with-optimum-intel-on-xeon-q8
-local_vault_path: ai/models/huggingface-blog-intel-starcoder-quantization.md
+local_vault_path: ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-starcoder-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-starcoder-quantization.md](file:///../../ai/models/huggingface-blog-intel-starcoder-quantization.md)
+Path: [accelerate-starcoder-with-optimum-intel-on-xeon-q8.md](file:///../../ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)

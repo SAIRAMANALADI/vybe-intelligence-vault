@@ -3,11 +3,12 @@ title: How we leveraged distilabel to create an Argilla 2.0 Chatbot
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/argilla-chatbot
-local_vault_path: ai/rag/huggingface-blog-argilla-chatbot.md
+local_vault_path: ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md
 tags:
 - rag
 resource_id: blog:how-we-leveraged-distilabel-to-create-an-argilla-2
 ---
+
 
 
 

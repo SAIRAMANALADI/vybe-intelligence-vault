@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvlm
 resource_id: huggingface:blog/smolvlm
-local_vault_path: ai/models/huggingface-blog-smolvlm.md
+local_vault_path: ai/models/smolvlm-small-yet-mighty-vision-language-model.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SmolVLM - small yet mighty Vision Language Model
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smolvlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvlm.md](file:///../../ai/models/huggingface-blog-smolvlm.md)
+Path: [huggingface-blog-smolvlm.md](file:///../../ai/models/smolvlm-small-yet-mighty-vision-language-model.md)

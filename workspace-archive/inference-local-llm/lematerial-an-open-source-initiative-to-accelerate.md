@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lematerial
 resource_id: blog:lematerial-an-open-source-initiative-to-accelerate
-local_vault_path: ai/models/huggingface-blog-lematerial.md
+local_vault_path: ai/models/lematerial-an-open-source-initiative-to-accelerate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/lematerial
 
 ## Local Vault File
 
-Path: [huggingface-blog-lematerial.md](file:///../../ai/models/huggingface-blog-lematerial.md)
+Path: [lematerial-an-open-source-initiative-to-accelerate.md](file:///../../ai/models/lematerial-an-open-source-initiative-to-accelerate.md)

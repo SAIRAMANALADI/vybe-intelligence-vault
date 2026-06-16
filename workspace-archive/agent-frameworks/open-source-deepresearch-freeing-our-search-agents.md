@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/open-deep-research
 resource_id: blog:open-source-deepresearch-freeing-our-search-agents
-local_vault_path: ai/agents/huggingface-blog-open-deep-research.md
+local_vault_path: ai/agents/open-source-deepresearch-freeing-our-search-agents.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-deep-research
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-deep-research.md](file:///../../ai/agents/huggingface-blog-open-deep-research.md)
+Path: [open-source-deepresearch-freeing-our-search-agents.md](file:///../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)

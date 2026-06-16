@@ -3,7 +3,7 @@ title: 'Open Responses: What you need to know'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-responses
-local_vault_path: ai/models/huggingface-blog-open-responses.md
+local_vault_path: ai/models/open-responses-what-you-need-to-know.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:open-responses-what-you-need-to-know
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/open-responses
 
 ## Local Vault File
 
-Path: [open-responses-what-you-need-to-know-f04c2f.md](file:///../../ai/models/huggingface-blog-open-responses.md)
+Path: [open-responses-what-you-need-to-know-f04c2f.md](file:///../../ai/models/open-responses-what-you-need-to-know.md)

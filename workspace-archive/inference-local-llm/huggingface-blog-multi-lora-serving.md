@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/multi-lora-serving
 resource_id: huggingface:blog/multi-lora-serving
-local_vault_path: ai/models/huggingface-blog-multi-lora-serving.md
+local_vault_path: ai/models/tgi-multi-lora-deploy-once-serve-30-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # TGI Multi-LoRA: Deploy Once, Serve 30 Models
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/multi-lora-serving
 
 ## Local Vault File
 
-Path: [huggingface-blog-multi-lora-serving.md](file:///../../ai/models/huggingface-blog-multi-lora-serving.md)
+Path: [huggingface-blog-multi-lora-serving.md](file:///../../ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)

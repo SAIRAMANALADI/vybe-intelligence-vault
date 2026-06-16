@@ -3,7 +3,7 @@ title: Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Oliv
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/sdxl_ort_inference
-local_vault_path: ai/models/huggingface-blog-sdxl-ort-inference.md
+local_vault_path: ai/models/accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:accelerating-sd-turbo-and-sdxl-turbo-inference-wit
 ---
+
 
 
 # Accelerating SD Turbo and SDXL Turbo Inference with ONNX Runtime and Olive
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/sdxl_ort_inference
 
 ## Local Vault File
 
-Path: [accelerating-sd-turbo-and-sdxl-turbo-inference-with-onnx-runtime-and-olive-77f806.md](file:///../../ai/models/huggingface-blog-sdxl-ort-inference.md)
+Path: [accelerating-sd-turbo-and-sdxl-turbo-inference-with-onnx-runtime-and-olive-77f806.md](file:///../../ai/models/accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md)

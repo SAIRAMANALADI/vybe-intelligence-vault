@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents-phoenix
 resource_id: huggingface:blog/smolagents-phoenix
-local_vault_path: ai/agents/huggingface-blog-smolagents-phoenix.md
+local_vault_path: ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Trace & Evaluate your Agent with Arize Phoenix
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/smolagents-phoenix
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents-phoenix.md](file:///../../ai/agents/huggingface-blog-smolagents-phoenix.md)
+Path: [huggingface-blog-smolagents-phoenix.md](file:///../../ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)

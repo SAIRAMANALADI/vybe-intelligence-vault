@@ -3,7 +3,7 @@ title: 'LeRobot Community Datasets: The “ImageNet” of Robotics — When and 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-datasets
-local_vault_path: ai/models/huggingface-blog-lerobot-datasets.md
+local_vault_path: ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:lerobot-community-datasets-the-imagenet-of-robotic
 ---
+
 
 
 # LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets
 
 ## Local Vault File
 
-Path: [lerobot-community-datasets-the-imagenet-of-robotics-when-and-how-4edac3.md](file:///../../ai/models/huggingface-blog-lerobot-datasets.md)
+Path: [lerobot-community-datasets-the-imagenet-of-robotics-when-and-how-4edac3.md](file:///../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)

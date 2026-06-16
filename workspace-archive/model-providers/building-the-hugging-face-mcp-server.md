@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/building-hf-mcp
 resource_id: blog:building-the-hugging-face-mcp-server
-local_vault_path: ai/models/huggingface-blog-building-hf-mcp.md
+local_vault_path: ai/models/building-the-hugging-face-mcp-server.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-building-hf-mcp.md](file:///../../ai/models/huggingface-blog-building-hf-mcp.md)
+Path: [building-the-hugging-face-mcp-server.md](file:///../../ai/models/building-the-hugging-face-mcp-server.md)

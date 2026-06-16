@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable_diffusion_jax
 resource_id: huggingface:blog/stable_diffusion_jax
-local_vault_path: ai/models/huggingface-blog-stable-diffusion-jax.md
+local_vault_path: ai/models/stable-diffusion-in-jax-flax.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 🧨 Stable Diffusion in JAX / Flax !
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion_jax
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-jax.md](file:///../../ai/models/huggingface-blog-stable-diffusion-jax.md)
+Path: [huggingface-blog-stable-diffusion-jax.md](file:///../../ai/models/stable-diffusion-in-jax-flax.md)

@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/structured-codeagent
 resource_id: huggingface:blog/structured-codeagent
-local_vault_path: ai/agents/huggingface-blog-structured-codeagent.md
+local_vault_path: ai/agents/codeagents-structure-a-better-way-to-execute-actio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # CodeAgents + Structure: A Better Way to Execute Actions
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/structured-codeagent
 
 ## Local Vault File
 
-Path: [huggingface-blog-structured-codeagent.md](file:///../../ai/agents/huggingface-blog-structured-codeagent.md)
+Path: [huggingface-blog-structured-codeagent.md](file:///../../ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)

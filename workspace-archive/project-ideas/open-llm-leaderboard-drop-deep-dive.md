@@ -3,7 +3,7 @@ title: 'Open LLM Leaderboard: DROP deep dive'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-llm-leaderboard-drop
-local_vault_path: ai/models/huggingface-blog-open-llm-leaderboard-drop.md
+local_vault_path: ai/models/open-llm-leaderboard-drop-deep-dive.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:open-llm-leaderboard-drop-deep-dive
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-drop
 
 ## Local Vault File
 
-Path: [open-llm-leaderboard-drop-deep-dive-f00bb8.md](file:///../../ai/models/huggingface-blog-open-llm-leaderboard-drop.md)
+Path: [open-llm-leaderboard-drop-deep-dive-f00bb8.md](file:///../../ai/models/open-llm-leaderboard-drop-deep-dive.md)

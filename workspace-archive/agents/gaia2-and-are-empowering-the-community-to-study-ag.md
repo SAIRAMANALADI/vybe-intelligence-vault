@@ -3,11 +3,12 @@ title: 'Gaia2 and ARE: Empowering the community to study agents'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/gaia2
-local_vault_path: ai/agents/huggingface-blog-gaia2.md
+local_vault_path: ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md
 tags:
 - agents
 resource_id: blog:gaia2-and-are-empowering-the-community-to-study-ag
 ---
+
 
 
 # Gaia2 and ARE: Empowering the community to study agents

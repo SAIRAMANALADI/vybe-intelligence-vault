@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-docs-redesign
 resource_id: huggingface:blog/transformers-docs-redesign
-local_vault_path: ai/models/huggingface-blog-transformers-docs-redesign.md
+local_vault_path: ai/models/making-sense-of-this-mess.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Making sense of this mess
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-docs-redesign.md](file:///../../ai/models/huggingface-blog-transformers-docs-redesign.md)
+Path: [huggingface-blog-transformers-docs-redesign.md](file:///../../ai/models/making-sense-of-this-mess.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-hugging-face-models-easily-with-amazon-sagemaker
 resource_id: blog:deploy-hugging-face-models-easily-with-amazon-sage
-local_vault_path: ai/models/huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md
+local_vault_path: ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-hugging-face-models-easi
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md](file:///../../ai/models/huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md)
+Path: [deploy-hugging-face-models-easily-with-amazon-sage.md](file:///../../ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)

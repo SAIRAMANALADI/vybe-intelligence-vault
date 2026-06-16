@@ -3,9 +3,10 @@ title: Train a Sentence Embedding Model with 1B Training Pairs
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/1b-sentence-embeddings
-local_vault_path: ai/models/huggingface-blog-1b-sentence-embeddings.md
+local_vault_path: ai/models/train-a-sentence-embedding-model-with-1b-training.md
 resource_id: blog:train-a-sentence-embedding-model-with-1b-training
 ---
+
 
 
 

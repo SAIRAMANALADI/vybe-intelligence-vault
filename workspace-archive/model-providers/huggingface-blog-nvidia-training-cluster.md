@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia-training-cluster
 resource_id: huggingface:blog/nvidia-training-cluster
-local_vault_path: ai/models/huggingface-blog-nvidia-training-cluster.md
+local_vault_path: ai/models/introducing-training-cluster-as-a-service-a-new-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Training Cluster as a Service - a new collaboration with NVIDIA
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia-training-cluster
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-training-cluster.md](file:///../../ai/models/huggingface-blog-nvidia-training-cluster.md)
+Path: [huggingface-blog-nvidia-training-cluster.md](file:///../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)

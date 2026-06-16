@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ulysses-sp
 resource_id: huggingface:blog/ulysses-sp
-local_vault_path: ai/models/huggingface-blog-ulysses-sp.md
+local_vault_path: ai/models/ulysses-sequence-parallelism-training-with-million.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Ulysses Sequence Parallelism: Training with Million-Token Contexts
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ulysses-sp
 
 ## Local Vault File
 
-Path: [huggingface-blog-ulysses-sp.md](file:///../../ai/models/huggingface-blog-ulysses-sp.md)
+Path: [huggingface-blog-ulysses-sp.md](file:///../../ai/models/ulysses-sequence-parallelism-training-with-million.md)

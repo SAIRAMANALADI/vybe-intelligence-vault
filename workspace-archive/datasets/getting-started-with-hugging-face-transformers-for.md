@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore-getting-started
 resource_id: blog:getting-started-with-hugging-face-transformers-for
-local_vault_path: ai/models/huggingface-blog-graphcore-getting-started.md
+local_vault_path: ai/models/getting-started-with-hugging-face-transformers-for.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore-getting-started
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore-getting-started.md](file:///../../ai/models/huggingface-blog-graphcore-getting-started.md)
+Path: [getting-started-with-hugging-face-transformers-for.md](file:///../../ai/models/getting-started-with-hugging-face-transformers-for.md)

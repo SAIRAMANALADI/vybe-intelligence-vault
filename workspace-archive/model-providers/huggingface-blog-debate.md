@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/debate
 resource_id: huggingface:blog/debate
-local_vault_path: ai/models/huggingface-blog-debate.md
+local_vault_path: ai/models/letting-large-models-debate-the-first-multilingual.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Letting Large Models Debate: The First Multilingual LLM Debate Competition
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/debate
 
 ## Local Vault File
 
-Path: [huggingface-blog-debate.md](file:///../../ai/models/huggingface-blog-debate.md)
+Path: [huggingface-blog-debate.md](file:///../../ai/models/letting-large-models-debate-the-first-multilingual.md)

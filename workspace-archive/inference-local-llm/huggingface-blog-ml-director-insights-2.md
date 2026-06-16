@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-director-insights-2
 resource_id: huggingface:blog/ml-director-insights-2
-local_vault_path: ai/models/huggingface-blog-ml-director-insights-2.md
+local_vault_path: ai/models/director-of-machine-learning-insights-part-2-saas.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Director of Machine Learning Insights [Part 2: SaaS Edition]
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-director-insights-2.md](file:///../../ai/models/huggingface-blog-ml-director-insights-2.md)
+Path: [huggingface-blog-ml-director-insights-2.md](file:///../../ai/models/director-of-machine-learning-insights-part-2-saas.md)

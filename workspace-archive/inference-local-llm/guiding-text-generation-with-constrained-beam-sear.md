@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/constrained-beam-search
 resource_id: blog:guiding-text-generation-with-constrained-beam-sear
-local_vault_path: ai/models/huggingface-blog-constrained-beam-search.md
+local_vault_path: ai/models/guiding-text-generation-with-constrained-beam-sear.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/constrained-beam-search
 
 ## Local Vault File
 
-Path: [huggingface-blog-constrained-beam-search.md](file:///../../ai/models/huggingface-blog-constrained-beam-search.md)
+Path: [guiding-text-generation-with-constrained-beam-sear.md](file:///../../ai/models/guiding-text-generation-with-constrained-beam-sear.md)

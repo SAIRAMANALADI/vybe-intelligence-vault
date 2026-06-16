@@ -3,7 +3,7 @@ title: 'Timm ❤️ Transformers: Use any timm model with transformers'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/timm-transformers
-local_vault_path: ai/models/huggingface-blog-timm-transformers.md
+local_vault_path: ai/models/timm-transformers-use-any-timm-model-with-transfor.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:timm-transformers-use-any-timm-model-with-transfor
 ---
+
 
 
 # Timm ❤️ Transformers: Use any timm model with transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/timm-transformers
 
 ## Local Vault File
 
-Path: [timm-transformers-use-any-timm-model-with-transformers-99e9ef.md](file:///../../ai/models/huggingface-blog-timm-transformers.md)
+Path: [timm-transformers-use-any-timm-model-with-transformers-99e9ef.md](file:///../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)

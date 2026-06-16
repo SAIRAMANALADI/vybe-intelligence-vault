@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable-diffusion-xl-coreml
 resource_id: blog:stable-diffusion-xl-on-mac-with-advanced-core-ml-q
-local_vault_path: ai/models/huggingface-blog-stable-diffusion-xl-coreml.md
+local_vault_path: ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-xl-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-xl-coreml.md](file:///../../ai/models/huggingface-blog-stable-diffusion-xl-coreml.md)
+Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md](file:///../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf-serving
 resource_id: huggingface:blog/tf-serving
-local_vault_path: ai/models/huggingface-blog-tf-serving.md
+local_vault_path: ai/models/faster-tensorflow-models-in-hugging-face-transform.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Faster TensorFlow models in Hugging Face Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tf-serving
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-serving.md](file:///../../ai/models/huggingface-blog-tf-serving.md)
+Path: [huggingface-blog-tf-serving.md](file:///../../ai/models/faster-tensorflow-models-in-hugging-face-transform.md)

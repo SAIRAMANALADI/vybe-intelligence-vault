@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora-for-sequence-classification-with-roberta-llama-mistral
 resource_id: blog:comparing-the-performance-of-llms-a-deep-dive-into
-local_vault_path: ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md
+local_vault_path: ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/lora-for-sequence-classificatio
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md](file:///../../ai/models/huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md)
+Path: [comparing-the-performance-of-llms-a-deep-dive-into.md](file:///../../ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)

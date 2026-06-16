@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/textgen-pipe-gaudi
 resource_id: huggingface:blog/textgen-pipe-gaudi
-local_vault_path: ai/models/huggingface-blog-textgen-pipe-gaudi.md
+local_vault_path: ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/textgen-pipe-gaudi
 
 ## Local Vault File
 
-Path: [huggingface-blog-textgen-pipe-gaudi.md](file:///../../ai/models/huggingface-blog-textgen-pipe-gaudi.md)
+Path: [huggingface-blog-textgen-pipe-gaudi.md](file:///../../ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-responses
 resource_id: huggingface:blog/open-responses
-local_vault_path: ai/models/huggingface-blog-open-responses.md
+local_vault_path: ai/models/open-responses-what-you-need-to-know.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Open Responses: What you need to know
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/open-responses
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-responses.md](file:///../../ai/models/huggingface-blog-open-responses.md)
+Path: [huggingface-blog-open-responses.md](file:///../../ai/models/open-responses-what-you-need-to-know.md)

@@ -3,11 +3,12 @@ title: 'CodeAgents + Structure: A Better Way to Execute Actions'
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/structured-codeagent
-local_vault_path: ai/agents/huggingface-blog-structured-codeagent.md
+local_vault_path: ai/agents/codeagents-structure-a-better-way-to-execute-actio.md
 tags:
 - agents
 resource_id: blog:codeagents-structure-a-better-way-to-execute-actio
 ---
+
 
 
 # CodeAgents + Structure: A Better Way to Execute Actions

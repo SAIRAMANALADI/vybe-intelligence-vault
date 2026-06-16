@@ -3,7 +3,7 @@ title: Training and Finetuning Sparse Embedding Models with Sentence Transformer
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-sparse-encoder
-local_vault_path: ai/models/huggingface-blog-train-sparse-encoder.md
+local_vault_path: ai/models/training-and-finetuning-sparse-embedding-models-wi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:training-and-finetuning-sparse-embedding-models-wi
 ---
+
 
 
 # Training and Finetuning Sparse Embedding Models with Sentence Transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/train-sparse-encoder
 
 ## Local Vault File
 
-Path: [training-and-finetuning-sparse-embedding-models-with-sentence-transformers-db59d6.md](file:///../../ai/models/huggingface-blog-train-sparse-encoder.md)
+Path: [training-and-finetuning-sparse-embedding-models-with-sentence-transformers-db59d6.md](file:///../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)

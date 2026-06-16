@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-learning-with-proteins
 resource_id: huggingface:blog/deep-learning-with-proteins
-local_vault_path: ai/models/huggingface-blog-deep-learning-with-proteins.md
+local_vault_path: ai/models/deep-learning-with-proteins.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deep Learning with Proteins
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-learning-with-proteins
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-learning-with-proteins.md](file:///../../ai/models/huggingface-blog-deep-learning-with-proteins.md)
+Path: [huggingface-blog-deep-learning-with-proteins.md](file:///../../ai/models/deep-learning-with-proteins.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformersjs-v3
 resource_id: blog:transformers-js-v3-webgpu-support-new-models-tasks
-local_vault_path: ai/models/huggingface-blog-transformersjs-v3.md
+local_vault_path: ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-v3.md](file:///../../ai/models/huggingface-blog-transformersjs-v3.md)
+Path: [transformers-js-v3-webgpu-support-new-models-tasks.md](file:///../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)

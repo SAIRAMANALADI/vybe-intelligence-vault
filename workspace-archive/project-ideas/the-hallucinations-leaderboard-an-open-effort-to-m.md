@@ -4,7 +4,7 @@ title: The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-hallucinations
-local_vault_path: ai/models/huggingface-blog-leaderboard-hallucinations.md
+local_vault_path: ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-hallucinations-leaderboard-an-open-effort-to-m
 ---
+
 
 
 # The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai/models/huggingface-blog-leaderboard-hallucinations.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-measure-hallucinations-in-large-be2be6.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)

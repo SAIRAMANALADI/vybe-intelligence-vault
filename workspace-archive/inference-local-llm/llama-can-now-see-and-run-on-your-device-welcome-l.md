@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama32
 resource_id: blog:llama-can-now-see-and-run-on-your-device-welcome-l
-local_vault_path: ai/models/huggingface-blog-llama32.md
+local_vault_path: ai/models/llama-can-now-see-and-run-on-your-device-welcome-l.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama32
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama32.md](file:///../../ai/models/huggingface-blog-llama32.md)
+Path: [llama-can-now-see-and-run-on-your-device-welcome-l.md](file:///../../ai/models/llama-can-now-see-and-run-on-your-device-welcome-l.md)

@@ -11,6 +11,7 @@ resource_id: blog:holo1-new-family-of-gui-automation-vlms-powering-g
 ---
 
 
+
 # Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H
 
 ## Why This Is In The Archive

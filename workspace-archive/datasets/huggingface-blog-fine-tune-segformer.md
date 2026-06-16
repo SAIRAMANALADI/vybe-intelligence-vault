@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-segformer
 resource_id: huggingface:blog/fine-tune-segformer
-local_vault_path: ai/models/huggingface-blog-fine-tune-segformer.md
+local_vault_path: ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Fine-Tune a Semantic Segmentation Model with a Custom Dataset
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-segformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-segformer.md](file:///../../ai/models/huggingface-blog-fine-tune-segformer.md)
+Path: [huggingface-blog-fine-tune-segformer.md](file:///../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)

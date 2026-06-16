@@ -4,16 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/fastai
-published_at: '2022-05-06T00:00:00+00:00'
-collected_at: '2026-06-15T06:35:32.427128+00:00'
+published_at: '2022-05-05T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.280796+00:00'
 tags: []
 status: active
 resource_id: blog:welcome-fastai-to-the-hugging-face-hub
-first_seen: '2026-06-15T06:35:32.427128+00:00'
-last_seen: '2026-06-15T06:35:32.427128+00:00'
-last_checked: '2026-06-15T06:35:32.427128+00:00'
+first_seen: '2026-06-12T10:40:08.823987+00:00'
+last_seen: '2026-06-15T06:03:50.280796+00:00'
+last_checked: '2026-06-15T06:03:50.280796+00:00'
 health_score: 100
 ---
+
 
 # Welcome fastai to the Hugging Face Hub
 
@@ -29,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2022-05-06T00:00:00+00:00
+- Published: 2022-05-05T18:30:00+00:00
 
 ## Related Tags
 

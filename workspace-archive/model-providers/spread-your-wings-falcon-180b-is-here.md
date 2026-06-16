@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon-180b
 resource_id: blog:spread-your-wings-falcon-180b-is-here
-local_vault_path: ai/models/huggingface-blog-falcon-180b.md
+local_vault_path: ai/models/spread-your-wings-falcon-180b-is-here.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon-180b
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon-180b.md](file:///../../ai/models/huggingface-blog-falcon-180b.md)
+Path: [spread-your-wings-falcon-180b-is-here.md](file:///../../ai/models/spread-your-wings-falcon-180b-is-here.md)

@@ -3,7 +3,7 @@ title: 'Optimization story: Bloom inference'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-inference-optimization
-local_vault_path: ai/models/huggingface-blog-bloom-inference-optimization.md
+local_vault_path: ai/models/optimization-story-bloom-inference.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:optimization-story-bloom-inference
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-optimization
 
 ## Local Vault File
 
-Path: [optimization-story-bloom-inference-62a356.md](file:///../../ai/models/huggingface-blog-bloom-inference-optimization.md)
+Path: [optimization-story-bloom-inference-62a356.md](file:///../../ai/models/optimization-story-bloom-inference.md)

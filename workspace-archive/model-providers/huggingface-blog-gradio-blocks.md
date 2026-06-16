@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-blocks
 resource_id: huggingface:blog/gradio-blocks
-local_vault_path: ai/models/huggingface-blog-gradio-blocks.md
+local_vault_path: ai/models/gradio-3-0-is-out.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Gradio 3.0 is Out!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-blocks
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-blocks.md](file:///../../ai/models/huggingface-blog-gradio-blocks.md)
+Path: [huggingface-blog-gradio-blocks.md](file:///../../ai/models/gradio-3-0-is-out.md)

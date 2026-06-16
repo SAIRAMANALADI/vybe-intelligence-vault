@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/friendliai-partnership
 resource_id: huggingface:blog/friendliai-partnership
-local_vault_path: ai/models/huggingface-blog-friendliai-partnership.md
+local_vault_path: ai/models/hugging-face-and-friendliai-partner-to-supercharge.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face and FriendliAI partner to supercharge model deployment on the Hub
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/friendliai-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-friendliai-partnership.md](file:///../../ai/models/huggingface-blog-friendliai-partnership.md)
+Path: [huggingface-blog-friendliai-partnership.md](file:///../../ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)

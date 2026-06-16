@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fast-whisper-endpoints
 resource_id: huggingface:blog/fast-whisper-endpoints
-local_vault_path: ai/models/huggingface-blog-fast-whisper-endpoints.md
+local_vault_path: ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Blazingly fast whisper transcriptions with Inference Endpoints
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fast-whisper-endpoints
 
 ## Local Vault File
 
-Path: [huggingface-blog-fast-whisper-endpoints.md](file:///../../ai/models/huggingface-blog-fast-whisper-endpoints.md)
+Path: [huggingface-blog-fast-whisper-endpoints.md](file:///../../ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)

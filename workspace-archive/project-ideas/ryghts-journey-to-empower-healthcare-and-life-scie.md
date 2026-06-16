@@ -4,7 +4,7 @@ title: Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Sup
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ryght-case-study
-local_vault_path: ai/models/huggingface-blog-ryght-case-study.md
+local_vault_path: ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:ryghts-journey-to-empower-healthcare-and-life-scie
 ---
+
 
 
 # Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ryght-case-study
 
 ## Local Vault File
 
-Path: [ryghts-journey-to-empower-healthcare-and-life-sciences-with-expert-support-from-c219d5.md](file:///../../ai/models/huggingface-blog-ryght-case-study.md)
+Path: [ryghts-journey-to-empower-healthcare-and-life-sciences-with-expert-support-from-c219d5.md](file:///../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)

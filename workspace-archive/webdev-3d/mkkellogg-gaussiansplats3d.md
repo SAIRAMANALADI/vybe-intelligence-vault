@@ -11,6 +11,7 @@ resource_id: github:mkkellogg/gaussiansplats3d
 
 
 
+
 # mkkellogg/GaussianSplats3D
 
 ## Why This Is In The Archive

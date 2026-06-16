@@ -3,7 +3,7 @@ title: 'DeepMath: A lightweight math reasoning Agent with smolagents'
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/intel-deepmath
-local_vault_path: ai/agents/huggingface-blog-intel-deepmath.md
+local_vault_path: ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:deepmath-a-lightweight-math-reasoning-agent-with-s
 ---
+
 
 
 # DeepMath: A lightweight math reasoning Agent with smolagents
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/intel-deepmath
 
 ## Local Vault File
 
-Path: [deepmath-a-lightweight-math-reasoning-agent-with-smolagents-ca58b3.md](file:///../../ai/agents/huggingface-blog-intel-deepmath.md)
+Path: [deepmath-a-lightweight-math-reasoning-agent-with-smolagents-ca58b3.md](file:///../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)

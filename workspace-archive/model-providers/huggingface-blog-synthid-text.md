@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/synthid-text
 resource_id: huggingface:blog/synthid-text
-local_vault_path: ai/models/huggingface-blog-synthid-text.md
+local_vault_path: ai/models/introducing-synthid-text.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing SynthID Text
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/synthid-text
 
 ## Local Vault File
 
-Path: [huggingface-blog-synthid-text.md](file:///../../ai/models/huggingface-blog-synthid-text.md)
+Path: [huggingface-blog-synthid-text.md](file:///../../ai/models/introducing-synthid-text.md)

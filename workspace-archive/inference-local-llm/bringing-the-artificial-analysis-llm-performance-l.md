@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-artificial-analysis
 resource_id: blog:bringing-the-artificial-analysis-llm-performance-l
-local_vault_path: ai/models/huggingface-blog-leaderboard-artificial-analysis.md
+local_vault_path: ai/models/bringing-the-artificial-analysis-llm-performance-l.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-artificial-analysis.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis.md)
+Path: [bringing-the-artificial-analysis-llm-performance-l.md](file:///../../ai/models/bringing-the-artificial-analysis-llm-performance-l.md)

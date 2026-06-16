@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/screensuite
 resource_id: huggingface:blog/screensuite
-local_vault_path: ai/agents/huggingface-blog-screensuite.md
+local_vault_path: ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/screensuite
 
 ## Local Vault File
 
-Path: [huggingface-blog-screensuite.md](file:///../../ai/agents/huggingface-blog-screensuite.md)
+Path: [huggingface-blog-screensuite.md](file:///../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)

@@ -11,6 +11,7 @@ resource_id: github:shadcn-ui/next-template
 
 
 
+
 # shadcn-ui/next-template
 
 ## Why This Is In The Archive

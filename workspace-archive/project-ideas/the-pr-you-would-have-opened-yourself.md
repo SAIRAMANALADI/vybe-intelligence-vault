@@ -3,7 +3,7 @@ title: The PR you would have opened yourself
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-to-mlx
-local_vault_path: ai/models/huggingface-blog-transformers-to-mlx.md
+local_vault_path: ai/models/the-pr-you-would-have-opened-yourself.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-pr-you-would-have-opened-yourself
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/transformers-to-mlx
 
 ## Local Vault File
 
-Path: [the-pr-you-would-have-opened-yourself-03222d.md](file:///../../ai/models/huggingface-blog-transformers-to-mlx.md)
+Path: [the-pr-you-would-have-opened-yourself-03222d.md](file:///../../ai/models/the-pr-you-would-have-opened-yourself.md)

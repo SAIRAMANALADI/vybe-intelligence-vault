@@ -3,11 +3,12 @@ title: 'Back to The Future: Evaluating AI Agents on Predicting Future Events'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/futurebench
-local_vault_path: ai/agents/huggingface-blog-futurebench.md
+local_vault_path: ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md
 tags:
 - agents
 resource_id: blog:back-to-the-future-evaluating-ai-agents-on-predict
 ---
+
 
 
 # Back to The Future: Evaluating AI Agents on Predicting Future Events

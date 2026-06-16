@@ -4,7 +4,7 @@ archive_category: mcp-registry
 source_category: ai/agents
 source_url: https://huggingface.co/blog/tiny-agents
 resource_id: blog:tiny-agents-an-mcp-powered-agent-in-50-lines-of-co
-local_vault_path: ai/agents/huggingface-blog-tiny-agents.md
+local_vault_path: ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tiny-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-tiny-agents.md](file:///../../ai/agents/huggingface-blog-tiny-agents.md)
+Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md](file:///../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)

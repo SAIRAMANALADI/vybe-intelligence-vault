@@ -4,7 +4,7 @@ title: Training and Finetuning Multimodal Embedding & Reranker Models with Sente
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-multimodal-sentence-transformers
-local_vault_path: ai/models/huggingface-blog-train-multimodal-sentence-transformers.md
+local_vault_path: ai/models/training-and-finetuning-multimodal-embedding-reran.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:training-and-finetuning-multimodal-embedding-reran
 ---
+
 
 
 # Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/train-multimodal-sentence-trans
 
 ## Local Vault File
 
-Path: [training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md](file:///../../ai/models/huggingface-blog-train-multimodal-sentence-transformers.md)
+Path: [training-and-finetuning-multimodal-embedding-reranker-models-with-sentence-trans-fbf6d8.md](file:///../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)

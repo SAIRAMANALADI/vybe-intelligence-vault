@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Join the AMD Open Robotics Hackathon
 
 ## Why This Is In The Archive

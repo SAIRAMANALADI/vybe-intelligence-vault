@@ -17,6 +17,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Aligning to What? Rethinking Agent Generalization in MiniMax M2
 
 ## Why This Is In The Archive

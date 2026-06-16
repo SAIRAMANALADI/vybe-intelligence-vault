@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/community-tools
 resource_id: huggingface:blog/community-tools
-local_vault_path: ai/models/huggingface-blog-community-tools.md
+local_vault_path: ai/models/introducing-community-tools-on-huggingchat.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Community Tools on HuggingChat
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/community-tools
 
 ## Local Vault File
 
-Path: [huggingface-blog-community-tools.md](file:///../../ai/models/huggingface-blog-community-tools.md)
+Path: [huggingface-blog-community-tools.md](file:///../../ai/models/introducing-community-tools-on-huggingchat.md)

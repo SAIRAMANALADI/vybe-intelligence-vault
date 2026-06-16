@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/getting-started-with-embeddings
 resource_id: huggingface:blog/getting-started-with-embeddings
-local_vault_path: ai/rag/huggingface-blog-getting-started-with-embeddings.md
+local_vault_path: ai/rag/getting-started-with-embeddings.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Getting Started With Embeddings
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/getting-started-with-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-getting-started-with-embeddings.md](file:///../../ai/rag/huggingface-blog-getting-started-with-embeddings.md)
+Path: [huggingface-blog-getting-started-with-embeddings.md](file:///../../ai/rag/getting-started-with-embeddings.md)

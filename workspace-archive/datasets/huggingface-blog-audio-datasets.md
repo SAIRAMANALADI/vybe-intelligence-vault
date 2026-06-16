@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/audio-datasets
 resource_id: huggingface:blog/audio-datasets
-local_vault_path: ai/models/huggingface-blog-audio-datasets.md
+local_vault_path: ai/models/a-complete-guide-to-audio-datasets.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # A Complete Guide to Audio Datasets
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/audio-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-audio-datasets.md](file:///../../ai/models/huggingface-blog-audio-datasets.md)
+Path: [huggingface-blog-audio-datasets.md](file:///../../ai/models/a-complete-guide-to-audio-datasets.md)

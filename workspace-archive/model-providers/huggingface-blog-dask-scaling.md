@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dask-scaling
 resource_id: huggingface:blog/dask-scaling
-local_vault_path: ai/models/huggingface-blog-dask-scaling.md
+local_vault_path: ai/models/scaling-ai-based-data-processing-with-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Scaling AI-based Data Processing with Hugging Face + Dask
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dask-scaling
 
 ## Local Vault File
 
-Path: [huggingface-blog-dask-scaling.md](file:///../../ai/models/huggingface-blog-dask-scaling.md)
+Path: [huggingface-blog-dask-scaling.md](file:///../../ai/models/scaling-ai-based-data-processing-with-hugging-face.md)

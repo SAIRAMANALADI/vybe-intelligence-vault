@@ -3,11 +3,12 @@ title: Introducing Storage Regions on the HF Hub
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/regions
-local_vault_path: ai/rag/huggingface-blog-regions.md
+local_vault_path: ai/rag/introducing-storage-regions-on-the-hf-hub.md
 tags:
 - rag
 resource_id: blog:introducing-storage-regions-on-the-hf-hub
 ---
+
 
 
 

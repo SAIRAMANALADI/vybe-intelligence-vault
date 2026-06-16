@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/patchtsmixer
 resource_id: blog:patchtsmixer-in-huggingface
-local_vault_path: ai/models/huggingface-blog-patchtsmixer.md
+local_vault_path: ai/models/patchtsmixer-in-huggingface.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtsmixer
 
 ## Local Vault File
 
-Path: [huggingface-blog-patchtsmixer.md](file:///../../ai/models/huggingface-blog-patchtsmixer.md)
+Path: [patchtsmixer-in-huggingface.md](file:///../../ai/models/patchtsmixer-in-huggingface.md)

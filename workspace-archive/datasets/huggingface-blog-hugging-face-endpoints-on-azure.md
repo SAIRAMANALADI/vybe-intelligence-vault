@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 resource_id: huggingface:blog/hugging-face-endpoints-on-azure
-local_vault_path: ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md
+local_vault_path: ai/models/hugging-face-collaborates-with-microsoft-to-launch.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugging-face-endpoints-on-azure.md](file:///../../ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md)
+Path: [huggingface-blog-hugging-face-endpoints-on-azure.md](file:///../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)

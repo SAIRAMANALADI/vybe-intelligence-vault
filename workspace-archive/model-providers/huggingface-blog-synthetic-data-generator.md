@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/synthetic-data-generator
 resource_id: huggingface:blog/synthetic-data-generator
-local_vault_path: ai/models/huggingface-blog-synthetic-data-generator.md
+local_vault_path: ai/models/introducing-the-synthetic-data-generator-build-dat.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Synthetic Data Generator - Build Datasets with Natural Language
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-generator
 
 ## Local Vault File
 
-Path: [huggingface-blog-synthetic-data-generator.md](file:///../../ai/models/huggingface-blog-synthetic-data-generator.md)
+Path: [huggingface-blog-synthetic-data-generator.md](file:///../../ai/models/introducing-the-synthetic-data-generator-build-dat.md)

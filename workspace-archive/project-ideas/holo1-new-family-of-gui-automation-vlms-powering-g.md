@@ -18,6 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Holo1: New family of GUI automation VLMs powering GUI agent Surfer-H
 
 ## Why This Is In The Archive

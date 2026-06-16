@@ -3,7 +3,7 @@ title: 'DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/hub-duckdb
-local_vault_path: ai/models/huggingface-blog-hub-duckdb.md
+local_vault_path: ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:duckdb-analyze-50000-datasets-stored-on-the-huggin
 ---
+
 
 
 # DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hub-duckdb
 
 ## Local Vault File
 
-Path: [duckdb-analyze-50000-datasets-stored-on-the-hugging-face-hub-34751c.md](file:///../../ai/models/huggingface-blog-hub-duckdb.md)
+Path: [duckdb-analyze-50000-datasets-stored-on-the-hugging-face-hub-34751c.md](file:///../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)

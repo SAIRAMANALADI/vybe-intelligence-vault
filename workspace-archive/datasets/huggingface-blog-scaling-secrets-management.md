@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/scaling-secrets-management
 resource_id: huggingface:blog/scaling-secrets-management
-local_vault_path: ai/models/huggingface-blog-scaling-secrets-management.md
+local_vault_path: ai/models/how-hugging-face-scaled-secrets-management-for-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How Hugging Face Scaled Secrets Management for AI Infrastructure
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/scaling-secrets-management
 
 ## Local Vault File
 
-Path: [huggingface-blog-scaling-secrets-management.md](file:///../../ai/models/huggingface-blog-scaling-secrets-management.md)
+Path: [huggingface-blog-scaling-secrets-management.md](file:///../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)

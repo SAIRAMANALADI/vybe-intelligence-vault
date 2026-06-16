@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/photoroom/prx-part3
 resource_id: blog:prx-part-3-training-a-text-to-image-model-in-24h
-local_vault_path: ai/models/huggingface-blog-photoroom.md
+local_vault_path: ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/photoroom/prx-part3
 
 ## Local Vault File
 
-Path: [huggingface-blog-photoroom.md](file:///../../ai/models/huggingface-blog-photoroom.md)
+Path: [prx-part-3-training-a-text-to-image-model-in-24h.md](file:///../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)

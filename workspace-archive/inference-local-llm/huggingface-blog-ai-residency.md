@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-residency
 resource_id: huggingface:blog/ai-residency
-local_vault_path: ai/models/huggingface-blog-ai-residency.md
+local_vault_path: ai/models/announcing-the-ai-research-residency-program.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Announcing the 🤗 AI Research Residency Program
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ai-residency
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-residency.md](file:///../../ai/models/huggingface-blog-ai-residency.md)
+Path: [huggingface-blog-ai-residency.md](file:///../../ai/models/announcing-the-ai-research-residency-program.md)

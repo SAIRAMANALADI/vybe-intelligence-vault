@@ -3,7 +3,7 @@ title: The Hugging Face Hub for Galleries, Libraries, Archives and Museums
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-hub-glam-guide
-local_vault_path: ai/models/huggingface-blog-hf-hub-glam-guide.md
+local_vault_path: ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-hugging-face-hub-for-galleries-libraries-archi
 ---
+
 
 
 # The Hugging Face Hub for Galleries, Libraries, Archives and Museums
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hf-hub-glam-guide
 
 ## Local Vault File
 
-Path: [the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md](file:///../../ai/models/huggingface-blog-hf-hub-glam-guide.md)
+Path: [the-hugging-face-hub-for-galleries-libraries-archives-and-museums-fa03be.md](file:///../../ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)

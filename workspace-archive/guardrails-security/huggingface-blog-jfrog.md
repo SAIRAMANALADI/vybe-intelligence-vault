@@ -4,7 +4,7 @@ archive_category: guardrails-security
 source_category: ai/models
 source_url: https://huggingface.co/blog/jfrog
 resource_id: huggingface:blog/jfrog
-local_vault_path: ai/models/huggingface-blog-jfrog.md
+local_vault_path: ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Hugging Face and JFrog partner to make AI Security more transparent
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [huggingface-blog-jfrog.md](file:///../../ai/models/huggingface-blog-jfrog.md)
+Path: [huggingface-blog-jfrog.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)

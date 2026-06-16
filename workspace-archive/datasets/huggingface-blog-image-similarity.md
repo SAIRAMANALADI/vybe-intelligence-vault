@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-similarity
 resource_id: huggingface:blog/image-similarity
-local_vault_path: ai/models/huggingface-blog-image-similarity.md
+local_vault_path: ai/models/image-similarity-with-hugging-face-datasets-and-tr.md
 quality_score: 70
 archive_score: 76
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Image Similarity with Hugging Face Datasets and Transformers
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-similarity.md](file:///../../ai/models/huggingface-blog-image-similarity.md)
+Path: [huggingface-blog-image-similarity.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)

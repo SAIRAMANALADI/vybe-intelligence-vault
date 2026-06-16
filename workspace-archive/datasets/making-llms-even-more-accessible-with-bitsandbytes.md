@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 resource_id: blog:making-llms-even-more-accessible-with-bitsandbytes
-local_vault_path: ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md
+local_vault_path: ai/models/making-llms-even-more-accessible-with-bitsandbytes.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 ## Local Vault File
 
-Path: [huggingface-blog-4bit-transformers-bitsandbytes.md](file:///../../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md)
+Path: [making-llms-even-more-accessible-with-bitsandbytes.md](file:///../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)

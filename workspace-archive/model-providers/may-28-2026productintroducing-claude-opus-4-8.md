@@ -19,6 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # May 28, 2026ProductIntroducing Claude Opus 4.8
 
 ## Why This Is In The Archive

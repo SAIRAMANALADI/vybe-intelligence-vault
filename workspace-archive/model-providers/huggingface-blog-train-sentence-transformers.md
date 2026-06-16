@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-sentence-transformers
 resource_id: huggingface:blog/train-sentence-transformers
-local_vault_path: ai/models/huggingface-blog-train-sentence-transformers.md
+local_vault_path: ai/models/training-and-finetuning-embedding-models-with-sent.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Training and Finetuning Embedding Models with Sentence Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sentence-transformers.md](file:///../../ai/models/huggingface-blog-train-sentence-transformers.md)
+Path: [huggingface-blog-train-sentence-transformers.md](file:///../../ai/models/training-and-finetuning-embedding-models-with-sent.md)

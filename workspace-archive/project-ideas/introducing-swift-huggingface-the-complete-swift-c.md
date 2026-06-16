@@ -3,7 +3,7 @@ title: 'Introducing swift-huggingface: The Complete Swift Client for Hugging Fac
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-huggingface
-local_vault_path: ai/models/huggingface-blog-swift-huggingface.md
+local_vault_path: ai/models/introducing-swift-huggingface-the-complete-swift-c.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-swift-huggingface-the-complete-swift-c
 ---
+
 
 
 # Introducing swift-huggingface: The Complete Swift Client for Hugging Face
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/swift-huggingface
 
 ## Local Vault File
 
-Path: [introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md](file:///../../ai/models/huggingface-blog-swift-huggingface.md)
+Path: [introducing-swift-huggingface-the-complete-swift-client-for-hugging-face-b17e8b.md](file:///../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/2023-in-llms
 resource_id: huggingface:blog/2023-in-llms
-local_vault_path: ai/models/huggingface-blog-2023-in-llms.md
+local_vault_path: ai/models/2023-year-of-open-llms.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 2023, year of open LLMs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/2023-in-llms
 
 ## Local Vault File
 
-Path: [huggingface-blog-2023-in-llms.md](file:///../../ai/models/huggingface-blog-2023-in-llms.md)
+Path: [huggingface-blog-2023-in-llms.md](file:///../../ai/models/2023-year-of-open-llms.md)

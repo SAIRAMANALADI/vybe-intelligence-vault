@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/argilla-chatbot
 resource_id: huggingface:blog/argilla-chatbot
-local_vault_path: ai/rag/huggingface-blog-argilla-chatbot.md
+local_vault_path: ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # How we leveraged distilabel to create an Argilla 2.0 Chatbot
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/argilla-chatbot
 
 ## Local Vault File
 
-Path: [huggingface-blog-argilla-chatbot.md](file:///../../ai/rag/huggingface-blog-argilla-chatbot.md)
+Path: [huggingface-blog-argilla-chatbot.md](file:///../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)

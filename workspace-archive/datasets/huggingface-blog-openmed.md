@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/openmed
 resource_id: huggingface:blog/openmed
-local_vault_path: ai/models/huggingface-blog-openmed.md
+local_vault_path: ai/models/training-mrna-language-models-across-25-species-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Training mRNA Language Models Across 25 Species for $165
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/openmed
 
 ## Local Vault File
 
-Path: [huggingface-blog-openmed.md](file:///../../ai/models/huggingface-blog-openmed.md)
+Path: [huggingface-blog-openmed.md](file:///../../ai/models/training-mrna-language-models-across-25-species-fo.md)

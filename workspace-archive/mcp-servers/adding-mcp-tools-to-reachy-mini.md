@@ -3,9 +3,10 @@ title: Adding MCP Tools to Reachy Mini
 archive_category: mcp-servers
 source_category: ai/models
 source_url: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
-local_vault_path: ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md
+local_vault_path: ai/models/adding-mcp-tools-to-reachy-mini.md
 resource_id: blog:adding-mcp-tools-to-reachy-mini
 ---
+
 
 
 

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentiment-analysis-python
 resource_id: blog:getting-started-with-sentiment-analysis-using-pyth
-local_vault_path: ai/models/huggingface-blog-sentiment-analysis-python.md
+local_vault_path: ai/models/getting-started-with-sentiment-analysis-using-pyth.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-python
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentiment-analysis-python.md](file:///../../ai/models/huggingface-blog-sentiment-analysis-python.md)
+Path: [getting-started-with-sentiment-analysis-using-pyth.md](file:///../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)

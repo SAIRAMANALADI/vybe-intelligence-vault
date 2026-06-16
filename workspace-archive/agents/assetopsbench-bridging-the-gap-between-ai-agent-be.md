@@ -11,6 +11,7 @@ resource_id: blog:assetopsbench-bridging-the-gap-between-ai-agent-be
 ---
 
 
+
 # AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality
 
 ## Why This Is In The Archive

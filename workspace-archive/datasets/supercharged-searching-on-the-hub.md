@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/searching-the-hub
 resource_id: blog:supercharged-searching-on-the-hub
-local_vault_path: ai/models/huggingface-blog-searching-the-hub.md
+local_vault_path: ai/models/supercharged-searching-on-the-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/searching-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-searching-the-hub.md](file:///../../ai/models/huggingface-blog-searching-the-hub.md)
+Path: [supercharged-searching-on-the-hub.md](file:///../../ai/models/supercharged-searching-on-the-hub.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/megatron-training
 resource_id: huggingface:blog/megatron-training
-local_vault_path: ai/models/huggingface-blog-megatron-training.md
+local_vault_path: ai/models/how-to-train-a-language-model-with-megatron-lm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How to train a Language Model with Megatron-LM
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/megatron-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-megatron-training.md](file:///../../ai/models/huggingface-blog-megatron-training.md)
+Path: [huggingface-blog-megatron-training.md](file:///../../ai/models/how-to-train-a-language-model-with-megatron-lm.md)

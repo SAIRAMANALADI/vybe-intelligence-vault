@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/os-llms
 resource_id: huggingface:blog/os-llms
-local_vault_path: ai/models/huggingface-blog-os-llms.md
+local_vault_path: ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Open-Source Text Generation & LLM Ecosystem at Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/os-llms
 
 ## Local Vault File
 
-Path: [huggingface-blog-os-llms.md](file:///../../ai/models/huggingface-blog-os-llms.md)
+Path: [huggingface-blog-os-llms.md](file:///../../ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/kv-cache
 resource_id: huggingface:blog/kv-cache
-local_vault_path: ai/models/huggingface-blog-kv-cache.md
+local_vault_path: ai/models/kv-cache-from-scratch-in-nanovlm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # KV Cache from scratch in nanoVLM
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/kv-cache
 
 ## Local Vault File
 
-Path: [huggingface-blog-kv-cache.md](file:///../../ai/models/huggingface-blog-kv-cache.md)
+Path: [huggingface-blog-kv-cache.md](file:///../../ai/models/kv-cache-from-scratch-in-nanovlm.md)

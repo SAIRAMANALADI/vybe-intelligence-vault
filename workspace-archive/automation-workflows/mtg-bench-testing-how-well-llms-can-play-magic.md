@@ -18,6 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # MTG Bench: Testing how well LLMs can play Magic
 
 ## Why This Is In The Archive

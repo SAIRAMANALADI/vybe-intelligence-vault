@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/speecht5
 resource_id: huggingface:blog/speecht5
-local_vault_path: ai/models/huggingface-blog-speecht5.md
+local_vault_path: ai/models/speech-synthesis-recognition-and-more-with-speecht.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Speech Synthesis, Recognition, and More With SpeechT5
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [huggingface-blog-speecht5.md](file:///../../ai/models/huggingface-blog-speecht5.md)
+Path: [huggingface-blog-speecht5.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)

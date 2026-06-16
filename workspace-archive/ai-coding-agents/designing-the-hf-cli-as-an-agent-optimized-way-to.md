@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/hf-cli-for-agents
 resource_id: blog:designing-the-hf-cli-as-an-agent-optimized-way-to
-local_vault_path: ai/agents/huggingface-blog-hf-cli-for-agents.md
+local_vault_path: ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-cli-for-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-cli-for-agents.md](file:///../../ai/agents/huggingface-blog-hf-cli-for-agents.md)
+Path: [designing-the-hf-cli-as-an-agent-optimized-way-to.md](file:///../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)

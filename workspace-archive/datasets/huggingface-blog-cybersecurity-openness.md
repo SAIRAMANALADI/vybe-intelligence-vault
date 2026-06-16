@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/cybersecurity-openness
 resource_id: huggingface:blog/cybersecurity-openness
-local_vault_path: ai/models/huggingface-blog-cybersecurity-openness.md
+local_vault_path: ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI and the Future of Cybersecurity: Why Openness Matters
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cybersecurity-openness
 
 ## Local Vault File
 
-Path: [huggingface-blog-cybersecurity-openness.md](file:///../../ai/models/huggingface-blog-cybersecurity-openness.md)
+Path: [huggingface-blog-cybersecurity-openness.md](file:///../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)

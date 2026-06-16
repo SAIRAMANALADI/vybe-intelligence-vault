@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-decision-transformers
 resource_id: blog:train-your-first-decision-transformer
-local_vault_path: ai/models/huggingface-blog-train-decision-transformers.md
+local_vault_path: ai/models/train-your-first-decision-transformer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-decision-transformers.md](file:///../../ai/models/huggingface-blog-train-decision-transformers.md)
+Path: [train-your-first-decision-transformer.md](file:///../../ai/models/train-your-first-decision-transformer.md)

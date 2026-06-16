@@ -3,9 +3,10 @@ title: Deploy Embedding Models with Hugging Face Inference Endpoints
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-endpoints-embeddings
-local_vault_path: ai/models/huggingface-blog-inference-endpoints-embeddings.md
+local_vault_path: ai/models/deploy-embedding-models-with-hugging-face-inferenc.md
 resource_id: blog:deploy-embedding-models-with-hugging-face-inferenc
 ---
+
 
 
 # Deploy Embedding Models with Hugging Face Inference Endpoints

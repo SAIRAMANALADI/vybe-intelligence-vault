@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/sagemaker-distributed-training-seq2seq
 resource_id: huggingface:blog/sagemaker-distributed-training-seq2seq
-local_vault_path: ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md
+local_vault_path: ai/models/distributed-training-train-bart-t5-for-summarizati.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-distributed-training-
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-distributed-training-seq2seq.md](file:///../../ai/models/huggingface-blog-sagemaker-distributed-training-seq2seq.md)
+Path: [huggingface-blog-sagemaker-distributed-training-seq2seq.md](file:///../../ai/models/distributed-training-train-bart-t5-for-summarizati.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fastrtc
 resource_id: huggingface:blog/fastrtc
-local_vault_path: ai/models/huggingface-blog-fastrtc.md
+local_vault_path: ai/models/fastrtc-the-real-time-communication-library-for-py.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Useful for project building
 ---
+
 
 # FastRTC: The Real-Time Communication Library for Python
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fastrtc
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastrtc.md](file:///../../ai/models/huggingface-blog-fastrtc.md)
+Path: [huggingface-blog-fastrtc.md](file:///../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)

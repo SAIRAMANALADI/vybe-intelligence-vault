@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-clip-rsicd
 resource_id: blog:fine-tuning-clip-with-remote-sensing-satellite-ima
-local_vault_path: ai/models/huggingface-blog-fine-tune-clip-rsicd.md
+local_vault_path: ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-clip-rsicd
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-clip-rsicd.md](file:///../../ai/models/huggingface-blog-fine-tune-clip-rsicd.md)
+Path: [fine-tuning-clip-with-remote-sensing-satellite-ima.md](file:///../../ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable_diffusion
 resource_id: blog:stable-diffusion-with-diffusers
-local_vault_path: ai/models/huggingface-blog-stable-diffusion.md
+local_vault_path: ai/models/stable-diffusion-with-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion.md](file:///../../ai/models/huggingface-blog-stable-diffusion.md)
+Path: [stable-diffusion-with-diffusers.md](file:///../../ai/models/stable-diffusion-with-diffusers.md)

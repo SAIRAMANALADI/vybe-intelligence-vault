@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/instruction-tuning-sd
 resource_id: huggingface:blog/instruction-tuning-sd
-local_vault_path: ai/models/huggingface-blog-instruction-tuning-sd.md
+local_vault_path: ai/models/instruction-tuning-stable-diffusion-with-instructp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Instruction-tuning Stable Diffusion with InstructPix2Pix
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/instruction-tuning-sd
 
 ## Local Vault File
 
-Path: [huggingface-blog-instruction-tuning-sd.md](file:///../../ai/models/huggingface-blog-instruction-tuning-sd.md)
+Path: [huggingface-blog-instruction-tuning-sd.md](file:///../../ai/models/instruction-tuning-stable-diffusion-with-instructp.md)

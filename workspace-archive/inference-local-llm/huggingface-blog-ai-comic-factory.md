@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-comic-factory
 resource_id: huggingface:blog/ai-comic-factory
-local_vault_path: ai/models/huggingface-blog-ai-comic-factory.md
+local_vault_path: ai/models/deploying-the-ai-comic-factory-using-the-inference.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploying the AI Comic Factory using the Inference API
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ai-comic-factory
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-comic-factory.md](file:///../../ai/models/huggingface-blog-ai-comic-factory.md)
+Path: [huggingface-blog-ai-comic-factory.md](file:///../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)

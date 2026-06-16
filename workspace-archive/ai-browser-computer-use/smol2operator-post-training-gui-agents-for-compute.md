@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smol2operator
 resource_id: blog:smol2operator-post-training-gui-agents-for-compute
-local_vault_path: ai/agents/huggingface-blog-smol2operator.md
+local_vault_path: ai/agents/smol2operator-post-training-gui-agents-for-compute.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/smol2operator
 
 ## Local Vault File
 
-Path: [huggingface-blog-smol2operator.md](file:///../../ai/agents/huggingface-blog-smol2operator.md)
+Path: [smol2operator-post-training-gui-agents-for-compute.md](file:///../../ai/agents/smol2operator-post-training-gui-agents-for-compute.md)

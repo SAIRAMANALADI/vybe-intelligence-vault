@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sagemaker-huggingface-llm
 resource_id: huggingface:blog/sagemaker-huggingface-llm
-local_vault_path: ai/models/huggingface-blog-sagemaker-huggingface-llm.md
+local_vault_path: ai/models/introducing-the-hugging-face-llm-inference-contain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Hugging Face LLM Inference Container for Amazon SageMaker
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-huggingface-llm.md](file:///../../ai/models/huggingface-blog-sagemaker-huggingface-llm.md)
+Path: [huggingface-blog-sagemaker-huggingface-llm.md](file:///../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)

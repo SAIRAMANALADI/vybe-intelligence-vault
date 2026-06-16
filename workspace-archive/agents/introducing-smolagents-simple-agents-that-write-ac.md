@@ -3,11 +3,12 @@ title: 'Introducing smolagents: simple agents that write actions in code.'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents
-local_vault_path: ai/agents/huggingface-blog-smolagents.md
+local_vault_path: ai/agents/introducing-smolagents-simple-agents-that-write-ac.md
 tags:
 - agents
 resource_id: blog:introducing-smolagents-simple-agents-that-write-ac
 ---
+
 
 
 # Introducing smolagents: simple agents that write actions in code.

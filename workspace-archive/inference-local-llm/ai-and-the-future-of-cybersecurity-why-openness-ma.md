@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/cybersecurity-openness
 resource_id: blog:ai-and-the-future-of-cybersecurity-why-openness-ma
-local_vault_path: ai/models/huggingface-blog-cybersecurity-openness.md
+local_vault_path: ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cybersecurity-openness
 
 ## Local Vault File
 
-Path: [huggingface-blog-cybersecurity-openness.md](file:///../../ai/models/huggingface-blog-cybersecurity-openness.md)
+Path: [ai-and-the-future-of-cybersecurity-why-openness-ma.md](file:///../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)

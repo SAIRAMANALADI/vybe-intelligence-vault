@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents
 resource_id: huggingface:blog/smolagents
-local_vault_path: ai/agents/huggingface-blog-smolagents.md
+local_vault_path: ai/agents/introducing-smolagents-simple-agents-that-write-ac.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing smolagents: simple agents that write actions in code.
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/smolagents
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents.md](file:///../../ai/agents/huggingface-blog-smolagents.md)
+Path: [huggingface-blog-smolagents.md](file:///../../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)

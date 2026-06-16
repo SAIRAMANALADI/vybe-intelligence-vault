@@ -3,7 +3,7 @@ title: Liberate your OpenClaw
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/liberate-your-openclaw
-local_vault_path: ai/models/huggingface-blog-liberate-your-openclaw.md
+local_vault_path: ai/models/liberate-your-openclaw.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:liberate-your-openclaw
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/liberate-your-openclaw
 
 ## Local Vault File
 
-Path: [liberate-your-openclaw-f380ae.md](file:///../../ai/models/huggingface-blog-liberate-your-openclaw.md)
+Path: [liberate-your-openclaw-f380ae.md](file:///../../ai/models/liberate-your-openclaw.md)

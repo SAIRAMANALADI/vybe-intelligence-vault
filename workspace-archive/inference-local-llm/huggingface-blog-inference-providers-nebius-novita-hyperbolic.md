@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic
 resource_id: huggingface:blog/inference-providers-nebius-novita-hyperbolic
-local_vault_path: ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md
+local_vault_path: ai/models/introducing-three-new-serverless-inference-provide.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Three New Serverless Inference Providers: Hyperbolic, Nebius AI Studio, and Novita 🔥
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-nebius-novi
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-nebius-novita-hyperbolic.md](file:///../../ai/models/huggingface-blog-inference-providers-nebius-novita-hyperbolic.md)
+Path: [huggingface-blog-inference-providers-nebius-novita-hyperbolic.md](file:///../../ai/models/introducing-three-new-serverless-inference-provide.md)

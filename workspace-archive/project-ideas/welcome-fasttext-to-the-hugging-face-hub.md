@@ -3,7 +3,7 @@ title: Welcome fastText to the Hugging Face Hub
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/fasttext
-local_vault_path: ai/models/huggingface-blog-fasttext.md
+local_vault_path: ai/models/welcome-fasttext-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-fasttext-to-the-hugging-face-hub
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/fasttext
 
 ## Local Vault File
 
-Path: [welcome-fasttext-to-the-hugging-face-hub-a4a618.md](file:///../../ai/models/huggingface-blog-fasttext.md)
+Path: [welcome-fasttext-to-the-hugging-face-hub-a4a618.md](file:///../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)

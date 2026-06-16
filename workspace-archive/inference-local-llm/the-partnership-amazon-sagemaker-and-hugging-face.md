@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face
 resource_id: blog:the-partnership-amazon-sagemaker-and-hugging-face
-local_vault_path: ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md
+local_vault_path: ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-partnership-amazon-sagemake
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md](file:///../../ai/models/huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md)
+Path: [the-partnership-amazon-sagemaker-and-hugging-face.md](file:///../../ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)

@@ -11,6 +11,7 @@ resource_id: github:shadcn-ui/taxonomy
 
 
 
+
 # shadcn-ui/taxonomy
 
 ## Why This Is In The Archive

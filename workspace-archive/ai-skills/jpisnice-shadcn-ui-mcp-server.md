@@ -11,6 +11,7 @@ resource_id: github:jpisnice/shadcn-ui-mcp-server
 
 
 
+
 # Jpisnice/shadcn-ui-mcp-server
 
 ## Why This Is In The Archive

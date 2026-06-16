@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/waypoint-1-5
 resource_id: huggingface:blog/waypoint-1-5
-local_vault_path: ai/models/huggingface-blog-waypoint-1-5.md
+local_vault_path: ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-waypoint-1-5.md](file:///../../ai/models/huggingface-blog-waypoint-1-5.md)
+Path: [huggingface-blog-waypoint-1-5.md](file:///../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ggml-org
 resource_id: huggingface:blog/ggml-org
-local_vault_path: ai/models/huggingface-blog-ggml-org.md
+local_vault_path: ai/models/new-in-llama-cpp-model-management.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # New in llama.cpp: Model Management
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/ggml-org
 
 ## Local Vault File
 
-Path: [huggingface-blog-ggml-org.md](file:///../../ai/models/huggingface-blog-ggml-org.md)
+Path: [huggingface-blog-ggml-org.md](file:///../../ai/models/new-in-llama-cpp-model-management.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/modular-diffusers
 resource_id: blog:introducing-modular-diffusers-composable-building
-local_vault_path: ai/models/huggingface-blog-modular-diffusers.md
+local_vault_path: ai/models/introducing-modular-diffusers-composable-building.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modular-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-modular-diffusers.md](file:///../../ai/models/huggingface-blog-modular-diffusers.md)
+Path: [introducing-modular-diffusers-composable-building.md](file:///../../ai/models/introducing-modular-diffusers-composable-building.md)

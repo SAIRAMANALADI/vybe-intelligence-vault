@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-dataframe-upgrade
 resource_id: huggingface:blog/gradio-dataframe-upgrade
-local_vault_path: ai/models/huggingface-blog-gradio-dataframe-upgrade.md
+local_vault_path: ai/models/introducing-gradio-s-new-dataframe.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Gradio's new Dataframe!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-dataframe-upgrade
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-dataframe-upgrade.md](file:///../../ai/models/huggingface-blog-gradio-dataframe-upgrade.md)
+Path: [huggingface-blog-gradio-dataframe-upgrade.md](file:///../../ai/models/introducing-gradio-s-new-dataframe.md)

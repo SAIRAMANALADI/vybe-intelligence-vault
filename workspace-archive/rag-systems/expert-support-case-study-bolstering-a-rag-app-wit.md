@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/digital-green-llm-judge
 resource_id: blog:expert-support-case-study-bolstering-a-rag-app-wit
-local_vault_path: ai/rag/huggingface-blog-digital-green-llm-judge.md
+local_vault_path: ai/rag/expert-support-case-study-bolstering-a-rag-app-wit.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/digital-green-llm-judge
 
 ## Local Vault File
 
-Path: [huggingface-blog-digital-green-llm-judge.md](file:///../../ai/rag/huggingface-blog-digital-green-llm-judge.md)
+Path: [expert-support-case-study-bolstering-a-rag-app-wit.md](file:///../../ai/rag/expert-support-case-study-bolstering-a-rag-app-wit.md)

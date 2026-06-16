@@ -3,7 +3,7 @@ title: Panel on Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/panel-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-panel-on-hugging-face.md
+local_vault_path: ai/models/panel-on-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:panel-on-hugging-face
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/panel-on-hugging-face
 
 ## Local Vault File
 
-Path: [panel-on-hugging-face-d712b1.md](file:///../../ai/models/huggingface-blog-panel-on-hugging-face.md)
+Path: [panel-on-hugging-face-d712b1.md](file:///../../ai/models/panel-on-hugging-face.md)

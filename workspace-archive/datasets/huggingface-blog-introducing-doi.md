@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-doi
 resource_id: huggingface:blog/introducing-doi
-local_vault_path: ai/models/huggingface-blog-introducing-doi.md
+local_vault_path: ai/models/introducing-doi-the-digital-object-identifier-to-d.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Introducing DOI: the Digital Object Identifier to Datasets and Models
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/introducing-doi
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-doi.md](file:///../../ai/models/huggingface-blog-introducing-doi.md)
+Path: [huggingface-blog-introducing-doi.md](file:///../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)

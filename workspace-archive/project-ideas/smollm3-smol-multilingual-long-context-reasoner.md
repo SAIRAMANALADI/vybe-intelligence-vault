@@ -3,7 +3,7 @@ title: 'SmolLM3: smol, multilingual, long-context reasoner'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/smollm3
-local_vault_path: ai/models/huggingface-blog-smollm3.md
+local_vault_path: ai/models/smollm3-smol-multilingual-long-context-reasoner.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:smollm3-smol-multilingual-long-context-reasoner
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/smollm3
 
 ## Local Vault File
 
-Path: [smollm3-smol-multilingual-long-context-reasoner-b1f113.md](file:///../../ai/models/huggingface-blog-smollm3.md)
+Path: [smollm3-smol-multilingual-long-context-reasoner-b1f113.md](file:///../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)

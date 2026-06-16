@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/starcoder2
 resource_id: huggingface:blog/starcoder2
-local_vault_path: ai/models/huggingface-blog-starcoder2.md
+local_vault_path: ai/models/starcoder2-and-the-stack-v2.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # StarCoder2 and The Stack v2
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/starcoder2
 
 ## Local Vault File
 
-Path: [huggingface-blog-starcoder2.md](file:///../../ai/models/huggingface-blog-starcoder2.md)
+Path: [huggingface-blog-starcoder2.md](file:///../../ai/models/starcoder2-and-the-stack-v2.md)

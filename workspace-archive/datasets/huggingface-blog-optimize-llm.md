@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimize-llm
 resource_id: huggingface:blog/optimize-llm
-local_vault_path: ai/models/huggingface-blog-optimize-llm.md
+local_vault_path: ai/models/optimizing-your-llm-in-production.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Optimizing your LLM in production
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/optimize-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimize-llm.md](file:///../../ai/models/huggingface-blog-optimize-llm.md)
+Path: [huggingface-blog-optimize-llm.md](file:///../../ai/models/optimizing-your-llm-in-production.md)

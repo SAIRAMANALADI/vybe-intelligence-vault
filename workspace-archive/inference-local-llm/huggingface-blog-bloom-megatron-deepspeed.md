@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-megatron-deepspeed
 resource_id: huggingface:blog/bloom-megatron-deepspeed
-local_vault_path: ai/models/huggingface-blog-bloom-megatron-deepspeed.md
+local_vault_path: ai/models/the-technology-behind-bloom-training.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # The Technology Behind BLOOM Training
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/bloom-megatron-deepspeed
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-megatron-deepspeed.md](file:///../../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
+Path: [huggingface-blog-bloom-megatron-deepspeed.md](file:///../../ai/models/the-technology-behind-bloom-training.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/azure-ai-foundry
 resource_id: blog:microsoft-and-hugging-face-expand-collaboration
-local_vault_path: ai/models/huggingface-blog-azure-ai-foundry.md
+local_vault_path: ai/models/microsoft-and-hugging-face-expand-collaboration.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/azure-ai-foundry
 
 ## Local Vault File
 
-Path: [huggingface-blog-azure-ai-foundry.md](file:///../../ai/models/huggingface-blog-azure-ai-foundry.md)
+Path: [microsoft-and-hugging-face-expand-collaboration.md](file:///../../ai/models/microsoft-and-hugging-face-expand-collaboration.md)

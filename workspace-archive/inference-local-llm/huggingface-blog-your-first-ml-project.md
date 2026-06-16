@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/your-first-ml-project
 resource_id: huggingface:blog/your-first-ml-project
-local_vault_path: ai/models/huggingface-blog-your-first-ml-project.md
+local_vault_path: ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Liftoff! How to get started with your first ML project 🚀
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/your-first-ml-project
 
 ## Local Vault File
 
-Path: [huggingface-blog-your-first-ml-project.md](file:///../../ai/models/huggingface-blog-your-first-ml-project.md)
+Path: [huggingface-blog-your-first-ml-project.md](file:///../../ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)

@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/dabstep
 resource_id: blog:dabstep-data-agent-benchmark-for-multi-step-reason
-local_vault_path: ai/agents/huggingface-blog-dabstep.md
+local_vault_path: ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/dabstep
 
 ## Local Vault File
 
-Path: [huggingface-blog-dabstep.md](file:///../../ai/agents/huggingface-blog-dabstep.md)
+Path: [dabstep-data-agent-benchmark-for-multi-step-reason.md](file:///../../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/spaces-dev-mode
 resource_id: huggingface:blog/spaces-dev-mode
-local_vault_path: ai/models/huggingface-blog-spaces-dev-mode.md
+local_vault_path: ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Spaces Dev Mode for a seamless developer experience
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/spaces-dev-mode
 
 ## Local Vault File
 
-Path: [huggingface-blog-spaces-dev-mode.md](file:///../../ai/models/huggingface-blog-spaces-dev-mode.md)
+Path: [huggingface-blog-spaces-dev-mode.md](file:///../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)

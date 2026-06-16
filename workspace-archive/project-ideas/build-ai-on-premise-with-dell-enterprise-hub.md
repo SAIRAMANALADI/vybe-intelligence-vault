@@ -3,7 +3,7 @@ title: Build AI on premise with Dell Enterprise Hub
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/dell-enterprise-hub
-local_vault_path: ai/models/huggingface-blog-dell-enterprise-hub.md
+local_vault_path: ai/models/build-ai-on-premise-with-dell-enterprise-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:build-ai-on-premise-with-dell-enterprise-hub
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/dell-enterprise-hub
 
 ## Local Vault File
 
-Path: [build-ai-on-premise-with-dell-enterprise-hub-961f29.md](file:///../../ai/models/huggingface-blog-dell-enterprise-hub.md)
+Path: [build-ai-on-premise-with-dell-enterprise-hub-961f29.md](file:///../../ai/models/build-ai-on-premise-with-dell-enterprise-hub.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-coreml-llm
 resource_id: huggingface:blog/swift-coreml-llm
-local_vault_path: ai/models/huggingface-blog-swift-coreml-llm.md
+local_vault_path: ai/models/releasing-swift-transformers-run-on-device-llms-in.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Releasing Swift Transformers: Run On-Device LLMs in Apple Devices
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/swift-coreml-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-coreml-llm.md](file:///../../ai/models/huggingface-blog-swift-coreml-llm.md)
+Path: [huggingface-blog-swift-coreml-llm.md](file:///../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)

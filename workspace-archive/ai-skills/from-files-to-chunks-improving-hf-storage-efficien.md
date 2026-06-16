@@ -3,11 +3,12 @@ title: 'From Files to Chunks: Improving HF Storage Efficiency'
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/from-files-to-chunks
-local_vault_path: ai/rag/huggingface-blog-from-files-to-chunks.md
+local_vault_path: ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md
 tags:
 - rag
 resource_id: blog:from-files-to-chunks-improving-hf-storage-efficien
 ---
+
 
 
 # From Files to Chunks: Improving HF Storage Efficiency

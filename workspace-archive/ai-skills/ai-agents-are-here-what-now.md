@@ -3,11 +3,12 @@ title: AI Agents Are Here. What Now?
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ethics-soc-7
-local_vault_path: ai/agents/huggingface-blog-ethics-soc-7.md
+local_vault_path: ai/agents/ai-agents-are-here-what-now.md
 tags:
 - agents
 resource_id: blog:ai-agents-are-here-what-now
 ---
+
 
 
 

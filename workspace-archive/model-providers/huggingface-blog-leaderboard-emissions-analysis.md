@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-emissions-analysis
 resource_id: huggingface:blog/leaderboard-emissions-analysis
-local_vault_path: ai/models/huggingface-blog-leaderboard-emissions-analysis.md
+local_vault_path: ai/models/co2-emissions-and-models-performance-insights-from.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-emissions-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-emissions-analysis.md](file:///../../ai/models/huggingface-blog-leaderboard-emissions-analysis.md)
+Path: [huggingface-blog-leaderboard-emissions-analysis.md](file:///../../ai/models/co2-emissions-and-models-performance-insights-from.md)

@@ -3,9 +3,10 @@ title: 'MCP for Research: How to Connect AI to Research Tools'
 archive_category: mcp-servers
 source_category: ai/models
 source_url: https://huggingface.co/blog/mcp-for-research
-local_vault_path: ai/models/huggingface-blog-mcp-for-research.md
+local_vault_path: ai/models/mcp-for-research-how-to-connect-ai-to-research-too.md
 resource_id: blog:mcp-for-research-how-to-connect-ai-to-research-too
 ---
+
 
 
 # MCP for Research: How to Connect AI to Research Tools

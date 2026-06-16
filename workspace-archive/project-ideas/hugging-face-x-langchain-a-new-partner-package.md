@@ -3,7 +3,7 @@ title: 'Hugging Face x LangChain : A new partner package'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/langchain
-local_vault_path: ai/models/huggingface-blog-langchain.md
+local_vault_path: ai/models/hugging-face-x-langchain-a-new-partner-package.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:hugging-face-x-langchain-a-new-partner-package
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/langchain
 
 ## Local Vault File
 
-Path: [hugging-face-x-langchain-a-new-partner-package-a1209f.md](file:///../../ai/models/huggingface-blog-langchain.md)
+Path: [hugging-face-x-langchain-a-new-partner-package-a1209f.md](file:///../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)

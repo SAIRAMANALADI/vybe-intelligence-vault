@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/galore
 resource_id: blog:galore-advancing-large-model-training-on-consumer
-local_vault_path: ai/models/huggingface-blog-galore.md
+local_vault_path: ai/models/galore-advancing-large-model-training-on-consumer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/galore
 
 ## Local Vault File
 
-Path: [huggingface-blog-galore.md](file:///../../ai/models/huggingface-blog-galore.md)
+Path: [galore-advancing-large-model-training-on-consumer.md](file:///../../ai/models/galore-advancing-large-model-training-on-consumer.md)

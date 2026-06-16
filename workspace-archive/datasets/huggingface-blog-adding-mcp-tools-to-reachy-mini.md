@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 resource_id: huggingface:blog/adding-mcp-tools-to-reachy-mini
-local_vault_path: ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md
+local_vault_path: ai/models/adding-mcp-tools-to-reachy-mini.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Adding MCP Tools to Reachy Mini
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/huggingface-blog-adding-mcp-tools-to-reachy-mini.md)
+Path: [huggingface-blog-adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/adding-mcp-tools-to-reachy-mini.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai
 resource_id: blog:sair-accelerating-pharma-r-d-with-ai-powered-struc
-local_vault_path: ai/models/huggingface-blog-sandboxaq.md
+local_vault_path: ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sandboxaq/sair-data-acceleratin
 
 ## Local Vault File
 
-Path: [huggingface-blog-sandboxaq.md](file:///../../ai/models/huggingface-blog-sandboxaq.md)
+Path: [sair-accelerating-pharma-r-d-with-ai-powered-struc.md](file:///../../ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)

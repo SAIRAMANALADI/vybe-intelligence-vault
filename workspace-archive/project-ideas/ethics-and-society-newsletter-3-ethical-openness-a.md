@@ -3,7 +3,7 @@ title: 'Ethics and Society Newsletter #3: Ethical Openness at Hugging Face'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-3
-local_vault_path: ai/models/huggingface-blog-ethics-soc-3.md
+local_vault_path: ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:ethics-and-society-newsletter-3-ethical-openness-a
 ---
+
 
 
 # Ethics and Society Newsletter #3: Ethical Openness at Hugging Face
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-3
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-3-ethical-openness-at-hugging-face-82a795.md](file:///../../ai/models/huggingface-blog-ethics-soc-3.md)
+Path: [ethics-and-society-newsletter-3-ethical-openness-at-hugging-face-82a795.md](file:///../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)

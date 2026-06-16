@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fl-with-flower
 resource_id: huggingface:blog/fl-with-flower
-local_vault_path: ai/models/huggingface-blog-fl-with-flower.md
+local_vault_path: ai/models/federated-learning-using-hugging-face-and-flower.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Federated Learning using Hugging Face and Flower
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fl-with-flower
 
 ## Local Vault File
 
-Path: [huggingface-blog-fl-with-flower.md](file:///../../ai/models/huggingface-blog-fl-with-flower.md)
+Path: [huggingface-blog-fl-with-flower.md](file:///../../ai/models/federated-learning-using-hugging-face-and-flower.md)

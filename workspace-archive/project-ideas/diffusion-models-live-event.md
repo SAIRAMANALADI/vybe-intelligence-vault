@@ -3,7 +3,7 @@ title: Diffusion Models Live Event
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusion-models-event
-local_vault_path: ai/models/huggingface-blog-diffusion-models-event.md
+local_vault_path: ai/models/diffusion-models-live-event.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:diffusion-models-live-event
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [diffusion-models-live-event-e2b6d9.md](file:///../../ai/models/huggingface-blog-diffusion-models-event.md)
+Path: [diffusion-models-live-event-e2b6d9.md](file:///../../ai/models/diffusion-models-live-event.md)

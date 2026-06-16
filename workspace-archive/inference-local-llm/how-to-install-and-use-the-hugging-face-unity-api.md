@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/unity-api
 resource_id: blog:how-to-install-and-use-the-hugging-face-unity-api
-local_vault_path: ai/models/huggingface-blog-unity-api.md
+local_vault_path: ai/models/how-to-install-and-use-the-hugging-face-unity-api.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-api
 
 ## Local Vault File
 
-Path: [huggingface-blog-unity-api.md](file:///../../ai/models/huggingface-blog-unity-api.md)
+Path: [how-to-install-and-use-the-hugging-face-unity-api.md](file:///../../ai/models/how-to-install-and-use-the-hugging-face-unity-api.md)

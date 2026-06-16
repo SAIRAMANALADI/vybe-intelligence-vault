@@ -3,7 +3,7 @@ title: Introducing the Open Leaderboard for Hebrew LLMs!
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-hebrew
-local_vault_path: ai/models/huggingface-blog-leaderboard-hebrew.md
+local_vault_path: ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-the-open-leaderboard-for-hebrew-llms
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hebrew
 
 ## Local Vault File
 
-Path: [introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md](file:///../../ai/models/huggingface-blog-leaderboard-hebrew.md)
+Path: [introducing-the-open-leaderboard-for-hebrew-llms-7f8e26.md](file:///../../ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md)

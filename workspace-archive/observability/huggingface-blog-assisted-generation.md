@@ -4,7 +4,7 @@ archive_category: observability
 source_category: ai/models
 source_url: https://huggingface.co/blog/assisted-generation
 resource_id: huggingface:blog/assisted-generation
-local_vault_path: ai/models/huggingface-blog-assisted-generation.md
+local_vault_path: ai/models/assisted-generation-a-new-direction-toward-low-lat.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Assisted Generation: a new direction toward low-latency text generation
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation
 
 ## Local Vault File
 
-Path: [huggingface-blog-assisted-generation.md](file:///../../ai/models/huggingface-blog-assisted-generation.md)
+Path: [huggingface-blog-assisted-generation.md](file:///../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)

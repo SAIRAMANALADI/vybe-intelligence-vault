@@ -3,7 +3,7 @@ title: SOTA OCR with Core ML and dots.ocr
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/dots-ocr-ne
-local_vault_path: ai/models/huggingface-blog-dots-ocr-ne.md
+local_vault_path: ai/models/sota-ocr-with-core-ml-and-dots-ocr.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:sota-ocr-with-core-ml-and-dots-ocr
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/dots-ocr-ne
 
 ## Local Vault File
 
-Path: [sota-ocr-with-core-ml-and-dots-ocr-d1301a.md](file:///../../ai/models/huggingface-blog-dots-ocr-ne.md)
+Path: [sota-ocr-with-core-ml-and-dots-ocr-d1301a.md](file:///../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)

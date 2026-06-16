@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/jfrog
 resource_id: blog:hugging-face-and-jfrog-partner-to-make-ai-security
-local_vault_path: ai/models/huggingface-blog-jfrog.md
+local_vault_path: ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [huggingface-blog-jfrog.md](file:///../../ai/models/huggingface-blog-jfrog.md)
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)

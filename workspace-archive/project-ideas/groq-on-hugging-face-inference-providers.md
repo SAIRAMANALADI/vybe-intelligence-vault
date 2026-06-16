@@ -3,7 +3,7 @@ title: Groq on Hugging Face Inference Providers 🔥
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-groq
-local_vault_path: ai/models/huggingface-blog-inference-providers-groq.md
+local_vault_path: ai/models/groq-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:groq-on-hugging-face-inference-providers
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-groq
 
 ## Local Vault File
 
-Path: [groq-on-hugging-face-inference-providers-159ff2.md](file:///../../ai/models/huggingface-blog-inference-providers-groq.md)
+Path: [groq-on-hugging-face-inference-providers-159ff2.md](file:///../../ai/models/groq-on-hugging-face-inference-providers.md)

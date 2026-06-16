@@ -5,7 +5,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ecom-rlve
 resource_id: blog:ecom-rlve-adaptive-verifiable-environments-for-e-c
-local_vault_path: ai/agents/huggingface-blog-ecom-rlve.md
+local_vault_path: ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ecom-rlve
 
 ## Local Vault File
 
-Path: [huggingface-blog-ecom-rlve.md](file:///../../ai/agents/huggingface-blog-ecom-rlve.md)
+Path: [ecom-rlve-adaptive-verifiable-environments-for-e-c.md](file:///../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-peft
 resource_id: blog:fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer
-local_vault_path: ai/models/huggingface-blog-trl-peft.md
+local_vault_path: ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/trl-peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-peft.md](file:///../../ai/models/huggingface-blog-trl-peft.md)
+Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md](file:///../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)

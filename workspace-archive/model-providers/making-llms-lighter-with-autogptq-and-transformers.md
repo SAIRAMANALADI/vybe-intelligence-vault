@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gptq-integration
 resource_id: blog:making-llms-lighter-with-autogptq-and-transformers
-local_vault_path: ai/models/huggingface-blog-gptq-integration.md
+local_vault_path: ai/models/making-llms-lighter-with-autogptq-and-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-gptq-integration.md](file:///../../ai/models/huggingface-blog-gptq-integration.md)
+Path: [making-llms-lighter-with-autogptq-and-transformers.md](file:///../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)

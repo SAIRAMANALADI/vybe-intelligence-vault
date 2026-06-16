@@ -3,7 +3,7 @@ title: Interactively explore your Huggingface dataset with one line of code
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/scalable-data-inspection
-local_vault_path: ai/models/huggingface-blog-scalable-data-inspection.md
+local_vault_path: ai/models/interactively-explore-your-huggingface-dataset-wit.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:interactively-explore-your-huggingface-dataset-wit
 ---
+
 
 
 # Interactively explore your Huggingface dataset with one line of code
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/scalable-data-inspection
 
 ## Local Vault File
 
-Path: [interactively-explore-your-huggingface-dataset-with-one-line-of-code-4edc5d.md](file:///../../ai/models/huggingface-blog-scalable-data-inspection.md)
+Path: [interactively-explore-your-huggingface-dataset-with-one-line-of-code-4edc5d.md](file:///../../ai/models/interactively-explore-your-huggingface-dataset-wit.md)

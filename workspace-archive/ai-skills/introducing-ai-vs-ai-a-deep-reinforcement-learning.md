@@ -4,11 +4,12 @@ title: Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-a
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/aivsai
-local_vault_path: ai/agents/huggingface-blog-aivsai.md
+local_vault_path: ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md
 tags:
 - agents
 resource_id: blog:introducing-ai-vs-ai-a-deep-reinforcement-learning
 ---
+
 
 
 

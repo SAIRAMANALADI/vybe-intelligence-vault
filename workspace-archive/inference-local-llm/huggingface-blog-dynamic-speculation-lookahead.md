@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dynamic_speculation_lookahead
 resource_id: huggingface:blog/dynamic_speculation_lookahead
-local_vault_path: ai/models/huggingface-blog-dynamic-speculation-lookahead.md
+local_vault_path: ai/models/faster-assisted-generation-with-dynamic-speculatio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Faster Assisted Generation with Dynamic Speculation
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dynamic_speculation_lookahead
 
 ## Local Vault File
 
-Path: [huggingface-blog-dynamic-speculation-lookahead.md](file:///../../ai/models/huggingface-blog-dynamic-speculation-lookahead.md)
+Path: [huggingface-blog-dynamic-speculation-lookahead.md](file:///../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)

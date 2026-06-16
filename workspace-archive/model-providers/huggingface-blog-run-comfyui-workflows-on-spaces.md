@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
 resource_id: huggingface:blog/run-comfyui-workflows-on-spaces
-local_vault_path: ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md
+local_vault_path: ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-run-comfyui-workflows-on-spaces.md](file:///../../ai/models/huggingface-blog-run-comfyui-workflows-on-spaces.md)
+Path: [huggingface-blog-run-comfyui-workflows-on-spaces.md](file:///../../ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)

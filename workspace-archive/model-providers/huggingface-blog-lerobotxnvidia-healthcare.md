@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobotxnvidia-healthcare
 resource_id: huggingface:blog/lerobotxnvidia-healthcare
-local_vault_path: ai/models/huggingface-blog-lerobotxnvidia-healthcare.md
+local_vault_path: ai/models/building-a-healthcare-robot-from-simulation-to-dep.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/lerobotxnvidia-healthcare
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobotxnvidia-healthcare.md](file:///../../ai/models/huggingface-blog-lerobotxnvidia-healthcare.md)
+Path: [huggingface-blog-lerobotxnvidia-healthcare.md](file:///../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)

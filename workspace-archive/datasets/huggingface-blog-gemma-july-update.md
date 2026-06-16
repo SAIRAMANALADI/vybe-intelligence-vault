@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma-july-update
 resource_id: huggingface:blog/gemma-july-update
-local_vault_path: ai/models/huggingface-blog-gemma-july-update.md
+local_vault_path: ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Google releases Gemma 2 2B, ShieldGemma and Gemma Scope
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma-july-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma-july-update.md](file:///../../ai/models/huggingface-blog-gemma-july-update.md)
+Path: [huggingface-blog-gemma-july-update.md](file:///../../ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md)

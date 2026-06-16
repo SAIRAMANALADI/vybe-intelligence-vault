@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-decision-transformers
 resource_id: huggingface:blog/train-decision-transformers
-local_vault_path: ai/models/huggingface-blog-train-decision-transformers.md
+local_vault_path: ai/models/train-your-first-decision-transformer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Train your first Decision Transformer
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-decision-transformers.md](file:///../../ai/models/huggingface-blog-train-decision-transformers.md)
+Path: [huggingface-blog-train-decision-transformers.md](file:///../../ai/models/train-your-first-decision-transformer.md)

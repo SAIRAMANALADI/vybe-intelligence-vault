@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/streaming-datasets
 resource_id: huggingface:blog/streaming-datasets
-local_vault_path: ai/models/huggingface-blog-streaming-datasets.md
+local_vault_path: ai/models/streaming-datasets-100x-more-efficient.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Streaming datasets: 100x More Efficient
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/streaming-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-streaming-datasets.md](file:///../../ai/models/huggingface-blog-streaming-datasets.md)
+Path: [huggingface-blog-streaming-datasets.md](file:///../../ai/models/streaming-datasets-100x-more-efficient.md)

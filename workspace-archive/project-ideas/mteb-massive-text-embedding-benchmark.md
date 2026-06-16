@@ -3,7 +3,7 @@ title: 'MTEB: Massive Text Embedding Benchmark'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/mteb
-local_vault_path: ai/models/huggingface-blog-mteb.md
+local_vault_path: ai/models/mteb-massive-text-embedding-benchmark.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:mteb-massive-text-embedding-benchmark
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/mteb
 
 ## Local Vault File
 
-Path: [mteb-massive-text-embedding-benchmark-2c688f.md](file:///../../ai/models/huggingface-blog-mteb.md)
+Path: [mteb-massive-text-embedding-benchmark-2c688f.md](file:///../../ai/models/mteb-massive-text-embedding-benchmark.md)

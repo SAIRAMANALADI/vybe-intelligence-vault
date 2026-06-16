@@ -3,7 +3,7 @@ title: 'Spread Your Wings: Falcon 180B is here'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon-180b
-local_vault_path: ai/models/huggingface-blog-falcon-180b.md
+local_vault_path: ai/models/spread-your-wings-falcon-180b-is-here.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:spread-your-wings-falcon-180b-is-here
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/falcon-180b
 
 ## Local Vault File
 
-Path: [spread-your-wings-falcon-180b-is-here-51bcfe.md](file:///../../ai/models/huggingface-blog-falcon-180b.md)
+Path: [spread-your-wings-falcon-180b-is-here-51bcfe.md](file:///../../ai/models/spread-your-wings-falcon-180b-is-here.md)

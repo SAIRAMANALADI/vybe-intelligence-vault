@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/openenv
 resource_id: blog:building-the-open-agent-ecosystem-together-introdu
-local_vault_path: ai/agents/huggingface-blog-openenv.md
+local_vault_path: ai/agents/building-the-open-agent-ecosystem-together-introdu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv
 
 ## Local Vault File
 
-Path: [huggingface-blog-openenv.md](file:///../../ai/agents/huggingface-blog-openenv.md)
+Path: [building-the-open-agent-ecosystem-together-introdu.md](file:///../../ai/agents/building-the-open-agent-ecosystem-together-introdu.md)

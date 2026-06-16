@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
 
 ## Why This Is In The Archive

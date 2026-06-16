@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/embeddinggemma
 resource_id: huggingface:blog/embeddinggemma
-local_vault_path: ai/models/huggingface-blog-embeddinggemma.md
+local_vault_path: ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Welcome EmbeddingGemma, Google's new efficient embedding model
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/embeddinggemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-embeddinggemma.md](file:///../../ai/models/huggingface-blog-embeddinggemma.md)
+Path: [huggingface-blog-embeddinggemma.md](file:///../../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)

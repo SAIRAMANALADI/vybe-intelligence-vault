@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-featherless
 resource_id: huggingface:blog/inference-providers-featherless
-local_vault_path: ai/models/huggingface-blog-inference-providers-featherless.md
+local_vault_path: ai/models/featherless-ai-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Featherless AI on Hugging Face Inference Providers 🔥
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-featherless
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-featherless.md](file:///../../ai/models/huggingface-blog-inference-providers-featherless.md)
+Path: [huggingface-blog-inference-providers-featherless.md](file:///../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)

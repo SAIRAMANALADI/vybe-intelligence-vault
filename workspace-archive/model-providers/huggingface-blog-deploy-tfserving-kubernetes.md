@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-tfserving-kubernetes
 resource_id: huggingface:blog/deploy-tfserving-kubernetes
-local_vault_path: ai/models/huggingface-blog-deploy-tfserving-kubernetes.md
+local_vault_path: ai/models/deploying-vit-on-kubernetes-with-tf-serving.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploying 🤗 ViT on Kubernetes with TF Serving
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deploy-tfserving-kubernetes
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-tfserving-kubernetes.md](file:///../../ai/models/huggingface-blog-deploy-tfserving-kubernetes.md)
+Path: [huggingface-blog-deploy-tfserving-kubernetes.md](file:///../../ai/models/deploying-vit-on-kubernetes-with-tf-serving.md)

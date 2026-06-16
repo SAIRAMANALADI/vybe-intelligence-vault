@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 resource_id: blog:hugging-face-collaborates-with-microsoft-to-launch
-local_vault_path: ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md
+local_vault_path: ai/models/hugging-face-collaborates-with-microsoft-to-launch.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugging-face-endpoints-on-azure.md](file:///../../ai/models/huggingface-blog-hugging-face-endpoints-on-azure.md)
+Path: [hugging-face-collaborates-with-microsoft-to-launch.md](file:///../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)

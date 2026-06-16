@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/mistral-coreml
 resource_id: blog:wwdc-24-running-mistral-7b-with-core-ml
-local_vault_path: ai/models/huggingface-blog-mistral-coreml.md
+local_vault_path: ai/models/wwdc-24-running-mistral-7b-with-core-ml.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/mistral-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-mistral-coreml.md](file:///../../ai/models/huggingface-blog-mistral-coreml.md)
+Path: [wwdc-24-running-mistral-7b-with-core-ml.md](file:///../../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)

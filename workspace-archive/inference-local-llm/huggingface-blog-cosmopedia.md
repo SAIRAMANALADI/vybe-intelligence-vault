@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/cosmopedia
 resource_id: huggingface:blog/cosmopedia
-local_vault_path: ai/models/huggingface-blog-cosmopedia.md
+local_vault_path: ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Cosmopedia: how to create large-scale synthetic data for pre-training Large Language Models
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/cosmopedia
 
 ## Local Vault File
 
-Path: [huggingface-blog-cosmopedia.md](file:///../../ai/models/huggingface-blog-cosmopedia.md)
+Path: [huggingface-blog-cosmopedia.md](file:///../../ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bridgetower
 resource_id: huggingface:blog/bridgetower
-local_vault_path: ai/models/huggingface-blog-bridgetower.md
+local_vault_path: ai/models/accelerating-vision-language-models-bridgetower-on.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bridgetower
 
 ## Local Vault File
 
-Path: [huggingface-blog-bridgetower.md](file:///../../ai/models/huggingface-blog-bridgetower.md)
+Path: [huggingface-blog-bridgetower.md](file:///../../ai/models/accelerating-vision-language-models-bridgetower-on.md)

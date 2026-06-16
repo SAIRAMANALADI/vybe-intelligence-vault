@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/starchat-alpha
 resource_id: blog:creating-a-coding-assistant-with-starcoder
-local_vault_path: ai/models/huggingface-blog-starchat-alpha.md
+local_vault_path: ai/models/creating-a-coding-assistant-with-starcoder.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starchat-alpha
 
 ## Local Vault File
 
-Path: [huggingface-blog-starchat-alpha.md](file:///../../ai/models/huggingface-blog-starchat-alpha.md)
+Path: [creating-a-coding-assistant-with-starcoder.md](file:///../../ai/models/creating-a-coding-assistant-with-starcoder.md)

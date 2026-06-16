@@ -19,6 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # OpenAI Prepping for On-Prem Product?
 
 ## Why This Is In The Archive

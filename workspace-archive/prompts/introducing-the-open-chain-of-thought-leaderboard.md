@@ -3,9 +3,10 @@ title: Introducing the Open Chain of Thought Leaderboard
 archive_category: prompts
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-cot
-local_vault_path: ai/models/huggingface-blog-leaderboard-cot.md
+local_vault_path: ai/models/introducing-the-open-chain-of-thought-leaderboard.md
 resource_id: blog:introducing-the-open-chain-of-thought-leaderboard
 ---
+
 
 
 

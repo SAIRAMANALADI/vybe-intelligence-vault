@@ -3,7 +3,7 @@ title: Optimizing your LLM in production
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimize-llm
-local_vault_path: ai/models/huggingface-blog-optimize-llm.md
+local_vault_path: ai/models/optimizing-your-llm-in-production.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:optimizing-your-llm-in-production
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/optimize-llm
 
 ## Local Vault File
 
-Path: [optimizing-your-llm-in-production-bda497.md](file:///../../ai/models/huggingface-blog-optimize-llm.md)
+Path: [optimizing-your-llm-in-production-bda497.md](file:///../../ai/models/optimizing-your-llm-in-production.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-cpu-scaling-part-1
 resource_id: huggingface:blog/bert-cpu-scaling-part-1
-local_vault_path: ai/models/huggingface-blog-bert-cpu-scaling-part-1.md
+local_vault_path: ai/models/scaling-up-bert-inference-on-cpu-part-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Scaling-up BERT Inference on CPU (Part 1)
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bert-cpu-scaling-part-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-cpu-scaling-part-1.md](file:///../../ai/models/huggingface-blog-bert-cpu-scaling-part-1.md)
+Path: [huggingface-blog-bert-cpu-scaling-part-1.md](file:///../../ai/models/scaling-up-bert-inference-on-cpu-part-1.md)

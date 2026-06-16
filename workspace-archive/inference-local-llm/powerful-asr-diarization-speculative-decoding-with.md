@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/asr-diarization
 resource_id: blog:powerful-asr-diarization-speculative-decoding-with
-local_vault_path: ai/models/huggingface-blog-asr-diarization.md
+local_vault_path: ai/models/powerful-asr-diarization-speculative-decoding-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/asr-diarization
 
 ## Local Vault File
 
-Path: [huggingface-blog-asr-diarization.md](file:///../../ai/models/huggingface-blog-asr-diarization.md)
+Path: [powerful-asr-diarization-speculative-decoding-with.md](file:///../../ai/models/powerful-asr-diarization-speculative-decoding-with.md)

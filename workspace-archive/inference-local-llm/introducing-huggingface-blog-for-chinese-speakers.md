@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/chinese-language-blog
 resource_id: blog:introducing-huggingface-blog-for-chinese-speakers
-local_vault_path: ai/models/huggingface-blog-chinese-language-blog.md
+local_vault_path: ai/models/introducing-huggingface-blog-for-chinese-speakers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/chinese-language-blog
 
 ## Local Vault File
 
-Path: [huggingface-blog-chinese-language-blog.md](file:///../../ai/models/huggingface-blog-chinese-language-blog.md)
+Path: [introducing-huggingface-blog-for-chinese-speakers.md](file:///../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/mnist-adversarial
 resource_id: huggingface:blog/mnist-adversarial
-local_vault_path: ai/models/huggingface-blog-mnist-adversarial.md
+local_vault_path: ai/models/how-to-train-your-model-dynamically-using-adversar.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How to train your model dynamically using adversarial data
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mnist-adversarial
 
 ## Local Vault File
 
-Path: [huggingface-blog-mnist-adversarial.md](file:///../../ai/models/huggingface-blog-mnist-adversarial.md)
+Path: [huggingface-blog-mnist-adversarial.md](file:///../../ai/models/how-to-train-your-model-dynamically-using-adversar.md)

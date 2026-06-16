@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf_tpu
 resource_id: blog:training-a-language-model-with-transformers-using
-local_vault_path: ai/models/huggingface-blog-tf-tpu.md
+local_vault_path: ai/models/training-a-language-model-with-transformers-using.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf_tpu
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-tpu.md](file:///../../ai/models/huggingface-blog-tf-tpu.md)
+Path: [training-a-language-model-with-transformers-using.md](file:///../../ai/models/training-a-language-model-with-transformers-using.md)

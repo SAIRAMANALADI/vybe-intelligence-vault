@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/flux-qlora
 resource_id: huggingface:blog/flux-qlora
-local_vault_path: ai/models/huggingface-blog-flux-qlora.md
+local_vault_path: ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: [huggingface-blog-flux-qlora.md](file:///../../ai/models/huggingface-blog-flux-qlora.md)
+Path: [huggingface-blog-flux-qlora.md](file:///../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)

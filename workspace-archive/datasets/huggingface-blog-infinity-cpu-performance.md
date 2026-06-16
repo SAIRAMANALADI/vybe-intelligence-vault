@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/infinity-cpu-performance
 resource_id: huggingface:blog/infinity-cpu-performance
-local_vault_path: ai/models/huggingface-blog-infinity-cpu-performance.md
+local_vault_path: ai/models/case-study-millisecond-latency-using-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/infinity-cpu-performance
 
 ## Local Vault File
 
-Path: [huggingface-blog-infinity-cpu-performance.md](file:///../../ai/models/huggingface-blog-infinity-cpu-performance.md)
+Path: [huggingface-blog-infinity-cpu-performance.md](file:///../../ai/models/case-study-millisecond-latency-using-hugging-face.md)

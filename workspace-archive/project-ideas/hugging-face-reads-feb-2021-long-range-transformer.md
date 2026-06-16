@@ -3,7 +3,7 @@ title: Hugging Face Reads, Feb. 2021 - Long-range Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/long-range-transformers
-local_vault_path: ai/models/huggingface-blog-long-range-transformers.md
+local_vault_path: ai/models/hugging-face-reads-feb-2021-long-range-transformer.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:hugging-face-reads-feb-2021-long-range-transformer
 ---
+
 
 
 # Hugging Face Reads, Feb. 2021 - Long-range Transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/long-range-transformers
 
 ## Local Vault File
 
-Path: [hugging-face-reads-feb-2021-long-range-transformers-be32e9.md](file:///../../ai/models/huggingface-blog-long-range-transformers.md)
+Path: [hugging-face-reads-feb-2021-long-range-transformers-be32e9.md](file:///../../ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)

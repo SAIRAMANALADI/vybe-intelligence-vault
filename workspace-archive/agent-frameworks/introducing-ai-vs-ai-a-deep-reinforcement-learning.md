@@ -5,7 +5,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/aivsai
 resource_id: blog:introducing-ai-vs-ai-a-deep-reinforcement-learning
-local_vault_path: ai/agents/huggingface-blog-aivsai.md
+local_vault_path: ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [huggingface-blog-aivsai.md](file:///../../ai/agents/huggingface-blog-aivsai.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)

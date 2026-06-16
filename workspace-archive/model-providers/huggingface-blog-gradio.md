@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio
 resource_id: huggingface:blog/gradio
-local_vault_path: ai/models/huggingface-blog-gradio.md
+local_vault_path: ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Using & Mixing Hugging Face Models with Gradio 2.0
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio.md](file:///../../ai/models/huggingface-blog-gradio.md)
+Path: [huggingface-blog-gradio.md](file:///../../ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md)

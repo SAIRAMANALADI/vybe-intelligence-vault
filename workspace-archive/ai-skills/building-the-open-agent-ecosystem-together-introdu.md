@@ -3,11 +3,12 @@ title: 'Building the Open Agent Ecosystem Together: Introducing OpenEnv'
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/openenv
-local_vault_path: ai/agents/huggingface-blog-openenv.md
+local_vault_path: ai/agents/building-the-open-agent-ecosystem-together-introdu.md
 tags:
 - agents
 resource_id: blog:building-the-open-agent-ecosystem-together-introdu
 ---
+
 
 
 # Building the Open Agent Ecosystem Together: Introducing OpenEnv

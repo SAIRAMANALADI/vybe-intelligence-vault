@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-pg
 resource_id: blog:policy-gradient-with-pytorch
-local_vault_path: ai/models/huggingface-blog-deep-rl-pg.md
+local_vault_path: ai/models/policy-gradient-with-pytorch.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-pg
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-pg.md](file:///../../ai/models/huggingface-blog-deep-rl-pg.md)
+Path: [policy-gradient-with-pytorch.md](file:///../../ai/models/policy-gradient-with-pytorch.md)

@@ -3,7 +3,7 @@ title: Reachy Mini goes fully local
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/local-reachy-mini-conversation
-local_vault_path: ai/models/huggingface-blog-local-reachy-mini-conversation.md
+local_vault_path: ai/models/reachy-mini-goes-fully-local.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:reachy-mini-goes-fully-local
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## Local Vault File
 
-Path: [reachy-mini-goes-fully-local-7cdcfd.md](file:///../../ai/models/huggingface-blog-local-reachy-mini-conversation.md)
+Path: [reachy-mini-goes-fully-local-7cdcfd.md](file:///../../ai/models/reachy-mini-goes-fully-local.md)

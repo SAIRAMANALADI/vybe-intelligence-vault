@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/text-to-video
 resource_id: huggingface:blog/text-to-video
-local_vault_path: ai/models/huggingface-blog-text-to-video.md
+local_vault_path: ai/models/a-dive-into-text-to-video-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # A Dive into Text-to-Video Models
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/text-to-video
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-to-video.md](file:///../../ai/models/huggingface-blog-text-to-video.md)
+Path: [huggingface-blog-text-to-video.md](file:///../../ai/models/a-dive-into-text-to-video-models.md)

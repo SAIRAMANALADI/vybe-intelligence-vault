@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-101
 resource_id: huggingface:blog/bert-101
-local_vault_path: ai/models/huggingface-blog-bert-101.md
+local_vault_path: ai/models/bert-101-state-of-the-art-nlp-model-explained.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: high
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # BERT 101 - State Of The Art NLP Model Explained
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bert-101
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-101.md](file:///../../ai/models/huggingface-blog-bert-101.md)
+Path: [huggingface-blog-bert-101.md](file:///../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md)

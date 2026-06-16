@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/starchat-alpha
 resource_id: huggingface:blog/starchat-alpha
-local_vault_path: ai/models/huggingface-blog-starchat-alpha.md
+local_vault_path: ai/models/creating-a-coding-assistant-with-starcoder.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Creating a Coding Assistant with StarCoder
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/starchat-alpha
 
 ## Local Vault File
 
-Path: [huggingface-blog-starchat-alpha.md](file:///../../ai/models/huggingface-blog-starchat-alpha.md)
+Path: [huggingface-blog-starchat-alpha.md](file:///../../ai/models/creating-a-coding-assistant-with-starcoder.md)

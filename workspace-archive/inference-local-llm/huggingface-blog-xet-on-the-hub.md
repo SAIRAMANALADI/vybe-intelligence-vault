@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/xet-on-the-hub
 resource_id: huggingface:blog/xet-on-the-hub
-local_vault_path: ai/models/huggingface-blog-xet-on-the-hub.md
+local_vault_path: ai/models/xet-is-on-the-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Xet is on the Hub
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/xet-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-xet-on-the-hub.md](file:///../../ai/models/huggingface-blog-xet-on-the-hub.md)
+Path: [huggingface-blog-xet-on-the-hub.md](file:///../../ai/models/xet-is-on-the-hub.md)

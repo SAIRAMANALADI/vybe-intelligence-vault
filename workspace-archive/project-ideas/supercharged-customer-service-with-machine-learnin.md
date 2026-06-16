@@ -3,7 +3,7 @@ title: Supercharged Customer Service with Machine Learning
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/supercharge-customer-service-with-machine-learning
-local_vault_path: ai/models/huggingface-blog-supercharge-customer-service-with-machine-learning.md
+local_vault_path: ai/models/supercharged-customer-service-with-machine-learnin.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:supercharged-customer-service-with-machine-learnin
 ---
+
 
 
 # Supercharged Customer Service with Machine Learning
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/supercharge-customer-service-wi
 
 ## Local Vault File
 
-Path: [supercharged-customer-service-with-machine-learning-fbf5cd.md](file:///../../ai/models/huggingface-blog-supercharge-customer-service-with-machine-learning.md)
+Path: [supercharged-customer-service-with-machine-learning-fbf5cd.md](file:///../../ai/models/supercharged-customer-service-with-machine-learnin.md)

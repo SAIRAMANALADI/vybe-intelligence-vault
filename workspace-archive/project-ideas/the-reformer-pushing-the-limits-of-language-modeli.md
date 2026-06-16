@@ -3,7 +3,7 @@ title: The Reformer - Pushing the limits of language modeling
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/reformer
-local_vault_path: ai/models/huggingface-blog-reformer.md
+local_vault_path: ai/models/the-reformer-pushing-the-limits-of-language-modeli.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-reformer-pushing-the-limits-of-language-modeli
 ---
+
 
 
 # The Reformer - Pushing the limits of language modeling
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/reformer
 
 ## Local Vault File
 
-Path: [the-reformer-pushing-the-limits-of-language-modeling-186bba.md](file:///../../ai/models/huggingface-blog-reformer.md)
+Path: [the-reformer-pushing-the-limits-of-language-modeling-186bba.md](file:///../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)

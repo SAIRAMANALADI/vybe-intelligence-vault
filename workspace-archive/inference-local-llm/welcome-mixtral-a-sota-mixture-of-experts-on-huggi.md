@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/mixtral
 resource_id: blog:welcome-mixtral-a-sota-mixture-of-experts-on-huggi
-local_vault_path: ai/models/huggingface-blog-mixtral.md
+local_vault_path: ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/mixtral
 
 ## Local Vault File
 
-Path: [huggingface-blog-mixtral.md](file:///../../ai/models/huggingface-blog-mixtral.md)
+Path: [welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md](file:///../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)

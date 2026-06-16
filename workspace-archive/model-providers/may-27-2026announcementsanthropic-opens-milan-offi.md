@@ -20,6 +20,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # May 27, 2026AnnouncementsAnthropic opens Milan office to support Italian enterprise, research, and developers
 
 ## Why This Is In The Archive

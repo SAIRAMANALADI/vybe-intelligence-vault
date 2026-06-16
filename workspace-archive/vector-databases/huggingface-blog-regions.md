@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/regions
 resource_id: huggingface:blog/regions
-local_vault_path: ai/rag/huggingface-blog-regions.md
+local_vault_path: ai/rag/introducing-storage-regions-on-the-hf-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Storage Regions on the HF Hub
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/regions
 
 ## Local Vault File
 
-Path: [huggingface-blog-regions.md](file:///../../ai/rag/huggingface-blog-regions.md)
+Path: [huggingface-blog-regions.md](file:///../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-intro
 resource_id: blog:an-introduction-to-deep-reinforcement-learning
-local_vault_path: ai/models/huggingface-blog-deep-rl-intro.md
+local_vault_path: ai/models/an-introduction-to-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-intro
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-intro.md](file:///../../ai/models/huggingface-blog-deep-rl-intro.md)
+Path: [an-introduction-to-deep-reinforcement-learning.md](file:///../../ai/models/an-introduction-to-deep-reinforcement-learning.md)

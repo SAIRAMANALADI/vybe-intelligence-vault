@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-release-v040
 resource_id: huggingface:blog/lerobot-release-v040
-local_vault_path: ai/models/huggingface-blog-lerobot-release-v040.md
+local_vault_path: ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # LeRobot v0.4.0: Supercharging OSS Robot Learning
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v040
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-release-v040.md](file:///../../ai/models/huggingface-blog-lerobot-release-v040.md)
+Path: [huggingface-blog-lerobot-release-v040.md](file:///../../ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)

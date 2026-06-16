@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/setfit-absa
 resource_id: huggingface:blog/setfit-absa
-local_vault_path: ai/models/huggingface-blog-setfit-absa.md
+local_vault_path: ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/setfit-absa
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit-absa.md](file:///../../ai/models/huggingface-blog-setfit-absa.md)
+Path: [huggingface-blog-setfit-absa.md](file:///../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)

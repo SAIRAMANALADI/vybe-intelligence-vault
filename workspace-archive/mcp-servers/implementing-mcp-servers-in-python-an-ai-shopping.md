@@ -3,9 +3,10 @@ title: 'Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio
 archive_category: mcp-servers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-vton-mcp
-local_vault_path: ai/models/huggingface-blog-gradio-vton-mcp.md
+local_vault_path: ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md
 resource_id: blog:implementing-mcp-servers-in-python-an-ai-shopping
 ---
+
 
 
 

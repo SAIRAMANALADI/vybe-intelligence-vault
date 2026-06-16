@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/game-jam-first-edition-results
 resource_id: blog:results-of-the-open-source-ai-game-jam
-local_vault_path: ai/models/huggingface-blog-game-jam-first-edition-results.md
+local_vault_path: ai/models/results-of-the-open-source-ai-game-jam.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [huggingface-blog-game-jam-first-edition-results.md](file:///../../ai/models/huggingface-blog-game-jam-first-edition-results.md)
+Path: [results-of-the-open-source-ai-game-jam.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam.md)

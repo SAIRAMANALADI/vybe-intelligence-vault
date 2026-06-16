@@ -3,7 +3,7 @@ title: 'Perceiver IO: a scalable, fully-attentional model that works on any moda
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/perceiver
-local_vault_path: ai/models/huggingface-blog-perceiver.md
+local_vault_path: ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:perceiver-io-a-scalable-fully-attentional-model-th
 ---
+
 
 
 # Perceiver IO: a scalable, fully-attentional model that works on any modality
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/perceiver
 
 ## Local Vault File
 
-Path: [perceiver-io-a-scalable-fully-attentional-model-that-works-on-any-modality-8f9590.md](file:///../../ai/models/huggingface-blog-perceiver.md)
+Path: [perceiver-io-a-scalable-fully-attentional-model-that-works-on-any-modality-8f9590.md](file:///../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/smollm3
 resource_id: huggingface:blog/smollm3
-local_vault_path: ai/models/huggingface-blog-smollm3.md
+local_vault_path: ai/models/smollm3-smol-multilingual-long-context-reasoner.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SmolLM3: smol, multilingual, long-context reasoner
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smollm3
 
 ## Local Vault File
 
-Path: [huggingface-blog-smollm3.md](file:///../../ai/models/huggingface-blog-smollm3.md)
+Path: [huggingface-blog-smollm3.md](file:///../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)

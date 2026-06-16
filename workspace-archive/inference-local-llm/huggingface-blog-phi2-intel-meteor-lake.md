@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/phi2-intel-meteor-lake
 resource_id: huggingface:blog/phi2-intel-meteor-lake
-local_vault_path: ai/models/huggingface-blog-phi2-intel-meteor-lake.md
+local_vault_path: ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # A Chatbot on your Laptop: Phi-2 on Intel Meteor Lake
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/phi2-intel-meteor-lake
 
 ## Local Vault File
 
-Path: [huggingface-blog-phi2-intel-meteor-lake.md](file:///../../ai/models/huggingface-blog-phi2-intel-meteor-lake.md)
+Path: [huggingface-blog-phi2-intel-meteor-lake.md](file:///../../ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md)

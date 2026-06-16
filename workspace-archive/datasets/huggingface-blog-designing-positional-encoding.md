@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/designing-positional-encoding
 resource_id: huggingface:blog/designing-positional-encoding
-local_vault_path: ai/models/huggingface-blog-designing-positional-encoding.md
+local_vault_path: ai/models/you-could-have-designed-state-of-the-art-positiona.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: high
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # You could have designed state of the art positional encoding
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/designing-positional-encoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-designing-positional-encoding.md](file:///../../ai/models/huggingface-blog-designing-positional-encoding.md)
+Path: [huggingface-blog-designing-positional-encoding.md](file:///../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)

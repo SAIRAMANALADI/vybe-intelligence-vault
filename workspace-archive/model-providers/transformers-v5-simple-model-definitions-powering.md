@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-v5
 resource_id: blog:transformers-v5-simple-model-definitions-powering
-local_vault_path: ai/models/huggingface-blog-transformers-v5.md
+local_vault_path: ai/models/transformers-v5-simple-model-definitions-powering.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-v5
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-v5.md](file:///../../ai/models/huggingface-blog-transformers-v5.md)
+Path: [transformers-v5-simple-model-definitions-powering.md](file:///../../ai/models/transformers-v5-simple-model-definitions-powering.md)

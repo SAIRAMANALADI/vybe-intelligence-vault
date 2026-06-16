@@ -3,7 +3,7 @@ title: 'AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD G
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-and-optimum-amd
-local_vault_path: ai/models/huggingface-blog-huggingface-and-optimum-amd.md
+local_vault_path: ai/models/amd-large-language-models-out-of-the-box-accelerat.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:amd-large-language-models-out-of-the-box-accelerat
 ---
+
 
 
 # AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-optimum-amd
 
 ## Local Vault File
 
-Path: [amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md](file:///../../ai/models/huggingface-blog-huggingface-and-optimum-amd.md)
+Path: [amd-large-language-models-out-of-the-box-acceleration-with-amd-gpu-7dbe33.md](file:///../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)

@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agent-glossary
 resource_id: blog:harness-scaffold-and-the-ai-agent-terms-worth-gett
-local_vault_path: ai/agents/huggingface-blog-agent-glossary.md
+local_vault_path: ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agent-glossary
 
 ## Local Vault File
 
-Path: [huggingface-blog-agent-glossary.md](file:///../../ai/agents/huggingface-blog-agent-glossary.md)
+Path: [harness-scaffold-and-the-ai-agent-terms-worth-gett.md](file:///../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)

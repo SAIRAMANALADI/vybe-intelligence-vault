@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-and-optimum-amd
 resource_id: blog:amd-large-language-models-out-of-the-box-accelerat
-local_vault_path: ai/models/huggingface-blog-huggingface-and-optimum-amd.md
+local_vault_path: ai/models/amd-large-language-models-out-of-the-box-accelerat.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-optimum-amd
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-optimum-amd.md](file:///../../ai/models/huggingface-blog-huggingface-and-optimum-amd.md)
+Path: [amd-large-language-models-out-of-the-box-accelerat.md](file:///../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)

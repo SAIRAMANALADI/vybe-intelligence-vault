@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/virtual-cell-challenge
 resource_id: huggingface:blog/virtual-cell-challenge
-local_vault_path: ai/models/huggingface-blog-virtual-cell-challenge.md
+local_vault_path: ai/models/arc-virtual-cell-challenge-a-primer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Arc Virtual Cell Challenge: A Primer
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/virtual-cell-challenge
 
 ## Local Vault File
 
-Path: [huggingface-blog-virtual-cell-challenge.md](file:///../../ai/models/huggingface-blog-virtual-cell-challenge.md)
+Path: [huggingface-blog-virtual-cell-challenge.md](file:///../../ai/models/arc-virtual-cell-challenge-a-primer.md)

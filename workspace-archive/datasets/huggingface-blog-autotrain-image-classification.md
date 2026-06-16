@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/autotrain-image-classification
 resource_id: huggingface:blog/autotrain-image-classification
-local_vault_path: ai/models/huggingface-blog-autotrain-image-classification.md
+local_vault_path: ai/models/image-classification-with-autotrain.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Image Classification with AutoTrain
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [huggingface-blog-autotrain-image-classification.md](file:///../../ai/models/huggingface-blog-autotrain-image-classification.md)
+Path: [huggingface-blog-autotrain-image-classification.md](file:///../../ai/models/image-classification-with-autotrain.md)

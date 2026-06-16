@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-html-one-shot-apps
 resource_id: blog:one-shot-any-web-app-with-gradio-s-gr-html
-local_vault_path: ai/models/huggingface-blog-gradio-html-one-shot-apps.md
+local_vault_path: ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-html-one-shot-apps
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-html-one-shot-apps.md](file:///../../ai/models/huggingface-blog-gradio-html-one-shot-apps.md)
+Path: [one-shot-any-web-app-with-gradio-s-gr-html.md](file:///../../ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md)

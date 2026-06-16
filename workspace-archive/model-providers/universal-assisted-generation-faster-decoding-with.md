@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/universal_assisted_generation
 resource_id: blog:universal-assisted-generation-faster-decoding-with
-local_vault_path: ai/models/huggingface-blog-universal-assisted-generation.md
+local_vault_path: ai/models/universal-assisted-generation-faster-decoding-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/universal_assisted_generation
 
 ## Local Vault File
 
-Path: [huggingface-blog-universal-assisted-generation.md](file:///../../ai/models/huggingface-blog-universal-assisted-generation.md)
+Path: [universal-assisted-generation-faster-decoding-with.md](file:///../../ai/models/universal-assisted-generation-faster-decoding-with.md)

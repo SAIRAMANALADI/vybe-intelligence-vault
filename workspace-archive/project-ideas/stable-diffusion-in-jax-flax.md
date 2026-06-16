@@ -3,7 +3,7 @@ title: 🧨 Stable Diffusion in JAX / Flax !
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable_diffusion_jax
-local_vault_path: ai/models/huggingface-blog-stable-diffusion-jax.md
+local_vault_path: ai/models/stable-diffusion-in-jax-flax.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:stable-diffusion-in-jax-flax
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion_jax
 
 ## Local Vault File
 
-Path: [stable-diffusion-in-jax-flax-4894a8.md](file:///../../ai/models/huggingface-blog-stable-diffusion-jax.md)
+Path: [stable-diffusion-in-jax-flax-4894a8.md](file:///../../ai/models/stable-diffusion-in-jax-flax.md)

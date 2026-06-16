@@ -3,11 +3,12 @@ title: ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/screensuite
-local_vault_path: ai/agents/huggingface-blog-screensuite.md
+local_vault_path: ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md
 tags:
 - agents
 resource_id: blog:screensuite-the-most-comprehensive-evaluation-suit
 ---
+
 
 
 # ScreenSuite - The most comprehensive evaluation suite for GUI Agents!

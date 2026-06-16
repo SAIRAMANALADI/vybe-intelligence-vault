@@ -3,7 +3,7 @@ title: Model Cards
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/model-cards
-local_vault_path: ai/models/huggingface-blog-model-cards.md
+local_vault_path: ai/models/model-cards.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:model-cards
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/model-cards
 
 ## Local Vault File
 
-Path: [model-cards-df1014.md](file:///../../ai/models/huggingface-blog-model-cards.md)
+Path: [model-cards-df1014.md](file:///../../ai/models/model-cards.md)

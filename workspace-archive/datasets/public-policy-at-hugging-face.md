@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/policy-blog
 resource_id: blog:public-policy-at-hugging-face
-local_vault_path: ai/models/huggingface-blog-policy-blog.md
+local_vault_path: ai/models/public-policy-at-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-blog
 
 ## Local Vault File
 
-Path: [huggingface-blog-policy-blog.md](file:///../../ai/models/huggingface-blog-policy-blog.md)
+Path: [public-policy-at-hugging-face.md](file:///../../ai/models/public-policy-at-hugging-face.md)

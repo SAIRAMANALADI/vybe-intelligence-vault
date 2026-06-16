@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/autoround
 resource_id: huggingface:blog/autoround
-local_vault_path: ai/models/huggingface-blog-autoround.md
+local_vault_path: ai/models/introducing-autoround-intels-advanced-quantization.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/autoround
 
 ## Local Vault File
 
-Path: [huggingface-blog-autoround.md](file:///../../ai/models/huggingface-blog-autoround.md)
+Path: [huggingface-blog-autoround.md](file:///../../ai/models/introducing-autoround-intels-advanced-quantization.md)

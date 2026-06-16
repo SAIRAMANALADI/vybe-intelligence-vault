@@ -3,7 +3,7 @@ title: From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
-local_vault_path: ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md
+local_vault_path: ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:from-deepspeed-to-fsdp-and-back-again-with-hugging
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
 
 ## Local Vault File
 
-Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging-face-accelerate-936ff5.md](file:///../../ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md)
+Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging-face-accelerate-936ff5.md](file:///../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)

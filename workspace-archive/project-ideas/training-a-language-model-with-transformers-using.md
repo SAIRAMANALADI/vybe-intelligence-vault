@@ -3,7 +3,7 @@ title: Training a language model with 🤗 Transformers using TensorFlow and TP
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf_tpu
-local_vault_path: ai/models/huggingface-blog-tf-tpu.md
+local_vault_path: ai/models/training-a-language-model-with-transformers-using.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:training-a-language-model-with-transformers-using
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/tf_tpu
 
 ## Local Vault File
 
-Path: [training-a-language-model-with-transformers-using-tensorflow-and-tpus-ad12e1.md](file:///../../ai/models/huggingface-blog-tf-tpu.md)
+Path: [training-a-language-model-with-transformers-using-tensorflow-and-tpus-ad12e1.md](file:///../../ai/models/training-a-language-model-with-transformers-using.md)

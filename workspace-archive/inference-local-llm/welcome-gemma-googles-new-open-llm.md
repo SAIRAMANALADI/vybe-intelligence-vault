@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma
 resource_id: blog:welcome-gemma-googles-new-open-llm
-local_vault_path: ai/models/huggingface-blog-gemma.md
+local_vault_path: ai/models/welcome-gemma-googles-new-open-llm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma.md](file:///../../ai/models/huggingface-blog-gemma.md)
+Path: [welcome-gemma-googles-new-open-llm.md](file:///../../ai/models/welcome-gemma-googles-new-open-llm.md)

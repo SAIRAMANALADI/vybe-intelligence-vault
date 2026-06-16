@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimizing-bark
 resource_id: blog:optimizing-bark-using-transformers
-local_vault_path: ai/models/huggingface-blog-optimizing-bark.md
+local_vault_path: ai/models/optimizing-bark-using-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimizing-bark
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimizing-bark.md](file:///../../ai/models/huggingface-blog-optimizing-bark.md)
+Path: [optimizing-bark-using-transformers.md](file:///../../ai/models/optimizing-bark-using-transformers.md)

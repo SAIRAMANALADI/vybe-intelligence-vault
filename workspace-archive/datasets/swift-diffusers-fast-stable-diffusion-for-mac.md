@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fast-mac-diffusers
 resource_id: blog:swift-diffusers-fast-stable-diffusion-for-mac
-local_vault_path: ai/models/huggingface-blog-fast-mac-diffusers.md
+local_vault_path: ai/models/swift-diffusers-fast-stable-diffusion-for-mac.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-mac-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-fast-mac-diffusers.md](file:///../../ai/models/huggingface-blog-fast-mac-diffusers.md)
+Path: [swift-diffusers-fast-stable-diffusion-for-mac.md](file:///../../ai/models/swift-diffusers-fast-stable-diffusion-for-mac.md)

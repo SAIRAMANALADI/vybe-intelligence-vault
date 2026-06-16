@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ethics-soc-7
 resource_id: huggingface:blog/ethics-soc-7
-local_vault_path: ai/agents/huggingface-blog-ethics-soc-7.md
+local_vault_path: ai/agents/ai-agents-are-here-what-now.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI Agents Are Here. What Now?
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-7
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-7.md](file:///../../ai/agents/huggingface-blog-ethics-soc-7.md)
+Path: [huggingface-blog-ethics-soc-7.md](file:///../../ai/agents/ai-agents-are-here-what-now.md)

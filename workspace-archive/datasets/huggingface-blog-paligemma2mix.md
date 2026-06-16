@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma2mix
 resource_id: huggingface:blog/paligemma2mix
-local_vault_path: ai/models/huggingface-blog-paligemma2mix.md
+local_vault_path: ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # PaliGemma 2 Mix - New Instruction Vision Language Models by Google
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/paligemma2mix
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma2mix.md](file:///../../ai/models/huggingface-blog-paligemma2mix.md)
+Path: [huggingface-blog-paligemma2mix.md](file:///../../ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md)

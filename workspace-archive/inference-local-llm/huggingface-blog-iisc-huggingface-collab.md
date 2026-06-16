@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/iisc-huggingface-collab
 resource_id: huggingface:blog/iisc-huggingface-collab
-local_vault_path: ai/models/huggingface-blog-iisc-huggingface-collab.md
+local_vault_path: ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # HuggingFace, IISc partner to supercharge model building on India's diverse languages
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/iisc-huggingface-collab
 
 ## Local Vault File
 
-Path: [huggingface-blog-iisc-huggingface-collab.md](file:///../../ai/models/huggingface-blog-iisc-huggingface-collab.md)
+Path: [huggingface-blog-iisc-huggingface-collab.md](file:///../../ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)

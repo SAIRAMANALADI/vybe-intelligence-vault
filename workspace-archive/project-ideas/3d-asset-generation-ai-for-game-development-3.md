@@ -3,7 +3,7 @@ title: '3D Asset Generation: AI for Game Development #3'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-3
-local_vault_path: ai/models/huggingface-blog-ml-for-games-3.md
+local_vault_path: ai/models/3d-asset-generation-ai-for-game-development-3.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:3d-asset-generation-ai-for-game-development-3
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-3
 
 ## Local Vault File
 
-Path: [3d-asset-generation-ai-for-game-development-3-7eaa7b.md](file:///../../ai/models/huggingface-blog-ml-for-games-3.md)
+Path: [3d-asset-generation-ai-for-game-development-3-7eaa7b.md](file:///../../ai/models/3d-asset-generation-ai-for-game-development-3.md)

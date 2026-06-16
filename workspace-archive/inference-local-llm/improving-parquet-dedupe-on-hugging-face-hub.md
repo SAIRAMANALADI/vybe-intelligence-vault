@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/improve_parquet_dedupe
 resource_id: blog:improving-parquet-dedupe-on-hugging-face-hub
-local_vault_path: ai/models/huggingface-blog-improve-parquet-dedupe.md
+local_vault_path: ai/models/improving-parquet-dedupe-on-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/improve_parquet_dedupe
 
 ## Local Vault File
 
-Path: [huggingface-blog-improve-parquet-dedupe.md](file:///../../ai/models/huggingface-blog-improve-parquet-dedupe.md)
+Path: [improving-parquet-dedupe-on-hugging-face-hub.md](file:///../../ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)

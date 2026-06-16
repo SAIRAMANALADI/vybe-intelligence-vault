@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/filbench
 resource_id: huggingface:blog/filbench
-local_vault_path: ai/models/huggingface-blog-filbench.md
+local_vault_path: ai/models/filbench-can-llms-understand-and-generate-filipino.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/filbench
 
 ## Local Vault File
 
-Path: [huggingface-blog-filbench.md](file:///../../ai/models/huggingface-blog-filbench.md)
+Path: [huggingface-blog-filbench.md](file:///../../ai/models/filbench-can-llms-understand-and-generate-filipino.md)

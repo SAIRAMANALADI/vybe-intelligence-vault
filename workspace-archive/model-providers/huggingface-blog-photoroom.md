@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/photoroom
 resource_id: huggingface:blog/photoroom
-local_vault_path: ai/models/huggingface-blog-photoroom.md
+local_vault_path: ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # PRX Part 3 — Training a Text-to-Image Model in 24h!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/photoroom
 
 ## Local Vault File
 
-Path: [huggingface-blog-photoroom.md](file:///../../ai/models/huggingface-blog-photoroom.md)
+Path: [huggingface-blog-photoroom.md](file:///../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)

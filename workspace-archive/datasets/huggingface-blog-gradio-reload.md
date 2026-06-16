@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-reload
 resource_id: huggingface:blog/gradio-reload
-local_vault_path: ai/models/huggingface-blog-gradio-reload.md
+local_vault_path: ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI Apps in a Flash with Gradio's Reload Mode
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-reload
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-reload.md](file:///../../ai/models/huggingface-blog-gradio-reload.md)
+Path: [huggingface-blog-gradio-reload.md](file:///../../ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)

@@ -3,7 +3,7 @@ title: Scaling robotics datasets with video encoding
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/video-encoding
-local_vault_path: ai/models/huggingface-blog-video-encoding.md
+local_vault_path: ai/models/scaling-robotics-datasets-with-video-encoding.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:scaling-robotics-datasets-with-video-encoding
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/video-encoding
 
 ## Local Vault File
 
-Path: [scaling-robotics-datasets-with-video-encoding-496763.md](file:///../../ai/models/huggingface-blog-video-encoding.md)
+Path: [scaling-robotics-datasets-with-video-encoding-496763.md](file:///../../ai/models/scaling-robotics-datasets-with-video-encoding.md)

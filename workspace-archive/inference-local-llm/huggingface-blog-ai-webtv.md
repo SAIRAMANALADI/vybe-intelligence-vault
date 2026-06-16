@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-webtv
 resource_id: huggingface:blog/ai-webtv
-local_vault_path: ai/models/huggingface-blog-ai-webtv.md
+local_vault_path: ai/models/building-an-ai-webtv.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Building an AI WebTV
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ai-webtv
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-webtv.md](file:///../../ai/models/huggingface-blog-ai-webtv.md)
+Path: [huggingface-blog-ai-webtv.md](file:///../../ai/models/building-an-ai-webtv.md)

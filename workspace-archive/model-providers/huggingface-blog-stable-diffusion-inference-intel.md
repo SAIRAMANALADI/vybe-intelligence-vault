@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable-diffusion-inference-intel
 resource_id: huggingface:blog/stable-diffusion-inference-intel
-local_vault_path: ai/models/huggingface-blog-stable-diffusion-inference-intel.md
+local_vault_path: ai/models/accelerating-stable-diffusion-inference-on-intel-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerating Stable Diffusion Inference on Intel CPUs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-inference-inte
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-inference-intel.md](file:///../../ai/models/huggingface-blog-stable-diffusion-inference-intel.md)
+Path: [huggingface-blog-stable-diffusion-inference-intel.md](file:///../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)

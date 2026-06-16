@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-finbench
 resource_id: huggingface:blog/leaderboard-finbench
-local_vault_path: ai/models/huggingface-blog-leaderboard-finbench.md
+local_vault_path: ai/models/introducing-the-open-finllm-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Open FinLLM Leaderboard
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-finbench
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-finbench.md](file:///../../ai/models/huggingface-blog-leaderboard-finbench.md)
+Path: [huggingface-blog-leaderboard-finbench.md](file:///../../ai/models/introducing-the-open-finllm-leaderboard.md)

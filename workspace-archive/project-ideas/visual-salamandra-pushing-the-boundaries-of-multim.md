@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
 
 ## Why This Is In The Archive

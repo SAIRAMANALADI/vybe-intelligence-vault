@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/writer
 resource_id: huggingface:blog/writer
-local_vault_path: ai/models/huggingface-blog-writer.md
+local_vault_path: ai/models/introducing-the-palmyra-mini-family-powerful-light.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Palmyra-mini family: Powerful, lightweight, and ready to reason!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/writer
 
 ## Local Vault File
 
-Path: [huggingface-blog-writer.md](file:///../../ai/models/huggingface-blog-writer.md)
+Path: [huggingface-blog-writer.md](file:///../../ai/models/introducing-the-palmyra-mini-family-powerful-light.md)

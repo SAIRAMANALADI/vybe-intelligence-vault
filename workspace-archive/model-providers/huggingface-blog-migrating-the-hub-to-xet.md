@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/migrating-the-hub-to-xet
 resource_id: huggingface:blog/migrating-the-hub-to-xet
-local_vault_path: ai/models/huggingface-blog-migrating-the-hub-to-xet.md
+local_vault_path: ai/models/migrating-the-hub-from-git-lfs-to-xet.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Migrating the Hub from Git LFS to Xet
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/migrating-the-hub-to-xet
 
 ## Local Vault File
 
-Path: [huggingface-blog-migrating-the-hub-to-xet.md](file:///../../ai/models/huggingface-blog-migrating-the-hub-to-xet.md)
+Path: [huggingface-blog-migrating-the-hub-to-xet.md](file:///../../ai/models/migrating-the-hub-from-git-lfs-to-xet.md)

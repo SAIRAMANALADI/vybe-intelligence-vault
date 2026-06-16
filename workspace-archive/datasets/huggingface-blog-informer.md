@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/informer
 resource_id: huggingface:blog/informer
-local_vault_path: ai/models/huggingface-blog-informer.md
+local_vault_path: ai/models/multivariate-probabilistic-time-series-forecasting.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Multivariate Probabilistic Time Series Forecasting with Informer
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/informer
 
 ## Local Vault File
 
-Path: [huggingface-blog-informer.md](file:///../../ai/models/huggingface-blog-informer.md)
+Path: [huggingface-blog-informer.md](file:///../../ai/models/multivariate-probabilistic-time-series-forecasting.md)

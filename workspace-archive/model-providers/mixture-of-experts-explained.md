@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/moe
 resource_id: blog:mixture-of-experts-explained
-local_vault_path: ai/models/huggingface-blog-moe.md
+local_vault_path: ai/models/mixture-of-experts-explained.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/moe
 
 ## Local Vault File
 
-Path: [huggingface-blog-moe.md](file:///../../ai/models/huggingface-blog-moe.md)
+Path: [mixture-of-experts-explained.md](file:///../../ai/models/mixture-of-experts-explained.md)

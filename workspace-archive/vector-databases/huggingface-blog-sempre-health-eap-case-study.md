@@ -5,7 +5,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/sempre-health-eap-case-study
 resource_id: huggingface:blog/sempre-health-eap-case-study
-local_vault_path: ai/rag/huggingface-blog-sempre-health-eap-case-study.md
+local_vault_path: ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/sempre-health-eap-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-sempre-health-eap-case-study.md](file:///../../ai/rag/huggingface-blog-sempre-health-eap-case-study.md)
+Path: [huggingface-blog-sempre-health-eap-case-study.md](file:///../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)

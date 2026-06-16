@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/dedup
 resource_id: huggingface:blog/dedup
-local_vault_path: ai/models/huggingface-blog-dedup.md
+local_vault_path: ai/models/large-scale-near-deduplication-behind-bigcode.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Large-scale Near-deduplication Behind BigCode
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dedup
 
 ## Local Vault File
 
-Path: [huggingface-blog-dedup.md](file:///../../ai/models/huggingface-blog-dedup.md)
+Path: [huggingface-blog-dedup.md](file:///../../ai/models/large-scale-near-deduplication-behind-bigcode.md)

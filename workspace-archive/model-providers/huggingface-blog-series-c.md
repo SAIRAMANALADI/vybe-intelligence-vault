@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/series-c
 resource_id: huggingface:blog/series-c
-local_vault_path: ai/models/huggingface-blog-series-c.md
+local_vault_path: ai/models/we-raised-100-million-for-open-collaborative-machi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [huggingface-blog-series-c.md](file:///../../ai/models/huggingface-blog-series-c.md)
+Path: [huggingface-blog-series-c.md](file:///../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)

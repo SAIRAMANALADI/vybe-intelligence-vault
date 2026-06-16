@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/video-encoding
 resource_id: blog:scaling-robotics-datasets-with-video-encoding
-local_vault_path: ai/models/huggingface-blog-video-encoding.md
+local_vault_path: ai/models/scaling-robotics-datasets-with-video-encoding.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/video-encoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-video-encoding.md](file:///../../ai/models/huggingface-blog-video-encoding.md)
+Path: [scaling-robotics-datasets-with-video-encoding.md](file:///../../ai/models/scaling-robotics-datasets-with-video-encoding.md)

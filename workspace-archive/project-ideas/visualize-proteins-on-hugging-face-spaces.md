@@ -3,7 +3,7 @@ title: Visualize proteins on Hugging Face Spaces
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/spaces_3dmoljs
-local_vault_path: ai/models/huggingface-blog-spaces-3dmoljs.md
+local_vault_path: ai/models/visualize-proteins-on-hugging-face-spaces.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:visualize-proteins-on-hugging-face-spaces
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/spaces_3dmoljs
 
 ## Local Vault File
 
-Path: [visualize-proteins-on-hugging-face-spaces-bd15f2.md](file:///../../ai/models/huggingface-blog-spaces-3dmoljs.md)
+Path: [visualize-proteins-on-hugging-face-spaces-bd15f2.md](file:///../../ai/models/visualize-proteins-on-hugging-face-spaces.md)

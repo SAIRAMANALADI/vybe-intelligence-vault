@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-html-one-shot-apps
 resource_id: huggingface:blog/gradio-html-one-shot-apps
-local_vault_path: ai/models/huggingface-blog-gradio-html-one-shot-apps.md
+local_vault_path: ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # One-Shot Any Web App with Gradio's gr.HTML
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gradio-html-one-shot-apps
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-html-one-shot-apps.md](file:///../../ai/models/huggingface-blog-gradio-html-one-shot-apps.md)
+Path: [huggingface-blog-gradio-html-one-shot-apps.md](file:///../../ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md)

@@ -3,7 +3,7 @@ title: Open-source LLMs as LangChain Agents
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/open-source-llms-as-agents
-local_vault_path: ai/agents/huggingface-blog-open-source-llms-as-agents.md
+local_vault_path: ai/agents/open-source-llms-as-langchain-agents.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:open-source-llms-as-langchain-agents
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/open-source-llms-as-agents
 
 ## Local Vault File
 
-Path: [open-source-llms-as-langchain-agents-23c172.md](file:///../../ai/agents/huggingface-blog-open-source-llms-as-agents.md)
+Path: [open-source-llms-as-langchain-agents-23c172.md](file:///../../ai/agents/open-source-llms-as-langchain-agents.md)

@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia
 resource_id: huggingface:blog/nvidia
-local_vault_path: ai/models/huggingface-blog-nvidia.md
+local_vault_path: ai/models/nemotron-3-5-content-safety-customizable-multimoda.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/nvidia
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia.md](file:///../../ai/models/huggingface-blog-nvidia.md)
+Path: [huggingface-blog-nvidia.md](file:///../../ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)

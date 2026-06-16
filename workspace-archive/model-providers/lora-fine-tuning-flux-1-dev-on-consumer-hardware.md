@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/flux-qlora
 resource_id: blog:lora-fine-tuning-flux-1-dev-on-consumer-hardware
-local_vault_path: ai/models/huggingface-blog-flux-qlora.md
+local_vault_path: ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: [huggingface-blog-flux-qlora.md](file:///../../ai/models/huggingface-blog-flux-qlora.md)
+Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware.md](file:///../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)

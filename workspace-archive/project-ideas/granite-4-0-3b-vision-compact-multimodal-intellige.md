@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents
 
 ## Why This Is In The Archive

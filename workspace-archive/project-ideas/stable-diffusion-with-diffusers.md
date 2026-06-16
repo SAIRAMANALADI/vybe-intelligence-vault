@@ -3,7 +3,7 @@ title: Stable Diffusion with 🧨 Diffusers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/stable_diffusion
-local_vault_path: ai/models/huggingface-blog-stable-diffusion.md
+local_vault_path: ai/models/stable-diffusion-with-diffusers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:stable-diffusion-with-diffusers
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion
 
 ## Local Vault File
 
-Path: [stable-diffusion-with-diffusers-5c93f9.md](file:///../../ai/models/huggingface-blog-stable-diffusion.md)
+Path: [stable-diffusion-with-diffusers-5c93f9.md](file:///../../ai/models/stable-diffusion-with-diffusers.md)

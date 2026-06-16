@@ -3,7 +3,7 @@ title: Build awesome datasets for video generation
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/vid_ds_scripts
-local_vault_path: ai/models/huggingface-blog-vid-ds-scripts.md
+local_vault_path: ai/models/build-awesome-datasets-for-video-generation.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:build-awesome-datasets-for-video-generation
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/vid_ds_scripts
 
 ## Local Vault File
 
-Path: [build-awesome-datasets-for-video-generation-26021d.md](file:///../../ai/models/huggingface-blog-vid-ds-scripts.md)
+Path: [build-awesome-datasets-for-video-generation-26021d.md](file:///../../ai/models/build-awesome-datasets-for-video-generation.md)

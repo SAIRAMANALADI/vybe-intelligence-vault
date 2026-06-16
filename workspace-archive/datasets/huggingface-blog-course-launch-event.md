@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/course-launch-event
 resource_id: huggingface:blog/course-launch-event
-local_vault_path: ai/models/huggingface-blog-course-launch-event.md
+local_vault_path: ai/models/course-launch-community-event.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Course Launch Community Event
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/course-launch-event
 
 ## Local Vault File
 
-Path: [huggingface-blog-course-launch-event.md](file:///../../ai/models/huggingface-blog-course-launch-event.md)
+Path: [huggingface-blog-course-launch-event.md](file:///../../ai/models/course-launch-community-event.md)

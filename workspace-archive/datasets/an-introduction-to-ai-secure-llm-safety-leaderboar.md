@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-decodingtrust
 resource_id: blog:an-introduction-to-ai-secure-llm-safety-leaderboar
-local_vault_path: ai/models/huggingface-blog-leaderboard-decodingtrust.md
+local_vault_path: ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-decodingtrust
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-decodingtrust.md](file:///../../ai/models/huggingface-blog-leaderboard-decodingtrust.md)
+Path: [an-introduction-to-ai-secure-llm-safety-leaderboar.md](file:///../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)

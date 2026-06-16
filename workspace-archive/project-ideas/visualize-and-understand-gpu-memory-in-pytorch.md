@@ -3,7 +3,7 @@ title: Visualize and understand GPU memory in PyTorch
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/train_memory
-local_vault_path: ai/models/huggingface-blog-train-memory.md
+local_vault_path: ai/models/visualize-and-understand-gpu-memory-in-pytorch.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:visualize-and-understand-gpu-memory-in-pytorch
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/train_memory
 
 ## Local Vault File
 
-Path: [visualize-and-understand-gpu-memory-in-pytorch-fcb942.md](file:///../../ai/models/huggingface-blog-train-memory.md)
+Path: [visualize-and-understand-gpu-memory-in-pytorch-fcb942.md](file:///../../ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)

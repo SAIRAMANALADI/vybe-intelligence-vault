@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/timm-transformers
 resource_id: huggingface:blog/timm-transformers
-local_vault_path: ai/models/huggingface-blog-timm-transformers.md
+local_vault_path: ai/models/timm-transformers-use-any-timm-model-with-transfor.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Timm ❤️ Transformers: Use any timm model with transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/timm-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-timm-transformers.md](file:///../../ai/models/huggingface-blog-timm-transformers.md)
+Path: [huggingface-blog-timm-transformers.md](file:///../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)

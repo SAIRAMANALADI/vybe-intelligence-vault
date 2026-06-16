@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/jetbrains
 resource_id: huggingface:blog/jetbrains
-local_vault_path: ai/models/huggingface-blog-jetbrains.md
+local_vault_path: ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/jetbrains
 
 ## Local Vault File
 
-Path: [huggingface-blog-jetbrains.md](file:///../../ai/models/huggingface-blog-jetbrains.md)
+Path: [huggingface-blog-jetbrains.md](file:///../../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)

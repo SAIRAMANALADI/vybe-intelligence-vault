@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/gptq-integration
 resource_id: huggingface:blog/gptq-integration
-local_vault_path: ai/models/huggingface-blog-gptq-integration.md
+local_vault_path: ai/models/making-llms-lighter-with-autogptq-and-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Making LLMs lighter with AutoGPTQ and transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-gptq-integration.md](file:///../../ai/models/huggingface-blog-gptq-integration.md)
+Path: [huggingface-blog-gptq-integration.md](file:///../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)

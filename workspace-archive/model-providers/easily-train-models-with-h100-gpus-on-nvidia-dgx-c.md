@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-dgx-cloud
 resource_id: blog:easily-train-models-with-h100-gpus-on-nvidia-dgx-c
-local_vault_path: ai/models/huggingface-blog-train-dgx-cloud.md
+local_vault_path: ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-dgx-cloud
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-dgx-cloud.md](file:///../../ai/models/huggingface-blog-train-dgx-cloud.md)
+Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md](file:///../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)

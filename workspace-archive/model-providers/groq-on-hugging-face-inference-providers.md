@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-groq
 resource_id: blog:groq-on-hugging-face-inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers-groq.md
+local_vault_path: ai/models/groq-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-groq
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-groq.md](file:///../../ai/models/huggingface-blog-inference-providers-groq.md)
+Path: [groq-on-hugging-face-inference-providers.md](file:///../../ai/models/groq-on-hugging-face-inference-providers.md)

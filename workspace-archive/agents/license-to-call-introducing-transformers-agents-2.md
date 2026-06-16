@@ -3,11 +3,12 @@ title: 'License to Call: Introducing Transformers Agents 2.0'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agents
-local_vault_path: ai/agents/huggingface-blog-agents.md
+local_vault_path: ai/agents/license-to-call-introducing-transformers-agents-2.md
 tags:
 - agents
 resource_id: blog:license-to-call-introducing-transformers-agents-2
 ---
+
 
 
 

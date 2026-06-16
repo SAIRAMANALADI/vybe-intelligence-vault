@@ -3,7 +3,7 @@ title: The Technology Behind BLOOM Training
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-megatron-deepspeed
-local_vault_path: ai/models/huggingface-blog-bloom-megatron-deepspeed.md
+local_vault_path: ai/models/the-technology-behind-bloom-training.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-technology-behind-bloom-training
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/bloom-megatron-deepspeed
 
 ## Local Vault File
 
-Path: [the-technology-behind-bloom-training-9021f6.md](file:///../../ai/models/huggingface-blog-bloom-megatron-deepspeed.md)
+Path: [the-technology-behind-bloom-training-9021f6.md](file:///../../ai/models/the-technology-behind-bloom-training.md)

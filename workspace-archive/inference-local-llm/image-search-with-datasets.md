@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/image-search-datasets
 resource_id: blog:image-search-with-datasets
-local_vault_path: ai/models/huggingface-blog-image-search-datasets.md
+local_vault_path: ai/models/image-search-with-datasets.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/image-search-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-search-datasets.md](file:///../../ai/models/huggingface-blog-image-search-datasets.md)
+Path: [image-search-with-datasets.md](file:///../../ai/models/image-search-with-datasets.md)

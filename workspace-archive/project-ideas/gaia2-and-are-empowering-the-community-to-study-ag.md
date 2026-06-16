@@ -3,7 +3,7 @@ title: 'Gaia2 and ARE: Empowering the community to study agents'
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/gaia2
-local_vault_path: ai/agents/huggingface-blog-gaia2.md
+local_vault_path: ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:gaia2-and-are-empowering-the-community-to-study-ag
 ---
+
 
 
 # Gaia2 and ARE: Empowering the community to study agents
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/gaia2
 
 ## Local Vault File
 
-Path: [gaia2-and-are-empowering-the-community-to-study-agents-e2bc7f.md](file:///../../ai/agents/huggingface-blog-gaia2.md)
+Path: [gaia2-and-are-empowering-the-community-to-study-agents-e2bc7f.md](file:///../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)

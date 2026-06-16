@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/daggr
 resource_id: huggingface:blog/daggr
-local_vault_path: ai/models/huggingface-blog-daggr.md
+local_vault_path: ai/models/introducing-daggr-chain-apps-programmatically-insp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Daggr: Chain apps programmatically, inspect visually
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/daggr
 
 ## Local Vault File
 
-Path: [huggingface-blog-daggr.md](file:///../../ai/models/huggingface-blog-daggr.md)
+Path: [huggingface-blog-daggr.md](file:///../../ai/models/introducing-daggr-chain-apps-programmatically-insp.md)

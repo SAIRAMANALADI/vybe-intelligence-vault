@@ -5,7 +5,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/embedding-quantization
 resource_id: huggingface:blog/embedding-quantization
-local_vault_path: ai/models/huggingface-blog-embedding-quantization.md
+local_vault_path: ai/models/binary-and-scalar-embedding-quantization-for-signi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/embedding-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-embedding-quantization.md](file:///../../ai/models/huggingface-blog-embedding-quantization.md)
+Path: [huggingface-blog-embedding-quantization.md](file:///../../ai/models/binary-and-scalar-embedding-quantization-for-signi.md)

@@ -3,9 +3,10 @@ title: Retrieval Augmented Generation with Huggingface Transformers and Ray
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/ray-rag
-local_vault_path: ai/models/huggingface-blog-ray-rag.md
+local_vault_path: ai/models/retrieval-augmented-generation-with-huggingface-tr.md
 resource_id: blog:retrieval-augmented-generation-with-huggingface-tr
 ---
+
 
 
 # Retrieval Augmented Generation with Huggingface Transformers and Ray

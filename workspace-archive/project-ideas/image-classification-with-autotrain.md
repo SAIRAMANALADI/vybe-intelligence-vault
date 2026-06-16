@@ -3,7 +3,7 @@ title: Image Classification with AutoTrain
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/autotrain-image-classification
-local_vault_path: ai/models/huggingface-blog-autotrain-image-classification.md
+local_vault_path: ai/models/image-classification-with-autotrain.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:image-classification-with-autotrain
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [image-classification-with-autotrain-f1932e.md](file:///../../ai/models/huggingface-blog-autotrain-image-classification.md)
+Path: [image-classification-with-autotrain-f1932e.md](file:///../../ai/models/image-classification-with-autotrain.md)

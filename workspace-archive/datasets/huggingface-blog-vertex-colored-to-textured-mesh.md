@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/vertex-colored-to-textured-mesh
 resource_id: huggingface:blog/vertex-colored-to-textured-mesh
-local_vault_path: ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md
+local_vault_path: ai/models/converting-vertex-colored-meshes-to-textured-meshe.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Converting Vertex-Colored Meshes to Textured Meshes
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vertex-colored-to-textured-mesh
 
 ## Local Vault File
 
-Path: [huggingface-blog-vertex-colored-to-textured-mesh.md](file:///../../ai/models/huggingface-blog-vertex-colored-to-textured-mesh.md)
+Path: [huggingface-blog-vertex-colored-to-textured-mesh.md](file:///../../ai/models/converting-vertex-colored-meshes-to-textured-meshe.md)

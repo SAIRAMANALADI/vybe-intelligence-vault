@@ -4,7 +4,7 @@ archive_category: observability
 source_category: ai/models
 source_url: https://huggingface.co/blog/fetch-case-study
 resource_id: blog:fetch-cuts-ml-processing-latency-by-50-using-amazo
-local_vault_path: ai/models/huggingface-blog-fetch-case-study.md
+local_vault_path: ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/fetch-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-fetch-case-study.md](file:///../../ai/models/huggingface-blog-fetch-case-study.md)
+Path: [fetch-cuts-ml-processing-latency-by-50-using-amazo.md](file:///../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/sd_distillation
 resource_id: huggingface:blog/sd_distillation
-local_vault_path: ai/models/huggingface-blog-sd-distillation.md
+local_vault_path: ai/models/open-sourcing-knowledge-distillation-code-and-weig.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/sd_distillation
 
 ## Local Vault File
 
-Path: [huggingface-blog-sd-distillation.md](file:///../../ai/models/huggingface-blog-sd-distillation.md)
+Path: [huggingface-blog-sd-distillation.md](file:///../../ai/models/open-sourcing-knowledge-distillation-code-and-weig.md)

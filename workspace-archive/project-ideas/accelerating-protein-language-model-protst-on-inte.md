@@ -3,7 +3,7 @@ title: Accelerating Protein Language Model ProtST on Intel Gaudi 2
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-protein-language-model-protst
-local_vault_path: ai/models/huggingface-blog-intel-protein-language-model-protst.md
+local_vault_path: ai/models/accelerating-protein-language-model-protst-on-inte.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:accelerating-protein-language-model-protst-on-inte
 ---
+
 
 
 # Accelerating Protein Language Model ProtST on Intel Gaudi 2
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/intel-protein-language-model-pr
 
 ## Local Vault File
 
-Path: [accelerating-protein-language-model-protst-on-intel-gaudi-2-5f060d.md](file:///../../ai/models/huggingface-blog-intel-protein-language-model-protst.md)
+Path: [accelerating-protein-language-model-protst-on-intel-gaudi-2-5f060d.md](file:///../../ai/models/accelerating-protein-language-model-protst-on-inte.md)

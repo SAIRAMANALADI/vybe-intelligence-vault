@@ -3,7 +3,7 @@ title: Mixture of Experts Explained
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/moe
-local_vault_path: ai/models/huggingface-blog-moe.md
+local_vault_path: ai/models/mixture-of-experts-explained.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:mixture-of-experts-explained
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/moe
 
 ## Local Vault File
 
-Path: [mixture-of-experts-explained-0bb312.md](file:///../../ai/models/huggingface-blog-moe.md)
+Path: [mixture-of-experts-explained-0bb312.md](file:///../../ai/models/mixture-of-experts-explained.md)

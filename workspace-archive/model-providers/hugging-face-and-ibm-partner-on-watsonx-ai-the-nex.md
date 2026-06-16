@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-and-ibm
 resource_id: blog:hugging-face-and-ibm-partner-on-watsonx-ai-the-nex
-local_vault_path: ai/models/huggingface-blog-huggingface-and-ibm.md
+local_vault_path: ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-ibm
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-ibm.md](file:///../../ai/models/huggingface-blog-huggingface-and-ibm.md)
+Path: [hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md](file:///../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)

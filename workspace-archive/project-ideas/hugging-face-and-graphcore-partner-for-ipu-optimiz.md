@@ -3,7 +3,7 @@ title: Hugging Face and Graphcore partner for IPU-optimized Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore
-local_vault_path: ai/models/huggingface-blog-graphcore.md
+local_vault_path: ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:hugging-face-and-graphcore-partner-for-ipu-optimiz
 ---
+
 
 
 # Hugging Face and Graphcore partner for IPU-optimized Transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/graphcore
 
 ## Local Vault File
 
-Path: [hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md](file:///../../ai/models/huggingface-blog-graphcore.md)
+Path: [hugging-face-and-graphcore-partner-for-ipu-optimized-transformers-5c20b5.md](file:///../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)

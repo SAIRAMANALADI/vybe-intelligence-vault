@@ -4,7 +4,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/warm-starting-encoder-decoder
 resource_id: huggingface:blog/warm-starting-encoder-decoder
-local_vault_path: ai/rag/huggingface-blog-warm-starting-encoder-decoder.md
+local_vault_path: ai/rag/leveraging-pre-trained-language-model-checkpoints.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/warm-starting-encoder-decoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-warm-starting-encoder-decoder.md](file:///../../ai/rag/huggingface-blog-warm-starting-encoder-decoder.md)
+Path: [huggingface-blog-warm-starting-encoder-decoder.md](file:///../../ai/rag/leveraging-pre-trained-language-model-checkpoints.md)

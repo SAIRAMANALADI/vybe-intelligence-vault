@@ -3,7 +3,7 @@ title: Overview of natively supported quantization schemes in 🤗 Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/overview-quantization-transformers
-local_vault_path: ai/models/huggingface-blog-overview-quantization-transformers.md
+local_vault_path: ai/models/overview-of-natively-supported-quantization-scheme.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:overview-of-natively-supported-quantization-scheme
 ---
+
 
 
 # Overview of natively supported quantization schemes in 🤗 Transformers
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/overview-quantization-transform
 
 ## Local Vault File
 
-Path: [overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md](file:///../../ai/models/huggingface-blog-overview-quantization-transformers.md)
+Path: [overview-of-natively-supported-quantization-schemes-in-transformers-6a519d.md](file:///../../ai/models/overview-of-natively-supported-quantization-scheme.md)

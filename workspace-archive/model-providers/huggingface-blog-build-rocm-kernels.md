@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/build-rocm-kernels
 resource_id: huggingface:blog/build-rocm-kernels
-local_vault_path: ai/models/huggingface-blog-build-rocm-kernels.md
+local_vault_path: ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Easily Build and Share ROCm Kernels with Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/build-rocm-kernels
 
 ## Local Vault File
 
-Path: [huggingface-blog-build-rocm-kernels.md](file:///../../ai/models/huggingface-blog-build-rocm-kernels.md)
+Path: [huggingface-blog-build-rocm-kernels.md](file:///../../ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md)

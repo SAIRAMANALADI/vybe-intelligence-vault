@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-mo
 resource_id: huggingface:blog/ai-mo
-local_vault_path: ai/models/huggingface-blog-ai-mo.md
+local_vault_path: ai/models/kimina-prover-rl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Kimina-Prover-RL
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ai-mo
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-mo.md](file:///../../ai/models/huggingface-blog-ai-mo.md)
+Path: [huggingface-blog-ai-mo.md](file:///../../ai/models/kimina-prover-rl.md)

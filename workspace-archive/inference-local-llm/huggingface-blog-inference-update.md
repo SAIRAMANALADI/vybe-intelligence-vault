@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-update
 resource_id: huggingface:blog/inference-update
-local_vault_path: ai/models/huggingface-blog-inference-update.md
+local_vault_path: ai/models/an-overview-of-inference-solutions-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # An overview of inference solutions on Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-update.md](file:///../../ai/models/huggingface-blog-inference-update.md)
+Path: [huggingface-blog-inference-update.md](file:///../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)

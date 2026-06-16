@@ -3,7 +3,7 @@ title: Tool Use, Unified
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/unified-tool-use
-local_vault_path: ai/models/huggingface-blog-unified-tool-use.md
+local_vault_path: ai/models/tool-use-unified.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:tool-use-unified
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [tool-use-unified-a318ba.md](file:///../../ai/models/huggingface-blog-unified-tool-use.md)
+Path: [tool-use-unified-a318ba.md](file:///../../ai/models/tool-use-unified.md)

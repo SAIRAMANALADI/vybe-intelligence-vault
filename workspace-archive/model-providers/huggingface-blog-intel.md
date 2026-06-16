@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel
 resource_id: huggingface:blog/intel
-local_vault_path: ai/models/huggingface-blog-intel.md
+local_vault_path: ai/models/intel-and-hugging-face-partner-to-democratize-mach.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/intel
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel.md](file:///../../ai/models/huggingface-blog-intel.md)
+Path: [huggingface-blog-intel.md](file:///../../ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)

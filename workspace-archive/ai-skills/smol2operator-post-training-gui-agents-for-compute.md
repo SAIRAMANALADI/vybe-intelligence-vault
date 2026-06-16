@@ -3,11 +3,12 @@ title: 'Smol2Operator: Post-Training GUI Agents for Computer Use'
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smol2operator
-local_vault_path: ai/agents/huggingface-blog-smol2operator.md
+local_vault_path: ai/agents/smol2operator-post-training-gui-agents-for-compute.md
 tags:
 - agents
 resource_id: blog:smol2operator-post-training-gui-agents-for-compute
 ---
+
 
 
 # Smol2Operator: Post-Training GUI Agents for Computer Use

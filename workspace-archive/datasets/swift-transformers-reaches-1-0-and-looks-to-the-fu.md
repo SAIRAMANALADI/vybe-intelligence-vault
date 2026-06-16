@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-transformers
 resource_id: blog:swift-transformers-reaches-1-0-and-looks-to-the-fu
-local_vault_path: ai/models/huggingface-blog-swift-transformers.md
+local_vault_path: ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-transformers.md](file:///../../ai/models/huggingface-blog-swift-transformers.md)
+Path: [swift-transformers-reaches-1-0-and-looks-to-the-fu.md](file:///../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)

@@ -3,7 +3,7 @@ title: Running Privacy-Preserving Inferences on Hugging Face Endpoints
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/fhe-endpoints
-local_vault_path: ai/models/huggingface-blog-fhe-endpoints.md
+local_vault_path: ai/models/running-privacy-preserving-inferences-on-hugging-f.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:running-privacy-preserving-inferences-on-hugging-f
 ---
+
 
 
 # Running Privacy-Preserving Inferences on Hugging Face Endpoints
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/fhe-endpoints
 
 ## Local Vault File
 
-Path: [running-privacy-preserving-inferences-on-hugging-face-endpoints-ab59ca.md](file:///../../ai/models/huggingface-blog-fhe-endpoints.md)
+Path: [running-privacy-preserving-inferences-on-hugging-face-endpoints-ab59ca.md](file:///../../ai/models/running-privacy-preserving-inferences-on-hugging-f.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 resource_id: blog:state-of-open-source-on-hugging-face-spring-2026
-local_vault_path: ai/models/huggingface-blog-huggingface.md
+local_vault_path: ai/models/state-of-open-source-on-hugging-face-spring-2026.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/state-of-os-hf-spri
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface.md](file:///../../ai/models/huggingface-blog-huggingface.md)
+Path: [state-of-open-source-on-hugging-face-spring-2026.md](file:///../../ai/models/state-of-open-source-on-hugging-face-spring-2026.md)

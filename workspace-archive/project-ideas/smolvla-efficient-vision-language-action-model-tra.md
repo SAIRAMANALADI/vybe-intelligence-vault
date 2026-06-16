@@ -4,7 +4,7 @@ title: 'SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Commu
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvla
-local_vault_path: ai/models/huggingface-blog-smolvla.md
+local_vault_path: ai/models/smolvla-efficient-vision-language-action-model-tra.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:smolvla-efficient-vision-language-action-model-tra
 ---
+
 
 
 # SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/smolvla
 
 ## Local Vault File
 
-Path: [smolvla-efficient-vision-language-action-model-trained-on-lerobot-community-data-04073c.md](file:///../../ai/models/huggingface-blog-smolvla.md)
+Path: [smolvla-efficient-vision-language-action-model-trained-on-lerobot-community-data-04073c.md](file:///../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)

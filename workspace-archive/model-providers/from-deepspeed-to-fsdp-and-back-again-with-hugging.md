@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
 resource_id: blog:from-deepspeed-to-fsdp-and-back-again-with-hugging
-local_vault_path: ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md
+local_vault_path: ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepspeed-to-fsdp-and-back.md](file:///../../ai/models/huggingface-blog-deepspeed-to-fsdp-and-back.md)
+Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging.md](file:///../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/faster-transformers
 resource_id: huggingface:blog/faster-transformers
-local_vault_path: ai/models/huggingface-blog-faster-transformers.md
+local_vault_path: ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/faster-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-faster-transformers.md](file:///../../ai/models/huggingface-blog-faster-transformers.md)
+Path: [huggingface-blog-faster-transformers.md](file:///../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)

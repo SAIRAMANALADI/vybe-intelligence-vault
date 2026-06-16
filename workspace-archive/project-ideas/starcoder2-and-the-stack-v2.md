@@ -3,7 +3,7 @@ title: StarCoder2 and The Stack v2
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/starcoder2
-local_vault_path: ai/models/huggingface-blog-starcoder2.md
+local_vault_path: ai/models/starcoder2-and-the-stack-v2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:starcoder2-and-the-stack-v2
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/starcoder2
 
 ## Local Vault File
 
-Path: [starcoder2-and-the-stack-v2-e0bb6a.md](file:///../../ai/models/huggingface-blog-starcoder2.md)
+Path: [starcoder2-and-the-stack-v2-e0bb6a.md](file:///../../ai/models/starcoder2-and-the-stack-v2.md)

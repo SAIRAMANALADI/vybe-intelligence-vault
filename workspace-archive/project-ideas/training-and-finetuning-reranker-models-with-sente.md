@@ -3,7 +3,7 @@ title: Training and Finetuning Reranker Models with Sentence Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-reranker
-local_vault_path: ai/models/huggingface-blog-train-reranker.md
+local_vault_path: ai/models/training-and-finetuning-reranker-models-with-sente.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:training-and-finetuning-reranker-models-with-sente
 ---
+
 
 
 # Training and Finetuning Reranker Models with Sentence Transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/train-reranker
 
 ## Local Vault File
 
-Path: [training-and-finetuning-reranker-models-with-sentence-transformers-cb0f8f.md](file:///../../ai/models/huggingface-blog-train-reranker.md)
+Path: [training-and-finetuning-reranker-models-with-sentence-transformers-cb0f8f.md](file:///../../ai/models/training-and-finetuning-reranker-models-with-sente.md)

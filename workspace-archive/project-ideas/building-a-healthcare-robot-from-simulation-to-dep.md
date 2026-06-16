@@ -3,7 +3,7 @@ title: Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isa
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobotxnvidia-healthcare
-local_vault_path: ai/models/huggingface-blog-lerobotxnvidia-healthcare.md
+local_vault_path: ai/models/building-a-healthcare-robot-from-simulation-to-dep.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:building-a-healthcare-robot-from-simulation-to-dep
 ---
+
 
 
 # Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobotxnvidia-healthcare
 
 ## Local Vault File
 
-Path: [building-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c18db2.md](file:///../../ai/models/huggingface-blog-lerobotxnvidia-healthcare.md)
+Path: [building-a-healthcare-robot-from-simulation-to-deployment-with-nvidia-isaac-c18db2.md](file:///../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)

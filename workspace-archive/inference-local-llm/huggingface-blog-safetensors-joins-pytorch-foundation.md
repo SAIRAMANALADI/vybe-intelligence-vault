@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/safetensors-joins-pytorch-foundation
 resource_id: huggingface:blog/safetensors-joins-pytorch-foundation
-local_vault_path: ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md
+local_vault_path: ai/models/safetensors-is-joining-the-pytorch-foundation.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Safetensors is Joining the PyTorch Foundation
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/safetensors-joins-pytorch-found
 
 ## Local Vault File
 
-Path: [huggingface-blog-safetensors-joins-pytorch-foundation.md](file:///../../ai/models/huggingface-blog-safetensors-joins-pytorch-foundation.md)
+Path: [huggingface-blog-safetensors-joins-pytorch-foundation.md](file:///../../ai/models/safetensors-is-joining-the-pytorch-foundation.md)

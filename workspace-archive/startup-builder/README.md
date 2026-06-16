@@ -9,23 +9,23 @@ Building a startup requires integrating landing pages, auth, Stripe, and AI tool
 ## Top Matched Resources
 
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (template - ESSENTIAL Tier)
-- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components) (template - USEFUL Tier)
+- [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3d-landing-page-for-apple-iphone) (template - USEFUL Tier)
+- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code) (template - USEFUL Tier)
+- [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code) (template - USEFUL Tier)
+- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
 - [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate) (template - USEFUL Tier)
 - [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page) (template - USEFUL Tier)
-- [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template) (template - USEFUL Tier)
 - [reliverse/relivator](https://github.com/reliverse/relivator) (template - USEFUL Tier)
-- [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code) (template - USEFUL Tier)
-- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
-- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/easyfrontendhq/html-tailwindcss-components)
-- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
-- [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
+- [codebucks27/3D-Landing-page-for-Apple-iPhone](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)
+- [codebucks27/Apple-iphone-3d-landing-page-starter-Code](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)
+- [codebucks27/The-Weirdos-NFT-Website-Starter-Code](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)
 - [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
-- [reliverse/relivator](https://github.com/reliverse/relivator)
+- [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
 
 ## Best Learning Resources
 
@@ -42,4 +42,4 @@ https://github.com/shadcn-ui/taxonomy (Taxonomy App)
 
 ---
 
-*Last updated: 2026-06-16 04:29 UTC*
+*Last updated: 2026-06-16 10:44 IST*

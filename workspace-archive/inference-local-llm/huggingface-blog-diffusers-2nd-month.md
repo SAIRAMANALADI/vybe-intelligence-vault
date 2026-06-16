@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-2nd-month
 resource_id: huggingface:blog/diffusers-2nd-month
-local_vault_path: ai/models/huggingface-blog-diffusers-2nd-month.md
+local_vault_path: ai/models/what-s-new-in-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # What's new in Diffusers? 🎨
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/diffusers-2nd-month
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-2nd-month.md](file:///../../ai/models/huggingface-blog-diffusers-2nd-month.md)
+Path: [huggingface-blog-diffusers-2nd-month.md](file:///../../ai/models/what-s-new-in-diffusers.md)

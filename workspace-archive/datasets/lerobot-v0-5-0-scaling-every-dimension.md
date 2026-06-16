@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-release-v050
 resource_id: blog:lerobot-v0-5-0-scaling-every-dimension
-local_vault_path: ai/models/huggingface-blog-lerobot-release-v050.md
+local_vault_path: ai/models/lerobot-v0-5-0-scaling-every-dimension.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v050
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-release-v050.md](file:///../../ai/models/huggingface-blog-lerobot-release-v050.md)
+Path: [lerobot-v0-5-0-scaling-every-dimension.md](file:///../../ai/models/lerobot-v0-5-0-scaling-every-dimension.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-intro
 resource_id: huggingface:blog/deep-rl-intro
-local_vault_path: ai/models/huggingface-blog-deep-rl-intro.md
+local_vault_path: ai/models/an-introduction-to-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # An Introduction to Deep Reinforcement Learning
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-intro
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-intro.md](file:///../../ai/models/huggingface-blog-deep-rl-intro.md)
+Path: [huggingface-blog-deep-rl-intro.md](file:///../../ai/models/an-introduction-to-deep-reinforcement-learning.md)

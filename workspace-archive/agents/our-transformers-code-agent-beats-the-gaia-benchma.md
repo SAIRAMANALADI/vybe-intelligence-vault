@@ -3,11 +3,12 @@ title: Our Transformers Code Agent beats the GAIA benchmark 🏅
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/beating-gaia
-local_vault_path: ai/agents/huggingface-blog-beating-gaia.md
+local_vault_path: ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md
 tags:
 - agents
 resource_id: blog:our-transformers-code-agent-beats-the-gaia-benchma
 ---
+
 
 
 # Our Transformers Code Agent beats the GAIA benchmark 🏅

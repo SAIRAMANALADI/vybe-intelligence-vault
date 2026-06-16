@@ -3,11 +3,12 @@ title: 'ScreenEnv: Deploy your full stack Desktop Agent'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/screenenv
-local_vault_path: ai/agents/huggingface-blog-screenenv.md
+local_vault_path: ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md
 tags:
 - agents
 resource_id: blog:screenenv-deploy-your-full-stack-desktop-agent
 ---
+
 
 
 

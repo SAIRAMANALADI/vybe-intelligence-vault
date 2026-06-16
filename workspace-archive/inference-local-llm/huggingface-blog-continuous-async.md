@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/continuous_async
 resource_id: huggingface:blog/continuous_async
-local_vault_path: ai/models/huggingface-blog-continuous-async.md
+local_vault_path: ai/models/unlocking-asynchronicity-in-continuous-batching.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Unlocking asynchronicity in continuous batching
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [huggingface-blog-continuous-async.md](file:///../../ai/models/huggingface-blog-continuous-async.md)
+Path: [huggingface-blog-continuous-async.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)

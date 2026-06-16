@@ -3,7 +3,7 @@ title: Fine-Tune MMS Adapter Models for low-resource ASR
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/mms_adapters
-local_vault_path: ai/models/huggingface-blog-mms-adapters.md
+local_vault_path: ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tune-mms-adapter-models-for-low-resource-asr
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/mms_adapters
 
 ## Local Vault File
 
-Path: [fine-tune-mms-adapter-models-for-low-resource-asr-f34204.md](file:///../../ai/models/huggingface-blog-mms-adapters.md)
+Path: [fine-tune-mms-adapter-models-for-low-resource-asr-f34204.md](file:///../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)

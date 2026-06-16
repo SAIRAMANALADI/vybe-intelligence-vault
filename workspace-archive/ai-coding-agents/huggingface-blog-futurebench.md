@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/futurebench
 resource_id: huggingface:blog/futurebench
-local_vault_path: ai/agents/huggingface-blog-futurebench.md
+local_vault_path: ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Back to The Future: Evaluating AI Agents on Predicting Future Events
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/futurebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-futurebench.md](file:///../../ai/agents/huggingface-blog-futurebench.md)
+Path: [huggingface-blog-futurebench.md](file:///../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bedrock-marketplace
 resource_id: blog:hugging-face-models-in-amazon-bedrock
-local_vault_path: ai/models/huggingface-blog-bedrock-marketplace.md
+local_vault_path: ai/models/hugging-face-models-in-amazon-bedrock.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bedrock-marketplace
 
 ## Local Vault File
 
-Path: [huggingface-blog-bedrock-marketplace.md](file:///../../ai/models/huggingface-blog-bedrock-marketplace.md)
+Path: [hugging-face-models-in-amazon-bedrock.md](file:///../../ai/models/hugging-face-models-in-amazon-bedrock.md)

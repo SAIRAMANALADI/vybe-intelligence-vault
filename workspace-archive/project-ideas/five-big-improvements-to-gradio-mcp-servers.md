@@ -3,7 +3,7 @@ title: Five Big Improvements to Gradio MCP Servers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-mcp-updates
-local_vault_path: ai/models/huggingface-blog-gradio-mcp-updates.md
+local_vault_path: ai/models/five-big-improvements-to-gradio-mcp-servers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Useful for project building
 resource_id: blog:five-big-improvements-to-gradio-mcp-servers
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-updates
 
 ## Local Vault File
 
-Path: [five-big-improvements-to-gradio-mcp-servers-4d7ed9.md](file:///../../ai/models/huggingface-blog-gradio-mcp-updates.md)
+Path: [five-big-improvements-to-gradio-mcp-servers-4d7ed9.md](file:///../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)

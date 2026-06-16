@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/wav2vec2-with-ngram
 resource_id: huggingface:blog/wav2vec2-with-ngram
-local_vault_path: ai/models/huggingface-blog-wav2vec2-with-ngram.md
+local_vault_path: ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Boosting Wav2Vec2 with n-grams in 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/wav2vec2-with-ngram
 
 ## Local Vault File
 
-Path: [huggingface-blog-wav2vec2-with-ngram.md](file:///../../ai/models/huggingface-blog-wav2vec2-with-ngram.md)
+Path: [huggingface-blog-wav2vec2-with-ngram.md](file:///../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)

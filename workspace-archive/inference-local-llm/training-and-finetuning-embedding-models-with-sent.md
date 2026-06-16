@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-sentence-transformers
 resource_id: blog:training-and-finetuning-embedding-models-with-sent
-local_vault_path: ai/models/huggingface-blog-train-sentence-transformers.md
+local_vault_path: ai/models/training-and-finetuning-embedding-models-with-sent.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sentence-transformers.md](file:///../../ai/models/huggingface-blog-train-sentence-transformers.md)
+Path: [training-and-finetuning-embedding-models-with-sent.md](file:///../../ai/models/training-and-finetuning-embedding-models-with-sent.md)

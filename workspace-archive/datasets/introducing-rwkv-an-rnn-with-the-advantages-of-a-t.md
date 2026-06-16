@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/rwkv
 resource_id: blog:introducing-rwkv-an-rnn-with-the-advantages-of-a-t
-local_vault_path: ai/models/huggingface-blog-rwkv.md
+local_vault_path: ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rwkv
 
 ## Local Vault File
 
-Path: [huggingface-blog-rwkv.md](file:///../../ai/models/huggingface-blog-rwkv.md)
+Path: [introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md](file:///../../ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)

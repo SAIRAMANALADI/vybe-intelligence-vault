@@ -3,7 +3,7 @@ title: Scaling-up BERT Inference on CPU (Part 1)
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-cpu-scaling-part-1
-local_vault_path: ai/models/huggingface-blog-bert-cpu-scaling-part-1.md
+local_vault_path: ai/models/scaling-up-bert-inference-on-cpu-part-1.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:scaling-up-bert-inference-on-cpu-part-1
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/bert-cpu-scaling-part-1
 
 ## Local Vault File
 
-Path: [scaling-up-bert-inference-on-cpu-part-1-816c70.md](file:///../../ai/models/huggingface-blog-bert-cpu-scaling-part-1.md)
+Path: [scaling-up-bert-inference-on-cpu-part-1-816c70.md](file:///../../ai/models/scaling-up-bert-inference-on-cpu-part-1.md)

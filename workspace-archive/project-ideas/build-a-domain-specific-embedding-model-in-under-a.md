@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Build a Domain-Specific Embedding Model in Under a Day
 
 ## Why This Is In The Archive

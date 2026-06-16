@@ -5,7 +5,7 @@ archive_category: vector-databases
 source_category: ai/rag
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 resource_id: huggingface:blog/leaderboard-3c3h-aragen-ifeval
-local_vault_path: ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md
+local_vault_path: ai/rag/arabic-leaderboards-introducing-arabic-instruction.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -17,6 +17,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-3c3h-aragen-ifeval.md](file:///../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md)
+Path: [huggingface-blog-leaderboard-3c3h-aragen-ifeval.md](file:///../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)

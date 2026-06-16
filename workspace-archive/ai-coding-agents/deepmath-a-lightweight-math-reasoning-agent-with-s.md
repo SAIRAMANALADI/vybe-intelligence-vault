@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/intel-deepmath
 resource_id: blog:deepmath-a-lightweight-math-reasoning-agent-with-s
-local_vault_path: ai/agents/huggingface-blog-intel-deepmath.md
+local_vault_path: ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-deepmath
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-deepmath.md](file:///../../ai/agents/huggingface-blog-intel-deepmath.md)
+Path: [deepmath-a-lightweight-math-reasoning-agent-with-s.md](file:///../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)

@@ -3,7 +3,7 @@ title: Announcing Evaluation on the Hub
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/eval-on-the-hub
-local_vault_path: ai/models/huggingface-blog-eval-on-the-hub.md
+local_vault_path: ai/models/announcing-evaluation-on-the-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:announcing-evaluation-on-the-hub
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/eval-on-the-hub
 
 ## Local Vault File
 
-Path: [announcing-evaluation-on-the-hub-36a33b.md](file:///../../ai/models/huggingface-blog-eval-on-the-hub.md)
+Path: [announcing-evaluation-on-the-hub-36a33b.md](file:///../../ai/models/announcing-evaluation-on-the-hub.md)

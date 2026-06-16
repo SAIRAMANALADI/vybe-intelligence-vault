@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mi300kernels
 resource_id: huggingface:blog/mi300kernels
-local_vault_path: ai/models/huggingface-blog-mi300kernels.md
+local_vault_path: ai/models/creating-custom-kernels-for-the-amd-mi300.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Creating custom kernels for the AMD MI300
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mi300kernels
 
 ## Local Vault File
 
-Path: [huggingface-blog-mi300kernels.md](file:///../../ai/models/huggingface-blog-mi300kernels.md)
+Path: [huggingface-blog-mi300kernels.md](file:///../../ai/models/creating-custom-kernels-for-the-amd-mi300.md)

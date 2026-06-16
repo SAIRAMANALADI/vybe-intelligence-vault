@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/stackllama
 resource_id: huggingface:blog/stackllama
-local_vault_path: ai/models/huggingface-blog-stackllama.md
+local_vault_path: ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # StackLLaMA: A hands-on guide to train LLaMA with RLHF
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/stackllama
 
 ## Local Vault File
 
-Path: [huggingface-blog-stackllama.md](file:///../../ai/models/huggingface-blog-stackllama.md)
+Path: [huggingface-blog-stackllama.md](file:///../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)

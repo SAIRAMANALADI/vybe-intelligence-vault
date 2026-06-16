@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/datasets-docs-update
 resource_id: blog:introducing-new-audio-and-vision-documentation-in
-local_vault_path: ai/models/huggingface-blog-datasets-docs-update.md
+local_vault_path: ai/models/introducing-new-audio-and-vision-documentation-in.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/datasets-docs-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-datasets-docs-update.md](file:///../../ai/models/huggingface-blog-datasets-docs-update.md)
+Path: [introducing-new-audio-and-vision-documentation-in.md](file:///../../ai/models/introducing-new-audio-and-vision-documentation-in.md)

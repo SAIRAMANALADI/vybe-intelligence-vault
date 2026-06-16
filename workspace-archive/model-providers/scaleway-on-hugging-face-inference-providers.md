@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-scaleway
 resource_id: blog:scaleway-on-hugging-face-inference-providers
-local_vault_path: ai/models/huggingface-blog-inference-providers-scaleway.md
+local_vault_path: ai/models/scaleway-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-scaleway
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-scaleway.md](file:///../../ai/models/huggingface-blog-inference-providers-scaleway.md)
+Path: [scaleway-on-hugging-face-inference-providers.md](file:///../../ai/models/scaleway-on-hugging-face-inference-providers.md)

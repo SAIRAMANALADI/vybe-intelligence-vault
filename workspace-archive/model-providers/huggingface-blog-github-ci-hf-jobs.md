@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/github-ci-hf-jobs
 resource_id: huggingface:blog/github-ci-hf-jobs
-local_vault_path: ai/models/huggingface-blog-github-ci-hf-jobs.md
+local_vault_path: ai/models/migrating-your-github-ci-to-hugging-face-jobs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Migrating Your GitHub CI to Hugging Face Jobs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-github-ci-hf-jobs.md](file:///../../ai/models/huggingface-blog-github-ci-hf-jobs.md)
+Path: [huggingface-blog-github-ci-hf-jobs.md](file:///../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)

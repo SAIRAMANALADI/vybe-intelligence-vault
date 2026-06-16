@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 resource_id: huggingface:blog/zero-shot-eval-on-the-hub
-local_vault_path: ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md
+local_vault_path: ai/models/very-large-language-models-and-how-to-evaluate-the.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Very Large Language Models and How to Evaluate Them
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-shot-eval-on-the-hub.md](file:///../../ai/models/huggingface-blog-zero-shot-eval-on-the-hub.md)
+Path: [huggingface-blog-zero-shot-eval-on-the-hub.md](file:///../../ai/models/very-large-language-models-and-how-to-evaluate-the.md)

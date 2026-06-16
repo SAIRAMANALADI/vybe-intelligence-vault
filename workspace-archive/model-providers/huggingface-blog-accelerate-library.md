@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-library
 resource_id: huggingface:blog/accelerate-library
-local_vault_path: ai/models/huggingface-blog-accelerate-library.md
+local_vault_path: ai/models/introducing-accelerate.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Useful for project building
 ---
+
 
 # Introducing 🤗 Accelerate
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-library.md](file:///../../ai/models/huggingface-blog-accelerate-library.md)
+Path: [huggingface-blog-accelerate-library.md](file:///../../ai/models/introducing-accelerate.md)

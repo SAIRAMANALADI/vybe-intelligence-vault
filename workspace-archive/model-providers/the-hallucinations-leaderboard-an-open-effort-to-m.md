@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-hallucinations
 resource_id: blog:the-hallucinations-leaderboard-an-open-effort-to-m
-local_vault_path: ai/models/huggingface-blog-leaderboard-hallucinations.md
+local_vault_path: ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-hallucinations.md](file:///../../ai/models/huggingface-blog-leaderboard-hallucinations.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-m.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)

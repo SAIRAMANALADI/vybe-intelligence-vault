@@ -3,9 +3,10 @@ title: 'Introducing RTEB: A New Standard for Retrieval Evaluation'
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/rteb
-local_vault_path: ai/models/huggingface-blog-rteb.md
+local_vault_path: ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md
 resource_id: blog:introducing-rteb-a-new-standard-for-retrieval-eval
 ---
+
 
 
 # Introducing RTEB: A New Standard for Retrieval Evaluation

@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/models
 source_url: https://huggingface.co/blog/ray-rag
 resource_id: huggingface:blog/ray-rag
-local_vault_path: ai/models/huggingface-blog-ray-rag.md
+local_vault_path: ai/models/retrieval-augmented-generation-with-huggingface-tr.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Retrieval Augmented Generation with Huggingface Transformers and Ray
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ray-rag
 
 ## Local Vault File
 
-Path: [huggingface-blog-ray-rag.md](file:///../../ai/models/huggingface-blog-ray-rag.md)
+Path: [huggingface-blog-ray-rag.md](file:///../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)

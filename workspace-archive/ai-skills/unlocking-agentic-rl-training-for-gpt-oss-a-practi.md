@@ -10,6 +10,7 @@ resource_id: blog:unlocking-agentic-rl-training-for-gpt-oss-a-practi
 ---
 
 
+
 # Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
 
 ## Why This Is In The Archive

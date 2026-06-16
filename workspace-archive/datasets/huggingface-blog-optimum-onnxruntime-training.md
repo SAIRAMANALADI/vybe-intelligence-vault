@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/optimum-onnxruntime-training
 resource_id: huggingface:blog/optimum-onnxruntime-training
-local_vault_path: ai/models/huggingface-blog-optimum-onnxruntime-training.md
+local_vault_path: ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Optimum+ONNX Runtime - Easier, Faster training for your Hugging Face models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/optimum-onnxruntime-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimum-onnxruntime-training.md](file:///../../ai/models/huggingface-blog-optimum-onnxruntime-training.md)
+Path: [huggingface-blog-optimum-onnxruntime-training.md](file:///../../ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)

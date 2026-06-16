@@ -3,7 +3,7 @@ title: 2024 Security Feature Highlights
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/2024-security-features
-local_vault_path: ai/models/huggingface-blog-2024-security-features.md
+local_vault_path: ai/models/2024-security-feature-highlights.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:2024-security-feature-highlights
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai/models/huggingface-blog-2024-security-features.md)
+Path: [2024-security-feature-highlights-88ada9.md](file:///../../ai/models/2024-security-feature-highlights.md)

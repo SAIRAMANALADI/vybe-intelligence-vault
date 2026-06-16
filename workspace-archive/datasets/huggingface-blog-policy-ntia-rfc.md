@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/policy-ntia-rfc
 resource_id: huggingface:blog/policy-ntia-rfc
-local_vault_path: ai/models/huggingface-blog-policy-ntia-rfc.md
+local_vault_path: ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/policy-ntia-rfc
 
 ## Local Vault File
 
-Path: [huggingface-blog-policy-ntia-rfc.md](file:///../../ai/models/huggingface-blog-policy-ntia-rfc.md)
+Path: [huggingface-blog-policy-ntia-rfc.md](file:///../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)

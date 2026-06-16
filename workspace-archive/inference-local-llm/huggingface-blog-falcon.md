@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/falcon
 resource_id: huggingface:blog/falcon
-local_vault_path: ai/models/huggingface-blog-falcon.md
+local_vault_path: ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # The Falcon has landed in the Hugging Face ecosystem
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon.md](file:///../../ai/models/huggingface-blog-falcon.md)
+Path: [huggingface-blog-falcon.md](file:///../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)

@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/databricks-case-study
 resource_id: huggingface:blog/databricks-case-study
-local_vault_path: ai/models/huggingface-blog-databricks-case-study.md
+local_vault_path: ai/models/databricks-hugging-face-up-to-40-faster-training-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/databricks-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-databricks-case-study.md](file:///../../ai/models/huggingface-blog-databricks-case-study.md)
+Path: [huggingface-blog-databricks-case-study.md](file:///../../ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)

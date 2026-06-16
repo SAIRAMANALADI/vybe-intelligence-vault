@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/argilla-ui-hub
 resource_id: blog:argilla-2-4-easily-build-fine-tuning-and-evaluatio
-local_vault_path: ai/models/huggingface-blog-argilla-ui-hub.md
+local_vault_path: ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/argilla-ui-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-argilla-ui-hub.md](file:///../../ai/models/huggingface-blog-argilla-ui-hub.md)
+Path: [argilla-2-4-easily-build-fine-tuning-and-evaluatio.md](file:///../../ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)

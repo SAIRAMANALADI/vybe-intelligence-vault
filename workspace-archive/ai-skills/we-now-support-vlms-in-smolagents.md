@@ -3,11 +3,12 @@ title: We now support VLMs in smolagents!
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/smolagents-can-see
-local_vault_path: ai/agents/huggingface-blog-smolagents-can-see.md
+local_vault_path: ai/agents/we-now-support-vlms-in-smolagents.md
 tags:
 - agents
 resource_id: blog:we-now-support-vlms-in-smolagents
 ---
+
 
 
 

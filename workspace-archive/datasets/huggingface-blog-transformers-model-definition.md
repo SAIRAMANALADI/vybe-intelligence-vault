@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-model-definition
 resource_id: huggingface:blog/transformers-model-definition
-local_vault_path: ai/models/huggingface-blog-transformers-model-definition.md
+local_vault_path: ai/models/the-transformers-library-standardizing-model-defin.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Useful for project building
 ---
+
 
 # The Transformers Library: standardizing model definitions
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformers-model-definition
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-model-definition.md](file:///../../ai/models/huggingface-blog-transformers-model-definition.md)
+Path: [huggingface-blog-transformers-model-definition.md](file:///../../ai/models/the-transformers-library-standardizing-model-defin.md)

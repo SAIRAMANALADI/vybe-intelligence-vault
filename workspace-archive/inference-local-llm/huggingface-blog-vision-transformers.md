@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/vision-transformers
 resource_id: huggingface:blog/vision-transformers
-local_vault_path: ai/models/huggingface-blog-vision-transformers.md
+local_vault_path: ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deep Dive: Vision Transformers On Hugging Face Optimum Graphcore
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-vision-transformers.md](file:///../../ai/models/huggingface-blog-vision-transformers.md)
+Path: [huggingface-blog-vision-transformers.md](file:///../../ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)

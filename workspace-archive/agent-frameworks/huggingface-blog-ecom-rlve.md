@@ -5,7 +5,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ecom-rlve
 resource_id: huggingface:blog/ecom-rlve
-local_vault_path: ai/agents/huggingface-blog-ecom-rlve.md
+local_vault_path: ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/ecom-rlve
 
 ## Local Vault File
 
-Path: [huggingface-blog-ecom-rlve.md](file:///../../ai/agents/huggingface-blog-ecom-rlve.md)
+Path: [huggingface-blog-ecom-rlve.md](file:///../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)

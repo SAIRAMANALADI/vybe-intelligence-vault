@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama-sagemaker-benchmark
 resource_id: huggingface:blog/llama-sagemaker-benchmark
-local_vault_path: ai/models/huggingface-blog-llama-sagemaker-benchmark.md
+local_vault_path: ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -17,6 +17,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Llama 2 on Amazon SageMaker a Benchmark
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/llama-sagemaker-benchmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama-sagemaker-benchmark.md](file:///../../ai/models/huggingface-blog-llama-sagemaker-benchmark.md)
+Path: [huggingface-blog-llama-sagemaker-benchmark.md](file:///../../ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)

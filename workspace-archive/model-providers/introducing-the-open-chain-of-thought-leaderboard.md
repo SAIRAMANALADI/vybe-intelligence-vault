@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-cot
 resource_id: blog:introducing-the-open-chain-of-thought-leaderboard
-local_vault_path: ai/models/huggingface-blog-leaderboard-cot.md
+local_vault_path: ai/models/introducing-the-open-chain-of-thought-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-cot
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-cot.md](file:///../../ai/models/huggingface-blog-leaderboard-cot.md)
+Path: [introducing-the-open-chain-of-thought-leaderboard.md](file:///../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)

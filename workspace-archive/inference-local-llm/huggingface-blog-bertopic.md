@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bertopic
 resource_id: huggingface:blog/bertopic
-local_vault_path: ai/models/huggingface-blog-bertopic.md
+local_vault_path: ai/models/introducing-bertopic-integration-with-the-hugging.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing BERTopic Integration with the Hugging Face Hub
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bertopic
 
 ## Local Vault File
 
-Path: [huggingface-blog-bertopic.md](file:///../../ai/models/huggingface-blog-bertopic.md)
+Path: [huggingface-blog-bertopic.md](file:///../../ai/models/introducing-bertopic-integration-with-the-hugging.md)

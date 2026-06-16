@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-vit
 resource_id: blog:fine-tune-vit-for-image-classification-with-transf
-local_vault_path: ai/models/huggingface-blog-fine-tune-vit.md
+local_vault_path: ai/models/fine-tune-vit-for-image-classification-with-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-vit
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-vit.md](file:///../../ai/models/huggingface-blog-fine-tune-vit.md)
+Path: [fine-tune-vit-for-image-classification-with-transf.md](file:///../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)

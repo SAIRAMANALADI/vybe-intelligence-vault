@@ -3,7 +3,7 @@ title: ~Don't~ Repeat Yourself
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-design-philosophy
-local_vault_path: ai/models/huggingface-blog-transformers-design-philosophy.md
+local_vault_path: ai/models/don-t-repeat-yourself.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:don-t-repeat-yourself
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai/models/huggingface-blog-transformers-design-philosophy.md)
+Path: [don-t-repeat-yourself-343ec7.md](file:///../../ai/models/don-t-repeat-yourself.md)

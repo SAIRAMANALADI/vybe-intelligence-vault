@@ -3,9 +3,10 @@ title: Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation In
 archive_category: local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/tgi-multi-backend
-local_vault_path: ai/models/huggingface-blog-tgi-multi-backend.md
+local_vault_path: ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md
 resource_id: blog:introducing-multi-backends-trt-llm-vllm-support-fo
 ---
+
 
 
 # Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference

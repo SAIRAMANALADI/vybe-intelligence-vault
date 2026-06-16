@@ -3,11 +3,12 @@ title: Leveraging Hugging Face for complex generative AI use cases
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/writer-case-study
-local_vault_path: ai/rag/huggingface-blog-writer-case-study.md
+local_vault_path: ai/rag/leveraging-hugging-face-for-complex-generative-ai.md
 tags:
 - rag
 resource_id: blog:leveraging-hugging-face-for-complex-generative-ai
 ---
+
 
 
 

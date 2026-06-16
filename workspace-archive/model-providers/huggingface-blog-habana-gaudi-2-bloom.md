@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/habana-gaudi-2-bloom
 resource_id: huggingface:blog/habana-gaudi-2-bloom
-local_vault_path: ai/models/huggingface-blog-habana-gaudi-2-bloom.md
+local_vault_path: ai/models/fast-inference-on-large-language-models-bloomz-on.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fast Inference on Large Language Models: BLOOMZ on Habana Gaudi2 Accelerator
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-bloom
 
 ## Local Vault File
 
-Path: [huggingface-blog-habana-gaudi-2-bloom.md](file:///../../ai/models/huggingface-blog-habana-gaudi-2-bloom.md)
+Path: [huggingface-blog-habana-gaudi-2-bloom.md](file:///../../ai/models/fast-inference-on-large-language-models-bloomz-on.md)

@@ -3,11 +3,12 @@ title: 'Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard'
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen
-local_vault_path: ai/rag/huggingface-blog-leaderboard-3c3h-aragen.md
+local_vault_path: ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md
 tags:
 - rag
 resource_id: blog:rethinking-llm-evaluation-with-3c3h-aragen-benchma
 ---
+
 
 
 # Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard

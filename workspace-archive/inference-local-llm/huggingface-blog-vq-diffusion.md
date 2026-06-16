@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/vq-diffusion
 resource_id: huggingface:blog/vq-diffusion
-local_vault_path: ai/models/huggingface-blog-vq-diffusion.md
+local_vault_path: ai/models/vq-diffusion.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # VQ-Diffusion
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vq-diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-vq-diffusion.md](file:///../../ai/models/huggingface-blog-vq-diffusion.md)
+Path: [huggingface-blog-vq-diffusion.md](file:///../../ai/models/vq-diffusion.md)

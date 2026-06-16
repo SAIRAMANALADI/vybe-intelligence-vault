@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-private-hub
 resource_id: huggingface:blog/introducing-private-hub
-local_vault_path: ai/models/huggingface-blog-introducing-private-hub.md
+local_vault_path: ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Private Hub: A New Way to Build With Machine Learning
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/introducing-private-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-private-hub.md](file:///../../ai/models/huggingface-blog-introducing-private-hub.md)
+Path: [huggingface-blog-introducing-private-hub.md](file:///../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/watermarking
 resource_id: huggingface:blog/watermarking
-local_vault_path: ai/models/huggingface-blog-watermarking.md
+local_vault_path: ai/models/ai-watermarking-101-tools-and-techniques.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AI Watermarking 101: Tools and Techniques
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/watermarking
 
 ## Local Vault File
 
-Path: [huggingface-blog-watermarking.md](file:///../../ai/models/huggingface-blog-watermarking.md)
+Path: [huggingface-blog-watermarking.md](file:///../../ai/models/ai-watermarking-101-tools-and-techniques.md)

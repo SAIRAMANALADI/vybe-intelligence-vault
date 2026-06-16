@@ -10,6 +10,7 @@ resource_id: blog:aligning-to-what-rethinking-agent-generalization-i
 ---
 
 
+
 # Aligning to What? Rethinking Agent Generalization in MiniMax M2
 
 ## Why This Is In The Archive

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/tgi-benchmarking
 resource_id: huggingface:blog/tgi-benchmarking
-local_vault_path: ai/models/huggingface-blog-tgi-benchmarking.md
+local_vault_path: ai/models/benchmarking-text-generation-inference.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Benchmarking Text Generation Inference
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/tgi-benchmarking
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-benchmarking.md](file:///../../ai/models/huggingface-blog-tgi-benchmarking.md)
+Path: [huggingface-blog-tgi-benchmarking.md](file:///../../ai/models/benchmarking-text-generation-inference.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-gaudi-backend-for-tgi
 resource_id: huggingface:blog/intel-gaudi-backend-for-tgi
-local_vault_path: ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md
+local_vault_path: ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 🚀 Accelerating LLM Inference with TGI on Intel Gaudi
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/intel-gaudi-backend-for-tgi
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-gaudi-backend-for-tgi.md](file:///../../ai/models/huggingface-blog-intel-gaudi-backend-for-tgi.md)
+Path: [huggingface-blog-intel-gaudi-backend-for-tgi.md](file:///../../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/safecoder
 resource_id: huggingface:blog/safecoder
-local_vault_path: ai/models/huggingface-blog-safecoder.md
+local_vault_path: ai/models/introducing-safecoder.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing SafeCoder
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/safecoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-safecoder.md](file:///../../ai/models/huggingface-blog-safecoder.md)
+Path: [huggingface-blog-safecoder.md](file:///../../ai/models/introducing-safecoder.md)

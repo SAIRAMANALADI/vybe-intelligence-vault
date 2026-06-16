@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cv_state
 resource_id: huggingface:blog/cv_state
-local_vault_path: ai/models/huggingface-blog-cv-state.md
+local_vault_path: ai/models/the-state-of-computer-vision-at-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # The State of Computer Vision at Hugging Face 🤗
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cv_state
 
 ## Local Vault File
 
-Path: [huggingface-blog-cv-state.md](file:///../../ai/models/huggingface-blog-cv-state.md)
+Path: [huggingface-blog-cv-state.md](file:///../../ai/models/the-state-of-computer-vision-at-hugging-face.md)

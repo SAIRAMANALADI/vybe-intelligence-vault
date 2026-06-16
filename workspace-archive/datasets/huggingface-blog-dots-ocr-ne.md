@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/dots-ocr-ne
 resource_id: huggingface:blog/dots-ocr-ne
-local_vault_path: ai/models/huggingface-blog-dots-ocr-ne.md
+local_vault_path: ai/models/sota-ocr-with-core-ml-and-dots-ocr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SOTA OCR with Core ML and dots.ocr
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/dots-ocr-ne
 
 ## Local Vault File
 
-Path: [huggingface-blog-dots-ocr-ne.md](file:///../../ai/models/huggingface-blog-dots-ocr-ne.md)
+Path: [huggingface-blog-dots-ocr-ne.md](file:///../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)

@@ -3,7 +3,7 @@ title: Welcome PaddlePaddle to the Hugging Face Hub
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/paddlepaddle
-local_vault_path: ai/models/huggingface-blog-paddlepaddle.md
+local_vault_path: ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-paddlepaddle-to-the-hugging-face-hub
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md](file:///../../ai/models/huggingface-blog-paddlepaddle.md)
+Path: [welcome-paddlepaddle-to-the-hugging-face-hub-b86af0.md](file:///../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)

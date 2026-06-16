@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mask2former
 resource_id: huggingface:blog/mask2former
-local_vault_path: ai/models/huggingface-blog-mask2former.md
+local_vault_path: ai/models/universal-image-segmentation-with-mask2former-and.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Universal Image Segmentation with Mask2Former and OneFormer
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mask2former
 
 ## Local Vault File
 
-Path: [huggingface-blog-mask2former.md](file:///../../ai/models/huggingface-blog-mask2former.md)
+Path: [huggingface-blog-mask2former.md](file:///../../ai/models/universal-image-segmentation-with-mask2former-and.md)

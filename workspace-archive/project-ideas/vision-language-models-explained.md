@@ -3,7 +3,7 @@ title: Vision Language Models Explained
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/vlms
-local_vault_path: ai/models/huggingface-blog-vlms.md
+local_vault_path: ai/models/vision-language-models-explained.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:vision-language-models-explained
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/vlms
 
 ## Local Vault File
 
-Path: [vision-language-models-explained-3b26ed.md](file:///../../ai/models/huggingface-blog-vlms.md)
+Path: [vision-language-models-explained-3b26ed.md](file:///../../ai/models/vision-language-models-explained.md)

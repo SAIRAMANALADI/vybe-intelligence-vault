@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api
 resource_id: huggingface:blog/few-shot-learning-gpt-neo-and-inference-api
-local_vault_path: ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md
+local_vault_path: ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-i
 
 ## Local Vault File
 
-Path: [huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md](file:///../../ai/models/huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md)
+Path: [huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md](file:///../../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)

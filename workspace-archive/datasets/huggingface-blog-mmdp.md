@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mmdp
 resource_id: huggingface:blog/mmdp
-local_vault_path: ai/models/huggingface-blog-mmdp.md
+local_vault_path: ai/models/efficient-multimodal-data-pipeline.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Efficient MultiModal Data Pipeline
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: [huggingface-blog-mmdp.md](file:///../../ai/models/huggingface-blog-mmdp.md)
+Path: [huggingface-blog-mmdp.md](file:///../../ai/models/efficient-multimodal-data-pipeline.md)

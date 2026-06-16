@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-japanese
 resource_id: huggingface:blog/leaderboard-japanese
-local_vault_path: ai/models/huggingface-blog-leaderboard-japanese.md
+local_vault_path: ai/models/introducing-the-open-leaderboard-for-japanese-llms.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Open Leaderboard for Japanese LLMs!
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-japanese
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-japanese.md](file:///../../ai/models/huggingface-blog-leaderboard-japanese.md)
+Path: [huggingface-blog-leaderboard-japanese.md](file:///../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)

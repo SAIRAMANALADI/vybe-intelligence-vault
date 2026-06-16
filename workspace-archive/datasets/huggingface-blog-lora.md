@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora
 resource_id: huggingface:blog/lora
-local_vault_path: ai/models/huggingface-blog-lora.md
+local_vault_path: ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Using LoRA for Efficient Stable Diffusion Fine-Tuning
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/lora
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora.md](file:///../../ai/models/huggingface-blog-lora.md)
+Path: [huggingface-blog-lora.md](file:///../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)

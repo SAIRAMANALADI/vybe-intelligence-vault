@@ -5,7 +5,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/community-evals
 resource_id: blog:community-evals-because-we-re-done-trusting-black
-local_vault_path: ai/models/huggingface-blog-community-evals.md
+local_vault_path: ai/models/community-evals-because-we-re-done-trusting-black.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/community-evals
 
 ## Local Vault File
 
-Path: [huggingface-blog-community-evals.md](file:///../../ai/models/huggingface-blog-community-evals.md)
+Path: [community-evals-because-we-re-done-trusting-black.md](file:///../../ai/models/community-evals-because-we-re-done-trusting-black.md)

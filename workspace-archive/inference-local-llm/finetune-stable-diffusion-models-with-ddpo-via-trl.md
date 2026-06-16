@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-ddpo
 resource_id: blog:finetune-stable-diffusion-models-with-ddpo-via-trl
-local_vault_path: ai/models/huggingface-blog-trl-ddpo.md
+local_vault_path: ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-ddpo
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-ddpo.md](file:///../../ai/models/huggingface-blog-trl-ddpo.md)
+Path: [finetune-stable-diffusion-models-with-ddpo-via-trl.md](file:///../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)

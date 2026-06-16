@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/intel-fast-embedding
 resource_id: huggingface:blog/intel-fast-embedding
-local_vault_path: ai/rag/huggingface-blog-intel-fast-embedding.md
+local_vault_path: ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/intel-fast-embedding
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-fast-embedding.md](file:///../../ai/rag/huggingface-blog-intel-fast-embedding.md)
+Path: [huggingface-blog-intel-fast-embedding.md](file:///../../ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)

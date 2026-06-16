@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma2mix
 resource_id: blog:paligemma-2-mix-new-instruction-vision-language-mo
-local_vault_path: ai/models/huggingface-blog-paligemma2mix.md
+local_vault_path: ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma2mix
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma2mix.md](file:///../../ai/models/huggingface-blog-paligemma2mix.md)
+Path: [paligemma-2-mix-new-instruction-vision-language-mo.md](file:///../../ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md)

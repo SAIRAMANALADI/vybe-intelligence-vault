@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/evaluating-llm-bias
 resource_id: blog:evaluating-language-model-bias-with-evaluate
-local_vault_path: ai/models/huggingface-blog-evaluating-llm-bias.md
+local_vault_path: ai/models/evaluating-language-model-bias-with-evaluate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/evaluating-llm-bias
 
 ## Local Vault File
 
-Path: [huggingface-blog-evaluating-llm-bias.md](file:///../../ai/models/huggingface-blog-evaluating-llm-bias.md)
+Path: [evaluating-language-model-bias-with-evaluate.md](file:///../../ai/models/evaluating-language-model-bias-with-evaluate.md)

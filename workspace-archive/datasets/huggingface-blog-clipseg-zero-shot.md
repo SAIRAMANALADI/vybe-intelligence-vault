@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/clipseg-zero-shot
 resource_id: huggingface:blog/clipseg-zero-shot
-local_vault_path: ai/models/huggingface-blog-clipseg-zero-shot.md
+local_vault_path: ai/models/zero-shot-image-segmentation-with-clipseg.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Zero-shot image segmentation with CLIPSeg
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/clipseg-zero-shot
 
 ## Local Vault File
 
-Path: [huggingface-blog-clipseg-zero-shot.md](file:///../../ai/models/huggingface-blog-clipseg-zero-shot.md)
+Path: [huggingface-blog-clipseg-zero-shot.md](file:///../../ai/models/zero-shot-image-segmentation-with-clipseg.md)

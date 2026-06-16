@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lerobot-datasets-v3
 resource_id: huggingface:blog/lerobot-datasets-v3
-local_vault_path: ai/models/huggingface-blog-lerobot-datasets-v3.md
+local_vault_path: ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # `LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-datasets-v3.md](file:///../../ai/models/huggingface-blog-lerobot-datasets-v3.md)
+Path: [huggingface-blog-lerobot-datasets-v3.md](file:///../../ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md)

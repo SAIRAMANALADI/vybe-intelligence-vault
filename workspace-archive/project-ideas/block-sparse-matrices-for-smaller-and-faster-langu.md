@@ -3,7 +3,7 @@ title: Block Sparse Matrices for Smaller and Faster Language Models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch_block_sparse
-local_vault_path: ai/models/huggingface-blog-pytorch-block-sparse.md
+local_vault_path: ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:block-sparse-matrices-for-smaller-and-faster-langu
 ---
+
 
 
 # Block Sparse Matrices for Smaller and Faster Language Models
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/pytorch_block_sparse
 
 ## Local Vault File
 
-Path: [block-sparse-matrices-for-smaller-and-faster-language-models-347526.md](file:///../../ai/models/huggingface-blog-pytorch-block-sparse.md)
+Path: [block-sparse-matrices-for-smaller-and-faster-language-models-347526.md](file:///../../ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)

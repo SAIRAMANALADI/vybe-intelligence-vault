@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama4-release
 resource_id: blog:welcome-llama-4-maverick-scout-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-llama4-release.md
+local_vault_path: ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama4-release
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama4-release.md](file:///../../ai/models/huggingface-blog-llama4-release.md)
+Path: [welcome-llama-4-maverick-scout-on-hugging-face.md](file:///../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)

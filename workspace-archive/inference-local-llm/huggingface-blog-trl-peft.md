@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-peft
 resource_id: huggingface:blog/trl-peft
-local_vault_path: ai/models/huggingface-blog-trl-peft.md
+local_vault_path: ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/trl-peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-peft.md](file:///../../ai/models/huggingface-blog-trl-peft.md)
+Path: [huggingface-blog-trl-peft.md](file:///../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)

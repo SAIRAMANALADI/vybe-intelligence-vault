@@ -3,7 +3,7 @@ title: Welcome PaliGemma 2 – New vision language models by Google
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/paligemma2
-local_vault_path: ai/models/huggingface-blog-paligemma2.md
+local_vault_path: ai/models/welcome-paligemma-2-new-vision-language-models-by.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-paligemma-2-new-vision-language-models-by
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/paligemma2
 
 ## Local Vault File
 
-Path: [welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md](file:///../../ai/models/huggingface-blog-paligemma2.md)
+Path: [welcome-paligemma-2-new-vision-language-models-by-google-5842f5.md](file:///../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)

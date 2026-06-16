@@ -3,7 +3,7 @@ title: Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/infrastructure-alerting
-local_vault_path: ai/models/huggingface-blog-infrastructure-alerting.md
+local_vault_path: ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:three-mighty-alerts-supporting-hugging-faces-produ
 ---
+
 
 
 # Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/infrastructure-alerting
 
 ## Local Vault File
 
-Path: [three-mighty-alerts-supporting-hugging-faces-production-infrastructure-961df9.md](file:///../../ai/models/huggingface-blog-infrastructure-alerting.md)
+Path: [three-mighty-alerts-supporting-hugging-faces-production-infrastructure-961df9.md](file:///../../ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)

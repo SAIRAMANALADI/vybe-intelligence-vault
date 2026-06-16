@@ -3,7 +3,7 @@ title: Vision Language Model Alignment in TRL ⚡️
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-vlm-alignment
-local_vault_path: ai/models/huggingface-blog-trl-vlm-alignment.md
+local_vault_path: ai/models/vision-language-model-alignment-in-trl.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:vision-language-model-alignment-in-trl
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/trl-vlm-alignment
 
 ## Local Vault File
 
-Path: [vision-language-model-alignment-in-trl-84f70b.md](file:///../../ai/models/huggingface-blog-trl-vlm-alignment.md)
+Path: [vision-language-model-alignment-in-trl-84f70b.md](file:///../../ai/models/vision-language-model-alignment-in-trl.md)

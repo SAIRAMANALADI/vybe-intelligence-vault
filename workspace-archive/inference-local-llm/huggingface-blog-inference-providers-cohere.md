@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-providers-cohere
 resource_id: huggingface:blog/inference-providers-cohere
-local_vault_path: ai/models/huggingface-blog-inference-providers-cohere.md
+local_vault_path: ai/models/cohere-on-hugging-face-inference-providers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Cohere on Hugging Face Inference Providers 🔥
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-cohere
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-cohere.md](file:///../../ai/models/huggingface-blog-inference-providers-cohere.md)
+Path: [huggingface-blog-inference-providers-cohere.md](file:///../../ai/models/cohere-on-hugging-face-inference-providers.md)

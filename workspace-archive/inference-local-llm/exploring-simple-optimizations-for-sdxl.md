@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/simple_sdxl_optimizations
 resource_id: blog:exploring-simple-optimizations-for-sdxl
-local_vault_path: ai/models/huggingface-blog-simple-sdxl-optimizations.md
+local_vault_path: ai/models/exploring-simple-optimizations-for-sdxl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple_sdxl_optimizations
 
 ## Local Vault File
 
-Path: [huggingface-blog-simple-sdxl-optimizations.md](file:///../../ai/models/huggingface-blog-simple-sdxl-optimizations.md)
+Path: [exploring-simple-optimizations-for-sdxl.md](file:///../../ai/models/exploring-simple-optimizations-for-sdxl.md)

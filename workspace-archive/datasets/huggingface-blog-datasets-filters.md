@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/datasets-filters
 resource_id: huggingface:blog/datasets-filters
-local_vault_path: ai/models/huggingface-blog-datasets-filters.md
+local_vault_path: ai/models/announcing-new-dataset-search-features.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Announcing New Dataset Search Features
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/datasets-filters
 
 ## Local Vault File
 
-Path: [huggingface-blog-datasets-filters.md](file:///../../ai/models/huggingface-blog-datasets-filters.md)
+Path: [huggingface-blog-datasets-filters.md](file:///../../ai/models/announcing-new-dataset-search-features.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/zero-deepspeed-fairscale
 resource_id: blog:fit-more-and-train-faster-with-zero-via-deepspeed
-local_vault_path: ai/models/huggingface-blog-zero-deepspeed-fairscale.md
+local_vault_path: ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zero-deepspeed-fairscale
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-deepspeed-fairscale.md](file:///../../ai/models/huggingface-blog-zero-deepspeed-fairscale.md)
+Path: [fit-more-and-train-faster-with-zero-via-deepspeed.md](file:///../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)

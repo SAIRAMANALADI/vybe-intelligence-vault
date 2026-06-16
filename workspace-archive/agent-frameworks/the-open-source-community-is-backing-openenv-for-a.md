@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/openenv-agentic-rl
 resource_id: blog:the-open-source-community-is-backing-openenv-for-a
-local_vault_path: ai/agents/huggingface-blog-openenv-agentic-rl.md
+local_vault_path: ai/agents/the-open-source-community-is-backing-openenv-for-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv-agentic-rl
 
 ## Local Vault File
 
-Path: [huggingface-blog-openenv-agentic-rl.md](file:///../../ai/agents/huggingface-blog-openenv-agentic-rl.md)
+Path: [the-open-source-community-is-backing-openenv-for-a.md](file:///../../ai/agents/the-open-source-community-is-backing-openenv-for-a.md)

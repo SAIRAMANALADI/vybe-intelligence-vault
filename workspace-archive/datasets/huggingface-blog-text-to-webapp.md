@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/text-to-webapp
 resource_id: huggingface:blog/text-to-webapp
-local_vault_path: ai/models/huggingface-blog-text-to-webapp.md
+local_vault_path: ai/models/making-a-web-app-generator-with-open-ml-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Making a web app generator with open ML models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/text-to-webapp
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-to-webapp.md](file:///../../ai/models/huggingface-blog-text-to-webapp.md)
+Path: [huggingface-blog-text-to-webapp.md](file:///../../ai/models/making-a-web-app-generator-with-open-ml-models.md)

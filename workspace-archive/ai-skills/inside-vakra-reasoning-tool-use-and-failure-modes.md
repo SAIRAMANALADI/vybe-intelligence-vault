@@ -11,6 +11,7 @@ resource_id: blog:inside-vakra-reasoning-tool-use-and-failure-modes
 
 
 
+
 # Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents
 
 ## Why This Is In The Archive

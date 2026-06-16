@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pretraining-bert
 resource_id: huggingface:blog/pretraining-bert
-local_vault_path: ai/models/huggingface-blog-pretraining-bert.md
+local_vault_path: ai/models/pre-train-bert-with-hugging-face-transformers-and.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Pre-Train BERT with Hugging Face Transformers and Habana Gaudi
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/pretraining-bert
 
 ## Local Vault File
 
-Path: [huggingface-blog-pretraining-bert.md](file:///../../ai/models/huggingface-blog-pretraining-bert.md)
+Path: [huggingface-blog-pretraining-bert.md](file:///../../ai/models/pre-train-bert-with-hugging-face-transformers-and.md)

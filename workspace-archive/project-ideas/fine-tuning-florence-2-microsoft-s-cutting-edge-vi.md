@@ -3,7 +3,7 @@ title: Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/finetune-florence2
-local_vault_path: ai/models/huggingface-blog-finetune-florence2.md
+local_vault_path: ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tuning-florence-2-microsoft-s-cutting-edge-vi
 ---
+
 
 
 # Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/finetune-florence2
 
 ## Local Vault File
 
-Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md](file:///../../ai/models/huggingface-blog-finetune-florence2.md)
+Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vision-language-models-99a802.md](file:///../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ray-rag
 resource_id: blog:retrieval-augmented-generation-with-huggingface-tr
-local_vault_path: ai/models/huggingface-blog-ray-rag.md
+local_vault_path: ai/models/retrieval-augmented-generation-with-huggingface-tr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ray-rag
 
 ## Local Vault File
 
-Path: [huggingface-blog-ray-rag.md](file:///../../ai/models/huggingface-blog-ray-rag.md)
+Path: [retrieval-augmented-generation-with-huggingface-tr.md](file:///../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)

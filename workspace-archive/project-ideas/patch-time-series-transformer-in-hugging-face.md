@@ -3,7 +3,7 @@ title: Patch Time Series Transformer in Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/patchtst
-local_vault_path: ai/models/huggingface-blog-patchtst.md
+local_vault_path: ai/models/patch-time-series-transformer-in-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:patch-time-series-transformer-in-hugging-face
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/patchtst
 
 ## Local Vault File
 
-Path: [patch-time-series-transformer-in-hugging-face-eb69ee.md](file:///../../ai/models/huggingface-blog-patchtst.md)
+Path: [patch-time-series-transformer-in-hugging-face-eb69ee.md](file:///../../ai/models/patch-time-series-transformer-in-hugging-face.md)

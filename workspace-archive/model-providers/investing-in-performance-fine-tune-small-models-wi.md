@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cfm-case-study
 resource_id: blog:investing-in-performance-fine-tune-small-models-wi
-local_vault_path: ai/models/huggingface-blog-cfm-case-study.md
+local_vault_path: ai/models/investing-in-performance-fine-tune-small-models-wi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cfm-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-cfm-case-study.md](file:///../../ai/models/huggingface-blog-cfm-case-study.md)
+Path: [investing-in-performance-fine-tune-small-models-wi.md](file:///../../ai/models/investing-in-performance-fine-tune-small-models-wi.md)

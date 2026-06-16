@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/hello-hf-kernels
 resource_id: huggingface:blog/hello-hf-kernels
-local_vault_path: ai/models/huggingface-blog-hello-hf-kernels.md
+local_vault_path: ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Learn the Hugging Face Kernel Hub in 5 Minutes
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hello-hf-kernels
 
 ## Local Vault File
 
-Path: [huggingface-blog-hello-hf-kernels.md](file:///../../ai/models/huggingface-blog-hello-hf-kernels.md)
+Path: [huggingface-blog-hello-hf-kernels.md](file:///../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)

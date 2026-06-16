@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-llamaguard
 resource_id: blog:cyberseceval-2-a-comprehensive-evaluation-framewor
-local_vault_path: ai/models/huggingface-blog-leaderboard-llamaguard.md
+local_vault_path: ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-llamaguard.md](file:///../../ai/models/huggingface-blog-leaderboard-llamaguard.md)
+Path: [cyberseceval-2-a-comprehensive-evaluation-framewor.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)

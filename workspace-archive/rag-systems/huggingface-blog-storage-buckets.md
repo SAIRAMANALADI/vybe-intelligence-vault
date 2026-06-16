@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/storage-buckets
 resource_id: huggingface:blog/storage-buckets
-local_vault_path: ai/rag/huggingface-blog-storage-buckets.md
+local_vault_path: ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Introducing Storage Buckets on the Hugging Face Hub
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: [huggingface-blog-storage-buckets.md](file:///../../ai/rag/huggingface-blog-storage-buckets.md)
+Path: [huggingface-blog-storage-buckets.md](file:///../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)

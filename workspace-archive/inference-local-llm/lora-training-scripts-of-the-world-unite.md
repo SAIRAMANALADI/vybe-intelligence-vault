@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/sdxl_lora_advanced_script
 resource_id: blog:lora-training-scripts-of-the-world-unite
-local_vault_path: ai/models/huggingface-blog-sdxl-lora-advanced-script.md
+local_vault_path: ai/models/lora-training-scripts-of-the-world-unite.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sdxl_lora_advanced_script
 
 ## Local Vault File
 
-Path: [huggingface-blog-sdxl-lora-advanced-script.md](file:///../../ai/models/huggingface-blog-sdxl-lora-advanced-script.md)
+Path: [lora-training-scripts-of-the-world-unite.md](file:///../../ai/models/lora-training-scripts-of-the-world-unite.md)

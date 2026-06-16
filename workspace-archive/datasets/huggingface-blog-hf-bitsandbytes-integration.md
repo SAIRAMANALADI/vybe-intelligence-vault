@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-bitsandbytes-integration
 resource_id: huggingface:blog/hf-bitsandbytes-integration
-local_vault_path: ai/models/huggingface-blog-hf-bitsandbytes-integration.md
+local_vault_path: ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-bitsandbytes-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-bitsandbytes-integration.md](file:///../../ai/models/huggingface-blog-hf-bitsandbytes-integration.md)
+Path: [huggingface-blog-hf-bitsandbytes-integration.md](file:///../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)

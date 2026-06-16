@@ -3,7 +3,7 @@ title: Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/mixtral
-local_vault_path: ai/models/huggingface-blog-mixtral.md
+local_vault_path: ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-mixtral-a-sota-mixture-of-experts-on-huggi
 ---
+
 
 
 # Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/mixtral
 
 ## Local Vault File
 
-Path: [welcome-mixtral-a-sota-mixture-of-experts-on-hugging-face-70293c.md](file:///../../ai/models/huggingface-blog-mixtral.md)
+Path: [welcome-mixtral-a-sota-mixture-of-experts-on-hugging-face-70293c.md](file:///../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)

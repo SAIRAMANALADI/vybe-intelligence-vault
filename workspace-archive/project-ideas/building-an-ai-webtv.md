@@ -3,7 +3,7 @@ title: Building an AI WebTV
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-webtv
-local_vault_path: ai/models/huggingface-blog-ai-webtv.md
+local_vault_path: ai/models/building-an-ai-webtv.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:building-an-ai-webtv
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ai-webtv
 
 ## Local Vault File
 
-Path: [building-an-ai-webtv-8f1b9f.md](file:///../../ai/models/huggingface-blog-ai-webtv.md)
+Path: [building-an-ai-webtv-8f1b9f.md](file:///../../ai/models/building-an-ai-webtv.md)

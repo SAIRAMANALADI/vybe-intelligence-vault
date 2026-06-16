@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/langchain
 resource_id: blog:hugging-face-x-langchain-a-new-partner-package
-local_vault_path: ai/models/huggingface-blog-langchain.md
+local_vault_path: ai/models/hugging-face-x-langchain-a-new-partner-package.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/langchain
 
 ## Local Vault File
 
-Path: [huggingface-blog-langchain.md](file:///../../ai/models/huggingface-blog-langchain.md)
+Path: [hugging-face-x-langchain-a-new-partner-package.md](file:///../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)

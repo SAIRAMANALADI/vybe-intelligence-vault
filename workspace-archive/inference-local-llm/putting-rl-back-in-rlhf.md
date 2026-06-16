@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rloo
 resource_id: blog:putting-rl-back-in-rlhf
-local_vault_path: ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md
+local_vault_path: ai/models/putting-rl-back-in-rlhf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rl
 
 ## Local Vault File
 
-Path: [huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md](file:///../../ai/models/huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md)
+Path: [putting-rl-back-in-rlhf.md](file:///../../ai/models/putting-rl-back-in-rlhf.md)

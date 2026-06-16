@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-arabic
 resource_id: huggingface:blog/leaderboard-arabic
-local_vault_path: ai/models/huggingface-blog-leaderboard-arabic.md
+local_vault_path: ai/models/introducing-the-open-arabic-llm-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Open Arabic LLM Leaderboard
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-arabic.md](file:///../../ai/models/huggingface-blog-leaderboard-arabic.md)
+Path: [huggingface-blog-leaderboard-arabic.md](file:///../../ai/models/introducing-the-open-arabic-llm-leaderboard.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/smolvlm2
 resource_id: blog:smolvlm2-bringing-video-understanding-to-every-dev
-local_vault_path: ai/models/huggingface-blog-smolvlm2.md
+local_vault_path: ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolvlm2
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvlm2.md](file:///../../ai/models/huggingface-blog-smolvlm2.md)
+Path: [smolvlm2-bringing-video-understanding-to-every-dev.md](file:///../../ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)

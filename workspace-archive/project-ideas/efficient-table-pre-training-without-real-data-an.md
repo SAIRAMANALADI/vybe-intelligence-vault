@@ -3,7 +3,7 @@ title: 'Efficient Table Pre-training without Real Data: An Introduction to TAPEX
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/tapex
-local_vault_path: ai/models/huggingface-blog-tapex.md
+local_vault_path: ai/models/efficient-table-pre-training-without-real-data-an.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:efficient-table-pre-training-without-real-data-an
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/tapex
 
 ## Local Vault File
 
-Path: [efficient-table-pre-training-without-real-data-an-introduction-to-tapex-21bd8d.md](file:///../../ai/models/huggingface-blog-tapex.md)
+Path: [efficient-table-pre-training-without-real-data-an-introduction-to-tapex-21bd8d.md](file:///../../ai/models/efficient-table-pre-training-without-real-data-an.md)

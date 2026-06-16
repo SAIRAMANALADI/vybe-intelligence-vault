@@ -4,7 +4,7 @@ archive_category: ai-tools-products
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-art-newsletter-jan-25
 resource_id: huggingface:blog/ai-art-newsletter-jan-25
-local_vault_path: ai/models/huggingface-blog-ai-art-newsletter-jan-25.md
+local_vault_path: ai/models/the-ai-tools-for-art-newsletter-issue-1.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # The AI tools for Art Newsletter - Issue 1
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ai-art-newsletter-jan-25
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-art-newsletter-jan-25.md](file:///../../ai/models/huggingface-blog-ai-art-newsletter-jan-25.md)
+Path: [huggingface-blog-ai-art-newsletter-jan-25.md](file:///../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)

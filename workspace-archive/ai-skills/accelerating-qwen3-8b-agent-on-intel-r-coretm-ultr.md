@@ -3,11 +3,12 @@ title: Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Dr
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/intel-qwen3-agent
-local_vault_path: ai/agents/huggingface-blog-intel-qwen3-agent.md
+local_vault_path: ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md
 tags:
 - agents
 resource_id: blog:accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr
 ---
+
 
 
 # Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models

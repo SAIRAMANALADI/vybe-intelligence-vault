@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphcore
 resource_id: blog:hugging-face-and-graphcore-partner-for-ipu-optimiz
-local_vault_path: ai/models/huggingface-blog-graphcore.md
+local_vault_path: ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore.md](file:///../../ai/models/huggingface-blog-graphcore.md)
+Path: [hugging-face-and-graphcore-partner-for-ipu-optimiz.md](file:///../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)

@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/paddlepaddle
 resource_id: huggingface:blog/paddlepaddle
-local_vault_path: ai/models/huggingface-blog-paddlepaddle.md
+local_vault_path: ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [huggingface-blog-paddlepaddle.md](file:///../../ai/models/huggingface-blog-paddlepaddle.md)
+Path: [huggingface-blog-paddlepaddle.md](file:///../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)

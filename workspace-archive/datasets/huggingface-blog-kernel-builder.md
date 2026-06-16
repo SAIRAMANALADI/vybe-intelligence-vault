@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/kernel-builder
 resource_id: huggingface:blog/kernel-builder
-local_vault_path: ai/models/huggingface-blog-kernel-builder.md
+local_vault_path: ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: high
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/kernel-builder
 
 ## Local Vault File
 
-Path: [huggingface-blog-kernel-builder.md](file:///../../ai/models/huggingface-blog-kernel-builder.md)
+Path: [huggingface-blog-kernel-builder.md](file:///../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)

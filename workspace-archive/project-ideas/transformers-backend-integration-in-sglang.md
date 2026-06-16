@@ -3,7 +3,7 @@ title: Transformers backend integration in SGLang
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-backend-sglang
-local_vault_path: ai/models/huggingface-blog-transformers-backend-sglang.md
+local_vault_path: ai/models/transformers-backend-integration-in-sglang.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:transformers-backend-integration-in-sglang
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/transformers-backend-sglang
 
 ## Local Vault File
 
-Path: [transformers-backend-integration-in-sglang-32195c.md](file:///../../ai/models/huggingface-blog-transformers-backend-sglang.md)
+Path: [transformers-backend-integration-in-sglang-32195c.md](file:///../../ai/models/transformers-backend-integration-in-sglang.md)

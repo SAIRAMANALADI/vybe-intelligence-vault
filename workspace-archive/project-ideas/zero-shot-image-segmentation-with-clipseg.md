@@ -3,7 +3,7 @@ title: Zero-shot image segmentation with CLIPSeg
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/clipseg-zero-shot
-local_vault_path: ai/models/huggingface-blog-clipseg-zero-shot.md
+local_vault_path: ai/models/zero-shot-image-segmentation-with-clipseg.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:zero-shot-image-segmentation-with-clipseg
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/clipseg-zero-shot
 
 ## Local Vault File
 
-Path: [zero-shot-image-segmentation-with-clipseg-59d736.md](file:///../../ai/models/huggingface-blog-clipseg-zero-shot.md)
+Path: [zero-shot-image-segmentation-with-clipseg-59d736.md](file:///../../ai/models/zero-shot-image-segmentation-with-clipseg.md)

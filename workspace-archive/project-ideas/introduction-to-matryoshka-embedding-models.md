@@ -3,7 +3,7 @@ title: 🪆 Introduction to Matryoshka Embedding Models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/matryoshka
-local_vault_path: ai/models/huggingface-blog-matryoshka.md
+local_vault_path: ai/models/introduction-to-matryoshka-embedding-models.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introduction-to-matryoshka-embedding-models
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/matryoshka
 
 ## Local Vault File
 
-Path: [introduction-to-matryoshka-embedding-models-e224ad.md](file:///../../ai/models/huggingface-blog-matryoshka.md)
+Path: [introduction-to-matryoshka-embedding-models-e224ad.md](file:///../../ai/models/introduction-to-matryoshka-embedding-models.md)

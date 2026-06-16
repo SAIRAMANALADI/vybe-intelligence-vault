@@ -3,7 +3,7 @@ title: 'mmBERT: ModernBERT goes Multilingual'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/mmbert
-local_vault_path: ai/models/huggingface-blog-mmbert.md
+local_vault_path: ai/models/mmbert-modernbert-goes-multilingual.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:mmbert-modernbert-goes-multilingual
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [mmbert-modernbert-goes-multilingual-03f3c0.md](file:///../../ai/models/huggingface-blog-mmbert.md)
+Path: [mmbert-modernbert-goes-multilingual-03f3c0.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual.md)

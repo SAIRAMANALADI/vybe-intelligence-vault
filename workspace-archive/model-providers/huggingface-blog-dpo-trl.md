@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dpo-trl
 resource_id: huggingface:blog/dpo-trl
-local_vault_path: ai/models/huggingface-blog-dpo-trl.md
+local_vault_path: ai/models/fine-tune-llama-2-with-dpo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-tune Llama 2 with DPO
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/dpo-trl
 
 ## Local Vault File
 
-Path: [huggingface-blog-dpo-trl.md](file:///../../ai/models/huggingface-blog-dpo-trl.md)
+Path: [huggingface-blog-dpo-trl.md](file:///../../ai/models/fine-tune-llama-2-with-dpo.md)

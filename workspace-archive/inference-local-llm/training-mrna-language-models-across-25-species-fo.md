@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/openmed/training-mrna-models-25-species
 resource_id: blog:training-mrna-language-models-across-25-species-fo
-local_vault_path: ai/models/huggingface-blog-openmed.md
+local_vault_path: ai/models/training-mrna-language-models-across-25-species-fo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openmed/training-mrna-models-25
 
 ## Local Vault File
 
-Path: [huggingface-blog-openmed.md](file:///../../ai/models/huggingface-blog-openmed.md)
+Path: [training-mrna-language-models-across-25-species-fo.md](file:///../../ai/models/training-mrna-language-models-across-25-species-fo.md)

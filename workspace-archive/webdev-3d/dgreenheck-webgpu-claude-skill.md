@@ -11,6 +11,7 @@ resource_id: github:dgreenheck/webgpu-claude-skill
 
 
 
+
 # dgreenheck/webgpu-claude-skill
 
 ## Why This Is In The Archive

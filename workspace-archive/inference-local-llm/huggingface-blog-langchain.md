@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/langchain
 resource_id: huggingface:blog/langchain
-local_vault_path: ai/models/huggingface-blog-langchain.md
+local_vault_path: ai/models/hugging-face-x-langchain-a-new-partner-package.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face x LangChain : A new partner package
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/langchain
 
 ## Local Vault File
 
-Path: [huggingface-blog-langchain.md](file:///../../ai/models/huggingface-blog-langchain.md)
+Path: [huggingface-blog-langchain.md](file:///../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)

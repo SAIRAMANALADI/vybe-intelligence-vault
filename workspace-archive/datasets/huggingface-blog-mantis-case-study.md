@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/mantis-case-study
 resource_id: huggingface:blog/mantis-case-study
-local_vault_path: ai/models/huggingface-blog-mantis-case-study.md
+local_vault_path: ai/models/why-were-switching-to-hugging-face-inference-endpo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/mantis-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-mantis-case-study.md](file:///../../ai/models/huggingface-blog-mantis-case-study.md)
+Path: [huggingface-blog-mantis-case-study.md](file:///../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)

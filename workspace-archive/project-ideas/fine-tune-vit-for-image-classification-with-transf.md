@@ -3,7 +3,7 @@ title: Fine-Tune ViT for Image Classification with 🤗 Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-vit
-local_vault_path: ai/models/huggingface-blog-fine-tune-vit.md
+local_vault_path: ai/models/fine-tune-vit-for-image-classification-with-transf.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tune-vit-for-image-classification-with-transf
 ---
+
 
 
 # Fine-Tune ViT for Image Classification with 🤗 Transformers
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-vit
 
 ## Local Vault File
 
-Path: [fine-tune-vit-for-image-classification-with-transformers-6a154f.md](file:///../../ai/models/huggingface-blog-fine-tune-vit.md)
+Path: [fine-tune-vit-for-image-classification-with-transformers-6a154f.md](file:///../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)

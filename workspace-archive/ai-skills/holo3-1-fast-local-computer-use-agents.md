@@ -11,6 +11,7 @@ resource_id: blog:holo3-1-fast-local-computer-use-agents
 
 
 
+
 # Holo3.1: Fast & Local Computer Use Agents
 
 ## Why This Is In The Archive

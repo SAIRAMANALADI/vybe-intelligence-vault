@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-video
 resource_id: huggingface:blog/fine-video
-local_vault_path: ai/models/huggingface-blog-fine-video.md
+local_vault_path: ai/models/finevideo-behind-the-scenes.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # FineVideo: behind the scenes
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fine-video
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-video.md](file:///../../ai/models/huggingface-blog-fine-video.md)
+Path: [huggingface-blog-fine-video.md](file:///../../ai/models/finevideo-behind-the-scenes.md)

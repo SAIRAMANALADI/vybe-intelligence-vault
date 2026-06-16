@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/safecoder-vs-closed-source-code-assistants
 resource_id: huggingface:blog/safecoder-vs-closed-source-code-assistants
-local_vault_path: ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md
+local_vault_path: ai/models/safecoder-vs-closed-source-code-assistants.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SafeCoder vs. Closed-source Code Assistants
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/safecoder-vs-closed-source-code
 
 ## Local Vault File
 
-Path: [huggingface-blog-safecoder-vs-closed-source-code-assistants.md](file:///../../ai/models/huggingface-blog-safecoder-vs-closed-source-code-assistants.md)
+Path: [huggingface-blog-safecoder-vs-closed-source-code-assistants.md](file:///../../ai/models/safecoder-vs-closed-source-code-assistants.md)

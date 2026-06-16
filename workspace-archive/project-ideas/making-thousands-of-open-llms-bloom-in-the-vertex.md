@@ -3,7 +3,7 @@ title: Making thousands of open LLMs bloom in the Vertex AI Model Garden
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/google-cloud-model-garden
-local_vault_path: ai/models/huggingface-blog-google-cloud-model-garden.md
+local_vault_path: ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:making-thousands-of-open-llms-bloom-in-the-vertex
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/google-cloud-model-garden
 
 ## Local Vault File
 
-Path: [making-thousands-of-open-llms-bloom-in-the-vertex-ai-model-garden-98442e.md](file:///../../ai/models/huggingface-blog-google-cloud-model-garden.md)
+Path: [making-thousands-of-open-llms-bloom-in-the-vertex-ai-model-garden-98442e.md](file:///../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)

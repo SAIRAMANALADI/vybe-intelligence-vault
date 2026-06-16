@@ -3,11 +3,12 @@ title: What Makes a Dialog Agent Useful?
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/dialog-agents
-local_vault_path: ai/agents/huggingface-blog-dialog-agents.md
+local_vault_path: ai/agents/what-makes-a-dialog-agent-useful.md
 tags:
 - agents
 resource_id: blog:what-makes-a-dialog-agent-useful
 ---
+
 
 
 

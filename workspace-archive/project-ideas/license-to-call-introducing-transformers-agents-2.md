@@ -3,7 +3,7 @@ title: 'License to Call: Introducing Transformers Agents 2.0'
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agents
-local_vault_path: ai/agents/huggingface-blog-agents.md
+local_vault_path: ai/agents/license-to-call-introducing-transformers-agents-2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:license-to-call-introducing-transformers-agents-2
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/agents
 
 ## Local Vault File
 
-Path: [license-to-call-introducing-transformers-agents-2-0-ea3fc2.md](file:///../../ai/agents/huggingface-blog-agents.md)
+Path: [license-to-call-introducing-transformers-agents-2-0-ea3fc2.md](file:///../../ai/agents/license-to-call-introducing-transformers-agents-2.md)

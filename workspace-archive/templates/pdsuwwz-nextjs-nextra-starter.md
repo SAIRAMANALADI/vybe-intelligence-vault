@@ -32,6 +32,7 @@ license: MIT License
 
 
 
+
 # pdsuwwz/nextjs-nextra-starter
 
 ## Why This Is In The Archive

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-spaces
 resource_id: blog:showcase-your-projects-in-spaces-using-gradio
-local_vault_path: ai/models/huggingface-blog-gradio-spaces.md
+local_vault_path: ai/models/showcase-your-projects-in-spaces-using-gradio.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-spaces.md](file:///../../ai/models/huggingface-blog-gradio-spaces.md)
+Path: [showcase-your-projects-in-spaces-using-gradio.md](file:///../../ai/models/showcase-your-projects-in-spaces-using-gradio.md)

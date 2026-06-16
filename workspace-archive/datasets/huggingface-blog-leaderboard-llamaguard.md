@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-llamaguard
 resource_id: huggingface:blog/leaderboard-llamaguard
-local_vault_path: ai/models/huggingface-blog-leaderboard-llamaguard.md
+local_vault_path: ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Useful for project building
 ---
+
 
 # CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-llamaguard.md](file:///../../ai/models/huggingface-blog-leaderboard-llamaguard.md)
+Path: [huggingface-blog-leaderboard-llamaguard.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)

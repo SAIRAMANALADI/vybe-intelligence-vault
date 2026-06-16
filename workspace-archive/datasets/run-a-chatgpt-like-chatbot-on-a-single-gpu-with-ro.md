@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/chatbot-amd-gpu
 resource_id: blog:run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro
-local_vault_path: ai/models/huggingface-blog-chatbot-amd-gpu.md
+local_vault_path: ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/chatbot-amd-gpu
 
 ## Local Vault File
 
-Path: [huggingface-blog-chatbot-amd-gpu.md](file:///../../ai/models/huggingface-blog-chatbot-amd-gpu.md)
+Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md](file:///../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)

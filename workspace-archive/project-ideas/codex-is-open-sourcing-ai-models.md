@@ -3,7 +3,7 @@ title: Codex is Open Sourcing AI models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-skills-training-codex
-local_vault_path: ai/models/huggingface-blog-hf-skills-training-codex.md
+local_vault_path: ai/models/codex-is-open-sourcing-ai-models.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:codex-is-open-sourcing-ai-models
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training-codex
 
 ## Local Vault File
 
-Path: [codex-is-open-sourcing-ai-models-6a47ac.md](file:///../../ai/models/huggingface-blog-hf-skills-training-codex.md)
+Path: [codex-is-open-sourcing-ai-models-6a47ac.md](file:///../../ai/models/codex-is-open-sourcing-ai-models.md)

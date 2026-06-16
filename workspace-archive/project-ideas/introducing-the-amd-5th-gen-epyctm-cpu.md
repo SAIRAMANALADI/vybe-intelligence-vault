@@ -3,7 +3,7 @@ title: Introducing the AMD 5th Gen EPYC™ CPU
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-amd-turin
-local_vault_path: ai/models/huggingface-blog-huggingface-amd-turin.md
+local_vault_path: ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-the-amd-5th-gen-epyctm-cpu
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-turin
 
 ## Local Vault File
 
-Path: [introducing-the-amd-5th-gen-epyctm-cpu-4c927f.md](file:///../../ai/models/huggingface-blog-huggingface-amd-turin.md)
+Path: [introducing-the-amd-5th-gen-epyctm-cpu-4c927f.md](file:///../../ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)

@@ -3,7 +3,7 @@ title: 'The Transformers Library: standardizing model definitions'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-model-definition
-local_vault_path: ai/models/huggingface-blog-transformers-model-definition.md
+local_vault_path: ai/models/the-transformers-library-standardizing-model-defin.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Useful for project building
 resource_id: blog:the-transformers-library-standardizing-model-defin
 ---
+
 
 
 # The Transformers Library: standardizing model definitions
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/transformers-model-definition
 
 ## Local Vault File
 
-Path: [the-transformers-library-standardizing-model-definitions-a2ac46.md](file:///../../ai/models/huggingface-blog-transformers-model-definition.md)
+Path: [the-transformers-library-standardizing-model-definitions-a2ac46.md](file:///../../ai/models/the-transformers-library-standardizing-model-defin.md)

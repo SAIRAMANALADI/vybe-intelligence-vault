@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/helmet
 resource_id: huggingface:blog/helmet
-local_vault_path: ai/models/huggingface-blog-helmet.md
+local_vault_path: ai/models/introducing-helmet-holistically-evaluating-long-co.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing HELMET: Holistically Evaluating Long-context Language Models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/helmet
 
 ## Local Vault File
 
-Path: [huggingface-blog-helmet.md](file:///../../ai/models/huggingface-blog-helmet.md)
+Path: [huggingface-blog-helmet.md](file:///../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)

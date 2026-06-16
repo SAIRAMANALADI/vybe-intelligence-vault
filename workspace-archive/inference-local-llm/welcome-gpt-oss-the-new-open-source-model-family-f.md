@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/welcome-openai-gpt-oss
 resource_id: blog:welcome-gpt-oss-the-new-open-source-model-family-f
-local_vault_path: ai/models/huggingface-blog-welcome-openai-gpt-oss.md
+local_vault_path: ai/models/welcome-gpt-oss-the-new-open-source-model-family-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/welcome-openai-gpt-oss
 
 ## Local Vault File
 
-Path: [huggingface-blog-welcome-openai-gpt-oss.md](file:///../../ai/models/huggingface-blog-welcome-openai-gpt-oss.md)
+Path: [welcome-gpt-oss-the-new-open-source-model-family-f.md](file:///../../ai/models/welcome-gpt-oss-the-new-open-source-model-family-f.md)

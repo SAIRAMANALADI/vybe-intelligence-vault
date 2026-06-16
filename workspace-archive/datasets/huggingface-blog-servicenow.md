@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/servicenow
 resource_id: huggingface:blog/servicenow
-local_vault_path: ai/models/huggingface-blog-servicenow.md
+local_vault_path: ai/models/pipelinerl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # PipelineRL
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/servicenow
 
 ## Local Vault File
 
-Path: [huggingface-blog-servicenow.md](file:///../../ai/models/huggingface-blog-servicenow.md)
+Path: [huggingface-blog-servicenow.md](file:///../../ai/models/pipelinerl.md)

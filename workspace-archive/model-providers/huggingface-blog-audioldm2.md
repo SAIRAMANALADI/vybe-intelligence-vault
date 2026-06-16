@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/audioldm2
 resource_id: huggingface:blog/audioldm2
-local_vault_path: ai/models/huggingface-blog-audioldm2.md
+local_vault_path: ai/models/audioldm-2-but-faster.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # AudioLDM 2, but faster ⚡️
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/audioldm2
 
 ## Local Vault File
 
-Path: [huggingface-blog-audioldm2.md](file:///../../ai/models/huggingface-blog-audioldm2.md)
+Path: [huggingface-blog-audioldm2.md](file:///../../ai/models/audioldm-2-but-faster.md)

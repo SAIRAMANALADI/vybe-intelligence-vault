@@ -3,7 +3,7 @@ title: Boosting Wav2Vec2 with n-grams in 🤗 Transformers
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/wav2vec2-with-ngram
-local_vault_path: ai/models/huggingface-blog-wav2vec2-with-ngram.md
+local_vault_path: ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:boosting-wav2vec2-with-n-grams-in-transformers
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/wav2vec2-with-ngram
 
 ## Local Vault File
 
-Path: [boosting-wav2vec2-with-n-grams-in-transformers-83398f.md](file:///../../ai/models/huggingface-blog-wav2vec2-with-ngram.md)
+Path: [boosting-wav2vec2-with-n-grams-in-transformers-83398f.md](file:///../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)

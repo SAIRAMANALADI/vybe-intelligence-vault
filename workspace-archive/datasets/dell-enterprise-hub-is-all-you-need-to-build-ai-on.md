@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/dell-ai-applications
 resource_id: blog:dell-enterprise-hub-is-all-you-need-to-build-ai-on
-local_vault_path: ai/models/huggingface-blog-dell-ai-applications.md
+local_vault_path: ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dell-ai-applications
 
 ## Local Vault File
 
-Path: [huggingface-blog-dell-ai-applications.md](file:///../../ai/models/huggingface-blog-dell-ai-applications.md)
+Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on.md](file:///../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)

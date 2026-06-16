@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/amused
 resource_id: huggingface:blog/amused
-local_vault_path: ai/models/huggingface-blog-amused.md
+local_vault_path: ai/models/welcome-amused-efficient-text-to-image-generation.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Welcome aMUSEd: Efficient Text-to-Image Generation
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/amused
 
 ## Local Vault File
 
-Path: [huggingface-blog-amused.md](file:///../../ai/models/huggingface-blog-amused.md)
+Path: [huggingface-blog-amused.md](file:///../../ai/models/welcome-amused-efficient-text-to-image-generation.md)

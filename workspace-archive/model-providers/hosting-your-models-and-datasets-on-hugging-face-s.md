@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/streamlit-spaces
 resource_id: blog:hosting-your-models-and-datasets-on-hugging-face-s
-local_vault_path: ai/models/huggingface-blog-streamlit-spaces.md
+local_vault_path: ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/streamlit-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-streamlit-spaces.md](file:///../../ai/models/huggingface-blog-streamlit-spaces.md)
+Path: [hosting-your-models-and-datasets-on-hugging-face-s.md](file:///../../ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)

@@ -3,7 +3,7 @@ title: Faster Text Generation with TensorFlow and XLA
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf-xla-generate
-local_vault_path: ai/models/huggingface-blog-tf-xla-generate.md
+local_vault_path: ai/models/faster-text-generation-with-tensorflow-and-xla.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:faster-text-generation-with-tensorflow-and-xla
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/tf-xla-generate
 
 ## Local Vault File
 
-Path: [faster-text-generation-with-tensorflow-and-xla-b385b8.md](file:///../../ai/models/huggingface-blog-tf-xla-generate.md)
+Path: [faster-text-generation-with-tensorflow-and-xla-b385b8.md](file:///../../ai/models/faster-text-generation-with-tensorflow-and-xla.md)

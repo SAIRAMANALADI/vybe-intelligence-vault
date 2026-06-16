@@ -3,11 +3,12 @@ title: 'Jupyter Agents: training LLMs to reason with notebooks'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/jupyter-agent-2
-local_vault_path: ai/agents/huggingface-blog-jupyter-agent-2.md
+local_vault_path: ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md
 tags:
 - agents
 resource_id: blog:jupyter-agents-training-llms-to-reason-with-notebo
 ---
+
 
 
 # Jupyter Agents: training LLMs to reason with notebooks

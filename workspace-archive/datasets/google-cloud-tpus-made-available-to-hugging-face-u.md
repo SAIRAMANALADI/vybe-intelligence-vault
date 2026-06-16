@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tpu-inference-endpoints-spaces
 resource_id: blog:google-cloud-tpus-made-available-to-hugging-face-u
-local_vault_path: ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md
+local_vault_path: ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tpu-inference-endpoints-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-tpu-inference-endpoints-spaces.md](file:///../../ai/models/huggingface-blog-tpu-inference-endpoints-spaces.md)
+Path: [google-cloud-tpus-made-available-to-hugging-face-u.md](file:///../../ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)

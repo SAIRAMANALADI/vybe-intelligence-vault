@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/npc-gigax-cubzh
 resource_id: huggingface:blog/npc-gigax-cubzh
-local_vault_path: ai/models/huggingface-blog-npc-gigax-cubzh.md
+local_vault_path: ai/models/introducing-npc-playground-a-3d-playground-to-inte.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/npc-gigax-cubzh
 
 ## Local Vault File
 
-Path: [huggingface-blog-npc-gigax-cubzh.md](file:///../../ai/models/huggingface-blog-npc-gigax-cubzh.md)
+Path: [huggingface-blog-npc-gigax-cubzh.md](file:///../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)

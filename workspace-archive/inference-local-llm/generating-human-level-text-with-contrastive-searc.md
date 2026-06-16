@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-csearch
 resource_id: blog:generating-human-level-text-with-contrastive-searc
-local_vault_path: ai/models/huggingface-blog-introducing-csearch.md
+local_vault_path: ai/models/generating-human-level-text-with-contrastive-searc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-csearch
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-csearch.md](file:///../../ai/models/huggingface-blog-introducing-csearch.md)
+Path: [generating-human-level-text-with-contrastive-searc.md](file:///../../ai/models/generating-human-level-text-with-contrastive-searc.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-nd-parallel
 resource_id: huggingface:blog/accelerate-nd-parallel
-local_vault_path: ai/models/huggingface-blog-accelerate-nd-parallel.md
+local_vault_path: ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/accelerate-nd-parallel
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-nd-parallel.md](file:///../../ai/models/huggingface-blog-accelerate-nd-parallel.md)
+Path: [huggingface-blog-accelerate-nd-parallel.md](file:///../../ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)

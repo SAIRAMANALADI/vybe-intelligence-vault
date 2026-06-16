@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-q-part1
 resource_id: blog:an-introduction-to-q-learning-part-1
-local_vault_path: ai/models/huggingface-blog-deep-rl-q-part1.md
+local_vault_path: ai/models/an-introduction-to-q-learning-part-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part1
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-q-part1.md](file:///../../ai/models/huggingface-blog-deep-rl-q-part1.md)
+Path: [an-introduction-to-q-learning-part-1.md](file:///../../ai/models/an-introduction-to-q-learning-part-1.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/noob_intro_transformers
 resource_id: blog:total-noobs-intro-to-hugging-face-transformers
-local_vault_path: ai/models/huggingface-blog-noob-intro-transformers.md
+local_vault_path: ai/models/total-noobs-intro-to-hugging-face-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/noob_intro_transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-noob-intro-transformers.md](file:///../../ai/models/huggingface-blog-noob-intro-transformers.md)
+Path: [total-noobs-intro-to-hugging-face-transformers.md](file:///../../ai/models/total-noobs-intro-to-hugging-face-transformers.md)

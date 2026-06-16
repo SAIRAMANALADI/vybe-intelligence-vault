@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/cloudflare-workers-ai
 resource_id: huggingface:blog/cloudflare-workers-ai
-local_vault_path: ai/models/huggingface-blog-cloudflare-workers-ai.md
+local_vault_path: ai/models/bringing-serverless-gpu-inference-to-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Bringing serverless GPU inference to Hugging Face users
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-cloudflare-workers-ai.md](file:///../../ai/models/huggingface-blog-cloudflare-workers-ai.md)
+Path: [huggingface-blog-cloudflare-workers-ai.md](file:///../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)

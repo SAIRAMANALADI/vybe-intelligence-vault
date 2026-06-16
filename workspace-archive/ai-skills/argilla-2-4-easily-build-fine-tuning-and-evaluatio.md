@@ -4,11 +4,12 @@ title: 'Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/argilla-ui-hub
-local_vault_path: ai/models/huggingface-blog-argilla-ui-hub.md
+local_vault_path: ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md
 tags:
 - models
 resource_id: blog:argilla-2-4-easily-build-fine-tuning-and-evaluatio
 ---
+
 
 
 # Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required

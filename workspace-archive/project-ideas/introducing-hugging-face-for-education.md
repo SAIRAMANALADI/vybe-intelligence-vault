@@ -3,7 +3,7 @@ title: Introducing Hugging Face for Education 🤗
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/education
-local_vault_path: ai/models/huggingface-blog-education.md
+local_vault_path: ai/models/introducing-hugging-face-for-education.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-hugging-face-for-education
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/education
 
 ## Local Vault File
 
-Path: [introducing-hugging-face-for-education-95a1dd.md](file:///../../ai/models/huggingface-blog-education.md)
+Path: [introducing-hugging-face-for-education-95a1dd.md](file:///../../ai/models/introducing-hugging-face-for-education.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/unified-tool-use
 resource_id: huggingface:blog/unified-tool-use
-local_vault_path: ai/models/huggingface-blog-unified-tool-use.md
+local_vault_path: ai/models/tool-use-unified.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Tool Use, Unified
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [huggingface-blog-unified-tool-use.md](file:///../../ai/models/huggingface-blog-unified-tool-use.md)
+Path: [huggingface-blog-unified-tool-use.md](file:///../../ai/models/tool-use-unified.md)

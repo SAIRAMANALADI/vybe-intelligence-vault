@@ -3,7 +3,7 @@ title: We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/series-c
-local_vault_path: ai/models/huggingface-blog-series-c.md
+local_vault_path: ai/models/we-raised-100-million-for-open-collaborative-machi.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:we-raised-100-million-for-open-collaborative-machi
 ---
+
 
 
 # We Raised $100 Million for Open & Collaborative Machine Learning 🚀
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai/models/huggingface-blog-series-c.md)
+Path: [we-raised-100-million-for-open-collaborative-machine-learning-43a1d3.md](file:///../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)

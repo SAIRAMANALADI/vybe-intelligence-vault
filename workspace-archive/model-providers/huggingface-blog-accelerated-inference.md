@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerated-inference
 resource_id: huggingface:blog/accelerated-inference
-local_vault_path: ai/models/huggingface-blog-accelerated-inference.md
+local_vault_path: ai/models/how-we-sped-up-transformer-inference-100x-for-api.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # How we sped up transformer inference 100x for 🤗 API customers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerated-inference.md](file:///../../ai/models/huggingface-blog-accelerated-inference.md)
+Path: [huggingface-blog-accelerated-inference.md](file:///../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)

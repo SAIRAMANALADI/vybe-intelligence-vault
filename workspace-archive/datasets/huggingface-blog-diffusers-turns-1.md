@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-turns-1
 resource_id: huggingface:blog/diffusers-turns-1
-local_vault_path: ai/models/huggingface-blog-diffusers-turns-1.md
+local_vault_path: ai/models/happy-1st-anniversary-diffusers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Happy 1st anniversary 🤗 Diffusers!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/diffusers-turns-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-turns-1.md](file:///../../ai/models/huggingface-blog-diffusers-turns-1.md)
+Path: [huggingface-blog-diffusers-turns-1.md](file:///../../ai/models/happy-1st-anniversary-diffusers.md)

@@ -5,7 +5,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-and-ibm
 resource_id: huggingface:blog/huggingface-and-ibm
-local_vault_path: ai/models/huggingface-blog-huggingface-and-ibm.md
+local_vault_path: ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-ibm
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-ibm.md](file:///../../ai/models/huggingface-blog-huggingface-and-ibm.md)
+Path: [huggingface-blog-huggingface-and-ibm.md](file:///../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)

@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/chinese-language-blog
 resource_id: huggingface:blog/chinese-language-blog
-local_vault_path: ai/models/huggingface-blog-chinese-language-blog.md
+local_vault_path: ai/models/introducing-huggingface-blog-for-chinese-speakers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/chinese-language-blog
 
 ## Local Vault File
 
-Path: [huggingface-blog-chinese-language-blog.md](file:///../../ai/models/huggingface-blog-chinese-language-blog.md)
+Path: [huggingface-blog-chinese-language-blog.md](file:///../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)

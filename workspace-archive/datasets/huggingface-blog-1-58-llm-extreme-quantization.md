@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/1_58_llm_extreme_quantization
 resource_id: huggingface:blog/1_58_llm_extreme_quantization
-local_vault_path: ai/models/huggingface-blog-1-58-llm-extreme-quantization.md
+local_vault_path: ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-tuning LLMs to 1.58bit: extreme quantization made easy
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/1_58_llm_extreme_quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-1-58-llm-extreme-quantization.md](file:///../../ai/models/huggingface-blog-1-58-llm-extreme-quantization.md)
+Path: [huggingface-blog-1-58-llm-extreme-quantization.md](file:///../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)

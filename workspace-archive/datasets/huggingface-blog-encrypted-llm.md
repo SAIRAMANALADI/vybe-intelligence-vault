@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/encrypted-llm
 resource_id: huggingface:blog/encrypted-llm
-local_vault_path: ai/models/huggingface-blog-encrypted-llm.md
+local_vault_path: ai/models/towards-encrypted-large-language-models-with-fhe.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Towards Encrypted Large Language Models with FHE
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/encrypted-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-encrypted-llm.md](file:///../../ai/models/huggingface-blog-encrypted-llm.md)
+Path: [huggingface-blog-encrypted-llm.md](file:///../../ai/models/towards-encrypted-large-language-models-with-fhe.md)

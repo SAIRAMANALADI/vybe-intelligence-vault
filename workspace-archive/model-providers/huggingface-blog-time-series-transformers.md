@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/time-series-transformers
 resource_id: huggingface:blog/time-series-transformers
-local_vault_path: ai/models/huggingface-blog-time-series-transformers.md
+local_vault_path: ai/models/probabilistic-time-series-forecasting-with-transfo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Probabilistic Time Series Forecasting with 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/time-series-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-time-series-transformers.md](file:///../../ai/models/huggingface-blog-time-series-transformers.md)
+Path: [huggingface-blog-time-series-transformers.md](file:///../../ai/models/probabilistic-time-series-forecasting-with-transfo.md)

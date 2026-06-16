@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/layerskip
 resource_id: huggingface:blog/layerskip
-local_vault_path: ai/models/huggingface-blog-layerskip.md
+local_vault_path: ai/models/faster-text-generation-with-self-speculative-decod.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Faster Text Generation with Self-Speculative Decoding
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/layerskip
 
 ## Local Vault File
 
-Path: [huggingface-blog-layerskip.md](file:///../../ai/models/huggingface-blog-layerskip.md)
+Path: [huggingface-blog-layerskip.md](file:///../../ai/models/faster-text-generation-with-self-speculative-decod.md)

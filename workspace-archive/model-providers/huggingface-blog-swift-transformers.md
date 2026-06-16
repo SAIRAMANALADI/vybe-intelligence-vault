@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/swift-transformers
 resource_id: huggingface:blog/swift-transformers
-local_vault_path: ai/models/huggingface-blog-swift-transformers.md
+local_vault_path: ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Swift Transformers Reaches 1.0 – and Looks to the Future
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/swift-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-transformers.md](file:///../../ai/models/huggingface-blog-swift-transformers.md)
+Path: [huggingface-blog-swift-transformers.md](file:///../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)

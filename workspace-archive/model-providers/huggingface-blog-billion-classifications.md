@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/billion-classifications
 resource_id: huggingface:blog/billion-classifications
-local_vault_path: ai/models/huggingface-blog-billion-classifications.md
+local_vault_path: ai/models/1-billion-classifications.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 1 Billion Classifications
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/billion-classifications
 
 ## Local Vault File
 
-Path: [huggingface-blog-billion-classifications.md](file:///../../ai/models/huggingface-blog-billion-classifications.md)
+Path: [huggingface-blog-billion-classifications.md](file:///../../ai/models/1-billion-classifications.md)

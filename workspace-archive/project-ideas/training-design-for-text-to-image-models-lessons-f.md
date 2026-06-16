@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
+
 # Training Design for Text-to-Image Models: Lessons from Ablations
 
 ## Why This Is In The Archive

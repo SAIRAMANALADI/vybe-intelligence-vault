@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/setfit-optimum-intel
 resource_id: blog:blazing-fast-setfit-inference-with-optimum-intel-o
-local_vault_path: ai/models/huggingface-blog-setfit-optimum-intel.md
+local_vault_path: ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-optimum-intel
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit-optimum-intel.md](file:///../../ai/models/huggingface-blog-setfit-optimum-intel.md)
+Path: [blazing-fast-setfit-inference-with-optimum-intel-o.md](file:///../../ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)

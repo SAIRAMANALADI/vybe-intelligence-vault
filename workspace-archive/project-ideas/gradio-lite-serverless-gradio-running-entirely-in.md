@@ -3,7 +3,7 @@ title: 'Gradio-Lite: Serverless Gradio Running Entirely in Your Browser'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/gradio-lite
-local_vault_path: ai/models/huggingface-blog-gradio-lite.md
+local_vault_path: ai/models/gradio-lite-serverless-gradio-running-entirely-in.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:gradio-lite-serverless-gradio-running-entirely-in
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/gradio-lite
 
 ## Local Vault File
 
-Path: [gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md](file:///../../ai/models/huggingface-blog-gradio-lite.md)
+Path: [gradio-lite-serverless-gradio-running-entirely-in-your-browser-0bd76e.md](file:///../../ai/models/gradio-lite-serverless-gradio-running-entirely-in.md)

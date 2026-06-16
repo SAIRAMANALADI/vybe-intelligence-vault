@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/panel-on-hugging-face
 resource_id: huggingface:blog/panel-on-hugging-face
-local_vault_path: ai/models/huggingface-blog-panel-on-hugging-face.md
+local_vault_path: ai/models/panel-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Panel on Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/panel-on-hugging-face
 
 ## Local Vault File
 
-Path: [huggingface-blog-panel-on-hugging-face.md](file:///../../ai/models/huggingface-blog-panel-on-hugging-face.md)
+Path: [huggingface-blog-panel-on-hugging-face.md](file:///../../ai/models/panel-on-hugging-face.md)

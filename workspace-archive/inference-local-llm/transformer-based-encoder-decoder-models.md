@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/encoder-decoder
 resource_id: blog:transformer-based-encoder-decoder-models
-local_vault_path: ai/models/huggingface-blog-encoder-decoder.md
+local_vault_path: ai/models/transformer-based-encoder-decoder-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/encoder-decoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-encoder-decoder.md](file:///../../ai/models/huggingface-blog-encoder-decoder.md)
+Path: [transformer-based-encoder-decoder-models.md](file:///../../ai/models/transformer-based-encoder-decoder-models.md)

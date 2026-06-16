@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/scalable-data-inspection
 resource_id: huggingface:blog/scalable-data-inspection
-local_vault_path: ai/models/huggingface-blog-scalable-data-inspection.md
+local_vault_path: ai/models/interactively-explore-your-huggingface-dataset-wit.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Interactively explore your Huggingface dataset with one line of code
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/scalable-data-inspection
 
 ## Local Vault File
 
-Path: [huggingface-blog-scalable-data-inspection.md](file:///../../ai/models/huggingface-blog-scalable-data-inspection.md)
+Path: [huggingface-blog-scalable-data-inspection.md](file:///../../ai/models/interactively-explore-your-huggingface-dataset-wit.md)

@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/ethics-soc-7
 resource_id: blog:ai-agents-are-here-what-now
-local_vault_path: ai/agents/huggingface-blog-ethics-soc-7.md
+local_vault_path: ai/agents/ai-agents-are-here-what-now.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-7
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-7.md](file:///../../ai/agents/huggingface-blog-ethics-soc-7.md)
+Path: [ai-agents-are-here-what-now.md](file:///../../ai/agents/ai-agents-are-here-what-now.md)

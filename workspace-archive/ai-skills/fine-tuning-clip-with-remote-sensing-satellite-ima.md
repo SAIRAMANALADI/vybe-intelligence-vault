@@ -3,9 +3,10 @@ title: Fine tuning CLIP with Remote Sensing (Satellite) images and captions
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-clip-rsicd
-local_vault_path: ai/models/huggingface-blog-fine-tune-clip-rsicd.md
+local_vault_path: ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md
 resource_id: blog:fine-tuning-clip-with-remote-sensing-satellite-ima
 ---
+
 
 
 # Fine tuning CLIP with Remote Sensing (Satellite) images and captions

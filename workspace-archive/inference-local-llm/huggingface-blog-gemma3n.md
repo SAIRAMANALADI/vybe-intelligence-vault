@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma3n
 resource_id: huggingface:blog/gemma3n
-local_vault_path: ai/models/huggingface-blog-gemma3n.md
+local_vault_path: ai/models/gemma-3n-fully-available-in-the-open-source-ecosys.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Gemma 3n fully available in the open-source ecosystem!
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma3n
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma3n.md](file:///../../ai/models/huggingface-blog-gemma3n.md)
+Path: [huggingface-blog-gemma3n.md](file:///../../ai/models/gemma-3n-fully-available-in-the-open-source-ecosys.md)

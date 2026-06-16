@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-coreml
 resource_id: blog:using-stable-diffusion-with-core-ml-on-apple-silic
-local_vault_path: ai/models/huggingface-blog-diffusers-coreml.md
+local_vault_path: ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-coreml.md](file:///../../ai/models/huggingface-blog-diffusers-coreml.md)
+Path: [using-stable-diffusion-with-core-ml-on-apple-silic.md](file:///../../ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)

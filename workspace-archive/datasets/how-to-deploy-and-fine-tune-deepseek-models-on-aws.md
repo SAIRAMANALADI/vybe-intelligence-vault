@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deepseek-r1-aws
 resource_id: blog:how-to-deploy-and-fine-tune-deepseek-models-on-aws
-local_vault_path: ai/models/huggingface-blog-deepseek-r1-aws.md
+local_vault_path: ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepseek-r1-aws
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepseek-r1-aws.md](file:///../../ai/models/huggingface-blog-deepseek-r1-aws.md)
+Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws.md](file:///../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)

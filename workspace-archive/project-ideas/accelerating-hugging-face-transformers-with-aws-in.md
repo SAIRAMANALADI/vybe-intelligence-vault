@@ -3,7 +3,7 @@ title: Accelerating Hugging Face Transformers with AWS Inferentia2
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-transformers-with-inferentia2
-local_vault_path: ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md
+local_vault_path: ai/models/accelerating-hugging-face-transformers-with-aws-in.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:accelerating-hugging-face-transformers-with-aws-in
 ---
+
 
 
 # Accelerating Hugging Face Transformers with AWS Inferentia2
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/accelerate-transformers-with-in
 
 ## Local Vault File
 
-Path: [accelerating-hugging-face-transformers-with-aws-inferentia2-0b0ac7.md](file:///../../ai/models/huggingface-blog-accelerate-transformers-with-inferentia2.md)
+Path: [accelerating-hugging-face-transformers-with-aws-inferentia2-0b0ac7.md](file:///../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)

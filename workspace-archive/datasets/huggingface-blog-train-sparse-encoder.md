@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/train-sparse-encoder
 resource_id: huggingface:blog/train-sparse-encoder
-local_vault_path: ai/models/huggingface-blog-train-sparse-encoder.md
+local_vault_path: ai/models/training-and-finetuning-sparse-embedding-models-wi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Training and Finetuning Sparse Embedding Models with Sentence Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-sparse-encoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sparse-encoder.md](file:///../../ai/models/huggingface-blog-train-sparse-encoder.md)
+Path: [huggingface-blog-train-sparse-encoder.md](file:///../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)

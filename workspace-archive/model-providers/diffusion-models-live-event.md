@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusion-models-event
 resource_id: blog:diffusion-models-live-event
-local_vault_path: ai/models/huggingface-blog-diffusion-models-event.md
+local_vault_path: ai/models/diffusion-models-live-event.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusion-models-event.md](file:///../../ai/models/huggingface-blog-diffusion-models-event.md)
+Path: [diffusion-models-live-event.md](file:///../../ai/models/diffusion-models-live-event.md)

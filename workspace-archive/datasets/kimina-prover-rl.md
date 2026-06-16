@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-mo/kimina-prover-rl
 resource_id: blog:kimina-prover-rl
-local_vault_path: ai/models/huggingface-blog-ai-mo.md
+local_vault_path: ai/models/kimina-prover-rl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-mo/kimina-prover-rl
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-mo.md](file:///../../ai/models/huggingface-blog-ai-mo.md)
+Path: [kimina-prover-rl.md](file:///../../ai/models/kimina-prover-rl.md)

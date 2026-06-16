@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-model-definition
 resource_id: blog:the-transformers-library-standardizing-model-defin
-local_vault_path: ai/models/huggingface-blog-transformers-model-definition.md
+local_vault_path: ai/models/the-transformers-library-standardizing-model-defin.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-model-definition
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-model-definition.md](file:///../../ai/models/huggingface-blog-transformers-model-definition.md)
+Path: [the-transformers-library-standardizing-model-defin.md](file:///../../ai/models/the-transformers-library-standardizing-model-defin.md)

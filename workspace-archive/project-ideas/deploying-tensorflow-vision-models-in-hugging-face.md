@@ -3,7 +3,7 @@ title: Deploying TensorFlow Vision Models in Hugging Face with TF Serving
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/tf-serving-vision
-local_vault_path: ai/models/huggingface-blog-tf-serving-vision.md
+local_vault_path: ai/models/deploying-tensorflow-vision-models-in-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:deploying-tensorflow-vision-models-in-hugging-face
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/tf-serving-vision
 
 ## Local Vault File
 
-Path: [deploying-tensorflow-vision-models-in-hugging-face-with-tf-serving-fa7778.md](file:///../../ai/models/huggingface-blog-tf-serving-vision.md)
+Path: [deploying-tensorflow-vision-models-in-hugging-face-with-tf-serving-fa7778.md](file:///../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/constitutional_ai
 resource_id: huggingface:blog/constitutional_ai
-local_vault_path: ai/models/huggingface-blog-constitutional-ai.md
+local_vault_path: ai/models/constitutional-ai-with-open-llms.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Constitutional AI with Open LLMs
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/constitutional_ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-constitutional-ai.md](file:///../../ai/models/huggingface-blog-constitutional-ai.md)
+Path: [huggingface-blog-constitutional-ai.md](file:///../../ai/models/constitutional-ai-with-open-llms.md)

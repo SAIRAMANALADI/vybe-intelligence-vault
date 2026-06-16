@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ai-comic-factory
 resource_id: blog:deploying-the-ai-comic-factory-using-the-inference
-local_vault_path: ai/models/huggingface-blog-ai-comic-factory.md
+local_vault_path: ai/models/deploying-the-ai-comic-factory-using-the-inference.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-comic-factory
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-comic-factory.md](file:///../../ai/models/huggingface-blog-ai-comic-factory.md)
+Path: [deploying-the-ai-comic-factory-using-the-inference.md](file:///../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)

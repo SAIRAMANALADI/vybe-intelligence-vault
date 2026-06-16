@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sb3
 resource_id: blog:welcome-stable-baselines3-to-the-hugging-face-hub
-local_vault_path: ai/models/huggingface-blog-sb3.md
+local_vault_path: ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sb3
 
 ## Local Vault File
 
-Path: [huggingface-blog-sb3.md](file:///../../ai/models/huggingface-blog-sb3.md)
+Path: [welcome-stable-baselines3-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)

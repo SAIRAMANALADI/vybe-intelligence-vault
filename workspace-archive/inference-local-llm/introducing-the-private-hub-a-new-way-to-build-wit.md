@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-private-hub
 resource_id: blog:introducing-the-private-hub-a-new-way-to-build-wit
-local_vault_path: ai/models/huggingface-blog-introducing-private-hub.md
+local_vault_path: ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-private-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-private-hub.md](file:///../../ai/models/huggingface-blog-introducing-private-hub.md)
+Path: [introducing-the-private-hub-a-new-way-to-build-wit.md](file:///../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)

@@ -3,7 +3,7 @@ title: 'The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-medicalllm
-local_vault_path: ai/models/huggingface-blog-leaderboard-medicalllm.md
+local_vault_path: ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-open-medical-llm-leaderboard-benchmarking-larg
 ---
+
 
 
 # The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-medicalllm
 
 ## Local Vault File
 
-Path: [the-open-medical-llm-leaderboard-benchmarking-large-language-models-in-healthcar-402595.md](file:///../../ai/models/huggingface-blog-leaderboard-medicalllm.md)
+Path: [the-open-medical-llm-leaderboard-benchmarking-large-language-models-in-healthcar-402595.md](file:///../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)

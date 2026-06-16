@@ -3,11 +3,12 @@ title: Introducing Snowball Fight ☃️, our first ML-Agents environment
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/snowball-fight
-local_vault_path: ai/agents/huggingface-blog-snowball-fight.md
+local_vault_path: ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md
 tags:
 - agents
 resource_id: blog:introducing-snowball-fight-our-first-ml-agents-env
 ---
+
 
 
 # Introducing Snowball Fight ☃️, our first ML-Agents environment

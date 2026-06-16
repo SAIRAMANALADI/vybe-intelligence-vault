@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/introducing-doi
 resource_id: blog:introducing-doi-the-digital-object-identifier-to-d
-local_vault_path: ai/models/huggingface-blog-introducing-doi.md
+local_vault_path: ai/models/introducing-doi-the-digital-object-identifier-to-d.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/introducing-doi
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-doi.md](file:///../../ai/models/huggingface-blog-introducing-doi.md)
+Path: [introducing-doi-the-digital-object-identifier-to-d.md](file:///../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)

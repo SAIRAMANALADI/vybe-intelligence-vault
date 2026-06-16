@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/playlist-generator
 resource_id: huggingface:blog/playlist-generator
-local_vault_path: ai/models/huggingface-blog-playlist-generator.md
+local_vault_path: ai/models/building-a-playlist-generator-with-sentence-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Building a Playlist Generator with Sentence Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/playlist-generator
 
 ## Local Vault File
 
-Path: [huggingface-blog-playlist-generator.md](file:///../../ai/models/huggingface-blog-playlist-generator.md)
+Path: [huggingface-blog-playlist-generator.md](file:///../../ai/models/building-a-playlist-generator-with-sentence-transf.md)

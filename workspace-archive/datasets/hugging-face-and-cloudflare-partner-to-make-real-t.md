@@ -5,7 +5,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/fastrtc-cloudflare
 resource_id: blog:hugging-face-and-cloudflare-partner-to-make-real-t
-local_vault_path: ai/models/huggingface-blog-fastrtc-cloudflare.md
+local_vault_path: ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fastrtc-cloudflare
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastrtc-cloudflare.md](file:///../../ai/models/huggingface-blog-fastrtc-cloudflare.md)
+Path: [hugging-face-and-cloudflare-partner-to-make-real-t.md](file:///../../ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)

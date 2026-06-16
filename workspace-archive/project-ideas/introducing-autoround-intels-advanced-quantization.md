@@ -3,7 +3,7 @@ title: 'Introducing AutoRound: Intel’s Advanced Quantization for LLMs and VLMs
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/autoround
-local_vault_path: ai/models/huggingface-blog-autoround.md
+local_vault_path: ai/models/introducing-autoround-intels-advanced-quantization.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-autoround-intels-advanced-quantization
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/autoround
 
 ## Local Vault File
 
-Path: [introducing-autoround-intels-advanced-quantization-for-llms-and-vlms-5ebe85.md](file:///../../ai/models/huggingface-blog-autoround.md)
+Path: [introducing-autoround-intels-advanced-quantization-for-llms-and-vlms-5ebe85.md](file:///../../ai/models/introducing-autoround-intels-advanced-quantization.md)

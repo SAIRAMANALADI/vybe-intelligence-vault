@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/graphml-classification
 resource_id: huggingface:blog/graphml-classification
-local_vault_path: ai/models/huggingface-blog-graphml-classification.md
+local_vault_path: ai/models/graph-classification-with-transformers.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Graph Classification with Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/graphml-classification
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphml-classification.md](file:///../../ai/models/huggingface-blog-graphml-classification.md)
+Path: [huggingface-blog-graphml-classification.md](file:///../../ai/models/graph-classification-with-transformers.md)

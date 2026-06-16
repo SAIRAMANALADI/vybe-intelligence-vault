@@ -3,11 +3,12 @@ title: 'DeepSeek-V4: a million-token context that agents can actually use'
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/deepseekv4
-local_vault_path: ai/agents/huggingface-blog-deepseekv4.md
+local_vault_path: ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md
 tags:
 - agents
 resource_id: blog:deepseek-v4-a-million-token-context-that-agents-ca
 ---
+
 
 
 # DeepSeek-V4: a million-token context that agents can actually use

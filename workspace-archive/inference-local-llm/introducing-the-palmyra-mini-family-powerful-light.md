@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/writer/announcing-palmyra-mini
 resource_id: blog:introducing-the-palmyra-mini-family-powerful-light
-local_vault_path: ai/models/huggingface-blog-writer.md
+local_vault_path: ai/models/introducing-the-palmyra-mini-family-powerful-light.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/writer/announcing-palmyra-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-writer.md](file:///../../ai/models/huggingface-blog-writer.md)
+Path: [introducing-the-palmyra-mini-family-powerful-light.md](file:///../../ai/models/introducing-the-palmyra-mini-family-powerful-light.md)

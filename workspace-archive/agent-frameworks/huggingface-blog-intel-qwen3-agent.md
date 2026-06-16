@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/intel-qwen3-agent
 resource_id: huggingface:blog/intel-qwen3-agent
-local_vault_path: ai/agents/huggingface-blog-intel-qwen3-agent.md
+local_vault_path: ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/intel-qwen3-agent
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-qwen3-agent.md](file:///../../ai/agents/huggingface-blog-intel-qwen3-agent.md)
+Path: [huggingface-blog-intel-qwen3-agent.md](file:///../../ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md)

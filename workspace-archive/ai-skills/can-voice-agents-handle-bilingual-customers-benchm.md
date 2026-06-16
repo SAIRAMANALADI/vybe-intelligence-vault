@@ -11,6 +11,7 @@ resource_id: blog:can-voice-agents-handle-bilingual-customers-benchm
 ---
 
 
+
 # Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech
 
 ## Why This Is In The Archive

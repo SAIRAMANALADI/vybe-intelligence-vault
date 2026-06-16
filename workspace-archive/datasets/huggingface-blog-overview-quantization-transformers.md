@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/overview-quantization-transformers
 resource_id: huggingface:blog/overview-quantization-transformers
-local_vault_path: ai/models/huggingface-blog-overview-quantization-transformers.md
+local_vault_path: ai/models/overview-of-natively-supported-quantization-scheme.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Overview of natively supported quantization schemes in 🤗 Transformers
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/overview-quantization-transform
 
 ## Local Vault File
 
-Path: [huggingface-blog-overview-quantization-transformers.md](file:///../../ai/models/huggingface-blog-overview-quantization-transformers.md)
+Path: [huggingface-blog-overview-quantization-transformers.md](file:///../../ai/models/overview-of-natively-supported-quantization-scheme.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama31-on-vertex-ai
 resource_id: huggingface:blog/llama31-on-vertex-ai
-local_vault_path: ai/models/huggingface-blog-llama31-on-vertex-ai.md
+local_vault_path: ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/llama31-on-vertex-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama31-on-vertex-ai.md](file:///../../ai/models/huggingface-blog-llama31-on-vertex-ai.md)
+Path: [huggingface-blog-llama31-on-vertex-ai.md](file:///../../ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)

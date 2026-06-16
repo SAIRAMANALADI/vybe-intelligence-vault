@@ -4,7 +4,7 @@ title: Hugging Face and AMD partner on accelerating state-of-the-art models for 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-and-amd
-local_vault_path: ai/models/huggingface-blog-huggingface-and-amd.md
+local_vault_path: ai/models/hugging-face-and-amd-partner-on-accelerating-state.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:hugging-face-and-amd-partner-on-accelerating-state
 ---
+
 
 
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-amd
 
 ## Local Vault File
 
-Path: [hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md](file:///../../ai/models/huggingface-blog-huggingface-and-amd.md)
+Path: [hugging-face-and-amd-partner-on-accelerating-state-of-the-art-models-for-cpu-and-9b3045.md](file:///../../ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)

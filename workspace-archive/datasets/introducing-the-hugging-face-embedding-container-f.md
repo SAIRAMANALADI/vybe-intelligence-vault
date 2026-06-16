@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/sagemaker-huggingface-embedding
 resource_id: blog:introducing-the-hugging-face-embedding-container-f
-local_vault_path: ai/models/huggingface-blog-sagemaker-huggingface-embedding.md
+local_vault_path: ai/models/introducing-the-hugging-face-embedding-container-f.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-embedding
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-huggingface-embedding.md](file:///../../ai/models/huggingface-blog-sagemaker-huggingface-embedding.md)
+Path: [introducing-the-hugging-face-embedding-container-f.md](file:///../../ai/models/introducing-the-hugging-face-embedding-container-f.md)

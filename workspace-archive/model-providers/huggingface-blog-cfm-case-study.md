@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/cfm-case-study
 resource_id: huggingface:blog/cfm-case-study
-local_vault_path: ai/models/huggingface-blog-cfm-case-study.md
+local_vault_path: ai/models/investing-in-performance-fine-tune-small-models-wi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Investing in Performance: Fine-tune small models with LLM insights - a CFM case study
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/cfm-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-cfm-case-study.md](file:///../../ai/models/huggingface-blog-cfm-case-study.md)
+Path: [huggingface-blog-cfm-case-study.md](file:///../../ai/models/investing-in-performance-fine-tune-small-models-wi.md)

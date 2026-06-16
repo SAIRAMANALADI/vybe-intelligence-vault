@@ -5,7 +5,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 resource_id: blog:arabic-leaderboards-introducing-arabic-instruction
-local_vault_path: ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md
+local_vault_path: ai/rag/arabic-leaderboards-introducing-arabic-instruction.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -46,4 +46,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-3c3h-aragen-ifeval.md](file:///../../ai/rag/huggingface-blog-leaderboard-3c3h-aragen-ifeval.md)
+Path: [arabic-leaderboards-introducing-arabic-instruction.md](file:///../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)

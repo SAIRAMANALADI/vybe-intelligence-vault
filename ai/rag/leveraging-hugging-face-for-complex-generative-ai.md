@@ -4,17 +4,18 @@ category: ai/rag
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/writer-case-study
-published_at: '2023-07-01T00:00:00+00:00'
-collected_at: '2026-06-15T06:35:32.423203+00:00'
+published_at: '2023-06-30T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.278617+00:00'
 tags:
 - rag
 status: active
 resource_id: blog:leveraging-hugging-face-for-complex-generative-ai
-first_seen: '2026-06-15T06:35:32.423203+00:00'
-last_seen: '2026-06-15T06:35:32.423203+00:00'
-last_checked: '2026-06-15T06:35:32.423203+00:00'
+first_seen: '2026-06-12T10:40:08.820308+00:00'
+last_seen: '2026-06-15T06:03:50.278617+00:00'
+last_checked: '2026-06-15T06:03:50.278617+00:00'
 health_score: 100
 ---
+
 
 # Leveraging Hugging Face for complex generative AI use cases
 
@@ -30,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/rag
-- Published: 2023-07-01T00:00:00+00:00
+- Published: 2023-06-30T18:30:00+00:00
 
 ## Related Tags
 

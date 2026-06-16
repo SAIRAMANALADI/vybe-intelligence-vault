@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/galore
 resource_id: huggingface:blog/galore
-local_vault_path: ai/models/huggingface-blog-galore.md
+local_vault_path: ai/models/galore-advancing-large-model-training-on-consumer.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # GaLore: Advancing Large Model Training on Consumer-grade Hardware
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/galore
 
 ## Local Vault File
 
-Path: [huggingface-blog-galore.md](file:///../../ai/models/huggingface-blog-galore.md)
+Path: [huggingface-blog-galore.md](file:///../../ai/models/galore-advancing-large-model-training-on-consumer.md)

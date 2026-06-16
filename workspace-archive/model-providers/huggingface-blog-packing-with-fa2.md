@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/packing-with-fa2
 resource_id: huggingface:blog/packing-with-fa2
-local_vault_path: ai/models/huggingface-blog-packing-with-fa2.md
+local_vault_path: ai/models/improving-hugging-face-training-efficiency-through.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -14,6 +14,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2
 
@@ -41,4 +42,4 @@ Original source URL: https://huggingface.co/blog/packing-with-fa2
 
 ## Local Vault File
 
-Path: [huggingface-blog-packing-with-fa2.md](file:///../../ai/models/huggingface-blog-packing-with-fa2.md)
+Path: [huggingface-blog-packing-with-fa2.md](file:///../../ai/models/improving-hugging-face-training-efficiency-through.md)

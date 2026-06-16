@@ -5,7 +5,7 @@ archive_category: rag-systems
 source_category: ai/models
 source_url: https://huggingface.co/blog/asr-chunking
 resource_id: huggingface:blog/asr-chunking
-local_vault_path: ai/models/huggingface-blog-asr-chunking.md
+local_vault_path: ai/models/making-automatic-speech-recognition-work-on-large.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/asr-chunking
 
 ## Local Vault File
 
-Path: [huggingface-blog-asr-chunking.md](file:///../../ai/models/huggingface-blog-asr-chunking.md)
+Path: [huggingface-blog-asr-chunking.md](file:///../../ai/models/making-automatic-speech-recognition-work-on-large.md)

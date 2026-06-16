@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-design-philosophy
 resource_id: huggingface:blog/transformers-design-philosophy
-local_vault_path: ai/models/huggingface-blog-transformers-design-philosophy.md
+local_vault_path: ai/models/don-t-repeat-yourself.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # ~Don't~ Repeat Yourself
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-design-philosophy.md](file:///../../ai/models/huggingface-blog-transformers-design-philosophy.md)
+Path: [huggingface-blog-transformers-design-philosophy.md](file:///../../ai/models/don-t-repeat-yourself.md)

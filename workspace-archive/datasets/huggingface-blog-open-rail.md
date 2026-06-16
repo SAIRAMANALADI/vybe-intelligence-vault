@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/open_rail
 resource_id: huggingface:blog/open_rail
-local_vault_path: ai/models/huggingface-blog-open-rail.md
+local_vault_path: ai/models/openrail-towards-open-and-responsible-ai-licensing.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Useful for project building
 ---
+
 
 # OpenRAIL: Towards open and responsible AI licensing frameworks
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/open_rail
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-rail.md](file:///../../ai/models/huggingface-blog-open-rail.md)
+Path: [huggingface-blog-open-rail.md](file:///../../ai/models/openrail-towards-open-and-responsible-ai-licensing.md)

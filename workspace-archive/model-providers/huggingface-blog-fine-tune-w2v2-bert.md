@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-w2v2-bert
 resource_id: huggingface:blog/fine-tune-w2v2-bert
-local_vault_path: ai/models/huggingface-blog-fine-tune-w2v2-bert.md
+local_vault_path: ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-w2v2-bert
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-w2v2-bert.md](file:///../../ai/models/huggingface-blog-fine-tune-w2v2-bert.md)
+Path: [huggingface-blog-fine-tune-w2v2-bert.md](file:///../../ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)

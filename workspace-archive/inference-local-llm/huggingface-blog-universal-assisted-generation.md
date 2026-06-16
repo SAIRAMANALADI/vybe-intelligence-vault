@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/universal_assisted_generation
 resource_id: huggingface:blog/universal_assisted_generation
-local_vault_path: ai/models/huggingface-blog-universal-assisted-generation.md
+local_vault_path: ai/models/universal-assisted-generation-faster-decoding-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Universal Assisted Generation: Faster Decoding with Any Assistant Model
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/universal_assisted_generation
 
 ## Local Vault File
 
-Path: [huggingface-blog-universal-assisted-generation.md](file:///../../ai/models/huggingface-blog-universal-assisted-generation.md)
+Path: [huggingface-blog-universal-assisted-generation.md](file:///../../ai/models/universal-assisted-generation-faster-decoding-with.md)

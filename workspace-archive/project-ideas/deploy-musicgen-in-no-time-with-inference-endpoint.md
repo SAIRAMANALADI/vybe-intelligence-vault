@@ -3,7 +3,7 @@ title: Deploy MusicGen in no time with Inference Endpoints
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/run-musicgen-as-an-api
-local_vault_path: ai/models/huggingface-blog-run-musicgen-as-an-api.md
+local_vault_path: ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:deploy-musicgen-in-no-time-with-inference-endpoint
 ---
+
 
 
 # Deploy MusicGen in no time with Inference Endpoints
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/run-musicgen-as-an-api
 
 ## Local Vault File
 
-Path: [deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md](file:///../../ai/models/huggingface-blog-run-musicgen-as-an-api.md)
+Path: [deploy-musicgen-in-no-time-with-inference-endpoints-fd4f76.md](file:///../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)

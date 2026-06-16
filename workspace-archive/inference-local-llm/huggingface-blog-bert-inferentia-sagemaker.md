@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/bert-inferentia-sagemaker
 resource_id: huggingface:blog/bert-inferentia-sagemaker
-local_vault_path: ai/models/huggingface-blog-bert-inferentia-sagemaker.md
+local_vault_path: ai/models/accelerate-bert-inference-with-hugging-face-transf.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bert-inferentia-sagemaker
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-inferentia-sagemaker.md](file:///../../ai/models/huggingface-blog-bert-inferentia-sagemaker.md)
+Path: [huggingface-blog-bert-inferentia-sagemaker.md](file:///../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)

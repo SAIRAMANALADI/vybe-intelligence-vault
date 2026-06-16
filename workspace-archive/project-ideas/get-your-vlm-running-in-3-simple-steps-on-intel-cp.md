@@ -3,7 +3,7 @@ title: Get your VLM running in 3 simple steps on Intel CPUs
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/openvino-vlm
-local_vault_path: ai/models/huggingface-blog-openvino-vlm.md
+local_vault_path: ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:get-your-vlm-running-in-3-simple-steps-on-intel-cp
 ---
+
 
 
 # Get your VLM running in 3 simple steps on Intel CPUs
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/openvino-vlm
 
 ## Local Vault File
 
-Path: [get-your-vlm-running-in-3-simple-steps-on-intel-cpus-407649.md](file:///../../ai/models/huggingface-blog-openvino-vlm.md)
+Path: [get-your-vlm-running-in-3-simple-steps-on-intel-cpus-407649.md](file:///../../ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/deploy-vertex-ai
 resource_id: huggingface:blog/deploy-vertex-ai
-local_vault_path: ai/models/huggingface-blog-deploy-vertex-ai.md
+local_vault_path: ai/models/deploying-vit-on-vertex-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploying 🤗 ViT on Vertex AI
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deploy-vertex-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-vertex-ai.md](file:///../../ai/models/huggingface-blog-deploy-vertex-ai.md)
+Path: [huggingface-blog-deploy-vertex-ai.md](file:///../../ai/models/deploying-vit-on-vertex-ai.md)

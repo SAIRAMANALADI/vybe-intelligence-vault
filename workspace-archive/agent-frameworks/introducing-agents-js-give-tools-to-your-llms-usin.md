@@ -4,7 +4,7 @@ archive_category: agent-frameworks
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agents-js
 resource_id: blog:introducing-agents-js-give-tools-to-your-llms-usin
-local_vault_path: ai/agents/huggingface-blog-agents-js.md
+local_vault_path: ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents-js
 
 ## Local Vault File
 
-Path: [huggingface-blog-agents-js.md](file:///../../ai/agents/huggingface-blog-agents-js.md)
+Path: [introducing-agents-js-give-tools-to-your-llms-usin.md](file:///../../ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)

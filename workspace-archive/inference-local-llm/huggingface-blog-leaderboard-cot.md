@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-cot
 resource_id: huggingface:blog/leaderboard-cot
-local_vault_path: ai/models/huggingface-blog-leaderboard-cot.md
+local_vault_path: ai/models/introducing-the-open-chain-of-thought-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing the Open Chain of Thought Leaderboard
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-cot
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-cot.md](file:///../../ai/models/huggingface-blog-leaderboard-cot.md)
+Path: [huggingface-blog-leaderboard-cot.md](file:///../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)

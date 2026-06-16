@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/zerogpu-aoti
 resource_id: huggingface:blog/zerogpu-aoti
-local_vault_path: ai/models/huggingface-blog-zerogpu-aoti.md
+local_vault_path: ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Make your ZeroGPU Spaces go brrr with ahead-of-time compilation
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/zerogpu-aoti
 
 ## Local Vault File
 
-Path: [huggingface-blog-zerogpu-aoti.md](file:///../../ai/models/huggingface-blog-zerogpu-aoti.md)
+Path: [huggingface-blog-zerogpu-aoti.md](file:///../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)

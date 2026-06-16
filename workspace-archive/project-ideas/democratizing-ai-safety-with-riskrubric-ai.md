@@ -3,7 +3,7 @@ title: Democratizing AI Safety with RiskRubric.ai
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/riskrubric
-local_vault_path: ai/models/huggingface-blog-riskrubric.md
+local_vault_path: ai/models/democratizing-ai-safety-with-riskrubric-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:democratizing-ai-safety-with-riskrubric-ai
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/riskrubric
 
 ## Local Vault File
 
-Path: [democratizing-ai-safety-with-riskrubric-ai-1a860f.md](file:///../../ai/models/huggingface-blog-riskrubric.md)
+Path: [democratizing-ai-safety-with-riskrubric-ai-1a860f.md](file:///../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)

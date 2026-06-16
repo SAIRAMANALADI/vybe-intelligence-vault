@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/bertopic
 resource_id: blog:introducing-bertopic-integration-with-the-hugging
-local_vault_path: ai/models/huggingface-blog-bertopic.md
+local_vault_path: ai/models/introducing-bertopic-integration-with-the-hugging.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bertopic
 
 ## Local Vault File
 
-Path: [huggingface-blog-bertopic.md](file:///../../ai/models/huggingface-blog-bertopic.md)
+Path: [introducing-bertopic-integration-with-the-hugging.md](file:///../../ai/models/introducing-bertopic-integration-with-the-hugging.md)

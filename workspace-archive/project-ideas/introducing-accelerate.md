@@ -3,7 +3,7 @@ title: Introducing 🤗 Accelerate
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerate-library
-local_vault_path: ai/models/huggingface-blog-accelerate-library.md
+local_vault_path: ai/models/introducing-accelerate.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Useful for project building
 resource_id: blog:introducing-accelerate
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [introducing-accelerate-61a53b.md](file:///../../ai/models/huggingface-blog-accelerate-library.md)
+Path: [introducing-accelerate-61a53b.md](file:///../../ai/models/introducing-accelerate.md)

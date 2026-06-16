@@ -3,7 +3,7 @@ title: Preference Optimization for Vision Language Models
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/dpo_vlm
-local_vault_path: ai/models/huggingface-blog-dpo-vlm.md
+local_vault_path: ai/models/preference-optimization-for-vision-language-models.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:preference-optimization-for-vision-language-models
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/dpo_vlm
 
 ## Local Vault File
 
-Path: [preference-optimization-for-vision-language-models-d187fe.md](file:///../../ai/models/huggingface-blog-dpo-vlm.md)
+Path: [preference-optimization-for-vision-language-models-d187fe.md](file:///../../ai/models/preference-optimization-for-vision-language-models.md)

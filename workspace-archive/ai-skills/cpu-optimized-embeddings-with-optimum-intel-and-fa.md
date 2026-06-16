@@ -3,11 +3,12 @@ title: CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/intel-fast-embedding
-local_vault_path: ai/rag/huggingface-blog-intel-fast-embedding.md
+local_vault_path: ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md
 tags:
 - rag
 resource_id: blog:cpu-optimized-embeddings-with-optimum-intel-and-fa
 ---
+
 
 
 # CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG

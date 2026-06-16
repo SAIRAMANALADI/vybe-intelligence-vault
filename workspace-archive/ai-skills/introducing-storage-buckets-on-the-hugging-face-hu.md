@@ -3,11 +3,12 @@ title: Introducing Storage Buckets on the Hugging Face Hub
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/storage-buckets
-local_vault_path: ai/rag/huggingface-blog-storage-buckets.md
+local_vault_path: ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md
 tags:
 - rag
 resource_id: blog:introducing-storage-buckets-on-the-hugging-face-hu
 ---
+
 
 
 # Introducing Storage Buckets on the Hugging Face Hub

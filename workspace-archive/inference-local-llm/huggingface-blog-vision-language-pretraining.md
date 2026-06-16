@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/vision_language_pretraining
 resource_id: huggingface:blog/vision_language_pretraining
-local_vault_path: ai/models/huggingface-blog-vision-language-pretraining.md
+local_vault_path: ai/models/a-dive-into-vision-language-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # A Dive into Vision-Language Models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vision_language_pretraining
 
 ## Local Vault File
 
-Path: [huggingface-blog-vision-language-pretraining.md](file:///../../ai/models/huggingface-blog-vision-language-pretraining.md)
+Path: [huggingface-blog-vision-language-pretraining.md](file:///../../ai/models/a-dive-into-vision-language-models.md)

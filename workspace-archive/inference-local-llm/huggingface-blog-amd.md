@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/amd
 resource_id: huggingface:blog/amd
-local_vault_path: ai/models/huggingface-blog-amd.md
+local_vault_path: ai/models/join-the-amd-open-robotics-hackathon.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Join the AMD Open Robotics Hackathon
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/amd
 
 ## Local Vault File
 
-Path: [huggingface-blog-amd.md](file:///../../ai/models/huggingface-blog-amd.md)
+Path: [huggingface-blog-amd.md](file:///../../ai/models/join-the-amd-open-robotics-hackathon.md)

@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/nvidia-reachy-mini
 resource_id: huggingface:blog/nvidia-reachy-mini
-local_vault_path: ai/agents/huggingface-blog-nvidia-reachy-mini.md
+local_vault_path: ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # NVIDIA brings agents to life with DGX Spark and Reachy Mini
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/nvidia-reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-reachy-mini.md](file:///../../ai/agents/huggingface-blog-nvidia-reachy-mini.md)
+Path: [huggingface-blog-nvidia-reachy-mini.md](file:///../../ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md)

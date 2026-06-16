@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/logits-processor-zoo
 resource_id: huggingface:blog/logits-processor-zoo
-local_vault_path: ai/models/huggingface-blog-logits-processor-zoo.md
+local_vault_path: ai/models/controlling-language-model-generation-with-nvidia.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/logits-processor-zoo
 
 ## Local Vault File
 
-Path: [huggingface-blog-logits-processor-zoo.md](file:///../../ai/models/huggingface-blog-logits-processor-zoo.md)
+Path: [huggingface-blog-logits-processor-zoo.md](file:///../../ai/models/controlling-language-model-generation-with-nvidia.md)

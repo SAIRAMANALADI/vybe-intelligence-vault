@@ -4,11 +4,12 @@ title: 'Going multimodal: How Prezi is leveraging the Hub and the Expert Support
 archive_category: ai-skills
 source_category: ai/rag
 source_url: https://huggingface.co/blog/prezi-case-study
-local_vault_path: ai/rag/huggingface-blog-prezi-case-study.md
+local_vault_path: ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md
 tags:
 - rag
 resource_id: blog:going-multimodal-how-prezi-is-leveraging-the-hub-a
 ---
+
 
 
 # Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap

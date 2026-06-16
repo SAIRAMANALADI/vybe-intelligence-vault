@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-artificial-analysis2
 resource_id: huggingface:blog/leaderboard-artificial-analysis2
-local_vault_path: ai/models/huggingface-blog-leaderboard-artificial-analysis2.md
+local_vault_path: ai/models/launching-the-artificial-analysis-text-to-image-le.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Launching the Artificial Analysis Text to Image Leaderboard & Arena
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-artificial-analysis2.md](file:///../../ai/models/huggingface-blog-leaderboard-artificial-analysis2.md)
+Path: [huggingface-blog-leaderboard-artificial-analysis2.md](file:///../../ai/models/launching-the-artificial-analysis-text-to-image-le.md)

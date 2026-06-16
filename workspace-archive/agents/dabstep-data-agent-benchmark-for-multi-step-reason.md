@@ -3,11 +3,12 @@ title: 'DABStep: Data Agent Benchmark for Multi-step Reasoning'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/dabstep
-local_vault_path: ai/agents/huggingface-blog-dabstep.md
+local_vault_path: ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md
 tags:
 - agents
 resource_id: blog:dabstep-data-agent-benchmark-for-multi-step-reason
 ---
+
 
 
 # DABStep: Data Agent Benchmark for Multi-step Reasoning

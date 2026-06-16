@@ -3,7 +3,7 @@ title: Exploring the Daily Papers Page on Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/daily-papers
-local_vault_path: ai/models/huggingface-blog-daily-papers.md
+local_vault_path: ai/models/exploring-the-daily-papers-page-on-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:exploring-the-daily-papers-page-on-hugging-face
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/daily-papers
 
 ## Local Vault File
 
-Path: [exploring-the-daily-papers-page-on-hugging-face-06d25d.md](file:///../../ai/models/huggingface-blog-daily-papers.md)
+Path: [exploring-the-daily-papers-page-on-hugging-face-06d25d.md](file:///../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)

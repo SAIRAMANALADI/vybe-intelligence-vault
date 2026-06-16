@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/s2s_endpoint
 resource_id: huggingface:blog/s2s_endpoint
-local_vault_path: ai/models/huggingface-blog-s2s-endpoint.md
+local_vault_path: ai/models/deploying-speech-to-speech-on-hugging-face.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploying Speech-to-Speech on Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/s2s_endpoint
 
 ## Local Vault File
 
-Path: [huggingface-blog-s2s-endpoint.md](file:///../../ai/models/huggingface-blog-s2s-endpoint.md)
+Path: [huggingface-blog-s2s-endpoint.md](file:///../../ai/models/deploying-speech-to-speech-on-hugging-face.md)

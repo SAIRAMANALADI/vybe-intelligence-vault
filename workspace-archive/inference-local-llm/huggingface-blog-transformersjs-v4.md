@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformersjs-v4
 resource_id: huggingface:blog/transformersjs-v4
-local_vault_path: ai/models/huggingface-blog-transformersjs-v4.md
+local_vault_path: ai/models/transformers-js-v4-now-available-on-npm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Transformers.js v4: Now Available on NPM!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v4
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-v4.md](file:///../../ai/models/huggingface-blog-transformersjs-v4.md)
+Path: [huggingface-blog-transformersjs-v4.md](file:///../../ai/models/transformers-js-v4-now-available-on-npm.md)

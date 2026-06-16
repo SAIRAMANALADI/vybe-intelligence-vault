@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/open-llm-leaderboard-drop
 resource_id: blog:open-llm-leaderboard-drop-deep-dive
-local_vault_path: ai/models/huggingface-blog-open-llm-leaderboard-drop.md
+local_vault_path: ai/models/open-llm-leaderboard-drop-deep-dive.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-drop
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-llm-leaderboard-drop.md](file:///../../ai/models/huggingface-blog-open-llm-leaderboard-drop.md)
+Path: [open-llm-leaderboard-drop-deep-dive.md](file:///../../ai/models/open-llm-leaderboard-drop-deep-dive.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentiment-analysis-fhe
 resource_id: blog:sentiment-analysis-on-encrypted-data-with-homomorp
-local_vault_path: ai/models/huggingface-blog-sentiment-analysis-fhe.md
+local_vault_path: ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-fhe
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentiment-analysis-fhe.md](file:///../../ai/models/huggingface-blog-sentiment-analysis-fhe.md)
+Path: [sentiment-analysis-on-encrypted-data-with-homomorp.md](file:///../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)

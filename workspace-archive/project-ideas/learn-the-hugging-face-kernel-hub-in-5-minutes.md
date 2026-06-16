@@ -3,7 +3,7 @@ title: Learn the Hugging Face Kernel Hub in 5 Minutes
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/hello-hf-kernels
-local_vault_path: ai/models/huggingface-blog-hello-hf-kernels.md
+local_vault_path: ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:learn-the-hugging-face-kernel-hub-in-5-minutes
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/hello-hf-kernels
 
 ## Local Vault File
 
-Path: [learn-the-hugging-face-kernel-hub-in-5-minutes-6d932b.md](file:///../../ai/models/huggingface-blog-hello-hf-kernels.md)
+Path: [learn-the-hugging-face-kernel-hub-in-5-minutes-6d932b.md](file:///../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)

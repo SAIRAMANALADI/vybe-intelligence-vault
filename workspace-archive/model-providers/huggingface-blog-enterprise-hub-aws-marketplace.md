@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 resource_id: huggingface:blog/enterprise-hub-aws-marketplace
-local_vault_path: ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md
+local_vault_path: ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Subscribe to Enterprise Hub with your AWS Account
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 
 ## Local Vault File
 
-Path: [huggingface-blog-enterprise-hub-aws-marketplace.md](file:///../../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)
+Path: [huggingface-blog-enterprise-hub-aws-marketplace.md](file:///../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)

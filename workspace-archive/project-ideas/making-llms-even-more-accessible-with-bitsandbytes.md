@@ -4,7 +4,7 @@ title: Making LLMs even more accessible with bitsandbytes, 4-bit quantization an
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/4bit-transformers-bitsandbytes
-local_vault_path: ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md
+local_vault_path: ai/models/making-llms-even-more-accessible-with-bitsandbytes.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:making-llms-even-more-accessible-with-bitsandbytes
 ---
+
 
 
 
@@ -47,4 +48,4 @@ Original source URL: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 ## Local Vault File
 
-Path: [making-llms-even-more-accessible-with-bitsandbytes-4-bit-quantization-and-qlora-519c33.md](file:///../../ai/models/huggingface-blog-4bit-transformers-bitsandbytes.md)
+Path: [making-llms-even-more-accessible-with-bitsandbytes-4-bit-quantization-and-qlora-519c33.md](file:///../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)

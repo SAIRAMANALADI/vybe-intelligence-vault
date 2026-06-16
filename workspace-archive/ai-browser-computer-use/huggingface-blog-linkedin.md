@@ -4,7 +4,7 @@ archive_category: ai-browser-computer-use
 source_category: ai/agents
 source_url: https://huggingface.co/blog/linkedin
 resource_id: huggingface:blog/linkedin
-local_vault_path: ai/agents/huggingface-blog-linkedin.md
+local_vault_path: ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/linkedin
 
 ## Local Vault File
 
-Path: [huggingface-blog-linkedin.md](file:///../../ai/agents/huggingface-blog-linkedin.md)
+Path: [huggingface-blog-linkedin.md](file:///../../ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md)

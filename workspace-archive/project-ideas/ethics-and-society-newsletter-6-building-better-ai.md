@@ -4,7 +4,7 @@ title: 'Ethics and Society Newsletter #6: Building Better AI: The Importance of 
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/ethics-soc-6
-local_vault_path: ai/models/huggingface-blog-ethics-soc-6.md
+local_vault_path: ai/models/ethics-and-society-newsletter-6-building-better-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:ethics-and-society-newsletter-6-building-better-ai
 ---
+
 
 
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-6
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md](file:///../../ai/models/huggingface-blog-ethics-soc-6.md)
+Path: [ethics-and-society-newsletter-6-building-better-ai-the-importance-of-data-qualit-0e205c.md](file:///../../ai/models/ethics-and-society-newsletter-6-building-better-ai.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-ppo
 resource_id: huggingface:blog/deep-rl-ppo
-local_vault_path: ai/models/huggingface-blog-deep-rl-ppo.md
+local_vault_path: ai/models/proximal-policy-optimization-ppo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Proximal Policy Optimization (PPO)
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-ppo
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-ppo.md](file:///../../ai/models/huggingface-blog-deep-rl-ppo.md)
+Path: [huggingface-blog-deep-rl-ppo.md](file:///../../ai/models/proximal-policy-optimization-ppo.md)

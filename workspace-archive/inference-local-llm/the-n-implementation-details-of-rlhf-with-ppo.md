@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo
 resource_id: blog:the-n-implementation-details-of-rlhf-with-ppo
-local_vault_path: ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md
+local_vault_path: ai/models/the-n-implementation-details-of-rlhf-with-ppo.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the_n_implementation_details_of
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md](file:///../../ai/models/huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md)
+Path: [the-n-implementation-details-of-rlhf-with-ppo.md](file:///../../ai/models/the-n-implementation-details-of-rlhf-with-ppo.md)

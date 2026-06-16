@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/trufflesecurity-partnership
 resource_id: huggingface:blog/trufflesecurity-partnership
-local_vault_path: ai/models/huggingface-blog-trufflesecurity-partnership.md
+local_vault_path: ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Hugging Face partners with TruffleHog to Scan for Secrets
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/trufflesecurity-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-trufflesecurity-partnership.md](file:///../../ai/models/huggingface-blog-trufflesecurity-partnership.md)
+Path: [huggingface-blog-trufflesecurity-partnership.md](file:///../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)

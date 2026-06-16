@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/pytorch_block_sparse
 resource_id: blog:block-sparse-matrices-for-smaller-and-faster-langu
-local_vault_path: ai/models/huggingface-blog-pytorch-block-sparse.md
+local_vault_path: ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch_block_sparse
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-block-sparse.md](file:///../../ai/models/huggingface-blog-pytorch-block-sparse.md)
+Path: [block-sparse-matrices-for-smaller-and-faster-langu.md](file:///../../ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)

@@ -3,7 +3,7 @@ title: Introducing Spaces Dev Mode for a seamless developer experience
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/spaces-dev-mode
-local_vault_path: ai/models/huggingface-blog-spaces-dev-mode.md
+local_vault_path: ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-spaces-dev-mode-for-a-seamless-develop
 ---
+
 
 
 # Introducing Spaces Dev Mode for a seamless developer experience
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/spaces-dev-mode
 
 ## Local Vault File
 
-Path: [introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md](file:///../../ai/models/huggingface-blog-spaces-dev-mode.md)
+Path: [introducing-spaces-dev-mode-for-a-seamless-developer-experience-aff4a6.md](file:///../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)

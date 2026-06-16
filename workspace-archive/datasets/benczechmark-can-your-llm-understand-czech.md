@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/benczechmark
 resource_id: blog:benczechmark-can-your-llm-understand-czech
-local_vault_path: ai/models/huggingface-blog-benczechmark.md
+local_vault_path: ai/models/benczechmark-can-your-llm-understand-czech.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-benczechmark.md](file:///../../ai/models/huggingface-blog-benczechmark.md)
+Path: [benczechmark-can-your-llm-understand-czech.md](file:///../../ai/models/benczechmark-can-your-llm-understand-czech.md)

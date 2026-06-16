@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-medicalllm
 resource_id: blog:the-open-medical-llm-leaderboard-benchmarking-larg
-local_vault_path: ai/models/huggingface-blog-leaderboard-medicalllm.md
+local_vault_path: ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-medicalllm
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-medicalllm.md](file:///../../ai/models/huggingface-blog-leaderboard-medicalllm.md)
+Path: [the-open-medical-llm-leaderboard-benchmarking-larg.md](file:///../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)

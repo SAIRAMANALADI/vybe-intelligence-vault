@@ -3,7 +3,7 @@ title: 'AI and the Future of Cybersecurity: Why Openness Matters'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/cybersecurity-openness
-local_vault_path: ai/models/huggingface-blog-cybersecurity-openness.md
+local_vault_path: ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:ai-and-the-future-of-cybersecurity-why-openness-ma
 ---
+
 
 
 # AI and the Future of Cybersecurity: Why Openness Matters
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/cybersecurity-openness
 
 ## Local Vault File
 
-Path: [ai-and-the-future-of-cybersecurity-why-openness-matters-3027bb.md](file:///../../ai/models/huggingface-blog-cybersecurity-openness.md)
+Path: [ai-and-the-future-of-cybersecurity-why-openness-matters-3027bb.md](file:///../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)

@@ -3,7 +3,7 @@ title: 'CO2 Emissions and the 🤗 Hub: Leading the Charge'
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/carbon-emissions-on-the-hub
-local_vault_path: ai/models/huggingface-blog-carbon-emissions-on-the-hub.md
+local_vault_path: ai/models/co2-emissions-and-the-hub-leading-the-charge.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:co2-emissions-and-the-hub-leading-the-charge
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/carbon-emissions-on-the-hub
 
 ## Local Vault File
 
-Path: [co2-emissions-and-the-hub-leading-the-charge-51f71d.md](file:///../../ai/models/huggingface-blog-carbon-emissions-on-the-hub.md)
+Path: [co2-emissions-and-the-hub-leading-the-charge-51f71d.md](file:///../../ai/models/co2-emissions-and-the-hub-leading-the-charge.md)

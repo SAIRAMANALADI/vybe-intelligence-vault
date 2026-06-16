@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/local-reachy-mini-conversation
 resource_id: blog:reachy-mini-goes-fully-local
-local_vault_path: ai/models/huggingface-blog-local-reachy-mini-conversation.md
+local_vault_path: ai/models/reachy-mini-goes-fully-local.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## Local Vault File
 
-Path: [huggingface-blog-local-reachy-mini-conversation.md](file:///../../ai/models/huggingface-blog-local-reachy-mini-conversation.md)
+Path: [reachy-mini-goes-fully-local.md](file:///../../ai/models/reachy-mini-goes-fully-local.md)

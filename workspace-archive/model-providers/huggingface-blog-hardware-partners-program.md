@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/hardware-partners-program
 resource_id: huggingface:blog/hardware-partners-program
-local_vault_path: ai/models/huggingface-blog-hardware-partners-program.md
+local_vault_path: ai/models/introducing-optimum-the-optimization-toolkit-for-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Optimum: The Optimization Toolkit for Transformers at Scale
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hardware-partners-program
 
 ## Local Vault File
 
-Path: [huggingface-blog-hardware-partners-program.md](file:///../../ai/models/huggingface-blog-hardware-partners-program.md)
+Path: [huggingface-blog-hardware-partners-program.md](file:///../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)

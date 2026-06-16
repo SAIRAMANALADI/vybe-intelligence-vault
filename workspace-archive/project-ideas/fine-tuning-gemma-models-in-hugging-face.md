@@ -3,7 +3,7 @@ title: Fine-Tuning Gemma Models in Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/gemma-peft
-local_vault_path: ai/models/huggingface-blog-gemma-peft.md
+local_vault_path: ai/models/fine-tuning-gemma-models-in-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:fine-tuning-gemma-models-in-hugging-face
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/gemma-peft
 
 ## Local Vault File
 
-Path: [fine-tuning-gemma-models-in-hugging-face-cf841d.md](file:///../../ai/models/huggingface-blog-gemma-peft.md)
+Path: [fine-tuning-gemma-models-in-hugging-face-cf841d.md](file:///../../ai/models/fine-tuning-gemma-models-in-hugging-face.md)

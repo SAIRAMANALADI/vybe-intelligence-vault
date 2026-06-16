@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/tiiuae
 resource_id: huggingface:blog/tiiuae
-local_vault_path: ai/models/huggingface-blog-tiiuae.md
+local_vault_path: ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/tiiuae
 
 ## Local Vault File
 
-Path: [huggingface-blog-tiiuae.md](file:///../../ai/models/huggingface-blog-tiiuae.md)
+Path: [huggingface-blog-tiiuae.md](file:///../../ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)

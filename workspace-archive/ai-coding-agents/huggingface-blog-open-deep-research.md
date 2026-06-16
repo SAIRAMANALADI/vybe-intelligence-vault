@@ -4,7 +4,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/open-deep-research
 resource_id: huggingface:blog/open-deep-research
-local_vault_path: ai/agents/huggingface-blog-open-deep-research.md
+local_vault_path: ai/agents/open-source-deepresearch-freeing-our-search-agents.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Open-source DeepResearch – Freeing our search agents
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/open-deep-research
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-deep-research.md](file:///../../ai/agents/huggingface-blog-open-deep-research.md)
+Path: [huggingface-blog-open-deep-research.md](file:///../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)

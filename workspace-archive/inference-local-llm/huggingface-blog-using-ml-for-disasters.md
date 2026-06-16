@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/using-ml-for-disasters
 resource_id: huggingface:blog/using-ml-for-disasters
-local_vault_path: ai/models/huggingface-blog-using-ml-for-disasters.md
+local_vault_path: ai/models/using-machine-learning-to-aid-survivors-and-race-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Using Machine Learning to Aid Survivors and Race through Time
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/using-ml-for-disasters
 
 ## Local Vault File
 
-Path: [huggingface-blog-using-ml-for-disasters.md](file:///../../ai/models/huggingface-blog-using-ml-for-disasters.md)
+Path: [huggingface-blog-using-ml-for-disasters.md](file:///../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)

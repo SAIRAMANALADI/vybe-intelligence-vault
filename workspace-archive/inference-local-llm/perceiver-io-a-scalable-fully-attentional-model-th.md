@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/perceiver
 resource_id: blog:perceiver-io-a-scalable-fully-attentional-model-th
-local_vault_path: ai/models/huggingface-blog-perceiver.md
+local_vault_path: ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/perceiver
 
 ## Local Vault File
 
-Path: [huggingface-blog-perceiver.md](file:///../../ai/models/huggingface-blog-perceiver.md)
+Path: [perceiver-io-a-scalable-fully-attentional-model-th.md](file:///../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)

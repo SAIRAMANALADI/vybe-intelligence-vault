@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/codegemma
 resource_id: blog:codegemma-an-official-google-release-for-code-llms
-local_vault_path: ai/models/huggingface-blog-codegemma.md
+local_vault_path: ai/models/codegemma-an-official-google-release-for-code-llms.md
 quality_score: 70
 archive_score: 80
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/codegemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-codegemma.md](file:///../../ai/models/huggingface-blog-codegemma.md)
+Path: [codegemma-an-official-google-release-for-code-llms.md](file:///../../ai/models/codegemma-an-official-google-release-for-code-llms.md)

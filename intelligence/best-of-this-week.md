@@ -4,20 +4,20 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
-*   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
-*   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
-*   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
-*   [ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research](https://arxiv.org/abs/2606.07591) (Score: 70) - Category: `ai-coding-agents/`
-*   [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](https://arxiv.org/abs/2605.23243) (Score: 70) - Category: `ai-coding-agents/`
-*   ["Do Not Mention This to the User": Detecting and Understanding Malicious Agent Skills in the Wild](https://arxiv.org/abs/2602.06547) (Score: 70) - Category: `ai-coding-agents/`
-*   [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](https://artificialanalysis.ai/agents/coding-agents) (Score: 70) - Category: `ai-coding-agents/`
-*   [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour) (Score: 70) - Category: `ai-coding-agents/`
-*   [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) (Score: 70) - Category: `ai-coding-agents/`
-*   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
-*   [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) (Score: 70) - Category: `ai-coding-agents/`
-*   [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) (Score: 70) - Category: `ai-coding-agents/`
-*   [I Built a Production-Grade RAG System for Real PDFs (Text, Tables, Images, Scans) — Here’s the Full Blueprint | by Dharm](https://medium.com/codex/i-built-a-production-grade-rag-system-for-real-pdfs-text-tables-images-scans-heres-the-0b6accbd1044) (Score: 70) - Category: `ai-coding-agents/`
-*   [Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings](https://arxiv.org/abs/2602.07294) (Score: 70) - Category: `ai-coding-agents/`
-*   [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](https://arxiv.org/abs/2606.13608) (Score: 70) - Category: `ai-coding-agents/`
+*   [pmndrs/triplex](https://github.com/pmndrs/triplex) (Score: 70) - Category: `ai-coding-agents/`
+*   [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) (Score: 70) - Category: `ai-coding-agents/`
+*   [A New Framework for Evaluating Voice Agents (EVA)](https://huggingface.co/blog/servicenow-ai/eva) (Score: 70) - Category: `ai-coding-agents/`
+*   [Accelerating Qwen3-8B Agent on Intel® Core™ Ultra with Depth-Pruned Draft Models](https://huggingface.co/blog/intel-qwen3-agent) (Score: 70) - Category: `ai-coding-agents/`
+*   [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) (Score: 70) - Category: `ai-coding-agents/`
+*   [aden-hive/hive](https://github.com/aden-hive/hive) (Score: 70) - Category: `ai-coding-agents/`
+*   [affaan-m/agentshield](https://github.com/affaan-m/agentshield) (Score: 70) - Category: `ai-coding-agents/`
+*   [agamm/awesome-ai-sre](https://github.com/agamm/awesome-ai-sre) (Score: 70) - Category: `ai-coding-agents/`
+*   [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) (Score: 70) - Category: `ai-coding-agents/`
+*   [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) (Score: 70) - Category: `ai-coding-agents/`
+*   [ahsen-adil/Learn_OpenAI_Agents_SDK](https://github.com/ahsen-adil/Learn_OpenAI_Agents_SDK) (Score: 70) - Category: `ai-coding-agents/`
+*   [AI Agent Benchmarks: The 2026 Enterprise Evaluation Guide](https://www.automationanywhere.com/company/blog/product-insights/ai-agent-benchmark) (Score: 70) - Category: `ai-coding-agents/`
+*   [AI Agents Are Here. What Now?](https://huggingface.co/blog/ethics-soc-7) (Score: 70) - Category: `ai-coding-agents/`
+*   [akihirookuda95/openai-agents-sdk-tutorial](https://github.com/akihirookuda95/openai-agents-sdk-tutorial) (Score: 70) - Category: `ai-coding-agents/`
+*   [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

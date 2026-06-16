@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/moe
 resource_id: huggingface:blog/moe
-local_vault_path: ai/models/huggingface-blog-moe.md
+local_vault_path: ai/models/mixture-of-experts-explained.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Mixture of Experts Explained
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/moe
 
 ## Local Vault File
 
-Path: [huggingface-blog-moe.md](file:///../../ai/models/huggingface-blog-moe.md)
+Path: [huggingface-blog-moe.md](file:///../../ai/models/mixture-of-experts-explained.md)

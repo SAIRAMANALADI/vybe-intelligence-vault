@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-endpoints-llm
 resource_id: huggingface:blog/inference-endpoints-llm
-local_vault_path: ai/models/huggingface-blog-inference-endpoints-llm.md
+local_vault_path: ai/models/deploy-llms-with-hugging-face-inference-endpoints.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Deploy LLMs with Hugging Face Inference Endpoints
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-endpoints-llm.md](file:///../../ai/models/huggingface-blog-inference-endpoints-llm.md)
+Path: [huggingface-blog-inference-endpoints-llm.md](file:///../../ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)

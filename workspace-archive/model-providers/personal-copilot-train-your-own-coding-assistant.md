@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/personal-copilot
 resource_id: blog:personal-copilot-train-your-own-coding-assistant
-local_vault_path: ai/models/huggingface-blog-personal-copilot.md
+local_vault_path: ai/models/personal-copilot-train-your-own-coding-assistant.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/personal-copilot
 
 ## Local Vault File
 
-Path: [huggingface-blog-personal-copilot.md](file:///../../ai/models/huggingface-blog-personal-copilot.md)
+Path: [personal-copilot-train-your-own-coding-assistant.md](file:///../../ai/models/personal-copilot-train-your-own-coding-assistant.md)

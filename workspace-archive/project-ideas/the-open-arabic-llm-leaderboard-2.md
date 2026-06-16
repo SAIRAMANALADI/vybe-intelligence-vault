@@ -3,7 +3,7 @@ title: The Open Arabic LLM Leaderboard 2
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-arabic-v2
-local_vault_path: ai/models/huggingface-blog-leaderboard-arabic-v2.md
+local_vault_path: ai/models/the-open-arabic-llm-leaderboard-2.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-open-arabic-llm-leaderboard-2
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic-v2
 
 ## Local Vault File
 
-Path: [the-open-arabic-llm-leaderboard-2-7a2ac9.md](file:///../../ai/models/huggingface-blog-leaderboard-arabic-v2.md)
+Path: [the-open-arabic-llm-leaderboard-2-7a2ac9.md](file:///../../ai/models/the-open-arabic-llm-leaderboard-2.md)

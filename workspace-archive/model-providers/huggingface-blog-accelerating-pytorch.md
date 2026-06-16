@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/accelerating-pytorch
 resource_id: huggingface:blog/accelerating-pytorch
-local_vault_path: ai/models/huggingface-blog-accelerating-pytorch.md
+local_vault_path: ai/models/accelerating-pytorch-distributed-fine-tuning-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Accelerating PyTorch distributed fine-tuning with Intel technologies
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/accelerating-pytorch
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerating-pytorch.md](file:///../../ai/models/huggingface-blog-accelerating-pytorch.md)
+Path: [huggingface-blog-accelerating-pytorch.md](file:///../../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)

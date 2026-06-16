@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/fireworks-ai
 resource_id: huggingface:blog/fireworks-ai
-local_vault_path: ai/models/huggingface-blog-fireworks-ai.md
+local_vault_path: ai/models/welcome-fireworks-ai-on-the-hub.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Welcome Fireworks.ai on the Hub 🎆
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fireworks-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-fireworks-ai.md](file:///../../ai/models/huggingface-blog-fireworks-ai.md)
+Path: [huggingface-blog-fireworks-ai.md](file:///../../ai/models/welcome-fireworks-ai-on-the-hub.md)

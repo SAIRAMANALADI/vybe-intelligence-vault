@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ambassadors
 resource_id: huggingface:blog/ambassadors
-local_vault_path: ai/models/huggingface-blog-ambassadors.md
+local_vault_path: ai/models/student-ambassador-programs-call-for-applications.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Student Ambassador Program’s call for applications is open!
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ambassadors
 
 ## Local Vault File
 
-Path: [huggingface-blog-ambassadors.md](file:///../../ai/models/huggingface-blog-ambassadors.md)
+Path: [huggingface-blog-ambassadors.md](file:///../../ai/models/student-ambassador-programs-call-for-applications.md)

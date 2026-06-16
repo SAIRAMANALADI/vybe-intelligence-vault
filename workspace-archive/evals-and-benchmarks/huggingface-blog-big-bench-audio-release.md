@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/big-bench-audio-release
 resource_id: huggingface:blog/big-bench-audio-release
-local_vault_path: ai/models/huggingface-blog-big-bench-audio-release.md
+local_vault_path: ai/models/evaluating-audio-reasoning-with-big-bench-audio.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Evaluating Audio Reasoning with Big Bench Audio
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/big-bench-audio-release
 
 ## Local Vault File
 
-Path: [huggingface-blog-big-bench-audio-release.md](file:///../../ai/models/huggingface-blog-big-bench-audio-release.md)
+Path: [huggingface-blog-big-bench-audio-release.md](file:///../../ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)

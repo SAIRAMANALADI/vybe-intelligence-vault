@@ -3,11 +3,12 @@ title: 'Introducing Agents.js: Give tools to your LLMs using JavaScript'
 archive_category: agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agents-js
-local_vault_path: ai/agents/huggingface-blog-agents-js.md
+local_vault_path: ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md
 tags:
 - agents
 resource_id: blog:introducing-agents-js-give-tools-to-your-llms-usin
 ---
+
 
 
 # Introducing Agents.js: Give tools to your LLMs using JavaScript

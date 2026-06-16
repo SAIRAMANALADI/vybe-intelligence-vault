@@ -3,7 +3,7 @@ title: Welcome Llama 4 Maverick & Scout on Hugging Face
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/llama4-release
-local_vault_path: ai/models/huggingface-blog-llama4-release.md
+local_vault_path: ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:welcome-llama-4-maverick-scout-on-hugging-face
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/llama4-release
 
 ## Local Vault File
 
-Path: [welcome-llama-4-maverick-scout-on-hugging-face-db1a88.md](file:///../../ai/models/huggingface-blog-llama4-release.md)
+Path: [welcome-llama-4-maverick-scout-on-hugging-face-db1a88.md](file:///../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)

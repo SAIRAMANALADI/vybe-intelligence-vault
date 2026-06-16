@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
 resource_id: huggingface:blog/fine-tune-xlsr-wav2vec2
-local_vault_path: ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md
+local_vault_path: ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-xlsr-wav2vec2.md](file:///../../ai/models/huggingface-blog-fine-tune-xlsr-wav2vec2.md)
+Path: [huggingface-blog-fine-tune-xlsr-wav2vec2.md](file:///../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)

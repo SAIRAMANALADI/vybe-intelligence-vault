@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/encoder-decoder
 resource_id: huggingface:blog/encoder-decoder
-local_vault_path: ai/models/huggingface-blog-encoder-decoder.md
+local_vault_path: ai/models/transformer-based-encoder-decoder-models.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Transformer-based Encoder-Decoder Models
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/encoder-decoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-encoder-decoder.md](file:///../../ai/models/huggingface-blog-encoder-decoder.md)
+Path: [huggingface-blog-encoder-decoder.md](file:///../../ai/models/transformer-based-encoder-decoder-models.md)

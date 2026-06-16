@@ -3,7 +3,7 @@ title: Our Transformers Code Agent beats the GAIA benchmark 🏅
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/beating-gaia
-local_vault_path: ai/agents/huggingface-blog-beating-gaia.md
+local_vault_path: ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:our-transformers-code-agent-beats-the-gaia-benchma
 ---
+
 
 
 # Our Transformers Code Agent beats the GAIA benchmark 🏅
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/beating-gaia
 
 ## Local Vault File
 
-Path: [our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md](file:///../../ai/agents/huggingface-blog-beating-gaia.md)
+Path: [our-transformers-code-agent-beats-the-gaia-benchmark-dc6060.md](file:///../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)

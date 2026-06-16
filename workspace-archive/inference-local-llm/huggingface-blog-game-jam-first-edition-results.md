@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/game-jam-first-edition-results
 resource_id: huggingface:blog/game-jam-first-edition-results
-local_vault_path: ai/models/huggingface-blog-game-jam-first-edition-results.md
+local_vault_path: ai/models/results-of-the-open-source-ai-game-jam.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Results of the Open Source AI Game Jam
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [huggingface-blog-game-jam-first-edition-results.md](file:///../../ai/models/huggingface-blog-game-jam-first-edition-results.md)
+Path: [huggingface-blog-game-jam-first-edition-results.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam.md)

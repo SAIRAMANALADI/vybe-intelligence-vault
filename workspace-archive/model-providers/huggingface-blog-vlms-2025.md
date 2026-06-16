@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/vlms-2025
 resource_id: huggingface:blog/vlms-2025
-local_vault_path: ai/models/huggingface-blog-vlms-2025.md
+local_vault_path: ai/models/vision-language-models-better-faster-stronger.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Vision Language Models (Better, faster, stronger)
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/vlms-2025
 
 ## Local Vault File
 
-Path: [huggingface-blog-vlms-2025.md](file:///../../ai/models/huggingface-blog-vlms-2025.md)
+Path: [huggingface-blog-vlms-2025.md](file:///../../ai/models/vision-language-models-better-faster-stronger.md)

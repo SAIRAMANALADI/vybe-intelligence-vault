@@ -3,7 +3,7 @@ title: Speech Synthesis, Recognition, and More With SpeechT5
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/speecht5
-local_vault_path: ai/models/huggingface-blog-speecht5.md
+local_vault_path: ai/models/speech-synthesis-recognition-and-more-with-speecht.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:speech-synthesis-recognition-and-more-with-speecht
 ---
+
 
 
 # Speech Synthesis, Recognition, and More With SpeechT5
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [speech-synthesis-recognition-and-more-with-speecht5-61abfe.md](file:///../../ai/models/huggingface-blog-speecht5.md)
+Path: [speech-synthesis-recognition-and-more-with-speecht5-61abfe.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)

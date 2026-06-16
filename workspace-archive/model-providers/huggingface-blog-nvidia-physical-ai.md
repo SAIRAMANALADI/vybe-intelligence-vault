@@ -5,7 +5,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/nvidia-physical-ai
 resource_id: huggingface:blog/nvidia-physical-ai
-local_vault_path: ai/models/huggingface-blog-nvidia-physical-ai.md
+local_vault_path: ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # NVIDIA's GTC 2025 Announcement for Physical AI Developers: New Open Models and Datasets
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/nvidia-physical-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-physical-ai.md](file:///../../ai/models/huggingface-blog-nvidia-physical-ai.md)
+Path: [huggingface-blog-nvidia-physical-ai.md](file:///../../ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md)

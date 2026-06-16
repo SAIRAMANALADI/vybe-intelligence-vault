@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/lora
 resource_id: blog:using-lora-for-efficient-stable-diffusion-fine-tun
-local_vault_path: ai/models/huggingface-blog-lora.md
+local_vault_path: ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora.md](file:///../../ai/models/huggingface-blog-lora.md)
+Path: [using-lora-for-efficient-stable-diffusion-fine-tun.md](file:///../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)

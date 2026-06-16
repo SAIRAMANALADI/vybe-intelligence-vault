@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/transformers-backend-sglang
 resource_id: huggingface:blog/transformers-backend-sglang
-local_vault_path: ai/models/huggingface-blog-transformers-backend-sglang.md
+local_vault_path: ai/models/transformers-backend-integration-in-sglang.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Transformers backend integration in SGLang
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/transformers-backend-sglang
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-backend-sglang.md](file:///../../ai/models/huggingface-blog-transformers-backend-sglang.md)
+Path: [huggingface-blog-transformers-backend-sglang.md](file:///../../ai/models/transformers-backend-integration-in-sglang.md)

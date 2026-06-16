@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/intel-gcp-c4
 resource_id: huggingface:blog/intel-gcp-c4
-local_vault_path: ai/models/huggingface-blog-intel-gcp-c4.md
+local_vault_path: ai/models/benchmarking-language-model-performance-on-5th-gen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Benchmarking Language Model Performance on 5th Gen Xeon at GCP
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/intel-gcp-c4
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-gcp-c4.md](file:///../../ai/models/huggingface-blog-intel-gcp-c4.md)
+Path: [huggingface-blog-intel-gcp-c4.md](file:///../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)

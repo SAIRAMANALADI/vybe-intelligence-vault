@@ -3,7 +3,7 @@ title: Harness, Scaffold, and the AI Agent Terms Worth Getting Right
 archive_category: project-ideas
 source_category: ai/agents
 source_url: https://huggingface.co/blog/agent-glossary
-local_vault_path: ai/agents/huggingface-blog-agent-glossary.md
+local_vault_path: ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:harness-scaffold-and-the-ai-agent-terms-worth-gett
 ---
+
 
 
 # Harness, Scaffold, and the AI Agent Terms Worth Getting Right
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/agent-glossary
 
 ## Local Vault File
 
-Path: [harness-scaffold-and-the-ai-agent-terms-worth-getting-right-37be5f.md](file:///../../ai/agents/huggingface-blog-agent-glossary.md)
+Path: [harness-scaffold-and-the-ai-agent-terms-worth-getting-right-37be5f.md](file:///../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)

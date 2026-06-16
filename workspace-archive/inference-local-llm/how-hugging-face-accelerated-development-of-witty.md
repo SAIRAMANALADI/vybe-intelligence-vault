@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/classification-use-cases
 resource_id: blog:how-hugging-face-accelerated-development-of-witty
-local_vault_path: ai/models/huggingface-blog-classification-use-cases.md
+local_vault_path: ai/models/how-hugging-face-accelerated-development-of-witty.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/classification-use-cases
 
 ## Local Vault File
 
-Path: [huggingface-blog-classification-use-cases.md](file:///../../ai/models/huggingface-blog-classification-use-cases.md)
+Path: [how-hugging-face-accelerated-development-of-witty.md](file:///../../ai/models/how-hugging-face-accelerated-development-of-witty.md)

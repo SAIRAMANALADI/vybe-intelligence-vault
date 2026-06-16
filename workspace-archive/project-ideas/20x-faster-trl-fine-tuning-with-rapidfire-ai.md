@@ -3,7 +3,7 @@ title: 20x Faster TRL Fine-tuning with RapidFire AI
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/rapidfireai
-local_vault_path: ai/models/huggingface-blog-rapidfireai.md
+local_vault_path: ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:20x-faster-trl-fine-tuning-with-rapidfire-ai
 ---
+
 
 
 
@@ -46,4 +47,4 @@ Original source URL: https://huggingface.co/blog/rapidfireai
 
 ## Local Vault File
 
-Path: [20x-faster-trl-fine-tuning-with-rapidfire-ai-7a016f.md](file:///../../ai/models/huggingface-blog-rapidfireai.md)
+Path: [20x-faster-trl-fine-tuning-with-rapidfire-ai-7a016f.md](file:///../../ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md)

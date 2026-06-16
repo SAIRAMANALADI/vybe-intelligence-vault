@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/assisted-generation-support-gaudi
 resource_id: blog:faster-assisted-generation-support-for-intel-gaudi
-local_vault_path: ai/models/huggingface-blog-assisted-generation-support-gaudi.md
+local_vault_path: ai/models/faster-assisted-generation-support-for-intel-gaudi.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation-support-gau
 
 ## Local Vault File
 
-Path: [huggingface-blog-assisted-generation-support-gaudi.md](file:///../../ai/models/huggingface-blog-assisted-generation-support-gaudi.md)
+Path: [faster-assisted-generation-support-for-intel-gaudi.md](file:///../../ai/models/faster-assisted-generation-support-for-intel-gaudi.md)

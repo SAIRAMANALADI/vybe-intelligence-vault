@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-q-part1
 resource_id: huggingface:blog/deep-rl-q-part1
-local_vault_path: ai/models/huggingface-blog-deep-rl-q-part1.md
+local_vault_path: ai/models/an-introduction-to-q-learning-part-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # An Introduction to Q-Learning Part 1
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part1
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-q-part1.md](file:///../../ai/models/huggingface-blog-deep-rl-q-part1.md)
+Path: [huggingface-blog-deep-rl-q-part1.md](file:///../../ai/models/an-introduction-to-q-learning-part-1.md)

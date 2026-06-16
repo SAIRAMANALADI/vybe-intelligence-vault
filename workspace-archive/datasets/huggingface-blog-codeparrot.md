@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/codeparrot
 resource_id: huggingface:blog/codeparrot
-local_vault_path: ai/models/huggingface-blog-codeparrot.md
+local_vault_path: ai/models/training-codeparrot-from-scratch.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Training CodeParrot 🦜 from Scratch
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/codeparrot
 
 ## Local Vault File
 
-Path: [huggingface-blog-codeparrot.md](file:///../../ai/models/huggingface-blog-codeparrot.md)
+Path: [huggingface-blog-codeparrot.md](file:///../../ai/models/training-codeparrot-from-scratch.md)

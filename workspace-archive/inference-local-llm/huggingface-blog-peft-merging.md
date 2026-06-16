@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/peft_merging
 resource_id: huggingface:blog/peft_merging
-local_vault_path: ai/models/huggingface-blog-peft-merging.md
+local_vault_path: ai/models/peft-welcomes-new-merging-methods.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # 🤗 PEFT welcomes new merging methods
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/peft_merging
 
 ## Local Vault File
 
-Path: [huggingface-blog-peft-merging.md](file:///../../ai/models/huggingface-blog-peft-merging.md)
+Path: [huggingface-blog-peft-merging.md](file:///../../ai/models/peft-welcomes-new-merging-methods.md)

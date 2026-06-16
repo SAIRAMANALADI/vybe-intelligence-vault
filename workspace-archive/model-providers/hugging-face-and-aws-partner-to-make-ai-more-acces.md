@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/aws-partnership
 resource_id: blog:hugging-face-and-aws-partner-to-make-ai-more-acces
-local_vault_path: ai/models/huggingface-blog-aws-partnership.md
+local_vault_path: ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-aws-partnership.md](file:///../../ai/models/huggingface-blog-aws-partnership.md)
+Path: [hugging-face-and-aws-partner-to-make-ai-more-acces.md](file:///../../ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)

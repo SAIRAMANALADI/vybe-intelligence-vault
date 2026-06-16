@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/aisheets
 resource_id: blog:introducing-ai-sheets-a-tool-to-work-with-datasets
-local_vault_path: ai/models/huggingface-blog-aisheets.md
+local_vault_path: ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: [huggingface-blog-aisheets.md](file:///../../ai/models/huggingface-blog-aisheets.md)
+Path: [introducing-ai-sheets-a-tool-to-work-with-datasets.md](file:///../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)

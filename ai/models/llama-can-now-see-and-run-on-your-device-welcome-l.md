@@ -4,18 +4,19 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/llama32
-published_at: '2024-09-25T00:00:00+00:00'
-collected_at: '2026-06-15T06:35:32.418553+00:00'
+published_at: '2024-09-24T18:30:00+00:00'
+collected_at: '2026-06-15T06:03:50.275031+00:00'
 tags:
 - meta-ai
 - models
 status: active
 resource_id: blog:llama-can-now-see-and-run-on-your-device-welcome-l
-first_seen: '2026-06-15T06:35:32.418553+00:00'
-last_seen: '2026-06-15T06:35:32.418553+00:00'
-last_checked: '2026-06-15T06:35:32.418553+00:00'
+first_seen: '2026-06-12T10:40:08.814178+00:00'
+last_seen: '2026-06-15T06:03:50.275031+00:00'
+last_checked: '2026-06-15T06:03:50.275031+00:00'
 health_score: 100
 ---
+
 
 # Llama can now see and run on your device - welcome Llama 3.2
 
@@ -31,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-09-25T00:00:00+00:00
+- Published: 2024-09-24T18:30:00+00:00
 
 ## Related Tags
 

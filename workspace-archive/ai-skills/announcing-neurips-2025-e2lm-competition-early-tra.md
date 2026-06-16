@@ -9,6 +9,7 @@ resource_id: blog:announcing-neurips-2025-e2lm-competition-early-tra
 ---
 
 
+
 # Announcing NeurIPS 2025 E2LM Competition: Early Training Evaluation of Language Models
 
 ## Why This Is In The Archive

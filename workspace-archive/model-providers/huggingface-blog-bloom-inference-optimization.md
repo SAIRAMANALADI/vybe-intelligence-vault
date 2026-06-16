@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/bloom-inference-optimization
 resource_id: huggingface:blog/bloom-inference-optimization
-local_vault_path: ai/models/huggingface-blog-bloom-inference-optimization.md
+local_vault_path: ai/models/optimization-story-bloom-inference.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Optimization story: Bloom inference
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-optimization
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-inference-optimization.md](file:///../../ai/models/huggingface-blog-bloom-inference-optimization.md)
+Path: [huggingface-blog-bloom-inference-optimization.md](file:///../../ai/models/optimization-story-bloom-inference.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/prodigy-hf
 resource_id: huggingface:blog/prodigy-hf
-local_vault_path: ai/models/huggingface-blog-prodigy-hf.md
+local_vault_path: ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing Prodigy-HF: a direct integration with Hugging Face
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/prodigy-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-prodigy-hf.md](file:///../../ai/models/huggingface-blog-prodigy-hf.md)
+Path: [huggingface-blog-prodigy-hf.md](file:///../../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)

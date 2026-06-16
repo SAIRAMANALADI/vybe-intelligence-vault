@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/unsloth-jobs
 resource_id: huggingface:blog/unsloth-jobs
-local_vault_path: ai/models/huggingface-blog-unsloth-jobs.md
+local_vault_path: ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Train AI models with Unsloth and Hugging Face Jobs for FREE
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/unsloth-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsloth-jobs.md](file:///../../ai/models/huggingface-blog-unsloth-jobs.md)
+Path: [huggingface-blog-unsloth-jobs.md](file:///../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)

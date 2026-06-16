@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/falconmamba
 resource_id: blog:welcome-falcon-mamba-the-first-strong-attention-fr
-local_vault_path: ai/models/huggingface-blog-falconmamba.md
+local_vault_path: ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falconmamba
 
 ## Local Vault File
 
-Path: [huggingface-blog-falconmamba.md](file:///../../ai/models/huggingface-blog-falconmamba.md)
+Path: [welcome-falcon-mamba-the-first-strong-attention-fr.md](file:///../../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)

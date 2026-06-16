@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/scaling-secrets-management
 resource_id: blog:how-hugging-face-scaled-secrets-management-for-ai
-local_vault_path: ai/models/huggingface-blog-scaling-secrets-management.md
+local_vault_path: ai/models/how-hugging-face-scaled-secrets-management-for-ai.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/scaling-secrets-management
 
 ## Local Vault File
 
-Path: [huggingface-blog-scaling-secrets-management.md](file:///../../ai/models/huggingface-blog-scaling-secrets-management.md)
+Path: [how-hugging-face-scaled-secrets-management-for-ai.md](file:///../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)

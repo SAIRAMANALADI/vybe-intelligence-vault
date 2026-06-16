@@ -3,7 +3,7 @@ title: Experimenting with Automatic PII Detection on the Hub using Presidio
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/presidio-pii-detection
-local_vault_path: ai/models/huggingface-blog-presidio-pii-detection.md
+local_vault_path: ai/models/experimenting-with-automatic-pii-detection-on-the.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:experimenting-with-automatic-pii-detection-on-the
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/presidio-pii-detection
 
 ## Local Vault File
 
-Path: [experimenting-with-automatic-pii-detection-on-the-hub-using-presidio-f41c63.md](file:///../../ai/models/huggingface-blog-presidio-pii-detection.md)
+Path: [experimenting-with-automatic-pii-detection-on-the-hub-using-presidio-f41c63.md](file:///../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)

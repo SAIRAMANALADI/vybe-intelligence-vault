@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/sandboxaq
 resource_id: huggingface:blog/sandboxaq
-local_vault_path: ai/models/huggingface-blog-sandboxaq.md
+local_vault_path: ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sandboxaq
 
 ## Local Vault File
 
-Path: [huggingface-blog-sandboxaq.md](file:///../../ai/models/huggingface-blog-sandboxaq.md)
+Path: [huggingface-blog-sandboxaq.md](file:///../../ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)

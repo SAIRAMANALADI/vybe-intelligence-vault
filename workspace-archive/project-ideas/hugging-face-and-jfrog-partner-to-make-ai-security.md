@@ -3,7 +3,7 @@ title: Hugging Face and JFrog partner to make AI Security more transparent
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/jfrog
-local_vault_path: ai/models/huggingface-blog-jfrog.md
+local_vault_path: ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:hugging-face-and-jfrog-partner-to-make-ai-security
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md](file:///../../ai/models/huggingface-blog-jfrog.md)
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security-more-transparent-cb9613.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)

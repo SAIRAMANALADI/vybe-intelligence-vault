@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/gaussian-splatting
 resource_id: huggingface:blog/gaussian-splatting
-local_vault_path: ai/models/huggingface-blog-gaussian-splatting.md
+local_vault_path: ai/models/introduction-to-3d-gaussian-splatting.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introduction to 3D Gaussian Splatting
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gaussian-splatting
 
 ## Local Vault File
 
-Path: [huggingface-blog-gaussian-splatting.md](file:///../../ai/models/huggingface-blog-gaussian-splatting.md)
+Path: [huggingface-blog-gaussian-splatting.md](file:///../../ai/models/introduction-to-3d-gaussian-splatting.md)

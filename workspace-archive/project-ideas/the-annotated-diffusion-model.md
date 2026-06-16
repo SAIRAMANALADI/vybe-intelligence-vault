@@ -3,7 +3,7 @@ title: The Annotated Diffusion Model
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/annotated-diffusion
-local_vault_path: ai/models/huggingface-blog-annotated-diffusion.md
+local_vault_path: ai/models/the-annotated-diffusion-model.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:the-annotated-diffusion-model
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/annotated-diffusion
 
 ## Local Vault File
 
-Path: [the-annotated-diffusion-model-3f6a77.md](file:///../../ai/models/huggingface-blog-annotated-diffusion.md)
+Path: [the-annotated-diffusion-model-3f6a77.md](file:///../../ai/models/the-annotated-diffusion-model.md)

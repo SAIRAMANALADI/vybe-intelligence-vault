@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/instruction-tuning-sd
 resource_id: blog:instruction-tuning-stable-diffusion-with-instructp
-local_vault_path: ai/models/huggingface-blog-instruction-tuning-sd.md
+local_vault_path: ai/models/instruction-tuning-stable-diffusion-with-instructp.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/instruction-tuning-sd
 
 ## Local Vault File
 
-Path: [huggingface-blog-instruction-tuning-sd.md](file:///../../ai/models/huggingface-blog-instruction-tuning-sd.md)
+Path: [instruction-tuning-stable-diffusion-with-instructp.md](file:///../../ai/models/instruction-tuning-stable-diffusion-with-instructp.md)

@@ -4,7 +4,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/parquet-cdc
 resource_id: huggingface:blog/parquet-cdc
-local_vault_path: ai/rag/huggingface-blog-parquet-cdc.md
+local_vault_path: ai/rag/parquet-content-defined-chunking.md
 quality_score: 70
 archive_score: 74
 archive_tier: useful
@@ -16,6 +16,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Parquet Content-Defined Chunking
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/parquet-cdc
 
 ## Local Vault File
 
-Path: [huggingface-blog-parquet-cdc.md](file:///../../ai/rag/huggingface-blog-parquet-cdc.md)
+Path: [huggingface-blog-parquet-cdc.md](file:///../../ai/rag/parquet-content-defined-chunking.md)

@@ -3,7 +3,7 @@ title: Diffusers welcomes Stable Diffusion 3.5 Large
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/sd3-5
-local_vault_path: ai/models/huggingface-blog-sd3-5.md
+local_vault_path: ai/models/diffusers-welcomes-stable-diffusion-3-5-large.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:diffusers-welcomes-stable-diffusion-3-5-large
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/sd3-5
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-stable-diffusion-3-5-large-af3c79.md](file:///../../ai/models/huggingface-blog-sd3-5.md)
+Path: [diffusers-welcomes-stable-diffusion-3-5-large-af3c79.md](file:///../../ai/models/diffusers-welcomes-stable-diffusion-3-5-large.md)

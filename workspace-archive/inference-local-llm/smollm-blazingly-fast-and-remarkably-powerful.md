@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/smollm
 resource_id: blog:smollm-blazingly-fast-and-remarkably-powerful
-local_vault_path: ai/models/huggingface-blog-smollm.md
+local_vault_path: ai/models/smollm-blazingly-fast-and-remarkably-powerful.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [huggingface-blog-smollm.md](file:///../../ai/models/huggingface-blog-smollm.md)
+Path: [smollm-blazingly-fast-and-remarkably-powerful.md](file:///../../ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)

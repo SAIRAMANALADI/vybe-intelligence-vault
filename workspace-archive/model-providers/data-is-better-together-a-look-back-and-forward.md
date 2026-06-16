@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/dibt
 resource_id: blog:data-is-better-together-a-look-back-and-forward
-local_vault_path: ai/models/huggingface-blog-dibt.md
+local_vault_path: ai/models/data-is-better-together-a-look-back-and-forward.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dibt
 
 ## Local Vault File
 
-Path: [huggingface-blog-dibt.md](file:///../../ai/models/huggingface-blog-dibt.md)
+Path: [data-is-better-together-a-look-back-and-forward.md](file:///../../ai/models/data-is-better-together-a-look-back-and-forward.md)

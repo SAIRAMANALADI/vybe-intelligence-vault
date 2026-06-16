@@ -3,7 +3,7 @@ title: What's new in Diffusers? 🎨
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/diffusers-2nd-month
-local_vault_path: ai/models/huggingface-blog-diffusers-2nd-month.md
+local_vault_path: ai/models/what-s-new-in-diffusers.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:what-s-new-in-diffusers
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/diffusers-2nd-month
 
 ## Local Vault File
 
-Path: [what-s-new-in-diffusers-8169c7.md](file:///../../ai/models/huggingface-blog-diffusers-2nd-month.md)
+Path: [what-s-new-in-diffusers-8169c7.md](file:///../../ai/models/what-s-new-in-diffusers.md)

@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/setfit
 resource_id: blog:setfit-efficient-few-shot-learning-without-prompts
-local_vault_path: ai/models/huggingface-blog-setfit.md
+local_vault_path: ai/models/setfit-efficient-few-shot-learning-without-prompts.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit.md](file:///../../ai/models/huggingface-blog-setfit.md)
+Path: [setfit-efficient-few-shot-learning-without-prompts.md](file:///../../ai/models/setfit-efficient-few-shot-learning-without-prompts.md)

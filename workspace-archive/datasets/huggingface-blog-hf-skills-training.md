@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/hf-skills-training
 resource_id: huggingface:blog/hf-skills-training
-local_vault_path: ai/models/huggingface-blog-hf-skills-training.md
+local_vault_path: ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,6 +15,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # We Got Claude to Fine-Tune an Open Source LLM
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-skills-training.md](file:///../../ai/models/huggingface-blog-hf-skills-training.md)
+Path: [huggingface-blog-hf-skills-training.md](file:///../../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)

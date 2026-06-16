@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/inference-pro
 resource_id: blog:inference-for-pros
-local_vault_path: ai/models/huggingface-blog-inference-pro.md
+local_vault_path: ai/models/inference-for-pros.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-pro.md](file:///../../ai/models/huggingface-blog-inference-pro.md)
+Path: [inference-for-pros.md](file:///../../ai/models/inference-for-pros.md)

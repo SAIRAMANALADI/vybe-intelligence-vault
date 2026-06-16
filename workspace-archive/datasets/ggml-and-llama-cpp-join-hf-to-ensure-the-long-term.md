@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/ggml-joins-hf
 resource_id: blog:ggml-and-llama-cpp-join-hf-to-ensure-the-long-term
-local_vault_path: ai/models/huggingface-blog-ggml-joins-hf.md
+local_vault_path: ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ggml-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-ggml-joins-hf.md](file:///../../ai/models/huggingface-blog-ggml-joins-hf.md)
+Path: [ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md](file:///../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)

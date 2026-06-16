@@ -4,7 +4,7 @@ archive_category: evals-and-benchmarks
 source_category: ai/models
 source_url: https://huggingface.co/blog/vdr-2b-multilingual
 resource_id: huggingface:blog/vdr-2b-multilingual
-local_vault_path: ai/models/huggingface-blog-vdr-2b-multilingual.md
+local_vault_path: ai/models/visual-document-retrieval-goes-multilingual.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Visual Document Retrieval Goes Multilingual
 
@@ -42,4 +43,4 @@ Original source URL: https://huggingface.co/blog/vdr-2b-multilingual
 
 ## Local Vault File
 
-Path: [huggingface-blog-vdr-2b-multilingual.md](file:///../../ai/models/huggingface-blog-vdr-2b-multilingual.md)
+Path: [huggingface-blog-vdr-2b-multilingual.md](file:///../../ai/models/visual-document-retrieval-goes-multilingual.md)

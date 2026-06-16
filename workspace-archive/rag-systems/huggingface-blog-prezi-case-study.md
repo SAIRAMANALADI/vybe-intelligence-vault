@@ -5,7 +5,7 @@ archive_category: rag-systems
 source_category: ai/rag
 source_url: https://huggingface.co/blog/prezi-case-study
 resource_id: huggingface:blog/prezi-case-study
-local_vault_path: ai/rag/huggingface-blog-prezi-case-study.md
+local_vault_path: ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -17,6 +17,7 @@ selection_reason:
 - Strong keyword match
 - Valuable developer reference
 ---
+
 
 # Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap
 
@@ -45,4 +46,4 @@ Original source URL: https://huggingface.co/blog/prezi-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-prezi-case-study.md](file:///../../ai/rag/huggingface-blog-prezi-case-study.md)
+Path: [huggingface-blog-prezi-case-study.md](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)

@@ -5,7 +5,7 @@ archive_category: ai-coding-agents
 source_category: ai/agents
 source_url: https://huggingface.co/blog/aivsai
 resource_id: huggingface:blog/aivsai
-local_vault_path: ai/agents/huggingface-blog-aivsai.md
+local_vault_path: ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -16,6 +16,7 @@ tags:
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system
 
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [huggingface-blog-aivsai.md](file:///../../ai/agents/huggingface-blog-aivsai.md)
+Path: [huggingface-blog-aivsai.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)

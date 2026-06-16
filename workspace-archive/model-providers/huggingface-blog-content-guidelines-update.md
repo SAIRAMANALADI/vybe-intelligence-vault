@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/content-guidelines-update
 resource_id: huggingface:blog/content-guidelines-update
-local_vault_path: ai/models/huggingface-blog-content-guidelines-update.md
+local_vault_path: ai/models/announcing-our-new-content-guidelines-and-policy.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Announcing our new Content Guidelines and Policy
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/content-guidelines-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-content-guidelines-update.md](file:///../../ai/models/huggingface-blog-content-guidelines-update.md)
+Path: [huggingface-blog-content-guidelines-update.md](file:///../../ai/models/announcing-our-new-content-guidelines-and-policy.md)

@@ -3,7 +3,7 @@ title: Subscribe to Enterprise Hub with your AWS Account
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/enterprise-hub-aws-marketplace
-local_vault_path: ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md
+local_vault_path: ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:subscribe-to-enterprise-hub-with-your-aws-account
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 
 ## Local Vault File
 
-Path: [subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md](file:///../../ai/models/huggingface-blog-enterprise-hub-aws-marketplace.md)
+Path: [subscribe-to-enterprise-hub-with-your-aws-account-ae4e5f.md](file:///../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)

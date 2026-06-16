@@ -3,7 +3,7 @@ title: An Introduction to Deep Reinforcement Learning
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/deep-rl-intro
-local_vault_path: ai/models/huggingface-blog-deep-rl-intro.md
+local_vault_path: ai/models/an-introduction-to-deep-reinforcement-learning.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:an-introduction-to-deep-reinforcement-learning
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-intro
 
 ## Local Vault File
 
-Path: [an-introduction-to-deep-reinforcement-learning-68be0d.md](file:///../../ai/models/huggingface-blog-deep-rl-intro.md)
+Path: [an-introduction-to-deep-reinforcement-learning-68be0d.md](file:///../../ai/models/an-introduction-to-deep-reinforcement-learning.md)

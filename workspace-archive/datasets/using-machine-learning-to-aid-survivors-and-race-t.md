@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/using-ml-for-disasters
 resource_id: blog:using-machine-learning-to-aid-survivors-and-race-t
-local_vault_path: ai/models/huggingface-blog-using-ml-for-disasters.md
+local_vault_path: ai/models/using-machine-learning-to-aid-survivors-and-race-t.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/using-ml-for-disasters
 
 ## Local Vault File
 
-Path: [huggingface-blog-using-ml-for-disasters.md](file:///../../ai/models/huggingface-blog-using-ml-for-disasters.md)
+Path: [using-machine-learning-to-aid-survivors-and-race-t.md](file:///../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)

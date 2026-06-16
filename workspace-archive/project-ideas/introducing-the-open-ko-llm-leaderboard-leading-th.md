@@ -4,7 +4,7 @@ title: 'Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluati
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-upstage
-local_vault_path: ai/models/huggingface-blog-leaderboard-upstage.md
+local_vault_path: ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -15,6 +15,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introducing-the-open-ko-llm-leaderboard-leading-th
 ---
+
 
 
 # Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-upstage
 
 ## Local Vault File
 
-Path: [introducing-the-open-ko-llm-leaderboard-leading-the-korean-llm-evaluation-ecosys-7abdbf.md](file:///../../ai/models/huggingface-blog-leaderboard-upstage.md)
+Path: [introducing-the-open-ko-llm-leaderboard-leading-the-korean-llm-evaluation-ecosys-7abdbf.md](file:///../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)

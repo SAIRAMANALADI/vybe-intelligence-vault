@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/huggingface-amd-mi300
 resource_id: blog:hugging-face-on-amd-instinct-mi300-gpu
-local_vault_path: ai/models/huggingface-blog-huggingface-amd-mi300.md
+local_vault_path: ai/models/hugging-face-on-amd-instinct-mi300-gpu.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-mi300
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-amd-mi300.md](file:///../../ai/models/huggingface-blog-huggingface-amd-mi300.md)
+Path: [hugging-face-on-amd-instinct-mi300-gpu.md](file:///../../ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)

@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/vision-transformers
 resource_id: blog:deep-dive-vision-transformers-on-hugging-face-opti
-local_vault_path: ai/models/huggingface-blog-vision-transformers.md
+local_vault_path: ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-vision-transformers.md](file:///../../ai/models/huggingface-blog-vision-transformers.md)
+Path: [deep-dive-vision-transformers-on-hugging-face-opti.md](file:///../../ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)

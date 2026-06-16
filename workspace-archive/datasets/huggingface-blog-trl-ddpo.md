@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/trl-ddpo
 resource_id: huggingface:blog/trl-ddpo
-local_vault_path: ai/models/huggingface-blog-trl-ddpo.md
+local_vault_path: ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,6 +13,7 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
+
 
 # Finetune Stable Diffusion Models with DDPO via TRL
 
@@ -40,4 +41,4 @@ Original source URL: https://huggingface.co/blog/trl-ddpo
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-ddpo.md](file:///../../ai/models/huggingface-blog-trl-ddpo.md)
+Path: [huggingface-blog-trl-ddpo.md](file:///../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)

@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/kv-cache-quantization
 resource_id: blog:unlocking-longer-generation-with-key-value-cache-q
-local_vault_path: ai/models/huggingface-blog-kv-cache-quantization.md
+local_vault_path: ai/models/unlocking-longer-generation-with-key-value-cache-q.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/kv-cache-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-kv-cache-quantization.md](file:///../../ai/models/huggingface-blog-kv-cache-quantization.md)
+Path: [unlocking-longer-generation-with-key-value-cache-q.md](file:///../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)

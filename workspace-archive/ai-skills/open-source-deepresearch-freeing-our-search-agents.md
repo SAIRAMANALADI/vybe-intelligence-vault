@@ -3,11 +3,12 @@ title: Open-source DeepResearch – Freeing our search agents
 archive_category: ai-skills
 source_category: ai/agents
 source_url: https://huggingface.co/blog/open-deep-research
-local_vault_path: ai/agents/huggingface-blog-open-deep-research.md
+local_vault_path: ai/agents/open-source-deepresearch-freeing-our-search-agents.md
 tags:
 - agents
 resource_id: blog:open-source-deepresearch-freeing-our-search-agents
 ---
+
 
 
 

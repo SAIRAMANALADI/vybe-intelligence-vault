@@ -4,7 +4,7 @@ archive_category: model-providers
 source_category: ai/models
 source_url: https://huggingface.co/blog/whisper-speculative-decoding
 resource_id: blog:speculative-decoding-for-2x-faster-whisper-inferen
-local_vault_path: ai/models/huggingface-blog-whisper-speculative-decoding.md
+local_vault_path: ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/whisper-speculative-decoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-whisper-speculative-decoding.md](file:///../../ai/models/huggingface-blog-whisper-speculative-decoding.md)
+Path: [speculative-decoding-for-2x-faster-whisper-inferen.md](file:///../../ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)

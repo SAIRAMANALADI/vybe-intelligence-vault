@@ -3,7 +3,7 @@ title: Getting Started with Sentiment Analysis using Python
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/sentiment-analysis-python
-local_vault_path: ai/models/huggingface-blog-sentiment-analysis-python.md
+local_vault_path: ai/models/getting-started-with-sentiment-analysis-using-pyth.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:getting-started-with-sentiment-analysis-using-pyth
 ---
+
 
 
 # Getting Started with Sentiment Analysis using Python
@@ -43,4 +44,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-python
 
 ## Local Vault File
 
-Path: [getting-started-with-sentiment-analysis-using-python-538871.md](file:///../../ai/models/huggingface-blog-sentiment-analysis-python.md)
+Path: [getting-started-with-sentiment-analysis-using-python-538871.md](file:///../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)

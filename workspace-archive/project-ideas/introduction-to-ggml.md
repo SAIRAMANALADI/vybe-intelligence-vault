@@ -3,7 +3,7 @@ title: Introduction to ggml
 archive_category: project-ideas
 source_category: ai/models
 source_url: https://huggingface.co/blog/introduction-to-ggml
-local_vault_path: ai/models/huggingface-blog-introduction-to-ggml.md
+local_vault_path: ai/models/introduction-to-ggml.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
@@ -14,6 +14,7 @@ selection_reason:
 - Valuable developer reference
 resource_id: blog:introduction-to-ggml
 ---
+
 
 
 
@@ -44,4 +45,4 @@ Original source URL: https://huggingface.co/blog/introduction-to-ggml
 
 ## Local Vault File
 
-Path: [introduction-to-ggml-fbf650.md](file:///../../ai/models/huggingface-blog-introduction-to-ggml.md)
+Path: [introduction-to-ggml-fbf650.md](file:///../../ai/models/introduction-to-ggml.md)

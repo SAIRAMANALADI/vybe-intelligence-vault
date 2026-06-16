@@ -4,7 +4,7 @@ archive_category: datasets
 source_category: ai/models
 source_url: https://huggingface.co/blog/pycharm-integration
 resource_id: blog:hugging-face-pycharm
-local_vault_path: ai/models/huggingface-blog-pycharm-integration.md
+local_vault_path: ai/models/hugging-face-pycharm.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pycharm-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-pycharm-integration.md](file:///../../ai/models/huggingface-blog-pycharm-integration.md)
+Path: [hugging-face-pycharm.md](file:///../../ai/models/hugging-face-pycharm.md)

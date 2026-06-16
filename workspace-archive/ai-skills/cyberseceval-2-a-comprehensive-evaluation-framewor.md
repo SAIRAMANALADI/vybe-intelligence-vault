@@ -4,9 +4,10 @@ title: CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity R
 archive_category: ai-skills
 source_category: ai/models
 source_url: https://huggingface.co/blog/leaderboard-llamaguard
-local_vault_path: ai/models/huggingface-blog-leaderboard-llamaguard.md
+local_vault_path: ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md
 resource_id: blog:cyberseceval-2-a-comprehensive-evaluation-framewor
 ---
+
 
 
 # CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models
