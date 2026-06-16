@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/microsoft/autogen
 published_at: '2025-09-30T06:18:26Z'
-collected_at: '2026-06-16T19:32:47.178728+05:30'
+collected_at: '2026-06-16T21:39:11.018803+05:30'
 tags:
 - agents
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:microsoft/autogen
 first_seen: '2026-06-16T13:57:15.726917+05:30'
-last_seen: '2026-06-16T19:32:47.178728+05:30'
-last_checked: '2026-06-16T19:32:47.178728+05:30'
+last_seen: '2026-06-16T21:39:11.018803+05:30'
+last_checked: '2026-06-16T21:39:11.018803+05:30'
 health_score: 100
 ---
 
@@ -26,9 +26,9 @@ health_score: 100
 
 ## Summary
 
-## What's Changed
-* Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950
-* Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
+## What's Changed
+* Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950
+* Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
 * Support linear memory in RedisMemory by @just...
 
 ## Why It Matters

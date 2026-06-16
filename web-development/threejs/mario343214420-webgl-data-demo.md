@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/mario343214420/webgl-data-demo
-collected_at: '2026-06-16T17:27:23.869451+05:30'
-published_at: '2026-06-06T14:33:53Z'
+collected_at: '2026-06-16T21:39:06.465493+05:30'
+published_at: '2026-06-16T14:55:55Z'
 tags:
 - threejs
-stars: 641
+stars: 642
 language: Vue
 status: active
 resource_id: github:mario343214420/webgl-data-demo
 first_seen: '2026-06-11T08:45:35.488538+00:00'
-last_seen: '2026-06-16T17:27:23.869451+05:30'
-last_checked: '2026-06-16T17:27:23.869451+05:30'
+last_seen: '2026-06-16T21:39:06.465493+05:30'
+last_checked: '2026-06-16T21:39:06.465493+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: Mario343214420
-- Stars: 641
+- Stars: 642
 - Forks: 149
 - Language: Vue
 - Topics: big-data, threejs, vue
-- Last Updated: 2026-06-06T14:33:53Z
+- Last Updated: 2026-06-16T14:55:55Z
 
 ## Possible Use Cases
 

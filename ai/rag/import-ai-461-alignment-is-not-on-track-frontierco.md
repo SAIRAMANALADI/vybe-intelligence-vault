@@ -21,13 +21,14 @@ tags:
 - rag
 - scripts
 - workflows
-status: active
+status: inactive
 resource_id: blog:import-ai-461-alignment-is-not-on-track-frontierco
 first_seen: '2026-06-16T17:27:26.737881+05:30'
 last_seen: '2026-06-16T17:27:26.737881+05:30'
 last_checked: '2026-06-16T17:27:26.737881+05:30'
 health_score: 100
 ---
+
 
 # Import AI 461: "Alignment is not on track"; FrontierCode; and synthetic research interns
 

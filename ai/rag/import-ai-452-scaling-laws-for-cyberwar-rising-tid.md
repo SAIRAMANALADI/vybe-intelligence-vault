@@ -18,13 +18,14 @@ tags:
 - paper
 - rag
 - scripts
-status: active
+status: inactive
 resource_id: blog:import-ai-452-scaling-laws-for-cyberwar-rising-tid
 first_seen: '2026-06-16T17:27:26.738139+05:30'
 last_seen: '2026-06-16T17:27:26.738139+05:30'
 last_checked: '2026-06-16T17:27:26.738139+05:30'
 health_score: 100
 ---
+
 
 # Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting
 

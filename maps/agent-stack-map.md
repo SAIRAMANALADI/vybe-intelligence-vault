@@ -10,11 +10,11 @@ ReAct loops, human-in-the-loop, multi-agent coordination, agent memory persisten
 LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 
 ## Recommended Resources from the Vault
-*   [10 Best CrewAI Projects You Must Build in 2026](https://www.projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)
-*   [2026 AI Agent Framework Showdown: LangGraph vs CrewAI vs AG2 vs Claude SDK vs Strands vs OpenAI | QubitTool](https://qubittool.com/blog/ai-agent-framework-comparison-2026)
-*   [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
-*   [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide)
-*   [Sustainability assessment using multimodal AI agents](https://arxiv.org/abs/2507.17012)
+*   [Client Challenge](https://pypi.org/project/autogen)
+*   [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research)
+*   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+*   [crewAIInc/crewAI Release: 1.14.7](https://github.com/crewaiinc/crewai)
+*   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

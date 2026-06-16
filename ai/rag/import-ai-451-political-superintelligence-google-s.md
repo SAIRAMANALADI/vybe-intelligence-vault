@@ -19,13 +19,14 @@ tags:
 - rag
 - scripts
 - youtube
-status: active
+status: inactive
 resource_id: blog:import-ai-451-political-superintelligence-google-s
 first_seen: '2026-06-16T17:27:26.738161+05:30'
 last_seen: '2026-06-16T17:27:26.738161+05:30'
 last_checked: '2026-06-16T17:27:26.738161+05:30'
 health_score: 100
 ---
+
 
 # Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer
 

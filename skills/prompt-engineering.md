@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 110 resources matched in the intelligence vault.
+Active signals: 108 resources matched in the intelligence vault.
 Recently detected signals:
-- [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench](../ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment](../ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md) (Source: Unknown Source) - Collected 2026-06-16
 - [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models](../ai/research/arxiv-2606-15751.md) (Source: Unknown Source) - Collected 2026-06-16
+- [DLWM: Diverse Latent World Models for Efficient Multimodal Reasoning](../ai/research/arxiv-2606-15160.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../ai/rag/arxiv-2606-15099.md) (Source: Unknown Source) - Collected 2026-06-16
+- [LLM-Based Synthetic Ground Truth Generation for Audio-Based Emotion Classification via In-Context Learning](../ai/rag/arxiv-2606-14784.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -60,4 +60,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T21:41:42.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

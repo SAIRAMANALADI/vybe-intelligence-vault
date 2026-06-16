@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by _tk_. Score: 252, Comments: 136.
+Hacker News story by _tk_. Score: 404, Comments: 224.
 Original Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 
 ## Use Cases

@@ -16,13 +16,14 @@ tags:
 - paper
 - rag
 - scripts
-status: active
+status: inactive
 resource_id: blog:import-ai-442-winners-and-losers-in-the-ai-economy
 first_seen: '2026-06-16T17:27:26.738352+05:30'
 last_seen: '2026-06-16T17:27:26.738352+05:30'
 last_checked: '2026-06-16T17:27:26.738352+05:30'
 health_score: 100
 ---
+
 
 # Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage
 

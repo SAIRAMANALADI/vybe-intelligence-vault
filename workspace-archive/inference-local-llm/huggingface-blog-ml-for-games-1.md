@@ -4,7 +4,7 @@ archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/ml-for-games-1
 resource_id: huggingface:blog/ml-for-games-1
-local_vault_path: ai/models/ai-for-game-development-creating-a-farming-game-in.md
+local_vault_path: ai/models/huggingface-blog-ml-for-games-1.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -13,7 +13,6 @@ importance: medium
 selection_reason:
 - Valuable developer reference
 ---
-
 
 # AI for Game Development: Creating a Farming Game in 5 Days. Part 1
 
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-1.md](file:///../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)
+Path: [huggingface-blog-ml-for-games-1.md](../../ai/models/huggingface-blog-ml-for-games-1.md)

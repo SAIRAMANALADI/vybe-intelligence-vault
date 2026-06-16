@@ -16,13 +16,14 @@ tags:
 - hackernews
 - paper
 - rag
-status: active
+status: inactive
 resource_id: blog:import-ai-459-ai-oversight-is-difficult-scaling-la
 first_seen: '2026-06-16T17:27:26.737976+05:30'
 last_seen: '2026-06-16T17:27:26.737976+05:30'
 last_checked: '2026-06-16T17:27:26.737976+05:30'
 health_score: 100
 ---
+
 
 # Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems
 

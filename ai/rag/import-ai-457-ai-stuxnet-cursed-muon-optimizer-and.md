@@ -15,13 +15,14 @@ tags:
 - openai
 - paper
 - rag
-status: active
+status: inactive
 resource_id: blog:import-ai-457-ai-stuxnet-cursed-muon-optimizer-and
 first_seen: '2026-06-16T17:27:26.738026+05:30'
 last_seen: '2026-06-16T17:27:26.738026+05:30'
 last_checked: '2026-06-16T17:27:26.738026+05:30'
 health_score: 100
 ---
+
 
 # Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment
 

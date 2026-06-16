@@ -34,8 +34,6 @@ selection_reason:
 
 Changes since langchain-openai==1.3.1
 
-
-
 release(openai): 1.3.2 (#38130)
 
 ## Use Cases

@@ -4,18 +4,18 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/google-research/frame-interpolation
-collected_at: '2026-06-15T12:42:31.615028+00:00'
-published_at: '2026-06-15T11:31:03Z'
+collected_at: '2026-06-16T21:39:06.528100+05:30'
+published_at: '2026-06-16T15:23:29Z'
 tags:
 - animation
 - youtube
-stars: 3129
+stars: 3130
 language: Python
 status: active
 resource_id: github:google-research/frame-interpolation
 first_seen: '2026-06-15T12:42:31.615028+00:00'
-last_seen: '2026-06-15T12:42:31.615028+00:00'
-last_checked: '2026-06-15T12:42:31.615028+00:00'
+last_seen: '2026-06-16T21:39:06.528100+05:30'
+last_checked: '2026-06-16T21:39:06.528100+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: google-research
-- Stars: 3129
+- Stars: 3130
 - Forks: 317
 - Language: Python
 - Topics: forward-warp, frame-interpolation, optical-flow, splatting, video
-- Last Updated: 2026-06-15T11:31:03Z
+- Last Updated: 2026-06-16T15:23:29Z
 
 ## Possible Use Cases
 

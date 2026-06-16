@@ -20,13 +20,14 @@ tags:
 - rag
 - scripts
 - youtube
-status: active
+status: inactive
 resource_id: blog:import-ai-454-automating-alignment-research-safety
 first_seen: '2026-06-16T17:27:26.738095+05:30'
 last_seen: '2026-06-16T17:27:26.738095+05:30'
 last_checked: '2026-06-16T17:27:26.738095+05:30'
 health_score: 100
 ---
+
 
 # Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4
 

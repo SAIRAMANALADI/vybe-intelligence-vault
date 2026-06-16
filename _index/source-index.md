@@ -4,7 +4,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: )
 
-  - [[QUALITY] - ](../.github/ISSUE_TEMPLATE/quality-feedback.md)
+  - [[BROKEN LINK] - ](../.github/ISSUE_TEMPLATE/broken-link.md)
 
 ## Unknown Source (type: arxiv)
 
@@ -2748,16 +2748,17 @@ Resources organized by publisher feed and query sources.
   - [music-assistant/server](../ai/trending/music-assistant-server.md)
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
   - [puppeteer/puppeteer](../ai/trending/puppeteer-puppeteer.md)
+  - [rmyndharis/OpenWA](../ai/trending/rmyndharis-openwa.md)
   - [swc-project/swc](../ai/trending/swc-project-swc.md)
   - [teslamate-org/teslamate](../ai/trending/teslamate-org-teslamate.md)
 
 ## Unknown Source (type: hackernews)
 
-  - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
+  - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
   - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
-  - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
+  - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
+  - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](../ai/community/show-hn-hackers-for-granny-defense-against-industr.md)
   - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
-  - [Why I email complete strangers](../ai/community/why-i-email-complete-strangers.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -2792,6 +2793,7 @@ Resources organized by publisher feed and query sources.
   - [AI and the Future of Cybersecurity: Why Openness Matters](../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)
   - [AI for Food Allergies](../ai/models/huggingface-blog-hugging-science.md)
   - [AI for Food Allergies](../ai/models/ai-for-food-allergies.md)
+  - [AI for Game Development: Creating a Farming Game in 5 Days. Part 1](../ai/models/huggingface-blog-ml-for-games-1.md)
   - [AI for Game Development: Creating a Farming Game in 5 Days. Part 2](../ai/models/ai-for-game-development-creating-a-farming-game-in.md)
   - [AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU](../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)
   - [AMD Pervasive AI Developer Contest!](../ai/models/amd-pervasive-ai-developer-contest.md)
@@ -3155,8 +3157,8 @@ Resources organized by publisher feed and query sources.
   - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](../ai/models/introducing-modular-diffusers-composable-building.md)
   - [Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs](../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)
   - [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md)
-  - [Introducing North Mini Code: Cohere’s First Model For Developers](../ai/models/huggingface-blog-coherelabs.md)
   - [Introducing North Mini Code: Cohere’s First Model For Developers](../ai/models/introducing-north-mini-code-coheres-first-model-fo.md)
+  - [Introducing North Mini Code: Cohere’s First Model For Developers](../ai/models/huggingface-blog-coherelabs.md)
   - [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)
   - [Introducing Prodigy-HF: a direct integration with Hugging Face](../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)
   - [Introducing Pull Requests and Discussions 🥳](../ai/models/introducing-pull-requests-and-discussions.md)
@@ -3576,26 +3578,6 @@ Resources organized by publisher feed and query sources.
   - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md)
   - [Composable Caching with Next.js](../web-development/nextjs/composable-caching-with-next-js.md)
   - [How to Think About Security in Next.js](../web-development/nextjs/how-to-think-about-security-in-next-js.md)
-  - [Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage](../ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)
-  - [Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition](../ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)
-  - [Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench](../ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md)
-  - [Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark](../ai/agents/import-ai-445-timing-superintelligence-ais-solve-f.md)
-  - [Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy](../ai/rag/import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md)
-  - [Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies](../ai/rag/import-ai-447-the-agi-economy-testing-ais-with-gen.md)
-  - [Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI](../ai/agents/import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md)
-  - [Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks](../ai/rag/import-ai-450-china-s-electronic-warfare-model-tra.md)
-  - [Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer](../ai/rag/import-ai-451-political-superintelligence-google-s.md)
-  - [Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting](../ai/rag/import-ai-452-scaling-laws-for-cyberwar-rising-tid.md)
-  - [Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment](../ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md)
-  - [Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4](../ai/rag/import-ai-454-automating-alignment-research-safety.md)
-  - [Import AI 455: AI systems are about to start building themselves.](../ai/rag/import-ai-455-ai-systems-are-about-to-start-buildi.md)
-  - [Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer](../ai/rag/import-ai-456-rsi-and-economic-growth-radical-opti.md)
-  - [Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment](../ai/rag/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md)
-  - [Import AI 458: Reckoning with the future; and a singularity story](../ai/rag/import-ai-458-reckoning-with-the-future-and-a-sing.md)
-  - [Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems](../ai/rag/import-ai-459-ai-oversight-is-difficult-scaling-la.md)
-  - [Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing](../ai/rag/import-ai-460-reward-hacking-society-rsi-data-from.md)
-  - [Import AI 461: "Alignment is not on track"; FrontierCode; and synthetic research interns](../ai/rag/import-ai-461-alignment-is-not-on-track-frontierco.md)
-  - [ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text](../ai/rag/importai-449-llms-training-other-llms-72b-distribu.md)
   - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
   - [Inside Turbopack: Building Faster by Building Less](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
   - [Introducing Create Next App](../web-development/nextjs/introducing-create-next-app.md)
@@ -3803,4 +3785,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-16T21:16:48.394178+05:30*
+*Index generated on 2026-06-16T21:41:45.040836+05:30*

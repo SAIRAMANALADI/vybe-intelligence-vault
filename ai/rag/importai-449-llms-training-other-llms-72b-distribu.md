@@ -19,13 +19,14 @@ tags:
 - paper
 - rag
 - scripts
-status: active
+status: inactive
 resource_id: blog:importai-449-llms-training-other-llms-72b-distribu
 first_seen: '2026-06-16T17:27:26.738204+05:30'
 last_seen: '2026-06-16T17:27:26.738204+05:30'
 last_checked: '2026-06-16T17:27:26.738204+05:30'
 health_score: 100
 ---
+
 
 # ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text
 

@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/huggingface/transformers
 published_at: '2026-06-15T17:29:59Z'
-collected_at: '2026-06-16T19:32:42.176156+05:30'
+collected_at: '2026-06-16T21:39:08.528814+05:30'
 tags:
 - github-release
 - huggingface-transformers
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: github:huggingface/transformers
 first_seen: '2026-06-16T13:57:13.872438+05:30'
-last_seen: '2026-06-16T19:32:42.176156+05:30'
-last_checked: '2026-06-16T19:32:42.176156+05:30'
+last_seen: '2026-06-16T21:39:08.528814+05:30'
+last_checked: '2026-06-16T21:39:08.528814+05:30'
 health_score: 100
 ---
 
@@ -23,8 +23,8 @@ health_score: 100
 
 ## Summary
 
-# Patch release v5.12.1
-Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when `mistral-common` is installed). This is similar to v.5.10.3 minus the fixes that were already included in the main release - vLLM will first target 5.10.3 :hugs: 
+# Patch release v5.12.1
+Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when `mistral-common` is installed). This is similar to v.5.10.3 minus the fixes that were already included in the main release - vLLM will first target 5.10.3 :hugs: 
 ...
 
 ## Why It Matters

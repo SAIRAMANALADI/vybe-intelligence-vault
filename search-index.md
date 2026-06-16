@@ -1342,16 +1342,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.12200>
 
-* **[Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark](ai/agents/import-ai-445-timing-superintelligence-ais-solve-f.md)** (`dataset` | `useful` tier)
-  * Summary: Will 2026 be looked back on as the pivotal year for making decisions about the singularity?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `producthunt`
-  * Source URL: <https://importai.substack.com/p/import-ai-445-timing-superintelligence>
-
-* **[Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI](ai/agents/import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md)** (`dataset` | `useful` tier)
-  * Summary: If Ukraine is the first major drone war, when will there be the first major AI war?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `models`, `paper`, `scripts`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-448-ai-r-and-d-bytedances>
-
 * **[Improving Generalization and Data Efficiency with Diffusion in Offline Multi-agent RL](ai/agents/arxiv-2307-01472.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2307.01472v2 Announce Type: replace-cross Abstract: We present a novel Diffusion Offline Multi-agent Model (DOM2) for offline Multi-Agent Reinforcement Learning (MARL). Different from existing algorithms that rely mainly on conservatism in poli
   * Tags: `agents`
@@ -3236,6 +3226,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-trending`, `reddit`, `typescript`
   * Source URL: <https://github.com/puppeteer/puppeteer>
 
+* **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)** (`reference` | `reference` tier)
+  * Summary: Free, Open Source, Self-Hosted WhatsApp API Gateway
+  * Tags: `github-trending`, `typescript`
+  * Source URL: <https://github.com/rmyndharis/openwa>
+
 * **[swc-project/swc](ai/trending/swc-project-swc.md)** (`reference` | `reference` tier)
   * Summary: Rust-based platform for the Web
   * Tags: `github-trending`, `rust`
@@ -3378,11 +3373,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.13380>
 
-* **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cloudking. Score: 1138, Comments: 489. Original Link: None
-  * Tags: `ai`, `anthropic`, `hackernews`
-  * Source URL: <https://news.ycombinator.com/item?id=48542100>
-
 * **[AutoGen — AutoGen](ai/rag/autogen-autogen.md)** (`framework` | `useful` tier)
   * Summary: AutoGen# AutoGen A framework for building AI agents and applications Studio An web-based UI for prototyping with agents without writing code. Built on AgentChat. pip install -U autogenstudio autogenstudio ui --port 8080 --appdir ./myapp Start here if
   * Tags: `agents`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
@@ -3508,8 +3498,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `leaderboard`, `producthunt`, `rag`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metrics-benchmarks-2026>
 
+* **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by amarant. Score: 46, Comments: 11. Original Link: https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
+  * Tags: `ai`, `anthropic`, `hackernews`
+  * Source URL: <https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak>
+
 * **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (`prompt` | `useful` tier)
-  * Summary: Hacker News story by _tk_. Score: 252, Comments: 136. Original Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
+  * Summary: Hacker News story by _tk_. Score: 404, Comments: 224. Original Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
   * Tags: `ai`, `hackernews`, `reddit`
   * Source URL: <https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827>
 
@@ -3588,6 +3583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour>
 
+* **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by apitman. Score: 648, Comments: 322. Original Link: https://twitter.com/ID_AA_Carmack/status/2064095424420487226
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://twitter.com/id_aa_carmack/status/2064095424420487226>
+
 * **[IBM RAG and Agentic AI Professional Certificate | Coursera](ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)** (`benchmark` | `useful` tier)
   * Summary: IBM RAG and Agentic AI Professional CertificateAboutOutcomesCoursesTestimonialsBrowseComputer ScienceSoftware Development Get extra savings on Coursera Plus. Join for â¹6,999 (usually â¹13,999). Save now.IBM RAG and Agentic AI Professional Certific
   * Tags: `agents`, `benchmark`, `creative_dev`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -3612,31 +3612,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: icensraghomework-classroom01-rag3-hw03_workflow created by GitHub Classroom
   * Tags: `github-repo`, `python`, `rag`, `workflows`
   * Source URL: <https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow>
-
-* **[Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition](ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)** (`dataset` | `useful` tier)
-  * Summary: Plus, a story about agents corrupting other agents
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `models`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `workflows`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-443-into-the-mist-moltbook>
-
-* **[Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench](ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md)** (`dataset` | `useful` tier)
-  * Summary: How can you quantify creativity?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `producthunt`, `rag`, `scripts`, `workflows`
-  * Source URL: <https://importai.substack.com/p/import-ai-444-llm-societies-huawei>
-
-* **[Import AI 447: The AGI economy; testing AIs with generated games; and agent ecologies](ai/rag/import-ai-447-the-agi-economy-testing-ais-with-gen.md)** (`benchmark` | `useful` tier)
-  * Summary: What might a superintelligence arcology be like?
-  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `scripts`, `workflows`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-447-the-agi-economy-testing>
-
-* **[Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer](ai/rag/import-ai-456-rsi-and-economic-growth-radical-opti.md)** (`benchmark` | `useful` tier)
-  * Summary: What laws does superintelligence demand?
-  * Tags: `agents`, `anthropic`, `benchmark`, `deepmind`, `hackernews`, `models`, `paper`, `rag`, `scripts`, `workflows`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth>
-
-* **[Import AI 461: "Alignment is not on track"; FrontierCode; and synthetic research interns](ai/rag/import-ai-461-alignment-is-not-on-track-frontierco.md)** (`dataset` | `useful` tier)
-  * Summary: Where are your agents right now?
-  * Tags: `agents`, `anthropic`, `benchmark`, `creative_dev`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `producthunt`, `rag`, `scripts`, `workflows`
-  * Source URL: <https://importai.substack.com/p/import-ai-461-alignment-is-not-on>
 
 * **[Landmark-free Assessment of Lower-limb Alignment with Implicit Neural Shape Functions from Knee Radiographs](ai/research/arxiv-2606-15250.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15250v1 Announce Type: cross Abstract: Radiographic assessment of lower-limb alignment (LLA) is important for predicting joint health and surgical outcomes in total knee arthroplasty. Traditional measurement methods are manual and time-con
@@ -3743,11 +3718,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
-* **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rsgm. Score: 340, Comments: 54. Original Link: https://rsgm.dev/post/ai-dev-platform/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://rsgm.dev/post/ai-dev-platform>
-
 * **[OpenAI Agents SDK Tutorial: 13 Steps [2026]](ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)** (`framework` | `useful` tier)
   * Summary: OpenAI Agents SDK Tutorial: Build AI Agents in 13 Steps [2026]Elias VirtanenMay 14, 2026Software Elias Virtanen May 14, 2026 26 min read The OpenAI Agents SDK has become the default starting point for production-grade agentic systems in 2026. The off
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -3828,6 +3798,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx>
 
+* **[Show HN: Hackers for Granny (defense against industrialized elder fraud)](ai/community/show-hn-hackers-for-granny-defense-against-industr.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Prof_Sigmund. Score: 40, Comments: 7. Original Link: https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://professorsigmund.com/praxis/hackers_for_granny_manifesto.html>
+
 * **[SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](ai/rag/arxiv-2606-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14239v1 Announce Type: new Abstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constrain
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
@@ -3879,7 +3854,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openai.com/index/the-next-evolution-of-the-agents-sdk>
 
 * **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tinywind. Score: 917, Comments: 162. Original Link: https://tinywind.io
+  * Summary: Hacker News story by tinywind. Score: 949, Comments: 169. Original Link: https://tinywind.io
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tinywind.io>
 
@@ -3962,11 +3937,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.22025v2 Announce Type: replace-cross Abstract: Evaluating Large Language Model (LLM) applications differs from conventional software testing because outputs are probabilistic, semantically variable, and sensitive to prompt and model change
   * Tags: `agents`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2601.22025>
-
-* **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by karakoram. Score: 184, Comments: 83. Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://goodinternetmagazine.com/why-i-email-complete-strangers>
 
 ## Datasets
 
@@ -4525,6 +4495,10 @@ All resources are linked to their local vault paths and preserve original source
 * **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI for Food Allergies
   * Source URL: <https://huggingface.co/blog/hugging-science>
+
+* **[AI for Game Development: Creating a Farming Game in 5 Days. Part 1](ai/models/huggingface-blog-ml-for-games-1.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: AI for Game Development: Creating a Farming Game in 5 Days. Part 1
+  * Source URL: <https://huggingface.co/blog/ml-for-games-1>
 
 * **[AI for Game Development: Creating a Farming Game in 5 Days. Part 2](ai/models/ai-for-game-development-creating-a-farming-game-in.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: AI for Game Development: Creating a Farming Game in 5 Days. Part 2
@@ -5278,13 +5252,13 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Building an AI WebTV
   * Source URL: <https://huggingface.co/blog/ai-webtv>
 
-* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
-  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
-
 * **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/huggingface-blog-amazon.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
   * Source URL: <https://huggingface.co/blog/amazon>
+
+* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
+  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
 
 * **[Building Deep Research: How we Achieved State of the Art](ai/models/building-deep-research-how-we-achieved-state-of-th.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Deep Research: How we Achieved State of the Art
@@ -6192,13 +6166,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2506.06542>
 
-* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
-  * Source URL: <https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots>
-
 * **[Direct Preference Optimization Beyond Chatbots](ai/models/huggingface-blog-dharma-ai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
   * Source URL: <https://huggingface.co/blog/dharma-ai>
+
+* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
+  * Source URL: <https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots>
 
 * **[Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](ai/research/arxiv-2606-12881.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12881v2 Announce Type: replace-cross Abstract: We present an approach to fine-tuning large language models using Direct Preference Optimization (DPO), a reinforcement learning technique. Our experimental results demonstrate that DPO simpli
@@ -6992,13 +6966,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/fine-tune-segformer>
 
-* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
-  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
-
 * **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
   * Source URL: <https://huggingface.co/blog/togethercomputer>
+
+* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
+  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
 
 * **[Fine-tune Llama 2 with DPO](ai/models/fine-tune-llama-2-with-dpo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tune Llama 2 with DPO
@@ -7720,13 +7694,13 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How Hugging Face Scaled Secrets Management for AI Infrastructure
   * Source URL: <https://huggingface.co/blog/scaling-secrets-management>
 
-* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
-  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
-
 * **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** (`prompt` | `useful` tier)
   * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
   * Source URL: <https://huggingface.co/blog/tngtech>
+
+* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
+  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
 
 * **[How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit](ai/research/arxiv-2606-12182.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12182v1 Announce Type: new Abstract: Identifying the governing equations of complex dynamical systems remains a fundamental challenge across science and engineering. While early approaches relied on empirical data and heuristics, modern da
@@ -8065,41 +8039,6 @@ All resources are linked to their local vault paths and preserve original source
 * **[Implicit Reasoning for Large Language Model-based Generative Recommendation](ai/research/arxiv-2606-14142.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14142v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) are increasingly adopted as backbones for Generative Recommendation (GR), promising access to pretrained world knowledge. Yet reliably invoking this knowledge for
   * Source URL: <https://arxiv.org/abs/2606.14142>
-
-* **[Import AI 450: China's electronic warfare model; traumatized LLMs; and a scaling law for cyberattacks](ai/rag/import-ai-450-china-s-electronic-warfare-model-tra.md)** (`dataset` | `useful` tier)
-  * Summary: How will timeless minds value time?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`
-  * Source URL: <https://importai.substack.com/p/import-ai-450-chinas-electronic-warfare>
-
-* **[Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer](ai/rag/import-ai-451-political-superintelligence-google-s.md)** (`dataset` | `useful` tier)
-  * Summary: Are there any genies that can be put back in the bottle?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `rag`, `scripts`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-451-political-superintelligence>
-
-* **[Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting](ai/rag/import-ai-452-scaling-laws-for-cyberwar-rising-tid.md)** (`dataset` | `useful` tier)
-  * Summary: How much could AI revolutionize the economy?
-  * Tags: `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `paper`, `rag`, `scripts`
-  * Source URL: <https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar>
-
-* **[Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4](ai/rag/import-ai-454-automating-alignment-research-safety.md)** (`dataset` | `useful` tier)
-  * Summary: At what point do the financial markets price in the singularity?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `paper`, `producthunt`, `rag`, `scripts`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-454-automating-alignment>
-
-* **[Import AI 458: Reckoning with the future; and a singularity story](ai/rag/import-ai-458-reckoning-with-the-future-and-a-sing.md)** (`dataset` | `useful` tier)
-  * Summary: What AI-driven miracles will happen this year?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `paper`, `rag`, `scripts`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-458-reckoning-with-the>
-
-* **[Import AI 460: Reward hacking society, RSI data from Anthropic; and RL-based quadcopter racing](ai/rag/import-ai-460-reward-hacking-society-rsi-data-from.md)** (`dataset` | `useful` tier)
-  * Summary: When will markets price the singularity?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `youtube`
-  * Source URL: <https://importai.substack.com/p/import-ai-460-reward-hacking-society>
-
-* **[ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text](ai/rag/importai-449-llms-training-other-llms-72b-distribu.md)** (`dataset` | `useful` tier)
-  * Summary: Will AI cause a political interregnum
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `scripts`
-  * Source URL: <https://importai.substack.com/p/importai-449-llms-training-other>
 
 * **[Improved Baselines with Representation Autoencoders](ai/research/arxiv-2605-18324.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2605.18324v2 Announce Type: replace-cross Abstract: Representation Autoencoders (RAE) replace traditional VAE with pretrained vision encoders. In this paper, we systematically investigate several design choices and find three insights which sim
@@ -14533,11 +14472,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `paper`
   * Source URL: <https://arxiv.org/abs/2606.13741>
 
-* **[Import AI 459: AI oversight is difficult; scaling laws for protein folding models; and pricing the extinction risk of AI systems](ai/rag/import-ai-459-ai-oversight-is-difficult-scaling-la.md)** (`dataset` | `useful` tier)
-  * Summary: Do you feel as though you are living in a revolution?
-  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `deepmind`, `hackernews`, `paper`, `rag`
-  * Source URL: <https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult>
-
 * **[Introducing our new pricing](ai/models/introducing-our-new-pricing.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Introducing our new pricing
   * Source URL: <https://huggingface.co/blog/pricing-update>
@@ -15034,7 +14968,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15549>
 
 * **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (`tutorial` | `useful` tier)
-  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.28k • 16
+  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.3k • 16
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://huggingface.co/blog/ngxson/make-your-own-rag>
 
@@ -15852,31 +15786,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.14235v1 Announce Type: new Abstract: Variational Inference (VI) is a fundamental inference technique in Bayesian machine learning for approximating complex posterior distributions. Traditional VI often relies on the mean-field factorizatio
   * Tags: `hackernews`, `paper`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.14235>
-
-* **[Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage](ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)** (`tutorial` | `useful` tier)
-  * Summary: Is superintelligence a phase change or a gradual shift?
-  * Tags: `agents`, `anthropic`, `hackernews`, `models`, `openai`, `paper`, `rag`, `scripts`
-  * Source URL: <https://importai.substack.com/p/import-ai-442-winners-and-losers>
-
-* **[Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy](ai/rag/import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md)** (`benchmark` | `useful` tier)
-  * Summary: Will AIs be jealous of one another?
-  * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `paper`, `producthunt`, `rag`
-  * Source URL: <https://importai.substack.com/p/import-ai-446-nuclear-llms-chinas>
-
-* **[Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment](ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md)** (`benchmark` | `useful` tier)
-  * Summary: Was fire equivalent to a singularity for people at the time?
-  * Tags: `agents`, `anthropic`, `benchmark`, `deepmind`, `hackernews`, `paper`, `rag`, `scripts`
-  * Source URL: <https://importai.substack.com/p/import-ai-453-breaking-ai-agents>
-
-* **[Import AI 455: AI systems are about to start building themselves.](ai/rag/import-ai-455-ai-systems-are-about-to-start-buildi.md)** (`benchmark` | `useful` tier)
-  * Summary: The first step towards recursive self improvement
-  * Tags: `agents`, `anthropic`, `benchmark`, `deepmind`, `hackernews`, `models`, `openai`, `paper`, `producthunt`, `rag`, `scripts`
-  * Source URL: <https://importai.substack.com/p/import-ai-455-automating-ai-research>
-
-* **[Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment](ai/rag/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md)** (`benchmark` | `useful` tier)
-  * Summary: Welcome to Import AI, a newsletter about AI research.
-  * Tags: `agents`, `anthropic`, `benchmark`, `deepmind`, `hackernews`, `openai`, `paper`, `rag`
-  * Source URL: <https://importai.substack.com/p/import-ai-457-ai-stuxnet-cursed-muon>
 
 * **[Infant Spontaneous Movement Noise Improves Exploration in Deep RL](ai/rag/arxiv-2606-16590.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16590v1 Announce Type: cross Abstract: Exploration in deep reinforcement learning (RL) is commonly implemented as temporally uncorrelated white noise. However, recent works show that temporally correlated colored noise can improve explorat

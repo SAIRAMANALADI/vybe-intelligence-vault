@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ask-hn-has-anyone-replaced-claude-gpt-with-a-local
 first_seen: '2026-06-16T04:26:22.695137+00:00'
 last_seen: '2026-06-16T19:32:51.445854+05:30'
 last_checked: '2026-06-16T19:32:51.445854+05:30'
 health_score: 100
 ---
+
 
 # Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?
 

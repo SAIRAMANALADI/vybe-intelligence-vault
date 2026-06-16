@@ -44,31 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3818 |
-| Active resources | 3770 |
-| Inactive resources | 48 |
-| Archive files | 18567 |
+| Resources tracked | 3823 |
+| Active resources | 3752 |
+| Inactive resources | 71 |
+| Archive files | 18575 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 21:17 IST |
+| Last meaningful update | 2026-06-16 21:42 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- No trending items found.
+- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +1) (+152 points)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (Rank: +1) (+32 points)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +1370)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +89)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +89)
 
 #### ✨ New Discoveries
+- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 648)
+- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)** (Score: 46)
+- **[Show HN: Hackers for Granny (defense against industrialized elder fraud)](ai/community/show-hn-hackers-for-granny-defense-against-industr.md)** (Score: 40)
 - **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Score: 0)
-- **[How to train a new language model from scratch using Transformers and Tokenizers](ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)** (Score: 0)
-- **[How to generate text: using different decoding methods for language generation with Transformers](ai/models/how-to-generate-text-using-different-decoding-meth.md)** (Score: 0)
-- **[Block Sparse Matrices for Smaller and Faster Language Models](ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)** (Score: 0)
-- **[How we sped up transformer inference 100x for 🤗 API customers](ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)** (Score: 0)
+- **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- None.
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)**
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)**
+- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)**
+- **[Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage](ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)**
+- **[Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition](ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

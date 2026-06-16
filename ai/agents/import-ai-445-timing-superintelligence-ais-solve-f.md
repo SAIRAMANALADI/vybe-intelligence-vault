@@ -17,13 +17,14 @@ tags:
 - openai
 - paper
 - producthunt
-status: active
+status: inactive
 resource_id: blog:import-ai-445-timing-superintelligence-ais-solve-f
 first_seen: '2026-06-16T17:27:26.738288+05:30'
 last_seen: '2026-06-16T17:27:26.738288+05:30'
 last_checked: '2026-06-16T17:27:26.738288+05:30'
 health_score: 100
 ---
+
 
 # Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark
 
