@@ -35,8 +35,11 @@ selection_reason:
 ## Summary
 
 ## What's Changed
+
 * Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950
+
 * Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
+
 * Support linear memory in RedisMemory by @just...
 
 ## Use Cases

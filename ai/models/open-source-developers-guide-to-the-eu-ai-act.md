@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/eu-ai-act-for-oss-developers
-published_at: '2024-12-01T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.274668+00:00'
+published_at: '2024-12-02T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.376460+05:30'
 tags: []
 status: active
 resource_id: blog:open-source-developers-guide-to-the-eu-ai-act
 first_seen: '2026-06-12T10:40:08.813427+00:00'
-last_seen: '2026-06-15T06:03:50.274668+00:00'
-last_checked: '2026-06-15T06:03:50.274668+00:00'
+last_seen: '2026-06-16T17:27:22.376460+05:30'
+last_checked: '2026-06-16T17:27:22.376460+05:30'
 health_score: 100
 ---
-
 
 # Open Source Developers Guide to the EU AI Act
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-12-01T18:30:00+00:00
+- Published: 2024-12-02T00:00:00+05:30
 
 ## Related Tags
 

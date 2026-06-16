@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://news.ycombinator.com/item?id=48542100
 hn_url: https://news.ycombinator.com/item?id=48542100
-score: 934
+score: 1071
 author: cloudking
-comments_count: 423
+comments_count: 461
 published_at: '2026-06-15T20:16:53+05:30'
-collected_at: '2026-06-16T13:57:12.403841+05:30'
+collected_at: '2026-06-16T17:27:35.832444+05:30'
 tags:
 - ai
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:ask-hn-has-anyone-replaced-claude-gpt-with-a-local
 first_seen: '2026-06-16T04:26:22.695137+00:00'
-last_seen: '2026-06-16T13:57:12.403841+05:30'
-last_checked: '2026-06-16T13:57:12.403841+05:30'
+last_seen: '2026-06-16T17:27:35.832444+05:30'
+last_checked: '2026-06-16T17:27:35.832444+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by cloudking. Score: 934, Comments: 423.
+Hacker News story by cloudking. Score: 1071, Comments: 461.
 Original Link: None
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: cloudking
-- Score: 934 Upvotes
-- Comments: 423 Discussions
+- Score: 1071 Upvotes
+- Comments: 461 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48542100
 - Original Article: https://news.ycombinator.com/item?id=48542100
 

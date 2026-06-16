@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/saasykits/nextjs-sessionauth-template
-collected_at: '2026-06-15T06:04:21.398296+00:00'
+collected_at: '2026-06-16T17:27:23.991213+05:30'
 published_at: '2026-04-20T12:02:53Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:saasykits/nextjs-sessionauth-template
 first_seen: '2026-06-12T10:40:20.338168+00:00'
-last_seen: '2026-06-15T06:04:21.398296+00:00'
-last_checked: '2026-06-15T06:04:21.398296+00:00'
+last_seen: '2026-06-16T17:27:23.991213+05:30'
+last_checked: '2026-06-16T17:27:23.991213+05:30'
 health_score: 100
 ---
 

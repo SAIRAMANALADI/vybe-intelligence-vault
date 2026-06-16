@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/benjaminmiles/react-three-vite
-collected_at: '2026-06-15T06:04:12.610359+00:00'
+collected_at: '2026-06-16T17:27:23.737338+05:30'
 published_at: '2026-06-05T06:09:09Z'
 tags:
 - frontend_ui
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:benjaminmiles/react-three-vite
 first_seen: '2026-06-12T10:40:15.865548+00:00'
-last_seen: '2026-06-15T06:04:12.610359+00:00'
-last_checked: '2026-06-15T06:04:12.610359+00:00'
+last_seen: '2026-06-16T17:27:23.737338+05:30'
+last_checked: '2026-06-16T17:27:23.737338+05:30'
 health_score: 100
 ---
 

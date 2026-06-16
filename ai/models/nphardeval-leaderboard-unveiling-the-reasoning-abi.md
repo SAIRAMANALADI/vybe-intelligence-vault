@@ -5,18 +5,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/leaderboard-nphardeval
-published_at: '2024-02-01T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.277554+00:00'
+published_at: '2024-02-02T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.378019+05:30'
 tags:
 - leaderboard
 status: active
 resource_id: blog:nphardeval-leaderboard-unveiling-the-reasoning-abi
 first_seen: '2026-06-12T10:40:08.816892+00:00'
-last_seen: '2026-06-15T06:03:50.277554+00:00'
-last_checked: '2026-06-15T06:03:50.277554+00:00'
+last_seen: '2026-06-16T17:27:22.378019+05:30'
+last_checked: '2026-06-16T17:27:22.378019+05:30'
 health_score: 100
 ---
-
 
 # NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
 
@@ -32,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-02-01T18:30:00+00:00
+- Published: 2024-02-02T00:00:00+05:30
 
 ## Related Tags
 

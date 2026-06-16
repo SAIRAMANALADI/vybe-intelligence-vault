@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/servicenow/pipelinerl
-published_at: '2025-04-25T17:07:16+00:00'
-collected_at: '2026-06-15T06:03:50.271121+00:00'
+published_at: '2025-04-25T22:37:16+05:30'
+collected_at: '2026-06-16T17:27:22.375560+05:30'
 tags: []
 status: active
 resource_id: blog:pipelinerl
 first_seen: '2026-06-12T10:40:08.811550+00:00'
-last_seen: '2026-06-15T06:03:50.271121+00:00'
-last_checked: '2026-06-15T06:03:50.271121+00:00'
+last_seen: '2026-06-16T17:27:22.375560+05:30'
+last_checked: '2026-06-16T17:27:22.375560+05:30'
 health_score: 100
 ---
-
 
 # PipelineRL
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-04-25T17:07:16+00:00
+- Published: 2025-04-25T22:37:16+05:30
 
 ## Related Tags
 

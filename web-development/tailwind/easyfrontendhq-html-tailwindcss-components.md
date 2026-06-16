@@ -4,7 +4,7 @@ category: web-development/tailwind
 source_type: github
 source_name: GitHub Tailwind UI Resources
 source_url: https://github.com/easyfrontendhq/html-tailwindcss-components
-collected_at: '2026-06-15T06:04:23.040771+00:00'
+collected_at: '2026-06-16T17:27:24.055322+05:30'
 published_at: '2026-06-10T16:54:50Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: HTML
 status: active
 resource_id: github:easyfrontendhq/html-tailwindcss-components
 first_seen: '2026-06-11T08:45:45.631080+00:00'
-last_seen: '2026-06-15T06:04:23.040771+00:00'
-last_checked: '2026-06-15T06:04:23.040771+00:00'
+last_seen: '2026-06-16T17:27:24.055322+05:30'
+last_checked: '2026-06-16T17:27:24.055322+05:30'
 health_score: 100
 ---
 

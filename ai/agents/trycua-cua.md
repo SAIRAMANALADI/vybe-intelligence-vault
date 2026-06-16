@@ -11,13 +11,14 @@ tags:
 - benchmark
 - github-trending
 - html
-status: active
+status: inactive
 resource_id: github:trycua/cua
 first_seen: '2026-06-16T13:57:13.168583+05:30'
 last_seen: '2026-06-16T13:57:13.168583+05:30'
 last_checked: '2026-06-16T13:57:13.168583+05:30'
 health_score: 100
 ---
+
 
 # trycua/cua
 

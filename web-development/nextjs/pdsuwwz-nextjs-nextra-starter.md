@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/pdsuwwz/nextjs-nextra-starter
-collected_at: '2026-06-15T06:04:21.398409+00:00'
+collected_at: '2026-06-16T17:27:23.991322+05:30'
 published_at: '2026-06-04T17:09:32Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:pdsuwwz/nextjs-nextra-starter
 first_seen: '2026-06-12T10:40:20.338284+00:00'
-last_seen: '2026-06-15T06:04:21.398409+00:00'
-last_checked: '2026-06-15T06:04:21.398409+00:00'
+last_seen: '2026-06-16T17:27:23.991322+05:30'
+last_checked: '2026-06-16T17:27:23.991322+05:30'
 health_score: 100
 ---
 

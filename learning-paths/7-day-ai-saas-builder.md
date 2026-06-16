@@ -17,4 +17,4 @@ A hosted AI SaaS boilerplate with user authentication, databases, and active pay
 
 ## Recommended Vault Resources
 *   Explore categories inside [workspace-archive/](../workspace-archive/README.md)
-*   Check curated lists under best-of/
+*   Check curated lists under [best-of/](../workspace-archive/best-of/README.md)

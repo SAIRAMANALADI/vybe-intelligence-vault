@@ -9,13 +9,14 @@ collected_at: '2026-06-16T13:57:13.168912+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:rohitg00/ai-engineering-from-scratch
 first_seen: '2026-06-16T13:57:13.168912+05:30'
 last_seen: '2026-06-16T13:57:13.168912+05:30'
 last_checked: '2026-06-16T13:57:13.168912+05:30'
 health_score: 100
 ---
+
 
 # rohitg00/ai-engineering-from-scratch
 

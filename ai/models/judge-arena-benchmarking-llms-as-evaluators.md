@@ -4,18 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/arena-atla
-published_at: '2024-11-18T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.274750+00:00'
+published_at: '2024-11-19T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.376541+05:30'
 tags:
 - benchmark
 status: active
 resource_id: blog:judge-arena-benchmarking-llms-as-evaluators
 first_seen: '2026-06-12T10:40:08.813595+00:00'
-last_seen: '2026-06-15T06:03:50.274750+00:00'
-last_checked: '2026-06-15T06:03:50.274750+00:00'
+last_seen: '2026-06-16T17:27:22.376541+05:30'
+last_checked: '2026-06-16T17:27:22.376541+05:30'
 health_score: 100
 ---
-
 
 # Judge Arena: Benchmarking LLMs as Evaluators
 
@@ -31,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-11-18T18:30:00+00:00
+- Published: 2024-11-19T00:00:00+05:30
 
 ## Related Tags
 

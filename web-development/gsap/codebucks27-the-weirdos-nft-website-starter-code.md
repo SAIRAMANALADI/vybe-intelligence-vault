@@ -4,7 +4,7 @@ category: web-development/gsap
 source_type: github
 source_name: GitHub GSAP Resources
 source_url: https://github.com/codebucks27/the-weirdos-nft-website-starter-code
-collected_at: '2026-06-15T06:04:19.338871+00:00'
+collected_at: '2026-06-16T17:27:23.060938+05:30'
 published_at: '2026-06-14T05:19:38Z'
 tags:
 - animation
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:codebucks27/the-weirdos-nft-website-starter-code
 first_seen: '2026-06-11T08:45:42.451799+00:00'
-last_seen: '2026-06-15T06:04:19.338871+00:00'
-last_checked: '2026-06-15T06:04:19.338871+00:00'
+last_seen: '2026-06-16T17:27:23.060938+05:30'
+last_checked: '2026-06-16T17:27:23.060938+05:30'
 health_score: 100
 ---
 

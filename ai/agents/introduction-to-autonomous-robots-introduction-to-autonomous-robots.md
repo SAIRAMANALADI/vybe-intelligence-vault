@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - tex
-status: active
+status: inactive
 resource_id: github:introduction-to-autonomous-robots/introduction-to-autonomous-robots
 first_seen: '2026-06-16T13:57:13.169399+05:30'
 last_seen: '2026-06-16T13:57:13.169399+05:30'
 last_checked: '2026-06-16T13:57:13.169399+05:30'
 health_score: 100
 ---
+
 
 # Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots
 

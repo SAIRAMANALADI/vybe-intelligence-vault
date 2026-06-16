@@ -10,13 +10,14 @@ tags:
 - github-trending
 - powershell
 - scripts
-status: active
+status: inactive
 resource_id: github:raphire/win11debloat
 first_seen: '2026-06-16T13:57:13.169571+05:30'
 last_seen: '2026-06-16T13:57:13.169571+05:30'
 last_checked: '2026-06-16T13:57:13.169571+05:30'
 health_score: 100
 ---
+
 
 # Raphire/Win11Debloat
 

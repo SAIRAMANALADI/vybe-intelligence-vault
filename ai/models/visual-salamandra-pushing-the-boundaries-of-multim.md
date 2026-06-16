@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/bsc-lt/visualsalamandra7b
-published_at: '2025-04-11T08:51:56+00:00'
-collected_at: '2026-06-15T06:03:50.273817+00:00'
+published_at: '2025-04-11T14:21:56+05:30'
+collected_at: '2026-06-16T17:27:22.375654+05:30'
 tags: []
 status: active
 resource_id: blog:visual-salamandra-pushing-the-boundaries-of-multim
 first_seen: '2026-06-12T10:40:08.811761+00:00'
-last_seen: '2026-06-15T06:03:50.273817+00:00'
-last_checked: '2026-06-15T06:03:50.273817+00:00'
+last_seen: '2026-06-16T17:27:22.375654+05:30'
+last_checked: '2026-06-16T17:27:22.375654+05:30'
 health_score: 100
 ---
-
 
 # Visual Salamandra: Pushing the Boundaries of Multimodal Understanding
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-04-11T08:51:56+00:00
+- Published: 2025-04-11T14:21:56+05:30
 
 ## Related Tags
 

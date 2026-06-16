@@ -10,13 +10,14 @@ tags:
 - github-trending
 - python
 - youtube
-status: active
+status: inactive
 resource_id: github:free-tv/iptv
 first_seen: '2026-06-16T13:57:13.169253+05:30'
 last_seen: '2026-06-16T13:57:13.169253+05:30'
 last_checked: '2026-06-16T13:57:13.169253+05:30'
 health_score: 100
 ---
+
 
 # Free-TV/IPTV
 

@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/chartgpu/chartgpu
-collected_at: '2026-06-15T12:42:30.012281+00:00'
-published_at: '2026-06-15T12:26:45Z'
+collected_at: '2026-06-16T17:27:23.807176+05:30'
+published_at: '2026-06-16T09:32:44Z'
 tags:
 - threejs
-stars: 3135
+stars: 3136
 language: TypeScript
 status: active
 resource_id: github:chartgpu/chartgpu
 first_seen: '2026-06-15T12:42:30.012281+00:00'
-last_seen: '2026-06-15T12:42:30.012281+00:00'
-last_checked: '2026-06-15T12:42:30.012281+00:00'
+last_seen: '2026-06-16T17:27:23.807176+05:30'
+last_checked: '2026-06-16T17:27:23.807176+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: ChartGPU
-- Stars: 3135
+- Stars: 3136
 - Forks: 95
 - Language: TypeScript
 - Topics: awesome-list, candlestick-chart, chart-library, charting-library, charts, data-analysis, data-visualization, financial-charts, gpu, high-performance, open-source, scatter-plot, shaders, typescript, webgpu, wgsl
-- Last Updated: 2026-06-15T12:26:45Z
+- Last Updated: 2026-06-16T09:32:44Z
 
 ## Possible Use Cases
 

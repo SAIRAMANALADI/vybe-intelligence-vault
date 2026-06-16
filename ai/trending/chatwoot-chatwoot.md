@@ -10,13 +10,14 @@ tags:
 - github-trending
 - ruby
 - youtube
-status: active
+status: inactive
 resource_id: github:chatwoot/chatwoot
 first_seen: '2026-06-16T13:57:13.168055+05:30'
 last_seen: '2026-06-16T13:57:13.168055+05:30'
 last_checked: '2026-06-16T13:57:13.168055+05:30'
 health_score: 100
 ---
+
 
 # chatwoot/chatwoot
 

@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/mario343214420/webgl-data-demo
-collected_at: '2026-06-15T06:04:10.449098+00:00'
+collected_at: '2026-06-16T17:27:23.869451+05:30'
 published_at: '2026-06-06T14:33:53Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: Vue
 status: active
 resource_id: github:mario343214420/webgl-data-demo
 first_seen: '2026-06-11T08:45:35.488538+00:00'
-last_seen: '2026-06-15T06:04:10.449098+00:00'
-last_checked: '2026-06-15T06:04:10.449098+00:00'
+last_seen: '2026-06-16T17:27:23.869451+05:30'
+last_checked: '2026-06-16T17:27:23.869451+05:30'
 health_score: 100
 ---
 

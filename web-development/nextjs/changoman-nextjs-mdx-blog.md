@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/changoman/nextjs-mdx-blog
-collected_at: '2026-06-15T06:04:21.398306+00:00'
+collected_at: '2026-06-16T17:27:23.991223+05:30'
 published_at: '2026-05-15T21:15:08Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:changoman/nextjs-mdx-blog
 first_seen: '2026-06-11T08:45:43.851251+00:00'
-last_seen: '2026-06-15T06:04:21.398306+00:00'
-last_checked: '2026-06-15T06:04:21.398306+00:00'
+last_seen: '2026-06-16T17:27:23.991223+05:30'
+last_checked: '2026-06-16T17:27:23.991223+05:30'
 health_score: 100
 ---
 

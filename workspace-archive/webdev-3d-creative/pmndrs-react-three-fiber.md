@@ -1,7 +1,7 @@
 ---
 title: pmndrs/react-three-fiber
 archive_category: webdev-3d-creative
-source_category: web-development/threejs
+source_category: web-development/react-three-fiber
 source_url: https://github.com/pmndrs/react-three-fiber
 resource_id: github:pmndrs/react-three-fiber
 local_vault_path: web-development/threejs/pmndrs-react-three-fiber.md

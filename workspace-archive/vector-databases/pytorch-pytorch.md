@@ -39,13 +39,22 @@ selection_reason:
 
 # PyTorch 2.12.0 Release Notes
 
+
+
 - [Highlights](#highlights)
+
 - [Backwards Incompatible Changes](#backwards-incompatible-changes)
+
 - [Deprecations](#deprecations)
+
 - [New Features](#new-features)
+
 - [Improvements](#improvements)
+
 - [Bug fixes](#bug-fixes)
+
 - [Performance](#performance)
+
 - [Document...
 
 ## Use Cases

@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/azure-ai-foundry
-published_at: '2025-05-18T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.270983+00:00'
+published_at: '2025-05-19T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.375449+05:30'
 tags: []
 status: active
 resource_id: blog:microsoft-and-hugging-face-expand-collaboration
 first_seen: '2026-06-12T10:40:08.811317+00:00'
-last_seen: '2026-06-15T06:03:50.270983+00:00'
-last_checked: '2026-06-15T06:03:50.270983+00:00'
+last_seen: '2026-06-16T17:27:22.375449+05:30'
+last_checked: '2026-06-16T17:27:22.375449+05:30'
 health_score: 100
 ---
-
 
 # Microsoft and Hugging Face expand collaboration
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-05-18T18:30:00+00:00
+- Published: 2025-05-19T00:00:00+05:30
 
 ## Related Tags
 

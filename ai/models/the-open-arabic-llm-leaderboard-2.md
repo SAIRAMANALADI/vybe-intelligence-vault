@@ -4,18 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/leaderboard-arabic-v2
-published_at: '2025-02-09T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.274256+00:00'
+published_at: '2025-02-10T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.376053+05:30'
 tags:
 - leaderboard
 status: active
 resource_id: blog:the-open-arabic-llm-leaderboard-2
 first_seen: '2026-06-12T10:40:08.812601+00:00'
-last_seen: '2026-06-15T06:03:50.274256+00:00'
-last_checked: '2026-06-15T06:03:50.274256+00:00'
+last_seen: '2026-06-16T17:27:22.376053+05:30'
+last_checked: '2026-06-16T17:27:22.376053+05:30'
 health_score: 100
 ---
-
 
 # The Open Arabic LLM Leaderboard 2
 
@@ -31,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-02-09T18:30:00+00:00
+- Published: 2025-02-10T00:00:00+05:30
 
 ## Related Tags
 

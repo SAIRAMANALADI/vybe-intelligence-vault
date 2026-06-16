@@ -4,7 +4,7 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/mikbry/awesome-webgpu
-collected_at: '2026-06-15T06:04:14.952797+00:00'
+collected_at: '2026-06-16T17:27:23.807285+05:30'
 published_at: '2026-06-14T08:05:29Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: Unknown
 status: active
 resource_id: github:mikbry/awesome-webgpu
 first_seen: '2026-06-12T10:40:17.491217+00:00'
-last_seen: '2026-06-15T06:04:14.952797+00:00'
-last_checked: '2026-06-15T06:04:14.952797+00:00'
+last_seen: '2026-06-16T17:27:23.807285+05:30'
+last_checked: '2026-06-16T17:27:23.807285+05:30'
 health_score: 100
 ---
 

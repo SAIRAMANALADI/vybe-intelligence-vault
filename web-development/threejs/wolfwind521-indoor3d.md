@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/wolfwind521/indoor3d
-collected_at: '2026-06-15T06:04:10.449066+00:00'
+collected_at: '2026-06-16T17:27:23.869412+05:30'
 published_at: '2026-06-12T07:42:00Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: JavaScript
 status: active
 resource_id: github:wolfwind521/indoor3d
 first_seen: '2026-06-12T10:40:14.585903+00:00'
-last_seen: '2026-06-15T06:04:10.449066+00:00'
-last_checked: '2026-06-15T06:04:10.449066+00:00'
+last_seen: '2026-06-16T17:27:23.869412+05:30'
+last_checked: '2026-06-16T17:27:23.869412+05:30'
 health_score: 100
 ---
 

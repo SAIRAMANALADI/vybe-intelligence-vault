@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects
-collected_at: '2026-06-15T06:04:17.304093+00:00'
+collected_at: '2026-06-16T17:27:23.871841+05:30'
 published_at: '2026-05-11T13:04:37Z'
 tags:
 - animation
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects
 first_seen: '2026-06-12T10:40:18.782868+00:00'
-last_seen: '2026-06-15T06:04:17.304093+00:00'
-last_checked: '2026-06-15T06:04:17.304093+00:00'
+last_seen: '2026-06-16T17:27:23.871841+05:30'
+last_checked: '2026-06-16T17:27:23.871841+05:30'
 health_score: 100
 ---
 

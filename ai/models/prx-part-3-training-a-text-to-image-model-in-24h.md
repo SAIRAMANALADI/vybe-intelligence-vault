@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/photoroom/prx-part3
-published_at: '2026-03-03T11:20:49+00:00'
-collected_at: '2026-06-15T06:03:50.269316+00:00'
+published_at: '2026-03-03T16:50:49+05:30'
+collected_at: '2026-06-16T17:27:22.372999+05:30'
 tags: []
 status: active
 resource_id: blog:prx-part-3-training-a-text-to-image-model-in-24h
 first_seen: '2026-06-12T10:40:08.807862+00:00'
-last_seen: '2026-06-15T06:03:50.269316+00:00'
-last_checked: '2026-06-15T06:03:50.269316+00:00'
+last_seen: '2026-06-16T17:27:22.372999+05:30'
+last_checked: '2026-06-16T17:27:22.372999+05:30'
 health_score: 100
 ---
-
 
 # PRX Part 3 — Training a Text-to-Image Model in 24h!
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-03-03T11:20:49+00:00
+- Published: 2026-03-03T16:50:49+05:30
 
 ## Related Tags
 

@@ -29,8 +29,8 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-01-15 | [sjseo298/spring-ai-template](https://github.com/sjseo298/spring-ai-template) | `agent-frameworks/` |
 | 2026-01-12 | [FailproofAI/ai-reliability-standards](https://github.com/FailproofAI/ai-reliability-standards) | `ai-coding-agents/` |
 | 2026-01-02 | [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](https://github.com/HamzaAhmedSheikh/fastapi-openai-agents-sdk-template) | `ai-coding-agents/` |
+| 2025-12-17 | [okahu-demos/crewai-travel-agent](https://github.com/okahu-demos/crewai-travel-agent) | `ai-coding-agents/` |
 | 2025-11-24 | [codewithaarohi/OpenAI-Agents-SDK](https://github.com/codewithaarohi/OpenAI-Agents-SDK) | `ai-coding-agents/` |
 | 2025-11-24 | [codewithaarohi/OpenAI-Agents-SDK-](https://github.com/codewithaarohi/OpenAI-Agents-SDK-) | `ai-coding-agents/` |
+| 2025-11-03 | [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | `agent-frameworks/` |
 | 2025-10-27 | [pguso/rag-from-scratch](https://github.com/pguso/rag-from-scratch) | `rag-systems/` |
-| 2025-10-19 | [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](https://github.com/ChinskiKaczynski/Awesome-OpenAI-Agent-Templates) | `ai-coding-agents/` |
-| 2025-10-10 | [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) | `model-providers/` |

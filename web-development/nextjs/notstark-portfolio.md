@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/notstark/portfolio
-collected_at: '2026-06-15T06:04:21.398382+00:00'
+collected_at: '2026-06-16T17:27:23.991291+05:30'
 published_at: '2026-06-07T16:07:29Z'
 tags:
 - creative_dev
@@ -14,8 +14,8 @@ language: TypeScript
 status: active
 resource_id: github:notstark/portfolio
 first_seen: '2026-06-11T08:45:43.851307+00:00'
-last_seen: '2026-06-15T06:04:21.398382+00:00'
-last_checked: '2026-06-15T06:04:21.398382+00:00'
+last_seen: '2026-06-16T17:27:23.991291+05:30'
+last_checked: '2026-06-16T17:27:23.991291+05:30'
 health_score: 100
 ---
 

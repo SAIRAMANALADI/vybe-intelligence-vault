@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/tiagocavalcante/r3f-native-orbitcontrols
-collected_at: '2026-06-15T06:04:12.610435+00:00'
+collected_at: '2026-06-16T17:27:23.737480+05:30'
 published_at: '2026-06-07T17:45:01Z'
 tags:
 - frontend_ui
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:tiagocavalcante/r3f-native-orbitcontrols
 first_seen: '2026-06-11T08:45:37.431989+00:00'
-last_seen: '2026-06-15T06:04:12.610435+00:00'
-last_checked: '2026-06-15T06:04:12.610435+00:00'
+last_seen: '2026-06-16T17:27:23.737480+05:30'
+last_checked: '2026-06-16T17:27:23.737480+05:30'
 health_score: 100
 ---
 

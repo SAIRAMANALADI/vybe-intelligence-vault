@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/juniorxsound/r3f.multiplayer
-collected_at: '2026-06-15T06:04:12.610368+00:00'
+collected_at: '2026-06-16T17:27:23.737355+05:30'
 published_at: '2026-03-06T07:36:04Z'
 tags:
 - frontend_ui
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:juniorxsound/r3f.multiplayer
 first_seen: '2026-06-11T08:45:37.431927+00:00'
-last_seen: '2026-06-15T06:04:12.610368+00:00'
-last_checked: '2026-06-15T06:04:12.610368+00:00'
+last_seen: '2026-06-16T17:27:23.737355+05:30'
+last_checked: '2026-06-16T17:27:23.737355+05:30'
 health_score: 100
 ---
 

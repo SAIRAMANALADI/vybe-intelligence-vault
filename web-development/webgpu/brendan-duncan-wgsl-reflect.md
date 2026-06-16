@@ -4,7 +4,7 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/brendan-duncan/wgsl_reflect
-collected_at: '2026-06-15T06:04:14.952610+00:00'
+collected_at: '2026-06-16T17:27:23.807123+05:30'
 published_at: '2026-06-12T20:22:35Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:brendan-duncan/wgsl_reflect
 first_seen: '2026-06-12T10:40:17.491010+00:00'
-last_seen: '2026-06-15T06:04:14.952610+00:00'
-last_checked: '2026-06-15T06:04:14.952610+00:00'
+last_seen: '2026-06-16T17:27:23.807123+05:30'
+last_checked: '2026-06-16T17:27:23.807123+05:30'
 health_score: 100
 ---
 

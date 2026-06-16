@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by cloudking. Score: 934, Comments: 423.
+Hacker News story by cloudking. Score: 1071, Comments: 461.
 Original Link: None
 
 ## Use Cases

@@ -4,7 +4,7 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/akash3444/shadcn-ui-blocks
-collected_at: '2026-06-15T06:04:25.609218+00:00'
+collected_at: '2026-06-16T17:27:25.884309+05:30'
 published_at: '2026-06-13T12:58:18Z'
 tags:
 - frontend_ui
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:akash3444/shadcn-ui-blocks
 first_seen: '2026-06-12T10:40:21.841653+00:00'
-last_seen: '2026-06-15T06:04:25.609218+00:00'
-last_checked: '2026-06-15T06:04:25.609218+00:00'
+last_seen: '2026-06-16T17:27:25.884309+05:30'
+last_checked: '2026-06-16T17:27:25.884309+05:30'
 health_score: 100
 ---
 

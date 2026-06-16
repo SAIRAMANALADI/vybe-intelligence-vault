@@ -9,13 +9,14 @@ collected_at: '2026-06-16T13:57:13.168738+05:30'
 tags:
 - github-trending
 - unknown
-status: active
+status: inactive
 resource_id: github:jwasham/coding-interview-university
 first_seen: '2026-06-16T13:57:13.168738+05:30'
 last_seen: '2026-06-16T13:57:13.168738+05:30'
 last_checked: '2026-06-16T13:57:13.168738+05:30'
 health_score: 100
 ---
+
 
 # jwasham/coding-interview-university
 

@@ -4,15 +4,15 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/tgi-messages-api
-published_at: '2024-02-08T00:00:00+00:00'
-collected_at: '2026-06-15T06:35:32.421193+00:00'
+published_at: '2024-02-08T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.377999+05:30'
 tags:
 - openai
 status: active
 resource_id: blog:from-openai-to-open-llms-with-messages-api-on-hugg
 first_seen: '2026-06-15T06:35:32.421193+00:00'
-last_seen: '2026-06-15T06:35:32.421193+00:00'
-last_checked: '2026-06-15T06:35:32.421193+00:00'
+last_seen: '2026-06-16T17:27:22.377999+05:30'
+last_checked: '2026-06-16T17:27:22.377999+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-02-08T00:00:00+00:00
+- Published: 2024-02-08T00:00:00+05:30
 
 ## Related Tags
 

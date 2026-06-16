@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/delta-weight-sync
-published_at: '2026-05-26T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.268828+00:00'
+published_at: '2026-05-27T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.372394+05:30'
 tags: []
 status: active
 resource_id: blog:shipping-a-trillion-parameters-with-a-hub-bucket-d
 first_seen: '2026-06-12T10:40:08.806933+00:00'
-last_seen: '2026-06-15T06:03:50.268828+00:00'
-last_checked: '2026-06-15T06:03:50.268828+00:00'
+last_seen: '2026-06-16T17:27:22.372394+05:30'
+last_checked: '2026-06-16T17:27:22.372394+05:30'
 health_score: 100
 ---
-
 
 # Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2026-05-26T18:30:00+00:00
+- Published: 2026-05-27T00:00:00+05:30
 
 ## Related Tags
 

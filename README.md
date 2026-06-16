@@ -44,39 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3716 |
-| Active resources | 3679 |
-| Inactive resources | 37 |
-| Archive files | 17910 |
+| Resources tracked | 3773 |
+| Active resources | 3726 |
+| Inactive resources | 47 |
+| Archive files | 18143 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 14:00 IST |
+| Last meaningful update | 2026-06-16 17:34 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (+162 points)
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+130 points)
-- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (Rank: +3) (+44 points)
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Rank: +1) (+36 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +1169)
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (+137 points)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+80 points)
+- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (+20 points)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (+19 points)
+- **[Introducing North Mini Code: Cohere’s First Model For Developers](ai/models/huggingface-blog-coherelabs.md)** (Rank: +819)
 
 #### ✨ New Discoveries
-- **[RAGFlow](ai/rag/ragflow.md)** (Score: 0)
-- **[crewAIInc/crewAI Release: 1.14.7](ai/rag/crewaiinc-crewai.md)** (Score: 0)
-- **[microsoft/autogen Release: python-v0.7.5](ai/agents/microsoft-autogen.md)** (Score: 0)
-- **[pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](ai/rag/pydantic-pydantic-ai.md)** (Score: 0)
-- **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (Score: 0)
+- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Score: 81)
+- **[SpaceX to buy Cursor AI coding agent operator Anysphere for $60B](ai/community/spacex-to-buy-cursor-ai-coding-agent-operator-anys.md)** (Score: 55)
+- **[masumi-network/crewai-masumi-quickstart-template](ai/agents/masumi-network-crewai-masumi-quickstart-template.md)** (Score: 0)
+- **[croppers/crewai](ai/agents/croppers-crewai.md)** (Score: 0)
+- **[rokbenko/ai-playground](ai/rag/rokbenko-ai-playground.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)**
-- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)**
-- **[Microsoft turns to AWS as GitHub faces AI capacity crunch](ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)**
-- **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)**
-- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)**
+- **[mikeroyal/Self-Hosting-Guide](ai/trending/mikeroyal-self-hosting-guide.md)**
+- **[Raphire/Win11Debloat](ai/trending/raphire-win11debloat.md)**
+- **[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md)**
+- **[Free-TV/IPTV](ai/trending/free-tv-iptv.md)**
+- **[rohitg00/ai-engineering-from-scratch](ai/trending/rohitg00-ai-engineering-from-scratch.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

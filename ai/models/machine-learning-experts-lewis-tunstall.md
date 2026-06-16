@@ -4,17 +4,16 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/lewis-tunstall-interview
-published_at: '2022-04-12T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.280892+00:00'
+published_at: '2022-04-13T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.381037+05:30'
 tags: []
 status: active
 resource_id: blog:machine-learning-experts-lewis-tunstall
 first_seen: '2026-06-12T10:40:08.824176+00:00'
-last_seen: '2026-06-15T06:03:50.280892+00:00'
-last_checked: '2026-06-15T06:03:50.280892+00:00'
+last_seen: '2026-06-16T17:27:22.381037+05:30'
+last_checked: '2026-06-16T17:27:22.381037+05:30'
 health_score: 100
 ---
-
 
 # Machine Learning Experts - Lewis Tunstall
 
@@ -30,7 +29,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2022-04-12T18:30:00+00:00
+- Published: 2022-04-13T00:00:00+05:30
 
 ## Related Tags
 

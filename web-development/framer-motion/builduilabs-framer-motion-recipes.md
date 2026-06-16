@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/builduilabs/framer-motion-recipes
-collected_at: '2026-06-15T06:04:17.304074+00:00'
+collected_at: '2026-06-16T17:27:23.871814+05:30'
 published_at: '2026-05-21T01:17:08Z'
 tags:
 - animation
@@ -13,8 +13,8 @@ language: JavaScript
 status: active
 resource_id: github:builduilabs/framer-motion-recipes
 first_seen: '2026-06-12T10:40:18.782837+00:00'
-last_seen: '2026-06-15T06:04:17.304074+00:00'
-last_checked: '2026-06-15T06:04:17.304074+00:00'
+last_seen: '2026-06-16T17:27:23.871814+05:30'
+last_checked: '2026-06-16T17:27:23.871814+05:30'
 health_score: 100
 ---
 

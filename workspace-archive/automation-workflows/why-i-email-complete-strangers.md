@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by karakoram. Score: 144, Comments: 61.
+Hacker News story by karakoram. Score: 164, Comments: 74.
 Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
 
 ## Use Cases

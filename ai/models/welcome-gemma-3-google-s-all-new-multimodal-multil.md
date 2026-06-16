@@ -5,18 +5,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/gemma3
-published_at: '2025-03-11T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.274007+00:00'
+published_at: '2025-03-12T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.375857+05:30'
 tags:
 - models
 status: active
 resource_id: blog:welcome-gemma-3-google-s-all-new-multimodal-multil
 first_seen: '2026-06-12T10:40:08.812107+00:00'
-last_seen: '2026-06-15T06:03:50.274007+00:00'
-last_checked: '2026-06-15T06:03:50.274007+00:00'
+last_seen: '2026-06-16T17:27:22.375857+05:30'
+last_checked: '2026-06-16T17:27:22.375857+05:30'
 health_score: 100
 ---
-
 
 # Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM
 
@@ -32,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-03-11T18:30:00+00:00
+- Published: 2025-03-12T00:00:00+05:30
 
 ## Related Tags
 

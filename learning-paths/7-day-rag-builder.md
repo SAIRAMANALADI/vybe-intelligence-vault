@@ -17,4 +17,4 @@ A self-contained PDF query backend supporting semantic lookup and source attribu
 
 ## Recommended Vault Resources
 *   Explore categories inside [workspace-archive/](../workspace-archive/README.md)
-*   Check curated lists under best-of/
+*   Check curated lists under [best-of/](../workspace-archive/best-of/README.md)

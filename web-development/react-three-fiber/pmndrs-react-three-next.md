@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-three-next
-collected_at: '2026-06-15T06:04:12.610288+00:00'
+collected_at: '2026-06-16T17:27:23.737229+05:30'
 published_at: '2026-06-11T10:44:50Z'
 tags:
 - frontend_ui
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:pmndrs/react-three-next
 first_seen: '2026-06-12T10:40:15.865466+00:00'
-last_seen: '2026-06-15T06:04:12.610288+00:00'
-last_checked: '2026-06-15T06:04:12.610288+00:00'
+last_seen: '2026-06-16T17:27:23.737229+05:30'
+last_checked: '2026-06-16T17:27:23.737229+05:30'
 health_score: 100
 ---
 

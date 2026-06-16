@@ -4,18 +4,17 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/embeddinggemma
-published_at: '2025-09-03T18:30:00+00:00'
-collected_at: '2026-06-15T06:03:50.270252+00:00'
+published_at: '2025-09-04T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.374720+05:30'
 tags:
 - models
 status: active
 resource_id: blog:welcome-embeddinggemma-google-s-new-efficient-embe
 first_seen: '2026-06-12T10:40:08.809881+00:00'
-last_seen: '2026-06-15T06:03:50.270252+00:00'
-last_checked: '2026-06-15T06:03:50.270252+00:00'
+last_seen: '2026-06-16T17:27:22.374720+05:30'
+last_checked: '2026-06-16T17:27:22.374720+05:30'
 health_score: 100
 ---
-
 
 # Welcome EmbeddingGemma, Google's new efficient embedding model
 
@@ -31,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2025-09-03T18:30:00+00:00
+- Published: 2025-09-04T00:00:00+05:30
 
 ## Related Tags
 

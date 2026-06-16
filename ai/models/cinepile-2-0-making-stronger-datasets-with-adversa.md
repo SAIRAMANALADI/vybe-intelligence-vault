@@ -4,15 +4,15 @@ category: ai/models
 source_type: huggingface
 source_name: Hugging Face Blog
 source_url: https://huggingface.co/blog/cinepile2
-published_at: '2024-10-23T00:00:00+00:00'
-collected_at: '2026-06-15T06:35:32.418181+00:00'
+published_at: '2024-10-23T00:00:00+05:30'
+collected_at: '2026-06-16T17:27:22.376635+05:30'
 tags:
 - dataset
 status: active
 resource_id: blog:cinepile-2-0-making-stronger-datasets-with-adversa
 first_seen: '2026-06-15T06:35:32.418181+00:00'
-last_seen: '2026-06-15T06:35:32.418181+00:00'
-last_checked: '2026-06-15T06:35:32.418181+00:00'
+last_seen: '2026-06-16T17:27:22.376635+05:30'
+last_checked: '2026-06-16T17:27:22.376635+05:30'
 health_score: 100
 ---
 
@@ -30,7 +30,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Blog
 - Category: ai/models
-- Published: 2024-10-23T00:00:00+00:00
+- Published: 2024-10-23T00:00:00+05:30
 
 ## Related Tags
 

@@ -4,7 +4,7 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/asbhogal/fyrre-magazine
-collected_at: '2026-06-15T06:04:21.398428+00:00'
+collected_at: '2026-06-16T17:27:23.991344+05:30'
 published_at: '2026-06-04T11:36:04Z'
 tags:
 - animation
@@ -15,8 +15,8 @@ language: TypeScript
 status: active
 resource_id: github:asbhogal/fyrre-magazine
 first_seen: '2026-06-11T08:45:43.851346+00:00'
-last_seen: '2026-06-15T06:04:21.398428+00:00'
-last_checked: '2026-06-15T06:04:21.398428+00:00'
+last_seen: '2026-06-16T17:27:23.991344+05:30'
+last_checked: '2026-06-16T17:27:23.991344+05:30'
 health_score: 100
 ---
 

@@ -20,11 +20,11 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 41 resources matched in the intelligence vault.
 Recently detected signals:
+- [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) (Source: Unknown Source) - Collected 2026-06-16
 - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) (Source: Unknown Source) - Collected 2026-06-16
 - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) (Source: Unknown Source) - Collected 2026-06-16
 - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-16
 - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) (Source: Unknown Source) - Collected 2026-06-16
-- [MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems](../ai/agents/arxiv-2604-26963.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -90,7 +90,12 @@ Recently detected signals:
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
-### 13. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 13. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+- Stars: 0
+- Language: Unknown
+- Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
+
+### 14. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: huggingface/transformers
@@ -115,4 +120,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T13:59:40.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T17:33:08.145967+05:30.636606+05:30.745557+05:30.

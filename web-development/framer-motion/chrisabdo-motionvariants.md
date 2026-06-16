@@ -4,7 +4,7 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/chrisabdo/motionvariants
-collected_at: '2026-06-15T06:04:17.304172+00:00'
+collected_at: '2026-06-16T17:27:23.871975+05:30'
 published_at: '2026-06-14T21:05:27Z'
 tags:
 - animation
@@ -14,8 +14,8 @@ language: TypeScript
 status: active
 resource_id: github:chrisabdo/motionvariants
 first_seen: '2026-06-12T10:40:18.782947+00:00'
-last_seen: '2026-06-15T06:04:17.304172+00:00'
-last_checked: '2026-06-15T06:04:17.304172+00:00'
+last_seen: '2026-06-16T17:27:23.871975+05:30'
+last_checked: '2026-06-16T17:27:23.871975+05:30'
 health_score: 100
 ---
 

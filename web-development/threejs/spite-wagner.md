@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/spite/wagner
-collected_at: '2026-06-15T06:04:10.449082+00:00'
+collected_at: '2026-06-16T17:27:23.869428+05:30'
 published_at: '2026-06-01T07:18:09Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: JavaScript
 status: active
 resource_id: github:spite/wagner
 first_seen: '2026-06-11T08:45:35.488511+00:00'
-last_seen: '2026-06-15T06:04:10.449082+00:00'
-last_checked: '2026-06-15T06:04:10.449082+00:00'
+last_seen: '2026-06-16T17:27:23.869428+05:30'
+last_checked: '2026-06-16T17:27:23.869428+05:30'
 health_score: 100
 ---
 

@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/xr
-collected_at: '2026-06-15T06:04:12.610342+00:00'
+collected_at: '2026-06-16T17:27:23.737315+05:30'
 published_at: '2026-06-14T16:33:34Z'
 tags:
 - frontend_ui
@@ -15,8 +15,8 @@ language: TypeScript
 status: active
 resource_id: github:pmndrs/xr
 first_seen: '2026-06-12T10:40:15.865527+00:00'
-last_seen: '2026-06-15T06:04:12.610342+00:00'
-last_checked: '2026-06-15T06:04:12.610342+00:00'
+last_seen: '2026-06-16T17:27:23.737315+05:30'
+last_checked: '2026-06-16T17:27:23.737315+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: pmndrs
 - Stars: 2595
-- Forks: 202
+- Forks: 201
 - Language: TypeScript
 - Topics: ar, react, react-three-fiber, vr, webxr
 - Last Updated: 2026-06-14T16:33:34Z
