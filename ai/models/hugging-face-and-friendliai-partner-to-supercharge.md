@@ -9,7 +9,7 @@ published_at: '2025-01-22T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376211+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-and-friendliai-partner-to-supercharge
+resource_id: huggingface:blog/friendliai-partnership
 first_seen: '2026-06-15T06:35:32.417228+00:00'
 last_seen: '2026-06-16T17:27:22.376211+05:30'
 last_checked: '2026-06-16T17:27:22.376211+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-01-30T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376131+05:30'
 tags: []
 status: active
-resource_id: blog:how-to-deploy-and-fine-tune-deepseek-models-on-aws
+resource_id: huggingface:blog/deepseek-r1-aws
 first_seen: '2026-06-15T06:35:32.417073+00:00'
 last_seen: '2026-06-16T17:27:22.376131+05:30'
 last_checked: '2026-06-16T17:27:22.376131+05:30'

@@ -8,7 +8,7 @@ published_at: '2022-12-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380110+05:30'
 tags: []
 status: active
-resource_id: blog:deep-learning-with-proteins
+resource_id: huggingface:blog/deep-learning-with-proteins
 first_seen: '2026-06-15T06:35:32.425291+00:00'
 last_seen: '2026-06-16T17:27:22.380110+05:30'
 last_checked: '2026-06-16T17:27:22.380110+05:30'

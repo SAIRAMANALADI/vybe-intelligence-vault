@@ -8,7 +8,7 @@ published_at: '2021-05-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381458+05:30'
 tags: []
 status: active
-resource_id: blog:using-mixing-hugging-face-models-with-gradio-2-0
+resource_id: huggingface:blog/gradio
 first_seen: '2026-06-12T10:40:08.825070+00:00'
 last_seen: '2026-06-16T17:27:22.381458+05:30'
 last_checked: '2026-06-16T17:27:22.381458+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-08-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376984+05:30'
 tags: []
 status: active
-resource_id: blog:tool-use-unified
+resource_id: huggingface:blog/unified-tool-use
 first_seen: '2026-06-12T10:40:08.814510+00:00'
 last_seen: '2026-06-16T17:27:22.376984+05:30'
 last_checked: '2026-06-16T17:27:22.376984+05:30'

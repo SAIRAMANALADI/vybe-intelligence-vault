@@ -9,7 +9,7 @@ published_at: '2024-06-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377219+05:30'
 tags: []
 status: active
-resource_id: blog:xlscout-unveils-paraembed-2-0-a-powerful-embedding
+resource_id: huggingface:blog/xlscout-case-study
 first_seen: '2026-06-12T10:40:08.815113+00:00'
 last_seen: '2026-06-16T17:27:22.377219+05:30'
 last_checked: '2026-06-16T17:27:22.377219+05:30'

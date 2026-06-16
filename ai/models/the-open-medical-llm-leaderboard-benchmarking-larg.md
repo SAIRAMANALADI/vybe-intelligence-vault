@@ -10,7 +10,7 @@ tags:
 - benchmark
 - leaderboard
 status: active
-resource_id: blog:the-open-medical-llm-leaderboard-benchmarking-larg
+resource_id: huggingface:blog/leaderboard-medicalllm
 first_seen: '2026-06-12T10:40:08.815925+00:00'
 last_seen: '2026-06-16T17:27:22.377597+05:30'
 last_checked: '2026-06-16T17:27:22.377597+05:30'

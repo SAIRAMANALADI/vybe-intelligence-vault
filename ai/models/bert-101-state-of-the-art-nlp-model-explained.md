@@ -8,7 +8,7 @@ published_at: '2022-03-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381132+05:30'
 tags: []
 status: active
-resource_id: blog:bert-101-state-of-the-art-nlp-model-explained
+resource_id: huggingface:blog/bert-101
 first_seen: '2026-06-15T06:35:32.427529+00:00'
 last_seen: '2026-06-16T17:27:22.381132+05:30'
 last_checked: '2026-06-16T17:27:22.381132+05:30'

@@ -8,7 +8,7 @@ published_at: '2022-05-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380866+05:30'
 tags: []
 status: active
-resource_id: blog:putting-ethical-principles-at-the-core-of-the-rese
+resource_id: huggingface:blog/ethical-charter-multimodal
 first_seen: '2026-06-12T10:40:08.823748+00:00'
 last_seen: '2026-06-16T17:27:22.380866+05:30'
 last_checked: '2026-06-16T17:27:22.380866+05:30'

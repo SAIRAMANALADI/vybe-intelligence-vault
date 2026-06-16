@@ -8,7 +8,7 @@ published_at: '2025-04-16T10:10:58+05:30'
 collected_at: '2026-06-16T17:27:22.375595+05:30'
 tags: []
 status: active
-resource_id: blog:prefill-and-decode-for-concurrent-requests-optimiz
+resource_id: huggingface:blog/llm-performance-prefill-decode-concurrent-requests
 first_seen: '2026-06-15T06:35:32.415947+00:00'
 last_seen: '2026-06-16T17:27:22.375595+05:30'
 last_checked: '2026-06-16T17:27:22.375595+05:30'

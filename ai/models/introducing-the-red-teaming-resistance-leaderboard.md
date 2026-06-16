@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377926+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:introducing-the-red-teaming-resistance-leaderboard
+resource_id: huggingface:blog/leaderboard-haizelab
 first_seen: '2026-06-12T10:40:08.816607+00:00'
 last_seen: '2026-06-16T17:27:22.377926+05:30'
 last_checked: '2026-06-16T17:27:22.377926+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-10-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374400+05:30'
 tags: []
 status: active
-resource_id: blog:supercharge-your-ocr-pipelines-with-open-models
+resource_id: huggingface:blog/ocr-open-models
 first_seen: '2026-06-12T10:40:08.809158+00:00'
 last_seen: '2026-06-16T17:27:22.374400+05:30'
 last_checked: '2026-06-16T17:27:22.374400+05:30'

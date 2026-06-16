@@ -8,7 +8,7 @@ published_at: '2024-12-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376305+05:30'
 tags: []
 status: active
-resource_id: blog:visualize-and-understand-gpu-memory-in-pytorch
+resource_id: huggingface:blog/train_memory
 first_seen: '2026-06-12T10:40:08.813111+00:00'
 last_seen: '2026-06-16T17:27:22.376305+05:30'
 last_checked: '2026-06-16T17:27:22.376305+05:30'

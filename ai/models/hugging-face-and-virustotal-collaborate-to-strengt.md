@@ -8,7 +8,7 @@ published_at: '2025-10-22T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374380+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-and-virustotal-collaborate-to-strengt
+resource_id: huggingface:blog/virustotal
 first_seen: '2026-06-15T06:35:32.413310+00:00'
 last_seen: '2026-06-16T17:27:22.374380+05:30'
 last_checked: '2026-06-16T17:27:22.374380+05:30'

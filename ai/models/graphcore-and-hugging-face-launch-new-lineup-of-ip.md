@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.380817+05:30'
 tags:
 - producthunt
 status: active
-resource_id: blog:graphcore-and-hugging-face-launch-new-lineup-of-ip
+resource_id: huggingface:blog/graphcore-update
 first_seen: '2026-06-15T06:35:32.426747+00:00'
 last_seen: '2026-06-16T17:27:22.380817+05:30'
 last_checked: '2026-06-16T17:27:22.380817+05:30'

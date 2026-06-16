@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378192+05:30'
 tags:
 - models
 status: active
-resource_id: blog:lora-training-scripts-of-the-world-unite
+resource_id: huggingface:blog/sdxl_lora_advanced_script
 first_seen: '2026-06-12T10:40:08.817267+00:00'
 last_seen: '2026-06-16T17:27:22.378192+05:30'
 last_checked: '2026-06-16T17:27:22.378192+05:30'

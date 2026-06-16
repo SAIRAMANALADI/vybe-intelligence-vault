@@ -8,7 +8,7 @@ published_at: '2026-04-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372678+05:30'
 tags: []
 status: active
-resource_id: blog:waypoint-1-5-higher-fidelity-interactive-worlds-fo
+resource_id: huggingface:blog/waypoint-1-5
 first_seen: '2026-06-12T10:40:08.807422+00:00'
 last_seen: '2026-06-16T17:27:22.372678+05:30'
 last_checked: '2026-06-16T17:27:22.372678+05:30'

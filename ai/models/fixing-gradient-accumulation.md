@@ -8,7 +8,7 @@ published_at: '2024-10-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376720+05:30'
 tags: []
 status: active
-resource_id: blog:fixing-gradient-accumulation
+resource_id: huggingface:blog/gradient_accumulation
 first_seen: '2026-06-15T06:35:32.418326+00:00'
 last_seen: '2026-06-16T17:27:22.376720+05:30'
 last_checked: '2026-06-16T17:27:22.376720+05:30'

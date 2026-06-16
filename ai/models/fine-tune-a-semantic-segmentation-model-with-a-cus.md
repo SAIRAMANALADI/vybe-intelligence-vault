@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.381094+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:fine-tune-a-semantic-segmentation-model-with-a-cus
+resource_id: huggingface:blog/fine-tune-segformer
 first_seen: '2026-06-15T06:35:32.427440+00:00'
 last_seen: '2026-06-16T17:27:22.381094+05:30'
 last_checked: '2026-06-16T17:27:22.381094+05:30'

@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:non-engineers-guide-train-a-llama-2-chatbot
+resource_id: huggingface:blog/llama2-for-non-engineers
 first_seen: '2026-06-12T10:40:08.819344+00:00'
 last_seen: '2026-06-16T17:27:22.378781+05:30'
 last_checked: '2026-06-16T17:27:22.378781+05:30'

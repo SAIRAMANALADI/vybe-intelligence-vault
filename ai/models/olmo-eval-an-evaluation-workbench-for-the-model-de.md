@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.371752+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:olmo-eval-an-evaluation-workbench-for-the-model-de
+resource_id: huggingface:blog/olmo-eval
 first_seen: '2026-06-15T06:35:32.410613+00:00'
 last_seen: '2026-06-16T17:27:22.371752+05:30'
 last_checked: '2026-06-16T17:27:22.371752+05:30'

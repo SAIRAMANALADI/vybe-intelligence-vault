@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379088+05:30'
 tags:
 - models
 status: active
-resource_id: blog:stable-diffusion-xl-on-mac-with-advanced-core-ml-q
+resource_id: huggingface:blog/stable-diffusion-xl-coreml
 first_seen: '2026-06-12T10:40:08.820050+00:00'
 last_seen: '2026-06-16T17:27:22.379088+05:30'
 last_checked: '2026-06-16T17:27:22.379088+05:30'

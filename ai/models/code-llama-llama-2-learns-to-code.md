@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:code-llama-llama-2-learns-to-code
+resource_id: huggingface:blog/codellama
 first_seen: '2026-06-15T06:35:32.422583+00:00'
 last_seen: '2026-06-16T17:27:22.378928+05:30'
 last_checked: '2026-06-16T17:27:22.378928+05:30'

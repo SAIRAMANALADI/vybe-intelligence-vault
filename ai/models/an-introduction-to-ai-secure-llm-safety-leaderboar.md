@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378086+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:an-introduction-to-ai-secure-llm-safety-leaderboar
+resource_id: huggingface:blog/leaderboard-decodingtrust
 first_seen: '2026-06-15T06:35:32.421386+00:00'
 last_seen: '2026-06-16T17:27:22.378086+05:30'
 last_checked: '2026-06-16T17:27:22.378086+05:30'

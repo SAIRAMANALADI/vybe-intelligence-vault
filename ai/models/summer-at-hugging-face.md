@@ -8,7 +8,7 @@ published_at: '2021-09-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381382+05:30'
 tags: []
 status: active
-resource_id: blog:summer-at-hugging-face
+resource_id: huggingface:blog/summer-at-huggingface
 first_seen: '2026-06-12T10:40:08.824916+00:00'
 last_seen: '2026-06-16T17:27:22.381382+05:30'
 last_checked: '2026-06-16T17:27:22.381382+05:30'

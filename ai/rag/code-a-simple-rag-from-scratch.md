@@ -10,7 +10,7 @@ tags:
 - rag
 - web-crawled
 status: active
-resource_id: blog:code-a-simple-rag-from-scratch
+resource_id: huggingface:blog/make-your-own-rag
 first_seen: '2026-06-16T04:27:21.684477+00:00'
 last_seen: '2026-06-16T04:27:21.684477+00:00'
 last_checked: '2026-06-16T04:27:21.684477+00:00'

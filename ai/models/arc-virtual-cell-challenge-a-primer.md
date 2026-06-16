@@ -8,7 +8,7 @@ published_at: '2025-07-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375026+05:30'
 tags: []
 status: active
-resource_id: blog:arc-virtual-cell-challenge-a-primer
+resource_id: huggingface:blog/virtual-cell-challenge
 first_seen: '2026-06-15T06:35:32.414649+00:00'
 last_seen: '2026-06-16T17:27:22.375026+05:30'
 last_checked: '2026-06-16T17:27:22.375026+05:30'

@@ -8,7 +8,7 @@ published_at: '2023-01-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379926+05:30'
 tags: []
 status: active
-resource_id: blog:2d-asset-generation-ai-for-game-development-4
+resource_id: huggingface:blog/ml-for-games-4
 first_seen: '2026-06-15T06:35:32.424846+00:00'
 last_seen: '2026-06-16T17:27:22.379926+05:30'
 last_checked: '2026-06-16T17:27:22.379926+05:30'

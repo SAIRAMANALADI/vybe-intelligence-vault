@@ -8,7 +8,7 @@ published_at: '2025-03-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375821+05:30'
 tags: []
 status: active
-resource_id: blog:ai-policy-response-to-the-white-house-ai-action-pl
+resource_id: huggingface:blog/ai-action-wh-2025
 first_seen: '2026-06-15T06:35:32.416409+00:00'
 last_seen: '2026-06-16T17:27:22.375821+05:30'
 last_checked: '2026-06-16T17:27:22.375821+05:30'

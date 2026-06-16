@@ -8,7 +8,7 @@ published_at: '2022-05-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380836+05:30'
 tags: []
 status: active
-resource_id: blog:efficient-table-pre-training-without-real-data-an
+resource_id: huggingface:blog/tapex
 first_seen: '2026-06-15T06:35:32.426787+00:00'
 last_seen: '2026-06-16T17:27:22.380836+05:30'
 last_checked: '2026-06-16T17:27:22.380836+05:30'

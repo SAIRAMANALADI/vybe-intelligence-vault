@@ -10,7 +10,7 @@ tags:
 - hackernews
 - models
 status: active
-resource_id: blog:accelerating-pytorch-distributed-fine-tuning-with
+resource_id: huggingface:blog/accelerating-pytorch
 first_seen: '2026-06-15T06:35:32.427857+00:00'
 last_seen: '2026-06-16T17:27:22.381286+05:30'
 last_checked: '2026-06-16T17:27:22.381286+05:30'

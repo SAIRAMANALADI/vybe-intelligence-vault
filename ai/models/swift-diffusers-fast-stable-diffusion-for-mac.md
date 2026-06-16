@@ -8,7 +8,7 @@ published_at: '2023-02-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379810+05:30'
 tags: []
 status: active
-resource_id: blog:swift-diffusers-fast-stable-diffusion-for-mac
+resource_id: huggingface:blog/fast-mac-diffusers
 first_seen: '2026-06-12T10:40:08.821604+00:00'
 last_seen: '2026-06-16T17:27:22.379810+05:30'
 last_checked: '2026-06-16T17:27:22.379810+05:30'

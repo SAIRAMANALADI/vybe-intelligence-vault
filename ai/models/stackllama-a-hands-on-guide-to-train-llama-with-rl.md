@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:stackllama-a-hands-on-guide-to-train-llama-with-rl
+resource_id: huggingface:blog/stackllama
 first_seen: '2026-06-12T10:40:08.821242+00:00'
 last_seen: '2026-06-16T17:27:22.379659+05:30'
 last_checked: '2026-06-16T17:27:22.379659+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374863+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:introducing-ai-sheets-a-tool-to-work-with-datasets
+resource_id: huggingface:blog/aisheets
 first_seen: '2026-06-12T10:40:08.810133+00:00'
 last_seen: '2026-06-16T17:27:22.374863+05:30'
 last_checked: '2026-06-16T17:27:22.374863+05:30'

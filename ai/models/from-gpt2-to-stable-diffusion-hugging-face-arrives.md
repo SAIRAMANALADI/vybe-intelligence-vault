@@ -8,7 +8,7 @@ published_at: '2022-12-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380100+05:30'
 tags: []
 status: active
-resource_id: blog:from-gpt2-to-stable-diffusion-hugging-face-arrives
+resource_id: huggingface:blog/elixir-bumblebee
 first_seen: '2026-06-15T06:35:32.425271+00:00'
 last_seen: '2026-06-16T17:27:22.380100+05:30'
 last_checked: '2026-06-16T17:27:22.380100+05:30'

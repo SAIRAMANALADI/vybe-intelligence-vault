@@ -8,7 +8,7 @@ published_at: '2026-02-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.373201+05:30'
 tags: []
 status: active
-resource_id: blog:train-ai-models-with-unsloth-and-hugging-face-jobs
+resource_id: huggingface:blog/unsloth-jobs
 first_seen: '2026-06-12T10:40:08.807929+00:00'
 last_seen: '2026-06-16T17:27:22.373201+05:30'
 last_checked: '2026-06-16T17:27:22.373201+05:30'

@@ -9,7 +9,7 @@ published_at: '2025-05-15T13:13:45+05:30'
 collected_at: '2026-06-16T17:27:22.375459+05:30'
 tags: []
 status: active
-resource_id: blog:falcon-edge-a-series-of-powerful-universal-fine-tu
+resource_id: huggingface:blog/falcon-edge
 first_seen: '2026-06-15T06:35:32.415591+00:00'
 last_seen: '2026-06-16T17:27:22.375459+05:30'
 last_checked: '2026-06-16T17:27:22.375459+05:30'

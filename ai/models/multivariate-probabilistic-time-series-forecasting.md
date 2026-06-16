@@ -8,7 +8,7 @@ published_at: '2023-03-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379726+05:30'
 tags: []
 status: active
-resource_id: blog:multivariate-probabilistic-time-series-forecasting
+resource_id: huggingface:blog/informer
 first_seen: '2026-06-12T10:40:08.821380+00:00'
 last_seen: '2026-06-16T17:27:22.379726+05:30'
 last_checked: '2026-06-16T17:27:22.379726+05:30'

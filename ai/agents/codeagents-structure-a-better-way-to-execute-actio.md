@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375370+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:codeagents-structure-a-better-way-to-execute-actio
+resource_id: huggingface:blog/structured-codeagent
 first_seen: '2026-06-15T06:35:32.415405+00:00'
 last_seen: '2026-06-16T17:27:22.375370+05:30'
 last_checked: '2026-06-16T17:27:22.375370+05:30'

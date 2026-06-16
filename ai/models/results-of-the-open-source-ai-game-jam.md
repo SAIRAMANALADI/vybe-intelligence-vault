@@ -8,7 +8,7 @@ published_at: '2023-07-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379117+05:30'
 tags: []
 status: active
-resource_id: blog:results-of-the-open-source-ai-game-jam
+resource_id: huggingface:blog/game-jam-first-edition-results
 first_seen: '2026-06-12T10:40:08.820127+00:00'
 last_seen: '2026-06-16T17:27:22.379117+05:30'
 last_checked: '2026-06-16T17:27:22.379117+05:30'

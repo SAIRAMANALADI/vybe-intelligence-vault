@@ -8,7 +8,7 @@ published_at: '2026-02-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.373263+05:30'
 tags: []
 status: active
-resource_id: blog:transformers-js-v4-now-available-on-npm
+resource_id: huggingface:blog/transformersjs-v4
 first_seen: '2026-06-12T10:40:08.808031+00:00'
 last_seen: '2026-06-16T17:27:22.373263+05:30'
 last_checked: '2026-06-16T17:27:22.373263+05:30'

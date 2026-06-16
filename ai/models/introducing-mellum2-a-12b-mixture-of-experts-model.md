@@ -8,7 +8,7 @@ published_at: '2026-06-01T15:45:17+05:30'
 collected_at: '2026-06-16T17:27:22.372341+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-mellum2-a-12b-mixture-of-experts-model
+resource_id: huggingface:blog/mellum2-launch
 first_seen: '2026-06-12T10:40:08.806849+00:00'
 last_seen: '2026-06-16T17:27:22.372341+05:30'
 last_checked: '2026-06-16T17:27:22.372341+05:30'

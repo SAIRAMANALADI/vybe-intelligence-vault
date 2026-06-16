@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374509+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:introducing-rteb-a-new-standard-for-retrieval-eval
+resource_id: huggingface:blog/rteb
 first_seen: '2026-06-12T10:40:08.809344+00:00'
 last_seen: '2026-06-16T17:27:22.374509+05:30'
 last_checked: '2026-06-16T17:27:22.374509+05:30'

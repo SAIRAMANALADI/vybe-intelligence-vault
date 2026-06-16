@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372239+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:designing-the-hf-cli-as-an-agent-optimized-way-to
+resource_id: huggingface:blog/hf-cli-for-agents
 first_seen: '2026-06-15T06:35:32.410801+00:00'
 last_seen: '2026-06-16T17:27:22.372239+05:30'
 last_checked: '2026-06-16T17:27:22.372239+05:30'

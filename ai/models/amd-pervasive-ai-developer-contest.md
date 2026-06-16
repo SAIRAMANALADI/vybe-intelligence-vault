@@ -8,7 +8,7 @@ published_at: '2024-02-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377986+05:30'
 tags: []
 status: active
-resource_id: blog:amd-pervasive-ai-developer-contest
+resource_id: huggingface:blog/amd_pervasive_developer_ai_contest
 first_seen: '2026-06-15T06:35:32.421168+00:00'
 last_seen: '2026-06-16T17:27:22.377986+05:30'
 last_checked: '2026-06-16T17:27:22.377986+05:30'

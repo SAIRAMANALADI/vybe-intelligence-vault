@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:deploy-meta-llama-3-1-405b-on-google-cloud-vertex
+resource_id: huggingface:blog/llama31-on-vertex-ai
 first_seen: '2026-06-15T06:35:32.418801+00:00'
 last_seen: '2026-06-16T17:27:22.376945+05:30'
 last_checked: '2026-06-16T17:27:22.376945+05:30'

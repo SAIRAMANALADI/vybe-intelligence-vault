@@ -8,7 +8,7 @@ published_at: '2023-08-04T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379035+05:30'
 tags: []
 status: active
-resource_id: blog:deploy-musicgen-in-no-time-with-inference-endpoint
+resource_id: huggingface:blog/run-musicgen-as-an-api
 first_seen: '2026-06-15T06:35:32.422822+00:00'
 last_seen: '2026-06-16T17:27:22.379035+05:30'
 last_checked: '2026-06-16T17:27:22.379035+05:30'

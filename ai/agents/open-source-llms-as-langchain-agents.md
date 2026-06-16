@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378105+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:open-source-llms-as-langchain-agents
+resource_id: huggingface:blog/open-source-llms-as-agents
 first_seen: '2026-06-12T10:40:08.817083+00:00'
 last_seen: '2026-06-16T17:27:22.378105+05:30'
 last_checked: '2026-06-16T17:27:22.378105+05:30'

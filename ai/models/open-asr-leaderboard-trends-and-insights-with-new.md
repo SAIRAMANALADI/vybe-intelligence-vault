@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.374207+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:open-asr-leaderboard-trends-and-insights-with-new
+resource_id: huggingface:blog/open-asr-leaderboard
 first_seen: '2026-06-12T10:40:08.808775+00:00'
 last_seen: '2026-06-16T17:27:22.374207+05:30'
 last_checked: '2026-06-16T17:27:22.374207+05:30'

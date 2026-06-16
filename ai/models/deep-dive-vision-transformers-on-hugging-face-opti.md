@@ -8,7 +8,7 @@ published_at: '2022-08-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380539+05:30'
 tags: []
 status: active
-resource_id: blog:deep-dive-vision-transformers-on-hugging-face-opti
+resource_id: huggingface:blog/vision-transformers
 first_seen: '2026-06-15T06:35:32.426137+00:00'
 last_seen: '2026-06-16T17:27:22.380539+05:30'
 last_checked: '2026-06-16T17:27:22.380539+05:30'

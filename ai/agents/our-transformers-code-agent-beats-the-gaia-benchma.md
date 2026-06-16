@@ -10,7 +10,7 @@ tags:
 - agents
 - benchmark
 status: active
-resource_id: blog:our-transformers-code-agent-beats-the-gaia-benchma
+resource_id: huggingface:blog/beating-gaia
 first_seen: '2026-06-12T10:40:08.815071+00:00'
 last_seen: '2026-06-16T17:27:22.377199+05:30'
 last_checked: '2026-06-16T17:27:22.377199+05:30'

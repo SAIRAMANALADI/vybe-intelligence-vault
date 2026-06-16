@@ -8,7 +8,7 @@ published_at: '2025-10-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374498+05:30'
 tags: []
 status: active
-resource_id: blog:sota-ocr-with-core-ml-and-dots-ocr
+resource_id: huggingface:blog/dots-ocr-ne
 first_seen: '2026-06-12T10:40:08.809323+00:00'
 last_seen: '2026-06-16T17:27:22.374498+05:30'
 last_checked: '2026-06-16T17:27:22.374498+05:30'

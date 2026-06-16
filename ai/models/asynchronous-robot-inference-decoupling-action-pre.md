@@ -8,7 +8,7 @@ published_at: '2025-07-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375101+05:30'
 tags: []
 status: active
-resource_id: blog:asynchronous-robot-inference-decoupling-action-pre
+resource_id: huggingface:blog/async-robot-inference
 first_seen: '2026-06-15T06:35:32.414797+00:00'
 last_seen: '2026-06-16T17:27:22.375101+05:30'
 last_checked: '2026-06-16T17:27:22.375101+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378869+05:30'
 tags:
 - models
 status: active
-resource_id: blog:overview-of-natively-supported-quantization-scheme
+resource_id: huggingface:blog/overview-quantization-transformers
 first_seen: '2026-06-12T10:40:08.819592+00:00'
 last_seen: '2026-06-16T17:27:22.378869+05:30'
 last_checked: '2026-06-16T17:27:22.378869+05:30'

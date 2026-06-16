@@ -8,7 +8,7 @@ published_at: '2023-10-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378697+05:30'
 tags: []
 status: active
-resource_id: blog:exploring-simple-optimizations-for-sdxl
+resource_id: huggingface:blog/simple_sdxl_optimizations
 first_seen: '2026-06-15T06:35:32.422016+00:00'
 last_seen: '2026-06-16T17:27:22.378697+05:30'
 last_checked: '2026-06-16T17:27:22.378697+05:30'

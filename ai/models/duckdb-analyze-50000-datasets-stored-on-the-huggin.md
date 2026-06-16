@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379342+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:duckdb-analyze-50000-datasets-stored-on-the-huggin
+resource_id: huggingface:blog/hub-duckdb
 first_seen: '2026-06-15T06:35:32.423495+00:00'
 last_seen: '2026-06-16T17:27:22.379342+05:30'
 last_checked: '2026-06-16T17:27:22.379342+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376596+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:expert-support-case-study-bolstering-a-rag-app-wit
+resource_id: huggingface:blog/digital-green-llm-judge
 first_seen: '2026-06-15T06:35:32.418097+00:00'
 last_seen: '2026-06-16T17:27:22.376596+05:30'
 last_checked: '2026-06-16T17:27:22.376596+05:30'

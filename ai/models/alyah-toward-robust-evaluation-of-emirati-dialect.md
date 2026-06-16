@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.373448+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:alyah-toward-robust-evaluation-of-emirati-dialect
+resource_id: huggingface:blog/emirati-benchmarks
 first_seen: '2026-06-15T06:35:32.412367+00:00'
 last_seen: '2026-06-16T17:27:22.373448+05:30'
 last_checked: '2026-06-16T17:27:22.373448+05:30'

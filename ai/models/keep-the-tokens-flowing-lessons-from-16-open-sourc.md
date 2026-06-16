@@ -8,7 +8,7 @@ published_at: '2026-03-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372924+05:30'
 tags: []
 status: active
-resource_id: blog:keep-the-tokens-flowing-lessons-from-16-open-sourc
+resource_id: huggingface:blog/async-rl-training-landscape
 first_seen: '2026-06-12T10:40:08.807758+00:00'
 last_seen: '2026-06-16T17:27:22.372924+05:30'
 last_checked: '2026-06-16T17:27:22.372924+05:30'

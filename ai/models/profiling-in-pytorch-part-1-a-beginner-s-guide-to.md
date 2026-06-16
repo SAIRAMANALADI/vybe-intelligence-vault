@@ -8,7 +8,7 @@ published_at: '2026-05-29T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372371+05:30'
 tags: []
 status: active
-resource_id: blog:profiling-in-pytorch-part-1-a-beginner-s-guide-to
+resource_id: huggingface:blog/torch-profiler
 first_seen: '2026-06-12T10:40:08.806891+00:00'
 last_seen: '2026-06-16T17:27:22.372371+05:30'
 last_checked: '2026-06-16T17:27:22.372371+05:30'

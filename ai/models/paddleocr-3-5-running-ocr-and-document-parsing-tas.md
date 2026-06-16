@@ -9,7 +9,7 @@ published_at: '2026-05-18T15:12:46+05:30'
 collected_at: '2026-06-16T17:27:22.372442+05:30'
 tags: []
 status: active
-resource_id: blog:paddleocr-3-5-running-ocr-and-document-parsing-tas
+resource_id: huggingface:blog/paddleocr-transformers
 first_seen: '2026-06-12T10:40:08.807016+00:00'
 last_seen: '2026-06-16T17:27:22.372442+05:30'
 last_checked: '2026-06-16T17:27:22.372442+05:30'

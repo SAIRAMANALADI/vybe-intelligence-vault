@@ -8,7 +8,7 @@ published_at: '2025-09-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374707+05:30'
 tags: []
 status: active
-resource_id: blog:mmbert-modernbert-goes-multilingual
+resource_id: huggingface:blog/mmbert
 first_seen: '2026-06-12T10:40:08.809857+00:00'
 last_seen: '2026-06-16T17:27:22.374707+05:30'
 last_checked: '2026-06-16T17:27:22.374707+05:30'

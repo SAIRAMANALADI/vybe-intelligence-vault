@@ -8,7 +8,7 @@ published_at: '2024-03-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377789+05:30'
 tags: []
 status: active
-resource_id: blog:a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak
+resource_id: huggingface:blog/phi2-intel-meteor-lake
 first_seen: '2026-06-15T06:35:32.420722+00:00'
 last_seen: '2026-06-16T17:27:22.377789+05:30'
 last_checked: '2026-06-16T17:27:22.377789+05:30'

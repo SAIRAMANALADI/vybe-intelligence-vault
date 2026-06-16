@@ -9,7 +9,7 @@ published_at: '2023-09-29T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378762+05:30'
 tags: []
 status: active
-resource_id: blog:ethics-and-society-newsletter-5-hugging-face-goes
+resource_id: huggingface:blog/ethics-soc-5
 first_seen: '2026-06-15T06:35:32.422160+00:00'
 last_seen: '2026-06-16T17:27:22.378762+05:30'
 last_checked: '2026-06-16T17:27:22.378762+05:30'

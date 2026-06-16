@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.374068+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:the-open-evaluation-standard-benchmarking-nvidia-n
+resource_id: huggingface:blog/nemotron-3-nano-evaluation-recipe
 first_seen: '2026-06-15T06:35:32.412631+00:00'
 last_seen: '2026-06-16T17:27:22.374068+05:30'
 last_checked: '2026-06-16T17:27:22.374068+05:30'

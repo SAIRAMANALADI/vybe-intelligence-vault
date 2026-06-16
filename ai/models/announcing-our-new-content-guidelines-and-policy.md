@@ -8,7 +8,7 @@ published_at: '2023-06-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379304+05:30'
 tags: []
 status: active
-resource_id: blog:announcing-our-new-content-guidelines-and-policy
+resource_id: huggingface:blog/content-guidelines-update
 first_seen: '2026-06-15T06:35:32.423408+00:00'
 last_seen: '2026-06-16T17:27:22.379304+05:30'
 last_checked: '2026-06-16T17:27:22.379304+05:30'

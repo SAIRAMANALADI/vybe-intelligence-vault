@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376867+05:30'
 tags:
 - models
 status: active
-resource_id: blog:fine-tuning-llms-to-1-58bit-extreme-quantization-m
+resource_id: huggingface:blog/1_58_llm_extreme_quantization
 first_seen: '2026-06-15T06:35:32.418636+00:00'
 last_seen: '2026-06-16T17:27:22.376867+05:30'
 last_checked: '2026-06-16T17:27:22.376867+05:30'

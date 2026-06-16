@@ -8,7 +8,7 @@ published_at: '2022-08-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380587+05:30'
 tags: []
 status: active
-resource_id: blog:train-and-fine-tune-sentence-transformers-models
+resource_id: huggingface:blog/how-to-train-sentence-transformers
 first_seen: '2026-06-12T10:40:08.823118+00:00'
 last_seen: '2026-06-16T17:27:22.380587+05:30'
 last_checked: '2026-06-16T17:27:22.380587+05:30'

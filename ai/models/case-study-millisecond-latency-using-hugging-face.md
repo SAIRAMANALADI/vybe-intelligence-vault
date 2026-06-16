@@ -8,7 +8,7 @@ published_at: '2022-01-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381189+05:30'
 tags: []
 status: active
-resource_id: blog:case-study-millisecond-latency-using-hugging-face
+resource_id: huggingface:blog/infinity-cpu-performance
 first_seen: '2026-06-15T06:35:32.427653+00:00'
 last_seen: '2026-06-16T17:27:22.381189+05:30'
 last_checked: '2026-06-16T17:27:22.381189+05:30'

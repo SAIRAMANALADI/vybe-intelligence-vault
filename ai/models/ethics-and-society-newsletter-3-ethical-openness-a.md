@@ -8,7 +8,7 @@ published_at: '2023-03-30T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379669+05:30'
 tags: []
 status: active
-resource_id: blog:ethics-and-society-newsletter-3-ethical-openness-a
+resource_id: huggingface:blog/ethics-soc-3
 first_seen: '2026-06-15T06:35:32.424226+00:00'
 last_seen: '2026-06-16T17:27:22.379669+05:30'
 last_checked: '2026-06-16T17:27:22.379669+05:30'

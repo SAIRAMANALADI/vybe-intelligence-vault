@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.375857+05:30'
 tags:
 - models
 status: active
-resource_id: blog:welcome-gemma-3-google-s-all-new-multimodal-multil
+resource_id: huggingface:blog/gemma3
 first_seen: '2026-06-12T10:40:08.812107+00:00'
 last_seen: '2026-06-16T17:27:22.375857+05:30'
 last_checked: '2026-06-16T17:27:22.375857+05:30'

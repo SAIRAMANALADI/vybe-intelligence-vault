@@ -8,7 +8,7 @@ published_at: '2025-08-07T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374885+05:30'
 tags: []
 status: active
-resource_id: blog:vision-language-model-alignment-in-trl
+resource_id: huggingface:blog/trl-vlm-alignment
 first_seen: '2026-06-12T10:40:08.810173+00:00'
 last_seen: '2026-06-16T17:27:22.374885+05:30'
 last_checked: '2026-06-16T17:27:22.374885+05:30'

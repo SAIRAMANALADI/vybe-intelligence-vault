@@ -8,7 +8,7 @@ published_at: '2022-02-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381151+05:30'
 tags: []
 status: active
-resource_id: blog:getting-started-with-sentiment-analysis-using-pyth
+resource_id: huggingface:blog/sentiment-analysis-python
 first_seen: '2026-06-15T06:35:32.427570+00:00'
 last_seen: '2026-06-16T17:27:22.381151+05:30'
 last_checked: '2026-06-16T17:27:22.381151+05:30'

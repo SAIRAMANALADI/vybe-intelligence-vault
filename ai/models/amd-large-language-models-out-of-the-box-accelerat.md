@@ -8,7 +8,7 @@ published_at: '2023-12-05T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378250+05:30'
 tags: []
 status: active
-resource_id: blog:amd-large-language-models-out-of-the-box-accelerat
+resource_id: huggingface:blog/huggingface-and-optimum-amd
 first_seen: '2026-06-15T06:35:32.421749+00:00'
 last_seen: '2026-06-16T17:27:22.378250+05:30'
 last_checked: '2026-06-16T17:27:22.378250+05:30'

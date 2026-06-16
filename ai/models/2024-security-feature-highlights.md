@@ -8,7 +8,7 @@ published_at: '2024-08-06T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377003+05:30'
 tags: []
 status: active
-resource_id: blog:2024-security-feature-highlights
+resource_id: huggingface:blog/2024-security-features
 first_seen: '2026-06-15T06:35:32.418938+00:00'
 last_seen: '2026-06-16T17:27:22.377003+05:30'
 last_checked: '2026-06-16T17:27:22.377003+05:30'

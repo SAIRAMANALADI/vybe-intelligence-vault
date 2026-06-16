@@ -8,7 +8,7 @@ published_at: '2025-01-28T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376141+05:30'
 tags: []
 status: active
-resource_id: blog:welcome-to-inference-providers-on-the-hub
+resource_id: huggingface:blog/inference-providers
 first_seen: '2026-06-12T10:40:08.812802+00:00'
 last_seen: '2026-06-16T17:27:22.376141+05:30'
 last_checked: '2026-06-16T17:27:22.376141+05:30'

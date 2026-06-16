@@ -8,7 +8,7 @@ published_at: '2025-11-17T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374237+05:30'
 tags: []
 status: active
-resource_id: blog:easily-build-and-share-rocm-kernels-with-hugging-f
+resource_id: huggingface:blog/build-rocm-kernels
 first_seen: '2026-06-15T06:35:32.412994+00:00'
 last_seen: '2026-06-16T17:27:22.374237+05:30'
 last_checked: '2026-06-16T17:27:22.374237+05:30'

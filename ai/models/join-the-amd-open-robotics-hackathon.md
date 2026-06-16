@@ -8,7 +8,7 @@ published_at: '2025-11-13T21:37:26+05:30'
 collected_at: '2026-06-16T17:27:22.374247+05:30'
 tags: []
 status: active
-resource_id: blog:join-the-amd-open-robotics-hackathon
+resource_id: huggingface:blog/openroboticshackathon
 first_seen: '2026-06-12T10:40:08.808857+00:00'
 last_seen: '2026-06-16T17:27:22.374247+05:30'
 last_checked: '2026-06-16T17:27:22.374247+05:30'

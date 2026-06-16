@@ -9,7 +9,7 @@ published_at: '2026-01-05T09:16:51+05:30'
 collected_at: '2026-06-16T17:27:22.373975+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-falcon-h1-arabic-pushing-the-boundarie
+resource_id: huggingface:blog/falcon-h1-arabic
 first_seen: '2026-06-15T06:35:32.412548+00:00'
 last_seen: '2026-06-16T17:27:22.373975+05:30'
 last_checked: '2026-06-16T17:27:22.373975+05:30'

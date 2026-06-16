@@ -8,7 +8,7 @@ published_at: '2023-10-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378712+05:30'
 tags: []
 status: active
-resource_id: blog:gradio-lite-serverless-gradio-running-entirely-in
+resource_id: huggingface:blog/gradio-lite
 first_seen: '2026-06-15T06:35:32.422038+00:00'
 last_seen: '2026-06-16T17:27:22.378712+05:30'
 last_checked: '2026-06-16T17:27:22.378712+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-07-21T18:01:30+05:30'
 collected_at: '2026-06-16T17:27:22.375015+05:30'
 tags: []
 status: active
-resource_id: blog:accelerate-a-world-of-llms-on-hugging-face-with-nv
+resource_id: huggingface:blog/multi-llm-nim
 first_seen: '2026-06-15T06:35:32.414626+00:00'
 last_seen: '2026-06-16T17:27:22.375015+05:30'
 last_checked: '2026-06-16T17:27:22.375015+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375400+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:tiny-agents-in-python-a-mcp-powered-agent-in-70-li
+resource_id: huggingface:blog/python-tiny-agents
 first_seen: '2026-06-12T10:40:08.811217+00:00'
 last_seen: '2026-06-16T17:27:22.375400+05:30'
 last_checked: '2026-06-16T17:27:22.375400+05:30'

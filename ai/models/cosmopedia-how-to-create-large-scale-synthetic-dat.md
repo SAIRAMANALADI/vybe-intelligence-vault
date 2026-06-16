@@ -9,7 +9,7 @@ published_at: '2024-03-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377798+05:30'
 tags: []
 status: active
-resource_id: blog:cosmopedia-how-to-create-large-scale-synthetic-dat
+resource_id: huggingface:blog/cosmopedia
 first_seen: '2026-06-15T06:35:32.420742+00:00'
 last_seen: '2026-06-16T17:27:22.377798+05:30'
 last_checked: '2026-06-16T17:27:22.377798+05:30'

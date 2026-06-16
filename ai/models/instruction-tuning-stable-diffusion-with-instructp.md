@@ -8,7 +8,7 @@ published_at: '2023-05-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379461+05:30'
 tags: []
 status: active
-resource_id: blog:instruction-tuning-stable-diffusion-with-instructp
+resource_id: huggingface:blog/instruction-tuning-sd
 first_seen: '2026-06-12T10:40:08.820846+00:00'
 last_seen: '2026-06-16T17:27:22.379461+05:30'
 last_checked: '2026-06-16T17:27:22.379461+05:30'

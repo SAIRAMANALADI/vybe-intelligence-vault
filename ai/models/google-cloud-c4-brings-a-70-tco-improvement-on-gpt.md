@@ -9,7 +9,7 @@ published_at: '2025-10-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374438+05:30'
 tags: []
 status: active
-resource_id: blog:google-cloud-c4-brings-a-70-tco-improvement-on-gpt
+resource_id: huggingface:blog/gpt-oss-on-intel-xeon
 first_seen: '2026-06-15T06:35:32.413418+00:00'
 last_seen: '2026-06-16T17:27:22.374438+05:30'
 last_checked: '2026-06-16T17:27:22.374438+05:30'

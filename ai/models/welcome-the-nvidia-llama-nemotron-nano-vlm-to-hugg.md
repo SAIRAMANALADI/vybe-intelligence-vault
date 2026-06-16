@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg
+resource_id: huggingface:blog/llama-nemotron-nano-vl
 first_seen: '2026-06-15T06:35:32.415029+00:00'
 last_seen: '2026-06-16T17:27:22.375211+05:30'
 last_checked: '2026-06-16T17:27:22.375211+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-07-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377121+05:30'
 tags: []
 status: active
-resource_id: blog:how-numinamath-won-the-1st-aimo-progress-prize
+resource_id: huggingface:blog/winning-aimo-progress-prize
 first_seen: '2026-06-15T06:35:32.419213+00:00'
 last_seen: '2026-06-16T17:27:22.377121+05:30'
 last_checked: '2026-06-16T17:27:22.377121+05:30'

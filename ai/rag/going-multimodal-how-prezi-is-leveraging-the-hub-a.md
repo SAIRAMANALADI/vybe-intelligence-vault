@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.377256+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:going-multimodal-how-prezi-is-leveraging-the-hub-a
+resource_id: huggingface:blog/prezi-case-study
 first_seen: '2026-06-15T06:35:32.419507+00:00'
 last_seen: '2026-06-16T17:27:22.377256+05:30'
 last_checked: '2026-06-16T17:27:22.377256+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-05-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375449+05:30'
 tags: []
 status: active
-resource_id: blog:microsoft-and-hugging-face-expand-collaboration
+resource_id: huggingface:blog/azure-ai-foundry
 first_seen: '2026-06-12T10:40:08.811317+00:00'
 last_seen: '2026-06-16T17:27:22.375449+05:30'
 last_checked: '2026-06-16T17:27:22.375449+05:30'

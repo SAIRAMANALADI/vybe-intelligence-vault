@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372910+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:introducing-storage-buckets-on-the-hugging-face-hu
+resource_id: huggingface:blog/storage-buckets
 first_seen: '2026-06-12T10:40:08.807738+00:00'
 last_seen: '2026-06-16T17:27:22.372910+05:30'
 last_checked: '2026-06-16T17:27:22.372910+05:30'

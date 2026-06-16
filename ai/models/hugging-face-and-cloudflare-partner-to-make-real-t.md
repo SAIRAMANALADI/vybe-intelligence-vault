@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.375664+05:30'
 tags:
 - youtube
 status: active
-resource_id: blog:hugging-face-and-cloudflare-partner-to-make-real-t
+resource_id: huggingface:blog/fastrtc-cloudflare
 first_seen: '2026-06-15T06:35:32.416123+00:00'
 last_seen: '2026-06-16T17:27:22.375664+05:30'
 last_checked: '2026-06-16T17:27:22.375664+05:30'

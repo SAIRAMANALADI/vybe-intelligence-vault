@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377838+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:cpu-optimized-embeddings-with-optimum-intel-and-fa
+resource_id: huggingface:blog/intel-fast-embedding
 first_seen: '2026-06-15T06:35:32.420828+00:00'
 last_seen: '2026-06-16T17:27:22.377838+05:30'
 last_checked: '2026-06-16T17:27:22.377838+05:30'

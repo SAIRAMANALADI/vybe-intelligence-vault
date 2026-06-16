@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373535+05:30'
 tags:
 - youtube
 status: active
-resource_id: blog:introducing-waypoint-1-real-time-interactive-video
+resource_id: huggingface:blog/waypoint-1
 first_seen: '2026-06-12T10:40:08.808324+00:00'
 last_seen: '2026-06-16T17:27:22.373535+05:30'
 last_checked: '2026-06-16T17:27:22.373535+05:30'

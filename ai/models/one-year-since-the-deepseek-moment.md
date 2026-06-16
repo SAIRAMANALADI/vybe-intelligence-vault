@@ -8,7 +8,7 @@ published_at: '2026-01-20T15:02:10+05:30'
 collected_at: '2026-06-16T17:27:22.373503+05:30'
 tags: []
 status: active
-resource_id: blog:one-year-since-the-deepseek-moment
+resource_id: huggingface:blog/one-year-since-the-deepseek-moment
 first_seen: '2026-06-15T06:35:32.412438+00:00'
 last_seen: '2026-06-16T17:27:22.373503+05:30'
 last_checked: '2026-06-16T17:27:22.373503+05:30'

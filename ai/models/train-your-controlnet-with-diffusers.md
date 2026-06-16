@@ -8,7 +8,7 @@ published_at: '2023-03-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379707+05:30'
 tags: []
 status: active
-resource_id: blog:train-your-controlnet-with-diffusers
+resource_id: huggingface:blog/train-your-controlnet
 first_seen: '2026-06-12T10:40:08.821343+00:00'
 last_seen: '2026-06-16T17:27:22.379707+05:30'
 last_checked: '2026-06-16T17:27:22.379707+05:30'

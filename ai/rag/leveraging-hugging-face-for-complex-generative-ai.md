@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379207+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:leveraging-hugging-face-for-complex-generative-ai
+resource_id: huggingface:blog/writer-case-study
 first_seen: '2026-06-12T10:40:08.820308+00:00'
 last_seen: '2026-06-16T17:27:22.379207+05:30'
 last_checked: '2026-06-16T17:27:22.379207+05:30'

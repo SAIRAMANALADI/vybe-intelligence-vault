@@ -8,7 +8,7 @@ published_at: '2021-10-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381354+05:30'
 tags: []
 status: active
-resource_id: blog:fine-tuning-clip-with-remote-sensing-satellite-ima
+resource_id: huggingface:blog/fine-tune-clip-rsicd
 first_seen: '2026-06-15T06:35:32.428002+00:00'
 last_seen: '2026-06-16T17:27:22.381354+05:30'
 last_checked: '2026-06-16T17:27:22.381354+05:30'

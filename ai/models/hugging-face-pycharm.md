@@ -8,7 +8,7 @@ published_at: '2024-11-05T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376564+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-pycharm
+resource_id: huggingface:blog/pycharm-integration
 first_seen: '2026-06-15T06:35:32.417938+00:00'
 last_seen: '2026-06-16T17:27:22.376564+05:30'
 last_checked: '2026-06-16T17:27:22.376564+05:30'

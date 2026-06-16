@@ -8,7 +8,7 @@ published_at: '2024-02-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377965+05:30'
 tags: []
 status: active
-resource_id: blog:peft-welcomes-new-merging-methods
+resource_id: huggingface:blog/peft_merging
 first_seen: '2026-06-12T10:40:08.816787+00:00'
 last_seen: '2026-06-16T17:27:22.377965+05:30'
 last_checked: '2026-06-16T17:27:22.377965+05:30'

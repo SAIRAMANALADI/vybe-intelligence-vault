@@ -12,7 +12,7 @@ tags:
 - dataset
 - models
 status: active
-resource_id: blog:argilla-2-4-easily-build-fine-tuning-and-evaluatio
+resource_id: huggingface:blog/argilla-ui-hub
 first_seen: '2026-06-15T06:35:32.417957+00:00'
 last_seen: '2026-06-16T17:27:22.376574+05:30'
 last_checked: '2026-06-16T17:27:22.376574+05:30'

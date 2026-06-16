@@ -10,7 +10,7 @@ tags:
 - benchmark
 - models
 status: active
-resource_id: blog:lave-zero-shot-vqa-evaluation-on-docmatix-with-llm
+resource_id: huggingface:blog/zero-shot-vqa-docmatix
 first_seen: '2026-06-12T10:40:08.814678+00:00'
 last_seen: '2026-06-16T17:27:22.377054+05:30'
 last_checked: '2026-06-16T17:27:22.377054+05:30'

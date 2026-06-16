@@ -8,7 +8,7 @@ published_at: '2024-12-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376460+05:30'
 tags: []
 status: active
-resource_id: blog:open-source-developers-guide-to-the-eu-ai-act
+resource_id: huggingface:blog/eu-ai-act-for-oss-developers
 first_seen: '2026-06-12T10:40:08.813427+00:00'
 last_seen: '2026-06-16T17:27:22.376460+05:30'
 last_checked: '2026-06-16T17:27:22.376460+05:30'

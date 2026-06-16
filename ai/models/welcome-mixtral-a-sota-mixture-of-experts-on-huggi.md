@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378221+05:30'
 tags:
 - mistral
 status: active
-resource_id: blog:welcome-mixtral-a-sota-mixture-of-experts-on-huggi
+resource_id: huggingface:blog/mixtral
 first_seen: '2026-06-12T10:40:08.817330+00:00'
 last_seen: '2026-06-16T17:27:22.378221+05:30'
 last_checked: '2026-06-16T17:27:22.378221+05:30'

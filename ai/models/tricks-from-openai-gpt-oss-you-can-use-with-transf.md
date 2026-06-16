@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374674+05:30'
 tags:
 - openai
 status: active
-resource_id: blog:tricks-from-openai-gpt-oss-you-can-use-with-transf
+resource_id: huggingface:blog/faster-transformers
 first_seen: '2026-06-12T10:40:08.809668+00:00'
 last_seen: '2026-06-16T17:27:22.374674+05:30'
 last_checked: '2026-06-16T17:27:22.374674+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-05-27T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372383+05:30'
 tags: []
 status: active
-resource_id: blog:reachy-mini-goes-fully-local
+resource_id: huggingface:blog/local-reachy-mini-conversation
 first_seen: '2026-06-12T10:40:08.806912+00:00'
 last_seen: '2026-06-16T17:27:22.372383+05:30'
 last_checked: '2026-06-16T17:27:22.372383+05:30'

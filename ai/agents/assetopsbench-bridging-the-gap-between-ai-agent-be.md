@@ -11,7 +11,7 @@ tags:
 - agents
 - benchmark
 status: active
-resource_id: blog:assetopsbench-bridging-the-gap-between-ai-agent-be
+resource_id: huggingface:blog/assetopsbench-playground-on-hugging-face
 first_seen: '2026-06-15T06:35:32.412412+00:00'
 last_seen: '2026-06-16T17:27:22.373485+05:30'
 last_checked: '2026-06-16T17:27:22.373485+05:30'

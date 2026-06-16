@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373463+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:unlocking-agentic-rl-training-for-gpt-oss-a-practi
+resource_id: huggingface:blog/gpt-oss-agentic-rl
 first_seen: '2026-06-12T10:40:08.808242+00:00'
 last_seen: '2026-06-16T17:27:22.373463+05:30'
 last_checked: '2026-06-16T17:27:22.373463+05:30'

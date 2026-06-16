@@ -8,7 +8,7 @@ published_at: '2022-06-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380788+05:30'
 tags: []
 status: active
-resource_id: blog:director-of-machine-learning-insights-part-3-finan
+resource_id: huggingface:blog/ml-director-insights-3
 first_seen: '2026-06-15T06:35:32.426682+00:00'
 last_seen: '2026-06-16T17:27:22.380788+05:30'
 last_checked: '2026-06-16T17:27:22.380788+05:30'

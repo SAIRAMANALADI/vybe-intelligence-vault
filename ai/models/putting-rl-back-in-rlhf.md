@@ -8,7 +8,7 @@ published_at: '2024-06-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377295+05:30'
 tags: []
 status: active
-resource_id: blog:putting-rl-back-in-rlhf
+resource_id: huggingface:blog/putting_rl_back_in_rlhf_with_rloo
 first_seen: '2026-06-12T10:40:08.815280+00:00'
 last_seen: '2026-06-16T17:27:22.377295+05:30'
 last_checked: '2026-06-16T17:27:22.377295+05:30'

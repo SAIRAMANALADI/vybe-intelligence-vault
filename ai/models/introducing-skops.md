@@ -8,7 +8,7 @@ published_at: '2022-08-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380558+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-skops
+resource_id: huggingface:blog/skops
 first_seen: '2026-06-12T10:40:08.823056+00:00'
 last_seen: '2026-06-16T17:27:22.380558+05:30'
 last_checked: '2026-06-16T17:27:22.380558+05:30'

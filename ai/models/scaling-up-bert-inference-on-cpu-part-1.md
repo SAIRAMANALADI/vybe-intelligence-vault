@@ -8,7 +8,7 @@ published_at: '2021-04-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381468+05:30'
 tags: []
 status: active
-resource_id: blog:scaling-up-bert-inference-on-cpu-part-1
+resource_id: huggingface:blog/bert-cpu-scaling-part-1
 first_seen: '2026-06-12T10:40:08.825091+00:00'
 last_seen: '2026-06-16T17:27:22.381468+05:30'
 last_checked: '2026-06-16T17:27:22.381468+05:30'

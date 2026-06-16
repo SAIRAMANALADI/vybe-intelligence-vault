@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373986+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:nvidia-brings-agents-to-life-with-dgx-spark-and-re
+resource_id: huggingface:blog/nvidia-reachy-mini
 first_seen: '2026-06-12T10:40:08.808410+00:00'
 last_seen: '2026-06-16T17:27:22.373986+05:30'
 last_checked: '2026-06-16T17:27:22.373986+05:30'

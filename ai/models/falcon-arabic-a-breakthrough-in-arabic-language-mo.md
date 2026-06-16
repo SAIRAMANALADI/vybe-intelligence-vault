@@ -8,7 +8,7 @@ published_at: '2025-05-21T06:35:36+05:30'
 collected_at: '2026-06-16T17:27:22.375420+05:30'
 tags: []
 status: active
-resource_id: blog:falcon-arabic-a-breakthrough-in-arabic-language-mo
+resource_id: huggingface:blog/falcon-arabic
 first_seen: '2026-06-15T06:35:32.415506+00:00'
 last_seen: '2026-06-16T17:27:22.375420+05:30'
 last_checked: '2026-06-16T17:27:22.375420+05:30'

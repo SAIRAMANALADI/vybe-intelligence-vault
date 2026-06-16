@@ -8,7 +8,7 @@ published_at: '2023-05-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379521+05:30'
 tags: []
 status: active
-resource_id: blog:assisted-generation-a-new-direction-toward-low-lat
+resource_id: huggingface:blog/assisted-generation
 first_seen: '2026-06-15T06:35:32.423872+00:00'
 last_seen: '2026-06-16T17:27:22.379521+05:30'
 last_checked: '2026-06-16T17:27:22.379521+05:30'

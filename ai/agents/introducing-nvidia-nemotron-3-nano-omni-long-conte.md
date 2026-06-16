@@ -11,7 +11,7 @@ tags:
 - agents
 - youtube
 status: active
-resource_id: blog:introducing-nvidia-nemotron-3-nano-omni-long-conte
+resource_id: huggingface:blog/nemotron-3-nano-omni-multimodal-intelligence
 first_seen: '2026-06-15T06:35:32.411282+00:00'
 last_seen: '2026-06-16T17:27:22.372531+05:30'
 last_checked: '2026-06-16T17:27:22.372531+05:30'

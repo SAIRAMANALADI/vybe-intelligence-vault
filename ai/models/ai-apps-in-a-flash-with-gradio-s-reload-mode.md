@@ -8,7 +8,7 @@ published_at: '2024-04-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377617+05:30'
 tags: []
 status: active
-resource_id: blog:ai-apps-in-a-flash-with-gradio-s-reload-mode
+resource_id: huggingface:blog/gradio-reload
 first_seen: '2026-06-15T06:35:32.420367+00:00'
 last_seen: '2026-06-16T17:27:22.377617+05:30'
 last_checked: '2026-06-16T17:27:22.377617+05:30'

@@ -8,7 +8,7 @@ published_at: '2022-06-07T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380807+05:30'
 tags: []
 status: active
-resource_id: blog:deep-q-learning-with-space-invaders
+resource_id: huggingface:blog/deep-rl-dqn
 first_seen: '2026-06-15T06:35:32.426721+00:00'
 last_seen: '2026-06-16T17:27:22.380807+05:30'
 last_checked: '2026-06-16T17:27:22.380807+05:30'

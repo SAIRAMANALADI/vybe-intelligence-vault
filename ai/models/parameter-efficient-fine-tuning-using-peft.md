@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379859+05:30'
 tags:
 - models
 status: active
-resource_id: blog:parameter-efficient-fine-tuning-using-peft
+resource_id: huggingface:blog/peft
 first_seen: '2026-06-12T10:40:08.821723+00:00'
 last_seen: '2026-06-16T17:27:22.379859+05:30'
 last_checked: '2026-06-16T17:27:22.379859+05:30'

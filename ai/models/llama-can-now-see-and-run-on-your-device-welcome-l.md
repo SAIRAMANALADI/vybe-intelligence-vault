@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:llama-can-now-see-and-run-on-your-device-welcome-l
+resource_id: huggingface:blog/llama32
 first_seen: '2026-06-12T10:40:08.814178+00:00'
 last_seen: '2026-06-16T17:27:22.376828+05:30'
 last_checked: '2026-06-16T17:27:22.376828+05:30'

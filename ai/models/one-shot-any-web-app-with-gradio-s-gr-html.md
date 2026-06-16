@@ -8,7 +8,7 @@ published_at: '2026-02-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.373230+05:30'
 tags: []
 status: active
-resource_id: blog:one-shot-any-web-app-with-gradio-s-gr-html
+resource_id: huggingface:blog/gradio-html-one-shot-apps
 first_seen: '2026-06-12T10:40:08.807969+00:00'
 last_seen: '2026-06-16T17:27:22.373230+05:30'
 last_checked: '2026-06-16T17:27:22.373230+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374562+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:smol2operator-post-training-gui-agents-for-compute
+resource_id: huggingface:blog/smol2operator
 first_seen: '2026-06-12T10:40:08.809457+00:00'
 last_seen: '2026-06-16T17:27:22.374562+05:30'
 last_checked: '2026-06-16T17:27:22.374562+05:30'

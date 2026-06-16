@@ -8,7 +8,7 @@ published_at: '2024-10-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376606+05:30'
 tags: []
 status: active
-resource_id: blog:a-deepdive-into-aya-expanse-advancing-the-frontier
+resource_id: huggingface:blog/aya-expanse
 first_seen: '2026-06-15T06:35:32.418120+00:00'
 last_seen: '2026-06-16T17:27:22.376606+05:30'
 last_checked: '2026-06-16T17:27:22.376606+05:30'

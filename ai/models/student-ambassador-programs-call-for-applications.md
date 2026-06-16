@@ -8,7 +8,7 @@ published_at: '2022-05-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380923+05:30'
 tags: []
 status: active
-resource_id: blog:student-ambassador-programs-call-for-applications
+resource_id: huggingface:blog/ambassadors
 first_seen: '2026-06-12T10:40:08.823868+00:00'
 last_seen: '2026-06-16T17:27:22.380923+05:30'
 last_checked: '2026-06-16T17:27:22.380923+05:30'

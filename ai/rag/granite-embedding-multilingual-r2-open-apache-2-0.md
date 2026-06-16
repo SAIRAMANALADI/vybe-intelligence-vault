@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.372454+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:granite-embedding-multilingual-r2-open-apache-2-0
+resource_id: huggingface:blog/granite-embedding-multilingual-r2
 first_seen: '2026-06-15T06:35:32.411128+00:00'
 last_seen: '2026-06-16T17:27:22.372454+05:30'
 last_checked: '2026-06-16T17:27:22.372454+05:30'

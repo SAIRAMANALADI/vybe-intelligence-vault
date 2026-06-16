@@ -9,7 +9,7 @@ published_at: '2023-04-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379600+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-huggingface-blog-for-chinese-speakers
+resource_id: huggingface:blog/chinese-language-blog
 first_seen: '2026-06-12T10:40:08.821126+00:00'
 last_seen: '2026-06-16T17:27:22.379600+05:30'
 last_checked: '2026-06-16T17:27:22.379600+05:30'

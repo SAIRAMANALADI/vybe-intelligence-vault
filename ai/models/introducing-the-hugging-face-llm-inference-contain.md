@@ -8,7 +8,7 @@ published_at: '2023-05-31T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379391+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-the-hugging-face-llm-inference-contain
+resource_id: huggingface:blog/sagemaker-huggingface-llm
 first_seen: '2026-06-12T10:40:08.820707+00:00'
 last_seen: '2026-06-16T17:27:22.379391+05:30'
 last_checked: '2026-06-16T17:27:22.379391+05:30'

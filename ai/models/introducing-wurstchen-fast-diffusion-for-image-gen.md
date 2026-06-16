@@ -8,7 +8,7 @@ published_at: '2023-09-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378850+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-wurstchen-fast-diffusion-for-image-gen
+resource_id: huggingface:blog/wuerstchen
 first_seen: '2026-06-12T10:40:08.819526+00:00'
 last_seen: '2026-06-16T17:27:22.378850+05:30'
 last_checked: '2026-06-16T17:27:22.378850+05:30'

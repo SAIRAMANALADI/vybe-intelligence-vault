@@ -8,7 +8,7 @@ published_at: '2026-02-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.373074+05:30'
 tags: []
 status: active
-resource_id: blog:mixture-of-experts-moes-in-transformers
+resource_id: huggingface:blog/moe-transformers
 first_seen: '2026-06-12T10:40:08.807887+00:00'
 last_seen: '2026-06-16T17:27:22.373074+05:30'
 last_checked: '2026-06-16T17:27:22.373074+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379500+05:30'
 tags:
 - openai
 status: active
-resource_id: blog:run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro
+resource_id: huggingface:blog/chatbot-amd-gpu
 first_seen: '2026-06-12T10:40:08.820928+00:00'
 last_seen: '2026-06-16T17:27:22.379500+05:30'
 last_checked: '2026-06-16T17:27:22.379500+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-02-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375996+05:30'
 tags: []
 status: active
-resource_id: blog:welcome-fireworks-ai-on-the-hub
+resource_id: huggingface:blog/fireworks-ai
 first_seen: '2026-06-12T10:40:08.812479+00:00'
 last_seen: '2026-06-16T17:27:22.375996+05:30'
 last_checked: '2026-06-16T17:27:22.375996+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374696+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:jupyter-agents-training-llms-to-reason-with-notebo
+resource_id: huggingface:blog/jupyter-agent-2
 first_seen: '2026-06-12T10:40:08.809836+00:00'
 last_seen: '2026-06-16T17:27:22.374696+05:30'
 last_checked: '2026-06-16T17:27:22.374696+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374757+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:nvidia-releases-6-million-multi-lingual-reasoning
+resource_id: huggingface:blog/multilingual-reasoning-v1
 first_seen: '2026-06-15T06:35:32.414176+00:00'
 last_seen: '2026-06-16T17:27:22.374757+05:30'
 last_checked: '2026-06-16T17:27:22.374757+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375967+05:30'
 tags:
 - youtube
 status: active
-resource_id: blog:smolvlm2-bringing-video-understanding-to-every-dev
+resource_id: huggingface:blog/smolvlm2
 first_seen: '2026-06-12T10:40:08.812415+00:00'
 last_seen: '2026-06-16T17:27:22.375967+05:30'
 last_checked: '2026-06-16T17:27:22.375967+05:30'

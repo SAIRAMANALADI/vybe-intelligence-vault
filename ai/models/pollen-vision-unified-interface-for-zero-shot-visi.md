@@ -8,7 +8,7 @@ published_at: '2024-03-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377743+05:30'
 tags: []
 status: active
-resource_id: blog:pollen-vision-unified-interface-for-zero-shot-visi
+resource_id: huggingface:blog/pollen-vision
 first_seen: '2026-06-12T10:40:08.816239+00:00'
 last_seen: '2026-06-16T17:27:22.377743+05:30'
 last_checked: '2026-06-16T17:27:22.377743+05:30'

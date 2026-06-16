@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374122+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:deepmath-a-lightweight-math-reasoning-agent-with-s
+resource_id: huggingface:blog/intel-deepmath
 first_seen: '2026-06-15T06:35:32.412741+00:00'
 last_seen: '2026-06-16T17:27:22.374122+05:30'
 last_checked: '2026-06-16T17:27:22.374122+05:30'

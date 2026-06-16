@@ -8,7 +8,7 @@ published_at: '2023-04-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379639+05:30'
 tags: []
 status: active
-resource_id: blog:creating-privacy-preserving-ai-with-substra
+resource_id: huggingface:blog/owkin-substra
 first_seen: '2026-06-15T06:35:32.424162+00:00'
 last_seen: '2026-06-16T17:27:22.379639+05:30'
 last_checked: '2026-06-16T17:27:22.379639+05:30'

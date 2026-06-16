@@ -8,7 +8,7 @@ published_at: '2022-01-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381170+05:30'
 tags: []
 status: active
-resource_id: blog:supercharged-searching-on-the-hub
+resource_id: huggingface:blog/searching-the-hub
 first_seen: '2026-06-12T10:40:08.824453+00:00'
 last_seen: '2026-06-16T17:27:22.381170+05:30'
 last_checked: '2026-06-16T17:27:22.381170+05:30'

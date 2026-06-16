@@ -8,7 +8,7 @@ published_at: '2025-07-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375140+05:30'
 tags: []
 status: active
-resource_id: blog:creating-custom-kernels-for-the-amd-mi300
+resource_id: huggingface:blog/mi300kernels
 first_seen: '2026-06-15T06:35:32.414883+00:00'
 last_seen: '2026-06-16T17:27:22.375140+05:30'
 last_checked: '2026-06-16T17:27:22.375140+05:30'

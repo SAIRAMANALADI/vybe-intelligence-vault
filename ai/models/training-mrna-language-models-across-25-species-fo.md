@@ -8,7 +8,7 @@ published_at: '2026-03-31T08:23:44+05:30'
 collected_at: '2026-06-16T17:27:22.372827+05:30'
 tags: []
 status: active
-resource_id: blog:training-mrna-language-models-across-25-species-fo
+resource_id: huggingface:blog/training-mrna-models-25-species
 first_seen: '2026-06-12T10:40:08.807569+00:00'
 last_seen: '2026-06-16T17:27:22.372827+05:30'
 last_checked: '2026-06-16T17:27:22.372827+05:30'

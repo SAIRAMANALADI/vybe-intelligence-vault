@@ -8,7 +8,7 @@ published_at: '2023-06-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379323+05:30'
 tags: []
 status: active
-resource_id: blog:can-foundation-models-label-data-like-humans
+resource_id: huggingface:blog/open-llm-leaderboard-rlhf
 first_seen: '2026-06-15T06:35:32.423448+00:00'
 last_seen: '2026-06-16T17:27:22.379323+05:30'
 last_checked: '2026-06-16T17:27:22.379323+05:30'

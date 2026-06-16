@@ -8,7 +8,7 @@ published_at: '2025-04-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375644+05:30'
 tags: []
 status: active
-resource_id: blog:4m-models-scanned-protect-ai-hugging-face-6-months
+resource_id: huggingface:blog/pai-6-month
 first_seen: '2026-06-15T06:35:32.416078+00:00'
 last_seen: '2026-06-16T17:27:22.375644+05:30'
 last_checked: '2026-06-16T17:27:22.375644+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-07-08T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375171+05:30'
 tags: []
 status: active
-resource_id: blog:three-mighty-alerts-supporting-hugging-faces-produ
+resource_id: huggingface:blog/infrastructure-alerting
 first_seen: '2026-06-12T10:40:08.810739+00:00'
 last_seen: '2026-06-16T17:27:22.375171+05:30'
 last_checked: '2026-06-16T17:27:22.375171+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-06-09T10:26:23+00:00'
 collected_at: '2026-06-11T08:37:58.323288+00:00'
 tags: []
 status: new
-resource_id: blog:introducing-north-mini-code-coheres-first-model-fo
+resource_id: huggingface:blog/introducing-north-mini-code
 ---
 
 

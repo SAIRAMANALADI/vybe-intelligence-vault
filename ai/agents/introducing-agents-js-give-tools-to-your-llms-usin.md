@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379107+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:introducing-agents-js-give-tools-to-your-llms-usin
+resource_id: huggingface:blog/agents-js
 first_seen: '2026-06-12T10:40:08.820106+00:00'
 last_seen: '2026-06-16T17:27:22.379107+05:30'
 last_checked: '2026-06-16T17:27:22.379107+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372188+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:how-an-agent-built-a-3d-paris-gallery-by-chaining
+resource_id: huggingface:blog/spaces-agents-md
 first_seen: '2026-06-15T06:35:32.410711+00:00'
 last_seen: '2026-06-16T17:27:22.372188+05:30'
 last_checked: '2026-06-16T17:27:22.372188+05:30'

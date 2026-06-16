@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374896+05:30'
 tags:
 - openai
 status: active
-resource_id: blog:welcome-gpt-oss-the-new-open-source-model-family-f
+resource_id: huggingface:blog/welcome-openai-gpt-oss
 first_seen: '2026-06-12T10:40:08.810194+00:00'
 last_seen: '2026-06-16T17:27:22.374896+05:30'
 last_checked: '2026-06-16T17:27:22.374896+05:30'

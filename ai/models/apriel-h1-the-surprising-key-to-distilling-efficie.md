@@ -8,7 +8,7 @@ published_at: '2025-11-19T05:19:07+05:30'
 collected_at: '2026-06-16T17:27:22.374227+05:30'
 tags: []
 status: active
-resource_id: blog:apriel-h1-the-surprising-key-to-distilling-efficie
+resource_id: huggingface:blog/apriel-h1
 first_seen: '2026-06-15T06:35:32.412969+00:00'
 last_seen: '2026-06-16T17:27:22.374227+05:30'
 last_checked: '2026-06-16T17:27:22.374227+05:30'

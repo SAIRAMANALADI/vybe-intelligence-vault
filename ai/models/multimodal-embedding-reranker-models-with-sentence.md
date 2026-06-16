@@ -8,7 +8,7 @@ published_at: '2026-04-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372689+05:30'
 tags: []
 status: active
-resource_id: blog:multimodal-embedding-reranker-models-with-sentence
+resource_id: huggingface:blog/multimodal-sentence-transformers
 first_seen: '2026-06-12T10:40:08.807443+00:00'
 last_seen: '2026-06-16T17:27:22.372689+05:30'
 last_checked: '2026-06-16T17:27:22.372689+05:30'

@@ -8,7 +8,7 @@ published_at: '2021-07-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381420+05:30'
 tags: []
 status: active
-resource_id: blog:welcome-spacy-to-the-hugging-face-hub
+resource_id: huggingface:blog/spacy
 first_seen: '2026-06-12T10:40:08.824992+00:00'
 last_seen: '2026-06-16T17:27:22.381420+05:30'
 last_checked: '2026-06-16T17:27:22.381420+05:30'

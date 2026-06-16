@@ -8,7 +8,7 @@ published_at: '2023-12-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378231+05:30'
 tags: []
 status: active
-resource_id: blog:mixture-of-experts-explained
+resource_id: huggingface:blog/moe
 first_seen: '2026-06-12T10:40:08.817349+00:00'
 last_seen: '2026-06-16T17:27:22.378231+05:30'
 last_checked: '2026-06-16T17:27:22.378231+05:30'

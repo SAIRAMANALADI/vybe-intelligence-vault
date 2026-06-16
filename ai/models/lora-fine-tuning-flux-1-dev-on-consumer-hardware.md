@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375240+05:30'
 tags:
 - models
 status: active
-resource_id: blog:lora-fine-tuning-flux-1-dev-on-consumer-hardware
+resource_id: huggingface:blog/flux-qlora
 first_seen: '2026-06-12T10:40:08.810880+00:00'
 last_seen: '2026-06-16T17:27:22.375240+05:30'
 last_checked: '2026-06-16T17:27:22.375240+05:30'

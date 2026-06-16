@@ -11,7 +11,7 @@ tags:
 - leaderboard
 - rag
 status: active
-resource_id: blog:rethinking-llm-evaluation-with-3c3h-aragen-benchma
+resource_id: huggingface:blog/leaderboard-3c3h-aragen
 first_seen: '2026-06-12T10:40:08.813382+00:00'
 last_seen: '2026-06-16T17:27:22.376435+05:30'
 last_checked: '2026-06-16T17:27:22.376435+05:30'

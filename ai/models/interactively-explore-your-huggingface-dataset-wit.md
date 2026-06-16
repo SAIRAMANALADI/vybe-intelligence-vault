@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378348+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:interactively-explore-your-huggingface-dataset-wit
+resource_id: huggingface:blog/scalable-data-inspection
 first_seen: '2026-06-12T10:40:08.819071+00:00'
 last_seen: '2026-06-16T17:27:22.378348+05:30'
 last_checked: '2026-06-16T17:27:22.378348+05:30'

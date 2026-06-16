@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374338+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:streaming-datasets-100x-more-efficient
+resource_id: huggingface:blog/streaming-datasets
 first_seen: '2026-06-12T10:40:08.809031+00:00'
 last_seen: '2026-06-16T17:27:22.374338+05:30'
 last_checked: '2026-06-16T17:27:22.374338+05:30'

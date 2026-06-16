@@ -8,7 +8,7 @@ published_at: '2026-03-03T16:50:49+05:30'
 collected_at: '2026-06-16T17:27:22.372999+05:30'
 tags: []
 status: active
-resource_id: blog:prx-part-3-training-a-text-to-image-model-in-24h
+resource_id: huggingface:blog/prx-part3
 first_seen: '2026-06-12T10:40:08.807862+00:00'
 last_seen: '2026-06-16T17:27:22.372999+05:30'
 last_checked: '2026-06-16T17:27:22.372999+05:30'

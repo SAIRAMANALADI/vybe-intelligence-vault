@@ -8,7 +8,7 @@ published_at: '2026-03-31T15:10:41+05:30'
 collected_at: '2026-06-16T17:27:22.372803+05:30'
 tags: []
 status: active
-resource_id: blog:granite-4-0-3b-vision-compact-multimodal-intellige
+resource_id: huggingface:blog/granite-4-vision
 first_seen: '2026-06-15T06:35:32.411652+00:00'
 last_seen: '2026-06-16T17:27:22.372803+05:30'
 last_checked: '2026-06-16T17:27:22.372803+05:30'

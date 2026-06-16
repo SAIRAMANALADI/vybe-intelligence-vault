@@ -8,7 +8,7 @@ published_at: '2022-11-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380186+05:30'
 tags: []
 status: active
-resource_id: blog:an-overview-of-inference-solutions-on-hugging-face
+resource_id: huggingface:blog/inference-update
 first_seen: '2026-06-15T06:35:32.425460+00:00'
 last_seen: '2026-06-16T17:27:22.380186+05:30'
 last_checked: '2026-06-16T17:27:22.380186+05:30'

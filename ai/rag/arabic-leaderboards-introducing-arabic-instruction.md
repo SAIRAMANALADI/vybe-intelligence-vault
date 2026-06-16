@@ -11,7 +11,7 @@ tags:
 - leaderboard
 - rag
 status: active
-resource_id: blog:arabic-leaderboards-introducing-arabic-instruction
+resource_id: huggingface:blog/leaderboard-3c3h-aragen-ifeval
 first_seen: '2026-06-15T06:35:32.416143+00:00'
 last_seen: '2026-06-16T17:27:22.375676+05:30'
 last_checked: '2026-06-16T17:27:22.375676+05:30'

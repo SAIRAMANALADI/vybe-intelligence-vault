@@ -11,7 +11,7 @@ tags:
 - benchmark
 - leaderboard
 status: active
-resource_id: blog:introducing-the-livecodebench-leaderboard-holistic
+resource_id: huggingface:blog/leaderboard-livecodebench
 first_seen: '2026-06-12T10:40:08.815984+00:00'
 last_seen: '2026-06-16T17:27:22.377627+05:30'
 last_checked: '2026-06-16T17:27:22.377627+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-05-06T19:06:55+05:30'
 collected_at: '2026-06-16T17:27:22.372486+05:30'
 tags: []
 status: active
-resource_id: blog:vllm-v0-to-v1-correctness-before-corrections-in-rl
+resource_id: huggingface:blog/correctness-before-corrections
 first_seen: '2026-06-12T10:40:08.807101+00:00'
 last_seen: '2026-06-16T17:27:22.372486+05:30'
 last_checked: '2026-06-16T17:27:22.372486+05:30'

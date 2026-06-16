@@ -8,7 +8,7 @@ published_at: '2025-09-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374610+05:30'
 tags: []
 status: active
-resource_id: blog:democratizing-ai-safety-with-riskrubric-ai
+resource_id: huggingface:blog/riskrubric
 first_seen: '2026-06-15T06:35:32.413896+00:00'
 last_seen: '2026-06-16T17:27:22.374610+05:30'
 last_checked: '2026-06-16T17:27:22.374610+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375877+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:lerobot-goes-to-driving-school-worlds-largest-open
+resource_id: huggingface:blog/lerobot-goes-to-driving-school
 first_seen: '2026-06-12T10:40:08.812146+00:00'
 last_seen: '2026-06-16T17:27:22.375877+05:30'
 last_checked: '2026-06-16T17:27:22.375877+05:30'

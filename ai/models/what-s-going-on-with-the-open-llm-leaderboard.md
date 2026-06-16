@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379236+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:what-s-going-on-with-the-open-llm-leaderboard
+resource_id: huggingface:blog/open-llm-leaderboard-mmlu
 first_seen: '2026-06-12T10:40:08.820364+00:00'
 last_seen: '2026-06-16T17:27:22.379236+05:30'
 last_checked: '2026-06-16T17:27:22.379236+05:30'

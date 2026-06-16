@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378172+05:30'
 tags:
 - models
 status: active
-resource_id: blog:make-llm-fine-tuning-2x-faster-with-unsloth-and-tr
+resource_id: huggingface:blog/unsloth-trl
 first_seen: '2026-06-12T10:40:08.817224+00:00'
 last_seen: '2026-06-16T17:27:22.378172+05:30'
 last_checked: '2026-06-16T17:27:22.378172+05:30'

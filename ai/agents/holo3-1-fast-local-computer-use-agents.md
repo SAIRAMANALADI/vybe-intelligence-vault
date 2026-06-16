@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372273+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:holo3-1-fast-local-computer-use-agents
+resource_id: huggingface:blog/holo31
 first_seen: '2026-06-15T06:35:32.410865+00:00'
 last_seen: '2026-06-16T17:27:22.372273+05:30'
 last_checked: '2026-06-16T17:27:22.372273+05:30'

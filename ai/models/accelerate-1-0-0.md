@@ -8,7 +8,7 @@ published_at: '2024-09-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376897+05:30'
 tags: []
 status: active
-resource_id: blog:accelerate-1-0-0
+resource_id: huggingface:blog/accelerate-v1
 first_seen: '2026-06-15T06:35:32.418698+00:00'
 last_seen: '2026-06-16T17:27:22.376897+05:30'
 last_checked: '2026-06-16T17:27:22.376897+05:30'

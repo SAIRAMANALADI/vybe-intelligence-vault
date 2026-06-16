@@ -9,7 +9,7 @@ published_at: '2023-08-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379045+05:30'
 tags: []
 status: active
-resource_id: blog:huggy-lingo-using-machine-learning-to-improve-lang
+resource_id: huggingface:blog/huggy-lingo
 first_seen: '2026-06-12T10:40:08.819969+00:00'
 last_seen: '2026-06-16T17:27:22.379045+05:30'
 last_checked: '2026-06-16T17:27:22.379045+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-09-17T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374620+05:30'
 tags: []
 status: active
-resource_id: blog:public-ai-on-hugging-face-inference-providers
+resource_id: huggingface:blog/inference-providers-publicai
 first_seen: '2026-06-12T10:40:08.809561+00:00'
 last_seen: '2026-06-16T17:27:22.374620+05:30'
 last_checked: '2026-06-16T17:27:22.374620+05:30'

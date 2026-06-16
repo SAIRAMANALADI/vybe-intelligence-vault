@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376848+05:30'
 tags:
 - paper
 status: active
-resource_id: blog:exploring-the-daily-papers-page-on-hugging-face
+resource_id: huggingface:blog/daily-papers
 first_seen: '2026-06-15T06:35:32.418593+00:00'
 last_seen: '2026-06-16T17:27:22.376848+05:30'
 last_checked: '2026-06-16T17:27:22.376848+05:30'

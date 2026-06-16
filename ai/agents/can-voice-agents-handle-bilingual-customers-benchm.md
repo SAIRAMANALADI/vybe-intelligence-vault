@@ -10,7 +10,7 @@ collected_at: '2026-06-11T08:37:58.323259+00:00'
 tags:
 - agents
 status: new
-resource_id: blog:can-voice-agents-handle-bilingual-customers-benchm
+resource_id: huggingface:blog/code-switching
 ---
 
 

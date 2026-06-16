@@ -8,7 +8,7 @@ published_at: '2023-04-06T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379650+05:30'
 tags: []
 status: active
-resource_id: blog:snorkel-ai-x-hugging-face-unlock-foundation-models
+resource_id: huggingface:blog/snorkel-case-study
 first_seen: '2026-06-12T10:40:08.821220+00:00'
 last_seen: '2026-06-16T17:27:22.379650+05:30'
 last_checked: '2026-06-16T17:27:22.379650+05:30'

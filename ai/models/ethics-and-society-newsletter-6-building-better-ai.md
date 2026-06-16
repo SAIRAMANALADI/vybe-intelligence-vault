@@ -9,7 +9,7 @@ published_at: '2024-06-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377238+05:30'
 tags: []
 status: active
-resource_id: blog:ethics-and-society-newsletter-6-building-better-ai
+resource_id: huggingface:blog/ethics-soc-6
 first_seen: '2026-06-15T06:35:32.419463+00:00'
 last_seen: '2026-06-16T17:27:22.377238+05:30'
 last_checked: '2026-06-16T17:27:22.377238+05:30'

@@ -11,7 +11,7 @@ tags:
 - benchmark
 - leaderboard
 status: active
-resource_id: blog:introducing-the-open-ko-llm-leaderboard-leading-th
+resource_id: huggingface:blog/leaderboard-upstage
 first_seen: '2026-06-12T10:40:08.816758+00:00'
 last_seen: '2026-06-16T17:27:22.377955+05:30'
 last_checked: '2026-06-16T17:27:22.377955+05:30'

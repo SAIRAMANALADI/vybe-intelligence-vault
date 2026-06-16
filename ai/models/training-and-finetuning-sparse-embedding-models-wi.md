@@ -8,7 +8,7 @@ published_at: '2025-07-01T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375201+05:30'
 tags: []
 status: active
-resource_id: blog:training-and-finetuning-sparse-embedding-models-wi
+resource_id: huggingface:blog/train-sparse-encoder
 first_seen: '2026-06-12T10:40:08.810800+00:00'
 last_seen: '2026-06-16T17:27:22.375201+05:30'
 last_checked: '2026-06-16T17:27:22.375201+05:30'

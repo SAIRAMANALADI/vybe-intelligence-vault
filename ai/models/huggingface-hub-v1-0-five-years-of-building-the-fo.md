@@ -9,7 +9,7 @@ published_at: '2025-10-27T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374349+05:30'
 tags: []
 status: active
-resource_id: blog:huggingface-hub-v1-0-five-years-of-building-the-fo
+resource_id: huggingface:blog/huggingface-hub-v1
 first_seen: '2026-06-12T10:40:08.809051+00:00'
 last_seen: '2026-06-16T17:27:22.374349+05:30'
 last_checked: '2026-06-16T17:27:22.374349+05:30'

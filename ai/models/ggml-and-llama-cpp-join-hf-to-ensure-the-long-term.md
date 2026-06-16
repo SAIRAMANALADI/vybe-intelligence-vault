@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:ggml-and-llama-cpp-join-hf-to-ensure-the-long-term
+resource_id: huggingface:blog/ggml-joins-hf
 first_seen: '2026-06-15T06:35:32.412007+00:00'
 last_seen: '2026-06-16T17:27:22.373130+05:30'
 last_checked: '2026-06-16T17:27:22.373130+05:30'

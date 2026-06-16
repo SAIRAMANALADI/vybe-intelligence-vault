@@ -8,7 +8,7 @@ published_at: '2025-06-12T08:00:13+05:30'
 collected_at: '2026-06-16T17:27:22.375260+05:30'
 tags: []
 status: active
-resource_id: blog:how-long-prompts-block-other-requests-optimizing-l
+resource_id: huggingface:blog/llm-performance-blocked-by-long-prompts
 first_seen: '2026-06-15T06:35:32.415168+00:00'
 last_seen: '2026-06-16T17:27:22.375260+05:30'
 last_checked: '2026-06-16T17:27:22.375260+05:30'

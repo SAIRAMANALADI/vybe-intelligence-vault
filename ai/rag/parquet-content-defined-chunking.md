@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374984+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:parquet-content-defined-chunking
+resource_id: huggingface:blog/parquet-cdc
 first_seen: '2026-06-12T10:40:08.810327+00:00'
 last_seen: '2026-06-16T17:27:22.374984+05:30'
 last_checked: '2026-06-16T17:27:22.374984+05:30'

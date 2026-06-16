@@ -8,7 +8,7 @@ published_at: '2025-01-31T10:29:40+05:30'
 collected_at: '2026-06-16T17:27:22.376105+05:30'
 tags: []
 status: active
-resource_id: blog:mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto
+resource_id: huggingface:blog/mini-r1-contdown-game
 first_seen: '2026-06-15T06:35:32.417010+00:00'
 last_seen: '2026-06-16T17:27:22.376105+05:30'
 last_checked: '2026-06-16T17:27:22.376105+05:30'

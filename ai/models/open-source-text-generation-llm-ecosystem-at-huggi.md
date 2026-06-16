@@ -8,7 +8,7 @@ published_at: '2023-07-17T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379157+05:30'
 tags: []
 status: active
-resource_id: blog:open-source-text-generation-llm-ecosystem-at-huggi
+resource_id: huggingface:blog/os-llms
 first_seen: '2026-06-12T10:40:08.820210+00:00'
 last_seen: '2026-06-16T17:27:22.379157+05:30'
 last_checked: '2026-06-16T17:27:22.379157+05:30'

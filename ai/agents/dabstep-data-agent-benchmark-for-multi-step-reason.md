@@ -10,7 +10,7 @@ tags:
 - agents
 - benchmark
 status: active
-resource_id: blog:dabstep-data-agent-benchmark-for-multi-step-reason
+resource_id: huggingface:blog/dabstep
 first_seen: '2026-06-15T06:35:32.416963+00:00'
 last_seen: '2026-06-16T17:27:22.376083+05:30'
 last_checked: '2026-06-16T17:27:22.376083+05:30'

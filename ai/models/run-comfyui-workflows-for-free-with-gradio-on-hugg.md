@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378153+05:30'
 tags:
 - workflows
 status: active
-resource_id: blog:run-comfyui-workflows-for-free-with-gradio-on-hugg
+resource_id: huggingface:blog/run-comfyui-workflows-on-spaces
 first_seen: '2026-06-12T10:40:08.817185+00:00'
 last_seen: '2026-06-16T17:27:22.378153+05:30'
 last_checked: '2026-06-16T17:27:22.378153+05:30'

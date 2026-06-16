@@ -8,7 +8,7 @@ published_at: '2021-03-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381505+05:30'
 tags: []
 status: active
-resource_id: blog:the-partnership-amazon-sagemaker-and-hugging-face
+resource_id: huggingface:blog/the-partnership-amazon-sagemaker-and-hugging-face
 first_seen: '2026-06-12T10:40:08.825169+00:00'
 last_seen: '2026-06-16T17:27:22.381505+05:30'
 last_checked: '2026-06-16T17:27:22.381505+05:30'

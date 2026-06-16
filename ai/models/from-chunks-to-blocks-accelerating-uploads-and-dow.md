@@ -8,7 +8,7 @@ published_at: '2025-02-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376025+05:30'
 tags: []
 status: active
-resource_id: blog:from-chunks-to-blocks-accelerating-uploads-and-dow
+resource_id: huggingface:blog/from-chunks-to-blocks
 first_seen: '2026-06-15T06:35:32.416839+00:00'
 last_seen: '2026-06-16T17:27:22.376025+05:30'
 last_checked: '2026-06-16T17:27:22.376025+05:30'

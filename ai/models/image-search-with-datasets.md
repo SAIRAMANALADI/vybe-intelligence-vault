@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.381113+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:image-search-with-datasets
+resource_id: huggingface:blog/image-search-datasets
 first_seen: '2026-06-12T10:40:08.824333+00:00'
 last_seen: '2026-06-16T17:27:22.381113+05:30'
 last_checked: '2026-06-16T17:27:22.381113+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373241+05:30'
 tags:
 - anthropic
 status: active
-resource_id: blog:custom-kernels-for-all-from-codex-and-claude
+resource_id: huggingface:blog/custom-cuda-kernels-agent-skills
 first_seen: '2026-06-15T06:35:32.412122+00:00'
 last_seen: '2026-06-16T17:27:22.373241+05:30'
 last_checked: '2026-06-16T17:27:22.373241+05:30'

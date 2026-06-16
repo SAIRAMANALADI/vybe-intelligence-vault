@@ -8,7 +8,7 @@ published_at: '2022-09-28T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380349+05:30'
 tags: []
 status: active
-resource_id: blog:image-classification-with-autotrain
+resource_id: huggingface:blog/autotrain-image-classification
 first_seen: '2026-06-12T10:40:08.822759+00:00'
 last_seen: '2026-06-16T17:27:22.380349+05:30'
 last_checked: '2026-06-16T17:27:22.380349+05:30'

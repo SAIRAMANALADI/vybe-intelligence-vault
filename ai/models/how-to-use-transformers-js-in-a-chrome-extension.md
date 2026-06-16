@@ -8,7 +8,7 @@ published_at: '2026-04-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372564+05:30'
 tags: []
 status: active
-resource_id: blog:how-to-use-transformers-js-in-a-chrome-extension
+resource_id: huggingface:blog/transformersjs-chrome-extension
 first_seen: '2026-06-15T06:35:32.411348+00:00'
 last_seen: '2026-06-16T17:27:22.372564+05:30'
 last_checked: '2026-06-16T17:27:22.372564+05:30'

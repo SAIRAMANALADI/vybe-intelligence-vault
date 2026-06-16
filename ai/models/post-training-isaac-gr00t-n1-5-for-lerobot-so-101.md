@@ -8,7 +8,7 @@ published_at: '2025-06-11T18:27:22+05:30'
 collected_at: '2026-06-16T17:27:22.375290+05:30'
 tags: []
 status: active
-resource_id: blog:post-training-isaac-gr00t-n1-5-for-lerobot-so-101
+resource_id: huggingface:blog/gr00t-n1-5-so101-tuning
 first_seen: '2026-06-15T06:35:32.415232+00:00'
 last_seen: '2026-06-16T17:27:22.375290+05:30'
 last_checked: '2026-06-16T17:27:22.375290+05:30'

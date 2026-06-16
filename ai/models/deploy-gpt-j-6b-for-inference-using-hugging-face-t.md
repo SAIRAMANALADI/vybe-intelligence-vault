@@ -8,7 +8,7 @@ published_at: '2022-01-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381208+05:30'
 tags: []
 status: active
-resource_id: blog:deploy-gpt-j-6b-for-inference-using-hugging-face-t
+resource_id: huggingface:blog/gptj-sagemaker
 first_seen: '2026-06-15T06:35:32.427695+00:00'
 last_seen: '2026-06-16T17:27:22.381208+05:30'
 last_checked: '2026-06-16T17:27:22.381208+05:30'

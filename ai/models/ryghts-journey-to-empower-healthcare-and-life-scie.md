@@ -9,7 +9,7 @@ published_at: '2024-04-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377646+05:30'
 tags: []
 status: active
-resource_id: blog:ryghts-journey-to-empower-healthcare-and-life-scie
+resource_id: huggingface:blog/ryght-case-study
 first_seen: '2026-06-12T10:40:08.816028+00:00'
 last_seen: '2026-06-16T17:27:22.377646+05:30'
 last_checked: '2026-06-16T17:27:22.377646+05:30'

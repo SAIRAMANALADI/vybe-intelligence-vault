@@ -8,7 +8,7 @@ published_at: '2022-04-22T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381027+05:30'
 tags: []
 status: active
-resource_id: blog:co2-emissions-and-the-hub-leading-the-charge
+resource_id: huggingface:blog/carbon-emissions-on-the-hub
 first_seen: '2026-06-15T06:35:32.427299+00:00'
 last_seen: '2026-06-16T17:27:22.381027+05:30'
 last_checked: '2026-06-16T17:27:22.381027+05:30'

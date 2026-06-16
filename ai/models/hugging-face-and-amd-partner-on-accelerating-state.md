@@ -9,7 +9,7 @@ published_at: '2023-06-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379313+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-and-amd-partner-on-accelerating-state
+resource_id: huggingface:blog/huggingface-and-amd
 first_seen: '2026-06-15T06:35:32.423429+00:00'
 last_seen: '2026-06-16T17:27:22.379313+05:30'
 last_checked: '2026-06-16T17:27:22.379313+05:30'

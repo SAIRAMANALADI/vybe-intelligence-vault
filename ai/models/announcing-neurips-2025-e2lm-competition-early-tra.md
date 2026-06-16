@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.375191+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:announcing-neurips-2025-e2lm-competition-early-tra
+resource_id: huggingface:blog/e2lm-competition
 first_seen: '2026-06-15T06:35:32.414987+00:00'
 last_seen: '2026-06-16T17:27:22.375191+05:30'
 last_checked: '2026-06-16T17:27:22.375191+05:30'

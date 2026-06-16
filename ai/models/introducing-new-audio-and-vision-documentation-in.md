@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.380635+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:introducing-new-audio-and-vision-documentation-in
+resource_id: huggingface:blog/datasets-docs-update
 first_seen: '2026-06-12T10:40:08.823221+00:00'
 last_seen: '2026-06-16T17:27:22.380635+05:30'
 last_checked: '2026-06-16T17:27:22.380635+05:30'

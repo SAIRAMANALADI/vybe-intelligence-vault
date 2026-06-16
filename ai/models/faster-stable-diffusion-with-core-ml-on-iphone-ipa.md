@@ -8,7 +8,7 @@ published_at: '2023-06-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379284+05:30'
 tags: []
 status: active
-resource_id: blog:faster-stable-diffusion-with-core-ml-on-iphone-ipa
+resource_id: huggingface:blog/fast-diffusers-coreml
 first_seen: '2026-06-15T06:35:32.423369+00:00'
 last_seen: '2026-06-16T17:27:22.379284+05:30'
 last_checked: '2026-06-16T17:27:22.379284+05:30'

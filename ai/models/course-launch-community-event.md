@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.381315+05:30'
 tags:
 - producthunt
 status: active
-resource_id: blog:course-launch-community-event
+resource_id: huggingface:blog/course-launch-event
 first_seen: '2026-06-15T06:35:32.427916+00:00'
 last_seen: '2026-06-16T17:27:22.381315+05:30'
 last_checked: '2026-06-16T17:27:22.381315+05:30'

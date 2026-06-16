@@ -8,7 +8,7 @@ published_at: '2023-01-30T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379917+05:30'
 tags: []
 status: active
-resource_id: blog:the-state-of-computer-vision-at-hugging-face
+resource_id: huggingface:blog/cv_state
 first_seen: '2026-06-12T10:40:08.821843+00:00'
 last_seen: '2026-06-16T17:27:22.379917+05:30'
 last_checked: '2026-06-16T17:27:22.379917+05:30'

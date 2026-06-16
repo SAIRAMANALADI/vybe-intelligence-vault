@@ -8,7 +8,7 @@ published_at: '2026-03-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372949+05:30'
 tags: []
 status: active
-resource_id: blog:lerobot-v0-5-0-scaling-every-dimension
+resource_id: huggingface:blog/lerobot-release-v050
 first_seen: '2026-06-12T10:40:08.807800+00:00'
 last_seen: '2026-06-16T17:27:22.372949+05:30'
 last_checked: '2026-06-16T17:27:22.372949+05:30'

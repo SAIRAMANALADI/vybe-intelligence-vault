@@ -8,7 +8,7 @@ published_at: '2025-09-02T16:54:29+05:30'
 collected_at: '2026-06-16T17:27:22.374734+05:30'
 tags: []
 status: active
-resource_id: blog:sair-accelerating-pharma-r-d-with-ai-powered-struc
+resource_id: huggingface:blog/sair-data-accelerating-drug-discovery-with-ai
 first_seen: '2026-06-12T10:40:08.809905+00:00'
 last_seen: '2026-06-16T17:27:22.374734+05:30'
 last_checked: '2026-06-16T17:27:22.374734+05:30'

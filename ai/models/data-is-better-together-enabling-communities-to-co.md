@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.377867+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:data-is-better-together-enabling-communities-to-co
+resource_id: huggingface:blog/community-datasets
 first_seen: '2026-06-15T06:35:32.420888+00:00'
 last_seen: '2026-06-16T17:27:22.377867+05:30'
 last_checked: '2026-06-16T17:27:22.377867+05:30'

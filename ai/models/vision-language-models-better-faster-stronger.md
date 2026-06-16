@@ -8,7 +8,7 @@ published_at: '2025-05-12T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375500+05:30'
 tags: []
 status: active
-resource_id: blog:vision-language-models-better-faster-stronger
+resource_id: huggingface:blog/vlms-2025
 first_seen: '2026-06-12T10:40:08.811422+00:00'
 last_seen: '2026-06-16T17:27:22.375500+05:30'
 last_checked: '2026-06-16T17:27:22.375500+05:30'

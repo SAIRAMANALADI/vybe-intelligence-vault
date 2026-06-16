@@ -8,7 +8,7 @@ published_at: '2024-05-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377473+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-x-langchain-a-new-partner-package
+resource_id: huggingface:blog/langchain
 first_seen: '2026-06-15T06:35:32.419976+00:00'
 last_seen: '2026-06-16T17:27:22.377473+05:30'
 last_checked: '2026-06-16T17:27:22.377473+05:30'

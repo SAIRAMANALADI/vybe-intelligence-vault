@@ -8,7 +8,7 @@ published_at: '2020-07-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381650+05:30'
 tags: []
 status: active
-resource_id: blog:the-reformer-pushing-the-limits-of-language-modeli
+resource_id: huggingface:blog/reformer
 first_seen: '2026-06-12T10:40:08.825467+00:00'
 last_seen: '2026-06-16T17:27:22.381650+05:30'
 last_checked: '2026-06-16T17:27:22.381650+05:30'

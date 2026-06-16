@@ -8,7 +8,7 @@ published_at: '2025-05-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375440+05:30'
 tags: []
 status: active
-resource_id: blog:nanovlm-the-simplest-repository-to-train-your-vlm
+resource_id: huggingface:blog/nanovlm
 first_seen: '2026-06-12T10:40:08.811296+00:00'
 last_seen: '2026-06-16T17:27:22.375440+05:30'
 last_checked: '2026-06-16T17:27:22.375440+05:30'

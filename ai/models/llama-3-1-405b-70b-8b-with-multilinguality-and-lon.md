@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:llama-3-1-405b-70b-8b-with-multilinguality-and-lon
+resource_id: huggingface:blog/llama31
 first_seen: '2026-06-12T10:40:08.814699+00:00'
 last_seen: '2026-06-16T17:27:22.377063+05:30'
 last_checked: '2026-06-16T17:27:22.377063+05:30'

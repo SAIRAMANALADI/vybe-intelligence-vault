@@ -8,7 +8,7 @@ published_at: '2022-08-31T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380492+05:30'
 tags: []
 status: active
-resource_id: blog:openrail-towards-open-and-responsible-ai-licensing
+resource_id: huggingface:blog/open_rail
 first_seen: '2026-06-12T10:40:08.822922+00:00'
 last_seen: '2026-06-16T17:27:22.380492+05:30'
 last_checked: '2026-06-16T17:27:22.380492+05:30'

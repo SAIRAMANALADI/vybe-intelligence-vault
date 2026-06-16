@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.378163+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:a-guide-to-setting-up-your-own-hugging-face-leader
+resource_id: huggingface:blog/leaderboard-vectara
 first_seen: '2026-06-15T06:35:32.421554+00:00'
 last_seen: '2026-06-16T17:27:22.378163+05:30'
 last_checked: '2026-06-16T17:27:22.378163+05:30'

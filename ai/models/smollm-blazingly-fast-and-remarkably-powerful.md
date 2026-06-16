@@ -8,7 +8,7 @@ published_at: '2024-07-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377102+05:30'
 tags: []
 status: active
-resource_id: blog:smollm-blazingly-fast-and-remarkably-powerful
+resource_id: huggingface:blog/smollm
 first_seen: '2026-06-12T10:40:08.814782+00:00'
 last_seen: '2026-06-16T17:27:22.377102+05:30'
 last_checked: '2026-06-16T17:27:22.377102+05:30'

@@ -10,7 +10,7 @@ tags:
 - agents
 - scripts
 status: active
-resource_id: blog:holo1-new-family-of-gui-automation-vlms-powering-g
+resource_id: huggingface:blog/holo1
 first_seen: '2026-06-15T06:35:32.415334+00:00'
 last_seen: '2026-06-16T17:27:22.375340+05:30'
 last_checked: '2026-06-16T17:27:22.375340+05:30'

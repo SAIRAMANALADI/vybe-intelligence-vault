@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374197+05:30'
 tags:
 - models
 status: active
-resource_id: blog:20x-faster-trl-fine-tuning-with-rapidfire-ai
+resource_id: huggingface:blog/rapidfireai
 first_seen: '2026-06-15T06:35:32.412904+00:00'
 last_seen: '2026-06-16T17:27:22.374197+05:30'
 last_checked: '2026-06-16T17:27:22.374197+05:30'

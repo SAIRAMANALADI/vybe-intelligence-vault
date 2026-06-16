@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.375886+05:30'
 tags:
 - frontend_ui
 status: active
-resource_id: blog:llm-inference-on-edge-a-fun-and-easy-guide-to-run
+resource_id: huggingface:blog/llm-inference-on-edge
 first_seen: '2026-06-12T10:40:08.812165+00:00'
 last_seen: '2026-06-16T17:27:22.375886+05:30'
 last_checked: '2026-06-16T17:27:22.375886+05:30'

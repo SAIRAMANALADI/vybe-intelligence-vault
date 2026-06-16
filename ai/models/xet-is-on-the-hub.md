@@ -8,7 +8,7 @@ published_at: '2025-03-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375846+05:30'
 tags: []
 status: active
-resource_id: blog:xet-is-on-the-hub
+resource_id: huggingface:blog/xet-on-the-hub
 first_seen: '2026-06-12T10:40:08.812087+00:00'
 last_seen: '2026-06-16T17:27:22.375846+05:30'
 last_checked: '2026-06-16T17:27:22.375846+05:30'

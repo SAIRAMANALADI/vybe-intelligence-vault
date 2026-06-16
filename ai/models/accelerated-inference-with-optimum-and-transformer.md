@@ -8,7 +8,7 @@ published_at: '2022-05-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380932+05:30'
 tags: []
 status: active
-resource_id: blog:accelerated-inference-with-optimum-and-transformer
+resource_id: huggingface:blog/optimum-inference
 first_seen: '2026-06-15T06:35:32.427086+00:00'
 last_seen: '2026-06-16T17:27:22.380932+05:30'
 last_checked: '2026-06-16T17:27:22.380932+05:30'

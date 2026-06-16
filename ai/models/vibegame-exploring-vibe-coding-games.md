@@ -8,7 +8,7 @@ published_at: '2025-09-29T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374530+05:30'
 tags: []
 status: active
-resource_id: blog:vibegame-exploring-vibe-coding-games
+resource_id: huggingface:blog/vibegame
 first_seen: '2026-06-12T10:40:08.809391+00:00'
 last_seen: '2026-06-16T17:27:22.374530+05:30'
 last_checked: '2026-06-16T17:27:22.374530+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-11-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376469+05:30'
 tags: []
 status: active
-resource_id: blog:rearchitecting-hugging-face-uploads-and-downloads
+resource_id: huggingface:blog/rearchitecting-uploads-and-downloads
 first_seen: '2026-06-12T10:40:08.813454+00:00'
 last_seen: '2026-06-16T17:27:22.376469+05:30'
 last_checked: '2026-06-16T17:27:22.376469+05:30'

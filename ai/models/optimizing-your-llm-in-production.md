@@ -8,7 +8,7 @@ published_at: '2023-09-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378840+05:30'
 tags: []
 status: active
-resource_id: blog:optimizing-your-llm-in-production
+resource_id: huggingface:blog/optimize-llm
 first_seen: '2026-06-12T10:40:08.819483+00:00'
 last_seen: '2026-06-16T17:27:22.378840+05:30'
 last_checked: '2026-06-16T17:27:22.378840+05:30'

@@ -8,7 +8,7 @@ published_at: '2022-05-06T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380951+05:30'
 tags: []
 status: active
-resource_id: blog:welcome-fastai-to-the-hugging-face-hub
+resource_id: huggingface:blog/fastai
 first_seen: '2026-06-12T10:40:08.823987+00:00'
 last_seen: '2026-06-16T17:27:22.380951+05:30'
 last_checked: '2026-06-16T17:27:22.380951+05:30'

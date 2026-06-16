@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375005+05:30'
 tags:
 - models
 status: active
-resource_id: blog:fast-lora-inference-for-flux-with-diffusers-and-pe
+resource_id: huggingface:blog/lora-fast
 first_seen: '2026-06-15T06:35:32.414605+00:00'
 last_seen: '2026-06-16T17:27:22.375005+05:30'
 last_checked: '2026-06-16T17:27:22.375005+05:30'

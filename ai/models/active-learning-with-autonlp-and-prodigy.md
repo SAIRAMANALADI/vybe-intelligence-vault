@@ -8,7 +8,7 @@ published_at: '2021-12-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381218+05:30'
 tags: []
 status: active
-resource_id: blog:active-learning-with-autonlp-and-prodigy
+resource_id: huggingface:blog/autonlp-prodigy
 first_seen: '2026-06-15T06:35:32.427715+00:00'
 last_seen: '2026-06-16T17:27:22.381218+05:30'
 last_checked: '2026-06-16T17:27:22.381218+05:30'

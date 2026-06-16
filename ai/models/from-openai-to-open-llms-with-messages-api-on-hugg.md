@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377999+05:30'
 tags:
 - openai
 status: active
-resource_id: blog:from-openai-to-open-llms-with-messages-api-on-hugg
+resource_id: huggingface:blog/tgi-messages-api
 first_seen: '2026-06-15T06:35:32.421193+00:00'
 last_seen: '2026-06-16T17:27:22.377999+05:30'
 last_checked: '2026-06-16T17:27:22.377999+05:30'

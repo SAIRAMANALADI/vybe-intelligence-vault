@@ -8,7 +8,7 @@ published_at: '2022-11-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380253+05:30'
 tags: []
 status: active
-resource_id: blog:accelerate-your-models-with-optimum-intel-and-open
+resource_id: huggingface:blog/openvino
 first_seen: '2026-06-15T06:35:32.425616+00:00'
 last_seen: '2026-06-16T17:27:22.380253+05:30'
 last_checked: '2026-06-16T17:27:22.380253+05:30'

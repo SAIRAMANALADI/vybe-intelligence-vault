@@ -8,7 +8,7 @@ published_at: '2024-02-01T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378038+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-text-generation-inference-available-f
+resource_id: huggingface:blog/text-generation-inference-on-inferentia2
 first_seen: '2026-06-15T06:35:32.421279+00:00'
 last_seen: '2026-06-16T17:27:22.378038+05:30'
 last_checked: '2026-06-16T17:27:22.378038+05:30'

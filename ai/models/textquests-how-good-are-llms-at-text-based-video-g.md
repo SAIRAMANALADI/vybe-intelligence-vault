@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374837+05:30'
 tags:
 - youtube
 status: active
-resource_id: blog:textquests-how-good-are-llms-at-text-based-video-g
+resource_id: huggingface:blog/textquests
 first_seen: '2026-06-12T10:40:08.810093+00:00'
 last_seen: '2026-06-16T17:27:22.374837+05:30'
 last_checked: '2026-06-16T17:27:22.374837+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-11-24T17:40:14+05:30'
 collected_at: '2026-06-16T17:27:22.374176+05:30'
 tags: []
 status: active
-resource_id: blog:building-deep-research-how-we-achieved-state-of-th
+resource_id: huggingface:blog/tavily-deep-research
 first_seen: '2026-06-15T06:35:32.412852+00:00'
 last_seen: '2026-06-16T17:27:22.374176+05:30'
 last_checked: '2026-06-16T17:27:22.374176+05:30'

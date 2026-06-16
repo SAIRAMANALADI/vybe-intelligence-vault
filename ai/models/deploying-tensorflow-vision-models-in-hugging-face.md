@@ -8,7 +8,7 @@ published_at: '2022-07-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380654+05:30'
 tags: []
 status: active
-resource_id: blog:deploying-tensorflow-vision-models-in-hugging-face
+resource_id: huggingface:blog/tf-serving-vision
 first_seen: '2026-06-15T06:35:32.426390+00:00'
 last_seen: '2026-06-16T17:27:22.380654+05:30'
 last_checked: '2026-06-16T17:27:22.380654+05:30'

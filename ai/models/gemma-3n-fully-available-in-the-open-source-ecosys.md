@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375221+05:30'
 tags:
 - models
 status: active
-resource_id: blog:gemma-3n-fully-available-in-the-open-source-ecosys
+resource_id: huggingface:blog/gemma3n
 first_seen: '2026-06-15T06:35:32.415074+00:00'
 last_seen: '2026-06-16T17:27:22.375221+05:30'
 last_checked: '2026-06-16T17:27:22.375221+05:30'

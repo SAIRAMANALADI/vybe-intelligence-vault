@@ -8,7 +8,7 @@ published_at: '2025-05-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375390+05:30'
 tags: []
 status: active
-resource_id: blog:dell-enterprise-hub-is-all-you-need-to-build-ai-on
+resource_id: huggingface:blog/dell-ai-applications
 first_seen: '2026-06-15T06:35:32.415446+00:00'
 last_seen: '2026-06-16T17:27:22.375390+05:30'
 last_checked: '2026-06-16T17:27:22.375390+05:30'

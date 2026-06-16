@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374631+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:lerobotdataset-v3-0-bringing-large-scale-datasets
+resource_id: huggingface:blog/lerobot-datasets-v3
 first_seen: '2026-06-12T10:40:08.809585+00:00'
 last_seen: '2026-06-16T17:27:22.374631+05:30'
 last_checked: '2026-06-16T17:27:22.374631+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-01-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376201+05:30'
 tags: []
 status: active
-resource_id: blog:smolvlm-grows-smaller-introducing-the-256m-500m-mo
+resource_id: huggingface:blog/smolervlm
 first_seen: '2026-06-12T10:40:08.812904+00:00'
 last_seen: '2026-06-16T17:27:22.376201+05:30'
 last_checked: '2026-06-16T17:27:22.376201+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-01-05T22:56:51+05:30'
 collected_at: '2026-06-16T17:27:22.373950+05:30'
 tags: []
 status: active
-resource_id: blog:nvidia-cosmos-reason-2-brings-advanced-reasoning-t
+resource_id: huggingface:blog/nvidia-cosmos-reason-2-brings-advanced-reasoning
 first_seen: '2026-06-15T06:35:32.412528+00:00'
 last_seen: '2026-06-16T17:27:22.373950+05:30'
 last_checked: '2026-06-16T17:27:22.373950+05:30'

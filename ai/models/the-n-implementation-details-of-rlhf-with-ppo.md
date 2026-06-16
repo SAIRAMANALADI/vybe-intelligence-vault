@@ -8,7 +8,7 @@ published_at: '2023-10-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.378380+05:30'
 tags: []
 status: active
-resource_id: blog:the-n-implementation-details-of-rlhf-with-ppo
+resource_id: huggingface:blog/the_n_implementation_details_of_rlhf_with_ppo
 first_seen: '2026-06-12T10:40:08.819110+00:00'
 last_seen: '2026-06-16T17:27:22.378380+05:30'
 last_checked: '2026-06-16T17:27:22.378380+05:30'

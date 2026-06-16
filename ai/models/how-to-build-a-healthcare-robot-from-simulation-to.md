@@ -9,7 +9,7 @@ published_at: '2025-10-28T20:42:35+05:30'
 collected_at: '2026-06-16T17:27:22.374299+05:30'
 tags: []
 status: active
-resource_id: blog:how-to-build-a-healthcare-robot-from-simulation-to
+resource_id: huggingface:blog/nvidia-isaac-for-healthcare
 first_seen: '2026-06-15T06:35:32.413148+00:00'
 last_seen: '2026-06-16T17:27:22.374299+05:30'
 last_checked: '2026-06-16T17:27:22.374299+05:30'

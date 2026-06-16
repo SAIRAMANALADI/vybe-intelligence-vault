@@ -8,7 +8,7 @@ published_at: '2025-03-26T18:47:29+05:30'
 collected_at: '2026-06-16T17:27:22.375756+05:30'
 tags: []
 status: active
-resource_id: blog:open-r1-update-4
+resource_id: huggingface:blog/update-4
 first_seen: '2026-06-15T06:35:32.416292+00:00'
 last_seen: '2026-06-16T17:27:22.375756+05:30'
 last_checked: '2026-06-16T17:27:22.375756+05:30'

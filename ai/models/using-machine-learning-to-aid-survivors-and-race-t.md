@@ -8,7 +8,7 @@ published_at: '2023-03-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379755+05:30'
 tags: []
 status: active
-resource_id: blog:using-machine-learning-to-aid-survivors-and-race-t
+resource_id: huggingface:blog/using-ml-for-disasters
 first_seen: '2026-06-12T10:40:08.821445+00:00'
 last_seen: '2026-06-16T17:27:22.379755+05:30'
 last_checked: '2026-06-16T17:27:22.379755+05:30'

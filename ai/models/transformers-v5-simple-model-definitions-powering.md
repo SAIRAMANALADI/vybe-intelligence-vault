@@ -8,7 +8,7 @@ published_at: '2025-12-01T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374144+05:30'
 tags: []
 status: active
-resource_id: blog:transformers-v5-simple-model-definitions-powering
+resource_id: huggingface:blog/transformers-v5
 first_seen: '2026-06-12T10:40:08.808642+00:00'
 last_seen: '2026-06-16T17:27:22.374144+05:30'
 last_checked: '2026-06-16T17:27:22.374144+05:30'

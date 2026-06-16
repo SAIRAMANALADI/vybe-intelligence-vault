@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372358+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:beyond-llms-why-scalable-enterprise-ai-adoption-de
+resource_id: huggingface:blog/agent-logic-and-scalable-ai-adoption
 first_seen: '2026-06-15T06:35:32.410909+00:00'
 last_seen: '2026-06-16T17:27:22.372358+05:30'
 last_checked: '2026-06-16T17:27:22.372358+05:30'

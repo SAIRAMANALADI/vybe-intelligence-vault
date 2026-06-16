@@ -8,7 +8,7 @@ published_at: '2025-05-14T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375480+05:30'
 tags: []
 status: active
-resource_id: blog:improving-hugging-face-model-access-for-kaggle-use
+resource_id: huggingface:blog/kaggle-integration
 first_seen: '2026-06-12T10:40:08.811381+00:00'
 last_seen: '2026-06-16T17:27:22.375480+05:30'
 last_checked: '2026-06-16T17:27:22.375480+05:30'

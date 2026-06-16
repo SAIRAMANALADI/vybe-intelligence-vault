@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373251+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:openenv-in-practice-evaluating-tool-using-agents-i
+resource_id: huggingface:blog/openenv-turing
 first_seen: '2026-06-12T10:40:08.808010+00:00'
 last_seen: '2026-06-16T17:27:22.373251+05:30'
 last_checked: '2026-06-16T17:27:22.373251+05:30'

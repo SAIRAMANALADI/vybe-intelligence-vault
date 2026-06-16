@@ -8,7 +8,7 @@ published_at: '2025-08-12T14:52:08+05:30'
 collected_at: '2026-06-16T17:27:22.374826+05:30'
 tags: []
 status: active
-resource_id: blog:neural-super-sampling-is-here
+resource_id: huggingface:blog/neural-super-sampling
 first_seen: '2026-06-15T06:35:32.414310+00:00'
 last_seen: '2026-06-16T17:27:22.374826+05:30'
 last_checked: '2026-06-16T17:27:22.374826+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-03-17T16:37:55+05:30'
 collected_at: '2026-06-16T17:27:22.372887+05:30'
 tags: []
 status: active
-resource_id: blog:state-of-open-source-on-hugging-face-spring-2026
+resource_id: huggingface:blog/state-of-os-hf-spring-2026
 first_seen: '2026-06-12T10:40:08.807696+00:00'
 last_seen: '2026-06-16T17:27:22.372887+05:30'
 last_checked: '2026-06-16T17:27:22.372887+05:30'

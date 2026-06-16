@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:new-in-llama-cpp-model-management
+resource_id: huggingface:blog/model-management-in-llamacpp
 first_seen: '2026-06-12T10:40:08.808517+00:00'
 last_seen: '2026-06-16T17:27:22.374090+05:30'
 last_checked: '2026-06-16T17:27:22.374090+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-09-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374552+05:30'
 tags: []
 status: active
-resource_id: blog:swift-transformers-reaches-1-0-and-looks-to-the-fu
+resource_id: huggingface:blog/swift-transformers
 first_seen: '2026-06-12T10:40:08.809437+00:00'
 last_seen: '2026-06-16T17:27:22.374552+05:30'
 last_checked: '2026-06-16T17:27:22.374552+05:30'

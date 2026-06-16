@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376404+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:open-preference-dataset-for-text-to-image-generati
+resource_id: huggingface:blog/image-preferences
 first_seen: '2026-06-12T10:40:08.813319+00:00'
 last_seen: '2026-06-16T17:27:22.376404+05:30'
 last_checked: '2026-06-16T17:27:22.376404+05:30'

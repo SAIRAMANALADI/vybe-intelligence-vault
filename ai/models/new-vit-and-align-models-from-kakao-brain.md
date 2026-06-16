@@ -8,7 +8,7 @@ published_at: '2023-03-06T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379746+05:30'
 tags: []
 status: active
-resource_id: blog:new-vit-and-align-models-from-kakao-brain
+resource_id: huggingface:blog/vit-align
 first_seen: '2026-06-12T10:40:08.821426+00:00'
 last_seen: '2026-06-16T17:27:22.379746+05:30'
 last_checked: '2026-06-16T17:27:22.379746+05:30'

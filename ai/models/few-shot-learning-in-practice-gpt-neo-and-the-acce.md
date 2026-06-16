@@ -8,7 +8,7 @@ published_at: '2021-06-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381449+05:30'
 tags: []
 status: active
-resource_id: blog:few-shot-learning-in-practice-gpt-neo-and-the-acce
+resource_id: huggingface:blog/few-shot-learning-gpt-neo-and-inference-api
 first_seen: '2026-06-15T06:35:32.428276+00:00'
 last_seen: '2026-06-16T17:27:22.381449+05:30'
 last_checked: '2026-06-16T17:27:22.381449+05:30'

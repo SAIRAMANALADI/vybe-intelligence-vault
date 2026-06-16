@@ -8,7 +8,7 @@ published_at: '2025-06-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375250+05:30'
 tags: []
 status: active
-resource_id: blog:groq-on-hugging-face-inference-providers
+resource_id: huggingface:blog/inference-providers-groq
 first_seen: '2026-06-15T06:35:32.415146+00:00'
 last_seen: '2026-06-16T17:27:22.375250+05:30'
 last_checked: '2026-06-16T17:27:22.375250+05:30'

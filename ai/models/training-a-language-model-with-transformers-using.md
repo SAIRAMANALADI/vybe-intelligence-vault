@@ -8,7 +8,7 @@ published_at: '2023-04-27T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379570+05:30'
 tags: []
 status: active
-resource_id: blog:training-a-language-model-with-transformers-using
+resource_id: huggingface:blog/tf_tpu
 first_seen: '2026-06-12T10:40:08.821064+00:00'
 last_seen: '2026-06-16T17:27:22.379570+05:30'
 last_checked: '2026-06-16T17:27:22.379570+05:30'

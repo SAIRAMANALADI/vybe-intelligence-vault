@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377897+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:tts-arena-benchmarking-text-to-speech-models-in-th
+resource_id: huggingface:blog/arena-tts
 first_seen: '2026-06-12T10:40:08.816544+00:00'
 last_seen: '2026-06-16T17:27:22.377897+05:30'
 last_checked: '2026-06-16T17:27:22.377897+05:30'

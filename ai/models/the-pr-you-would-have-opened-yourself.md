@@ -8,7 +8,7 @@ published_at: '2026-04-16T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372613+05:30'
 tags: []
 status: active
-resource_id: blog:the-pr-you-would-have-opened-yourself
+resource_id: huggingface:blog/transformers-to-mlx
 first_seen: '2026-06-12T10:40:08.807337+00:00'
 last_seen: '2026-06-16T17:27:22.372613+05:30'
 last_checked: '2026-06-16T17:27:22.372613+05:30'

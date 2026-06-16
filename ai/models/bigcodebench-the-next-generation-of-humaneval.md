@@ -8,7 +8,7 @@ published_at: '2024-06-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377266+05:30'
 tags: []
 status: active
-resource_id: blog:bigcodebench-the-next-generation-of-humaneval
+resource_id: huggingface:blog/leaderboard-bigcodebench
 first_seen: '2026-06-15T06:35:32.419527+00:00'
 last_seen: '2026-06-16T17:27:22.377266+05:30'
 last_checked: '2026-06-16T17:27:22.377266+05:30'

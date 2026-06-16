@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376295+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:introducing-smolagents-simple-agents-that-write-ac
+resource_id: huggingface:blog/smolagents
 first_seen: '2026-06-12T10:40:08.813092+00:00'
 last_seen: '2026-06-16T17:27:22.376295+05:30'
 last_checked: '2026-06-16T17:27:22.376295+05:30'

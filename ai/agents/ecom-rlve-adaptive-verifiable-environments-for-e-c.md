@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.372601+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:ecom-rlve-adaptive-verifiable-environments-for-e-c
+resource_id: huggingface:blog/ecom-rlve
 first_seen: '2026-06-15T06:35:32.411414+00:00'
 last_seen: '2026-06-16T17:27:22.372601+05:30'
 last_checked: '2026-06-16T17:27:22.372601+05:30'

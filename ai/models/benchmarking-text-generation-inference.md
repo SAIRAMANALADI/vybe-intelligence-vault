@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377366+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:benchmarking-text-generation-inference
+resource_id: huggingface:blog/tgi-benchmarking
 first_seen: '2026-06-15T06:35:32.419738+00:00'
 last_seen: '2026-06-16T17:27:22.377366+05:30'
 last_checked: '2026-06-16T17:27:22.377366+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-09-04T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376906+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-partners-with-trufflehog-to-scan-for
+resource_id: huggingface:blog/trufflesecurity-partnership
 first_seen: '2026-06-15T06:35:32.418717+00:00'
 last_seen: '2026-06-16T17:27:22.376906+05:30'
 last_checked: '2026-06-16T17:27:22.376906+05:30'

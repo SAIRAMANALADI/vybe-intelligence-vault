@@ -8,7 +8,7 @@ published_at: '2025-10-28T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374322+05:30'
 tags: []
 status: active
-resource_id: blog:voice-cloning-with-consent
+resource_id: huggingface:blog/voice-consent-gate
 first_seen: '2026-06-12T10:40:08.809010+00:00'
 last_seen: '2026-06-16T17:27:22.374322+05:30'
 last_checked: '2026-06-16T17:27:22.374322+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377179+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:announcing-new-dataset-search-features
+resource_id: huggingface:blog/datasets-filters
 first_seen: '2026-06-15T06:35:32.419336+00:00'
 last_seen: '2026-06-16T17:27:22.377179+05:30'
 last_checked: '2026-06-16T17:27:22.377179+05:30'

@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.373218+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:ibm-and-uc-berkeley-diagnose-why-enterprise-agents
+resource_id: huggingface:blog/itbenchandmast
 first_seen: '2026-06-15T06:35:32.412076+00:00'
 last_seen: '2026-06-16T17:27:22.373218+05:30'
 last_checked: '2026-06-16T17:27:22.373218+05:30'

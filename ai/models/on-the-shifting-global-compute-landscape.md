@@ -8,7 +8,7 @@ published_at: '2025-10-29T13:56:45+05:30'
 collected_at: '2026-06-16T17:27:22.374278+05:30'
 tags: []
 status: active
-resource_id: blog:on-the-shifting-global-compute-landscape
+resource_id: huggingface:blog/shifting-compute-landscape
 first_seen: '2026-06-15T06:35:32.413106+00:00'
 last_seen: '2026-06-16T17:27:22.374278+05:30'
 last_checked: '2026-06-16T17:27:22.374278+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376006+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:fixing-open-llm-leaderboard-with-math-verify
+resource_id: huggingface:blog/math_verify_leaderboard
 first_seen: '2026-06-15T06:35:32.416796+00:00'
 last_seen: '2026-06-16T17:27:22.376006+05:30'
 last_checked: '2026-06-16T17:27:22.376006+05:30'

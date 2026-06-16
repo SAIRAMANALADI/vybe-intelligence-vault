@@ -8,7 +8,7 @@ published_at: '2026-03-31T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372840+05:30'
 tags: []
 status: active
-resource_id: blog:trl-v1-0-post-training-library-built-to-move-with
+resource_id: huggingface:blog/trl-v1
 first_seen: '2026-06-12T10:40:08.807589+00:00'
 last_seen: '2026-06-16T17:27:22.372840+05:30'
 last_checked: '2026-06-16T17:27:22.372840+05:30'

@@ -8,7 +8,7 @@ published_at: '2023-05-04T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379551+05:30'
 tags: []
 status: active
-resource_id: blog:starcoder-a-state-of-the-art-llm-for-code
+resource_id: huggingface:blog/starcoder
 first_seen: '2026-06-12T10:40:08.821023+00:00'
 last_seen: '2026-06-16T17:27:22.379551+05:30'
 last_checked: '2026-06-16T17:27:22.379551+05:30'

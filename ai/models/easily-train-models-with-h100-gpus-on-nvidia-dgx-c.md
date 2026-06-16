@@ -8,7 +8,7 @@ published_at: '2024-03-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377818+05:30'
 tags: []
 status: active
-resource_id: blog:easily-train-models-with-h100-gpus-on-nvidia-dgx-c
+resource_id: huggingface:blog/train-dgx-cloud
 first_seen: '2026-06-15T06:35:32.420782+00:00'
 last_seen: '2026-06-16T17:27:22.377818+05:30'
 last_checked: '2026-06-16T17:27:22.377818+05:30'

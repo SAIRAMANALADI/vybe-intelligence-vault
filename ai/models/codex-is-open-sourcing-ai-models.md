@@ -8,7 +8,7 @@ published_at: '2025-12-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374101+05:30'
 tags: []
 status: active
-resource_id: blog:codex-is-open-sourcing-ai-models
+resource_id: huggingface:blog/hf-skills-training-codex
 first_seen: '2026-06-15T06:35:32.412699+00:00'
 last_seen: '2026-06-16T17:27:22.374101+05:30'
 last_checked: '2026-06-16T17:27:22.374101+05:30'

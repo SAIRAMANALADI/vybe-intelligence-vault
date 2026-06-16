@@ -8,7 +8,7 @@ published_at: '2023-06-19T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379264+05:30'
 tags: []
 status: active
-resource_id: blog:fine-tune-mms-adapter-models-for-low-resource-asr
+resource_id: huggingface:blog/mms_adapters
 first_seen: '2026-06-15T06:35:32.423330+00:00'
 last_seen: '2026-06-16T17:27:22.379264+05:30'
 last_checked: '2026-06-16T17:27:22.379264+05:30'

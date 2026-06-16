@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375916+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:trace-evaluate-your-agent-with-arize-phoenix
+resource_id: huggingface:blog/smolagents-phoenix
 first_seen: '2026-06-12T10:40:08.812233+00:00'
 last_seen: '2026-06-16T17:27:22.375916+05:30'
 last_checked: '2026-06-16T17:27:22.375916+05:30'

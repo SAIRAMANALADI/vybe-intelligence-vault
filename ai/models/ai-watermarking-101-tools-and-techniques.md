@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377907+05:30'
 tags:
 - hackernews
 status: active
-resource_id: blog:ai-watermarking-101-tools-and-techniques
+resource_id: huggingface:blog/watermarking
 first_seen: '2026-06-15T06:35:32.420971+00:00'
 last_seen: '2026-06-16T17:27:22.377907+05:30'
 last_checked: '2026-06-16T17:27:22.377907+05:30'

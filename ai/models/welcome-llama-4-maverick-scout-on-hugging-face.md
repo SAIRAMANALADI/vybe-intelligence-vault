@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:welcome-llama-4-maverick-scout-on-hugging-face
+resource_id: huggingface:blog/llama4-release
 first_seen: '2026-06-12T10:40:08.811820+00:00'
 last_seen: '2026-06-16T17:27:22.375690+05:30'
 last_checked: '2026-06-16T17:27:22.375690+05:30'

@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:llama-2-is-here-get-it-on-hugging-face
+resource_id: huggingface:blog/llama2
 first_seen: '2026-06-12T10:40:08.820172+00:00'
 last_seen: '2026-06-16T17:27:22.379138+05:30'
 last_checked: '2026-06-16T17:27:22.379138+05:30'

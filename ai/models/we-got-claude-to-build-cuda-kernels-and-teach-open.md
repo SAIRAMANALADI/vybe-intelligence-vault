@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.373418+05:30'
 tags:
 - anthropic
 status: active
-resource_id: blog:we-got-claude-to-build-cuda-kernels-and-teach-open
+resource_id: huggingface:blog/upskill
 first_seen: '2026-06-12T10:40:08.808176+00:00'
 last_seen: '2026-06-16T17:27:22.373418+05:30'
 last_checked: '2026-06-16T17:27:22.373418+05:30'

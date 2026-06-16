@@ -8,7 +8,7 @@ published_at: '2023-06-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379226+05:30'
 tags: []
 status: active
-resource_id: blog:ethics-and-society-newsletter-4-bias-in-text-to-im
+resource_id: huggingface:blog/ethics-soc-4
 first_seen: '2026-06-15T06:35:32.423247+00:00'
 last_seen: '2026-06-16T17:27:22.379226+05:30'
 last_checked: '2026-06-16T17:27:22.379226+05:30'

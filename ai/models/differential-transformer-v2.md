@@ -8,7 +8,7 @@ published_at: '2026-01-20T03:20:57+05:30'
 collected_at: '2026-06-16T17:27:22.373519+05:30'
 tags: []
 status: active
-resource_id: blog:differential-transformer-v2
+resource_id: huggingface:blog/diff-attn-v2
 first_seen: '2026-06-15T06:35:32.412461+00:00'
 last_seen: '2026-06-16T17:27:22.373519+05:30'
 last_checked: '2026-06-16T17:27:22.373519+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-08-22T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376926+05:30'
 tags: []
 status: active
-resource_id: blog:the-5-most-under-rated-tools-on-hugging-face
+resource_id: huggingface:blog/unsung-heroes
 first_seen: '2026-06-12T10:40:08.814384+00:00'
 last_seen: '2026-06-16T17:27:22.376926+05:30'
 last_checked: '2026-06-16T17:27:22.376926+05:30'

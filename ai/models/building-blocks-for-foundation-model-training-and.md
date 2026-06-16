@@ -8,7 +8,7 @@ published_at: '2026-05-11T23:18:26+05:30'
 collected_at: '2026-06-16T17:27:22.372476+05:30'
 tags: []
 status: active
-resource_id: blog:building-blocks-for-foundation-model-training-and
+resource_id: huggingface:blog/foundation-model-building-blocks
 first_seen: '2026-06-15T06:35:32.411174+00:00'
 last_seen: '2026-06-16T17:27:22.372476+05:30'
 last_checked: '2026-06-16T17:27:22.372476+05:30'

@@ -9,7 +9,7 @@ published_at: '2026-06-04T18:57:45+05:30'
 collected_at: '2026-06-16T17:27:22.372227+05:30'
 tags: []
 status: active
-resource_id: blog:nemotron-3-5-content-safety-customizable-multimoda
+resource_id: huggingface:blog/nemotron-3-5-content-safety
 first_seen: '2026-06-12T10:40:08.806742+00:00'
 last_seen: '2026-06-16T17:27:22.372227+05:30'
 last_checked: '2026-06-16T17:27:22.372227+05:30'

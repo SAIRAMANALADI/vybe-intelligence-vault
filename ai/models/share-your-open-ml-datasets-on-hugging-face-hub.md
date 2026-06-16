@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376554+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:share-your-open-ml-datasets-on-hugging-face-hub
+resource_id: huggingface:blog/researcher-dataset-sharing
 first_seen: '2026-06-12T10:40:08.813636+00:00'
 last_seen: '2026-06-16T17:27:22.376554+05:30'
 last_checked: '2026-06-16T17:27:22.376554+05:30'

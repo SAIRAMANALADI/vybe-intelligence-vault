@@ -8,7 +8,7 @@ published_at: '2023-02-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379830+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-and-aws-partner-to-make-ai-more-acces
+resource_id: huggingface:blog/aws-partnership
 first_seen: '2026-06-15T06:35:32.424567+00:00'
 last_seen: '2026-06-16T17:27:22.379830+05:30'
 last_checked: '2026-06-16T17:27:22.379830+05:30'

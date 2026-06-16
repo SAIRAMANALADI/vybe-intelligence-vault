@@ -8,7 +8,7 @@ published_at: '2023-02-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379840+05:30'
 tags: []
 status: active
-resource_id: blog:zero-shot-image-to-text-generation-with-blip-2
+resource_id: huggingface:blog/blip-2
 first_seen: '2026-06-12T10:40:08.821681+00:00'
 last_seen: '2026-06-16T17:27:22.379840+05:30'
 last_checked: '2026-06-16T17:27:22.379840+05:30'

@@ -8,7 +8,7 @@ published_at: '2022-12-01T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380119+05:30'
 tags: []
 status: active
-resource_id: blog:using-stable-diffusion-with-core-ml-on-apple-silic
+resource_id: huggingface:blog/diffusers-coreml
 first_seen: '2026-06-12T10:40:08.822264+00:00'
 last_seen: '2026-06-16T17:27:22.380119+05:30'
 last_checked: '2026-06-16T17:27:22.380119+05:30'

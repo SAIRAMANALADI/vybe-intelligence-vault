@@ -8,7 +8,7 @@ published_at: '2025-04-02T13:33:53+05:30'
 collected_at: '2026-06-16T17:27:22.375720+05:30'
 tags: []
 status: active
-resource_id: blog:efficient-request-queueing-optimizing-llm-performa
+resource_id: huggingface:blog/llm-performance-request-queueing
 first_seen: '2026-06-15T06:35:32.416229+00:00'
 last_seen: '2026-06-16T17:27:22.375720+05:30'
 last_checked: '2026-06-16T17:27:22.375720+05:30'

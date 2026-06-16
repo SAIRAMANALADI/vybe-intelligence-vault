@@ -8,7 +8,7 @@ published_at: '2024-10-09T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376759+05:30'
 tags: []
 status: active
-resource_id: blog:scaling-ai-based-data-processing-with-hugging-face
+resource_id: huggingface:blog/dask-scaling
 first_seen: '2026-06-12T10:40:08.814033+00:00'
 last_seen: '2026-06-16T17:27:22.376759+05:30'
 last_checked: '2026-06-16T17:27:22.376759+05:30'

@@ -8,7 +8,7 @@ published_at: '2026-01-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.373551+05:30'
 tags: []
 status: active
-resource_id: blog:open-responses-what-you-need-to-know
+resource_id: huggingface:blog/open-responses
 first_seen: '2026-06-12T10:40:08.808345+00:00'
 last_seen: '2026-06-16T17:27:22.373551+05:30'
 last_checked: '2026-06-16T17:27:22.373551+05:30'

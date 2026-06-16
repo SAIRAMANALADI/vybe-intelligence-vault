@@ -8,7 +8,7 @@ published_at: '2026-06-11T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.372163+05:30'
 tags: []
 status: active
-resource_id: blog:profiling-in-pytorch-part-2-from-nn-linear-to-a-fu
+resource_id: huggingface:blog/torch-mlp-fusion
 first_seen: '2026-06-12T10:40:08.806558+00:00'
 last_seen: '2026-06-16T17:27:22.372163+05:30'
 last_checked: '2026-06-16T17:27:22.372163+05:30'

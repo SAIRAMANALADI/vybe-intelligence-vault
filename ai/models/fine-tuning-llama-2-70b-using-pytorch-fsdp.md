@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:fine-tuning-llama-2-70b-using-pytorch-fsdp
+resource_id: huggingface:blog/ram-efficient-pytorch-fsdp
 first_seen: '2026-06-15T06:35:32.422372+00:00'
 last_seen: '2026-06-16T17:27:22.378859+05:30'
 last_checked: '2026-06-16T17:27:22.378859+05:30'

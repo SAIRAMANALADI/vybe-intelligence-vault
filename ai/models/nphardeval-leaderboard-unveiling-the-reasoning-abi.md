@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.378019+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:nphardeval-leaderboard-unveiling-the-reasoning-abi
+resource_id: huggingface:blog/leaderboard-nphardeval
 first_seen: '2026-06-12T10:40:08.816892+00:00'
 last_seen: '2026-06-16T17:27:22.378019+05:30'
 last_checked: '2026-06-16T17:27:22.378019+05:30'

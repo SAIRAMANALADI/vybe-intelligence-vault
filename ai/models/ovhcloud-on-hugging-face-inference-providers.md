@@ -8,7 +8,7 @@ published_at: '2025-11-24T16:08:47+05:30'
 collected_at: '2026-06-16T17:27:22.374187+05:30'
 tags: []
 status: active
-resource_id: blog:ovhcloud-on-hugging-face-inference-providers
+resource_id: huggingface:blog/inference-providers-ovhcloud
 first_seen: '2026-06-12T10:40:08.808729+00:00'
 last_seen: '2026-06-16T17:27:22.374187+05:30'
 last_checked: '2026-06-16T17:27:22.374187+05:30'

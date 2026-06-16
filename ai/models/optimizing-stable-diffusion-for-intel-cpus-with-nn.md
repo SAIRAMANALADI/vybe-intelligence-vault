@@ -8,7 +8,7 @@ published_at: '2023-05-25T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379410+05:30'
 tags: []
 status: active
-resource_id: blog:optimizing-stable-diffusion-for-intel-cpus-with-nn
+resource_id: huggingface:blog/train-optimize-sd-intel
 first_seen: '2026-06-12T10:40:08.820745+00:00'
 last_seen: '2026-06-16T17:27:22.379410+05:30'
 last_checked: '2026-06-16T17:27:22.379410+05:30'

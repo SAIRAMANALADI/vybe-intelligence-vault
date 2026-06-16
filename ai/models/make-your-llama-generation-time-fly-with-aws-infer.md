@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:make-your-llama-generation-time-fly-with-aws-infer
+resource_id: huggingface:blog/inferentia-llama2
 first_seen: '2026-06-12T10:40:08.818964+00:00'
 last_seen: '2026-06-16T17:27:22.378299+05:30'
 last_checked: '2026-06-16T17:27:22.378299+05:30'

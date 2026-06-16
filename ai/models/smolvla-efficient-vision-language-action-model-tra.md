@@ -9,7 +9,7 @@ published_at: '2025-06-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.375351+05:30'
 tags: []
 status: active
-resource_id: blog:smolvla-efficient-vision-language-action-model-tra
+resource_id: huggingface:blog/smolvla
 first_seen: '2026-06-12T10:40:08.811114+00:00'
 last_seen: '2026-06-16T17:27:22.375351+05:30'
 last_checked: '2026-06-16T17:27:22.375351+05:30'

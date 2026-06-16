@@ -8,7 +8,7 @@ published_at: '2023-06-05T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379362+05:30'
 tags: []
 status: active
-resource_id: blog:the-falcon-has-landed-in-the-hugging-face-ecosyste
+resource_id: huggingface:blog/falcon
 first_seen: '2026-06-12T10:40:08.820647+00:00'
 last_seen: '2026-06-16T17:27:22.379362+05:30'
 last_checked: '2026-06-16T17:27:22.379362+05:30'

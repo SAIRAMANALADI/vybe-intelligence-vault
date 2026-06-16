@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378328+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:introducing-storage-regions-on-the-hf-hub
+resource_id: huggingface:blog/regions
 first_seen: '2026-06-12T10:40:08.819032+00:00'
 last_seen: '2026-06-16T17:27:22.378328+05:30'
 last_checked: '2026-06-16T17:27:22.378328+05:30'

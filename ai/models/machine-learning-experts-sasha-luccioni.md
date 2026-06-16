@@ -8,7 +8,7 @@ published_at: '2022-05-17T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380885+05:30'
 tags: []
 status: active
-resource_id: blog:machine-learning-experts-sasha-luccioni
+resource_id: huggingface:blog/sasha-luccioni-interview
 first_seen: '2026-06-12T10:40:08.823790+00:00'
 last_seen: '2026-06-16T17:27:22.380885+05:30'
 last_checked: '2026-06-16T17:27:22.380885+05:30'

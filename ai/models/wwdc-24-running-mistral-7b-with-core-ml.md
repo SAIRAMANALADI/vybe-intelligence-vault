@@ -10,7 +10,7 @@ tags:
 - mistral
 - models
 status: active
-resource_id: blog:wwdc-24-running-mistral-7b-with-core-ml
+resource_id: huggingface:blog/mistral-coreml
 first_seen: '2026-06-12T10:40:08.814719+00:00'
 last_seen: '2026-06-16T17:27:22.377073+05:30'
 last_checked: '2026-06-16T17:27:22.377073+05:30'

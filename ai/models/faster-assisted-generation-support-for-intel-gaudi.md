@@ -8,7 +8,7 @@ published_at: '2024-06-04T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377343+05:30'
 tags: []
 status: active
-resource_id: blog:faster-assisted-generation-support-for-intel-gaudi
+resource_id: huggingface:blog/assisted-generation-support-gaudi
 first_seen: '2026-06-15T06:35:32.419697+00:00'
 last_seen: '2026-06-16T17:27:22.377343+05:30'
 last_checked: '2026-06-16T17:27:22.377343+05:30'

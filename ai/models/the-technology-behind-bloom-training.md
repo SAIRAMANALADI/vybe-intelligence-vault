@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.380683+05:30'
 tags:
 - hackernews
 status: active
-resource_id: blog:the-technology-behind-bloom-training
+resource_id: huggingface:blog/bloom-megatron-deepspeed
 first_seen: '2026-06-12T10:40:08.823315+00:00'
 last_seen: '2026-06-16T17:27:22.380683+05:30'
 last_checked: '2026-06-16T17:27:22.380683+05:30'

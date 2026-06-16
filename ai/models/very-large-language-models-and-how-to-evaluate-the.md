@@ -8,7 +8,7 @@ published_at: '2022-10-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380339+05:30'
 tags: []
 status: active
-resource_id: blog:very-large-language-models-and-how-to-evaluate-the
+resource_id: huggingface:blog/zero-shot-eval-on-the-hub
 first_seen: '2026-06-12T10:40:08.822739+00:00'
 last_seen: '2026-06-16T17:27:22.380339+05:30'
 last_checked: '2026-06-16T17:27:22.380339+05:30'

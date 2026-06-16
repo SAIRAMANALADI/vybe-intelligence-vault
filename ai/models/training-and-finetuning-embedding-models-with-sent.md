@@ -8,7 +8,7 @@ published_at: '2024-05-28T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377376+05:30'
 tags: []
 status: active
-resource_id: blog:training-and-finetuning-embedding-models-with-sent
+resource_id: huggingface:blog/train-sentence-transformers
 first_seen: '2026-06-12T10:40:08.815443+00:00'
 last_seen: '2026-06-16T17:27:22.377376+05:30'
 last_checked: '2026-06-16T17:27:22.377376+05:30'

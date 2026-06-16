@@ -8,7 +8,7 @@ published_at: '2024-12-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376324+05:30'
 tags: []
 status: active
-resource_id: blog:evaluating-audio-reasoning-with-big-bench-audio
+resource_id: huggingface:blog/big-bench-audio-release
 first_seen: '2026-06-15T06:35:32.417456+00:00'
 last_seen: '2026-06-16T17:27:22.376324+05:30'
 last_checked: '2026-06-16T17:27:22.376324+05:30'

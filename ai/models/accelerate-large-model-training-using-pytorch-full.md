@@ -8,7 +8,7 @@ published_at: '2022-05-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380970+05:30'
 tags: []
 status: active
-resource_id: blog:accelerate-large-model-training-using-pytorch-full
+resource_id: huggingface:blog/pytorch-fsdp
 first_seen: '2026-06-15T06:35:32.427172+00:00'
 last_seen: '2026-06-16T17:27:22.380970+05:30'
 last_checked: '2026-06-16T17:27:22.380970+05:30'

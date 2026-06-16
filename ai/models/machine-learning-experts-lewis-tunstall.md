@@ -8,7 +8,7 @@ published_at: '2022-04-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381037+05:30'
 tags: []
 status: active
-resource_id: blog:machine-learning-experts-lewis-tunstall
+resource_id: huggingface:blog/lewis-tunstall-interview
 first_seen: '2026-06-12T10:40:08.824176+00:00'
 last_seen: '2026-06-16T17:27:22.381037+05:30'
 last_checked: '2026-06-16T17:27:22.381037+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377685+05:30'
 tags:
 - models
 status: active
-resource_id: blog:codegemma-an-official-google-release-for-code-llms
+resource_id: huggingface:blog/codegemma
 first_seen: '2026-06-15T06:35:32.420514+00:00'
 last_seen: '2026-06-16T17:27:22.377685+05:30'
 last_checked: '2026-06-16T17:27:22.377685+05:30'

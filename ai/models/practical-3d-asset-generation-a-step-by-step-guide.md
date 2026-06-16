@@ -8,7 +8,7 @@ published_at: '2023-08-01T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379068+05:30'
 tags: []
 status: active
-resource_id: blog:practical-3d-asset-generation-a-step-by-step-guide
+resource_id: huggingface:blog/3d-assets
 first_seen: '2026-06-12T10:40:08.820012+00:00'
 last_seen: '2026-06-16T17:27:22.379068+05:30'
 last_checked: '2026-06-16T17:27:22.379068+05:30'

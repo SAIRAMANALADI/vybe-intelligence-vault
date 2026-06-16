@@ -8,7 +8,7 @@ published_at: '2025-08-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374782+05:30'
 tags: []
 status: active
-resource_id: blog:from-zero-to-gpu-a-guide-to-building-and-scaling-p
+resource_id: huggingface:blog/kernel-builder
 first_seen: '2026-06-15T06:35:32.414224+00:00'
 last_seen: '2026-06-16T17:27:22.374782+05:30'
 last_checked: '2026-06-16T17:27:22.374782+05:30'

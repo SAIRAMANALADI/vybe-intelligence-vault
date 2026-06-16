@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376374+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:introducing-the-synthetic-data-generator-build-dat
+resource_id: huggingface:blog/synthetic-data-generator
 first_seen: '2026-06-12T10:40:08.813257+00:00'
 last_seen: '2026-06-16T17:27:22.376374+05:30'
 last_checked: '2026-06-16T17:27:22.376374+05:30'

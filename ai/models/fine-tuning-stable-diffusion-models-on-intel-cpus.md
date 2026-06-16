@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.379167+05:30'
 tags:
 - models
 status: active
-resource_id: blog:fine-tuning-stable-diffusion-models-on-intel-cpus
+resource_id: huggingface:blog/stable-diffusion-finetuning-intel
 first_seen: '2026-06-15T06:35:32.423119+00:00'
 last_seen: '2026-06-16T17:27:22.379167+05:30'
 last_checked: '2026-06-16T17:27:22.379167+05:30'

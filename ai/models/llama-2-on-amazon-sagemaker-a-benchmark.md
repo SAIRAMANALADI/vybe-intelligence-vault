@@ -11,7 +11,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:llama-2-on-amazon-sagemaker-a-benchmark
+resource_id: huggingface:blog/llama-sagemaker-benchmark
 first_seen: '2026-06-12T10:40:08.819367+00:00'
 last_seen: '2026-06-16T17:27:22.378791+05:30'
 last_checked: '2026-06-16T17:27:22.378791+05:30'

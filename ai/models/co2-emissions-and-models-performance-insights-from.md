@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376284+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:co2-emissions-and-models-performance-insights-from
+resource_id: huggingface:blog/leaderboard-emissions-analysis
 first_seen: '2026-06-15T06:35:32.417372+00:00'
 last_seen: '2026-06-16T17:27:22.376284+05:30'
 last_checked: '2026-06-16T17:27:22.376284+05:30'

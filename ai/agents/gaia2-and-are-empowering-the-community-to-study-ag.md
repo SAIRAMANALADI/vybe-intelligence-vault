@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374588+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:gaia2-and-are-empowering-the-community-to-study-ag
+resource_id: huggingface:blog/gaia2
 first_seen: '2026-06-15T06:35:32.413853+00:00'
 last_seen: '2026-06-16T17:27:22.374588+05:30'
 last_checked: '2026-06-16T17:27:22.374588+05:30'

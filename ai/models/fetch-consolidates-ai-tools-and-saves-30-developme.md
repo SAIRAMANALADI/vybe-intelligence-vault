@@ -9,7 +9,7 @@ published_at: '2023-02-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379820+05:30'
 tags: []
 status: active
-resource_id: blog:fetch-consolidates-ai-tools-and-saves-30-developme
+resource_id: huggingface:blog/fetch-eap-case-study
 first_seen: '2026-06-15T06:35:32.424547+00:00'
 last_seen: '2026-06-16T17:27:22.379820+05:30'
 last_checked: '2026-06-16T17:27:22.379820+05:30'

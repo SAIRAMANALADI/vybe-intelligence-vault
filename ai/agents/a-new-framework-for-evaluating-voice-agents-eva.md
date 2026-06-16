@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372865+05:30'
 tags:
 - agents
 status: active
-resource_id: blog:a-new-framework-for-evaluating-voice-agents-eva
+resource_id: huggingface:blog/eva
 first_seen: '2026-06-15T06:35:32.411740+00:00'
 last_seen: '2026-06-16T17:27:22.372865+05:30'
 last_checked: '2026-06-16T17:27:22.372865+05:30'

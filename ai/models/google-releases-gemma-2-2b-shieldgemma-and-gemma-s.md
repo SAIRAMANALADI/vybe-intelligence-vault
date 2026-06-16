@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377025+05:30'
 tags:
 - models
 status: active
-resource_id: blog:google-releases-gemma-2-2b-shieldgemma-and-gemma-s
+resource_id: huggingface:blog/gemma-july-update
 first_seen: '2026-06-15T06:35:32.418979+00:00'
 last_seen: '2026-06-16T17:27:22.377025+05:30'
 last_checked: '2026-06-16T17:27:22.377025+05:30'

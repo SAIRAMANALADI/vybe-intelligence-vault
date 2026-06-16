@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375550+05:30'
 tags:
 - models
 status: active
-resource_id: blog:introducing-autoround-intels-advanced-quantization
+resource_id: huggingface:blog/autoround
 first_seen: '2026-06-12T10:40:08.811527+00:00'
 last_seen: '2026-06-16T17:27:22.375550+05:30'
 last_checked: '2026-06-16T17:27:22.375550+05:30'

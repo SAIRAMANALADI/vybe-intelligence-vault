@@ -8,7 +8,7 @@ published_at: '2025-06-03T15:04:36+05:30'
 collected_at: '2026-06-16T17:27:22.375330+05:30'
 tags: []
 status: active
-resource_id: blog:real-time-ai-sound-generation-on-arm-a-personal-to
+resource_id: huggingface:blog/ai-sound-gen-on-arm
 first_seen: '2026-06-15T06:35:32.415314+00:00'
 last_seen: '2026-06-16T17:27:22.375330+05:30'
 last_checked: '2026-06-16T17:27:22.375330+05:30'

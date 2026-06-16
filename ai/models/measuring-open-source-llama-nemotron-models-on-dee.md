@@ -10,7 +10,7 @@ tags:
 - meta-ai
 - models
 status: active
-resource_id: blog:measuring-open-source-llama-nemotron-models-on-dee
+resource_id: huggingface:blog/ai-q-top-ranking-open-portable-deep-research-agent
 first_seen: '2026-06-15T06:35:32.414458+00:00'
 last_seen: '2026-06-16T17:27:22.374924+05:30'
 last_checked: '2026-06-16T17:27:22.374924+05:30'

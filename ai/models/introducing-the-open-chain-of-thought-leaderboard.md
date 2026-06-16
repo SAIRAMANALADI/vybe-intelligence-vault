@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377577+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:introducing-the-open-chain-of-thought-leaderboard
+resource_id: huggingface:blog/leaderboard-cot
 first_seen: '2026-06-12T10:40:08.815886+00:00'
 last_seen: '2026-06-16T17:27:22.377577+05:30'
 last_checked: '2026-06-16T17:27:22.377577+05:30'

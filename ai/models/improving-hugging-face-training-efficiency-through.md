@@ -9,7 +9,7 @@ published_at: '2024-08-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.376935+05:30'
 tags: []
 status: active
-resource_id: blog:improving-hugging-face-training-efficiency-through
+resource_id: huggingface:blog/packing-with-fa2
 first_seen: '2026-06-12T10:40:08.814404+00:00'
 last_seen: '2026-06-16T17:27:22.376935+05:30'
 last_checked: '2026-06-16T17:27:22.376935+05:30'

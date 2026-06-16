@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.374132+05:30'
 tags:
 - anthropic
 status: active
-resource_id: blog:we-got-claude-to-fine-tune-an-open-source-llm
+resource_id: huggingface:blog/hf-skills-training
 first_seen: '2026-06-12T10:40:08.808601+00:00'
 last_seen: '2026-06-16T17:27:22.374132+05:30'
 last_checked: '2026-06-16T17:27:22.374132+05:30'

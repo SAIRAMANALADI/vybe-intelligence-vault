@@ -8,7 +8,7 @@ published_at: '2022-09-27T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380359+05:30'
 tags: []
 status: active
-resource_id: blog:how-accelerate-runs-very-large-models-thanks-to-py
+resource_id: huggingface:blog/accelerate-large-models
 first_seen: '2026-06-15T06:35:32.425853+00:00'
 last_seen: '2026-06-16T17:27:22.380359+05:30'
 last_checked: '2026-06-16T17:27:22.380359+05:30'

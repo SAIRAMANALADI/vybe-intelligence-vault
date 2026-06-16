@@ -8,7 +8,7 @@ published_at: '2022-04-05T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381056+05:30'
 tags: []
 status: active
-resource_id: blog:don-t-repeat-yourself
+resource_id: huggingface:blog/transformers-design-philosophy
 first_seen: '2026-06-15T06:35:32.427362+00:00'
 last_seen: '2026-06-16T17:27:22.381056+05:30'
 last_checked: '2026-06-16T17:27:22.381056+05:30'

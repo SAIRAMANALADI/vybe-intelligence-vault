@@ -8,7 +8,7 @@ published_at: '2024-07-29T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377044+05:30'
 tags: []
 status: active
-resource_id: blog:serverless-inference-with-hugging-face-and-nvidia
+resource_id: huggingface:blog/inference-dgx-cloud
 first_seen: '2026-06-12T10:40:08.814656+00:00'
 last_seen: '2026-06-16T17:27:22.377044+05:30'
 last_checked: '2026-06-16T17:27:22.377044+05:30'

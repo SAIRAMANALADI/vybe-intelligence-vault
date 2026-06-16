@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377112+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:how-we-leveraged-distilabel-to-create-an-argilla-2
+resource_id: huggingface:blog/argilla-chatbot
 first_seen: '2026-06-15T06:35:32.419193+00:00'
 last_seen: '2026-06-16T17:27:22.377112+05:30'
 last_checked: '2026-06-16T17:27:22.377112+05:30'

@@ -9,7 +9,7 @@ published_at: '2022-12-15T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.380062+05:30'
 tags: []
 status: active
-resource_id: blog:let-s-talk-about-biases-in-machine-learning-ethics
+resource_id: huggingface:blog/ethics-soc-2
 first_seen: '2026-06-12T10:40:08.822144+00:00'
 last_seen: '2026-06-16T17:27:22.380062+05:30'
 last_checked: '2026-06-16T17:27:22.380062+05:30'

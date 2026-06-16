@@ -10,7 +10,7 @@ tags:
 - dataset
 - youtube
 status: active
-resource_id: blog:build-awesome-datasets-for-video-generation
+resource_id: huggingface:blog/vid_ds_scripts
 first_seen: '2026-06-15T06:35:32.416860+00:00'
 last_seen: '2026-06-16T17:27:22.376034+05:30'
 last_checked: '2026-06-16T17:27:22.376034+05:30'

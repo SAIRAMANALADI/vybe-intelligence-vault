@@ -8,7 +8,7 @@ published_at: '2021-01-18T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381592+05:30'
 tags: []
 status: active
-resource_id: blog:how-we-sped-up-transformer-inference-100x-for-api
+resource_id: huggingface:blog/accelerated-inference
 first_seen: '2026-06-15T06:35:32.428593+00:00'
 last_seen: '2026-06-16T17:27:22.381592+05:30'
 last_checked: '2026-06-16T17:27:22.381592+05:30'

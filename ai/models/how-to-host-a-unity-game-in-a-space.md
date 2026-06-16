@@ -8,7 +8,7 @@ published_at: '2023-04-21T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379610+05:30'
 tags: []
 status: active
-resource_id: blog:how-to-host-a-unity-game-in-a-space
+resource_id: huggingface:blog/unity-in-spaces
 first_seen: '2026-06-15T06:35:32.424097+00:00'
 last_seen: '2026-06-16T17:27:22.379610+05:30'
 last_checked: '2026-06-16T17:27:22.379610+05:30'

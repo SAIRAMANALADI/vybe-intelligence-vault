@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376053+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:the-open-arabic-llm-leaderboard-2
+resource_id: huggingface:blog/leaderboard-arabic-v2
 first_seen: '2026-06-12T10:40:08.812601+00:00'
 last_seen: '2026-06-16T17:27:22.376053+05:30'
 last_checked: '2026-06-16T17:27:22.376053+05:30'

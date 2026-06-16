@@ -8,7 +8,7 @@ published_at: '2023-06-20T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379255+05:30'
 tags: []
 status: active
-resource_id: blog:ai-policy-response-to-the-u-s-ntia-s-request-for-c
+resource_id: huggingface:blog/policy-ntia-rfc
 first_seen: '2026-06-15T06:35:32.423310+00:00'
 last_seen: '2026-06-16T17:27:22.379255+05:30'
 last_checked: '2026-06-16T17:27:22.379255+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-10-13T23:00:42+05:30'
 collected_at: '2026-06-16T17:27:22.374458+05:30'
 tags: []
 status: active
-resource_id: blog:nemotron-personas-india-synthesized-data-for-sover
+resource_id: huggingface:blog/nemotron-personas-india
 first_seen: '2026-06-15T06:35:32.413607+00:00'
 last_seen: '2026-06-16T17:27:22.374458+05:30'
 last_checked: '2026-06-16T17:27:22.374458+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-07-30T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377035+05:30'
 tags: []
 status: active
-resource_id: blog:memory-efficient-diffusion-transformers-with-quant
+resource_id: huggingface:blog/quanto-diffusers
 first_seen: '2026-06-12T10:40:08.814629+00:00'
 last_seen: '2026-06-16T17:27:22.377035+05:30'
 last_checked: '2026-06-16T17:27:22.377035+05:30'

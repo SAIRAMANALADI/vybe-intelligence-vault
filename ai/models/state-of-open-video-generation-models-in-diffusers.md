@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376161+05:30'
 tags:
 - youtube
 status: active
-resource_id: blog:state-of-open-video-generation-models-in-diffusers
+resource_id: huggingface:blog/video_gen
 first_seen: '2026-06-12T10:40:08.812845+00:00'
 last_seen: '2026-06-16T17:27:22.376161+05:30'
 last_checked: '2026-06-16T17:27:22.376161+05:30'

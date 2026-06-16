@@ -9,7 +9,7 @@ published_at: '2023-05-23T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379441+05:30'
 tags: []
 status: active
-resource_id: blog:hugging-face-and-ibm-partner-on-watsonx-ai-the-nex
+resource_id: huggingface:blog/huggingface-and-ibm
 first_seen: '2026-06-15T06:35:32.423704+00:00'
 last_seen: '2026-06-16T17:27:22.379441+05:30'
 last_checked: '2026-06-16T17:27:22.379441+05:30'

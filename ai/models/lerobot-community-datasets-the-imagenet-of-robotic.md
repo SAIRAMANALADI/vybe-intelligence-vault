@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375510+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:lerobot-community-datasets-the-imagenet-of-robotic
+resource_id: huggingface:blog/lerobot-datasets
 first_seen: '2026-06-12T10:40:08.811445+00:00'
 last_seen: '2026-06-16T17:27:22.375510+05:30'
 last_checked: '2026-06-16T17:27:22.375510+05:30'

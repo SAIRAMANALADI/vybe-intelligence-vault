@@ -10,7 +10,7 @@ tags:
 - dataset
 - youtube
 status: active
-resource_id: blog:scaling-robotics-datasets-with-video-encoding
+resource_id: huggingface:blog/video-encoding
 first_seen: '2026-06-12T10:40:08.814364+00:00'
 last_seen: '2026-06-16T17:27:22.376916+05:30'
 last_checked: '2026-06-16T17:27:22.376916+05:30'

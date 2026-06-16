@@ -8,7 +8,7 @@ published_at: '2023-04-26T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379580+05:30'
 tags: []
 status: active
-resource_id: blog:running-if-with-diffusers-on-a-free-tier-google-co
+resource_id: huggingface:blog/if
 first_seen: '2026-06-12T10:40:08.821088+00:00'
 last_seen: '2026-06-16T17:27:22.379580+05:30'
 last_checked: '2026-06-16T17:27:22.379580+05:30'

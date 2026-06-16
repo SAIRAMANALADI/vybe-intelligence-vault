@@ -9,7 +9,7 @@ published_at: '2024-05-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377385+05:30'
 tags: []
 status: active
-resource_id: blog:falcon-2-an-11b-parameter-pretrained-language-mode
+resource_id: huggingface:blog/falcon2-11b
 first_seen: '2026-06-15T06:35:32.419782+00:00'
 last_seen: '2026-06-16T17:27:22.377385+05:30'
 last_checked: '2026-06-16T17:27:22.377385+05:30'

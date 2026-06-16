@@ -9,7 +9,7 @@ published_at: '2026-01-27T15:01:45+05:30'
 collected_at: '2026-06-16T17:27:22.373433+05:30'
 tags: []
 status: active
-resource_id: blog:architectural-choices-in-china-s-open-source-ai-ec
+resource_id: huggingface:blog/one-year-since-the-deepseek-moment-blog-2
 first_seen: '2026-06-15T06:35:32.412344+00:00'
 last_seen: '2026-06-16T17:27:22.373433+05:30'
 last_checked: '2026-06-16T17:27:22.373433+05:30'

@@ -8,7 +8,7 @@ published_at: '2023-01-17T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379984+05:30'
 tags: []
 status: active
-resource_id: blog:welcome-paddlepaddle-to-the-hugging-face-hub
+resource_id: huggingface:blog/paddlepaddle
 first_seen: '2026-06-15T06:35:32.424982+00:00'
 last_seen: '2026-06-16T17:27:22.379984+05:30'
 last_checked: '2026-06-16T17:27:22.379984+05:30'

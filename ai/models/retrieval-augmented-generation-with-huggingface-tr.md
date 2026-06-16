@@ -8,7 +8,7 @@ published_at: '2021-02-10T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.381554+05:30'
 tags: []
 status: active
-resource_id: blog:retrieval-augmented-generation-with-huggingface-tr
+resource_id: huggingface:blog/ray-rag
 first_seen: '2026-06-12T10:40:08.825267+00:00'
 last_seen: '2026-06-16T17:27:22.381554+05:30'
 last_checked: '2026-06-16T17:27:22.381554+05:30'

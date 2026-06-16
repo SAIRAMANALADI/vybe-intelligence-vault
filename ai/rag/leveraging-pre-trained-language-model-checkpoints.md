@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.381601+05:30'
 tags:
 - rag
 status: active
-resource_id: blog:leveraging-pre-trained-language-model-checkpoints
+resource_id: huggingface:blog/warm-starting-encoder-decoder
 first_seen: '2026-06-12T10:40:08.825366+00:00'
 last_seen: '2026-06-16T17:27:22.381601+05:30'
 last_checked: '2026-06-16T17:27:22.381601+05:30'

@@ -8,7 +8,7 @@ published_at: '2025-11-13T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.374257+05:30'
 tags: []
 status: active
-resource_id: blog:building-for-an-open-future-our-new-partnership-wi
+resource_id: huggingface:blog/google-cloud
 first_seen: '2026-06-15T06:35:32.413036+00:00'
 last_seen: '2026-06-16T17:27:22.374257+05:30'
 last_checked: '2026-06-16T17:27:22.374257+05:30'

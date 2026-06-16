@@ -8,7 +8,7 @@ published_at: '2023-03-02T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379781+05:30'
 tags: []
 status: active
-resource_id: blog:ethical-guidelines-for-developing-the-diffusers-li
+resource_id: huggingface:blog/ethics-diffusers
 first_seen: '2026-06-15T06:35:32.424465+00:00'
 last_seen: '2026-06-16T17:27:22.379781+05:30'
 last_checked: '2026-06-16T17:27:22.379781+05:30'

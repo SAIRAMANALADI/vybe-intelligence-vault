@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.372576+05:30'
 tags:
 - leaderboard
 status: active
-resource_id: blog:qimma-qimw-a-quality-first-arabic-llm-leaderboard
+resource_id: huggingface:blog/qimma-arabic-leaderboard
 first_seen: '2026-06-12T10:40:08.807275+00:00'
 last_seen: '2026-06-16T17:27:22.372576+05:30'
 last_checked: '2026-06-16T17:27:22.372576+05:30'

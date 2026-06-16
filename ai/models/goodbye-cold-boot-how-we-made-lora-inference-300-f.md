@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.378269+05:30'
 tags:
 - models
 status: active
-resource_id: blog:goodbye-cold-boot-how-we-made-lora-inference-300-f
+resource_id: huggingface:blog/lora-adapters-dynamic-loading
 first_seen: '2026-06-15T06:35:32.421789+00:00'
 last_seen: '2026-06-16T17:27:22.378269+05:30'
 last_checked: '2026-06-16T17:27:22.378269+05:30'

@@ -8,7 +8,7 @@ published_at: '2024-03-22T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377753+05:30'
 tags: []
 status: active
-resource_id: blog:total-noobs-intro-to-hugging-face-transformers
+resource_id: huggingface:blog/noob_intro_transformers
 first_seen: '2026-06-12T10:40:08.816259+00:00'
 last_seen: '2026-06-16T17:27:22.377753+05:30'
 last_checked: '2026-06-16T17:27:22.377753+05:30'

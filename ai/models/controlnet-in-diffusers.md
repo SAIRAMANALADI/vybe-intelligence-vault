@@ -8,7 +8,7 @@ published_at: '2023-03-03T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379765+05:30'
 tags: []
 status: active
-resource_id: blog:controlnet-in-diffusers
+resource_id: huggingface:blog/controlnet
 first_seen: '2026-06-15T06:35:32.424441+00:00'
 last_seen: '2026-06-16T17:27:22.379765+05:30'
 last_checked: '2026-06-16T17:27:22.379765+05:30'

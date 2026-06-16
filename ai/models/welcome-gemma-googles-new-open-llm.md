@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.377945+05:30'
 tags:
 - models
 status: active
-resource_id: blog:welcome-gemma-googles-new-open-llm
+resource_id: huggingface:blog/gemma
 first_seen: '2026-06-12T10:40:08.816716+00:00'
 last_seen: '2026-06-16T17:27:22.377945+05:30'
 last_checked: '2026-06-16T17:27:22.377945+05:30'

@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.376541+05:30'
 tags:
 - benchmark
 status: active
-resource_id: blog:judge-arena-benchmarking-llms-as-evaluators
+resource_id: huggingface:blog/arena-atla
 first_seen: '2026-06-12T10:40:08.813595+00:00'
 last_seen: '2026-06-16T17:27:22.376541+05:30'
 last_checked: '2026-06-16T17:27:22.376541+05:30'

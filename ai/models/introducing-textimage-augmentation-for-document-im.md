@@ -8,7 +8,7 @@ published_at: '2024-08-06T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.377013+05:30'
 tags: []
 status: active
-resource_id: blog:introducing-textimage-augmentation-for-document-im
+resource_id: huggingface:blog/doc_aug_hf_alb
 first_seen: '2026-06-12T10:40:08.814570+00:00'
 last_seen: '2026-06-16T17:27:22.377013+05:30'
 last_checked: '2026-06-16T17:27:22.377013+05:30'

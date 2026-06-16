@@ -8,7 +8,7 @@ published_at: '2025-10-07T09:37:25+05:30'
 collected_at: '2026-06-16T17:27:22.374484+05:30'
 tags: []
 status: active
-resource_id: blog:bigcodearena-judging-code-generations-end-to-end-w
+resource_id: huggingface:blog/arena
 first_seen: '2026-06-15T06:35:32.413653+00:00'
 last_seen: '2026-06-16T17:27:22.374484+05:30'
 last_checked: '2026-06-16T17:27:22.374484+05:30'

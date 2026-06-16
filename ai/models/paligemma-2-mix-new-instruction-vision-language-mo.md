@@ -9,7 +9,7 @@ collected_at: '2026-06-16T17:27:22.375976+05:30'
 tags:
 - models
 status: active
-resource_id: blog:paligemma-2-mix-new-instruction-vision-language-mo
+resource_id: huggingface:blog/paligemma2mix
 first_seen: '2026-06-12T10:40:08.812435+00:00'
 last_seen: '2026-06-16T17:27:22.375976+05:30'
 last_checked: '2026-06-16T17:27:22.375976+05:30'

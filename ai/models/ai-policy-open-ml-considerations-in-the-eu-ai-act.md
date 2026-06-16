@@ -8,7 +8,7 @@ published_at: '2023-07-24T00:00:00+05:30'
 collected_at: '2026-06-16T17:27:22.379097+05:30'
 tags: []
 status: active
-resource_id: blog:ai-policy-open-ml-considerations-in-the-eu-ai-act
+resource_id: huggingface:blog/eu-ai-act-oss
 first_seen: '2026-06-15T06:35:32.422950+00:00'
 last_seen: '2026-06-16T17:27:22.379097+05:30'
 last_checked: '2026-06-16T17:27:22.379097+05:30'

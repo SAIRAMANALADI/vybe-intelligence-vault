@@ -10,7 +10,7 @@ collected_at: '2026-06-16T17:27:22.372961+05:30'
 tags:
 - dataset
 status: active
-resource_id: blog:bringing-robotics-ai-to-embedded-platforms-dataset
+resource_id: huggingface:blog/bringing-robotics-ai-to-embedded-platforms
 first_seen: '2026-06-15T06:35:32.411917+00:00'
 last_seen: '2026-06-16T17:27:22.372961+05:30'
 last_checked: '2026-06-16T17:27:22.372961+05:30'
