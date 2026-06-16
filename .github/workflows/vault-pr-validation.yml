@@ -16,11 +16,132 @@ jobs:
         with:
           path: vault
 
-      - name: Checkout Ingestion Engine (Scripts)
-        uses: actions/checkout@v4
-        with:
-          repository: sairaman436/vybe-intelligence-engine
-          path: engine
+      - name: Resilient Checkout of Ingestion Engine (Scripts)
+        env:
+          VAULT_GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN }}
+        run: |
+          REPO="sairaman436/vybe-intelligence-engine"
+          CONFIG_BRANCH="main"
+          DEST_DIR="engine"
+
+          echo "=== GitHub Checkout Diagnostics ==="
+          echo "Repository Name: $REPO"
+          echo "Configured Branch: $CONFIG_BRANCH"
+          if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+            echo "Token Scope Status: Token is present"
+          else
+            echo "Token Scope Status: Token is missing/empty"
+          fi
+
+          # Call API to fetch repository details and check scopes/rate-limit
+          API_URL="https://api.github.com/repos/$REPO"
+          
+          # Headers call to check authentication / token scopes
+          if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+            API_HEADERS=$(curl -s -I -H "Authorization: token $VAULT_GITHUB_TOKEN" "$API_URL")
+          else
+            API_HEADERS=$(curl -s -I "$API_URL")
+          fi
+          
+          HTTP_STATUS=$(echo "$API_HEADERS" | grep -Fi "HTTP/" | awk '{print $2}' | tail -n1)
+          SCOPES=$(echo "$API_HEADERS" | grep -Fi "X-OAuth-Scopes:" | cut -d':' -f2- | xargs)
+          RATELIMIT_REMAINING=$(echo "$API_HEADERS" | grep -Fi "x-ratelimit-remaining:" | cut -d':' -f2- | xargs)
+
+          echo "API Response HTTP Status: $HTTP_STATUS"
+          echo "Token OAuth Scopes: $SCOPES"
+          echo "Rate Limit Remaining: $RATELIMIT_REMAINING"
+
+          # Fetch default branch name from API body
+          if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+            API_BODY=$(curl -s -H "Authorization: token $VAULT_GITHUB_TOKEN" "$API_URL")
+          else
+            API_BODY=$(curl -s "$API_URL")
+          fi
+          
+          DEFAULT_BRANCH=$(echo "$API_BODY" | grep -o '"default_branch": "[^"]*' | cut -d'"' -f4)
+          API_ERROR_MSG=$(echo "$API_BODY" | grep -o '"message": "[^"]*' | cut -d'"' -f4)
+
+          if [ -n "$DEFAULT_BRANCH" ]; then
+            echo "API Detected Default Branch: $DEFAULT_BRANCH"
+          else
+            echo "API Default Branch Detection Failed. Response Message: $API_ERROR_MSG"
+          fi
+          echo "==================================="
+
+          # Function to attempt clone with retries
+          clone_repo() {
+            local branch=$1
+            local clone_url="https://github.com/$REPO.git"
+            if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+              clone_url="https://x-access-token:$VAULT_GITHUB_TOKEN@github.com/$REPO.git"
+            fi
+            
+            echo "Attempting to clone branch '$branch' to '$DEST_DIR'..."
+            for attempt in {1..3}; do
+              echo "Clone attempt $attempt..."
+              if GIT_TERMINAL_PROMPT=0 git clone --branch "$branch" --depth 1 "$clone_url" "$DEST_DIR"; then
+                echo "Successfully cloned branch '$branch'!"
+                return 0
+              fi
+              echo "Clone attempt $attempt failed. Sleeping 5 seconds..."
+              sleep 5
+            done
+            return 1
+          }
+
+          # Try configured branch first
+          if clone_repo "$CONFIG_BRANCH"; then
+            exit 0
+          fi
+
+          # Next, try API-detected default branch
+          if [ -n "$DEFAULT_BRANCH" ] && [ "$DEFAULT_BRANCH" != "$CONFIG_BRANCH" ]; then
+            echo "Configured branch clone failed. Trying API-detected default branch '$DEFAULT_BRANCH'..."
+            if clone_repo "$DEFAULT_BRANCH"; then
+              exit 0
+            fi
+          fi
+
+          # Next, try fallback branch 'master'
+          if [ "$CONFIG_BRANCH" != "master" ] && [ "$DEFAULT_BRANCH" != "master" ]; then
+            echo "Trying fallback branch 'master'..."
+            if clone_repo "master"; then
+              exit 0
+            fi
+          fi
+
+          # Finally, try generic clone (let remote decide default branch)
+          echo "Trying generic clone without branch specification..."
+          GENERIC_URL="https://github.com/$REPO.git"
+          if [ -n "$VAULT_GITHUB_TOKEN" ]; then
+            GENERIC_URL="https://x-access-token:$VAULT_GITHUB_TOKEN@github.com/$REPO.git"
+          fi
+          for attempt in {1..3}; do
+            if GIT_TERMINAL_PROMPT=0 git clone --depth 1 "$GENERIC_URL" "$DEST_DIR"; then
+              echo "Successfully cloned using generic clone!"
+              exit 0
+            fi
+            sleep 5
+          done
+
+          # If all fails, provide detailed explanation
+          echo "::error::Failed to clone repository '$REPO'."
+          echo "========================================================================"
+          echo "FATAL ERROR: Resilient checkout failed."
+          echo "Diagnostic Summary:"
+          echo "  - Target Repo: $REPO"
+          echo "  - Token Supplied: $([ -n "$VAULT_GITHUB_TOKEN" ] && echo "Yes" || echo "No (MISSING/EMPTY)")"
+          echo "  - API Status Code: $HTTP_STATUS"
+          if [ "$HTTP_STATUS" = "404" ]; then
+            echo "  - API return 404 indicates the repository is private and the token lacks permission, or the repository name is wrong."
+          elif [ "$HTTP_STATUS" = "401" ]; then
+            echo "  - API return 401 indicates invalid credentials (token)."
+          fi
+          echo "  - Scopes: $SCOPES"
+          echo "  - API Error Message: $API_ERROR_MSG"
+          echo "========================================================================"
+          exit 1
+
 
       - name: Set up Python
         uses: actions/setup-python@v5
