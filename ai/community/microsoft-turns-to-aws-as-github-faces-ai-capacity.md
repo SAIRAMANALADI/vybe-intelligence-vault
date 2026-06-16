@@ -13,13 +13,14 @@ collected_at: '2026-06-16T04:26:21.811512+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:microsoft-turns-to-aws-as-github-faces-ai-capacity
 first_seen: '2026-06-16T04:26:21.811512+00:00'
 last_seen: '2026-06-16T04:26:21.811512+00:00'
 last_checked: '2026-06-16T04:26:21.811512+00:00'
 health_score: 100
 ---
+
 
 # Microsoft turns to AWS as GitHub faces AI capacity crunch
 

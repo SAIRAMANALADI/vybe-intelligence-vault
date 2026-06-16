@@ -13,15 +13,10 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `89` | **Path**: [`langgenius-dify.md`](file:///../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](file:///../../ai/agents/mergisi-awesome-openclaw-agents.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
+### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
+- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
+- **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
@@ -33,10 +28,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](file:///../../ai/rag/yonatangross-orchestkit.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
-### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
-- **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`llamasearchai-openagi-customization.md`](file:///../../ai/resources/llamasearchai-openagi-customization.md)
-- **Selection Reason**: Strong keyword match, Active open-source repository
+### [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`mergisi-awesome-openclaw-agents.md`](file:///../../ai/agents/mergisi-awesome-openclaw-agents.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
+- **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization)
 - **Category**: `ai/resources` | **Kind**: `API` | **Tier**: `ESSENTIAL`
@@ -51,11 +51,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 ### [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - **Category**: `ai/agents` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
 - **Score**: `87` | **Path**: [`maunappl8-openai-agents-ts-kit.md`](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems)
@@ -63,10 +58,15 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augme.md`](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `84` | **Path**: [`openai-agents-sdk-complete-setup-guide-2026.md`](file:///../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
+### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`mastering-langgraph-a-production-ready-coding-walk.md`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-16 11:25 IST*
+*Last updated: 2026-06-16 14:00 IST*

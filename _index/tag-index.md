@@ -139,6 +139,7 @@ Resources organized by keyword tags.
   - [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
   - [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)
   - [Building Effective AI Agents \ Anthropic](../ai/rag/building-effective-ai-agents-anthropic.md)
+  - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md)
   - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](../ai/rag/building-production-ready-ai-agents-with-langgraph.md)
   - [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
   - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](../ai/rag/building-production-ready-rag-systems-best-practic.md)
@@ -337,6 +338,7 @@ Resources organized by keyword tags.
   - [Introducing Snowball Fight ☃️, our first ML-Agents environment](../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)
   - [Introducing smolagents: simple agents that write actions in code.](../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)
   - [Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system](../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)
+  - [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](../ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md)
   - [InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery](../ai/agents/arxiv-2606-16133.md)
   - [Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis](../ai/agents/arxiv-2606-14831.md)
   - [Is Your Trajectory Displacement Safe in Long-tail?](../ai/rag/arxiv-2606-16313.md)
@@ -435,6 +437,7 @@ Resources organized by keyword tags.
   - [Near-Optimal Regret for Distributed Adversarial Bandits: A Black-Box Approach](../ai/rag/arxiv-2602-06404.md)
   - [Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning](../ai/agents/arxiv-2606-15007.md)
   - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](../ai/agents/arxiv-2606-13405.md)
+  - [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md)
   - [NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track](../ai/rag/arxiv-2606-11199.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [No Accidental Software Agent First Canonical Code for Human Code Entropy Reduction and 30 to 500 times Lower Frontier Model Requirements](../ai/agents/arxiv-2606-14357.md)
@@ -723,6 +726,7 @@ Resources organized by keyword tags.
   - [codewithaarohi/OpenAI-Agents-SDK](../ai/agents/codewithaarohi-openai-agents-sdk.md)
   - [codewithaarohi/OpenAI-Agents-SDK-](../ai/agents/codewithaarohi-openai-agents-sdk-2.md)
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md)
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](../ai/agents/arxiv-2606-16497.md)
   - [dabidstudio/openai-agents-sdk-tutorial](../ai/agents/dabidstudio-openai-agents-sdk-tutorial.md)
   - [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md)
@@ -760,6 +764,7 @@ Resources organized by keyword tags.
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [microsoft/SafeAgents](../ai/agents/microsoft-safeagents.md)
   - [microsoft/agentsleague](../ai/agents/microsoft-agentsleague.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md)
   - [mkrl/e0](../ai/agents/mkrl-e0.md)
   - [neocypher-x/openai-agents-sdk-tutorial](../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
@@ -770,6 +775,7 @@ Resources organized by keyword tags.
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md)
   - [purduehackers/coding-agent-workshop-template](../ai/agents/purduehackers-coding-agent-workshop-template.md)
+  - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md)
   - [razzant/ouroboros](../ai/agents/razzant-ouroboros.md)
   - [redhat-data-and-ai/template-agent](../ai/agents/redhat-data-and-ai-template-agent.md)
   - [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md)
@@ -781,6 +787,7 @@ Resources organized by keyword tags.
   - [snyk/agent-scan](../ai/agents/snyk-agent-scan.md)
   - [sumanth-dhanya/llm-toolkit](../ai/agents/sumanth-dhanya-llm-toolkit.md)
   - [tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration](../ai/agents/arxiv-2606-14445.md)
+  - [trycua/cua](../ai/agents/trycua-cua.md)
   - [valory-xyz/langchain-hello-world](../ai/agents/valory-xyz-langchain-hello-world.md)
   - [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md)
   - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
@@ -791,16 +798,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
   - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
-  - [Can Europe train a frontier AI model on the compute it owns?](../ai/community/sammysltd-euromesh.md)
-  - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
-  - [Microsoft turns to AWS as GitHub faces AI capacity crunch](../ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)
   - [My Homelab AI Dev Platform](../ai/community/my-homelab-ai-dev-platform.md)
-  - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
-  - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
-  - [Show HN: Vet turned founder, AI lawn diagnosis](../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)
-  - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
   - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
   - [Why I email complete strangers](../ai/community/why-i-email-complete-strangers.md)
 
@@ -860,7 +859,6 @@ Resources organized by keyword tags.
   - [AgentLeak: A Benchmark for Internal-Channel Privacy Leakage in Multi-Agent LLM Systems](../ai/agents/arxiv-2602-11510.md)
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
-  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
   - [Beyond Accuracy: Measuring Bias Acknowledgment in Chain-of-Thought Reasoning for Responsible AI Evaluation](../ai/research/arxiv-2606-15127.md)
@@ -915,7 +913,6 @@ Resources organized by keyword tags.
   - [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Phishing Email Detection Using Large Language Models](../ai/research/arxiv-2512-10104.md)
   - [Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs](../ai/research/arxiv-2606-13815.md)
   - [Prefill Awareness in Large Language Models](../ai/agents/arxiv-2606-12747.md)
@@ -948,13 +945,17 @@ Resources organized by keyword tags.
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
   - [aden-hive/hive](../ai/agents/aden-hive-hive.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md)
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md)
+  - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
   - [tap: A File-Based Protocol for Heterogeneous LLM Agent Collaboration](../ai/agents/arxiv-2606-14445.md)
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
@@ -1933,6 +1934,7 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [abacaj/code-eval](../ai/resources/abacaj-code-eval.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md)
   - [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md)
   - [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md)
@@ -1952,10 +1954,12 @@ Resources organized by keyword tags.
   - [openai/evals](../ai/resources/openai-evals.md)
   - [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md)
   - [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
   - [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md)
   - [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome.md)
   - [scLLM-DSC: LLM-Knowledge Enhanced Cross-Modal Deep Structural Clustering for Single-Cell RNA Sequencing](../ai/rag/arxiv-2606-13007.md)
+  - [trycua/cua](../ai/agents/trycua-cua.md)
   - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab.md)
   - [📚 3LM: A Benchmark for Arabic LLMs in STEM and Code](../ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md)
 
@@ -1966,10 +1970,17 @@ Resources organized by keyword tags.
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
   - [Applied AI](../ai/companies/openai/applied-ai.md)
+  - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
+  - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Code & data](../ai/companies/code-data.md)
   - [Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)
   - [Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI](../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md)
+  - [Computer vision](../ai/companies/computer-vision.md)
   - [Engineering](../ai/companies/openai/engineering.md)
   - [Global Affairs](../ai/companies/openai/global-affairs.md)
+  - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
+  - [Human language technologies](../ai/companies/human-language-technologies.md)
+  - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md)
   - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
@@ -1979,13 +1990,16 @@ Resources organized by keyword tags.
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
+  - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
   - [Mistral Medium 3.5](../ai/companies/mistral/mistral-medium-3-5.md)
   - [Mistral Small 4](../ai/companies/mistral/mistral-small-4.md)
   - [NewsDiscover our latest AI breakthroughs, projects, and updates](../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
   - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
+  - [Publications](../ai/companies/publications.md)
   - [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)
   - [Responsible Scaling Policy](../ai/companies/anthropic/responsible-scaling-policy.md)
   - [SIMA 2An agent that plays, reasons, and learns with you](../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
+  - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
   - [Vibe gets to work.](../ai/companies/mistral/vibe-gets-to-work.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
 
@@ -2020,6 +2034,10 @@ Resources organized by keyword tags.
   - [mohitvirli/mohitvirli.github.io](../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)
   - [realstoman/react-tailwindcss-portfolio](../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)
   - [sanidhyy/modern-portfolio](../web-development/framer-motion/sanidhyy-modern-portfolio.md)
+
+## crewaiinc-crewai
+
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
 
 ## dataset
 
@@ -2431,6 +2449,7 @@ Resources organized by keyword tags.
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)
   - [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)
+  - [RAGFlow](../ai/rag/ragflow.md)
   - [RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning](../ai/rag/arxiv-2606-11761.md)
   - [RSRCC: A Remote Sensing Regional Change Comprehension Benchmark Constructed via Retrieval-Augmented Best-of-N Ranking](../ai/rag/arxiv-2604-20623.md)
   - [Ranking Abuse via Strategic Pairwise Data Perturbations](../ai/research/arxiv-2604-17805.md)
@@ -2585,6 +2604,11 @@ Resources organized by keyword tags.
 ## dockerfile
 
   - [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md)
+  - [mikeroyal/Self-Hosting-Guide](../ai/trending/mikeroyal-self-hosting-guide.md)
+
+## elixir
+
+  - [teslamate-org/teslamate](../ai/trending/teslamate-org-teslamate.md)
 
 ## framer_motion
 
@@ -2608,11 +2632,14 @@ Resources organized by keyword tags.
   - [An Integrated System for Real-Time Student Assessment and Career Guidance Using Neural Networks in Computing Disciplines](../ai/research/arxiv-2606-15831.md)
   - [Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation](../ai/rag/arxiv-2606-14763.md)
   - [Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic AI Systems](../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for.md)
+  - [Building APIs with Next.js](../web-development/nextjs/building-apis-with-next-js.md)
+  - [Building Next.js for an agentic future](../ai/agents/building-next-js-for-an-agentic-future.md)
   - [Building With AI Coding Agents: Best Practices for Agent Workflows | by Elisheba Builds | Medium](../ai/agents/building-with-ai-coding-agents-best-practices-for.md)
   - [CANN-EUCLID: unsupervised constitutive artificial neural network model discovery from full-field data](../ai/research/arxiv-2606-14565.md)
   - [ChangoMan/nextjs-mdx-blog](../web-development/nextjs/changoman-nextjs-mdx-blog.md)
   - [ChrisAbdo/MotionVariants](../web-development/framer-motion/chrisabdo-motionvariants.md)
   - [Codefreyy/joy-personal-portfolio](../web-development/framer-motion/codefreyy-joy-personal-portfolio.md)
+  - [Composable Caching with Next.js](../web-development/nextjs/composable-caching-with-next-js.md)
   - [DAM-VLA: Decoupled Asynchronous Multimodal Vision Language Action model](../ai/rag/arxiv-2606-12105.md)
   - [Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility](../ai/agents/arxiv-2606-15251.md)
   - [EasyFrontendHQ/html-tailwindcss-components](../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)
@@ -2624,8 +2651,12 @@ Resources organized by keyword tags.
   - [Generative Molecular Design with Steerable and Granular Synthesizability Control](../ai/research/arxiv-2505-08774.md)
   - [HAPI-EP: Towards Hybrid, Adaptive, and Predictive Digital Twins of Cardiac Electrophysiology](../ai/research/arxiv-2606-15637.md)
   - [Haohao-end/openagent](../ai/agents/haohao-end-openagent.md)
+  - [How to Think About Security in Next.js](../web-development/nextjs/how-to-think-about-security-in-next-js.md)
   - [IBM RAG and Agentic AI Professional Certificate | Coursera](../ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)
   - [IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset](../ai/research/arxiv-2606-16910.md)
+  - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
+  - [Inside Turbopack: Building Faster by Building Less](../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
+  - [Introducing Create Next App](../web-development/nextjs/introducing-create-next-app.md)
   - [JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](../ai/agents/arxiv-2606-14777.md)
   - [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)
   - [K-H-Rayhan/nextjs-animated-slider](../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)
@@ -2634,6 +2665,7 @@ Resources organized by keyword tags.
   - [LangGraph Benchmarks 2026: Where It Scores, Where It Doesn't](../ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it.md)
   - [LangGraph Production Best Practices 2026: Complete Guide | LangChain Tutorials](../ai/rag/langgraph-production-best-practices-2026-complete.md)
   - [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
+  - [Layouts RFC](../web-development/layouts-rfc.md)
   - [Learning Patterns and Abstractions from Perceptual Sequences](../ai/rag/arxiv-2503-10973.md)
   - [Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components](../ai/research/arxiv-2606-11258.md)
   - [Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis](../ai/research/arxiv-2604-01463.md)
@@ -2641,12 +2673,64 @@ Resources organized by keyword tags.
   - [Manifold-Orthogonal Dual-spectrum Extrapolation for Parameterized Physics-Informed Neural Networks](../ai/research/arxiv-2603-13751.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
   - [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents](../ai/agents/arxiv-2606-11256.md)
+  - [Next.js 10](../web-development/nextjs/next-js-10.md)
+  - [Next.js 10.1](../web-development/nextjs/next-js-10-1.md)
+  - [Next.js 10.2](../web-development/nextjs/next-js-10-2.md)
+  - [Next.js 11](../web-development/nextjs/next-js-11.md)
+  - [Next.js 11.1](../web-development/nextjs/next-js-11-1.md)
+  - [Next.js 12](../web-development/nextjs/next-js-12.md)
+  - [Next.js 12.1](../web-development/nextjs/next-js-12-1.md)
+  - [Next.js 12.2](../web-development/nextjs/next-js-12-2.md)
+  - [Next.js 12.3](../web-development/nextjs/next-js-12-3.md)
+  - [Next.js 13](../web-development/nextjs/next-js-13.md)
+  - [Next.js 13.1](../web-development/nextjs/next-js-13-1.md)
+  - [Next.js 13.2](../web-development/nextjs/next-js-13-2.md)
+  - [Next.js 13.3](../web-development/nextjs/next-js-13-3.md)
+  - [Next.js 13.4](../web-development/nextjs/next-js-13-4.md)
+  - [Next.js 13.5](../web-development/nextjs/next-js-13-5.md)
+  - [Next.js 14](../web-development/nextjs/next-js-14.md)
+  - [Next.js 14.1](../web-development/nextjs/next-js-14-1.md)
+  - [Next.js 14.2](../web-development/nextjs/next-js-14-2.md)
+  - [Next.js 15](../web-development/nextjs/next-js-15.md)
+  - [Next.js 15 RC](../web-development/nextjs/next-js-15-rc.md)
+  - [Next.js 15 RC 2](../web-development/nextjs/next-js-15-rc-2.md)
+  - [Next.js 15.1](../web-development/nextjs/next-js-15-1.md)
+  - [Next.js 15.2](../web-development/nextjs/next-js-15-2.md)
+  - [Next.js 15.3](../web-development/nextjs/next-js-15-3.md)
+  - [Next.js 15.4](../web-development/nextjs/next-js-15-4.md)
+  - [Next.js 15.5](../web-development/nextjs/next-js-15-5.md)
+  - [Next.js 16](../web-development/nextjs/next-js-16.md)
+  - [Next.js 16 (beta)](../web-development/nextjs/next-js-16-beta.md)
+  - [Next.js 16.1](../web-development/nextjs/next-js-16-1.md)
+  - [Next.js 16.2](../web-development/nextjs/next-js-16-2.md)
+  - [Next.js 16.2: AI Improvements](../ai/agents/next-js-16-2-ai-improvements.md)
+  - [Next.js 5.1: Faster Page Resolution, Environment Config & More](../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)
+  - [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)
+  - [Next.js 6 and Nextjs.org](../web-development/nextjs/next-js-6-and-nextjs-org.md)
+  - [Next.js 6.1](../web-development/nextjs/next-js-6-1.md)
+  - [Next.js 7](../web-development/nextjs/next-js-7.md)
+  - [Next.js 8](../web-development/nextjs/next-js-8.md)
+  - [Next.js 8 Webpack Memory Improvements](../web-development/nextjs/next-js-8-webpack-memory-improvements.md)
+  - [Next.js 8.0.4](../web-development/nextjs/next-js-8-0-4.md)
+  - [Next.js 8.1](../web-development/nextjs/next-js-8-1.md)
+  - [Next.js 9](../web-development/nextjs/next-js-9.md)
+  - [Next.js 9.0.7](../web-development/nextjs/next-js-9-0-7.md)
+  - [Next.js 9.1](../ai/rag/next-js-9-1.md)
+  - [Next.js 9.1.7](../web-development/nextjs/next-js-9-1-7.md)
+  - [Next.js 9.2](../web-development/nextjs/next-js-9-2.md)
+  - [Next.js 9.3](../web-development/nextjs/next-js-9-3.md)
+  - [Next.js 9.4](../web-development/nextjs/next-js-9-4.md)
+  - [Next.js 9.5](../web-development/nextjs/next-js-9-5.md)
+  - [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
+  - [Next.js App Router Update](../web-development/nextjs/next-js-app-router-update.md)
+  - [Next.js Security Update: December 11, 2025](../web-development/nextjs/next-js-security-update-december-11-2025.md)
   - [NotStark/portfolio](../web-development/nextjs/notstark-portfolio.md)
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [OdysSim: Building Foundation Models for Human Behavior Simulation](../ai/research/arxiv-2606-14199.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
   - [Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory](../ai/rag/arxiv-2606-14289.md)
+  - [Our Journey with Caching](../web-development/nextjs/our-journey-with-caching.md)
   - [Physics-informed generative AI for semiconductor manufacturing: Enforcing hard physical constraints in generative models by construction](../ai/agents/arxiv-2606-11247.md)
   - [Probing Dec-POMDP Reasoning in Cooperative MARL](../ai/agents/arxiv-2602-20804.md)
   - [Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics](../ai/rag/arxiv-2606-12476.md)
@@ -2660,14 +2744,18 @@ Resources organized by keyword tags.
   - [SAFformer:Improving Spiking Transformer via Active Predictive Filtering](../ai/research/arxiv-2605-08270.md)
   - [SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems](../ai/agents/arxiv-2606-12474.md)
   - [Safety-Contract Graph Multi-Agent Reinforcement Learning for Autonomous Network Security Response](../ai/agents/arxiv-2606-13832.md)
+  - [Security Advisory: CVE-2025-66478](../web-development/security-advisory-cve-2025-66478.md)
   - [Seeing Before Colliding: Anticipatory Safe RL with Frozen Vision-Language Models](../ai/research/arxiv-2606-11266.md)
   - [ShowravKormokar/capsule](../web-development/gsap/showravkormokar-capsule.md)
   - [SikandarJODD/svelte-animations](../web-development/framer-motion/sikandarjodd-svelte-animations.md)
+  - [Styling Next.js with Styled JSX](../web-development/nextjs/styling-next-js-with-styled-jsx.md)
   - [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](../ai/agents/arxiv-2606-13148.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
   - [TokaMark: A Comprehensive Benchmark for MAST Tokamak Plasma Models](../ai/rag/arxiv-2602-10132.md)
   - [Top 7 LLM Observability Tools in 2026 - Confident AI](../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai.md)
+  - [Turbopack Dev is Now Stable](../web-development/turbopack-dev-is-now-stable.md)
+  - [Turbopack: What's New in Next.js 16.2](../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
   - [Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback](../ai/agents/arxiv-2606-14218.md)
   - [Virtual Sensing to Enable Real-Time Monitoring of Inaccessible Locations & Unmeasurable Parameters](../ai/research/arxiv-2412-00107.md)
   - [What is RAG Status Reporting in Project Management? | PM Study Circle](../ai/rag/what-is-rag-status-reporting-in-project-management.md)
@@ -2760,6 +2848,16 @@ Resources organized by keyword tags.
   - [wrongakram/nextjs-page-transitions](../web-development/framer-motion/wrongakram-nextjs-page-transitions.md)
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
 
+## github-release
+
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
+  - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
+  - [langchain-ai/langchain Release: langchain-openai==1.3.2](../ai/releases/langchain-ai-langchain.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
+  - [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md)
+  - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
+
 ## github-repo
 
   - [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md)
@@ -2796,7 +2894,6 @@ Resources organized by keyword tags.
   - [Mattbusel/awesome-llm-infra](../ai/resources/mattbusel-awesome-llm-infra.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [NotPBShaw/awesome-ai-governance](../ai/agents/notpbshaw-awesome-ai-governance.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent.md)
@@ -2925,6 +3022,24 @@ Resources organized by keyword tags.
   - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
 
+## github-trending
+
+  - [Free-TV/IPTV](../ai/trending/free-tv-iptv.md)
+  - [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](../ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
+  - [Raphire/Win11Debloat](../ai/trending/raphire-win11debloat.md)
+  - [chatwoot/chatwoot](../ai/trending/chatwoot-chatwoot.md)
+  - [freeCodeCamp/freeCodeCamp](../ai/trending/freecodecamp-freecodecamp.md)
+  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
+  - [jwasham/coding-interview-university](../ai/trending/jwasham-coding-interview-university.md)
+  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
+  - [meshery/meshery](../ai/trending/meshery-meshery.md)
+  - [mikeroyal/Self-Hosting-Guide](../ai/trending/mikeroyal-self-hosting-guide.md)
+  - [music-assistant/server](../ai/trending/music-assistant-server.md)
+  - [rohitg00/ai-engineering-from-scratch](../ai/trending/rohitg00-ai-engineering-from-scratch.md)
+  - [teslamate-org/teslamate](../ai/trending/teslamate-org-teslamate.md)
+  - [trycua/cua](../ai/agents/trycua-cua.md)
+
 ## go
 
   - [Kocoro-lab/Shannon](../ai/agents/kocoro-lab-shannon.md)
@@ -2962,7 +3077,6 @@ Resources organized by keyword tags.
   - [A complete guide to RAG evaluation: metrics, testing and best practices](../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing.md)
   - [A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](../ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)
   - [A practical guide to building agents | OpenAI](../ai/rag/a-practical-guide-to-building-agents-openai.md)
-  - [A short history of Cerro Torre, the most controversial mountain (2012)](../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
@@ -2990,7 +3104,6 @@ Resources organized by keyword tags.
   - [An Integrated System for Real-Time Student Assessment and Career Guidance Using Neural Networks in Computing Disciplines](../ai/research/arxiv-2606-15831.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
-  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence Index Report 2026](../ai/research/arxiv-2606-15708.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
@@ -3029,7 +3142,6 @@ Resources organized by keyword tags.
   - [Calibrated Sampling-Free Uncertainty Estimation in Bayesian Deep Learning](../ai/rag/arxiv-2606-16214.md)
   - [Can Artificial Intelligence Accelerate Technological Progress? Researchers' Perspectives on AI in Manufacturing and Materials Science](../ai/research/arxiv-2511-14007.md)
   - [Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](../ai/rag/arxiv-2606-14353.md)
-  - [Can Europe train a frontier AI model on the compute it owns?](../ai/community/sammysltd-euromesh.md)
   - [Can Neural Networks Achieve Optimal Computational-statistical Tradeoff? An Analysis on Single-Index Model](../ai/rag/arxiv-2606-15219.md)
   - [Canonical Variates in Wasserstein Metric Space](../ai/rag/arxiv-2405-15768.md)
   - [Certifiable Safe RLHF: Semantic Grounding and Fixed Penalty Constraint Optimization for Safer LLM Alignment](../ai/research/arxiv-2510-03520.md)
@@ -3074,7 +3186,6 @@ Resources organized by keyword tags.
   - [Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](../ai/research/arxiv-2606-11854.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
-  - [Foreign business owners are scrambling to raise capital to stay in Japan](../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)
   - [Fractured Chain-of-Thought Reasoning](../ai/research/arxiv-2505-12992.md)
   - [From AGI to ASI](../ai/agents/arxiv-2606-12683.md)
   - [Functional Gradient Descent with Adaptive Representations](../ai/research/arxiv-2606-16926.md)
@@ -3089,6 +3200,7 @@ Resources organized by keyword tags.
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
   - [How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)
   - [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
+  - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
@@ -3123,7 +3235,6 @@ Resources organized by keyword tags.
   - [Maximum Entropy Inverse Reinforcement Learning for Mean-Field Games with Average Reward](../ai/rag/arxiv-2606-16759.md)
   - [Measurement-Calibrated Multi-Camera Fusion for Vision-Based Indoor Localization](../ai/rag/arxiv-2606-13509.md)
   - [Metacognitive Myopia in Large Language Models](../ai/rag/arxiv-2408-05568.md)
-  - [Microsoft turns to AWS as GitHub faces AI capacity crunch](../ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)
   - [MimicIK: Real-Time Generative Inverse Kinematics from Teleoperation with FK Consistency](../ai/research/arxiv-2606-15148.md)
   - [Mod-Guide: An LLM-based Content Moderation Feedback System to Address Insensitive Speech toward Indigenous Ethnic and Religious Minority Communities](../ai/rag/arxiv-2606-13397.md)
   - [Model-Native Computing Architecture: Envisioning Future System Architecture Through the Lens of Computer Architecture](../ai/agents/arxiv-2606-00288.md)
@@ -3169,7 +3280,6 @@ Resources organized by keyword tags.
   - [ReSum: Synergizing LLM Reasoning and Summarization with Reinforcement Learning](../ai/rag/arxiv-2606-13316.md)
   - [Reconstructing Template-Memorized Images from Natural Prompts](../ai/rag/arxiv-2507-07947.md)
   - [Reducing the Complexity of Deep Learning Models for EEG Analysis on Wearable Devices](../ai/research/arxiv-2606-12742.md)
-  - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
   - [Robust Transformer-Based One-Step Stock Index Forecasting via Shifted Data Augmentation](../ai/research/arxiv-2606-15701.md)
   - [Running hardware-aware neural architecture search on embedded devices under 512MB of RAM](../ai/research/arxiv-2606-14824.md)
   - [SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models](../ai/research/arxiv-2606-15819.md)
@@ -3179,9 +3289,6 @@ Resources organized by keyword tags.
   - [Self-Supervised Learning of Iterative Solvers for Constrained Optimization](../ai/research/arxiv-2409-08066.md)
   - [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](../ai/rag/arxiv-2606-15155.md)
   - [Semi-Supervised Speech Confidence Detection using Pseudo-Labelling and Whisper Embeddings](../ai/rag/arxiv-2606-16505.md)
-  - [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)
-  - [Show HN: I wrote a C++ ray tracer from scratch without AI](../ai/community/themartiano-luz.md)
-  - [Show HN: Vet turned founder, AI lawn diagnosis](../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
   - [Smoothness Errors in Dynamics Models and How to Avoid Them](../ai/research/arxiv-2602-05352.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -3208,7 +3315,6 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
-  - [The hallucinogenic mushroom that contains no known psychedelic](../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
@@ -3243,15 +3349,22 @@ Resources organized by keyword tags.
   - [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md)
   - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md)
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
 
 ## html
 
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
+  - [trycua/cua](../ai/agents/trycua-cua.md)
+
+## huggingface-transformers
+
+  - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
 
 ## java
 
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
+  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
   - [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md)
 
 ## javascript
@@ -3274,6 +3387,10 @@ Resources organized by keyword tags.
   - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md)
   - [phoenix0706/langgraph-agent-gaia-benchmark](../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
+
+## langchain-ai-langchain
+
+  - [langchain-ai/langchain Release: langchain-openai==1.3.2](../ai/releases/langchain-ai-langchain.md)
 
 ## leaderboard
 
@@ -3336,10 +3453,6 @@ Resources organized by keyword tags.
   - [TimeRouter: Efficient and Adaptive Routing of Time-Series Foundation Models](../ai/rag/arxiv-2606-11625.md)
   - [What's going on with the Open LLM Leaderboard?](../ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
-
-## llm
-
-  - [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../ai/community/nex-agi-nex-n2.md)
 
 ## meta-ai
 
@@ -3456,10 +3569,28 @@ Resources organized by keyword tags.
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
   - [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [“Llama 3.2 in Keras”](../ai/models/llama-3-2-in-keras.md)
+
+## microsoft-autogen
+
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
+
+## microsoft-research-blog
+
+  - [Artificial intelligence](../ai/companies/artificial-intelligence.md)
+  - [Audio & acoustics](../ai/companies/audio-acoustics.md)
+  - [Code & data](../ai/companies/code-data.md)
+  - [Computer vision](../ai/companies/computer-vision.md)
+  - [Graphics & multimedia](../ai/companies/graphics-multimedia.md)
+  - [Human language technologies](../ai/companies/human-language-technologies.md)
+  - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
+  - [Microsoft Research blog](../ai/companies/microsoft-research-blog.md)
+  - [Publications](../ai/companies/publications.md)
+  - [Search & information retrieval](../ai/companies/search-information-retrieval.md)
 
 ## mistral
 
@@ -3501,6 +3632,7 @@ Resources organized by keyword tags.
   - [WWDC 24: Running Mistral 7B with Core ML](../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)
   - [Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face](../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)
   - [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)
+  - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
 
 ## mistral-ai-news
 
@@ -3514,6 +3646,10 @@ Resources organized by keyword tags.
   - [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)
   - [Vibe gets to work.](../ai/companies/mistral/vibe-gets-to-work.md)
   - [Voxtral TTS](../ai/companies/mistral/voxtral-tts.md)
+
+## modelcontextprotocol-servers
+
+  - [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md)
 
 ## models
 
@@ -4134,12 +4270,15 @@ Resources organized by keyword tags.
   - [codrops/ScrollBasedLayoutAnimations](../web-development/gsap/codrops-scrollbasedlayoutanimations.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [glgh/awesome-llm-human-preference-datasets](../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
+  - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
   - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [“Llama 3.2 in Keras”](../ai/models/llama-3-2-in-keras.md)
 
 ## openai
@@ -4272,11 +4411,13 @@ Resources organized by keyword tags.
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
   - [kkdai/linebot-openai-agent](../ai/agents/kkdai-linebot-openai-agent.md)
   - [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md)
+  - [langchain-ai/langchain Release: langchain-openai==1.3.2](../ai/releases/langchain-ai-langchain.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [lchen4-godaddy/agent-template-openai-agents-sdk](../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)
   - [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md)
   - [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md)
   - [microsoft/SafeAgents](../ai/agents/microsoft-safeagents.md)
+  - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md)
   - [mkrl/e0](../ai/agents/mkrl-e0.md)
   - [neocypher-x/openai-agents-sdk-tutorial](../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
@@ -4753,6 +4894,10 @@ Resources organized by keyword tags.
 
   - [chris-koch-penn/gpt3_security_vulnerability_scanner](../ai/resources/chris-koch-penn-gpt3-security-vulnerability-scanner.md)
 
+## powershell
+
+  - [Raphire/Win11Debloat](../ai/trending/raphire-win11debloat.md)
+
 ## producthunt
 
   - [10 Most Useful RAG Application & Use Cases [Real World Example]](../ai/rag/10-most-useful-rag-application-use-cases-real-worl.md)
@@ -4776,6 +4921,11 @@ Resources organized by keyword tags.
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The next evolution of the Agents SDK | OpenAI](../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
+
+## pydantic-pydantic-ai
+
+  - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md)
 
 ## python
 
@@ -4789,6 +4939,7 @@ Resources organized by keyword tags.
   - [EternityJune25/ComoRAG](../ai/rag/eternityjune25-comorag.md)
   - [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md)
   - [FormulaMonks/llm-benchmarker-suite](../ai/resources/formulamonks-llm-benchmarker-suite.md)
+  - [Free-TV/IPTV](../ai/trending/free-tv-iptv.md)
   - [FunnyWolf/agentic-soc-platform](../ai/agents/funnywolf-agentic-soc-platform.md)
   - [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md)
   - [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md)
@@ -4847,6 +4998,7 @@ Resources organized by keyword tags.
   - [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md)
   - [modelscope/evalscope](../ai/rag/modelscope-evalscope.md)
   - [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md)
+  - [music-assistant/server](../ai/trending/music-assistant-server.md)
   - [neocypher-x/openai-agents-sdk-tutorial](../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
   - [openai/evals](../ai/resources/openai-evals.md)
@@ -4855,6 +5007,7 @@ Resources organized by keyword tags.
   - [razzant/ouroboros](../ai/agents/razzant-ouroboros.md)
   - [redhat-data-and-ai/template-agent](../ai/agents/redhat-data-and-ai-template-agent.md)
   - [redhat-data-and-ai/template-mcp-server](../ai/agents/redhat-data-and-ai-template-mcp-server.md)
+  - [rohitg00/ai-engineering-from-scratch](../ai/trending/rohitg00-ai-engineering-from-scratch.md)
   - [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
   - [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md)
   - [secureagentics/Adrian](../ai/agents/secureagentics-adrian.md)
@@ -4866,6 +5019,10 @@ Resources organized by keyword tags.
   - [wgcyeo/UniversalRAG](../ai/rag/wgcyeo-universalrag.md)
   - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
+
+## pytorch-pytorch
+
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
 
 ## rag
 
@@ -5216,7 +5373,7 @@ Resources organized by keyword tags.
   - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)
   - [Google Colab](../ai/rag/google-colab.md)
   - [Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](../ai/rag/arxiv-2606-11817.md)
-  - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
+  - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite.md)
   - [Graph Diffusion Residuals for Control-Function Instrumental Variables](../ai/rag/arxiv-2606-14636.md)
   - [Graph Structured Combinatorial Semi-Bandit with Nonlinear Reward Associations through Separable Signals](../ai/rag/arxiv-2606-14650.md)
   - [Graph2Idea:Retrieval-Augmented Scientific Idea Generation with Graph-Structured Contexts](../ai/rag/arxiv-2606-09105.md)
@@ -5417,6 +5574,7 @@ Resources organized by keyword tags.
   - [NeuroSymbolic AI for Legal AI-TRISM: Trustworthy, Reliable, Interpretable, Safe Models](../ai/rag/arxiv-2606-15646.md)
   - [NeuronFabric: A Software Reference Architecture for On-Chip Transformer Training with Local Adam](../ai/rag/arxiv-2606-16440.md)
   - [Next-Latent Prediction Transformers Learn Compact World Models](../ai/rag/arxiv-2511-05963.md)
+  - [Next.js 9.1](../ai/rag/next-js-9-1.md)
   - [NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track](../ai/rag/arxiv-2606-11199.md)
   - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md)
   - [Not All Retrievals are Useful: Cross-Attention for Input-Aware RAG in Time Series Forecasting](../ai/rag/arxiv-2603-14709.md)
@@ -5515,6 +5673,7 @@ Resources organized by keyword tags.
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
   - [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)
   - [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)
+  - [RAGFlow](../ai/rag/ragflow.md)
   - [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](../ai/rag/arxiv-2606-16925.md)
   - [RCAP: Robust, Class-Aware, Probabilistic Dynamic Dataset Pruning](../ai/rag/arxiv-2606-11761.md)
   - [READER: Robust Evidence-based Authorship Decoding via Extracted Representations](../ai/rag/arxiv-2606-10794.md)
@@ -5738,6 +5897,7 @@ Resources organized by keyword tags.
   - [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/arxiv-2501-07391.md)
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
+  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
   - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
@@ -5760,6 +5920,8 @@ Resources organized by keyword tags.
   - [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md)
   - [pixegami/langchain-rag-tutorial](../ai/rag/pixegami-langchain-rag-tutorial.md)
   - [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md)
+  - [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md)
   - [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
   - [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md)
@@ -5793,7 +5955,6 @@ Resources organized by keyword tags.
   - [AgenticRec: A Recommendation-Oriented Agentic Framework with Progressive Tool-Integrated Reasoning Optimization](../ai/agents/arxiv-2603-21613.md)
   - [AlphaEarthMap our planet in unprecedented detail](../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
   - [AlphaEvolveDesign advanced algorithms for math and applications in computing](../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
-  - [Anthropic's Safety Superpower](../ai/community/anthropic-s-safety-superpower.md)
   - [AuAu: A Benchmark for Auditing Authoritarian Alignment in Large Language Models](../ai/research/arxiv-2606-16127.md)
   - [Auditing Machine Unlearning: A Systematic Research on Whether Models Truly Forget](../ai/research/arxiv-2606-16110.md)
   - [Automated jailbreak attack targeting multiple defense strategies](../ai/rag/arxiv-2606-16751.md)
@@ -5871,7 +6032,12 @@ Resources organized by keyword tags.
   - [ed-donner/production](../ai/agents/ed-donner-production.md)
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
   - [pmndrs/xr](../web-development/react-three-fiber/pmndrs-xr.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [wgsl-analyzer/wgsl-analyzer](../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md)
+
+## ruby
+
+  - [chatwoot/chatwoot](../ai/trending/chatwoot-chatwoot.md)
 
 ## scripts
 
@@ -5934,7 +6100,6 @@ Resources organized by keyword tags.
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
   - [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
   - [PANDA: An LLM-Enhanced Performance-Driven Analog Design Framework Bridging Design Intent and Layout Generation](../ai/research/arxiv-2606-15052.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
@@ -5942,6 +6107,7 @@ Resources organized by keyword tags.
   - [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../ai/rag/rag-status-template-excel-free-download-techno-pm.md)
   - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
   - [RAG Techniques Compared: A Practical Guide to Retrieval Augmented Generation in 2026](../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)
+  - [Raphire/Win11Debloat](../ai/trending/raphire-win11debloat.md)
   - [Revisiting Outage for Edge Inference Systems](../ai/agents/arxiv-2504-03686.md)
   - [SCAN: A Decision-Making Framework for Effective Task Allocation with Generative AI](../ai/research/arxiv-2606-15601.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -5962,7 +6128,9 @@ Resources organized by keyword tags.
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
+  - [mikeroyal/Self-Hosting-Guide](../ai/trending/mikeroyal-self-hosting-guide.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
 
 ## semantic-scholar
@@ -5976,6 +6144,10 @@ Resources organized by keyword tags.
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
   - [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md)
+
+## tex
+
+  - [Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](../ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md)
 
 ## threejs
 
@@ -6047,6 +6219,7 @@ Resources organized by keyword tags.
   - [pmndrs/use-cannon](../web-development/react-three-fiber/pmndrs-use-cannon.md)
   - [pmndrs/xr](../web-development/react-three-fiber/pmndrs-xr.md)
   - [puxiao/threejs-tutorial](../web-development/threejs/puxiao-threejs-tutorial.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [rajveermalviya/go-webgpu](../web-development/webgpu/rajveermalviya-go-webgpu.md)
   - [redcamel/RedGPU](../web-development/webgpu/redcamel-redgpu.md)
   - [sanderblue/solar-system-threejs](../web-development/threejs/sanderblue-solar-system-threejs.md)
@@ -6078,12 +6251,15 @@ Resources organized by keyword tags.
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md)
+  - [freeCodeCamp/freeCodeCamp](../ai/trending/freecodecamp-freecodecamp.md)
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
+  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md)
+  - [meshery/meshery](../ai/trending/meshery-meshery.md)
   - [mkrl/e0](../ai/agents/mkrl-e0.md)
   - [purduehackers/coding-agent-workshop-template](../ai/agents/purduehackers-coding-agent-workshop-template.md)
   - [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md)
@@ -6111,6 +6287,7 @@ Resources organized by keyword tags.
   - [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md)
   - [isumitsoni/awesome-ai-pm](../ai/resources/isumitsoni-awesome-ai-pm.md)
   - [itsderek23/awesome-eval-driven-development](../ai/resources/itsderek23-awesome-eval-driven-development.md)
+  - [jwasham/coding-interview-university](../ai/trending/jwasham-coding-interview-university.md)
   - [llamasearchai/OpenAGI-Customization](../ai/resources/llamasearchai-openagi-customization.md)
   - [microsoft/agentsleague](../ai/agents/microsoft-agentsleague.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
@@ -6213,6 +6390,7 @@ Resources organized by keyword tags.
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
   - [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)
   - [RAG systems: Best practices to master evaluation for accurate and reliable AI. | Google Cloud Blog](../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)
+  - [RAGFlow](../ai/rag/ragflow.md)
   - [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md)
   - [Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md)
   - [Sovereign, Open Source Retrieval-Augmented Generation](../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
@@ -6353,6 +6531,7 @@ Resources organized by keyword tags.
   - [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)
   - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](../ai/agents/arxiv-2605-31514.md)
+  - [Incrementally Adopting Next.js](../web-development/nextjs/incrementally-adopting-next-js.md)
   - [Intelligent Automation for Embodied Benchmark Construction: Pipelines, Embodiments, Simulators, and Trends](../ai/agents/arxiv-2606-12207.md)
   - [InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery](../ai/agents/arxiv-2606-16133.md)
   - [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp.md)
@@ -6458,6 +6637,7 @@ Resources organized by keyword tags.
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iuyup/AgentFlow](../ai/agents/iuyup-agentflow.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
 
 ## youtube
@@ -6520,6 +6700,7 @@ Resources organized by keyword tags.
   - [Foresight: Iterative Reasoning About Clues that Matter for Navigation](../ai/rag/arxiv-2606-12550.md)
   - [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](../ai/rag/arxiv-2606-12334.md)
   - [FragFuse: Bypassing Access Control of Large Language Model Agents via Memory-Based Query Fragmentation and Fusion](../ai/rag/arxiv-2606-15609.md)
+  - [Free-TV/IPTV](../ai/trending/free-tv-iptv.md)
   - [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](../ai/rag/arxiv-2606-11930.md)
   - [GUITrans2Act: Understanding User Operational Behaviors from Mobile GUI Interactions with Vision-Language Models](../ai/agents/arxiv-2606-12817.md)
   - [GeoWorld-VLM: Geometry from World Models for Vision-Language Models](../ai/research/arxiv-2605-16713.md)
@@ -6574,6 +6755,7 @@ Resources organized by keyword tags.
   - [MultiToP: Learning to Patch Visual Tokens to Mitigate Hallucinations in Video Large Multimodal Models](../ai/research/arxiv-2606-11792.md)
   - [NARRAS: Edge-Triggered Distributed Inference for CSI-Based Localization in Vehicular IoT Networks](../ai/rag/arxiv-2606-11914.md)
   - [NEXUS: Neural Energy Fields for Physically Consistent Contact-Rich 3D Object Dynamics](../ai/research/arxiv-2606-15015.md)
+  - [Next.js 9.1.7](../web-development/nextjs/next-js-9-1-7.md)
   - [ORCA: A Platform for Open-Source Dexterity Research](../ai/rag/arxiv-2606-14561.md)
   - [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](../ai/agents/arxiv-2606-13432.md)
   - [OmniTraffic: A Controllable Generation Pipeline and Benchmark for Spatio-Temporal Traffic Reasoning](../ai/research/arxiv-2606-15749.md)
@@ -6656,12 +6838,15 @@ Resources organized by keyword tags.
   - [When Should Agent Trust Be Conditional? Characterizing and Attacking Skill-Conditional Reputation in Agent Swarms](../ai/agents/arxiv-2606-14200.md)
   - [YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories](../ai/research/arxiv-2606-14780.md)
   - [You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences](../ai/rag/arxiv-2606-15956.md)
+  - [chatwoot/chatwoot](../ai/trending/chatwoot-chatwoot.md)
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md)
   - [google-research/frame-interpolation](../web-development/framer-motion/google-research-frame-interpolation.md)
   - [iamshaunjp/firegram](../web-development/framer-motion/iamshaunjp-firegram.md)
   - [iamshaunjp/framer-motion](../web-development/framer-motion/iamshaunjp-framer-motion.md)
+  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
   - [jolbol1/nextjs-velite-blog-template](../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
+  - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
 
 ---
-*Index generated on 2026-06-16T11:24:34.964523+05:30*
+*Index generated on 2026-06-16T13:59:42.549803+05:30*

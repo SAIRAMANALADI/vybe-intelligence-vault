@@ -13,13 +13,14 @@ collected_at: '2026-06-15T19:09:27.354735+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: github:sammysltd/euromesh
 first_seen: '2026-06-15T19:09:27.354735+00:00'
 last_seen: '2026-06-15T19:09:27.354735+00:00'
 last_checked: '2026-06-15T19:09:27.354735+00:00'
 health_score: 100
 ---
+
 
 # Can Europe train a frontier AI model on the compute it owns?
 

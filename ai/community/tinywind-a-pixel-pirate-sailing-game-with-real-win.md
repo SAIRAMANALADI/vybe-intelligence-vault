@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tinywind.io
 hn_url: https://news.ycombinator.com/item?id=48543475
-score: 669
+score: 799
 author: tinywind
-comments_count: 138
-published_at: '2026-06-15T16:15:53+00:00'
-collected_at: '2026-06-16T04:26:22.544357+00:00'
+comments_count: 152
+published_at: '2026-06-15T21:45:53+05:30'
+collected_at: '2026-06-16T13:57:12.503842+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:tinywind-a-pixel-pirate-sailing-game-with-real-win
 first_seen: '2026-06-16T04:26:22.544357+00:00'
-last_seen: '2026-06-16T04:26:22.544357+00:00'
-last_checked: '2026-06-16T04:26:22.544357+00:00'
+last_seen: '2026-06-16T13:57:12.503842+05:30'
+last_checked: '2026-06-16T13:57:12.503842+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by tinywind. Score: 669, Comments: 138.
+Hacker News story by tinywind. Score: 799, Comments: 152.
 Original Link: https://tinywind.io
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: tinywind
-- Score: 669 Upvotes
-- Comments: 138 Discussions
+- Score: 799 Upvotes
+- Comments: 152 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48543475
 - Original Article: https://tinywind.io
 

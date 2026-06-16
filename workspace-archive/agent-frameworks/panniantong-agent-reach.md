@@ -2,21 +2,19 @@
 title: Panniantong/Agent-Reach
 archive_category: agent-frameworks
 source_category: ai/agents
-source_url: https://github.com/Panniantong/Agent-Reach
+source_url: https://github.com/panniantong/agent-reach
 resource_id: github:panniantong/agent-reach
 local_vault_path: ai/agents/panniantong-agent-reach.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: api
+resource_kind: tutorial
 importance: medium
 tags:
 - agents
-- anthropic
-- github-repo
+- github-trending
 - python
 - reddit
-- scripts
 - youtube
 selection_reason:
 - Active open-source repository
@@ -28,7 +26,7 @@ selection_reason:
 
 - Matched archive category: `Agent Frameworks`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: api
+- Resource kind: tutorial
 - Selection reasons:
   - Active open-source repository
 
@@ -44,7 +42,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## Source
 
-Original source URL: https://github.com/Panniantong/Agent-Reach
+Original source URL: https://github.com/panniantong/agent-reach
 
 ## Local Vault File
 

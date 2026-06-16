@@ -13,13 +13,14 @@ collected_at: '2026-06-15T23:08:42.105790+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-vet-turned-founder-ai-lawn-diagnosis
 first_seen: '2026-06-15T23:08:42.105790+00:00'
 last_seen: '2026-06-15T23:08:42.105790+00:00'
 last_checked: '2026-06-15T23:08:42.105790+00:00'
 health_score: 100
 ---
+
 
 # Show HN: Vet turned founder, AI lawn diagnosis
 

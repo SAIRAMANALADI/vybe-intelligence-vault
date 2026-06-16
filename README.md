@@ -44,31 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3620 |
-| Active resources | 3593 |
-| Inactive resources | 27 |
-| Archive files | 17755 |
-| Archive categories | 33 |
+| Resources tracked | 3716 |
+| Active resources | 3679 |
+| Inactive resources | 37 |
+| Archive files | 17910 |
+| Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 11:25 IST |
+| Last meaningful update | 2026-06-16 14:00 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[magicuidesign/portfolio](web-development/shadcn-ui/magicuidesign-portfolio.md)** (Rank: +1)
-- **[marmelab/atomic-crm](web-development/shadcn-ui/marmelab-atomic-crm.md)** (Rank: +3)
-- **[bytefer/awesome-shadcn-ui](web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md)** (Rank: +4)
-- **[jnsahaj/tweakcn](web-development/shadcn-ui/jnsahaj-tweakcn.md)** (Rank: +6)
-- **[vbenjs/vue-vben-admin](web-development/shadcn-ui/vbenjs-vue-vben-admin.md)** (Rank: +8)
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (+162 points)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+130 points)
+- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (Rank: +3) (+44 points)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (Rank: +1) (+36 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +1169)
 
 #### ✨ New Discoveries
-- **[[SUGGEST] - ](.github/ISSUE_TEMPLATE/resource-suggestion.md)** (Score: 0)
+- **[RAGFlow](ai/rag/ragflow.md)** (Score: 0)
+- **[crewAIInc/crewAI Release: 1.14.7](ai/rag/crewaiinc-crewai.md)** (Score: 0)
+- **[microsoft/autogen Release: python-v0.7.5](ai/agents/microsoft-autogen.md)** (Score: 0)
+- **[pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](ai/rag/pydantic-pydantic-ai.md)** (Score: 0)
+- **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- None.
+- **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)**
+- **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)**
+- **[Microsoft turns to AWS as GitHub faces AI capacity crunch](ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)**
+- **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)**
+- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

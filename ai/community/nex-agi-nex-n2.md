@@ -13,13 +13,14 @@ collected_at: '2026-06-15T16:20:35.781104+00:00'
 tags:
 - hackernews
 - llm
-status: active
+status: inactive
 resource_id: github:nex-agi/nex-n2
 first_seen: '2026-06-15T16:20:35.781104+00:00'
 last_seen: '2026-06-15T16:20:35.781104+00:00'
 last_checked: '2026-06-15T16:20:35.781104+00:00'
 health_score: 100
 ---
+
 
 # Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model
 

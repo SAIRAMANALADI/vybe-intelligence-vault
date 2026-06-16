@@ -10,11 +10,11 @@ Semantic search, vector embeddings, chunking strategies, reranking, hybrid searc
 Qdrant, Pinecone, Milvus, pgvector, llamaindex, LangChain.
 
 ## Recommended Resources from the Vault
-*   [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-*   [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
-*   [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-*   [enesien/venefish](https://github.com/enesien/venefish)
-*   [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
+*   [Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain](https://arxiv.org/abs/2606.00558)
+*   [MemToolAgent: Leveraging Memory for Tool Using Agents Based on Environment and User Feedback](https://arxiv.org/abs/2606.07909)
+*   [TacCoRL: Integrating Tactile Feedback into VLA via Simulation](https://arxiv.org/abs/2606.11743)
+*   [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459)
+*   [CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges](https://arxiv.org/abs/2603.11863)
 
 ## Project Ideas
 *   PDF QA script that processes papers and saves vector embeddings to pgvector.

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/ParticleMedia/RAGTruth
-collected_at: '2026-06-12T10:41:19.121175+00:00'
+collected_at: '2026-06-16T13:58:14.589898+05:30'
 published_at: '2026-06-12T02:22:54Z'
 tags:
 - github-repo
@@ -17,12 +17,12 @@ license: MIT
 archived: false
 created_at: '2023-12-26T05:41:01Z'
 pushed_at: '2024-12-02T21:28:34Z'
-id: null
-first_seen: '2026-06-12T10:41:19.121175+00:00'
-last_seen: '2026-06-12T10:41:19.121175+00:00'
 resource_id: github:particlemedia/ragtruth
+first_seen: '2026-06-16T13:58:14.589898+05:30'
+last_seen: '2026-06-16T13:58:14.589898+05:30'
+last_checked: '2026-06-16T13:58:14.589898+05:30'
+health_score: 100
 ---
-
 
 # ParticleMedia/RAGTruth
 
@@ -38,7 +38,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: ParticleMedia
 - Stars: 253
-- Forks: 31
+- Forks: 32
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-12T02:22:54Z

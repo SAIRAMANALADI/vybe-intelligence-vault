@@ -13,13 +13,14 @@ collected_at: '2026-06-15T06:04:57.025462+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-hallucinogenic-mushroom-that-contains-no-known
 first_seen: '2026-06-15T06:04:57.025462+00:00'
 last_seen: '2026-06-15T06:04:57.025462+00:00'
 last_checked: '2026-06-15T06:04:57.025462+00:00'
 health_score: 100
 ---
+
 
 # The hallucinogenic mushroom that contains no known psychedelic
 

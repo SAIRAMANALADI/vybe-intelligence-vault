@@ -13,13 +13,14 @@ collected_at: '2026-06-16T04:26:26.118771+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:show-hn-fata-spaced-repetition-to-fight-skill-rot
 first_seen: '2026-06-16T04:26:26.118771+00:00'
 last_seen: '2026-06-16T04:26:26.118771+00:00'
 last_checked: '2026-06-16T04:26:26.118771+00:00'
 health_score: 100
 ---
+
 
 # Show HN: Fata – Spaced repetition to fight skill rot from AI coding
 

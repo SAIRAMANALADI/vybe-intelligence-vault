@@ -8,7 +8,7 @@ Structured repository instruction files (CLAUDE.md, Cursor rules) are critical f
 
 ## Top Matched Resources
 
-- No resources matched in this cycle.
+- [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -31,4 +31,4 @@ https://github.com/awesome-cursor-rules (Awesome Cursor Rules)
 
 ---
 
-*Last updated: 2026-06-16 11:24 IST*
+*Last updated: 2026-06-16 13:59 IST*

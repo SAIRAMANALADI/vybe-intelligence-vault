@@ -13,13 +13,14 @@ collected_at: '2026-06-15T12:42:37.415063+00:00'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:a-short-history-of-cerro-torre-the-most-controvers
 first_seen: '2026-06-15T12:42:37.415063+00:00'
 last_seen: '2026-06-15T12:42:37.415063+00:00'
 last_checked: '2026-06-15T12:42:37.415063+00:00'
 health_score: 100
 ---
+
 
 # A short history of Cerro Torre, the most controversial mountain (2012)
 

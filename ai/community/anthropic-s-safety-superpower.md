@@ -14,13 +14,14 @@ tags:
 - anthropic
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:anthropic-s-safety-superpower
 first_seen: '2026-06-15T12:42:35.389307+00:00'
 last_seen: '2026-06-15T12:42:35.389307+00:00'
 last_checked: '2026-06-15T12:42:35.389307+00:00'
 health_score: 100
 ---
+
 
 # Anthropic's Safety Superpower
 

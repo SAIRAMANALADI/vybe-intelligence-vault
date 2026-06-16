@@ -300,11 +300,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/minimax-ai/aligning-to-what>
 
-* **[Aligning to What? Rethinking Agent Generalization in MiniMax M2](ai/agents/huggingface-blog-minimax-ai.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Aligning to What? Rethinking Agent Generalization in MiniMax M2
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/minimax-ai>
-
 * **[alirazapoonja/OpenAIAgents-SDK](ai/agents/alirazapoonja-openaiagents-sdk.md)** (`framework` | `useful` tier)
   * Summary: OpenAI Agents SDK tutorial PDF
   * Tags: `agents`, `github-repo`, `openai`, `unknown`
@@ -460,11 +455,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption>
 
-* **[Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](ai/agents/huggingface-blog-ibm-research.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/ibm-research>
-
 * **[Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](ai/agents/arxiv-2606-13621.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13621v1 Announce Type: new Abstract: Shielded reinforcement learning is typically presented as a runtime safety mechanism that compiles temporal-logic specifications into automata restricting an agent's actions. We argue this is the wrong
   * Tags: `agents`
@@ -484,6 +474,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13241v1 Announce Type: new Abstract: Defining query difficulty is one of the hardest problems in deployment engineering. Existing LLM routers rely on surface features such as domain labels, keywords, and token count, ignoring the within-do
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.13241>
+
+* **[Building Next.js for an agentic future](ai/agents/building-next-js-for-an-agentic-future.md)** (`tutorial` | `useful` tier)
+  * Summary: How we built and sunset an in-browser agent, shipped MCP integration, and learned that better AI agent support means thinking from the agent's perspective.
+  * Tags: `agents`, `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/agentic-future>
 
 * **[Building the Open Agent Ecosystem Together: Introducing OpenEnv](ai/agents/building-the-open-agent-ecosystem-together-introdu.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building the Open Agent Ecosystem Together: Introducing OpenEnv
@@ -1135,11 +1130,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/hcompany/holo31>
 
-* **[Holo3.1: Fast & Local Computer Use Agents](ai/agents/huggingface-blog-hcompany.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Holo3.1: Fast & Local Computer Use Agents
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/hcompany>
-
 * **[Holotron-12B - High Throughput Computer Use Agent](ai/agents/holotron-12b-high-throughput-computer-use-agent.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Holotron-12B - High Throughput Computer Use Agent
   * Tags: `agents`
@@ -1159,11 +1149,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/mishig/spaces-agents-md>
-
-* **[How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](ai/agents/huggingface-blog-mishig.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces
-  * Tags: `agents`
-  * Source URL: <https://huggingface.co/blog/mishig>
 
 * **[How Task Structure Limits Multi-Agent Success: An Information-Theoretic Analysis](ai/agents/arxiv-2606-13733.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13733v1 Announce Type: cross Abstract: Multi-agent systems (MAS) were expected to overcome the limitation of single-agent systems (SAS) through collaboration. However, under typicality conditions on the task's constraint graph and bounded
@@ -1304,6 +1289,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system
   * Tags: `agents`
   * Source URL: <https://huggingface.co/blog/aivsai>
+
+* **[Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots](ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md)** (`tutorial` | `useful` tier)
+  * Summary: Introduction to Autonomous Robots
+  * Tags: `agents`, `github-trending`, `tex`
+  * Source URL: <https://github.com/introduction-to-autonomous-robots/introduction-to-autonomous-robots>
 
 * **[InvDesMobility: a reliability-gated first-principles feedback framework for closed-loop materials discovery](ai/agents/arxiv-2606-16133.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16133v1 Announce Type: cross Abstract: Inverse materials design starts from target functionality and searches for structures that can realize it. Its value in closed-loop discovery depends not only on prediction performance, but also on wh
@@ -1593,6 +1583,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `github-repo`, `unknown`
   * Source URL: <https://github.com/microsoft/agentsleague>
 
+* **[microsoft/autogen Release: python-v0.7.5](ai/agents/microsoft-autogen.md)** (`tutorial` | `useful` tier)
+  * Summary: ## What's Changed * Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950 * Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
+  * Tags: `agents`, `anthropic`, `github-release`, `meta-ai`, `microsoft-autogen`, `models`, `openai`
+  * Source URL: <https://github.com/microsoft/autogen>
+
 * **[microsoft/SafeAgents](ai/agents/microsoft-safeagents.md)** (`framework` | `useful` tier)
   * Summary: A unified framework for building and evaluating safe multi-agent systems. Write once, run on Autogen, LangGraph, or OpenAI Agents. Built-in safety evaluation (ARIA, DHARMA), attack detection, and support for benchmarks like AgentHarm and ASB.
   * Tags: `agents`, `benchmark`, `github-repo`, `openai`, `python`
@@ -1731,6 +1726,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.13405v1 Announce Type: new Abstract: LLM-based agents are entering regulated industries where they automate judgment intensive quality management processes. We argue that symbolic structures already embedded in these domains, including reg
   * Tags: `agents`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.13405>
+
+* **[Next.js 16.2: AI Improvements](ai/agents/next-js-16-2-ai-improvements.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16.2 ships AGENTS.md in create-next-app, browser log forwarding, dev server lock file with PID, and next-browser for AI agent debugging.
+  * Tags: `agents`, `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16-2-ai>
 
 * **[nixopus/nixopus](ai/agents/nixopus-nixopus.md)** (`product` | `useful` tier)
   * Summary: Run production apps without thinking about infrastructure. On your server or ours. Fully agentic.
@@ -1884,10 +1884,10 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.16175>
 
-* **[Panniantong/Agent-Reach](ai/agents/panniantong-agent-reach.md)** (`api` | `useful` tier)
+* **[Panniantong/Agent-Reach](ai/agents/panniantong-agent-reach.md)** (`tutorial` | `useful` tier)
   * Summary: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-  * Tags: `agents`, `anthropic`, `github-repo`, `python`, `reddit`, `scripts`, `youtube`
-  * Source URL: <https://github.com/Panniantong/Agent-Reach>
+  * Tags: `agents`, `github-trending`, `python`, `reddit`, `youtube`
+  * Source URL: <https://github.com/panniantong/agent-reach>
 
 * **[Parthenon Law: A Self-Evolving Legal-Agent Framework](ai/agents/arxiv-2606-04602.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.04602v3 Announce Type: replace Abstract: As agents grow more capable, legal-domain LLM agents promise to turn document-heavy matters into reviewable work products -- yet reliable deployment faces three obstacles: no large-scale evidence on
@@ -2640,6 +2640,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2605.06738>
 
+* **[trycua/cua](ai/agents/trycua-cua.md)** (`framework` | `useful` tier)
+  * Summary: Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+  * Tags: `agents`, `benchmark`, `github-trending`, `html`
+  * Source URL: <https://github.com/trycua/cua>
+
 * **[Tyler: Typed Latent Reasoning for Language Models -- When to Think, What to Compute, and How Much to Allocate](ai/research/arxiv-2606-16360.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16360v1 Announce Type: cross Abstract: Chain-of-thought (CoT) prompting improves reasoning in large language models (LLMs) by externalizing intermediate computation as discrete text tokens, but this textual interface also introduces redund
   * Source URL: <https://arxiv.org/abs/2606.16360>
@@ -2972,6 +2977,68 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `shell`
   * Source URL: <https://github.com/tensorchord/awesome-llmops>
 
+## Ai — Trending
+
+* **[chatwoot/chatwoot](ai/trending/chatwoot-chatwoot.md)** (`reference` | `reference` tier)
+  * Summary: Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
+  * Tags: `github-trending`, `ruby`, `youtube`
+  * Source URL: <https://github.com/chatwoot/chatwoot>
+
+* **[Free-TV/IPTV](ai/trending/free-tv-iptv.md)** (`reference` | `reference` tier)
+  * Summary: M3U Playlist for free TV channels
+  * Tags: `github-trending`, `python`, `youtube`
+  * Source URL: <https://github.com/free-tv/iptv>
+
+* **[freeCodeCamp/freeCodeCamp](ai/trending/freecodecamp-freecodecamp.md)** (`reference` | `reference` tier)
+  * Summary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+  * Tags: `github-trending`, `typescript`
+  * Source URL: <https://github.com/freecodecamp/freecodecamp>
+
+* **[iptv-org/iptv](ai/trending/iptv-org-iptv.md)** (`reference` | `reference` tier)
+  * Summary: Collection of publicly available IPTV channels from all over the world
+  * Tags: `github-trending`, `typescript`, `youtube`
+  * Source URL: <https://github.com/iptv-org/iptv>
+
+* **[jwasham/coding-interview-university](ai/trending/jwasham-coding-interview-university.md)** (`reference` | `reference` tier)
+  * Summary: A complete computer science study plan to become a software engineer.
+  * Tags: `github-trending`, `unknown`
+  * Source URL: <https://github.com/jwasham/coding-interview-university>
+
+* **[krahets/hello-algo](ai/trending/krahets-hello-algo.md)** (`reference` | `reference` tier)
+  * Summary: 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+  * Tags: `github-trending`, `java`
+  * Source URL: <https://github.com/krahets/hello-algo>
+
+* **[meshery/meshery](ai/trending/meshery-meshery.md)** (`reference` | `reference` tier)
+  * Summary: Meshery, the cloud native manager
+  * Tags: `github-trending`, `typescript`
+  * Source URL: <https://github.com/meshery/meshery>
+
+* **[mikeroyal/Self-Hosting-Guide](ai/trending/mikeroyal-self-hosting-guide.md)** (`reference` | `reference` tier)
+  * Summary: Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+  * Tags: `dockerfile`, `github-trending`, `scripts`
+  * Source URL: <https://github.com/mikeroyal/self-hosting-guide>
+
+* **[music-assistant/server](ai/trending/music-assistant-server.md)** (`reference` | `reference` tier)
+  * Summary: Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspb
+  * Tags: `github-trending`, `python`
+  * Source URL: <https://github.com/music-assistant/server>
+
+* **[Raphire/Win11Debloat](ai/trending/raphire-win11debloat.md)** (`reference` | `reference` tier)
+  * Summary: A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 1
+  * Tags: `github-trending`, `powershell`, `scripts`
+  * Source URL: <https://github.com/raphire/win11debloat>
+
+* **[rohitg00/ai-engineering-from-scratch](ai/trending/rohitg00-ai-engineering-from-scratch.md)** (`reference` | `reference` tier)
+  * Summary: Learn it. Build it. Ship it for others.
+  * Tags: `github-trending`, `python`
+  * Source URL: <https://github.com/rohitg00/ai-engineering-from-scratch>
+
+* **[teslamate-org/teslamate](ai/trending/teslamate-org-teslamate.md)** (`reference` | `reference` tier)
+  * Summary: A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]
+  * Tags: `elixir`, `github-trending`
+  * Source URL: <https://github.com/teslamate-org/teslamate>
+
 ## Automation Workflows
 
 * **[10 LLM Observability Tools to Evaluate & Monitor AI in 2026 - Confident AI](ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai.md)** (`dataset` | `useful` tier)
@@ -3033,11 +3100,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: A practical guide to building agentsTry ChatGPT(opens in a new window)Contact salesIntroductionLarge language models are becoming increasingly capable of handling complex, multi-step tasks. Advances in reasoning, multimodality, and tool use have unlo
   * Tags: `agents`, `benchmark`, `hackernews`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents>
-
-* **[A short history of Cerro Torre, the most controversial mountain (2012)](ai/community/a-short-history-of-cerro-torre-the-most-controvers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by joebig. Score: 52, Comments: 27. Original Link: https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre>
 
 * **[Agent Factory: Creating a blueprint for safe and secure AI agents | Microsoft Azure Blog](ai/rag/agent-factory-creating-a-blueprint-for-safe-and-se.md)** (`benchmark` | `useful` tier)
   * Summary: Azure AI Foundry brings together security, safety, and governance in a layered process enterprises can follow to build trust in their agents. This blog post is the sixth out of a six-part blog series called Agent Factory which shares best practices,
@@ -3104,13 +3166,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `models`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.13380>
 
-* **[Anthropic's Safety Superpower](ai/community/anthropic-s-safety-superpower.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by swolpers. Score: 97, Comments: 66. Original Link: https://stratechery.com/2026/anthropics-safety-superpower/
-  * Tags: `anthropic`, `hackernews`, `reddit`
-  * Source URL: <https://stratechery.com/2026/anthropics-safety-superpower>
-
 * **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by cloudking. Score: 772, Comments: 369. Original Link: None
+  * Summary: Hacker News story by cloudking. Score: 934, Comments: 423. Original Link: None
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://news.ycombinator.com/item?id=48542100>
 
@@ -3168,11 +3225,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Building RAG Applications with Python: Complete 2026 GuideNinadJanuary 30, 2026Python Programming Examples Building RAG Applications With Python C Your chatbot can’t answer questions about your company’s internal docs. Your AI assistant ha...
   * Tags: `anthropic`, `dataset`, `hackernews`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.askpython.com/python/examples/building-rag-applications-with-python>
-
-* **[Can Europe train a frontier AI model on the compute it owns?](ai/community/sammysltd-euromesh.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by smashini. Score: 65, Comments: 81. Original Link: https://github.com/sammysltd/euromesh
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/sammysltd/euromesh>
 
 * **[Catching magnetic resonance imaging outliers in artificial intelligence-supported radiotherapy workflows: unsupervised detection and localization of image anomalies using deep learning](ai/research/arxiv-2605-24609.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.24609v2 Announce Type: replace-cross Abstract: Artificial intelligence is increasingly integrated into radiotherapy workflows, yet such pipelines remain vulnerable to out-of-distribution image data that may introduce unexpected behavior in
@@ -3233,11 +3285,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11290v1 Announce Type: new Abstract: Large Language Model (LLM)-based multi-agent systems are increasingly powerful, but current agentic workflow optimization paradigms make an unsatisfying trade-off. Task-level methods spend substantial o
   * Tags: `agents`, `benchmark`, `creative_dev`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.11290>
-
-* **[Foreign business owners are scrambling to raise capital to stay in Japan](ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zdw. Score: 68, Comments: 36. Original Link: https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling>
 
 * **[Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](ai/rag/free-project-status-report-template-weekly-monthly.md)** (`template` | `useful` tier)
   * Summary: Menu120+ Project Management TemplatesPREMIUMFREE Project Management TemplatesProject Management Templates Free DownloadMinutes of Meeting TemplateInvoice Excel TemplateProject Cost Estimator Excel TemplateProject Appraisal Excel TemplateProject Budge
@@ -3414,11 +3461,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.10120>
 
-* **[Microsoft turns to AWS as GitHub faces AI capacity crunch](ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ilreb. Score: 108, Comments: 41. Original Link: https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch>
-
 * **[Minimal Oversight: Uncertainty-Aware Governance for Delegated AI Systems](ai/research/arxiv-2606-15563.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15563v1 Announce Type: new Abstract: AI systems increasingly delegate decisions to specialized models, evaluators, tools, and supervisory controllers. The central AI problem is no longer only model accuracy, but uncertainty-aware governanc
   * Tags: `workflows`, `youtube`
@@ -3440,7 +3482,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
 * **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by rsgm. Score: 266, Comments: 51. Original Link: https://rsgm.dev/post/ai-dev-platform/
+  * Summary: Hacker News story by rsgm. Score: 302, Comments: 52. Original Link: https://rsgm.dev/post/ai-dev-platform/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://rsgm.dev/post/ai-dev-platform>
 
@@ -3479,6 +3521,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16234>
 
+* **[pytorch/pytorch Release: PyTorch 2.12.0 Release](ai/rag/pytorch-pytorch.md)** (`benchmark` | `useful` tier)
+  * Summary: # PyTorch 2.12.0 Release Notes - [Highlights](#highlights) - [Backwards Incompatible Changes](#backwards-incompatible-changes) - [Deprecations](#deprecations) - [New Features](#new-features) - [Improvements](#improvements) - [Bug fixes](#bug-fixes) -
+  * Tags: `anthropic`, `benchmark`, `github-release`, `hackernews`, `models`, `producthunt`, `pytorch-pytorch`, `rag`, `reddit`, `scripts`, `threejs`, `workflows`, `youtube`
+  * Source URL: <https://github.com/pytorch/pytorch>
+
 * **[RAG Examples: 15 Real Use Cases from Companies in 2026](ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)** (`dataset` | `useful` tier)
   * Summary: Large language models are powerful, but they have one big problem: they do not automatically know your latest documents, internal policies, product updates, customer history, or private company knowledge. That is where Retrieval-Augmented Generation,
   * Tags: `agents`, `benchmark`, `dataset`, `hackernews`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -3494,11 +3541,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide>
 
-* **[Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](ai/community/nex-agi-nex-n2.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by unrvl22. Score: 381, Comments: 201. Original Link: https://github.com/nex-agi/Nex-N2/issues/4
-  * Tags: `hackernews`, `llm`
-  * Source URL: <https://github.com/nex-agi/nex-n2>
-
 * **[Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study](ai/rag/arxiv-2606-12231.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.12231v1 Announce Type: cross Abstract: The adoption of AI-powered Integrated Development Environments (AI IDEs) has introduced "Rules" as a novel software artifact, allowing developers to persistently inject project-specific constraints an
   * Tags: `rag`, `workflows`
@@ -3513,21 +3555,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16003v1 Announce Type: new Abstract: This work investigates the ability of large language models (LLMs) to generate mathematical equations from scientific texts. Prior work faces challenges in unstructured grounding, multi-equation depende
   * Tags: `benchmark`, `dataset`, `paper`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16003>
-
-* **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by djoume. Score: 88, Comments: 48. Original Link: https://fata.dev
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://fata.dev>
-
-* **[Show HN: I wrote a C++ ray tracer from scratch without AI](ai/community/themartiano-luz.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by martiano. Score: 116, Comments: 46. Original Link: https://github.com/themartiano/luz
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://github.com/themartiano/luz>
-
-* **[Show HN: Vet turned founder, AI lawn diagnosis](ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by andrewbr. Score: 26, Comments: 18. Original Link: https://grassdx.com/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://grassdx.com>
 
 * **[SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](ai/rag/arxiv-2606-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14239v1 Announce Type: new Abstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constrain
@@ -3574,18 +3601,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide>
 
-* **[The hallucinogenic mushroom that contains no known psychedelic](ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thunderbong. Score: 59, Comments: 32. Original Link: https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the>
-
 * **[The next evolution of the Agents SDK | OpenAI](ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)** (`framework` | `useful` tier)
   * Summary: April 15, 2026ProductThe next evolution of the Agents SDKThe updated Agents SDK helps developers build agents that can inspect files, run commands, edit code, and work on long-horizon tasks within controlled sandbox environments.Loading…ShareA more c
   * Tags: `agents`, `openai`, `producthunt`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://openai.com/index/the-next-evolution-of-the-agents-sdk>
 
 * **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by tinywind. Score: 669, Comments: 138. Original Link: https://tinywind.io
+  * Summary: Hacker News story by tinywind. Score: 799, Comments: 152. Original Link: https://tinywind.io
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tinywind.io>
 
@@ -3665,7 +3687,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2601.22025>
 
 * **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by karakoram. Score: 100, Comments: 49. Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
+  * Summary: Hacker News story by karakoram. Score: 144, Comments: 61. Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://goodinternetmagazine.com/why-i-email-complete-strangers>
 
@@ -4557,10 +4579,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join Us!
   * Source URL: <https://huggingface.co/blog/arm/arm-at-pytorch-conference>
 
-* **[Arm will be @ PyTorch Conference, Join Us!](ai/models/huggingface-blog-arm.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Arm will be @ PyTorch Conference, Join Us!
-  * Source URL: <https://huggingface.co/blog/arm>
-
 * **[ArtBoost: Synthetic Articulatory Data Augmentation for Acoustic-to-Articulatory Inversion](ai/rag/arxiv-2606-16327.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16327v1 Announce Type: cross Abstract: Recent acoustic-to-articulatory inversion (AAI) models rely on electromagnetic articulography (EMA) data, which are costly and limited in scale. To address this limitation, we propose \textit{ArtBoost
   * Tags: `benchmark`, `dataset`, `models`, `rag`
@@ -4934,11 +4952,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms>
 
-* **[Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](ai/models/huggingface-blog-nxp.md)** (`dataset` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations
-  * Tags: `dataset`
-  * Source URL: <https://huggingface.co/blog/nxp>
-
 * **[Bringing serverless GPU inference to Hugging Face users](ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Bringing serverless GPU inference to Hugging Face users
   * Source URL: <https://huggingface.co/blog/cloudflare-workers-ai>
@@ -4988,13 +5001,13 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Building an AI WebTV
   * Source URL: <https://huggingface.co/blog/ai-webtv>
 
-* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
-  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
-
 * **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/huggingface-blog-amazon.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
   * Source URL: <https://huggingface.co/blog/amazon>
+
+* **[Building Blocks for Foundation Model Training and Inference on AWS](ai/models/building-blocks-for-foundation-model-training-and.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Building Blocks for Foundation Model Training and Inference on AWS
+  * Source URL: <https://huggingface.co/blog/amazon/foundation-model-building-blocks>
 
 * **[Building Deep Research: How we Achieved State of the Art](ai/models/building-deep-research-how-we-achieved-state-of-th.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Building Deep Research: How we Achieved State of the Art
@@ -5902,13 +5915,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `hackernews`
   * Source URL: <https://arxiv.org/abs/2506.06542>
 
-* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
-  * Source URL: <https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots>
-
 * **[Direct Preference Optimization Beyond Chatbots](ai/models/huggingface-blog-dharma-ai.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
   * Source URL: <https://huggingface.co/blog/dharma-ai>
+
+* **[Direct Preference Optimization Beyond Chatbots](ai/models/direct-preference-optimization-beyond-chatbots.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Direct Preference Optimization Beyond Chatbots
+  * Source URL: <https://huggingface.co/blog/dharma-ai/direct-preference-optimization-beyond-chatbots>
 
 * **[Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](ai/research/arxiv-2606-12881.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12881v2 Announce Type: replace-cross Abstract: We present an approach to fine-tuning large language models using Direct Preference Optimization (DPO), a reinforcement learning technique. Our experimental results demonstrate that DPO simpli
@@ -6702,13 +6715,13 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://huggingface.co/blog/fine-tune-segformer>
 
-* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`tutorial` | `useful` tier)
-  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
-  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
-
 * **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
   * Source URL: <https://huggingface.co/blog/togethercomputer>
+
+* **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Fine-tune Any LLM from the Hugging Face Hub with Together AI
+  * Source URL: <https://huggingface.co/blog/togethercomputer/together-ft>
 
 * **[Fine-tune Llama 2 with DPO](ai/models/fine-tune-llama-2-with-dpo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Fine-tune Llama 2 with DPO
@@ -7430,13 +7443,13 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: How Hugging Face Scaled Secrets Management for AI Infrastructure
   * Source URL: <https://huggingface.co/blog/scaling-secrets-management>
 
-* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
-  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
-  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
-
 * **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** (`prompt` | `useful` tier)
   * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
   * Source URL: <https://huggingface.co/blog/tngtech>
+
+* **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/how-long-prompts-block-other-requests-optimizing-l.md)** (`prompt` | `useful` tier)
+  * Summary: No summary provided. Reference resource: How Long Prompts Block Other Requests - Optimizing LLM Performance
+  * Source URL: <https://huggingface.co/blog/tngtech/llm-performance-blocked-by-long-prompts>
 
 * **[How Low Can You Go? Active Learning for Sparse Model Discovery in the Ultra-Low-Data Limit](ai/research/arxiv-2606-12182.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12182v1 Announce Type: new Abstract: Identifying the governing equations of complex dynamical systems remains a fundamental challenge across science and engineering. While early approaches relied on empirical data and heuristics, modern da
@@ -10196,6 +10209,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `scripts`, `web-crawled`
   * Source URL: <https://blog.starmorph.com/blog/rag-techniques-compared-best-practices-guide>
 
+* **[RAGFlow](ai/rag/ragflow.md)** (`dataset` | `useful` tier)
+  * Summary: ETL for AI dataHarness our built-in ingestion pipeline to cleanse and process multi-format data, structuring it into rich semantic representations for superior retrieval.ImagesDocumentsData sourcesDataset
+  * Tags: `dataset`, `rag`, `web-crawled`
+  * Source URL: <https://ragflow.io>
+
 * **[RAMAC: Multimodal Risk-Aware Offline Reinforcement Learning and the Role of Behavior Regularization](ai/research/arxiv-2510-02695.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2510.02695v3 Announce Type: replace-cross Abstract: In safety-critical domains where online data collection is infeasible, offline reinforcement learning (RL) is attractive only if policies achieve high returns without catastrophic lower-tail r
   * Source URL: <https://arxiv.org/abs/2510.02695>
@@ -12619,6 +12637,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `animation`, `creative_dev`, `frontend_ui`, `reddit`
   * Source URL: <https://github.com/braydoncoyer/braydoncoyer.dev>
 
+* **[Building APIs with Next.js](web-development/nextjs/building-apis-with-next-js.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn about how to build APIs with Next.js.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/building-apis-with-nextjs>
+
 * **[bytefer/awesome-shadcn-ui](web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: A curated list of awesome things related to shadcn/ui.
   * Tags: `frontend_ui`, `reddit`
@@ -12638,6 +12661,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Next.js App router, TypeScript, TailwindCSS, Framer Motion
   * Tags: `animation`, `creative_dev`, `frontend_ui`
   * Source URL: <https://github.com/codefreyy/joy-personal-portfolio>
+
+* **[Composable Caching with Next.js](web-development/nextjs/composable-caching-with-next-js.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn more about the API design and benefits of 'use cache'
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/composable-caching>
 
 * **[dan5py/react-vite-shadcn-ui](web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)** (`template` | `useful` tier)
   * Summary: React + Vite template powered by shadcn/ui
@@ -12679,6 +12707,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `github-repo`, `openai`, `python`, `scripts`, `workflows`
   * Source URL: <https://github.com/Haohao-end/openagent>
 
+* **[How to Think About Security in Next.js](web-development/nextjs/how-to-think-about-security-in-next-js.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn about what security protections are built-in Next.js and view a guide for auditing applications.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/security-nextjs-server-components-actions>
+
 * **[hsuanyi-chou/shadcn-ui-expansions](web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md)** (`template` | `useful` tier)
   * Summary: More components built on top of shadcn-ui.
   * Tags: `frontend_ui`
@@ -12688,6 +12721,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: shadcn/ui, but for Svelte. ✨
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/huntabyte/shadcn-svelte>
+
+* **[Incrementally Adopting Next.js](web-development/nextjs/incrementally-adopting-next-js.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn different strategies for incrementally adopting Next.js into your development workflow.
+  * Tags: `frontend_ui`, `workflows`
+  * Source URL: <https://nextjs.org/blog/incremental-adoption>
+
+* **[Inside Turbopack: Building Faster by Building Less](web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn how we built Turbopack with incremental computation to scale development and builds to massive Next.js applications.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/turbopack-incremental-computation>
+
+* **[Introducing Create Next App](web-development/nextjs/introducing-create-next-app.md)** (`tutorial` | `useful` tier)
+  * Summary: We're delighted today to introduce the new Create Next App. Create Next App sets up a modern React application powered by Next.js in one command.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/create-next-app>
 
 * **[itsfaqih/fama](web-development/framer-motion/itsfaqih-fama.md)** (`template` | `useful` tier)
   * Summary: TailwindCSS based personal branding template. Built with react and framer-motion
@@ -12749,6 +12797,241 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/nank1ro/flutter-shadcn-ui>
 
+* **[Next.js 10](web-development/nextjs/next-js-10.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 10 introduces Built-in Image Optimization, Internationalized Routing, Next.js Analytics, React 17 Support, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-10>
+
+* **[Next.js 10.1](web-development/nextjs/next-js-10-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 10.1 introduces 3x faster refresh, 58% smaller install size, 56% less dependencies, WebAssembly Image Optimization, improved next/image support, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-10-1>
+
+* **[Next.js 11](web-development/nextjs/next-js-11.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 11 continues our mission to create the best developer experience with a new conformance system and performance improvements.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-11>
+
+* **[Next.js 11.1](web-development/nextjs/next-js-11-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 11.1 introduces an important security patch, ES Modules support, performance improvements, Rust-based tooling, 2x faster data fetching when pre-rendering, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-11-1>
+
+* **[Next.js 12](web-development/nextjs/next-js-12.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 12 introduces a brand-new Rust compiler, Middleware (beta), React 18 Support, Native ESM Support, URL Imports, React Server Components (alpha), and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-12>
+
+* **[Next.js 12.1](web-development/nextjs/next-js-12-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 12.1 introduces on-demand ISR, support for styled-components and Relay, zero-config Jest support, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-12-1>
+
+* **[Next.js 12.2](web-development/nextjs/next-js-12-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 12.2 introduces stable Middleware and On-Demand ISR, experimental Edge SSR and API Routes, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-12-2>
+
+* **[Next.js 12.3](web-development/nextjs/next-js-12-3.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 12.3 introduces TypeScript Auto-Install, improved Fast Refresh, stable new Image Component, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-12-3>
+
+* **[Next.js 13](web-development/nextjs/next-js-13.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13 introduces layouts, React Server Components, and streaming in the app directory, as well as Turbopack, an improved image component, and the brand new font component.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13>
+
+* **[Next.js 13.1](web-development/nextjs/next-js-13-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13.1 introduces improvements to the app directory, built-in module transpilation, stable edge runtime for API Routes, and many improvements to Turbopack support.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13-1>
+
+* **[Next.js 13.2](web-development/nextjs/next-js-13-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13.2 introduces major improvements to the App Router in preparation for stability, including SEO support, Route Handlers, MDX for Server Components, Type-Safe Links, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13-2>
+
+* **[Next.js 13.3](web-development/nextjs/next-js-13-3.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13.3 introduces dynamic open graph images, advanced static exports, parallel routes and interception, OTEL support, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13-3>
+
+* **[Next.js 13.4](web-development/nextjs/next-js-13-4.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13.4 moves App Router to stable, Turbopack to beta, and introduces experimental support for Server Actions.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13-4>
+
+* **[Next.js 14](web-development/nextjs/next-js-14.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 14 includes included performance, stability for Server Actions, a new course teaching the App Router, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-14>
+
+* **[Next.js 14.1](web-development/nextjs/next-js-14-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 14 includes improvements to self-hosting, error messages, parallel and intercepted routes, Turbopack, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-14-1>
+
+* **[Next.js 14.2](web-development/nextjs/next-js-14-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 14.2 includes development, production, and caching improvements. Including new configuration options, 99% Turbopack tests passing, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-14-2>
+
+* **[Next.js 15](web-development/nextjs/next-js-15.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15 introduces React 19 support, caching improvements, a stable release for Turbopack in development, new APIs, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15>
+
+* **[Next.js 15 RC](web-development/nextjs/next-js-15-rc.md)** (`tutorial` | `useful` tier)
+  * Summary: The Next.js 15 Release Candidate (RC) is now available. This early version allows you to test the latest features before the upcoming stable release.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-rc>
+
+* **[Next.js 15 RC 2](web-development/nextjs/next-js-15-rc-2.md)** (`tutorial` | `useful` tier)
+  * Summary: The second Next.js 15 Release Candidate (RC) is now available. This version allows you to test the latest features before the upcoming stable release.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-rc2>
+
+* **[Next.js 15.1](web-development/nextjs/next-js-15-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15.1 introduces React 19 stable support, improved error debugging, new experimental authorization APIs, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-1>
+
+* **[Next.js 15.2](web-development/nextjs/next-js-15-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15.2 includes updates for debugging errors, metadata, Turbopack, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-2>
+
+* **[Next.js 15.3](web-development/nextjs/next-js-15-3.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15.3 includes Turbopack for builds, new client instrumentation and navigation hooks, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-3>
+
+* **[Next.js 15.4](web-development/nextjs/next-js-15-4.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15.4 includes updates to performance, stability, and Turbopack compatibility.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-4>
+
+* **[Next.js 15.5](web-development/nextjs/next-js-15-5.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 15.5 includes Turbopack builds in beta, stable Node.js middleware, TypeScript improvements, `next lint` deprecation, and deprecation warnings for Next.js 16.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-15-5>
+
+* **[Next.js 16](web-development/nextjs/next-js-16.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16 includes Cache Components, stable Turbopack, file system caching, React Compiler support, smarter routing, new caching APIs, and React 19.2 features.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16>
+
+* **[Next.js 16 (beta)](web-development/nextjs/next-js-16-beta.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16 beta includes stable Turbopack, file system caching, React Compiler support, smarter routing, new caching APIs, and React 19.2 features.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16-beta>
+
+* **[Next.js 16.1](web-development/nextjs/next-js-16-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16.1 introduces Turbopack file system caching for development, a new bundle analyzer, and easier debugging in Node.js.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16-1>
+
+* **[Next.js 16.2](web-development/nextjs/next-js-16-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16.2 includes Adapters, rendering performance improvements, improved debugging and error pages, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16-2>
+
+* **[Next.js 5.1: Faster Page Resolution, Environment Config & More](web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 5.1 features support for environment configuration, phases, source maps, and new Next.js plugins.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-5-1>
+
+* **[Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 5 focuses on greater extensibility, composability for large applications and performance
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-5>
+
+* **[Next.js 6 and Nextjs.org](web-development/nextjs/next-js-6-and-nextjs-org.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 6 features zero-configuration static exports, App Component, Babel 7 and more
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-6>
+
+* **[Next.js 6.1](web-development/nextjs/next-js-6-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 6.1 features improved reliability and consistency in development
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-6-1>
+
+* **[Next.js 7](web-development/nextjs/next-js-7.md)** (`tutorial` | `useful` tier)
+  * Summary: After 26 canary releases and 3.4 million downloads, we are proud to introduce the production-ready Next.js 7
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-7>
+
+* **[Next.js 8](web-development/nextjs/next-js-8.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 8 introduces Serverless Mode, smaller bundles, performance improvements, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-8>
+
+* **[Next.js 8 Webpack Memory Improvements](web-development/nextjs/next-js-8-webpack-memory-improvements.md)** (`tutorial` | `useful` tier)
+  * Summary: Recently Next.js 8 was introduced. The release included a massive build-time memory usage reduction. This blog post will explore how we have helped optimize webpack for the community.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/webpack-memory>
+
+* **[Next.js 8.0.4](web-development/nextjs/next-js-8-0-4.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 8.0.4 introduces build performance improvements, smaller bundles, stonger defaults, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-8-0-4>
+
+* **[Next.js 8.1](web-development/nextjs/next-js-8-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 8.1 introduces AMP support on a per-page basis, allowing incremental adoption of AMP.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-8-1>
+
+* **[Next.js 9](web-development/nextjs/next-js-9.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9 includes TypeScript support, Dynamic Routing, API Routes, Automatic Static Optimization, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9>
+
+* **[Next.js 9.0.7](web-development/nextjs/next-js-9-0-7.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.0 was released approximately two months ago. Since then, we’ve been busy with 7 smaller but quite important releases. Let’s dive into what these releases have brought to your websites and applications, with absolutely no breaking changes.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9-0-7>
+
+* **[Next.js 9.1.7](web-development/nextjs/next-js-9-1-7.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.1.7 improves upon a solid foundation, improving the enterprise-ready 9.1 release-channel. Upgrade for smaller client-side JavaScript bundles, redesigned CLI output, faster FCP/TTI, and more!
+  * Tags: `frontend_ui`, `youtube`
+  * Source URL: <https://nextjs.org/blog/next-9-1-7>
+
+* **[Next.js 9.2](web-development/nextjs/next-js-9-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.2 introduces native support for CSS, aggressive code-splitting, catch-all dynamic routes, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9-2>
+
+* **[Next.js 9.3](web-development/nextjs/next-js-9-3.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.3 introduces new static-site generation improvements, native support for SCSS, reduced bundle sizes, static 404 pages, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9-3>
+
+* **[Next.js 9.4](web-development/nextjs/next-js-9-4.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.4 introduces React Fast Refresh, Incremental Static Regeneration, New Environment Support, Built-in Fetch, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9-4>
+
+* **[Next.js 9.5](web-development/nextjs/next-js-9-5.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.5 introduces Stable Incremental Static Regeneration, Custom Base Path, Redirects and Rewrites, Webpack 5 Beta, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-9-5>
+
+* **[Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 16.2 introduces a stable Adapter API, a public adapter test suite, and a working group for more consistent deployment across platforms.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/nextjs-across-platforms>
+
+* **[Next.js App Router Update](web-development/nextjs/next-js-app-router-update.md)** (`tutorial` | `useful` tier)
+  * Summary: The Next.js team is focused on performance, stability, and developer experience for the upcoming months.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/june-2023-update>
+
+* **[Next.js Security Update: December 11, 2025](web-development/nextjs/next-js-security-update-december-11-2025.md)** (`tutorial` | `useful` tier)
+  * Summary: Two additional vulnerabilities have been identified in React Server Components. Users should upgrade to patched versions immediately.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/security-update-2025-12-11>
+
 * **[nextjs/saas-starter](web-development/shadcn-ui/nextjs-saas-starter.md)** (`template` | `useful` tier)
   * Summary: Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
   * Tags: `frontend_ui`
@@ -12768,6 +13051,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Collapse Feed Dashboard Wallet Learn Achievements Network Refer Rewards SharpGPT Premium Contribute Article Blog Video Ebook Interview Question Register Login OpenAI Agents SDK: What It Is and How to Build Production Agents WhatsApp Rohit Gupta Apr 1
   * Tags: `agents`, `hackernews`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents>
+
+* **[Our Journey with Caching](web-development/nextjs/our-journey-with-caching.md)** (`tutorial` | `useful` tier)
+  * Summary: Learn about our journey with caching in Next.js App Router.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/our-journey-with-caching>
 
 * **[pdsuwwz/nextjs-nextra-starter](web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md)** (`template` | `useful` tier)
   * Summary: 🔥 面向独立开发者与小团队的 Next.js (v16) 快速启动模板: 集成 Tailwind CSS (v4)、React (v19)、Nextra (v4)、TypeScript、Shadcn UI、Radix UI、Aceternity UI、Sass、ESLint (v9)、Iconify 与 i18n 多语言。覆盖个人博客、技术文档、产品官网与 AI 落地页等核心场景，提供响应式设计、暗黑模式和鉴权示例代码，开箱即用、工程化完善, Deployed on Netlify and Ve
@@ -12844,6 +13132,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `animation`, `frontend_ui`
   * Source URL: <https://github.com/sikandarjodd/svelte-animations>
 
+* **[Styling Next.js with Styled JSX](web-development/nextjs/styling-next-js-with-styled-jsx.md)** (`framework` | `useful` tier)
+  * Summary: Styled JSX is a CSS-in-JS library that allows you to write encapsulated and scoped CSS to style your components. This blog post will help you get started with using Styled JSX in Next.js.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/styling-next-with-styled-jsx>
+
+* **[Turbopack: What's New in Next.js 16.2](web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Turbopack in Next.js 16.2 brings faster builds, SRI support, postcss.config.ts, tree shaking of dynamic imports, Server Fast Refresh, inline loader configuration, and over 200 bug fixes.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-16-2-turbopack>
+
 * **[TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards](ai/agents/arxiv-2606-13731.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13731v1 Announce Type: new Abstract: Business intelligence (BI) increasingly combines dashboard interaction with LLM-based assistance, but these two modes often fall out of sync during multi-step analysis. As users switch between direct da
   * Tags: `agents`, `benchmark`, `dataset`, `workflows`
@@ -12870,6 +13168,11 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/vbenjs/vue-vben-admin>
 
 ## Inference Local Llm
+
+* **[huggingface/transformers Release: Patch release v5.12.1](ai/releases/huggingface-transformers.md)** (`tutorial` | `useful` tier)
+  * Summary: # Patch release v5.12.1 Updated the lower bound for PEFT and a fix for auto tokenizer to properly resolve the mistral tokenizer (when `mistral-common` is installed). This is similar to v.5.10.3 minus the fixes that were already included in the main r
+  * Tags: `github-release`, `huggingface-transformers`, `mistral`, `models`
+  * Source URL: <https://github.com/huggingface/transformers>
 
 * **[llamasearchai/OpenAGI-Customization](ai/resources/llamasearchai-openagi-customization.md)** (`api` | `essential` tier)
   * Summary: Enterprise-grade LLM inference gateway providing a unified, production-ready API for OpenAI and Ollama. Built with best practices in observability, security, resilience, and performance.
@@ -12976,6 +13279,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-repo`, `python`
   * Source URL: <https://github.com/jlbadano/ig-mcp>
 
+* **[modelcontextprotocol/servers Release: Release 2026.1.26](ai/releases/modelcontextprotocol-servers.md)** (`mcp-server` | `useful` tier)
+  * Summary: # Release : v2026.1.26
+  * Tags: `github-release`, `modelcontextprotocol-servers`
+  * Source URL: <https://github.com/modelcontextprotocol/servers>
+
 * **[riseandignite/mcp-shield](ai/resources/riseandignite-mcp-shield.md)** (`mcp-server` | `useful` tier)
   * Summary: Security scanner for MCP servers
   * Tags: `github-repo`, `typescript`
@@ -13023,6 +13331,21 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `openai`, `openai-news`
   * Source URL: <https://openai.com/news/applied-ai>
 
+* **[Artificial intelligence](ai/companies/artificial-intelligence.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Artificial intelligence
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/focus-area/ai-and-microsoft-research>
+
+* **[Audio & acoustics](ai/companies/audio-acoustics.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Audio & acoustics
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/audio-acoustics>
+
+* **[Code & data](ai/companies/code-data.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Code & data
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/tools>
+
 * **[Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI](ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -13032,6 +13355,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Mistral AI News Blog: Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models>
+
+* **[Computer vision](ai/companies/computer-vision.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Computer vision
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/computer-vision>
 
 * **[Engineering](ai/companies/openai/engineering.md)** (`reference` | `useful` tier)
   * Summary: Recent update from OpenAI News Blog: Engineering
@@ -13047,6 +13375,21 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from OpenAI News Blog: Global Affairs
   * Tags: `blog-post`, `openai`, `openai-news`
   * Source URL: <https://openai.com/news/global-affairs>
+
+* **[Graphics & multimedia](ai/companies/graphics-multimedia.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Graphics & multimedia
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/graphics-and-multimedia>
+
+* **[Human language technologies](ai/companies/human-language-technologies.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Human language technologies
+  * Tags: `blog-post`, `hackernews`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/human-language-technologies>
+
+* **[Human-computer interaction](ai/companies/human-computer-interaction.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Human-computer interaction
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/human-computer-interaction>
 
 * **[Introducing Search Toolkit](ai/companies/mistral/introducing-search-toolkit.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Introducing Search Toolkit
@@ -13088,10 +13431,20 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/claude-fable-5-mythos-5>
 
+* **[langchain-ai/langchain Release: langchain-openai==1.3.2](ai/releases/langchain-ai-langchain.md)** (`tutorial` | `useful` tier)
+  * Summary: Changes since langchain-openai==1.3.1 release(openai): 1.3.2 (#38130)
+  * Tags: `github-release`, `langchain-ai-langchain`, `openai`
+  * Source URL: <https://github.com/langchain-ai/langchain>
+
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
   * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
   * Source URL: <https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research>
+
+* **[Microsoft Research blog](ai/companies/microsoft-research-blog.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Microsoft Research blog
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/blog>
 
 * **[Mistral Medium 3.5](ai/companies/mistral/mistral-medium-3-5.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Mistral Medium 3.5
@@ -13118,6 +13471,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `openai`, `python`
   * Source URL: <https://github.com/openai/evals>
 
+* **[Publications](ai/companies/publications.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Publications
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/publications>
+
 * **[Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)** (`api` | `useful` tier)
   * Summary: Recent update from Mistral AI News Blog: Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
@@ -13127,6 +13485,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Responsible Scaling Policy
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy>
+
+* **[Search & information retrieval](ai/companies/search-information-retrieval.md)** (`benchmark` | `useful` tier)
+  * Summary: Recent update from Microsoft Research Blog Blog: Search & information retrieval
+  * Tags: `blog-post`, `microsoft-research-blog`
+  * Source URL: <https://microsoft.com/en-us/research/research-area/search-information-retrieval>
 
 * **[SIMA 2An agent that plays, reasons, and learns with you](ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: SIMA 2An agent that plays, reasons, and learns with you
@@ -13852,6 +14215,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `creative_dev`
   * Source URL: <https://arxiv.org/abs/2606.16059>
 
+* **[Next.js 10.2](web-development/nextjs/next-js-10-2.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 10.2 introduces performance improvements (faster builds, refresh, and startup), improved accessibility, Automatic Webfont Optimization, and more!
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-10-2>
+
+* **[Next.js 13.5](web-development/nextjs/next-js-13-5.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 13.5 includes 22% faster local server startup, 29% faster HMR (Fast Refresh), 40% less memory usage, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/next-13-5>
+
 * **[nobruf/shadcn-landing-page](web-development/nextjs/nobruf-shadcn-landing-page.md)** (`template` | `useful` tier)
   * Summary: New design 🎉 Nextjs + Shadcn + TypeScript + Tailwind. Landing page template ease-to-use
   * Tags: `frontend_ui`
@@ -14402,6 +14775,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.11863v2 Announce Type: replace Abstract: The saturation of high-quality pre-training data has shifted research focus toward evolutionary systems capable of continuously generating novel artifacts, leading to the success of AlphaEvolve. How
   * Tags: `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2603.11863>
+
+* **[crewAIInc/crewAI Release: 1.14.7](ai/rag/crewaiinc-crewai.md)** (`benchmark` | `useful` tier)
+  * Summary: ## What's Changed
+  * Tags: `agents`, `anthropic`, `benchmark`, `crewaiinc-crewai`, `github-release`, `rag`
+  * Source URL: <https://github.com/crewaiinc/crewai>
 
 * **[Critically Engaged Pragmatism: Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools](ai/rag/arxiv-2601-09753.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.09753v2 Announce Type: replace-cross Abstract: AI science evaluation tools aim to assess research credibility. As with traditional metrics such as impact factors, their edicts can be decontextualised and repurposed in problematic ways. To
@@ -15583,6 +15961,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`
   * Source URL: <https://arxiv.org/abs/2511.05963>
 
+* **[Next.js 9.1](ai/rag/next-js-9-1.md)** (`tutorial` | `useful` tier)
+  * Summary: Next.js 9.1 leverages convention to support more project structures by default. Additionally, we're previewing new feature support such as CSS imports, advanced bundling, and static error pages.
+  * Tags: `frontend_ui`, `rag`
+  * Source URL: <https://nextjs.org/blog/next-9-1>
+
 * **[NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track](ai/rag/arxiv-2606-11199.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11199v1 Announce Type: cross Abstract: We present NightFeats, a structured multi-agent retrieval-augmented generation (RAG) system submitted to the MMU-RAGent competition at NeurIPS 2025, where it was awarded Best Dynamic Evaluation in the
   * Tags: `agents`, `anthropic`, `benchmark`, `rag`
@@ -15867,6 +16250,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2601.22642v2 Announce Type: replace Abstract: Large Language Models (LLMs) show remarkable capabilities, yet their stochastic next-token prediction creates logical inconsistencies and reward hacking that formal symbolic systems avoid. To bridge
   * Tags: `benchmark`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2601.22642>
+
+* **[pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](ai/rag/pydantic-pydantic-ai.md)** (`tutorial` | `useful` tier)
+  * Summary: # 🚀 Pydantic AI V2 Beta 7 is here! For more information on Pydantic AI V2, see the [release notes](https://github.com/pydantic/pydantic-ai/releases/tag/v2.0.0b1) for `v2.0.0b1` and the [Upgrade Guide](https://fb...
+  * Tags: `agents`, `anthropic`, `github-release`, `pydantic-pydantic-ai`, `rag`
+  * Source URL: <https://github.com/pydantic/pydantic-ai>
 
 * **[Q-Net: Queue Length Estimation via Kalman-based Neural Networks](ai/rag/arxiv-2509-24725.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2509.24725v4 Announce Type: replace-cross Abstract: Estimating queue lengths at signalized intersections is a long-standing challenge in traffic management. Partial observability of vehicle flows complicates this task despite the availability o
@@ -16652,6 +17040,23 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
   * Tags: `agents`, `github-repo`, `python`, `rag`
   * Source URL: <https://github.com/zjunlp/LightMem>
+
+## Web Development
+
+* **[Layouts RFC](web-development/layouts-rfc.md)** (`reference` | `reference` tier)
+  * Summary: Nested routes and layouts, client and server routing, React 18 features, and designed for Server Components.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/layouts-rfc>
+
+* **[Security Advisory: CVE-2025-66478](web-development/security-advisory-cve-2025-66478.md)** (`reference` | `reference` tier)
+  * Summary: A critical vulnerability (CVE-2025-66478) has been identified in the React Server Components protocol. Users should upgrade to patched versions immediately.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/cve-2025-66478>
+
+* **[Turbopack Dev is Now Stable](web-development/turbopack-dev-is-now-stable.md)** (`reference` | `reference` tier)
+  * Summary: It's been a long road, but we are happy to announce that `next dev --turbo` is now stable and ready to speed up your development experience.
+  * Tags: `frontend_ui`
+  * Source URL: <https://nextjs.org/blog/turbopack-for-development-stable>
 
 ## Web Development — Framer Motion
 

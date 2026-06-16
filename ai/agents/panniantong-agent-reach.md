@@ -1,25 +1,24 @@
 ---
 title: Panniantong/Agent-Reach
 category: ai/agents
-source_type: github
-source_name: GitHub Discovery
-source_url: https://github.com/Panniantong/Agent-Reach
-collected_at: '2026-06-11T13:07:35.664693+00:00'
-published_at: '2026-06-11T13:01:25Z'
+source_type: github_trending
+source_name: GitHub Trending AI
+source_url: https://github.com/panniantong/agent-reach
+published_at: '2026-06-16T13:57:13.167708+05:30'
+collected_at: '2026-06-16T13:57:13.167711+05:30'
 tags:
 - agents
-- anthropic
-- github-repo
+- github-trending
 - python
 - reddit
-- scripts
 - youtube
-stars: 26259
-language: Python
-status: new
+status: active
 resource_id: github:panniantong/agent-reach
+first_seen: '2026-06-11T13:07:35.664693+00:00'
+last_seen: '2026-06-16T13:57:13.167711+05:30'
+last_checked: '2026-06-16T13:57:13.167711+05:30'
+health_score: 100
 ---
-
 
 # Panniantong/Agent-Reach
 
@@ -29,31 +28,22 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: Panniantong
-- Stars: 26259
-- Forks: 2163
-- Language: Python
-- Topics: agent-infrastructure, ai-agent, ai-search, automation, bilibili, claude-code, cli, cursor, free-api, llm-tools, mcp, python, reddit-scraper, twitter-scraper, web-scraper, xiaohongshu, youtube-transcript
-- Last Updated: 2026-06-11T13:01:25Z
+- Source: GitHub Trending AI
+- Category: ai/agents
+- Published: 2026-06-16T13:57:13.167708+05:30
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- github-trending
+- python
+- reddit
+- youtube
 
 ## Source
 
-Original source: https://github.com/Panniantong/Agent-Reach
+Original source: https://github.com/panniantong/agent-reach

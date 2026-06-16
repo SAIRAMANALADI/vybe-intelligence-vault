@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://goodinternetmagazine.com/why-i-email-complete-strangers
 hn_url: https://news.ycombinator.com/item?id=48547566
-score: 100
+score: 144
 author: karakoram
-comments_count: 49
-published_at: '2026-06-15T21:57:10+00:00'
-collected_at: '2026-06-16T04:26:23.272297+00:00'
+comments_count: 61
+published_at: '2026-06-16T03:27:10+05:30'
+collected_at: '2026-06-16T13:57:12.857629+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:why-i-email-complete-strangers
 first_seen: '2026-06-16T04:26:23.272297+00:00'
-last_seen: '2026-06-16T04:26:23.272297+00:00'
-last_checked: '2026-06-16T04:26:23.272297+00:00'
+last_seen: '2026-06-16T13:57:12.857629+05:30'
+last_checked: '2026-06-16T13:57:12.857629+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by karakoram. Score: 100, Comments: 49.
+Hacker News story by karakoram. Score: 144, Comments: 61.
 Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: karakoram
-- Score: 100 Upvotes
-- Comments: 49 Discussions
+- Score: 144 Upvotes
+- Comments: 61 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48547566
 - Original Article: https://goodinternetmagazine.com/why-i-email-complete-strangers
 

@@ -15,29 +15,35 @@ Generative UI (like Vercel AI SDK) enables applications to dynamically render Re
 - Natural Language Form-Filling and UI Controls
 - State Management for Multi-Modal AI Conversations
 
-## Best Resources Found
+## Current Signal
 
-### 1. [mkrl/e0](../ai/agents/mkrl-e0.md) ([Source URL](https://github.com/mkrl/e0))
-- **Source**: Unknown (github)
-- **Category**: ai/agents
-- **Local Path**: `ai/agents/mkrl-e0.md`
+<!-- GENERATED:CURRENT_SIGNAL_START -->
+Active signals: 1 resources matched in the intelligence vault.
+Recently detected signals:
+- [mkrl/e0](../ai/agents/mkrl-e0.md) (Source: Unknown Source) - Collected 2026-06-15
+<!-- GENERATED:CURRENT_SIGNAL_END -->
 
-## Best GitHub Repositories
+## Best Repositories
 
+<!-- GENERATED:BEST_REPOS_START -->
 ### 1. [mkrl/e0](../ai/agents/mkrl-e0.md) ([GitHub](https://github.com/mkrl/e0))
-- **Stars**: 0
-- **Language**: Unknown
-- **Local Path**: `ai/agents/mkrl-e0.md`
+- Stars: 0
+- Language: Unknown
+- Description: A simple Next.js app template for agentic generation of more apps. Powered by Vercel AI SDK and E2B.
+<!-- GENERATED:BEST_REPOS_END -->
 
-## Projects To Build
+## Project Ideas
 
-1. Build a real-time chat client that streams interactive charts
-2. Develop a voice-controlled dashboard using natural language commands
-3. Create a generative code-editor component visualizer
+<!-- GENERATED:PROJECT_IDEAS_START -->
+- Build a real-time chat client that streams interactive charts
+- Develop a voice-controlled dashboard using natural language commands
+- Create a generative code-editor component visualizer
+<!-- GENERATED:PROJECT_IDEAS_END -->
 
 ## Related Skills
 
-- Three.js & WebGL
+- web-development/ai-ui
+- web-development/react
 
 ## Job Relevance
 
@@ -45,4 +51,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T10:43:32.916211+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T13:59:40.484872+05:30.

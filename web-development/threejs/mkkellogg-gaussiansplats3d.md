@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/mkkellogg/gaussiansplats3d
-collected_at: '2026-06-15T23:08:32.636661+00:00'
-published_at: '2026-06-15T22:50:50Z'
+collected_at: '2026-06-16T13:57:11.366979+05:30'
+published_at: '2026-06-16T07:45:48Z'
 tags:
 - threejs
-stars: 2777
+stars: 2778
 language: JavaScript
 status: active
 resource_id: github:mkkellogg/gaussiansplats3d
 first_seen: '2026-06-15T23:08:32.636661+00:00'
-last_seen: '2026-06-15T23:08:32.636661+00:00'
-last_checked: '2026-06-15T23:08:32.636661+00:00'
+last_seen: '2026-06-16T13:57:11.366979+05:30'
+last_checked: '2026-06-16T13:57:11.366979+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: mkkellogg
-- Stars: 2777
+- Stars: 2778
 - Forks: 372
 - Language: JavaScript
 - Topics: 3d-gaussian-splatting, gaussian-splatting, javascript, three-js, threejs, webgl
-- Last Updated: 2026-06-15T22:50:50Z
+- Last Updated: 2026-06-16T07:45:48Z
 
 ## Possible Use Cases
 

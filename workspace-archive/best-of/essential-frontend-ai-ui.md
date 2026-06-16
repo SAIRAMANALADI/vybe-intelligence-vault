@@ -33,24 +33,9 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`asbhogal-fyrre-magazine.md`](file:///../../web-development/nextjs/asbhogal-fyrre-magazine.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
+### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`changoman-nextjs-mdx-blog.md`](file:///../../web-development/nextjs/changoman-nextjs-mdx-blog.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [danybeltran/nextjs-typescript-and-postgresql](https://github.com/danybeltran/nextjs-typescript-and-postgresql)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`danybeltran-nextjs-typescript-and-postgresql.md`](file:///../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [enesien/venefish](https://github.com/enesien/venefish)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`enesien-venefish.md`](file:///../../web-development/nextjs/enesien-venefish.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
-- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`gonzalochale-saas-landing-template.md`](file:///../../web-development/nextjs/gonzalochale-saas-landing-template.md)
+- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](file:///../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [ixartz/SaaS-Boilerplate](https://github.com/ixartz/saas-boilerplate)
@@ -58,14 +43,29 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `81` | **Path**: [`ixartz-saas-boilerplate.md`](file:///../../web-development/nextjs/ixartz-saas-boilerplate.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
+### [nobruf/shadcn-landing-page](https://github.com/nobruf/shadcn-landing-page)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
-- **Score**: `81` | **Path**: [`jolbol1-nextjs-velite-blog-template.md`](file:///../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
+- **Score**: `81` | **Path**: [`nobruf-shadcn-landing-page.md`](file:///../../web-development/nextjs/nobruf-shadcn-landing-page.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [gonzalochale/saas-landing-template](https://github.com/gonzalochale/saas-landing-template)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`gonzalochale-saas-landing-template.md`](file:///../../web-development/nextjs/gonzalochale-saas-landing-template.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [shadcnspace/shadcnspace](https://github.com/shadcnspace/shadcnspace)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`shadcnspace-shadcnspace.md`](file:///../../web-development/nextjs/shadcnspace-shadcnspace.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [linkb15/turborepo-shadcn-ui-tailwind-4](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
 - **Score**: `81` | **Path**: [`linkb15-turborepo-shadcn-ui-tailwind-4.md`](file:///../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [ChangoMan/nextjs-mdx-blog](https://github.com/changoman/nextjs-mdx-blog)
+- **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `USEFUL`
+- **Score**: `81` | **Path**: [`changoman-nextjs-mdx-blog.md`](file:///../../web-development/nextjs/changoman-nextjs-mdx-blog.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -88,4 +88,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-16 11:25 IST*
+*Last updated: 2026-06-16 14:00 IST*
