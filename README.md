@@ -176,7 +176,7 @@ Use this vault to find the best RAG project ideas and create a 7-day build plan.
 
 ## How Updates Work
 
-This vault is refreshed every 3 hours by a private harvester bot running through GitHub Actions.
+This vault is refreshed every 3 hours by a private harvester bot running through GitHub Actions configured to the canonical **Asia/Kolkata (IST)** timezone (`+05:30`) for consistent daily reporting, scheduled executions, and contribution graph attribution.
 
 Each run:
 - discovers public resources
@@ -188,7 +188,7 @@ Each run:
 
 If no meaningful changes are found, the workflow exits successfully without creating an empty commit.
 
-The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scanned updates before push.
+The laptop does not need to stay on. The vault only uses public sources, preserves source URLs, avoids private or paywalled content, and safety-scanned updates before push. For details on timezone mapping and bot attribution verification, see the [Timezone Audit Report](timezone_audit_report.md).
 
 ---
 
