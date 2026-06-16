@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial
-published_at: '2026-06-15T23:09:11.437184+00:00'
-collected_at: '2026-06-15T23:09:11.437191+00:00'
+published_at: '2026-06-16T04:27:16.834853+00:00'
+collected_at: '2026-06-16T04:27:16.834869+00:00'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-chatbot-in-30-min-with-python-langchai
-first_seen: '2026-06-15T23:09:11.437191+00:00'
-last_seen: '2026-06-15T23:09:11.437191+00:00'
-last_checked: '2026-06-15T23:09:11.437191+00:00'
+first_seen: '2026-06-16T04:27:16.834869+00:00'
+last_seen: '2026-06-16T04:27:16.834869+00:00'
+last_checked: '2026-06-16T04:27:16.834869+00:00'
 health_score: 100
 ---
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:11.437184+00:00
+- Published: 2026-06-16T04:27:16.834853+00:00
 
 ## Related Tags
 

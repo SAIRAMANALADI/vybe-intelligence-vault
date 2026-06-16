@@ -16,17 +16,17 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Category | Count |
 |---|---:|
+| ai/research | 797 |
 | ai/models | 722 |
-| ai/research | 239 |
-| ai/rag | 200 |
-| ai/agents | 136 |
+| ai/rag | 536 |
+| ai/agents | 302 |
 | web-development/threejs | 25 |
 | web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/react-three-fiber | 24 |
 | web-development/nextjs | 17 |
-| ai/community | 13 |
+| ai/community | 14 |
 | ai/companies/mistral | 10 |
 | ai/companies/anthropic | 8 |
 | web-development/gsap | 6 |
@@ -40,57 +40,57 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| benchmark | 220 |
-| rag | 200 |
-| models | 188 |
-| agents | 183 |
-| dataset | 130 |
-| frontend_ui | 113 |
-| paper | 87 |
-| threejs | 81 |
-| hackernews | 78 |
-| openai | 66 |
-| workflows | 50 |
-| youtube | 50 |
-| meta-ai | 50 |
-| web-crawled | 43 |
-| reddit | 35 |
+| benchmark | 656 |
+| rag | 536 |
+| agents | 425 |
+| models | 401 |
+| dataset | 378 |
+| paper | 304 |
+| hackernews | 187 |
+| frontend_ui | 134 |
+| youtube | 128 |
+| workflows | 100 |
+| openai | 85 |
+| threejs | 84 |
+| meta-ai | 77 |
+| anthropic | 64 |
+| reddit | 56 |
 
 ## Weekly Community Updates
 
-1. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) ([Source](https://news.ycombinator.com/item?id=48542100)) (HN Score: 562) - `ai/community`
-2. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md) ([Source](https://tinywind.io)) (HN Score: 527) - `ai/community`
+1. [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) ([Source](https://news.ycombinator.com/item?id=48542100)) (HN Score: 772) - `ai/community`
+2. [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md) ([Source](https://tinywind.io)) (HN Score: 669) - `ai/community`
 3. [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](../../../ai/community/nex-agi-nex-n2.md) ([Source](https://github.com/nex-agi/nex-n2)) (HN Score: 381) - `ai/community`
-4. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 202) - `ai/community`
+4. [My Homelab AI Dev Platform](../../../ai/community/my-homelab-ai-dev-platform.md) ([Source](https://rsgm.dev/post/ai-dev-platform)) (HN Score: 266) - `ai/community`
 5. [Show HN: I wrote a C++ ray tracer from scratch without AI](../../../ai/community/themartiano-luz.md) ([Source](https://github.com/themartiano/luz)) (HN Score: 116) - `ai/community`
-6. [Anthropic's Safety Superpower](../../../ai/community/anthropic-s-safety-superpower.md) ([Source](https://stratechery.com/2026/anthropics-safety-superpower)) (HN Score: 97) - `ai/community`
-7. [Foreign business owners are scrambling to raise capital to stay in Japan](../../../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md) ([Source](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling)) (HN Score: 68) - `ai/community`
-8. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../../../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source](https://fata.dev)) (HN Score: 67) - `ai/community`
-9. [Can Europe train a frontier AI model on the compute it owns?](../../../ai/community/sammysltd-euromesh.md) ([Source](https://github.com/sammysltd/euromesh)) (HN Score: 65) - `ai/community`
-10. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
-11. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
-12. [Show HN: Vet turned founder, AI lawn diagnosis](../../../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md) ([Source](https://grassdx.com)) (HN Score: 26) - `ai/community`
-13. [Why I Email Complete Strangers](../../../ai/community/why-i-email-complete-strangers.md) ([Source](https://goodinternetmagazine.com/why-i-email-complete-strangers)) (HN Score: 25) - `ai/community`
-14. [Free Project Status Report Template](../../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
-15. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
+6. [Microsoft turns to AWS as GitHub faces AI capacity crunch](../../../ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md) ([Source](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)) (HN Score: 108) - `ai/community`
+7. [Why I email complete strangers](../../../ai/community/why-i-email-complete-strangers.md) ([Source](https://goodinternetmagazine.com/why-i-email-complete-strangers)) (HN Score: 100) - `ai/community`
+8. [Anthropic's Safety Superpower](../../../ai/community/anthropic-s-safety-superpower.md) ([Source](https://stratechery.com/2026/anthropics-safety-superpower)) (HN Score: 97) - `ai/community`
+9. [Show HN: Fata – Spaced repetition to fight skill rot from AI coding](../../../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md) ([Source](https://fata.dev)) (HN Score: 88) - `ai/community`
+10. [Foreign business owners are scrambling to raise capital to stay in Japan](../../../ai/community/foreign-business-owners-are-scrambling-to-raise-ca.md) ([Source](https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling)) (HN Score: 68) - `ai/community`
+11. [Can Europe train a frontier AI model on the compute it owns?](../../../ai/community/sammysltd-euromesh.md) ([Source](https://github.com/sammysltd/euromesh)) (HN Score: 65) - `ai/community`
+12. [The hallucinogenic mushroom that contains no known psychedelic](../../../ai/community/the-hallucinogenic-mushroom-that-contains-no-known.md) ([Source](https://psychedelics.co.uk/news/a-mushroom-genus-that-gets-people-high-but-not-the)) (HN Score: 59) - `ai/community`
+13. [A short history of Cerro Torre, the most controversial mountain (2012)](../../../ai/community/a-short-history-of-cerro-torre-the-most-controvers.md) ([Source](https://markhorrell.com/blog/2012/a-short-history-of-cerro-torre)) (HN Score: 52) - `ai/community`
+14. [Show HN: Vet turned founder, AI lawn diagnosis](../../../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md) ([Source](https://grassdx.com)) (HN Score: 26) - `ai/community`
+15. [Free Project Status Report Template](../../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
 
 ## Weekly Research Insights
 
-1. [A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem](../../../ai/rag/arxiv-2606-13682.md) ([Source](https://arxiv.org/abs/2606.13682)) - `ai/rag`
-2. [UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems](../../../ai/rag/arxiv-2606-13683.md) ([Source](https://arxiv.org/abs/2606.13683)) - `ai/rag`
-3. [History of the Muddy Children Puzzle](../../../ai/research/arxiv-2606-13703.md) ([Source](https://arxiv.org/abs/2606.13703)) - `ai/research`
-4. [Orchestra-o1: Omnimodal Agent Orchestration](../../../ai/agents/arxiv-2606-13707.md) ([Source](https://arxiv.org/abs/2606.13707)) - `ai/agents`
-5. [Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher](../../../ai/rag/arxiv-2606-13710.md) ([Source](https://arxiv.org/abs/2606.13710)) - `ai/rag`
-6. [WorkBench Revisited: Workplace Agents Two Years On](../../../ai/agents/arxiv-2606-13715.md) ([Source](https://arxiv.org/abs/2606.13715)) - `ai/agents`
-7. [Refusal Beyond a Single Direction: A Preliminary Comparison of Diff-in-Means and INLP](../../../ai/research/arxiv-2606-13720.md) ([Source](https://arxiv.org/abs/2606.13720)) - `ai/research`
-8. [YeasierAgent: Agentic Social Sandbox as a Canvas for Intent-Driven Creation of Platform-Agnostic Symbiotic Agent-Native Applications](../../../ai/rag/arxiv-2606-13722.md) ([Source](https://arxiv.org/abs/2606.13722)) - `ai/rag`
-9. [TwinBI: An Agentic Digital Twin for Efficient Augmented Interactions with Business Intelligence Dashboards](../../../ai/agents/arxiv-2606-13731.md) ([Source](https://arxiv.org/abs/2606.13731)) - `ai/agents`
-10. [When Sample Selection Bias Precipitates Model Collapse](../../../ai/rag/arxiv-2606-13732.md) ([Source](https://arxiv.org/abs/2606.13732)) - `ai/rag`
-11. [AI Receptivity or AI Adoption Breadth? A Tool-Specific Reanalysis of the Lower-Literacy/Higher-Usage Link](../../../ai/rag/arxiv-2606-13734.md) ([Source](https://arxiv.org/abs/2606.13734)) - `ai/rag`
-12. [MA-ProofBench: A Two-Tiered Evaluation of LLMs for Theorem Proving in Mathematical Analysis](../../../ai/rag/arxiv-2606-13782.md) ([Source](https://arxiv.org/abs/2606.13782)) - `ai/rag`
-13. [Poker Arena: Multi-Axis Profiling of Strategic Reasoning and Memory in LLMs](../../../ai/research/arxiv-2606-13815.md) ([Source](https://arxiv.org/abs/2606.13815)) - `ai/research`
-14. [Hyperdimensional computing for structured querying on tabular data embeddings](../../../ai/rag/arxiv-2606-13871.md) ([Source](https://arxiv.org/abs/2606.13871)) - `ai/rag`
-15. [Capability Minimization as a Safety Primitive: Risk-Aware Causal Gating for Least-Privilege LLM Agents](../../../ai/agents/arxiv-2606-13884.md) ([Source](https://arxiv.org/abs/2606.13884)) - `ai/agents`
+1. [A Definition of Good Explanations and the Challenges Explaining LLM Outputs](../../../ai/research/arxiv-2606-14838.md) ([Source](https://arxiv.org/abs/2606.14838)) - `ai/research`
+2. [Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion](../../../ai/rag/arxiv-2606-14885.md) ([Source](https://arxiv.org/abs/2606.14885)) - `ai/rag`
+3. [Relational Structural Causal Models](../../../ai/research/arxiv-2606-14892.md) ([Source](https://arxiv.org/abs/2606.14892)) - `ai/research`
+4. [Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems](../../../ai/agents/arxiv-2606-14923.md) ([Source](https://arxiv.org/abs/2606.14923)) - `ai/agents`
+5. [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](../../../ai/agents/arxiv-2606-14935.md) ([Source](https://arxiv.org/abs/2606.14935)) - `ai/agents`
+6. [Semantics-Enhanced Retrieval-Augmented Time Series Forecasting](../../../ai/rag/arxiv-2606-14941.md) ([Source](https://arxiv.org/abs/2606.14941)) - `ai/rag`
+7. [AI Engram: In Search of Memory Traces in Artificial Intelligence](../../../ai/rag/arxiv-2606-14997.md) ([Source](https://arxiv.org/abs/2606.14997)) - `ai/rag`
+8. [Metric Match: A Subset Selection Approach to Evaluating LLM Judge Reliability](../../../ai/rag/arxiv-2606-15029.md) ([Source](https://arxiv.org/abs/2606.15029)) - `ai/rag`
+9. [OSGuard: A Benchmark for Safety in Computer-Use Agents](../../../ai/agents/arxiv-2606-15034.md) ([Source](https://arxiv.org/abs/2606.15034)) - `ai/agents`
+10. [Fusion is not one-size-fits-all: Cross-Modal Representation Alignment for Time-to-Event Modeling](../../../ai/research/arxiv-2606-15038.md) ([Source](https://arxiv.org/abs/2606.15038)) - `ai/research`
+11. [Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation](../../../ai/agents/arxiv-2606-15077.md) ([Source](https://arxiv.org/abs/2606.15077)) - `ai/agents`
+12. [Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility](../../../ai/rag/arxiv-2606-15078.md) ([Source](https://arxiv.org/abs/2606.15078)) - `ai/rag`
+13. [VGPT-RSI for RH-Adjacent Formal Progress: Boundary Certificates, Verified Finite Lagarias Inequalities, and Explicit Failure Localization](../../../ai/research/arxiv-2606-15096.md) ([Source](https://arxiv.org/abs/2606.15096)) - `ai/research`
+14. [Towards Verifiable Agentic Data Science: Solving Irregular TSQA Via Tool-Grounded Reasoning](../../../ai/agents/arxiv-2606-15107.md) ([Source](https://arxiv.org/abs/2606.15107)) - `ai/agents`
+15. [CONCORD: Asynchronous Sparse Aggregation for Device-Cloud RAG under Document Isolation](../../../ai/rag/arxiv-2606-15179.md) ([Source](https://arxiv.org/abs/2606.15179)) - `ai/rag`
 
 ## Weekly Company Updates
 
@@ -125,8 +125,8 @@ No updates collected under this section this week.
 7. [idflood/ThreeNodes.js](../../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
 8. [mkkellogg/GaussianSplats3D](../../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 9. [vasturiano/3d-force-graph](../../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-10. [creativelifeform/three-nebula](../../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-11. [pixiv/three-vrm](../../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+10. [pixiv/three-vrm](../../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+11. [creativelifeform/three-nebula](../../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 12. [gkjohnson/threejs-sandbox](../../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 13. [xiao149/ThreeJsDemo](../../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 14. [puxiao/threejs-tutorial](../../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
@@ -134,16 +134,16 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [Workflow Automation](../../../skills/automation.md) (272 updates)
-- [RAG](../../../skills/rag.md) (205 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (200 updates)
-- [AI Agents](../../../skills/ai-agents.md) (156 updates)
-- [AI Coding Agents](../../../skills/ai-coding-agents.md) (97 updates)
-- [Three.js & WebGL](../../../skills/threejs.md) (81 updates)
-- [LLMOps](../../../skills/llmops.md) (52 updates)
-- [Local LLMs & Inference](../../../skills/local-llm.md) (33 updates)
-- [Prompt Engineering](../../../skills/prompt-engineering.md) (23 updates)
-- [FastAPI](../../../skills/fastapi.md) (12 updates)
+- [RAG](../../../skills/rag.md) (845 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (537 updates)
+- [Workflow Automation](../../../skills/automation.md) (388 updates)
+- [AI Agents](../../../skills/ai-agents.md) (364 updates)
+- [AI Coding Agents](../../../skills/ai-coding-agents.md) (226 updates)
+- [LLMOps](../../../skills/llmops.md) (138 updates)
+- [Three.js & WebGL](../../../skills/threejs.md) (84 updates)
+- [Prompt Engineering](../../../skills/prompt-engineering.md) (68 updates)
+- [Local LLMs & Inference](../../../skills/local-llm.md) (53 updates)
+- [FastAPI](../../../skills/fastapi.md) (23 updates)
 
 ## Recommended Projects To Build
 
@@ -152,4 +152,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-15T23:10:50.824001+00:00
+2026-06-16T04:29:02.110289+00:00

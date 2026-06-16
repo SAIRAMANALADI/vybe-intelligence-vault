@@ -53,19 +53,19 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `86` | **Path**: [`arxiv-2505-08784.md`](file:///../../ai/rag/arxiv-2505-08784.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`arxiv-2602-22179.md`](file:///../../ai/rag/arxiv-2602-22179.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`arxiv-2603-15481.md`](file:///../../ai/rag/arxiv-2603-15481.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
-- **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-12344.md`](file:///../../ai/agents/arxiv-2606-12344.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235)
-- **Category**: `ai/research` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-11235.md`](file:///../../ai/research/arxiv-2606-11235.md)
+### [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898)
+- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`arxiv-2606-16898.md`](file:///../../ai/agents/arxiv-2606-16898.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

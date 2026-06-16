@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.geeksforgeeks.org/data-science/building-a-rag-application
-published_at: '2026-06-15T23:09:15.782677+00:00'
-collected_at: '2026-06-15T23:09:15.782684+00:00'
+published_at: '2026-06-16T04:27:13.257830+00:00'
+collected_at: '2026-06-16T04:27:13.257847+00:00'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:building-a-rag-application-geeksforgeeks
-first_seen: '2026-06-15T23:09:15.782684+00:00'
-last_seen: '2026-06-15T23:09:15.782684+00:00'
-last_checked: '2026-06-15T23:09:15.782684+00:00'
+first_seen: '2026-06-16T04:27:13.257847+00:00'
+last_seen: '2026-06-16T04:27:13.257847+00:00'
+last_checked: '2026-06-16T04:27:13.257847+00:00'
 health_score: 100
 ---
 
@@ -36,7 +36,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:15.782677+00:00
+- Published: 2026-06-16T04:27:13.257830+00:00
 
 ## Related Tags
 

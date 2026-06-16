@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 63 resources matched in the intelligence vault.
+Active signals: 107 resources matched in the intelligence vault.
 Recently detected signals:
-- [Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches](../ai/research/arxiv-2606-13626.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Aligned but Stereotypical? How System Prompts Shape Demographic Bias in LLM-Based Text-to-Image Models](../ai/rag/arxiv-2512-04981.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](../ai/research/arxiv-2604-18419.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Towards Efficient Large Language Reasoning Models via Extreme-Ratio Chain-of-Thought Compression](../ai/research/arxiv-2602-08324.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Graph-based Target Back-Propagation for Context Adaptation in Multi-LLM Agentic Systems](../ai/agents/arxiv-2606-14155.md) (Source: Unknown Source) - Collected 2026-06-15
+- [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models](../ai/research/arxiv-2606-15751.md) (Source: Unknown Source) - Collected 2026-06-16
+- [DLWM: Diverse Latent World Models for Efficient Multimodal Reasoning](../ai/research/arxiv-2606-15160.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../ai/rag/arxiv-2606-15099.md) (Source: Unknown Source) - Collected 2026-06-16
+- [LLM-Based Synthetic Ground Truth Generation for Audio-Based Emotion Classification via In-Context Learning](../ai/rag/arxiv-2606-14784.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -55,4 +55,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.088960+00:00.618348+00:00.684231+00:00.327978+00:00.052731+00:00.724478+00:00.700805+00:00.745949+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:58.978125+00:00.088960+00:00.618348+00:00.684231+00:00.327978+00:00.052731+00:00.724478+00:00.700805+00:00.745949+00:00.

@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://fata.dev
 hn_url: https://news.ycombinator.com/item?id=48489163
-score: 67
+score: 88
 author: djoume
-comments_count: 41
+comments_count: 48
 published_at: '2026-06-11T11:57:03+00:00'
-collected_at: '2026-06-15T23:08:42.186731+00:00'
+collected_at: '2026-06-16T04:26:26.118771+00:00'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-fata-spaced-repetition-to-fight-skill-rot
-first_seen: '2026-06-15T23:08:42.186731+00:00'
-last_seen: '2026-06-15T23:08:42.186731+00:00'
-last_checked: '2026-06-15T23:08:42.186731+00:00'
+first_seen: '2026-06-16T04:26:26.118771+00:00'
+last_seen: '2026-06-16T04:26:26.118771+00:00'
+last_checked: '2026-06-16T04:26:26.118771+00:00'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by djoume. Score: 67, Comments: 41.
+Hacker News story by djoume. Score: 88, Comments: 48.
 Original Link: https://fata.dev
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: djoume
-- Score: 67 Upvotes
-- Comments: 41 Discussions
+- Score: 88 Upvotes
+- Comments: 48 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48489163
 - Original Article: https://fata.dev
 

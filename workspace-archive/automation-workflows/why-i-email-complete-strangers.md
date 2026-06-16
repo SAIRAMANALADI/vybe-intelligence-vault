@@ -1,5 +1,5 @@
 ---
-title: Why I Email Complete Strangers
+title: Why I email complete strangers
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://goodinternetmagazine.com/why-i-email-complete-strangers
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Why I Email Complete Strangers
+# Why I email complete strangers
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by karakoram. Score: 25, Comments: 7.
+Hacker News story by karakoram. Score: 100, Comments: 49.
 Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
 
 ## Use Cases

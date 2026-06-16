@@ -44,32 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 2581 |
-| Active resources | 2554 |
+| Resources tracked | 3620 |
+| Active resources | 3593 |
 | Inactive resources | 27 |
-| Archive files | 13430 |
+| Archive files | 17755 |
 | Archive categories | 33 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-15 23:11 UTC |
+| Last meaningful update | 2026-06-16 04:29 UTC |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (Rank: +2) (+327 points)
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+254 points)
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (+80 points)
-- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (Rank: +3) (+42 points)
-- **[RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)** (Rank: +2319)
+- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (+210 points)
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+142 points)
+- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (Rank: +6) (+75 points)
+- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (+64 points)
+- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (+21 points)
 
 #### ✨ New Discoveries
-- **[Show HN: Vet turned founder, AI lawn diagnosis](ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md)** (Score: 26)
-- **[Why I Email Complete Strangers](ai/community/why-i-email-complete-strangers.md)** (Score: 25)
-- **[Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](ai/rag/free-project-status-report-template-weekly-monthly.md)** (Score: 0)
-- **[RAG Status Template | Red, Amber, Green Status | Project Slides](ai/rag/rag-status-template-red-amber-green-status-project.md)** (Score: 0)
-- **[Free Project Status Report Template](ai/resources/free-project-status-report-template.md)** (Score: 0)
+- **[Microsoft turns to AWS as GitHub faces AI capacity crunch](ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)** (Score: 108)
+- **[19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)** (Score: 0)
+- **[Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md)** (Score: 0)
+- **[Simultaneous Latent Budget Trees for Stratified Classification](ai/research/arxiv-2606-13295.md)** (Score: 0)
+- **[How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling](ai/research/arxiv-2606-07334.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

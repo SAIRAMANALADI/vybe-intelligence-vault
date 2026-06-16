@@ -18,13 +18,13 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 58 resources matched in the intelligence vault.
+Active signals: 77 resources matched in the intelligence vault.
 Recently detected signals:
-- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Generative Modeling of Bach-Style Symbolic Music: A Comparative Study of Autoregressive, Latent-Variable, and Adversarial Approaches](../ai/research/arxiv-2606-13626.md) (Source: Unknown Source) - Collected 2026-06-15
-- [PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation](../ai/rag/arxiv-2508-18166.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score](../ai/research/arxiv-2606-13300.md) (Source: Unknown Source) - Collected 2026-06-15
+- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Quantization Robustness of Monotone Operator Equilibrium Networks](../ai/research/arxiv-2603-10562.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Quantizing Time-Series Models As Dynamical Systems: Trajectory-Based Quantization Sensitivity Score](../ai/research/arxiv-2606-13300.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,4 +80,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.321499+00:00.859523+00:00.917878+00:00.574711+00:00.290344+00:00.964270+00:00.103911+00:00.204506+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:59.313454+00:00.321499+00:00.859523+00:00.917878+00:00.574711+00:00.290344+00:00.964270+00:00.103911+00:00.204506+00:00.

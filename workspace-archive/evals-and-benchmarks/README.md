@@ -8,14 +8,14 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
+- [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (framework - USEFUL Tier)
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
-- [Clay-CNN Hybrids: Leveraging Geo-Foundational Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (framework - USEFUL Tier)
+- [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (framework - USEFUL Tier)
+- [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (framework - USEFUL Tier)
 - [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (framework - USEFUL Tier)
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (framework - USEFUL Tier)
 - [MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability](https://arxiv.org/abs/2504.20908) (framework - USEFUL Tier)
 - [Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14159) (framework - USEFUL Tier)
-- [PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227) (framework - USEFUL Tier)
-- [FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback](https://arxiv.org/abs/2601.04203) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

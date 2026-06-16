@@ -18,13 +18,13 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 507 resources matched in the intelligence vault.
+Active signals: 631 resources matched in the intelligence vault.
 Recently detected signals:
-- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-15
-- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-15
-- [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-15
-- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-06-15
-- [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) (Source: Unknown Source) - Collected 2026-06-15
+- [pixegami/rag-tutorial-v2](../ai/rag/pixegami-rag-tutorial-v2.md) (Source: Unknown Source) - Collected 2026-06-16
+- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-16
+- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-16
+- [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-16
+- [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.153338+00:00.684513+00:00.749049+00:00.397903+00:00.118812+00:00.790196+00:00.798034+00:00.851352+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:59.071754+00:00.153338+00:00.684513+00:00.749049+00:00.397903+00:00.118812+00:00.790196+00:00.798034+00:00.851352+00:00.

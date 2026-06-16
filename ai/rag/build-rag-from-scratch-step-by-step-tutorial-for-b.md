@@ -4,18 +4,21 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch
-published_at: '2026-06-12T05:02:52.668149+00:00'
-collected_at: '2026-06-12T05:02:52.668162+00:00'
+published_at: '2026-06-16T04:27:36.030809+00:00'
+collected_at: '2026-06-16T04:27:36.030822+00:00'
 tags:
 - models
 - openai
 - rag
 - reddit
 - web-crawled
-status: new
+status: active
 resource_id: blog:build-rag-from-scratch-step-by-step-tutorial-for-b
+first_seen: '2026-06-16T04:27:36.030822+00:00'
+last_seen: '2026-06-16T04:27:36.030822+00:00'
+last_checked: '2026-06-16T04:27:36.030822+00:00'
+health_score: 100
 ---
-
 
 # Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag
 
@@ -31,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-12T05:02:52.668149+00:00
+- Published: 2026-06-16T04:27:36.030809+00:00
 
 ## Related Tags
 

@@ -9,13 +9,13 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 ## Top Matched Resources
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
+- [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (framework - USEFUL Tier)
 - [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (framework - USEFUL Tier)
+- [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (framework - USEFUL Tier)
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (framework - USEFUL Tier)
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - USEFUL Tier)
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (framework - USEFUL Tier)
 - [Side-Channel Attacks Bypass Protection in 3D Printers](https://arxiv.org/abs/2606.13952) (framework - USEFUL Tier)
-- [Modelling magnetic material properties with uncertainty-aware neural networks](https://arxiv.org/abs/2606.11870) (framework - USEFUL Tier)
-- [Trend-Aware Multi-Task Learning for Short-Term Energy Forecasting](https://arxiv.org/abs/2511.09789) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

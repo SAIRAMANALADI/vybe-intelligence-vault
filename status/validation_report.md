@@ -4,11 +4,11 @@ This report was automatically compiled by the repository integrity diagnostics s
 
 ## Summary Metrics
 
-- **Total Integrity Failures**: 1447
+- **Total Integrity Failures**: 1448
 - **YAML Frontmatter Errors**: 0
 - **Broken Internal Links**: 0
 - **Invalid Filenames**: 0
-- **Duplicate Resources/Filenames**: 1447
+- **Duplicate Resources/Filenames**: 1448
 - **Schema/Metadata Issues**: 0
 
 ## Validation Log Details
@@ -1462,3 +1462,4 @@ This report was automatically compiled by the repository integrity diagnostics s
 | **Duplicate Resource ID** | `ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md` | Duplicate resource_id 'blog:nvidia-brings-agents-to-life-with-dgx-spark-and-re' found. Identical ID exists in: 'ai/agents/huggingface-blog-nvidia-reachy-mini.md' | Make resource_id unique or merge duplicate files. |
 | **Duplicate Resource URL** | `ai/agents/open-source-deepresearch-freeing-our-search-agents.md` | Duplicate resource URL found. Identical URL exists in: 'ai/agents/huggingface-blog-open-deep-research.md' | Remove this duplicate file or verify if URLs are distinct. |
 | **Duplicate Resource ID** | `ai/agents/open-source-deepresearch-freeing-our-search-agents.md` | Duplicate resource_id 'blog:open-source-deepresearch-freeing-our-search-agents' found. Identical ID exists in: 'ai/agents/huggingface-blog-open-deep-research.md' | Make resource_id unique or merge duplicate files. |
+| **Duplicate Resource URL** | `ai/community/show-hn-veterinarian-turned-founder-ai-lawn-diagno.md` | Duplicate resource URL found. Identical URL exists in: 'ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md' | Remove this duplicate file or verify if URLs are distinct. |

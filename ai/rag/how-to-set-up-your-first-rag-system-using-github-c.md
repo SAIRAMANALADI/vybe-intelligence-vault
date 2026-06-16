@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour
-published_at: '2026-06-15T08:09:46.745526+00:00'
-collected_at: '2026-06-15T08:09:46.745539+00:00'
+published_at: '2026-06-16T04:27:13.001507+00:00'
+collected_at: '2026-06-16T04:27:13.001523+00:00'
 tags:
 - openai
 - rag
@@ -14,9 +14,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:how-to-set-up-your-first-rag-system-using-github-c
-first_seen: '2026-06-15T08:09:46.745539+00:00'
-last_seen: '2026-06-15T08:09:46.745539+00:00'
-last_checked: '2026-06-15T08:09:46.745539+00:00'
+first_seen: '2026-06-16T04:27:13.001523+00:00'
+last_seen: '2026-06-16T04:27:13.001523+00:00'
+last_checked: '2026-06-16T04:27:13.001523+00:00'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T08:09:46.745526+00:00
+- Published: 2026-06-16T04:27:13.001507+00:00
 
 ## Related Tags
 

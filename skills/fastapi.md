@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 26 resources matched in the intelligence vault.
+Active signals: 37 resources matched in the intelligence vault.
 Recently detected signals:
-- [Can Deep Neural Networks Improve Compression of Very Large Scientific Data?](../ai/rag/arxiv-2606-14353.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Selective Agentic Recovery for UAV Autonomy with a Persistent Mission Runtime](../ai/agents/arxiv-2606-14219.md) (Source: Unknown Source) - Collected 2026-06-15
-- [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) (Source: Unknown Source) - Collected 2026-06-15
-- [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) (Source: Unknown Source) - Collected 2026-06-15
+- [MARS: Efficient, Adaptive Co-Scheduling for Heterogeneous Agentic Systems](../ai/agents/arxiv-2604-26963.md) (Source: Unknown Source) - Collected 2026-06-16
+- [CREST: Deployment-Realistic Hardware-in-the-Loop NAS for Embedded Sensing Systems](../ai/research/arxiv-2606-15004.md) (Source: Unknown Source) - Collected 2026-06-16
+- [M-CTX: Exact and Scalable Spatial Context Retrieval for Trajectory Analytics](../ai/rag/arxiv-2606-15244.md) (Source: Unknown Source) - Collected 2026-06-16
+- [SPI: Query-Depth-Adaptive Indexing for Streaming RAG in Vector Databases](../ai/rag/arxiv-2511-16681.md) (Source: Unknown Source) - Collected 2026-06-16
+- [SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks](../ai/rag/arxiv-2606-09669.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.270639+00:00.804282+00:00.866018+00:00.519802+00:00.238357+00:00.909915+00:00.003616+00:00.077422+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:59.238205+00:00.270639+00:00.804282+00:00.866018+00:00.519802+00:00.238357+00:00.909915+00:00.003616+00:00.077422+00:00.

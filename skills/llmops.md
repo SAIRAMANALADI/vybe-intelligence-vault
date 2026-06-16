@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 128 resources matched in the intelligence vault.
+Active signals: 210 resources matched in the intelligence vault.
 Recently detected signals:
-- [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Direct Preference Optimization for Chatbot Fine-Tuning: An Empirical Study](../ai/research/arxiv-2606-12881.md) (Source: Unknown Source) - Collected 2026-06-15
-- [NeST: Neuron Selective Tuning for LLM Safety](../ai/rag/arxiv-2602-16835.md) (Source: Unknown Source) - Collected 2026-06-15
-- [From Uncertain Judgments to Calibrated Rankings: Conformal Elo Estimation for LLM Evaluation](../ai/rag/arxiv-2606-13221.md) (Source: Unknown Source) - Collected 2026-06-15
-- [OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification](../ai/research/arxiv-2606-01476.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Adaptive Kernel Density Estimation with Pre-training](../ai/research/arxiv-2605-13092.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Contrastive Regularization for Accent-Robust ASR](../ai/research/arxiv-2605-03297.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Time-Varying Audio Effect Modeling by End-to-End Adversarial Training](../ai/research/arxiv-2512-15313.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Navigating Distribution Shifts in Medical Image Analysis: A Survey](../ai/research/arxiv-2411-05824.md) (Source: Unknown Source) - Collected 2026-06-16
+- [MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry](../ai/rag/arxiv-2606-05693.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -86,4 +86,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.117173+00:00.647444+00:00.712581+00:00.359053+00:00.081852+00:00.753424+00:00.741893+00:00.784633+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:59.020922+00:00.117173+00:00.647444+00:00.712581+00:00.359053+00:00.081852+00:00.753424+00:00.741893+00:00.784633+00:00.

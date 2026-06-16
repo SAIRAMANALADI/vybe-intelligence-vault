@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 33 resources matched in the intelligence vault.
+Active signals: 34 resources matched in the intelligence vault.
 Recently detected signals:
-- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-15
+- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-16
+- [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](../ai/agents/arxiv-2606-14935.md) (Source: Unknown Source) - Collected 2026-06-16
 - [How to Build an MCP Server with Gradio](../ai/models/huggingface-blog-gradio-mcp.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Upskill your LLMs With Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-15
 - [Building the Hugging Face MCP Server](../ai/models/huggingface-blog-building-hf-mcp.md) (Source: Unknown Source) - Collected 2026-06-15
-- [Five Big Improvements to Gradio MCP Servers](../ai/models/huggingface-blog-gradio-mcp-updates.md) (Source: Unknown Source) - Collected 2026-06-15
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -175,4 +175,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-15T23:10:48.066136+00:00.594038+00:00.661275+00:00.303505+00:00.029529+00:00.700463+00:00.655815+00:00.692169+00:00.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T04:28:58.943824+00:00.066136+00:00.594038+00:00.661275+00:00.303505+00:00.029529+00:00.700463+00:00.655815+00:00.692169+00:00.

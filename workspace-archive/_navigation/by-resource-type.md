@@ -19,6 +19,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 ## BENCHMARK
 
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](file:///../../ai/agents/arxiv-2606-11337.md))
+- [A comparative and critical study of EEGNet for fNIRS-driven cognitive load classification](https://arxiv.org/abs/2606.16160) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2606-16160.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](file:///../../ai/rag/arxiv-2606-11560.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
@@ -29,22 +30,21 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](file:///../../ai/agents/arxiv-2602-19502.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](file:///../../ai/rag/arxiv-2606-11560.md))
-- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](file:///../../ai/agents/arxiv-2606-11337.md))
 
 ## DATASET
 
+- [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `essential` | [`Local File`](file:///../../ai/research/arxiv-2602-09329.md))
 - [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai/rag/arxiv-2606-11930.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md))
 - [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai/rag/building-production-ready-rag-systems-best-practic.md))
+- [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](file:///../../ai/rag/arxiv-2606-15349.md))
+- [MacrOData: New Benchmarks of Thousands of Datasets for Tabular Outlier Detection](https://arxiv.org/abs/2602.09329) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2602-09329.md))
 - [Are LLMs Bad at Moral Reasoning?](https://arxiv.org/abs/2606.11635) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2606-11635.md))
 - [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](https://arxiv.org/abs/2606.12594) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2606-12594.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
 - [Frozen Multimodal Embeddings for AI-Assisted Interview Assessment of Personality and Cognitive Ability](https://arxiv.org/abs/2606.11930) (Tier: `useful` | [`Local File`](file:///../../ai/rag/arxiv-2606-11930.md))
 - [AI Agent Benchmarks 2026 - SWE-bench, WebArena, AgentBench, Terminal-Bench, OSWorld, Tau-Bench](https://benchmarkingagents.com/agent-benchmarks) (Tier: `useful` | [`Local File`](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md))
-- [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7) (Tier: `useful` | [`Local File`](file:///../../ai/rag/building-production-ready-rag-systems-best-practic.md))
-- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Tier: `useful` | [`Local File`](file:///../../ai/research/arxiv-2606-11197.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
 
 ## FRAMEWORK
 
@@ -57,9 +57,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `essential` | [`Local File`](file:///../../ai/rag/arxiv-2606-11990.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `essential` | [`Local File`](file:///../../ai/rag/arxiv-2505-08784.md))
+- [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) (Tier: `essential` | [`Local File`](file:///../../ai/rag/arxiv-2602-22179.md))
 - [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (Tier: `essential` | [`Local File`](file:///../../ai/rag/arxiv-2603-15481.md))
-- [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235) (Tier: `essential` | [`Local File`](file:///../../ai/research/arxiv-2606-11235.md))
-- [DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors](https://arxiv.org/abs/2606.11616) (Tier: `essential` | [`Local File`](file:///../../ai/research/arxiv-2606-11616.md))
+- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](file:///../../ai/agents/arxiv-2606-16898.md))
 
 ## MCP-SERVER
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](file:///../../ai/agents/haohao-end-openagent.md))
 
 ---
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

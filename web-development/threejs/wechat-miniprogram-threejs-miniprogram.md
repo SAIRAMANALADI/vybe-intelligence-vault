@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/wechat-miniprogram/threejs-miniprogram
-collected_at: '2026-06-15T06:04:10.449049+00:00'
-published_at: '2026-06-08T14:26:06Z'
+collected_at: '2026-06-16T04:26:13.956617+00:00'
+published_at: '2026-06-16T01:59:21Z'
 tags:
 - threejs
-stars: 783
+stars: 784
 language: JavaScript
 status: active
 resource_id: github:wechat-miniprogram/threejs-miniprogram
-first_seen: '2026-06-12T10:40:14.585883+00:00'
-last_seen: '2026-06-15T06:04:10.449049+00:00'
-last_checked: '2026-06-15T06:04:10.449049+00:00'
+first_seen: '2026-06-16T04:26:13.956617+00:00'
+last_seen: '2026-06-16T04:26:13.956617+00:00'
+last_checked: '2026-06-16T04:26:13.956617+00:00'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: wechat-miniprogram
-- Stars: 783
+- Stars: 784
 - Forks: 237
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-06-08T14:26:06Z
+- Last Updated: 2026-06-16T01:59:21Z
 
 ## Possible Use Cases
 

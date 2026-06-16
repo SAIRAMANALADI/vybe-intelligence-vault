@@ -10,12 +10,12 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (framework - ESSENTIAL Tier)
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (framework - ESSENTIAL Tier)
+- [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) (framework - ESSENTIAL Tier)
 - [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (framework - ESSENTIAL Tier)
+- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (framework - ESSENTIAL Tier)
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - ESSENTIAL Tier)
 - [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235) (framework - ESSENTIAL Tier)
 - [DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors](https://arxiv.org/abs/2606.11616) (framework - ESSENTIAL Tier)
-- [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - ESSENTIAL Tier)
-- [Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14217) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -39,4 +39,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

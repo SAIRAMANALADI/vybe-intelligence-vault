@@ -12,9 +12,9 @@ LangGraph, CrewAI, AutoGen, Microsoft Semantic Kernel.
 ## Recommended Resources from the Vault
 *   [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research)
 *   [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers)
+*   [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714)
 *   [Phi-Actor-Critic: Steering General-Sum Games to Pareto-Efficient Correlated Equilibria](https://arxiv.org/abs/2606.11284)
 *   [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-ai-agent-framework-comparison)
-*   [FlowBank: Query-Adaptive Agentic Workflows Optimization through Precompute-and-Reuse](https://arxiv.org/abs/2606.11290)
 
 ## Project Ideas
 *   A researcher agent that scrapes hacker news and compiles summaries into markdown.

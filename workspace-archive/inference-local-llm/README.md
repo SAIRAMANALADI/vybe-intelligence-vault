@@ -10,12 +10,12 @@ Local LLM serving enables cost-free, private, and offline AI application archite
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (api - ESSENTIAL Tier)
 - [Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost](https://arxiv.org/abs/2602.03120) (framework - USEFUL Tier)
+- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (framework - USEFUL Tier)
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (tutorial - USEFUL Tier)
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (tutorial - USEFUL Tier)
 - [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (tutorial - USEFUL Tier)
 - [From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels](https://huggingface.co/blog/kernel-builder) (tutorial - USEFUL Tier)
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily/tavily-deep-research) (tutorial - USEFUL Tier)
-- [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily) (tutorial - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/vllm-project/vllm (vLLM)
 
 ---
 
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

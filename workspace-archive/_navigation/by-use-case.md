@@ -48,13 +48,13 @@ This index groups resources by direct developer use-cases and design goals.
 ## Production Auditing & Prompt Injection Protection
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md))
+- [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2601-21714.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-11304.md))
-- [Clay-CNN Hybrids: Leveraging Geo-Foundational Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-14081.md))
+- [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-16231.md))
+- [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-14081.md))
 - [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2603-05167.md))
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-11751.md))
 - [MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability](https://arxiv.org/abs/2504.20908) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2504-20908.md))
-- [Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14159) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2606-14159.md))
-- [PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation](https://arxiv.org/abs/2512.21227) (Category: `evals-and-benchmarks` | [`Local File`](file:///../../ai/rag/arxiv-2512-21227.md))
 
 ## Script Automations & External API Integration
 
@@ -93,12 +93,12 @@ This index groups resources by direct developer use-cases and design goals.
 
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Category: `project-ideas` | [`Local File`](file:///../../ai/rag/arxiv-2606-11560.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Category: `project-ideas` | [`Local File`](file:///../../ai/rag/arxiv-2606-07001.md))
-- [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Category: `project-ideas` | [`Local File`](file:///../../ai/rag/arxiv-2606-11751.md))
 - [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (Category: `project-ideas` | [`Local File`](file:///../../ai/rag/arxiv-2606-11214.md))
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Category: `project-ideas` | [`Local File`](file:///../../ai/agents/arxiv-2606-11337.md))
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Category: `project-ideas` | [`Local File`](file:///../../ai/agents/arxiv-2606-11874.md))
 - [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (Category: `project-ideas` | [`Local File`](file:///../../ai/research/arxiv-2606-11745.md))
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Category: `project-ideas` | [`Local File`](file:///../../ai/research/arxiv-2606-11074.md))
+- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Category: `project-ideas` | [`Local File`](file:///../../ai/research/arxiv-2606-11197.md))
 
 ---
-*Last updated: 2026-06-15 23:11 UTC*
+*Last updated: 2026-06-16 04:29 UTC*

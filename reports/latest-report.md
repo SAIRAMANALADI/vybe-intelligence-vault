@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-15T23:11:19.000336+00:00`
+Generated at: `2026-06-16T04:29:37.950909+00:00`
 
 ## Executive Summary
 
@@ -8,39 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Show HN: Vet turned founder, AI lawn diagnosis** - Score: `26` in category `ai/community` ([Link](https://grassdx.com)) ([File](../ai/community/show-hn-vet-turned-founder-ai-lawn-diagnosis.md))
-- **Why I Email Complete Strangers** - Score: `25` in category `ai/community` ([Link](https://goodinternetmagazine.com/why-i-email-complete-strangers)) ([File](../ai/community/why-i-email-complete-strangers.md))
-- **Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs** - Score: `0` in category `ai/rag` ([Link](https://analysistabs.com/templates/project-status-report)) ([File](../ai/rag/free-project-status-report-template-weekly-monthly.md))
-- **RAG Status Template | Red, Amber, Green Status | Project Slides** - Score: `0` in category `ai/rag` ([Link](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) ([File](../ai/rag/rag-status-template-red-amber-green-status-project.md))
-- **Free Project Status Report Template** - Score: `0` in category `ai/resources` ([Link](https://safetyculture.com/checklists/operations/project-status-report)) ([File](../ai/resources/free-project-status-report-template.md))
-- **RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates** - Score: `0` in category `ai/rag` ([Link](https://itsm-docs.com/en-gb/products/rag-status-template)) ([File](../ai/rag/rag-project-status-report-template-document-templa.md))
-- **RAG Status Template (Word, Excel)** - Score: `0` in category `ai/rag` ([Link](https://mastt.com/resources/rag-status-template)) ([File](../ai/rag/rag-status-template-word-excel.md))
-- **RAG Status Dashboard Roadmap Template - WordLayouts** - Score: `0` in category `ai/rag` ([Link](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) ([File](../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md))
-- **Free RAG Status Report Template to Edit Online** - Score: `0` in category `ai/rag` ([Link](https://template.net/edit-online/394147/rag-status-report)) ([File](../ai/rag/free-rag-status-report-template-to-edit-online.md))
-- **RAG Status Reports, Dashboards, and Templates: Red Amber Green** - Score: `0` in category `ai/rag` ([Link](https://business-docs.co.uk/downloads/category/rag)) ([File](../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
-- **What is RAG Status Reporting in Project Management? | PM Study Circle** - Score: `0` in category `ai/rag` ([Link](https://pmstudycircle.com/rag-status-reporting)) ([File](../ai/rag/what-is-rag-status-reporting-in-project-management.md))
-- **RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download** - Score: `0` in category `ai/rag` ([Link](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) ([File](../ai/rag/rag-status-template-excel-free-download-techno-pm.md))
-- **Build a RAG Chatbot in 30 Min with Python + LangChain [2026]** - Score: `0` in category `ai/rag` ([Link](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) ([File](../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md))
+- **Microsoft turns to AWS as GitHub faces AI capacity crunch** - Score: `108` in category `ai/community` ([Link](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)) ([File](../ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md))
+- **19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations** - Score: `0` in category `ai/rag` ([Link](https://medevel.com/open-source-rag-1900)) ([File](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md))
+- **Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus** - Score: `0` in category `ai/rag` ([Link](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation)) ([File](../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md))
+- **Simultaneous Latent Budget Trees for Stratified Classification** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.13295)) ([File](../ai/research/arxiv-2606-13295.md))
+- **How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.07334)) ([File](../ai/research/arxiv-2606-07334.md))
+- **An Adaptive Data cleaning Framework for Noisy Label Detection** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.07086)) ([File](../ai/research/arxiv-2606-07086.md))
+- **Accelerating physics-informed neural networks for full waveform inversion using a hybrid quantum-classical finite-basis architecture** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.01110)) ([File](../ai/research/arxiv-2606-01110.md))
+- **Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense** - Score: `0` in category `ai/agents` ([Link](https://arxiv.org/abs/2605.30837)) ([File](../ai/agents/arxiv-2605-30837.md))
+- **libhmm: A Modern C++20 Library for Hidden Markov Models with Correct MLE Emission M-Steps** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.29208)) ([File](../ai/research/arxiv-2605-29208.md))
+- **Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2605.28734)) ([File](../ai/rag/arxiv-2605-28734.md))
+- **Scale-Invariant Neural Network Optimization: Norm Geometry and Heavy-Tailed Noise** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.18528)) ([File](../ai/research/arxiv-2605-18528.md))
+- **HyDRA: Hybrid Dynamic Routing Architecture for Heterogeneous LLM Pools** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.17106)) ([File](../ai/research/arxiv-2605-17106.md))
+- **Adaptive Kernel Density Estimation with Pre-training** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.13092)) ([File](../ai/research/arxiv-2605-13092.md))
+- **Discriminative Span as a Predictor of Synthetic Data Utility via Classifier Reconstruction** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.09697)) ([File](../ai/research/arxiv-2605-09697.md))
+- **Empirical Study of Pop and Jazz Mix Ratios for Genre-Adaptive Chord Generation** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.04998)) ([File](../ai/research/arxiv-2605-04998.md))
 
 ## 🔥 Top Trending Resources
 
-- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - Score: `562` (+327), Rank Change: `+2` ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
-- **TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)** - Score: `527` (+254), Rank Change: `0` ([File](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md))
-- **My Homelab AI Dev Platform** - Score: `202` (+80), Rank Change: `0` ([File](../ai/community/my-homelab-ai-dev-platform.md))
-- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - Score: `67` (+42), Rank Change: `+3` ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
-- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - Score: `0` (0), Rank Change: `+2319` ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
-- **Building a RAG Application - GeeksforGeeks** - Score: `0` (0), Rank Change: `+3` ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+685` ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - Score: `0` (0), Rank Change: `+729` ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
+- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - Score: `772` (+210), Rank Change: `0` ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
+- **TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)** - Score: `669` (+142), Rank Change: `0` ([File](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md))
+- **Why I email complete strangers** - Score: `100` (+75), Rank Change: `+6` ([File](../ai/community/why-i-email-complete-strangers.md))
+- **My Homelab AI Dev Platform** - Score: `266` (+64), Rank Change: `0` ([File](../ai/community/my-homelab-ai-dev-platform.md))
+- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - Score: `88` (+21), Rank Change: `-1` ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
+- **pixegami/rag-tutorial-v2** - Score: `0` (0), Rank Change: `+720` ([File](../ai/rag/pixegami-rag-tutorial-v2.md))
+- **Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag** - Score: `0` (0), Rank Change: `+2151` ([File](../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md))
+- **RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium** - Score: `0` (0), Rank Change: `+711` ([File](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md))
+- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+697` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
+- **Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - (Rank Change: `+2319`) ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
-- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+729`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+685`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Show HN: Fata – Spaced repetition to fight skill rot from AI coding** - (Rank Change: `+3`) ([File](../ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md))
-- **Building a RAG Application - GeeksforGeeks** - (Rank Change: `+3`) ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?** - (Rank Change: `+2`) ([File](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md))
+- **Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag** - (Rank Change: `+2151`) ([File](../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md))
+- **AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory** - (Rank Change: `+1795`) ([File](../ai/rag/arxiv-2606-11751.md))
+- **Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents** - (Rank Change: `+1700`) ([File](../ai/agents/arxiv-2606-11349.md))
+- **Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory** - (Rank Change: `+1554`) ([File](../ai/agents/arxiv-2606-09365.md))
+- **Mahalanobis-Guided Latent OOD Detection for Hybrid ES-DRL Control in Time-Varying Systems** - (Rank Change: `+1492`) ([File](../ai/research/arxiv-2606-11474.md))
+- **M*: A Modular, Extensible, Serving System for Multimodal Models** - (Rank Change: `+1367`) ([File](../ai/rag/arxiv-2606-12688.md))
+- **EV-WM: Event-Verified World Models for Long-Horizon Robotic Manipulation** - (Rank Change: `+1335`) ([File](../ai/research/arxiv-2606-13053.md))
+- **LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories** - (Rank Change: `+1287`) ([File](../ai/rag/arxiv-2606-13578.md))
+- **The Illusion of Multi-Agent Advantage** - (Rank Change: `+1281`) ([File](../ai/agents/arxiv-2606-13003.md))
+- **Why Sampling Is Not Choosing: Intentionality, Agency, and Moral Responsibility in Large Language Models** - (Rank Change: `+1254`) ([File](../ai/agents/arxiv-2606-13441.md))
 
 ## 🔄 Essential Tier Transitions
 
