@@ -2754,9 +2754,10 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
-  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [Apple is about to make Hide My Email useless](../ai/community/apple-is-about-to-make-hide-my-email-useless.md)
+  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
+  - [Show HN: Sabela – A Reactive Notebook for Haskell](../web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -3783,4 +3784,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-16T22:53:41.040389+05:30*
+*Index generated on 2026-06-17T02:51:56.650427+05:30*

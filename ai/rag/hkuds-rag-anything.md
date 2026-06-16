@@ -4,22 +4,25 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/HKUDS/RAG-Anything
-collected_at: '2026-06-11T23:00:42.255857+00:00'
-published_at: '2026-06-11T22:01:06Z'
+collected_at: '2026-06-17T02:51:08.459975+05:30'
+published_at: '2026-06-16T19:21:25Z'
 tags:
 - github-repo
 - python
 - rag
-stars: 21205
+stars: 21373
 language: Python
-status: new
+status: active
 license: MIT
 archived: false
 created_at: '2025-06-06T06:47:29Z'
-pushed_at: '2026-06-10T10:07:08Z'
+pushed_at: '2026-06-15T04:43:54Z'
 resource_id: github:hkuds/rag-anything
+first_seen: '2026-06-17T02:51:08.459975+05:30'
+last_seen: '2026-06-17T02:51:08.459975+05:30'
+last_checked: '2026-06-17T02:51:08.459975+05:30'
+health_score: 100
 ---
-
 
 # HKUDS/RAG-Anything
 
@@ -34,15 +37,15 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: HKUDS
-- Stars: 21205
-- Forks: 2469
+- Stars: 21373
+- Forks: 2498
 - Language: Python
 - Topics: multi-modal-rag, retrieval-augmented-generation
-- Last Updated: 2026-06-11T22:01:06Z
+- Last Updated: 2026-06-16T19:21:25Z
 - License: MIT
 - Archived: No
 - Created At: 2025-06-06T06:47:29Z
-- Pushed At: 2026-06-10T10:07:08Z
+- Pushed At: 2026-06-15T04:43:54Z
 
 ## Possible Use Cases
 

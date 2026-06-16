@@ -44,39 +44,33 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3824 |
-| Active resources | 3750 |
-| Inactive resources | 74 |
-| Archive files | 18576 |
+| Resources tracked | 3827 |
+| Active resources | 3751 |
+| Inactive resources | 76 |
+| Archive files | 18579 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 22:54 IST |
+| Last meaningful update | 2026-06-17 02:52 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +2) (+197 points)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +92)
-- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +93)
-- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Rank: +103)
-- **[Google Colab](ai/rag/google-colab.md)** (Rank: +203)
+- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (+152 points)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +18)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +18)
+- **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** (Rank: +3339)
+- **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (Rank: +16)
 
 #### ✨ New Discoveries
-- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 716)
-- **[After AI Takes Everything](ai/community/after-ai-takes-everything.md)** (Score: 17)
-- **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)** (Score: 0)
-- **[AI for Game Development: Creating a Farming Game in 5 Days. Part 1](ai/models/huggingface-blog-ml-for-games-1.md)** (Score: 0)
-- **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](ai/models/huggingface-blog-intel-sapphire-rapids.md)** (Score: 0)
+- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)** (Score: 207)
+- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Score: 53)
+- **[Show HN: Sabela – A Reactive Notebook for Haskell](web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)** (Score: 15)
 
 #### 💤 Recently Inactive Resources
-- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)**
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)**
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)**
-- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)**
-- **[Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage](ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)**
+- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -856,8 +856,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
-  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [Apple is about to make Hide My Email useless](../ai/community/apple-is-about-to-make-hide-my-email-useless.md)
+  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
 
 ## animation
@@ -2842,6 +2842,7 @@ Resources organized by keyword tags.
   - [Safety-Contract Graph Multi-Agent Reinforcement Learning for Autonomous Network Security Response](../ai/agents/arxiv-2606-13832.md)
   - [Security Advisory: CVE-2025-66478](../web-development/security-advisory-cve-2025-66478.md)
   - [Seeing Before Colliding: Anticipatory Safe RL with Frozen Vision-Language Models](../ai/research/arxiv-2606-11266.md)
+  - [Show HN: Sabela – A Reactive Notebook for Haskell](../web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)
   - [ShowravKormokar/capsule](../web-development/gsap/showravkormokar-capsule.md)
   - [SikandarJODD/svelte-animations](../web-development/framer-motion/sikandarjodd-svelte-animations.md)
   - [Styling Next.js with Styled JSX](../web-development/nextjs/styling-next-js-with-styled-jsx.md)
@@ -3232,7 +3233,6 @@ Resources organized by keyword tags.
   - [Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems](../ai/rag/arxiv-2606-12337.md)
   - [Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](../ai/rag/arxiv-2606-11615.md)
   - [Advanced Machine Learning and Deep Learning Techniques for Enhanced Cattle Identification and Detection: A Comprehensive Review](../ai/research/arxiv-2606-15655.md)
-  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
   - [Agent trajectories as programs: fingerprinting and programming coding-agent behavior](../ai/agents/arxiv-2606-16988.md)
   - [Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems](../ai/rag/arxiv-2606-15591.md)
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
@@ -3243,6 +3243,7 @@ Resources organized by keyword tags.
   - [An Integrated System for Real-Time Student Assessment and Career Guidance Using Neural Networks in Computing Disciplines](../ai/research/arxiv-2606-15831.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
+  - [Apple is about to make Hide My Email useless](../ai/community/apple-is-about-to-make-hide-my-email-useless.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence Index Report 2026](../ai/research/arxiv-2606-15708.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
@@ -3327,7 +3328,6 @@ Resources organized by keyword tags.
   - [Explainable deep learning improves human mental models of self-driving cars](../ai/agents/arxiv-2411-18714.md)
   - [Exploiting Search in Symbolic Numeric Planning with Patterns](../ai/research/arxiv-2606-16329.md)
   - [Family-Aware Residual Architecture for Predicting Quantum Circuit Simulation Performance](../ai/research/arxiv-2606-11620.md)
-  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](../ai/research/arxiv-2606-11854.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
@@ -3342,6 +3342,7 @@ Resources organized by keyword tags.
   - [Graph Diffusion Residuals for Control-Function Instrumental Variables](../ai/rag/arxiv-2606-14636.md)
   - [Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems](../ai/rag/arxiv-2606-15943.md)
   - [HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems](../ai/research/arxiv-2606-11963.md)
+  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
   - [How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)
   - [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
@@ -3436,6 +3437,7 @@ Resources organized by keyword tags.
   - [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md)
   - [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](../ai/rag/arxiv-2606-15155.md)
   - [Semi-Supervised Speech Confidence Detection using Pseudo-Labelling and Whisper Embeddings](../ai/rag/arxiv-2606-16505.md)
+  - [Show HN: Sabela – A Reactive Notebook for Haskell](../web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
   - [Smoothness Errors in Dynamics Models and How to Avoid Them](../ai/research/arxiv-2602-05352.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -6183,6 +6185,10 @@ Resources organized by keyword tags.
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
 
+## react
+
+  - [Show HN: Sabela – A Reactive Notebook for Haskell](../web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)
+
 ## reddit
 
   - ["Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System](../ai/research/arxiv-2606-13071.md)
@@ -6231,7 +6237,6 @@ Resources organized by keyword tags.
   - [Epiczzor/r3f-template](../web-development/react-three-fiber/epiczzor-r3f-template.md)
   - [Fast-dLLM++: Fr\'{e}chet Profile Decoding for Faster Diffusion LLM Inference](../ai/research/arxiv-2606-02955.md)
   - [Feature Attribution in Directed Acyclic Graphs Using Edge Intervention](../ai/research/arxiv-2606-15273.md)
-  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [Fortifying AutoGen](../ai/rag/fortifying-autogen.md)
   - [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../ai/rag/free-project-status-report-template-weekly-monthly.md)
   - [Free RAG Status Report Template to Edit Online](../ai/rag/free-rag-status-report-template-to-edit-online.md)
@@ -7180,4 +7185,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-16T22:53:40.999274+05:30*
+*Index generated on 2026-06-17T02:51:56.610017+05:30*

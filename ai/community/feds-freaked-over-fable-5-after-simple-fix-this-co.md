@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:feds-freaked-over-fable-5-after-simple-fix-this-co
 first_seen: '2026-06-16T17:27:38.040135+05:30'
 last_seen: '2026-06-16T22:51:10.247028+05:30'
 last_checked: '2026-06-16T22:51:10.247028+05:30'
 health_score: 100
 ---
+
 
 # Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers
 

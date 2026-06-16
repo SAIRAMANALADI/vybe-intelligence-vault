@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/teslamate-org/teslamate
-published_at: '2026-06-16T22:51:09.031960+05:30'
-collected_at: '2026-06-16T22:51:09.031962+05:30'
+published_at: '2026-06-17T02:49:10.357197+05:30'
+collected_at: '2026-06-17T02:49:10.357201+05:30'
 tags:
 - elixir
 - github-trending
 status: active
 resource_id: github:teslamate-org/teslamate
 first_seen: '2026-06-16T13:57:13.167539+05:30'
-last_seen: '2026-06-16T22:51:09.031962+05:30'
-last_checked: '2026-06-16T22:51:09.031962+05:30'
+last_seen: '2026-06-17T02:49:10.357201+05:30'
+last_checked: '2026-06-17T02:49:10.357201+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-16T22:51:09.031960+05:30
+- Published: 2026-06-17T02:49:10.357197+05:30
 
 ## Related Tags
 

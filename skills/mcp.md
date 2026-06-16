@@ -20,11 +20,11 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 35 resources matched in the intelligence vault.
 Recently detected signals:
-- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-16
-- [PrologMCP: A Standardized Prolog Tool Interface for LLM Agents](../ai/agents/arxiv-2606-14935.md) (Source: Unknown Source) - Collected 2026-06-16
-- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Upskill your LLMs With Gradio MCP Servers](../ai/models/upskill-your-llms-with-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-16
+- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-17
+- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Upskill your LLMs With Gradio MCP Servers](../ai/models/upskill-your-llms-with-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Building the Hugging Face MCP Server](../ai/models/building-the-hugging-face-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Five Big Improvements to Gradio MCP Servers](../ai/models/five-big-improvements-to-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -180,4 +180,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T22:53:38.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T02:51:54.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

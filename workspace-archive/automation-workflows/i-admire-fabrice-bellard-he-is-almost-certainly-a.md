@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by apitman. Score: 716, Comments: 353.
+Hacker News story by apitman. Score: 825, Comments: 393.
 Original Link: https://twitter.com/ID_AA_Carmack/status/2064095424420487226
 
 ## Use Cases
