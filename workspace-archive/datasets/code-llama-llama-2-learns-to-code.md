@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [code-llama-llama-2-learns-to-code.md](file:///../../ai/models/code-llama-llama-2-learns-to-code.md)
+Path: [code-llama-llama-2-learns-to-code.md](../../ai/models/code-llama-llama-2-learns-to-code.md)

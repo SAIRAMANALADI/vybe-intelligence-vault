@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-generation-inference-on-in
 
 ## Local Vault File
 
-Path: [hugging-face-text-generation-inference-available-f.md](file:///../../ai/models/hugging-face-text-generation-inference-available-f.md)
+Path: [hugging-face-text-generation-inference-available-f.md](../../ai/models/hugging-face-text-generation-inference-available-f.md)

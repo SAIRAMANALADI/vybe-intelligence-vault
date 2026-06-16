@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/photoroom/prx-part2
 
 ## Local Vault File
 
-Path: [training-design-for-text-to-image-models-lessons-f.md](file:///../../ai/models/training-design-for-text-to-image-models-lessons-f.md)
+Path: [training-design-for-text-to-image-models-lessons-f.md](../../ai/models/training-design-for-text-to-image-models-lessons-f.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/polymeilex/vscode-wgsl
 
 ## Local Vault File
 
-Path: [polymeilex-vscode-wgsl.md](file:///../../web-development/webgpu/polymeilex-vscode-wgsl.md)
+Path: [polymeilex-vscode-wgsl.md](../../web-development/webgpu/polymeilex-vscode-wgsl.md)

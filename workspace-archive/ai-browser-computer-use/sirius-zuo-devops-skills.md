@@ -46,4 +46,4 @@ Original source URL: https://github.com/sirius-zuo/devops-skills
 
 ## Local Vault File
 
-Path: [sirius-zuo-devops-skills.md](file:///../../ai/agents/sirius-zuo-devops-skills.md)
+Path: [sirius-zuo-devops-skills.md](../../ai/agents/sirius-zuo-devops-skills.md)

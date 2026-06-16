@@ -48,4 +48,4 @@ Original source URL: https://github.com/pydantic/pydantic-ai
 
 ## Local Vault File
 
-Path: [pydantic-pydantic-ai.md](file:///../../ai/rag/pydantic-pydantic-ai.md)
+Path: [pydantic-pydantic-ai.md](../../ai/rag/pydantic-pydantic-ai.md)

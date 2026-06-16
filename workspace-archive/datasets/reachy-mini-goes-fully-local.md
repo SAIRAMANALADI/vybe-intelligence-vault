@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## Local Vault File
 
-Path: [reachy-mini-goes-fully-local.md](file:///../../ai/models/reachy-mini-goes-fully-local.md)
+Path: [reachy-mini-goes-fully-local.md](../../ai/models/reachy-mini-goes-fully-local.md)

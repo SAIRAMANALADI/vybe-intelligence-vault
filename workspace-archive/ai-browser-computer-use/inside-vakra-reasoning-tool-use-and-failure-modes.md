@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/vakra-benchmark-an
 
 ## Local Vault File
 
-Path: [inside-vakra-reasoning-tool-use-and-failure-modes.md](file:///../../ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md)
+Path: [inside-vakra-reasoning-tool-use-and-failure-modes.md](../../ai/agents/inside-vakra-reasoning-tool-use-and-failure-modes.md)

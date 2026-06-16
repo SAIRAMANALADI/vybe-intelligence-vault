@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving-vision
 
 ## Local Vault File
 
-Path: [deploying-tensorflow-vision-models-in-hugging-face.md](file:///../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)
+Path: [deploying-tensorflow-vision-models-in-hugging-face.md](../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)

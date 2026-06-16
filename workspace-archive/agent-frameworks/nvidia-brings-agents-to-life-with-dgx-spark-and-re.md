@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/nvidia-reachy-mini
 
 ## Local Vault File
 
-Path: [nvidia-brings-agents-to-life-with-dgx-spark-and-re.md](file:///../../ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md)
+Path: [nvidia-brings-agents-to-life-with-dgx-spark-and-re.md](../../ai/agents/nvidia-brings-agents-to-life-with-dgx-spark-and-re.md)

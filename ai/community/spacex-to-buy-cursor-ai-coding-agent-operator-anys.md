@@ -14,13 +14,14 @@ tags:
 - agents
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:spacex-to-buy-cursor-ai-coding-agent-operator-anys
 first_seen: '2026-06-16T17:27:40.306888+05:30'
 last_seen: '2026-06-16T17:27:40.306888+05:30'
 last_checked: '2026-06-16T17:27:40.306888+05:30'
 health_score: 100
 ---
+
 
 # SpaceX to buy Cursor AI coding agent operator Anysphere for $60B
 

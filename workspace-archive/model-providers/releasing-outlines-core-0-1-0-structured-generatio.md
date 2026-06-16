@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/outlines-core
 
 ## Local Vault File
 
-Path: [releasing-outlines-core-0-1-0-structured-generatio.md](file:///../../ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)
+Path: [releasing-outlines-core-0-1-0-structured-generatio.md](../../ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)

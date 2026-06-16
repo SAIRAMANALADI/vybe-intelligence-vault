@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/accelerate-ai-native-industry
 
 ## Local Vault File
 
-Path: [company-emmi-joins-mistral-to-accelerate-the-ai-na.md](file:///../../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)
+Path: [company-emmi-joins-mistral-to-accelerate-the-ai-na.md](../../ai/companies/mistral/company-emmi-joins-mistral-to-accelerate-the-ai-na.md)

@@ -54,4 +54,4 @@ Original source URL: https://importai.substack.com/p/import-ai-454-automating-al
 
 ## Local Vault File
 
-Path: [import-ai-454-automating-alignment-research-safety.md](file:///../../ai/rag/import-ai-454-automating-alignment-research-safety.md)
+Path: [import-ai-454-automating-alignment-research-safety.md](../../ai/rag/import-ai-454-automating-alignment-research-safety.md)

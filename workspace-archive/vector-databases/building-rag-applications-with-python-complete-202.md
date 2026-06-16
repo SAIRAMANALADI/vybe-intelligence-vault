@@ -51,4 +51,4 @@ Original source URL: https://www.askpython.com/python/examples/building-rag-appl
 
 ## Local Vault File
 
-Path: [building-rag-applications-with-python-complete-202.md](file:///../../ai/rag/building-rag-applications-with-python-complete-202.md)
+Path: [building-rag-applications-with-python-complete-202.md](../../ai/rag/building-rag-applications-with-python-complete-202.md)

@@ -46,4 +46,4 @@ Original source URL: https://github.com/itsfaqih/fama
 
 ## Local Vault File
 
-Path: [itsfaqih-fama.md](file:///../../web-development/framer-motion/itsfaqih-fama.md)
+Path: [itsfaqih-fama.md](../../web-development/framer-motion/itsfaqih-fama.md)

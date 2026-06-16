@@ -44,4 +44,4 @@ Original source URL: https://github.com/brendan-duncan/wgsl_reflect
 
 ## Local Vault File
 
-Path: [brendan-duncan-wgsl-reflect.md](file:///../../web-development/webgpu/brendan-duncan-wgsl-reflect.md)
+Path: [brendan-duncan-wgsl-reflect.md](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md)

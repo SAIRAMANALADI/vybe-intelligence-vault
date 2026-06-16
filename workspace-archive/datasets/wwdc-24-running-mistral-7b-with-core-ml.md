@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/mistral-coreml
 
 ## Local Vault File
 
-Path: [wwdc-24-running-mistral-7b-with-core-ml.md](file:///../../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)
+Path: [wwdc-24-running-mistral-7b-with-core-ml.md](../../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-multimodal-sentence-trans
 
 ## Local Vault File
 
-Path: [training-and-finetuning-multimodal-embedding-reran.md](file:///../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)
+Path: [training-and-finetuning-multimodal-embedding-reran.md](../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/image-search-datasets
 
 ## Local Vault File
 
-Path: [image-search-with-datasets.md](file:///../../ai/models/image-search-with-datasets.md)
+Path: [image-search-with-datasets.md](../../ai/models/image-search-with-datasets.md)

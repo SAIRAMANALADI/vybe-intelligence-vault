@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/warm-starting-encoder-decoder
 
 ## Local Vault File
 
-Path: [leveraging-pre-trained-language-model-checkpoints.md](file:///../../ai/rag/leveraging-pre-trained-language-model-checkpoints.md)
+Path: [leveraging-pre-trained-language-model-checkpoints.md](../../ai/rag/leveraging-pre-trained-language-model-checkpoints.md)

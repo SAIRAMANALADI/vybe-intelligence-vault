@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-456-rsi-and-econo
 
 ## Local Vault File
 
-Path: [import-ai-456-rsi-and-economic-growth-radical-opti.md](file:///../../ai/rag/import-ai-456-rsi-and-economic-growth-radical-opti.md)
+Path: [import-ai-456-rsi-and-economic-growth-radical-opti.md](../../ai/rag/import-ai-456-rsi-and-economic-growth-radical-opti.md)

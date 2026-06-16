@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dharma-ai/direct-preference-opt
 
 ## Local Vault File
 
-Path: [direct-preference-optimization-beyond-chatbots.md](file:///../../ai/models/direct-preference-optimization-beyond-chatbots.md)
+Path: [direct-preference-optimization-beyond-chatbots.md](../../ai/models/direct-preference-optimization-beyond-chatbots.md)

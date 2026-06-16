@@ -44,4 +44,4 @@ Original source URL: https://github.com/josdirksen/learning-threejs-third
 
 ## Local Vault File
 
-Path: [josdirksen-learning-threejs-third.md](file:///../../web-development/threejs/josdirksen-learning-threejs-third.md)
+Path: [josdirksen-learning-threejs-third.md](../../web-development/threejs/josdirksen-learning-threejs-third.md)

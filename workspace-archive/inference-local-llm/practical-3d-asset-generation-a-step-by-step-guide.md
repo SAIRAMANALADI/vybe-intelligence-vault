@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/3d-assets
 
 ## Local Vault File
 
-Path: [practical-3d-asset-generation-a-step-by-step-guide.md](file:///../../ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)
+Path: [practical-3d-asset-generation-a-step-by-step-guide.md](../../ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)

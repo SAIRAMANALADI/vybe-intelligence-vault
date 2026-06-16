@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-mac-diffusers
 
 ## Local Vault File
 
-Path: [swift-diffusers-fast-stable-diffusion-for-mac.md](file:///../../ai/models/swift-diffusers-fast-stable-diffusion-for-mac.md)
+Path: [swift-diffusers-fast-stable-diffusion-for-mac.md](../../ai/models/swift-diffusers-fast-stable-diffusion-for-mac.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safetensors-security-audit
 
 ## Local Vault File
 
-Path: [safetensors-audited-as-really-safe-and-becoming-th.md](file:///../../ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)
+Path: [safetensors-audited-as-really-safe-and-becoming-th.md](../../ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)

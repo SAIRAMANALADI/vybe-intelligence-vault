@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smolvla
 
 ## Local Vault File
 
-Path: [smolvla-efficient-vision-language-action-model-tra.md](file:///../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)
+Path: [smolvla-efficient-vision-language-action-model-tra.md](../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)

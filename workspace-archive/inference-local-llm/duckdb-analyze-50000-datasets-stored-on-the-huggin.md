@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hub-duckdb
 
 ## Local Vault File
 
-Path: [duckdb-analyze-50000-datasets-stored-on-the-huggin.md](file:///../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)
+Path: [duckdb-analyze-50000-datasets-stored-on-the-huggin.md](../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)

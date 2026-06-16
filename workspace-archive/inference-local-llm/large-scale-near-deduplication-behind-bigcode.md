@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dedup
 
 ## Local Vault File
 
-Path: [large-scale-near-deduplication-behind-bigcode.md](file:///../../ai/models/large-scale-near-deduplication-behind-bigcode.md)
+Path: [large-scale-near-deduplication-behind-bigcode.md](../../ai/models/large-scale-near-deduplication-behind-bigcode.md)

@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tiny-agents
 
 ## Local Vault File
 
-Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md](file:///../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)
+Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md](../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)

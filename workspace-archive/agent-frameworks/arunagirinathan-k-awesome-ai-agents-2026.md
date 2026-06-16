@@ -47,4 +47,4 @@ Original source URL: https://github.com/ARUNAGIRINATHAN-K/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [arunagirinathan-k-awesome-ai-agents-2026.md](file:///../../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)
+Path: [arunagirinathan-k-awesome-ai-agents-2026.md](../../ai/agents/arunagirinathan-k-awesome-ai-agents-2026.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/trl-peft
 
 ## Local Vault File
 
-Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md](file:///../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)
+Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md](../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)

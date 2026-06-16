@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rearchitecting-uploads-and-down
 
 ## Local Vault File
 
-Path: [rearchitecting-hugging-face-uploads-and-downloads.md](file:///../../ai/models/rearchitecting-hugging-face-uploads-and-downloads.md)
+Path: [rearchitecting-hugging-face-uploads-and-downloads.md](../../ai/models/rearchitecting-hugging-face-uploads-and-downloads.md)

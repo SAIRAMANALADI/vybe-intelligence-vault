@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/security-update-2025-12-11
 
 ## Local Vault File
 
-Path: [next-js-security-update-december-11-2025.md](file:///../../web-development/nextjs/next-js-security-update-december-11-2025.md)
+Path: [next-js-security-update-december-11-2025.md](../../web-development/nextjs/next-js-security-update-december-11-2025.md)

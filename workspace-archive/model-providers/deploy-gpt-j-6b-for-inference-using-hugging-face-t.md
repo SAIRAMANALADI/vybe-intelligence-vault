@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptj-sagemaker
 
 ## Local Vault File
 
-Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-t.md](file:///../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)
+Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-t.md](../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)

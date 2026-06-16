@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/galore
 
 ## Local Vault File
 
-Path: [galore-advancing-large-model-training-on-consumer.md](file:///../../ai/models/galore-advancing-large-model-training-on-consumer.md)
+Path: [galore-advancing-large-model-training-on-consumer.md](../../ai/models/galore-advancing-large-model-training-on-consumer.md)

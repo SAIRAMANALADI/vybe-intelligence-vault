@@ -44,4 +44,4 @@ Original source URL: https://github.com/gnikoloff/webgpu-raytracer
 
 ## Local Vault File
 
-Path: [gnikoloff-webgpu-raytracer.md](file:///../../web-development/webgpu/gnikoloff-webgpu-raytracer.md)
+Path: [gnikoloff-webgpu-raytracer.md](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md)

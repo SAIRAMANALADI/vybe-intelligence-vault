@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-4-1
 
 ## Local Vault File
 
-Path: [granite-4-1-llms-how-theyre-built.md](file:///../../ai/models/granite-4-1-llms-how-theyre-built.md)
+Path: [granite-4-1-llms-how-theyre-built.md](../../ai/models/granite-4-1-llms-how-theyre-built.md)

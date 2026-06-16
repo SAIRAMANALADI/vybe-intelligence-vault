@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/japanese-stable-diffusion
 
 ## Local Vault File
 
-Path: [japanese-stable-diffusion.md](file:///../../ai/models/japanese-stable-diffusion.md)
+Path: [japanese-stable-diffusion.md](../../ai/models/japanese-stable-diffusion.md)

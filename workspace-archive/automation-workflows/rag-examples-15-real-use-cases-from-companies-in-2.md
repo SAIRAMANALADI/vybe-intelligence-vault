@@ -53,4 +53,4 @@ Original source URL: https://www.startdesigns.com/blog/rag-examples
 
 ## Local Vault File
 
-Path: [rag-examples-15-real-use-cases-from-companies-in-2.md](file:///../../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
+Path: [rag-examples-15-real-use-cases-from-companies-in-2.md](../../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)

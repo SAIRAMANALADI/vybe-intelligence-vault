@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/writer/announcing-palmyra-mini
 
 ## Local Vault File
 
-Path: [introducing-the-palmyra-mini-family-powerful-light.md](file:///../../ai/models/introducing-the-palmyra-mini-family-powerful-light.md)
+Path: [introducing-the-palmyra-mini-family-powerful-light.md](../../ai/models/introducing-the-palmyra-mini-family-powerful-light.md)

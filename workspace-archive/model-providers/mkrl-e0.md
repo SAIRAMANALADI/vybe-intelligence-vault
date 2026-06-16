@@ -48,4 +48,4 @@ Original source URL: https://github.com/mkrl/e0
 
 ## Local Vault File
 
-Path: [mkrl-e0.md](file:///../../ai/agents/mkrl-e0.md)
+Path: [mkrl-e0.md](../../ai/agents/mkrl-e0.md)

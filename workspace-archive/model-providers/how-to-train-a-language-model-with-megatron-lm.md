@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/megatron-training
 
 ## Local Vault File
 
-Path: [how-to-train-a-language-model-with-megatron-lm.md](file:///../../ai/models/how-to-train-a-language-model-with-megatron-lm.md)
+Path: [how-to-train-a-language-model-with-megatron-lm.md](../../ai/models/how-to-train-a-language-model-with-megatron-lm.md)

@@ -49,4 +49,4 @@ Original source URL: https://github.com/curiousily/AI-Bootcamp
 
 ## Local Vault File
 
-Path: [curiousily-ai-bootcamp.md](file:///../../ai/rag/curiousily-ai-bootcamp.md)
+Path: [curiousily-ai-bootcamp.md](../../ai/rag/curiousily-ai-bootcamp.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-featherless
 
 ## Local Vault File
 
-Path: [featherless-ai-on-hugging-face-inference-providers.md](file:///../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)
+Path: [featherless-ai-on-hugging-face-inference-providers.md](../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: [inference-for-pros.md](file:///../../ai/models/inference-for-pros.md)
+Path: [inference-for-pros.md](../../ai/models/inference-for-pros.md)

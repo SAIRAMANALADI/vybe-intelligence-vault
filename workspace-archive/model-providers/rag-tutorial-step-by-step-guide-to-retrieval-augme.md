@@ -51,4 +51,4 @@ Original source URL: https://superml.org/tutorials/rag-beginner
 
 ## Local Vault File
 
-Path: [rag-tutorial-step-by-step-guide-to-retrieval-augme.md](file:///../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)
+Path: [rag-tutorial-step-by-step-guide-to-retrieval-augme.md](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/pytorch-ddp-accelerate-transfor
 
 ## Local Vault File
 
-Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery.md](file:///../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)
+Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery.md](../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)

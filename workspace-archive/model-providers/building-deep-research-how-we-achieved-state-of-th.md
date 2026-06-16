@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tavily/tavily-deep-research
 
 ## Local Vault File
 
-Path: [building-deep-research-how-we-achieved-state-of-th.md](file:///../../ai/models/building-deep-research-how-we-achieved-state-of-th.md)
+Path: [building-deep-research-how-we-achieved-state-of-th.md](../../ai/models/building-deep-research-how-we-achieved-state-of-th.md)

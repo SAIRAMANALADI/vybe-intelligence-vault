@@ -44,4 +44,4 @@ Original source URL: https://github.com/chenjsh36/threejsforfun
 
 ## Local Vault File
 
-Path: [chenjsh36-threejsforfun.md](file:///../../web-development/threejs/chenjsh36-threejsforfun.md)
+Path: [chenjsh36-threejsforfun.md](../../web-development/threejs/chenjsh36-threejsforfun.md)

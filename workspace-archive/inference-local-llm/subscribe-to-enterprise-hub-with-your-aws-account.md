@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 
 ## Local Vault File
 
-Path: [subscribe-to-enterprise-hub-with-your-aws-account.md](file:///../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)
+Path: [subscribe-to-enterprise-hub-with-your-aws-account.md](../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)

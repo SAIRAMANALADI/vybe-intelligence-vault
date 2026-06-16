@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-publicai
 
 ## Local Vault File
 
-Path: [public-ai-on-hugging-face-inference-providers.md](file:///../../ai/models/public-ai-on-hugging-face-inference-providers.md)
+Path: [public-ai-on-hugging-face-inference-providers.md](../../ai/models/public-ai-on-hugging-face-inference-providers.md)

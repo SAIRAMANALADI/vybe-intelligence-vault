@@ -47,4 +47,4 @@ Original source URL: https://github.com/WagnerAgent/awesome-mcp-servers-devops
 
 ## Local Vault File
 
-Path: [wagneragent-awesome-mcp-servers-devops.md](file:///../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
+Path: [wagneragent-awesome-mcp-servers-devops.md](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)

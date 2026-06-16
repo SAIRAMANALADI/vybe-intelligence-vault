@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/constitutional_ai
 
 ## Local Vault File
 
-Path: [constitutional-ai-with-open-llms.md](file:///../../ai/models/constitutional-ai-with-open-llms.md)
+Path: [constitutional-ai-with-open-llms.md](../../ai/models/constitutional-ai-with-open-llms.md)

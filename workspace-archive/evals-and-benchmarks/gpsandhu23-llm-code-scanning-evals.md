@@ -45,4 +45,4 @@ Original source URL: https://github.com/gpsandhu23/LLM_code_scanning_evals
 
 ## Local Vault File
 
-Path: [gpsandhu23-llm-code-scanning-evals.md](file:///../../ai/resources/gpsandhu23-llm-code-scanning-evals.md)
+Path: [gpsandhu23-llm-code-scanning-evals.md](../../ai/resources/gpsandhu23-llm-code-scanning-evals.md)

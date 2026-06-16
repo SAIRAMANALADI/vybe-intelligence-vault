@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsung-heroes
 
 ## Local Vault File
 
-Path: [the-5-most-under-rated-tools-on-hugging-face.md](file:///../../ai/models/the-5-most-under-rated-tools-on-hugging-face.md)
+Path: [the-5-most-under-rated-tools-on-hugging-face.md](../../ai/models/the-5-most-under-rated-tools-on-hugging-face.md)

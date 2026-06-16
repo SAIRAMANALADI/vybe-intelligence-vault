@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ovhcloud/inference-providers-ov
 
 ## Local Vault File
 
-Path: [ovhcloud-on-hugging-face-inference-providers.md](file:///../../ai/models/ovhcloud-on-hugging-face-inference-providers.md)
+Path: [ovhcloud-on-hugging-face-inference-providers.md](../../ai/models/ovhcloud-on-hugging-face-inference-providers.md)

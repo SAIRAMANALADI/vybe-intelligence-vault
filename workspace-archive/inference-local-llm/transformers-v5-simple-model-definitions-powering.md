@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-v5
 
 ## Local Vault File
 
-Path: [transformers-v5-simple-model-definitions-powering.md](file:///../../ai/models/transformers-v5-simple-model-definitions-powering.md)
+Path: [transformers-v5-simple-model-definitions-powering.md](../../ai/models/transformers-v5-simple-model-definitions-powering.md)

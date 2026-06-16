@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/1_58_llm_extreme_quantization
 
 ## Local Vault File
 
-Path: [fine-tuning-llms-to-1-58bit-extreme-quantization-m.md](file:///../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)
+Path: [fine-tuning-llms-to-1-58bit-extreme-quantization-m.md](../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite
 
 ## Local Vault File
 
-Path: [huggingface-blog-ibm-granite.md](file:///../../ai/rag/huggingface-blog-ibm-granite.md)
+Path: [huggingface-blog-ibm-granite.md](../../ai/rag/huggingface-blog-ibm-granite.md)

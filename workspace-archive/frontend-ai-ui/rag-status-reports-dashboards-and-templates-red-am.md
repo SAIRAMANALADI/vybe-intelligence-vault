@@ -46,4 +46,4 @@ Original source URL: https://business-docs.co.uk/downloads/category/rag
 
 ## Local Vault File
 
-Path: [rag-status-reports-dashboards-and-templates-red-am.md](file:///../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)
+Path: [rag-status-reports-dashboards-and-templates-red-am.md](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-v1
 
 ## Local Vault File
 
-Path: [accelerate-1-0-0.md](file:///../../ai/models/accelerate-1-0-0.md)
+Path: [accelerate-1-0-0.md](../../ai/models/accelerate-1-0-0.md)

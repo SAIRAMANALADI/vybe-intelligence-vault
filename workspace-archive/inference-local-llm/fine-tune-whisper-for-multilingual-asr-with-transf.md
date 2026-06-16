@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-whisper
 
 ## Local Vault File
 
-Path: [fine-tune-whisper-for-multilingual-asr-with-transf.md](file:///../../ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)
+Path: [fine-tune-whisper-for-multilingual-asr-with-transf.md](../../ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)

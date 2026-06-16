@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tokenizers
 
 ## Local Vault File
 
-Path: [tokenization-in-transformers-v5-simpler-clearer-an.md](file:///../../ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)
+Path: [tokenization-in-transformers-v5-simpler-clearer-an.md](../../ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)

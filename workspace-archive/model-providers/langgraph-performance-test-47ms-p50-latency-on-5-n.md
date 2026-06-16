@@ -53,4 +53,4 @@ Original source URL: https://markaicode.com/benchmarks/langgraph-benchmark
 
 ## Local Vault File
 
-Path: [langgraph-performance-test-47ms-p50-latency-on-5-n.md](file:///../../ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-n.md)
+Path: [langgraph-performance-test-47ms-p50-latency-on-5-n.md](../../ai/rag/langgraph-performance-test-47ms-p50-latency-on-5-n.md)

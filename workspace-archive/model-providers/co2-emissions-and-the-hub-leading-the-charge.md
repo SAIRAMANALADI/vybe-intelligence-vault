@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/carbon-emissions-on-the-hub
 
 ## Local Vault File
 
-Path: [co2-emissions-and-the-hub-leading-the-charge.md](file:///../../ai/models/co2-emissions-and-the-hub-leading-the-charge.md)
+Path: [co2-emissions-and-the-hub-leading-the-charge.md](../../ai/models/co2-emissions-and-the-hub-leading-the-charge.md)

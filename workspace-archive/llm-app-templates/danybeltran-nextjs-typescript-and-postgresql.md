@@ -42,4 +42,4 @@ Original source URL: https://github.com/danybeltran/nextjs-typescript-and-postgr
 
 ## Local Vault File
 
-Path: [danybeltran-nextjs-typescript-and-postgresql.md](file:///../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md)
+Path: [danybeltran-nextjs-typescript-and-postgresql.md](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fhe-endpoints
 
 ## Local Vault File
 
-Path: [running-privacy-preserving-inferences-on-hugging-f.md](file:///../../ai/models/running-privacy-preserving-inferences-on-hugging-f.md)
+Path: [running-privacy-preserving-inferences-on-hugging-f.md](../../ai/models/running-privacy-preserving-inferences-on-hugging-f.md)

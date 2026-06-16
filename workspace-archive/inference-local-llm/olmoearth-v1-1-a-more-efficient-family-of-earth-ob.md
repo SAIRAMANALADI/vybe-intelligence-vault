@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/allenai/olmoearth-v1-1
 
 ## Local Vault File
 
-Path: [olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md](file:///../../ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)
+Path: [olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md](../../ai/models/olmoearth-v1-1-a-more-efficient-family-of-earth-ob.md)

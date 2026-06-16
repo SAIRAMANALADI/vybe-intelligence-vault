@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/search-toolkit
 
 ## Local Vault File
 
-Path: [introducing-search-toolkit.md](file:///../../ai/companies/mistral/introducing-search-toolkit.md)
+Path: [introducing-search-toolkit.md](../../ai/companies/mistral/introducing-search-toolkit.md)

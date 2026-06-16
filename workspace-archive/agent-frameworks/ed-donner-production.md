@@ -45,4 +45,4 @@ Original source URL: https://github.com/ed-donner/production
 
 ## Local Vault File
 
-Path: [ed-donner-production.md](file:///../../ai/agents/ed-donner-production.md)
+Path: [ed-donner-production.md](../../ai/agents/ed-donner-production.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/triplex
 
 ## Local Vault File
 
-Path: [pmndrs-triplex.md](file:///../../web-development/react-three-fiber/pmndrs-triplex.md)
+Path: [pmndrs-triplex.md](../../web-development/react-three-fiber/pmndrs-triplex.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/bloom-megatron-deepspeed
 
 ## Local Vault File
 
-Path: [the-technology-behind-bloom-training.md](file:///../../ai/models/the-technology-behind-bloom-training.md)
+Path: [the-technology-behind-bloom-training.md](../../ai/models/the-technology-behind-bloom-training.md)

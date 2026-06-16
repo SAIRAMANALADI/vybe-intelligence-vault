@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/livebook-app-deployment
 
 ## Local Vault File
 
-Path: [deploy-livebook-notebooks-as-apps-to-hugging-face.md](file:///../../ai/models/deploy-livebook-notebooks-as-apps-to-hugging-face.md)
+Path: [deploy-livebook-notebooks-as-apps-to-hugging-face.md](../../ai/models/deploy-livebook-notebooks-as-apps-to-hugging-face.md)

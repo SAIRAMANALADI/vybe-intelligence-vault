@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-w2v2-bert
 
 ## Local Vault File
 
-Path: [fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md](file:///../../ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)
+Path: [fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md](../../ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)

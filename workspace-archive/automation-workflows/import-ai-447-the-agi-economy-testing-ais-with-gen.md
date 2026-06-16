@@ -54,4 +54,4 @@ Original source URL: https://importai.substack.com/p/import-ai-447-the-agi-econo
 
 ## Local Vault File
 
-Path: [import-ai-447-the-agi-economy-testing-ais-with-gen.md](file:///../../ai/rag/import-ai-447-the-agi-economy-testing-ais-with-gen.md)
+Path: [import-ai-447-the-agi-economy-testing-ais-with-gen.md](../../ai/rag/import-ai-447-the-agi-economy-testing-ais-with-gen.md)

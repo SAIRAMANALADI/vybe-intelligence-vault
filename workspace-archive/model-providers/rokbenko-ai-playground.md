@@ -53,4 +53,4 @@ Original source URL: https://github.com/rokbenko/ai-playground
 
 ## Local Vault File
 
-Path: [rokbenko-ai-playground.md](file:///../../ai/rag/rokbenko-ai-playground.md)
+Path: [rokbenko-ai-playground.md](../../ai/rag/rokbenko-ai-playground.md)

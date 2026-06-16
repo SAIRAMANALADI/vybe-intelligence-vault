@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino-vlm
 
 ## Local Vault File
 
-Path: [get-your-vlm-running-in-3-simple-steps-on-intel-cp.md](file:///../../ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)
+Path: [get-your-vlm-running-in-3-simple-steps-on-intel-cp.md](../../ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)

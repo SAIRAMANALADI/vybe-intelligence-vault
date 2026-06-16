@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bsc-lt/visualsalamandra7b
 
 ## Local Vault File
 
-Path: [visual-salamandra-pushing-the-boundaries-of-multim.md](file:///../../ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md)
+Path: [visual-salamandra-pushing-the-boundaries-of-multim.md](../../ai/models/visual-salamandra-pushing-the-boundaries-of-multim.md)

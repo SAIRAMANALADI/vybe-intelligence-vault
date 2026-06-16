@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zero-deepspeed-fairscale
 
 ## Local Vault File
 
-Path: [fit-more-and-train-faster-with-zero-via-deepspeed.md](file:///../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)
+Path: [fit-more-and-train-faster-with-zero-via-deepspeed.md](../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)

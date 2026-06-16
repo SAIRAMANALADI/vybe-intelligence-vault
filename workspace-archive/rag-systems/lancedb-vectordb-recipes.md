@@ -50,4 +50,4 @@ Original source URL: https://github.com/lancedb/vectordb-recipes
 
 ## Local Vault File
 
-Path: [lancedb-vectordb-recipes.md](file:///../../ai/rag/lancedb-vectordb-recipes.md)
+Path: [lancedb-vectordb-recipes.md](../../ai/rag/lancedb-vectordb-recipes.md)

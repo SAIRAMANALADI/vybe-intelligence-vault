@@ -52,4 +52,4 @@ Original source URL: https://www.mhtechin.com/support/orchestration-frameworks-f
 
 ## Local Vault File
 
-Path: [orchestration-frameworks-for-agentic-ai-langchain.md](file:///../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
+Path: [orchestration-frameworks-for-agentic-ai-langchain.md](../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)

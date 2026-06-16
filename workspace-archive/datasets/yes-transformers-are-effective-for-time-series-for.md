@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autoformer
 
 ## Local Vault File
 
-Path: [yes-transformers-are-effective-for-time-series-for.md](file:///../../ai/models/yes-transformers-are-effective-for-time-series-for.md)
+Path: [yes-transformers-are-effective-for-time-series-for.md](../../ai/models/yes-transformers-are-effective-for-time-series-for.md)

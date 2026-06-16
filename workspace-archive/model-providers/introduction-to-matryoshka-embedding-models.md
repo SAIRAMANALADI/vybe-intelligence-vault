@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/matryoshka
 
 ## Local Vault File
 
-Path: [introduction-to-matryoshka-embedding-models.md](file:///../../ai/models/introduction-to-matryoshka-embedding-models.md)
+Path: [introduction-to-matryoshka-embedding-models.md](../../ai/models/introduction-to-matryoshka-embedding-models.md)

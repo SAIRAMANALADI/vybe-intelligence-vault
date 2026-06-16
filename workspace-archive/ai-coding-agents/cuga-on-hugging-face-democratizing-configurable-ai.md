@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/cuga-on-hugging-fa
 
 ## Local Vault File
 
-Path: [cuga-on-hugging-face-democratizing-configurable-ai.md](file:///../../ai/agents/cuga-on-hugging-face-democratizing-configurable-ai.md)
+Path: [cuga-on-hugging-face-democratizing-configurable-ai.md](../../ai/agents/cuga-on-hugging-face-democratizing-configurable-ai.md)

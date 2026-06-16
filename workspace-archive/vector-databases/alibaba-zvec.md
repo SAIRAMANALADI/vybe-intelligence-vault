@@ -46,4 +46,4 @@ Original source URL: https://github.com/alibaba/zvec
 
 ## Local Vault File
 
-Path: [alibaba-zvec.md](file:///../../ai/rag/alibaba-zvec.md)
+Path: [alibaba-zvec.md](../../ai/rag/alibaba-zvec.md)

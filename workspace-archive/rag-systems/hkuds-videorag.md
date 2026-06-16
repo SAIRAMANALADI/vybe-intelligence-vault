@@ -47,4 +47,4 @@ Original source URL: https://github.com/HKUDS/VideoRAG
 
 ## Local Vault File
 
-Path: [hkuds-videorag.md](file:///../../ai/rag/hkuds-videorag.md)
+Path: [hkuds-videorag.md](../../ai/rag/hkuds-videorag.md)

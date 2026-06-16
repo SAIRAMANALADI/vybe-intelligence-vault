@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-nphardeval
 
 ## Local Vault File
 
-Path: [nphardeval-leaderboard-unveiling-the-reasoning-abi.md](file:///../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)
+Path: [nphardeval-leaderboard-unveiling-the-reasoning-abi.md](../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)

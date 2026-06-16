@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/gr00t-n1-5-so101-tuning
 
 ## Local Vault File
 
-Path: [post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md](file:///../../ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md)
+Path: [post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md](../../ai/models/post-training-isaac-gr00t-n1-5-for-lerobot-so-101.md)

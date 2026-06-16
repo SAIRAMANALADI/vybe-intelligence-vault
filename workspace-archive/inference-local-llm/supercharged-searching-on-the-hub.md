@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/searching-the-hub
 
 ## Local Vault File
 
-Path: [supercharged-searching-on-the-hub.md](file:///../../ai/models/supercharged-searching-on-the-hub.md)
+Path: [supercharged-searching-on-the-hub.md](../../ai/models/supercharged-searching-on-the-hub.md)

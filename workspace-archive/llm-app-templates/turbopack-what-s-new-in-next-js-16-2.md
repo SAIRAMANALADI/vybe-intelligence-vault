@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/next-16-2-turbopack
 
 ## Local Vault File
 
-Path: [turbopack-what-s-new-in-next-js-16-2.md](file:///../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)
+Path: [turbopack-what-s-new-in-next-js-16-2.md](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md)

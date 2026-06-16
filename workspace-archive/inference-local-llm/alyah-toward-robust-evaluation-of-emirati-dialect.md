@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/emirati-benchmarks
 
 ## Local Vault File
 
-Path: [alyah-toward-robust-evaluation-of-emirati-dialect.md](file:///../../ai/models/alyah-toward-robust-evaluation-of-emirati-dialect.md)
+Path: [alyah-toward-robust-evaluation-of-emirati-dialect.md](../../ai/models/alyah-toward-robust-evaluation-of-emirati-dialect.md)

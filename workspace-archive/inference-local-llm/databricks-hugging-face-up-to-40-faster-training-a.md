@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/databricks-case-study
 
 ## Local Vault File
 
-Path: [databricks-hugging-face-up-to-40-faster-training-a.md](file:///../../ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)
+Path: [databricks-hugging-face-up-to-40-faster-training-a.md](../../ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)

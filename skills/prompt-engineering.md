@@ -18,19 +18,24 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 109 resources matched in the intelligence vault.
+Active signals: 110 resources matched in the intelligence vault.
 Recently detected signals:
+- [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Import AI 444: LLM societies; Huawei makes kernels with AI; ChipBench](../ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment](../ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md) (Source: Unknown Source) - Collected 2026-06-16
-- [K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model](../ai/rag/arxiv-2509-25594.md) (Source: Unknown Source) - Collected 2026-06-16
-- [The Illusion of Multi-Agent Advantage](../ai/agents/arxiv-2606-13003.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](../ai/agents/arxiv-2603-15952.md) (Source: Unknown Source) - Collected 2026-06-16
+- [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models](../ai/research/arxiv-2606-15751.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
+### 1. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+- Stars: 0
+- Language: Unknown
+- Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
+
+### 2. [jaypanchal18/production-ai-agents-and-llm-platform](../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md) ([GitHub](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform))
 - Stars: 0
 - Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
@@ -55,4 +60,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T17:33:07.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

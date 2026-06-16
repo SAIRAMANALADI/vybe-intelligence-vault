@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starchat-alpha
 
 ## Local Vault File
 
-Path: [creating-a-coding-assistant-with-starcoder.md](file:///../../ai/models/creating-a-coding-assistant-with-starcoder.md)
+Path: [creating-a-coding-assistant-with-starcoder.md](../../ai/models/creating-a-coding-assistant-with-starcoder.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/accelerating-pytorch
 
 ## Local Vault File
 
-Path: [accelerating-pytorch-distributed-fine-tuning-with.md](file:///../../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)
+Path: [accelerating-pytorch-distributed-fine-tuning-with.md](../../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 ## Local Vault File
 
-Path: [making-llms-even-more-accessible-with-bitsandbytes.md](file:///../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)
+Path: [making-llms-even-more-accessible-with-bitsandbytes.md](../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)

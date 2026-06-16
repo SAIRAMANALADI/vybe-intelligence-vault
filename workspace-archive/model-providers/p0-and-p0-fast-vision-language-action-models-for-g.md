@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pi0
 
 ## Local Vault File
 
-Path: [p0-and-p0-fast-vision-language-action-models-for-g.md](file:///../../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)
+Path: [p0-and-p0-fast-vision-language-action-models-for-g.md](../../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)

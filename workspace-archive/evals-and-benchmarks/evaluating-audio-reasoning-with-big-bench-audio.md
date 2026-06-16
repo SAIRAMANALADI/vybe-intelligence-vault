@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/big-bench-audio-release
 
 ## Local Vault File
 
-Path: [evaluating-audio-reasoning-with-big-bench-audio.md](file:///../../ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)
+Path: [evaluating-audio-reasoning-with-big-bench-audio.md](../../ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/eva
 
 ## Local Vault File
 
-Path: [a-new-framework-for-evaluating-voice-agents-eva.md](file:///../../ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md)
+Path: [a-new-framework-for-evaluating-voice-agents-eva.md](../../ai/agents/a-new-framework-for-evaluating-voice-agents-eva.md)

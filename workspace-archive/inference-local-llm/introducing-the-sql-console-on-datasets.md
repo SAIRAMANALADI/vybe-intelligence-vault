@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sql-console
 
 ## Local Vault File
 
-Path: [introducing-the-sql-console-on-datasets.md](file:///../../ai/models/introducing-the-sql-console-on-datasets.md)
+Path: [introducing-the-sql-console-on-datasets.md](../../ai/models/introducing-the-sql-console-on-datasets.md)

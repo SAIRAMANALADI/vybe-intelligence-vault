@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/dialog-agents
 
 ## Local Vault File
 
-Path: [what-makes-a-dialog-agent-useful.md](file:///../../ai/agents/what-makes-a-dialog-agent-useful.md)
+Path: [what-makes-a-dialog-agent-useful.md](../../ai/agents/what-makes-a-dialog-agent-useful.md)

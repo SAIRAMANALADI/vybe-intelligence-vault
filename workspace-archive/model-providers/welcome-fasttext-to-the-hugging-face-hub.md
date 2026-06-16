@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fasttext
 
 ## Local Vault File
 
-Path: [welcome-fasttext-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)
+Path: [welcome-fasttext-to-the-hugging-face-hub.md](../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)

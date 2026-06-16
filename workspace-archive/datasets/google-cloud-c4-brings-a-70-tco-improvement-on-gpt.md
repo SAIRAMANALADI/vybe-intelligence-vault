@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/gpt-oss-on-intel-xeon
 
 ## Local Vault File
 
-Path: [google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md](file:///../../ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md)
+Path: [google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md](../../ai/models/google-cloud-c4-brings-a-70-tco-improvement-on-gpt.md)

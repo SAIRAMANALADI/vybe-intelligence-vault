@@ -50,4 +50,4 @@ Original source URL: https://www.aimadetools.com/blog/openai-agents-sdk-setup-gu
 
 ## Local Vault File
 
-Path: [openai-agents-sdk-complete-setup-guide-2026.md](file:///../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
+Path: [openai-agents-sdk-complete-setup-guide-2026.md](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)

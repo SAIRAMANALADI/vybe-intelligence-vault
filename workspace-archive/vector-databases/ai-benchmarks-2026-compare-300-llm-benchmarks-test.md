@@ -51,4 +51,4 @@ Original source URL: https://llm-stats.com/benchmarks
 
 ## Local Vault File
 
-Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-test.md](file:///../../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
+Path: [ai-benchmarks-2026-compare-300-llm-benchmarks-test.md](../../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)

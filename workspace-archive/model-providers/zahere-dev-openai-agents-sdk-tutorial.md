@@ -47,4 +47,4 @@ Original source URL: https://github.com/zahere-dev/openai-agents-sdk-tutorial
 
 ## Local Vault File
 
-Path: [zahere-dev-openai-agents-sdk-tutorial.md](file:///../../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
+Path: [zahere-dev-openai-agents-sdk-tutorial.md](../../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware.md](file:///../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)
+Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware.md](../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)

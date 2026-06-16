@@ -53,4 +53,4 @@ Original source URL: https://docs.crewai.com/en/guides/agents/crafting-effective
 
 ## Local Vault File
 
-Path: [crafting-effective-agents-crewai.md](file:///../../ai/rag/crafting-effective-agents-crewai.md)
+Path: [crafting-effective-agents-crewai.md](../../ai/rag/crafting-effective-agents-crewai.md)

@@ -47,4 +47,4 @@ Original source URL: https://github.com/didilili/ai-agents-from-zero
 
 ## Local Vault File
 
-Path: [didilili-ai-agents-from-zero.md](file:///../../ai/rag/didilili-ai-agents-from-zero.md)
+Path: [didilili-ai-agents-from-zero.md](../../ai/rag/didilili-ai-agents-from-zero.md)

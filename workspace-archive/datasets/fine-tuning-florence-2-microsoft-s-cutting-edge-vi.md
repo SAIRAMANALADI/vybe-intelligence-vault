@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/finetune-florence2
 
 ## Local Vault File
 
-Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md](file:///../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)
+Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md](../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)

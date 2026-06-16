@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/synthid-text
 
 ## Local Vault File
 
-Path: [introducing-synthid-text.md](file:///../../ai/models/introducing-synthid-text.md)
+Path: [introducing-synthid-text.md](../../ai/models/introducing-synthid-text.md)

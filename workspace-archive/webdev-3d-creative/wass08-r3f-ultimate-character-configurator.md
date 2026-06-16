@@ -45,4 +45,4 @@ Original source URL: https://github.com/wass08/r3f-ultimate-character-configurat
 
 ## Local Vault File
 
-Path: [wass08-r3f-ultimate-character-configurator.md](file:///../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md)
+Path: [wass08-r3f-ultimate-character-configurator.md](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md)

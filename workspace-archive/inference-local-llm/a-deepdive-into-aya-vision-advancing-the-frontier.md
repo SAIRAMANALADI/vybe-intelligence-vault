@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-vision
 
 ## Local Vault File
 
-Path: [a-deepdive-into-aya-vision-advancing-the-frontier.md](file:///../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)
+Path: [a-deepdive-into-aya-vision-advancing-the-frontier.md](../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)

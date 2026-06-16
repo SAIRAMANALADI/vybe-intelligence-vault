@@ -44,4 +44,4 @@ Original source URL: https://github.com/ykob/sketch-threejs
 
 ## Local Vault File
 
-Path: [ykob-sketch-threejs.md](file:///../../web-development/threejs/ykob-sketch-threejs.md)
+Path: [ykob-sketch-threejs.md](../../web-development/threejs/ykob-sketch-threejs.md)

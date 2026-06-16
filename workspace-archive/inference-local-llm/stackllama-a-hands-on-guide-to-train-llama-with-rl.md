@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/stackllama
 
 ## Local Vault File
 
-Path: [stackllama-a-hands-on-guide-to-train-llama-with-rl.md](file:///../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)
+Path: [stackllama-a-hands-on-guide-to-train-llama-with-rl.md](../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)

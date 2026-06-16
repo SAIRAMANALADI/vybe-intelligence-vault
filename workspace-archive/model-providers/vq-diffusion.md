@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vq-diffusion
 
 ## Local Vault File
 
-Path: [vq-diffusion.md](file:///../../ai/models/vq-diffusion.md)
+Path: [vq-diffusion.md](../../ai/models/vq-diffusion.md)

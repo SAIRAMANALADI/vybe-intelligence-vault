@@ -4,8 +4,8 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/wgsl-analyzer/wgsl-analyzer
-collected_at: '2026-06-15T16:20:25.621163+00:00'
-published_at: '2026-06-13T00:22:31Z'
+collected_at: '2026-06-16T19:32:37.463215+05:30'
+published_at: '2026-06-16T13:07:47Z'
 tags:
 - reddit
 - threejs
@@ -14,8 +14,8 @@ language: Rust
 status: active
 resource_id: github:wgsl-analyzer/wgsl-analyzer
 first_seen: '2026-06-15T16:20:25.621163+00:00'
-last_seen: '2026-06-15T16:20:25.621163+00:00'
-last_checked: '2026-06-15T16:20:25.621163+00:00'
+last_seen: '2026-06-16T19:32:37.463215+05:30'
+last_checked: '2026-06-16T19:32:37.463215+05:30'
 health_score: 100
 ---
 
@@ -36,7 +36,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 88
 - Language: Rust
 - Topics: None
-- Last Updated: 2026-06-13T00:22:31Z
+- Last Updated: 2026-06-16T13:07:47Z
 
 ## Possible Use Cases
 

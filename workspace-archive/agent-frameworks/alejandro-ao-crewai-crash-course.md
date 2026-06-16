@@ -46,4 +46,4 @@ Original source URL: https://github.com/alejandro-ao/crewai-crash-course
 
 ## Local Vault File
 
-Path: [alejandro-ao-crewai-crash-course.md](file:///../../ai/agents/alejandro-ao-crewai-crash-course.md)
+Path: [alejandro-ao-crewai-crash-course.md](../../ai/agents/alejandro-ao-crewai-crash-course.md)

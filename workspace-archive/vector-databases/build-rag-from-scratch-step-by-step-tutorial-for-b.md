@@ -46,4 +46,4 @@ Original source URL: https://buildrag.com/tutorials/build-your-first-rag/build-r
 
 ## Local Vault File
 
-Path: [build-rag-from-scratch-step-by-step-tutorial-for-b.md](file:///../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md)
+Path: [build-rag-from-scratch-step-by-step-tutorial-for-b.md](../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md)

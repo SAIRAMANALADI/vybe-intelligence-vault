@@ -46,4 +46,4 @@ Original source URL: https://github.com/FuzzingLabs/mcp-security-hub
 
 ## Local Vault File
 
-Path: [fuzzinglabs-mcp-security-hub.md](file:///../../ai/resources/fuzzinglabs-mcp-security-hub.md)
+Path: [fuzzinglabs-mcp-security-hub.md](../../ai/resources/fuzzinglabs-mcp-security-hub.md)

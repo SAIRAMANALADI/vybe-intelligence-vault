@@ -45,4 +45,4 @@ Original source URL: https://datawhalechina.github.io/all-in-rag
 
 ## Local Vault File
 
-Path: [all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md](file:///../../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md)
+Path: [all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md](../../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/razzant/ouroboros
 
 ## Local Vault File
 
-Path: [razzant-ouroboros.md](file:///../../ai/agents/razzant-ouroboros.md)
+Path: [razzant-ouroboros.md](../../ai/agents/razzant-ouroboros.md)

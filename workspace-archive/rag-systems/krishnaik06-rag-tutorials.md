@@ -47,4 +47,4 @@ Original source URL: https://github.com/krishnaik06/RAG-Tutorials
 
 ## Local Vault File
 
-Path: [krishnaik06-rag-tutorials.md](file:///../../ai/rag/krishnaik06-rag-tutorials.md)
+Path: [krishnaik06-rag-tutorials.md](../../ai/rag/krishnaik06-rag-tutorials.md)

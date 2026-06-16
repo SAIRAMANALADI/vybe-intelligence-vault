@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-python
 
 ## Local Vault File
 
-Path: [getting-started-with-sentiment-analysis-using-pyth.md](file:///../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)
+Path: [getting-started-with-sentiment-analysis-using-pyth.md](../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)

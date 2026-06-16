@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/overview-quantization-transform
 
 ## Local Vault File
 
-Path: [overview-of-natively-supported-quantization-scheme.md](file:///../../ai/models/overview-of-natively-supported-quantization-scheme.md)
+Path: [overview-of-natively-supported-quantization-scheme.md](../../ai/models/overview-of-natively-supported-quantization-scheme.md)

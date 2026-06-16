@@ -49,4 +49,4 @@ Original source URL: https://github.com/yonatangross/orchestkit
 
 ## Local Vault File
 
-Path: [yonatangross-orchestkit.md](file:///../../ai/rag/yonatangross-orchestkit.md)
+Path: [yonatangross-orchestkit.md](../../ai/rag/yonatangross-orchestkit.md)

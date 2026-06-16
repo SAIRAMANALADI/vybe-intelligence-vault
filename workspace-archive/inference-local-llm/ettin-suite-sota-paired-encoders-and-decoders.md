@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin
 
 ## Local Vault File
 
-Path: [ettin-suite-sota-paired-encoders-and-decoders.md](file:///../../ai/models/ettin-suite-sota-paired-encoders-and-decoders.md)
+Path: [ettin-suite-sota-paired-encoders-and-decoders.md](../../ai/models/ettin-suite-sota-paired-encoders-and-decoders.md)

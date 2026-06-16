@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-preferences
 
 ## Local Vault File
 
-Path: [open-preference-dataset-for-text-to-image-generati.md](file:///../../ai/models/open-preference-dataset-for-text-to-image-generati.md)
+Path: [open-preference-dataset-for-text-to-image-generati.md](../../ai/models/open-preference-dataset-for-text-to-image-generati.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [cyberseceval-2-a-comprehensive-evaluation-framewor.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)
+Path: [cyberseceval-2-a-comprehensive-evaluation-framewor.md](../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)

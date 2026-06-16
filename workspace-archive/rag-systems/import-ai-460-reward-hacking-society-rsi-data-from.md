@@ -54,4 +54,4 @@ Original source URL: https://importai.substack.com/p/import-ai-460-reward-hackin
 
 ## Local Vault File
 
-Path: [import-ai-460-reward-hacking-society-rsi-data-from.md](file:///../../ai/rag/import-ai-460-reward-hacking-society-rsi-data-from.md)
+Path: [import-ai-460-reward-hacking-society-rsi-data-from.md](../../ai/rag/import-ai-460-reward-hacking-society-rsi-data-from.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vision_language_pretraining
 
 ## Local Vault File
 
-Path: [a-dive-into-vision-language-models.md](file:///../../ai/models/a-dive-into-vision-language-models.md)
+Path: [a-dive-into-vision-language-models.md](../../ai/models/a-dive-into-vision-language-models.md)

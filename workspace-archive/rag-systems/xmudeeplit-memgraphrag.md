@@ -47,4 +47,4 @@ Original source URL: https://github.com/XMUDeepLIT/MemGraphRAG
 
 ## Local Vault File
 
-Path: [xmudeeplit-memgraphrag.md](file:///../../ai/rag/xmudeeplit-memgraphrag.md)
+Path: [xmudeeplit-memgraphrag.md](../../ai/rag/xmudeeplit-memgraphrag.md)

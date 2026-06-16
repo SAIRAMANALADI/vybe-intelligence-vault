@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arm/arm-at-pytorch-conference
 
 ## Local Vault File
 
-Path: [arm-will-be-pytorch-conference-join-us.md](file:///../../ai/models/arm-will-be-pytorch-conference-join-us.md)
+Path: [arm-will-be-pytorch-conference-join-us.md](../../ai/models/arm-will-be-pytorch-conference-join-us.md)

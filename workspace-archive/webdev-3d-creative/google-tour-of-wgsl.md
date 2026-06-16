@@ -44,4 +44,4 @@ Original source URL: https://github.com/google/tour-of-wgsl
 
 ## Local Vault File
 
-Path: [google-tour-of-wgsl.md](file:///../../web-development/webgpu/google-tour-of-wgsl.md)
+Path: [google-tour-of-wgsl.md](../../web-development/webgpu/google-tour-of-wgsl.md)

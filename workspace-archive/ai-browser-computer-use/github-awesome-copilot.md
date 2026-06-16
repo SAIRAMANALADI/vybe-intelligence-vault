@@ -44,4 +44,4 @@ Original source URL: https://github.com/github/awesome-copilot
 
 ## Local Vault File
 
-Path: [github-awesome-copilot.md](file:///../../ai/agents/github-awesome-copilot.md)
+Path: [github-awesome-copilot.md](../../ai/agents/github-awesome-copilot.md)

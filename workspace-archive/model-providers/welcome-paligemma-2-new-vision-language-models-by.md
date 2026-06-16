@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma2
 
 ## Local Vault File
 
-Path: [welcome-paligemma-2-new-vision-language-models-by.md](file:///../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)
+Path: [welcome-paligemma-2-new-vision-language-models-by.md](../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/togethercomputer/together-ft
 
 ## Local Vault File
 
-Path: [fine-tune-any-llm-from-the-hugging-face-hub-with-t.md](file:///../../ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)
+Path: [fine-tune-any-llm-from-the-hugging-face-hub-with-t.md](../../ai/models/fine-tune-any-llm-from-the-hugging-face-hub-with-t.md)

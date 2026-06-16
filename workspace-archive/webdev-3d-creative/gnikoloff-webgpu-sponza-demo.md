@@ -45,4 +45,4 @@ Original source URL: https://github.com/gnikoloff/webgpu-sponza-demo
 
 ## Local Vault File
 
-Path: [gnikoloff-webgpu-sponza-demo.md](file:///../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md)
+Path: [gnikoloff-webgpu-sponza-demo.md](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md)

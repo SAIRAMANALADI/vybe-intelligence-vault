@@ -46,4 +46,4 @@ Original source URL: https://github.com/nottelabs/open-operator-evals
 
 ## Local Vault File
 
-Path: [nottelabs-open-operator-evals.md](file:///../../ai/agents/nottelabs-open-operator-evals.md)
+Path: [nottelabs-open-operator-evals.md](../../ai/agents/nottelabs-open-operator-evals.md)

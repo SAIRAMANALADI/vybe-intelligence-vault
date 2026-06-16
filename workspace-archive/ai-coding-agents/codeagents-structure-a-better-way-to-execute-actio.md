@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/structured-codeagent
 
 ## Local Vault File
 
-Path: [codeagents-structure-a-better-way-to-execute-actio.md](file:///../../ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)
+Path: [codeagents-structure-a-better-way-to-execute-actio.md](../../ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)

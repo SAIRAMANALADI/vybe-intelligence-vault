@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-groq
 
 ## Local Vault File
 
-Path: [groq-on-hugging-face-inference-providers.md](file:///../../ai/models/groq-on-hugging-face-inference-providers.md)
+Path: [groq-on-hugging-face-inference-providers.md](../../ai/models/groq-on-hugging-face-inference-providers.md)

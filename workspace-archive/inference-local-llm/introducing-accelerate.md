@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-library
 
 ## Local Vault File
 
-Path: [introducing-accelerate.md](file:///../../ai/models/introducing-accelerate.md)
+Path: [introducing-accelerate.md](../../ai/models/introducing-accelerate.md)

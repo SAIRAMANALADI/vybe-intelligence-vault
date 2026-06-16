@@ -46,4 +46,4 @@ Original source URL: https://github.com/codebasics/crewai-crash-course
 
 ## Local Vault File
 
-Path: [codebasics-crewai-crash-course.md](file:///../../ai/agents/codebasics-crewai-crash-course.md)
+Path: [codebasics-crewai-crash-course.md](../../ai/agents/codebasics-crewai-crash-course.md)

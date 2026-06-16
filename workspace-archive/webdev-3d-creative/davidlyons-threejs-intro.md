@@ -44,4 +44,4 @@ Original source URL: https://github.com/davidlyons/threejs-intro
 
 ## Local Vault File
 
-Path: [davidlyons-threejs-intro.md](file:///../../web-development/threejs/davidlyons-threejs-intro.md)
+Path: [davidlyons-threejs-intro.md](../../web-development/threejs/davidlyons-threejs-intro.md)

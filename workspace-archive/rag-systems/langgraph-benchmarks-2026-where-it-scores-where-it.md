@@ -53,4 +53,4 @@ Original source URL: https://benchmarkingagents.com/langgraph-benchmarks
 
 ## Local Vault File
 
-Path: [langgraph-benchmarks-2026-where-it-scores-where-it.md](file:///../../ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it.md)
+Path: [langgraph-benchmarks-2026-where-it-scores-where-it.md](../../ai/rag/langgraph-benchmarks-2026-where-it-scores-where-it.md)

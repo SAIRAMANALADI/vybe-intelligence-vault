@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama3
 
 ## Local Vault File
 
-Path: [welcome-llama-3-meta-s-new-open-llm.md](file:///../../ai/models/welcome-llama-3-meta-s-new-open-llm.md)
+Path: [welcome-llama-3-meta-s-new-open-llm.md](../../ai/models/welcome-llama-3-meta-s-new-open-llm.md)

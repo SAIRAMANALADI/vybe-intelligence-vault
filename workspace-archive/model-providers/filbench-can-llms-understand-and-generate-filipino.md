@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/filbench
 
 ## Local Vault File
 
-Path: [filbench-can-llms-understand-and-generate-filipino.md](file:///../../ai/models/filbench-can-llms-understand-and-generate-filipino.md)
+Path: [filbench-can-llms-understand-and-generate-filipino.md](../../ai/models/filbench-can-llms-understand-and-generate-filipino.md)

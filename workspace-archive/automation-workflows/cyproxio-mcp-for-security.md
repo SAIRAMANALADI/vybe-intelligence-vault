@@ -47,4 +47,4 @@ Original source URL: https://github.com/cyproxio/mcp-for-security
 
 ## Local Vault File
 
-Path: [cyproxio-mcp-for-security.md](file:///../../ai/resources/cyproxio-mcp-for-security.md)
+Path: [cyproxio-mcp-for-security.md](../../ai/resources/cyproxio-mcp-for-security.md)

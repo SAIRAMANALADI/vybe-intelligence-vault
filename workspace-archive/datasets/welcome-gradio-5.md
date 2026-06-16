@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5
 
 ## Local Vault File
 
-Path: [welcome-gradio-5.md](file:///../../ai/models/welcome-gradio-5.md)
+Path: [welcome-gradio-5.md](../../ai/models/welcome-gradio-5.md)

@@ -49,4 +49,4 @@ Original source URL: https://developers.openai.com/api/docs/guides/agents
 
 ## Local Vault File
 
-Path: [agents-sdk-openai-api.md](file:///../../ai/rag/agents-sdk-openai-api.md)
+Path: [agents-sdk-openai-api.md](../../ai/rag/agents-sdk-openai-api.md)

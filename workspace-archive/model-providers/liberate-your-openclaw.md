@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liberate-your-openclaw
 
 ## Local Vault File
 
-Path: [liberate-your-openclaw.md](file:///../../ai/models/liberate-your-openclaw.md)
+Path: [liberate-your-openclaw.md](../../ai/models/liberate-your-openclaw.md)

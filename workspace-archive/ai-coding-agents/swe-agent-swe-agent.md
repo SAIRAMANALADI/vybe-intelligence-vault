@@ -44,4 +44,4 @@ Original source URL: https://github.com/SWE-agent/SWE-agent
 
 ## Local Vault File
 
-Path: [swe-agent-swe-agent.md](file:///../../ai/agents/swe-agent-swe-agent.md)
+Path: [swe-agent-swe-agent.md](../../ai/agents/swe-agent-swe-agent.md)

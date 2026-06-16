@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bridgetower
 
 ## Local Vault File
 
-Path: [accelerating-vision-language-models-bridgetower-on.md](file:///../../ai/models/accelerating-vision-language-models-bridgetower-on.md)
+Path: [accelerating-vision-language-models-bridgetower-on.md](../../ai/models/accelerating-vision-language-models-bridgetower-on.md)

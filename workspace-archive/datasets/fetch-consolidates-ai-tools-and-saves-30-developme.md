@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/fetch-eap-case-study
 
 ## Local Vault File
 
-Path: [fetch-consolidates-ai-tools-and-saves-30-developme.md](file:///../../ai/models/fetch-consolidates-ai-tools-and-saves-30-developme.md)
+Path: [fetch-consolidates-ai-tools-and-saves-30-developme.md](../../ai/models/fetch-consolidates-ai-tools-and-saves-30-developme.md)

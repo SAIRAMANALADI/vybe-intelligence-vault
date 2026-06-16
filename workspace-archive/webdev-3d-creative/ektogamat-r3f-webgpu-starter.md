@@ -45,4 +45,4 @@ Original source URL: https://github.com/ektogamat/r3f-webgpu-starter
 
 ## Local Vault File
 
-Path: [ektogamat-r3f-webgpu-starter.md](file:///../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md)
+Path: [ektogamat-r3f-webgpu-starter.md](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md)

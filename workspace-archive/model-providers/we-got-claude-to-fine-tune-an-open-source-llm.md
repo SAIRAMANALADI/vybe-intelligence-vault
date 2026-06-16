@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training
 
 ## Local Vault File
 
-Path: [we-got-claude-to-fine-tune-an-open-source-llm.md](file:///../../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)
+Path: [we-got-claude-to-fine-tune-an-open-source-llm.md](../../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)

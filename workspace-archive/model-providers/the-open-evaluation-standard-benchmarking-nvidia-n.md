@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluati
 
 ## Local Vault File
 
-Path: [the-open-evaluation-standard-benchmarking-nvidia-n.md](file:///../../ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md)
+Path: [the-open-evaluation-standard-benchmarking-nvidia-n.md](../../ai/models/the-open-evaluation-standard-benchmarking-nvidia-n.md)

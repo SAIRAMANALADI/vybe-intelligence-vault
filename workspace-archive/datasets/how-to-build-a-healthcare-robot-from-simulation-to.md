@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nvidia-isaac-for-healthc
 
 ## Local Vault File
 
-Path: [how-to-build-a-healthcare-robot-from-simulation-to.md](file:///../../ai/models/how-to-build-a-healthcare-robot-from-simulation-to.md)
+Path: [how-to-build-a-healthcare-robot-from-simulation-to.md](../../ai/models/how-to-build-a-healthcare-robot-from-simulation-to.md)

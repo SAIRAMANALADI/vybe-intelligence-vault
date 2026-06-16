@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-v1
 
 ## Local Vault File
 
-Path: [trl-v1-0-post-training-library-built-to-move-with.md](file:///../../ai/models/trl-v1-0-post-training-library-built-to-move-with.md)
+Path: [trl-v1-0-post-training-library-built-to-move-with.md](../../ai/models/trl-v1-0-post-training-library-built-to-move-with.md)

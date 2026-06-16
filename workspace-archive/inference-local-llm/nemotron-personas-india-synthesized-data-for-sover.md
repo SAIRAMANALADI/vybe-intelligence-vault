@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-personas-india
 
 ## Local Vault File
 
-Path: [nemotron-personas-india-synthesized-data-for-sover.md](file:///../../ai/models/nemotron-personas-india-synthesized-data-for-sover.md)
+Path: [nemotron-personas-india-synthesized-data-for-sover.md](../../ai/models/nemotron-personas-india-synthesized-data-for-sover.md)

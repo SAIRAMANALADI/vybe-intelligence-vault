@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/decision-transformers
 
 ## Local Vault File
 
-Path: [introducing-decision-transformers-on-hugging-face.md](file:///../../ai/models/introducing-decision-transformers-on-hugging-face.md)
+Path: [introducing-decision-transformers-on-hugging-face.md](../../ai/models/introducing-decision-transformers-on-hugging-face.md)

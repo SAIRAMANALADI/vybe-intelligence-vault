@@ -44,4 +44,4 @@ Original source URL: https://github.com/akash3444/shadcn-ui-blocks
 
 ## Local Vault File
 
-Path: [akash3444-shadcn-ui-blocks.md](file:///../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md)
+Path: [akash3444-shadcn-ui-blocks.md](../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md)

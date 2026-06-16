@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/e2lm-competition
 
 ## Local Vault File
 
-Path: [announcing-neurips-2025-e2lm-competition-early-tra.md](file:///../../ai/models/announcing-neurips-2025-e2lm-competition-early-tra.md)
+Path: [announcing-neurips-2025-e2lm-competition-early-tra.md](../../ai/models/announcing-neurips-2025-e2lm-competition-early-tra.md)

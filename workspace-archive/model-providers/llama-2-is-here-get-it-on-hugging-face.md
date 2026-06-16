@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2
 
 ## Local Vault File
 
-Path: [llama-2-is-here-get-it-on-hugging-face.md](file:///../../ai/models/llama-2-is-here-get-it-on-hugging-face.md)
+Path: [llama-2-is-here-get-it-on-hugging-face.md](../../ai/models/llama-2-is-here-get-it-on-hugging-face.md)

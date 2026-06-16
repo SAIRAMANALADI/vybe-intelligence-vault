@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcnspace/shadcnspace
 
 ## Local Vault File
 
-Path: [shadcnspace-shadcnspace.md](file:///../../web-development/nextjs/shadcnspace-shadcnspace.md)
+Path: [shadcnspace-shadcnspace.md](../../web-development/nextjs/shadcnspace-shadcnspace.md)

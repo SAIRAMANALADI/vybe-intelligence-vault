@@ -51,4 +51,4 @@ Original source URL: https://www.confident-ai.com/knowledge-base/compare/top-7-l
 
 ## Local Vault File
 
-Path: [top-7-llm-observability-tools-in-2026-confident-ai.md](file:///../../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai.md)
+Path: [top-7-llm-observability-tools-in-2026-confident-ai.md](../../ai/rag/top-7-llm-observability-tools-in-2026-confident-ai.md)

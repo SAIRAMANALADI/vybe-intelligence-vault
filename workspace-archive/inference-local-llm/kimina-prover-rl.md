@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-mo/kimina-prover-rl
 
 ## Local Vault File
 
-Path: [kimina-prover-rl.md](file:///../../ai/models/kimina-prover-rl.md)
+Path: [kimina-prover-rl.md](../../ai/models/kimina-prover-rl.md)

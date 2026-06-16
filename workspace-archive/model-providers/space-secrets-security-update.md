@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/space-secrets-disclosure
 
 ## Local Vault File
 
-Path: [space-secrets-security-update.md](file:///../../ai/models/space-secrets-security-update.md)
+Path: [space-secrets-security-update.md](../../ai/models/space-secrets-security-update.md)

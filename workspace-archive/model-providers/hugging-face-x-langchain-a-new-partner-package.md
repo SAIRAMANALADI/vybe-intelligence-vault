@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/langchain
 
 ## Local Vault File
 
-Path: [hugging-face-x-langchain-a-new-partner-package.md](file:///../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)
+Path: [hugging-face-x-langchain-a-new-partner-package.md](../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)

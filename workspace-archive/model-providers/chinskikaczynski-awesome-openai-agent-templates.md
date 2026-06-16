@@ -49,4 +49,4 @@ Original source URL: https://github.com/ChinskiKaczynski/Awesome-OpenAI-Agent-Te
 
 ## Local Vault File
 
-Path: [chinskikaczynski-awesome-openai-agent-templates.md](file:///../../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md)
+Path: [chinskikaczynski-awesome-openai-agent-templates.md](../../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md)

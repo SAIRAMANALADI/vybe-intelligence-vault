@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-optimization
 
 ## Local Vault File
 
-Path: [optimization-story-bloom-inference.md](file:///../../ai/models/optimization-story-bloom-inference.md)
+Path: [optimization-story-bloom-inference.md](../../ai/models/optimization-story-bloom-inference.md)

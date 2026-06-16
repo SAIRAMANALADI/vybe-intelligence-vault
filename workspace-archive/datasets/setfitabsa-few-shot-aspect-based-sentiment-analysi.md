@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-absa
 
 ## Local Vault File
 
-Path: [setfitabsa-few-shot-aspect-based-sentiment-analysi.md](file:///../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)
+Path: [setfitabsa-few-shot-aspect-based-sentiment-analysi.md](../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)

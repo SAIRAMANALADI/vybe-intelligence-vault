@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sovereign-data-solution-case-st
 
 ## Local Vault File
 
-Path: [banque-des-territoires-cdc-group-x-polyconseil-x-h.md](file:///../../ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-h.md)
+Path: [banque-des-territoires-cdc-group-x-polyconseil-x-h.md](../../ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-h.md)

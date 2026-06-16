@@ -44,4 +44,4 @@ Original source URL: https://github.com/marmelab/atomic-crm
 
 ## Local Vault File
 
-Path: [marmelab-atomic-crm.md](file:///../../web-development/shadcn-ui/marmelab-atomic-crm.md)
+Path: [marmelab-atomic-crm.md](../../web-development/shadcn-ui/marmelab-atomic-crm.md)

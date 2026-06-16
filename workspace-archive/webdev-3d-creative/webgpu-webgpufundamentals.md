@@ -44,4 +44,4 @@ Original source URL: https://github.com/webgpu/webgpufundamentals
 
 ## Local Vault File
 
-Path: [webgpu-webgpufundamentals.md](file:///../../web-development/webgpu/webgpu-webgpufundamentals.md)
+Path: [webgpu-webgpufundamentals.md](../../web-development/webgpu/webgpu-webgpufundamentals.md)

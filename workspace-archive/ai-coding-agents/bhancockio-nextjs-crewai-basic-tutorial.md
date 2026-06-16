@@ -44,4 +44,4 @@ Original source URL: https://github.com/bhancockio/nextjs-crewai-basic-tutorial
 
 ## Local Vault File
 
-Path: [bhancockio-nextjs-crewai-basic-tutorial.md](file:///../../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md)
+Path: [bhancockio-nextjs-crewai-basic-tutorial.md](../../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md)

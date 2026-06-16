@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-whisper-endpoints
 
 ## Local Vault File
 
-Path: [blazingly-fast-whisper-transcriptions-with-inferen.md](file:///../../ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)
+Path: [blazingly-fast-whisper-transcriptions-with-inferen.md](../../ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)

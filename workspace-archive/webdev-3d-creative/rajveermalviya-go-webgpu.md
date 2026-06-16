@@ -44,4 +44,4 @@ Original source URL: https://github.com/rajveermalviya/go-webgpu
 
 ## Local Vault File
 
-Path: [rajveermalviya-go-webgpu.md](file:///../../web-development/webgpu/rajveermalviya-go-webgpu.md)
+Path: [rajveermalviya-go-webgpu.md](../../web-development/webgpu/rajveermalviya-go-webgpu.md)

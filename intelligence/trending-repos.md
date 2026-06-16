@@ -6,7 +6,9 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | :--- | :--- | :--- |
 | [pmndrs/triplex](https://github.com/pmndrs/triplex) | `ai-coding-agents/` | 70 |
 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | `ai-coding-agents/` | 70 |
+| [8500GIRISH/CrewAI-2026](https://github.com/8500GIRISH/CrewAI-2026) | `ai-coding-agents/` | 70 |
 | [AarohiSingla/CrewAI_tutorials](https://github.com/AarohiSingla/CrewAI_tutorials) | `ai-coding-agents/` | 70 |
+| [abuzarmahmood/blech_github_bot](https://github.com/abuzarmahmood/blech_github_bot) | `ai-coding-agents/` | 70 |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | `ai-coding-agents/` | 70 |
 | [aden-hive/hive](https://github.com/aden-hive/hive) | `ai-coding-agents/` | 70 |
 | [affaan-m/agentshield](https://github.com/affaan-m/agentshield) | `ai-coding-agents/` | 70 |
@@ -25,9 +27,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [bhancockio/crewai-groq-tutorial](https://github.com/bhancockio/crewai-groq-tutorial) | `ai-coding-agents/` | 70 |
 | [bhancockio/crewai-updated-tutorial-hierarchical](https://github.com/bhancockio/crewai-updated-tutorial-hierarchical) | `ai-coding-agents/` | 70 |
 | [bhancockio/nextjs-crewai-basic-tutorial](https://github.com/bhancockio/nextjs-crewai-basic-tutorial) | `ai-coding-agents/` | 70 |
+| [bluehands/GirlsDay2026](https://github.com/bluehands/GirlsDay2026) | `ai-coding-agents/` | 70 |
 | [caramaschiHG/awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) | `ai-coding-agents/` | 70 |
-| [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](https://github.com/ChinskiKaczynski/Awesome-OpenAI-Agent-Templates) | `ai-coding-agents/` | 70 |
-| [ChrisChen667788/Your-First-LLM-Studio](https://github.com/ChrisChen667788/Your-First-LLM-Studio) | `ai-coding-agents/` | 70 |
-| [cisco-ai-defense/mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

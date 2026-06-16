@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hcompany/holotron-12b
 
 ## Local Vault File
 
-Path: [holotron-12b-high-throughput-computer-use-agent.md](file:///../../ai/agents/holotron-12b-high-throughput-computer-use-agent.md)
+Path: [holotron-12b-high-throughput-computer-use-agent.md](../../ai/agents/holotron-12b-high-throughput-computer-use-agent.md)

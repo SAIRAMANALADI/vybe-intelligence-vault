@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/why-gradio-stands-out
 
 ## Local Vault File
 
-Path: [17-reasons-why-gradio-isn-t-just-another-ui-librar.md](file:///../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)
+Path: [17-reasons-why-gradio-isn-t-just-another-ui-librar.md](../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)

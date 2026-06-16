@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/streaming-datasets
 
 ## Local Vault File
 
-Path: [streaming-datasets-100x-more-efficient.md](file:///../../ai/models/streaming-datasets-100x-more-efficient.md)
+Path: [streaming-datasets-100x-more-efficient.md](../../ai/models/streaming-datasets-100x-more-efficient.md)

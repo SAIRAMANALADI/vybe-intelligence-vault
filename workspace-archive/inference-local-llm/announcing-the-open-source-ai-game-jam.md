@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam
 
 ## Local Vault File
 
-Path: [announcing-the-open-source-ai-game-jam.md](file:///../../ai/models/announcing-the-open-source-ai-game-jam.md)
+Path: [announcing-the-open-source-ai-game-jam.md](../../ai/models/announcing-the-open-source-ai-game-jam.md)

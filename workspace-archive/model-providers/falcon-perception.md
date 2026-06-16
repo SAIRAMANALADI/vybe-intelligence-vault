@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-perception
 
 ## Local Vault File
 
-Path: [falcon-perception.md](file:///../../ai/models/falcon-perception.md)
+Path: [falcon-perception.md](../../ai/models/falcon-perception.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liger-grpo
 
 ## Local Vault File
 
-Path: [liger-grpo-meets-trl.md](file:///../../ai/models/liger-grpo-meets-trl.md)
+Path: [liger-grpo-meets-trl.md](../../ai/models/liger-grpo-meets-trl.md)

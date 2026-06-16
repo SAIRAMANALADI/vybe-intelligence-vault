@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/voxtral-tts
 
 ## Local Vault File
 
-Path: [voxtral-tts.md](file:///../../ai/companies/mistral/voxtral-tts.md)
+Path: [voxtral-tts.md](../../ai/companies/mistral/voxtral-tts.md)

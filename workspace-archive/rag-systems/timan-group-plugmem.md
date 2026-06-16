@@ -47,4 +47,4 @@ Original source URL: https://github.com/TIMAN-group/PlugMem
 
 ## Local Vault File
 
-Path: [timan-group-plugmem.md](file:///../../ai/rag/timan-group-plugmem.md)
+Path: [timan-group-plugmem.md](../../ai/rag/timan-group-plugmem.md)

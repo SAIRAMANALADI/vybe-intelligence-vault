@@ -47,4 +47,4 @@ Original source URL: https://github.com/idosal/git-mcp
 
 ## Local Vault File
 
-Path: [idosal-git-mcp.md](file:///../../ai/agents/idosal-git-mcp.md)
+Path: [idosal-git-mcp.md](../../ai/agents/idosal-git-mcp.md)

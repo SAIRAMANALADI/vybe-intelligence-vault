@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-mul
 
 ## Local Vault File
 
-Path: [introducing-nvidia-nemotron-3-nano-omni-long-conte.md](file:///../../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md)
+Path: [introducing-nvidia-nemotron-3-nano-omni-long-conte.md](../../ai/agents/introducing-nvidia-nemotron-3-nano-omni-long-conte.md)

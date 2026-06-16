@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/audioldm2
 
 ## Local Vault File
 
-Path: [audioldm-2-but-faster.md](file:///../../ai/models/audioldm-2-but-faster.md)
+Path: [audioldm-2-but-faster.md](../../ai/models/audioldm-2-but-faster.md)

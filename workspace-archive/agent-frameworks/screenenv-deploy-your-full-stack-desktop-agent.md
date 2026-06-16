@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/screenenv
 
 ## Local Vault File
 
-Path: [screenenv-deploy-your-full-stack-desktop-agent.md](file:///../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)
+Path: [screenenv-deploy-your-full-stack-desktop-agent.md](../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)

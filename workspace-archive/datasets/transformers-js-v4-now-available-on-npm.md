@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v4
 
 ## Local Vault File
 
-Path: [transformers-js-v4-now-available-on-npm.md](file:///../../ai/models/transformers-js-v4-now-available-on-npm.md)
+Path: [transformers-js-v4-now-available-on-npm.md](../../ai/models/transformers-js-v4-now-available-on-npm.md)

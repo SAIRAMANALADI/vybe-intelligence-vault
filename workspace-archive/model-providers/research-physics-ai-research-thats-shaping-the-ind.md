@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/physics-ai-research
 
 ## Local Vault File
 
-Path: [research-physics-ai-research-thats-shaping-the-ind.md](file:///../../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)
+Path: [research-physics-ai-research-thats-shaping-the-ind.md](../../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smol2operator
 
 ## Local Vault File
 
-Path: [smol2operator-post-training-gui-agents-for-compute.md](file:///../../ai/agents/smol2operator-post-training-gui-agents-for-compute.md)
+Path: [smol2operator-post-training-gui-agents-for-compute.md](../../ai/agents/smol2operator-post-training-gui-agents-for-compute.md)

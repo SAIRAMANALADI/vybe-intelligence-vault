@@ -44,4 +44,4 @@ Original source URL: https://github.com/spite/wagner
 
 ## Local Vault File
 
-Path: [spite-wagner.md](file:///../../web-development/threejs/spite-wagner.md)
+Path: [spite-wagner.md](../../web-development/threejs/spite-wagner.md)

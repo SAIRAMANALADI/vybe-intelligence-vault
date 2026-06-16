@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/annotated-diffusion
 
 ## Local Vault File
 
-Path: [the-annotated-diffusion-model.md](file:///../../ai/models/the-annotated-diffusion-model.md)
+Path: [the-annotated-diffusion-model.md](../../ai/models/the-annotated-diffusion-model.md)

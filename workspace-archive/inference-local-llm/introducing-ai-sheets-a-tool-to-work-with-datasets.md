@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: [introducing-ai-sheets-a-tool-to-work-with-datasets.md](file:///../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)
+Path: [introducing-ai-sheets-a-tool-to-work-with-datasets.md](../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)

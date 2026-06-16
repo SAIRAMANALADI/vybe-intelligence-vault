@@ -44,4 +44,4 @@ Original source URL: https://github.com/creativelifeform/three-nebula
 
 ## Local Vault File
 
-Path: [creativelifeform-three-nebula.md](file:///../../web-development/threejs/creativelifeform-three-nebula.md)
+Path: [creativelifeform-three-nebula.md](../../web-development/threejs/creativelifeform-three-nebula.md)

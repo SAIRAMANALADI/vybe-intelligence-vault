@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/mixtral
 
 ## Local Vault File
 
-Path: [welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md](file:///../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)
+Path: [welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md](../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)

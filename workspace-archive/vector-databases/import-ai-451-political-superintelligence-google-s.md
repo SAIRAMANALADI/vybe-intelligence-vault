@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-451-political-sup
 
 ## Local Vault File
 
-Path: [import-ai-451-political-superintelligence-google-s.md](file:///../../ai/rag/import-ai-451-political-superintelligence-google-s.md)
+Path: [import-ai-451-political-superintelligence-google-s.md](../../ai/rag/import-ai-451-political-superintelligence-google-s.md)

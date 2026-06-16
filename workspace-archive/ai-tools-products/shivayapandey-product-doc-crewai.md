@@ -47,4 +47,4 @@ Original source URL: https://github.com/shivayapandey/product-doc-crewai
 
 ## Local Vault File
 
-Path: [shivayapandey-product-doc-crewai.md](file:///../../ai/rag/shivayapandey-product-doc-crewai.md)
+Path: [shivayapandey-product-doc-crewai.md](../../ai/rag/shivayapandey-product-doc-crewai.md)

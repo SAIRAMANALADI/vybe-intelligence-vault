@@ -48,4 +48,4 @@ Original source URL: https://www.w3reference.com/blog/crewai-a-practical-guide-t
 
 ## Local Vault File
 
-Path: [crewai-a-practical-guide-to-role-based-agent-orche.md](file:///../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md)
+Path: [crewai-a-practical-guide-to-role-based-agent-orche.md](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md)

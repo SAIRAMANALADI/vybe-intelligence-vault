@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gcp-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-google-partner-for-open-ai-collab.md](file:///../../ai/models/hugging-face-and-google-partner-for-open-ai-collab.md)
+Path: [hugging-face-and-google-partner-for-open-ai-collab.md](../../ai/models/hugging-face-and-google-partner-for-open-ai-collab.md)

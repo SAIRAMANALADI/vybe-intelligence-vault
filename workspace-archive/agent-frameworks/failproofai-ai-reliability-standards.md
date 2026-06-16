@@ -46,4 +46,4 @@ Original source URL: https://github.com/FailproofAI/ai-reliability-standards
 
 ## Local Vault File
 
-Path: [failproofai-ai-reliability-standards.md](file:///../../ai/agents/failproofai-ai-reliability-standards.md)
+Path: [failproofai-ai-reliability-standards.md](../../ai/agents/failproofai-ai-reliability-standards.md)

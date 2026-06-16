@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-partnership-amazon-sagemake
 
 ## Local Vault File
 
-Path: [the-partnership-amazon-sagemaker-and-hugging-face.md](file:///../../ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)
+Path: [the-partnership-amazon-sagemaker-and-hugging-face.md](../../ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bertopic
 
 ## Local Vault File
 
-Path: [introducing-bertopic-integration-with-the-hugging.md](file:///../../ai/models/introducing-bertopic-integration-with-the-hugging.md)
+Path: [introducing-bertopic-integration-with-the-hugging.md](../../ai/models/introducing-bertopic-integration-with-the-hugging.md)

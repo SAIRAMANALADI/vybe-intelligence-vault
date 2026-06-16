@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inferentia-inference-endpoints
 
 ## Local Vault File
 
-Path: [deploy-models-on-aws-inferentia2-from-hugging-face.md](file:///../../ai/models/deploy-models-on-aws-inferentia2-from-hugging-face.md)
+Path: [deploy-models-on-aws-inferentia2-from-hugging-face.md](../../ai/models/deploy-models-on-aws-inferentia2-from-hugging-face.md)

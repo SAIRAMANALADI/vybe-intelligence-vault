@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-benchmark
 
 ## Local Vault File
 
-Path: [faster-training-and-inference-habana-gaudi-r-2-vs.md](file:///../../ai/models/faster-training-and-inference-habana-gaudi-r-2-vs.md)
+Path: [faster-training-and-inference-habana-gaudi-r-2-vs.md](../../ai/models/faster-training-and-inference-habana-gaudi-r-2-vs.md)

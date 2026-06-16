@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [a-security-review-of-gradio-5.md](file:///../../ai/models/a-security-review-of-gradio-5.md)
+Path: [a-security-review-of-gradio-5.md](../../ai/models/a-security-review-of-gradio-5.md)

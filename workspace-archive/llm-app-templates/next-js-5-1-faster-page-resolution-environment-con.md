@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/next-5-1
 
 ## Local Vault File
 
-Path: [next-js-5-1-faster-page-resolution-environment-con.md](file:///../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)
+Path: [next-js-5-1-faster-page-resolution-environment-con.md](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md)

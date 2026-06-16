@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/duckdb-nsql-7b
 
 ## Local Vault File
 
-Path: [text2sql-using-hugging-face-dataset-viewer-api-and.md](file:///../../ai/models/text2sql-using-hugging-face-dataset-viewer-api-and.md)
+Path: [text2sql-using-hugging-face-dataset-viewer-api-and.md](../../ai/models/text2sql-using-hugging-face-dataset-viewer-api-and.md)

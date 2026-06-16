@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-461-alignment-is-
 
 ## Local Vault File
 
-Path: [import-ai-461-alignment-is-not-on-track-frontierco.md](file:///../../ai/rag/import-ai-461-alignment-is-not-on-track-frontierco.md)
+Path: [import-ai-461-alignment-is-not-on-track-frontierco.md](../../ai/rag/import-ai-461-alignment-is-not-on-track-frontierco.md)

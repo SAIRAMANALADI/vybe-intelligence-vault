@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobotxnvidia-healthcare
 
 ## Local Vault File
 
-Path: [building-a-healthcare-robot-from-simulation-to-dep.md](file:///../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)
+Path: [building-a-healthcare-robot-from-simulation-to-dep.md](../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)

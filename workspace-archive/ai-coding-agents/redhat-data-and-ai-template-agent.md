@@ -44,4 +44,4 @@ Original source URL: https://github.com/redhat-data-and-ai/template-agent
 
 ## Local Vault File
 
-Path: [redhat-data-and-ai-template-agent.md](file:///../../ai/agents/redhat-data-and-ai-template-agent.md)
+Path: [redhat-data-and-ai-template-agent.md](../../ai/agents/redhat-data-and-ai-template-agent.md)

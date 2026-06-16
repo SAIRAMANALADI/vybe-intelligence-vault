@@ -45,4 +45,4 @@ Original source URL: https://github.com/frontendfyi/rebuilding-linear.app
 
 ## Local Vault File
 
-Path: [frontendfyi-rebuilding-linear-app.md](file:///../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md)
+Path: [frontendfyi-rebuilding-linear-app.md](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md)

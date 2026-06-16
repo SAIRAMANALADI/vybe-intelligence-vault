@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-cpu-scaling-part-2
 
 ## Local Vault File
 
-Path: [scaling-up-bert-like-model-inference-on-modern-cpu.md](file:///../../ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)
+Path: [scaling-up-bert-like-model-inference-on-modern-cpu.md](../../ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)

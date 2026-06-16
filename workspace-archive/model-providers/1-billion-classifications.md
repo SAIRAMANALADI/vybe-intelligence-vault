@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/billion-classifications
 
 ## Local Vault File
 
-Path: [1-billion-classifications.md](file:///../../ai/models/1-billion-classifications.md)
+Path: [1-billion-classifications.md](../../ai/models/1-billion-classifications.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/AarohiSingla/CrewAI_tutorials
 
 ## Local Vault File
 
-Path: [aarohisingla-crewai-tutorials.md](file:///../../ai/agents/aarohisingla-crewai-tutorials.md)
+Path: [aarohisingla-crewai-tutorials.md](../../ai/agents/aarohisingla-crewai-tutorials.md)

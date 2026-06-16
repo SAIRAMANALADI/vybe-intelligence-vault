@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/endpoint-analytics
 
 ## Local Vault File
 
-Path: [the-new-and-fresh-analytics-in-inference-endpoints.md](file:///../../ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)
+Path: [the-new-and-fresh-analytics-in-inference-endpoints.md](../../ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/wgcyeo/UniversalRAG
 
 ## Local Vault File
 
-Path: [wgcyeo-universalrag.md](file:///../../ai/rag/wgcyeo-universalrag.md)
+Path: [wgcyeo-universalrag.md](../../ai/rag/wgcyeo-universalrag.md)

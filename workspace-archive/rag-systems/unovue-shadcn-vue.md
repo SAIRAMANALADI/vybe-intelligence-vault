@@ -44,4 +44,4 @@ Original source URL: https://github.com/unovue/shadcn-vue
 
 ## Local Vault File
 
-Path: [unovue-shadcn-vue.md](file:///../../web-development/shadcn-ui/unovue-shadcn-vue.md)
+Path: [unovue-shadcn-vue.md](../../web-development/shadcn-ui/unovue-shadcn-vue.md)

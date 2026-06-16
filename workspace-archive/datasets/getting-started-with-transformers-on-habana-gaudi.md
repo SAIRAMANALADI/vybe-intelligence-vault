@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/getting-started-habana
 
 ## Local Vault File
 
-Path: [getting-started-with-transformers-on-habana-gaudi.md](file:///../../ai/models/getting-started-with-transformers-on-habana-gaudi.md)
+Path: [getting-started-with-transformers-on-habana-gaudi.md](../../ai/models/getting-started-with-transformers-on-habana-gaudi.md)

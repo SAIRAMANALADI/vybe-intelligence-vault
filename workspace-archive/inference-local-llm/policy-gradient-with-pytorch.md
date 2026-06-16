@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-pg
 
 ## Local Vault File
 
-Path: [policy-gradient-with-pytorch.md](file:///../../ai/models/policy-gradient-with-pytorch.md)
+Path: [policy-gradient-with-pytorch.md](../../ai/models/policy-gradient-with-pytorch.md)

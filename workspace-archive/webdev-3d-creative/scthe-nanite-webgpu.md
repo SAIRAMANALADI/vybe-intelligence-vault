@@ -44,4 +44,4 @@ Original source URL: https://github.com/Scthe/nanite-webgpu
 
 ## Local Vault File
 
-Path: [scthe-nanite-webgpu.md](file:///../../web-development/webgpu/scthe-nanite-webgpu.md)
+Path: [scthe-nanite-webgpu.md](../../web-development/webgpu/scthe-nanite-webgpu.md)

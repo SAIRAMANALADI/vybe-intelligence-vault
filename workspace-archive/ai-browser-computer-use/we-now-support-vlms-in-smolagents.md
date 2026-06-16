@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents-can-see
 
 ## Local Vault File
 
-Path: [we-now-support-vlms-in-smolagents.md](file:///../../ai/agents/we-now-support-vlms-in-smolagents.md)
+Path: [we-now-support-vlms-in-smolagents.md](../../ai/agents/we-now-support-vlms-in-smolagents.md)

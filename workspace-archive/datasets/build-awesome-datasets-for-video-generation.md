@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/vid_ds_scripts
 
 ## Local Vault File
 
-Path: [build-awesome-datasets-for-video-generation.md](file:///../../ai/models/build-awesome-datasets-for-video-generation.md)
+Path: [build-awesome-datasets-for-video-generation.md](../../ai/models/build-awesome-datasets-for-video-generation.md)

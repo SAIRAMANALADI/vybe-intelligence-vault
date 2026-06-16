@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/intel-fast-embedding
 
 ## Local Vault File
 
-Path: [cpu-optimized-embeddings-with-optimum-intel-and-fa.md](file:///../../ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)
+Path: [cpu-optimized-embeddings-with-optimum-intel-and-fa.md](../../ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)

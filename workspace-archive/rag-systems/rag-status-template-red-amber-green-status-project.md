@@ -48,4 +48,4 @@ Original source URL: https://powerslides.com/powerpoint-business/project-managem
 
 ## Local Vault File
 
-Path: [rag-status-template-red-amber-green-status-project.md](file:///../../ai/rag/rag-status-template-red-amber-green-status-project.md)
+Path: [rag-status-template-red-amber-green-status-project.md](../../ai/rag/rag-status-template-red-amber-green-status-project.md)

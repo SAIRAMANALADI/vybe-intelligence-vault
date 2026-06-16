@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-b
 
 ## Local Vault File
 
-Path: [nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md](file:///../../ai/models/nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md)
+Path: [nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md](../../ai/models/nvidia-cosmos-reason-2-brings-advanced-reasoning-t.md)

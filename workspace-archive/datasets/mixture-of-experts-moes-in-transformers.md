@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/moe-transformers
 
 ## Local Vault File
 
-Path: [mixture-of-experts-moes-in-transformers.md](file:///../../ai/models/mixture-of-experts-moes-in-transformers.md)
+Path: [mixture-of-experts-moes-in-transformers.md](../../ai/models/mixture-of-experts-moes-in-transformers.md)

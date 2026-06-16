@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ray-rag
 
 ## Local Vault File
 
-Path: [retrieval-augmented-generation-with-huggingface-tr.md](file:///../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)
+Path: [retrieval-augmented-generation-with-huggingface-tr.md](../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)

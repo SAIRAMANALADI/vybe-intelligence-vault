@@ -44,4 +44,4 @@ Original source URL: https://github.com/wassim249/fastapi-langgraph-agent-produc
 
 ## Local Vault File
 
-Path: [wassim249-fastapi-langgraph-agent-production-ready-template.md](file:///../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+Path: [wassim249-fastapi-langgraph-agent-production-ready-template.md](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)

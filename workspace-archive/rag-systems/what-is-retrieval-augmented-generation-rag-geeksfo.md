@@ -50,4 +50,4 @@ Original source URL: https://www.geeksforgeeks.org/nlp/what-is-retrieval-augment
 
 ## Local Vault File
 
-Path: [what-is-retrieval-augmented-generation-rag-geeksfo.md](file:///../../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)
+Path: [what-is-retrieval-augmented-generation-rag-geeksfo.md](../../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)

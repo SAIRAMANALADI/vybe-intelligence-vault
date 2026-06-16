@@ -44,4 +44,4 @@ Original source URL: https://github.com/ixartz/saas-boilerplate
 
 ## Local Vault File
 
-Path: [ixartz-saas-boilerplate.md](file:///../../web-development/nextjs/ixartz-saas-boilerplate.md)
+Path: [ixartz-saas-boilerplate.md](../../web-development/nextjs/ixartz-saas-boilerplate.md)

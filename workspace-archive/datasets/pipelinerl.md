@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/servicenow/pipelinerl
 
 ## Local Vault File
 
-Path: [pipelinerl.md](file:///../../ai/models/pipelinerl.md)
+Path: [pipelinerl.md](../../ai/models/pipelinerl.md)

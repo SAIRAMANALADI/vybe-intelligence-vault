@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by rsgm. Score: 321, Comments: 54.
+Hacker News story by rsgm. Score: 340, Comments: 54.
 Original Link: https://rsgm.dev/post/ai-dev-platform/
 
 ## Use Cases
@@ -46,4 +46,4 @@ Original source URL: https://rsgm.dev/post/ai-dev-platform
 
 ## Local Vault File
 
-Path: [my-homelab-ai-dev-platform.md](file:///../../ai/community/my-homelab-ai-dev-platform.md)
+Path: [my-homelab-ai-dev-platform.md](../../ai/community/my-homelab-ai-dev-platform.md)

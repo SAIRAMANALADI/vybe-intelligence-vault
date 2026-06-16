@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/layerskip
 
 ## Local Vault File
 
-Path: [faster-text-generation-with-self-speculative-decod.md](file:///../../ai/models/faster-text-generation-with-self-speculative-decod.md)
+Path: [faster-text-generation-with-self-speculative-decod.md](../../ai/models/faster-text-generation-with-self-speculative-decod.md)

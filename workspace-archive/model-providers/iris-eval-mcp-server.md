@@ -48,4 +48,4 @@ Original source URL: https://github.com/iris-eval/mcp-server
 
 ## Local Vault File
 
-Path: [iris-eval-mcp-server.md](file:///../../ai/agents/iris-eval-mcp-server.md)
+Path: [iris-eval-mcp-server.md](../../ai/agents/iris-eval-mcp-server.md)

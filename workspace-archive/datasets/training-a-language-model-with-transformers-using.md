@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf_tpu
 
 ## Local Vault File
 
-Path: [training-a-language-model-with-transformers-using.md](file:///../../ai/models/training-a-language-model-with-transformers-using.md)
+Path: [training-a-language-model-with-transformers-using.md](../../ai/models/training-a-language-model-with-transformers-using.md)

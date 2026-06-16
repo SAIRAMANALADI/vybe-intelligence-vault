@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/argilla-chatbot
 
 ## Local Vault File
 
-Path: [how-we-leveraged-distilabel-to-create-an-argilla-2.md](file:///../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)
+Path: [how-we-leveraged-distilabel-to-create-an-argilla-2.md](../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hcompany/holotab
 
 ## Local Vault File
 
-Path: [meet-holotab-by-hcompany-your-ai-browser-companion.md](file:///../../ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md)
+Path: [meet-holotab-by-hcompany-your-ai-browser-companion.md](../../ai/models/meet-holotab-by-hcompany-your-ai-browser-companion.md)

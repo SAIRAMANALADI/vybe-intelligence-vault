@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcnblocks/mainline-nextjs-template
 
 ## Local Vault File
 
-Path: [shadcnblocks-mainline-nextjs-template.md](file:///../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md)
+Path: [shadcnblocks-mainline-nextjs-template.md](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md)

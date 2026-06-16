@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tensorflow-philosophy
 
 ## Local Vault File
 
-Path: [hugging-face-s-tensorflow-philosophy.md](file:///../../ai/models/hugging-face-s-tensorflow-philosophy.md)
+Path: [hugging-face-s-tensorflow-philosophy.md](../../ai/models/hugging-face-s-tensorflow-philosophy.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hcompany/introducing-holo2-235b
 
 ## Local Vault File
 
-Path: [h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md](file:///../../ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md)
+Path: [h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md](../../ai/models/h-company-s-new-holo2-model-takes-the-lead-in-ui-l.md)

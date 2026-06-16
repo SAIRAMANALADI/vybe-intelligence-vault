@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amd/openroboticshackathon
 
 ## Local Vault File
 
-Path: [join-the-amd-open-robotics-hackathon.md](file:///../../ai/models/join-the-amd-open-robotics-hackathon.md)
+Path: [join-the-amd-open-robotics-hackathon.md](../../ai/models/join-the-amd-open-robotics-hackathon.md)

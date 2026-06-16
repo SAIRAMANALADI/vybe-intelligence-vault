@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/red-teaming
 
 ## Local Vault File
 
-Path: [red-teaming-large-language-models.md](file:///../../ai/models/red-teaming-large-language-models.md)
+Path: [red-teaming-large-language-models.md](../../ai/models/red-teaming-large-language-models.md)

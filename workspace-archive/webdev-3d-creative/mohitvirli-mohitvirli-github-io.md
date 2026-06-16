@@ -47,4 +47,4 @@ Original source URL: https://github.com/mohitvirli/mohitvirli.github.io
 
 ## Local Vault File
 
-Path: [mohitvirli-mohitvirli-github-io.md](file:///../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)
+Path: [mohitvirli-mohitvirli-github-io.md](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md)

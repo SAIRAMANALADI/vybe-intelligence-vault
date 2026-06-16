@@ -45,4 +45,4 @@ Original source URL: https://github.com/SylphxAI/pdf-reader-mcp
 
 ## Local Vault File
 
-Path: [sylphxai-pdf-reader-mcp.md](file:///../../ai/rag/sylphxai-pdf-reader-mcp.md)
+Path: [sylphxai-pdf-reader-mcp.md](../../ai/rag/sylphxai-pdf-reader-mcp.md)

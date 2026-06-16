@@ -45,4 +45,4 @@ Original source URL: https://github.com/kno2gether/crewai-examples
 
 ## Local Vault File
 
-Path: [kno2gether-crewai-examples.md](file:///../../ai/agents/kno2gether-crewai-examples.md)
+Path: [kno2gether-crewai-examples.md](../../ai/agents/kno2gether-crewai-examples.md)

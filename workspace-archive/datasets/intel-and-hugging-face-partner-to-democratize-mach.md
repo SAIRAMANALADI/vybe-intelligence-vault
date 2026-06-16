@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel
 
 ## Local Vault File
 
-Path: [intel-and-hugging-face-partner-to-democratize-mach.md](file:///../../ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)
+Path: [intel-and-hugging-face-partner-to-democratize-mach.md](../../ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)

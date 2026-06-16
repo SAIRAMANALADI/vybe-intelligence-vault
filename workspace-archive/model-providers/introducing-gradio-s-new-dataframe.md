@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-dataframe-upgrade
 
 ## Local Vault File
 
-Path: [introducing-gradio-s-new-dataframe.md](file:///../../ai/models/introducing-gradio-s-new-dataframe.md)
+Path: [introducing-gradio-s-new-dataframe.md](../../ai/models/introducing-gradio-s-new-dataframe.md)

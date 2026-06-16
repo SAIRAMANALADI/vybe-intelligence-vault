@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv
 
 ## Local Vault File
 
-Path: [building-the-open-agent-ecosystem-together-introdu.md](file:///../../ai/agents/building-the-open-agent-ecosystem-together-introdu.md)
+Path: [building-the-open-agent-ecosystem-together-introdu.md](../../ai/agents/building-the-open-agent-ecosystem-together-introdu.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/state-of-os-hf-spri
 
 ## Local Vault File
 
-Path: [state-of-open-source-on-hugging-face-spring-2026.md](file:///../../ai/models/state-of-open-source-on-hugging-face-spring-2026.md)
+Path: [state-of-open-source-on-hugging-face-spring-2026.md](../../ai/models/state-of-open-source-on-hugging-face-spring-2026.md)

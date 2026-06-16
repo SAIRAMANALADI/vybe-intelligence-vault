@@ -44,4 +44,4 @@ Original source URL: https://ragflow.io
 
 ## Local Vault File
 
-Path: [ragflow.md](file:///../../ai/rag/ragflow.md)
+Path: [ragflow.md](../../ai/rag/ragflow.md)

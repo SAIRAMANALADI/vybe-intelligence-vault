@@ -47,4 +47,4 @@ Original source URL: https://anthropic.com/news/ai-enabled-cyber-threats-mitre-a
 
 ## Local Vault File
 
-Path: [jun-3-2026policywhat-we-learned-mapping-a-years-wo.md](file:///../../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
+Path: [jun-3-2026policywhat-we-learned-mapping-a-years-wo.md](../../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)

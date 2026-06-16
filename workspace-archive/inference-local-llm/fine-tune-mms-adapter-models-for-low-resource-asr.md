@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mms_adapters
 
 ## Local Vault File
 
-Path: [fine-tune-mms-adapter-models-for-low-resource-asr.md](file:///../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)
+Path: [fine-tune-mms-adapter-models-for-low-resource-asr.md](../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)

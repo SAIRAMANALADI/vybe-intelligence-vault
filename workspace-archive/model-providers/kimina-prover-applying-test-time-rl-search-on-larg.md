@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-mo/kimina-prover
 
 ## Local Vault File
 
-Path: [kimina-prover-applying-test-time-rl-search-on-larg.md](file:///../../ai/models/kimina-prover-applying-test-time-rl-search-on-larg.md)
+Path: [kimina-prover-applying-test-time-rl-search-on-larg.md](../../ai/models/kimina-prover-applying-test-time-rl-search-on-larg.md)

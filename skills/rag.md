@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1674 resources matched in the intelligence vault.
+Active signals: 1683 resources matched in the intelligence vault.
 Recently detected signals:
-- [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) (Source: Unknown Source) - Collected 2026-06-16
-- [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) (Source: Unknown Source) - Collected 2026-06-16
-- [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) (Source: Unknown Source) - Collected 2026-06-16
-- [CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community](../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md) (Source: Unknown Source) - Collected 2026-06-16
-- [CrewAI Production: 5 Practices That Actually Scale | Markaicode](../ai/rag/crewai-production-5-practices-that-actually-scale.md) (Source: Unknown Source) - Collected 2026-06-16
+- [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) (Source: Unknown Source) - Collected 2026-06-16
+- [AutoGen: LLM-Driven Multi-Agent Framework](../ai/rag/autogen-llm-driven-multi-agent-framework.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Top 5 Open-Source Agentic AI Frameworks in 2026](../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Building Smarter Cybersecurity with Agentic AI and the AutoGen Framework - XSignOn Blog](../ai/rag/building-smarter-cybersecurity-with-agentic-ai-and.md) (Source: Unknown Source) - Collected 2026-06-16
+- [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -251,35 +251,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task b...
 
-### 45. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) ([GitHub](https://github.com/pydantic/pydantic-ai))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pydantic/pydantic-ai
-
-### 46. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 45. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 47. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([GitHub](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
+### 46. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) ([GitHub](https://github.com/pydantic/pydantic-ai))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pydantic/pydantic-ai
+
+### 47. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+- Stars: 0
+- Language: Unknown
+- Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
+
+### 48. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([GitHub](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
 - Stars: 0
 - Language: Unknown
 - Description: agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository created by GitHub Classroom
 
-### 48. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
+### 49. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
 - Stars: 0
 - Language: Unknown
 - Description: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate...
 
-### 49. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
+### 50. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
 - Stars: 0
 - Language: Unknown
 - Description: Comprehensive ML/AI interview codex with iterative system design, production-ready code, and 2026 standards. Includes LLM/GenAI, RAG systems, agentic AI, and algorithms from scratch.
-
-### 50. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md) ([GitHub](https://github.com/timan-group/plugmem))
-- Stars: 0
-- Language: Unknown
-- Description: ICML 2026 · Plug-and-play long-term memory for LLM agents
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T17:33:07.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

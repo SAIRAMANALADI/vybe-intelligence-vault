@@ -44,4 +44,4 @@ Original source URL: https://github.com/hsuanyi-chou/shadcn-ui-expansions
 
 ## Local Vault File
 
-Path: [hsuanyi-chou-shadcn-ui-expansions.md](file:///../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md)
+Path: [hsuanyi-chou-shadcn-ui-expansions.md](../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md)

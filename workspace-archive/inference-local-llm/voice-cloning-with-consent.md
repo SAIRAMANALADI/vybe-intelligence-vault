@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/voice-consent-gate
 
 ## Local Vault File
 
-Path: [voice-cloning-with-consent.md](file:///../../ai/models/voice-cloning-with-consent.md)
+Path: [voice-cloning-with-consent.md](../../ai/models/voice-cloning-with-consent.md)

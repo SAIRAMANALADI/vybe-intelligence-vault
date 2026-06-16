@@ -46,4 +46,4 @@ Original source URL: https://github.com/raganwald/raganwald.github.com
 
 ## Local Vault File
 
-Path: [raganwald-raganwald-github-com.md](file:///../../ai/rag/raganwald-raganwald-github-com.md)
+Path: [raganwald-raganwald-github-com.md](../../ai/rag/raganwald-raganwald-github-com.md)

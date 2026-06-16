@@ -44,4 +44,4 @@ Original source URL: https://github.com/satnaing/shadcn-admin
 
 ## Local Vault File
 
-Path: [satnaing-shadcn-admin.md](file:///../../web-development/shadcn-ui/satnaing-shadcn-admin.md)
+Path: [satnaing-shadcn-admin.md](../../web-development/shadcn-ui/satnaing-shadcn-admin.md)

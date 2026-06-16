@@ -46,4 +46,4 @@ Original source URL: https://github.com/iamshaunjp/framer-motion
 
 ## Local Vault File
 
-Path: [iamshaunjp-framer-motion.md](file:///../../web-development/framer-motion/iamshaunjp-framer-motion.md)
+Path: [iamshaunjp-framer-motion.md](../../web-development/framer-motion/iamshaunjp-framer-motion.md)

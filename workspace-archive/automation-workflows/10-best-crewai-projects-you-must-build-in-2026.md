@@ -53,4 +53,4 @@ Original source URL: https://www.projectpro.io/article/crew-ai-projects-ideas-an
 
 ## Local Vault File
 
-Path: [10-best-crewai-projects-you-must-build-in-2026.md](file:///../../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)
+Path: [10-best-crewai-projects-you-must-build-in-2026.md](../../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-3
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-3-ethical-openness-a.md](file:///../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)
+Path: [ethics-and-society-newsletter-3-ethical-openness-a.md](../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/playcanvas/engine
 
 ## Local Vault File
 
-Path: [playcanvas-engine.md](file:///../../web-development/webgpu/playcanvas-engine.md)
+Path: [playcanvas-engine.md](../../web-development/webgpu/playcanvas-engine.md)

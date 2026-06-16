@@ -45,4 +45,4 @@ Original source URL: https://github.com/semgrep/mcp
 
 ## Local Vault File
 
-Path: [semgrep-mcp.md](file:///../../ai/resources/semgrep-mcp.md)
+Path: [semgrep-mcp.md](../../ai/resources/semgrep-mcp.md)

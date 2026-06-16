@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-protein-language-model-pr
 
 ## Local Vault File
 
-Path: [accelerating-protein-language-model-protst-on-inte.md](file:///../../ai/models/accelerating-protein-language-model-protst-on-inte.md)
+Path: [accelerating-protein-language-model-protst-on-inte.md](../../ai/models/accelerating-protein-language-model-protst-on-inte.md)

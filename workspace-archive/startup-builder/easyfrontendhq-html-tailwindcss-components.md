@@ -44,4 +44,4 @@ Original source URL: https://github.com/easyfrontendhq/html-tailwindcss-componen
 
 ## Local Vault File
 
-Path: [easyfrontendhq-html-tailwindcss-components.md](file:///../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)
+Path: [easyfrontendhq-html-tailwindcss-components.md](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md)

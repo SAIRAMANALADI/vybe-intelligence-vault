@@ -54,4 +54,4 @@ Original source URL: https://importai.substack.com/p/importai-449-llms-training-
 
 ## Local Vault File
 
-Path: [importai-449-llms-training-other-llms-72b-distribu.md](file:///../../ai/rag/importai-449-llms-training-other-llms-72b-distribu.md)
+Path: [importai-449-llms-training-other-llms-72b-distribu.md](../../ai/rag/importai-449-llms-training-other-llms-72b-distribu.md)

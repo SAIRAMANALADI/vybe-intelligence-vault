@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/how-to-generate
 
 ## Local Vault File
 
-Path: [how-to-generate-text-using-different-decoding-meth.md](file:///../../ai/models/how-to-generate-text-using-different-decoding-meth.md)
+Path: [how-to-generate-text-using-different-decoding-meth.md](../../ai/models/how-to-generate-text-using-different-decoding-meth.md)

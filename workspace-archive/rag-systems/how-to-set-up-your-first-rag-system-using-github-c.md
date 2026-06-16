@@ -48,4 +48,4 @@ Original source URL: https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-u
 
 ## Local Vault File
 
-Path: [how-to-set-up-your-first-rag-system-using-github-c.md](file:///../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)
+Path: [how-to-set-up-your-first-rag-system-using-github-c.md](../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md)

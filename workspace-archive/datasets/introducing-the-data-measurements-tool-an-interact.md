@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/data-measurements-tool
 
 ## Local Vault File
 
-Path: [introducing-the-data-measurements-tool-an-interact.md](file:///../../ai/models/introducing-the-data-measurements-tool-an-interact.md)
+Path: [introducing-the-data-measurements-tool-an-interact.md](../../ai/models/introducing-the-data-measurements-tool-an-interact.md)

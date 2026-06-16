@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-medicalllm
 
 ## Local Vault File
 
-Path: [the-open-medical-llm-leaderboard-benchmarking-larg.md](file:///../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)
+Path: [the-open-medical-llm-leaderboard-benchmarking-larg.md](../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
 
 ## Local Vault File
 
-Path: [run-comfyui-workflows-for-free-with-gradio-on-hugg.md](file:///../../ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)
+Path: [run-comfyui-workflows-for-free-with-gradio-on-hugg.md](../../ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/alphardex/kokomi.js
 
 ## Local Vault File
 
-Path: [alphardex-kokomi-js.md](file:///../../web-development/threejs/alphardex-kokomi-js.md)
+Path: [alphardex-kokomi-js.md](../../web-development/threejs/alphardex-kokomi-js.md)

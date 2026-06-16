@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolervlm
 
 ## Local Vault File
 
-Path: [smolvlm-grows-smaller-introducing-the-256m-500m-mo.md](file:///../../ai/models/smolvlm-grows-smaller-introducing-the-256m-500m-mo.md)
+Path: [smolvlm-grows-smaller-introducing-the-256m-500m-mo.md](../../ai/models/smolvlm-grows-smaller-introducing-the-256m-500m-mo.md)

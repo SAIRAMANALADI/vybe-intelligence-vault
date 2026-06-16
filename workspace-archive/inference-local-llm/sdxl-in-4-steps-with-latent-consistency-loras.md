@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lcm_lora
 
 ## Local Vault File
 
-Path: [sdxl-in-4-steps-with-latent-consistency-loras.md](file:///../../ai/models/sdxl-in-4-steps-with-latent-consistency-loras.md)
+Path: [sdxl-in-4-steps-with-latent-consistency-loras.md](../../ai/models/sdxl-in-4-steps-with-latent-consistency-loras.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cnil
 
 ## Local Vault File
 
-Path: [hugging-face-selected-for-the-french-data-protecti.md](file:///../../ai/models/hugging-face-selected-for-the-french-data-protecti.md)
+Path: [hugging-face-selected-for-the-french-data-protecti.md](../../ai/models/hugging-face-selected-for-the-french-data-protecti.md)

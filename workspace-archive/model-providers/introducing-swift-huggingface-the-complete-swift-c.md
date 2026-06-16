@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-huggingface
 
 ## Local Vault File
 
-Path: [introducing-swift-huggingface-the-complete-swift-c.md](file:///../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)
+Path: [introducing-swift-huggingface-the-complete-swift-c.md](../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)

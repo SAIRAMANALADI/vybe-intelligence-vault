@@ -51,4 +51,4 @@ Original source URL: https://codersera.com/blog/ai-agent-benchmarks-state-of-lea
 
 ## Local Vault File
 
-Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md](file:///../../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
+Path: [ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md](../../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)

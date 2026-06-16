@@ -45,4 +45,4 @@ Original source URL: https://github.com/acuvity/minibridge
 
 ## Local Vault File
 
-Path: [acuvity-minibridge.md](file:///../../ai/resources/acuvity-minibridge.md)
+Path: [acuvity-minibridge.md](../../ai/resources/acuvity-minibridge.md)

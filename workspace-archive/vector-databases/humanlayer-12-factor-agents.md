@@ -46,4 +46,4 @@ Original source URL: https://github.com/humanlayer/12-factor-agents
 
 ## Local Vault File
 
-Path: [humanlayer-12-factor-agents.md](file:///../../ai/rag/humanlayer-12-factor-agents.md)
+Path: [humanlayer-12-factor-agents.md](../../ai/rag/humanlayer-12-factor-agents.md)

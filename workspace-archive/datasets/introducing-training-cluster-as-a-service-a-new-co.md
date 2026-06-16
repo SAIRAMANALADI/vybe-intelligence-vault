@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia-training-cluster
 
 ## Local Vault File
 
-Path: [introducing-training-cluster-as-a-service-a-new-co.md](file:///../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)
+Path: [introducing-training-cluster-as-a-service-a-new-co.md](../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-blog
 
 ## Local Vault File
 
-Path: [public-policy-at-hugging-face.md](file:///../../ai/models/public-policy-at-hugging-face.md)
+Path: [public-policy-at-hugging-face.md](../../ai/models/public-policy-at-hugging-face.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/asr-chunking
 
 ## Local Vault File
 
-Path: [making-automatic-speech-recognition-work-on-large.md](file:///../../ai/models/making-automatic-speech-recognition-work-on-large.md)
+Path: [making-automatic-speech-recognition-work-on-large.md](../../ai/models/making-automatic-speech-recognition-work-on-large.md)

@@ -47,4 +47,4 @@ Original source URL: https://trec-rag.github.io
 
 ## Local Vault File
 
-Path: [rag.md](file:///../../ai/rag/rag.md)
+Path: [rag.md](../../ai/rag/rag.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/packing-with-fa2
 
 ## Local Vault File
 
-Path: [improving-hugging-face-training-efficiency-through.md](file:///../../ai/models/improving-hugging-face-training-efficiency-through.md)
+Path: [improving-hugging-face-training-efficiency-through.md](../../ai/models/improving-hugging-face-training-efficiency-through.md)

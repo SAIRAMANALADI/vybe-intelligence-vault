@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-mmlu
 
 ## Local Vault File
 
-Path: [what-s-going-on-with-the-open-llm-leaderboard.md](file:///../../ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)
+Path: [what-s-going-on-with-the-open-llm-leaderboard.md](../../ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets
 
 ## Local Vault File
 
-Path: [lerobot-community-datasets-the-imagenet-of-robotic.md](file:///../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)
+Path: [lerobot-community-datasets-the-imagenet-of-robotic.md](../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)

@@ -49,4 +49,4 @@ Original source URL: https://mistral.ai/news/workflows
 
 ## Local Vault File
 
-Path: [product-workflows-for-work-that-runs-the-business.md](file:///../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
+Path: [product-workflows-for-work-that-runs-the-business.md](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)

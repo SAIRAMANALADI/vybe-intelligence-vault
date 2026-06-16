@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-transformers-with-in
 
 ## Local Vault File
 
-Path: [accelerating-hugging-face-transformers-with-aws-in.md](file:///../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)
+Path: [accelerating-hugging-face-transformers-with-aws-in.md](../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)

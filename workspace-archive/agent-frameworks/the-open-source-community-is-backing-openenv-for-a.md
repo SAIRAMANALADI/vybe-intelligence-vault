@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv-agentic-rl
 
 ## Local Vault File
 
-Path: [the-open-source-community-is-backing-openenv-for-a.md](file:///../../ai/agents/the-open-source-community-is-backing-openenv-for-a.md)
+Path: [the-open-source-community-is-backing-openenv-for-a.md](../../ai/agents/the-open-source-community-is-backing-openenv-for-a.md)

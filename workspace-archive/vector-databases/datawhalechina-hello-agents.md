@@ -45,4 +45,4 @@ Original source URL: https://github.com/datawhalechina/hello-agents
 
 ## Local Vault File
 
-Path: [datawhalechina-hello-agents.md](file:///../../ai/rag/datawhalechina-hello-agents.md)
+Path: [datawhalechina-hello-agents.md](../../ai/rag/datawhalechina-hello-agents.md)

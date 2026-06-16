@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/snowball-fight
 
 ## Local Vault File
 
-Path: [introducing-snowball-fight-our-first-ml-agents-env.md](file:///../../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)
+Path: [introducing-snowball-fight-our-first-ml-agents-env.md](../../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)

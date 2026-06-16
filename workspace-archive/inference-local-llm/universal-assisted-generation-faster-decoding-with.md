@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/universal_assisted_generation
 
 ## Local Vault File
 
-Path: [universal-assisted-generation-faster-decoding-with.md](file:///../../ai/models/universal-assisted-generation-faster-decoding-with.md)
+Path: [universal-assisted-generation-faster-decoding-with.md](../../ai/models/universal-assisted-generation-faster-decoding-with.md)

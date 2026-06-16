@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-deepinfra
 
 ## Local Vault File
 
-Path: [deepinfra-on-hugging-face-inference-providers.md](file:///../../ai/models/deepinfra-on-hugging-face-inference-providers.md)
+Path: [deepinfra-on-hugging-face-inference-providers.md](../../ai/models/deepinfra-on-hugging-face-inference-providers.md)

@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/next-5
 
 ## Local Vault File
 
-Path: [next-js-5-universal-webpack-css-imports-plugins-an.md](file:///../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)
+Path: [next-js-5-universal-webpack-css-imports-plugins-an.md](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md)

@@ -48,4 +48,4 @@ Original source URL: https://github.com/Haohao-end/openagent
 
 ## Local Vault File
 
-Path: [haohao-end-openagent.md](file:///../../ai/agents/haohao-end-openagent.md)
+Path: [haohao-end-openagent.md](../../ai/agents/haohao-end-openagent.md)

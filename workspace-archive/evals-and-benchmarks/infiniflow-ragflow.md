@@ -47,4 +47,4 @@ Original source URL: https://github.com/infiniflow/ragflow
 
 ## Local Vault File
 
-Path: [infiniflow-ragflow.md](file:///../../ai/rag/infiniflow-ragflow.md)
+Path: [infiniflow-ragflow.md](../../ai/rag/infiniflow-ragflow.md)

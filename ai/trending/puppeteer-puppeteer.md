@@ -4,8 +4,8 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/puppeteer/puppeteer
-published_at: '2026-06-16T17:27:26.088947+05:30'
-collected_at: '2026-06-16T17:27:26.088950+05:30'
+published_at: '2026-06-16T19:32:39.792860+05:30'
+collected_at: '2026-06-16T19:32:39.792862+05:30'
 tags:
 - github-trending
 - reddit
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:puppeteer/puppeteer
 first_seen: '2026-06-16T17:27:26.088950+05:30'
-last_seen: '2026-06-16T17:27:26.088950+05:30'
-last_checked: '2026-06-16T17:27:26.088950+05:30'
+last_seen: '2026-06-16T19:32:39.792862+05:30'
+last_checked: '2026-06-16T19:32:39.792862+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-16T17:27:26.088947+05:30
+- Published: 2026-06-16T19:32:39.792860+05:30
 
 ## Related Tags
 

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-fsdp
 
 ## Local Vault File
 
-Path: [accelerate-large-model-training-using-pytorch-full.md](file:///../../ai/models/accelerate-large-model-training-using-pytorch-full.md)
+Path: [accelerate-large-model-training-using-pytorch-full.md](../../ai/models/accelerate-large-model-training-using-pytorch-full.md)

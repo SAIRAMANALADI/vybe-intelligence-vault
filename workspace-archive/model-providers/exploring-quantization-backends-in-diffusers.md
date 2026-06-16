@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/diffusers-quantization
 
 ## Local Vault File
 
-Path: [exploring-quantization-backends-in-diffusers.md](file:///../../ai/models/exploring-quantization-backends-in-diffusers.md)
+Path: [exploring-quantization-backends-in-diffusers.md](../../ai/models/exploring-quantization-backends-in-diffusers.md)

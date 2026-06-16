@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cybersecurity-openness
 
 ## Local Vault File
 
-Path: [ai-and-the-future-of-cybersecurity-why-openness-ma.md](file:///../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)
+Path: [ai-and-the-future-of-cybersecurity-why-openness-ma.md](../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)

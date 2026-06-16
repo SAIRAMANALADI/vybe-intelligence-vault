@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [an-overview-of-inference-solutions-on-hugging-face.md](file:///../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)
+Path: [an-overview-of-inference-solutions-on-hugging-face.md](../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)

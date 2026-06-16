@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/run-musicgen-as-an-api
 
 ## Local Vault File
 
-Path: [deploy-musicgen-in-no-time-with-inference-endpoint.md](file:///../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)
+Path: [deploy-musicgen-in-no-time-with-inference-endpoint.md](../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)

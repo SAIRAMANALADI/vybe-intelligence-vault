@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fetch-case-study
 
 ## Local Vault File
 
-Path: [fetch-cuts-ml-processing-latency-by-50-using-amazo.md](file:///../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)
+Path: [fetch-cuts-ml-processing-latency-by-50-using-amazo.md](../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)

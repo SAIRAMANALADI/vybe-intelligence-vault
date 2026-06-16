@@ -52,4 +52,4 @@ Original source URL: https://qubittool.com/blog/ai-agent-framework-comparison-20
 
 ## Local Vault File
 
-Path: [2026-ai-agent-framework-showdown-langgraph-vs-crew.md](file:///../../ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crew.md)
+Path: [2026-ai-agent-framework-showdown-langgraph-vs-crew.md](../../ai/rag/2026-ai-agent-framework-showdown-langgraph-vs-crew.md)

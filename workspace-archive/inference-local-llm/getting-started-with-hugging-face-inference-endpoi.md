@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints
 
 ## Local Vault File
 
-Path: [getting-started-with-hugging-face-inference-endpoi.md](file:///../../ai/models/getting-started-with-hugging-face-inference-endpoi.md)
+Path: [getting-started-with-hugging-face-inference-endpoi.md](../../ai/models/getting-started-with-hugging-face-inference-endpoi.md)

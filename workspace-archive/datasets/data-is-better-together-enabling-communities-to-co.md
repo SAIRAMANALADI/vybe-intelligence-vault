@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/community-datasets
 
 ## Local Vault File
 
-Path: [data-is-better-together-enabling-communities-to-co.md](file:///../../ai/models/data-is-better-together-enabling-communities-to-co.md)
+Path: [data-is-better-together-enabling-communities-to-co.md](../../ai/models/data-is-better-together-enabling-communities-to-co.md)

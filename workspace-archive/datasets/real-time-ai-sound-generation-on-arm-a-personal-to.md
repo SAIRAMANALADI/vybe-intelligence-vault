@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arm/ai-sound-gen-on-arm
 
 ## Local Vault File
 
-Path: [real-time-ai-sound-generation-on-arm-a-personal-to.md](file:///../../ai/models/real-time-ai-sound-generation-on-arm-a-personal-to.md)
+Path: [real-time-ai-sound-generation-on-arm-a-personal-to.md](../../ai/models/real-time-ai-sound-generation-on-arm-a-personal-to.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gradio-vton-mcp
 
 ## Local Vault File
 
-Path: [implementing-mcp-servers-in-python-an-ai-shopping.md](file:///../../ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)
+Path: [implementing-mcp-servers-in-python-an-ai-shopping.md](../../ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)

@@ -42,4 +42,4 @@ Original source URL: https://github.com/saasykits/nextjs-sessionauth-template
 
 ## Local Vault File
 
-Path: [saasykits-nextjs-sessionauth-template.md](file:///../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md)
+Path: [saasykits-nextjs-sessionauth-template.md](../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md)

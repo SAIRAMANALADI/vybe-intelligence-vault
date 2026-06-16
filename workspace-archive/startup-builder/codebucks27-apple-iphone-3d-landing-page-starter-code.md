@@ -46,4 +46,4 @@ Original source URL: https://github.com/codebucks27/apple-iphone-3d-landing-page
 
 ## Local Vault File
 
-Path: [codebucks27-apple-iphone-3d-landing-page-starter-code.md](file:///../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md)
+Path: [codebucks27-apple-iphone-3d-landing-page-starter-code.md](../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md)

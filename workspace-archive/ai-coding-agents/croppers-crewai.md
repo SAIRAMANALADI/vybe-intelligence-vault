@@ -44,4 +44,4 @@ Original source URL: https://github.com/croppers/crewai
 
 ## Local Vault File
 
-Path: [croppers-crewai.md](file:///../../ai/agents/croppers-crewai.md)
+Path: [croppers-crewai.md](../../ai/agents/croppers-crewai.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [the-future-of-the-global-open-source-ai-ecosystem.md](file:///../../ai/models/the-future-of-the-global-open-source-ai-ecosystem.md)
+Path: [the-future-of-the-global-open-source-ai-ecosystem.md](../../ai/models/the-future-of-the-global-open-source-ai-ecosystem.md)

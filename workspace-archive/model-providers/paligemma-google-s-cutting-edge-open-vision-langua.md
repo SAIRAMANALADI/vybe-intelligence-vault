@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma
 
 ## Local Vault File
 
-Path: [paligemma-google-s-cutting-edge-open-vision-langua.md](file:///../../ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)
+Path: [paligemma-google-s-cutting-edge-open-vision-langua.md](../../ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)

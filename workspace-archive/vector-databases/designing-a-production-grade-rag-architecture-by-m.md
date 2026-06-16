@@ -46,4 +46,4 @@ Original source URL: https://levelup.gitconnected.com/designing-a-production-gra
 
 ## Local Vault File
 
-Path: [designing-a-production-grade-rag-architecture-by-m.md](file:///../../ai/rag/designing-a-production-grade-rag-architecture-by-m.md)
+Path: [designing-a-production-grade-rag-architecture-by-m.md](../../ai/rag/designing-a-production-grade-rag-architecture-by-m.md)

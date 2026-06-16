@@ -44,4 +44,4 @@ Original source URL: https://machinelearningplus.com/gen-ai/simple-rag-explained
 
 ## Local Vault File
 
-Path: [simple-rag-explained-a-beginners-guide-to-retrieva.md](file:///../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md)
+Path: [simple-rag-explained-a-beginners-guide-to-retrieva.md](../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md)

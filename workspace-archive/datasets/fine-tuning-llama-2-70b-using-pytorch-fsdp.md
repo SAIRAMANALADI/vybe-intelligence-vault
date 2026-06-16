@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ram-efficient-pytorch-fsdp
 
 ## Local Vault File
 
-Path: [fine-tuning-llama-2-70b-using-pytorch-fsdp.md](file:///../../ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md)
+Path: [fine-tuning-llama-2-70b-using-pytorch-fsdp.md](../../ai/models/fine-tuning-llama-2-70b-using-pytorch-fsdp.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amazon/foundation-model-buildin
 
 ## Local Vault File
 
-Path: [building-blocks-for-foundation-model-training-and.md](file:///../../ai/models/building-blocks-for-foundation-model-training-and.md)
+Path: [building-blocks-for-foundation-model-training-and.md](../../ai/models/building-blocks-for-foundation-model-training-and.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bigcode
 
 ## Local Vault File
 
-Path: [huggingface-blog-bigcode.md](file:///../../ai/models/huggingface-blog-bigcode.md)
+Path: [huggingface-blog-bigcode.md](../../ai/models/huggingface-blog-bigcode.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kv-cache
 
 ## Local Vault File
 
-Path: [kv-cache-from-scratch-in-nanovlm.md](file:///../../ai/models/kv-cache-from-scratch-in-nanovlm.md)
+Path: [kv-cache-from-scratch-in-nanovlm.md](../../ai/models/kv-cache-from-scratch-in-nanovlm.md)

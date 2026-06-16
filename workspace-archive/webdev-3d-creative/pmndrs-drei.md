@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/drei
 
 ## Local Vault File
 
-Path: [pmndrs-drei.md](file:///../../web-development/react-three-fiber/pmndrs-drei.md)
+Path: [pmndrs-drei.md](../../web-development/react-three-fiber/pmndrs-drei.md)

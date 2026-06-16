@@ -44,4 +44,4 @@ Original source URL: https://github.com/gengine-js/gengine
 
 ## Local Vault File
 
-Path: [gengine-js-gengine.md](file:///../../web-development/webgpu/gengine-js-gengine.md)
+Path: [gengine-js-gengine.md](../../web-development/webgpu/gengine-js-gengine.md)

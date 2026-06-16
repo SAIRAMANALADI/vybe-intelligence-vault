@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcn-ui/taxonomy
 
 ## Local Vault File
 
-Path: [shadcn-ui-taxonomy.md](file:///../../web-development/shadcn-ui/shadcn-ui-taxonomy.md)
+Path: [shadcn-ui-taxonomy.md](../../web-development/shadcn-ui/shadcn-ui-taxonomy.md)

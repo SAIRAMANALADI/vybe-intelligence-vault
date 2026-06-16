@@ -53,4 +53,4 @@ Original source URL: https://www.braintrust.dev/articles/top-10-llm-observabilit
 
 ## Local Vault File
 
-Path: [top-10-llm-observability-tools-complete-guide-for.md](file:///../../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
+Path: [top-10-llm-observability-tools-complete-guide-for.md](../../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)

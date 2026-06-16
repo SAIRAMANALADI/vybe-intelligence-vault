@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reformer
 
 ## Local Vault File
 
-Path: [the-reformer-pushing-the-limits-of-language-modeli.md](file:///../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)
+Path: [the-reformer-pushing-the-limits-of-language-modeli.md](../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)

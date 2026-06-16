@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/debate
 
 ## Local Vault File
 
-Path: [letting-large-models-debate-the-first-multilingual.md](file:///../../ai/models/letting-large-models-debate-the-first-multilingual.md)
+Path: [letting-large-models-debate-the-first-multilingual.md](../../ai/models/letting-large-models-debate-the-first-multilingual.md)

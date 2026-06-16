@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-reload
 
 ## Local Vault File
 
-Path: [ai-apps-in-a-flash-with-gradio-s-reload-mode.md](file:///../../ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)
+Path: [ai-apps-in-a-flash-with-gradio-s-reload-mode.md](../../ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)

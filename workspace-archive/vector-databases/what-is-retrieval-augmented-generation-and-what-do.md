@@ -45,4 +45,4 @@ Original source URL: https://github.blog/ai-and-ml/generative-ai/what-is-retriev
 
 ## Local Vault File
 
-Path: [what-is-retrieval-augmented-generation-and-what-do.md](file:///../../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md)
+Path: [what-is-retrieval-augmented-generation-and-what-do.md](../../ai/rag/what-is-retrieval-augmented-generation-and-what-do.md)

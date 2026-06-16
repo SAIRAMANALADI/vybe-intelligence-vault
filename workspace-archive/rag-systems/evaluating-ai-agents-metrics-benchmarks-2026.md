@@ -52,4 +52,4 @@ Original source URL: https://freeacademy.ai/blog/how-to-evaluate-ai-agents-metri
 
 ## Local Vault File
 
-Path: [evaluating-ai-agents-metrics-benchmarks-2026.md](file:///../../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026.md)
+Path: [evaluating-ai-agents-metrics-benchmarks-2026.md](../../ai/rag/evaluating-ai-agents-metrics-benchmarks-2026.md)

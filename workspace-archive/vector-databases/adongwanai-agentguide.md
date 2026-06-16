@@ -45,4 +45,4 @@ Original source URL: https://github.com/adongwanai/AgentGuide
 
 ## Local Vault File
 
-Path: [adongwanai-agentguide.md](file:///../../ai/rag/adongwanai-agentguide.md)
+Path: [adongwanai-agentguide.md](../../ai/rag/adongwanai-agentguide.md)

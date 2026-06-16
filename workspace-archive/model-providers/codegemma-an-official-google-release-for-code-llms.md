@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/codegemma
 
 ## Local Vault File
 
-Path: [codegemma-an-official-google-release-for-code-llms.md](file:///../../ai/models/codegemma-an-official-google-release-for-code-llms.md)
+Path: [codegemma-an-official-google-release-for-code-llms.md](../../ai/models/codegemma-an-official-google-release-for-code-llms.md)

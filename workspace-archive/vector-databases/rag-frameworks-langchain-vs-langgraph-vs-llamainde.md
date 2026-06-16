@@ -51,4 +51,4 @@ Original source URL: https://aimultiple.com/rag-frameworks
 
 ## Local Vault File
 
-Path: [rag-frameworks-langchain-vs-langgraph-vs-llamainde.md](file:///../../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
+Path: [rag-frameworks-langchain-vs-langgraph-vs-llamainde.md](../../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)

@@ -48,4 +48,4 @@ Original source URL: https://fast-langgraph.neullabs.com/articles/langgraph-vs-f
 
 ## Local Vault File
 
-Path: [langgraph-vs-fast-langraph-side-by-side-benchmarks.md](file:///../../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks.md)
+Path: [langgraph-vs-fast-langraph-side-by-side-benchmarks.md](../../ai/agents/langgraph-vs-fast-langraph-side-by-side-benchmarks.md)

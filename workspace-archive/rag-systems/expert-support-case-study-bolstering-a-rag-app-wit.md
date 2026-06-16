@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/digital-green-llm-judge
 
 ## Local Vault File
 
-Path: [expert-support-case-study-bolstering-a-rag-app-wit.md](file:///../../ai/rag/expert-support-case-study-bolstering-a-rag-app-wit.md)
+Path: [expert-support-case-study-bolstering-a-rag-app-wit.md](../../ai/rag/expert-support-case-study-bolstering-a-rag-app-wit.md)

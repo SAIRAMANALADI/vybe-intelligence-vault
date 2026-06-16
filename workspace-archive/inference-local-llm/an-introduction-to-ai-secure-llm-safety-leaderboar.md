@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-decodingtrust
 
 ## Local Vault File
 
-Path: [an-introduction-to-ai-secure-llm-safety-leaderboar.md](file:///../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)
+Path: [an-introduction-to-ai-secure-llm-safety-leaderboar.md](../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)

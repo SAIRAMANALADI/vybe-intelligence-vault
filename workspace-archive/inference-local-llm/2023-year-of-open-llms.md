@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/2023-in-llms
 
 ## Local Vault File
 
-Path: [2023-year-of-open-llms.md](file:///../../ai/models/2023-year-of-open-llms.md)
+Path: [2023-year-of-open-llms.md](../../ai/models/2023-year-of-open-llms.md)

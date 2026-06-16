@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/create-next-app
 
 ## Local Vault File
 
-Path: [introducing-create-next-app.md](file:///../../web-development/nextjs/introducing-create-next-app.md)
+Path: [introducing-create-next-app.md](../../web-development/nextjs/introducing-create-next-app.md)

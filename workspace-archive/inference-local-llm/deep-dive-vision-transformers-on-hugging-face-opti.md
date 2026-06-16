@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vision-transformers
 
 ## Local Vault File
 
-Path: [deep-dive-vision-transformers-on-hugging-face-opti.md](file:///../../ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)
+Path: [deep-dive-vision-transformers-on-hugging-face-opti.md](../../ai/models/deep-dive-vision-transformers-on-hugging-face-opti.md)

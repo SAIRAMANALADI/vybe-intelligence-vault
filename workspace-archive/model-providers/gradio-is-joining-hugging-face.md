@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-joins-hf
 
 ## Local Vault File
 
-Path: [gradio-is-joining-hugging-face.md](file:///../../ai/models/gradio-is-joining-hugging-face.md)
+Path: [gradio-is-joining-hugging-face.md](../../ai/models/gradio-is-joining-hugging-face.md)

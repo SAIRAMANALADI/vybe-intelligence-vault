@@ -45,4 +45,4 @@ Original source URL: https://github.com/magicuidesign/portfolio
 
 ## Local Vault File
 
-Path: [magicuidesign-portfolio.md](file:///../../web-development/shadcn-ui/magicuidesign-portfolio.md)
+Path: [magicuidesign-portfolio.md](../../web-development/shadcn-ui/magicuidesign-portfolio.md)

@@ -43,4 +43,4 @@ Original source URL: https://github.com/notstark/portfolio
 
 ## Local Vault File
 
-Path: [notstark-portfolio.md](file:///../../web-development/nextjs/notstark-portfolio.md)
+Path: [notstark-portfolio.md](../../web-development/nextjs/notstark-portfolio.md)

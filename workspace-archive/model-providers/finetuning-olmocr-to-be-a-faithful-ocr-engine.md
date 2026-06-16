@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tngtech/finetuning-olmocr-to-be
 
 ## Local Vault File
 
-Path: [finetuning-olmocr-to-be-a-faithful-ocr-engine.md](file:///../../ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine.md)
+Path: [finetuning-olmocr-to-be-a-faithful-ocr-engine.md](../../ai/models/finetuning-olmocr-to-be-a-faithful-ocr-engine.md)

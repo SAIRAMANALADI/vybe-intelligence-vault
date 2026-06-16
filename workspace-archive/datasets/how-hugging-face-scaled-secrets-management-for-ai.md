@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/scaling-secrets-management
 
 ## Local Vault File
 
-Path: [how-hugging-face-scaled-secrets-management-for-ai.md](file:///../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)
+Path: [how-hugging-face-scaled-secrets-management-for-ai.md](../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)

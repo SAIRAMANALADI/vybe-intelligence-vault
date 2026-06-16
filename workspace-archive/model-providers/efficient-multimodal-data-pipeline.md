@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: [efficient-multimodal-data-pipeline.md](file:///../../ai/models/efficient-multimodal-data-pipeline.md)
+Path: [efficient-multimodal-data-pipeline.md](../../ai/models/efficient-multimodal-data-pipeline.md)

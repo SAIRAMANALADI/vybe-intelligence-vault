@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open_rail
 
 ## Local Vault File
 
-Path: [openrail-towards-open-and-responsible-ai-licensing.md](file:///../../ai/models/openrail-towards-open-and-responsible-ai-licensing.md)
+Path: [openrail-towards-open-and-responsible-ai-licensing.md](../../ai/models/openrail-towards-open-and-responsible-ai-licensing.md)

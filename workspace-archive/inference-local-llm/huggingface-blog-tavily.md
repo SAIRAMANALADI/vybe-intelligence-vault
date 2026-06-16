@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tavily
 
 ## Local Vault File
 
-Path: [huggingface-blog-tavily.md](file:///../../ai/models/huggingface-blog-tavily.md)
+Path: [huggingface-blog-tavily.md](../../ai/models/huggingface-blog-tavily.md)

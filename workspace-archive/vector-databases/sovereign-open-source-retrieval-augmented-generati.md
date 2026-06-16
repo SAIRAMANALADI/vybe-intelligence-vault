@@ -51,4 +51,4 @@ Original source URL: https://open-rag.ai
 
 ## Local Vault File
 
-Path: [sovereign-open-source-retrieval-augmented-generati.md](file:///../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)
+Path: [sovereign-open-source-retrieval-augmented-generati.md](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/porting-fsmt
 
 ## Local Vault File
 
-Path: [porting-fairseq-wmt19-translation-system-to-transf.md](file:///../../ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)
+Path: [porting-fairseq-wmt19-translation-system-to-transf.md](../../ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/pricing-update
 
 ## Local Vault File
 
-Path: [introducing-our-new-pricing.md](file:///../../ai/models/introducing-our-new-pricing.md)
+Path: [introducing-our-new-pricing.md](../../ai/models/introducing-our-new-pricing.md)

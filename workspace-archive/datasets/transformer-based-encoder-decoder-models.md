@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/encoder-decoder
 
 ## Local Vault File
 
-Path: [transformer-based-encoder-decoder-models.md](file:///../../ai/models/transformer-based-encoder-decoder-models.md)
+Path: [transformer-based-encoder-decoder-models.md](../../ai/models/transformer-based-encoder-decoder-models.md)

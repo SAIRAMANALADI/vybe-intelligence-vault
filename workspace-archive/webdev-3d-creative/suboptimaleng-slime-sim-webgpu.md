@@ -44,4 +44,4 @@ Original source URL: https://github.com/suboptimaleng/slime-sim-webgpu
 
 ## Local Vault File
 
-Path: [suboptimaleng-slime-sim-webgpu.md](file:///../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md)
+Path: [suboptimaleng-slime-sim-webgpu.md](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md)

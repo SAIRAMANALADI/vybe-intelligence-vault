@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-finbench
 
 ## Local Vault File
 
-Path: [introducing-the-open-finllm-leaderboard.md](file:///../../ai/models/introducing-the-open-finllm-leaderboard.md)
+Path: [introducing-the-open-finllm-leaderboard.md](../../ai/models/introducing-the-open-finllm-leaderboard.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimizing-bark
 
 ## Local Vault File
 
-Path: [optimizing-bark-using-transformers.md](file:///../../ai/models/optimizing-bark-using-transformers.md)
+Path: [optimizing-bark-using-transformers.md](../../ai/models/optimizing-bark-using-transformers.md)

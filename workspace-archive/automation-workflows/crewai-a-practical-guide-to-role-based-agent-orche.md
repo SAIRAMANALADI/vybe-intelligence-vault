@@ -1,44 +1,42 @@
 ---
-title: 'CrewAI: A Practical Guide to Role-Based Agent Orchestration | DigitalOcean'
+title: "CrewAI: A Practical Guide to Role-Based Agent Orchestration â\x80\x94 w3reference.com"
 archive_category: automation-workflows
-source_category: ai/rag
-source_url: https://www.digitalocean.com/community/tutorials/crewai-crash-course-role-based-agent-orchestration
+source_category: ai/agents
+source_url: https://www.w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration
 resource_id: blog:crewai-a-practical-guide-to-role-based-agent-orche
-local_vault_path: ai/rag/crewai-a-practical-guide-to-role-based-agent-orche.md
+local_vault_path: ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: benchmark
+resource_kind: framework
 importance: medium
 tags:
 - agents
-- benchmark
 - hackernews
+- models
 - openai
-- rag
-- reddit
-- scripts
+- paper
 - web-crawled
 - workflows
 selection_reason:
 - Strong keyword match
-- Valuable developer reference
+- Useful for project building
 ---
 
-# CrewAI: A Practical Guide to Role-Based Agent Orchestration | DigitalOcean
+# CrewAI: A Practical Guide to Role-Based Agent Orchestration â w3reference.com
 
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: benchmark
+- Resource kind: framework
 - Selection reasons:
   - Strong keyword match
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-BlogDocsCareersGet SupportContact SalesDigitalOceanProductsFeatured AI ProductsComputeBuild, deploy, and scale cloud compute resourcesContainers and ImagesSafely store and manage containers and backupsManaged DatabasesFully managed resources running ...
+Jun 7, 2026CrewAI: A Practical Guide to Role-Based Agent OrchestrationIn the era of AI, complex tasks often require collaboration rather than isolated work. CrewAI emerges as a powerful framework for orchestrating multiple AI agentsâeach with speci...
 
 ## Use Cases
 
@@ -48,8 +46,8 @@ BlogDocsCareersGet SupportContact SalesDigitalOceanProductsFeatured AI ProductsC
 
 ## Source
 
-Original source URL: https://www.digitalocean.com/community/tutorials/crewai-crash-course-role-based-agent-orchestration
+Original source URL: https://www.w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration
 
 ## Local Vault File
 
-Path: [crewai-a-practical-guide-to-role-based-agent-orche.md](file:///../../ai/rag/crewai-a-practical-guide-to-role-based-agent-orche.md)
+Path: [crewai-a-practical-guide-to-role-based-agent-orche.md](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-3-5-content-saf
 
 ## Local Vault File
 
-Path: [nemotron-3-5-content-safety-customizable-multimoda.md](file:///../../ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)
+Path: [nemotron-3-5-content-safety-customizable-multimoda.md](../../ai/models/nemotron-3-5-content-safety-customizable-multimoda.md)

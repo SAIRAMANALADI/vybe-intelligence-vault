@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma3
 
 ## Local Vault File
 
-Path: [welcome-gemma-3-google-s-all-new-multimodal-multil.md](file:///../../ai/models/welcome-gemma-3-google-s-all-new-multimodal-multil.md)
+Path: [welcome-gemma-3-google-s-all-new-multimodal-multil.md](../../ai/models/welcome-gemma-3-google-s-all-new-multimodal-multil.md)

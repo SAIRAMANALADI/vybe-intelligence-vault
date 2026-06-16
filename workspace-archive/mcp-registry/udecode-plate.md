@@ -44,4 +44,4 @@ Original source URL: https://github.com/udecode/plate
 
 ## Local Vault File
 
-Path: [udecode-plate.md](file:///../../web-development/shadcn-ui/udecode-plate.md)
+Path: [udecode-plate.md](../../web-development/shadcn-ui/udecode-plate.md)

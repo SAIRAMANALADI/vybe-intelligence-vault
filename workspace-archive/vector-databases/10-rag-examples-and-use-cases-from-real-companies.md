@@ -51,4 +51,4 @@ Original source URL: https://www.evidentlyai.com/blog/rag-examples
 
 ## Local Vault File
 
-Path: [10-rag-examples-and-use-cases-from-real-companies.md](file:///../../ai/rag/10-rag-examples-and-use-cases-from-real-companies.md)
+Path: [10-rag-examples-and-use-cases-from-real-companies.md](../../ai/rag/10-rag-examples-and-use-cases-from-real-companies.md)

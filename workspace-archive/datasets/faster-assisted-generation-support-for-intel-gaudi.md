@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation-support-gau
 
 ## Local Vault File
 
-Path: [faster-assisted-generation-support-for-intel-gaudi.md](file:///../../ai/models/faster-assisted-generation-support-for-intel-gaudi.md)
+Path: [faster-assisted-generation-support-for-intel-gaudi.md](../../ai/models/faster-assisted-generation-support-for-intel-gaudi.md)

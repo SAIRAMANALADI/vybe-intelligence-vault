@@ -44,4 +44,4 @@ Original source URL: https://github.com/datawhalechina/llm-universe
 
 ## Local Vault File
 
-Path: [datawhalechina-llm-universe.md](file:///../../ai/rag/datawhalechina-llm-universe.md)
+Path: [datawhalechina-llm-universe.md](../../ai/rag/datawhalechina-llm-universe.md)

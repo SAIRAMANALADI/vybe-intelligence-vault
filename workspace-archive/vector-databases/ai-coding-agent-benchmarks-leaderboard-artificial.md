@@ -51,4 +51,4 @@ Original source URL: https://artificialanalysis.ai/agents/coding-agents
 
 ## Local Vault File
 
-Path: [ai-coding-agent-benchmarks-leaderboard-artificial.md](file:///../../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
+Path: [ai-coding-agent-benchmarks-leaderboard-artificial.md](../../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)

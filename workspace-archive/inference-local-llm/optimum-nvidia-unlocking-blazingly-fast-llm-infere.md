@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-nvidia
 
 ## Local Vault File
 
-Path: [optimum-nvidia-unlocking-blazingly-fast-llm-infere.md](file:///../../ai/models/optimum-nvidia-unlocking-blazingly-fast-llm-infere.md)
+Path: [optimum-nvidia-unlocking-blazingly-fast-llm-infere.md](../../ai/models/optimum-nvidia-unlocking-blazingly-fast-llm-infere.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/isumitsoni/awesome-ai-pm
 
 ## Local Vault File
 
-Path: [isumitsoni-awesome-ai-pm.md](file:///../../ai/resources/isumitsoni-awesome-ai-pm.md)
+Path: [isumitsoni-awesome-ai-pm.md](../../ai/resources/isumitsoni-awesome-ai-pm.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore
 
 ## Local Vault File
 
-Path: [hugging-face-and-graphcore-partner-for-ipu-optimiz.md](file:///../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)
+Path: [hugging-face-and-graphcore-partner-for-ipu-optimiz.md](../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)

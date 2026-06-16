@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dynamic_speculation_lookahead
 
 ## Local Vault File
 
-Path: [faster-assisted-generation-with-dynamic-speculatio.md](file:///../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)
+Path: [faster-assisted-generation-with-dynamic-speculatio.md](../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)

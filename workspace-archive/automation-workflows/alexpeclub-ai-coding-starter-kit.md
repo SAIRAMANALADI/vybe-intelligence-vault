@@ -48,4 +48,4 @@ Original source URL: https://github.com/AlexPEClub/ai-coding-starter-kit
 
 ## Local Vault File
 
-Path: [alexpeclub-ai-coding-starter-kit.md](file:///../../ai/agents/alexpeclub-ai-coding-starter-kit.md)
+Path: [alexpeclub-ai-coding-starter-kit.md](../../ai/agents/alexpeclub-ai-coding-starter-kit.md)

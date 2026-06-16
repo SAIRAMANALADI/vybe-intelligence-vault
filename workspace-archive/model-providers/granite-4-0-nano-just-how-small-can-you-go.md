@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-4-nano
 
 ## Local Vault File
 
-Path: [granite-4-0-nano-just-how-small-can-you-go.md](file:///../../ai/models/granite-4-0-nano-just-how-small-can-you-go.md)
+Path: [granite-4-0-nano-just-how-small-can-you-go.md](../../ai/models/granite-4-0-nano-just-how-small-can-you-go.md)

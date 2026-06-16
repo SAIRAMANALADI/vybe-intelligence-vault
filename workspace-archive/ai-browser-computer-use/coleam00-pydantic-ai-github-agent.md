@@ -45,4 +45,4 @@ Original source URL: https://github.com/coleam00/pydantic-ai-github-agent
 
 ## Local Vault File
 
-Path: [coleam00-pydantic-ai-github-agent.md](file:///../../ai/agents/coleam00-pydantic-ai-github-agent.md)
+Path: [coleam00-pydantic-ai-github-agent.md](../../ai/agents/coleam00-pydantic-ai-github-agent.md)

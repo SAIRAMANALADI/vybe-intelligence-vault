@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-to-mlx
 
 ## Local Vault File
 
-Path: [the-pr-you-would-have-opened-yourself.md](file:///../../ai/models/the-pr-you-would-have-opened-yourself.md)
+Path: [the-pr-you-would-have-opened-yourself.md](../../ai/models/the-pr-you-would-have-opened-yourself.md)

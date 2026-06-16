@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/noob_intro_transformers
 
 ## Local Vault File
 
-Path: [total-noobs-intro-to-hugging-face-transformers.md](file:///../../ai/models/total-noobs-intro-to-hugging-face-transformers.md)
+Path: [total-noobs-intro-to-hugging-face-transformers.md](../../ai/models/total-noobs-intro-to-hugging-face-transformers.md)

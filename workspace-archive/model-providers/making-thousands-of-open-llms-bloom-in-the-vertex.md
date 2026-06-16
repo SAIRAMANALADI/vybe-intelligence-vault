@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud-model-garden
 
 ## Local Vault File
 
-Path: [making-thousands-of-open-llms-bloom-in-the-vertex.md](file:///../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)
+Path: [making-thousands-of-open-llms-bloom-in-the-vertex.md](../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)

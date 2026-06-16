@@ -45,4 +45,4 @@ Original source URL: https://github.com/tiagocavalcante/r3f-native-orbitcontrols
 
 ## Local Vault File
 
-Path: [tiagocavalcante-r3f-native-orbitcontrols.md](file:///../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)
+Path: [tiagocavalcante-r3f-native-orbitcontrols.md](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md)

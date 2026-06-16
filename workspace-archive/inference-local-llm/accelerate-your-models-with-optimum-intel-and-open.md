@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino
 
 ## Local Vault File
 
-Path: [accelerate-your-models-with-optimum-intel-and-open.md](file:///../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)
+Path: [accelerate-your-models-with-optimum-intel-and-open.md](../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)

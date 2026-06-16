@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/evaluation-structured-outputs
 
 ## Local Vault File
 
-Path: [improving-prompt-consistency-with-structured-gener.md](file:///../../ai/models/improving-prompt-consistency-with-structured-gener.md)
+Path: [improving-prompt-consistency-with-structured-gener.md](../../ai/models/improving-prompt-consistency-with-structured-gener.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-blocked
 
 ## Local Vault File
 
-Path: [how-long-prompts-block-other-requests-optimizing-l.md](file:///../../ai/models/how-long-prompts-block-other-requests-optimizing-l.md)
+Path: [how-long-prompts-block-other-requests-optimizing-l.md](../../ai/models/how-long-prompts-block-other-requests-optimizing-l.md)

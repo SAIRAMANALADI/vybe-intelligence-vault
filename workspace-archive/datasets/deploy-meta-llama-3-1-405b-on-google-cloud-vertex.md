@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama31-on-vertex-ai
 
 ## Local Vault File
 
-Path: [deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md](file:///../../ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)
+Path: [deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md](../../ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)

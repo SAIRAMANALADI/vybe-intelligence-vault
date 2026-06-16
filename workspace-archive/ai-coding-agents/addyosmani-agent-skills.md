@@ -47,4 +47,4 @@ Original source URL: https://github.com/addyosmani/agent-skills
 
 ## Local Vault File
 
-Path: [addyosmani-agent-skills.md](file:///../../ai/agents/addyosmani-agent-skills.md)
+Path: [addyosmani-agent-skills.md](../../ai/agents/addyosmani-agent-skills.md)

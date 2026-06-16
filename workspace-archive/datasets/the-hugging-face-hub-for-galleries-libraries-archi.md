@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-hub-glam-guide
 
 ## Local Vault File
 
-Path: [the-hugging-face-hub-for-galleries-libraries-archi.md](file:///../../ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)
+Path: [the-hugging-face-hub-for-galleries-libraries-archi.md](../../ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)

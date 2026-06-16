@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents-phoenix
 
 ## Local Vault File
 
-Path: [trace-evaluate-your-agent-with-arize-phoenix.md](file:///../../ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)
+Path: [trace-evaluate-your-agent-with-arize-phoenix.md](../../ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)

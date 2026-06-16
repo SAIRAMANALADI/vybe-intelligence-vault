@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/video_gen
 
 ## Local Vault File
 
-Path: [state-of-open-video-generation-models-in-diffusers.md](file:///../../ai/models/state-of-open-video-generation-models-in-diffusers.md)
+Path: [state-of-open-video-generation-models-in-diffusers.md](../../ai/models/state-of-open-video-generation-models-in-diffusers.md)

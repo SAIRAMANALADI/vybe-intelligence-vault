@@ -44,4 +44,4 @@ Original source URL: https://github.com/salimi-my/shadcn-ui-sidebar
 
 ## Local Vault File
 
-Path: [salimi-my-shadcn-ui-sidebar.md](file:///../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md)
+Path: [salimi-my-shadcn-ui-sidebar.md](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md)

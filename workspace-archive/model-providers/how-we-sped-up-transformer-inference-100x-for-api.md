@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [how-we-sped-up-transformer-inference-100x-for-api.md](file:///../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)
+Path: [how-we-sped-up-transformer-inference-100x-for-api.md](../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)

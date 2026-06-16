@@ -52,4 +52,4 @@ Original source URL: https://github.com/huggingface/transformers
 
 ## Local Vault File
 
-Path: [huggingface-transformers.md](file:///../../ai/releases/huggingface-transformers.md)
+Path: [huggingface-transformers.md](../../ai/releases/huggingface-transformers.md)

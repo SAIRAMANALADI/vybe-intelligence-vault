@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic
 
 ## Local Vault File
 
-Path: [introducing-the-open-arabic-llm-leaderboard.md](file:///../../ai/models/introducing-the-open-arabic-llm-leaderboard.md)
+Path: [introducing-the-open-arabic-llm-leaderboard.md](../../ai/models/introducing-the-open-arabic-llm-leaderboard.md)

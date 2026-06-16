@@ -53,4 +53,4 @@ Original source URL: https://dasroot.net/posts/2026/03/python-rag-projects-githu
 
 ## Local Vault File
 
-Path: [the-ultimate-list-of-python-rag-projects-on-github.md](file:///../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
+Path: [the-ultimate-list-of-python-rag-projects-on-github.md](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)

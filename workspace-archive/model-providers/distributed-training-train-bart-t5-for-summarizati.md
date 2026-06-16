@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-distributed-training-
 
 ## Local Vault File
 
-Path: [distributed-training-train-bart-t5-for-summarizati.md](file:///../../ai/models/distributed-training-train-bart-t5-for-summarizati.md)
+Path: [distributed-training-train-bart-t5-for-summarizati.md](../../ai/models/distributed-training-train-bart-t5-for-summarizati.md)

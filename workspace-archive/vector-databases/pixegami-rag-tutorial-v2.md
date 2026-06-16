@@ -44,4 +44,4 @@ Original source URL: https://github.com/pixegami/rag-tutorial-v2
 
 ## Local Vault File
 
-Path: [pixegami-rag-tutorial-v2.md](file:///../../ai/rag/pixegami-rag-tutorial-v2.md)
+Path: [pixegami-rag-tutorial-v2.md](../../ai/rag/pixegami-rag-tutorial-v2.md)

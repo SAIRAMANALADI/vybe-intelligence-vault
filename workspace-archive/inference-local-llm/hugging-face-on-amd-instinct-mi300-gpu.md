@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-mi300
 
 ## Local Vault File
 
-Path: [hugging-face-on-amd-instinct-mi300-gpu.md](file:///../../ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)
+Path: [hugging-face-on-amd-instinct-mi300-gpu.md](../../ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)

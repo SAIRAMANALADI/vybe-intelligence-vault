@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/peft
 
 ## Local Vault File
 
-Path: [parameter-efficient-fine-tuning-using-peft.md](file:///../../ai/models/parameter-efficient-fine-tuning-using-peft.md)
+Path: [parameter-efficient-fine-tuning-using-peft.md](../../ai/models/parameter-efficient-fine-tuning-using-peft.md)

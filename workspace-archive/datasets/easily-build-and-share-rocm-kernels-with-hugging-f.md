@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/build-rocm-kernels
 
 ## Local Vault File
 
-Path: [easily-build-and-share-rocm-kernels-with-hugging-f.md](file:///../../ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md)
+Path: [easily-build-and-share-rocm-kernels-with-hugging-f.md](../../ai/models/easily-build-and-share-rocm-kernels-with-hugging-f.md)

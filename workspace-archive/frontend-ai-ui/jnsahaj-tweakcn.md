@@ -44,4 +44,4 @@ Original source URL: https://github.com/jnsahaj/tweakcn
 
 ## Local Vault File
 
-Path: [jnsahaj-tweakcn.md](file:///../../web-development/shadcn-ui/jnsahaj-tweakcn.md)
+Path: [jnsahaj-tweakcn.md](../../web-development/shadcn-ui/jnsahaj-tweakcn.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-updates
 
 ## Local Vault File
 
-Path: [five-big-improvements-to-gradio-mcp-servers.md](file:///../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)
+Path: [five-big-improvements-to-gradio-mcp-servers.md](../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)

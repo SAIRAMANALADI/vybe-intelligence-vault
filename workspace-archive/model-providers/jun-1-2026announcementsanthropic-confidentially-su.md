@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/confidential-draft-s1-sec
 
 ## Local Vault File
 
-Path: [jun-1-2026announcementsanthropic-confidentially-su.md](file:///../../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
+Path: [jun-1-2026announcementsanthropic-confidentially-su.md](../../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lewis-tunstall-interview
 
 ## Local Vault File
 
-Path: [machine-learning-experts-lewis-tunstall.md](file:///../../ai/models/machine-learning-experts-lewis-tunstall.md)
+Path: [machine-learning-experts-lewis-tunstall.md](../../ai/models/machine-learning-experts-lewis-tunstall.md)

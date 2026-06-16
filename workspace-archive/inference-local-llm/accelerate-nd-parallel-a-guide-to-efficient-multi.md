@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-nd-parallel
 
 ## Local Vault File
 
-Path: [accelerate-nd-parallel-a-guide-to-efficient-multi.md](file:///../../ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)
+Path: [accelerate-nd-parallel-a-guide-to-efficient-multi.md](../../ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)

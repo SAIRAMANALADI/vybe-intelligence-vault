@@ -46,4 +46,4 @@ Original source URL: https://github.com/Bhaskar-Kurasala/AI-Arch-Hub
 
 ## Local Vault File
 
-Path: [bhaskar-kurasala-ai-arch-hub.md](file:///../../ai/rag/bhaskar-kurasala-ai-arch-hub.md)
+Path: [bhaskar-kurasala-ai-arch-hub.md](../../ai/rag/bhaskar-kurasala-ai-arch-hub.md)

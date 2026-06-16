@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
 
 ## Local Vault File
 
-Path: [fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md](file:///../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)
+Path: [fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md](../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)

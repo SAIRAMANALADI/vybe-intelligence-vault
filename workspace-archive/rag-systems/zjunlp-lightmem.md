@@ -47,4 +47,4 @@ Original source URL: https://github.com/zjunlp/LightMem
 
 ## Local Vault File
 
-Path: [zjunlp-lightmem.md](file:///../../ai/rag/zjunlp-lightmem.md)
+Path: [zjunlp-lightmem.md](../../ai/rag/zjunlp-lightmem.md)

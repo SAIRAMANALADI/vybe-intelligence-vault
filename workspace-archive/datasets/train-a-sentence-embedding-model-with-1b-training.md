@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/1b-sentence-embeddings
 
 ## Local Vault File
 
-Path: [train-a-sentence-embedding-model-with-1b-training.md](file:///../../ai/models/train-a-sentence-embedding-model-with-1b-training.md)
+Path: [train-a-sentence-embedding-model-with-1b-training.md](../../ai/models/train-a-sentence-embedding-model-with-1b-training.md)

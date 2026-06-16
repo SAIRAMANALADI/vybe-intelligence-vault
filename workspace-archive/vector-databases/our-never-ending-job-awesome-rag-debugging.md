@@ -45,4 +45,4 @@ Original source URL: https://github.com/our-never-ending-job/awesome-rag-debuggi
 
 ## Local Vault File
 
-Path: [our-never-ending-job-awesome-rag-debugging.md](file:///../../ai/rag/our-never-ending-job-awesome-rag-debugging.md)
+Path: [our-never-ending-job-awesome-rag-debugging.md](../../ai/rag/our-never-ending-job-awesome-rag-debugging.md)

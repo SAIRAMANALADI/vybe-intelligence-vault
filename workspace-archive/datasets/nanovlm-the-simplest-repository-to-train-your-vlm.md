@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nanovlm
 
 ## Local Vault File
 
-Path: [nanovlm-the-simplest-repository-to-train-your-vlm.md](file:///../../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)
+Path: [nanovlm-the-simplest-repository-to-train-your-vlm.md](../../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)

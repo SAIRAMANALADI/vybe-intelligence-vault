@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: [introducing-storage-buckets-on-the-hugging-face-hu.md](file:///../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)
+Path: [introducing-storage-buckets-on-the-hugging-face-hu.md](../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)

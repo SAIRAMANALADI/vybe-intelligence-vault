@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-expanse
 
 ## Local Vault File
 
-Path: [a-deepdive-into-aya-expanse-advancing-the-frontier.md](file:///../../ai/models/a-deepdive-into-aya-expanse-advancing-the-frontier.md)
+Path: [a-deepdive-into-aya-expanse-advancing-the-frontier.md](../../ai/models/a-deepdive-into-aya-expanse-advancing-the-frontier.md)

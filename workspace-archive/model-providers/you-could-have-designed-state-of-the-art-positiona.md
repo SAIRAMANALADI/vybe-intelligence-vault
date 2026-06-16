@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/designing-positional-encoding
 
 ## Local Vault File
 
-Path: [you-could-have-designed-state-of-the-art-positiona.md](file:///../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)
+Path: [you-could-have-designed-state-of-the-art-positiona.md](../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)

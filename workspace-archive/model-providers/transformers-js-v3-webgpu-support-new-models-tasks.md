@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v3
 
 ## Local Vault File
 
-Path: [transformers-js-v3-webgpu-support-new-models-tasks.md](file:///../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)
+Path: [transformers-js-v3-webgpu-support-new-models-tasks.md](../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)

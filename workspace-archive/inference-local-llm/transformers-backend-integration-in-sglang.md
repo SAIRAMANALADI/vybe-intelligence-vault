@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-backend-sglang
 
 ## Local Vault File
 
-Path: [transformers-backend-integration-in-sglang.md](file:///../../ai/models/transformers-backend-integration-in-sglang.md)
+Path: [transformers-backend-integration-in-sglang.md](../../ai/models/transformers-backend-integration-in-sglang.md)

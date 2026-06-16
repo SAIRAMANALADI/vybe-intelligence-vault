@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mask2former
 
 ## Local Vault File
 
-Path: [universal-image-segmentation-with-mask2former-and.md](file:///../../ai/models/universal-image-segmentation-with-mask2former-and.md)
+Path: [universal-image-segmentation-with-mask2former-and.md](../../ai/models/universal-image-segmentation-with-mask2former-and.md)

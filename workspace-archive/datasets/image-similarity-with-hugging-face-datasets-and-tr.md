@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [image-similarity-with-hugging-face-datasets-and-tr.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)
+Path: [image-similarity-with-hugging-face-datasets-and-tr.md](../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)

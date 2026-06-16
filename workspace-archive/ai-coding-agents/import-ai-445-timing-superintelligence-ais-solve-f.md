@@ -51,4 +51,4 @@ Original source URL: https://importai.substack.com/p/import-ai-445-timing-superi
 
 ## Local Vault File
 
-Path: [import-ai-445-timing-superintelligence-ais-solve-f.md](file:///../../ai/agents/import-ai-445-timing-superintelligence-ais-solve-f.md)
+Path: [import-ai-445-timing-superintelligence-ais-solve-f.md](../../ai/agents/import-ai-445-timing-superintelligence-ais-solve-f.md)

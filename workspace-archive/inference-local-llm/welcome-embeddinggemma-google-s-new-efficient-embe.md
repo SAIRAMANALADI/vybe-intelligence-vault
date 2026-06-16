@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/embeddinggemma
 
 ## Local Vault File
 
-Path: [welcome-embeddinggemma-google-s-new-efficient-embe.md](file:///../../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)
+Path: [welcome-embeddinggemma-google-s-new-efficient-embe.md](../../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)

@@ -43,4 +43,4 @@ Original source URL: https://github.com/jolbol1/nextjs-velite-blog-template
 
 ## Local Vault File
 
-Path: [jolbol1-nextjs-velite-blog-template.md](file:///../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
+Path: [jolbol1-nextjs-velite-blog-template.md](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)

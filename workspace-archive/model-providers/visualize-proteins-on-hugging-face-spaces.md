@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spaces_3dmoljs
 
 ## Local Vault File
 
-Path: [visualize-proteins-on-hugging-face-spaces.md](file:///../../ai/models/visualize-proteins-on-hugging-face-spaces.md)
+Path: [visualize-proteins-on-hugging-face-spaces.md](../../ai/models/visualize-proteins-on-hugging-face-spaces.md)

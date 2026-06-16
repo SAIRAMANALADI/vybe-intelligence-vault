@@ -52,4 +52,4 @@ Original source URL: https://arxiv.org/html/2511.14136v1
 
 ## Local Vault File
 
-Path: [beyond-accuracy-a-multi-dimensional-framework-for.md](file:///../../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for.md)
+Path: [beyond-accuracy-a-multi-dimensional-framework-for.md](../../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for.md)

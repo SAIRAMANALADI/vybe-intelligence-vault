@@ -52,4 +52,4 @@ Original source URL: https://medium.com/@thepracticaldeveloper/top-open-source-l
 
 ## Local Vault File
 
-Path: [top-open-source-llm-observability-tools-in-2025-by.md](file:///../../ai/rag/top-open-source-llm-observability-tools-in-2025-by.md)
+Path: [top-open-source-llm-observability-tools-in-2025-by.md](../../ai/rag/top-open-source-llm-observability-tools-in-2025-by.md)

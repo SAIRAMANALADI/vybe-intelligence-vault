@@ -51,4 +51,4 @@ Original source URL: https://www.confident-ai.com/knowledge-base/compare/10-llm-
 
 ## Local Vault File
 
-Path: [10-llm-observability-tools-to-evaluate-monitor-ai.md](file:///../../ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai.md)
+Path: [10-llm-observability-tools-to-evaluate-monitor-ai.md](../../ai/rag/10-llm-observability-tools-to-evaluate-monitor-ai.md)

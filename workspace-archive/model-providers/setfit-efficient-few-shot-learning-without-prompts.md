@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit
 
 ## Local Vault File
 
-Path: [setfit-efficient-few-shot-learning-without-prompts.md](file:///../../ai/models/setfit-efficient-few-shot-learning-without-prompts.md)
+Path: [setfit-efficient-few-shot-learning-without-prompts.md](../../ai/models/setfit-efficient-few-shot-learning-without-prompts.md)

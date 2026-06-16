@@ -48,4 +48,4 @@ Original source URL: https://dev.to/parupati/building-production-ready-ai-agents
 
 ## Local Vault File
 
-Path: [building-production-ready-ai-agents-with-openai-ag.md](file:///../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
+Path: [building-production-ready-ai-agents-with-openai-ag.md](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)

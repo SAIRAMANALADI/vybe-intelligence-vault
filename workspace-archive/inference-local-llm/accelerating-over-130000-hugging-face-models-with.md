@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ort-accelerating-hf-models
 
 ## Local Vault File
 
-Path: [accelerating-over-130000-hugging-face-models-with.md](file:///../../ai/models/accelerating-over-130000-hugging-face-models-with.md)
+Path: [accelerating-over-130000-hugging-face-models-with.md](../../ai/models/accelerating-over-130000-hugging-face-models-with.md)

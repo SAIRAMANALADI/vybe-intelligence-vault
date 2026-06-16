@@ -47,4 +47,4 @@ Original source URL: https://github.com/ilexistools/agents-sdk-templates
 
 ## Local Vault File
 
-Path: [ilexistools-agents-sdk-templates.md](file:///../../ai/agents/ilexistools-agents-sdk-templates.md)
+Path: [ilexistools-agents-sdk-templates.md](../../ai/agents/ilexistools-agents-sdk-templates.md)

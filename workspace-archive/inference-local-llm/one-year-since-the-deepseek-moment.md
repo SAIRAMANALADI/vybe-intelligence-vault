@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [one-year-since-the-deepseek-moment.md](file:///../../ai/models/one-year-since-the-deepseek-moment.md)
+Path: [one-year-since-the-deepseek-moment.md](../../ai/models/one-year-since-the-deepseek-moment.md)

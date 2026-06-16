@@ -50,4 +50,4 @@ Original source URL: https://importai.substack.com/p/import-ai-448-ai-r-and-d-by
 
 ## Local Vault File
 
-Path: [import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md](file:///../../ai/agents/import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md)
+Path: [import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md](../../ai/agents/import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md)

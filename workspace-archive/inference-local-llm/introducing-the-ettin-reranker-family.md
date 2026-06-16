@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin-reranker
 
 ## Local Vault File
 
-Path: [introducing-the-ettin-reranker-family.md](file:///../../ai/models/introducing-the-ettin-reranker-family.md)
+Path: [introducing-the-ettin-reranker-family.md](../../ai/models/introducing-the-ettin-reranker-family.md)

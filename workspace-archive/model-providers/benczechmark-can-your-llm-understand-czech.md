@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: [benczechmark-can-your-llm-understand-czech.md](file:///../../ai/models/benczechmark-can-your-llm-understand-czech.md)
+Path: [benczechmark-can-your-llm-understand-czech.md](../../ai/models/benczechmark-can-your-llm-understand-czech.md)

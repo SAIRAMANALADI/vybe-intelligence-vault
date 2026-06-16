@@ -42,4 +42,4 @@ Original source URL: https://github.com/reliverse/relivator
 
 ## Local Vault File
 
-Path: [reliverse-relivator.md](file:///../../web-development/nextjs/reliverse-relivator.md)
+Path: [reliverse-relivator.md](../../web-development/nextjs/reliverse-relivator.md)

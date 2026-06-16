@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-cli-for-agents
 
 ## Local Vault File
 
-Path: [designing-the-hf-cli-as-an-agent-optimized-way-to.md](file:///../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)
+Path: [designing-the-hf-cli-as-an-agent-optimized-way-to.md](../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)

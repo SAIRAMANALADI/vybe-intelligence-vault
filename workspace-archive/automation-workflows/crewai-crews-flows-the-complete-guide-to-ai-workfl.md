@@ -50,4 +50,4 @@ Original source URL: https://dev.to/vishva_ram/crewai-crews-flows-the-complete-g
 
 ## Local Vault File
 
-Path: [crewai-crews-flows-the-complete-guide-to-ai-workfl.md](file:///../../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md)
+Path: [crewai-crews-flows-the-complete-guide-to-ai-workfl.md](../../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md)

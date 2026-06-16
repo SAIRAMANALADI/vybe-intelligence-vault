@@ -44,4 +44,4 @@ Original source URL: https://github.com/sanderblue/solar-system-threejs
 
 ## Local Vault File
 
-Path: [sanderblue-solar-system-threejs.md](file:///../../web-development/threejs/sanderblue-solar-system-threejs.md)
+Path: [sanderblue-solar-system-threejs.md](../../web-development/threejs/sanderblue-solar-system-threejs.md)

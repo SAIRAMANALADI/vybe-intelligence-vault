@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/webpack-memory
 
 ## Local Vault File
 
-Path: [next-js-8-webpack-memory-improvements.md](file:///../../web-development/nextjs/next-js-8-webpack-memory-improvements.md)
+Path: [next-js-8-webpack-memory-improvements.md](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md)

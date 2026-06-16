@@ -44,4 +44,4 @@ Original source URL: https://github.com/nklsrh/buildnewgames_threejsgame
 
 ## Local Vault File
 
-Path: [nklsrh-buildnewgames-threejsgame.md](file:///../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md)
+Path: [nklsrh-buildnewgames-threejsgame.md](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md)

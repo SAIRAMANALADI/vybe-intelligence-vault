@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/sygra-data-gen-fr
 
 ## Local Vault File
 
-Path: [sygra-the-one-stop-framework-for-building-data-for.md](file:///../../ai/models/sygra-the-one-stop-framework-for-building-data-for.md)
+Path: [sygra-the-one-stop-framework-for-building-data-for.md](../../ai/models/sygra-the-one-stop-framework-for-building-data-for.md)

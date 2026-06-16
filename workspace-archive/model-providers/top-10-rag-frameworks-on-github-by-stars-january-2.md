@@ -54,4 +54,4 @@ Original source URL: https://florinelchis.medium.com/top-10-rag-frameworks-on-gi
 
 ## Local Vault File
 
-Path: [top-10-rag-frameworks-on-github-by-stars-january-2.md](file:///../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
+Path: [top-10-rag-frameworks-on-github-by-stars-january-2.md](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)

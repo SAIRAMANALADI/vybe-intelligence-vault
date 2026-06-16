@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/mrdoob/three.js
-collected_at: '2026-06-16T17:27:23.869255+05:30'
-published_at: '2026-06-16T11:50:52Z'
+collected_at: '2026-06-16T19:32:37.659801+05:30'
+published_at: '2026-06-16T13:43:34Z'
 tags:
 - threejs
-stars: 113082
+stars: 113084
 language: JavaScript
 status: active
 resource_id: github:mrdoob/three.js
 first_seen: '2026-06-16T04:26:13.956193+00:00'
-last_seen: '2026-06-16T17:27:23.869255+05:30'
-last_checked: '2026-06-16T17:27:23.869255+05:30'
+last_seen: '2026-06-16T19:32:37.659801+05:30'
+last_checked: '2026-06-16T19:32:37.659801+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: mrdoob
-- Stars: 113082
-- Forks: 36376
+- Stars: 113084
+- Forks: 36378
 - Language: JavaScript
 - Topics: 3d, augmented-reality, canvas, html5, javascript, svg, virtual-reality, webaudio, webgl, webgl2, webgpu, webxr
-- Last Updated: 2026-06-16T11:50:52Z
+- Last Updated: 2026-06-16T13:43:34Z
 
 ## Possible Use Cases
 

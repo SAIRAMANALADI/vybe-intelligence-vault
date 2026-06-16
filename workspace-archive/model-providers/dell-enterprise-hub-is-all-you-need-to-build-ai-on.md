@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dell-ai-applications
 
 ## Local Vault File
 
-Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on.md](file:///../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)
+Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on.md](../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)

@@ -48,4 +48,4 @@ Original source URL: https://github.com/Sathvikkrishna/langgraph-benchmark
 
 ## Local Vault File
 
-Path: [sathvikkrishna-langgraph-benchmark.md](file:///../../ai/agents/sathvikkrishna-langgraph-benchmark.md)
+Path: [sathvikkrishna-langgraph-benchmark.md](../../ai/agents/sathvikkrishna-langgraph-benchmark.md)

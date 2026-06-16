@@ -51,4 +51,4 @@ Original source URL: https://tech-insider.org/openai-agents-sdk-tutorial-python-
 
 ## Local Vault File
 
-Path: [openai-agents-sdk-tutorial-13-steps-2026.md](file:///../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
+Path: [openai-agents-sdk-tutorial-13-steps-2026.md](../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)

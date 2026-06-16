@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spacy
 
 ## Local Vault File
 
-Path: [welcome-spacy-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-spacy-to-the-hugging-face-hub.md)
+Path: [welcome-spacy-to-the-hugging-face-hub.md](../../ai/models/welcome-spacy-to-the-hugging-face-hub.md)

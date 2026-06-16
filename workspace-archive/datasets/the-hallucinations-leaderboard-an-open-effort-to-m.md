@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [the-hallucinations-leaderboard-an-open-effort-to-m.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-m.md](../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)

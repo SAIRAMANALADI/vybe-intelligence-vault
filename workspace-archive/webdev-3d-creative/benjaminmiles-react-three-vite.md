@@ -45,4 +45,4 @@ Original source URL: https://github.com/benjaminmiles/react-three-vite
 
 ## Local Vault File
 
-Path: [benjaminmiles-react-three-vite.md](file:///../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md)
+Path: [benjaminmiles-react-three-vite.md](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md)

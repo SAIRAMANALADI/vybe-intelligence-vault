@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/nextjs-across-platforms
 
 ## Local Vault File
 
-Path: [next-js-across-platforms-adapters-opennext-and-our.md](file:///../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)
+Path: [next-js-across-platforms-adapters-opennext-and-our.md](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md)

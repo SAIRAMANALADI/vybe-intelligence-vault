@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-upstage
 
 ## Local Vault File
 
-Path: [introducing-the-open-ko-llm-leaderboard-leading-th.md](file:///../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)
+Path: [introducing-the-open-ko-llm-leaderboard-leading-th.md](../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)

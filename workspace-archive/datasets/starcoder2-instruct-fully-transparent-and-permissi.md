@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sc2-instruct
 
 ## Local Vault File
 
-Path: [starcoder2-instruct-fully-transparent-and-permissi.md](file:///../../ai/models/starcoder2-instruct-fully-transparent-and-permissi.md)
+Path: [starcoder2-instruct-fully-transparent-and-permissi.md](../../ai/models/starcoder2-instruct-fully-transparent-and-permissi.md)

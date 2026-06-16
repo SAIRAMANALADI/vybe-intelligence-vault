@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-a2c
 
 ## Local Vault File
 
-Path: [advantage-actor-critic-a2c.md](file:///../../ai/models/advantage-actor-critic-a2c.md)
+Path: [advantage-actor-critic-a2c.md](../../ai/models/advantage-actor-critic-a2c.md)

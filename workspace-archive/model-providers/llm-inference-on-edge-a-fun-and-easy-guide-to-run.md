@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llm-inference-on-edge
 
 ## Local Vault File
 
-Path: [llm-inference-on-edge-a-fun-and-easy-guide-to-run.md](file:///../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)
+Path: [llm-inference-on-edge-a-fun-and-easy-guide-to-run.md](../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)

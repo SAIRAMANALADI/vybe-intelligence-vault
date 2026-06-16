@@ -51,4 +51,4 @@ Original source URL: https://www.c-sharpcorner.com/article/openai-agents-sdk-wha
 
 ## Local Vault File
 
-Path: [openai-agents-sdk-what-it-is-and-how-to-build-prod.md](file:///../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
+Path: [openai-agents-sdk-what-it-is-and-how-to-build-prod.md](../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)

@@ -48,4 +48,4 @@ Original source URL: https://github.com/0x4m4/hexstrike-ai
 
 ## Local Vault File
 
-Path: [0x4m4-hexstrike-ai.md](file:///../../ai/agents/0x4m4-hexstrike-ai.md)
+Path: [0x4m4-hexstrike-ai.md](../../ai/agents/0x4m4-hexstrike-ai.md)

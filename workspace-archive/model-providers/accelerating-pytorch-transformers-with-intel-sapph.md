@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-sapphire-rapids-inference
 
 ## Local Vault File
 
-Path: [accelerating-pytorch-transformers-with-intel-sapph.md](file:///../../ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)
+Path: [accelerating-pytorch-transformers-with-intel-sapph.md](../../ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)

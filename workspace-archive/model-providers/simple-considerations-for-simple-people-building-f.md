@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple-considerations
 
 ## Local Vault File
 
-Path: [simple-considerations-for-simple-people-building-f.md](file:///../../ai/models/simple-considerations-for-simple-people-building-f.md)
+Path: [simple-considerations-for-simple-people-building-f.md](../../ai/models/simple-considerations-for-simple-people-building-f.md)

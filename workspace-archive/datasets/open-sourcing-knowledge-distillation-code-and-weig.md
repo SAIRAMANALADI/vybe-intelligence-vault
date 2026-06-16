@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sd_distillation
 
 ## Local Vault File
 
-Path: [open-sourcing-knowledge-distillation-code-and-weig.md](file:///../../ai/models/open-sourcing-knowledge-distillation-code-and-weig.md)
+Path: [open-sourcing-knowledge-distillation-code-and-weig.md](../../ai/models/open-sourcing-knowledge-distillation-code-and-weig.md)

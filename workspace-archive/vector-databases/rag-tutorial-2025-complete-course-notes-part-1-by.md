@@ -51,4 +51,4 @@ Original source URL: https://pragatimehraa.medium.com/rag-tutorial-2025-complete
 
 ## Local Vault File
 
-Path: [rag-tutorial-2025-complete-course-notes-part-1-by.md](file:///../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
+Path: [rag-tutorial-2025-complete-course-notes-part-1-by.md](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)

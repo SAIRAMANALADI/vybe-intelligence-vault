@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-pollen-robotics-ac
 
 ## Local Vault File
 
-Path: [hugging-face-to-sell-open-source-robots-thanks-to.md](file:///../../ai/models/hugging-face-to-sell-open-source-robots-thanks-to.md)
+Path: [hugging-face-to-sell-open-source-robots-thanks-to.md](../../ai/models/hugging-face-to-sell-open-source-robots-thanks-to.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infrastructure-alerting
 
 ## Local Vault File
 
-Path: [three-mighty-alerts-supporting-hugging-faces-produ.md](file:///../../ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)
+Path: [three-mighty-alerts-supporting-hugging-faces-produ.md](../../ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)

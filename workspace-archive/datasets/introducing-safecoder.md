@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder
 
 ## Local Vault File
 
-Path: [introducing-safecoder.md](file:///../../ai/models/introducing-safecoder.md)
+Path: [introducing-safecoder.md](../../ai/models/introducing-safecoder.md)

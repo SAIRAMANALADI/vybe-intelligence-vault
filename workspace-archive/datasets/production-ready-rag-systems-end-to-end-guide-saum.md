@@ -53,4 +53,4 @@ Original source URL: https://www.saumilsrivastava.ai/blog/production-ready-rag-s
 
 ## Local Vault File
 
-Path: [production-ready-rag-systems-end-to-end-guide-saum.md](file:///../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
+Path: [production-ready-rag-systems-end-to-end-guide-saum.md](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kernel-builder
 
 ## Local Vault File
 
-Path: [from-zero-to-gpu-a-guide-to-building-and-scaling-p.md](file:///../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)
+Path: [from-zero-to-gpu-a-guide-to-building-and-scaling-p.md](../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-inference
 
 ## Local Vault File
 
-Path: [accelerated-inference-with-optimum-and-transformer.md](file:///../../ai/models/accelerated-inference-with-optimum-and-transformer.md)
+Path: [accelerated-inference-with-optimum-and-transformer.md](../../ai/models/accelerated-inference-with-optimum-and-transformer.md)

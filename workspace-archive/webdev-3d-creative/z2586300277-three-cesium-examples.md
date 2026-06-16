@@ -44,4 +44,4 @@ Original source URL: https://github.com/z2586300277/three-cesium-examples
 
 ## Local Vault File
 
-Path: [z2586300277-three-cesium-examples.md](file:///../../web-development/threejs/z2586300277-three-cesium-examples.md)
+Path: [z2586300277-three-cesium-examples.md](../../web-development/threejs/z2586300277-three-cesium-examples.md)

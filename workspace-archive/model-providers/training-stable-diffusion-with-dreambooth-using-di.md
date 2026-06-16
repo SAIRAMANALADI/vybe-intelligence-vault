@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dreambooth
 
 ## Local Vault File
 
-Path: [training-stable-diffusion-with-dreambooth-using-di.md](file:///../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)
+Path: [training-stable-diffusion-with-dreambooth-using-di.md](../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)

@@ -47,4 +47,4 @@ Original source URL: https://github.com/caramaschiHG/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [caramaschihg-awesome-ai-agents-2026.md](file:///../../ai/agents/caramaschihg-awesome-ai-agents-2026.md)
+Path: [caramaschihg-awesome-ai-agents-2026.md](../../ai/agents/caramaschihg-awesome-ai-agents-2026.md)

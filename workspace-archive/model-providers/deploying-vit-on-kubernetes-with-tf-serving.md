@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-tfserving-kubernetes
 
 ## Local Vault File
 
-Path: [deploying-vit-on-kubernetes-with-tf-serving.md](file:///../../ai/models/deploying-vit-on-kubernetes-with-tf-serving.md)
+Path: [deploying-vit-on-kubernetes-with-tf-serving.md](../../ai/models/deploying-vit-on-kubernetes-with-tf-serving.md)

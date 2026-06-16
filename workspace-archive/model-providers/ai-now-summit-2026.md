@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/ai-now-summit-2026
 
 ## Local Vault File
 
-Path: [ai-now-summit-2026.md](file:///../../ai/companies/mistral/ai-now-summit-2026.md)
+Path: [ai-now-summit-2026.md](../../ai/companies/mistral/ai-now-summit-2026.md)

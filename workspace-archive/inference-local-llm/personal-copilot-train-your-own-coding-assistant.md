@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/personal-copilot
 
 ## Local Vault File
 
-Path: [personal-copilot-train-your-own-coding-assistant.md](file:///../../ai/models/personal-copilot-train-your-own-coding-assistant.md)
+Path: [personal-copilot-train-your-own-coding-assistant.md](../../ai/models/personal-copilot-train-your-own-coding-assistant.md)

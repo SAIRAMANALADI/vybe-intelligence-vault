@@ -46,4 +46,4 @@ Original source URL: https://github.com/bhancockio/crewai-groq-tutorial
 
 ## Local Vault File
 
-Path: [bhancockio-crewai-groq-tutorial.md](file:///../../ai/agents/bhancockio-crewai-groq-tutorial.md)
+Path: [bhancockio-crewai-groq-tutorial.md](../../ai/agents/bhancockio-crewai-groq-tutorial.md)

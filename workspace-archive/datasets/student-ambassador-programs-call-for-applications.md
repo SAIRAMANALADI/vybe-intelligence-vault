@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ambassadors
 
 ## Local Vault File
 
-Path: [student-ambassador-programs-call-for-applications.md](file:///../../ai/models/student-ambassador-programs-call-for-applications.md)
+Path: [student-ambassador-programs-call-for-applications.md](../../ai/models/student-ambassador-programs-call-for-applications.md)

@@ -46,4 +46,4 @@ Original source URL: https://aws.amazon.com/what-is/retrieval-augmented-generati
 
 ## Local Vault File
 
-Path: [what-is-rag-retrieval-augmented-generation-ai-expl.md](file:///../../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)
+Path: [what-is-rag-retrieval-augmented-generation-ai-expl.md](../../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vit-align
 
 ## Local Vault File
 
-Path: [new-vit-and-align-models-from-kakao-brain.md](file:///../../ai/models/new-vit-and-align-models-from-kakao-brain.md)
+Path: [new-vit-and-align-models-from-kakao-brain.md](../../ai/models/new-vit-and-align-models-from-kakao-brain.md)

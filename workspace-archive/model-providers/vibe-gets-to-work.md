@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/vibe-agent
 
 ## Local Vault File
 
-Path: [vibe-gets-to-work.md](file:///../../ai/companies/mistral/vibe-gets-to-work.md)
+Path: [vibe-gets-to-work.md](../../ai/companies/mistral/vibe-gets-to-work.md)

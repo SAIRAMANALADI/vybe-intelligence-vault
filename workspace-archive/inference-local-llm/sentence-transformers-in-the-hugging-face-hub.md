@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-in-the-hu
 
 ## Local Vault File
 
-Path: [sentence-transformers-in-the-hugging-face-hub.md](file:///../../ai/models/sentence-transformers-in-the-hugging-face-hub.md)
+Path: [sentence-transformers-in-the-hugging-face-hub.md](../../ai/models/sentence-transformers-in-the-hugging-face-hub.md)

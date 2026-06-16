@@ -45,4 +45,4 @@ Original source URL: https://github.com/purduehackers/coding-agent-workshop-temp
 
 ## Local Vault File
 
-Path: [purduehackers-coding-agent-workshop-template.md](file:///../../ai/agents/purduehackers-coding-agent-workshop-template.md)
+Path: [purduehackers-coding-agent-workshop-template.md](../../ai/agents/purduehackers-coding-agent-workshop-template.md)

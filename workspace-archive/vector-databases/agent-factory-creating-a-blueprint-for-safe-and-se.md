@@ -48,4 +48,4 @@ Original source URL: https://azure.microsoft.com/en-us/blog/agent-factory-creati
 
 ## Local Vault File
 
-Path: [agent-factory-creating-a-blueprint-for-safe-and-se.md](file:///../../ai/rag/agent-factory-creating-a-blueprint-for-safe-and-se.md)
+Path: [agent-factory-creating-a-blueprint-for-safe-and-se.md](../../ai/rag/agent-factory-creating-a-blueprint-for-safe-and-se.md)

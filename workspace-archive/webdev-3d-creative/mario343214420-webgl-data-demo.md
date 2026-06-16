@@ -44,4 +44,4 @@ Original source URL: https://github.com/mario343214420/webgl-data-demo
 
 ## Local Vault File
 
-Path: [mario343214420-webgl-data-demo.md](file:///../../web-development/threejs/mario343214420-webgl-data-demo.md)
+Path: [mario343214420-webgl-data-demo.md](../../web-development/threejs/mario343214420-webgl-data-demo.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-csearch
 
 ## Local Vault File
 
-Path: [generating-human-level-text-with-contrastive-searc.md](file:///../../ai/models/generating-human-level-text-with-contrastive-searc.md)
+Path: [generating-human-level-text-with-contrastive-searc.md](../../ai/models/generating-human-level-text-with-contrastive-searc.md)

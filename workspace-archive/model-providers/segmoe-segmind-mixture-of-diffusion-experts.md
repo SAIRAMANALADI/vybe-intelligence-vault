@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/segmoe
 
 ## Local Vault File
 
-Path: [segmoe-segmind-mixture-of-diffusion-experts.md](file:///../../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)
+Path: [segmoe-segmind-mixture-of-diffusion-experts.md](../../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)

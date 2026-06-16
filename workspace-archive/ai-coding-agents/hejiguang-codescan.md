@@ -47,4 +47,4 @@ Original source URL: https://github.com/HeJiguang/codescan
 
 ## Local Vault File
 
-Path: [hejiguang-codescan.md](file:///../../ai/agents/hejiguang-codescan.md)
+Path: [hejiguang-codescan.md](../../ai/agents/hejiguang-codescan.md)

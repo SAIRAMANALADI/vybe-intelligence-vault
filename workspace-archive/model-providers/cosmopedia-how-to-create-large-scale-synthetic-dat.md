@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cosmopedia
 
 ## Local Vault File
 
-Path: [cosmopedia-how-to-create-large-scale-synthetic-dat.md](file:///../../ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md)
+Path: [cosmopedia-how-to-create-large-scale-synthetic-dat.md](../../ai/models/cosmopedia-how-to-create-large-scale-synthetic-dat.md)

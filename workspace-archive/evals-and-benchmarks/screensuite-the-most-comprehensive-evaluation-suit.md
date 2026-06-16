@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/screensuite
 
 ## Local Vault File
 
-Path: [screensuite-the-most-comprehensive-evaluation-suit.md](file:///../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)
+Path: [screensuite-the-most-comprehensive-evaluation-suit.md](../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)

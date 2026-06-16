@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/beating-gaia
 
 ## Local Vault File
 
-Path: [our-transformers-code-agent-beats-the-gaia-benchma.md](file:///../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)
+Path: [our-transformers-code-agent-beats-the-gaia-benchma.md](../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)

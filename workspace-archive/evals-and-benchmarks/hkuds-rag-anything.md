@@ -46,4 +46,4 @@ Original source URL: https://github.com/HKUDS/RAG-Anything
 
 ## Local Vault File
 
-Path: [hkuds-rag-anything.md](file:///../../ai/rag/hkuds-rag-anything.md)
+Path: [hkuds-rag-anything.md](../../ai/rag/hkuds-rag-anything.md)

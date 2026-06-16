@@ -47,4 +47,4 @@ Original source URL: https://github.com/imzodev/openai-agents-sdk-js-tutorial
 
 ## Local Vault File
 
-Path: [imzodev-openai-agents-sdk-js-tutorial.md](file:///../../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
+Path: [imzodev-openai-agents-sdk-js-tutorial.md](../../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)

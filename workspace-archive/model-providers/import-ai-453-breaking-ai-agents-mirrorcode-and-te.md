@@ -51,4 +51,4 @@ Original source URL: https://importai.substack.com/p/import-ai-453-breaking-ai-a
 
 ## Local Vault File
 
-Path: [import-ai-453-breaking-ai-agents-mirrorcode-and-te.md](file:///../../ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md)
+Path: [import-ai-453-breaking-ai-agents-mirrorcode-and-te.md](../../ai/rag/import-ai-453-breaking-ai-agents-mirrorcode-and-te.md)

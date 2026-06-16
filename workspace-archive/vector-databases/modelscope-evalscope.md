@@ -45,4 +45,4 @@ Original source URL: https://github.com/modelscope/evalscope
 
 ## Local Vault File
 
-Path: [modelscope-evalscope.md](file:///../../ai/rag/modelscope-evalscope.md)
+Path: [modelscope-evalscope.md](../../ai/rag/modelscope-evalscope.md)

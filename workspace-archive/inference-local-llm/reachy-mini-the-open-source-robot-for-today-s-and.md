@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reachy-mini
 
 ## Local Vault File
 
-Path: [reachy-mini-the-open-source-robot-for-today-s-and.md](file:///../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)
+Path: [reachy-mini-the-open-source-robot-for-today-s-and.md](../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)

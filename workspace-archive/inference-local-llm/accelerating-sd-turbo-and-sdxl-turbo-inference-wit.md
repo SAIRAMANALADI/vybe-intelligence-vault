@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sdxl_ort_inference
 
 ## Local Vault File
 
-Path: [accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md](file:///../../ai/models/accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md)
+Path: [accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md](../../ai/models/accelerating-sd-turbo-and-sdxl-turbo-inference-wit.md)

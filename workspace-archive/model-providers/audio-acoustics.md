@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/audio-ac
 
 ## Local Vault File
 
-Path: [audio-acoustics.md](file:///../../ai/companies/audio-acoustics.md)
+Path: [audio-acoustics.md](../../ai/companies/audio-acoustics.md)

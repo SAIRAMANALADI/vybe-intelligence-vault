@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-with-openvino
 
 ## Local Vault File
 
-Path: [optimize-and-deploy-with-optimum-intel-and-openvin.md](file:///../../ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)
+Path: [optimize-and-deploy-with-optimum-intel-and-openvin.md](../../ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)

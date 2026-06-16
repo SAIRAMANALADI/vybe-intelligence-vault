@@ -50,4 +50,4 @@ Original source URL: https://developers.googleblog.com/build-better-ai-agents-5-
 
 ## Local Vault File
 
-Path: [build-better-ai-agents-5-developer-tips-from-the-a.md](file:///../../ai/rag/build-better-ai-agents-5-developer-tips-from-the-a.md)
+Path: [build-better-ai-agents-5-developer-tips-from-the-a.md](../../ai/rag/build-better-ai-agents-5-developer-tips-from-the-a.md)

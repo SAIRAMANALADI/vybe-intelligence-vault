@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pai-6-month
 
 ## Local Vault File
 
-Path: [4m-models-scanned-protect-ai-hugging-face-6-months.md](file:///../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months.md)
+Path: [4m-models-scanned-protect-ai-hugging-face-6-months.md](../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months.md)

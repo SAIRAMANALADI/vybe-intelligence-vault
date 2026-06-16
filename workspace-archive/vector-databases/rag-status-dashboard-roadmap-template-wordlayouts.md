@@ -44,4 +44,4 @@ Original source URL: https://www.wordlayouts.com/template/rag-status-dashboard-r
 
 ## Local Vault File
 
-Path: [rag-status-dashboard-roadmap-template-wordlayouts.md](file:///../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)
+Path: [rag-status-dashboard-roadmap-template-wordlayouts.md](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)

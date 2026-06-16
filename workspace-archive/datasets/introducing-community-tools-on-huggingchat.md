@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/community-tools
 
 ## Local Vault File
 
-Path: [introducing-community-tools-on-huggingchat.md](file:///../../ai/models/introducing-community-tools-on-huggingchat.md)
+Path: [introducing-community-tools-on-huggingchat.md](../../ai/models/introducing-community-tools-on-huggingchat.md)

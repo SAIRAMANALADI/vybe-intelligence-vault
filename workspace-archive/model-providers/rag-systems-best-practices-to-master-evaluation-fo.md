@@ -52,4 +52,4 @@ Original source URL: https://cloud.google.com/blog/products/ai-machine-learning/
 
 ## Local Vault File
 
-Path: [rag-systems-best-practices-to-master-evaluation-fo.md](file:///../../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)
+Path: [rag-systems-best-practices-to-master-evaluation-fo.md](../../ai/rag/rag-systems-best-practices-to-master-evaluation-fo.md)

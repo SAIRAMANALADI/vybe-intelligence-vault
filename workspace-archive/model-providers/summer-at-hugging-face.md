@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/summer-at-huggingface
 
 ## Local Vault File
 
-Path: [summer-at-hugging-face.md](file:///../../ai/models/summer-at-hugging-face.md)
+Path: [summer-at-hugging-face.md](../../ai/models/summer-at-hugging-face.md)

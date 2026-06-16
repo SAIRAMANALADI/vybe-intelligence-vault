@@ -53,4 +53,4 @@ Original source URL: https://www.evidentlyai.com/blog/ai-agent-benchmarks
 
 ## Local Vault File
 
-Path: [10-ai-agent-benchmarks.md](file:///../../ai/rag/10-ai-agent-benchmarks.md)
+Path: [10-ai-agent-benchmarks.md](../../ai/rag/10-ai-agent-benchmarks.md)

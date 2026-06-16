@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-nebius-novi
 
 ## Local Vault File
 
-Path: [introducing-three-new-serverless-inference-provide.md](file:///../../ai/models/introducing-three-new-serverless-inference-provide.md)
+Path: [introducing-three-new-serverless-inference-provide.md](../../ai/models/introducing-three-new-serverless-inference-provide.md)

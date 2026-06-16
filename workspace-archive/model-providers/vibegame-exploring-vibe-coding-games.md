@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vibegame
 
 ## Local Vault File
 
-Path: [vibegame-exploring-vibe-coding-games.md](file:///../../ai/models/vibegame-exploring-vibe-coding-games.md)
+Path: [vibegame-exploring-vibe-coding-games.md](../../ai/models/vibegame-exploring-vibe-coding-games.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/sikandarjodd/svelte-animations
 
 ## Local Vault File
 
-Path: [sikandarjodd-svelte-animations.md](file:///../../web-development/framer-motion/sikandarjodd-svelte-animations.md)
+Path: [sikandarjodd-svelte-animations.md](../../web-development/framer-motion/sikandarjodd-svelte-animations.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-vqa-docmatix
 
 ## Local Vault File
 
-Path: [lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md](file:///../../ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)
+Path: [lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md](../../ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)

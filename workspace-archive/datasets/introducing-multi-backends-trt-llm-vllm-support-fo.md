@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tgi-multi-backend
 
 ## Local Vault File
 
-Path: [introducing-multi-backends-trt-llm-vllm-support-fo.md](file:///../../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md)
+Path: [introducing-multi-backends-trt-llm-vllm-support-fo.md](../../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/using-ml-for-disasters
 
 ## Local Vault File
 
-Path: [using-machine-learning-to-aid-survivors-and-race-t.md](file:///../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)
+Path: [using-machine-learning-to-aid-survivors-and-race-t.md](../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)

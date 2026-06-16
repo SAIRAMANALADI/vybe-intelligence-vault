@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-clip-rsicd
 
 ## Local Vault File
 
-Path: [fine-tuning-clip-with-remote-sensing-satellite-ima.md](file:///../../ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)
+Path: [fine-tuning-clip-with-remote-sensing-satellite-ima.md](../../ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)

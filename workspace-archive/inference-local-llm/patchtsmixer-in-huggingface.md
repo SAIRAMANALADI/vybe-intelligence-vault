@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtsmixer
 
 ## Local Vault File
 
-Path: [patchtsmixer-in-huggingface.md](file:///../../ai/models/patchtsmixer-in-huggingface.md)
+Path: [patchtsmixer-in-huggingface.md](../../ai/models/patchtsmixer-in-huggingface.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/nvidia/llama-nemotron-nano-vl
 
 ## Local Vault File
 
-Path: [welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md](file:///../../ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md)
+Path: [welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md](../../ai/models/welcome-the-nvidia-llama-nemotron-nano-vlm-to-hugg.md)

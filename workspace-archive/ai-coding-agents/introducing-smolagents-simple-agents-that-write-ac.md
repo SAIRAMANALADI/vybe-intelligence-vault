@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents
 
 ## Local Vault File
 
-Path: [introducing-smolagents-simple-agents-that-write-ac.md](file:///../../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)
+Path: [introducing-smolagents-simple-agents-that-write-ac.md](../../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)

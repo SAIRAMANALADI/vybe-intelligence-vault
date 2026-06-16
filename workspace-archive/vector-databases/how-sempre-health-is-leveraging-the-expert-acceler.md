@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/sempre-health-eap-case-study
 
 ## Local Vault File
 
-Path: [how-sempre-health-is-leveraging-the-expert-acceler.md](file:///../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)
+Path: [how-sempre-health-is-leveraging-the-expert-acceler.md](../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)

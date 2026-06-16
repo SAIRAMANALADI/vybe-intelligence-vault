@@ -46,4 +46,4 @@ Original source URL: https://github.com/sumanth-dhanya/llm-toolkit
 
 ## Local Vault File
 
-Path: [sumanth-dhanya-llm-toolkit.md](file:///../../ai/agents/sumanth-dhanya-llm-toolkit.md)
+Path: [sumanth-dhanya-llm-toolkit.md](../../ai/agents/sumanth-dhanya-llm-toolkit.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-101
 
 ## Local Vault File
 
-Path: [bert-101-state-of-the-art-nlp-model-explained.md](file:///../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md)
+Path: [bert-101-state-of-the-art-nlp-model-explained.md](../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md)

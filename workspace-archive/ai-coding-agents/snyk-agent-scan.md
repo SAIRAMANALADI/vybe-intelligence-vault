@@ -44,4 +44,4 @@ Original source URL: https://github.com/snyk/agent-scan
 
 ## Local Vault File
 
-Path: [snyk-agent-scan.md](file:///../../ai/agents/snyk-agent-scan.md)
+Path: [snyk-agent-scan.md](../../ai/agents/snyk-agent-scan.md)

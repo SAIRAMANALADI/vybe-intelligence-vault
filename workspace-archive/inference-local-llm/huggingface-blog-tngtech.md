@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tngtech
 
 ## Local Vault File
 
-Path: [huggingface-blog-tngtech.md](file:///../../ai/models/huggingface-blog-tngtech.md)
+Path: [huggingface-blog-tngtech.md](../../ai/models/huggingface-blog-tngtech.md)

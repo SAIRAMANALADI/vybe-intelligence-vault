@@ -44,4 +44,4 @@ Original source URL: https://github.com/hjlld/learningwebgpu
 
 ## Local Vault File
 
-Path: [hjlld-learningwebgpu.md](file:///../../web-development/webgpu/hjlld-learningwebgpu.md)
+Path: [hjlld-learningwebgpu.md](../../web-development/webgpu/hjlld-learningwebgpu.md)

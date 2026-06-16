@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-rl-training-landscape
 
 ## Local Vault File
 
-Path: [keep-the-tokens-flowing-lessons-from-16-open-sourc.md](file:///../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)
+Path: [keep-the-tokens-flowing-lessons-from-16-open-sourc.md](../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)

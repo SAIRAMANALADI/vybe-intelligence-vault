@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-deepmath
 
 ## Local Vault File
 
-Path: [deepmath-a-lightweight-math-reasoning-agent-with-s.md](file:///../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)
+Path: [deepmath-a-lightweight-math-reasoning-agent-with-s.md](../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)

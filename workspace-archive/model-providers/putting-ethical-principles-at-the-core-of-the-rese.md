@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethical-charter-multimodal
 
 ## Local Vault File
 
-Path: [putting-ethical-principles-at-the-core-of-the-rese.md](file:///../../ai/models/putting-ethical-principles-at-the-core-of-the-rese.md)
+Path: [putting-ethical-principles-at-the-core-of-the-rese.md](../../ai/models/putting-ethical-principles-at-the-core-of-the-rese.md)

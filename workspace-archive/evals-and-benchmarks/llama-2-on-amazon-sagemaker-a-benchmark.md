@@ -46,4 +46,4 @@ Original source URL: https://huggingface.co/blog/llama-sagemaker-benchmark
 
 ## Local Vault File
 
-Path: [llama-2-on-amazon-sagemaker-a-benchmark.md](file:///../../ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)
+Path: [llama-2-on-amazon-sagemaker-a-benchmark.md](../../ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)

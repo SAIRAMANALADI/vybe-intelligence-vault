@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/keras-chatbot-arena
 
 ## Local Vault File
 
-Path: [how-good-are-llms-at-fixing-their-mistakes-a-chatb.md](file:///../../ai/models/how-good-are-llms-at-fixing-their-mistakes-a-chatb.md)
+Path: [how-good-are-llms-at-fixing-their-mistakes-a-chatb.md](../../ai/models/how-good-are-llms-at-fixing-their-mistakes-a-chatb.md)

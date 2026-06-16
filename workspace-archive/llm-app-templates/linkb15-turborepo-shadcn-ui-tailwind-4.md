@@ -42,4 +42,4 @@ Original source URL: https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4
 
 ## Local Vault File
 
-Path: [linkb15-turborepo-shadcn-ui-tailwind-4.md](file:///../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md)
+Path: [linkb15-turborepo-shadcn-ui-tailwind-4.md](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md)

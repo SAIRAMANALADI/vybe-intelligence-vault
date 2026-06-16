@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/announcing-our-updated-responsib
 
 ## Local Vault File
 
-Path: [responsible-scaling-policy.md](file:///../../ai/companies/anthropic/responsible-scaling-policy.md)
+Path: [responsible-scaling-policy.md](../../ai/companies/anthropic/responsible-scaling-policy.md)

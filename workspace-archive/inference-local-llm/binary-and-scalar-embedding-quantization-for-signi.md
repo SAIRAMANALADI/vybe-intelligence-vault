@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/embedding-quantization
 
 ## Local Vault File
 
-Path: [binary-and-scalar-embedding-quantization-for-signi.md](file:///../../ai/models/binary-and-scalar-embedding-quantization-for-signi.md)
+Path: [binary-and-scalar-embedding-quantization-for-signi.md](../../ai/models/binary-and-scalar-embedding-quantization-for-signi.md)

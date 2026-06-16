@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/arena-tts
 
 ## Local Vault File
 
-Path: [tts-arena-benchmarking-text-to-speech-models-in-th.md](file:///../../ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md)
+Path: [tts-arena-benchmarking-text-to-speech-models-in-th.md](../../ai/models/tts-arena-benchmarking-text-to-speech-models-in-th.md)

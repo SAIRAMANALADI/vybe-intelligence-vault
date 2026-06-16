@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/react-three-flex
 
 ## Local Vault File
 
-Path: [pmndrs-react-three-flex.md](file:///../../web-development/react-three-fiber/pmndrs-react-three-flex.md)
+Path: [pmndrs-react-three-flex.md](../../web-development/react-three-fiber/pmndrs-react-three-flex.md)

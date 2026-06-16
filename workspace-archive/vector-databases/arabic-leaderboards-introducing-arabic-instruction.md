@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 
 ## Local Vault File
 
-Path: [arabic-leaderboards-introducing-arabic-instruction.md](file:///../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)
+Path: [arabic-leaderboards-introducing-arabic-instruction.md](../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rwkv
 
 ## Local Vault File
 
-Path: [introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md](file:///../../ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)
+Path: [introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md](../../ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)

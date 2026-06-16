@@ -45,4 +45,4 @@ Original source URL: https://github.com/wgsl-analyzer/wgsl-analyzer
 
 ## Local Vault File
 
-Path: [wgsl-analyzer-wgsl-analyzer.md](file:///../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md)
+Path: [wgsl-analyzer-wgsl-analyzer.md](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md)

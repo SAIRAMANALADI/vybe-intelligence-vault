@@ -52,4 +52,4 @@ Original source URL: https://ragaboutit.com/mastering-langgraph-a-production-rea
 
 ## Local Vault File
 
-Path: [mastering-langgraph-a-production-ready-coding-walk.md](file:///../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
+Path: [mastering-langgraph-a-production-ready-coding-walk.md](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)

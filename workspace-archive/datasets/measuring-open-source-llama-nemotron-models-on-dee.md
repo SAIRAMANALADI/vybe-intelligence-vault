@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/nvidia/ai-q-top-ranking-open-po
 
 ## Local Vault File
 
-Path: [measuring-open-source-llama-nemotron-models-on-dee.md](file:///../../ai/models/measuring-open-source-llama-nemotron-models-on-dee.md)
+Path: [measuring-open-source-llama-nemotron-models-on-dee.md](../../ai/models/measuring-open-source-llama-nemotron-models-on-dee.md)

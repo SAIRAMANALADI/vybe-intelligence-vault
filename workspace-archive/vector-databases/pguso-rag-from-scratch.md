@@ -49,4 +49,4 @@ Original source URL: https://github.com/pguso/rag-from-scratch
 
 ## Local Vault File
 
-Path: [pguso-rag-from-scratch.md](file:///../../ai/rag/pguso-rag-from-scratch.md)
+Path: [pguso-rag-from-scratch.md](../../ai/rag/pguso-rag-from-scratch.md)

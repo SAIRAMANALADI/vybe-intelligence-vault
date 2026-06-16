@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-emissions-analysis
 
 ## Local Vault File
 
-Path: [co2-emissions-and-models-performance-insights-from.md](file:///../../ai/models/co2-emissions-and-models-performance-insights-from.md)
+Path: [co2-emissions-and-models-performance-insights-from.md](../../ai/models/co2-emissions-and-models-performance-insights-from.md)

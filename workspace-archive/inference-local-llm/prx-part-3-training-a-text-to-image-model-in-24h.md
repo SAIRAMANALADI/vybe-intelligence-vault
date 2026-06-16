@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/photoroom/prx-part3
 
 ## Local Vault File
 
-Path: [prx-part-3-training-a-text-to-image-model-in-24h.md](file:///../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)
+Path: [prx-part-3-training-a-text-to-image-model-in-24h.md](../../ai/models/prx-part-3-training-a-text-to-image-model-in-24h.md)

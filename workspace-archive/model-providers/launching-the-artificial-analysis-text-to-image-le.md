@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [launching-the-artificial-analysis-text-to-image-le.md](file:///../../ai/models/launching-the-artificial-analysis-text-to-image-le.md)
+Path: [launching-the-artificial-analysis-text-to-image-le.md](../../ai/models/launching-the-artificial-analysis-text-to-image-le.md)

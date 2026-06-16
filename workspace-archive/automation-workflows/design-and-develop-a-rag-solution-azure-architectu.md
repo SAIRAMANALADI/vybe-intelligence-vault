@@ -50,4 +50,4 @@ Original source URL: https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
 
 ## Local Vault File
 
-Path: [design-and-develop-a-rag-solution-azure-architectu.md](file:///../../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md)
+Path: [design-and-develop-a-rag-solution-azure-architectu.md](../../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md)

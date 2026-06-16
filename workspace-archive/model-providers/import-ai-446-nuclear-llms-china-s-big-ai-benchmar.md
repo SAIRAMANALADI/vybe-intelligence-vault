@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-446-nuclear-llms-
 
 ## Local Vault File
 
-Path: [import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md](file:///../../ai/rag/import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md)
+Path: [import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md](../../ai/rag/import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md)

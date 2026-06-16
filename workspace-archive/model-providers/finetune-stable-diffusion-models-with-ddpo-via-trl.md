@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-ddpo
 
 ## Local Vault File
 
-Path: [finetune-stable-diffusion-models-with-ddpo-via-trl.md](file:///../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)
+Path: [finetune-stable-diffusion-models-with-ddpo-via-trl.md](../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)

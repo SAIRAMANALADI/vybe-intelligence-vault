@@ -45,4 +45,4 @@ Original source URL: https://github.com/gsimone/r3f-bubbles
 
 ## Local Vault File
 
-Path: [gsimone-r3f-bubbles.md](file:///../../web-development/react-three-fiber/gsimone-r3f-bubbles.md)
+Path: [gsimone-r3f-bubbles.md](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md)

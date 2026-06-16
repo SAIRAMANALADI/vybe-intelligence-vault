@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/multimodal-sentence-transformer
 
 ## Local Vault File
 
-Path: [multimodal-embedding-reranker-models-with-sentence.md](file:///../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)
+Path: [multimodal-embedding-reranker-models-with-sentence.md](../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)

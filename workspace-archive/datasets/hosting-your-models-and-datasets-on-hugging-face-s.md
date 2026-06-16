@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/streamlit-spaces
 
 ## Local Vault File
 
-Path: [hosting-your-models-and-datasets-on-hugging-face-s.md](file:///../../ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)
+Path: [hosting-your-models-and-datasets-on-hugging-face-s.md](../../ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-haizelab
 
 ## Local Vault File
 
-Path: [introducing-the-red-teaming-resistance-leaderboard.md](file:///../../ai/models/introducing-the-red-teaming-resistance-leaderboard.md)
+Path: [introducing-the-red-teaming-resistance-leaderboard.md](../../ai/models/introducing-the-red-teaming-resistance-leaderboard.md)

@@ -52,4 +52,4 @@ Original source URL: https://lushbinary.com/blog/langgraph-vs-crewai-vs-autogen-
 
 ## Local Vault File
 
-Path: [langgraph-vs-crewai-vs-autogen-agent-framework-com.md](file:///../../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
+Path: [langgraph-vs-crewai-vs-autogen-agent-framework-com.md](../../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)

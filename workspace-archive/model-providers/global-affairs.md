@@ -46,4 +46,4 @@ Original source URL: https://openai.com/news/global-affairs
 
 ## Local Vault File
 
-Path: [global-affairs.md](file:///../../ai/companies/openai/global-affairs.md)
+Path: [global-affairs.md](../../ai/companies/openai/global-affairs.md)

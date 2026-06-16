@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/meg-mitchell-interview
 
 ## Local Vault File
 
-Path: [machine-learning-experts-margaret-mitchell.md](file:///../../ai/models/machine-learning-experts-margaret-mitchell.md)
+Path: [machine-learning-experts-margaret-mitchell.md](../../ai/models/machine-learning-experts-margaret-mitchell.md)

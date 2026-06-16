@@ -45,4 +45,4 @@ Original source URL: https://github.com/14islands/r3f-scroll-rig
 
 ## Local Vault File
 
-Path: [14islands-r3f-scroll-rig.md](file:///../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md)
+Path: [14islands-r3f-scroll-rig.md](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md)

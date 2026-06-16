@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugs
 
 ## Local Vault File
 
-Path: [introducing-hugs-scale-your-ai-with-open-models.md](file:///../../ai/models/introducing-hugs-scale-your-ai-with-open-models.md)
+Path: [introducing-hugs-scale-your-ai-with-open-models.md](../../ai/models/introducing-hugs-scale-your-ai-with-open-models.md)

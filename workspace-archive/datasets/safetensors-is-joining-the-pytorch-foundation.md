@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safetensors-joins-pytorch-found
 
 ## Local Vault File
 
-Path: [safetensors-is-joining-the-pytorch-foundation.md](file:///../../ai/models/safetensors-is-joining-the-pytorch-foundation.md)
+Path: [safetensors-is-joining-the-pytorch-foundation.md](../../ai/models/safetensors-is-joining-the-pytorch-foundation.md)

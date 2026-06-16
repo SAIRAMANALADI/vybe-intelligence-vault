@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/clipseg-zero-shot
 
 ## Local Vault File
 
-Path: [zero-shot-image-segmentation-with-clipseg.md](file:///../../ai/models/zero-shot-image-segmentation-with-clipseg.md)
+Path: [zero-shot-image-segmentation-with-clipseg.md](../../ai/models/zero-shot-image-segmentation-with-clipseg.md)

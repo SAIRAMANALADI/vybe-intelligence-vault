@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-xl-coreml
 
 ## Local Vault File
 
-Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md](file:///../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)
+Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md](../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)

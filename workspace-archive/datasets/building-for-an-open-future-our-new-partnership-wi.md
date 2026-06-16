@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud
 
 ## Local Vault File
 
-Path: [building-for-an-open-future-our-new-partnership-wi.md](file:///../../ai/models/building-for-an-open-future-our-new-partnership-wi.md)
+Path: [building-for-an-open-future-our-new-partnership-wi.md](../../ai/models/building-for-an-open-future-our-new-partnership-wi.md)

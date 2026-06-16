@@ -52,4 +52,4 @@ Original source URL: https://medevel.com/open-source-rag-1900
 
 ## Local Vault File
 
-Path: [19-open-source-free-rag-frameworks-and-solution-fo.md](file:///../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
+Path: [19-open-source-free-rag-frameworks-and-solution-fo.md](../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)

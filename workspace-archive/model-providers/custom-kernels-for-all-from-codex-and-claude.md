@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [custom-kernels-for-all-from-codex-and-claude.md](file:///../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)
+Path: [custom-kernels-for-all-from-codex-and-claude.md](../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)

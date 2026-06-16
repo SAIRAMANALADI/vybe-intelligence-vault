@@ -44,4 +44,4 @@ Original source URL: https://github.com/nank1ro/flutter-shadcn-ui
 
 ## Local Vault File
 
-Path: [nank1ro-flutter-shadcn-ui.md](file:///../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md)
+Path: [nank1ro-flutter-shadcn-ui.md](../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md)

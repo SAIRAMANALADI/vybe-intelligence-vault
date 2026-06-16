@@ -49,4 +49,4 @@ Original source URL: https://www.freecodecamp.org/news/mastering-rag-from-scratc
 
 ## Local Vault File
 
-Path: [learn-rag-from-scratch-python-ai-tutorial-from-a-l.md](file:///../../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
+Path: [learn-rag-from-scratch-python-ai-tutorial-from-a-l.md](../../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)

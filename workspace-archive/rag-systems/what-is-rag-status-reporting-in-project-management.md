@@ -46,4 +46,4 @@ Original source URL: https://pmstudycircle.com/rag-status-reporting
 
 ## Local Vault File
 
-Path: [what-is-rag-status-reporting-in-project-management.md](file:///../../ai/rag/what-is-rag-status-reporting-in-project-management.md)
+Path: [what-is-rag-status-reporting-in-project-management.md](../../ai/rag/what-is-rag-status-reporting-in-project-management.md)

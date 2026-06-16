@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/video-encoding
 
 ## Local Vault File
 
-Path: [scaling-robotics-datasets-with-video-encoding.md](file:///../../ai/models/scaling-robotics-datasets-with-video-encoding.md)
+Path: [scaling-robotics-datasets-with-video-encoding.md](../../ai/models/scaling-robotics-datasets-with-video-encoding.md)

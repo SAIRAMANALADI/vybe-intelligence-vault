@@ -45,4 +45,4 @@ Original source URL: https://community.databricks.com/t5/technical-blog/the-ulti
 
 ## Local Vault File
 
-Path: [mastering-chunking-strategies-for-rag-best-practic.md](file:///../../ai/rag/mastering-chunking-strategies-for-rag-best-practic.md)
+Path: [mastering-chunking-strategies-for-rag-best-practic.md](../../ai/rag/mastering-chunking-strategies-for-rag-best-practic.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/prodigy-hf
 
 ## Local Vault File
 
-Path: [introducing-prodigy-hf-a-direct-integration-with-h.md](file:///../../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)
+Path: [introducing-prodigy-hf-a-direct-integration-with-h.md](../../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)

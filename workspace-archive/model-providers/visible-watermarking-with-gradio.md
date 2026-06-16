@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/watermarking-with-gradio
 
 ## Local Vault File
 
-Path: [visible-watermarking-with-gradio.md](file:///../../ai/models/visible-watermarking-with-gradio.md)
+Path: [visible-watermarking-with-gradio.md](../../ai/models/visible-watermarking-with-gradio.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [building-the-hugging-face-mcp-server.md](file:///../../ai/models/building-the-hugging-face-mcp-server.md)
+Path: [building-the-hugging-face-mcp-server.md](../../ai/models/building-the-hugging-face-mcp-server.md)

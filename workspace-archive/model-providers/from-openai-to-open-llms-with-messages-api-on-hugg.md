@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tgi-messages-api
 
 ## Local Vault File
 
-Path: [from-openai-to-open-llms-with-messages-api-on-hugg.md](file:///../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)
+Path: [from-openai-to-open-llms-with-messages-api-on-hugg.md](../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)

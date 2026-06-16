@@ -44,4 +44,4 @@ Original source URL: https://github.com/brendan-duncan/webgpu_inspector
 
 ## Local Vault File
 
-Path: [brendan-duncan-webgpu-inspector.md](file:///../../web-development/webgpu/brendan-duncan-webgpu-inspector.md)
+Path: [brendan-duncan-webgpu-inspector.md](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-fhe
 
 ## Local Vault File
 
-Path: [sentiment-analysis-on-encrypted-data-with-homomorp.md](file:///../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)
+Path: [sentiment-analysis-on-encrypted-data-with-homomorp.md](../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)

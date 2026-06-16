@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arena-lighthouz
 
 ## Local Vault File
 
-Path: [introducing-the-chatbot-guardrails-arena.md](file:///../../ai/models/introducing-the-chatbot-guardrails-arena.md)
+Path: [introducing-the-chatbot-guardrails-arena.md](../../ai/models/introducing-the-chatbot-guardrails-arena.md)

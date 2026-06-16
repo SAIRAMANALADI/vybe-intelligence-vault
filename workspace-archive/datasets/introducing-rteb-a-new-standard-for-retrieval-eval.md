@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/rteb
 
 ## Local Vault File
 
-Path: [introducing-rteb-a-new-standard-for-retrieval-eval.md](file:///../../ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md)
+Path: [introducing-rteb-a-new-standard-for-retrieval-eval.md](../../ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md)

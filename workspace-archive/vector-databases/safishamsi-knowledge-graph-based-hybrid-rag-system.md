@@ -48,4 +48,4 @@ Original source URL: https://github.com/safishamsi/Knowledge-Graph-Based-Hybrid-
 
 ## Local Vault File
 
-Path: [safishamsi-knowledge-graph-based-hybrid-rag-system.md](file:///../../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
+Path: [safishamsi-knowledge-graph-based-hybrid-rag-system.md](../../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)

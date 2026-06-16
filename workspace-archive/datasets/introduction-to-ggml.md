@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introduction-to-ggml
 
 ## Local Vault File
 
-Path: [introduction-to-ggml.md](file:///../../ai/models/introduction-to-ggml.md)
+Path: [introduction-to-ggml.md](../../ai/models/introduction-to-ggml.md)

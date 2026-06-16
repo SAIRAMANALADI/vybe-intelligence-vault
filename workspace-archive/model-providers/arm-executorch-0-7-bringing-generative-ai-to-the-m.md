@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arm/executorch-0-dot-7
 
 ## Local Vault File
 
-Path: [arm-executorch-0-7-bringing-generative-ai-to-the-m.md](file:///../../ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md)
+Path: [arm-executorch-0-7-bringing-generative-ai-to-the-m.md](../../ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md)

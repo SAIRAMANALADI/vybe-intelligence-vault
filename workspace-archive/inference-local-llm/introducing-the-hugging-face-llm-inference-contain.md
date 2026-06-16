@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-llm
 
 ## Local Vault File
 
-Path: [introducing-the-hugging-face-llm-inference-contain.md](file:///../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)
+Path: [introducing-the-hugging-face-llm-inference-contain.md](../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)

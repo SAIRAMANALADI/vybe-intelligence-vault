@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-xla-generate
 
 ## Local Vault File
 
-Path: [faster-text-generation-with-tensorflow-and-xla.md](file:///../../ai/models/faster-text-generation-with-tensorflow-and-xla.md)
+Path: [faster-text-generation-with-tensorflow-and-xla.md](../../ai/models/faster-text-generation-with-tensorflow-and-xla.md)

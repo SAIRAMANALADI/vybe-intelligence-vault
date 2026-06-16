@@ -44,4 +44,4 @@ Original source URL: https://github.com/agamm/awesome-ai-sre
 
 ## Local Vault File
 
-Path: [agamm-awesome-ai-sre.md](file:///../../ai/agents/agamm-awesome-ai-sre.md)
+Path: [agamm-awesome-ai-sre.md](../../ai/agents/agamm-awesome-ai-sre.md)

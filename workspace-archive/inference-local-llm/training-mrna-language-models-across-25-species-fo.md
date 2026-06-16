@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openmed/training-mrna-models-25
 
 ## Local Vault File
 
-Path: [training-mrna-language-models-across-25-species-fo.md](file:///../../ai/models/training-mrna-language-models-across-25-species-fo.md)
+Path: [training-mrna-language-models-across-25-species-fo.md](../../ai/models/training-mrna-language-models-across-25-species-fo.md)

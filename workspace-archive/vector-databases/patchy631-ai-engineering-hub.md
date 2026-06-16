@@ -45,4 +45,4 @@ Original source URL: https://github.com/patchy631/ai-engineering-hub
 
 ## Local Vault File
 
-Path: [patchy631-ai-engineering-hub.md](file:///../../ai/rag/patchy631-ai-engineering-hub.md)
+Path: [patchy631-ai-engineering-hub.md](../../ai/rag/patchy631-ai-engineering-hub.md)

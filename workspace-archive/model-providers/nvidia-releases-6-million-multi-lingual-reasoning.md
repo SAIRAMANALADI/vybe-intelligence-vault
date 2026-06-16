@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/nvidia/multilingual-reasoning-v
 
 ## Local Vault File
 
-Path: [nvidia-releases-6-million-multi-lingual-reasoning.md](file:///../../ai/models/nvidia-releases-6-million-multi-lingual-reasoning.md)
+Path: [nvidia-releases-6-million-multi-lingual-reasoning.md](../../ai/models/nvidia-releases-6-million-multi-lingual-reasoning.md)

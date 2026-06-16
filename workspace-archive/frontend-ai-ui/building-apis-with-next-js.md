@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/building-apis-with-nextjs
 
 ## Local Vault File
 
-Path: [building-apis-with-next-js.md](file:///../../web-development/nextjs/building-apis-with-next-js.md)
+Path: [building-apis-with-next-js.md](../../web-development/nextjs/building-apis-with-next-js.md)

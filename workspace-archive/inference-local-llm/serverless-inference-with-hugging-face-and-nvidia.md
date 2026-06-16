@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-dgx-cloud
 
 ## Local Vault File
 
-Path: [serverless-inference-with-hugging-face-and-nvidia.md](file:///../../ai/models/serverless-inference-with-hugging-face-and-nvidia.md)
+Path: [serverless-inference-with-hugging-face-and-nvidia.md](../../ai/models/serverless-inference-with-hugging-face-and-nvidia.md)

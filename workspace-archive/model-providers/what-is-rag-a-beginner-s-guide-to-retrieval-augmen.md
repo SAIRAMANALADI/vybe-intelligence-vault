@@ -53,4 +53,4 @@ Original source URL: https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-r
 
 ## Local Vault File
 
-Path: [what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md](file:///../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)
+Path: [what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md](../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)

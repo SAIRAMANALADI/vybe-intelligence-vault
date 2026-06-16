@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-vlm-alignment
 
 ## Local Vault File
 
-Path: [vision-language-model-alignment-in-trl.md](file:///../../ai/models/vision-language-model-alignment-in-trl.md)
+Path: [vision-language-model-alignment-in-trl.md](../../ai/models/vision-language-model-alignment-in-trl.md)

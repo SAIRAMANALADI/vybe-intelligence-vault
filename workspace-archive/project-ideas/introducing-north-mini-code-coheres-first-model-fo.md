@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/CohereLabs/introducing-north-mi
 
 ## Local Vault File
 
-Path: [introducing-north-mini-code-coheres-first-model-fo.md](file:///../../ai/models/introducing-north-mini-code-coheres-first-model-fo.md)
+Path: [introducing-north-mini-code-coheres-first-model-fo.md](../../ai/models/introducing-north-mini-code-coheres-first-model-fo.md)

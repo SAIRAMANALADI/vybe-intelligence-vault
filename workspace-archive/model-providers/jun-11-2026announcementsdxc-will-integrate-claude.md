@@ -47,4 +47,4 @@ Original source URL: https://anthropic.com/news/dxc-anthropic-alliance
 
 ## Local Vault File
 
-Path: [jun-11-2026announcementsdxc-will-integrate-claude.md](file:///../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
+Path: [jun-11-2026announcementsdxc-will-integrate-claude.md](../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/agent-logic-and-sc
 
 ## Local Vault File
 
-Path: [beyond-llms-why-scalable-enterprise-ai-adoption-de.md](file:///../../ai/agents/beyond-llms-why-scalable-enterprise-ai-adoption-de.md)
+Path: [beyond-llms-why-scalable-enterprise-ai-adoption-de.md](../../ai/agents/beyond-llms-why-scalable-enterprise-ai-adoption-de.md)

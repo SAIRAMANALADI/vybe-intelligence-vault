@@ -44,4 +44,4 @@ Original source URL: https://github.com/redcamel/redgpu
 
 ## Local Vault File
 
-Path: [redcamel-redgpu.md](file:///../../web-development/webgpu/redcamel-redgpu.md)
+Path: [redcamel-redgpu.md](../../web-development/webgpu/redcamel-redgpu.md)

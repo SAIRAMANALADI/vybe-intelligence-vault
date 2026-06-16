@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation
 
 ## Local Vault File
 
-Path: [assisted-generation-a-new-direction-toward-low-lat.md](file:///../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)
+Path: [assisted-generation-a-new-direction-toward-low-lat.md](../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)

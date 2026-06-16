@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-for-oss-developers
 
 ## Local Vault File
 
-Path: [open-source-developers-guide-to-the-eu-ai-act.md](file:///../../ai/models/open-source-developers-guide-to-the-eu-ai-act.md)
+Path: [open-source-developers-guide-to-the-eu-ai-act.md](../../ai/models/open-source-developers-guide-to-the-eu-ai-act.md)

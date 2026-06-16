@@ -46,4 +46,4 @@ Original source URL: https://github.com/epiczzor/r3f-template
 
 ## Local Vault File
 
-Path: [epiczzor-r3f-template.md](file:///../../web-development/react-three-fiber/epiczzor-r3f-template.md)
+Path: [epiczzor-r3f-template.md](../../web-development/react-three-fiber/epiczzor-r3f-template.md)

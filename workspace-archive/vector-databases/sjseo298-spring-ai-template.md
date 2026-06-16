@@ -46,4 +46,4 @@ Original source URL: https://github.com/sjseo298/spring-ai-template
 
 ## Local Vault File
 
-Path: [sjseo298-spring-ai-template.md](file:///../../ai/rag/sjseo298-spring-ai-template.md)
+Path: [sjseo298-spring-ai-template.md](../../ai/rag/sjseo298-spring-ai-template.md)

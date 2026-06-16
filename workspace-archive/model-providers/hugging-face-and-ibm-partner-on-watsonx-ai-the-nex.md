@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-ibm
 
 ## Local Vault File
 
-Path: [hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md](file:///../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)
+Path: [hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md](../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)

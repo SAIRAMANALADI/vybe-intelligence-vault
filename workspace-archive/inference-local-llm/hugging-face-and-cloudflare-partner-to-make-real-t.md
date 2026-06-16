@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fastrtc-cloudflare
 
 ## Local Vault File
 
-Path: [hugging-face-and-cloudflare-partner-to-make-real-t.md](file:///../../ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)
+Path: [hugging-face-and-cloudflare-partner-to-make-real-t.md](../../ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)

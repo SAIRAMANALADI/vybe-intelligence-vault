@@ -46,4 +46,4 @@ Original source URL: https://docs.aws.amazon.com/prescriptive-guidance/latest/wr
 
 ## Local Vault File
 
-Path: [documentation-best-practices-for-rag-applications.md](file:///../../ai/rag/documentation-best-practices-for-rag-applications.md)
+Path: [documentation-best-practices-for-rag-applications.md](../../ai/rag/documentation-best-practices-for-rag-applications.md)

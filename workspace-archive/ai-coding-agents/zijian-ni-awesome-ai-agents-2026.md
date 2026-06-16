@@ -44,4 +44,4 @@ Original source URL: https://github.com/Zijian-Ni/awesome-ai-agents-2026
 
 ## Local Vault File
 
-Path: [zijian-ni-awesome-ai-agents-2026.md](file:///../../ai/agents/zijian-ni-awesome-ai-agents-2026.md)
+Path: [zijian-ni-awesome-ai-agents-2026.md](../../ai/agents/zijian-ni-awesome-ai-agents-2026.md)

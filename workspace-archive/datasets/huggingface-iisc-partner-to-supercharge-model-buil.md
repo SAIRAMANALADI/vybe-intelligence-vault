@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/iisc-huggingface-collab
 
 ## Local Vault File
 
-Path: [huggingface-iisc-partner-to-supercharge-model-buil.md](file:///../../ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)
+Path: [huggingface-iisc-partner-to-supercharge-model-buil.md](../../ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)

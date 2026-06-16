@@ -50,4 +50,4 @@ Original source URL: https://github.com/fzn0x/watchtower
 
 ## Local Vault File
 
-Path: [fzn0x-watchtower.md](file:///../../ai/rag/fzn0x-watchtower.md)
+Path: [fzn0x-watchtower.md](../../ai/rag/fzn0x-watchtower.md)

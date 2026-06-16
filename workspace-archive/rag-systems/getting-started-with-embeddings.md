@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/getting-started-with-embeddings
 
 ## Local Vault File
 
-Path: [getting-started-with-embeddings.md](file:///../../ai/rag/getting-started-with-embeddings.md)
+Path: [getting-started-with-embeddings.md](../../ai/rag/getting-started-with-embeddings.md)

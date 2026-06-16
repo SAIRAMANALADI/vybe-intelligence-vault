@@ -46,4 +46,4 @@ Original source URL: https://medium.com/@elisheba.t.anderson/building-with-ai-co
 
 ## Local Vault File
 
-Path: [building-with-ai-coding-agents-best-practices-for.md](file:///../../ai/agents/building-with-ai-coding-agents-best-practices-for.md)
+Path: [building-with-ai-coding-agents-best-practices-for.md](../../ai/agents/building-with-ai-coding-agents-best-practices-for.md)

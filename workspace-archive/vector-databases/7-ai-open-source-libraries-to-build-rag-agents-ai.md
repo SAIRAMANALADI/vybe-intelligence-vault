@@ -49,4 +49,4 @@ Original source URL: https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-
 
 ## Local Vault File
 
-Path: [7-ai-open-source-libraries-to-build-rag-agents-ai.md](file:///../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
+Path: [7-ai-open-source-libraries-to-build-rag-agents-ai.md](../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)

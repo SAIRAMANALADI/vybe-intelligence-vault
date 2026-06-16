@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hcompany/holo31
 
 ## Local Vault File
 
-Path: [holo3-1-fast-local-computer-use-agents.md](file:///../../ai/agents/holo3-1-fast-local-computer-use-agents.md)
+Path: [holo3-1-fast-local-computer-use-agents.md](../../ai/agents/holo3-1-fast-local-computer-use-agents.md)

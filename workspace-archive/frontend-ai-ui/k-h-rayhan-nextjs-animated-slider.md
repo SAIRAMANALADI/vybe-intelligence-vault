@@ -45,4 +45,4 @@ Original source URL: https://github.com/k-h-rayhan/nextjs-animated-slider
 
 ## Local Vault File
 
-Path: [k-h-rayhan-nextjs-animated-slider.md](file:///../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)
+Path: [k-h-rayhan-nextjs-animated-slider.md](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md)

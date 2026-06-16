@@ -45,4 +45,4 @@ Original source URL: https://github.com/modelcontextprotocol/servers
 
 ## Local Vault File
 
-Path: [modelcontextprotocol-servers.md](file:///../../ai/releases/modelcontextprotocol-servers.md)
+Path: [modelcontextprotocol-servers.md](../../ai/releases/modelcontextprotocol-servers.md)

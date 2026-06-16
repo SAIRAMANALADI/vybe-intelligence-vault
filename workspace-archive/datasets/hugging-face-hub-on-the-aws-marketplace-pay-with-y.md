@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-marketplace
 
 ## Local Vault File
 
-Path: [hugging-face-hub-on-the-aws-marketplace-pay-with-y.md](file:///../../ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-y.md)
+Path: [hugging-face-hub-on-the-aws-marketplace-pay-with-y.md](../../ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-y.md)

@@ -47,4 +47,4 @@ Original source URL: https://huggingface.co/blog/argilla-ui-hub
 
 ## Local Vault File
 
-Path: [argilla-2-4-easily-build-fine-tuning-and-evaluatio.md](file:///../../ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)
+Path: [argilla-2-4-easily-build-fine-tuning-and-evaluatio.md](../../ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)

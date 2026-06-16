@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/upskill
 
 ## Local Vault File
 
-Path: [we-got-claude-to-build-cuda-kernels-and-teach-open.md](file:///../../ai/models/we-got-claude-to-build-cuda-kernels-and-teach-open.md)
+Path: [we-got-claude-to-build-cuda-kernels-and-teach-open.md](../../ai/models/we-got-claude-to-build-cuda-kernels-and-teach-open.md)

@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/intel-gcp-c4
 
 ## Local Vault File
 
-Path: [benchmarking-language-model-performance-on-5th-gen.md](file:///../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)
+Path: [benchmarking-language-model-performance-on-5th-gen.md](../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)

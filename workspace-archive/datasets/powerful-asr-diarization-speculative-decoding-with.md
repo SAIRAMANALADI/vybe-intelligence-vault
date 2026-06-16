@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/asr-diarization
 
 ## Local Vault File
 
-Path: [powerful-asr-diarization-speculative-decoding-with.md](file:///../../ai/models/powerful-asr-diarization-speculative-decoding-with.md)
+Path: [powerful-asr-diarization-speculative-decoding-with.md](../../ai/models/powerful-asr-diarization-speculative-decoding-with.md)

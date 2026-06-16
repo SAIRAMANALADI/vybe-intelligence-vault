@@ -48,4 +48,4 @@ Original source URL: https://github.com/FuzzingLabs/secpipe
 
 ## Local Vault File
 
-Path: [fuzzinglabs-secpipe.md](file:///../../ai/agents/fuzzinglabs-secpipe.md)
+Path: [fuzzinglabs-secpipe.md](../../ai/agents/fuzzinglabs-secpipe.md)

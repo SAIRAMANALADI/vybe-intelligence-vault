@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/uikit
 
 ## Local Vault File
 
-Path: [pmndrs-uikit.md](file:///../../web-development/react-three-fiber/pmndrs-uikit.md)
+Path: [pmndrs-uikit.md](../../web-development/react-three-fiber/pmndrs-uikit.md)

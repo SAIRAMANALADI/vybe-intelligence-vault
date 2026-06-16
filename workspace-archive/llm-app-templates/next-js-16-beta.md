@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/next-16-beta
 
 ## Local Vault File
 
-Path: [next-js-16-beta.md](file:///../../web-development/nextjs/next-js-16-beta.md)
+Path: [next-js-16-beta.md](../../web-development/nextjs/next-js-16-beta.md)

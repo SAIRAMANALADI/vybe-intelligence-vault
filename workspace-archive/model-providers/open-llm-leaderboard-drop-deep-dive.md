@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-drop
 
 ## Local Vault File
 
-Path: [open-llm-leaderboard-drop-deep-dive.md](file:///../../ai/models/open-llm-leaderboard-drop-deep-dive.md)
+Path: [open-llm-leaderboard-drop-deep-dive.md](../../ai/models/open-llm-leaderboard-drop-deep-dive.md)

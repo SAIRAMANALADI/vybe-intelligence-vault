@@ -46,4 +46,4 @@ Original source URL: https://github.com/mergisi/awesome-openclaw-agents
 
 ## Local Vault File
 
-Path: [mergisi-awesome-openclaw-agents.md](file:///../../ai/agents/mergisi-awesome-openclaw-agents.md)
+Path: [mergisi-awesome-openclaw-agents.md](../../ai/agents/mergisi-awesome-openclaw-agents.md)

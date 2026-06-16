@@ -44,4 +44,4 @@ Original source URL: https://github.com/chartgpu/chartgpu
 
 ## Local Vault File
 
-Path: [chartgpu-chartgpu.md](file:///../../web-development/webgpu/chartgpu-chartgpu.md)
+Path: [chartgpu-chartgpu.md](../../web-development/webgpu/chartgpu-chartgpu.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/fireship-io/threejs-scroll-animation-dem
 
 ## Local Vault File
 
-Path: [fireship-io-threejs-scroll-animation-demo.md](file:///../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md)
+Path: [fireship-io-threejs-scroll-animation-demo.md](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md)

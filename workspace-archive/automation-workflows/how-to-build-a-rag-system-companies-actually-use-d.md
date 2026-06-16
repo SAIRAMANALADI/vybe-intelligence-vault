@@ -51,4 +51,4 @@ Original source URL: https://dataengineeracademy.com/blog/production-rag-pipelin
 
 ## Local Vault File
 
-Path: [how-to-build-a-rag-system-companies-actually-use-d.md](file:///../../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
+Path: [how-to-build-a-rag-system-companies-actually-use-d.md](../../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)

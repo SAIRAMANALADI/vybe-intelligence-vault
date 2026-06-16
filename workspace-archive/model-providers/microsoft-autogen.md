@@ -56,4 +56,4 @@ Original source URL: https://github.com/microsoft/autogen
 
 ## Local Vault File
 
-Path: [microsoft-autogen.md](file:///../../ai/agents/microsoft-autogen.md)
+Path: [microsoft-autogen.md](../../ai/agents/microsoft-autogen.md)

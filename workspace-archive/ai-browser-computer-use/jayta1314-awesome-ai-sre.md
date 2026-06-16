@@ -44,4 +44,4 @@ Original source URL: https://github.com/jayta1314/awesome-ai-sre
 
 ## Local Vault File
 
-Path: [jayta1314-awesome-ai-sre.md](file:///../../ai/agents/jayta1314-awesome-ai-sre.md)
+Path: [jayta1314-awesome-ai-sre.md](../../ai/agents/jayta1314-awesome-ai-sre.md)

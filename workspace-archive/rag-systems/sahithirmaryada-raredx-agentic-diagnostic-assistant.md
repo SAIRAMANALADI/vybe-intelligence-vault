@@ -48,4 +48,4 @@ Original source URL: https://github.com/sahithirmaryada/RareDx-Agentic-Diagnosti
 
 ## Local Vault File
 
-Path: [sahithirmaryada-raredx-agentic-diagnostic-assistant.md](file:///../../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md)
+Path: [sahithirmaryada-raredx-agentic-diagnostic-assistant.md](../../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md)

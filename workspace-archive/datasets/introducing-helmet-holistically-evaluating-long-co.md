@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/helmet
 
 ## Local Vault File
 
-Path: [introducing-helmet-holistically-evaluating-long-co.md](file:///../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)
+Path: [introducing-helmet-holistically-evaluating-long-co.md](../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)

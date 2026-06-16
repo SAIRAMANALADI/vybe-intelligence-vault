@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/researcher-dataset-sharing
 
 ## Local Vault File
 
-Path: [share-your-open-ml-datasets-on-hugging-face-hub.md](file:///../../ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)
+Path: [share-your-open-ml-datasets-on-hugging-face-hub.md](../../ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)

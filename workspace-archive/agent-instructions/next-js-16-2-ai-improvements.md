@@ -45,4 +45,4 @@ Original source URL: https://nextjs.org/blog/next-16-2-ai
 
 ## Local Vault File
 
-Path: [next-js-16-2-ai-improvements.md](file:///../../ai/agents/next-js-16-2-ai-improvements.md)
+Path: [next-js-16-2-ai-improvements.md](../../ai/agents/next-js-16-2-ai-improvements.md)

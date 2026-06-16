@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/protectai
 
 ## Local Vault File
 
-Path: [hugging-face-teams-up-with-protect-ai-enhancing-mo.md](file:///../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)
+Path: [hugging-face-teams-up-with-protect-ai-enhancing-mo.md](../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)

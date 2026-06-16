@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/migrating-the-hub-to-xet
 
 ## Local Vault File
 
-Path: [migrating-the-hub-from-git-lfs-to-xet.md](file:///../../ai/models/migrating-the-hub-from-git-lfs-to-xet.md)
+Path: [migrating-the-hub-from-git-lfs-to-xet.md](../../ai/models/migrating-the-hub-from-git-lfs-to-xet.md)

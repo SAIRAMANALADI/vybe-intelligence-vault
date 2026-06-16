@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/react-three-next
 
 ## Local Vault File
 
-Path: [pmndrs-react-three-next.md](file:///../../web-development/react-three-fiber/pmndrs-react-three-next.md)
+Path: [pmndrs-react-three-next.md](../../web-development/react-three-fiber/pmndrs-react-three-next.md)

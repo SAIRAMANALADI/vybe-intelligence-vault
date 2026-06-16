@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [hugging-face-and-jfrog-partner-to-make-ai-security.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security.md](../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)

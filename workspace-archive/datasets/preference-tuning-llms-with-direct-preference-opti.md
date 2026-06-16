@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pref-tuning
 
 ## Local Vault File
 
-Path: [preference-tuning-llms-with-direct-preference-opti.md](file:///../../ai/models/preference-tuning-llms-with-direct-preference-opti.md)
+Path: [preference-tuning-llms-with-direct-preference-opti.md](../../ai/models/preference-tuning-llms-with-direct-preference-opti.md)

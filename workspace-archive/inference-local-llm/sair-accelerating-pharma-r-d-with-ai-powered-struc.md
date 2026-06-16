@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sandboxaq/sair-data-acceleratin
 
 ## Local Vault File
 
-Path: [sair-accelerating-pharma-r-d-with-ai-powered-struc.md](file:///../../ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)
+Path: [sair-accelerating-pharma-r-d-with-ai-powered-struc.md](../../ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)

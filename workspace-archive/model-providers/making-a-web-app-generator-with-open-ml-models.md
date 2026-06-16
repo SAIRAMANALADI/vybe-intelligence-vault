@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-to-webapp
 
 ## Local Vault File
 
-Path: [making-a-web-app-generator-with-open-ml-models.md](file:///../../ai/models/making-a-web-app-generator-with-open-ml-models.md)
+Path: [making-a-web-app-generator-with-open-ml-models.md](../../ai/models/making-a-web-app-generator-with-open-ml-models.md)

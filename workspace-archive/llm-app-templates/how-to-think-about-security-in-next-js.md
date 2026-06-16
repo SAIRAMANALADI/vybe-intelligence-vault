@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/security-nextjs-server-components-a
 
 ## Local Vault File
 
-Path: [how-to-think-about-security-in-next-js.md](file:///../../web-development/nextjs/how-to-think-about-security-in-next-js.md)
+Path: [how-to-think-about-security-in-next-js.md](../../web-development/nextjs/how-to-think-about-security-in-next-js.md)

@@ -46,4 +46,4 @@ Original source URL: https://github.com/codebucks27/3d-landing-page-for-apple-ip
 
 ## Local Vault File
 
-Path: [codebucks27-3d-landing-page-for-apple-iphone.md](file:///../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md)
+Path: [codebucks27-3d-landing-page-for-apple-iphone.md](../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md)

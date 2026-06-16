@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-sapphire-rapids
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-sapphire-rapids.md](file:///../../ai/models/huggingface-blog-intel-sapphire-rapids.md)
+Path: [huggingface-blog-intel-sapphire-rapids.md](../../ai/models/huggingface-blog-intel-sapphire-rapids.md)

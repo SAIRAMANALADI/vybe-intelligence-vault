@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-coreml-llm
 
 ## Local Vault File
 
-Path: [releasing-swift-transformers-run-on-device-llms-in.md](file:///../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)
+Path: [releasing-swift-transformers-run-on-device-llms-in.md](../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)

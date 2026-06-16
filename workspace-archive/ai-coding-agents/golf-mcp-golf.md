@@ -44,4 +44,4 @@ Original source URL: https://github.com/golf-mcp/golf
 
 ## Local Vault File
 
-Path: [golf-mcp-golf.md](file:///../../ai/agents/golf-mcp-golf.md)
+Path: [golf-mcp-golf.md](../../ai/agents/golf-mcp-golf.md)

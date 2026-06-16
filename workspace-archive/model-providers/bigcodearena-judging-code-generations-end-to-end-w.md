@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bigcode/arena
 
 ## Local Vault File
 
-Path: [bigcodearena-judging-code-generations-end-to-end-w.md](file:///../../ai/models/bigcodearena-judging-code-generations-end-to-end-w.md)
+Path: [bigcodearena-judging-code-generations-end-to-end-w.md](../../ai/models/bigcodearena-judging-code-generations-end-to-end-w.md)

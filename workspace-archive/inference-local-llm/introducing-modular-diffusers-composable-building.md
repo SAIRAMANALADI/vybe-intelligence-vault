@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modular-diffusers
 
 ## Local Vault File
 
-Path: [introducing-modular-diffusers-composable-building.md](file:///../../ai/models/introducing-modular-diffusers-composable-building.md)
+Path: [introducing-modular-diffusers-composable-building.md](../../ai/models/introducing-modular-diffusers-composable-building.md)

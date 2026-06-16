@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-cli
 
 ## Local Vault File
 
-Path: [say-hello-to-hf-a-faster-friendlier-hugging-face-c.md](file:///../../ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-c.md)
+Path: [say-hello-to-hf-a-faster-friendlier-hugging-face-c.md](../../ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-c.md)

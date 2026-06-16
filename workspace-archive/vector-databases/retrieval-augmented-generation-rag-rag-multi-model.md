@@ -43,4 +43,4 @@ Original source URL: https://rag.readthedocs.io
 
 ## Local Vault File
 
-Path: [retrieval-augmented-generation-rag-rag-multi-model.md](file:///../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md)
+Path: [retrieval-augmented-generation-rag-rag-multi-model.md](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md)

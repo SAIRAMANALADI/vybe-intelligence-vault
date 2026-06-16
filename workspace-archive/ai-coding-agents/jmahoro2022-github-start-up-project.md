@@ -44,4 +44,4 @@ Original source URL: https://github.com/jmahoro2022/GitHub-Start-up-project
 
 ## Local Vault File
 
-Path: [jmahoro2022-github-start-up-project.md](file:///../../ai/agents/jmahoro2022-github-start-up-project.md)
+Path: [jmahoro2022-github-start-up-project.md](../../ai/agents/jmahoro2022-github-start-up-project.md)

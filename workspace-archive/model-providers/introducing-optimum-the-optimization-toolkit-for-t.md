@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hardware-partners-program
 
 ## Local Vault File
 
-Path: [introducing-optimum-the-optimization-toolkit-for-t.md](file:///../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)
+Path: [introducing-optimum-the-optimization-toolkit-for-t.md](../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)

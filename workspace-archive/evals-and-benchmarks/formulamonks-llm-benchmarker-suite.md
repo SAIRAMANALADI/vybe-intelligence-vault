@@ -47,4 +47,4 @@ Original source URL: https://github.com/FormulaMonks/llm-benchmarker-suite
 
 ## Local Vault File
 
-Path: [formulamonks-llm-benchmarker-suite.md](file:///../../ai/resources/formulamonks-llm-benchmarker-suite.md)
+Path: [formulamonks-llm-benchmarker-suite.md](../../ai/resources/formulamonks-llm-benchmarker-suite.md)

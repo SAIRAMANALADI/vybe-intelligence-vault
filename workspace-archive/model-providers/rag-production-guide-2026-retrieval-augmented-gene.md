@@ -53,4 +53,4 @@ Original source URL: https://lushbinary.com/blog/rag-retrieval-augmented-generat
 
 ## Local Vault File
 
-Path: [rag-production-guide-2026-retrieval-augmented-gene.md](file:///../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
+Path: [rag-production-guide-2026-retrieval-augmented-gene.md](../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)

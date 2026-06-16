@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wuerstchen
 
 ## Local Vault File
 
-Path: [introducing-wurstchen-fast-diffusion-for-image-gen.md](file:///../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)
+Path: [introducing-wurstchen-fast-diffusion-for-image-gen.md](../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)

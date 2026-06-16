@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by cloudking. Score: 1071, Comments: 461.
+Hacker News story by cloudking. Score: 1138, Comments: 489.
 Original Link: None
 
 ## Use Cases
@@ -47,4 +47,4 @@ Original source URL: https://news.ycombinator.com/item?id=48542100
 
 ## Local Vault File
 
-Path: [ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md](file:///../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)
+Path: [ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md](../../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)

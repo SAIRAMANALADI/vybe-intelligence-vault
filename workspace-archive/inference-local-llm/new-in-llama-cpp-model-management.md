@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ggml-org/model-management-in-ll
 
 ## Local Vault File
 
-Path: [new-in-llama-cpp-model-management.md](file:///../../ai/models/new-in-llama-cpp-model-management.md)
+Path: [new-in-llama-cpp-model-management.md](../../ai/models/new-in-llama-cpp-model-management.md)

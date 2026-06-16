@@ -46,4 +46,4 @@ Original source URL: https://github.com/redhat-data-and-ai/template-mcp-server
 
 ## Local Vault File
 
-Path: [redhat-data-and-ai-template-mcp-server.md](file:///../../ai/agents/redhat-data-and-ai-template-mcp-server.md)
+Path: [redhat-data-and-ai-template-mcp-server.md](../../ai/agents/redhat-data-and-ai-template-mcp-server.md)

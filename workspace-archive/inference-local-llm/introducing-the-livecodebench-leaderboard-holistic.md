@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-livecodebench
 
 ## Local Vault File
 
-Path: [introducing-the-livecodebench-leaderboard-holistic.md](file:///../../ai/models/introducing-the-livecodebench-leaderboard-holistic.md)
+Path: [introducing-the-livecodebench-leaderboard-holistic.md](../../ai/models/introducing-the-livecodebench-leaderboard-holistic.md)

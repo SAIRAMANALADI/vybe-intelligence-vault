@@ -46,4 +46,4 @@ Original source URL: https://github.com/microsoft/SafeAgents
 
 ## Local Vault File
 
-Path: [microsoft-safeagents.md](file:///../../ai/agents/microsoft-safeagents.md)
+Path: [microsoft-safeagents.md](../../ai/agents/microsoft-safeagents.md)

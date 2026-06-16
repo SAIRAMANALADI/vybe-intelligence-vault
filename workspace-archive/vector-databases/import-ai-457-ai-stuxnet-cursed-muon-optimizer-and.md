@@ -49,4 +49,4 @@ Original source URL: https://importai.substack.com/p/import-ai-457-ai-stuxnet-cu
 
 ## Local Vault File
 
-Path: [import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md](file:///../../ai/rag/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md)
+Path: [import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md](../../ai/rag/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and.md)

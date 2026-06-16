@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: [hugging-face-and-virustotal-collaborate-to-strengt.md](file:///../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)
+Path: [hugging-face-and-virustotal-collaborate-to-strengt.md](../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)

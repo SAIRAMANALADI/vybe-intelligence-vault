@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/june-2023-update
 
 ## Local Vault File
 
-Path: [next-js-app-router-update.md](file:///../../web-development/nextjs/next-js-app-router-update.md)
+Path: [next-js-app-router-update.md](../../web-development/nextjs/next-js-app-router-update.md)

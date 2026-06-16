@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ai-art-newsletter-jan-25
 
 ## Local Vault File
 
-Path: [the-ai-tools-for-art-newsletter-issue-1.md](file:///../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)
+Path: [the-ai-tools-for-art-newsletter-issue-1.md](../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)

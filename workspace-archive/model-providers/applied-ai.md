@@ -46,4 +46,4 @@ Original source URL: https://openai.com/news/applied-ai
 
 ## Local Vault File
 
-Path: [applied-ai.md](file:///../../ai/companies/openai/applied-ai.md)
+Path: [applied-ai.md](../../ai/companies/openai/applied-ai.md)

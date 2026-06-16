@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ngxson/make-your-own-rag
 
 ## Local Vault File
 
-Path: [code-a-simple-rag-from-scratch.md](file:///../../ai/rag/code-a-simple-rag-from-scratch.md)
+Path: [code-a-simple-rag-from-scratch.md](../../ai/rag/code-a-simple-rag-from-scratch.md)

@@ -53,4 +53,4 @@ Original source URL: https://importai.substack.com/p/import-ai-455-automating-ai
 
 ## Local Vault File
 
-Path: [import-ai-455-ai-systems-are-about-to-start-buildi.md](file:///../../ai/rag/import-ai-455-ai-systems-are-about-to-start-buildi.md)
+Path: [import-ai-455-ai-systems-are-about-to-start-buildi.md](../../ai/rag/import-ai-455-ai-systems-are-about-to-start-buildi.md)

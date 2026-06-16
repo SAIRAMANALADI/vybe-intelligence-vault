@@ -45,4 +45,4 @@ Original source URL: https://github.com/coldi/r3f-game-demo
 
 ## Local Vault File
 
-Path: [coldi-r3f-game-demo.md](file:///../../web-development/react-three-fiber/coldi-r3f-game-demo.md)
+Path: [coldi-r3f-game-demo.md](../../web-development/react-three-fiber/coldi-r3f-game-demo.md)

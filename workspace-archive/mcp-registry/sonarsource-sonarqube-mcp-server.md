@@ -46,4 +46,4 @@ Original source URL: https://github.com/SonarSource/sonarqube-mcp-server
 
 ## Local Vault File
 
-Path: [sonarsource-sonarqube-mcp-server.md](file:///../../ai/agents/sonarsource-sonarqube-mcp-server.md)
+Path: [sonarsource-sonarqube-mcp-server.md](../../ai/agents/sonarsource-sonarqube-mcp-server.md)

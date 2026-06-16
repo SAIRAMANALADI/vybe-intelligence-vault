@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/s2s_endpoint
 
 ## Local Vault File
 
-Path: [deploying-speech-to-speech-on-hugging-face.md](file:///../../ai/models/deploying-speech-to-speech-on-hugging-face.md)
+Path: [deploying-speech-to-speech-on-hugging-face.md](../../ai/models/deploying-speech-to-speech-on-hugging-face.md)

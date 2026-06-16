@@ -44,4 +44,4 @@ Original source URL: https://github.com/sadmann7/file-uploader
 
 ## Local Vault File
 
-Path: [sadmann7-file-uploader.md](file:///../../web-development/shadcn-ui/sadmann7-file-uploader.md)
+Path: [sadmann7-file-uploader.md](../../web-development/shadcn-ui/sadmann7-file-uploader.md)

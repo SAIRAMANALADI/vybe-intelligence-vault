@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-h1-arabic
 
 ## Local Vault File
 
-Path: [introducing-falcon-h1-arabic-pushing-the-boundarie.md](file:///../../ai/models/introducing-falcon-h1-arabic-pushing-the-boundarie.md)
+Path: [introducing-falcon-h1-arabic-pushing-the-boundarie.md](../../ai/models/introducing-falcon-h1-arabic-pushing-the-boundarie.md)

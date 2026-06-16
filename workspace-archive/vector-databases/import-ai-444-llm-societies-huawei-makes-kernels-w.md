@@ -51,4 +51,4 @@ Original source URL: https://importai.substack.com/p/import-ai-444-llm-societies
 
 ## Local Vault File
 
-Path: [import-ai-444-llm-societies-huawei-makes-kernels-w.md](file:///../../ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md)
+Path: [import-ai-444-llm-societies-huawei-makes-kernels-w.md](../../ai/rag/import-ai-444-llm-societies-huawei-makes-kernels-w.md)

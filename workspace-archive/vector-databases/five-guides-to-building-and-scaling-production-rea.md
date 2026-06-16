@@ -51,4 +51,4 @@ Original source URL: https://cloud.google.com/blog/topics/developers-practitione
 
 ## Local Vault File
 
-Path: [five-guides-to-building-and-scaling-production-rea.md](file:///../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
+Path: [five-guides-to-building-and-scaling-production-rea.md](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md)

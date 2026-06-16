@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma4
 
 ## Local Vault File
 
-Path: [welcome-gemma-4-frontier-multimodal-intelligence-o.md](file:///../../ai/models/welcome-gemma-4-frontier-multimodal-intelligence-o.md)
+Path: [welcome-gemma-4-frontier-multimodal-intelligence-o.md](../../ai/models/welcome-gemma-4-frontier-multimodal-intelligence-o.md)

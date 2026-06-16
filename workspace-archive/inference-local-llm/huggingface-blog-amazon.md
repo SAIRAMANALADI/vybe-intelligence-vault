@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amazon
 
 ## Local Vault File
 
-Path: [huggingface-blog-amazon.md](file:///../../ai/models/huggingface-blog-amazon.md)
+Path: [huggingface-blog-amazon.md](../../ai/models/huggingface-blog-amazon.md)

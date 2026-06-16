@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/moe
 
 ## Local Vault File
 
-Path: [mixture-of-experts-explained.md](file:///../../ai/models/mixture-of-experts-explained.md)
+Path: [mixture-of-experts-explained.md](../../ai/models/mixture-of-experts-explained.md)

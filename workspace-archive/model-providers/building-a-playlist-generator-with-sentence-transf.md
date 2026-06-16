@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/playlist-generator
 
 ## Local Vault File
 
-Path: [building-a-playlist-generator-with-sentence-transf.md](file:///../../ai/models/building-a-playlist-generator-with-sentence-transf.md)
+Path: [building-a-playlist-generator-with-sentence-transf.md](../../ai/models/building-a-playlist-generator-with-sentence-transf.md)

@@ -47,4 +47,4 @@ Original source URL: https://openai.github.io/openai-agents-python
 
 ## Local Vault File
 
-Path: [openai-agents-sdk.md](file:///../../ai/agents/openai-agents-sdk.md)
+Path: [openai-agents-sdk.md](../../ai/agents/openai-agents-sdk.md)

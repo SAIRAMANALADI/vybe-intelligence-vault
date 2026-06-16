@@ -46,4 +46,4 @@ Original source URL: https://github.com/Ammumammu/https-github.com-majacinka-cre
 
 ## Local Vault File
 
-Path: [ammumammu-https-github-com-majacinka-crewai-experiments.md](file:///../../ai/agents/ammumammu-https-github-com-majacinka-crewai-experiments.md)
+Path: [ammumammu-https-github-com-majacinka-crewai-experiments.md](../../ai/agents/ammumammu-https-github-com-majacinka-crewai-experiments.md)

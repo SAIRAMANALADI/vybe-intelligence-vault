@@ -47,4 +47,4 @@ Original source URL: https://github.com/IcensRAGHomework/icensraghomework-classr
 
 ## Local Vault File
 
-Path: [icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md](file:///../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)
+Path: [icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)

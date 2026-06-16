@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/informer
 
 ## Local Vault File
 
-Path: [multivariate-probabilistic-time-series-forecasting.md](file:///../../ai/models/multivariate-probabilistic-time-series-forecasting.md)
+Path: [multivariate-probabilistic-time-series-forecasting.md](../../ai/models/multivariate-probabilistic-time-series-forecasting.md)

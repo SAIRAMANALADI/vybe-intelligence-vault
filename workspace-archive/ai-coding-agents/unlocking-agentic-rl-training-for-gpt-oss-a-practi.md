@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/linkedin/gpt-oss-agentic-rl
 
 ## Local Vault File
 
-Path: [unlocking-agentic-rl-training-for-gpt-oss-a-practi.md](file:///../../ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md)
+Path: [unlocking-agentic-rl-training-for-gpt-oss-a-practi.md](../../ai/agents/unlocking-agentic-rl-training-for-gpt-oss-a-practi.md)

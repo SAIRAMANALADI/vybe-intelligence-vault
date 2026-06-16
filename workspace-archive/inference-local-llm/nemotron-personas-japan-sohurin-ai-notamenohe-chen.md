@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/nemotron-personas-japan-
 
 ## Local Vault File
 
-Path: [nemotron-personas-japan-sohurin-ai-notamenohe-chen.md](file:///../../ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-chen.md)
+Path: [nemotron-personas-japan-sohurin-ai-notamenohe-chen.md](../../ai/models/nemotron-personas-japan-sohurin-ai-notamenohe-chen.md)

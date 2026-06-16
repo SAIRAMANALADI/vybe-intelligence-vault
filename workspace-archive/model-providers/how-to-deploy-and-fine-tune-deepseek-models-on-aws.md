@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepseek-r1-aws
 
 ## Local Vault File
 
-Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws.md](file:///../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)
+Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws.md](../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)

@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/computer
 
 ## Local Vault File
 
-Path: [computer-vision.md](file:///../../ai/companies/computer-vision.md)
+Path: [computer-vision.md](../../ai/companies/computer-vision.md)

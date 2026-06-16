@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [making-sense-of-this-mess.md](file:///../../ai/models/making-sense-of-this-mess.md)
+Path: [making-sense-of-this-mess.md](../../ai/models/making-sense-of-this-mess.md)

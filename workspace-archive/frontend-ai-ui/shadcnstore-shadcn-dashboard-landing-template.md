@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcnstore/shadcn-dashboard-landing-tem
 
 ## Local Vault File
 
-Path: [shadcnstore-shadcn-dashboard-landing-template.md](file:///../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
+Path: [shadcnstore-shadcn-dashboard-landing-template.md](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)

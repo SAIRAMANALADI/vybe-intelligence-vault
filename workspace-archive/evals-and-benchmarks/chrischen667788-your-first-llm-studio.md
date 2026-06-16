@@ -47,4 +47,4 @@ Original source URL: https://github.com/ChrisChen667788/Your-First-LLM-Studio
 
 ## Local Vault File
 
-Path: [chrischen667788-your-first-llm-studio.md](file:///../../ai/agents/chrischen667788-your-first-llm-studio.md)
+Path: [chrischen667788-your-first-llm-studio.md](../../ai/agents/chrischen667788-your-first-llm-studio.md)

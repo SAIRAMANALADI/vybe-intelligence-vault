@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bamba
 
 ## Local Vault File
 
-Path: [bamba-inference-efficient-hybrid-mamba2-model.md](file:///../../ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)
+Path: [bamba-inference-efficient-hybrid-mamba2-model.md](../../ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)

@@ -1,36 +1,22 @@
-{
-  "status": "healthy",
-  "last_generated_at": "2026-06-16T17:33:56.939254+05:30",
-  "total_items": 14024,
-  "category_counts": {
-    "ai-coding-agents": 578,
-    "agent-instructions": 1,
-    "mcp-registry": 61,
-    "agent-frameworks": 620,
-    "rag-systems": 2461,
-    "llm-app-templates": 104,
-    "evals-and-benchmarks": 2442,
-    "observability": 141,
-    "guardrails-security": 1257,
-    "model-providers": 1076,
-    "inference-local-llm": 803,
-    "vector-databases": 938,
-    "datasets": 2239,
-    "prompt-libraries": 21,
-    "automation-workflows": 247,
-    "public-apis": 0,
-    "ai-tools-products": 28,
-    "ai-browser-computer-use": 632,
-    "frontend-ai-ui": 125,
-    "webdev-3d-creative": 85,
-    "learning-paths": 15,
-    "project-ideas": 120,
-    "jobs-market": 1,
-    "startup-builder": 29
-  },
-  "validation": {
-    "best_of_guides": true,
-    "navigation_indexes": true,
-    "readme_present": true
-  }
-}
+# Vybe Repository Validation Report
+
+Generated: `2026-06-16 19:50:00 Asia/Kolkata`
+
+This report was automatically compiled by the repository integrity diagnostics system.
+
+## Summary Metrics
+
+- **Total Integrity Failures**: 0
+
+### Validation Category Breakdown:
+- **YAML Validation**: 0
+- **Metadata Validation**: 0
+- **Filename Validation**: 0
+- **Link Validation**: 0
+- **Duplicate Validation**: 0
+- **Registry Validation**: 0
+- **Source Validation**: 0
+
+## Validation Log Details
+
+🎉 **All validation checks passed successfully!** No integrity errors found.

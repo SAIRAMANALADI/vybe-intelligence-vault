@@ -45,4 +45,4 @@ Original source URL: https://github.com/kartikk-k/dashboard-ui
 
 ## Local Vault File
 
-Path: [kartikk-k-dashboard-ui.md](file:///../../web-development/framer-motion/kartikk-k-dashboard-ui.md)
+Path: [kartikk-k-dashboard-ui.md](../../web-development/framer-motion/kartikk-k-dashboard-ui.md)

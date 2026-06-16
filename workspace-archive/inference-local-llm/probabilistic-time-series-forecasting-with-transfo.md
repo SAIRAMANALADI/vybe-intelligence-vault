@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/time-series-transformers
 
 ## Local Vault File
 
-Path: [probabilistic-time-series-forecasting-with-transfo.md](file:///../../ai/models/probabilistic-time-series-forecasting-with-transfo.md)
+Path: [probabilistic-time-series-forecasting-with-transfo.md](../../ai/models/probabilistic-time-series-forecasting-with-transfo.md)

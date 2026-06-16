@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-ppo
 
 ## Local Vault File
 
-Path: [proximal-policy-optimization-ppo.md](file:///../../ai/models/proximal-policy-optimization-ppo.md)
+Path: [proximal-policy-optimization-ppo.md](../../ai/models/proximal-policy-optimization-ppo.md)

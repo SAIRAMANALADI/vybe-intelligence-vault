@@ -45,4 +45,4 @@ Original source URL: https://github.com/juniorxsound/r3f.multiplayer
 
 ## Local Vault File
 
-Path: [juniorxsound-r3f-multiplayer.md](file:///../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)
+Path: [juniorxsound-r3f-multiplayer.md](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md)

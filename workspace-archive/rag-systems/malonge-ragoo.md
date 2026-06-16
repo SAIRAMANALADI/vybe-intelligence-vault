@@ -46,4 +46,4 @@ Original source URL: https://github.com/malonge/RaGOO
 
 ## Local Vault File
 
-Path: [malonge-ragoo.md](file:///../../ai/rag/malonge-ragoo.md)
+Path: [malonge-ragoo.md](../../ai/rag/malonge-ragoo.md)

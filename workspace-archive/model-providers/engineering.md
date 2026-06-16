@@ -46,4 +46,4 @@ Original source URL: https://openai.com/news/engineering
 
 ## Local Vault File
 
-Path: [engineering.md](file:///../../ai/companies/openai/engineering.md)
+Path: [engineering.md](../../ai/companies/openai/engineering.md)

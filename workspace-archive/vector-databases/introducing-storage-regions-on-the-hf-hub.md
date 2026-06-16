@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/regions
 
 ## Local Vault File
 
-Path: [introducing-storage-regions-on-the-hf-hub.md](file:///../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)
+Path: [introducing-storage-regions-on-the-hf-hub.md](../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)

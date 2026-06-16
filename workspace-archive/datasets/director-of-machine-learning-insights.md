@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights
 
 ## Local Vault File
 
-Path: [director-of-machine-learning-insights.md](file:///../../ai/models/director-of-machine-learning-insights.md)
+Path: [director-of-machine-learning-insights.md](../../ai/models/director-of-machine-learning-insights.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [image-classification-with-autotrain.md](file:///../../ai/models/image-classification-with-autotrain.md)
+Path: [image-classification-with-autotrain.md](../../ai/models/image-classification-with-autotrain.md)

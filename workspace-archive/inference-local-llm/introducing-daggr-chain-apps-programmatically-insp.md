@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/daggr
 
 ## Local Vault File
 
-Path: [introducing-daggr-chain-apps-programmatically-insp.md](file:///../../ai/models/introducing-daggr-chain-apps-programmatically-insp.md)
+Path: [introducing-daggr-chain-apps-programmatically-insp.md](../../ai/models/introducing-daggr-chain-apps-programmatically-insp.md)

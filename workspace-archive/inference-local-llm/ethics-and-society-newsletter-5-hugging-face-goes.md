@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-5
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-5-hugging-face-goes.md](file:///../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)
+Path: [ethics-and-society-newsletter-5-hugging-face-goes.md](../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)

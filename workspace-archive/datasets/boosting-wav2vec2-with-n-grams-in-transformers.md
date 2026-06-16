@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wav2vec2-with-ngram
 
 ## Local Vault File
 
-Path: [boosting-wav2vec2-with-n-grams-in-transformers.md](file:///../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)
+Path: [boosting-wav2vec2-with-n-grams-in-transformers.md](../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)

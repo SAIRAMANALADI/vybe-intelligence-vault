@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-2
 
 ## Local Vault File
 
-Path: [let-s-talk-about-biases-in-machine-learning-ethics.md](file:///../../ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)
+Path: [let-s-talk-about-biases-in-machine-learning-ethics.md](../../ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)

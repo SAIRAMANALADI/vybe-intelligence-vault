@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-dqn
 
 ## Local Vault File
 
-Path: [deep-q-learning-with-space-invaders.md](file:///../../ai/models/deep-q-learning-with-space-invaders.md)
+Path: [deep-q-learning-with-space-invaders.md](../../ai/models/deep-q-learning-with-space-invaders.md)

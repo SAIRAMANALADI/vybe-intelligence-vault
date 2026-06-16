@@ -46,4 +46,4 @@ Original source URL: https://www.itsm-docs.com/en-gb/products/rag-status-templat
 
 ## Local Vault File
 
-Path: [rag-project-status-report-template-document-templa.md](file:///../../ai/rag/rag-project-status-report-template-document-templa.md)
+Path: [rag-project-status-report-template-document-templa.md](../../ai/rag/rag-project-status-report-template-document-templa.md)

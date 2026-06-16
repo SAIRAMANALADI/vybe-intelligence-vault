@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-r1/update-1
 
 ## Local Vault File
 
-Path: [open-r1-update-1.md](file:///../../ai/models/open-r1-update-1.md)
+Path: [open-r1-update-1.md](../../ai/models/open-r1-update-1.md)

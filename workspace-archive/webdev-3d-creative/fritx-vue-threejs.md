@@ -44,4 +44,4 @@ Original source URL: https://github.com/fritx/vue-threejs
 
 ## Local Vault File
 
-Path: [fritx-vue-threejs.md](file:///../../web-development/threejs/fritx-vue-threejs.md)
+Path: [fritx-vue-threejs.md](../../web-development/threejs/fritx-vue-threejs.md)

@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/our-journey-with-caching
 
 ## Local Vault File
 
-Path: [our-journey-with-caching.md](file:///../../web-development/nextjs/our-journey-with-caching.md)
+Path: [our-journey-with-caching.md](../../web-development/nextjs/our-journey-with-caching.md)

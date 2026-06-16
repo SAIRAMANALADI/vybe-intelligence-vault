@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mantis-case-study
 
 ## Local Vault File
 
-Path: [why-were-switching-to-hugging-face-inference-endpo.md](file:///../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)
+Path: [why-were-switching-to-hugging-face-inference-endpo.md](../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)

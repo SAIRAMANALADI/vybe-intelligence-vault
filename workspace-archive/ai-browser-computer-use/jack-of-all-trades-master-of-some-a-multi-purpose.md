@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jat
 
 ## Local Vault File
 
-Path: [jack-of-all-trades-master-of-some-a-multi-purpose.md](file:///../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)
+Path: [jack-of-all-trades-master-of-some-a-multi-purpose.md](../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)

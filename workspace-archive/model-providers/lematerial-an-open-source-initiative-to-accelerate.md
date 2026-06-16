@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/lematerial
 
 ## Local Vault File
 
-Path: [lematerial-an-open-source-initiative-to-accelerate.md](file:///../../ai/models/lematerial-an-open-source-initiative-to-accelerate.md)
+Path: [lematerial-an-open-source-initiative-to-accelerate.md](../../ai/models/lematerial-an-open-source-initiative-to-accelerate.md)

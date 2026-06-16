@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-ntia-rfc
 
 ## Local Vault File
 
-Path: [ai-policy-response-to-the-u-s-ntia-s-request-for-c.md](file:///../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)
+Path: [ai-policy-response-to-the-u-s-ntia-s-request-for-c.md](../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)

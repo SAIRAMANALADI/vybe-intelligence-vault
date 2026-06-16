@@ -44,4 +44,4 @@ Original source URL: https://github.com/vasturiano/3d-force-graph
 
 ## Local Vault File
 
-Path: [vasturiano-3d-force-graph.md](file:///../../web-development/threejs/vasturiano-3d-force-graph.md)
+Path: [vasturiano-3d-force-graph.md](../../web-development/threejs/vasturiano-3d-force-graph.md)

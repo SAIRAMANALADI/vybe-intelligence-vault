@@ -46,4 +46,4 @@ Original source URL: https://github.com/aigateway-sh/awesome-ai-gateway
 
 ## Local Vault File
 
-Path: [aigateway-sh-awesome-ai-gateway.md](file:///../../ai/resources/aigateway-sh-awesome-ai-gateway.md)
+Path: [aigateway-sh-awesome-ai-gateway.md](../../ai/resources/aigateway-sh-awesome-ai-gateway.md)

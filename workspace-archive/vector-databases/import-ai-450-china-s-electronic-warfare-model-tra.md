@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-450-chinas-electr
 
 ## Local Vault File
 
-Path: [import-ai-450-china-s-electronic-warfare-model-tra.md](file:///../../ai/rag/import-ai-450-china-s-electronic-warfare-model-tra.md)
+Path: [import-ai-450-china-s-electronic-warfare-model-tra.md](../../ai/rag/import-ai-450-china-s-electronic-warfare-model-tra.md)

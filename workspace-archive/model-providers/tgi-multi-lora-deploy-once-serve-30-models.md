@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/multi-lora-serving
 
 ## Local Vault File
 
-Path: [tgi-multi-lora-deploy-once-serve-30-models.md](file:///../../ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)
+Path: [tgi-multi-lora-deploy-once-serve-30-models.md](../../ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fellowship
 
 ## Local Vault File
 
-Path: [announcing-the-hugging-face-fellowship-program.md](file:///../../ai/models/announcing-the-hugging-face-fellowship-program.md)
+Path: [announcing-the-hugging-face-fellowship-program.md](../../ai/models/announcing-the-hugging-face-fellowship-program.md)

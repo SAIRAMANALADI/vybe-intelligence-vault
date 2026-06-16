@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-443-into-the-mist
 
 ## Local Vault File
 
-Path: [import-ai-443-into-the-mist-moltbook-agent-ecologi.md](file:///../../ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)
+Path: [import-ai-443-into-the-mist-moltbook-agent-ecologi.md](../../ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)

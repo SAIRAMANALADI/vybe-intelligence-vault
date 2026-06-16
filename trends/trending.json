@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-06-16T17:34:03.020848+05:30",
+  "generated_at": "2026-06-16T19:39:33.638710+05:30",
   "trending_resources": [
+    {
+      "id": "hackernews:feds-freaked-over-fable-5-after-simple-fix-this-co",
+      "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+      "file_path": "ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md",
+      "score": 252,
+      "score_change": 171,
+      "rank_change": 1,
+      "new_resource": false,
+      "tier": "tier-3"
+    },
     {
       "id": "hackernews:ask-hn-has-anyone-replaced-claude-gpt-with-a-local",
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
@@ -8,8 +21,8 @@
       "source_type": "hackernews",
       "url": "https://news.ycombinator.com/item?id=48542100",
       "file_path": "ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md",
-      "score": 1071,
-      "score_change": 137,
+      "score": 1138,
+      "score_change": 67,
       "rank_change": 0,
       "new_resource": false,
       "tier": "tier-3"
@@ -21,8 +34,8 @@
       "source_type": "hackernews",
       "url": "https://tinywind.io",
       "file_path": "ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md",
-      "score": 879,
-      "score_change": 80,
+      "score": 917,
+      "score_change": 38,
       "rank_change": 0,
       "new_resource": false,
       "tier": "tier-3"
@@ -34,9 +47,9 @@
       "source_type": "hackernews",
       "url": "https://goodinternetmagazine.com/why-i-email-complete-strangers",
       "file_path": "ai/community/why-i-email-complete-strangers.md",
-      "score": 164,
+      "score": 184,
       "score_change": 20,
-      "rank_change": 0,
+      "rank_change": -1,
       "new_resource": false,
       "tier": "tier-3"
     },
@@ -47,42 +60,14 @@
       "source_type": "hackernews",
       "url": "https://rsgm.dev/post/ai-dev-platform",
       "file_path": "ai/community/my-homelab-ai-dev-platform.md",
-      "score": 321,
+      "score": 340,
       "score_change": 19,
       "rank_change": 0,
-      "new_resource": false,
-      "tier": "tier-3"
-    },
-    {
-      "id": "blog:introducing-north-mini-code-coheres-first-model-fo",
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/coherelabs",
-      "file_path": "ai/models/huggingface-blog-coherelabs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 819,
       "new_resource": false,
       "tier": "tier-3"
     }
   ],
   "fastest_rising_tools": [
-    {
-      "id": "blog:introducing-north-mini-code-coheres-first-model-fo",
-      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
-      "category": "ai/models",
-      "source_type": "huggingface",
-      "url": "https://huggingface.co/blog/coherelabs",
-      "file_path": "ai/models/huggingface-blog-coherelabs.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 819,
-      "new_resource": false,
-      "tier": "tier-3"
-    }
-  ],
-  "new_discoveries": [
     {
       "id": "hackernews:feds-freaked-over-fable-5-after-simple-fix-this-co",
       "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
@@ -90,32 +75,21 @@
       "source_type": "hackernews",
       "url": "https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
       "file_path": "ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md",
-      "score": 81,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
+      "score": 252,
+      "score_change": 171,
+      "rank_change": 1,
+      "new_resource": false,
       "tier": "tier-3"
-    },
+    }
+  ],
+  "new_discoveries": [
     {
-      "id": "hackernews:spacex-to-buy-cursor-ai-coding-agent-operator-anys",
-      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
-      "category": "ai/community",
-      "source_type": "hackernews",
-      "url": "https://reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16",
-      "file_path": "ai/community/spacex-to-buy-cursor-ai-coding-agent-operator-anys.md",
-      "score": 55,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:masumi-network/crewai-masumi-quickstart-template",
-      "title": "masumi-network/crewai-masumi-quickstart-template",
+      "id": "github:parallel75/microsoft_autogen_tutorial",
+      "title": "parallel75/Microsoft_AutoGen_Tutorial",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/masumi-network/crewai-masumi-quickstart-template",
-      "file_path": "ai/agents/masumi-network-crewai-masumi-quickstart-template.md",
+      "url": "https://github.com/parallel75/microsoft_autogen_tutorial",
+      "file_path": "ai/agents/parallel75-microsoft-autogen-tutorial.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -123,12 +97,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:croppers/crewai",
-      "title": "croppers/crewai",
+      "id": "github:tylerprogramming/ai",
+      "title": "tylerprogramming/ai",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/croppers/crewai",
-      "file_path": "ai/agents/croppers-crewai.md",
+      "url": "https://github.com/tylerprogramming/ai",
+      "file_path": "ai/agents/tylerprogramming-ai.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -136,12 +110,51 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:rokbenko/ai-playground",
-      "title": "rokbenko/ai-playground",
+      "id": "github:sameera-nazneen/autogeneratedcv.github.io",
+      "title": "Sameera-Nazneen/AutogeneratedCV.github.io",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/sameera-nazneen/autogeneratedcv.github.io",
+      "file_path": "ai/agents/sameera-nazneen-autogeneratedcv-github-io.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:abuzarmahmood/blech_github_bot",
+      "title": "abuzarmahmood/blech_github_bot",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/abuzarmahmood/blech_github_bot",
+      "file_path": "ai/agents/abuzarmahmood-blech-github-bot.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:cs-433/ml-project-2-nlp_of_autogentext",
+      "title": "CS-433/ml-project-2-nlp_of_autogentext",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/cs-433/ml-project-2-nlp_of_autogentext",
+      "file_path": "ai/agents/cs-433-ml-project-2-nlp-of-autogentext.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:junwoojeong100/azure-intelligent-app-labs",
+      "title": "junwoojeong100/azure-intelligent-app-labs",
       "category": "ai/rag",
       "source_type": "github",
-      "url": "https://github.com/rokbenko/ai-playground",
-      "file_path": "ai/rag/rokbenko-ai-playground.md",
+      "url": "https://github.com/junwoojeong100/azure-intelligent-app-labs",
+      "file_path": "ai/rag/junwoojeong100-azure-intelligent-app-labs.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -149,12 +162,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:aarohisingla/crewai_tutorials",
-      "title": "AarohiSingla/CrewAI_tutorials",
+      "id": "github:questcollector/autogen-kubernetes",
+      "title": "questcollector/autogen-kubernetes",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/aarohisingla/crewai_tutorials",
-      "file_path": "ai/agents/aarohisingla-crewai-tutorials.md",
+      "url": "https://github.com/questcollector/autogen-kubernetes",
+      "file_path": "ai/agents/questcollector-autogen-kubernetes.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -162,25 +175,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:curiousily/ai-bootcamp",
-      "title": "curiousily/AI-Bootcamp",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/curiousily/ai-bootcamp",
-      "file_path": "ai/rag/curiousily-ai-bootcamp.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:codebasics/crewai-crash-course",
-      "title": "codebasics/crewai-crash-course",
+      "id": "github:dorisoy/ffmpeg.autogen.toolkit",
+      "title": "dorisoy/FFmpeg.AutoGen.Toolkit",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/codebasics/crewai-crash-course",
-      "file_path": "ai/agents/codebasics-crewai-crash-course.md",
+      "url": "https://github.com/dorisoy/ffmpeg.autogen.toolkit",
+      "file_path": "ai/agents/dorisoy-ffmpeg-autogen-toolkit.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -188,12 +188,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:alejandro-ao/crewai-crash-course",
-      "title": "alejandro-ao/crewai-crash-course",
+      "id": "github:rominirani/autogen-experiments",
+      "title": "rominirani/autogen-experiments",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/alejandro-ao/crewai-crash-course",
-      "file_path": "ai/agents/alejandro-ao-crewai-crash-course.md",
+      "url": "https://github.com/rominirani/autogen-experiments",
+      "file_path": "ai/agents/rominirani-autogen-experiments.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -201,12 +201,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:bhancockio/crewai-groq-tutorial",
-      "title": "bhancockio/crewai-groq-tutorial",
+      "id": "github:denniszielke/agentic-playground",
+      "title": "denniszielke/agentic-playground",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/bhancockio/crewai-groq-tutorial",
-      "file_path": "ai/agents/bhancockio-crewai-groq-tutorial.md",
+      "url": "https://github.com/denniszielke/agentic-playground",
+      "file_path": "ai/agents/denniszielke-agentic-playground.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -214,12 +214,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:bhancockio/nextjs-crewai-basic-tutorial",
-      "title": "bhancockio/nextjs-crewai-basic-tutorial",
+      "id": "github:nithador/crewai_demo",
+      "title": "Nithador/crewai_demo",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/bhancockio/nextjs-crewai-basic-tutorial",
-      "file_path": "ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md",
+      "url": "https://github.com/nithador/crewai_demo",
+      "file_path": "ai/agents/nithador-crewai-demo.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -227,12 +227,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:bhancockio/crewai-updated-tutorial-hierarchical",
-      "title": "bhancockio/crewai-updated-tutorial-hierarchical",
+      "id": "github:prompten-2026bahar/pe-2026-crewai",
+      "title": "prompten-2026bahar/PE-2026-CrewAI",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/bhancockio/crewai-updated-tutorial-hierarchical",
-      "file_path": "ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md",
+      "url": "https://github.com/prompten-2026bahar/pe-2026-crewai",
+      "file_path": "ai/agents/prompten-2026bahar-pe-2026-crewai.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -240,25 +240,12 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:shivayapandey/product-doc-crewai",
-      "title": "shivayapandey/product-doc-crewai",
-      "category": "ai/rag",
-      "source_type": "github",
-      "url": "https://github.com/shivayapandey/product-doc-crewai",
-      "file_path": "ai/rag/shivayapandey-product-doc-crewai.md",
-      "score": 0,
-      "score_change": 0,
-      "rank_change": 0,
-      "new_resource": true,
-      "tier": "tier-3"
-    },
-    {
-      "id": "github:jmahoro2022/github-start-up-project",
-      "title": "jmahoro2022/GitHub-Start-up-project",
+      "id": "github:bluehands/girlsday2026",
+      "title": "bluehands/GirlsDay2026",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/jmahoro2022/github-start-up-project",
-      "file_path": "ai/agents/jmahoro2022-github-start-up-project.md",
+      "url": "https://github.com/bluehands/girlsday2026",
+      "file_path": "ai/agents/bluehands-girlsday2026.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -266,12 +253,25 @@
       "tier": "tier-3"
     },
     {
-      "id": "github:agruai/ai-book-writer",
-      "title": "agruai/ai-book-writer",
+      "id": "github:deepakyati/crewai_2026",
+      "title": "Deepakyati/CrewAI_2026",
       "category": "ai/agents",
       "source_type": "github",
-      "url": "https://github.com/agruai/ai-book-writer",
-      "file_path": "ai/agents/agruai-ai-book-writer.md",
+      "url": "https://github.com/deepakyati/crewai_2026",
+      "file_path": "ai/agents/deepakyati-crewai-2026.md",
+      "score": 0,
+      "score_change": 0,
+      "rank_change": 0,
+      "new_resource": true,
+      "tier": "tier-3"
+    },
+    {
+      "id": "github:8500girish/crewai-2026",
+      "title": "8500GIRISH/CrewAI-2026",
+      "category": "ai/agents",
+      "source_type": "github",
+      "url": "https://github.com/8500girish/crewai-2026",
+      "file_path": "ai/agents/8500girish-crewai-2026.md",
       "score": 0,
       "score_change": 0,
       "rank_change": 0,
@@ -281,84 +281,12 @@
   ],
   "recently_inactive_resources": [
     {
-      "id": "github:mikeroyal/self-hosting-guide",
-      "title": "mikeroyal/Self-Hosting-Guide",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/mikeroyal/self-hosting-guide",
-      "file_path": "ai/trending/mikeroyal-self-hosting-guide.md"
-    },
-    {
-      "id": "github:raphire/win11debloat",
-      "title": "Raphire/Win11Debloat",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/raphire/win11debloat",
-      "file_path": "ai/trending/raphire-win11debloat.md"
-    },
-    {
-      "id": "github:introduction-to-autonomous-robots/introduction-to-autonomous-robots",
-      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "category": "ai/agents",
-      "source_type": "github_trending",
-      "url": "https://github.com/introduction-to-autonomous-robots/introduction-to-autonomous-robots",
-      "file_path": "ai/agents/introduction-to-autonomous-robots-introduction-to-autonomous-robots.md"
-    },
-    {
-      "id": "github:free-tv/iptv",
-      "title": "Free-TV/IPTV",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/free-tv/iptv",
-      "file_path": "ai/trending/free-tv-iptv.md"
-    },
-    {
-      "id": "github:rohitg00/ai-engineering-from-scratch",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "file_path": "ai/trending/rohitg00-ai-engineering-from-scratch.md"
-    },
-    {
-      "id": "github:jwasham/coding-interview-university",
-      "title": "jwasham/coding-interview-university",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/jwasham/coding-interview-university",
-      "file_path": "ai/trending/jwasham-coding-interview-university.md"
-    },
-    {
-      "id": "github:trycua/cua",
-      "title": "trycua/cua",
-      "category": "ai/agents",
-      "source_type": "github_trending",
-      "url": "https://github.com/trycua/cua",
-      "file_path": "ai/agents/trycua-cua.md"
-    },
-    {
-      "id": "github:krahets/hello-algo",
-      "title": "krahets/hello-algo",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/krahets/hello-algo",
-      "file_path": "ai/trending/krahets-hello-algo.md"
-    },
-    {
-      "id": "github:chatwoot/chatwoot",
-      "title": "chatwoot/chatwoot",
-      "category": "ai/trending",
-      "source_type": "github_trending",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "file_path": "ai/trending/chatwoot-chatwoot.md"
-    },
-    {
-      "id": "github:panniantong/agent-reach",
-      "title": "Panniantong/Agent-Reach",
-      "category": "ai/agents",
-      "source_type": "github_trending",
-      "url": "https://github.com/panniantong/agent-reach",
-      "file_path": "ai/agents/panniantong-agent-reach.md"
+      "id": "hackernews:spacex-to-buy-cursor-ai-coding-agent-operator-anys",
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "category": "ai/community",
+      "source_type": "hackernews",
+      "url": "https://reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16",
+      "file_path": "ai/community/spacex-to-buy-cursor-ai-coding-agent-operator-anys.md"
     }
   ],
   "entered_essential": [],

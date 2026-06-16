@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/textquests
 
 ## Local Vault File
 
-Path: [textquests-how-good-are-llms-at-text-based-video-g.md](file:///../../ai/models/textquests-how-good-are-llms-at-text-based-video-g.md)
+Path: [textquests-how-good-are-llms-at-text-based-video-g.md](../../ai/models/textquests-how-good-are-llms-at-text-based-video-g.md)

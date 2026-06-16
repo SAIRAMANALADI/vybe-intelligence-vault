@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/chinese-language-blog
 
 ## Local Vault File
 
-Path: [introducing-huggingface-blog-for-chinese-speakers.md](file:///../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)
+Path: [introducing-huggingface-blog-for-chinese-speakers.md](../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)

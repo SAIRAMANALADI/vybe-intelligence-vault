@@ -42,4 +42,4 @@ Original source URL: https://github.com/changoman/nextjs-mdx-blog
 
 ## Local Vault File
 
-Path: [changoman-nextjs-mdx-blog.md](file:///../../web-development/nextjs/changoman-nextjs-mdx-blog.md)
+Path: [changoman-nextjs-mdx-blog.md](../../web-development/nextjs/changoman-nextjs-mdx-blog.md)

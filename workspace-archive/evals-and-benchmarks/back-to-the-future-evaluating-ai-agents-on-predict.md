@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/futurebench
 
 ## Local Vault File
 
-Path: [back-to-the-future-evaluating-ai-agents-on-predict.md](file:///../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)
+Path: [back-to-the-future-evaluating-ai-agents-on-predict.md](../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)

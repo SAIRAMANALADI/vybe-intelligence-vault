@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-wiz-security-blog
 
 ## Local Vault File
 
-Path: [hugging-face-partners-with-wiz-research-to-improve.md](file:///../../ai/models/hugging-face-partners-with-wiz-research-to-improve.md)
+Path: [hugging-face-partners-with-wiz-research-to-improve.md](../../ai/models/hugging-face-partners-with-wiz-research-to-improve.md)

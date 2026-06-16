@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/human-co
 
 ## Local Vault File
 
-Path: [human-computer-interaction.md](file:///../../ai/companies/human-computer-interaction.md)
+Path: [human-computer-interaction.md](../../ai/companies/human-computer-interaction.md)

@@ -49,4 +49,4 @@ Original source URL: https://github.com/okahu-demos/crewai-travel-agent
 
 ## Local Vault File
 
-Path: [okahu-demos-crewai-travel-agent.md](file:///../../ai/agents/okahu-demos-crewai-travel-agent.md)
+Path: [okahu-demos-crewai-travel-agent.md](../../ai/agents/okahu-demos-crewai-travel-agent.md)

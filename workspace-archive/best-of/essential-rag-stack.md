@@ -10,62 +10,62 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 ### [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - **Category**: `web-development/nextjs` | **Kind**: `TEMPLATE` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](file:///../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
+- **Score**: `87` | **Path**: [`shadcnstore-shadcn-dashboard-landing-template.md`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex)
 - **Category**: `ai/rag` | **Kind**: `PRODUCT` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex.md`](file:///../../ai/rag/girijesh-ai-ai-interview-codex.md)
+- **Score**: `87` | **Path**: [`girijesh-ai-ai-interview-codex.md`](../../ai/rag/girijesh-ai-ai-interview-codex.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [langgenius/dify](https://github.com/langgenius/dify)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`langgenius-dify.md`](file:///../../ai/rag/langgenius-dify.md)
+- **Score**: `87` | **Path**: [`langgenius-dify.md`](../../ai/rag/langgenius-dify.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](file:///../../ai/rag/sylphxai-pdf-reader-mcp.md)
+- **Score**: `87` | **Path**: [`sylphxai-pdf-reader-mcp.md`](../../ai/rag/sylphxai-pdf-reader-mcp.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops)
 - **Category**: `ai/rag` | **Kind**: `MCP-SERVER` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](file:///../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
+- **Score**: `87` | **Path**: [`wagneragent-awesome-mcp-servers-devops.md`](../../ai/rag/wagneragent-awesome-mcp-servers-devops.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - **Category**: `ai/rag` | **Kind**: `API` | **Tier**: `ESSENTIAL`
-- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](file:///../../ai/rag/yonatangross-orchestkit.md)
+- **Score**: `87` | **Path**: [`yonatangross-orchestkit.md`](../../ai/rag/yonatangross-orchestkit.md)
 - **Selection Reason**: Strong keyword match, Active open-source repository
 
 ### [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augme.md`](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
+- **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augme.md`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344)
 - **Category**: `ai/agents` | **Kind**: `PROMPT` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-12344.md`](file:///../../ai/agents/arxiv-2606-12344.md)
+- **Score**: `86` | **Path**: [`arxiv-2606-12344.md`](../../ai/agents/arxiv-2606-12344.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898)
 - **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-16898.md`](file:///../../ai/agents/arxiv-2606-16898.md)
+- **Score**: `86` | **Path**: [`arxiv-2606-16898.md`](../../ai/agents/arxiv-2606-16898.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2505-08784.md`](file:///../../ai/rag/arxiv-2505-08784.md)
+- **Score**: `86` | **Path**: [`arxiv-2505-08784.md`](../../ai/rag/arxiv-2505-08784.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2602-22179.md`](file:///../../ai/rag/arxiv-2602-22179.md)
+- **Score**: `86` | **Path**: [`arxiv-2602-22179.md`](../../ai/rag/arxiv-2602-22179.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 ### [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2603-15481.md`](file:///../../ai/rag/arxiv-2603-15481.md)
+- **Score**: `86` | **Path**: [`arxiv-2603-15481.md`](../../ai/rag/arxiv-2603-15481.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-16 17:33 IST*
+*Last updated: 2026-06-16 19:39 IST*

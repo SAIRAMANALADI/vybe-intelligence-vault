@@ -45,4 +45,4 @@ Original source URL: https://github.com/ahsen-adil/Learn_OpenAI_Agents_SDK
 
 ## Local Vault File
 
-Path: [ahsen-adil-learn-openai-agents-sdk.md](file:///../../ai/agents/ahsen-adil-learn-openai-agents-sdk.md)
+Path: [ahsen-adil-learn-openai-agents-sdk.md](../../ai/agents/ahsen-adil-learn-openai-agents-sdk.md)

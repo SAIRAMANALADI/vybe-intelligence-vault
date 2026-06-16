@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/turbopack-incremental-computation
 
 ## Local Vault File
 
-Path: [inside-turbopack-building-faster-by-building-less.md](file:///../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)
+Path: [inside-turbopack-building-faster-by-building-less.md](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md)

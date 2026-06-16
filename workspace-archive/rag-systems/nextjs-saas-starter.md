@@ -44,4 +44,4 @@ Original source URL: https://github.com/nextjs/saas-starter
 
 ## Local Vault File
 
-Path: [nextjs-saas-starter.md](file:///../../web-development/shadcn-ui/nextjs-saas-starter.md)
+Path: [nextjs-saas-starter.md](../../web-development/shadcn-ui/nextjs-saas-starter.md)

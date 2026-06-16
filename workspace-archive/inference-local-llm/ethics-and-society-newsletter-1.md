@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-1
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-1.md](file:///../../ai/models/ethics-and-society-newsletter-1.md)
+Path: [ethics-and-society-newsletter-1.md](../../ai/models/ethics-and-society-newsletter-1.md)

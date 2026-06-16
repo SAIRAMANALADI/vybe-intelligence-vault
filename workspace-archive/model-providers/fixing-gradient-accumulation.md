@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradient_accumulation
 
 ## Local Vault File
 
-Path: [fixing-gradient-accumulation.md](file:///../../ai/models/fixing-gradient-accumulation.md)
+Path: [fixing-gradient-accumulation.md](../../ai/models/fixing-gradient-accumulation.md)

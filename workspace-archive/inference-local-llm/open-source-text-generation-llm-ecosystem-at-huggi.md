@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/os-llms
 
 ## Local Vault File
 
-Path: [open-source-text-generation-llm-ecosystem-at-huggi.md](file:///../../ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)
+Path: [open-source-text-generation-llm-ecosystem-at-huggi.md](../../ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)

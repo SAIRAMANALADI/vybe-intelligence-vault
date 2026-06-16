@@ -47,4 +47,4 @@ Original source URL: https://github.com/grafana/o11y-bench
 
 ## Local Vault File
 
-Path: [grafana-o11y-bench.md](file:///../../ai/agents/grafana-o11y-bench.md)
+Path: [grafana-o11y-bench.md](../../ai/agents/grafana-o11y-bench.md)

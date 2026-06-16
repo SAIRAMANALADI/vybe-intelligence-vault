@@ -50,4 +50,4 @@ Original source URL: https://medium.com/cyberark-engineering/building-production
 
 ## Local Vault File
 
-Path: [building-production-ready-ai-agents-with-langgraph.md](file:///../../ai/rag/building-production-ready-ai-agents-with-langgraph.md)
+Path: [building-production-ready-ai-agents-with-langgraph.md](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md)

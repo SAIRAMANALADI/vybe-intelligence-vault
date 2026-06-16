@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/fine-video
 
 ## Local Vault File
 
-Path: [finevideo-behind-the-scenes.md](file:///../../ai/models/finevideo-behind-the-scenes.md)
+Path: [finevideo-behind-the-scenes.md](../../ai/models/finevideo-behind-the-scenes.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/datasets-filters
 
 ## Local Vault File
 
-Path: [announcing-new-dataset-search-features.md](file:///../../ai/models/announcing-new-dataset-search-features.md)
+Path: [announcing-new-dataset-search-features.md](../../ai/models/announcing-new-dataset-search-features.md)

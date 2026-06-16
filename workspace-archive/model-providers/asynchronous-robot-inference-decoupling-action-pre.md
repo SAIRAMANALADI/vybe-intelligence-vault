@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-robot-inference
 
 ## Local Vault File
 
-Path: [asynchronous-robot-inference-decoupling-action-pre.md](file:///../../ai/models/asynchronous-robot-inference-decoupling-action-pre.md)
+Path: [asynchronous-robot-inference-decoupling-action-pre.md](../../ai/models/asynchronous-robot-inference-decoupling-action-pre.md)

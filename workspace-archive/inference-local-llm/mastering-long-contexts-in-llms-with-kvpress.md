@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/kvpress
 
 ## Local Vault File
 
-Path: [mastering-long-contexts-in-llms-with-kvpress.md](file:///../../ai/models/mastering-long-contexts-in-llms-with-kvpress.md)
+Path: [mastering-long-contexts-in-llms-with-kvpress.md](../../ai/models/mastering-long-contexts-in-llms-with-kvpress.md)

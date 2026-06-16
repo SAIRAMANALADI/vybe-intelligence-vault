@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autonlp-prodigy
 
 ## Local Vault File
 
-Path: [active-learning-with-autonlp-and-prodigy.md](file:///../../ai/models/active-learning-with-autonlp-and-prodigy.md)
+Path: [active-learning-with-autonlp-and-prodigy.md](../../ai/models/active-learning-with-autonlp-and-prodigy.md)

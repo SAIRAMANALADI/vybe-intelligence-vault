@@ -46,4 +46,4 @@ Original source URL: https://github.com/masumi-network/crewai-masumi-quickstart-
 
 ## Local Vault File
 
-Path: [masumi-network-crewai-masumi-quickstart-template.md](file:///../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md)
+Path: [masumi-network-crewai-masumi-quickstart-template.md](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md)

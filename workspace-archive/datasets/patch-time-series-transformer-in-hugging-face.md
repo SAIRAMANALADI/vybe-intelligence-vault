@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtst
 
 ## Local Vault File
 
-Path: [patch-time-series-transformer-in-hugging-face.md](file:///../../ai/models/patch-time-series-transformer-in-hugging-face.md)
+Path: [patch-time-series-transformer-in-hugging-face.md](../../ai/models/patch-time-series-transformer-in-hugging-face.md)

@@ -45,4 +45,4 @@ Original source URL: https://nextjs.org/blog/agentic-future
 
 ## Local Vault File
 
-Path: [building-next-js-for-an-agentic-future.md](file:///../../ai/agents/building-next-js-for-an-agentic-future.md)
+Path: [building-next-js-for-an-agentic-future.md](../../ai/agents/building-next-js-for-an-agentic-future.md)

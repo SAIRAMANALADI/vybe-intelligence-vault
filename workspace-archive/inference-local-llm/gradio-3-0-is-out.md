@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-blocks
 
 ## Local Vault File
 
-Path: [gradio-3-0-is-out.md](file:///../../ai/models/gradio-3-0-is-out.md)
+Path: [gradio-3-0-is-out.md](../../ai/models/gradio-3-0-is-out.md)

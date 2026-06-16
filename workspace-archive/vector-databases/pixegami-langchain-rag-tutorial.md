@@ -44,4 +44,4 @@ Original source URL: https://github.com/pixegami/langchain-rag-tutorial
 
 ## Local Vault File
 
-Path: [pixegami-langchain-rag-tutorial.md](file:///../../ai/rag/pixegami-langchain-rag-tutorial.md)
+Path: [pixegami-langchain-rag-tutorial.md](../../ai/rag/pixegami-langchain-rag-tutorial.md)

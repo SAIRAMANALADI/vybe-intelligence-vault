@@ -45,4 +45,4 @@ Original source URL: https://deepmind.google/blog
 
 ## Local Vault File
 
-Path: [newsdiscover-our-latest-ai-breakthroughs-projects.md](file:///../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)
+Path: [newsdiscover-our-latest-ai-breakthroughs-projects.md](../../ai/companies/deepmind/newsdiscover-our-latest-ai-breakthroughs-projects.md)

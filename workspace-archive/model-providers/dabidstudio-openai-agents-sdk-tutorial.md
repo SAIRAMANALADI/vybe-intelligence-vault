@@ -47,4 +47,4 @@ Original source URL: https://github.com/dabidstudio/openai-agents-sdk-tutorial
 
 ## Local Vault File
 
-Path: [dabidstudio-openai-agents-sdk-tutorial.md](file:///../../ai/agents/dabidstudio-openai-agents-sdk-tutorial.md)
+Path: [dabidstudio-openai-agents-sdk-tutorial.md](../../ai/agents/dabidstudio-openai-agents-sdk-tutorial.md)

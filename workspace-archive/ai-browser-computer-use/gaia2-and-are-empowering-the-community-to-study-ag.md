@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gaia2
 
 ## Local Vault File
 
-Path: [gaia2-and-are-empowering-the-community-to-study-ag.md](file:///../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)
+Path: [gaia2-and-are-empowering-the-community-to-study-ag.md](../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)

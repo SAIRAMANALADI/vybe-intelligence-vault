@@ -46,4 +46,4 @@ Original source URL: https://github.com/Code-and-Sorts/awesome-copilot-agents
 
 ## Local Vault File
 
-Path: [code-and-sorts-awesome-copilot-agents.md](file:///../../ai/agents/code-and-sorts-awesome-copilot-agents.md)
+Path: [code-and-sorts-awesome-copilot-agents.md](../../ai/agents/code-and-sorts-awesome-copilot-agents.md)

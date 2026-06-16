@@ -44,4 +44,4 @@ Original source URL: https://github.com/szebniok/tree-sitter-wgsl
 
 ## Local Vault File
 
-Path: [szebniok-tree-sitter-wgsl.md](file:///../../web-development/webgpu/szebniok-tree-sitter-wgsl.md)
+Path: [szebniok-tree-sitter-wgsl.md](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md)

@@ -54,4 +54,4 @@ Original source URL: https://www.mrlatte.net/en/research/2026/04/27/rag-complete
 
 ## Local Vault File
 
-Path: [the-complete-guide-to-rag-naive-advanced-and-graph.md](file:///../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
+Path: [the-complete-guide-to-rag-naive-advanced-and-graph.md](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)

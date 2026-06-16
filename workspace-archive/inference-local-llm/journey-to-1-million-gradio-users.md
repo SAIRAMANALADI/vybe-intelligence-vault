@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-1m
 
 ## Local Vault File
 
-Path: [journey-to-1-million-gradio-users.md](file:///../../ai/models/journey-to-1-million-gradio-users.md)
+Path: [journey-to-1-million-gradio-users.md](../../ai/models/journey-to-1-million-gradio-users.md)

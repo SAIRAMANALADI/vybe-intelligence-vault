@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-inference-inte
 
 ## Local Vault File
 
-Path: [accelerating-stable-diffusion-inference-on-intel-c.md](file:///../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)
+Path: [accelerating-stable-diffusion-inference-on-intel-c.md](../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)

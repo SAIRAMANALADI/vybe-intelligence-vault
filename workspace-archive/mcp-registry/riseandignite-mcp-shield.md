@@ -45,4 +45,4 @@ Original source URL: https://github.com/riseandignite/mcp-shield
 
 ## Local Vault File
 
-Path: [riseandignite-mcp-shield.md](file:///../../ai/resources/riseandignite-mcp-shield.md)
+Path: [riseandignite-mcp-shield.md](../../ai/resources/riseandignite-mcp-shield.md)

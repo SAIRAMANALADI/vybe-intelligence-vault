@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/collaborative-training
 
 ## Local Vault File
 
-Path: [deep-learning-over-the-internet-training-language.md](file:///../../ai/models/deep-learning-over-the-internet-training-language.md)
+Path: [deep-learning-over-the-internet-training-language.md](../../ai/models/deep-learning-over-the-internet-training-language.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-hub-v1
 
 ## Local Vault File
 
-Path: [huggingface-hub-v1-0-five-years-of-building-the-fo.md](file:///../../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)
+Path: [huggingface-hub-v1-0-five-years-of-building-the-fo.md](../../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)

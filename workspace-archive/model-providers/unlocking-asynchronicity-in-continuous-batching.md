@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [unlocking-asynchronicity-in-continuous-batching.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)
+Path: [unlocking-asynchronicity-in-continuous-batching.md](../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)

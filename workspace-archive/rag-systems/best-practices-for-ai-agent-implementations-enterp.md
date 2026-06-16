@@ -51,4 +51,4 @@ Original source URL: https://onereach.ai/blog/best-practices-for-ai-agent-implem
 
 ## Local Vault File
 
-Path: [best-practices-for-ai-agent-implementations-enterp.md](file:///../../ai/rag/best-practices-for-ai-agent-implementations-enterp.md)
+Path: [best-practices-for-ai-agent-implementations-enterp.md](../../ai/rag/best-practices-for-ai-agent-implementations-enterp.md)

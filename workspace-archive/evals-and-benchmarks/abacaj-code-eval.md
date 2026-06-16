@@ -46,4 +46,4 @@ Original source URL: https://github.com/abacaj/code-eval
 
 ## Local Vault File
 
-Path: [abacaj-code-eval.md](file:///../../ai/resources/abacaj-code-eval.md)
+Path: [abacaj-code-eval.md](../../ai/resources/abacaj-code-eval.md)

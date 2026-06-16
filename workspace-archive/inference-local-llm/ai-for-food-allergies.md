@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugging-science/ai-for-food-all
 
 ## Local Vault File
 
-Path: [ai-for-food-allergies.md](file:///../../ai/models/ai-for-food-allergies.md)
+Path: [ai-for-food-allergies.md](../../ai/models/ai-for-food-allergies.md)

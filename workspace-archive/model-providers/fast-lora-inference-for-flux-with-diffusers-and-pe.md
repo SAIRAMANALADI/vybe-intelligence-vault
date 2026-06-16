@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-fast
 
 ## Local Vault File
 
-Path: [fast-lora-inference-for-flux-with-diffusers-and-pe.md](file:///../../ai/models/fast-lora-inference-for-flux-with-diffusers-and-pe.md)
+Path: [fast-lora-inference-for-flux-with-diffusers-and-pe.md](../../ai/models/fast-lora-inference-for-flux-with-diffusers-and-pe.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ecom-rlve
 
 ## Local Vault File
 
-Path: [ecom-rlve-adaptive-verifiable-environments-for-e-c.md](file:///../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)
+Path: [ecom-rlve-adaptive-verifiable-environments-for-e-c.md](../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)

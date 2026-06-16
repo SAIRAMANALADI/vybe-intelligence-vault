@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train
 
 ## Local Vault File
 
-Path: [how-to-train-a-new-language-model-from-scratch-usi.md](file:///../../ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)
+Path: [how-to-train-a-new-language-model-from-scratch-usi.md](../../ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)

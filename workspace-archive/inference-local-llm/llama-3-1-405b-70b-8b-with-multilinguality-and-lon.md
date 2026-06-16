@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama31
 
 ## Local Vault File
 
-Path: [llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md](file:///../../ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md)
+Path: [llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md](../../ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md)

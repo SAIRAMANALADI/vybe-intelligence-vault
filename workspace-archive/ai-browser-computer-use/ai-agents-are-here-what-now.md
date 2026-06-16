@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-7
 
 ## Local Vault File
 
-Path: [ai-agents-are-here-what-now.md](file:///../../ai/agents/ai-agents-are-here-what-now.md)
+Path: [ai-agents-are-here-what-now.md](../../ai/agents/ai-agents-are-here-what-now.md)

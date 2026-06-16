@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolvlm
 
 ## Local Vault File
 
-Path: [smolvlm-small-yet-mighty-vision-language-model.md](file:///../../ai/models/smolvlm-small-yet-mighty-vision-language-model.md)
+Path: [smolvlm-small-yet-mighty-vision-language-model.md](../../ai/models/smolvlm-small-yet-mighty-vision-language-model.md)

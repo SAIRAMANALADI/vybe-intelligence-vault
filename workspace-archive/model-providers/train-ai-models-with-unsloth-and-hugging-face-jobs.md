@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsloth-jobs
 
 ## Local Vault File
 
-Path: [train-ai-models-with-unsloth-and-hugging-face-jobs.md](file:///../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)
+Path: [train-ai-models-with-unsloth-and-hugging-face-jobs.md](../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)

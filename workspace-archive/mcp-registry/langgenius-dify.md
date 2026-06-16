@@ -51,4 +51,4 @@ Original source URL: https://github.com/langgenius/dify
 
 ## Local Vault File
 
-Path: [langgenius-dify.md](file:///../../ai/rag/langgenius-dify.md)
+Path: [langgenius-dify.md](../../ai/rag/langgenius-dify.md)

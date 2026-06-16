@@ -47,4 +47,4 @@ Original source URL: https://www.mastt.com/resources/rag-status-template
 
 ## Local Vault File
 
-Path: [rag-status-template-word-excel.md](file:///../../ai/rag/rag-status-template-word-excel.md)
+Path: [rag-status-template-word-excel.md](../../ai/rag/rag-status-template-word-excel.md)

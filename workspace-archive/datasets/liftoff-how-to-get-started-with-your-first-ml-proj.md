@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/your-first-ml-project
 
 ## Local Vault File
 
-Path: [liftoff-how-to-get-started-with-your-first-ml-proj.md](file:///../../ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)
+Path: [liftoff-how-to-get-started-with-your-first-ml-proj.md](../../ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)

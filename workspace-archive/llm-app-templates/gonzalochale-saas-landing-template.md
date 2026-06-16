@@ -42,4 +42,4 @@ Original source URL: https://github.com/gonzalochale/saas-landing-template
 
 ## Local Vault File
 
-Path: [gonzalochale-saas-landing-template.md](file:///../../web-development/nextjs/gonzalochale-saas-landing-template.md)
+Path: [gonzalochale-saas-landing-template.md](../../web-development/nextjs/gonzalochale-saas-landing-template.md)

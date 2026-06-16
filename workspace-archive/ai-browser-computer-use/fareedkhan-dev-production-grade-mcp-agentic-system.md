@@ -45,4 +45,4 @@ Original source URL: https://github.com/FareedKhan-dev/production-grade-mcp-agen
 
 ## Local Vault File
 
-Path: [fareedkhan-dev-production-grade-mcp-agentic-system.md](file:///../../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md)
+Path: [fareedkhan-dev-production-grade-mcp-agentic-system.md](../../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md)

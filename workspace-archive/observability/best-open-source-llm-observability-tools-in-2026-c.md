@@ -53,4 +53,4 @@ Original source URL: https://dev.to/openobserve/best-open-source-llm-observabili
 
 ## Local Vault File
 
-Path: [best-open-source-llm-observability-tools-in-2026-c.md](file:///../../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
+Path: [best-open-source-llm-observability-tools-in-2026-c.md](../../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)

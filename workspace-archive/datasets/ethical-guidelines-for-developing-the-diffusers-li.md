@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-diffusers
 
 ## Local Vault File
 
-Path: [ethical-guidelines-for-developing-the-diffusers-li.md](file:///../../ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)
+Path: [ethical-guidelines-for-developing-the-diffusers-li.md](../../ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)

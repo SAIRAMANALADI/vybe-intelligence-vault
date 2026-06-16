@@ -50,4 +50,4 @@ Original source URL: https://github.com/langchain-ai/langchain
 
 ## Local Vault File
 
-Path: [langchain-ai-langchain.md](file:///../../ai/releases/langchain-ai-langchain.md)
+Path: [langchain-ai-langchain.md](../../ai/releases/langchain-ai-langchain.md)

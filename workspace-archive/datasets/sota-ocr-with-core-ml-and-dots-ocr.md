@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dots-ocr-ne
 
 ## Local Vault File
 
-Path: [sota-ocr-with-core-ml-and-dots-ocr.md](file:///../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)
+Path: [sota-ocr-with-core-ml-and-dots-ocr.md](../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)

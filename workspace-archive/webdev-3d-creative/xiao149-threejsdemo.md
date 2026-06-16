@@ -44,4 +44,4 @@ Original source URL: https://github.com/xiao149/threejsdemo
 
 ## Local Vault File
 
-Path: [xiao149-threejsdemo.md](file:///../../web-development/threejs/xiao149-threejsdemo.md)
+Path: [xiao149-threejsdemo.md](../../web-development/threejs/xiao149-threejsdemo.md)

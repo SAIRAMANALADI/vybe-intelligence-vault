@@ -44,4 +44,4 @@ Original source URL: https://github.com/birobirobiro/awesome-shadcn-ui
 
 ## Local Vault File
 
-Path: [birobirobiro-awesome-shadcn-ui.md](file:///../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md)
+Path: [birobirobiro-awesome-shadcn-ui.md](../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/trackio
 
 ## Local Vault File
 
-Path: [introducing-trackio-a-lightweight-experiment-track.md](file:///../../ai/models/introducing-trackio-a-lightweight-experiment-track.md)
+Path: [introducing-trackio-a-lightweight-experiment-track.md](../../ai/models/introducing-trackio-a-lightweight-experiment-track.md)

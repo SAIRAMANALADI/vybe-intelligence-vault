@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-goes-to-driving-school
 
 ## Local Vault File
 
-Path: [lerobot-goes-to-driving-school-worlds-largest-open.md](file:///../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)
+Path: [lerobot-goes-to-driving-school-worlds-largest-open.md](../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)

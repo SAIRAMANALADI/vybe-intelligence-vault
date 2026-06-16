@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/community-update
 
 ## Local Vault File
 
-Path: [introducing-pull-requests-and-discussions.md](file:///../../ai/models/introducing-pull-requests-and-discussions.md)
+Path: [introducing-pull-requests-and-discussions.md](../../ai/models/introducing-pull-requests-and-discussions.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-goo
 
 ## Local Vault File
 
-Path: [my-journey-to-a-serverless-transformers-pipeline-o.md](file:///../../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)
+Path: [my-journey-to-a-serverless-transformers-pipeline-o.md](../../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)

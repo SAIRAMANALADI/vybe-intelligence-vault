@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2-for-non-engineers
 
 ## Local Vault File
 
-Path: [non-engineers-guide-train-a-llama-2-chatbot.md](file:///../../ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)
+Path: [non-engineers-guide-train-a-llama-2-chatbot.md](../../ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)

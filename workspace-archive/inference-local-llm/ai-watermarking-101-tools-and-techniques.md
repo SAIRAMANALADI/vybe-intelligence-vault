@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/watermarking
 
 ## Local Vault File
 
-Path: [ai-watermarking-101-tools-and-techniques.md](file:///../../ai/models/ai-watermarking-101-tools-and-techniques.md)
+Path: [ai-watermarking-101-tools-and-techniques.md](../../ai/models/ai-watermarking-101-tools-and-techniques.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/big-bird
 
 ## Local Vault File
 
-Path: [understanding-bigbird-s-block-sparse-attention.md](file:///../../ai/models/understanding-bigbird-s-block-sparse-attention.md)
+Path: [understanding-bigbird-s-block-sparse-attention.md](../../ai/models/understanding-bigbird-s-block-sparse-attention.md)

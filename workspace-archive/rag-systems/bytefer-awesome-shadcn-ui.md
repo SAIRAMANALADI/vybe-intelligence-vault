@@ -45,4 +45,4 @@ Original source URL: https://github.com/bytefer/awesome-shadcn-ui
 
 ## Local Vault File
 
-Path: [bytefer-awesome-shadcn-ui.md](file:///../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md)
+Path: [bytefer-awesome-shadcn-ui.md](../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md)

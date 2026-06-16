@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/winning-aimo-progress-prize
 
 ## Local Vault File
 
-Path: [how-numinamath-won-the-1st-aimo-progress-prize.md](file:///../../ai/models/how-numinamath-won-the-1st-aimo-progress-prize.md)
+Path: [how-numinamath-won-the-1st-aimo-progress-prize.md](../../ai/models/how-numinamath-won-the-1st-aimo-progress-prize.md)

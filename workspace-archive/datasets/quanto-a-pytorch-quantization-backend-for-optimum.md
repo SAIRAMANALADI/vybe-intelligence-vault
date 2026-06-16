@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/quanto-introduction
 
 ## Local Vault File
 
-Path: [quanto-a-pytorch-quantization-backend-for-optimum.md](file:///../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)
+Path: [quanto-a-pytorch-quantization-backend-for-optimum.md](../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)

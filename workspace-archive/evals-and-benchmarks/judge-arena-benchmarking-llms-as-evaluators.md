@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/arena-atla
 
 ## Local Vault File
 
-Path: [judge-arena-benchmarking-llms-as-evaluators.md](file:///../../ai/models/judge-arena-benchmarking-llms-as-evaluators.md)
+Path: [judge-arena-benchmarking-llms-as-evaluators.md](../../ai/models/judge-arena-benchmarking-llms-as-evaluators.md)

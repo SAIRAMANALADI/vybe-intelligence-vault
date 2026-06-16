@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nystromformer
 
 ## Local Vault File
 
-Path: [nystromformer-approximating-self-attention-in-line.md](file:///../../ai/models/nystromformer-approximating-self-attention-in-line.md)
+Path: [nystromformer-approximating-self-attention-in-line.md](../../ai/models/nystromformer-approximating-self-attention-in-line.md)

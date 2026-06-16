@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/remote_vae
 
 ## Local Vault File
 
-Path: [remote-vaes-for-decoding-with-inference-endpoints.md](file:///../../ai/models/remote-vaes-for-decoding-with-inference-endpoints.md)
+Path: [remote-vaes-for-decoding-with-inference-endpoints.md](../../ai/models/remote-vaes-for-decoding-with-inference-endpoints.md)

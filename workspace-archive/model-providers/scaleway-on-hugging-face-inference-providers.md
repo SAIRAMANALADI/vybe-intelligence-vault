@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-scaleway
 
 ## Local Vault File
 
-Path: [scaleway-on-hugging-face-inference-providers.md](file:///../../ai/models/scaleway-on-hugging-face-inference-providers.md)
+Path: [scaleway-on-hugging-face-inference-providers.md](../../ai/models/scaleway-on-hugging-face-inference-providers.md)

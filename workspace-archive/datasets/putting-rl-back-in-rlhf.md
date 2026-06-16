@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rl
 
 ## Local Vault File
 
-Path: [putting-rl-back-in-rlhf.md](file:///../../ai/models/putting-rl-back-in-rlhf.md)
+Path: [putting-rl-back-in-rlhf.md](../../ai/models/putting-rl-back-in-rlhf.md)

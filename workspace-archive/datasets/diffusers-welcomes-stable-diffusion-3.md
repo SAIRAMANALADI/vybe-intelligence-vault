@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sd3
 
 ## Local Vault File
 
-Path: [diffusers-welcomes-stable-diffusion-3.md](file:///../../ai/models/diffusers-welcomes-stable-diffusion-3.md)
+Path: [diffusers-welcomes-stable-diffusion-3.md](../../ai/models/diffusers-welcomes-stable-diffusion-3.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spaces-dev-mode
 
 ## Local Vault File
 
-Path: [introducing-spaces-dev-mode-for-a-seamless-develop.md](file:///../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)
+Path: [introducing-spaces-dev-mode-for-a-seamless-develop.md](../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)

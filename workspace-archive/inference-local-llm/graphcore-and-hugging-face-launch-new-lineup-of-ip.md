@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/graphcore-update
 
 ## Local Vault File
 
-Path: [graphcore-and-hugging-face-launch-new-lineup-of-ip.md](file:///../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)
+Path: [graphcore-and-hugging-face-launch-new-lineup-of-ip.md](../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)

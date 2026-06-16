@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-action-wh-2025
 
 ## Local Vault File
 
-Path: [ai-policy-response-to-the-white-house-ai-action-pl.md](file:///../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)
+Path: [ai-policy-response-to-the-white-house-ai-action-pl.md](../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)

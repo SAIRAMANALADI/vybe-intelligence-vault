@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/generative-ai-models-on-intel-c
 
 ## Local Vault File
 
-Path: [smaller-is-better-q8-chat-an-efficient-generative.md](file:///../../ai/models/smaller-is-better-q8-chat-an-efficient-generative.md)
+Path: [smaller-is-better-q8-chat-an-efficient-generative.md](../../ai/models/smaller-is-better-q8-chat-an-efficient-generative.md)

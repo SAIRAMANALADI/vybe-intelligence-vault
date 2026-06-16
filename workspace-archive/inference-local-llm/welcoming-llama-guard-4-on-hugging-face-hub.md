@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama-guard-4
 
 ## Local Vault File
 
-Path: [welcoming-llama-guard-4-on-hugging-face-hub.md](file:///../../ai/models/welcoming-llama-guard-4-on-hugging-face-hub.md)
+Path: [welcoming-llama-guard-4-on-hugging-face-hub.md](../../ai/models/welcoming-llama-guard-4-on-hugging-face-hub.md)

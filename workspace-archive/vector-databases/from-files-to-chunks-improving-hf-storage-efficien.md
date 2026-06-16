@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/from-files-to-chunks
 
 ## Local Vault File
 
-Path: [from-files-to-chunks-improving-hf-storage-efficien.md](file:///../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)
+Path: [from-files-to-chunks-improving-hf-storage-efficien.md](../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)

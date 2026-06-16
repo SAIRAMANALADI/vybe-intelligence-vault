@@ -44,4 +44,4 @@ Original source URL: https://github.com/vstorm-co/awesome-pydantic-ai
 
 ## Local Vault File
 
-Path: [vstorm-co-awesome-pydantic-ai.md](file:///../../ai/agents/vstorm-co-awesome-pydantic-ai.md)
+Path: [vstorm-co-awesome-pydantic-ai.md](../../ai/agents/vstorm-co-awesome-pydantic-ai.md)

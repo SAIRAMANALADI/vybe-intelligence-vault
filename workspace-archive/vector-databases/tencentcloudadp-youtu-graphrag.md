@@ -45,4 +45,4 @@ Original source URL: https://github.com/TencentCloudADP/youtu-graphrag
 
 ## Local Vault File
 
-Path: [tencentcloudadp-youtu-graphrag.md](file:///../../ai/rag/tencentcloudadp-youtu-graphrag.md)
+Path: [tencentcloudadp-youtu-graphrag.md](../../ai/rag/tencentcloudadp-youtu-graphrag.md)

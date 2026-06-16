@@ -44,4 +44,4 @@ Original source URL: https://github.com/mikbry/awesome-webgpu
 
 ## Local Vault File
 
-Path: [mikbry-awesome-webgpu.md](file:///../../web-development/webgpu/mikbry-awesome-webgpu.md)
+Path: [mikbry-awesome-webgpu.md](../../web-development/webgpu/mikbry-awesome-webgpu.md)

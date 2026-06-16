@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/controlnet
 
 ## Local Vault File
 
-Path: [controlnet-in-diffusers.md](file:///../../ai/models/controlnet-in-diffusers.md)
+Path: [controlnet-in-diffusers.md](../../ai/models/controlnet-in-diffusers.md)

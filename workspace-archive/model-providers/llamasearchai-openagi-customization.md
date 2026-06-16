@@ -48,4 +48,4 @@ Original source URL: https://github.com/llamasearchai/OpenAGI-Customization
 
 ## Local Vault File
 
-Path: [llamasearchai-openagi-customization.md](file:///../../ai/resources/llamasearchai-openagi-customization.md)
+Path: [llamasearchai-openagi-customization.md](../../ai/resources/llamasearchai-openagi-customization.md)

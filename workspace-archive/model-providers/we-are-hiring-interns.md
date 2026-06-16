@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/interns-2023
 
 ## Local Vault File
 
-Path: [we-are-hiring-interns.md](file:///../../ai/models/we-are-hiring-interns.md)
+Path: [we-are-hiring-interns.md](../../ai/models/we-are-hiring-interns.md)

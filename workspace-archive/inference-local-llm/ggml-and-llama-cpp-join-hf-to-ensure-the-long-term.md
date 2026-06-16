@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ggml-joins-hf
 
 ## Local Vault File
 
-Path: [ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md](file:///../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)
+Path: [ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md](../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)

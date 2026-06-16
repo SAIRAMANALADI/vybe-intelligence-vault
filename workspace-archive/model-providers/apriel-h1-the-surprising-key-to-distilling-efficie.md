@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/apriel-h1
 
 ## Local Vault File
 
-Path: [apriel-h1-the-surprising-key-to-distilling-efficie.md](file:///../../ai/models/apriel-h1-the-surprising-key-to-distilling-efficie.md)
+Path: [apriel-h1-the-surprising-key-to-distilling-efficie.md](../../ai/models/apriel-h1-the-surprising-key-to-distilling-efficie.md)

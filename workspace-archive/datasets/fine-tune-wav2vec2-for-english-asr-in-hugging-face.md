@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-wav2vec2-english
 
 ## Local Vault File
 
-Path: [fine-tune-wav2vec2-for-english-asr-in-hugging-face.md](file:///../../ai/models/fine-tune-wav2vec2-for-english-asr-in-hugging-face.md)
+Path: [fine-tune-wav2vec2-for-english-asr-in-hugging-face.md](../../ai/models/fine-tune-wav2vec2-for-english-asr-in-hugging-face.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/torch-profiler
 
 ## Local Vault File
 
-Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to.md](file:///../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)
+Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to.md](../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)

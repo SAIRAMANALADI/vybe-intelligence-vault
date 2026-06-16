@@ -44,4 +44,4 @@ Original source URL: https://github.com/enesien/venefish
 
 ## Local Vault File
 
-Path: [enesien-venefish.md](file:///../../web-development/nextjs/enesien-venefish.md)
+Path: [enesien-venefish.md](../../web-development/nextjs/enesien-venefish.md)

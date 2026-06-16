@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/consilium-multi-llm
 
 ## Local Vault File
 
-Path: [consilium-when-multiple-llms-collaborate.md](file:///../../ai/models/consilium-when-multiple-llms-collaborate.md)
+Path: [consilium-when-multiple-llms-collaborate.md](../../ai/models/consilium-when-multiple-llms-collaborate.md)

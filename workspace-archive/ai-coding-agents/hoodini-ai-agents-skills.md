@@ -47,4 +47,4 @@ Original source URL: https://github.com/hoodini/ai-agents-skills
 
 ## Local Vault File
 
-Path: [hoodini-ai-agents-skills.md](file:///../../ai/agents/hoodini-ai-agents-skills.md)
+Path: [hoodini-ai-agents-skills.md](../../ai/agents/hoodini-ai-agents-skills.md)

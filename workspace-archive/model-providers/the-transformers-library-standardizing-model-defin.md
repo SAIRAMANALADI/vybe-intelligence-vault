@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-model-definition
 
 ## Local Vault File
 
-Path: [the-transformers-library-standardizing-model-defin.md](file:///../../ai/models/the-transformers-library-standardizing-model-defin.md)
+Path: [the-transformers-library-standardizing-model-defin.md](../../ai/models/the-transformers-library-standardizing-model-defin.md)

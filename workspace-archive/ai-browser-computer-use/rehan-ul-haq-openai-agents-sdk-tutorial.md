@@ -45,4 +45,4 @@ Original source URL: https://github.com/Rehan-Ul-Haq/openai-agents-sdk-tutorial
 
 ## Local Vault File
 
-Path: [rehan-ul-haq-openai-agents-sdk-tutorial.md](file:///../../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
+Path: [rehan-ul-haq-openai-agents-sdk-tutorial.md](../../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)

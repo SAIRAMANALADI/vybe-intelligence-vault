@@ -53,4 +53,4 @@ Original source URL: https://markaicode.com/best/best-crewai-production-practice
 
 ## Local Vault File
 
-Path: [crewai-production-5-practices-that-actually-scale.md](file:///../../ai/rag/crewai-production-5-practices-that-actually-scale.md)
+Path: [crewai-production-5-practices-that-actually-scale.md](../../ai/rag/crewai-production-5-practices-that-actually-scale.md)

@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/timescope-video-lmm-benchmark
 
 ## Local Vault File
 
-Path: [timescope-how-long-can-your-video-large-multimodal.md](file:///../../ai/models/timescope-how-long-can-your-video-large-multimodal.md)
+Path: [timescope-how-long-can-your-video-large-multimodal.md](../../ai/models/timescope-how-long-can-your-video-large-multimodal.md)

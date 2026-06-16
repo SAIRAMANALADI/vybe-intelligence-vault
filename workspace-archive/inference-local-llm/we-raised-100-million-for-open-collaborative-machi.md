@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [we-raised-100-million-for-open-collaborative-machi.md](file:///../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)
+Path: [we-raised-100-million-for-open-collaborative-machi.md](../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)

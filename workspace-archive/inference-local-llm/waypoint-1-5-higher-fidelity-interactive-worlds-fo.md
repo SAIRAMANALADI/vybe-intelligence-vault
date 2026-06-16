@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1-5
 
 ## Local Vault File
 
-Path: [waypoint-1-5-higher-fidelity-interactive-worlds-fo.md](file:///../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)
+Path: [waypoint-1-5-higher-fidelity-interactive-worlds-fo.md](../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)

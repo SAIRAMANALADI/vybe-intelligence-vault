@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/3lm-benchmark
 
 ## Local Vault File
 
-Path: [3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md](file:///../../ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md)
+Path: [3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md](../../ai/models/3lm-a-benchmark-for-arabic-llms-in-stem-and-code.md)

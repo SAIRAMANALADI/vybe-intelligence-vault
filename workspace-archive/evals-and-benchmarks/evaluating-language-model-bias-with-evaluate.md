@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/evaluating-llm-bias
 
 ## Local Vault File
 
-Path: [evaluating-language-model-bias-with-evaluate.md](file:///../../ai/models/evaluating-language-model-bias-with-evaluate.md)
+Path: [evaluating-language-model-bias-with-evaluate.md](../../ai/models/evaluating-language-model-bias-with-evaluate.md)

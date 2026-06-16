@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/tools
 
 ## Local Vault File
 
-Path: [code-data.md](file:///../../ai/companies/code-data.md)
+Path: [code-data.md](../../ai/companies/code-data.md)

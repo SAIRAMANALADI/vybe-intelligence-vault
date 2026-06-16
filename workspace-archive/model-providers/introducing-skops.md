@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/skops
 
 ## Local Vault File
 
-Path: [introducing-skops.md](file:///../../ai/models/introducing-skops.md)
+Path: [introducing-skops.md](../../ai/models/introducing-skops.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/microsoft/agentsleague
 
 ## Local Vault File
 
-Path: [microsoft-agentsleague.md](file:///../../ai/agents/microsoft-agentsleague.md)
+Path: [microsoft-agentsleague.md](../../ai/agents/microsoft-agentsleague.md)

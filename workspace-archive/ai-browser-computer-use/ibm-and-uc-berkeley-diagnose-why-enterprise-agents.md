@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/itbenchandmast
 
 ## Local Vault File
 
-Path: [ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md](file:///../../ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md)
+Path: [ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md](../../ai/agents/ibm-and-uc-berkeley-diagnose-why-enterprise-agents.md)

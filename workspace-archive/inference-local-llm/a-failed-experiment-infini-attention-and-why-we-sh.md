@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infini-attention
 
 ## Local Vault File
 
-Path: [a-failed-experiment-infini-attention-and-why-we-sh.md](file:///../../ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)
+Path: [a-failed-experiment-infini-attention-and-why-we-sh.md](../../ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)

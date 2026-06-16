@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/anylanguagemodel
 
 ## Local Vault File
 
-Path: [introducing-anylanguagemodel-one-api-for-local-and.md](file:///../../ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)
+Path: [introducing-anylanguagemodel-one-api-for-local-and.md](../../ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)

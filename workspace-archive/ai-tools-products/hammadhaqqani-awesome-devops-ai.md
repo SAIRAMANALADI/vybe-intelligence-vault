@@ -46,4 +46,4 @@ Original source URL: https://github.com/hammadhaqqani/awesome-devops-ai
 
 ## Local Vault File
 
-Path: [hammadhaqqani-awesome-devops-ai.md](file:///../../ai/agents/hammadhaqqani-awesome-devops-ai.md)
+Path: [hammadhaqqani-awesome-devops-ai.md](../../ai/agents/hammadhaqqani-awesome-devops-ai.md)

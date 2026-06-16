@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphml-classification
 
 ## Local Vault File
 
-Path: [graph-classification-with-transformers.md](file:///../../ai/models/graph-classification-with-transformers.md)
+Path: [graph-classification-with-transformers.md](../../ai/models/graph-classification-with-transformers.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pollen-vision
 
 ## Local Vault File
 
-Path: [pollen-vision-unified-interface-for-zero-shot-visi.md](file:///../../ai/models/pollen-vision-unified-interface-for-zero-shot-visi.md)
+Path: [pollen-vision-unified-interface-for-zero-shot-visi.md](../../ai/models/pollen-vision-unified-interface-for-zero-shot-visi.md)

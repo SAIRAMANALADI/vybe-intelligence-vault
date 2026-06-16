@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm3
 
 ## Local Vault File
 
-Path: [smollm3-smol-multilingual-long-context-reasoner.md](file:///../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)
+Path: [smollm3-smol-multilingual-long-context-reasoner.md](../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)

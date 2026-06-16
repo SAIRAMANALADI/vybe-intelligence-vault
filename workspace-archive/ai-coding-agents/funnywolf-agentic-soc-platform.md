@@ -44,4 +44,4 @@ Original source URL: https://github.com/FunnyWolf/agentic-soc-platform
 
 ## Local Vault File
 
-Path: [funnywolf-agentic-soc-platform.md](file:///../../ai/agents/funnywolf-agentic-soc-platform.md)
+Path: [funnywolf-agentic-soc-platform.md](../../ai/agents/funnywolf-agentic-soc-platform.md)

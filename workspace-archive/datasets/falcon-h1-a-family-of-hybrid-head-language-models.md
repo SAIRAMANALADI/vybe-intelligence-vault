@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-h1
 
 ## Local Vault File
 
-Path: [falcon-h1-a-family-of-hybrid-head-language-models.md](file:///../../ai/models/falcon-h1-a-family-of-hybrid-head-language-models.md)
+Path: [falcon-h1-a-family-of-hybrid-head-language-models.md](../../ai/models/falcon-h1-a-family-of-hybrid-head-language-models.md)

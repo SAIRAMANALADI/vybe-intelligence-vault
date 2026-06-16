@@ -51,4 +51,4 @@ Original source URL: https://agenta.ai/blog/top-llm-observability-platforms
 
 ## Local Vault File
 
-Path: [top-llm-observability-platforms-2025.md](file:///../../ai/rag/top-llm-observability-platforms-2025.md)
+Path: [top-llm-observability-platforms-2025.md](../../ai/rag/top-llm-observability-platforms-2025.md)

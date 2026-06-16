@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/keras-llama-32
 
 ## Local Vault File
 
-Path: [llama-3-2-in-keras.md](file:///../../ai/models/llama-3-2-in-keras.md)
+Path: [llama-3-2-in-keras.md](../../ai/models/llama-3-2-in-keras.md)

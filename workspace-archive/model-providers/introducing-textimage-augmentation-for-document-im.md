@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/doc_aug_hf_alb
 
 ## Local Vault File
 
-Path: [introducing-textimage-augmentation-for-document-im.md](file:///../../ai/models/introducing-textimage-augmentation-for-document-im.md)
+Path: [introducing-textimage-augmentation-for-document-im.md](../../ai/models/introducing-textimage-augmentation-for-document-im.md)

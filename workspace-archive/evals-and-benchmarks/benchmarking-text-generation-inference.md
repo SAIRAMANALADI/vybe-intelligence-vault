@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tgi-benchmarking
 
 ## Local Vault File
 
-Path: [benchmarking-text-generation-inference.md](file:///../../ai/models/benchmarking-text-generation-inference.md)
+Path: [benchmarking-text-generation-inference.md](../../ai/models/benchmarking-text-generation-inference.md)

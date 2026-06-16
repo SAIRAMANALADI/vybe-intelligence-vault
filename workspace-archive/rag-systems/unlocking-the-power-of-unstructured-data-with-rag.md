@@ -46,4 +46,4 @@ Original source URL: https://github.blog/ai-and-ml/llms/unlocking-the-power-of-u
 
 ## Local Vault File
 
-Path: [unlocking-the-power-of-unstructured-data-with-rag.md](file:///../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)
+Path: [unlocking-the-power-of-unstructured-data-with-rag.md](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rocketmoney-case-study
 
 ## Local Vault File
 
-Path: [rocket-money-x-hugging-face-scaling-volatile-ml-mo.md](file:///../../ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-mo.md)
+Path: [rocket-money-x-hugging-face-scaling-volatile-ml-mo.md](../../ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-mo.md)

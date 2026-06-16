@@ -47,4 +47,4 @@ Original source URL: https://github.com/glgh/awesome-llm-human-preference-datase
 
 ## Local Vault File
 
-Path: [glgh-awesome-llm-human-preference-datasets.md](file:///../../ai/resources/glgh-awesome-llm-human-preference-datasets.md)
+Path: [glgh-awesome-llm-human-preference-datasets.md](../../ai/resources/glgh-awesome-llm-human-preference-datasets.md)

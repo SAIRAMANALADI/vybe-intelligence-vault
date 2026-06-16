@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-inferentia-sagemaker
 
 ## Local Vault File
 
-Path: [accelerate-bert-inference-with-hugging-face-transf.md](file:///../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)
+Path: [accelerate-bert-inference-with-hugging-face-transf.md](../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)

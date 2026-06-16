@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/npc-gigax-cubzh
 
 ## Local Vault File
 
-Path: [introducing-npc-playground-a-3d-playground-to-inte.md](file:///../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)
+Path: [introducing-npc-playground-a-3d-playground-to-inte.md](../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)

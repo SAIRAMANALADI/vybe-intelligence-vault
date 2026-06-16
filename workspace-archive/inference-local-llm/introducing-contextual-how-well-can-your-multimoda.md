@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-contextual
 
 ## Local Vault File
 
-Path: [introducing-contextual-how-well-can-your-multimoda.md](file:///../../ai/models/introducing-contextual-how-well-can-your-multimoda.md)
+Path: [introducing-contextual-how-well-can-your-multimoda.md](../../ai/models/introducing-contextual-how-well-can-your-multimoda.md)

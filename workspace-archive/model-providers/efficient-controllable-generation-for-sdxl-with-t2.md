@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/t2i-sdxl-adapters
 
 ## Local Vault File
 
-Path: [efficient-controllable-generation-for-sdxl-with-t2.md](file:///../../ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)
+Path: [efficient-controllable-generation-for-sdxl-with-t2.md](../../ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)

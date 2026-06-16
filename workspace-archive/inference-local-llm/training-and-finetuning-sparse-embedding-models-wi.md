@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sparse-encoder
 
 ## Local Vault File
 
-Path: [training-and-finetuning-sparse-embedding-models-wi.md](file:///../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)
+Path: [training-and-finetuning-sparse-embedding-models-wi.md](../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)

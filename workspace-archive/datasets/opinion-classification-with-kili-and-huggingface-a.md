@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/opinion-classification-with-kil
 
 ## Local Vault File
 
-Path: [opinion-classification-with-kili-and-huggingface-a.md](file:///../../ai/models/opinion-classification-with-kili-and-huggingface-a.md)
+Path: [opinion-classification-with-kili-and-huggingface-a.md](../../ai/models/opinion-classification-with-kili-and-huggingface-a.md)

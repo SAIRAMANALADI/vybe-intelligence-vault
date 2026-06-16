@@ -46,4 +46,4 @@ Original source URL: https://github.com/realstoman/react-tailwindcss-portfolio
 
 ## Local Vault File
 
-Path: [realstoman-react-tailwindcss-portfolio.md](file:///../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)
+Path: [realstoman-react-tailwindcss-portfolio.md](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)

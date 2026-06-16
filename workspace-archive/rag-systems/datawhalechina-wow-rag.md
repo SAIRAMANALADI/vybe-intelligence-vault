@@ -46,4 +46,4 @@ Original source URL: https://github.com/datawhalechina/wow-rag
 
 ## Local Vault File
 
-Path: [datawhalechina-wow-rag.md](file:///../../ai/rag/datawhalechina-wow-rag.md)
+Path: [datawhalechina-wow-rag.md](../../ai/rag/datawhalechina-wow-rag.md)

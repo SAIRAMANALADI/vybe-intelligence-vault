@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/styling-next-with-styled-jsx
 
 ## Local Vault File
 
-Path: [styling-next-js-with-styled-jsx.md](file:///../../web-development/nextjs/styling-next-js-with-styled-jsx.md)
+Path: [styling-next-js-with-styled-jsx.md](../../web-development/nextjs/styling-next-js-with-styled-jsx.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ray-tune
 
 ## Local Vault File
 
-Path: [hyperparameter-search-with-transformers-and-ray-tu.md](file:///../../ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)
+Path: [hyperparameter-search-with-transformers-and-ray-tu.md](../../ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)

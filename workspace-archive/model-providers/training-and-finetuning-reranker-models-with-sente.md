@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-reranker
 
 ## Local Vault File
 
-Path: [training-and-finetuning-reranker-models-with-sente.md](file:///../../ai/models/training-and-finetuning-reranker-models-with-sente.md)
+Path: [training-and-finetuning-reranker-models-with-sente.md](../../ai/models/training-and-finetuning-reranker-models-with-sente.md)

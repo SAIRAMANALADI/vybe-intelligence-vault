@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama32
 
 ## Local Vault File
 
-Path: [llama-can-now-see-and-run-on-your-device-welcome-l.md](file:///../../ai/models/llama-can-now-see-and-run-on-your-device-welcome-l.md)
+Path: [llama-can-now-see-and-run-on-your-device-welcome-l.md](../../ai/models/llama-can-now-see-and-run-on-your-device-welcome-l.md)

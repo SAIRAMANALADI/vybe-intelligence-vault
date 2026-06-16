@@ -44,4 +44,4 @@ Original source URL: https://github.com/mrdoob/three.js
 
 ## Local Vault File
 
-Path: [mrdoob-three-js.md](file:///../../web-development/threejs/mrdoob-three-js.md)
+Path: [mrdoob-three-js.md](../../web-development/threejs/mrdoob-three-js.md)

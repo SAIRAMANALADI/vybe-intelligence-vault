@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pretraining-bert
 
 ## Local Vault File
 
-Path: [pre-train-bert-with-hugging-face-transformers-and.md](file:///../../ai/models/pre-train-bert-with-hugging-face-transformers-and.md)
+Path: [pre-train-bert-with-hugging-face-transformers-and.md](../../ai/models/pre-train-bert-with-hugging-face-transformers-and.md)

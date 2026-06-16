@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/correctness-befor
 
 ## Local Vault File
 
-Path: [vllm-v0-to-v1-correctness-before-corrections-in-rl.md](file:///../../ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md)
+Path: [vllm-v0-to-v1-correctness-before-corrections-in-rl.md](../../ai/models/vllm-v0-to-v1-correctness-before-corrections-in-rl.md)

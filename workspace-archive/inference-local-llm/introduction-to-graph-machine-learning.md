@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intro-graphml
 
 ## Local Vault File
 
-Path: [introduction-to-graph-machine-learning.md](file:///../../ai/models/introduction-to-graph-machine-learning.md)
+Path: [introduction-to-graph-machine-learning.md](../../ai/models/introduction-to-graph-machine-learning.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-api
 
 ## Local Vault File
 
-Path: [how-to-install-and-use-the-hugging-face-unity-api.md](file:///../../ai/models/how-to-install-and-use-the-hugging-face-unity-api.md)
+Path: [how-to-install-and-use-the-hugging-face-unity-api.md](../../ai/models/how-to-install-and-use-the-hugging-face-unity-api.md)

@@ -42,4 +42,4 @@ Original source URL: https://github.com/nobruf/shadcn-landing-page
 
 ## Local Vault File
 
-Path: [nobruf-shadcn-landing-page.md](file:///../../web-development/nextjs/nobruf-shadcn-landing-page.md)
+Path: [nobruf-shadcn-landing-page.md](../../web-development/nextjs/nobruf-shadcn-landing-page.md)

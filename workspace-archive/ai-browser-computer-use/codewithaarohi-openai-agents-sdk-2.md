@@ -45,4 +45,4 @@ Original source URL: https://github.com/codewithaarohi/OpenAI-Agents-SDK
 
 ## Local Vault File
 
-Path: [codewithaarohi-openai-agents-sdk.md](file:///../../ai/agents/codewithaarohi-openai-agents-sdk.md)
+Path: [codewithaarohi-openai-agents-sdk.md](../../ai/agents/codewithaarohi-openai-agents-sdk.md)

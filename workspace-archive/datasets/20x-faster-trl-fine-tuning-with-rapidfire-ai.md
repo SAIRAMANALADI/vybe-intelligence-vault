@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/rapidfireai
 
 ## Local Vault File
 
-Path: [20x-faster-trl-fine-tuning-with-rapidfire-ai.md](file:///../../ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md)
+Path: [20x-faster-trl-fine-tuning-with-rapidfire-ai.md](../../ai/models/20x-faster-trl-fine-tuning-with-rapidfire-ai.md)

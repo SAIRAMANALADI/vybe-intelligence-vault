@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-cohere
 
 ## Local Vault File
 
-Path: [cohere-on-hugging-face-inference-providers.md](file:///../../ai/models/cohere-on-hugging-face-inference-providers.md)
+Path: [cohere-on-hugging-face-inference-providers.md](../../ai/models/cohere-on-hugging-face-inference-providers.md)

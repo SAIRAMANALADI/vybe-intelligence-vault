@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana-gaudi-2-bloom
 
 ## Local Vault File
 
-Path: [fast-inference-on-large-language-models-bloomz-on.md](file:///../../ai/models/fast-inference-on-large-language-models-bloomz-on.md)
+Path: [fast-inference-on-large-language-models-bloomz-on.md](../../ai/models/fast-inference-on-large-language-models-bloomz-on.md)

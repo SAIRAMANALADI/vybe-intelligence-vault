@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/microsoft/diff-attn-v2
 
 ## Local Vault File
 
-Path: [differential-transformer-v2.md](file:///../../ai/models/differential-transformer-v2.md)
+Path: [differential-transformer-v2.md](../../ai/models/differential-transformer-v2.md)

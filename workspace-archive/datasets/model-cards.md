@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/model-cards
 
 ## Local Vault File
 
-Path: [model-cards.md](file:///../../ai/models/model-cards.md)
+Path: [model-cards.md](../../ai/models/model-cards.md)

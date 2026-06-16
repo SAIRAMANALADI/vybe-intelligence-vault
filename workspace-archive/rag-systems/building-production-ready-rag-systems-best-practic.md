@@ -54,4 +54,4 @@ Original source URL: https://medium.com/@meeran03/building-production-ready-rag-
 
 ## Local Vault File
 
-Path: [building-production-ready-rag-systems-best-practic.md](file:///../../ai/rag/building-production-ready-rag-systems-best-practic.md)
+Path: [building-production-ready-rag-systems-best-practic.md](../../ai/rag/building-production-ready-rag-systems-best-practic.md)

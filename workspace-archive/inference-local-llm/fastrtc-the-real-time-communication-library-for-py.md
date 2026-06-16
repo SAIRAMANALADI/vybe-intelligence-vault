@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastrtc
 
 ## Local Vault File
 
-Path: [fastrtc-the-real-time-communication-library-for-py.md](file:///../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)
+Path: [fastrtc-the-real-time-communication-library-for-py.md](../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)

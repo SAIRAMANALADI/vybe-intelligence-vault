@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chat-templates
 
 ## Local Vault File
 
-Path: [chat-templates-an-end-to-the-silent-performance-ki.md](file:///../../ai/models/chat-templates-an-end-to-the-silent-performance-ki.md)
+Path: [chat-templates-an-end-to-the-silent-performance-ki.md](../../ai/models/chat-templates-an-end-to-the-silent-performance-ki.md)

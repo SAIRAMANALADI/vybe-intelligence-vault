@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-aws-partner-to-make-ai-more-acces.md](file:///../../ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)
+Path: [hugging-face-and-aws-partner-to-make-ai-more-acces.md](../../ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)

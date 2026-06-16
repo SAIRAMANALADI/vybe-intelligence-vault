@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolvlm2
 
 ## Local Vault File
 
-Path: [smolvlm2-bringing-video-understanding-to-every-dev.md](file:///../../ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)
+Path: [smolvlm2-bringing-video-understanding-to-every-dev.md](../../ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)

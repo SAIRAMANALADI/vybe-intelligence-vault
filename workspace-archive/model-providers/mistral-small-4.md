@@ -47,4 +47,4 @@ Original source URL: https://mistral.ai/news/mistral-small-4
 
 ## Local Vault File
 
-Path: [mistral-small-4.md](file:///../../ai/companies/mistral/mistral-small-4.md)
+Path: [mistral-small-4.md](../../ai/companies/mistral/mistral-small-4.md)

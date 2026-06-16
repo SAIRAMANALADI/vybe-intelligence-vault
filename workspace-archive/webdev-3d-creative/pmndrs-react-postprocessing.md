@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/react-postprocessing
 
 ## Local Vault File
 
-Path: [pmndrs-react-postprocessing.md](file:///../../web-development/react-three-fiber/pmndrs-react-postprocessing.md)
+Path: [pmndrs-react-postprocessing.md](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md)

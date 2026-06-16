@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [make-your-llama-generation-time-fly-with-aws-infer.md](file:///../../ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)
+Path: [make-your-llama-generation-time-fly-with-aws-infer.md](../../ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)

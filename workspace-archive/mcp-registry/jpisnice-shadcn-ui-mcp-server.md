@@ -44,4 +44,4 @@ Original source URL: https://github.com/jpisnice/shadcn-ui-mcp-server
 
 ## Local Vault File
 
-Path: [jpisnice-shadcn-ui-mcp-server.md](file:///../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)
+Path: [jpisnice-shadcn-ui-mcp-server.md](../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md)

@@ -51,4 +51,4 @@ Original source URL: https://www.signitysolutions.com/blog/real-world-examples-o
 
 ## Local Vault File
 
-Path: [10-real-world-examples-of-retrieval-augmented-gene.md](file:///../../ai/rag/10-real-world-examples-of-retrieval-augmented-gene.md)
+Path: [10-real-world-examples-of-retrieval-augmented-gene.md](../../ai/rag/10-real-world-examples-of-retrieval-augmented-gene.md)

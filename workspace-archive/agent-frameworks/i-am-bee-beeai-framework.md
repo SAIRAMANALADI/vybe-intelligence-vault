@@ -44,4 +44,4 @@ Original source URL: https://github.com/i-am-bee/beeai-framework
 
 ## Local Vault File
 
-Path: [i-am-bee-beeai-framework.md](file:///../../ai/agents/i-am-bee-beeai-framework.md)
+Path: [i-am-bee-beeai-framework.md](../../ai/agents/i-am-bee-beeai-framework.md)

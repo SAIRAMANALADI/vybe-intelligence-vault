@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-bigcodebench
 
 ## Local Vault File
 
-Path: [bigcodebench-the-next-generation-of-humaneval.md](file:///../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)
+Path: [bigcodebench-the-next-generation-of-humaneval.md](../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)

@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/docmatix
 
 ## Local Vault File
 
-Path: [docmatix-a-huge-dataset-for-document-visual-questi.md](file:///../../ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)
+Path: [docmatix-a-huge-dataset-for-document-visual-questi.md](../../ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)

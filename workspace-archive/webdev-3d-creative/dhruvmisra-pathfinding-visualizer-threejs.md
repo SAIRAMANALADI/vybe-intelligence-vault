@@ -44,4 +44,4 @@ Original source URL: https://github.com/dhruvmisra/pathfinding-visualizer-threej
 
 ## Local Vault File
 
-Path: [dhruvmisra-pathfinding-visualizer-threejs.md](file:///../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md)
+Path: [dhruvmisra-pathfinding-visualizer-threejs.md](../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md)

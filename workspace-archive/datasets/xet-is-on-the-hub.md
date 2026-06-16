@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xet-on-the-hub
 
 ## Local Vault File
 
-Path: [xet-is-on-the-hub.md](file:///../../ai/models/xet-is-on-the-hub.md)
+Path: [xet-is-on-the-hub.md](../../ai/models/xet-is-on-the-hub.md)

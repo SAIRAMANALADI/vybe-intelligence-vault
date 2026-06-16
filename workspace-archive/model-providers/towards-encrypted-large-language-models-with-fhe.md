@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/encrypted-llm
 
 ## Local Vault File
 
-Path: [towards-encrypted-large-language-models-with-fhe.md](file:///../../ai/models/towards-encrypted-large-language-models-with-fhe.md)
+Path: [towards-encrypted-large-language-models-with-fhe.md](../../ai/models/towards-encrypted-large-language-models-with-fhe.md)

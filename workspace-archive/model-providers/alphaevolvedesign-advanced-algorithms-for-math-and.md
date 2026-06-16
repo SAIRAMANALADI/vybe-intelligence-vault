@@ -48,4 +48,4 @@ Original source URL: https://deepmind.google/blog/alphaevolve-a-gemini-powered-c
 
 ## Local Vault File
 
-Path: [alphaevolvedesign-advanced-algorithms-for-math-and.md](file:///../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)
+Path: [alphaevolvedesign-advanced-algorithms-for-math-and.md](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md)

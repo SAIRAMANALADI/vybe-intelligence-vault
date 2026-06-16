@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-lite
 
 ## Local Vault File
 
-Path: [gradio-lite-serverless-gradio-running-entirely-in.md](file:///../../ai/models/gradio-lite-serverless-gradio-running-entirely-in.md)
+Path: [gradio-lite-serverless-gradio-running-entirely-in.md](../../ai/models/gradio-lite-serverless-gradio-running-entirely-in.md)

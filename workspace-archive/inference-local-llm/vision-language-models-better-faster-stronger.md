@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vlms-2025
 
 ## Local Vault File
 
-Path: [vision-language-models-better-faster-stronger.md](file:///../../ai/models/vision-language-models-better-faster-stronger.md)
+Path: [vision-language-models-better-faster-stronger.md](../../ai/models/vision-language-models-better-faster-stronger.md)

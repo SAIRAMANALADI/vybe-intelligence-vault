@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving
 
 ## Local Vault File
 
-Path: [faster-tensorflow-models-in-hugging-face-transform.md](file:///../../ai/models/faster-tensorflow-models-in-hugging-face-transform.md)
+Path: [faster-tensorflow-models-in-hugging-face-transform.md](../../ai/models/faster-tensorflow-models-in-hugging-face-transform.md)

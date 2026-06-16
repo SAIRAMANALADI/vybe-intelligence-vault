@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 hn_url: https://news.ycombinator.com/item?id=48552687
-score: 81
+score: 252
 author: _tk_
-comments_count: 45
+comments_count: 136
 published_at: '2026-06-16T14:56:09+05:30'
-collected_at: '2026-06-16T17:27:38.040135+05:30'
+collected_at: '2026-06-16T19:32:50.485317+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: hackernews:feds-freaked-over-fable-5-after-simple-fix-this-co
 first_seen: '2026-06-16T17:27:38.040135+05:30'
-last_seen: '2026-06-16T17:27:38.040135+05:30'
-last_checked: '2026-06-16T17:27:38.040135+05:30'
+last_seen: '2026-06-16T19:32:50.485317+05:30'
+last_checked: '2026-06-16T19:32:50.485317+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by _tk_. Score: 81, Comments: 45.
+Hacker News story by _tk_. Score: 252, Comments: 136.
 Original Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: _tk_
-- Score: 81 Upvotes
-- Comments: 45 Discussions
+- Score: 252 Upvotes
+- Comments: 136 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48552687
 - Original Article: https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 

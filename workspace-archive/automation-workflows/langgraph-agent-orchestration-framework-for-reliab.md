@@ -50,4 +50,4 @@ Original source URL: https://www.langchain.com/langgraph
 
 ## Local Vault File
 
-Path: [langgraph-agent-orchestration-framework-for-reliab.md](file:///../../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
+Path: [langgraph-agent-orchestration-framework-for-reliab.md](../../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)

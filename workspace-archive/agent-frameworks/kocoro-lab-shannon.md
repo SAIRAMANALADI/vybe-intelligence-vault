@@ -46,4 +46,4 @@ Original source URL: https://github.com/Kocoro-lab/Shannon
 
 ## Local Vault File
 
-Path: [kocoro-lab-shannon.md](file:///../../ai/agents/kocoro-lab-shannon.md)
+Path: [kocoro-lab-shannon.md](../../ai/agents/kocoro-lab-shannon.md)

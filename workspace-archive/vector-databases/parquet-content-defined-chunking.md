@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/parquet-cdc
 
 ## Local Vault File
 
-Path: [parquet-content-defined-chunking.md](file:///../../ai/rag/parquet-content-defined-chunking.md)
+Path: [parquet-content-defined-chunking.md](../../ai/rag/parquet-content-defined-chunking.md)

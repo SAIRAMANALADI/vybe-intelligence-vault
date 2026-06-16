@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/community-evals
 
 ## Local Vault File
 
-Path: [community-evals-because-we-re-done-trusting-black.md](file:///../../ai/models/community-evals-because-we-re-done-trusting-black.md)
+Path: [community-evals-because-we-re-done-trusting-black.md](../../ai/models/community-evals-because-we-re-done-trusting-black.md)

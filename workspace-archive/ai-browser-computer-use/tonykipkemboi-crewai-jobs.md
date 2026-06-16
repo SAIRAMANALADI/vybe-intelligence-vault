@@ -45,4 +45,4 @@ Original source URL: https://github.com/tonykipkemboi/crewai-jobs
 
 ## Local Vault File
 
-Path: [tonykipkemboi-crewai-jobs.md](file:///../../ai/agents/tonykipkemboi-crewai-jobs.md)
+Path: [tonykipkemboi-crewai-jobs.md](../../ai/agents/tonykipkemboi-crewai-jobs.md)

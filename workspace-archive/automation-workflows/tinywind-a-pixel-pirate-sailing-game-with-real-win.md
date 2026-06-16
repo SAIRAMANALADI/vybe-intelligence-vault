@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by tinywind. Score: 879, Comments: 161.
+Hacker News story by tinywind. Score: 917, Comments: 162.
 Original Link: https://tinywind.io
 
 ## Use Cases
@@ -46,4 +46,4 @@ Original source URL: https://tinywind.io
 
 ## Local Vault File
 
-Path: [tinywind-a-pixel-pirate-sailing-game-with-real-win.md](file:///../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
+Path: [tinywind-a-pixel-pirate-sailing-game-with-real-win.md](../../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)

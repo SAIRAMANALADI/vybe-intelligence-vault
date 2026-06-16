@@ -48,4 +48,4 @@ Original source URL: https://github.com/adisystems/fmbench-assistant
 
 ## Local Vault File
 
-Path: [adisystems-fmbench-assistant.md](file:///../../ai/rag/adisystems-fmbench-assistant.md)
+Path: [adisystems-fmbench-assistant.md](../../ai/rag/adisystems-fmbench-assistant.md)

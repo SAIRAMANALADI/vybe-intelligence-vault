@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/python-tiny-agents
 
 ## Local Vault File
 
-Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md](file:///../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)
+Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md](../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ryght-case-study
 
 ## Local Vault File
 
-Path: [ryghts-journey-to-empower-healthcare-and-life-scie.md](file:///../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)
+Path: [ryghts-journey-to-empower-healthcare-and-life-scie.md](../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)

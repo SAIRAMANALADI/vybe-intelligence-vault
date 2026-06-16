@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-r1/mini-r1-contdown-game
 
 ## Local Vault File
 
-Path: [mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md](file:///../../ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md)
+Path: [mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md](../../ai/models/mini-r1-reproduce-deepseek-r1-aha-moment-a-rl-tuto.md)

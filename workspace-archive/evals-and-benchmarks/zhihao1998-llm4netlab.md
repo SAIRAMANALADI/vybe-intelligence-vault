@@ -48,4 +48,4 @@ Original source URL: https://github.com/zhihao1998/LLM4NetLab
 
 ## Local Vault File
 
-Path: [zhihao1998-llm4netlab.md](file:///../../ai/agents/zhihao1998-llm4netlab.md)
+Path: [zhihao1998-llm4netlab.md](../../ai/agents/zhihao1998-llm4netlab.md)

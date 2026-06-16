@@ -1,0 +1,49 @@
+---
+title: AutoGen - Microsoft Research
+archive_category: ai-browser-computer-use
+source_category: ai/agents
+source_url: https://www.microsoft.com/en-us/research/project/autogen
+resource_id: blog:autogen-microsoft-research
+local_vault_path: ai/agents/autogen-microsoft-research.md
+quality_score: 70
+archive_score: 70
+archive_tier: useful
+resource_kind: framework
+importance: medium
+tags:
+- agents
+- hackernews
+- web-crawled
+- workflows
+- youtube
+selection_reason:
+- Useful for project building
+---
+
+# AutoGen - Microsoft Research
+
+## Why This Is In The Archive
+
+- Matched archive category: `AI Browser and Computer Use`
+- Quality score: 70 | Archive score: 70 (useful)
+- Resource kind: framework
+- Selection reasons:
+  - Useful for project building
+
+## Summary
+
+AutoGen Open-Source Framework for Agentic AI aka.ms/autogen (opens in new tab) autogen@microsoft.com Overview People Publications Videos Tools News & features AutoGen is an open-source programming framework for building AI agents and facilitating coo...
+
+## Use Cases
+
+- Browser web automation
+- GUI action orchestration
+- Agent computer control
+
+## Source
+
+Original source URL: https://www.microsoft.com/en-us/research/project/autogen
+
+## Local Vault File
+
+Path: [autogen-microsoft-research.md](../../ai/agents/autogen-microsoft-research.md)

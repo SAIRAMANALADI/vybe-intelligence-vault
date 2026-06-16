@@ -47,4 +47,4 @@ Original source URL: https://github.com/akihirookuda95/openai-agents-sdk-tutoria
 
 ## Local Vault File
 
-Path: [akihirookuda95-openai-agents-sdk-tutorial.md](file:///../../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md)
+Path: [akihirookuda95-openai-agents-sdk-tutorial.md](../../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md)

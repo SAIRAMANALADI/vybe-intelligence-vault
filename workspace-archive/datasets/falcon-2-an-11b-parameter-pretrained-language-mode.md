@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon2-11b
 
 ## Local Vault File
 
-Path: [falcon-2-an-11b-parameter-pretrained-language-mode.md](file:///../../ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)
+Path: [falcon-2-an-11b-parameter-pretrained-language-mode.md](../../ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)

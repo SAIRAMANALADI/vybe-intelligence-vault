@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch_block_sparse
 
 ## Local Vault File
 
-Path: [block-sparse-matrices-for-smaller-and-faster-langu.md](file:///../../ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)
+Path: [block-sparse-matrices-for-smaller-and-faster-langu.md](../../ai/models/block-sparse-matrices-for-smaller-and-faster-langu.md)

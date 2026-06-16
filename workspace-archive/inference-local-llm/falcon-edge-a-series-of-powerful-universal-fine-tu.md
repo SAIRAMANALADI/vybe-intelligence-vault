@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-edge
 
 ## Local Vault File
 
-Path: [falcon-edge-a-series-of-powerful-universal-fine-tu.md](file:///../../ai/models/falcon-edge-a-series-of-powerful-universal-fine-tu.md)
+Path: [falcon-edge-a-series-of-powerful-universal-fine-tu.md](../../ai/models/falcon-edge-a-series-of-powerful-universal-fine-tu.md)

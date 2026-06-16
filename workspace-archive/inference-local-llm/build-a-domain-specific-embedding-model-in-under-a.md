@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/domain-specific-embeddin
 
 ## Local Vault File
 
-Path: [build-a-domain-specific-embedding-model-in-under-a.md](file:///../../ai/models/build-a-domain-specific-embedding-model-in-under-a.md)
+Path: [build-a-domain-specific-embedding-model-in-under-a.md](../../ai/models/build-a-domain-specific-embedding-model-in-under-a.md)

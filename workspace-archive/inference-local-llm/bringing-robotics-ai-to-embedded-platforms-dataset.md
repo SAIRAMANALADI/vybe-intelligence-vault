@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/nxp/bringing-robotics-ai-to-emb
 
 ## Local Vault File
 
-Path: [bringing-robotics-ai-to-embedded-platforms-dataset.md](file:///../../ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md)
+Path: [bringing-robotics-ai-to-embedded-platforms-dataset.md](../../ai/models/bringing-robotics-ai-to-embedded-platforms-dataset.md)

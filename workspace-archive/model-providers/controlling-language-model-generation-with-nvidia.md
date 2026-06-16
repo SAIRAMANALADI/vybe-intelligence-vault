@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/logits-processor-zoo
 
 ## Local Vault File
 
-Path: [controlling-language-model-generation-with-nvidia.md](file:///../../ai/models/controlling-language-model-generation-with-nvidia.md)
+Path: [controlling-language-model-generation-with-nvidia.md](../../ai/models/controlling-language-model-generation-with-nvidia.md)

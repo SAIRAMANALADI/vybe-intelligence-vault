@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/keras-hub-integration
 
 ## Local Vault File
 
-Path: [announcing-new-hugging-face-and-kerashub-integrati.md](file:///../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)
+Path: [announcing-new-hugging-face-and-kerashub-integrati.md](../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)

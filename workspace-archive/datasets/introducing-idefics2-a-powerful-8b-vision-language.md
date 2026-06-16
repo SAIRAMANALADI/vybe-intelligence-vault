@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/idefics2
 
 ## Local Vault File
 
-Path: [introducing-idefics2-a-powerful-8b-vision-language.md](file:///../../ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)
+Path: [introducing-idefics2-a-powerful-8b-vision-language.md](../../ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/NotPBShaw/awesome-ai-governance
 
 ## Local Vault File
 
-Path: [notpbshaw-awesome-ai-governance.md](file:///../../ai/agents/notpbshaw-awesome-ai-governance.md)
+Path: [notpbshaw-awesome-ai-governance.md](../../ai/agents/notpbshaw-awesome-ai-governance.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-optimum-intel
 
 ## Local Vault File
 
-Path: [blazing-fast-setfit-inference-with-optimum-intel-o.md](file:///../../ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)
+Path: [blazing-fast-setfit-inference-with-optimum-intel-o.md](../../ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)

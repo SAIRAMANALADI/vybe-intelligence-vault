@@ -44,4 +44,4 @@ Original source URL: https://github.com/doodlewind/beam
 
 ## Local Vault File
 
-Path: [doodlewind-beam.md](file:///../../web-development/webgpu/doodlewind-beam.md)
+Path: [doodlewind-beam.md](../../web-development/webgpu/doodlewind-beam.md)

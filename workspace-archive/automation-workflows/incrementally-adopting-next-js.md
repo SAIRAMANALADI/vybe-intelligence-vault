@@ -45,4 +45,4 @@ Original source URL: https://nextjs.org/blog/incremental-adoption
 
 ## Local Vault File
 
-Path: [incrementally-adopting-next-js.md](file:///../../web-development/nextjs/incrementally-adopting-next-js.md)
+Path: [incrementally-adopting-next-js.md](../../web-development/nextjs/incrementally-adopting-next-js.md)

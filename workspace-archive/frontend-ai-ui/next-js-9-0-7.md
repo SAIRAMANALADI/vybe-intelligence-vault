@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/next-9-0-7
 
 ## Local Vault File
 
-Path: [next-js-9-0-7.md](file:///../../web-development/nextjs/next-js-9-0-7.md)
+Path: [next-js-9-0-7.md](../../web-development/nextjs/next-js-9-0-7.md)

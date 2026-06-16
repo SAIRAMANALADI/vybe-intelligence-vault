@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/sygra-studio
 
 ## Local Vault File
 
-Path: [introducing-sygra-studio.md](file:///../../ai/models/introducing-sygra-studio.md)
+Path: [introducing-sygra-studio.md](../../ai/models/introducing-sygra-studio.md)

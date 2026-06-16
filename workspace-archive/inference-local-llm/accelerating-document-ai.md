@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/document-ai
 
 ## Local Vault File
 
-Path: [accelerating-document-ai.md](file:///../../ai/models/accelerating-document-ai.md)
+Path: [accelerating-document-ai.md](../../ai/models/accelerating-document-ai.md)

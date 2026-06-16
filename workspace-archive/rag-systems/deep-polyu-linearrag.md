@@ -46,4 +46,4 @@ Original source URL: https://github.com/DEEP-PolyU/LinearRAG
 
 ## Local Vault File
 
-Path: [deep-polyu-linearrag.md](file:///../../ai/rag/deep-polyu-linearrag.md)
+Path: [deep-polyu-linearrag.md](../../ai/rag/deep-polyu-linearrag.md)

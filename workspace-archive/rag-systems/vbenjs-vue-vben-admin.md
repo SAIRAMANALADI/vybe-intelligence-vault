@@ -44,4 +44,4 @@ Original source URL: https://github.com/vbenjs/vue-vben-admin
 
 ## Local Vault File
 
-Path: [vbenjs-vue-vben-admin.md](file:///../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md)
+Path: [vbenjs-vue-vben-admin.md](../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md)

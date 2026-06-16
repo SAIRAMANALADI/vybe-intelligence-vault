@@ -47,4 +47,4 @@ Original source URL: https://openai.com/index/the-next-evolution-of-the-agents-s
 
 ## Local Vault File
 
-Path: [the-next-evolution-of-the-agents-sdk-openai.md](file:///../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)
+Path: [the-next-evolution-of-the-agents-sdk-openai.md](../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)

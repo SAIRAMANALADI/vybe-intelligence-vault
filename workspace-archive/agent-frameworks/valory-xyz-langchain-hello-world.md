@@ -45,4 +45,4 @@ Original source URL: https://github.com/valory-xyz/langchain-hello-world
 
 ## Local Vault File
 
-Path: [valory-xyz-langchain-hello-world.md](file:///../../ai/agents/valory-xyz-langchain-hello-world.md)
+Path: [valory-xyz-langchain-hello-world.md](../../ai/agents/valory-xyz-langchain-hello-world.md)

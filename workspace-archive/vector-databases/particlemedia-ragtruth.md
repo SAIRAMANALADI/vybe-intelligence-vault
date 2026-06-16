@@ -44,4 +44,4 @@ Original source URL: https://github.com/ParticleMedia/RAGTruth
 
 ## Local Vault File
 
-Path: [particlemedia-ragtruth.md](file:///../../ai/rag/particlemedia-ragtruth.md)
+Path: [particlemedia-ragtruth.md](../../ai/rag/particlemedia-ragtruth.md)

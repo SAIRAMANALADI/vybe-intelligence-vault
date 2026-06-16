@@ -46,4 +46,4 @@ Original source URL: https://github.com/pmndrs/xr
 
 ## Local Vault File
 
-Path: [pmndrs-xr.md](file:///../../web-development/react-three-fiber/pmndrs-xr.md)
+Path: [pmndrs-xr.md](../../web-development/react-three-fiber/pmndrs-xr.md)

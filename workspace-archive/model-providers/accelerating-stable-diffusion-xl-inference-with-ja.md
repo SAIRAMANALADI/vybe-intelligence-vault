@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sdxl_jax
 
 ## Local Vault File
 
-Path: [accelerating-stable-diffusion-xl-inference-with-ja.md](file:///../../ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)
+Path: [accelerating-stable-diffusion-xl-inference-with-ja.md](../../ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/olympic-coder-lmstudio
 
 ## Local Vault File
 
-Path: [open-r1-how-to-use-olympiccoder-locally-for-coding.md](file:///../../ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)
+Path: [open-r1-how-to-use-olympiccoder-locally-for-coding.md](../../ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)

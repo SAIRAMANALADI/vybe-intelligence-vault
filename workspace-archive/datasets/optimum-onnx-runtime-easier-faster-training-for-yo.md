@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-onnxruntime-training
 
 ## Local Vault File
 
-Path: [optimum-onnx-runtime-easier-faster-training-for-yo.md](file:///../../ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)
+Path: [optimum-onnx-runtime-easier-faster-training-for-yo.md](../../ai/models/optimum-onnx-runtime-easier-faster-training-for-yo.md)

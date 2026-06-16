@@ -45,4 +45,4 @@ Original source URL: https://github.com/sbalnojan/ai-chaos-awesome
 
 ## Local Vault File
 
-Path: [sbalnojan-ai-chaos-awesome.md](file:///../../ai/rag/sbalnojan-ai-chaos-awesome.md)
+Path: [sbalnojan-ai-chaos-awesome.md](../../ai/rag/sbalnojan-ai-chaos-awesome.md)

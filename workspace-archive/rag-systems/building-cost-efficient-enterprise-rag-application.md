@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/cost-efficient-rag-applications
 
 ## Local Vault File
 
-Path: [building-cost-efficient-enterprise-rag-application.md](file:///../../ai/rag/building-cost-efficient-enterprise-rag-application.md)
+Path: [building-cost-efficient-enterprise-rag-application.md](../../ai/rag/building-cost-efficient-enterprise-rag-application.md)

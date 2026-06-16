@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tapex
 
 ## Local Vault File
 
-Path: [efficient-table-pre-training-without-real-data-an.md](file:///../../ai/models/efficient-table-pre-training-without-real-data-an.md)
+Path: [efficient-table-pre-training-without-real-data-an.md](../../ai/models/efficient-table-pre-training-without-real-data-an.md)

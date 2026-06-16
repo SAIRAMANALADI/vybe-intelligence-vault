@@ -45,4 +45,4 @@ Original source URL: https://github.com/neocypher-x/openai-agents-sdk-tutorial
 
 ## Local Vault File
 
-Path: [neocypher-x-openai-agents-sdk-tutorial.md](file:///../../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
+Path: [neocypher-x-openai-agents-sdk-tutorial.md](../../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)

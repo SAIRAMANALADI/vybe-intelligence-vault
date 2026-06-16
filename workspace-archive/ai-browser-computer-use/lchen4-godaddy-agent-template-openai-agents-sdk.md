@@ -45,4 +45,4 @@ Original source URL: https://github.com/lchen4-godaddy/agent-template-openai-age
 
 ## Local Vault File
 
-Path: [lchen4-godaddy-agent-template-openai-agents-sdk.md](file:///../../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)
+Path: [lchen4-godaddy-agent-template-openai-agents-sdk.md](../../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md)

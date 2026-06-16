@@ -44,4 +44,4 @@ Original source URL: https://github.com/jaypanchal18/production-ai-agents-and-ll
 
 ## Local Vault File
 
-Path: [jaypanchal18-production-ai-agents-and-llm-platform.md](file:///../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md)
+Path: [jaypanchal18-production-ai-agents-and-llm-platform.md](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md)

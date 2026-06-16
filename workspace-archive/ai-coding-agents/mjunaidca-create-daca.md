@@ -45,4 +45,4 @@ Original source URL: https://github.com/mjunaidca/create-daca
 
 ## Local Vault File
 
-Path: [mjunaidca-create-daca.md](file:///../../ai/agents/mjunaidca-create-daca.md)
+Path: [mjunaidca-create-daca.md](../../ai/agents/mjunaidca-create-daca.md)

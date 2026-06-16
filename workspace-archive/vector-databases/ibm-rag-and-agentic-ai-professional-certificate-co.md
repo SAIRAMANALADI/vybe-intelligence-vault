@@ -51,4 +51,4 @@ Original source URL: https://duckduckgo.com/y.js?ad_domain=coursera.org&ad_provi
 
 ## Local Vault File
 
-Path: [ibm-rag-and-agentic-ai-professional-certificate-co.md](file:///../../ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)
+Path: [ibm-rag-and-agentic-ai-professional-certificate-co.md](../../ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)

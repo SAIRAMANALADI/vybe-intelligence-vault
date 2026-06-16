@@ -46,4 +46,4 @@ Original source URL: https://github.com/kvpratama/gaia-agent
 
 ## Local Vault File
 
-Path: [kvpratama-gaia-agent.md](file:///../../ai/agents/kvpratama-gaia-agent.md)
+Path: [kvpratama-gaia-agent.md](../../ai/agents/kvpratama-gaia-agent.md)

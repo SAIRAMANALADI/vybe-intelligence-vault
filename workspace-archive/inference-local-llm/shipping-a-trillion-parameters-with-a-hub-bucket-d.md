@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/delta-weight-sync
 
 ## Local Vault File
 
-Path: [shipping-a-trillion-parameters-with-a-hub-bucket-d.md](file:///../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)
+Path: [shipping-a-trillion-parameters-with-a-hub-bucket-d.md](../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)

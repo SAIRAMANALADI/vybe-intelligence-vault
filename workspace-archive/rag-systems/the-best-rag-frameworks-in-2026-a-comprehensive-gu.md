@@ -54,4 +54,4 @@ Original source URL: https://martinuke0.github.io/posts/2026-01-06-the-best-rag-
 
 ## Local Vault File
 
-Path: [the-best-rag-frameworks-in-2026-a-comprehensive-gu.md](file:///../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)
+Path: [the-best-rag-frameworks-in-2026-a-comprehensive-gu.md](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)

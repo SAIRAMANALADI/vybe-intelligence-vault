@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gaussian-splatting
 
 ## Local Vault File
 
-Path: [introduction-to-3d-gaussian-splatting.md](file:///../../ai/models/introduction-to-3d-gaussian-splatting.md)
+Path: [introduction-to-3d-gaussian-splatting.md](../../ai/models/introduction-to-3d-gaussian-splatting.md)

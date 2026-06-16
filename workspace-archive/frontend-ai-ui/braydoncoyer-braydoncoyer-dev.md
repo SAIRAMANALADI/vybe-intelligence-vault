@@ -47,4 +47,4 @@ Original source URL: https://github.com/braydoncoyer/braydoncoyer.dev
 
 ## Local Vault File
 
-Path: [braydoncoyer-braydoncoyer-dev.md](file:///../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md)
+Path: [braydoncoyer-braydoncoyer-dev.md](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md)

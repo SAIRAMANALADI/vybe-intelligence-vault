@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-2nd-month
 
 ## Local Vault File
 
-Path: [what-s-new-in-diffusers.md](file:///../../ai/models/what-s-new-in-diffusers.md)
+Path: [what-s-new-in-diffusers.md](../../ai/models/what-s-new-in-diffusers.md)

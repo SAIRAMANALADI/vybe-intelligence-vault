@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-embeddings
 
 ## Local Vault File
 
-Path: [deploy-embedding-models-with-hugging-face-inferenc.md](file:///../../ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)
+Path: [deploy-embedding-models-with-hugging-face-inferenc.md](../../ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)

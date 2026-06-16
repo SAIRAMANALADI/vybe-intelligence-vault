@@ -44,4 +44,4 @@ Original source URL: https://www.datacamp.com/tutorial/how-to-improve-rag-perfor
 
 ## Local Vault File
 
-Path: [how-to-improve-rag-performance-5-key-techniques-wi.md](file:///../../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
+Path: [how-to-improve-rag-performance-5-key-techniques-wi.md](../../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)

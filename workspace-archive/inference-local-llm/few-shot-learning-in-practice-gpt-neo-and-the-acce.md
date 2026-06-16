@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-i
 
 ## Local Vault File
 
-Path: [few-shot-learning-in-practice-gpt-neo-and-the-acce.md](file:///../../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)
+Path: [few-shot-learning-in-practice-gpt-neo-and-the-acce.md](../../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)

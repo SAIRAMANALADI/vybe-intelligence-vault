@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning.md](../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)

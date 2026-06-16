@@ -45,4 +45,4 @@ Original source URL: https://github.com/emmelleppi/r3f-cheers
 
 ## Local Vault File
 
-Path: [emmelleppi-r3f-cheers.md](file:///../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md)
+Path: [emmelleppi-r3f-cheers.md](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [don-t-repeat-yourself.md](file:///../../ai/models/don-t-repeat-yourself.md)
+Path: [don-t-repeat-yourself.md](../../ai/models/don-t-repeat-yourself.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/affaan-m/agentshield
 
 ## Local Vault File
 
-Path: [affaan-m-agentshield.md](file:///../../ai/agents/affaan-m-agentshield.md)
+Path: [affaan-m-agentshield.md](../../ai/agents/affaan-m-agentshield.md)

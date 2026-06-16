@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hello-hf-kernels
 
 ## Local Vault File
 
-Path: [learn-the-hugging-face-kernel-hub-in-5-minutes.md](file:///../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)
+Path: [learn-the-hugging-face-kernel-hub-in-5-minutes.md](../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/text-to-video
 
 ## Local Vault File
 
-Path: [a-dive-into-text-to-video-models.md](file:///../../ai/models/a-dive-into-text-to-video-models.md)
+Path: [a-dive-into-text-to-video-models.md](../../ai/models/a-dive-into-text-to-video-models.md)

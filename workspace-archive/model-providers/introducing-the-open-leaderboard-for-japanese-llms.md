@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-japanese
 
 ## Local Vault File
 
-Path: [introducing-the-open-leaderboard-for-japanese-llms.md](file:///../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)
+Path: [introducing-the-open-leaderboard-for-japanese-llms.md](../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)

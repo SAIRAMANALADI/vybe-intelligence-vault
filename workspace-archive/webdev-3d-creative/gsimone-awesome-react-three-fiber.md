@@ -45,4 +45,4 @@ Original source URL: https://github.com/gsimone/awesome-react-three-fiber
 
 ## Local Vault File
 
-Path: [gsimone-awesome-react-three-fiber.md](file:///../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md)
+Path: [gsimone-awesome-react-three-fiber.md](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md)

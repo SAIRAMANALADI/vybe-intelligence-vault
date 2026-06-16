@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modernbert
 
 ## Local Vault File
 
-Path: [finally-a-replacement-for-bert-introducing-modernb.md](file:///../../ai/models/finally-a-replacement-for-bert-introducing-modernb.md)
+Path: [finally-a-replacement-for-bert-introducing-modernb.md](../../ai/models/finally-a-replacement-for-bert-introducing-modernb.md)

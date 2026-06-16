@@ -45,4 +45,4 @@ Original source URL: https://github.com/anyone-yuren/degital-twin-3d
 
 ## Local Vault File
 
-Path: [anyone-yuren-degital-twin-3d.md](file:///../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md)
+Path: [anyone-yuren-degital-twin-3d.md](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md)

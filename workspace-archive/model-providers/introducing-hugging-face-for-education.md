@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/education
 
 ## Local Vault File
 
-Path: [introducing-hugging-face-for-education.md](file:///../../ai/models/introducing-hugging-face-for-education.md)
+Path: [introducing-hugging-face-for-education.md](../../ai/models/introducing-hugging-face-for-education.md)

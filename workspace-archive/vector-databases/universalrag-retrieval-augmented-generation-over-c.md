@@ -46,4 +46,4 @@ Original source URL: https://universalrag.github.io
 
 ## Local Vault File
 
-Path: [universalrag-retrieval-augmented-generation-over-c.md](file:///../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)
+Path: [universalrag-retrieval-augmented-generation-over-c.md](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md)

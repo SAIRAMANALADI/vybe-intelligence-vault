@@ -45,4 +45,4 @@ Original source URL: https://github.com/alirazapoonja/OpenAIAgents-SDK
 
 ## Local Vault File
 
-Path: [alirazapoonja-openaiagents-sdk.md](file:///../../ai/agents/alirazapoonja-openaiagents-sdk.md)
+Path: [alirazapoonja-openaiagents-sdk.md](../../ai/agents/alirazapoonja-openaiagents-sdk.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bedrock-marketplace
 
 ## Local Vault File
 
-Path: [hugging-face-models-in-amazon-bedrock.md](file:///../../ai/models/hugging-face-models-in-amazon-bedrock.md)
+Path: [hugging-face-models-in-amazon-bedrock.md](../../ai/models/hugging-face-models-in-amazon-bedrock.md)

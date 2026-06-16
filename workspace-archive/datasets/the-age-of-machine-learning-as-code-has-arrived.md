@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-age-of-ml-as-code
 
 ## Local Vault File
 
-Path: [the-age-of-machine-learning-as-code-has-arrived.md](file:///../../ai/models/the-age-of-machine-learning-as-code-has-arrived.md)
+Path: [the-age-of-machine-learning-as-code-has-arrived.md](../../ai/models/the-age-of-machine-learning-as-code-has-arrived.md)

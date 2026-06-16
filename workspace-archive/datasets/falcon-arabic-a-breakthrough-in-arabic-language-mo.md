@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/falcon-arabic
 
 ## Local Vault File
 
-Path: [falcon-arabic-a-breakthrough-in-arabic-language-mo.md](file:///../../ai/models/falcon-arabic-a-breakthrough-in-arabic-language-mo.md)
+Path: [falcon-arabic-a-breakthrough-in-arabic-language-mo.md](../../ai/models/falcon-arabic-a-breakthrough-in-arabic-language-mo.md)

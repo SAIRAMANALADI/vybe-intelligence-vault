@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-patronus
 
 ## Local Vault File
 
-Path: [introducing-the-enterprise-scenarios-leaderboard-a.md](file:///../../ai/models/introducing-the-enterprise-scenarios-leaderboard-a.md)
+Path: [introducing-the-enterprise-scenarios-leaderboard-a.md](../../ai/models/introducing-the-enterprise-scenarios-leaderboard-a.md)

@@ -47,4 +47,4 @@ Original source URL: https://analysistabs.com/templates/project-status-report
 
 ## Local Vault File
 
-Path: [free-project-status-report-template-weekly-monthly.md](file:///../../ai/rag/free-project-status-report-template-weekly-monthly.md)
+Path: [free-project-status-report-template-weekly-monthly.md](../../ai/rag/free-project-status-report-template-weekly-monthly.md)

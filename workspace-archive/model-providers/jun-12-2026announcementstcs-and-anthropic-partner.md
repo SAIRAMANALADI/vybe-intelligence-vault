@@ -47,4 +47,4 @@ Original source URL: https://anthropic.com/news/tcs-anthropic-partnership
 
 ## Local Vault File
 
-Path: [jun-12-2026announcementstcs-and-anthropic-partner.md](file:///../../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
+Path: [jun-12-2026announcementstcs-and-anthropic-partner.md](../../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)

@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/hcompany/holo1
 
 ## Local Vault File
 
-Path: [holo1-new-family-of-gui-automation-vlms-powering-g.md](file:///../../ai/agents/holo1-new-family-of-gui-automation-vlms-powering-g.md)
+Path: [holo1-new-family-of-gui-automation-vlms-powering-g.md](../../ai/agents/holo1-new-family-of-gui-automation-vlms-powering-g.md)

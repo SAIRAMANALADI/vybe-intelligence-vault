@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1
 
 ## Local Vault File
 
-Path: [introducing-waypoint-1-real-time-interactive-video.md](file:///../../ai/models/introducing-waypoint-1-real-time-interactive-video.md)
+Path: [introducing-waypoint-1-real-time-interactive-video.md](../../ai/models/introducing-waypoint-1-real-time-interactive-video.md)

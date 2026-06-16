@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-4
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-4-bias-in-text-to-im.md](file:///../../ai/models/ethics-and-society-newsletter-4-bias-in-text-to-im.md)
+Path: [ethics-and-society-newsletter-4-bias-in-text-to-im.md](../../ai/models/ethics-and-society-newsletter-4-bias-in-text-to-im.md)

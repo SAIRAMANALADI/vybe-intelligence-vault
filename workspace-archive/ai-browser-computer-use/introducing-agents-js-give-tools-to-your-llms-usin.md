@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents-js
 
 ## Local Vault File
 
-Path: [introducing-agents-js-give-tools-to-your-llms-usin.md](file:///../../ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)
+Path: [introducing-agents-js-give-tools-to-your-llms-usin.md](../../ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)

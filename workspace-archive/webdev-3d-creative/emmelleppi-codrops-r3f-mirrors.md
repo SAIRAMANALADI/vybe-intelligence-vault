@@ -45,4 +45,4 @@ Original source URL: https://github.com/emmelleppi/codrops-r3f-mirrors
 
 ## Local Vault File
 
-Path: [emmelleppi-codrops-r3f-mirrors.md](file:///../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md)
+Path: [emmelleppi-codrops-r3f-mirrors.md](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md)

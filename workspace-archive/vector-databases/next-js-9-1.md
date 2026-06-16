@@ -43,4 +43,4 @@ Original source URL: https://nextjs.org/blog/next-9-1
 
 ## Local Vault File
 
-Path: [next-js-9-1.md](file:///../../ai/rag/next-js-9-1.md)
+Path: [next-js-9-1.md](../../ai/rag/next-js-9-1.md)

@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/openai-privacy-filter-web-apps
 
 ## Local Vault File
 
-Path: [how-to-build-scalable-web-apps-with-openai-s-priva.md](file:///../../ai/models/how-to-build-scalable-web-apps-with-openai-s-priva.md)
+Path: [how-to-build-scalable-web-apps-with-openai-s-priva.md](../../ai/models/how-to-build-scalable-web-apps-with-openai-s-priva.md)

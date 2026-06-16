@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/unsloth-trl
 
 ## Local Vault File
 
-Path: [make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md](file:///../../ai/models/make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md)
+Path: [make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md](../../ai/models/make-llm-fine-tuning-2x-faster-with-unsloth-and-tr.md)

@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/blog
 
 ## Local Vault File
 
-Path: [microsoft-research-blog.md](file:///../../ai/companies/microsoft-research-blog.md)
+Path: [microsoft-research-blog.md](../../ai/companies/microsoft-research-blog.md)

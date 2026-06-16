@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starcoder
 
 ## Local Vault File
 
-Path: [starcoder-a-state-of-the-art-llm-for-code.md](file:///../../ai/models/starcoder-a-state-of-the-art-llm-for-code.md)
+Path: [starcoder-a-state-of-the-art-llm-for-code.md](../../ai/models/starcoder-a-state-of-the-art-llm-for-code.md)

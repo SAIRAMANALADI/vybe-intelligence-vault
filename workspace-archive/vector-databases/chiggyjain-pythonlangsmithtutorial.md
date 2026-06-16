@@ -46,4 +46,4 @@ Original source URL: https://github.com/ChiggyJain/PythonLangSmithTutorial
 
 ## Local Vault File
 
-Path: [chiggyjain-pythonlangsmithtutorial.md](file:///../../ai/rag/chiggyjain-pythonlangsmithtutorial.md)
+Path: [chiggyjain-pythonlangsmithtutorial.md](../../ai/rag/chiggyjain-pythonlangsmithtutorial.md)

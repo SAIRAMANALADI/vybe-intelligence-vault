@@ -45,4 +45,4 @@ Original source URL: https://github.com/jlbadano/ig-mcp
 
 ## Local Vault File
 
-Path: [jlbadano-ig-mcp.md](file:///../../ai/resources/jlbadano-ig-mcp.md)
+Path: [jlbadano-ig-mcp.md](../../ai/resources/jlbadano-ig-mcp.md)

@@ -51,4 +51,4 @@ Original source URL: https://dev.to/richard_dillon_b9c238186e/langgraph-20-the-d
 
 ## Local Vault File
 
-Path: [langgraph-2-0-the-definitive-guide-to-building-pro.md](file:///../../ai/rag/langgraph-2-0-the-definitive-guide-to-building-pro.md)
+Path: [langgraph-2-0-the-definitive-guide-to-building-pro.md](../../ai/rag/langgraph-2-0-the-definitive-guide-to-building-pro.md)

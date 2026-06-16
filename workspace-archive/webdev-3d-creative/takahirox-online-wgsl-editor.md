@@ -44,4 +44,4 @@ Original source URL: https://github.com/takahirox/online-wgsl-editor
 
 ## Local Vault File
 
-Path: [takahirox-online-wgsl-editor.md](file:///../../web-development/webgpu/takahirox-online-wgsl-editor.md)
+Path: [takahirox-online-wgsl-editor.md](../../web-development/webgpu/takahirox-online-wgsl-editor.md)

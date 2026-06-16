@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/introducing-doi
 
 ## Local Vault File
 
-Path: [introducing-doi-the-digital-object-identifier-to-d.md](file:///../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)
+Path: [introducing-doi-the-digital-object-identifier-to-d.md](../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)

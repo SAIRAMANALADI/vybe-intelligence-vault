@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virtual-cell-challenge
 
 ## Local Vault File
 
-Path: [arc-virtual-cell-challenge-a-primer.md](file:///../../ai/models/arc-virtual-cell-challenge-a-primer.md)
+Path: [arc-virtual-cell-challenge-a-primer.md](../../ai/models/arc-virtual-cell-challenge-a-primer.md)

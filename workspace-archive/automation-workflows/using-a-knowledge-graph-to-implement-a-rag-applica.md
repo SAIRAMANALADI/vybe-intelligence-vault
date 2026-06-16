@@ -53,4 +53,4 @@ Original source URL: https://neo4j.com/blog/developer/rag-tutorial
 
 ## Local Vault File
 
-Path: [using-a-knowledge-graph-to-implement-a-rag-applica.md](file:///../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)
+Path: [using-a-knowledge-graph-to-implement-a-rag-applica.md](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)

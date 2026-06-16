@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-4-vision
 
 ## Local Vault File
 
-Path: [granite-4-0-3b-vision-compact-multimodal-intellige.md](file:///../../ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md)
+Path: [granite-4-0-3b-vision-compact-multimodal-intellige.md](../../ai/models/granite-4-0-3b-vision-compact-multimodal-intellige.md)

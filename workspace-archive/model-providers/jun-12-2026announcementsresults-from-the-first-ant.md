@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/anthropic-public-record
 
 ## Local Vault File
 
-Path: [jun-12-2026announcementsresults-from-the-first-ant.md](file:///../../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
+Path: [jun-12-2026announcementsresults-from-the-first-ant.md](../../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)

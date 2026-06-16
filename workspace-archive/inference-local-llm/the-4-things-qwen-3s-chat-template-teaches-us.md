@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/qwen-3-chat-template-deep-dive
 
 ## Local Vault File
 
-Path: [the-4-things-qwen-3s-chat-template-teaches-us.md](file:///../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)
+Path: [the-4-things-qwen-3s-chat-template-teaches-us.md](../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)

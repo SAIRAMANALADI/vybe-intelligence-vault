@@ -42,4 +42,4 @@ Original source URL: https://nextjs.org/blog/composable-caching
 
 ## Local Vault File
 
-Path: [composable-caching-with-next-js.md](file:///../../web-development/nextjs/composable-caching-with-next-js.md)
+Path: [composable-caching-with-next-js.md](../../web-development/nextjs/composable-caching-with-next-js.md)

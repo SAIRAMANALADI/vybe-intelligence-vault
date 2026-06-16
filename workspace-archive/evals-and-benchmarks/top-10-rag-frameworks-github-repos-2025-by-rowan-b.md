@@ -52,4 +52,4 @@ Original source URL: https://rowanblackwoon.medium.com/top-10-rag-frameworks-git
 
 ## Local Vault File
 
-Path: [top-10-rag-frameworks-github-repos-2025-by-rowan-b.md](file:///../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
+Path: [top-10-rag-frameworks-github-repos-2025-by-rowan-b.md](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)

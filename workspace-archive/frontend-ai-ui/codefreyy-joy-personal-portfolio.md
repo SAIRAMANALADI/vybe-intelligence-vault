@@ -46,4 +46,4 @@ Original source URL: https://github.com/codefreyy/joy-personal-portfolio
 
 ## Local Vault File
 
-Path: [codefreyy-joy-personal-portfolio.md](file:///../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md)
+Path: [codefreyy-joy-personal-portfolio.md](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md)

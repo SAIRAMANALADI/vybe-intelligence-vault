@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/xlscout-case-study
 
 ## Local Vault File
 
-Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding.md](file:///../../ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md)
+Path: [xlscout-unveils-paraembed-2-0-a-powerful-embedding.md](../../ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md)

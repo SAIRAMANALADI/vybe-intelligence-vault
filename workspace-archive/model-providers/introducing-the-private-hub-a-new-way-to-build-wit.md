@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-private-hub
 
 ## Local Vault File
 
-Path: [introducing-the-private-hub-a-new-way-to-build-wit.md](file:///../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)
+Path: [introducing-the-private-hub-a-new-way-to-build-wit.md](../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)

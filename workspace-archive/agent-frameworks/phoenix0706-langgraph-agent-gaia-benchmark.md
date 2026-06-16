@@ -47,4 +47,4 @@ Original source URL: https://github.com/phoenix0706/langgraph-agent-gaia-benchma
 
 ## Local Vault File
 
-Path: [phoenix0706-langgraph-agent-gaia-benchmark.md](file:///../../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md)
+Path: [phoenix0706-langgraph-agent-gaia-benchmark.md](../../ai/agents/phoenix0706-langgraph-agent-gaia-benchmark.md)

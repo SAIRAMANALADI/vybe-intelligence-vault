@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/instruction-tuning-sd
 
 ## Local Vault File
 
-Path: [instruction-tuning-stable-diffusion-with-instructp.md](file:///../../ai/models/instruction-tuning-stable-diffusion-with-instructp.md)
+Path: [instruction-tuning-stable-diffusion-with-instructp.md](../../ai/models/instruction-tuning-stable-diffusion-with-instructp.md)

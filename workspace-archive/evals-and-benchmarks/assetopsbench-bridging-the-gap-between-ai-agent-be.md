@@ -46,4 +46,4 @@ Original source URL: https://huggingface.co/blog/ibm-research/assetopsbench-play
 
 ## Local Vault File
 
-Path: [assetopsbench-bridging-the-gap-between-ai-agent-be.md](file:///../../ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md)
+Path: [assetopsbench-bridging-the-gap-between-ai-agent-be.md](../../ai/agents/assetopsbench-bridging-the-gap-between-ai-agent-be.md)

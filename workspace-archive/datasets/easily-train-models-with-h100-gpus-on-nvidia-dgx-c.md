@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-dgx-cloud
 
 ## Local Vault File
 
-Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md](file:///../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)
+Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md](../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)

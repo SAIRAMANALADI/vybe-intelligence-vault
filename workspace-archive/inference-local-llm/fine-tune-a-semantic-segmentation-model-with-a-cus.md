@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-segformer
 
 ## Local Vault File
 
-Path: [fine-tune-a-semantic-segmentation-model-with-a-cus.md](file:///../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)
+Path: [fine-tune-a-semantic-segmentation-model-with-a-cus.md](../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)

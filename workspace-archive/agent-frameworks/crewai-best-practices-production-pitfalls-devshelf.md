@@ -50,4 +50,4 @@ Original source URL: https://www.devshelfhub.com/tutorials/crewai/best-practices
 
 ## Local Vault File
 
-Path: [crewai-best-practices-production-pitfalls-devshelf.md](file:///../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md)
+Path: [crewai-best-practices-production-pitfalls-devshelf.md](../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md)

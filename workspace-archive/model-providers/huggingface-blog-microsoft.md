@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/microsoft
 
 ## Local Vault File
 
-Path: [huggingface-blog-microsoft.md](file:///../../ai/models/huggingface-blog-microsoft.md)
+Path: [huggingface-blog-microsoft.md](../../ai/models/huggingface-blog-microsoft.md)

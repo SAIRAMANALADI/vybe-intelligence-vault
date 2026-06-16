@@ -45,4 +45,4 @@ Original source URL: https://github.com/gkjohnson/threejs-sandbox
 
 ## Local Vault File
 
-Path: [gkjohnson-threejs-sandbox.md](file:///../../web-development/threejs/gkjohnson-threejs-sandbox.md)
+Path: [gkjohnson-threejs-sandbox.md](../../web-development/threejs/gkjohnson-threejs-sandbox.md)

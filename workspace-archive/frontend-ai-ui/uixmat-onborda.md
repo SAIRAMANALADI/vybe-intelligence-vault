@@ -45,4 +45,4 @@ Original source URL: https://github.com/uixmat/onborda
 
 ## Local Vault File
 
-Path: [uixmat-onborda.md](file:///../../web-development/framer-motion/uixmat-onborda.md)
+Path: [uixmat-onborda.md](../../web-development/framer-motion/uixmat-onborda.md)

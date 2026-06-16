@@ -53,4 +53,4 @@ Original source URL: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-sys
 
 ## Local Vault File
 
-Path: [7-steps-to-build-a-simple-rag-system-from-scratch.md](file:///../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
+Path: [7-steps-to-build-a-simple-rag-system-from-scratch.md](../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)

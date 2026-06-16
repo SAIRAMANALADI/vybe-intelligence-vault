@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 217 resources matched in the intelligence vault.
 Recently detected signals:
-- [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Import AI 445: Timing superintelligence; AIs solve frontier math proofs; a new ML research benchmark](../ai/agents/import-ai-445-timing-superintelligence-ais-solve-f.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Import AI 446: Nuclear LLMs; China's big AI benchmark; measurement and AI policy](../ai/rag/import-ai-446-nuclear-llms-china-s-big-ai-benchmar.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Import AI 448: AI R&D; Bytedance's CUDA-writing agent; on-device satellite AI](../ai/agents/import-ai-448-ai-r-d-bytedance-s-cuda-writing-agen.md) (Source: Unknown Source) - Collected 2026-06-16
 - [ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text](../ai/rag/importai-449-llms-training-other-llms-72b-distribu.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4](../ai/rag/import-ai-454-automating-alignment-research-safety.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T17:33:07.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

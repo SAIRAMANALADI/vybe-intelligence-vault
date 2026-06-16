@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora
 
 ## Local Vault File
 
-Path: [using-lora-for-efficient-stable-diffusion-fine-tun.md](file:///../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)
+Path: [using-lora-for-efficient-stable-diffusion-fine-tun.md](../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)

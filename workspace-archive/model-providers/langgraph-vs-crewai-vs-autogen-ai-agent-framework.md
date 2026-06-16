@@ -53,4 +53,4 @@ Original source URL: https://www.meta-intelligence.tech/en/insight-ai-agent-fram
 
 ## Local Vault File
 
-Path: [langgraph-vs-crewai-vs-autogen-ai-agent-framework.md](file:///../../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
+Path: [langgraph-vs-crewai-vs-autogen-ai-agent-framework.md](../../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)

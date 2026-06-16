@@ -45,4 +45,4 @@ Original source URL: https://github.com/github/github-mcp-server
 
 ## Local Vault File
 
-Path: [github-github-mcp-server.md](file:///../../ai/resources/github-github-mcp-server.md)
+Path: [github-github-mcp-server.md](../../ai/resources/github-github-mcp-server.md)

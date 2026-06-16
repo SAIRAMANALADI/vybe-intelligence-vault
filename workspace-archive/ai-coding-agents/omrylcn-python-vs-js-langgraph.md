@@ -47,4 +47,4 @@ Original source URL: https://github.com/omrylcn/python-vs-js-langgraph
 
 ## Local Vault File
 
-Path: [omrylcn-python-vs-js-langgraph.md](file:///../../ai/agents/omrylcn-python-vs-js-langgraph.md)
+Path: [omrylcn-python-vs-js-langgraph.md](../../ai/agents/omrylcn-python-vs-js-langgraph.md)

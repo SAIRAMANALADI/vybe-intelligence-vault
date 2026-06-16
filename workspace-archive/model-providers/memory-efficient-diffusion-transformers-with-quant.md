@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/quanto-diffusers
 
 ## Local Vault File
 
-Path: [memory-efficient-diffusion-transformers-with-quant.md](file:///../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)
+Path: [memory-efficient-diffusion-transformers-with-quant.md](../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)

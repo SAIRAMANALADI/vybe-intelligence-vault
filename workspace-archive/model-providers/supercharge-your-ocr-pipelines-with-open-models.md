@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ocr-open-models
 
 ## Local Vault File
 
-Path: [supercharge-your-ocr-pipelines-with-open-models.md](file:///../../ai/models/supercharge-your-ocr-pipelines-with-open-models.md)
+Path: [supercharge-your-ocr-pipelines-with-open-models.md](../../ai/models/supercharge-your-ocr-pipelines-with-open-models.md)

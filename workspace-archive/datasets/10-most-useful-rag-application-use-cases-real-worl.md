@@ -53,4 +53,4 @@ Original source URL: https://botpenguin.com/blogs/most-useful-rag-application-an
 
 ## Local Vault File
 
-Path: [10-most-useful-rag-application-use-cases-real-worl.md](file:///../../ai/rag/10-most-useful-rag-application-use-cases-real-worl.md)
+Path: [10-most-useful-rag-application-use-cases-real-worl.md](../../ai/rag/10-most-useful-rag-application-use-cases-real-worl.md)

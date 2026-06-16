@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trufflesecurity-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-partners-with-trufflehog-to-scan-for.md](file:///../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)
+Path: [hugging-face-partners-with-trufflehog-to-scan-for.md](../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-your-controlnet
 
 ## Local Vault File
 
-Path: [train-your-controlnet-with-diffusers.md](file:///../../ai/models/train-your-controlnet-with-diffusers.md)
+Path: [train-your-controlnet-with-diffusers.md](../../ai/models/train-your-controlnet-with-diffusers.md)

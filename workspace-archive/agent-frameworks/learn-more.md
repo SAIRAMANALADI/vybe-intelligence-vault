@@ -48,4 +48,4 @@ Original source URL: https://deepmind.google/blog/investing-in-multi-agent-ai-sa
 
 ## Local Vault File
 
-Path: [learn-more.md](file:///../../ai/companies/deepmind/learn-more.md)
+Path: [learn-more.md](../../ai/companies/deepmind/learn-more.md)

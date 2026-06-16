@@ -44,4 +44,4 @@ Original source URL: https://github.com/luosijie/threejs-examples
 
 ## Local Vault File
 
-Path: [luosijie-threejs-examples.md](file:///../../web-development/threejs/luosijie-threejs-examples.md)
+Path: [luosijie-threejs-examples.md](../../web-development/threejs/luosijie-threejs-examples.md)

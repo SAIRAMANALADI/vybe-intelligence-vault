@@ -47,4 +47,4 @@ Original source URL: https://github.com/agruai/ai-book-writer
 
 ## Local Vault File
 
-Path: [agruai-ai-book-writer.md](file:///../../ai/agents/agruai-ai-book-writer.md)
+Path: [agruai-ai-book-writer.md](../../ai/agents/agruai-ai-book-writer.md)

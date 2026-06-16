@@ -46,4 +46,4 @@ Original source URL: https://anthropic.com/news/claude-fable-5-mythos-5
 
 ## Local Vault File
 
-Path: [jun-9-2026announcementsclaude-fable-5-and-claude-m.md](file:///../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
+Path: [jun-9-2026announcementsclaude-fable-5-and-claude-m.md](../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)

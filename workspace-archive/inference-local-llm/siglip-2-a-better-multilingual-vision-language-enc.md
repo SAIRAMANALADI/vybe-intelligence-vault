@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/siglip2
 
 ## Local Vault File
 
-Path: [siglip-2-a-better-multilingual-vision-language-enc.md](file:///../../ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)
+Path: [siglip-2-a-better-multilingual-vision-language-enc.md](../../ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)

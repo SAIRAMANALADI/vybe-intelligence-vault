@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [welcome-fastai-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-fastai-to-the-hugging-face-hub.md)
+Path: [welcome-fastai-to-the-hugging-face-hub.md](../../ai/models/welcome-fastai-to-the-hugging-face-hub.md)

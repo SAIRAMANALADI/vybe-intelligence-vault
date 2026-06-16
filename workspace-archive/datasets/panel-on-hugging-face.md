@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/panel-on-hugging-face
 
 ## Local Vault File
 
-Path: [panel-on-hugging-face.md](file:///../../ai/models/panel-on-hugging-face.md)
+Path: [panel-on-hugging-face.md](../../ai/models/panel-on-hugging-face.md)

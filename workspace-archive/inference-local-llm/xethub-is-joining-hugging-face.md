@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xethub-joins-hf
 
 ## Local Vault File
 
-Path: [xethub-is-joining-hugging-face.md](file:///../../ai/models/xethub-is-joining-hugging-face.md)
+Path: [xethub-is-joining-hugging-face.md](../../ai/models/xethub-is-joining-hugging-face.md)

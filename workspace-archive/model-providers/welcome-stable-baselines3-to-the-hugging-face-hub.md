@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sb3
 
 ## Local Vault File
 
-Path: [welcome-stable-baselines3-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)
+Path: [welcome-stable-baselines3-to-the-hugging-face-hub.md](../../ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/itsderek23/awesome-eval-driven-developme
 
 ## Local Vault File
 
-Path: [itsderek23-awesome-eval-driven-development.md](file:///../../ai/resources/itsderek23-awesome-eval-driven-development.md)
+Path: [itsderek23-awesome-eval-driven-development.md](../../ai/resources/itsderek23-awesome-eval-driven-development.md)

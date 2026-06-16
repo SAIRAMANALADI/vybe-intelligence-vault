@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amd_pervasive_developer_ai_cont
 
 ## Local Vault File
 
-Path: [amd-pervasive-ai-developer-contest.md](file:///../../ai/models/amd-pervasive-ai-developer-contest.md)
+Path: [amd-pervasive-ai-developer-contest.md](../../ai/models/amd-pervasive-ai-developer-contest.md)

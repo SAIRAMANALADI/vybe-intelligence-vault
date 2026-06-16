@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-embedding
 
 ## Local Vault File
 
-Path: [introducing-the-hugging-face-embedding-container-f.md](file:///../../ai/models/introducing-the-hugging-face-embedding-container-f.md)
+Path: [introducing-the-hugging-face-embedding-container-f.md](../../ai/models/introducing-the-hugging-face-embedding-container-f.md)

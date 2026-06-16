@@ -49,4 +49,4 @@ Original source URL: https://www.techno-pm.com/blogs/project-dashboard/rag-statu
 
 ## Local Vault File
 
-Path: [rag-status-template-excel-free-download-techno-pm.md](file:///../../ai/rag/rag-status-template-excel-free-download-techno-pm.md)
+Path: [rag-status-template-excel-free-download-techno-pm.md](../../ai/rag/rag-status-template-excel-free-download-techno-pm.md)

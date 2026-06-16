@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-vit
 
 ## Local Vault File
 
-Path: [fine-tune-vit-for-image-classification-with-transf.md](file:///../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)
+Path: [fine-tune-vit-for-image-classification-with-transf.md](../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)

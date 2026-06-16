@@ -45,4 +45,4 @@ Original source URL: https://github.com/tavily-ai/tavily-mcp
 
 ## Local Vault File
 
-Path: [tavily-ai-tavily-mcp.md](file:///../../ai/resources/tavily-ai-tavily-mcp.md)
+Path: [tavily-ai-tavily-mcp.md](../../ai/resources/tavily-ai-tavily-mcp.md)

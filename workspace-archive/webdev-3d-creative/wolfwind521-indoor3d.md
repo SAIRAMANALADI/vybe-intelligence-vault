@@ -44,4 +44,4 @@ Original source URL: https://github.com/wolfwind521/indoor3d
 
 ## Local Vault File
 
-Path: [wolfwind521-indoor3d.md](file:///../../web-development/threejs/wolfwind521-indoor3d.md)
+Path: [wolfwind521-indoor3d.md](../../web-development/threejs/wolfwind521-indoor3d.md)

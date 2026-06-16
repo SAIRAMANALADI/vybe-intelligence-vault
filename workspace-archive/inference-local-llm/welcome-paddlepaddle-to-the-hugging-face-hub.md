@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [welcome-paddlepaddle-to-the-hugging-face-hub.md](file:///../../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md)
+Path: [welcome-paddlepaddle-to-the-hugging-face-hub.md](../../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md)

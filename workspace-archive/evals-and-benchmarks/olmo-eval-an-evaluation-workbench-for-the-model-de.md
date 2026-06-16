@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/allenai/olmo-eval
 
 ## Local Vault File
 
-Path: [olmo-eval-an-evaluation-workbench-for-the-model-de.md](file:///../../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md)
+Path: [olmo-eval-an-evaluation-workbench-for-the-model-de.md](../../ai/models/olmo-eval-an-evaluation-workbench-for-the-model-de.md)

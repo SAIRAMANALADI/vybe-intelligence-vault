@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hf-bitsandbytes-integration
 
 ## Local Vault File
 
-Path: [a-gentle-introduction-to-8-bit-matrix-multiplicati.md](file:///../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)
+Path: [a-gentle-introduction-to-8-bit-matrix-multiplicati.md](../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-chrome-extension
 
 ## Local Vault File
 
-Path: [how-to-use-transformers-js-in-a-chrome-extension.md](file:///../../ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)
+Path: [how-to-use-transformers-js-in-a-chrome-extension.md](../../ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)

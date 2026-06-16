@@ -45,4 +45,4 @@ Original source URL: https://github.com/girijesh-ai/ai-interview-codex
 
 ## Local Vault File
 
-Path: [girijesh-ai-ai-interview-codex.md](file:///../../ai/rag/girijesh-ai-ai-interview-codex.md)
+Path: [girijesh-ai-ai-interview-codex.md](../../ai/rag/girijesh-ai-ai-interview-codex.md)

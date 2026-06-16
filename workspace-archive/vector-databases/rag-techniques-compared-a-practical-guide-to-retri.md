@@ -52,4 +52,4 @@ Original source URL: https://blog.starmorph.com/blog/rag-techniques-compared-bes
 
 ## Local Vault File
 
-Path: [rag-techniques-compared-a-practical-guide-to-retri.md](file:///../../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)
+Path: [rag-techniques-compared-a-practical-guide-to-retri.md](../../ai/rag/rag-techniques-compared-a-practical-guide-to-retri.md)

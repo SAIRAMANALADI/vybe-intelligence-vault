@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/graphics
 
 ## Local Vault File
 
-Path: [graphics-multimedia.md](file:///../../ai/companies/graphics-multimedia.md)
+Path: [graphics-multimedia.md](../../ai/companies/graphics-multimedia.md)

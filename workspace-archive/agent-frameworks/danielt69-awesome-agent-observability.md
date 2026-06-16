@@ -45,4 +45,4 @@ Original source URL: https://github.com/danielt69/awesome-agent-observability
 
 ## Local Vault File
 
-Path: [danielt69-awesome-agent-observability.md](file:///../../ai/agents/danielt69-awesome-agent-observability.md)
+Path: [danielt69-awesome-agent-observability.md](../../ai/agents/danielt69-awesome-agent-observability.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/kv-cache-quantization
 
 ## Local Vault File
 
-Path: [unlocking-longer-generation-with-key-value-cache-q.md](file:///../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)
+Path: [unlocking-longer-generation-with-key-value-cache-q.md](../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)

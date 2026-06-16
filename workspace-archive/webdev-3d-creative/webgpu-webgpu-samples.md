@@ -44,4 +44,4 @@ Original source URL: https://github.com/webgpu/webgpu-samples
 
 ## Local Vault File
 
-Path: [webgpu-webgpu-samples.md](file:///../../web-development/webgpu/webgpu-webgpu-samples.md)
+Path: [webgpu-webgpu-samples.md](../../web-development/webgpu/webgpu-webgpu-samples.md)

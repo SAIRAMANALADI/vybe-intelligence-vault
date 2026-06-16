@@ -46,4 +46,4 @@ Original source URL: https://openai.com/news/ai-adoption
 
 ## Local Vault File
 
-Path: [ai-adoption.md](file:///../../ai/companies/openai/ai-adoption.md)
+Path: [ai-adoption.md](../../ai/companies/openai/ai-adoption.md)

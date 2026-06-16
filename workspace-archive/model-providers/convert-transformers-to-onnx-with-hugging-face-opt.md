@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/convert-transformers-to-onnx
 
 ## Local Vault File
 
-Path: [convert-transformers-to-onnx-with-hugging-face-opt.md](file:///../../ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)
+Path: [convert-transformers-to-onnx-with-hugging-face-opt.md](../../ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)

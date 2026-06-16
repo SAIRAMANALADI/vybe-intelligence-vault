@@ -44,4 +44,4 @@ Original source URL: https://github.com/mkkellogg/gaussiansplats3d
 
 ## Local Vault File
 
-Path: [mkkellogg-gaussiansplats3d.md](file:///../../web-development/threejs/mkkellogg-gaussiansplats3d.md)
+Path: [mkkellogg-gaussiansplats3d.md](../../web-development/threejs/mkkellogg-gaussiansplats3d.md)

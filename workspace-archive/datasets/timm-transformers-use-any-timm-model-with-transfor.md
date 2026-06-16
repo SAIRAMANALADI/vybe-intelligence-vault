@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/timm-transformers
 
 ## Local Vault File
 
-Path: [timm-transformers-use-any-timm-model-with-transfor.md](file:///../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)
+Path: [timm-transformers-use-any-timm-model-with-transfor.md](../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)

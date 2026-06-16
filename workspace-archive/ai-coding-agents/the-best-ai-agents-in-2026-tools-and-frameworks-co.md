@@ -43,4 +43,4 @@ Original source URL: https://www.datacamp.com/blog/best-ai-agents
 
 ## Local Vault File
 
-Path: [the-best-ai-agents-in-2026-tools-and-frameworks-co.md](file:///../../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-co.md)
+Path: [the-best-ai-agents-in-2026-tools-and-frameworks-co.md](../../ai/agents/the-best-ai-agents-in-2026-tools-and-frameworks-co.md)

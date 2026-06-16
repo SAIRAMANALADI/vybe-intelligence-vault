@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-transformers
 
 ## Local Vault File
 
-Path: [swift-transformers-reaches-1-0-and-looks-to-the-fu.md](file:///../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)
+Path: [swift-transformers-reaches-1-0-and-looks-to-the-fu.md](../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)

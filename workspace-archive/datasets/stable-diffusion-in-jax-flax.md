@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion_jax
 
 ## Local Vault File
 
-Path: [stable-diffusion-in-jax-flax.md](file:///../../ai/models/stable-diffusion-in-jax-flax.md)
+Path: [stable-diffusion-in-jax-flax.md](../../ai/models/stable-diffusion-in-jax-flax.md)

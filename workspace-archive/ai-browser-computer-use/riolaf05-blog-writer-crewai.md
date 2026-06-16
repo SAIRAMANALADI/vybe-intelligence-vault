@@ -46,4 +46,4 @@ Original source URL: https://github.com/riolaf05/blog-writer-crewai
 
 ## Local Vault File
 
-Path: [riolaf05-blog-writer-crewai.md](file:///../../ai/agents/riolaf05-blog-writer-crewai.md)
+Path: [riolaf05-blog-writer-crewai.md](../../ai/agents/riolaf05-blog-writer-crewai.md)

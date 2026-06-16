@@ -54,4 +54,4 @@ Original source URL: https://nerdleveltech.com/guides/rag-systems
 
 ## Local Vault File
 
-Path: [the-complete-guide-to-rag-building-retrieval-augme.md](file:///../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
+Path: [the-complete-guide-to-rag-building-retrieval-augme.md](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)

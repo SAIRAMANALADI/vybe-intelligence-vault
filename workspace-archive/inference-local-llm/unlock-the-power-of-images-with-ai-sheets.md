@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aisheets-unlock-images
 
 ## Local Vault File
 
-Path: [unlock-the-power-of-images-with-ai-sheets.md](file:///../../ai/models/unlock-the-power-of-images-with-ai-sheets.md)
+Path: [unlock-the-power-of-images-with-ai-sheets.md](../../ai/models/unlock-the-power-of-images-with-ai-sheets.md)

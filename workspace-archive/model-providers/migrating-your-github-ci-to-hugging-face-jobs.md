@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [migrating-your-github-ci-to-hugging-face-jobs.md](file:///../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)
+Path: [migrating-your-github-ci-to-hugging-face-jobs.md](../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)

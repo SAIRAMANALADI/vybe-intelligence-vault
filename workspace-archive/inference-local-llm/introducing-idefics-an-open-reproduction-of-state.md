@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/idefics
 
 ## Local Vault File
 
-Path: [introducing-idefics-an-open-reproduction-of-state.md](file:///../../ai/models/introducing-idefics-an-open-reproduction-of-state.md)
+Path: [introducing-idefics-an-open-reproduction-of-state.md](../../ai/models/introducing-idefics-an-open-reproduction-of-state.md)

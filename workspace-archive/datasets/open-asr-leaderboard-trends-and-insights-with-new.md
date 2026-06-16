@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/open-asr-leaderboard
 
 ## Local Vault File
 
-Path: [open-asr-leaderboard-trends-and-insights-with-new.md](file:///../../ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)
+Path: [open-asr-leaderboard-trends-and-insights-with-new.md](../../ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [bringing-the-artificial-analysis-llm-performance-l.md](file:///../../ai/models/bringing-the-artificial-analysis-llm-performance-l.md)
+Path: [bringing-the-artificial-analysis-llm-performance-l.md](../../ai/models/bringing-the-artificial-analysis-llm-performance-l.md)

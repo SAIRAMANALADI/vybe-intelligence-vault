@@ -45,4 +45,4 @@ Original source URL: https://www.alphabold.com/langgraph-agents-in-production
 
 ## Local Vault File
 
-Path: [langgraph-agents-in-production-architecture-costs.md](file:///../../ai/agents/langgraph-agents-in-production-architecture-costs.md)
+Path: [langgraph-agents-in-production-architecture-costs.md](../../ai/agents/langgraph-agents-in-production-architecture-costs.md)

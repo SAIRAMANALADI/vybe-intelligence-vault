@@ -47,4 +47,4 @@ Original source URL: https://github.com/openai/evals
 
 ## Local Vault File
 
-Path: [openai-evals.md](file:///../../ai/resources/openai-evals.md)
+Path: [openai-evals.md](../../ai/resources/openai-evals.md)

@@ -50,4 +50,4 @@ Original source URL: https://www.geeksforgeeks.org/data-science/building-a-rag-a
 
 ## Local Vault File
 
-Path: [building-a-rag-application-geeksforgeeks.md](file:///../../ai/rag/building-a-rag-application-geeksforgeeks.md)
+Path: [building-a-rag-application-geeksforgeeks.md](../../ai/rag/building-a-rag-application-geeksforgeeks.md)

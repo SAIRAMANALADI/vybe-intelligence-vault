@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/audio-datasets
 
 ## Local Vault File
 
-Path: [a-complete-guide-to-audio-datasets.md](file:///../../ai/models/a-complete-guide-to-audio-datasets.md)
+Path: [a-complete-guide-to-audio-datasets.md](../../ai/models/a-complete-guide-to-audio-datasets.md)

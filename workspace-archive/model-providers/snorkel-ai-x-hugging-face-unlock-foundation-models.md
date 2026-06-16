@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/snorkel-case-study
 
 ## Local Vault File
 
-Path: [snorkel-ai-x-hugging-face-unlock-foundation-models.md](file:///../../ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)
+Path: [snorkel-ai-x-hugging-face-unlock-foundation-models.md](../../ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)

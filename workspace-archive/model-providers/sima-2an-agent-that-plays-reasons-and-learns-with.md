@@ -46,4 +46,4 @@ Original source URL: https://deepmind.google/blog/sima-2-an-agent-that-plays-rea
 
 ## Local Vault File
 
-Path: [sima-2an-agent-that-plays-reasons-and-learns-with.md](file:///../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)
+Path: [sima-2an-agent-that-plays-reasons-and-learns-with.md](../../ai/companies/deepmind/sima-2an-agent-that-plays-reasons-and-learns-with.md)

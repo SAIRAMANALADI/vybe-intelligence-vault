@@ -49,4 +49,4 @@ Original source URL: https://github.com/NirDiamant/RAG_Techniques
 
 ## Local Vault File
 
-Path: [nirdiamant-rag-techniques.md](file:///../../ai/rag/nirdiamant-rag-techniques.md)
+Path: [nirdiamant-rag-techniques.md](../../ai/rag/nirdiamant-rag-techniques.md)

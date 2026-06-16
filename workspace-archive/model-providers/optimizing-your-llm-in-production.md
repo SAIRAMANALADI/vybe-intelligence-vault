@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimize-llm
 
 ## Local Vault File
 
-Path: [optimizing-your-llm-in-production.md](file:///../../ai/models/optimizing-your-llm-in-production.md)
+Path: [optimizing-your-llm-in-production.md](../../ai/models/optimizing-your-llm-in-production.md)

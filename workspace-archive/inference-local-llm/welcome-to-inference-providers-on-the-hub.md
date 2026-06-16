@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers
 
 ## Local Vault File
 
-Path: [welcome-to-inference-providers-on-the-hub.md](file:///../../ai/models/welcome-to-inference-providers-on-the-hub.md)
+Path: [welcome-to-inference-providers-on-the-hub.md](../../ai/models/welcome-to-inference-providers-on-the-hub.md)

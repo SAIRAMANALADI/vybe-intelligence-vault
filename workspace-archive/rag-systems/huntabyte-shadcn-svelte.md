@@ -44,4 +44,4 @@ Original source URL: https://github.com/huntabyte/shadcn-svelte
 
 ## Local Vault File
 
-Path: [huntabyte-shadcn-svelte.md](file:///../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md)
+Path: [huntabyte-shadcn-svelte.md](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md)

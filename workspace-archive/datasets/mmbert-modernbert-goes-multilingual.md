@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [mmbert-modernbert-goes-multilingual.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual.md)
+Path: [mmbert-modernbert-goes-multilingual.md](../../ai/models/mmbert-modernbert-goes-multilingual.md)

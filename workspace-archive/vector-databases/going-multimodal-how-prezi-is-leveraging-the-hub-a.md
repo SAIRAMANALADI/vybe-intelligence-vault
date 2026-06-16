@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/prezi-case-study
 
 ## Local Vault File
 
-Path: [going-multimodal-how-prezi-is-leveraging-the-hub-a.md](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)
+Path: [going-multimodal-how-prezi-is-leveraging-the-hub-a.md](../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)

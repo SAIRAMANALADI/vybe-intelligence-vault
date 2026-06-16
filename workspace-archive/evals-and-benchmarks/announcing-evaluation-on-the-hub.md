@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/eval-on-the-hub
 
 ## Local Vault File
 
-Path: [announcing-evaluation-on-the-hub.md](file:///../../ai/models/announcing-evaluation-on-the-hub.md)
+Path: [announcing-evaluation-on-the-hub.md](../../ai/models/announcing-evaluation-on-the-hub.md)

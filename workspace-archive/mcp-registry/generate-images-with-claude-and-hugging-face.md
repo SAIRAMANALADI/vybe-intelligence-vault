@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/claude-and-mcp
 
 ## Local Vault File
 
-Path: [generate-images-with-claude-and-hugging-face.md](file:///../../ai/models/generate-images-with-claude-and-hugging-face.md)
+Path: [generate-images-with-claude-and-hugging-face.md](../../ai/models/generate-images-with-claude-and-hugging-face.md)

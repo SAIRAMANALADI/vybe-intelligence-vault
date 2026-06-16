@@ -44,4 +44,4 @@ Original source URL: https://github.com/secureagentics/Adrian
 
 ## Local Vault File
 
-Path: [secureagentics-adrian.md](file:///../../ai/agents/secureagentics-adrian.md)
+Path: [secureagentics-adrian.md](../../ai/agents/secureagentics-adrian.md)

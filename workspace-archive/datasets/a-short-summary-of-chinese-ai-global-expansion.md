@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chinese-ai-expansion
 
 ## Local Vault File
 
-Path: [a-short-summary-of-chinese-ai-global-expansion.md](file:///../../ai/models/a-short-summary-of-chinese-ai-global-expansion.md)
+Path: [a-short-summary-of-chinese-ai-global-expansion.md](../../ai/models/a-short-summary-of-chinese-ai-global-expansion.md)

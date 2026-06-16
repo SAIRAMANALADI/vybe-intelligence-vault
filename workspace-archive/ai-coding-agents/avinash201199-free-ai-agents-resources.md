@@ -44,4 +44,4 @@ Original source URL: https://github.com/avinash201199/free-ai-agents-resources
 
 ## Local Vault File
 
-Path: [avinash201199-free-ai-agents-resources.md](file:///../../ai/agents/avinash201199-free-ai-agents-resources.md)
+Path: [avinash201199-free-ai-agents-resources.md](../../ai/agents/avinash201199-free-ai-agents-resources.md)

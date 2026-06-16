@@ -54,4 +54,4 @@ Original source URL: https://benchlm.ai/llm-agent-benchmarks
 
 ## Local Vault File
 
-Path: [llm-agent-tool-use-benchmarks-function-calling-mcp.md](file:///../../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp.md)
+Path: [llm-agent-tool-use-benchmarks-function-calling-mcp.md](../../ai/rag/llm-agent-tool-use-benchmarks-function-calling-mcp.md)

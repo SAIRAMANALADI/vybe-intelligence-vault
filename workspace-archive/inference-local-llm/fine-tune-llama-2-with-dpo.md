@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/dpo-trl
 
 ## Local Vault File
 
-Path: [fine-tune-llama-2-with-dpo.md](file:///../../ai/models/fine-tune-llama-2-with-dpo.md)
+Path: [fine-tune-llama-2-with-dpo.md](../../ai/models/fine-tune-llama-2-with-dpo.md)

@@ -45,4 +45,4 @@ Original source URL: https://medium.com/@amalhan43/build-rag-from-scratch-a-begi
 
 ## Local Vault File
 
-Path: [build-rag-from-scratch-a-beginners-step-by-step-gu.md](file:///../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)
+Path: [build-rag-from-scratch-a-beginners-step-by-step-gu.md](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md)

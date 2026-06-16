@@ -45,4 +45,4 @@ Original source URL: https://github.com/kkdai/linebot-openai-agent
 
 ## Local Vault File
 
-Path: [kkdai-linebot-openai-agent.md](file:///../../ai/agents/kkdai-linebot-openai-agent.md)
+Path: [kkdai-linebot-openai-agent.md](../../ai/agents/kkdai-linebot-openai-agent.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dell-enterprise-hub
 
 ## Local Vault File
 
-Path: [build-ai-on-premise-with-dell-enterprise-hub.md](file:///../../ai/models/build-ai-on-premise-with-dell-enterprise-hub.md)
+Path: [build-ai-on-premise-with-dell-enterprise-hub.md](../../ai/models/build-ai-on-premise-with-dell-enterprise-hub.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train_memory
 
 ## Local Vault File
 
-Path: [visualize-and-understand-gpu-memory-in-pytorch.md](file:///../../ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)
+Path: [visualize-and-understand-gpu-memory-in-pytorch.md](../../ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)

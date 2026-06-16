@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/object-detection-leaderboard
 
 ## Local Vault File
 
-Path: [object-detection-leaderboard.md](file:///../../ai/models/object-detection-leaderboard.md)
+Path: [object-detection-leaderboard.md](../../ai/models/object-detection-leaderboard.md)

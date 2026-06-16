@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama4-release
 
 ## Local Vault File
 
-Path: [welcome-llama-4-maverick-scout-on-hugging-face.md](file:///../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)
+Path: [welcome-llama-4-maverick-scout-on-hugging-face.md](../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)

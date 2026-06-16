@@ -50,4 +50,4 @@ Original source URL: https://lightrag.github.io
 
 ## Local Vault File
 
-Path: [lightrag.md](file:///../../ai/rag/lightrag.md)
+Path: [lightrag.md](../../ai/rag/lightrag.md)

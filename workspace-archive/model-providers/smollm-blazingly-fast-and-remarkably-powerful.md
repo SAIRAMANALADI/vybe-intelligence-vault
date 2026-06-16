@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [smollm-blazingly-fast-and-remarkably-powerful.md](file:///../../ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)
+Path: [smollm-blazingly-fast-and-remarkably-powerful.md](../../ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)

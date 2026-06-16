@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ServiceNow-AI/code-switching
 
 ## Local Vault File
 
-Path: [can-voice-agents-handle-bilingual-customers-benchm.md](file:///../../ai/agents/can-voice-agents-handle-bilingual-customers-benchm.md)
+Path: [can-voice-agents-handle-bilingual-customers-benchm.md](../../ai/agents/can-voice-agents-handle-bilingual-customers-benchm.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dharma-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-dharma-ai.md](file:///../../ai/models/huggingface-blog-dharma-ai.md)
+Path: [huggingface-blog-dharma-ai.md](../../ai/models/huggingface-blog-dharma-ai.md)

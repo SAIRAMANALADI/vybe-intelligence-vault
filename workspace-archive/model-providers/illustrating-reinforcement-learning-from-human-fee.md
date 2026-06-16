@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rlhf
 
 ## Local Vault File
 
-Path: [illustrating-reinforcement-learning-from-human-fee.md](file:///../../ai/models/illustrating-reinforcement-learning-from-human-fee.md)
+Path: [illustrating-reinforcement-learning-from-human-fee.md](../../ai/models/illustrating-reinforcement-learning-from-human-fee.md)

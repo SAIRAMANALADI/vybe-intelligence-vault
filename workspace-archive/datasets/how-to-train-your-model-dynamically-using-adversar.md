@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mnist-adversarial
 
 ## Local Vault File
 
-Path: [how-to-train-your-model-dynamically-using-adversar.md](file:///../../ai/models/how-to-train-your-model-dynamically-using-adversar.md)
+Path: [how-to-train-your-model-dynamically-using-adversar.md](../../ai/models/how-to-train-your-model-dynamically-using-adversar.md)

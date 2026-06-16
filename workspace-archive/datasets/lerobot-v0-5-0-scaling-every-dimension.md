@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v050
 
 ## Local Vault File
 
-Path: [lerobot-v0-5-0-scaling-every-dimension.md](file:///../../ai/models/lerobot-v0-5-0-scaling-every-dimension.md)
+Path: [lerobot-v0-5-0-scaling-every-dimension.md](../../ai/models/lerobot-v0-5-0-scaling-every-dimension.md)

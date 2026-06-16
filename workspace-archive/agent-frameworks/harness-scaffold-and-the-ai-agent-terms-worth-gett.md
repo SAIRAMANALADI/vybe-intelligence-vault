@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agent-glossary
 
 ## Local Vault File
 
-Path: [harness-scaffold-and-the-ai-agent-terms-worth-gett.md](file:///../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)
+Path: [harness-scaffold-and-the-ai-agent-terms-worth-gett.md](../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)

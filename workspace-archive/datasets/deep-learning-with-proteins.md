@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-learning-with-proteins
 
 ## Local Vault File
 
-Path: [deep-learning-with-proteins.md](file:///../../ai/models/deep-learning-with-proteins.md)
+Path: [deep-learning-with-proteins.md](../../ai/models/deep-learning-with-proteins.md)

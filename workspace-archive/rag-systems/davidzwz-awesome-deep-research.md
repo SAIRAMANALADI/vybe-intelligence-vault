@@ -47,4 +47,4 @@ Original source URL: https://github.com/DavidZWZ/Awesome-Deep-Research
 
 ## Local Vault File
 
-Path: [davidzwz-awesome-deep-research.md](file:///../../ai/rag/davidzwz-awesome-deep-research.md)
+Path: [davidzwz-awesome-deep-research.md](../../ai/rag/davidzwz-awesome-deep-research.md)

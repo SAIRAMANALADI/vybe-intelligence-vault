@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cv_state
 
 ## Local Vault File
 
-Path: [the-state-of-computer-vision-at-hugging-face.md](file:///../../ai/models/the-state-of-computer-vision-at-hugging-face.md)
+Path: [the-state-of-computer-vision-at-hugging-face.md](../../ai/models/the-state-of-computer-vision-at-hugging-face.md)

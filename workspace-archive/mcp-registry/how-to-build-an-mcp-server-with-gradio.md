@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp
 
 ## Local Vault File
 
-Path: [how-to-build-an-mcp-server-with-gradio.md](file:///../../ai/models/how-to-build-an-mcp-server-with-gradio.md)
+Path: [how-to-build-an-mcp-server-with-gradio.md](../../ai/models/how-to-build-an-mcp-server-with-gradio.md)

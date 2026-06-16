@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 
 ## Local Vault File
 
-Path: [hugging-face-collaborates-with-microsoft-to-launch.md](file:///../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)
+Path: [hugging-face-collaborates-with-microsoft-to-launch.md](../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)

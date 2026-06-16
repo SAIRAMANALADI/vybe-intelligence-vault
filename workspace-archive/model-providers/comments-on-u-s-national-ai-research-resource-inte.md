@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/us-national-ai-research-resourc
 
 ## Local Vault File
 
-Path: [comments-on-u-s-national-ai-research-resource-inte.md](file:///../../ai/models/comments-on-u-s-national-ai-research-resource-inte.md)
+Path: [comments-on-u-s-national-ai-research-resource-inte.md](../../ai/models/comments-on-u-s-national-ai-research-resource-inte.md)

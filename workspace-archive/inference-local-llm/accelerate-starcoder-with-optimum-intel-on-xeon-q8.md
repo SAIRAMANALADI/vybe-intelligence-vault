@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-starcoder-quantization
 
 ## Local Vault File
 
-Path: [accelerate-starcoder-with-optimum-intel-on-xeon-q8.md](file:///../../ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)
+Path: [accelerate-starcoder-with-optimum-intel-on-xeon-q8.md](../../ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)

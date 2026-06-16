@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/math_verify_leaderboard
 
 ## Local Vault File
 
-Path: [fixing-open-llm-leaderboard-with-math-verify.md](file:///../../ai/models/fixing-open-llm-leaderboard-with-math-verify.md)
+Path: [fixing-open-llm-leaderboard-with-math-verify.md](../../ai/models/fixing-open-llm-leaderboard-with-math-verify.md)

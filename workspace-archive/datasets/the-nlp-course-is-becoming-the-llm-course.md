@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/llm-course
 
 ## Local Vault File
 
-Path: [the-nlp-course-is-becoming-the-llm-course.md](file:///../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)
+Path: [the-nlp-course-is-becoming-the-llm-course.md](../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)

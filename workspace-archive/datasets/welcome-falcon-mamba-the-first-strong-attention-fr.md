@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falconmamba
 
 ## Local Vault File
 
-Path: [welcome-falcon-mamba-the-first-strong-attention-fr.md](file:///../../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)
+Path: [welcome-falcon-mamba-the-first-strong-attention-fr.md](../../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)

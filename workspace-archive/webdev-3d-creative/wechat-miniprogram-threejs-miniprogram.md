@@ -44,4 +44,4 @@ Original source URL: https://github.com/wechat-miniprogram/threejs-miniprogram
 
 ## Local Vault File
 
-Path: [wechat-miniprogram-threejs-miniprogram.md](file:///../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md)
+Path: [wechat-miniprogram-threejs-miniprogram.md](../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md)

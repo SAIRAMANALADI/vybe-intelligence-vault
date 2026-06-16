@@ -46,4 +46,4 @@ Original source URL: https://github.com/AgentTeam-TaichuAI/ScienceClaw
 
 ## Local Vault File
 
-Path: [agentteam-taichuai-scienceclaw.md](file:///../../ai/agents/agentteam-taichuai-scienceclaw.md)
+Path: [agentteam-taichuai-scienceclaw.md](../../ai/agents/agentteam-taichuai-scienceclaw.md)

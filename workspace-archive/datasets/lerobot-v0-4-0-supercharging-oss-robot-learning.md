@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v040
 
 ## Local Vault File
 
-Path: [lerobot-v0-4-0-supercharging-oss-robot-learning.md](file:///../../ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)
+Path: [lerobot-v0-4-0-supercharging-oss-robot-learning.md](../../ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/from-chunks-to-blocks
 
 ## Local Vault File
 
-Path: [from-chunks-to-blocks-accelerating-uploads-and-dow.md](file:///../../ai/models/from-chunks-to-blocks-accelerating-uploads-and-dow.md)
+Path: [from-chunks-to-blocks-accelerating-uploads-and-dow.md](../../ai/models/from-chunks-to-blocks-accelerating-uploads-and-dow.md)

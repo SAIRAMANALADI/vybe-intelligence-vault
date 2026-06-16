@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/long-range-transformers
 
 ## Local Vault File
 
-Path: [hugging-face-reads-feb-2021-long-range-transformer.md](file:///../../ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)
+Path: [hugging-face-reads-feb-2021-long-range-transformer.md](../../ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)

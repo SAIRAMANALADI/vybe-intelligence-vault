@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mcp-for-research
 
 ## Local Vault File
 
-Path: [mcp-for-research-how-to-connect-ai-to-research-too.md](file:///../../ai/models/mcp-for-research-how-to-connect-ai-to-research-too.md)
+Path: [mcp-for-research-how-to-connect-ai-to-research-too.md](../../ai/models/mcp-for-research-how-to-connect-ai-to-research-too.md)

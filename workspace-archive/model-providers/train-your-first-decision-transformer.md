@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [train-your-first-decision-transformer.md](file:///../../ai/models/train-your-first-decision-transformer.md)
+Path: [train-your-first-decision-transformer.md](../../ai/models/train-your-first-decision-transformer.md)

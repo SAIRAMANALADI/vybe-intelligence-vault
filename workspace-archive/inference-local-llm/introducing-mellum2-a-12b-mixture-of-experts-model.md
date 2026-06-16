@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/jetbrains/mellum2-launch
 
 ## Local Vault File
 
-Path: [introducing-mellum2-a-12b-mixture-of-experts-model.md](file:///../../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)
+Path: [introducing-mellum2-a-12b-mixture-of-experts-model.md](../../ai/models/introducing-mellum2-a-12b-mixture-of-experts-model.md)

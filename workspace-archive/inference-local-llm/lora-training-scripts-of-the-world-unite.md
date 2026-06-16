@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/sdxl_lora_advanced_script
 
 ## Local Vault File
 
-Path: [lora-training-scripts-of-the-world-unite.md](file:///../../ai/models/lora-training-scripts-of-the-world-unite.md)
+Path: [lora-training-scripts-of-the-world-unite.md](../../ai/models/lora-training-scripts-of-the-world-unite.md)

@@ -50,4 +50,4 @@ Original source URL: https://signoz.io/comparisons/llm-observability-tools
 
 ## Local Vault File
 
-Path: [top-llm-observability-tools-in-2026-signoz.md](file:///../../ai/rag/top-llm-observability-tools-in-2026-signoz.md)
+Path: [top-llm-observability-tools-in-2026-signoz.md](../../ai/rag/top-llm-observability-tools-in-2026-signoz.md)

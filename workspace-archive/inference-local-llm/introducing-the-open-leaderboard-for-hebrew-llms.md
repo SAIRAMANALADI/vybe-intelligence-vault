@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hebrew
 
 ## Local Vault File
 
-Path: [introducing-the-open-leaderboard-for-hebrew-llms.md](file:///../../ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md)
+Path: [introducing-the-open-leaderboard-for-hebrew-llms.md](../../ai/models/introducing-the-open-leaderboard-for-hebrew-llms.md)

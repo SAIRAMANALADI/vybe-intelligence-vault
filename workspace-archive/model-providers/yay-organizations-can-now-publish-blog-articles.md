@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/blog-articles-for-o
 
 ## Local Vault File
 
-Path: [yay-organizations-can-now-publish-blog-articles.md](file:///../../ai/models/yay-organizations-can-now-publish-blog-articles.md)
+Path: [yay-organizations-can-now-publish-blog-articles.md](../../ai/models/yay-organizations-can-now-publish-blog-articles.md)

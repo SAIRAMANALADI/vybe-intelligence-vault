@@ -50,4 +50,4 @@ Original source URL: https://importai.substack.com/p/import-ai-459-ai-oversight-
 
 ## Local Vault File
 
-Path: [import-ai-459-ai-oversight-is-difficult-scaling-la.md](file:///../../ai/rag/import-ai-459-ai-oversight-is-difficult-scaling-la.md)
+Path: [import-ai-459-ai-oversight-is-difficult-scaling-la.md](../../ai/rag/import-ai-459-ai-oversight-is-difficult-scaling-la.md)

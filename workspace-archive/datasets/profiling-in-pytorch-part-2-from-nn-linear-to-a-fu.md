@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/torch-mlp-fusion
 
 ## Local Vault File
 
-Path: [profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md](file:///../../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md)
+Path: [profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md](../../ai/models/profiling-in-pytorch-part-2-from-nn-linear-to-a-fu.md)

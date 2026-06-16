@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 
 ## Local Vault File
 
-Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard.md](file:///../../ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)
+Path: [qimma-qimw-a-quality-first-arabic-llm-leaderboard.md](../../ai/models/qimma-qimw-a-quality-first-arabic-llm-leaderboard.md)

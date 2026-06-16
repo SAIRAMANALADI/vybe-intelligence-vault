@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon3
 
 ## Local Vault File
 
-Path: [welcome-to-the-falcon-3-family-of-open-models.md](file:///../../ai/models/welcome-to-the-falcon-3-family-of-open-models.md)
+Path: [welcome-to-the-falcon-3-family-of-open-models.md](../../ai/models/welcome-to-the-falcon-3-family-of-open-models.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-optimize-sd-intel
 
 ## Local Vault File
 
-Path: [optimizing-stable-diffusion-for-intel-cpus-with-nn.md](file:///../../ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nn.md)
+Path: [optimizing-stable-diffusion-for-intel-cpus-with-nn.md](../../ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nn.md)

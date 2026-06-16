@@ -47,4 +47,4 @@ Original source URL: https://huggingface.co/blog/lora-for-sequence-classificatio
 
 ## Local Vault File
 
-Path: [comparing-the-performance-of-llms-a-deep-dive-into.md](file:///../../ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)
+Path: [comparing-the-performance-of-llms-a-deep-dive-into.md](../../ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)

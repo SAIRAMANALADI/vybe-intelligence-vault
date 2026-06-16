@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [results-of-the-open-source-ai-game-jam.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam.md)
+Path: [results-of-the-open-source-ai-game-jam.md](../../ai/models/results-of-the-open-source-ai-game-jam.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder-vs-closed-source-code
 
 ## Local Vault File
 
-Path: [safecoder-vs-closed-source-code-assistants.md](file:///../../ai/models/safecoder-vs-closed-source-code-assistants.md)
+Path: [safecoder-vs-closed-source-code-assistants.md](../../ai/models/safecoder-vs-closed-source-code-assistants.md)

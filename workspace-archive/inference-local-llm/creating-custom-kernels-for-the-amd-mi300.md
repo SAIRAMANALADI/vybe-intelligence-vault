@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mi300kernels
 
 ## Local Vault File
 
-Path: [creating-custom-kernels-for-the-amd-mi300.md](file:///../../ai/models/creating-custom-kernels-for-the-amd-mi300.md)
+Path: [creating-custom-kernels-for-the-amd-mi300.md](../../ai/models/creating-custom-kernels-for-the-amd-mi300.md)

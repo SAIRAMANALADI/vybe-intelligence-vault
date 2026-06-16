@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-gaudi-backend-for-tgi
 
 ## Local Vault File
 
-Path: [accelerating-llm-inference-with-tgi-on-intel-gaudi.md](file:///../../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)
+Path: [accelerating-llm-inference-with-tgi-on-intel-gaudi.md](../../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)

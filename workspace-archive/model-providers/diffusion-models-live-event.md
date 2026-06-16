@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [diffusion-models-live-event.md](file:///../../ai/models/diffusion-models-live-event.md)
+Path: [diffusion-models-live-event.md](../../ai/models/diffusion-models-live-event.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [making-llms-lighter-with-autogptq-and-transformers.md](file:///../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)
+Path: [making-llms-lighter-with-autogptq-and-transformers.md](../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)

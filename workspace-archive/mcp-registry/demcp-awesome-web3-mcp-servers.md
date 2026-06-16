@@ -45,4 +45,4 @@ Original source URL: https://github.com/demcp/awesome-web3-mcp-servers
 
 ## Local Vault File
 
-Path: [demcp-awesome-web3-mcp-servers.md](file:///../../ai/resources/demcp-awesome-web3-mcp-servers.md)
+Path: [demcp-awesome-web3-mcp-servers.md](../../ai/resources/demcp-awesome-web3-mcp-servers.md)

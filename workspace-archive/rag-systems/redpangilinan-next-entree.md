@@ -44,4 +44,4 @@ Original source URL: https://github.com/redpangilinan/next-entree
 
 ## Local Vault File
 
-Path: [redpangilinan-next-entree.md](file:///../../web-development/nextjs/redpangilinan-next-entree.md)
+Path: [redpangilinan-next-entree.md](../../web-development/nextjs/redpangilinan-next-entree.md)

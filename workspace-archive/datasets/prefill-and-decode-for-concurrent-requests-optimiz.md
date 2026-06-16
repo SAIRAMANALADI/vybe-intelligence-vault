@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-prefill
 
 ## Local Vault File
 
-Path: [prefill-and-decode-for-concurrent-requests-optimiz.md](file:///../../ai/models/prefill-and-decode-for-concurrent-requests-optimiz.md)
+Path: [prefill-and-decode-for-concurrent-requests-optimiz.md](../../ai/models/prefill-and-decode-for-concurrent-requests-optimiz.md)

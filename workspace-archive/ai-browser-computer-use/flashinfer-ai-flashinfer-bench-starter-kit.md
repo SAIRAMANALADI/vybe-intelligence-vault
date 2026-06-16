@@ -44,4 +44,4 @@ Original source URL: https://github.com/flashinfer-ai/flashinfer-bench-starter-k
 
 ## Local Vault File
 
-Path: [flashinfer-ai-flashinfer-bench-starter-kit.md](file:///../../ai/agents/flashinfer-ai-flashinfer-bench-starter-kit.md)
+Path: [flashinfer-ai-flashinfer-bench-starter-kit.md](../../ai/agents/flashinfer-ai-flashinfer-bench-starter-kit.md)

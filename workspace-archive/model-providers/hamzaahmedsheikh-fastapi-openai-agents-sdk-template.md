@@ -47,4 +47,4 @@ Original source URL: https://github.com/HamzaAhmedSheikh/fastapi-openai-agents-s
 
 ## Local Vault File
 
-Path: [hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md](file:///../../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md)
+Path: [hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md](../../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md)

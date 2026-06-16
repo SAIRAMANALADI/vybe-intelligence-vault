@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-in-spaces
 
 ## Local Vault File
 
-Path: [how-to-host-a-unity-game-in-a-space.md](file:///../../ai/models/how-to-host-a-unity-game-in-a-space.md)
+Path: [how-to-host-a-unity-game-in-a-space.md](../../ai/models/how-to-host-a-unity-game-in-a-space.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma2
 
 ## Local Vault File
 
-Path: [welcome-gemma-2-googles-new-open-llm.md](file:///../../ai/models/welcome-gemma-2-googles-new-open-llm.md)
+Path: [welcome-gemma-2-googles-new-open-llm.md](../../ai/models/welcome-gemma-2-googles-new-open-llm.md)

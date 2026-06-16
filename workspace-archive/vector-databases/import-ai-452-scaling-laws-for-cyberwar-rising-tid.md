@@ -52,4 +52,4 @@ Original source URL: https://importai.substack.com/p/import-ai-452-scaling-laws-
 
 ## Local Vault File
 
-Path: [import-ai-452-scaling-laws-for-cyberwar-rising-tid.md](file:///../../ai/rag/import-ai-452-scaling-laws-for-cyberwar-rising-tid.md)
+Path: [import-ai-452-scaling-laws-for-cyberwar-rising-tid.md](../../ai/rag/import-ai-452-scaling-laws-for-cyberwar-rising-tid.md)

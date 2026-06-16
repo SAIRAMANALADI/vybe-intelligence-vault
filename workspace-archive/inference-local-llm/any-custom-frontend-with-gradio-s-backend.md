@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-gradio-server
 
 ## Local Vault File
 
-Path: [any-custom-frontend-with-gradio-s-backend.md](file:///../../ai/models/any-custom-frontend-with-gradio-s-backend.md)
+Path: [any-custom-frontend-with-gradio-s-backend.md](../../ai/models/any-custom-frontend-with-gradio-s-backend.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dpo_vlm
 
 ## Local Vault File
 
-Path: [preference-optimization-for-vision-language-models.md](file:///../../ai/models/preference-optimization-for-vision-language-models.md)
+Path: [preference-optimization-for-vision-language-models.md](../../ai/models/preference-optimization-for-vision-language-models.md)

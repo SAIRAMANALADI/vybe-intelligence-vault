@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-llm
 
 ## Local Vault File
 
-Path: [deploy-llms-with-hugging-face-inference-endpoints.md](file:///../../ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)
+Path: [deploy-llms-with-hugging-face-inference-endpoints.md](../../ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)

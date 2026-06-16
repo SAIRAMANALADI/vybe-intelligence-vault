@@ -71,4 +71,4 @@ Original source URL: https://github.com/pytorch/pytorch
 
 ## Local Vault File
 
-Path: [pytorch-pytorch.md](file:///../../ai/rag/pytorch-pytorch.md)
+Path: [pytorch-pytorch.md](../../ai/rag/pytorch-pytorch.md)

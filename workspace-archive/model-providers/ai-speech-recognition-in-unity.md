@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-asr
 
 ## Local Vault File
 
-Path: [ai-speech-recognition-in-unity.md](file:///../../ai/models/ai-speech-recognition-in-unity.md)
+Path: [ai-speech-recognition-in-unity.md](../../ai/models/ai-speech-recognition-in-unity.md)

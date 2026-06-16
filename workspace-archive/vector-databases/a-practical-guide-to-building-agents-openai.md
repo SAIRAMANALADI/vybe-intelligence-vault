@@ -50,4 +50,4 @@ Original source URL: https://openai.com/business/guides-and-resources/a-practica
 
 ## Local Vault File
 
-Path: [a-practical-guide-to-building-agents-openai.md](file:///../../ai/rag/a-practical-guide-to-building-agents-openai.md)
+Path: [a-practical-guide-to-building-agents-openai.md](../../ai/rag/a-practical-guide-to-building-agents-openai.md)

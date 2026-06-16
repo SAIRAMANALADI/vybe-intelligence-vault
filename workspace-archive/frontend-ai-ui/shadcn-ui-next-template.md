@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcn-ui/next-template
 
 ## Local Vault File
 
-Path: [shadcn-ui-next-template.md](file:///../../web-development/shadcn-ui/shadcn-ui-next-template.md)
+Path: [shadcn-ui-next-template.md](../../web-development/shadcn-ui/shadcn-ui-next-template.md)

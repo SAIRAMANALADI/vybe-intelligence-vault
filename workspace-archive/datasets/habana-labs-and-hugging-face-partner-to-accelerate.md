@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/habana
 
 ## Local Vault File
 
-Path: [habana-labs-and-hugging-face-partner-to-accelerate.md](file:///../../ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md)
+Path: [habana-labs-and-hugging-face-partner-to-accelerate.md](../../ai/models/habana-labs-and-hugging-face-partner-to-accelerate.md)

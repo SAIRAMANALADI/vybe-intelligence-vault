@@ -50,4 +50,4 @@ Original source URL: https://github.com/VoltAgent/awesome-ai-agent-papers
 
 ## Local Vault File
 
-Path: [voltagent-awesome-ai-agent-papers.md](file:///../../ai/rag/voltagent-awesome-ai-agent-papers.md)
+Path: [voltagent-awesome-ai-agent-papers.md](../../ai/rag/voltagent-awesome-ai-agent-papers.md)

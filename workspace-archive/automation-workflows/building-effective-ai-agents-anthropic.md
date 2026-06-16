@@ -50,4 +50,4 @@ Original source URL: https://www.anthropic.com/research/building-effective-agent
 
 ## Local Vault File
 
-Path: [building-effective-ai-agents-anthropic.md](file:///../../ai/rag/building-effective-ai-agents-anthropic.md)
+Path: [building-effective-ai-agents-anthropic.md](../../ai/rag/building-effective-ai-agents-anthropic.md)

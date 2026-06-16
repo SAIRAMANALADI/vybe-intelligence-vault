@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-turns-1
 
 ## Local Vault File
 
-Path: [happy-1st-anniversary-diffusers.md](file:///../../ai/models/happy-1st-anniversary-diffusers.md)
+Path: [happy-1st-anniversary-diffusers.md](../../ai/models/happy-1st-anniversary-diffusers.md)

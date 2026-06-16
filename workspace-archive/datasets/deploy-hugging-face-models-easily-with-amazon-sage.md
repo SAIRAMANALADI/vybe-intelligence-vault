@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-hugging-face-models-easi
 
 ## Local Vault File
 
-Path: [deploy-hugging-face-models-easily-with-amazon-sage.md](file:///../../ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)
+Path: [deploy-hugging-face-models-easily-with-amazon-sage.md](../../ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)

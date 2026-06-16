@@ -45,4 +45,4 @@ Original source URL: https://github.com/dgreenheck/webgpu-claude-skill
 
 ## Local Vault File
 
-Path: [dgreenheck-webgpu-claude-skill.md](file:///../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md)
+Path: [dgreenheck-webgpu-claude-skill.md](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/riskrubric
 
 ## Local Vault File
 
-Path: [democratizing-ai-safety-with-riskrubric-ai.md](file:///../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)
+Path: [democratizing-ai-safety-with-riskrubric-ai.md](../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)

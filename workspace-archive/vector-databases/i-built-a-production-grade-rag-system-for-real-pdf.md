@@ -46,4 +46,4 @@ Original source URL: https://medium.com/codex/i-built-a-production-grade-rag-sys
 
 ## Local Vault File
 
-Path: [i-built-a-production-grade-rag-system-for-real-pdf.md](file:///../../ai/rag/i-built-a-production-grade-rag-system-for-real-pdf.md)
+Path: [i-built-a-production-grade-rag-system-for-real-pdf.md](../../ai/rag/i-built-a-production-grade-rag-system-for-real-pdf.md)

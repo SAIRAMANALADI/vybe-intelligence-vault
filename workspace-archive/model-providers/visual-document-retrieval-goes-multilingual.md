@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vdr-2b-multilingual
 
 ## Local Vault File
 
-Path: [visual-document-retrieval-goes-multilingual.md](file:///../../ai/models/visual-document-retrieval-goes-multilingual.md)
+Path: [visual-document-retrieval-goes-multilingual.md](../../ai/models/visual-document-retrieval-goes-multilingual.md)

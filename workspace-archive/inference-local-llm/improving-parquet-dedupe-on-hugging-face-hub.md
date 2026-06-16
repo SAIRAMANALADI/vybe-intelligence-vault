@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/improve_parquet_dedupe
 
 ## Local Vault File
 
-Path: [improving-parquet-dedupe-on-hugging-face-hub.md](file:///../../ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)
+Path: [improving-parquet-dedupe-on-hugging-face-hub.md](../../ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)

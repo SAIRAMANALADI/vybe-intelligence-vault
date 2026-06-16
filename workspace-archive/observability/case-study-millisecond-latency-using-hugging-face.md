@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/infinity-cpu-performance
 
 ## Local Vault File
 
-Path: [case-study-millisecond-latency-using-hugging-face.md](file:///../../ai/models/case-study-millisecond-latency-using-hugging-face.md)
+Path: [case-study-millisecond-latency-using-hugging-face.md](../../ai/models/case-study-millisecond-latency-using-hugging-face.md)

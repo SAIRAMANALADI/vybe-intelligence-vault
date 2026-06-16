@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arm/neural-super-sampling
 
 ## Local Vault File
 
-Path: [neural-super-sampling-is-here.md](file:///../../ai/models/neural-super-sampling-is-here.md)
+Path: [neural-super-sampling-is-here.md](../../ai/models/neural-super-sampling-is-here.md)

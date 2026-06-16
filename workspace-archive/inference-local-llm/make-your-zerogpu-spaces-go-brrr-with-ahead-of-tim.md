@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zerogpu-aoti
 
 ## Local Vault File
 
-Path: [make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md](file:///../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)
+Path: [make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md](../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)

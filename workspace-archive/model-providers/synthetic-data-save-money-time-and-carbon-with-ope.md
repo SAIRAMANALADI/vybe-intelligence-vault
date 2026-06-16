@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-save-costs
 
 ## Local Vault File
 
-Path: [synthetic-data-save-money-time-and-carbon-with-ope.md](file:///../../ai/models/synthetic-data-save-money-time-and-carbon-with-ope.md)
+Path: [synthetic-data-save-money-time-and-carbon-with-ope.md](../../ai/models/synthetic-data-save-money-time-and-carbon-with-ope.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/elixir-bumblebee
 
 ## Local Vault File
 
-Path: [from-gpt2-to-stable-diffusion-hugging-face-arrives.md](file:///../../ai/models/from-gpt2-to-stable-diffusion-hugging-face-arrives.md)
+Path: [from-gpt2-to-stable-diffusion-hugging-face-arrives.md](../../ai/models/from-gpt2-to-stable-diffusion-hugging-face-arrives.md)

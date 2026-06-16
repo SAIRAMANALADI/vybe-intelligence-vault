@@ -45,4 +45,4 @@ Original source URL: https://github.com/wrongakram/r3f-chairs
 
 ## Local Vault File
 
-Path: [wrongakram-r3f-chairs.md](file:///../../web-development/react-three-fiber/wrongakram-r3f-chairs.md)
+Path: [wrongakram-r3f-chairs.md](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md)

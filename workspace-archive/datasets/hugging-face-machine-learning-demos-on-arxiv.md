@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arxiv
 
 ## Local Vault File
 
-Path: [hugging-face-machine-learning-demos-on-arxiv.md](file:///../../ai/models/hugging-face-machine-learning-demos-on-arxiv.md)
+Path: [hugging-face-machine-learning-demos-on-arxiv.md](../../ai/models/hugging-face-machine-learning-demos-on-arxiv.md)

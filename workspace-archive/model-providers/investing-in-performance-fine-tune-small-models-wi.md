@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/cfm-case-study
 
 ## Local Vault File
 
-Path: [investing-in-performance-fine-tune-small-models-wi.md](file:///../../ai/models/investing-in-performance-fine-tune-small-models-wi.md)
+Path: [investing-in-performance-fine-tune-small-models-wi.md](../../ai/models/investing-in-performance-fine-tune-small-models-wi.md)

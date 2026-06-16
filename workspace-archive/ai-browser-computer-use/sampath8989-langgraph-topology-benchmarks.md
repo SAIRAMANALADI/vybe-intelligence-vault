@@ -45,4 +45,4 @@ Original source URL: https://github.com/Sampath8989/langgraph-topology-benchmark
 
 ## Local Vault File
 
-Path: [sampath8989-langgraph-topology-benchmarks.md](file:///../../ai/agents/sampath8989-langgraph-topology-benchmarks.md)
+Path: [sampath8989-langgraph-topology-benchmarks.md](../../ai/agents/sampath8989-langgraph-topology-benchmarks.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents
 
 ## Local Vault File
 
-Path: [license-to-call-introducing-transformers-agents-2.md](file:///../../ai/agents/license-to-call-introducing-transformers-agents-2.md)
+Path: [license-to-call-introducing-transformers-agents-2.md](../../ai/agents/license-to-call-introducing-transformers-agents-2.md)

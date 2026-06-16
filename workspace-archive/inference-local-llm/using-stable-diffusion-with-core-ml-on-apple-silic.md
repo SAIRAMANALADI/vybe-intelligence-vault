@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-coreml
 
 ## Local Vault File
 
-Path: [using-stable-diffusion-with-core-ml-on-apple-silic.md](file:///../../ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)
+Path: [using-stable-diffusion-with-core-ml-on-apple-silic.md](../../ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)

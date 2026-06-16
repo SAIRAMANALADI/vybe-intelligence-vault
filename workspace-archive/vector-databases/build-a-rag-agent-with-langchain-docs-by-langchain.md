@@ -51,4 +51,4 @@ Original source URL: https://docs.langchain.com/oss/python/langchain/rag
 
 ## Local Vault File
 
-Path: [build-a-rag-agent-with-langchain-docs-by-langchain.md](file:///../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)
+Path: [build-a-rag-agent-with-langchain-docs-by-langchain.md](../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)

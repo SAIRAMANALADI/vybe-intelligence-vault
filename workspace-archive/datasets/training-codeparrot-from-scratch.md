@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/codeparrot
 
 ## Local Vault File
 
-Path: [training-codeparrot-from-scratch.md](file:///../../ai/models/training-codeparrot-from-scratch.md)
+Path: [training-codeparrot-from-scratch.md](../../ai/models/training-codeparrot-from-scratch.md)

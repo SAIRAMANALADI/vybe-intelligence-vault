@@ -47,4 +47,4 @@ Original source URL: https://github.com/crewaiinc/crewai
 
 ## Local Vault File
 
-Path: [crewaiinc-crewai.md](file:///../../ai/rag/crewaiinc-crewai.md)
+Path: [crewaiinc-crewai.md](../../ai/rag/crewaiinc-crewai.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/constrained-beam-search
 
 ## Local Vault File
 
-Path: [guiding-text-generation-with-constrained-beam-sear.md](file:///../../ai/models/guiding-text-generation-with-constrained-beam-sear.md)
+Path: [guiding-text-generation-with-constrained-beam-sear.md](../../ai/models/guiding-text-generation-with-constrained-beam-sear.md)

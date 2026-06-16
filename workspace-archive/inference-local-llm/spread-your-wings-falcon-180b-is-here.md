@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon-180b
 
 ## Local Vault File
 
-Path: [spread-your-wings-falcon-180b-is-here.md](file:///../../ai/models/spread-your-wings-falcon-180b-is-here.md)
+Path: [spread-your-wings-falcon-180b-is-here.md](../../ai/models/spread-your-wings-falcon-180b-is-here.md)

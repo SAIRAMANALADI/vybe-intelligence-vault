@@ -50,4 +50,4 @@ Original source URL: https://importai.substack.com/p/import-ai-442-winners-and-l
 
 ## Local Vault File
 
-Path: [import-ai-442-winners-and-losers-in-the-ai-economy.md](file:///../../ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)
+Path: [import-ai-442-winners-and-losers-in-the-ai-economy.md](../../ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)

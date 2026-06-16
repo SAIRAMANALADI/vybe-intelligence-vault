@@ -45,4 +45,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/search-i
 
 ## Local Vault File
 
-Path: [search-information-retrieval.md](file:///../../ai/companies/search-information-retrieval.md)
+Path: [search-information-retrieval.md](../../ai/companies/search-information-retrieval.md)

@@ -49,4 +49,4 @@ Original source URL: https://github.com/aden-hive/hive
 
 ## Local Vault File
 
-Path: [aden-hive-hive.md](file:///../../ai/agents/aden-hive-hive.md)
+Path: [aden-hive-hive.md](../../ai/agents/aden-hive-hive.md)

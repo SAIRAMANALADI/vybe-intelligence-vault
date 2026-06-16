@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/websight
 
 ## Local Vault File
 
-Path: [unlocking-the-conversion-of-web-screenshots-into-h.md](file:///../../ai/models/unlocking-the-conversion-of-web-screenshots-into-h.md)
+Path: [unlocking-the-conversion-of-web-screenshots-into-h.md](../../ai/models/unlocking-the-conversion-of-web-screenshots-into-h.md)

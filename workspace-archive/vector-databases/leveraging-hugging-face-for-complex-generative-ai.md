@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/writer-case-study
 
 ## Local Vault File
 
-Path: [leveraging-hugging-face-for-complex-generative-ai.md](file:///../../ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)
+Path: [leveraging-hugging-face-for-complex-generative-ai.md](../../ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)

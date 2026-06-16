@@ -51,4 +51,4 @@ Original source URL: https://www.evidentlyai.com/llm-guide/rag-evaluation
 
 ## Local Vault File
 
-Path: [a-complete-guide-to-rag-evaluation-metrics-testing.md](file:///../../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing.md)
+Path: [a-complete-guide-to-rag-evaluation-metrics-testing.md](../../ai/rag/a-complete-guide-to-rag-evaluation-metrics-testing.md)

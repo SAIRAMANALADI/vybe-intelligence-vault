@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-4
 
 ## Local Vault File
 
-Path: [2d-asset-generation-ai-for-game-development-4.md](file:///../../ai/models/2d-asset-generation-ai-for-game-development-4.md)
+Path: [2d-asset-generation-ai-for-game-development-4.md](../../ai/models/2d-asset-generation-ai-for-game-development-4.md)

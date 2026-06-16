@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/cinepile2
 
 ## Local Vault File
 
-Path: [cinepile-2-0-making-stronger-datasets-with-adversa.md](file:///../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)
+Path: [cinepile-2-0-making-stronger-datasets-with-adversa.md](../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)

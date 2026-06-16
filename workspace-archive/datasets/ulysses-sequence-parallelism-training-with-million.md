@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ulysses-sp
 
 ## Local Vault File
 
-Path: [ulysses-sequence-parallelism-training-with-million.md](file:///../../ai/models/ulysses-sequence-parallelism-training-with-million.md)
+Path: [ulysses-sequence-parallelism-training-with-million.md](../../ai/models/ulysses-sequence-parallelism-training-with-million.md)

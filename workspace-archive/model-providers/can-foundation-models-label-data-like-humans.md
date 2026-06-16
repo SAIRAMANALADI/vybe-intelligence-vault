@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-rlhf
 
 ## Local Vault File
 
-Path: [can-foundation-models-label-data-like-humans.md](file:///../../ai/models/can-foundation-models-label-data-like-humans.md)
+Path: [can-foundation-models-label-data-like-humans.md](../../ai/models/can-foundation-models-label-data-like-humans.md)

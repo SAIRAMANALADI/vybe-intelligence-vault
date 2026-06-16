@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/supercharge-customer-service-wi
 
 ## Local Vault File
 
-Path: [supercharged-customer-service-with-machine-learnin.md](file:///../../ai/models/supercharged-customer-service-with-machine-learnin.md)
+Path: [supercharged-customer-service-with-machine-learnin.md](../../ai/models/supercharged-customer-service-with-machine-learnin.md)

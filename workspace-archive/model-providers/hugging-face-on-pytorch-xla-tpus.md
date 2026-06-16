@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-xla
 
 ## Local Vault File
 
-Path: [hugging-face-on-pytorch-xla-tpus.md](file:///../../ai/models/hugging-face-on-pytorch-xla-tpus.md)
+Path: [hugging-face-on-pytorch-xla-tpus.md](../../ai/models/hugging-face-on-pytorch-xla-tpus.md)

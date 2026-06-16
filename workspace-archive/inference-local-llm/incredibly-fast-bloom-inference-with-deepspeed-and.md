@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-pytorch-scripts
 
 ## Local Vault File
 
-Path: [incredibly-fast-bloom-inference-with-deepspeed-and.md](file:///../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)
+Path: [incredibly-fast-bloom-inference-with-deepspeed-and.md](../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)

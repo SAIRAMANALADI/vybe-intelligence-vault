@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/chatbot-amd-gpu
 
 ## Local Vault File
 
-Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md](file:///../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)
+Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md](../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)

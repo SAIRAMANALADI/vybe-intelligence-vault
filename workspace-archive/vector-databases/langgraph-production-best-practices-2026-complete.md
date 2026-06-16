@@ -51,4 +51,4 @@ Original source URL: https://langchain-tutorials.github.io/langgraph-production-
 
 ## Local Vault File
 
-Path: [langgraph-production-best-practices-2026-complete.md](file:///../../ai/rag/langgraph-production-best-practices-2026-complete.md)
+Path: [langgraph-production-best-practices-2026-complete.md](../../ai/rag/langgraph-production-best-practices-2026-complete.md)

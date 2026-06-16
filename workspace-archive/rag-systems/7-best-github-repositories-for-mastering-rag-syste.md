@@ -53,4 +53,4 @@ Original source URL: https://www.analyticsvidhya.com/blog/2025/10/github-reposit
 
 ## Local Vault File
 
-Path: [7-best-github-repositories-for-mastering-rag-syste.md](file:///../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
+Path: [7-best-github-repositories-for-mastering-rag-syste.md](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)

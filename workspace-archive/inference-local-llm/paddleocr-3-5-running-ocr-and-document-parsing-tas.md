@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle/paddleocr-transfor
 
 ## Local Vault File
 
-Path: [paddleocr-3-5-running-ocr-and-document-parsing-tas.md](file:///../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)
+Path: [paddleocr-3-5-running-ocr-and-document-parsing-tas.md](../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)

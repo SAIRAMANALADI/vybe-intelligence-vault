@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-twitter
 
 ## Local Vault File
 
-Path: [getting-started-with-sentiment-analysis-on-twitter.md](file:///../../ai/models/getting-started-with-sentiment-analysis-on-twitter.md)
+Path: [getting-started-with-sentiment-analysis-on-twitter.md](../../ai/models/getting-started-with-sentiment-analysis-on-twitter.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/presidio-pii-detection
 
 ## Local Vault File
 
-Path: [experimenting-with-automatic-pii-detection-on-the.md](file:///../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)
+Path: [experimenting-with-automatic-pii-detection-on-the.md](../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)

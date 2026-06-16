@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/huggingface/one-year-since-the-
 
 ## Local Vault File
 
-Path: [architectural-choices-in-china-s-open-source-ai-ec.md](file:///../../ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)
+Path: [architectural-choices-in-china-s-open-source-ai-ec.md](../../ai/models/architectural-choices-in-china-s-open-source-ai-ec.md)

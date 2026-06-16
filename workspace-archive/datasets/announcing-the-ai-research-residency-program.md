@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-residency
 
 ## Local Vault File
 
-Path: [announcing-the-ai-research-residency-program.md](file:///../../ai/models/announcing-the-ai-research-residency-program.md)
+Path: [announcing-the-ai-research-residency-program.md](../../ai/models/announcing-the-ai-research-residency-program.md)

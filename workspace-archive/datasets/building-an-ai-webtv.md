@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-webtv
 
 ## Local Vault File
 
-Path: [building-an-ai-webtv.md](file:///../../ai/models/building-an-ai-webtv.md)
+Path: [building-an-ai-webtv.md](../../ai/models/building-an-ai-webtv.md)

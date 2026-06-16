@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/password-git-deprecation
 
 ## Local Vault File
 
-Path: [deprecation-of-git-authentication-using-password.md](file:///../../ai/models/deprecation-of-git-authentication-using-password.md)
+Path: [deprecation-of-git-authentication-using-password.md](../../ai/models/deprecation-of-git-authentication-using-password.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv-turing
 
 ## Local Vault File
 
-Path: [openenv-in-practice-evaluating-tool-using-agents-i.md](file:///../../ai/agents/openenv-in-practice-evaluating-tool-using-agents-i.md)
+Path: [openenv-in-practice-evaluating-tool-using-agents-i.md](../../ai/agents/openenv-in-practice-evaluating-tool-using-agents-i.md)

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by karakoram. Score: 164, Comments: 74.
+Hacker News story by karakoram. Score: 184, Comments: 83.
 Original Link: https://www.goodinternetmagazine.com/why-i-email-complete-strangers/
 
 ## Use Cases
@@ -46,4 +46,4 @@ Original source URL: https://goodinternetmagazine.com/why-i-email-complete-stran
 
 ## Local Vault File
 
-Path: [why-i-email-complete-strangers.md](file:///../../ai/community/why-i-email-complete-strangers.md)
+Path: [why-i-email-complete-strangers.md](../../ai/community/why-i-email-complete-strangers.md)

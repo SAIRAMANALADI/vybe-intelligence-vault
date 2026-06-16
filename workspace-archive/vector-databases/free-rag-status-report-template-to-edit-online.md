@@ -44,4 +44,4 @@ Original source URL: https://www.template.net/edit-online/394147/rag-status-repo
 
 ## Local Vault File
 
-Path: [free-rag-status-report-template-to-edit-online.md](file:///../../ai/rag/free-rag-status-report-template-to-edit-online.md)
+Path: [free-rag-status-report-template-to-edit-online.md](../../ai/rag/free-rag-status-report-template-to-edit-online.md)

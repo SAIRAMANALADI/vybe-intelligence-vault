@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pycharm-integration
 
 ## Local Vault File
 
-Path: [hugging-face-pycharm.md](file:///../../ai/models/hugging-face-pycharm.md)
+Path: [hugging-face-pycharm.md](../../ai/models/hugging-face-pycharm.md)

@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/focus-area/ai-and-micr
 
 ## Local Vault File
 
-Path: [artificial-intelligence.md](file:///../../ai/companies/artificial-intelligence.md)
+Path: [artificial-intelligence.md](../../ai/companies/artificial-intelligence.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train-sentence-transform
 
 ## Local Vault File
 
-Path: [train-and-fine-tune-sentence-transformers-models.md](file:///../../ai/models/train-and-fine-tune-sentence-transformers-models.md)
+Path: [train-and-fine-tune-sentence-transformers-models.md](../../ai/models/train-and-fine-tune-sentence-transformers-models.md)

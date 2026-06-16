@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-turin
 
 ## Local Vault File
 
-Path: [introducing-the-amd-5th-gen-epyctm-cpu.md](file:///../../ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)
+Path: [introducing-the-amd-5th-gen-epyctm-cpu.md](../../ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)

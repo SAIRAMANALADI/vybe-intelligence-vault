@@ -45,4 +45,4 @@ Original source URL: https://deepmind.google/blog/alphaearth-foundations-helps-m
 
 ## Local Vault File
 
-Path: [alphaearthmap-our-planet-in-unprecedented-detail.md](file:///../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)
+Path: [alphaearthmap-our-planet-in-unprecedented-detail.md](../../ai/companies/deepmind/alphaearthmap-our-planet-in-unprecedented-detail.md)

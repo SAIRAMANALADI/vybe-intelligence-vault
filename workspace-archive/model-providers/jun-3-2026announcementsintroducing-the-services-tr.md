@@ -47,4 +47,4 @@ Original source URL: https://anthropic.com/news/services-track-partner-hub
 
 ## Local Vault File
 
-Path: [jun-3-2026announcementsintroducing-the-services-tr.md](file:///../../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
+Path: [jun-3-2026announcementsintroducing-the-services-tr.md](../../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)

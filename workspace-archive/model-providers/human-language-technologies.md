@@ -44,4 +44,4 @@ Original source URL: https://microsoft.com/en-us/research/research-area/human-la
 
 ## Local Vault File
 
-Path: [human-language-technologies.md](file:///../../ai/companies/human-language-technologies.md)
+Path: [human-language-technologies.md](../../ai/companies/human-language-technologies.md)

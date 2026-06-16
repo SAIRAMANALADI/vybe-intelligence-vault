@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/microsoft-collaboration
 
 ## Local Vault File
 
-Path: [from-cloud-to-developers-hugging-face-and-microsof.md](file:///../../ai/models/from-cloud-to-developers-hugging-face-and-microsof.md)
+Path: [from-cloud-to-developers-hugging-face-and-microsof.md](../../ai/models/from-cloud-to-developers-hugging-face-and-microsof.md)

@@ -51,4 +51,4 @@ Original source URL: https://tech-insider.org/how-to-build-rag-chatbot-python-la
 
 ## Local Vault File
 
-Path: [build-a-rag-chatbot-in-30-min-with-python-langchai.md](file:///../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)
+Path: [build-a-rag-chatbot-in-30-min-with-python-langchai.md](../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore-getting-started
 
 ## Local Vault File
 
-Path: [getting-started-with-hugging-face-transformers-for.md](file:///../../ai/models/getting-started-with-hugging-face-transformers-for.md)
+Path: [getting-started-with-hugging-face-transformers-for.md](../../ai/models/getting-started-with-hugging-face-transformers-for.md)

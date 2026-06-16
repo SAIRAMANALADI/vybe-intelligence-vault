@@ -45,4 +45,4 @@ Original source URL: https://github.com/chrisabdo/motionvariants
 
 ## Local Vault File
 
-Path: [chrisabdo-motionvariants.md](file:///../../web-development/framer-motion/chrisabdo-motionvariants.md)
+Path: [chrisabdo-motionvariants.md](../../web-development/framer-motion/chrisabdo-motionvariants.md)

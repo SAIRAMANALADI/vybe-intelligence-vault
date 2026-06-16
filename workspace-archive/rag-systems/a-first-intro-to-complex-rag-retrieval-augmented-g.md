@@ -54,4 +54,4 @@ Original source URL: https://medium.com/enterprise-rag/a-first-intro-to-complex-
 
 ## Local Vault File
 
-Path: [a-first-intro-to-complex-rag-retrieval-augmented-g.md](file:///../../ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)
+Path: [a-first-intro-to-complex-rag-retrieval-augmented-g.md](../../ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)

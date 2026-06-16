@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jupyter-agent-2
 
 ## Local Vault File
 
-Path: [jupyter-agents-training-llms-to-reason-with-notebo.md](file:///../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)
+Path: [jupyter-agents-training-llms-to-reason-with-notebo.md](../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)

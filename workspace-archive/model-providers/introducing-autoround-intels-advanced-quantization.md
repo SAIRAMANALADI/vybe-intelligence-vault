@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/autoround
 
 ## Local Vault File
 
-Path: [introducing-autoround-intels-advanced-quantization.md](file:///../../ai/models/introducing-autoround-intels-advanced-quantization.md)
+Path: [introducing-autoround-intels-advanced-quantization.md](../../ai/models/introducing-autoround-intels-advanced-quantization.md)

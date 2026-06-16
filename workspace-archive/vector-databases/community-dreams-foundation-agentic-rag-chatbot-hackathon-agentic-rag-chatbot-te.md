@@ -45,4 +45,4 @@ Original source URL: https://github.com/Community-Dreams-Foundation/agentic-rag-
 
 ## Local Vault File
 
-Path: [community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md](file:///../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)
+Path: [community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md](../../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)

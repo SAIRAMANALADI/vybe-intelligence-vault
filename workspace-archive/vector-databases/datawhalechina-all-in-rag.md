@@ -48,4 +48,4 @@ Original source URL: https://github.com/datawhalechina/all-in-rag
 
 ## Local Vault File
 
-Path: [datawhalechina-all-in-rag.md](file:///../../ai/rag/datawhalechina-all-in-rag.md)
+Path: [datawhalechina-all-in-rag.md](../../ai/rag/datawhalechina-all-in-rag.md)

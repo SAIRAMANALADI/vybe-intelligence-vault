@@ -42,4 +42,4 @@ Original source URL: https://github.com/pdsuwwz/nextjs-nextra-starter
 
 ## Local Vault File
 
-Path: [pdsuwwz-nextjs-nextra-starter.md](file:///../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md)
+Path: [pdsuwwz-nextjs-nextra-starter.md](../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md)

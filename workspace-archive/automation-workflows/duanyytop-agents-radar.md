@@ -49,4 +49,4 @@ Original source URL: https://github.com/duanyytop/agents-radar
 
 ## Local Vault File
 
-Path: [duanyytop-agents-radar.md](file:///../../ai/agents/duanyytop-agents-radar.md)
+Path: [duanyytop-agents-radar.md](../../ai/agents/duanyytop-agents-radar.md)

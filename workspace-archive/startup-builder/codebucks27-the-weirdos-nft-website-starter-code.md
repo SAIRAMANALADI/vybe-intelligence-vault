@@ -45,4 +45,4 @@ Original source URL: https://github.com/codebucks27/the-weirdos-nft-website-star
 
 ## Local Vault File
 
-Path: [codebucks27-the-weirdos-nft-website-starter-code.md](file:///../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md)
+Path: [codebucks27-the-weirdos-nft-website-starter-code.md](../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md)

@@ -53,4 +53,4 @@ Original source URL: https://importai.substack.com/p/import-ai-458-reckoning-wit
 
 ## Local Vault File
 
-Path: [import-ai-458-reckoning-with-the-future-and-a-sing.md](file:///../../ai/rag/import-ai-458-reckoning-with-the-future-and-a-sing.md)
+Path: [import-ai-458-reckoning-with-the-future-and-a-sing.md](../../ai/rag/import-ai-458-reckoning-with-the-future-and-a-sing.md)

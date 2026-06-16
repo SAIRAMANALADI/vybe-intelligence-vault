@@ -51,4 +51,4 @@ Original source URL: https://www.redhat.com/en/blog/planning-design-your-product
 
 ## Local Vault File
 
-Path: [planning-the-design-of-your-production-grade-rag-s.md](file:///../../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
+Path: [planning-the-design-of-your-production-grade-rag-s.md](../../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)

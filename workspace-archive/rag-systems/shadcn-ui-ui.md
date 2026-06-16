@@ -44,4 +44,4 @@ Original source URL: https://github.com/shadcn-ui/ui
 
 ## Local Vault File
 
-Path: [shadcn-ui-ui.md](file:///../../web-development/shadcn-ui/shadcn-ui-ui.md)
+Path: [shadcn-ui-ui.md](../../web-development/shadcn-ui/shadcn-ui-ui.md)

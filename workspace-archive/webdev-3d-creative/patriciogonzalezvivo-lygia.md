@@ -44,4 +44,4 @@ Original source URL: https://github.com/patriciogonzalezvivo/lygia
 
 ## Local Vault File
 
-Path: [patriciogonzalezvivo-lygia.md](file:///../../web-development/webgpu/patriciogonzalezvivo-lygia.md)
+Path: [patriciogonzalezvivo-lygia.md](../../web-development/webgpu/patriciogonzalezvivo-lygia.md)

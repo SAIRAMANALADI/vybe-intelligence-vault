@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dask-scaling
 
 ## Local Vault File
 
-Path: [scaling-ai-based-data-processing-with-hugging-face.md](file:///../../ai/models/scaling-ai-based-data-processing-with-hugging-face.md)
+Path: [scaling-ai-based-data-processing-with-hugging-face.md](../../ai/models/scaling-ai-based-data-processing-with-hugging-face.md)

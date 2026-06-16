@@ -45,4 +45,4 @@ Original source URL: https://github.com/whoisryosuke/r3f-next-starter
 
 ## Local Vault File
 
-Path: [whoisryosuke-r3f-next-starter.md](file:///../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md)
+Path: [whoisryosuke-r3f-next-starter.md](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md)

@@ -45,4 +45,4 @@ Original source URL: https://github.com/pmndrs/use-cannon
 
 ## Local Vault File
 
-Path: [pmndrs-use-cannon.md](file:///../../web-development/react-three-fiber/pmndrs-use-cannon.md)
+Path: [pmndrs-use-cannon.md](../../web-development/react-three-fiber/pmndrs-use-cannon.md)

@@ -44,4 +44,4 @@ Original source URL: https://github.com/techwithtim/Langflow-RAG-Tutorial
 
 ## Local Vault File
 
-Path: [techwithtim-langflow-rag-tutorial.md](file:///../../ai/rag/techwithtim-langflow-rag-tutorial.md)
+Path: [techwithtim-langflow-rag-tutorial.md](../../ai/rag/techwithtim-langflow-rag-tutorial.md)

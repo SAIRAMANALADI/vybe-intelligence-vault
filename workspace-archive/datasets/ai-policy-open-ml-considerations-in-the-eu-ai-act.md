@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-oss
 
 ## Local Vault File
 
-Path: [ai-policy-open-ml-considerations-in-the-eu-ai-act.md](file:///../../ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act.md)
+Path: [ai-policy-open-ml-considerations-in-the-eu-ai-act.md](../../ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act.md)

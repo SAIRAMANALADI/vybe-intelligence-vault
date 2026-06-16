@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-optimum-amd
 
 ## Local Vault File
 
-Path: [amd-large-language-models-out-of-the-box-accelerat.md](file:///../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)
+Path: [amd-large-language-models-out-of-the-box-accelerat.md](../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)

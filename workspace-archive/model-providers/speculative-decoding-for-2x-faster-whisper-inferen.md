@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/whisper-speculative-decoding
 
 ## Local Vault File
 
-Path: [speculative-decoding-for-2x-faster-whisper-inferen.md](file:///../../ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)
+Path: [speculative-decoding-for-2x-faster-whisper-inferen.md](../../ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)

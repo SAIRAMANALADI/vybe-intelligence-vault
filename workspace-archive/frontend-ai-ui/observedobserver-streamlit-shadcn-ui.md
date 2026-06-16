@@ -45,4 +45,4 @@ Original source URL: https://github.com/observedobserver/streamlit-shadcn-ui
 
 ## Local Vault File
 
-Path: [observedobserver-streamlit-shadcn-ui.md](file:///../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
+Path: [observedobserver-streamlit-shadcn-ui.md](../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)

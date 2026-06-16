@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
 
 ## Local Vault File
 
-Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging.md](file:///../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)
+Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging.md](../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)

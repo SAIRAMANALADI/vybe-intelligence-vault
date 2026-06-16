@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-amd
 
 ## Local Vault File
 
-Path: [hugging-face-and-amd-partner-on-accelerating-state.md](file:///../../ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)
+Path: [hugging-face-and-amd-partner-on-accelerating-state.md](../../ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)

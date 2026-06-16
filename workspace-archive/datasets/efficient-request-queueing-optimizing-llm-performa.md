@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tngtech/llm-performance-request
 
 ## Local Vault File
 
-Path: [efficient-request-queueing-optimizing-llm-performa.md](file:///../../ai/models/efficient-request-queueing-optimizing-llm-performa.md)
+Path: [efficient-request-queueing-optimizing-llm-performa.md](../../ai/models/efficient-request-queueing-optimizing-llm-performa.md)

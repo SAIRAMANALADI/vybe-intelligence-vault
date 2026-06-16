@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugging-science
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugging-science.md](file:///../../ai/models/huggingface-blog-hugging-science.md)
+Path: [huggingface-blog-hugging-science.md](../../ai/models/huggingface-blog-hugging-science.md)

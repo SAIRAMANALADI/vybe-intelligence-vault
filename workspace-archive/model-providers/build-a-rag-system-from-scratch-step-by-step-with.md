@@ -54,4 +54,4 @@ Original source URL: https://nerdleveltech.com/guides/rag-hands-on-tutorial
 
 ## Local Vault File
 
-Path: [build-a-rag-system-from-scratch-step-by-step-with.md](file:///../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)
+Path: [build-a-rag-system-from-scratch-step-by-step-with.md](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md)

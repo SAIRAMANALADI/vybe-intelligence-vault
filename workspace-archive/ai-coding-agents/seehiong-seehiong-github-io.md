@@ -47,4 +47,4 @@ Original source URL: https://github.com/seehiong/seehiong.github.io
 
 ## Local Vault File
 
-Path: [seehiong-seehiong-github-io.md](file:///../../ai/agents/seehiong-seehiong-github-io.md)
+Path: [seehiong-seehiong-github-io.md](../../ai/agents/seehiong-seehiong-github-io.md)

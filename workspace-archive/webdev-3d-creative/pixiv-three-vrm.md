@@ -44,4 +44,4 @@ Original source URL: https://github.com/pixiv/three-vrm
 
 ## Local Vault File
 
-Path: [pixiv-three-vrm.md](file:///../../web-development/threejs/pixiv-three-vrm.md)
+Path: [pixiv-three-vrm.md](../../web-development/threejs/pixiv-three-vrm.md)

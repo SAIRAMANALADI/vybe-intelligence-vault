@@ -44,4 +44,4 @@ Original source URL: https://github.com/bhancockio/crewai-updated-tutorial-hiera
 
 ## Local Vault File
 
-Path: [bhancockio-crewai-updated-tutorial-hierarchical.md](file:///../../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md)
+Path: [bhancockio-crewai-updated-tutorial-hierarchical.md](../../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md)

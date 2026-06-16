@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tpu-inference-endpoints-spaces
 
 ## Local Vault File
 
-Path: [google-cloud-tpus-made-available-to-hugging-face-u.md](file:///../../ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)
+Path: [google-cloud-tpus-made-available-to-hugging-face-u.md](../../ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)

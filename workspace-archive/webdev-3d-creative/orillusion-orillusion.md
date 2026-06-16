@@ -44,4 +44,4 @@ Original source URL: https://github.com/orillusion/orillusion
 
 ## Local Vault File
 
-Path: [orillusion-orillusion.md](file:///../../web-development/webgpu/orillusion-orillusion.md)
+Path: [orillusion-orillusion.md](../../web-development/webgpu/orillusion-orillusion.md)

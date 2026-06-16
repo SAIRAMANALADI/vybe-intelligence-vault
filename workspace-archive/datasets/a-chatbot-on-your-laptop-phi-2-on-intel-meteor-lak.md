@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/phi2-intel-meteor-lake
 
 ## Local Vault File
 
-Path: [a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md](file:///../../ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md)
+Path: [a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md](../../ai/models/a-chatbot-on-your-laptop-phi-2-on-intel-meteor-lak.md)

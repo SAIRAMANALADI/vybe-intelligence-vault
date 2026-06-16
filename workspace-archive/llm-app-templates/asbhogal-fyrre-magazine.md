@@ -44,4 +44,4 @@ Original source URL: https://github.com/asbhogal/fyrre-magazine
 
 ## Local Vault File
 
-Path: [asbhogal-fyrre-magazine.md](file:///../../web-development/nextjs/asbhogal-fyrre-magazine.md)
+Path: [asbhogal-fyrre-magazine.md](../../web-development/nextjs/asbhogal-fyrre-magazine.md)

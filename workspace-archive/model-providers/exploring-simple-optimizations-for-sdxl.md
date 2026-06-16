@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple_sdxl_optimizations
 
 ## Local Vault File
 
-Path: [exploring-simple-optimizations-for-sdxl.md](file:///../../ai/models/exploring-simple-optimizations-for-sdxl.md)
+Path: [exploring-simple-optimizations-for-sdxl.md](../../ai/models/exploring-simple-optimizations-for-sdxl.md)

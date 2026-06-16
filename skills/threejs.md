@@ -25,7 +25,7 @@ Recently detected signals:
 - [alphardex/kokomi.js](../web-development/threejs/alphardex-kokomi-js.md) (Source: Unknown Source) - Collected 2026-06-16
 - [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) (Source: Unknown Source) - Collected 2026-06-16
 - [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo.md) (Source: Unknown Source) - Collected 2026-06-16
-- [sanderblue/solar-system-threejs](../web-development/threejs/sanderblue-solar-system-threejs.md) (Source: Unknown Source) - Collected 2026-06-16
+- [fritx/vue-threejs](../web-development/threejs/fritx-vue-threejs.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -116,7 +116,7 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: gsimone/r3f-bubbles
 
-### 18. [pmndrs/react-three-fiber](../web-development/threejs/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
+### 18. [pmndrs/react-three-fiber](../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([GitHub](https://github.com/pmndrs/react-three-fiber))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pmndrs/react-three-fiber
@@ -236,35 +236,35 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: spite/Wagner
 
-### 42. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/drei
-
-### 43. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/uikit
-
-### 44. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/react-three-flex
-
-### 45. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pmndrs/triplex
-
-### 46. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+### 42. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: patriciogonzalezvivo/lygia
 
-### 47. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
+### 43. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: playcanvas/engine
+
+### 44. [pmndrs/drei](../web-development/react-three-fiber/pmndrs-drei.md) ([GitHub](https://github.com/pmndrs/drei))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/drei
+
+### 45. [pmndrs/uikit](../web-development/react-three-fiber/pmndrs-uikit.md) ([GitHub](https://github.com/pmndrs/uikit))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/uikit
+
+### 46. [pmndrs/react-three-flex](../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([GitHub](https://github.com/pmndrs/react-three-flex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/react-three-flex
+
+### 47. [pmndrs/triplex](../web-development/react-three-fiber/pmndrs-triplex.md) ([GitHub](https://github.com/pmndrs/triplex))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pmndrs/triplex
 
 ### 48. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T17:33:08.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

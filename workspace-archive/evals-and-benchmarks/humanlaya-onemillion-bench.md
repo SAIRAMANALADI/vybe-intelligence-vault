@@ -47,4 +47,4 @@ Original source URL: https://github.com/humanlaya/OneMillion-Bench
 
 ## Local Vault File
 
-Path: [humanlaya-onemillion-bench.md](file:///../../ai/agents/humanlaya-onemillion-bench.md)
+Path: [humanlaya-onemillion-bench.md](../../ai/agents/humanlaya-onemillion-bench.md)

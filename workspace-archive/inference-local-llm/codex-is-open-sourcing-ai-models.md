@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training-codex
 
 ## Local Vault File
 
-Path: [codex-is-open-sourcing-ai-models.md](file:///../../ai/models/codex-is-open-sourcing-ai-models.md)
+Path: [codex-is-open-sourcing-ai-models.md](../../ai/models/codex-is-open-sourcing-ai-models.md)

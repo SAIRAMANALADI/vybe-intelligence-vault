@@ -44,4 +44,4 @@ Original source URL: https://github.com/HKUDS/OpenPhone
 
 ## Local Vault File
 
-Path: [hkuds-openphone.md](file:///../../ai/agents/hkuds-openphone.md)
+Path: [hkuds-openphone.md](../../ai/agents/hkuds-openphone.md)

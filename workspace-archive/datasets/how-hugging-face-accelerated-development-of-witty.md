@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/classification-use-cases
 
 ## Local Vault File
 
-Path: [how-hugging-face-accelerated-development-of-witty.md](file:///../../ai/models/how-hugging-face-accelerated-development-of-witty.md)
+Path: [how-hugging-face-accelerated-development-of-witty.md](../../ai/models/how-hugging-face-accelerated-development-of-witty.md)

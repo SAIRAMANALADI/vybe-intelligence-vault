@@ -43,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-vectara
 
 ## Local Vault File
 
-Path: [a-guide-to-setting-up-your-own-hugging-face-leader.md](file:///../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)
+Path: [a-guide-to-setting-up-your-own-hugging-face-leader.md](../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)

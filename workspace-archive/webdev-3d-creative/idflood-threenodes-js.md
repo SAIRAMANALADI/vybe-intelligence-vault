@@ -44,4 +44,4 @@ Original source URL: https://github.com/idflood/threenodes.js
 
 ## Local Vault File
 
-Path: [idflood-threenodes-js.md](file:///../../web-development/webgl/idflood-threenodes-js.md)
+Path: [idflood-threenodes-js.md](../../web-development/webgl/idflood-threenodes-js.md)

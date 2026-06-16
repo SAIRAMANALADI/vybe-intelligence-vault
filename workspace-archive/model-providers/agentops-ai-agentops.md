@@ -52,4 +52,4 @@ Original source URL: https://github.com/AgentOps-AI/agentops
 
 ## Local Vault File
 
-Path: [agentops-ai-agentops.md](file:///../../ai/agents/agentops-ai-agentops.md)
+Path: [agentops-ai-agentops.md](../../ai/agents/agentops-ai-agentops.md)

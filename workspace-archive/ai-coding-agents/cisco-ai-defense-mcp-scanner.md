@@ -44,4 +44,4 @@ Original source URL: https://github.com/cisco-ai-defense/mcp-scanner
 
 ## Local Vault File
 
-Path: [cisco-ai-defense-mcp-scanner.md](file:///../../ai/agents/cisco-ai-defense-mcp-scanner.md)
+Path: [cisco-ai-defense-mcp-scanner.md](../../ai/agents/cisco-ai-defense-mcp-scanner.md)

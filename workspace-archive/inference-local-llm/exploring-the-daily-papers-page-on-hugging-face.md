@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/daily-papers
 
 ## Local Vault File
 
-Path: [exploring-the-daily-papers-page-on-hugging-face.md](file:///../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)
+Path: [exploring-the-daily-papers-page-on-hugging-face.md](../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)

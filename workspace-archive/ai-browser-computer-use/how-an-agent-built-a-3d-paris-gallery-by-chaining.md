@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/mishig/spaces-agents-md
 
 ## Local Vault File
 
-Path: [how-an-agent-built-a-3d-paris-gallery-by-chaining.md](file:///../../ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining.md)
+Path: [how-an-agent-built-a-3d-paris-gallery-by-chaining.md](../../ai/agents/how-an-agent-built-a-3d-paris-gallery-by-chaining.md)

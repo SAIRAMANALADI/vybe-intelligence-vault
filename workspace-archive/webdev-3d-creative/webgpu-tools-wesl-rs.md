@@ -44,4 +44,4 @@ Original source URL: https://github.com/webgpu-tools/wesl-rs
 
 ## Local Vault File
 
-Path: [webgpu-tools-wesl-rs.md](file:///../../web-development/webgpu/webgpu-tools-wesl-rs.md)
+Path: [webgpu-tools-wesl-rs.md](../../web-development/webgpu/webgpu-tools-wesl-rs.md)

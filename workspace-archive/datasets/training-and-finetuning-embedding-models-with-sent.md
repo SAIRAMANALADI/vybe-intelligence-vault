@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [training-and-finetuning-embedding-models-with-sent.md](file:///../../ai/models/training-and-finetuning-embedding-models-with-sent.md)
+Path: [training-and-finetuning-embedding-models-with-sent.md](../../ai/models/training-and-finetuning-embedding-models-with-sent.md)

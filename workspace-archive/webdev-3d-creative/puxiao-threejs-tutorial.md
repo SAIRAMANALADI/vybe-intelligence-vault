@@ -45,4 +45,4 @@ Original source URL: https://github.com/puxiao/threejs-tutorial
 
 ## Local Vault File
 
-Path: [puxiao-threejs-tutorial.md](file:///../../web-development/threejs/puxiao-threejs-tutorial.md)
+Path: [puxiao-threejs-tutorial.md](../../web-development/threejs/puxiao-threejs-tutorial.md)

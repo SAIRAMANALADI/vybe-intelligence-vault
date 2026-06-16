@@ -44,4 +44,4 @@ Original source URL: https://github.com/gpuweb/gpuweb
 
 ## Local Vault File
 
-Path: [gpuweb-gpuweb.md](file:///../../web-development/webgpu/gpuweb-gpuweb.md)
+Path: [gpuweb-gpuweb.md](../../web-development/webgpu/gpuweb-gpuweb.md)

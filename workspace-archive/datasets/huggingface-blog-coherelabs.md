@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/coherelabs
 
 ## Local Vault File
 
-Path: [huggingface-blog-coherelabs.md](file:///../../ai/models/huggingface-blog-coherelabs.md)
+Path: [huggingface-blog-coherelabs.md](../../ai/models/huggingface-blog-coherelabs.md)

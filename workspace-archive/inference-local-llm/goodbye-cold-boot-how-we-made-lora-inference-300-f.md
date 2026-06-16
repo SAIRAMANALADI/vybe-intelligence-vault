@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-adapters-dynamic-loading
 
 ## Local Vault File
 
-Path: [goodbye-cold-boot-how-we-made-lora-inference-300-f.md](file:///../../ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)
+Path: [goodbye-cold-boot-how-we-made-lora-inference-300-f.md](../../ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)

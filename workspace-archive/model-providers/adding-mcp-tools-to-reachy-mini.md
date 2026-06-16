@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 
 ## Local Vault File
 
-Path: [adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/adding-mcp-tools-to-reachy-mini.md)
+Path: [adding-mcp-tools-to-reachy-mini.md](../../ai/models/adding-mcp-tools-to-reachy-mini.md)

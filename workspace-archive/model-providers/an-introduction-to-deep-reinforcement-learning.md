@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-intro
 
 ## Local Vault File
 
-Path: [an-introduction-to-deep-reinforcement-learning.md](file:///../../ai/models/an-introduction-to-deep-reinforcement-learning.md)
+Path: [an-introduction-to-deep-reinforcement-learning.md](../../ai/models/an-introduction-to-deep-reinforcement-learning.md)

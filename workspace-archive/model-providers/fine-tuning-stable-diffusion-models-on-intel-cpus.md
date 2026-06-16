@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-finetuning-int
 
 ## Local Vault File
 
-Path: [fine-tuning-stable-diffusion-models-on-intel-cpus.md](file:///../../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md)
+Path: [fine-tuning-stable-diffusion-models-on-intel-cpus.md](../../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/if
 
 ## Local Vault File
 
-Path: [running-if-with-diffusers-on-a-free-tier-google-co.md](file:///../../ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)
+Path: [running-if-with-diffusers-on-a-free-tier-google-co.md](../../ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)

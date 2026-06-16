@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/nvidia-physical-ai
 
 ## Local Vault File
 
-Path: [nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md](file:///../../ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md)
+Path: [nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md](../../ai/models/nvidia-s-gtc-2025-announcement-for-physical-ai-dev.md)

@@ -52,4 +52,4 @@ Original source URL: https://medium.com/@anish.chitturu/building-your-own-rag-sy
 
 ## Local Vault File
 
-Path: [building-your-own-rag-system-from-scratch-a-step-b.md](file:///../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)
+Path: [building-your-own-rag-system-from-scratch-a-step-b.md](../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)

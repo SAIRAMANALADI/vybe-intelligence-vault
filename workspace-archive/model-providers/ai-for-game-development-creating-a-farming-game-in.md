@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-2
 
 ## Local Vault File
 
-Path: [ai-for-game-development-creating-a-farming-game-in.md](file:///../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)
+Path: [ai-for-game-development-creating-a-farming-game-in.md](../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)

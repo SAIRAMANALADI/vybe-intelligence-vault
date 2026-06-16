@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/blip-2
 
 ## Local Vault File
 
-Path: [zero-shot-image-to-text-generation-with-blip-2.md](file:///../../ai/models/zero-shot-image-to-text-generation-with-blip-2.md)
+Path: [zero-shot-image-to-text-generation-with-blip-2.md](../../ai/models/zero-shot-image-to-text-generation-with-blip-2.md)

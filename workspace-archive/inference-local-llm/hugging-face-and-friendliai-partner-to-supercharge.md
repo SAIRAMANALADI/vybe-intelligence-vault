@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/friendliai-partnership
 
 ## Local Vault File
 
-Path: [hugging-face-and-friendliai-partner-to-supercharge.md](file:///../../ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)
+Path: [hugging-face-and-friendliai-partner-to-supercharge.md](../../ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)

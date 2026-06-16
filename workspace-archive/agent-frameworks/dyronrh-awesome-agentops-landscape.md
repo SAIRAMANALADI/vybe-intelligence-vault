@@ -45,4 +45,4 @@ Original source URL: https://github.com/dyronrh/awesome-agentops-landscape
 
 ## Local Vault File
 
-Path: [dyronrh-awesome-agentops-landscape.md](file:///../../ai/agents/dyronrh-awesome-agentops-landscape.md)
+Path: [dyronrh-awesome-agentops-landscape.md](../../ai/agents/dyronrh-awesome-agentops-landscape.md)

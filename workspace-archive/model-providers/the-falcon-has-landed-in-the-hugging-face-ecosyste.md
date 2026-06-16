@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [the-falcon-has-landed-in-the-hugging-face-ecosyste.md](file:///../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)
+Path: [the-falcon-has-landed-in-the-hugging-face-ecosyste.md](../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)

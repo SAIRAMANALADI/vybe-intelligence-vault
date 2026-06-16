@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part1
 
 ## Local Vault File
 
-Path: [an-introduction-to-q-learning-part-1.md](file:///../../ai/models/an-introduction-to-q-learning-part-1.md)
+Path: [an-introduction-to-q-learning-part-1.md](../../ai/models/an-introduction-to-q-learning-part-1.md)

@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-cot
 
 ## Local Vault File
 
-Path: [introducing-the-open-chain-of-thought-leaderboard.md](file:///../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)
+Path: [introducing-the-open-chain-of-thought-leaderboard.md](../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)

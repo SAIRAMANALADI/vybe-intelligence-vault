@@ -43,4 +43,4 @@ Original source URL: https://microsoft.com/en-us/research/publications
 
 ## Local Vault File
 
-Path: [publications.md](file:///../../ai/companies/publications.md)
+Path: [publications.md](../../ai/companies/publications.md)

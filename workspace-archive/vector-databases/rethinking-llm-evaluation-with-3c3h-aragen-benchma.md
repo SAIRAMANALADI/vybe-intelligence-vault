@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen
 
 ## Local Vault File
 
-Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchma.md](file:///../../ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)
+Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchma.md](../../ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)

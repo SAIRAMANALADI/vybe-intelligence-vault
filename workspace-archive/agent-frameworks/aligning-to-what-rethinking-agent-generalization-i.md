@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/minimax-ai/aligning-to-what
 
 ## Local Vault File
 
-Path: [aligning-to-what-rethinking-agent-generalization-i.md](file:///../../ai/agents/aligning-to-what-rethinking-agent-generalization-i.md)
+Path: [aligning-to-what-rethinking-agent-generalization-i.md](../../ai/agents/aligning-to-what-rethinking-agent-generalization-i.md)

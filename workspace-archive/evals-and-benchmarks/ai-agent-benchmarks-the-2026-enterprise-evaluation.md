@@ -47,4 +47,4 @@ Original source URL: https://www.automationanywhere.com/company/blog/product-ins
 
 ## Local Vault File
 
-Path: [ai-agent-benchmarks-the-2026-enterprise-evaluation.md](file:///../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation.md)
+Path: [ai-agent-benchmarks-the-2026-enterprise-evaluation.md](../../ai/agents/ai-agent-benchmarks-the-2026-enterprise-evaluation.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 
 ## Local Vault File
 
-Path: [very-large-language-models-and-how-to-evaluate-the.md](file:///../../ai/models/very-large-language-models-and-how-to-evaluate-the.md)
+Path: [very-large-language-models-and-how-to-evaluate-the.md](../../ai/models/very-large-language-models-and-how-to-evaluate-the.md)

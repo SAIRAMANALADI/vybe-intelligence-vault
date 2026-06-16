@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/vllm-colocate
 
 ## Local Vault File
 
-Path: [no-gpu-left-behind-unlocking-efficiency-with-co-lo.md](file:///../../ai/models/no-gpu-left-behind-unlocking-efficiency-with-co-lo.md)
+Path: [no-gpu-left-behind-unlocking-efficiency-with-co-lo.md](../../ai/models/no-gpu-left-behind-unlocking-efficiency-with-co-lo.md)

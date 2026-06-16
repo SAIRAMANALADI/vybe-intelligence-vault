@@ -45,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ibm-granite/granite-embedding-m
 
 ## Local Vault File
 
-Path: [granite-embedding-multilingual-r2-open-apache-2-0.md](file:///../../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
+Path: [granite-embedding-multilingual-r2-open-apache-2-0.md](../../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)

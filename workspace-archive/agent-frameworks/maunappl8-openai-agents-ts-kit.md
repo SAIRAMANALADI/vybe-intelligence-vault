@@ -47,4 +47,4 @@ Original source URL: https://github.com/maunappl8/openai-agents-ts-kit
 
 ## Local Vault File
 
-Path: [maunappl8-openai-agents-ts-kit.md](file:///../../ai/agents/maunappl8-openai-agents-ts-kit.md)
+Path: [maunappl8-openai-agents-ts-kit.md](../../ai/agents/maunappl8-openai-agents-ts-kit.md)

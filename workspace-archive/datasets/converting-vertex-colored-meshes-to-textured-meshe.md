@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vertex-colored-to-textured-mesh
 
 ## Local Vault File
 
-Path: [converting-vertex-colored-meshes-to-textured-meshe.md](file:///../../ai/models/converting-vertex-colored-meshes-to-textured-meshe.md)
+Path: [converting-vertex-colored-meshes-to-textured-meshe.md](../../ai/models/converting-vertex-colored-meshes-to-textured-meshe.md)

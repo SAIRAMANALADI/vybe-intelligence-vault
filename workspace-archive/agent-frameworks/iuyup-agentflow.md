@@ -48,4 +48,4 @@ Original source URL: https://github.com/iuyup/AgentFlow
 
 ## Local Vault File
 
-Path: [iuyup-agentflow.md](file:///../../ai/agents/iuyup-agentflow.md)
+Path: [iuyup-agentflow.md](../../ai/agents/iuyup-agentflow.md)

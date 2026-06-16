@@ -51,4 +51,4 @@ Original source URL: https://www.firecrawl.dev/blog/best-open-source-rag-framewo
 
 ## Local Vault File
 
-Path: [15-best-open-source-rag-frameworks-in-2026.md](file:///../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)
+Path: [15-best-open-source-rag-frameworks-in-2026.md](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md)

@@ -46,4 +46,4 @@ Original source URL: https://github.com/flexpa/llm-fhir-eval
 
 ## Local Vault File
 
-Path: [flexpa-llm-fhir-eval.md](file:///../../ai/resources/flexpa-llm-fhir-eval.md)
+Path: [flexpa-llm-fhir-eval.md](../../ai/resources/flexpa-llm-fhir-eval.md)

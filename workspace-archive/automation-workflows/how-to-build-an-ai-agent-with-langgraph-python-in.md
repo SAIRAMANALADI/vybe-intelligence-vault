@@ -53,4 +53,4 @@ Original source URL: https://tech-insider.org/langgraph-tutorial-ai-agent-python
 
 ## Local Vault File
 
-Path: [how-to-build-an-ai-agent-with-langgraph-python-in.md](file:///../../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)
+Path: [how-to-build-an-ai-agent-with-langgraph-python-in.md](../../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)

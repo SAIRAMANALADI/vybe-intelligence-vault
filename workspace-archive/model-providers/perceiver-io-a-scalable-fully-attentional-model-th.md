@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/perceiver
 
 ## Local Vault File
 
-Path: [perceiver-io-a-scalable-fully-attentional-model-th.md](file:///../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)
+Path: [perceiver-io-a-scalable-fully-attentional-model-th.md](../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)

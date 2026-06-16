@@ -46,4 +46,4 @@ Original source URL: https://github.com/nixopus/nixopus
 
 ## Local Vault File
 
-Path: [nixopus-nixopus.md](file:///../../ai/agents/nixopus-nixopus.md)
+Path: [nixopus-nixopus.md](../../ai/agents/nixopus-nixopus.md)

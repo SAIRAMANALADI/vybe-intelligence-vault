@@ -44,4 +44,4 @@ Original source URL: https://github.com/ln-dev7/square-ui
 
 ## Local Vault File
 
-Path: [ln-dev7-square-ui.md](file:///../../web-development/shadcn-ui/ln-dev7-square-ui.md)
+Path: [ln-dev7-square-ui.md](../../web-development/shadcn-ui/ln-dev7-square-ui.md)

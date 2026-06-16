@@ -45,4 +45,4 @@ Original source URL: https://colab.research.google.com/github/mrdbourke/simple-l
 
 ## Local Vault File
 
-Path: [google-colab.md](file:///../../ai/rag/google-colab.md)
+Path: [google-colab.md](../../ai/rag/google-colab.md)

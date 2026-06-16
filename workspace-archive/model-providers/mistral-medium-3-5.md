@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/vibe-remote-agents-mistral-medium-3
 
 ## Local Vault File
 
-Path: [mistral-medium-3-5.md](file:///../../ai/companies/mistral/mistral-medium-3-5.md)
+Path: [mistral-medium-3-5.md](../../ai/companies/mistral/mistral-medium-3-5.md)

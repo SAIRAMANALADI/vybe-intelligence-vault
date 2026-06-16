@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/faster-transformers
 
 ## Local Vault File
 
-Path: [tricks-from-openai-gpt-oss-you-can-use-with-transf.md](file:///../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)
+Path: [tricks-from-openai-gpt-oss-you-can-use-with-transf.md](../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)

@@ -51,4 +51,4 @@ Original source URL: https://www.geeksforgeeks.org/artificial-intelligence/rag-s
 
 ## Local Vault File
 
-Path: [rag-system-with-langchain-and-langgraph-geeksforge.md](file:///../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)
+Path: [rag-system-with-langchain-and-langgraph-geeksforge.md](../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)

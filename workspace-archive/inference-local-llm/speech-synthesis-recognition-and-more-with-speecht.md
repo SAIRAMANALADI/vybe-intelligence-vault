@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [speech-synthesis-recognition-and-more-with-speecht.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)
+Path: [speech-synthesis-recognition-and-more-with-speecht.md](../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)

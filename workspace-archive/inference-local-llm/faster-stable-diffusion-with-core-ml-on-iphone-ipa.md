@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-diffusers-coreml
 
 ## Local Vault File
 
-Path: [faster-stable-diffusion-with-core-ml-on-iphone-ipa.md](file:///../../ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)
+Path: [faster-stable-diffusion-with-core-ml-on-iphone-ipa.md](../../ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)

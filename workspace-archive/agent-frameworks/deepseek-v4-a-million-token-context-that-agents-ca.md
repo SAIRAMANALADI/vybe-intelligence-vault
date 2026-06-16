@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/deepseekv4
 
 ## Local Vault File
 
-Path: [deepseek-v4-a-million-token-context-that-agents-ca.md](file:///../../ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)
+Path: [deepseek-v4-a-million-token-context-that-agents-ca.md](../../ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)

@@ -47,4 +47,4 @@ Original source URL: https://github.com/FareedKhan-dev/all-agentic-architectures
 
 ## Local Vault File
 
-Path: [fareedkhan-dev-all-agentic-architectures.md](file:///../../ai/rag/fareedkhan-dev-all-agentic-architectures.md)
+Path: [fareedkhan-dev-all-agentic-architectures.md](../../ai/rag/fareedkhan-dev-all-agentic-architectures.md)

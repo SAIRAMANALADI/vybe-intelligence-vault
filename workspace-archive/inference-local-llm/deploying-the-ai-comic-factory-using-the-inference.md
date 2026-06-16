@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-comic-factory
 
 ## Local Vault File
 
-Path: [deploying-the-ai-comic-factory-using-the-inference.md](file:///../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)
+Path: [deploying-the-ai-comic-factory-using-the-inference.md](../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)

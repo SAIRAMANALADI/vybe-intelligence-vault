@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [tool-use-unified.md](file:///../../ai/models/tool-use-unified.md)
+Path: [tool-use-unified.md](../../ai/models/tool-use-unified.md)

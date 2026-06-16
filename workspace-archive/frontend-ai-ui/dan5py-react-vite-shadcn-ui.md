@@ -44,4 +44,4 @@ Original source URL: https://github.com/dan5py/react-vite-shadcn-ui
 
 ## Local Vault File
 
-Path: [dan5py-react-vite-shadcn-ui.md](file:///../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)
+Path: [dan5py-react-vite-shadcn-ui.md](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md)

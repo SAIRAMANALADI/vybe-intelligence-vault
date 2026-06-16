@@ -48,4 +48,4 @@ Original source URL: https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-ac
 
 ## Local Vault File
 
-Path: [company-mistral-ai-partners-with-nvidia-to-acceler.md](file:///../../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md)
+Path: [company-mistral-ai-partners-with-nvidia-to-acceler.md](../../ai/companies/mistral/company-mistral-ai-partners-with-nvidia-to-acceler.md)

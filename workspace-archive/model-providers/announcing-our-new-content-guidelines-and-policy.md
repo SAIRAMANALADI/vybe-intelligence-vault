@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/content-guidelines-update
 
 ## Local Vault File
 
-Path: [announcing-our-new-content-guidelines-and-policy.md](file:///../../ai/models/announcing-our-new-content-guidelines-and-policy.md)
+Path: [announcing-our-new-content-guidelines-and-policy.md](../../ai/models/announcing-our-new-content-guidelines-and-policy.md)

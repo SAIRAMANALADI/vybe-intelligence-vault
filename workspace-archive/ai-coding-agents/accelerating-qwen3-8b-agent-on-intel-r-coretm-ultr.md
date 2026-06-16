@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-qwen3-agent
 
 ## Local Vault File
 
-Path: [accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md](file:///../../ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md)
+Path: [accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md](../../ai/agents/accelerating-qwen3-8b-agent-on-intel-r-coretm-ultr.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggy-lingo
 
 ## Local Vault File
 
-Path: [huggy-lingo-using-machine-learning-to-improve-lang.md](file:///../../ai/models/huggy-lingo-using-machine-learning-to-improve-lang.md)
+Path: [huggy-lingo-using-machine-learning-to-improve-lang.md](../../ai/models/huggy-lingo-using-machine-learning-to-improve-lang.md)

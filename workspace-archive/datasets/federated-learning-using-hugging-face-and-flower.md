@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fl-with-flower
 
 ## Local Vault File
 
-Path: [federated-learning-using-hugging-face-and-flower.md](file:///../../ai/models/federated-learning-using-hugging-face-and-flower.md)
+Path: [federated-learning-using-hugging-face-and-flower.md](../../ai/models/federated-learning-using-hugging-face-and-flower.md)

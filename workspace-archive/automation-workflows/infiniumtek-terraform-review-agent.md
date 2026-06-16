@@ -48,4 +48,4 @@ Original source URL: https://github.com/infiniumtek/terraform-review-agent
 
 ## Local Vault File
 
-Path: [infiniumtek-terraform-review-agent.md](file:///../../ai/agents/infiniumtek-terraform-review-agent.md)
+Path: [infiniumtek-terraform-review-agent.md](../../ai/agents/infiniumtek-terraform-review-agent.md)

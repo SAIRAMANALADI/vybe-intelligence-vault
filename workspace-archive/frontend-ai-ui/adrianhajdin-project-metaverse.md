@@ -45,4 +45,4 @@ Original source URL: https://github.com/adrianhajdin/project_metaverse
 
 ## Local Vault File
 
-Path: [adrianhajdin-project-metaverse.md](file:///../../web-development/framer-motion/adrianhajdin-project-metaverse.md)
+Path: [adrianhajdin-project-metaverse.md](../../web-development/framer-motion/adrianhajdin-project-metaverse.md)

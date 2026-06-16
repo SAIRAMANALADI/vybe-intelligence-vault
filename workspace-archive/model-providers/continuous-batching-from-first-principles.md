@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_batching
 
 ## Local Vault File
 
-Path: [continuous-batching-from-first-principles.md](file:///../../ai/models/continuous-batching-from-first-principles.md)
+Path: [continuous-batching-from-first-principles.md](../../ai/models/continuous-batching-from-first-principles.md)

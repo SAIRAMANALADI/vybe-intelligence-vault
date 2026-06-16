@@ -47,4 +47,4 @@ Original source URL: https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-mas
 
 ## Local Vault File
 
-Path: [10-best-crewai-tutorials-to-master-multi-agent-wor.md](file:///../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md)
+Path: [10-best-crewai-tutorials-to-master-multi-agent-wor.md](../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md)

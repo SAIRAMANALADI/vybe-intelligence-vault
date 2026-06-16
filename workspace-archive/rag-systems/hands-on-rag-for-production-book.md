@@ -46,4 +46,4 @@ Original source URL: https://www.oreilly.com/library/view/hands-on-rag-for/97983
 
 ## Local Vault File
 
-Path: [hands-on-rag-for-production-book.md](file:///../../ai/rag/hands-on-rag-for-production-book.md)
+Path: [hands-on-rag-for-production-book.md](../../ai/rag/hands-on-rag-for-production-book.md)

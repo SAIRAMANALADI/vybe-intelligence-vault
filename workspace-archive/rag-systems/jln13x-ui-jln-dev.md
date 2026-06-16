@@ -44,4 +44,4 @@ Original source URL: https://github.com/jln13x/ui.jln.dev
 
 ## Local Vault File
 
-Path: [jln13x-ui-jln-dev.md](file:///../../web-development/shadcn-ui/jln13x-ui-jln-dev.md)
+Path: [jln13x-ui-jln-dev.md](../../web-development/shadcn-ui/jln13x-ui-jln-dev.md)

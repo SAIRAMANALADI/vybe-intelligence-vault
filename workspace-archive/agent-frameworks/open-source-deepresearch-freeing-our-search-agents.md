@@ -42,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-deep-research
 
 ## Local Vault File
 
-Path: [open-source-deepresearch-freeing-our-search-agents.md](file:///../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)
+Path: [open-source-deepresearch-freeing-our-search-agents.md](../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)

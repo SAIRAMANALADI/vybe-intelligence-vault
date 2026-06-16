@@ -46,4 +46,4 @@ Original source URL: https://github.com/EternityJune25/ComoRAG
 
 ## Local Vault File
 
-Path: [eternityjune25-comorag.md](file:///../../ai/rag/eternityjune25-comorag.md)
+Path: [eternityjune25-comorag.md](../../ai/rag/eternityjune25-comorag.md)

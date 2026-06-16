@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [bringing-serverless-gpu-inference-to-hugging-face.md](file:///../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)
+Path: [bringing-serverless-gpu-inference-to-hugging-face.md](../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)

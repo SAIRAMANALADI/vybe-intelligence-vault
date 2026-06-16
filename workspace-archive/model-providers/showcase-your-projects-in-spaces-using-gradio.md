@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-spaces
 
 ## Local Vault File
 
-Path: [showcase-your-projects-in-spaces-using-gradio.md](file:///../../ai/models/showcase-your-projects-in-spaces-using-gradio.md)
+Path: [showcase-your-projects-in-spaces-using-gradio.md](../../ai/models/showcase-your-projects-in-spaces-using-gradio.md)

@@ -51,4 +51,4 @@ Original source URL: https://github.com/onejune2018/Awesome-LLM-Eval
 
 ## Local Vault File
 
-Path: [onejune2018-awesome-llm-eval.md](file:///../../ai/rag/onejune2018-awesome-llm-eval.md)
+Path: [onejune2018-awesome-llm-eval.md](../../ai/rag/onejune2018-awesome-llm-eval.md)

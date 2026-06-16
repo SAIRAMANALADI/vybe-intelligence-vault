@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-6
 
 ## Local Vault File
 
-Path: [ethics-and-society-newsletter-6-building-better-ai.md](file:///../../ai/models/ethics-and-society-newsletter-6-building-better-ai.md)
+Path: [ethics-and-society-newsletter-6-building-better-ai.md](../../ai/models/ethics-and-society-newsletter-6-building-better-ai.md)

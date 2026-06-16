@@ -44,4 +44,4 @@ Original source URL: https://huggingface.co/blog/mteb
 
 ## Local Vault File
 
-Path: [mteb-massive-text-embedding-benchmark.md](file:///../../ai/models/mteb-massive-text-embedding-benchmark.md)
+Path: [mteb-massive-text-embedding-benchmark.md](../../ai/models/mteb-massive-text-embedding-benchmark.md)

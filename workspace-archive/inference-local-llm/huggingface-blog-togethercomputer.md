@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/togethercomputer
 
 ## Local Vault File
 
-Path: [huggingface-blog-togethercomputer.md](file:///../../ai/models/huggingface-blog-togethercomputer.md)
+Path: [huggingface-blog-togethercomputer.md](../../ai/models/huggingface-blog-togethercomputer.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia/multi-llm-nim
 
 ## Local Vault File
 
-Path: [accelerate-a-world-of-llms-on-hugging-face-with-nv.md](file:///../../ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nv.md)
+Path: [accelerate-a-world-of-llms-on-hugging-face-with-nv.md](../../ai/models/accelerate-a-world-of-llms-on-hugging-face-with-nv.md)

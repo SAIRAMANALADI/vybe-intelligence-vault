@@ -54,4 +54,4 @@ Original source URL: https://benchmarkingagents.com/agent-benchmarks
 
 ## Local Vault File
 
-Path: [ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md](file:///../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md)
+Path: [ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md](../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md)

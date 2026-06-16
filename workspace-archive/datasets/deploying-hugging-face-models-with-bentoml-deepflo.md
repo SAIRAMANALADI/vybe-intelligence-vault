@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-deepfloydif-using-bentom
 
 ## Local Vault File
 
-Path: [deploying-hugging-face-models-with-bentoml-deepflo.md](file:///../../ai/models/deploying-hugging-face-models-with-bentoml-deepflo.md)
+Path: [deploying-hugging-face-models-with-bentoml-deepflo.md](../../ai/models/deploying-hugging-face-models-with-bentoml-deepflo.md)

@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface/shifting-compute-la
 
 ## Local Vault File
 
-Path: [on-the-shifting-global-compute-landscape.md](file:///../../ai/models/on-the-shifting-global-compute-landscape.md)
+Path: [on-the-shifting-global-compute-landscape.md](../../ai/models/on-the-shifting-global-compute-landscape.md)

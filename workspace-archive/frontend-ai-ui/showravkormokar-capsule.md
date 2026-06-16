@@ -47,4 +47,4 @@ Original source URL: https://github.com/showravkormokar/capsule
 
 ## Local Vault File
 
-Path: [showravkormokar-capsule.md](file:///../../web-development/gsap/showravkormokar-capsule.md)
+Path: [showravkormokar-capsule.md](../../web-development/gsap/showravkormokar-capsule.md)

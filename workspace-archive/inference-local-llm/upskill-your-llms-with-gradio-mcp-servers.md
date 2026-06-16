@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-servers
 
 ## Local Vault File
 
-Path: [upskill-your-llms-with-gradio-mcp-servers.md](file:///../../ai/models/upskill-your-llms-with-gradio-mcp-servers.md)
+Path: [upskill-your-llms-with-gradio-mcp-servers.md](../../ai/models/upskill-your-llms-with-gradio-mcp-servers.md)

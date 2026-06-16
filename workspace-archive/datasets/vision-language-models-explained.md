@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vlms
 
 ## Local Vault File
 
-Path: [vision-language-models-explained.md](file:///../../ai/models/vision-language-models-explained.md)
+Path: [vision-language-models-explained.md](../../ai/models/vision-language-models-explained.md)

@@ -41,4 +41,4 @@ Original source URL: https://huggingface.co/blog/servicenow-ai/aprielguard
 
 ## Local Vault File
 
-Path: [aprielguard-a-guardrail-for-safety-and-adversarial.md](file:///../../ai/models/aprielguard-a-guardrail-for-safety-and-adversarial.md)
+Path: [aprielguard-a-guardrail-for-safety-and-adversarial.md](../../ai/models/aprielguard-a-guardrail-for-safety-and-adversarial.md)

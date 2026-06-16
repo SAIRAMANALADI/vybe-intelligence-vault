@@ -44,4 +44,4 @@ Original source URL: https://github.com/SylphAI-Inc/GithubChat
 
 ## Local Vault File
 
-Path: [sylphai-inc-githubchat.md](file:///../../ai/rag/sylphai-inc-githubchat.md)
+Path: [sylphai-inc-githubchat.md](../../ai/rag/sylphai-inc-githubchat.md)

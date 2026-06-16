@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-deepspeed
 
 ## Local Vault File
 
-Path: [accelerate-large-model-training-using-deepspeed.md](file:///../../ai/models/accelerate-large-model-training-using-deepspeed.md)
+Path: [accelerate-large-model-training-using-deepspeed.md](../../ai/models/accelerate-large-model-training-using-deepspeed.md)

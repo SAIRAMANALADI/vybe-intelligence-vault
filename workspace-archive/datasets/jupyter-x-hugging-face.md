@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/notebooks-hub
 
 ## Local Vault File
 
-Path: [jupyter-x-hugging-face.md](file:///../../ai/models/jupyter-x-hugging-face.md)
+Path: [jupyter-x-hugging-face.md](../../ai/models/jupyter-x-hugging-face.md)

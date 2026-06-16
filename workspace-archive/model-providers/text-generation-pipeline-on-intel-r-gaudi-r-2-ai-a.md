@@ -40,4 +40,4 @@ Original source URL: https://huggingface.co/blog/textgen-pipe-gaudi
 
 ## Local Vault File
 
-Path: [text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md](file:///../../ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)
+Path: [text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md](../../ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)

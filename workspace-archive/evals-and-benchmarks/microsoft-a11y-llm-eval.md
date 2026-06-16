@@ -46,4 +46,4 @@ Original source URL: https://github.com/microsoft/a11y-llm-eval
 
 ## Local Vault File
 
-Path: [microsoft-a11y-llm-eval.md](file:///../../ai/resources/microsoft-a11y-llm-eval.md)
+Path: [microsoft-a11y-llm-eval.md](../../ai/resources/microsoft-a11y-llm-eval.md)
