@@ -495,4 +495,4 @@ This index groups curated resources by target developer skills.
 - [OpenAI Agents SDK](https://openai.github.io/openai-agents-python) (Tier: `useful` | [`Local File`](file:///../../ai/agents/openai-agents-sdk.md))
 
 ---
-*Last updated: 2026-06-16 10:44 IST*
+*Last updated: 2026-06-16 11:25 IST*

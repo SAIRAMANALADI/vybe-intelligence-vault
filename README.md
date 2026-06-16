@@ -53,23 +53,19 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 04:29 UTC |
+| Last meaningful update | 2026-06-16 11:25 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)** (+210 points)
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (+142 points)
-- **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)** (Rank: +6) (+75 points)
-- **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)** (+64 points)
-- **[Show HN: Fata – Spaced repetition to fight skill rot from AI coding](ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md)** (+21 points)
+- **[magicuidesign/portfolio](web-development/shadcn-ui/magicuidesign-portfolio.md)** (Rank: +1)
+- **[marmelab/atomic-crm](web-development/shadcn-ui/marmelab-atomic-crm.md)** (Rank: +3)
+- **[bytefer/awesome-shadcn-ui](web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md)** (Rank: +4)
+- **[jnsahaj/tweakcn](web-development/shadcn-ui/jnsahaj-tweakcn.md)** (Rank: +6)
+- **[vbenjs/vue-vben-admin](web-development/shadcn-ui/vbenjs-vue-vben-admin.md)** (Rank: +8)
 
 #### ✨ New Discoveries
-- **[Microsoft turns to AWS as GitHub faces AI capacity crunch](ai/community/microsoft-turns-to-aws-as-github-faces-ai-capacity.md)** (Score: 108)
-- **[19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)** (Score: 0)
-- **[Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md)** (Score: 0)
-- **[Simultaneous Latent Budget Trees for Stratified Classification](ai/research/arxiv-2606-13295.md)** (Score: 0)
-- **[How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling](ai/research/arxiv-2606-07334.md)** (Score: 0)
+- **[[SUGGEST] - ](.github/ISSUE_TEMPLATE/resource-suggestion.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - None.

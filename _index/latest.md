@@ -253,4 +253,4 @@ The 50 newest resources collected across the intelligence vault.
 - **Local Path**: `ai/community/show-hn-fata-spaced-repetition-to-fight-skill-rot.md`
 
 ---
-*Index generated on 2026-06-16T10:43:36.023274+05:30*
+*Index generated on 2026-06-16T11:24:35.034477+05:30*

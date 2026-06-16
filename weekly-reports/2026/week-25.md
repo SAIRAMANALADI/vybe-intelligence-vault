@@ -22,9 +22,9 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Category | Count |
 |---|---:|
 | ai/research | 797 |
-| ai/models | 733 |
-| ai/rag | 537 |
-| ai/agents | 306 |
+| ai/models | 722 |
+| ai/rag | 536 |
+| ai/agents | 302 |
 | web-development/framer-motion | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/threejs | 25 |
@@ -46,10 +46,10 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | Tag | Count |
 |---|---:|
 | benchmark | 656 |
-| rag | 537 |
-| agents | 429 |
+| rag | 536 |
+| agents | 425 |
 | models | 401 |
-| dataset | 379 |
+| dataset | 378 |
 | paper | 304 |
 | hackernews | 187 |
 | frontend_ui | 134 |
@@ -139,11 +139,11 @@ No updates collected under this section this week.
 
 ## Most Updated Skills
 
-- [RAG](../../../skills/rag.md) (1619 updates)
-- [Vector Databases](../../../skills/vector-databases.md) (538 updates)
+- [RAG](../../../skills/rag.md) (1618 updates)
+- [Vector Databases](../../../skills/vector-databases.md) (537 updates)
 - [AI Coding Agents](../../../skills/ai-coding-agents.md) (378 updates)
 - [Workflow Automation](../../../skills/automation.md) (378 updates)
-- [AI Agents](../../../skills/ai-agents.md) (368 updates)
+- [AI Agents](../../../skills/ai-agents.md) (364 updates)
 - [LLMOps](../../../skills/llmops.md) (138 updates)
 - [Three.js & WebGL](../../../skills/threejs.md) (84 updates)
 - [Prompt Engineering](../../../skills/prompt-engineering.md) (68 updates)
@@ -157,4 +157,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-16T10:43:35.170934+05:30
+2026-06-16T11:24:34.022162+05:30

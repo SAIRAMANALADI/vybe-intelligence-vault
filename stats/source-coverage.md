@@ -1,13 +1,110 @@
-# Source Coverage
+# Source Coverage Analysis
 
-The ingestion engine processes developer articles, preprints, and repositories across several channels.
+Distribution of original signal ingestion sources across processed URLs:
 
-## Primary Sourced Domains
-
-*   arxiv.org: 2327 items
-*   huggingface.co: 815 items
-*   github.com: 297 items
-*   mistral.ai: 10 items
-*   anthropic.com: 9 items
-
-All source URLs are preserved in the metadata header of all files.
+| Source Domain | Resource Count |
+| :--- | ---: |
+| arxiv | 2327 |
+| huggingface | 798 |
+| github | 315 |
+| mistral.ai | 10 |
+| anthropic.com | 9 |
+| medium.com | 8 |
+| openai.com | 6 |
+| deepmind.google | 5 |
+| dev.to | 5 |
+| tech-insider.org | 3 |
+| geeksforgeeks.org | 3 |
+| evidentlyai.com | 3 |
+| nerdleveltech.com | 2 |
+| lushbinary.com | 2 |
+| openai.github.io | 2 |
+| github.blog | 2 |
+| datacamp.com | 2 |
+| cloud.google.com | 2 |
+| confident-ai.com | 2 |
+| benchmarkingagents.com | 2 |
+| news.ycombinator.com | 1 |
+| tinywind.io | 1 |
+| rsgm.dev | 1 |
+| runtimewire.com | 1 |
+| goodinternetmagazine.com | 1 |
+| stratechery.com | 1 |
+| fata.dev | 1 |
+| tokyopaladin.substack.com | 1 |
+| psychedelics.co.uk | 1 |
+| markhorrell.com | 1 |
+| grassdx.com | 1 |
+| buildrag.com | 1 |
+| medevel.com | 1 |
+| pragatimehraa.medium.com | 1 |
+| dasroot.net | 1 |
+| machinelearningplus.com | 1 |
+| colab.research.google.com | 1 |
+| analyticsvidhya.com | 1 |
+| docs.langchain.com | 1 |
+| kdnuggets.com | 1 |
+| learn.ryzlabs.com | 1 |
+| martinuke0.github.io | 1 |
+| firecrawl.dev | 1 |
+| rowanblackwoon.medium.com | 1 |
+| analysistabs.com | 1 |
+| powerslides.com | 1 |
+| safetyculture.com | 1 |
+| itsm-docs.com | 1 |
+| mastt.com | 1 |
+| wordlayouts.com | 1 |
+| template.net | 1 |
+| business-docs.co.uk | 1 |
+| pmstudycircle.com | 1 |
+| techno-pm.com | 1 |
+| florinelchis.medium.com | 1 |
+| mrlatte.net | 1 |
+| lightrag.github.io | 1 |
+| superml.org | 1 |
+| open-rag.ai | 1 |
+| rag.readthedocs.io | 1 |
+| neo4j.com | 1 |
+| aimadetools.com | 1 |
+| c-sharpcorner.com | 1 |
+| developers.openai.com | 1 |
+| universalrag.github.io | 1 |
+| trec-rag.github.io | 1 |
+| datawhalechina.github.io | 1 |
+| docs.aws.amazon.com | 1 |
+| blog.starmorph.com | 1 |
+| community.databricks.com | 1 |
+| learn.microsoft.com | 1 |
+| agenta.ai | 1 |
+| braintrust.dev | 1 |
+| signoz.io | 1 |
+| langchain-tutorials.github.io | 1 |
+| qubittool.com | 1 |
+| markaicode.com | 1 |
+| ragaboutit.com | 1 |
+| alphabold.com | 1 |
+| aimultiple.com | 1 |
+| langchain.com | 1 |
+| meta-intelligence.tech | 1 |
+| fast-langgraph.neullabs.com | 1 |
+| automationanywhere.com | 1 |
+| developers.googleblog.com | 1 |
+| azure.microsoft.com | 1 |
+| codersera.com | 1 |
+| llm-stats.com | 1 |
+| artificialanalysis.ai | 1 |
+| freeacademy.ai | 1 |
+| benchlm.ai | 1 |
+| onereach.ai | 1 |
+| oreilly.com | 1 |
+| levelup.gitconnected.com | 1 |
+| freecodecamp.org | 1 |
+| saumilsrivastava.ai | 1 |
+| redhat.com | 1 |
+| dataengineeracademy.com | 1 |
+| duckduckgo.com | 1 |
+| askpython.com | 1 |
+| botpenguin.com | 1 |
+| startdesigns.com | 1 |
+| aws.amazon.com | 1 |
+| signitysolutions.com | 1 |
