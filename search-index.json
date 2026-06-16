@@ -4061,7 +4061,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2505.18227",
     "local_path": "ai/agents/arxiv-2505-18227.md",
-    "summary": "arXiv:2505.18227v4 Announce Type: replace-cross Abstract: In Transformer architectures, tokens\\textemdash discrete units derived from raw data\\textemdash are formed by segmenting inputs into fixed-length chunks. Each token is then mapped to an embedd",
+    "summary": "arXiv:2505.18227v4 Announce Type: replace-cross Abstract: In Transformer architectures, tokens/textemdash discrete units derived from raw data/textemdash are formed by segmenting inputs into fixed-length chunks. Each token is then mapped to an embedd",
     "quality_score": 70,
     "archive_score": 80,
     "archive_tier": "useful",
@@ -5438,7 +5438,7 @@
     "last_updated": "2026-06-12T10:40:03.106111+00:00"
   },
   {
-    "title": "Real-rootedness of the Poincar\\'e polynomials of $\\overline{\\mathcal M}_{0,n}$: an AI-assisted proof",
+    "title": "Real-rootedness of the Poincar/'e polynomials of $/overline{/mathcal M}_{0,n}$: an AI-assisted proof",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
     "tags": [
@@ -5448,7 +5448,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2605.29151",
     "local_path": "ai/agents/arxiv-2605-29151.md",
-    "summary": "arXiv:2605.29151v2 Announce Type: replace-cross Abstract: We prove real-rootedness for the Poincar\\'e polynomial \\[ P_n(t)=\\sum_{i=0}^{n-3} \\dim H^{2i}(\\overline{\\mathcal M}_{0,n};\\mathbb{Q})t^i \\] of the Deligne--Mumford moduli space $\\overline{\\mat",
+    "summary": "arXiv:2605.29151v2 Announce Type: replace-cross Abstract: We prove real-rootedness for the Poincar/'e polynomial /[ P_n(t)=/sum_{i=0}^{n-3} /dim H^{2i}(/overline{/mathcal M}_{0,n};/mathbb{Q})t^i /] of the Deligne--Mumford moduli space $/overline{/mat",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -7762,7 +7762,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13468",
     "local_path": "ai/agents/arxiv-2606-13468.md",
-    "summary": "arXiv:2606.13468v1 Announce Type: cross Abstract: AI coding agents are increasingly used to generate pull requests (PRs) that propose code fixes in software projects. From a first exploration of the AIDev dataset, we find that 46.41\\% of the fixes pr",
+    "summary": "arXiv:2606.13468v1 Announce Type: cross Abstract: AI coding agents are increasingly used to generate pull requests (PRs) that propose code fixes in software projects. From a first exploration of the AIDev dataset, we find that 46.41/% of the fixes pr",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -8274,7 +8274,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13994",
     "local_path": "ai/agents/arxiv-2606-13994.md",
-    "summary": "arXiv:2606.13994v1 Announce Type: cross Abstract: LLM-based Agents are becoming increasingly capable and widely deployed, creating growing incentives for adversarial misuse in the real-world. A key emerging threat is Decomposition Attacks \\cite{glukh",
+    "summary": "arXiv:2606.13994v1 Announce Type: cross Abstract: LLM-based Agents are becoming increasingly capable and widely deployed, creating growing incentives for adversarial misuse in the real-world. A key emerging threat is Decomposition Attacks /cite{glukh",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -8661,7 +8661,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14551",
     "local_path": "ai/agents/arxiv-2606-14551.md",
-    "summary": "arXiv:2606.14551v1 Announce Type: cross Abstract: Robots under autonomous operation may require decisions based on evidence that is no longer visible. We study \\emph{delayed-evidence} tasks, where an early cue disappears before a later decision point",
+    "summary": "arXiv:2606.14551v1 Announce Type: cross Abstract: Robots under autonomous operation may require decisions based on evidence that is no longer visible. We study /emph{delayed-evidence} tasks, where an early cue disappears before a later decision point",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -9799,7 +9799,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16038",
     "local_path": "ai/agents/arxiv-2606-16038.md",
-    "summary": "arXiv:2606.16038v1 Announce Type: cross Abstract: The path toward autonomous software engineering is currently bottlenecked by a severe deficit of diverse, large-scale trajectory data. We address this by introducing \\ourdataset, an expansive dataset",
+    "summary": "arXiv:2606.16038v1 Announce Type: cross Abstract: The path toward autonomous software engineering is currently bottlenecked by a severe deficit of diverse, large-scale trajectory data. We address this by introducing /ourdataset, an expansive dataset",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -10360,7 +10360,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16733",
     "local_path": "ai/agents/arxiv-2606-16733.md",
-    "summary": "arXiv:2606.16733v1 Announce Type: new Abstract: Policy gradient algorithms for language models optimize the same objective $J(\\theta) = \\mathbb{E}*{\\tau \\sim p*\\theta(\\tau)}[R(\\tau)]$, which has exactly two factors: the trajectory probability $p_\\the",
+    "summary": "arXiv:2606.16733v1 Announce Type: new Abstract: Policy gradient algorithms for language models optimize the same objective $J(/theta) = /mathbb{E}*{/tau /sim p*/theta(/tau)}[R(/tau)]$, which has exactly two factors: the trajectory probability $p_/the",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -10499,7 +10499,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16914",
     "local_path": "ai/agents/arxiv-2606-16914.md",
-    "summary": "arXiv:2606.16914v1 Announce Type: new Abstract: Deployed agents increasingly act with their reward proxy in view, such as a balance, score, or KPI dashboard. We show that reinforcement learning can make a policy \\emph{addicted} to such a visible self",
+    "summary": "arXiv:2606.16914v1 Announce Type: new Abstract: Deployed agents increasingly act with their reward proxy in view, such as a balance, score, or KPI dashboard. We show that reinforcement learning can make a policy /emph{addicted} to such a visible self",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
@@ -29423,7 +29423,7 @@
     "last_updated": "2026-06-11T08:37:53.524338+00:00"
   },
   {
-    "title": "Lifted Schr\\\"odinger Bridges for Gaussian Mixture Endpoints: Projection Gaps and Path-Space Obstructions",
+    "title": "Lifted Schr/\"odinger Bridges for Gaussian Mixture Endpoints: Projection Gaps and Path-Space Obstructions",
     "category": "ai/rag",
     "section": "vector-databases",
     "tags": [
@@ -29431,7 +29431,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2605.24795",
     "local_path": "ai/rag/arxiv-2605-24795.md",
-    "summary": "arXiv:2605.24795v2 Announce Type: replace-cross Abstract: We study stochastic density control between Gaussian-mixture endpoint distributions under Brownian prior dynamics. Since the direct Schr\\\"odinger bridge between Gaussian mixtures is generally",
+    "summary": "arXiv:2605.24795v2 Announce Type: replace-cross Abstract: We study stochastic density control between Gaussian-mixture endpoint distributions under Brownian prior dynamics. Since the direct Schr/\"odinger bridge between Gaussian mixtures is generally",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -31244,7 +31244,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.11780",
     "local_path": "ai/rag/arxiv-2606-11780.md",
-    "summary": "arXiv:2606.11780v1 Announce Type: cross Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S \\subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vec",
+    "summary": "arXiv:2606.11780v1 Announce Type: cross Abstract: We establish conditions for embedding a corpus of $N$ documents as $d$-dimensional vectors such that every $k$-subset $S /subseteq [N]$ is realizable as a result of top-$k$ retrieval by some query vec",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
@@ -32282,7 +32282,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.12883",
     "local_path": "ai/rag/arxiv-2606-12883.md",
-    "summary": "arXiv:2606.12883v1 Announce Type: new Abstract: In Low-Rank Adaptation (LoRA), the scaling factor $\\alpha$ is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal th",
+    "summary": "arXiv:2606.12883v1 Announce Type: new Abstract: In Low-Rank Adaptation (LoRA), the scaling factor $/alpha$ is often treated as a mere complement to the learning rate, yet its role in optimization remains poorly understood. In this paper, we reveal th",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -33117,7 +33117,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13647",
     "local_path": "ai/rag/arxiv-2606-13647.md",
-    "summary": "arXiv:2606.13647v1 Announce Type: cross Abstract: We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$\\times$ the dep",
+    "summary": "arXiv:2606.13647v1 Announce Type: cross Abstract: We introduce SkMTEB, the first comprehensive MTEB-style text embedding benchmark for Slovak, a low-resource West Slavic language, comprising 31 datasets across 7 task types -- nearly 4$/times$ the dep",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
@@ -35589,7 +35589,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.15455",
     "local_path": "ai/rag/arxiv-2606-15455.md",
-    "summary": "arXiv:2606.15455v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become a key approach for enhancing the reasoning abilities of large language models. However, RLVR often suffers from \\emph{diversity collaps",
+    "summary": "arXiv:2606.15455v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become a key approach for enhancing the reasoning abilities of large language models. However, RLVR often suffers from /emph{diversity collaps",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -36095,7 +36095,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.15709",
     "local_path": "ai/rag/arxiv-2606-15709.md",
-    "summary": "arXiv:2606.15709v1 Announce Type: new Abstract: Jordan faces severe water scarcity with 50\\% of water produced is lost to leakage, theft and metering issues also known as non-revenue water (NRW). Traditional reactive approaches have proven insufficie",
+    "summary": "arXiv:2606.15709v1 Announce Type: new Abstract: Jordan faces severe water scarcity with 50/% of water produced is lost to leakage, theft and metering issues also known as non-revenue water (NRW). Traditional reactive approaches have proven insufficie",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -36316,7 +36316,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.15810",
     "local_path": "ai/rag/arxiv-2606-15810.md",
-    "summary": "arXiv:2606.15810v1 Announce Type: cross Abstract: Large language models deployed as commercial APIs are vulnerable to model extraction attacks, while existing defenses either act too late or degrade utility for legitimate users. We propose \\textbf{Kn",
+    "summary": "arXiv:2606.15810v1 Announce Type: cross Abstract: Large language models deployed as commercial APIs are vulnerable to model extraction attacks, while existing defenses either act too late or degrade utility for legitimate users. We propose /textbf{Kn",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -37184,7 +37184,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16327",
     "local_path": "ai/rag/arxiv-2606-16327.md",
-    "summary": "arXiv:2606.16327v1 Announce Type: cross Abstract: Recent acoustic-to-articulatory inversion (AAI) models rely on electromagnetic articulography (EMA) data, which are costly and limited in scale. To address this limitation, we propose \\textit{ArtBoost",
+    "summary": "arXiv:2606.16327v1 Announce Type: cross Abstract: Recent acoustic-to-articulatory inversion (AAI) models rely on electromagnetic articulography (EMA) data, which are costly and limited in scale. To address this limitation, we propose /textit{ArtBoost",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
@@ -37310,7 +37310,7 @@
     "last_updated": "2026-06-16T04:26:04.039573+00:00"
   },
   {
-    "title": "Lect\\=uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+    "title": "Lect/=uraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
     "category": "ai/rag",
     "section": "vector-databases",
     "tags": [
@@ -38402,7 +38402,7 @@
     "last_updated": "2026-06-16T17:27:22.377512+05:30"
   },
   {
-    "title": "Building Effective AI Agents \\ Anthropic",
+    "title": "Building Effective AI Agents / Anthropic",
     "category": "ai/rag",
     "section": "automation-workflows",
     "tags": [
@@ -42372,7 +42372,7 @@
     "last_updated": "2026-06-15T06:03:39.934153+00:00"
   },
   {
-    "title": "On Pitfalls of $\\textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
+    "title": "On Pitfalls of $/textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -43276,7 +43276,7 @@
     "last_updated": "2026-06-15T06:03:45.856057+00:00"
   },
   {
-    "title": "\\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
+    "title": "/texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
     "category": "ai/research",
     "section": "datasets",
     "tags": [],
@@ -43867,7 +43867,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2509.16456",
     "local_path": "ai/research/arxiv-2509-16456.md",
-    "summary": "arXiv:2509.16456v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in various domains, showing impressive potential on different tasks. Recently, reasoning LLMs have been proposed to improve the \\textit{reasoning}",
+    "summary": "arXiv:2509.16456v3 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used in various domains, showing impressive potential on different tasks. Recently, reasoning LLMs have been proposed to improve the /textit{reasoning}",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -43939,7 +43939,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2509.24223",
     "local_path": "ai/research/arxiv-2509-24223.md",
-    "summary": "arXiv:2509.24223v2 Announce Type: replace Abstract: Editing the content of an image with a pretrained text-to-image model remains challenging. Existing methods often distort fine details or introduce unintended artifacts. We propose using \\emph{coupl",
+    "summary": "arXiv:2509.24223v2 Announce Type: replace Abstract: Editing the content of an image with a pretrained text-to-image model remains challenging. Existing methods often distort fine details or introduce unintended artifacts. We propose using /emph{coupl",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -44769,7 +44769,7 @@
     "last_updated": "2026-06-16T04:25:58.979657+00:00"
   },
   {
-    "title": "Schr\\\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
+    "title": "Schr/\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -45708,7 +45708,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2602.08026",
     "local_path": "ai/research/arxiv-2602-08026.md",
-    "summary": "arXiv:2602.08026v2 Announce Type: replace Abstract: We analyse linear ensemble sampling (ES) with standard Gaussian perturbations in stochastic linear bandits. We show that for ensemble size $m=\\Theta(d\\log n)$, ES attains $\\tilde O(d^{3/2}\\sqrt n)$",
+    "summary": "arXiv:2602.08026v2 Announce Type: replace Abstract: We analyse linear ensemble sampling (ES) with standard Gaussian perturbations in stochastic linear bandits. We show that for ensemble size $m=/Theta(d/log n)$, ES attains $/tilde O(d^{3/2}/sqrt n)$",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -46042,7 +46042,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2602.17587",
     "local_path": "ai/research/arxiv-2602-17587.md",
-    "summary": "arXiv:2602.17587v3 Announce Type: replace-cross Abstract: We study one-sided and $\\alpha$-correct sequential hypothesis testing for data generated by an ergodic, finite-state Markov chain. The null hypothesis is that the unknown transition matrix bel",
+    "summary": "arXiv:2602.17587v3 Announce Type: replace-cross Abstract: We study one-sided and $/alpha$-correct sequential hypothesis testing for data generated by an ergodic, finite-state Markov chain. The null hypothesis is that the unknown transition matrix bel",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -47246,7 +47246,7 @@
     "last_updated": "2026-06-16T04:26:04.049611+00:00"
   },
   {
-    "title": "Stochastic Schr\\\"odinger Diffusion Models for Pure-State Ensemble Generation",
+    "title": "Stochastic Schr/\"odinger Diffusion Models for Pure-State Ensemble Generation",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -47970,13 +47970,13 @@
     "last_updated": "2026-06-16T04:25:58.983231+00:00"
   },
   {
-    "title": "Triangular-Reference Schr\\\"odinger Bridges for Time Series Generation",
+    "title": "Triangular-Reference Schr/\"odinger Bridges for Time Series Generation",
     "category": "ai/research",
     "section": "datasets",
     "tags": [],
     "source_url": "https://arxiv.org/abs/2605.27478",
     "local_path": "ai/research/arxiv-2605-27478.md",
-    "summary": "arXiv:2605.27478v3 Announce Type: replace-cross Abstract: Schr\\\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data",
+    "summary": "arXiv:2605.27478v3 Announce Type: replace-cross Abstract: Schr/\"odinger bridges for time series (SBTS) generate synthetic paths by projecting, in relative entropy, a Brownian reference onto the path laws that match the joint distribution of the data",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -48269,7 +48269,7 @@
     "last_updated": "2026-06-16T19:32:37.050306+05:30"
   },
   {
-    "title": "Fast-dLLM++: Fr\\'{e}chet Profile Decoding for Faster Diffusion LLM Inference",
+    "title": "Fast-dLLM++: Fr/'{e}chet Profile Decoding for Faster Diffusion LLM Inference",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -49544,7 +49544,7 @@
     "last_updated": "2026-06-12T10:40:06.015256+00:00"
   },
   {
-    "title": "FreeBridge: Variational Schr\\\"odinger Bridges for Cellular Transition Dynamics",
+    "title": "FreeBridge: Variational Schr/\"odinger Bridges for Cellular Transition Dynamics",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -51262,7 +51262,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.12050",
     "local_path": "ai/research/arxiv-2606-12050.md",
-    "summary": "arXiv:2606.12050v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous \\emph{a posteriori} upper bounds for PINN pr",
+    "summary": "arXiv:2606.12050v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) combine machine learning with physical laws to solve differential equations. While existing results provide rigorous /emph{a posteriori} upper bounds for PINN pr",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -53346,7 +53346,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.13657",
     "local_path": "ai/research/arxiv-2606-13657.md",
-    "summary": "arXiv:2606.13657v2 Announce Type: replace Abstract: On-policy distillation (\\textsc{OPD}) has recently become a prominent post-training recipe by combining two desirable ingredients: on-policy student trajectories and dense teacher supervision. Howev",
+    "summary": "arXiv:2606.13657v2 Announce Type: replace Abstract: On-policy distillation (/textsc{OPD}) has recently become a prominent post-training recipe by combining two desirable ingredients: on-policy student trajectories and dense teacher supervision. Howev",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -53736,7 +53736,7 @@
     "last_updated": "2026-06-15T06:03:39.933012+00:00"
   },
   {
-    "title": "$\\mu_0$: A Scalable 3D Interaction-Trace World Model",
+    "title": "$/mu_0$: A Scalable 3D Interaction-Trace World Model",
     "category": "ai/research",
     "section": "webdev-3d-creative",
     "tags": [
@@ -53927,7 +53927,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.13827",
     "local_path": "ai/research/arxiv-2606-13827.md",
-    "summary": "arXiv:2606.13827v1 Announce Type: cross Abstract: Markovian Whittle-Mat\\'ern fields have been convergently approximated by discrete Gauss Markov Random Fields (GMRFs) with sparse precision matrices using a Finite Element approximation of the two-para",
+    "summary": "arXiv:2606.13827v1 Announce Type: cross Abstract: Markovian Whittle-Mat/'ern fields have been convergently approximated by discrete Gauss Markov Random Fields (GMRFs) with sparse precision matrices using a Finite Element approximation of the two-para",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -54001,7 +54001,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.13867",
     "local_path": "ai/research/arxiv-2606-13867.md",
-    "summary": "arXiv:2606.13867v1 Announce Type: new Abstract: Muon is an increasingly widely used optimizer that replaces a gradient $G=USV^\\top$ with its polar factor $UV^\\top$, thereby flattening the singular spectrum. However, full flattening discards singular-",
+    "summary": "arXiv:2606.13867v1 Announce Type: new Abstract: Muon is an increasingly widely used optimizer that replaces a gradient $G=USV^/top$ with its polar factor $UV^/top$, thereby flattening the singular spectrum. However, full flattening discards singular-",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -54307,7 +54307,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14040",
     "local_path": "ai/research/arxiv-2606-14040.md",
-    "summary": "arXiv:2606.14040v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are typically trained to reconstruct the \\textbf{entire} residual stream through a sparse dictionary, implicitly assuming that all activation content is amenable to sparse, mo",
+    "summary": "arXiv:2606.14040v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) are typically trained to reconstruct the /textbf{entire} residual stream through a sparse dictionary, implicitly assuming that all activation content is amenable to sparse, mo",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -54513,7 +54513,7 @@
     "last_updated": "2026-06-15T06:03:45.853723+00:00"
   },
   {
-    "title": "Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincar\\'e View, with Application to Fluid-Structure Interaction with Contact",
+    "title": "Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincar/'e View, with Application to Fluid-Structure Interaction with Contact",
     "category": "ai/research",
     "section": "ai-browser-computer-use",
     "tags": [
@@ -54560,7 +54560,7 @@
     "last_updated": "2026-06-15T06:03:39.933357+00:00"
   },
   {
-    "title": "Hybrid Classical-Quantum (HCQ) Alzheimer's Classification via Supervised $\\beta$-VAE and Quantum Kernels",
+    "title": "Hybrid Classical-Quantum (HCQ) Alzheimer's Classification via Supervised $/beta$-VAE and Quantum Kernels",
     "category": "ai/research",
     "section": "datasets",
     "tags": [
@@ -55125,7 +55125,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.14488",
     "local_path": "ai/research/arxiv-2606-14488.md",
-    "summary": "arXiv:2606.14488v1 Announce Type: cross Abstract: Recent finite-time analyses of nonlinear two-time-scale stochastic approximation show that under contractive assumptions the slow iterate $Y_k$ with stepsizes $\\beta_k=\\Theta(k^{-1})$ and $\\alpha_k=\\T",
+    "summary": "arXiv:2606.14488v1 Announce Type: cross Abstract: Recent finite-time analyses of nonlinear two-time-scale stochastic approximation show that under contractive assumptions the slow iterate $Y_k$ with stepsizes $/beta_k=/Theta(k^{-1})$ and $/alpha_k=/T",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -55287,7 +55287,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14533",
     "local_path": "ai/research/arxiv-2606-14533.md",
-    "summary": "arXiv:2606.14533v1 Announce Type: new Abstract: Principal Component Analysis (PCA) preserves variance, not the information needed to detect rare catastrophic events. This paper proves the existence of a {\\it Risk Shadow}: PCA can retain over 99.9999",
+    "summary": "arXiv:2606.14533v1 Announce Type: new Abstract: Principal Component Analysis (PCA) preserves variance, not the information needed to detect rare catastrophic events. This paper proves the existence of a {/it Risk Shadow}: PCA can retain over 99.9999",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
@@ -55541,7 +55541,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14640",
     "local_path": "ai/research/arxiv-2606-14640.md",
-    "summary": "arXiv:2606.14640v1 Announce Type: new Abstract: We study Online Convex Optimization (OCO) over a convex set $K\\subseteq \\mathbb R^d$, where in each round $t$ the learner selects $x_t\\in K$ and then observes a convex loss $f_t:K\\to[0,1]$, with the goa",
+    "summary": "arXiv:2606.14640v1 Announce Type: new Abstract: We study Online Convex Optimization (OCO) over a convex set $K/subseteq /mathbb R^d$, where in each round $t$ the learner selects $x_t/in K$ and then observes a convex loss $f_t:K/to[0,1]$, with the goa",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -55635,7 +55635,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14684",
     "local_path": "ai/research/arxiv-2606-14684.md",
-    "summary": "arXiv:2606.14684v1 Announce Type: cross Abstract: Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD},",
+    "summary": "arXiv:2606.14684v1 Announce Type: cross Abstract: Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes /textbf{HumP-KD},",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
@@ -55669,7 +55669,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14690",
     "local_path": "ai/research/arxiv-2606-14690.md",
-    "summary": "arXiv:2606.14690v1 Announce Type: new Abstract: We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the wors",
+    "summary": "arXiv:2606.14690v1 Announce Type: new Abstract: We study a /emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the wors",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -56309,7 +56309,7 @@
     "last_updated": "2026-06-16T04:25:58.974256+00:00"
   },
   {
-    "title": "Peak-Based Nuclide Identification in HPGe $\\gamma$-Spectrometry with Machine Learning and SHAP",
+    "title": "Peak-Based Nuclide Identification in HPGe $/gamma$-Spectrometry with Machine Learning and SHAP",
     "category": "ai/research",
     "section": "datasets",
     "tags": [],
@@ -56370,7 +56370,7 @@
     "last_updated": "2026-06-16T19:32:37.043515+05:30"
   },
   {
-    "title": "{\\alpha}-Fair Insurance Pricing: A Fairness Continuum",
+    "title": "{/alpha}-Fair Insurance Pricing: A Fairness Continuum",
     "category": "ai/research",
     "section": "startup-builder",
     "tags": [],
@@ -56714,7 +56714,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.15036",
     "local_path": "ai/research/arxiv-2606-15036.md",
-    "summary": "arXiv:2606.15036v1 Announce Type: new Abstract: We train a two-layer transformer encoder to classify rational elliptic curves $E/\\mathbb{Q}$ of conductor $\\leq 10000$ as either rank 0 or rank 1 from the first 128 normalized Frobenius traces. We achie",
+    "summary": "arXiv:2606.15036v1 Announce Type: new Abstract: We train a two-layer transformer encoder to classify rational elliptic curves $E//mathbb{Q}$ of conductor $/leq 10000$ as either rank 0 or rank 1 from the first 128 normalized Frobenius traces. We achie",
     "quality_score": 70,
     "archive_score": 80,
     "archive_tier": "useful",
@@ -57181,7 +57181,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.15246",
     "local_path": "ai/research/arxiv-2606-15246.md",
-    "summary": "arXiv:2606.15246v1 Announce Type: cross Abstract: Provenance-enhanced statements of the form \"according to $X$, $\\varphi$\" are pervasive in contemporary knowledge graphs, especially in domains where graph content primarily represents claims, interpre",
+    "summary": "arXiv:2606.15246v1 Announce Type: cross Abstract: Provenance-enhanced statements of the form \"according to $X$, $/varphi$\" are pervasive in contemporary knowledge graphs, especially in domains where graph content primarily represents claims, interpre",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
@@ -57244,7 +57244,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.15268",
     "local_path": "ai/research/arxiv-2606-15268.md",
-    "summary": "arXiv:2606.15268v1 Announce Type: new Abstract: Schatten-$\\infty$ based optimizers such as Muon have shown promising empirical performance, but there remains seemingly conflicting observations regarding whether they are beneficial. We resolve this co",
+    "summary": "arXiv:2606.15268v1 Announce Type: new Abstract: Schatten-$/infty$ based optimizers such as Muon have shown promising empirical performance, but there remains seemingly conflicting observations regarding whether they are beneficial. We resolve this co",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -57336,7 +57336,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.15301",
     "local_path": "ai/research/arxiv-2606-15301.md",
-    "summary": "arXiv:2606.15301v1 Announce Type: cross Abstract: The Lenstra-Lenstra-Lov\\'asz (LLL) algorithm is a seminal contribution to computer science used for lattice basis reduction, yet its polynomial-time outputs produce bases that are far from optimal as",
+    "summary": "arXiv:2606.15301v1 Announce Type: cross Abstract: The Lenstra-Lenstra-Lov/'asz (LLL) algorithm is a seminal contribution to computer science used for lattice basis reduction, yet its polynomial-time outputs produce bases that are far from optimal as",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -57587,7 +57587,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.15442",
     "local_path": "ai/research/arxiv-2606-15442.md",
-    "summary": "arXiv:2606.15442v1 Announce Type: cross Abstract: We design a new unconstrained coordinate system where a $p\\times p$ symmetric positive definite (SPD) matrix $\\Theta$ is represented by a reverse telescoping map $\\Theta(x)=\\rm{RT}(x)$, with $x=(v,d,r",
+    "summary": "arXiv:2606.15442v1 Announce Type: cross Abstract: We design a new unconstrained coordinate system where a $p/times p$ symmetric positive definite (SPD) matrix $/Theta$ is represented by a reverse telescoping map $/Theta(x)=/rm{RT}(x)$, with $x=(v,d,r",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -57829,7 +57829,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.15535",
     "local_path": "ai/research/arxiv-2606-15535.md",
-    "summary": "arXiv:2606.15535v1 Announce Type: cross Abstract: In a modern processor, computing is the cheap part. Most of its area and energy go to \\emph{addressing} -- moving operands to and from a register file and cache, and running the tags, ports, miss queu",
+    "summary": "arXiv:2606.15535v1 Announce Type: cross Abstract: In a modern processor, computing is the cheap part. Most of its area and energy go to /emph{addressing} -- moving operands to and from a register file and cache, and running the tags, ports, miss queu",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -59729,7 +59729,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16240",
     "local_path": "ai/research/arxiv-2606-16240.md",
-    "summary": "arXiv:2606.16240v1 Announce Type: cross Abstract: Activation steering has emerged as a powerful tool for shaping the behaviour of large language models at inference time, yet most prior work injects a \\emph{single} semantic direction into the residua",
+    "summary": "arXiv:2606.16240v1 Announce Type: cross Abstract: Activation steering has emerged as a powerful tool for shaping the behaviour of large language models at inference time, yet most prior work injects a /emph{single} semantic direction into the residua",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -59905,7 +59905,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16329",
     "local_path": "ai/research/arxiv-2606-16329.md",
-    "summary": "arXiv:2606.16329v1 Announce Type: new Abstract: In this paper, we present a procedure for numeric planning based on Symbolic Pattern Planning (SPP). Given a numeric planning problem $\\Pi$, a pattern $\\prec$ is a sequence of actions used to define a f",
+    "summary": "arXiv:2606.16329v1 Announce Type: new Abstract: In this paper, we present a procedure for numeric planning based on Symbolic Pattern Planning (SPP). Given a numeric planning problem $/Pi$, a pattern $/prec$ is a sequence of actions used to define a f",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -60410,7 +60410,7 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16541",
     "local_path": "ai/research/arxiv-2606-16541.md",
-    "summary": "arXiv:2606.16541v1 Announce Type: new Abstract: Autoformalization, translating natural-language mathematics into formal proof assistants, is bottlenecked not by translation fluency but by \\emph{faithfulness}: a formal statement can typecheck and be p",
+    "summary": "arXiv:2606.16541v1 Announce Type: new Abstract: Autoformalization, translating natural-language mathematics into formal proof assistants, is bottlenecked not by translation fluency but by /emph{faithfulness}: a formal statement can typecheck and be p",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -60505,7 +60505,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.16579",
     "local_path": "ai/research/arxiv-2606-16579.md",
-    "summary": "arXiv:2606.16579v1 Announce Type: new Abstract: We extend the entropy formula of Menon and Yu for the real Deep Linear Network (DLN) to its complex and quaternionic analogues, obtaining a unified formula for DLNs over $\\mathbb{R}$, $\\mathbb{C}$, and",
+    "summary": "arXiv:2606.16579v1 Announce Type: new Abstract: We extend the entropy formula of Menon and Yu for the real Deep Linear Network (DLN) to its complex and quaternionic analogues, obtaining a unified formula for DLNs over $/mathbb{R}$, $/mathbb{C}$, and",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
@@ -61087,7 +61087,7 @@
     "last_updated": "2026-06-16T04:25:58.978831+00:00"
   },
   {
-    "title": "Deep Q-Learning on H\\\"older Spaces",
+    "title": "Deep Q-Learning on H/\"older Spaces",
     "category": "ai/research",
     "section": "ai-browser-computer-use",
     "tags": [
@@ -61402,7 +61402,7 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.16975",
     "local_path": "ai/research/arxiv-2606-16975.md",
-    "summary": "arXiv:2606.16975v1 Announce Type: cross Abstract: In this work, we investigate new activation functions for achieving arbitrary-accuracy Sobolev approximation by fixed-size neural networks. We first show that any function in $W^{2,\\infty}((a,b)^d)$ c",
+    "summary": "arXiv:2606.16975v1 Announce Type: cross Abstract: In this work, we investigate new activation functions for achieving arbitrary-accuracy Sobolev approximation by fixed-size neural networks. We first show that any function in $W^{2,/infty}((a,b)^d)$ c",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",

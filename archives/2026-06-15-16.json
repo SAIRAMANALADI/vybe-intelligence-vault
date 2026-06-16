@@ -1751,7 +1751,7 @@
     },
     {
       "id": "arxiv:2605.24795",
-      "title": "Lifted Schr\\\"odinger Bridges for Gaussian Mixture Endpoints: Projection Gaps and Path-Space Obstructions",
+      "title": "Lifted Schr/\"odinger Bridges for Gaussian Mixture Endpoints: Projection Gaps and Path-Space Obstructions",
       "score": 0,
       "rank": 250,
       "tier": "tier-3"
@@ -2325,14 +2325,14 @@
     },
     {
       "id": "arxiv:2606.14194",
-      "title": "Hybrid Classical-Quantum (HCQ) Alzheimer's Classification via Supervised $\\beta$-VAE and Quantum Kernels",
+      "title": "Hybrid Classical-Quantum (HCQ) Alzheimer's Classification via Supervised $/beta$-VAE and Quantum Kernels",
       "score": 0,
       "rank": 332,
       "tier": "tier-3"
     },
     {
       "id": "arxiv:2606.14181",
-      "title": "Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincar\\'e View, with Application to Fluid-Structure Interaction with Contact",
+      "title": "Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincar/'e View, with Application to Fluid-Structure Interaction with Contact",
       "score": 0,
       "rank": 333,
       "tier": "tier-3"
@@ -2500,7 +2500,7 @@
     },
     {
       "id": "arxiv:2606.13769",
-      "title": "$\\mu_0$: A Scalable 3D Interaction-Trace World Model",
+      "title": "$/mu_0$: A Scalable 3D Interaction-Trace World Model",
       "score": 0,
       "rank": 357,
       "tier": "tier-3"
@@ -3417,7 +3417,7 @@
     },
     {
       "id": "arxiv:2512.21201",
-      "title": "Schr\\\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
+      "title": "Schr/\"odinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation",
       "score": 0,
       "rank": 488,
       "tier": "tier-3"
@@ -10550,7 +10550,7 @@
     },
     {
       "id": "arxiv:2605.27478",
-      "title": "Triangular-Reference Schr\\\"odinger Bridges for Time Series Generation",
+      "title": "Triangular-Reference Schr/\"odinger Bridges for Time Series Generation",
       "score": 0,
       "rank": 1507,
       "tier": "tier-3"
@@ -10816,7 +10816,7 @@
     },
     {
       "id": "arxiv:2505.17623",
-      "title": "\\texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
+      "title": "/texttt{Range-Arithmetic}: Verifiable Deep Learning Inference on an Untrusted Party",
       "score": 0,
       "rank": 1545,
       "tier": "tier-3"
@@ -12706,7 +12706,7 @@
     },
     {
       "id": "arxiv:2606.11286",
-      "title": "FreeBridge: Variational Schr\\\"odinger Bridges for Cellular Transition Dynamics",
+      "title": "FreeBridge: Variational Schr/\"odinger Bridges for Cellular Transition Dynamics",
       "score": 0,
       "rank": 1815,
       "tier": "tier-3"
@@ -12944,7 +12944,7 @@
     },
     {
       "id": "arxiv:2605.29151",
-      "title": "Real-rootedness of the Poincar\\'e polynomials of $\\overline{\\mathcal M}_{0,n}$: an AI-assisted proof",
+      "title": "Real-rootedness of the Poincar/'e polynomials of $/overline{/mathcal M}_{0,n}$: an AI-assisted proof",
       "score": 0,
       "rank": 1849,
       "tier": "tier-3"
@@ -13406,7 +13406,7 @@
     },
     {
       "id": "arxiv:2304.13836",
-      "title": "On Pitfalls of $\\textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
+      "title": "On Pitfalls of $/textit{RemOve-And-Retrain}$: Data Processing Inequality Perspective",
       "score": 0,
       "rank": 1915,
       "tier": "tier-3"
@@ -16269,7 +16269,7 @@
     },
     {
       "id": "blog:building-effective-ai-agents-anthropic",
-      "title": "Building Effective AI Agents \\ Anthropic",
+      "title": "Building Effective AI Agents / Anthropic",
       "score": 0,
       "rank": 2324,
       "tier": "tier-3"
