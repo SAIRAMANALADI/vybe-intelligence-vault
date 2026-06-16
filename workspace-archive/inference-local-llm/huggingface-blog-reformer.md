@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Reformer - Pushing the limits of language modeling
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-reformer.md](file:///../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)
+Path: [the-reformer-pushing-the-limits-of-language-modeli.md](../../ai/models/the-reformer-pushing-the-limits-of-language-modeli.md)

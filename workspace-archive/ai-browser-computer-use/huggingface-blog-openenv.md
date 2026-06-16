@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building the Open Agent Ecosystem Together: Introducing OpenEnv
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv
 
 ## Local Vault File
 
-Path: [huggingface-blog-openenv.md](file:///../../ai/agents/building-the-open-agent-ecosystem-together-introdu.md)
+Path: [building-the-open-agent-ecosystem-together-introdu.md](../../ai/agents/building-the-open-agent-ecosystem-together-introdu.md)

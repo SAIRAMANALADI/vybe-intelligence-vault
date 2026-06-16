@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SafeCoder vs. Closed-source Code Assistants
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder-vs-closed-source-code
 
 ## Local Vault File
 
-Path: [huggingface-blog-safecoder-vs-closed-source-code-assistants.md](file:///../../ai/models/safecoder-vs-closed-source-code-assistants.md)
+Path: [safecoder-vs-closed-source-code-assistants.md](../../ai/models/safecoder-vs-closed-source-code-assistants.md)

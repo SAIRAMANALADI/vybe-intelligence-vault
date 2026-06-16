@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How we leveraged distilabel to create an Argilla 2.0 Chatbot
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/argilla-chatbot
 
 ## Local Vault File
 
-Path: [huggingface-blog-argilla-chatbot.md](file:///../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)
+Path: [how-we-leveraged-distilabel-to-create-an-argilla-2.md](../../ai/rag/how-we-leveraged-distilabel-to-create-an-argilla-2.md)

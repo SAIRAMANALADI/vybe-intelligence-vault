@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deep Learning over the Internet: Training Language Models Collaboratively
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/collaborative-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-collaborative-training.md](file:///../../ai/models/deep-learning-over-the-internet-training-language.md)
+Path: [deep-learning-over-the-internet-training-language.md](../../ai/models/deep-learning-over-the-internet-training-language.md)

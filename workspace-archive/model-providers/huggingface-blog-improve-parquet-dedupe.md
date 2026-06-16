@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Improving Parquet Dedupe on Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/improve_parquet_dedupe
 
 ## Local Vault File
 
-Path: [huggingface-blog-improve-parquet-dedupe.md](file:///../../ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)
+Path: [improving-parquet-dedupe-on-hugging-face-hub.md](../../ai/models/improving-parquet-dedupe-on-hugging-face-hub.md)

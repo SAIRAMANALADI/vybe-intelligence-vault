@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy Embedding Models with Hugging Face Inference Endpoints
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-endpoints-embeddings.md](file:///../../ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)
+Path: [deploy-embedding-models-with-hugging-face-inferenc.md](../../ai/models/deploy-embedding-models-with-hugging-face-inferenc.md)

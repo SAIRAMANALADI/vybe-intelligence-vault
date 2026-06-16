@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate StarCoder with 🤗 Optimum Intel on Xeon: Q8/Q4 and Speculative Decoding
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-starcoder-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-starcoder-quantization.md](file:///../../ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)
+Path: [accelerate-starcoder-with-optimum-intel-on-xeon-q8.md](../../ai/models/accelerate-starcoder-with-optimum-intel-on-xeon-q8.md)

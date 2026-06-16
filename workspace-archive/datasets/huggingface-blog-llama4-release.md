@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Llama 4 Maverick & Scout on Hugging Face
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama4-release
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama4-release.md](file:///../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)
+Path: [welcome-llama-4-maverick-scout-on-hugging-face.md](../../ai/models/welcome-llama-4-maverick-scout-on-hugging-face.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Continuous batching from first principles
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_batching
 
 ## Local Vault File
 
-Path: [huggingface-blog-continuous-batching.md](file:///../../ai/models/continuous-batching-from-first-principles.md)
+Path: [continuous-batching-from-first-principles.md](../../ai/models/continuous-batching-from-first-principles.md)

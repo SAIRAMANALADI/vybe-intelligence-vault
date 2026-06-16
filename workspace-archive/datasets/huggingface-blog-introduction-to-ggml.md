@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introduction to ggml
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introduction-to-ggml
 
 ## Local Vault File
 
-Path: [huggingface-blog-introduction-to-ggml.md](file:///../../ai/models/introduction-to-ggml.md)
+Path: [introduction-to-ggml.md](../../ai/models/introduction-to-ggml.md)

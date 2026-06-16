@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Universal Assisted Generation: Faster Decoding with Any Assistant Model
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/universal_assisted_generation
 
 ## Local Vault File
 
-Path: [huggingface-blog-universal-assisted-generation.md](file:///../../ai/models/universal-assisted-generation-faster-decoding-with.md)
+Path: [universal-assisted-generation-faster-decoding-with.md](../../ai/models/universal-assisted-generation-faster-decoding-with.md)

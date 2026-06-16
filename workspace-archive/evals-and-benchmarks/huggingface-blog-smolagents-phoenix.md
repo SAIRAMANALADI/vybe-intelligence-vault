@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Trace & Evaluate your Agent with Arize Phoenix
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/smolagents-phoenix
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents-phoenix.md](file:///../../ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)
+Path: [trace-evaluate-your-agent-with-arize-phoenix.md](../../ai/agents/trace-evaluate-your-agent-with-arize-phoenix.md)

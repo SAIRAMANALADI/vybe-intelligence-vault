@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Distributed Training: Train BART/T5 for Summarization using 🤗 Transformers and Amazon SageMaker
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-distributed-training-
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-distributed-training-seq2seq.md](file:///../../ai/models/distributed-training-train-bart-t5-for-summarizati.md)
+Path: [distributed-training-train-bart-t5-for-summarizati.md](../../ai/models/distributed-training-train-bart-t5-for-summarizati.md)

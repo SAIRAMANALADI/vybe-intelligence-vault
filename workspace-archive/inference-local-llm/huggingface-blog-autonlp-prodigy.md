@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Active Learning with AutoNLP and Prodigy
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autonlp-prodigy
 
 ## Local Vault File
 
-Path: [huggingface-blog-autonlp-prodigy.md](file:///../../ai/models/active-learning-with-autonlp-and-prodigy.md)
+Path: [active-learning-with-autonlp-and-prodigy.md](../../ai/models/active-learning-with-autonlp-and-prodigy.md)

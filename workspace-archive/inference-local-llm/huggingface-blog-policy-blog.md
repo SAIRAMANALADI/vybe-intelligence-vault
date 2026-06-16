@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Public Policy at Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-blog
 
 ## Local Vault File
 
-Path: [huggingface-blog-policy-blog.md](file:///../../ai/models/public-policy-at-hugging-face.md)
+Path: [public-policy-at-hugging-face.md](../../ai/models/public-policy-at-hugging-face.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SOTA OCR with Core ML and dots.ocr
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dots-ocr-ne
 
 ## Local Vault File
 
-Path: [huggingface-blog-dots-ocr-ne.md](file:///../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)
+Path: [sota-ocr-with-core-ml-and-dots-ocr.md](../../ai/models/sota-ocr-with-core-ml-and-dots-ocr.md)

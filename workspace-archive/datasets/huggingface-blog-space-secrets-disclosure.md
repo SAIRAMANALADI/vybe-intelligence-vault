@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Space secrets security update
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/space-secrets-disclosure
 
 ## Local Vault File
 
-Path: [huggingface-blog-space-secrets-disclosure.md](file:///../../ai/models/space-secrets-security-update.md)
+Path: [space-secrets-security-update.md](../../ai/models/space-secrets-security-update.md)

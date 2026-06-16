@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Director of Machine Learning Insights [Part 2: SaaS Edition]
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-director-insights-2.md](file:///../../ai/models/director-of-machine-learning-insights-part-2-saas.md)
+Path: [director-of-machine-learning-insights-part-2-saas.md](../../ai/models/director-of-machine-learning-insights-part-2-saas.md)

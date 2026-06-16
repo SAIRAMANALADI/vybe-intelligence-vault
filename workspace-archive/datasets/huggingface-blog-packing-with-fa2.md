@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Improving Hugging Face Training Efficiency Through Packing with Flash Attention 2
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/packing-with-fa2
 
 ## Local Vault File
 
-Path: [huggingface-blog-packing-with-fa2.md](file:///../../ai/models/improving-hugging-face-training-efficiency-through.md)
+Path: [improving-hugging-face-training-efficiency-through.md](../../ai/models/improving-hugging-face-training-efficiency-through.md)

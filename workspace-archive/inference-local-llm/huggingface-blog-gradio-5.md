@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome, Gradio 5
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-5.md](file:///../../ai/models/welcome-gradio-5.md)
+Path: [welcome-gradio-5.md](../../ai/models/welcome-gradio-5.md)

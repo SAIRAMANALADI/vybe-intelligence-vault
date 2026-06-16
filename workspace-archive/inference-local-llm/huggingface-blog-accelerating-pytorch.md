@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating PyTorch distributed fine-tuning with Intel technologies
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/accelerating-pytorch
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerating-pytorch.md](file:///../../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)
+Path: [accelerating-pytorch-distributed-fine-tuning-with.md](../../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md)

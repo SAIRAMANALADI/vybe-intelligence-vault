@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Running IF with 🧨 diffusers on a Free Tier Google Colab
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/if
 
 ## Local Vault File
 
-Path: [huggingface-blog-if.md](file:///../../ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)
+Path: [running-if-with-diffusers-on-a-free-tier-google-co.md](../../ai/models/running-if-with-diffusers-on-a-free-tier-google-co.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building a Playlist Generator with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/playlist-generator
 
 ## Local Vault File
 
-Path: [huggingface-blog-playlist-generator.md](file:///../../ai/models/building-a-playlist-generator-with-sentence-transf.md)
+Path: [building-a-playlist-generator-with-sentence-transf.md](../../ai/models/building-a-playlist-generator-with-sentence-transf.md)

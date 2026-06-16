@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Open Medical-LLM Leaderboard: Benchmarking Large Language Models in Healthcare
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-medicalllm
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-medicalllm.md](file:///../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)
+Path: [the-open-medical-llm-leaderboard-benchmarking-larg.md](../../ai/models/the-open-medical-llm-leaderboard-benchmarking-larg.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Generating Stories: AI for Game Development #5
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-5.md](file:///../../ai/models/generating-stories-ai-for-game-development-5.md)
+Path: [generating-stories-ai-for-game-development-5.md](../../ai/models/generating-stories-ai-for-game-development-5.md)

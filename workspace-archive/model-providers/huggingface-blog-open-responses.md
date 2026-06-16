@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open Responses: What you need to know
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-responses
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-responses.md](file:///../../ai/models/open-responses-what-you-need-to-know.md)
+Path: [open-responses-what-you-need-to-know.md](../../ai/models/open-responses-what-you-need-to-know.md)

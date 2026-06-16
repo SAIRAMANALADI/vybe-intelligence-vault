@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making automatic speech recognition work on large files with Wav2Vec2 in 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/asr-chunking
 
 ## Local Vault File
 
-Path: [huggingface-blog-asr-chunking.md](file:///../../ai/models/making-automatic-speech-recognition-work-on-large.md)
+Path: [making-automatic-speech-recognition-work-on-large.md](../../ai/models/making-automatic-speech-recognition-work-on-large.md)

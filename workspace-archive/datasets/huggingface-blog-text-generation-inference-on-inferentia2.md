@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Text Generation Inference available for AWS Inferentia2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-generation-inference-on-in
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-generation-inference-on-inferentia2.md](file:///../../ai/models/hugging-face-text-generation-inference-available-f.md)
+Path: [hugging-face-text-generation-inference-available-f.md](../../ai/models/hugging-face-text-generation-inference-available-f.md)

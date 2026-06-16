@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Creating a Coding Assistant with StarCoder
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starchat-alpha
 
 ## Local Vault File
 
-Path: [huggingface-blog-starchat-alpha.md](file:///../../ai/models/creating-a-coding-assistant-with-starcoder.md)
+Path: [creating-a-coding-assistant-with-starcoder.md](../../ai/models/creating-a-coding-assistant-with-starcoder.md)

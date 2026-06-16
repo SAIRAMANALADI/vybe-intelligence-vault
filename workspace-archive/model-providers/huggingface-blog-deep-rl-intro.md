@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # An Introduction to Deep Reinforcement Learning
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-intro
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-intro.md](file:///../../ai/models/an-introduction-to-deep-reinforcement-learning.md)
+Path: [an-introduction-to-deep-reinforcement-learning.md](../../ai/models/an-introduction-to-deep-reinforcement-learning.md)

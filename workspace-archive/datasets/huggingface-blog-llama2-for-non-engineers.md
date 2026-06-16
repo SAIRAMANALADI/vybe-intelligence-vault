@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Non-engineers guide: Train a LLaMA 2 chatbot
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2-for-non-engineers
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama2-for-non-engineers.md](file:///../../ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)
+Path: [non-engineers-guide-train-a-llama-2-chatbot.md](../../ai/models/non-engineers-guide-train-a-llama-2-chatbot.md)

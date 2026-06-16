@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training and Finetuning Embedding Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sentence-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sentence-transformers.md](file:///../../ai/models/training-and-finetuning-embedding-models-with-sent.md)
+Path: [training-and-finetuning-embedding-models-with-sent.md](../../ai/models/training-and-finetuning-embedding-models-with-sent.md)

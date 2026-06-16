@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Agents Are Here. What Now?
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-7
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-7.md](file:///../../ai/agents/ai-agents-are-here-what-now.md)
+Path: [ai-agents-are-here-what-now.md](../../ai/agents/ai-agents-are-here-what-now.md)

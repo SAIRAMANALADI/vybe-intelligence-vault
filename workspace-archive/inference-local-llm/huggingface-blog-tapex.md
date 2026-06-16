@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Efficient Table Pre-training without Real Data: An Introduction to TAPEX
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tapex
 
 ## Local Vault File
 
-Path: [huggingface-blog-tapex.md](file:///../../ai/models/efficient-table-pre-training-without-real-data-an.md)
+Path: [efficient-table-pre-training-without-real-data-an.md](../../ai/models/efficient-table-pre-training-without-real-data-an.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate your models with 🤗 Optimum Intel and OpenVINO
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino
 
 ## Local Vault File
 
-Path: [huggingface-blog-openvino.md](file:///../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)
+Path: [accelerate-your-models-with-optimum-intel-and-open.md](../../ai/models/accelerate-your-models-with-optimum-intel-and-open.md)

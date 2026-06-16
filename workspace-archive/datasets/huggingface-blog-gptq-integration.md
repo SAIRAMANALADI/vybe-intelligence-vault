@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making LLMs lighter with AutoGPTQ and transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptq-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-gptq-integration.md](file:///../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)
+Path: [making-llms-lighter-with-autogptq-and-transformers.md](../../ai/models/making-llms-lighter-with-autogptq-and-transformers.md)

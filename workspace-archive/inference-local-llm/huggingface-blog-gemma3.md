@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Gemma 3: Google's all new multimodal, multilingual, long context open LLM
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/gemma3
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma3.md](file:///../../ai/models/welcome-gemma-3-google-s-all-new-multimodal-multil.md)
+Path: [welcome-gemma-3-google-s-all-new-multimodal-multil.md](../../ai/models/welcome-gemma-3-google-s-all-new-multimodal-multil.md)

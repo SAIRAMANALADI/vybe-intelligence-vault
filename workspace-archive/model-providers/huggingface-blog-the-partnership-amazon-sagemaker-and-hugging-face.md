@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Partnership: Amazon SageMaker and Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-partnership-amazon-sagemake
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-partnership-amazon-sagemaker-and-hugging-face.md](file:///../../ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)
+Path: [the-partnership-amazon-sagemaker-and-hugging-face.md](../../ai/models/the-partnership-amazon-sagemaker-and-hugging-face.md)

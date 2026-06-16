@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome spaCy to the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spacy
 
 ## Local Vault File
 
-Path: [huggingface-blog-spacy.md](file:///../../ai/models/welcome-spacy-to-the-hugging-face-hub.md)
+Path: [welcome-spacy-to-the-hugging-face-hub.md](../../ai/models/welcome-spacy-to-the-hugging-face-hub.md)

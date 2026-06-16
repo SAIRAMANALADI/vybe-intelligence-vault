@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-sapphire-rapids-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-sapphire-rapids-inference.md](file:///../../ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)
+Path: [accelerating-pytorch-transformers-with-intel-sapph.md](../../ai/models/accelerating-pytorch-transformers-with-intel-sapph.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Assisted Generation: a new direction toward low-latency text generation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation
 
 ## Local Vault File
 
-Path: [huggingface-blog-assisted-generation.md](file:///../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)
+Path: [assisted-generation-a-new-direction-toward-low-lat.md](../../ai/models/assisted-generation-a-new-direction-toward-low-lat.md)

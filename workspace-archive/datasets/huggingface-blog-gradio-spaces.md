@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Showcase Your Projects in Spaces using Gradio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-spaces.md](file:///../../ai/models/showcase-your-projects-in-spaces-using-gradio.md)
+Path: [showcase-your-projects-in-spaces-using-gradio.md](../../ai/models/showcase-your-projects-in-spaces-using-gradio.md)

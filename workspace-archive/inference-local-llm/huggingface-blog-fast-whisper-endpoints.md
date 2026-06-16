@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Blazingly fast whisper transcriptions with Inference Endpoints
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-whisper-endpoints
 
 ## Local Vault File
 
-Path: [huggingface-blog-fast-whisper-endpoints.md](file:///../../ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)
+Path: [blazingly-fast-whisper-transcriptions-with-inferen.md](../../ai/models/blazingly-fast-whisper-transcriptions-with-inferen.md)

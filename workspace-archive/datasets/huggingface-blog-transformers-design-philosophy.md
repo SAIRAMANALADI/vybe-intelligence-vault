@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # ~Don't~ Repeat Yourself
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-design-philosophy
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-design-philosophy.md](file:///../../ai/models/don-t-repeat-yourself.md)
+Path: [don-t-repeat-yourself.md](../../ai/models/don-t-repeat-yourself.md)

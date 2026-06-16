@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From DeepSpeed to FSDP and Back Again with Hugging Face Accelerate
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepspeed-to-fsdp-and-back
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepspeed-to-fsdp-and-back.md](file:///../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)
+Path: [from-deepspeed-to-fsdp-and-back-again-with-hugging.md](../../ai/models/from-deepspeed-to-fsdp-and-back-again-with-hugging.md)

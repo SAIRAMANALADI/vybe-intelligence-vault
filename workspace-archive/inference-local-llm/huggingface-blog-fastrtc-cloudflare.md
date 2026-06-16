@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and Cloudflare Partner to Make Real-Time Speech and Video Seamless with FastRTC
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/fastrtc-cloudflare
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastrtc-cloudflare.md](file:///../../ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)
+Path: [hugging-face-and-cloudflare-partner-to-make-real-t.md](../../ai/models/hugging-face-and-cloudflare-partner-to-make-real-t.md)

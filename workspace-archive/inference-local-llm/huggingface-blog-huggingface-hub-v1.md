@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-hub-v1
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-hub-v1.md](file:///../../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)
+Path: [huggingface-hub-v1-0-five-years-of-building-the-fo.md](../../ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)

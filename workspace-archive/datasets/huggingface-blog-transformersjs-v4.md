@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Transformers.js v4: Now Available on NPM!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v4
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-v4.md](file:///../../ai/models/transformers-js-v4-now-available-on-npm.md)
+Path: [transformers-js-v4-now-available-on-npm.md](../../ai/models/transformers-js-v4-now-available-on-npm.md)

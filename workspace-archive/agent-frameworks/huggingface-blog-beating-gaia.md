@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Our Transformers Code Agent beats the GAIA benchmark 🏅
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/beating-gaia
 
 ## Local Vault File
 
-Path: [huggingface-blog-beating-gaia.md](file:///../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)
+Path: [our-transformers-code-agent-beats-the-gaia-benchma.md](../../ai/agents/our-transformers-code-agent-beats-the-gaia-benchma.md)

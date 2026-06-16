@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # DABStep: Data Agent Benchmark for Multi-step Reasoning
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/dabstep
 
 ## Local Vault File
 
-Path: [huggingface-blog-dabstep.md](file:///../../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md)
+Path: [dabstep-data-agent-benchmark-for-multi-step-reason.md](../../ai/agents/dabstep-data-agent-benchmark-for-multi-step-reason.md)

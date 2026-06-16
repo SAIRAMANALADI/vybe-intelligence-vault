@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # DeepSeek-V4: a million-token context that agents can actually use
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/deepseekv4
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepseekv4.md](file:///../../ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)
+Path: [deepseek-v4-a-million-token-context-that-agents-ca.md](../../ai/agents/deepseek-v4-a-million-token-context-that-agents-ca.md)

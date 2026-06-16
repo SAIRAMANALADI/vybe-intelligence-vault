@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Make your llama generation time fly with AWS Inferentia2
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/inferentia-llama2
 
 ## Local Vault File
 
-Path: [huggingface-blog-inferentia-llama2.md](file:///../../ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)
+Path: [make-your-llama-generation-time-fly-with-aws-infer.md](../../ai/models/make-your-llama-generation-time-fly-with-aws-infer.md)

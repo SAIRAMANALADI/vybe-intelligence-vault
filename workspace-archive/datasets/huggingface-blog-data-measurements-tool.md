@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Data Measurements Tool: an Interactive Tool for Looking at Datasets
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/data-measurements-tool
 
 ## Local Vault File
 
-Path: [huggingface-blog-data-measurements-tool.md](file:///../../ai/models/introducing-the-data-measurements-tool-an-interact.md)
+Path: [introducing-the-data-measurements-tool-an-interact.md](../../ai/models/introducing-the-data-measurements-tool-an-interact.md)

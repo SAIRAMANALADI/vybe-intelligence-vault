@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Leveraging Pre-trained Language Model Checkpoints for Encoder-Decoder Models
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/warm-starting-encoder-decoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-warm-starting-encoder-decoder.md](file:///../../ai/rag/leveraging-pre-trained-language-model-checkpoints.md)
+Path: [leveraging-pre-trained-language-model-checkpoints.md](../../ai/rag/leveraging-pre-trained-language-model-checkpoints.md)

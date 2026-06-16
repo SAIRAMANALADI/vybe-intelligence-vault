@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Understanding BigBird's Block Sparse Attention
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/big-bird
 
 ## Local Vault File
 
-Path: [huggingface-blog-big-bird.md](file:///../../ai/models/understanding-bigbird-s-block-sparse-attention.md)
+Path: [understanding-bigbird-s-block-sparse-attention.md](../../ai/models/understanding-bigbird-s-block-sparse-attention.md)

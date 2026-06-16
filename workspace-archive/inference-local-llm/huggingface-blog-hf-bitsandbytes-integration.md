@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using transformers, accelerate and bitsandbytes
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/hf-bitsandbytes-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-bitsandbytes-integration.md](file:///../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)
+Path: [a-gentle-introduction-to-8-bit-matrix-multiplicati.md](../../ai/models/a-gentle-introduction-to-8-bit-matrix-multiplicati.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate BERT inference with Hugging Face Transformers and AWS Inferentia
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-inferentia-sagemaker
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-inferentia-sagemaker.md](file:///../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)
+Path: [accelerate-bert-inference-with-hugging-face-transf.md](../../ai/models/accelerate-bert-inference-with-hugging-face-transf.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Vision Language Models Explained
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vlms
 
 ## Local Vault File
 
-Path: [huggingface-blog-vlms.md](file:///../../ai/models/vision-language-models-explained.md)
+Path: [vision-language-models-explained.md](../../ai/models/vision-language-models-explained.md)

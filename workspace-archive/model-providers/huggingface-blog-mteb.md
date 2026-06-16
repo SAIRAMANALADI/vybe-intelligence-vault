@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # MTEB: Massive Text Embedding Benchmark
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/mteb
 
 ## Local Vault File
 
-Path: [huggingface-blog-mteb.md](file:///../../ai/models/mteb-massive-text-embedding-benchmark.md)
+Path: [mteb-massive-text-embedding-benchmark.md](../../ai/models/mteb-massive-text-embedding-benchmark.md)

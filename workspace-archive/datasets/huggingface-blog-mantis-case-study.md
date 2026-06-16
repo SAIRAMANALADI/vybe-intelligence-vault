@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Why we’re switching to Hugging Face Inference Endpoints, and maybe you should too
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/mantis-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-mantis-case-study.md](file:///../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)
+Path: [why-were-switching-to-hugging-face-inference-endpo.md](../../ai/models/why-were-switching-to-hugging-face-inference-endpo.md)

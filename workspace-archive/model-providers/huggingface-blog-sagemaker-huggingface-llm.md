@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Hugging Face LLM Inference Container for Amazon SageMaker
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-huggingface-llm.md](file:///../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)
+Path: [introducing-the-hugging-face-llm-inference-contain.md](../../ai/models/introducing-the-hugging-face-llm-inference-contain.md)

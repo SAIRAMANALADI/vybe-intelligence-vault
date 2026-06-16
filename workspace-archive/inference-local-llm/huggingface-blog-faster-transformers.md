@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Tricks from OpenAI gpt-oss YOU 🫵 can use with transformers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/faster-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-faster-transformers.md](file:///../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)
+Path: [tricks-from-openai-gpt-oss-you-can-use-with-transf.md](../../ai/models/tricks-from-openai-gpt-oss-you-can-use-with-transf.md)

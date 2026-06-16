@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Huggy Lingo: Using Machine Learning to Improve Language Metadata on the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggy-lingo
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggy-lingo.md](file:///../../ai/models/huggy-lingo-using-machine-learning-to-improve-lang.md)
+Path: [huggy-lingo-using-machine-learning-to-improve-lang.md](../../ai/models/huggy-lingo-using-machine-learning-to-improve-lang.md)

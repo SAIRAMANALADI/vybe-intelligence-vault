@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 3D Asset Generation: AI for Game Development #3
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-3
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-3.md](file:///../../ai/models/3d-asset-generation-ai-for-game-development-3.md)
+Path: [3d-asset-generation-ai-for-game-development-3.md](../../ai/models/3d-asset-generation-ai-for-game-development-3.md)

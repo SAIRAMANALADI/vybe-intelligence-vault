@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Skops
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/skops
 
 ## Local Vault File
 
-Path: [huggingface-blog-skops.md](file:///../../ai/models/introducing-skops.md)
+Path: [introducing-skops.md](../../ai/models/introducing-skops.md)

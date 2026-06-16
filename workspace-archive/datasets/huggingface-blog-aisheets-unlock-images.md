@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Unlock the power of images with AI Sheets
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aisheets-unlock-images
 
 ## Local Vault File
 
-Path: [huggingface-blog-aisheets-unlock-images.md](file:///../../ai/models/unlock-the-power-of-images-with-ai-sheets.md)
+Path: [unlock-the-power-of-images-with-ai-sheets.md](../../ai/models/unlock-the-power-of-images-with-ai-sheets.md)

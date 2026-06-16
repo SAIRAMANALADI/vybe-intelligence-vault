@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Visualize proteins on Hugging Face Spaces
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spaces_3dmoljs
 
 ## Local Vault File
 
-Path: [huggingface-blog-spaces-3dmoljs.md](file:///../../ai/models/visualize-proteins-on-hugging-face-spaces.md)
+Path: [visualize-proteins-on-hugging-face-spaces.md](../../ai/models/visualize-proteins-on-hugging-face-spaces.md)

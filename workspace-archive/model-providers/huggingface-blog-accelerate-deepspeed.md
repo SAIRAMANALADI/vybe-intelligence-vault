@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate Large Model Training using DeepSpeed
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-deepspeed
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-deepspeed.md](file:///../../ai/models/accelerate-large-model-training-using-deepspeed.md)
+Path: [accelerate-large-model-training-using-deepspeed.md](../../ai/models/accelerate-large-model-training-using-deepspeed.md)

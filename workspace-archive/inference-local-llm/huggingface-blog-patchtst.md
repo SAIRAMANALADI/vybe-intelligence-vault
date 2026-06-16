@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Patch Time Series Transformer in Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtst
 
 ## Local Vault File
 
-Path: [huggingface-blog-patchtst.md](file:///../../ai/models/patch-time-series-transformer-in-hugging-face.md)
+Path: [patch-time-series-transformer-in-hugging-face.md](../../ai/models/patch-time-series-transformer-in-hugging-face.md)

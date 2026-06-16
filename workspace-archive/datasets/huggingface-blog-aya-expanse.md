@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Deepdive into Aya Expanse: Advancing the Frontier of Multilinguality
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-expanse
 
 ## Local Vault File
 
-Path: [huggingface-blog-aya-expanse.md](file:///../../ai/models/a-deepdive-into-aya-expanse-advancing-the-frontier.md)
+Path: [a-deepdive-into-aya-expanse-advancing-the-frontier.md](../../ai/models/a-deepdive-into-aya-expanse-advancing-the-frontier.md)

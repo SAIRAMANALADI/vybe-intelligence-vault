@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/delta-weight-sync
 
 ## Local Vault File
 
-Path: [huggingface-blog-delta-weight-sync.md](file:///../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)
+Path: [shipping-a-trillion-parameters-with-a-hub-bucket-d.md](../../ai/models/shipping-a-trillion-parameters-with-a-hub-bucket-d.md)

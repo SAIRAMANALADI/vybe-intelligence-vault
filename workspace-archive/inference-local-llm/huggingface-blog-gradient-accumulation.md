@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fixing Gradient Accumulation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradient_accumulation
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradient-accumulation.md](file:///../../ai/models/fixing-gradient-accumulation.md)
+Path: [fixing-gradient-accumulation.md](../../ai/models/fixing-gradient-accumulation.md)

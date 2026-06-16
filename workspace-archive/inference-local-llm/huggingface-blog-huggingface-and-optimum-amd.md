@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AMD + 🤗: Large Language Models Out-of-the-Box Acceleration with AMD GPU
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-optimum-amd
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-optimum-amd.md](file:///../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)
+Path: [amd-large-language-models-out-of-the-box-accelerat.md](../../ai/models/amd-large-language-models-out-of-the-box-accelerat.md)

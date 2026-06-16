@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploying the AI Comic Factory using the Inference API
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-comic-factory
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-comic-factory.md](file:///../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)
+Path: [deploying-the-ai-comic-factory-using-the-inference.md](../../ai/models/deploying-the-ai-comic-factory-using-the-inference.md)

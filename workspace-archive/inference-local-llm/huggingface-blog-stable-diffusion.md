@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Stable Diffusion with 🧨 Diffusers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion.md](file:///../../ai/models/stable-diffusion-with-diffusers.md)
+Path: [stable-diffusion-with-diffusers.md](../../ai/models/stable-diffusion-with-diffusers.md)

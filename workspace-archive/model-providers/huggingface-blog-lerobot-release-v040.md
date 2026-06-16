@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LeRobot v0.4.0: Supercharging OSS Robot Learning
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v040
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-release-v040.md](file:///../../ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)
+Path: [lerobot-v0-4-0-supercharging-oss-robot-learning.md](../../ai/models/lerobot-v0-4-0-supercharging-oss-robot-learning.md)

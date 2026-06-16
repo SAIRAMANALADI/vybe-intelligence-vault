@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimizing your LLM in production
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimize-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimize-llm.md](file:///../../ai/models/optimizing-your-llm-in-production.md)
+Path: [optimizing-your-llm-in-production.md](../../ai/models/optimizing-your-llm-in-production.md)

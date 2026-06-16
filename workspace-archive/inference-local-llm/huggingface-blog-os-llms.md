@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open-Source Text Generation & LLM Ecosystem at Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/os-llms
 
 ## Local Vault File
 
-Path: [huggingface-blog-os-llms.md](file:///../../ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)
+Path: [open-source-text-generation-llm-ecosystem-at-huggi.md](../../ai/models/open-source-text-generation-llm-ecosystem-at-huggi.md)

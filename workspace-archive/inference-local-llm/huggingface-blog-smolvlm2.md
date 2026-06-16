@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolVLM2: Bringing Video Understanding to Every Device
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolvlm2
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvlm2.md](file:///../../ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)
+Path: [smolvlm2-bringing-video-understanding-to-every-dev.md](../../ai/models/smolvlm2-bringing-video-understanding-to-every-dev.md)

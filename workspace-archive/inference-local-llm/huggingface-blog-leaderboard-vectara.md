@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A guide to setting up your own Hugging Face leaderboard: an end-to-end example with Vectara's hallucination leaderboard
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-vectara
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-vectara.md](file:///../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)
+Path: [a-guide-to-setting-up-your-own-hugging-face-leader.md](../../ai/models/a-guide-to-setting-up-your-own-hugging-face-leader.md)

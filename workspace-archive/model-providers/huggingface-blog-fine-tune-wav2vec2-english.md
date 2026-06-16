@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-wav2vec2-english
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-wav2vec2-english.md](file:///../../ai/models/fine-tune-wav2vec2-for-english-asr-in-hugging-face.md)
+Path: [fine-tune-wav2vec2-for-english-asr-in-hugging-face.md](../../ai/models/fine-tune-wav2vec2-for-english-asr-in-hugging-face.md)

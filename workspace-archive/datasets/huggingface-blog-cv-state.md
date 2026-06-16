@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The State of Computer Vision at Hugging Face 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cv_state
 
 ## Local Vault File
 
-Path: [huggingface-blog-cv-state.md](file:///../../ai/models/the-state-of-computer-vision-at-hugging-face.md)
+Path: [the-state-of-computer-vision-at-hugging-face.md](../../ai/models/the-state-of-computer-vision-at-hugging-face.md)

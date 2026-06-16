@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing Evaluation on the Hub
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/eval-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-eval-on-the-hub.md](file:///../../ai/models/announcing-evaluation-on-the-hub.md)
+Path: [announcing-evaluation-on-the-hub.md](../../ai/models/announcing-evaluation-on-the-hub.md)

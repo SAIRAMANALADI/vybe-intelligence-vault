@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-tuning Stable Diffusion models on Intel CPUs
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-finetuning-int
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-finetuning-intel.md](file:///../../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md)
+Path: [fine-tuning-stable-diffusion-models-on-intel-cpus.md](../../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md)

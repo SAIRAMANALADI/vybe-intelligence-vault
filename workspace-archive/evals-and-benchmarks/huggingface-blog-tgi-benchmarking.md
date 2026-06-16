@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Benchmarking Text Generation Inference
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tgi-benchmarking
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-benchmarking.md](file:///../../ai/models/benchmarking-text-generation-inference.md)
+Path: [benchmarking-text-generation-inference.md](../../ai/models/benchmarking-text-generation-inference.md)

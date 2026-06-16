@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From Zero to GPU: A Guide to Building and Scaling Production-Ready CUDA Kernels
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kernel-builder
 
 ## Local Vault File
 
-Path: [huggingface-blog-kernel-builder.md](file:///../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)
+Path: [from-zero-to-gpu-a-guide-to-building-and-scaling-p.md](../../ai/models/from-zero-to-gpu-a-guide-to-building-and-scaling-p.md)

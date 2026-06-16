@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune MMS Adapter Models for low-resource ASR
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mms_adapters
 
 ## Local Vault File
 
-Path: [huggingface-blog-mms-adapters.md](file:///../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)
+Path: [fine-tune-mms-adapter-models-for-low-resource-asr.md](../../ai/models/fine-tune-mms-adapter-models-for-low-resource-asr.md)

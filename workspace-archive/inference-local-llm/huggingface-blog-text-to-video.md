@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Dive into Text-to-Video Models
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/text-to-video
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-to-video.md](file:///../../ai/models/a-dive-into-text-to-video-models.md)
+Path: [a-dive-into-text-to-video-models.md](../../ai/models/a-dive-into-text-to-video-models.md)

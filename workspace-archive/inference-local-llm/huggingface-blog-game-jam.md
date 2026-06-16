@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing the Open Source AI Game Jam 🎮
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam
 
 ## Local Vault File
 
-Path: [huggingface-blog-game-jam.md](file:///../../ai/models/announcing-the-open-source-ai-game-jam.md)
+Path: [announcing-the-open-source-ai-game-jam.md](../../ai/models/announcing-the-open-source-ai-game-jam.md)

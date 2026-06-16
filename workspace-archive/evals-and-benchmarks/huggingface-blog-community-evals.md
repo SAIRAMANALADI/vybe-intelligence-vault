@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Community Evals: Because we're done trusting black-box leaderboards over the community
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/community-evals
 
 ## Local Vault File
 
-Path: [huggingface-blog-community-evals.md](file:///../../ai/models/community-evals-because-we-re-done-trusting-black.md)
+Path: [community-evals-because-we-re-done-trusting-black.md](../../ai/models/community-evals-because-we-re-done-trusting-black.md)

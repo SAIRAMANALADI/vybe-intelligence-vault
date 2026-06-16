@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating Protein Language Model ProtST on Intel Gaudi 2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-protein-language-model-pr
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-protein-language-model-protst.md](file:///../../ai/models/accelerating-protein-language-model-protst-on-inte.md)
+Path: [accelerating-protein-language-model-protst-on-inte.md](../../ai/models/accelerating-protein-language-model-protst-on-inte.md)

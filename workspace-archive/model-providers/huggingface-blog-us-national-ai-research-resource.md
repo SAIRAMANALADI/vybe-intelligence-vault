@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Comments on U.S. National AI Research Resource Interim Report
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/us-national-ai-research-resourc
 
 ## Local Vault File
 
-Path: [huggingface-blog-us-national-ai-research-resource.md](file:///../../ai/models/comments-on-u-s-national-ai-research-resource-inte.md)
+Path: [comments-on-u-s-national-ai-research-resource-inte.md](../../ai/models/comments-on-u-s-national-ai-research-resource-inte.md)

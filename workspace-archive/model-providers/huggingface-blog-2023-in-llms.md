@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 2023, year of open LLMs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/2023-in-llms
 
 ## Local Vault File
 
-Path: [huggingface-blog-2023-in-llms.md](file:///../../ai/models/2023-year-of-open-llms.md)
+Path: [2023-year-of-open-llms.md](../../ai/models/2023-year-of-open-llms.md)

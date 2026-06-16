@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Object Detection Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/object-detection-leaderboard
 
 ## Local Vault File
 
-Path: [huggingface-blog-object-detection-leaderboard.md](file:///../../ai/models/object-detection-leaderboard.md)
+Path: [object-detection-leaderboard.md](../../ai/models/object-detection-leaderboard.md)

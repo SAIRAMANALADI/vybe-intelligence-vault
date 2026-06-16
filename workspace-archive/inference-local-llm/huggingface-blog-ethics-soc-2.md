@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Let's talk about biases in machine learning! Ethics and Society Newsletter #2
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-2.md](file:///../../ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)
+Path: [let-s-talk-about-biases-in-machine-learning-ethics.md](../../ai/models/let-s-talk-about-biases-in-machine-learning-ethics.md)

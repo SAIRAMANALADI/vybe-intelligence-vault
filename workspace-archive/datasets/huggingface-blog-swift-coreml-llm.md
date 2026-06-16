@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Releasing Swift Transformers: Run On-Device LLMs in Apple Devices
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-coreml-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-coreml-llm.md](file:///../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)
+Path: [releasing-swift-transformers-run-on-device-llms-in.md](../../ai/models/releasing-swift-transformers-run-on-device-llms-in.md)

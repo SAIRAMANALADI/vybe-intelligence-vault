@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Harness, Scaffold, and the AI Agent Terms Worth Getting Right
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agent-glossary
 
 ## Local Vault File
 
-Path: [huggingface-blog-agent-glossary.md](file:///../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)
+Path: [harness-scaffold-and-the-ai-agent-terms-worth-gett.md](../../ai/agents/harness-scaffold-and-the-ai-agent-terms-worth-gett.md)

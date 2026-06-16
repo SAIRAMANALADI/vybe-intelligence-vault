@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Dive into Vision-Language Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vision_language_pretraining
 
 ## Local Vault File
 
-Path: [huggingface-blog-vision-language-pretraining.md](file:///../../ai/models/a-dive-into-vision-language-models.md)
+Path: [a-dive-into-vision-language-models.md](../../ai/models/a-dive-into-vision-language-models.md)

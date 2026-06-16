@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimum-NVIDIA Unlocking blazingly fast LLM inference in just 1 line of code
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-nvidia
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimum-nvidia.md](file:///../../ai/models/optimum-nvidia-unlocking-blazingly-fast-llm-infere.md)
+Path: [optimum-nvidia-unlocking-blazingly-fast-llm-infere.md](../../ai/models/optimum-nvidia-unlocking-blazingly-fast-llm-infere.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Machine Learning Experts - Sasha Luccioni
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sasha-luccioni-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-sasha-luccioni-interview.md](file:///../../ai/models/machine-learning-experts-sasha-luccioni.md)
+Path: [machine-learning-experts-sasha-luccioni.md](../../ai/models/machine-learning-experts-sasha-luccioni.md)

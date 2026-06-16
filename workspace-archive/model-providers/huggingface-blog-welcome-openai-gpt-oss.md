@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome GPT OSS, the new open-source model family from OpenAI!
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/welcome-openai-gpt-oss
 
 ## Local Vault File
 
-Path: [huggingface-blog-welcome-openai-gpt-oss.md](file:///../../ai/models/welcome-gpt-oss-the-new-open-source-model-family-f.md)
+Path: [welcome-gpt-oss-the-new-open-source-model-family-f.md](../../ai/models/welcome-gpt-oss-the-new-open-source-model-family-f.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SDXL in 4 steps with Latent Consistency LoRAs
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lcm_lora
 
 ## Local Vault File
 
-Path: [huggingface-blog-lcm-lora.md](file:///../../ai/models/sdxl-in-4-steps-with-latent-consistency-loras.md)
+Path: [sdxl-in-4-steps-with-latent-consistency-loras.md](../../ai/models/sdxl-in-4-steps-with-latent-consistency-loras.md)

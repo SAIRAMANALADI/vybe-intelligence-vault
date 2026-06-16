@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the AMD 5th Gen EPYC™ CPU
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-turin
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-amd-turin.md](file:///../../ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)
+Path: [introducing-the-amd-5th-gen-epyctm-cpu.md](../../ai/models/introducing-the-amd-5th-gen-epyctm-cpu.md)

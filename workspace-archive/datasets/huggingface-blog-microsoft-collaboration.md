@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From cloud to developers: Hugging Face and Microsoft Deepen Collaboration
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/microsoft-collaboration
 
 ## Local Vault File
 
-Path: [huggingface-blog-microsoft-collaboration.md](file:///../../ai/models/from-cloud-to-developers-hugging-face-and-microsof.md)
+Path: [from-cloud-to-developers-hugging-face-and-microsof.md](../../ai/models/from-cloud-to-developers-hugging-face-and-microsof.md)

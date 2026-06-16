@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # You could have designed state of the art positional encoding
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/designing-positional-encoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-designing-positional-encoding.md](file:///../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)
+Path: [you-could-have-designed-state-of-the-art-positiona.md](../../ai/models/you-could-have-designed-state-of-the-art-positiona.md)

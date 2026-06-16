@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobotxnvidia-healthcare
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobotxnvidia-healthcare.md](file:///../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)
+Path: [building-a-healthcare-robot-from-simulation-to-dep.md](../../ai/models/building-a-healthcare-robot-from-simulation-to-dep.md)

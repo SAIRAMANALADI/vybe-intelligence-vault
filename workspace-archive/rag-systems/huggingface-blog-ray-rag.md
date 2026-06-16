@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Retrieval Augmented Generation with Huggingface Transformers and Ray
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/ray-rag
 
 ## Local Vault File
 
-Path: [huggingface-blog-ray-rag.md](file:///../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)
+Path: [retrieval-augmented-generation-with-huggingface-tr.md](../../ai/models/retrieval-augmented-generation-with-huggingface-tr.md)

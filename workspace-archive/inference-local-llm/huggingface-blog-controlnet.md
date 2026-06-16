@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # ControlNet in 🧨 Diffusers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/controlnet
 
 ## Local Vault File
 
-Path: [huggingface-blog-controlnet.md](file:///../../ai/models/controlnet-in-diffusers.md)
+Path: [controlnet-in-diffusers.md](../../ai/models/controlnet-in-diffusers.md)

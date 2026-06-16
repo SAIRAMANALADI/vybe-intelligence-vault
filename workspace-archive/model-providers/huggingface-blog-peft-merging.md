@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🤗 PEFT welcomes new merging methods
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/peft_merging
 
 ## Local Vault File
 
-Path: [huggingface-blog-peft-merging.md](file:///../../ai/models/peft-welcomes-new-merging-methods.md)
+Path: [peft-welcomes-new-merging-methods.md](../../ai/models/peft-welcomes-new-merging-methods.md)

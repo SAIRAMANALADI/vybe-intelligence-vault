@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Transformer-based Encoder-Decoder Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/encoder-decoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-encoder-decoder.md](file:///../../ai/models/transformer-based-encoder-decoder-models.md)
+Path: [transformer-based-encoder-decoder-models.md](../../ai/models/transformer-based-encoder-decoder-models.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The N Implementation Details of RLHF with PPO
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the_n_implementation_details_of
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-n-implementation-details-of-rlhf-with-ppo.md](file:///../../ai/models/the-n-implementation-details-of-rlhf-with-ppo.md)
+Path: [the-n-implementation-details-of-rlhf-with-ppo.md](../../ai/models/the-n-implementation-details-of-rlhf-with-ppo.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # An overview of inference solutions on Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-update.md](file:///../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)
+Path: [an-overview-of-inference-solutions-on-hugging-face.md](../../ai/models/an-overview-of-inference-solutions-on-hugging-face.md)

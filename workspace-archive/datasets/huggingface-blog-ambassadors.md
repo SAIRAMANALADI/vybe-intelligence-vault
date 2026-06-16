@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Student Ambassador Program’s call for applications is open!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ambassadors
 
 ## Local Vault File
 
-Path: [huggingface-blog-ambassadors.md](file:///../../ai/models/student-ambassador-programs-call-for-applications.md)
+Path: [student-ambassador-programs-call-for-applications.md](../../ai/models/student-ambassador-programs-call-for-applications.md)

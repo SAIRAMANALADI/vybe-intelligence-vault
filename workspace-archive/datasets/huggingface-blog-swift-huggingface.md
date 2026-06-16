@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing swift-huggingface: The Complete Swift Client for Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-huggingface
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-huggingface.md](file:///../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)
+Path: [introducing-swift-huggingface-the-complete-swift-c.md](../../ai/models/introducing-swift-huggingface-the-complete-swift-c.md)

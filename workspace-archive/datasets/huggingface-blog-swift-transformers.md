@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Swift Transformers Reaches 1.0 – and Looks to the Future
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/swift-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-swift-transformers.md](file:///../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)
+Path: [swift-transformers-reaches-1-0-and-looks-to-the-fu.md](../../ai/models/swift-transformers-reaches-1-0-and-looks-to-the-fu.md)

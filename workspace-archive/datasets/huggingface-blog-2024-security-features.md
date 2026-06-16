@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 2024 Security Feature Highlights
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/2024-security-features
 
 ## Local Vault File
 
-Path: [huggingface-blog-2024-security-features.md](file:///../../ai/models/2024-security-feature-highlights.md)
+Path: [2024-security-feature-highlights.md](../../ai/models/2024-security-feature-highlights.md)

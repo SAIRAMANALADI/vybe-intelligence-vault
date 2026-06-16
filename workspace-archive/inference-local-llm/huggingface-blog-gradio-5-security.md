@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Security Review of Gradio 5
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-5-security
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-5-security.md](file:///../../ai/models/a-security-review-of-gradio-5.md)
+Path: [a-security-review-of-gradio-5.md](../../ai/models/a-security-review-of-gradio-5.md)

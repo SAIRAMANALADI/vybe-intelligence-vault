@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploying 🤗 ViT on Vertex AI
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-vertex-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-vertex-ai.md](file:///../../ai/models/deploying-vit-on-vertex-ai.md)
+Path: [deploying-vit-on-vertex-ai.md](../../ai/models/deploying-vit-on-vertex-ai.md)

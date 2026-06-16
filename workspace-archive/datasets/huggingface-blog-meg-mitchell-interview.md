@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Machine Learning Experts - Margaret Mitchell
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/meg-mitchell-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-meg-mitchell-interview.md](file:///../../ai/models/machine-learning-experts-margaret-mitchell.md)
+Path: [machine-learning-experts-margaret-mitchell.md](../../ai/models/machine-learning-experts-margaret-mitchell.md)

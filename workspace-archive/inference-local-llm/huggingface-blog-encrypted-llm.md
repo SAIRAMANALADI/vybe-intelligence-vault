@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Towards Encrypted Large Language Models with FHE
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/encrypted-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-encrypted-llm.md](file:///../../ai/models/towards-encrypted-large-language-models-with-fhe.md)
+Path: [towards-encrypted-large-language-models-with-fhe.md](../../ai/models/towards-encrypted-large-language-models-with-fhe.md)

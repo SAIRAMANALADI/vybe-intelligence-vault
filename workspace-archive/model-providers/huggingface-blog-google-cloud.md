@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building for an Open Future - our new partnership with Google Cloud
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud
 
 ## Local Vault File
 
-Path: [huggingface-blog-google-cloud.md](file:///../../ai/models/building-for-an-open-future-our-new-partnership-wi.md)
+Path: [building-for-an-open-future-our-new-partnership-wi.md](../../ai/models/building-for-an-open-future-our-new-partnership-wi.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Run a Chatgpt-like Chatbot on a Single GPU with ROCm
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/chatbot-amd-gpu
 
 ## Local Vault File
 
-Path: [huggingface-blog-chatbot-amd-gpu.md](file:///../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)
+Path: [run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md](../../ai/models/run-a-chatgpt-like-chatbot-on-a-single-gpu-with-ro.md)

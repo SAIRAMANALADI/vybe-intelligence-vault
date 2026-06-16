@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Synthetic Data Generator - Build Datasets with Natural Language
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/synthetic-data-generator
 
 ## Local Vault File
 
-Path: [huggingface-blog-synthetic-data-generator.md](file:///../../ai/models/introducing-the-synthetic-data-generator-build-dat.md)
+Path: [introducing-the-synthetic-data-generator-build-dat.md](../../ai/models/introducing-the-synthetic-data-generator-build-dat.md)

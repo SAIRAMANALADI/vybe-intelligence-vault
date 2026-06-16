@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Transformers v5: Simple model definitions powering the AI ecosystem
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-v5
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-v5.md](file:///../../ai/models/transformers-v5-simple-model-definitions-powering.md)
+Path: [transformers-v5-simple-model-definitions-powering.md](../../ai/models/transformers-v5-simple-model-definitions-powering.md)

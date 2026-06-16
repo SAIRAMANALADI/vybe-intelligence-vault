@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster Text Generation with Self-Speculative Decoding
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/layerskip
 
 ## Local Vault File
 
-Path: [huggingface-blog-layerskip.md](file:///../../ai/models/faster-text-generation-with-self-speculative-decod.md)
+Path: [faster-text-generation-with-self-speculative-decod.md](../../ai/models/faster-text-generation-with-self-speculative-decod.md)

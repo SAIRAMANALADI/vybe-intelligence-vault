@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Open Chain of Thought Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-cot
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-cot.md](file:///../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)
+Path: [introducing-the-open-chain-of-thought-leaderboard.md](../../ai/models/introducing-the-open-chain-of-thought-leaderboard.md)

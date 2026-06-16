@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Build awesome datasets for video generation
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/vid_ds_scripts
 
 ## Local Vault File
 
-Path: [huggingface-blog-vid-ds-scripts.md](file:///../../ai/models/build-awesome-datasets-for-video-generation.md)
+Path: [build-awesome-datasets-for-video-generation.md](../../ai/models/build-awesome-datasets-for-video-generation.md)

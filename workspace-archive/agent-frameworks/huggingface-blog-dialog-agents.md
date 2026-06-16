@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # What Makes a Dialog Agent Useful?
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/dialog-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-dialog-agents.md](file:///../../ai/agents/what-makes-a-dialog-agent-useful.md)
+Path: [what-makes-a-dialog-agent-useful.md](../../ai/agents/what-makes-a-dialog-agent-useful.md)

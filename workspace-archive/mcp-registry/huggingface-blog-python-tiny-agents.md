@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Tiny Agents in Python: a MCP-powered agent in ~70 lines of code
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/python-tiny-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-python-tiny-agents.md](file:///../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)
+Path: [tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md](../../ai/agents/tiny-agents-in-python-a-mcp-powered-agent-in-70-li.md)

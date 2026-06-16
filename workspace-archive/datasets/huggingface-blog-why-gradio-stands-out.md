@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # 17 Reasons Why Gradio Isn't Just Another UI Library
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/why-gradio-stands-out
 
 ## Local Vault File
 
-Path: [huggingface-blog-why-gradio-stands-out.md](file:///../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)
+Path: [17-reasons-why-gradio-isn-t-just-another-ui-librar.md](../../ai/models/17-reasons-why-gradio-isn-t-just-another-ui-librar.md)

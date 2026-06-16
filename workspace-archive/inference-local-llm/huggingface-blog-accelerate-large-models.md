@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How 🤗 Accelerate runs very large models thanks to PyTorch
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-large-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-large-models.md](file:///../../ai/models/how-accelerate-runs-very-large-models-thanks-to-py.md)
+Path: [how-accelerate-runs-very-large-models-thanks-to-py.md](../../ai/models/how-accelerate-runs-very-large-models-thanks-to-py.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # TRL v1.0: Post-Training Library Built to Move with the Field
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-v1
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-v1.md](file:///../../ai/models/trl-v1-0-post-training-library-built-to-move-with.md)
+Path: [trl-v1-0-post-training-library-built-to-move-with.md](../../ai/models/trl-v1-0-post-training-library-built-to-move-with.md)

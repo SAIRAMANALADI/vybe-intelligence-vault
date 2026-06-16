@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster Text Generation with TensorFlow and XLA
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-xla-generate
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-xla-generate.md](file:///../../ai/models/faster-text-generation-with-tensorflow-and-xla.md)
+Path: [faster-text-generation-with-tensorflow-and-xla.md](../../ai/models/faster-text-generation-with-tensorflow-and-xla.md)

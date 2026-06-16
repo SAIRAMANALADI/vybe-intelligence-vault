@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Timm ❤️ Transformers: Use any timm model with transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/timm-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-timm-transformers.md](file:///../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)
+Path: [timm-transformers-use-any-timm-model-with-transfor.md](../../ai/models/timm-transformers-use-any-timm-model-with-transfor.md)

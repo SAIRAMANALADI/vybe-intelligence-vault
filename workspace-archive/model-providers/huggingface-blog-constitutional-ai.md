@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Constitutional AI with Open LLMs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/constitutional_ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-constitutional-ai.md](file:///../../ai/models/constitutional-ai-with-open-llms.md)
+Path: [constitutional-ai-with-open-llms.md](../../ai/models/constitutional-ai-with-open-llms.md)

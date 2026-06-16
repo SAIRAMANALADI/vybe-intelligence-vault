@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Reads, Feb. 2021 - Long-range Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/long-range-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-long-range-transformers.md](file:///../../ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)
+Path: [hugging-face-reads-feb-2021-long-range-transformer.md](../../ai/models/hugging-face-reads-feb-2021-long-range-transformer.md)

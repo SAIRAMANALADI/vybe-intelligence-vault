@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Scaling up BERT-like model Inference on modern CPU - Part 2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-cpu-scaling-part-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-cpu-scaling-part-2.md](file:///../../ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)
+Path: [scaling-up-bert-like-model-inference-on-modern-cpu.md](../../ai/models/scaling-up-bert-like-model-inference-on-modern-cpu.md)

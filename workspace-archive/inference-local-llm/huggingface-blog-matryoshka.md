@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🪆 Introduction to Matryoshka Embedding Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/matryoshka
 
 ## Local Vault File
 
-Path: [huggingface-blog-matryoshka.md](file:///../../ai/models/introduction-to-matryoshka-embedding-models.md)
+Path: [introduction-to-matryoshka-embedding-models.md](../../ai/models/introduction-to-matryoshka-embedding-models.md)

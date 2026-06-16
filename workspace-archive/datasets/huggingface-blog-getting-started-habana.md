@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Getting Started with Transformers on Habana Gaudi
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/getting-started-habana
 
 ## Local Vault File
 
-Path: [huggingface-blog-getting-started-habana.md](file:///../../ai/models/getting-started-with-transformers-on-habana-gaudi.md)
+Path: [getting-started-with-transformers-on-habana-gaudi.md](../../ai/models/getting-started-with-transformers-on-habana-gaudi.md)

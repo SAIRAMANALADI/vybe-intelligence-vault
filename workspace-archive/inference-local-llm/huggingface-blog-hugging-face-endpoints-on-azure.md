@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/hugging-face-endpoints-on-azure
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugging-face-endpoints-on-azure.md](file:///../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)
+Path: [hugging-face-collaborates-with-microsoft-to-launch.md](../../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)

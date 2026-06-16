@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # DuckDB: analyze 50,000+ datasets stored on the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hub-duckdb
 
 ## Local Vault File
 
-Path: [huggingface-blog-hub-duckdb.md](file:///../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)
+Path: [duckdb-analyze-50000-datasets-stored-on-the-huggin.md](../../ai/models/duckdb-analyze-50000-datasets-stored-on-the-huggin.md)

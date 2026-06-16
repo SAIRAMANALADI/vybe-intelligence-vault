@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Convert Transformers to ONNX with Hugging Face Optimum
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/convert-transformers-to-onnx
 
 ## Local Vault File
 
-Path: [huggingface-blog-convert-transformers-to-onnx.md](file:///../../ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)
+Path: [convert-transformers-to-onnx-with-hugging-face-opt.md](../../ai/models/convert-transformers-to-onnx-with-hugging-face-opt.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Xet is on the Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xet-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-xet-on-the-hub.md](file:///../../ai/models/xet-is-on-the-hub.md)
+Path: [xet-is-on-the-hub.md](../../ai/models/xet-is-on-the-hub.md)

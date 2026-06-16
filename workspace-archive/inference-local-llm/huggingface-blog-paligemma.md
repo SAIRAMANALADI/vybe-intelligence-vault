@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # PaliGemma – Google's Cutting-Edge Open Vision Language Model
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma.md](file:///../../ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)
+Path: [paligemma-google-s-cutting-edge-open-vision-langua.md](../../ai/models/paligemma-google-s-cutting-edge-open-vision-langua.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # We now support VLMs in smolagents!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents-can-see
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents-can-see.md](file:///../../ai/agents/we-now-support-vlms-in-smolagents.md)
+Path: [we-now-support-vlms-in-smolagents.md](../../ai/agents/we-now-support-vlms-in-smolagents.md)

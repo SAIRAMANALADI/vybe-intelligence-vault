@@ -19,7 +19,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/lora-for-sequence-classificatio
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora-for-sequence-classification-with-roberta-llama-mistral.md](file:///../../ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)
+Path: [comparing-the-performance-of-llms-a-deep-dive-into.md](../../ai/models/comparing-the-performance-of-llms-a-deep-dive-into.md)

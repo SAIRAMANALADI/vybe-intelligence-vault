@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # VibeGame: Exploring Vibe Coding Games
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vibegame
 
 ## Local Vault File
 
-Path: [huggingface-blog-vibegame.md](file:///../../ai/models/vibegame-exploring-vibe-coding-games.md)
+Path: [vibegame-exploring-vibe-coding-games.md](../../ai/models/vibegame-exploring-vibe-coding-games.md)

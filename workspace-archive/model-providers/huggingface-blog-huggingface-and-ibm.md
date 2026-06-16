@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-ibm
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-ibm.md](file:///../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)
+Path: [hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md](../../ai/models/hugging-face-and-ibm-partner-on-watsonx-ai-the-nex.md)

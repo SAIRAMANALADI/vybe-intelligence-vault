@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploying Hugging Face Models with BentoML: DeepFloyd IF in Action
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-deepfloydif-using-bentom
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-deepfloydif-using-bentoml.md](file:///../../ai/models/deploying-hugging-face-models-with-bentoml-deepflo.md)
+Path: [deploying-hugging-face-models-with-bentoml-deepflo.md](../../ai/models/deploying-hugging-face-models-with-bentoml-deepflo.md)

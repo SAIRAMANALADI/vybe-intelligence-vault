@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Using Stable Diffusion with Core ML on Apple Silicon
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-coreml.md](file:///../../ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)
+Path: [using-stable-diffusion-with-core-ml-on-apple-silic.md](../../ai/models/using-stable-diffusion-with-core-ml-on-apple-silic.md)

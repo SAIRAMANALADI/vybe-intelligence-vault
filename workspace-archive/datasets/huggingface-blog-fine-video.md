@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # FineVideo: behind the scenes
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/fine-video
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-video.md](file:///../../ai/models/finevideo-behind-the-scenes.md)
+Path: [finevideo-behind-the-scenes.md](../../ai/models/finevideo-behind-the-scenes.md)

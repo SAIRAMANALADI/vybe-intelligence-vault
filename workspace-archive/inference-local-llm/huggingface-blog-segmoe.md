@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SegMoE: Segmind Mixture of Diffusion Experts
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/segmoe
 
 ## Local Vault File
 
-Path: [huggingface-blog-segmoe.md](file:///../../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)
+Path: [segmoe-segmind-mixture-of-diffusion-experts.md](../../ai/models/segmoe-segmind-mixture-of-diffusion-experts.md)

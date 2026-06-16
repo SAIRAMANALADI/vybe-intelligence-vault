@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/textgen-pipe-gaudi
 
 ## Local Vault File
 
-Path: [huggingface-blog-textgen-pipe-gaudi.md](file:///../../ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)
+Path: [text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md](../../ai/models/text-generation-pipeline-on-intel-r-gaudi-r-2-ai-a.md)

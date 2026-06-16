@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CPU Optimized Embeddings with 🤗 Optimum Intel and fastRAG
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-fast-embedding
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-fast-embedding.md](file:///../../ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)
+Path: [cpu-optimized-embeddings-with-optimum-intel-and-fa.md](../../ai/rag/cpu-optimized-embeddings-with-optimum-intel-and-fa.md)

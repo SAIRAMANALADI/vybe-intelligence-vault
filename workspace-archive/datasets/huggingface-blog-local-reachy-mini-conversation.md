@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Reachy Mini goes fully local
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## Local Vault File
 
-Path: [huggingface-blog-local-reachy-mini-conversation.md](file:///../../ai/models/reachy-mini-goes-fully-local.md)
+Path: [reachy-mini-goes-fully-local.md](../../ai/models/reachy-mini-goes-fully-local.md)

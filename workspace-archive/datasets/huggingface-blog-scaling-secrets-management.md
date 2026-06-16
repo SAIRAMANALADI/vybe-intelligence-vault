@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How Hugging Face Scaled Secrets Management for AI Infrastructure
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/scaling-secrets-management
 
 ## Local Vault File
 
-Path: [huggingface-blog-scaling-secrets-management.md](file:///../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)
+Path: [how-hugging-face-scaled-secrets-management-for-ai.md](../../ai/models/how-hugging-face-scaled-secrets-management-for-ai.md)

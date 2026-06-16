@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Opinion Classification with Kili and HuggingFace AutoTrain
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/opinion-classification-with-kil
 
 ## Local Vault File
 
-Path: [huggingface-blog-opinion-classification-with-kili.md](file:///../../ai/models/opinion-classification-with-kili-and-huggingface-a.md)
+Path: [opinion-classification-with-kili-and-huggingface-a.md](../../ai/models/opinion-classification-with-kili-and-huggingface-a.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # We Got Claude to Build CUDA Kernels and teach open models!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/upskill
 
 ## Local Vault File
 
-Path: [huggingface-blog-upskill.md](file:///../../ai/models/we-got-claude-to-build-cuda-kernels-and-teach-open.md)
+Path: [we-got-claude-to-build-cuda-kernels-and-teach-open.md](../../ai/models/we-got-claude-to-build-cuda-kernels-and-teach-open.md)

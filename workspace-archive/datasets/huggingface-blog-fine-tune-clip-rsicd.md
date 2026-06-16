@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine tuning CLIP with Remote Sensing (Satellite) images and captions
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-clip-rsicd
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-clip-rsicd.md](file:///../../ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)
+Path: [fine-tuning-clip-with-remote-sensing-satellite-ima.md](../../ai/models/fine-tuning-clip-with-remote-sensing-satellite-ima.md)

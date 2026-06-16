@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train AI models with Unsloth and Hugging Face Jobs for FREE
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsloth-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsloth-jobs.md](file:///../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)
+Path: [train-ai-models-with-unsloth-and-hugging-face-jobs.md](../../ai/models/train-ai-models-with-unsloth-and-hugging-face-jobs.md)

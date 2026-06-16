@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Exploring the Daily Papers Page on Hugging Face
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/daily-papers
 
 ## Local Vault File
 
-Path: [huggingface-blog-daily-papers.md](file:///../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)
+Path: [exploring-the-daily-papers-page-on-hugging-face.md](../../ai/models/exploring-the-daily-papers-page-on-hugging-face.md)

@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-tune Llama 2 with DPO
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/dpo-trl
 
 ## Local Vault File
 
-Path: [huggingface-blog-dpo-trl.md](file:///../../ai/models/fine-tune-llama-2-with-dpo.md)
+Path: [fine-tune-llama-2-with-dpo.md](../../ai/models/fine-tune-llama-2-with-dpo.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Jupyter X Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/notebooks-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-notebooks-hub.md](file:///../../ai/models/jupyter-x-hugging-face.md)
+Path: [jupyter-x-hugging-face.md](../../ai/models/jupyter-x-hugging-face.md)

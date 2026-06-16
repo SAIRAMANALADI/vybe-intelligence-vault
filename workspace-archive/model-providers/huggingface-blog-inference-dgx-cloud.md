@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Serverless Inference with Hugging Face and NVIDIA NIM
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-dgx-cloud
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-dgx-cloud.md](file:///../../ai/models/serverless-inference-with-hugging-face-and-nvidia.md)
+Path: [serverless-inference-with-hugging-face-and-nvidia.md](../../ai/models/serverless-inference-with-hugging-face-and-nvidia.md)

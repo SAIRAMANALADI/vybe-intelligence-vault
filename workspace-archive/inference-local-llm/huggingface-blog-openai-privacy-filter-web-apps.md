@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to build scalable web apps with OpenAI's Privacy Filter
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openai-privacy-filter-web-apps
 
 ## Local Vault File
 
-Path: [huggingface-blog-openai-privacy-filter-web-apps.md](file:///../../ai/models/how-to-build-scalable-web-apps-with-openai-s-priva.md)
+Path: [how-to-build-scalable-web-apps-with-openai-s-priva.md](../../ai/models/how-to-build-scalable-web-apps-with-openai-s-priva.md)

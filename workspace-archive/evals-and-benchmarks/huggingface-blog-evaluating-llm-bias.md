@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Evaluating Language Model Bias with 🤗 Evaluate
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/evaluating-llm-bias
 
 ## Local Vault File
 
-Path: [huggingface-blog-evaluating-llm-bias.md](file:///../../ai/models/evaluating-language-model-bias-with-evaluate.md)
+Path: [evaluating-language-model-bias-with-evaluate.md](../../ai/models/evaluating-language-model-bias-with-evaluate.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Chatbot Guardrails Arena
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/arena-lighthouz
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-lighthouz.md](file:///../../ai/models/introducing-the-chatbot-guardrails-arena.md)
+Path: [introducing-the-chatbot-guardrails-arena.md](../../ai/models/introducing-the-chatbot-guardrails-arena.md)

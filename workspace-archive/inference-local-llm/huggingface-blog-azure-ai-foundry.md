@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Microsoft and Hugging Face expand collaboration
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/azure-ai-foundry
 
 ## Local Vault File
 
-Path: [huggingface-blog-azure-ai-foundry.md](file:///../../ai/models/microsoft-and-hugging-face-expand-collaboration.md)
+Path: [microsoft-and-hugging-face-expand-collaboration.md](../../ai/models/microsoft-and-hugging-face-expand-collaboration.md)

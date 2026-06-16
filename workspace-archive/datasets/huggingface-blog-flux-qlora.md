@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # (LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/flux-qlora
 
 ## Local Vault File
 
-Path: [huggingface-blog-flux-qlora.md](file:///../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)
+Path: [lora-fine-tuning-flux-1-dev-on-consumer-hardware.md](../../ai/models/lora-fine-tuning-flux-1-dev-on-consumer-hardware.md)

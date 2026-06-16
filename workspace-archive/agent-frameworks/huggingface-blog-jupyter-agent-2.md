@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Jupyter Agents: training LLMs to reason with notebooks
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jupyter-agent-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-jupyter-agent-2.md](file:///../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)
+Path: [jupyter-agents-training-llms-to-reason-with-notebo.md](../../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)

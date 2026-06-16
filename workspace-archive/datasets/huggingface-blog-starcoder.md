@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # StarCoder: A State-of-the-Art LLM for Code
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starcoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-starcoder.md](file:///../../ai/models/starcoder-a-state-of-the-art-llm-for-code.md)
+Path: [starcoder-a-state-of-the-art-llm-for-code.md](../../ai/models/starcoder-a-state-of-the-art-llm-for-code.md)

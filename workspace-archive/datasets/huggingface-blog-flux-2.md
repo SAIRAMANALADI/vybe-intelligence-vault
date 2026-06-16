@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Diffusers welcomes FLUX-2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/flux-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-flux-2.md](file:///../../ai/models/diffusers-welcomes-flux-2.md)
+Path: [diffusers-welcomes-flux-2.md](../../ai/models/diffusers-welcomes-flux-2.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # License to Call: Introducing Transformers Agents 2.0
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-agents.md](file:///../../ai/agents/license-to-call-introducing-transformers-agents-2.md)
+Path: [license-to-call-introducing-transformers-agents-2.md](../../ai/agents/license-to-call-introducing-transformers-agents-2.md)

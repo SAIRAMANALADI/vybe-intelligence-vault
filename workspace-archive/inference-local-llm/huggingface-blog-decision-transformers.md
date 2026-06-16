@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Decision Transformers on Hugging Face 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/decision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-decision-transformers.md](file:///../../ai/models/introducing-decision-transformers-on-hugging-face.md)
+Path: [introducing-decision-transformers-on-hugging-face.md](../../ai/models/introducing-decision-transformers-on-hugging-face.md)

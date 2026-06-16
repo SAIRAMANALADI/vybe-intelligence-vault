@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Deepdive into Aya Vision: Advancing the Frontier of Multilingual Multimodality
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aya-vision
 
 ## Local Vault File
 
-Path: [huggingface-blog-aya-vision.md](file:///../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)
+Path: [a-deepdive-into-aya-vision-advancing-the-frontier.md](../../ai/models/a-deepdive-into-aya-vision-advancing-the-frontier.md)

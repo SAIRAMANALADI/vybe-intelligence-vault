@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # The Transformers Library: standardizing model definitions
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-model-definition
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-model-definition.md](file:///../../ai/models/the-transformers-library-standardizing-model-defin.md)
+Path: [the-transformers-library-standardizing-model-defin.md](../../ai/models/the-transformers-library-standardizing-model-defin.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ethics and Society Newsletter #3: Ethical Openness at Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-3
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-3.md](file:///../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)
+Path: [ethics-and-society-newsletter-3-ethical-openness-a.md](../../ai/models/ethics-and-society-newsletter-3-ethical-openness-a.md)

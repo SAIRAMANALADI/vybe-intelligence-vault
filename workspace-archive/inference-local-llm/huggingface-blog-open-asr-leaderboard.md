@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open ASR Leaderboard: Trends and Insights with New Multilingual & Long-Form Tracks
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/open-asr-leaderboard
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-asr-leaderboard.md](file:///../../ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)
+Path: [open-asr-leaderboard-trends-and-insights-with-new.md](../../ai/models/open-asr-leaderboard-trends-and-insights-with-new.md)

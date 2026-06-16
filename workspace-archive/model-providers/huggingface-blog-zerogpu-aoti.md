@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Make your ZeroGPU Spaces go brrr with ahead-of-time compilation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zerogpu-aoti
 
 ## Local Vault File
 
-Path: [huggingface-blog-zerogpu-aoti.md](file:///../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)
+Path: [make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md](../../ai/models/make-your-zerogpu-spaces-go-brrr-with-ahead-of-tim.md)

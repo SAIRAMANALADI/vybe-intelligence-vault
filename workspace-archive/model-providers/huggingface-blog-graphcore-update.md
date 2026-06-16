@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Graphcore and Hugging Face Launch New Lineup of IPU-Ready Transformers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/graphcore-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore-update.md](file:///../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)
+Path: [graphcore-and-hugging-face-launch-new-lineup-of-ip.md](../../ai/models/graphcore-and-hugging-face-launch-new-lineup-of-ip.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # How to Build an MCP Server with Gradio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-mcp.md](file:///../../ai/models/how-to-build-an-mcp-server-with-gradio.md)
+Path: [how-to-build-an-mcp-server-with-gradio.md](../../ai/models/how-to-build-an-mcp-server-with-gradio.md)

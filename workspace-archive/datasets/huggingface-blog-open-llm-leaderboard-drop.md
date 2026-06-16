@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open LLM Leaderboard: DROP deep dive
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-drop
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-llm-leaderboard-drop.md](file:///../../ai/models/open-llm-leaderboard-drop-deep-dive.md)
+Path: [open-llm-leaderboard-drop-deep-dive.md](../../ai/models/open-llm-leaderboard-drop-deep-dive.md)

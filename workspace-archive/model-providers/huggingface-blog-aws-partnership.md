@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and AWS partner to make AI more accessible
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-aws-partnership.md](file:///../../ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)
+Path: [hugging-face-and-aws-partner-to-make-ai-more-acces.md](../../ai/models/hugging-face-and-aws-partner-to-make-ai-more-acces.md)

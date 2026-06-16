@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating Vision-Language Models: BridgeTower on Habana Gaudi2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bridgetower
 
 ## Local Vault File
 
-Path: [huggingface-blog-bridgetower.md](file:///../../ai/models/accelerating-vision-language-models-bridgetower-on.md)
+Path: [accelerating-vision-language-models-bridgetower-on.md](../../ai/models/accelerating-vision-language-models-bridgetower-on.md)

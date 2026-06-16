@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Summer at Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/summer-at-huggingface
 
 ## Local Vault File
 
-Path: [huggingface-blog-summer-at-huggingface.md](file:///../../ai/models/summer-at-hugging-face.md)
+Path: [summer-at-hugging-face.md](../../ai/models/summer-at-hugging-face.md)

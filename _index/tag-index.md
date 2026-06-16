@@ -5780,6 +5780,7 @@ Resources organized by keyword tags.
   - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)
   - [Google Colab](../ai/rag/google-colab.md)
   - [Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](../ai/rag/arxiv-2606-11817.md)
+  - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite.md)
   - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
   - [Graph Diffusion Residuals for Control-Function Instrumental Variables](../ai/rag/arxiv-2606-14636.md)
   - [Graph Structured Combinatorial Semi-Bandit with Nonlinear Reward Associations through Separable Signals](../ai/rag/arxiv-2606-14650.md)
@@ -7392,4 +7393,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-16T19:38:19.892257+05:30*
+*Index generated on 2026-06-16T21:16:48.332408+05:30*

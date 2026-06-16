@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # WWDC 24: Running Mistral 7B with Core ML
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/mistral-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-mistral-coreml.md](file:///../../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)
+Path: [wwdc-24-running-mistral-7b-with-core-ml.md](../../ai/models/wwdc-24-running-mistral-7b-with-core-ml.md)

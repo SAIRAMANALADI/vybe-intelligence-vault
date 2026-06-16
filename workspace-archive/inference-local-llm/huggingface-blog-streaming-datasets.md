@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Streaming datasets: 100x More Efficient
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/streaming-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-streaming-datasets.md](file:///../../ai/models/streaming-datasets-100x-more-efficient.md)
+Path: [streaming-datasets-100x-more-efficient.md](../../ai/models/streaming-datasets-100x-more-efficient.md)

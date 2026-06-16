@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making sense of this mess
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-docs-redesign
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-docs-redesign.md](file:///../../ai/models/making-sense-of-this-mess.md)
+Path: [making-sense-of-this-mess.md](../../ai/models/making-sense-of-this-mess.md)

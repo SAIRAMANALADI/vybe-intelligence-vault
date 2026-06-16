@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Policy @🤗: Response to the White House AI Action Plan RFI
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-action-wh-2025
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-action-wh-2025.md](file:///../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)
+Path: [ai-policy-response-to-the-white-house-ai-action-pl.md](../../ai/models/ai-policy-response-to-the-white-house-ai-action-pl.md)

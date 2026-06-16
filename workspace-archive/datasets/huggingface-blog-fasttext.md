@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome fastText to the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fasttext
 
 ## Local Vault File
 
-Path: [huggingface-blog-fasttext.md](file:///../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)
+Path: [welcome-fasttext-to-the-hugging-face-hub.md](../../ai/models/welcome-fasttext-to-the-hugging-face-hub.md)

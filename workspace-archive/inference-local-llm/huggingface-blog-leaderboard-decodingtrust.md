@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # An Introduction to AI Secure LLM Safety Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-decodingtrust
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-decodingtrust.md](file:///../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)
+Path: [an-introduction-to-ai-secure-llm-safety-leaderboar.md](../../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)

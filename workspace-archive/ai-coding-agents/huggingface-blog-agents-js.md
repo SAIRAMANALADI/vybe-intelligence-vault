@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Agents.js: Give tools to your LLMs using JavaScript
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/agents-js
 
 ## Local Vault File
 
-Path: [huggingface-blog-agents-js.md](file:///../../ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)
+Path: [introducing-agents-js-give-tools-to-your-llms-usin.md](../../ai/agents/introducing-agents-js-give-tools-to-your-llms-usin.md)

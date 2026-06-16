@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # FastRTC: The Real-Time Communication Library for Python
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastrtc
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastrtc.md](file:///../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)
+Path: [fastrtc-the-real-time-communication-library-for-py.md](../../ai/models/fastrtc-the-real-time-communication-library-for-py.md)

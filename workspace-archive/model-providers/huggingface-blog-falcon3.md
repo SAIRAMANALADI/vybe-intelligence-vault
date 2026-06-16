@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome to the Falcon 3 Family of Open Models!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon3
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon3.md](file:///../../ai/models/welcome-to-the-falcon-3-family-of-open-models.md)
+Path: [welcome-to-the-falcon-3-family-of-open-models.md](../../ai/models/welcome-to-the-falcon-3-family-of-open-models.md)

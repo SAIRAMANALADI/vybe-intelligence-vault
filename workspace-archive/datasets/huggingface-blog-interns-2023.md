@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # We are hiring interns!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/interns-2023
 
 ## Local Vault File
 
-Path: [huggingface-blog-interns-2023.md](file:///../../ai/models/we-are-hiring-interns.md)
+Path: [we-are-hiring-interns.md](../../ai/models/we-are-hiring-interns.md)

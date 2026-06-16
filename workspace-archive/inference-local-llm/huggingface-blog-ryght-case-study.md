@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ryght-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-ryght-case-study.md](file:///../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)
+Path: [ryghts-journey-to-empower-healthcare-and-life-scie.md](../../ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)

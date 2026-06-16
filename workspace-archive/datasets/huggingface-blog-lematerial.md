@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LeMaterial: an open source initiative to accelerate materials discovery and research
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/lematerial
 
 ## Local Vault File
 
-Path: [huggingface-blog-lematerial.md](file:///../../ai/models/lematerial-an-open-source-initiative-to-accelerate.md)
+Path: [lematerial-an-open-source-initiative-to-accelerate.md](../../ai/models/lematerial-an-open-source-initiative-to-accelerate.md)

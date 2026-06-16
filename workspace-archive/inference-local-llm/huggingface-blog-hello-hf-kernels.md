@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Learn the Hugging Face Kernel Hub in 5 Minutes
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hello-hf-kernels
 
 ## Local Vault File
 
-Path: [huggingface-blog-hello-hf-kernels.md](file:///../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)
+Path: [learn-the-hugging-face-kernel-hub-in-5-minutes.md](../../ai/models/learn-the-hugging-face-kernel-hub-in-5-minutes.md)

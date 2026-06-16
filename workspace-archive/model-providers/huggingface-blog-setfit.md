@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SetFit: Efficient Few-Shot Learning Without Prompts
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit.md](file:///../../ai/models/setfit-efficient-few-shot-learning-without-prompts.md)
+Path: [setfit-efficient-few-shot-learning-without-prompts.md](../../ai/models/setfit-efficient-few-shot-learning-without-prompts.md)

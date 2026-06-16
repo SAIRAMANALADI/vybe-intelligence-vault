@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # TimeScope: How Long Can Your Video Large Multimodal Model Go?
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/timescope-video-lmm-benchmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-timescope-video-lmm-benchmark.md](file:///../../ai/models/timescope-how-long-can-your-video-large-multimodal.md)
+Path: [timescope-how-long-can-your-video-large-multimodal.md](../../ai/models/timescope-how-long-can-your-video-large-multimodal.md)

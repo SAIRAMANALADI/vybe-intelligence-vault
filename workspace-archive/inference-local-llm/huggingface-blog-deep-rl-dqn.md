@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deep Q-Learning with Space Invaders
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-dqn
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-dqn.md](file:///../../ai/models/deep-q-learning-with-space-invaders.md)
+Path: [deep-q-learning-with-space-invaders.md](../../ai/models/deep-q-learning-with-space-invaders.md)

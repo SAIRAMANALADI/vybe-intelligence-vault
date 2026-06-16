@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and Graphcore partner for IPU-optimized Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore.md](file:///../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)
+Path: [hugging-face-and-graphcore-partner-for-ipu-optimiz.md](../../ai/models/hugging-face-and-graphcore-partner-for-ipu-optimiz.md)

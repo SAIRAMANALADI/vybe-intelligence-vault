@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # HuggingFace, IISc partner to supercharge model building on India's diverse languages
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/iisc-huggingface-collab
 
 ## Local Vault File
 
-Path: [huggingface-blog-iisc-huggingface-collab.md](file:///../../ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)
+Path: [huggingface-iisc-partner-to-supercharge-model-buil.md](../../ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)

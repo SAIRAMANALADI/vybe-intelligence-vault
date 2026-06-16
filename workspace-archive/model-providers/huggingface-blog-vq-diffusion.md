@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # VQ-Diffusion
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vq-diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-vq-diffusion.md](file:///../../ai/models/vq-diffusion.md)
+Path: [vq-diffusion.md](../../ai/models/vq-diffusion.md)

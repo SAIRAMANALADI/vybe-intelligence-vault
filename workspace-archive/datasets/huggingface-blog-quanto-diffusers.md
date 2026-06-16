@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Memory-efficient Diffusion Transformers with Quanto and Diffusers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/quanto-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-quanto-diffusers.md](file:///../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)
+Path: [memory-efficient-diffusion-transformers-with-quant.md](../../ai/models/memory-efficient-diffusion-transformers-with-quant.md)

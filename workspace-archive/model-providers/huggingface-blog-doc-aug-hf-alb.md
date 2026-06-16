@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing TextImage Augmentation for Document Images
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/doc_aug_hf_alb
 
 ## Local Vault File
 
-Path: [huggingface-blog-doc-aug-hf-alb.md](file:///../../ai/models/introducing-textimage-augmentation-for-document-im.md)
+Path: [introducing-textimage-augmentation-for-document-im.md](../../ai/models/introducing-textimage-augmentation-for-document-im.md)

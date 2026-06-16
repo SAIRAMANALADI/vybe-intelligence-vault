@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Gemma 3n fully available in the open-source ecosystem!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma3n
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma3n.md](file:///../../ai/models/gemma-3n-fully-available-in-the-open-source-ecosys.md)
+Path: [gemma-3n-fully-available-in-the-open-source-ecosys.md](../../ai/models/gemma-3n-fully-available-in-the-open-source-ecosys.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Using Machine Learning to Aid Survivors and Race through Time
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/using-ml-for-disasters
 
 ## Local Vault File
 
-Path: [huggingface-blog-using-ml-for-disasters.md](file:///../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)
+Path: [using-machine-learning-to-aid-survivors-and-race-t.md](../../ai/models/using-machine-learning-to-aid-survivors-and-race-t.md)

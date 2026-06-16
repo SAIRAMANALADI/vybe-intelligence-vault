@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and VirusTotal collaborate to strengthen AI security
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virustotal
 
 ## Local Vault File
 
-Path: [huggingface-blog-virustotal.md](file:///../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)
+Path: [hugging-face-and-virustotal-collaborate-to-strengt.md](../../ai/models/hugging-face-and-virustotal-collaborate-to-strengt.md)

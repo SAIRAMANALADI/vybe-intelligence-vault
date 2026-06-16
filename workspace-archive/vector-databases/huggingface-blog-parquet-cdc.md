@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Parquet Content-Defined Chunking
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/parquet-cdc
 
 ## Local Vault File
 
-Path: [huggingface-blog-parquet-cdc.md](file:///../../ai/rag/parquet-content-defined-chunking.md)
+Path: [parquet-content-defined-chunking.md](../../ai/rag/parquet-content-defined-chunking.md)

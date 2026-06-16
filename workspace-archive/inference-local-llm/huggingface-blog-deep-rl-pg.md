@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Policy Gradient with PyTorch
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-pg
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-pg.md](file:///../../ai/models/policy-gradient-with-pytorch.md)
+Path: [policy-gradient-with-pytorch.md](../../ai/models/policy-gradient-with-pytorch.md)

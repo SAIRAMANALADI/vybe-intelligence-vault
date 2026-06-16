@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate 1.0.0
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-v1
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-v1.md](file:///../../ai/models/accelerate-1-0-0.md)
+Path: [accelerate-1-0-0.md](../../ai/models/accelerate-1-0-0.md)

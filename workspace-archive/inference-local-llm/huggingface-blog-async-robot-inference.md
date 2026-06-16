@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Asynchronous Robot Inference: Decoupling Action Prediction and Execution
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-robot-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-async-robot-inference.md](file:///../../ai/models/asynchronous-robot-inference-decoupling-action-pre.md)
+Path: [asynchronous-robot-inference-decoupling-action-pre.md](../../ai/models/asynchronous-robot-inference-decoupling-action-pre.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Sentiment Analysis on Encrypted Data with Homomorphic Encryption
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-fhe
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentiment-analysis-fhe.md](file:///../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)
+Path: [sentiment-analysis-on-encrypted-data-with-homomorp.md](../../ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)

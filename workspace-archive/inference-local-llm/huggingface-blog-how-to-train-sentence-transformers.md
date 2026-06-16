@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train and Fine-Tune Sentence Transformers Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train-sentence-transform
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-train-sentence-transformers.md](file:///../../ai/models/train-and-fine-tune-sentence-transformers-models.md)
+Path: [train-and-fine-tune-sentence-transformers-models.md](../../ai/models/train-and-fine-tune-sentence-transformers-models.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Open Leaderboard for Japanese LLMs!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-japanese
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-japanese.md](file:///../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)
+Path: [introducing-the-open-leaderboard-for-japanese-llms.md](../../ai/models/introducing-the-open-leaderboard-for-japanese-llms.md)

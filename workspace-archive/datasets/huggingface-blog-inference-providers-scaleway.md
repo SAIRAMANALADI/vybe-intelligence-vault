@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Scaleway on Hugging Face Inference Providers 🔥
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-scaleway
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-scaleway.md](file:///../../ai/models/scaleway-on-hugging-face-inference-providers.md)
+Path: [scaleway-on-hugging-face-inference-providers.md](../../ai/models/scaleway-on-hugging-face-inference-providers.md)

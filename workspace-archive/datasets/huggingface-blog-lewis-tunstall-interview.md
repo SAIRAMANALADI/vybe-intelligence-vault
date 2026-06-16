@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Machine Learning Experts - Lewis Tunstall
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lewis-tunstall-interview
 
 ## Local Vault File
 
-Path: [huggingface-blog-lewis-tunstall-interview.md](file:///../../ai/models/machine-learning-experts-lewis-tunstall.md)
+Path: [machine-learning-experts-lewis-tunstall.md](../../ai/models/machine-learning-experts-lewis-tunstall.md)

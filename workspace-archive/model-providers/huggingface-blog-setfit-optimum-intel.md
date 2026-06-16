@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Blazing Fast SetFit Inference with 🤗 Optimum Intel on Xeon
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-optimum-intel
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit-optimum-intel.md](file:///../../ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)
+Path: [blazing-fast-setfit-inference-with-optimum-intel-o.md](../../ai/models/blazing-fast-setfit-inference-with-optimum-intel-o.md)

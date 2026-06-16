@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LeRobot goes to driving school: World’s largest open-source self-driving dataset
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-goes-to-driving-school
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-goes-to-driving-school.md](file:///../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)
+Path: [lerobot-goes-to-driving-school-worlds-largest-open.md](../../ai/models/lerobot-goes-to-driving-school-worlds-largest-open.md)

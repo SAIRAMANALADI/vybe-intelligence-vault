@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Finally, a Replacement for BERT: Introducing ModernBERT
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modernbert
 
 ## Local Vault File
 
-Path: [huggingface-blog-modernbert.md](file:///../../ai/models/finally-a-replacement-for-bert-introducing-modernb.md)
+Path: [finally-a-replacement-for-bert-introducing-modernb.md](../../ai/models/finally-a-replacement-for-bert-introducing-modernb.md)

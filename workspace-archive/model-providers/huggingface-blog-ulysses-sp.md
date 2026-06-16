@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ulysses Sequence Parallelism: Training with Million-Token Contexts
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ulysses-sp
 
 ## Local Vault File
 
-Path: [huggingface-blog-ulysses-sp.md](file:///../../ai/models/ulysses-sequence-parallelism-training-with-million.md)
+Path: [ulysses-sequence-parallelism-training-with-million.md](../../ai/models/ulysses-sequence-parallelism-training-with-million.md)

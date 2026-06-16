@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Gemma 4: Frontier multimodal intelligence on device
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma4
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma4.md](file:///../../ai/models/welcome-gemma-4-frontier-multimodal-intelligence-o.md)
+Path: [welcome-gemma-4-frontier-multimodal-intelligence-o.md](../../ai/models/welcome-gemma-4-frontier-multimodal-intelligence-o.md)

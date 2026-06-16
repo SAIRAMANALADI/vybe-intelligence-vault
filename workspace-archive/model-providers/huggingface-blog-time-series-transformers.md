@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Probabilistic Time Series Forecasting with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/time-series-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-time-series-transformers.md](file:///../../ai/models/probabilistic-time-series-forecasting-with-transfo.md)
+Path: [probabilistic-time-series-forecasting-with-transfo.md](../../ai/models/probabilistic-time-series-forecasting-with-transfo.md)

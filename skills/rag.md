@@ -19,7 +19,7 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1683 resources matched in the intelligence vault.
+Active signals: 1688 resources matched in the intelligence vault.
 Recently detected signals:
 - [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) (Source: Unknown Source) - Collected 2026-06-16
 - [AutoGen: LLM-Driven Multi-Agent Framework](../ai/rag/autogen-llm-driven-multi-agent-framework.md) (Source: Unknown Source) - Collected 2026-06-16
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:13.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T21:16:44.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

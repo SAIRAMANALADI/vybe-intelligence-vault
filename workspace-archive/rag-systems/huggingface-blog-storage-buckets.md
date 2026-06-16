@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Storage Buckets on the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/storage-buckets
 
 ## Local Vault File
 
-Path: [huggingface-blog-storage-buckets.md](file:///../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)
+Path: [introducing-storage-buckets-on-the-hugging-face-hu.md](../../ai/rag/introducing-storage-buckets-on-the-hugging-face-hu.md)

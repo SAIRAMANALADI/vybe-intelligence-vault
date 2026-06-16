@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Llama 2 on Amazon SageMaker a Benchmark
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/llama-sagemaker-benchmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama-sagemaker-benchmark.md](file:///../../ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)
+Path: [llama-2-on-amazon-sagemaker-a-benchmark.md](../../ai/models/llama-2-on-amazon-sagemaker-a-benchmark.md)

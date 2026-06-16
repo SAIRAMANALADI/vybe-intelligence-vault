@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and JFrog partner to make AI Security more transparent
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jfrog
 
 ## Local Vault File
 
-Path: [huggingface-blog-jfrog.md](file:///../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)
+Path: [hugging-face-and-jfrog-partner-to-make-ai-security.md](../../ai/models/hugging-face-and-jfrog-partner-to-make-ai-security.md)

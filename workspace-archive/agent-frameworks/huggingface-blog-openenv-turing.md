@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv-turing
 
 ## Local Vault File
 
-Path: [huggingface-blog-openenv-turing.md](file:///../../ai/agents/openenv-in-practice-evaluating-tool-using-agents-i.md)
+Path: [openenv-in-practice-evaluating-tool-using-agents-i.md](../../ai/agents/openenv-in-practice-evaluating-tool-using-agents-i.md)

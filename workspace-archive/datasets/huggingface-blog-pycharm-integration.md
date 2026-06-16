@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face + PyCharm
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pycharm-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-pycharm-integration.md](file:///../../ai/models/hugging-face-pycharm.md)
+Path: [hugging-face-pycharm.md](../../ai/models/hugging-face-pycharm.md)

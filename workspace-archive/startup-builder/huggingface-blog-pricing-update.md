@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing our new pricing
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/pricing-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-pricing-update.md](file:///../../ai/models/introducing-our-new-pricing.md)
+Path: [introducing-our-new-pricing.md](../../ai/models/introducing-our-new-pricing.md)

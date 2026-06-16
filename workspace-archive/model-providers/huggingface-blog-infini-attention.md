@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A failed experiment: Infini-Attention, and why we should keep trying?
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infini-attention
 
 ## Local Vault File
 
-Path: [huggingface-blog-infini-attention.md](file:///../../ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)
+Path: [a-failed-experiment-infini-attention-and-why-we-sh.md](../../ai/models/a-failed-experiment-infini-attention-and-why-we-sh.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Policy @🤗: Response to the U.S. NTIA's Request for Comment on AI Accountability
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/policy-ntia-rfc
 
 ## Local Vault File
 
-Path: [huggingface-blog-policy-ntia-rfc.md](file:///../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)
+Path: [ai-policy-response-to-the-u-s-ntia-s-request-for-c.md](../../ai/models/ai-policy-response-to-the-u-s-ntia-s-request-for-c.md)

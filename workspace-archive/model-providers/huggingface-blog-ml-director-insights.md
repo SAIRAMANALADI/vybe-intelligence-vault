@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Director of Machine Learning Insights
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-director-insights
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-director-insights.md](file:///../../ai/models/director-of-machine-learning-insights.md)
+Path: [director-of-machine-learning-insights.md](../../ai/models/director-of-machine-learning-insights.md)

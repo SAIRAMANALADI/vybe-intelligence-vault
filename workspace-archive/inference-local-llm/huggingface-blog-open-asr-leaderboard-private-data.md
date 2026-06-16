@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Adding Benchmaxxer Repellant to the Open ASR Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-asr-leaderboard-private-da
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-asr-leaderboard-private-data.md](file:///../../ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leade.md)
+Path: [adding-benchmaxxer-repellant-to-the-open-asr-leade.md](../../ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leade.md)

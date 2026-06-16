@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open-source LLMs as LangChain Agents
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-source-llms-as-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-source-llms-as-agents.md](file:///../../ai/agents/open-source-llms-as-langchain-agents.md)
+Path: [open-source-llms-as-langchain-agents.md](../../ai/agents/open-source-llms-as-langchain-agents.md)

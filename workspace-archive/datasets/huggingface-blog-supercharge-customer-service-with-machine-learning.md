@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Supercharged Customer Service with Machine Learning
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/supercharge-customer-service-wi
 
 ## Local Vault File
 
-Path: [huggingface-blog-supercharge-customer-service-with-machine-learning.md](file:///../../ai/models/supercharged-customer-service-with-machine-learnin.md)
+Path: [supercharged-customer-service-with-machine-learnin.md](../../ai/models/supercharged-customer-service-with-machine-learnin.md)

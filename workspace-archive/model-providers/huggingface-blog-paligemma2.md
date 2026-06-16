@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome PaliGemma 2 – New vision language models by Google
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma2
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma2.md](file:///../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)
+Path: [welcome-paligemma-2-new-vision-language-models-by.md](../../ai/models/welcome-paligemma-2-new-vision-language-models-by.md)

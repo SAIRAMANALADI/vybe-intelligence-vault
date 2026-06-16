@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 1 Billion Classifications
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/billion-classifications
 
 ## Local Vault File
 
-Path: [huggingface-blog-billion-classifications.md](file:///../../ai/models/1-billion-classifications.md)
+Path: [1-billion-classifications.md](../../ai/models/1-billion-classifications.md)

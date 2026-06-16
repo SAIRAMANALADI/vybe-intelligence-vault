@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face x LangChain : A new partner package
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/langchain
 
 ## Local Vault File
 
-Path: [huggingface-blog-langchain.md](file:///../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)
+Path: [hugging-face-x-langchain-a-new-partner-package.md](../../ai/models/hugging-face-x-langchain-a-new-partner-package.md)

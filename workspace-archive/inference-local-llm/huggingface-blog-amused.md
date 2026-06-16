@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome aMUSEd: Efficient Text-to-Image Generation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amused
 
 ## Local Vault File
 
-Path: [huggingface-blog-amused.md](file:///../../ai/models/welcome-amused-efficient-text-to-image-generation.md)
+Path: [welcome-amused-efficient-text-to-image-generation.md](../../ai/models/welcome-amused-efficient-text-to-image-generation.md)

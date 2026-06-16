@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing multi-backends (TRT-LLM, vLLM) support for Text Generation Inference
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tgi-multi-backend
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-multi-backend.md](file:///../../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md)
+Path: [introducing-multi-backends-trt-llm-vllm-support-fo.md](../../ai/models/introducing-multi-backends-trt-llm-vllm-support-fo.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training a language model with 🤗 Transformers using TensorFlow and TPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf_tpu
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-tpu.md](file:///../../ai/models/training-a-language-model-with-transformers-using.md)
+Path: [training-a-language-model-with-transformers-using.md](../../ai/models/training-a-language-model-with-transformers-using.md)

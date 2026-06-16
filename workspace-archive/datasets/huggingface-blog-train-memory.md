@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Visualize and understand GPU memory in PyTorch
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train_memory
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-memory.md](file:///../../ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)
+Path: [visualize-and-understand-gpu-memory-in-pytorch.md](../../ai/models/visualize-and-understand-gpu-memory-in-pytorch.md)

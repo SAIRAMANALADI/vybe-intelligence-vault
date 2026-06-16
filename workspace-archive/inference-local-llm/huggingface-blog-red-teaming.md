@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Red-Teaming Large Language Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/red-teaming
 
 ## Local Vault File
 
-Path: [huggingface-blog-red-teaming.md](file:///../../ai/models/red-teaming-large-language-models.md)
+Path: [red-teaming-large-language-models.md](../../ai/models/red-teaming-large-language-models.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Dell Enterprise Hub is all you need to build AI on premises
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dell-ai-applications
 
 ## Local Vault File
 
-Path: [huggingface-blog-dell-ai-applications.md](file:///../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)
+Path: [dell-enterprise-hub-is-all-you-need-to-build-ai-on.md](../../ai/models/dell-enterprise-hub-is-all-you-need-to-build-ai-on.md)

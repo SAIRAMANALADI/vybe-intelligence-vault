@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Sentence Transformers is joining Hugging Face!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentence-transformers-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentence-transformers-joins-hf.md](file:///../../ai/models/sentence-transformers-is-joining-hugging-face.md)
+Path: [sentence-transformers-is-joining-hugging-face.md](../../ai/models/sentence-transformers-is-joining-hugging-face.md)

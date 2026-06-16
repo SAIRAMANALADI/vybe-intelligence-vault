@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Gemma 2 - Google’s new open LLM
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma2
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma2.md](file:///../../ai/models/welcome-gemma-2-googles-new-open-llm.md)
+Path: [welcome-gemma-2-googles-new-open-llm.md](../../ai/models/welcome-gemma-2-googles-new-open-llm.md)

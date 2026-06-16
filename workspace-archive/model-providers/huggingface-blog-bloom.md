@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing The World's Largest Open Multilingual Language Model: BLOOM
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom.md](file:///../../ai/models/introducing-the-world-s-largest-open-multilingual.md)
+Path: [introducing-the-world-s-largest-open-multilingual.md](../../ai/models/introducing-the-world-s-largest-open-multilingual.md)

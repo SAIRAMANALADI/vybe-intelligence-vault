@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Preference Tuning LLMs with Direct Preference Optimization Methods
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pref-tuning
 
 ## Local Vault File
 
-Path: [huggingface-blog-pref-tuning.md](file:///../../ai/models/preference-tuning-llms-with-direct-preference-opti.md)
+Path: [preference-tuning-llms-with-direct-preference-opti.md](../../ai/models/preference-tuning-llms-with-direct-preference-opti.md)

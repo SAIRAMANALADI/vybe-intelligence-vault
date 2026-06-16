@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Judge Arena: Benchmarking LLMs as Evaluators
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/arena-atla
 
 ## Local Vault File
 
-Path: [huggingface-blog-arena-atla.md](file:///../../ai/models/judge-arena-benchmarking-llms-as-evaluators.md)
+Path: [judge-arena-benchmarking-llms-as-evaluators.md](../../ai/models/judge-arena-benchmarking-llms-as-evaluators.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome EmbeddingGemma, Google's new efficient embedding model
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/embeddinggemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-embeddinggemma.md](file:///../../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)
+Path: [welcome-embeddinggemma-google-s-new-efficient-embe.md](../../ai/models/welcome-embeddinggemma-google-s-new-efficient-embe.md)

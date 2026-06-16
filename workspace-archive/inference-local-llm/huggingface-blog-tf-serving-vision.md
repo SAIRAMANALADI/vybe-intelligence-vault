@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploying TensorFlow Vision Models in Hugging Face with TF Serving
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving-vision
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-serving-vision.md](file:///../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)
+Path: [deploying-tensorflow-vision-models-in-hugging-face.md](../../ai/models/deploying-tensorflow-vision-models-in-hugging-face.md)

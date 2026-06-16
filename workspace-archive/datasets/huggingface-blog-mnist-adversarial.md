@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to train your model dynamically using adversarial data
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mnist-adversarial
 
 ## Local Vault File
 
-Path: [huggingface-blog-mnist-adversarial.md](file:///../../ai/models/how-to-train-your-model-dynamically-using-adversar.md)
+Path: [how-to-train-your-model-dynamically-using-adversar.md](../../ai/models/how-to-train-your-model-dynamically-using-adversar.md)

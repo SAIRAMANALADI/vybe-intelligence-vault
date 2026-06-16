@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Reachy Mini - The Open-Source Robot for Today's and Tomorrow's AI Builders
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-reachy-mini.md](file:///../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)
+Path: [reachy-mini-the-open-source-robot-for-today-s-and.md](../../ai/models/reachy-mini-the-open-source-robot-for-today-s-and.md)

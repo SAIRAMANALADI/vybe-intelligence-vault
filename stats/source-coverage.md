@@ -5,7 +5,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 2327 |
-| huggingface | 798 |
+| huggingface | 809 |
 | github | 369 |
 | nextjs.org | 64 |
 | importai.substack.com | 20 |

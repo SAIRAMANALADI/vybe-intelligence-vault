@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Ettin Reranker Family
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin-reranker
 
 ## Local Vault File
 
-Path: [huggingface-blog-ettin-reranker.md](file:///../../ai/models/introducing-the-ettin-reranker-family.md)
+Path: [introducing-the-ettin-reranker-family.md](../../ai/models/introducing-the-ettin-reranker-family.md)

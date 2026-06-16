@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Exploring Quantization Backends in Diffusers
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/diffusers-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-quantization.md](file:///../../ai/models/exploring-quantization-backends-in-diffusers.md)
+Path: [exploring-quantization-backends-in-diffusers.md](../../ai/models/exploring-quantization-backends-in-diffusers.md)

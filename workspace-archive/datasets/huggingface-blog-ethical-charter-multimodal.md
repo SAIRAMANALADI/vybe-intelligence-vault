@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Putting ethical principles at the core of the research lifecycle
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethical-charter-multimodal
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethical-charter-multimodal.md](file:///../../ai/models/putting-ethical-principles-at-the-core-of-the-rese.md)
+Path: [putting-ethical-principles-at-the-core-of-the-rese.md](../../ai/models/putting-ethical-principles-at-the-core-of-the-rese.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Large Language Models: A New Moore's Law?
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/large-language-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-large-language-models.md](file:///../../ai/models/large-language-models-a-new-moore-s-law.md)
+Path: [large-language-models-a-new-moore-s-law.md](../../ai/models/large-language-models-a-new-moore-s-law.md)

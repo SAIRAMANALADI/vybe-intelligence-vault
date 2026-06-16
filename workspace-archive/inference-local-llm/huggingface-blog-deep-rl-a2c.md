@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Advantage Actor Critic (A2C)
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-a2c
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-a2c.md](file:///../../ai/models/advantage-actor-critic-a2c.md)
+Path: [advantage-actor-critic-a2c.md](../../ai/models/advantage-actor-critic-a2c.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing AnyLanguageModel: One API for Local and Remote LLMs on Apple Platforms
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/anylanguagemodel
 
 ## Local Vault File
 
-Path: [huggingface-blog-anylanguagemodel.md](file:///../../ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)
+Path: [introducing-anylanguagemodel-one-api-for-local-and.md](../../ai/models/introducing-anylanguagemodel-one-api-for-local-and.md)

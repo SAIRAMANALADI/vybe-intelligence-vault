@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing AI Sheets: a tool to work with datasets using open AI models!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/aisheets
 
 ## Local Vault File
 
-Path: [huggingface-blog-aisheets.md](file:///../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)
+Path: [introducing-ai-sheets-a-tool-to-work-with-datasets.md](../../ai/models/introducing-ai-sheets-a-tool-to-work-with-datasets.md)

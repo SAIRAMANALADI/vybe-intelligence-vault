@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Using LoRA for Efficient Stable Diffusion Fine-Tuning
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora.md](file:///../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)
+Path: [using-lora-for-efficient-stable-diffusion-fine-tun.md](../../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md)

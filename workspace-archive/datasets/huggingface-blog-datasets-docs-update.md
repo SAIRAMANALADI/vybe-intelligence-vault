@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing new audio and vision documentation in 🤗 Datasets
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/datasets-docs-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-datasets-docs-update.md](file:///../../ai/models/introducing-new-audio-and-vision-documentation-in.md)
+Path: [introducing-new-audio-and-vision-documentation-in.md](../../ai/models/introducing-new-audio-and-vision-documentation-in.md)

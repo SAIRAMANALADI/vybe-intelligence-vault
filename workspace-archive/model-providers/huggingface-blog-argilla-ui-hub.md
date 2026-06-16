@@ -19,7 +19,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Argilla 2.4: Easily Build Fine-Tuning and Evaluation Datasets on the Hub — No Code Required
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/argilla-ui-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-argilla-ui-hub.md](file:///../../ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)
+Path: [argilla-2-4-easily-build-fine-tuning-and-evaluatio.md](../../ai/models/argilla-2-4-easily-build-fine-tuning-and-evaluatio.md)

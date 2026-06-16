@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing DOI: the Digital Object Identifier to Datasets and Models
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/introducing-doi
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-doi.md](file:///../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)
+Path: [introducing-doi-the-digital-object-identifier-to-d.md](../../ai/models/introducing-doi-the-digital-object-identifier-to-d.md)

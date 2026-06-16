@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Text2SQL using Hugging Face Dataset Viewer API and Motherduck DuckDB-NSQL-7B
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/duckdb-nsql-7b
 
 ## Local Vault File
 
-Path: [huggingface-blog-duckdb-nsql-7b.md](file:///../../ai/models/text2sql-using-hugging-face-dataset-viewer-api-and.md)
+Path: [text2sql-using-hugging-face-dataset-viewer-api-and.md](../../ai/models/text2sql-using-hugging-face-dataset-viewer-api-and.md)

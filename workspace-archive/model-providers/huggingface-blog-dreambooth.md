@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training Stable Diffusion with Dreambooth using Diffusers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dreambooth
 
 ## Local Vault File
 
-Path: [huggingface-blog-dreambooth.md](file:///../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)
+Path: [training-stable-diffusion-with-dreambooth-using-di.md](../../ai/models/training-stable-diffusion-with-dreambooth-using-di.md)

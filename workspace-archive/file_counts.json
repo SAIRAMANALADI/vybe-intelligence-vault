@@ -1,7 +1,7 @@
 {
-  "total_files": 14150,
+  "total_files": 14149,
   "categories": {
-    "agent-frameworks": 653,
+    "agent-frameworks": 652,
     "agent-instructions": 1,
     "ai-browser-computer-use": 654,
     "ai-coding-agents": 600,
@@ -26,5 +26,5 @@
     "vector-databases": 947,
     "webdev-3d-creative": 85
   },
-  "last_updated": "2026-06-16T19:39:23.363286+05:30"
+  "last_updated": "2026-06-16T21:17:33.645821+05:30"
 }

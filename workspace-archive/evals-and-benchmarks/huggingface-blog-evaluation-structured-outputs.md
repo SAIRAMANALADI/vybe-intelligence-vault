@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Improving Prompt Consistency with Structured Generations
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/evaluation-structured-outputs
 
 ## Local Vault File
 
-Path: [huggingface-blog-evaluation-structured-outputs.md](file:///../../ai/models/improving-prompt-consistency-with-structured-gener.md)
+Path: [improving-prompt-consistency-with-structured-gener.md](../../ai/models/improving-prompt-consistency-with-structured-gener.md)

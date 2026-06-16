@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster Stable Diffusion with Core ML on iPhone, iPad, and Mac
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fast-diffusers-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-fast-diffusers-coreml.md](file:///../../ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)
+Path: [faster-stable-diffusion-with-core-ml-on-iphone-ipa.md](../../ai/models/faster-stable-diffusion-with-core-ml-on-iphone-ipa.md)

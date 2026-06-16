@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CO₂ Emissions and Models Performance: Insights from the Open LLM Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-emissions-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-emissions-analysis.md](file:///../../ai/models/co2-emissions-and-models-performance-insights-from.md)
+Path: [co2-emissions-and-models-performance-insights-from.md](../../ai/models/co2-emissions-and-models-performance-insights-from.md)

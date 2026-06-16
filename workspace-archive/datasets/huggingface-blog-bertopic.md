@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing BERTopic Integration with the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bertopic
 
 ## Local Vault File
 
-Path: [huggingface-blog-bertopic.md](file:///../../ai/models/introducing-bertopic-integration-with-the-hugging.md)
+Path: [introducing-bertopic-integration-with-the-hugging.md](../../ai/models/introducing-bertopic-integration-with-the-hugging.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Rocket Money x Hugging Face: Scaling Volatile ML Models in Production​
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rocketmoney-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-rocketmoney-case-study.md](file:///../../ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-mo.md)
+Path: [rocket-money-x-hugging-face-scaling-volatile-ml-mo.md](../../ai/models/rocket-money-x-hugging-face-scaling-volatile-ml-mo.md)

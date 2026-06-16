@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Building the Hugging Face MCP Server
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/building-hf-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-building-hf-mcp.md](file:///../../ai/models/building-the-hugging-face-mcp-server.md)
+Path: [building-the-hugging-face-mcp-server.md](../../ai/models/building-the-hugging-face-mcp-server.md)

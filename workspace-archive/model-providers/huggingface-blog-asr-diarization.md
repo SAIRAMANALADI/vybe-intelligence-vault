@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Powerful ASR + diarization + speculative decoding with Hugging Face Inference Endpoints
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/asr-diarization
 
 ## Local Vault File
 
-Path: [huggingface-blog-asr-diarization.md](file:///../../ai/models/powerful-asr-diarization-speculative-decoding-with.md)
+Path: [powerful-asr-diarization-speculative-decoding-with.md](../../ai/models/powerful-asr-diarization-speculative-decoding-with.md)

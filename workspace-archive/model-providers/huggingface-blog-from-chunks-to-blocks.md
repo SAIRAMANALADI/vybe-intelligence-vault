@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From Chunks to Blocks: Accelerating Uploads and Downloads on the Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/from-chunks-to-blocks
 
 ## Local Vault File
 
-Path: [huggingface-blog-from-chunks-to-blocks.md](file:///../../ai/models/from-chunks-to-blocks-accelerating-uploads-and-dow.md)
+Path: [from-chunks-to-blocks-accelerating-uploads-and-dow.md](../../ai/models/from-chunks-to-blocks-accelerating-uploads-and-dow.md)

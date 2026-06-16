@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Stable-baselines3 to the Hugging Face Hub 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sb3
 
 ## Local Vault File
 
-Path: [huggingface-blog-sb3.md](file:///../../ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)
+Path: [welcome-stable-baselines3-to-the-hugging-face-hub.md](../../ai/models/welcome-stable-baselines3-to-the-hugging-face-hub.md)

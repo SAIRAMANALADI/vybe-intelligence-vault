@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Releasing Outlines-core 0.1.0: structured generation in Rust and Python
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/outlines-core
 
 ## Local Vault File
 
-Path: [huggingface-blog-outlines-core.md](file:///../../ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)
+Path: [releasing-outlines-core-0-1-0-structured-generatio.md](../../ai/models/releasing-outlines-core-0-1-0-structured-generatio.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Bamba: Inference-Efficient Hybrid Mamba2 Model
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bamba
 
 ## Local Vault File
 
-Path: [huggingface-blog-bamba.md](file:///../../ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)
+Path: [bamba-inference-efficient-hybrid-mamba2-model.md](../../ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)

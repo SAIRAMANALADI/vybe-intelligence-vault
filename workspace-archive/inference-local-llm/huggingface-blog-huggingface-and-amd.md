@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and AMD partner on accelerating state-of-the-art models for CPU and GPU platforms
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/huggingface-and-amd
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-and-amd.md](file:///../../ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)
+Path: [hugging-face-and-amd-partner-on-accelerating-state.md](../../ai/models/hugging-face-and-amd-partner-on-accelerating-state.md)

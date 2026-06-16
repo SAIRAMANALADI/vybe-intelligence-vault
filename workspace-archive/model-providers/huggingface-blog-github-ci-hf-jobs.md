@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Migrating Your GitHub CI to Hugging Face Jobs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/github-ci-hf-jobs
 
 ## Local Vault File
 
-Path: [huggingface-blog-github-ci-hf-jobs.md](file:///../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)
+Path: [migrating-your-github-ci-to-hugging-face-jobs.md](../../ai/models/migrating-your-github-ci-to-hugging-face-jobs.md)

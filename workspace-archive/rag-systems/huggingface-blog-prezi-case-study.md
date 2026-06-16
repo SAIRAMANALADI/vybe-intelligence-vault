@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/prezi-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-prezi-case-study.md](file:///../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)
+Path: [going-multimodal-how-prezi-is-leveraging-the-hub-a.md](../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)

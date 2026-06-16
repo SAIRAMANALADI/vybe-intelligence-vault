@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Practical 3D Asset Generation: A Step-by-Step Guide
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/3d-assets
 
 ## Local Vault File
 
-Path: [huggingface-blog-3d-assets.md](file:///../../ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)
+Path: [practical-3d-asset-generation-a-step-by-step-guide.md](../../ai/models/practical-3d-asset-generation-a-step-by-step-guide.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Groq on Hugging Face Inference Providers 🔥
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-groq
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-groq.md](file:///../../ai/models/groq-on-hugging-face-inference-providers.md)
+Path: [groq-on-hugging-face-inference-providers.md](../../ai/models/groq-on-hugging-face-inference-providers.md)

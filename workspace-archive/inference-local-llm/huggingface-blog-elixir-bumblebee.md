@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From GPT2 to Stable Diffusion: Hugging Face arrives to the Elixir community
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/elixir-bumblebee
 
 ## Local Vault File
 
-Path: [huggingface-blog-elixir-bumblebee.md](file:///../../ai/models/from-gpt2-to-stable-diffusion-hugging-face-arrives.md)
+Path: [from-gpt2-to-stable-diffusion-hugging-face-arrives.md](../../ai/models/from-gpt2-to-stable-diffusion-hugging-face-arrives.md)

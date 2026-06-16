@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster Assisted Generation with Dynamic Speculation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dynamic_speculation_lookahead
 
 ## Local Vault File
 
-Path: [huggingface-blog-dynamic-speculation-lookahead.md](file:///../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)
+Path: [faster-assisted-generation-with-dynamic-speculatio.md](../../ai/models/faster-assisted-generation-with-dynamic-speculatio.md)

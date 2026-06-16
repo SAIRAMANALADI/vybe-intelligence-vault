@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Prodigy-HF: a direct integration with Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/prodigy-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-prodigy-hf.md](file:///../../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)
+Path: [introducing-prodigy-hf-a-direct-integration-with-h.md](../../ai/models/introducing-prodigy-hf-a-direct-integration-with-h.md)

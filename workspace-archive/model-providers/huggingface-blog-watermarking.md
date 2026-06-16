@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Watermarking 101: Tools and Techniques
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/watermarking
 
 ## Local Vault File
 
-Path: [huggingface-blog-watermarking.md](file:///../../ai/models/ai-watermarking-101-tools-and-techniques.md)
+Path: [ai-watermarking-101-tools-and-techniques.md](../../ai/models/ai-watermarking-101-tools-and-techniques.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Subscribe to Enterprise Hub with your AWS Account
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/enterprise-hub-aws-marketplace
 
 ## Local Vault File
 
-Path: [huggingface-blog-enterprise-hub-aws-marketplace.md](file:///../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)
+Path: [subscribe-to-enterprise-hub-with-your-aws-account.md](../../ai/models/subscribe-to-enterprise-hub-with-your-aws-account.md)

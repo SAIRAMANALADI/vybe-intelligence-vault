@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Google releases Gemma 2 2B, ShieldGemma and Gemma Scope
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma-july-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma-july-update.md](file:///../../ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md)
+Path: [google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md](../../ai/models/google-releases-gemma-2-2b-shieldgemma-and-gemma-s.md)

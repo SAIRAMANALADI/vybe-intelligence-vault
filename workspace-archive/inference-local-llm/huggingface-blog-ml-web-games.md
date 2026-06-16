@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making ML-powered web games with Transformers.js
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-web-games
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-web-games.md](file:///../../ai/models/making-ml-powered-web-games-with-transformers-js.md)
+Path: [making-ml-powered-web-games-with-transformers-js.md](../../ai/models/making-ml-powered-web-games-with-transformers-js.md)

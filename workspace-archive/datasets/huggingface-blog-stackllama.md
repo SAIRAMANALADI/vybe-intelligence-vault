@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # StackLLaMA: A hands-on guide to train LLaMA with RLHF
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/stackllama
 
 ## Local Vault File
 
-Path: [huggingface-blog-stackllama.md](file:///../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)
+Path: [stackllama-a-hands-on-guide-to-train-llama-with-rl.md](../../ai/models/stackllama-a-hands-on-guide-to-train-llama-with-rl.md)

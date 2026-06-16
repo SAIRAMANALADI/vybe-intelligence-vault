@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Stable Diffusion XL on Mac with Advanced Core ML Quantization
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-xl-coreml
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-xl-coreml.md](file:///../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)
+Path: [stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md](../../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md)

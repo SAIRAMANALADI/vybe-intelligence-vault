@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/aivsai
 
 ## Local Vault File
 
-Path: [huggingface-blog-aivsai.md](file:///../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)
+Path: [introducing-ai-vs-ai-a-deep-reinforcement-learning.md](../../ai/agents/introducing-ai-vs-ai-a-deep-reinforcement-learning.md)

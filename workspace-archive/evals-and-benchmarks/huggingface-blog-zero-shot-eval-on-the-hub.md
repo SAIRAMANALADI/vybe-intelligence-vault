@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Very Large Language Models and How to Evaluate Them
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-eval-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-shot-eval-on-the-hub.md](file:///../../ai/models/very-large-language-models-and-how-to-evaluate-the.md)
+Path: [very-large-language-models-and-how-to-evaluate-the.md](../../ai/models/very-large-language-models-and-how-to-evaluate-the.md)

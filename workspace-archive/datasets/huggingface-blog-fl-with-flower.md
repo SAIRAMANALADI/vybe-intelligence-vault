@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Federated Learning using Hugging Face and Flower
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fl-with-flower
 
 ## Local Vault File
 
-Path: [huggingface-blog-fl-with-flower.md](file:///../../ai/models/federated-learning-using-hugging-face-and-flower.md)
+Path: [federated-learning-using-hugging-face-and-flower.md](../../ai/models/federated-learning-using-hugging-face-and-flower.md)

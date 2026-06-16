@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-waypoint-1-5.md](file:///../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)
+Path: [waypoint-1-5-higher-fidelity-interactive-worlds-fo.md](../../ai/models/waypoint-1-5-higher-fidelity-interactive-worlds-fo.md)

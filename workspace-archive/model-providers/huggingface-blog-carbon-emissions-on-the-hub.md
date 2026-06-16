@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CO2 Emissions and the 🤗 Hub: Leading the Charge
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/carbon-emissions-on-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-carbon-emissions-on-the-hub.md](file:///../../ai/models/co2-emissions-and-the-hub-leading-the-charge.md)
+Path: [co2-emissions-and-the-hub-leading-the-charge.md](../../ai/models/co2-emissions-and-the-hub-leading-the-charge.md)

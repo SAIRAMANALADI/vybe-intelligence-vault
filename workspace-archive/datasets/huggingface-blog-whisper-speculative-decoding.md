@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Speculative Decoding for 2x Faster Whisper Inference
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/whisper-speculative-decoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-whisper-speculative-decoding.md](file:///../../ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)
+Path: [speculative-decoding-for-2x-faster-whisper-inferen.md](../../ai/models/speculative-decoding-for-2x-faster-whisper-inferen.md)

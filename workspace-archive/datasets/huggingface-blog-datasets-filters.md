@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing New Dataset Search Features
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/datasets-filters
 
 ## Local Vault File
 
-Path: [huggingface-blog-datasets-filters.md](file:///../../ai/models/announcing-new-dataset-search-features.md)
+Path: [announcing-new-dataset-search-features.md](../../ai/models/announcing-new-dataset-search-features.md)

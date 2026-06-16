@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Transformers backend integration in SGLang
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-backend-sglang
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-backend-sglang.md](file:///../../ai/models/transformers-backend-integration-in-sglang.md)
+Path: [transformers-backend-integration-in-sglang.md](../../ai/models/transformers-backend-integration-in-sglang.md)

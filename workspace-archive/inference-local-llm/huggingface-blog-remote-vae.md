@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Remote VAEs for decoding with Inference Endpoints 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/remote_vae
 
 ## Local Vault File
 
-Path: [huggingface-blog-remote-vae.md](file:///../../ai/models/remote-vaes-for-decoding-with-inference-endpoints.md)
+Path: [remote-vaes-for-decoding-with-inference-endpoints.md](../../ai/models/remote-vaes-for-decoding-with-inference-endpoints.md)

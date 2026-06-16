@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to train a Language Model with Megatron-LM
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/megatron-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-megatron-training.md](file:///../../ai/models/how-to-train-a-language-model-with-megatron-lm.md)
+Path: [how-to-train-a-language-model-with-megatron-lm.md](../../ai/models/how-to-train-a-language-model-with-megatron-lm.md)

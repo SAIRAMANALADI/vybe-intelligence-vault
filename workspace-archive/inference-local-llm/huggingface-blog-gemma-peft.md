@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tuning Gemma Models in Hugging Face
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gemma-peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-gemma-peft.md](file:///../../ai/models/fine-tuning-gemma-models-in-hugging-face.md)
+Path: [fine-tuning-gemma-models-in-hugging-face.md](../../ai/models/fine-tuning-gemma-models-in-hugging-face.md)

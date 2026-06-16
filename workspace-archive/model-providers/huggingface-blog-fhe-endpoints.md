@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Running Privacy-Preserving Inferences on Hugging Face Endpoints
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fhe-endpoints
 
 ## Local Vault File
 
-Path: [huggingface-blog-fhe-endpoints.md](file:///../../ai/models/running-privacy-preserving-inferences-on-hugging-f.md)
+Path: [running-privacy-preserving-inferences-on-hugging-f.md](../../ai/models/running-privacy-preserving-inferences-on-hugging-f.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Vision Language Models (Better, faster, stronger)
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/vlms-2025
 
 ## Local Vault File
 
-Path: [huggingface-blog-vlms-2025.md](file:///../../ai/models/vision-language-models-better-faster-stronger.md)
+Path: [vision-language-models-better-faster-stronger.md](../../ai/models/vision-language-models-better-faster-stronger.md)

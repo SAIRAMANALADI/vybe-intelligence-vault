@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open-source DeepResearch – Freeing our search agents
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-deep-research
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-deep-research.md](file:///../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)
+Path: [open-source-deepresearch-freeing-our-search-agents.md](../../ai/agents/open-source-deepresearch-freeing-our-search-agents.md)

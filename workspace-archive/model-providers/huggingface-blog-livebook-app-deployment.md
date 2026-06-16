@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy Livebook notebooks as apps to Hugging Face Spaces
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/livebook-app-deployment
 
 ## Local Vault File
 
-Path: [huggingface-blog-livebook-app-deployment.md](file:///../../ai/models/deploy-livebook-notebooks-as-apps-to-hugging-face.md)
+Path: [deploy-livebook-notebooks-as-apps-to-hugging-face.md](../../ai/models/deploy-livebook-notebooks-as-apps-to-hugging-face.md)

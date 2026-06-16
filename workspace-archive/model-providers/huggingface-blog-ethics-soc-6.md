@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ethics and Society Newsletter #6: Building Better AI: The Importance of Data Quality
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-6
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-6.md](file:///../../ai/models/ethics-and-society-newsletter-6-building-better-ai.md)
+Path: [ethics-and-society-newsletter-6-building-better-ai.md](../../ai/models/ethics-and-society-newsletter-6-building-better-ai.md)

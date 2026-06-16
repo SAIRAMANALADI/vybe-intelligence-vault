@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Red-Teaming Resistance Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-haizelab
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-haizelab.md](file:///../../ai/models/introducing-the-red-teaming-resistance-leaderboard.md)
+Path: [introducing-the-red-teaming-resistance-leaderboard.md](../../ai/models/introducing-the-red-teaming-resistance-leaderboard.md)

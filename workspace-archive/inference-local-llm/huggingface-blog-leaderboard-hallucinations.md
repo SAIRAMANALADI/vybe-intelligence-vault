@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Hallucinations Leaderboard, an Open Effort to Measure Hallucinations in Large Language Models
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-hallucinations
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-hallucinations.md](file:///../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)
+Path: [the-hallucinations-leaderboard-an-open-effort-to-m.md](../../ai/models/the-hallucinations-leaderboard-an-open-effort-to-m.md)

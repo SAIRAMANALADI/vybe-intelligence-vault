@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Machine Learning Demos on arXiv
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/arxiv
 
 ## Local Vault File
 
-Path: [huggingface-blog-arxiv.md](file:///../../ai/models/hugging-face-machine-learning-demos-on-arxiv.md)
+Path: [hugging-face-machine-learning-demos-on-arxiv.md](../../ai/models/hugging-face-machine-learning-demos-on-arxiv.md)

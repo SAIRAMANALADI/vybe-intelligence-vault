@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Happy 1st anniversary 🤗 Diffusers!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusers-turns-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusers-turns-1.md](file:///../../ai/models/happy-1st-anniversary-diffusers.md)
+Path: [happy-1st-anniversary-diffusers.md](../../ai/models/happy-1st-anniversary-diffusers.md)

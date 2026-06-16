@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Hugging Face for Education 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/education
 
 ## Local Vault File
 
-Path: [huggingface-blog-education.md](file:///../../ai/models/introducing-hugging-face-for-education.md)
+Path: [introducing-hugging-face-for-education.md](../../ai/models/introducing-hugging-face-for-education.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # StarCoder2-Instruct: Fully Transparent and Permissive Self-Alignment for Code Generation
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/sc2-instruct
 
 ## Local Vault File
 
-Path: [huggingface-blog-sc2-instruct.md](file:///../../ai/models/starcoder2-instruct-fully-transparent-and-permissi.md)
+Path: [starcoder2-instruct-fully-transparent-and-permissi.md](../../ai/models/starcoder2-instruct-fully-transparent-and-permissi.md)

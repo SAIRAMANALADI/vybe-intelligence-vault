@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI and the Future of Cybersecurity: Why Openness Matters
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cybersecurity-openness
 
 ## Local Vault File
 
-Path: [huggingface-blog-cybersecurity-openness.md](file:///../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)
+Path: [ai-and-the-future-of-cybersecurity-why-openness-ma.md](../../ai/models/ai-and-the-future-of-cybersecurity-why-openness-ma.md)

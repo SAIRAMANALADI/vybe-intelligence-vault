@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # An Introduction to Q-Learning Part 1
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-q-part1
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-q-part1.md](file:///../../ai/models/an-introduction-to-q-learning-part-1.md)
+Path: [an-introduction-to-q-learning-part-1.md](../../ai/models/an-introduction-to-q-learning-part-1.md)

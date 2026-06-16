@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # “Llama 3.2 in Keras”
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/keras-llama-32
 
 ## Local Vault File
 
-Path: [huggingface-blog-keras-llama-32.md](file:///../../ai/models/llama-3-2-in-keras.md)
+Path: [llama-3-2-in-keras.md](../../ai/models/llama-3-2-in-keras.md)

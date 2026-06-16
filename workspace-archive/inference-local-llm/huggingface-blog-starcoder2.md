@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # StarCoder2 and The Stack v2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/starcoder2
 
 ## Local Vault File
 
-Path: [huggingface-blog-starcoder2.md](file:///../../ai/models/starcoder2-and-the-stack-v2.md)
+Path: [starcoder2-and-the-stack-v2.md](../../ai/models/starcoder2-and-the-stack-v2.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing our new Content Guidelines and Policy
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/content-guidelines-update
 
 ## Local Vault File
 
-Path: [huggingface-blog-content-guidelines-update.md](file:///../../ai/models/announcing-our-new-content-guidelines-and-policy.md)
+Path: [announcing-our-new-content-guidelines-and-policy.md](../../ai/models/announcing-our-new-content-guidelines-and-policy.md)

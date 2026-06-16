@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Improving Hugging Face Model Access for Kaggle Users
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kaggle-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-kaggle-integration.md](file:///../../ai/models/improving-hugging-face-model-access-for-kaggle-use.md)
+Path: [improving-hugging-face-model-access-for-kaggle-use.md](../../ai/models/improving-hugging-face-model-access-for-kaggle-use.md)

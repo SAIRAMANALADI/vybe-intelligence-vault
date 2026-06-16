@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Transformers.js v3: WebGPU Support, New Models & Tasks, and More…
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-v3.md](file:///../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)
+Path: [transformers-js-v3-webgpu-support-new-models-tasks.md](../../ai/models/transformers-js-v3-webgpu-support-new-models-tasks.md)

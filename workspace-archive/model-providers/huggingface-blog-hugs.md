@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing HUGS - Scale your AI with Open Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hugs
 
 ## Local Vault File
 
-Path: [huggingface-blog-hugs.md](file:///../../ai/models/introducing-hugs-scale-your-ai-with-open-models.md)
+Path: [introducing-hugs-scale-your-ai-with-open-models.md](../../ai/models/introducing-hugs-scale-your-ai-with-open-models.md)

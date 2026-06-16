@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Finetune Stable Diffusion Models with DDPO via TRL
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trl-ddpo
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-ddpo.md](file:///../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)
+Path: [finetune-stable-diffusion-models-with-ddpo-via-trl.md](../../ai/models/finetune-stable-diffusion-models-with-ddpo-via-trl.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimizing Bark using 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimizing-bark
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimizing-bark.md](file:///../../ai/models/optimizing-bark-using-transformers.md)
+Path: [optimizing-bark-using-transformers.md](../../ai/models/optimizing-bark-using-transformers.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Porting fairseq wmt19 translation system to transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/porting-fsmt
 
 ## Local Vault File
 
-Path: [huggingface-blog-porting-fsmt.md](file:///../../ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)
+Path: [porting-fairseq-wmt19-translation-system-to-transf.md](../../ai/models/porting-fairseq-wmt19-translation-system-to-transf.md)

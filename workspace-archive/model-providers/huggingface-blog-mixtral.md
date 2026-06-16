@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Mixtral - a SOTA Mixture of Experts on Hugging Face
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/mixtral
 
 ## Local Vault File
 
-Path: [huggingface-blog-mixtral.md](file:///../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)
+Path: [welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md](../../ai/models/welcome-mixtral-a-sota-mixture-of-experts-on-huggi.md)

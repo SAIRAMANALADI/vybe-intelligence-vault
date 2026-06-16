@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing RWKV - An RNN with the advantages of a transformer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rwkv
 
 ## Local Vault File
 
-Path: [huggingface-blog-rwkv.md](file:///../../ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)
+Path: [introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md](../../ai/models/introducing-rwkv-an-rnn-with-the-advantages-of-a-t.md)

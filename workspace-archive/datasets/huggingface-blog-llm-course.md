@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The NLP Course is becoming the LLM Course
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/llm-course
 
 ## Local Vault File
 
-Path: [huggingface-blog-llm-course.md](file:///../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)
+Path: [the-nlp-course-is-becoming-the-llm-course.md](../../ai/models/the-nlp-course-is-becoming-the-llm-course.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/generative-ai-models-on-intel-c
 
 ## Local Vault File
 
-Path: [huggingface-blog-generative-ai-models-on-intel-cpu.md](file:///../../ai/models/smaller-is-better-q8-chat-an-efficient-generative.md)
+Path: [smaller-is-better-q8-chat-an-efficient-generative.md](../../ai/models/smaller-is-better-q8-chat-an-efficient-generative.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Diffusion Models Live Event
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/diffusion-models-event
 
 ## Local Vault File
 
-Path: [huggingface-blog-diffusion-models-event.md](file:///../../ai/models/diffusion-models-live-event.md)
+Path: [diffusion-models-live-event.md](../../ai/models/diffusion-models-live-event.md)

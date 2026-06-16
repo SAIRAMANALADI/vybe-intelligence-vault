@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fixing Open LLM Leaderboard with Math-Verify
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/math_verify_leaderboard
 
 ## Local Vault File
 
-Path: [huggingface-blog-math-verify-leaderboard.md](file:///../../ai/models/fixing-open-llm-leaderboard-with-math-verify.md)
+Path: [fixing-open-llm-leaderboard-with-math-verify.md](../../ai/models/fixing-open-llm-leaderboard-with-math-verify.md)

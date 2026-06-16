@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Illustrating Reinforcement Learning from Human Feedback (RLHF)
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rlhf
 
 ## Local Vault File
 
-Path: [huggingface-blog-rlhf.md](file:///../../ai/models/illustrating-reinforcement-learning-from-human-fee.md)
+Path: [illustrating-reinforcement-learning-from-human-fee.md](../../ai/models/illustrating-reinforcement-learning-from-human-fee.md)

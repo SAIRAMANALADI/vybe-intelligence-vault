@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating Hugging Face Transformers with AWS Inferentia2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-transformers-with-in
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-transformers-with-inferentia2.md](file:///../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)
+Path: [accelerating-hugging-face-transformers-with-aws-in.md](../../ai/models/accelerating-hugging-face-transformers-with-aws-in.md)

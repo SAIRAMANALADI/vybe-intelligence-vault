@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/few-shot-learning-gpt-neo-and-i
 
 ## Local Vault File
 
-Path: [huggingface-blog-few-shot-learning-gpt-neo-and-inference-api.md](file:///../../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)
+Path: [few-shot-learning-in-practice-gpt-neo-and-the-acce.md](../../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md)

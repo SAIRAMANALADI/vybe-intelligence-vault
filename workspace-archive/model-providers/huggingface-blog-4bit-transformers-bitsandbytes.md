@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
 ## Local Vault File
 
-Path: [huggingface-blog-4bit-transformers-bitsandbytes.md](file:///../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)
+Path: [making-llms-even-more-accessible-with-bitsandbytes.md](../../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md)

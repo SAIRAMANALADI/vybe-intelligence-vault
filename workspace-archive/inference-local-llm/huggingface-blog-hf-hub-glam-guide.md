@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Hugging Face Hub for Galleries, Libraries, Archives and Museums
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-hub-glam-guide
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-hub-glam-guide.md](file:///../../ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)
+Path: [the-hugging-face-hub-for-galleries-libraries-archi.md](../../ai/models/the-hugging-face-hub-for-galleries-libraries-archi.md)

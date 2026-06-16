@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/chinese-language-blog
 
 ## Local Vault File
 
-Path: [huggingface-blog-chinese-language-blog.md](file:///../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)
+Path: [introducing-huggingface-blog-for-chinese-speakers.md](../../ai/models/introducing-huggingface-blog-for-chinese-speakers.md)

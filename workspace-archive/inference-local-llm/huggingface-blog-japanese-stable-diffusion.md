@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Japanese Stable Diffusion
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/japanese-stable-diffusion
 
 ## Local Vault File
 
-Path: [huggingface-blog-japanese-stable-diffusion.md](file:///../../ai/models/japanese-stable-diffusion.md)
+Path: [japanese-stable-diffusion.md](../../ai/models/japanese-stable-diffusion.md)

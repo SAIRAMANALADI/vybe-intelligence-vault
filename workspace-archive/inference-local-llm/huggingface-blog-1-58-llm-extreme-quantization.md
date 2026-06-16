@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-tuning LLMs to 1.58bit: extreme quantization made easy
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/1_58_llm_extreme_quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-1-58-llm-extreme-quantization.md](file:///../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)
+Path: [fine-tuning-llms-to-1-58bit-extreme-quantization-m.md](../../ai/models/fine-tuning-llms-to-1-58bit-extreme-quantization-m.md)

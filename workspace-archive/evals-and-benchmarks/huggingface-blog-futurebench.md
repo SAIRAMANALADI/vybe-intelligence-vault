@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Back to The Future: Evaluating AI Agents on Predicting Future Events
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/futurebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-futurebench.md](file:///../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)
+Path: [back-to-the-future-evaluating-ai-agents-on-predict.md](../../ai/agents/back-to-the-future-evaluating-ai-agents-on-predict.md)

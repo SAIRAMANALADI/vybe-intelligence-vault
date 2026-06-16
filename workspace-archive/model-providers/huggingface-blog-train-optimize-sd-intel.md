@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimizing Stable Diffusion for Intel CPUs with NNCF and 🤗 Optimum
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-optimize-sd-intel
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-optimize-sd-intel.md](file:///../../ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nn.md)
+Path: [optimizing-stable-diffusion-for-intel-cpus-with-nn.md](../../ai/models/optimizing-stable-diffusion-for-intel-cpus-with-nn.md)

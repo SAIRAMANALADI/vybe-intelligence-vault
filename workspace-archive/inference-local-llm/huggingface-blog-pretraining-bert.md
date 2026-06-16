@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Pre-Train BERT with Hugging Face Transformers and Habana Gaudi
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pretraining-bert
 
 ## Local Vault File
 
-Path: [huggingface-blog-pretraining-bert.md](file:///../../ai/models/pre-train-bert-with-hugging-face-transformers-and.md)
+Path: [pre-train-bert-with-hugging-face-transformers-and.md](../../ai/models/pre-train-bert-with-hugging-face-transformers-and.md)

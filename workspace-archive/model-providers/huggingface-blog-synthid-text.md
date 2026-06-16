@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing SynthID Text
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/synthid-text
 
 ## Local Vault File
 
-Path: [huggingface-blog-synthid-text.md](file:///../../ai/models/introducing-synthid-text.md)
+Path: [introducing-synthid-text.md](../../ai/models/introducing-synthid-text.md)

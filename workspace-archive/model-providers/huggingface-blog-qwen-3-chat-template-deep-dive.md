@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # The 4 Things Qwen-3’s Chat Template Teaches Us
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/qwen-3-chat-template-deep-dive
 
 ## Local Vault File
 
-Path: [huggingface-blog-qwen-3-chat-template-deep-dive.md](file:///../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)
+Path: [the-4-things-qwen-3s-chat-template-teaches-us.md](../../ai/models/the-4-things-qwen-3s-chat-template-teaches-us.md)

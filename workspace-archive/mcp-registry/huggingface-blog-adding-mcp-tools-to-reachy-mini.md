@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Adding MCP Tools to Reachy Mini
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini
 
 ## Local Vault File
 
-Path: [huggingface-blog-adding-mcp-tools-to-reachy-mini.md](file:///../../ai/models/adding-mcp-tools-to-reachy-mini.md)
+Path: [adding-mcp-tools-to-reachy-mini.md](../../ai/models/adding-mcp-tools-to-reachy-mini.md)

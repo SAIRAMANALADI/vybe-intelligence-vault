@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/torch-profiler
 
 ## Local Vault File
 
-Path: [huggingface-blog-torch-profiler.md](file:///../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)
+Path: [profiling-in-pytorch-part-1-a-beginner-s-guide-to.md](../../ai/models/profiling-in-pytorch-part-1-a-beginner-s-guide-to.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # PaliGemma 2 Mix - New Instruction Vision Language Models by Google
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/paligemma2mix
 
 ## Local Vault File
 
-Path: [huggingface-blog-paligemma2mix.md](file:///../../ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md)
+Path: [paligemma-2-mix-new-instruction-vision-language-mo.md](../../ai/models/paligemma-2-mix-new-instruction-vision-language-mo.md)

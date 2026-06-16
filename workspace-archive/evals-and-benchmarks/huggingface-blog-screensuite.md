@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # ScreenSuite - The most comprehensive evaluation suite for GUI Agents!
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/screensuite
 
 ## Local Vault File
 
-Path: [huggingface-blog-screensuite.md](file:///../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)
+Path: [screensuite-the-most-comprehensive-evaluation-suit.md](../../ai/agents/screensuite-the-most-comprehensive-evaluation-suit.md)

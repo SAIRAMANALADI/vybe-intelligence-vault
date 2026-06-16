@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ettin Suite: SoTA Paired Encoders and Decoders
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ettin
 
 ## Local Vault File
 
-Path: [huggingface-blog-ettin.md](file:///../../ai/models/ettin-suite-sota-paired-encoders-and-decoders.md)
+Path: [ettin-suite-sota-paired-encoders-and-decoders.md](../../ai/models/ettin-suite-sota-paired-encoders-and-decoders.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome fastai to the Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fastai
 
 ## Local Vault File
 
-Path: [huggingface-blog-fastai.md](file:///../../ai/models/welcome-fastai-to-the-hugging-face-hub.md)
+Path: [welcome-fastai-to-the-hugging-face-hub.md](../../ai/models/welcome-fastai-to-the-hugging-face-hub.md)

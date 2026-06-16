@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Mixture of Experts (MoEs) in Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/moe-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-moe-transformers.md](file:///../../ai/models/mixture-of-experts-moes-in-transformers.md)
+Path: [mixture-of-experts-moes-in-transformers.md](../../ai/models/mixture-of-experts-moes-in-transformers.md)

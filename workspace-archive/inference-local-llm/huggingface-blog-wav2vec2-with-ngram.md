@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Boosting Wav2Vec2 with n-grams in 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wav2vec2-with-ngram
 
 ## Local Vault File
 
-Path: [huggingface-blog-wav2vec2-with-ngram.md](file:///../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)
+Path: [boosting-wav2vec2-with-n-grams-in-transformers.md](../../ai/models/boosting-wav2vec2-with-n-grams-in-transformers.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open R1: How to use OlympicCoder locally for coding
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/olympic-coder-lmstudio
 
 ## Local Vault File
 
-Path: [huggingface-blog-olympic-coder-lmstudio.md](file:///../../ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)
+Path: [open-r1-how-to-use-olympiccoder-locally-for-coding.md](../../ai/models/open-r1-how-to-use-olympiccoder-locally-for-coding.md)

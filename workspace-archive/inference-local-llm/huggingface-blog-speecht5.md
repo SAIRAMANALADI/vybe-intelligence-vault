@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Speech Synthesis, Recognition, and More With SpeechT5
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/speecht5
 
 ## Local Vault File
 
-Path: [huggingface-blog-speecht5.md](file:///../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)
+Path: [speech-synthesis-recognition-and-more-with-speecht.md](../../ai/models/speech-synthesis-recognition-and-more-with-speecht.md)

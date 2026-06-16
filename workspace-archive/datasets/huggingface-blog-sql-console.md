@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the SQL Console on Datasets
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/sql-console
 
 ## Local Vault File
 
-Path: [huggingface-blog-sql-console.md](file:///../../ai/models/introducing-the-sql-console-on-datasets.md)
+Path: [introducing-the-sql-console-on-datasets.md](../../ai/models/introducing-the-sql-console-on-datasets.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolVLA: Efficient Vision-Language-Action Model trained on Lerobot Community Data
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/smolvla
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvla.md](file:///../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)
+Path: [smolvla-efficient-vision-language-action-model-tra.md](../../ai/models/smolvla-efficient-vision-language-action-model-tra.md)

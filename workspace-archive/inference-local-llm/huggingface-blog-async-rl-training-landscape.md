@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/async-rl-training-landscape
 
 ## Local Vault File
 
-Path: [huggingface-blog-async-rl-training-landscape.md](file:///../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)
+Path: [keep-the-tokens-flowing-lessons-from-16-open-sourc.md](../../ai/models/keep-the-tokens-flowing-lessons-from-16-open-sourc.md)

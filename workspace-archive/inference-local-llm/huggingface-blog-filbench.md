@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🇵🇭 FilBench - Can LLMs Understand and Generate Filipino?
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/filbench
 
 ## Local Vault File
 
-Path: [huggingface-blog-filbench.md](file:///../../ai/models/filbench-can-llms-understand-and-generate-filipino.md)
+Path: [filbench-can-llms-understand-and-generate-filipino.md](../../ai/models/filbench-can-llms-understand-and-generate-filipino.md)

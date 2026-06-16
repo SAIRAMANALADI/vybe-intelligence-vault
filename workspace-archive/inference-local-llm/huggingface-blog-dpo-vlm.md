@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Preference Optimization for Vision Language Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dpo_vlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-dpo-vlm.md](file:///../../ai/models/preference-optimization-for-vision-language-models.md)
+Path: [preference-optimization-for-vision-language-models.md](../../ai/models/preference-optimization-for-vision-language-models.md)

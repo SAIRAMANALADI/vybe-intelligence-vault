@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Enterprise Scenarios Leaderboard: a Leaderboard for Real World Use Cases
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-patronus
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-patronus.md](file:///../../ai/models/introducing-the-enterprise-scenarios-leaderboard-a.md)
+Path: [introducing-the-enterprise-scenarios-leaderboard-a.md](../../ai/models/introducing-the-enterprise-scenarios-leaderboard-a.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Optimum: The Optimization Toolkit for Transformers at Scale
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hardware-partners-program
 
 ## Local Vault File
 
-Path: [huggingface-blog-hardware-partners-program.md](file:///../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)
+Path: [introducing-optimum-the-optimization-toolkit-for-t.md](../../ai/models/introducing-optimum-the-optimization-toolkit-for-t.md)

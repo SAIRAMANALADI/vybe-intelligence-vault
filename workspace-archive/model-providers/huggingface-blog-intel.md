@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Intel and Hugging Face Partner to Democratize Machine Learning Hardware Acceleration
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel.md](file:///../../ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)
+Path: [intel-and-hugging-face-partner-to-democratize-mach.md](../../ai/models/intel-and-hugging-face-partner-to-democratize-mach.md)

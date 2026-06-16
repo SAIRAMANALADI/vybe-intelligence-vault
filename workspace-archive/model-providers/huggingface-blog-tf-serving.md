@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster TensorFlow models in Hugging Face Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tf-serving
 
 ## Local Vault File
 
-Path: [huggingface-blog-tf-serving.md](file:///../../ai/models/faster-tensorflow-models-in-hugging-face-transform.md)
+Path: [faster-tensorflow-models-in-hugging-face-transform.md](../../ai/models/faster-tensorflow-models-in-hugging-face-transform.md)

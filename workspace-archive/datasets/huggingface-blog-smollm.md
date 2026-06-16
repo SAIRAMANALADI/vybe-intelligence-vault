@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolLM - blazingly fast and remarkably powerful
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm
 
 ## Local Vault File
 
-Path: [huggingface-blog-smollm.md](file:///../../ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)
+Path: [smollm-blazingly-fast-and-remarkably-powerful.md](../../ai/models/smollm-blazingly-fast-and-remarkably-powerful.md)

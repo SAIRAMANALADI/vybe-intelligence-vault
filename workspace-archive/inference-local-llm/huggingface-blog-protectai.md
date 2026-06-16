@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/protectai
 
 ## Local Vault File
 
-Path: [huggingface-blog-protectai.md](file:///../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)
+Path: [hugging-face-teams-up-with-protect-ai-enhancing-mo.md](../../ai/models/hugging-face-teams-up-with-protect-ai-enhancing-mo.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making a web app generator with open ML models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/text-to-webapp
 
 ## Local Vault File
 
-Path: [huggingface-blog-text-to-webapp.md](file:///../../ai/models/making-a-web-app-generator-with-open-ml-models.md)
+Path: [making-a-web-app-generator-with-open-ml-models.md](../../ai/models/making-a-web-app-generator-with-open-ml-models.md)

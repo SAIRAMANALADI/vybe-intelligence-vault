@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing smolagents: simple agents that write actions in code.
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smolagents
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolagents.md](file:///../../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)
+Path: [introducing-smolagents-simple-agents-that-write-ac.md](../../ai/agents/introducing-smolagents-simple-agents-that-write-ac.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Falcon 2: An 11B parameter pretrained language model and VLM, trained on over 5000B tokens and 11 languages
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/falcon2-11b
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon2-11b.md](file:///../../ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)
+Path: [falcon-2-an-11b-parameter-pretrained-language-mode.md](../../ai/models/falcon-2-an-11b-parameter-pretrained-language-mode.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deep Learning with Proteins
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-learning-with-proteins
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-learning-with-proteins.md](file:///../../ai/models/deep-learning-with-proteins.md)
+Path: [deep-learning-with-proteins.md](../../ai/models/deep-learning-with-proteins.md)

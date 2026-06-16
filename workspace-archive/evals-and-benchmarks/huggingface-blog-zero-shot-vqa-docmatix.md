@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LAVE: Zero-shot VQA Evaluation on Docmatix with LLMs - Do We Still Need Fine-Tuning?
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/zero-shot-vqa-docmatix
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-shot-vqa-docmatix.md](file:///../../ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)
+Path: [lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md](../../ai/models/lave-zero-shot-vqa-evaluation-on-docmatix-with-llm.md)

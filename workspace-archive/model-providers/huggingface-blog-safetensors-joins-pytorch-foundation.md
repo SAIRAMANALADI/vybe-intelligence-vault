@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Safetensors is Joining the PyTorch Foundation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safetensors-joins-pytorch-found
 
 ## Local Vault File
 
-Path: [huggingface-blog-safetensors-joins-pytorch-foundation.md](file:///../../ai/models/safetensors-is-joining-the-pytorch-foundation.md)
+Path: [safetensors-is-joining-the-pytorch-foundation.md](../../ai/models/safetensors-is-joining-the-pytorch-foundation.md)

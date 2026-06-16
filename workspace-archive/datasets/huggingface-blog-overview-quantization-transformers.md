@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Overview of natively supported quantization schemes in 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/overview-quantization-transform
 
 ## Local Vault File
 
-Path: [huggingface-blog-overview-quantization-transformers.md](file:///../../ai/models/overview-of-natively-supported-quantization-scheme.md)
+Path: [overview-of-natively-supported-quantization-scheme.md](../../ai/models/overview-of-natively-supported-quantization-scheme.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Evaluating Audio Reasoning with Big Bench Audio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/big-bench-audio-release
 
 ## Local Vault File
 
-Path: [huggingface-blog-big-bench-audio-release.md](file:///../../ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)
+Path: [evaluating-audio-reasoning-with-big-bench-audio.md](../../ai/models/evaluating-audio-reasoning-with-big-bench-audio.md)

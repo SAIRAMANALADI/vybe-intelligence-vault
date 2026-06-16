@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Open Preference Dataset for Text-to-Image Generation by the 🤗 Community
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-preferences
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-preferences.md](file:///../../ai/models/open-preference-dataset-for-text-to-image-generati.md)
+Path: [open-preference-dataset-for-text-to-image-generati.md](../../ai/models/open-preference-dataset-for-text-to-image-generati.md)

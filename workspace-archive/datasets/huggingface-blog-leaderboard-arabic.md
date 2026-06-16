@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Open Arabic LLM Leaderboard
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-arabic
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-arabic.md](file:///../../ai/models/introducing-the-open-arabic-llm-leaderboard.md)
+Path: [introducing-the-open-arabic-llm-leaderboard.md](../../ai/models/introducing-the-open-arabic-llm-leaderboard.md)

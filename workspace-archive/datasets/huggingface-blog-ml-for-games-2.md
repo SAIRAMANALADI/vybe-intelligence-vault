@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI for Game Development: Creating a Farming Game in 5 Days. Part 2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ml-for-games-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-ml-for-games-2.md](file:///../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)
+Path: [ai-for-game-development-creating-a-farming-game-in.md](../../ai/models/ai-for-game-development-creating-a-farming-game-in.md)

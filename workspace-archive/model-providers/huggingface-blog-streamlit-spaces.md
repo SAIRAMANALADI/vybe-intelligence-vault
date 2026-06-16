@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hosting your Models and Datasets on Hugging Face Spaces using Streamlit
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/streamlit-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-streamlit-spaces.md](file:///../../ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)
+Path: [hosting-your-models-and-datasets-on-hugging-face-s.md](../../ai/models/hosting-your-models-and-datasets-on-hugging-face-s.md)

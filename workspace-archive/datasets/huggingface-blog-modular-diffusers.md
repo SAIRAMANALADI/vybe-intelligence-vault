@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/modular-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-modular-diffusers.md](file:///../../ai/models/introducing-modular-diffusers-composable-building.md)
+Path: [introducing-modular-diffusers-composable-building.md](../../ai/models/introducing-modular-diffusers-composable-building.md)

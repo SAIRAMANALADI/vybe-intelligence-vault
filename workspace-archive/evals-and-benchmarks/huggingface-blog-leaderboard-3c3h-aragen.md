@@ -19,7 +19,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Rethinking LLM Evaluation with 3C3H: AraGen Benchmark and Leaderboard
 
 ## Why This Is In The Archive
@@ -47,4 +46,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-3c3h-aragen.md](file:///../../ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)
+Path: [rethinking-llm-evaluation-with-3c3h-aragen-benchma.md](../../ai/rag/rethinking-llm-evaluation-with-3c3h-aragen-benchma.md)

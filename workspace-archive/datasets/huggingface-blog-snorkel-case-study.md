@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Snorkel AI x Hugging Face: unlock foundation models for enterprises
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/snorkel-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-snorkel-case-study.md](file:///../../ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)
+Path: [snorkel-ai-x-hugging-face-unlock-foundation-models.md](../../ai/models/snorkel-ai-x-hugging-face-unlock-foundation-models.md)

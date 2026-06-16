@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Get your VLM running in 3 simple steps on Intel CPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/openvino-vlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-openvino-vlm.md](file:///../../ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)
+Path: [get-your-vlm-running-in-3-simple-steps-on-intel-cp.md](../../ai/models/get-your-vlm-running-in-3-simple-steps-on-intel-cp.md)

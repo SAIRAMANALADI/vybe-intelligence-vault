@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-xlsr-wav2vec2
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-xlsr-wav2vec2.md](file:///../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)
+Path: [fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md](../../ai/models/fine-tune-xlsr-wav2vec2-for-low-resource-asr-with.md)

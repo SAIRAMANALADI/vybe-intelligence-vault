@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # mmBERT: ModernBERT goes Multilingual
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmbert
 
 ## Local Vault File
 
-Path: [huggingface-blog-mmbert.md](file:///../../ai/models/mmbert-modernbert-goes-multilingual.md)
+Path: [mmbert-modernbert-goes-multilingual.md](../../ai/models/mmbert-modernbert-goes-multilingual.md)

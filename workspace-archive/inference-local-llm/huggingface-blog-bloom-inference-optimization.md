@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimization story: Bloom inference
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-optimization
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-inference-optimization.md](file:///../../ai/models/optimization-story-bloom-inference.md)
+Path: [optimization-story-bloom-inference.md](../../ai/models/optimization-story-bloom-inference.md)

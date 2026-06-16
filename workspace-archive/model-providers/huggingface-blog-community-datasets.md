@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Data is better together: Enabling communities to collectively build better datasets together using Argilla and Hugging Face Spaces
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/community-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-community-datasets.md](file:///../../ai/models/data-is-better-together-enabling-communities-to-co.md)
+Path: [data-is-better-together-enabling-communities-to-co.md](../../ai/models/data-is-better-together-enabling-communities-to-co.md)

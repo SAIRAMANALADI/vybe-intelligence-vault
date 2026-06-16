@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Interactively explore your Huggingface dataset with one line of code
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/scalable-data-inspection
 
 ## Local Vault File
 
-Path: [huggingface-blog-scalable-data-inspection.md](file:///../../ai/models/interactively-explore-your-huggingface-dataset-wit.md)
+Path: [interactively-explore-your-huggingface-dataset-wit.md](../../ai/models/interactively-explore-your-huggingface-dataset-wit.md)

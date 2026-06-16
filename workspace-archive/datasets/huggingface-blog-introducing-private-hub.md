@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Private Hub: A New Way to Build With Machine Learning
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-private-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-private-hub.md](file:///../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)
+Path: [introducing-the-private-hub-a-new-way-to-build-wit.md](../../ai/models/introducing-the-private-hub-a-new-way-to-build-wit.md)

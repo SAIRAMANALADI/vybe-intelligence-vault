@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Putting RL back in RLHF
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/putting_rl_back_in_rlhf_with_rl
 
 ## Local Vault File
 
-Path: [huggingface-blog-putting-rl-back-in-rlhf-with-rloo.md](file:///../../ai/models/putting-rl-back-in-rlhf.md)
+Path: [putting-rl-back-in-rlhf.md](../../ai/models/putting-rl-back-in-rlhf.md)

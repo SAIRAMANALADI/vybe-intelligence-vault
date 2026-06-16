@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/setfit-absa
 
 ## Local Vault File
 
-Path: [huggingface-blog-setfit-absa.md](file:///../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)
+Path: [setfitabsa-few-shot-aspect-based-sentiment-analysi.md](../../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md)

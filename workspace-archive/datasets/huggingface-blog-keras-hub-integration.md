@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing New Hugging Face and KerasHub integration
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/keras-hub-integration
 
 ## Local Vault File
 
-Path: [huggingface-blog-keras-hub-integration.md](file:///../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)
+Path: [announcing-new-hugging-face-and-kerashub-integrati.md](../../ai/models/announcing-new-hugging-face-and-kerashub-integrati.md)

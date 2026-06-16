@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # TGI Multi-LoRA: Deploy Once, Serve 30 Models
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/multi-lora-serving
 
 ## Local Vault File
 
-Path: [huggingface-blog-multi-lora-serving.md](file:///../../ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)
+Path: [tgi-multi-lora-deploy-once-serve-30-models.md](../../ai/models/tgi-multi-lora-deploy-once-serve-30-models.md)

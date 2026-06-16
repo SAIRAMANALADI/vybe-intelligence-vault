@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Training Cluster as a Service - a new collaboration with NVIDIA
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nvidia-training-cluster
 
 ## Local Vault File
 
-Path: [huggingface-blog-nvidia-training-cluster.md](file:///../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)
+Path: [introducing-training-cluster-as-a-service-a-new-co.md](../../ai/models/introducing-training-cluster-as-a-service-a-new-co.md)

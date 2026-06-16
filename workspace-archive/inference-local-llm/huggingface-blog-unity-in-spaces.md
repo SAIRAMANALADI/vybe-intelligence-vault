@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to host a Unity game in a Space
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-in-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-unity-in-spaces.md](file:///../../ai/models/how-to-host-a-unity-game-in-a-space.md)
+Path: [how-to-host-a-unity-game-in-a-space.md](../../ai/models/how-to-host-a-unity-game-in-a-space.md)

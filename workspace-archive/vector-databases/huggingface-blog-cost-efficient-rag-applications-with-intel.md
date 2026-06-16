@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building Cost-Efficient Enterprise RAG applications with Intel Gaudi 2 and Intel Xeon
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/cost-efficient-rag-applications
 
 ## Local Vault File
 
-Path: [huggingface-blog-cost-efficient-rag-applications-with-intel.md](file:///../../ai/rag/building-cost-efficient-enterprise-rag-application.md)
+Path: [building-cost-efficient-enterprise-rag-application.md](../../ai/rag/building-cost-efficient-enterprise-rag-application.md)

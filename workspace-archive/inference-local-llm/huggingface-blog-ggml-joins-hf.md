@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # GGML and llama.cpp join HF to ensure the long-term progress of Local AI
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/ggml-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-ggml-joins-hf.md](file:///../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)
+Path: [ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md](../../ai/models/ggml-and-llama-cpp-join-hf-to-ensure-the-long-term.md)

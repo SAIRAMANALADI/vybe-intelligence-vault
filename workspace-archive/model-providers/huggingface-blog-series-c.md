@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # We Raised $100 Million for Open & Collaborative Machine Learning 🚀
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/series-c
 
 ## Local Vault File
 
-Path: [huggingface-blog-series-c.md](file:///../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)
+Path: [we-raised-100-million-for-open-collaborative-machi.md](../../ai/models/we-raised-100-million-for-open-collaborative-machi.md)

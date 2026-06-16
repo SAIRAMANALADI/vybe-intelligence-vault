@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Google Cloud TPUs made available to Hugging Face users
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tpu-inference-endpoints-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-tpu-inference-endpoints-spaces.md](file:///../../ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)
+Path: [google-cloud-tpus-made-available-to-hugging-face-u.md](../../ai/models/google-cloud-tpus-made-available-to-hugging-face-u.md)

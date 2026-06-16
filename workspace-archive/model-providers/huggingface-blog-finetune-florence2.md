@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/finetune-florence2
 
 ## Local Vault File
 
-Path: [huggingface-blog-finetune-florence2.md](file:///../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)
+Path: [fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md](../../ai/models/fine-tuning-florence-2-microsoft-s-cutting-edge-vi.md)

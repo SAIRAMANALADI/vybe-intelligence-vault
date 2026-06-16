@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training CodeParrot 🦜 from Scratch
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/codeparrot
 
 ## Local Vault File
 
-Path: [huggingface-blog-codeparrot.md](file:///../../ai/models/training-codeparrot-from-scratch.md)
+Path: [training-codeparrot-from-scratch.md](../../ai/models/training-codeparrot-from-scratch.md)

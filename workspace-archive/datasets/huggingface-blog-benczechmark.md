@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🇨🇿 BenCzechMark - Can your LLM Understand Czech?
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/benczechmark
 
 ## Local Vault File
 
-Path: [huggingface-blog-benczechmark.md](file:///../../ai/models/benczechmark-can-your-llm-understand-czech.md)
+Path: [benczechmark-can-your-llm-understand-czech.md](../../ai/models/benczechmark-can-your-llm-understand-czech.md)

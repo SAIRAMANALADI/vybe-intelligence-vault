@@ -18,7 +18,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # CyberSecEval 2 - A Comprehensive Evaluation Framework for Cybersecurity Risks and Capabilities of Large Language Models
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-llamaguard
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-llamaguard.md](file:///../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)
+Path: [cyberseceval-2-a-comprehensive-evaluation-framewor.md](../../ai/models/cyberseceval-2-a-comprehensive-evaluation-framewor.md)

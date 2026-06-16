@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 4M Models Scanned: Protect AI + Hugging Face 6 Months In
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pai-6-month
 
 ## Local Vault File
 
-Path: [huggingface-blog-pai-6-month.md](file:///../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months.md)
+Path: [4m-models-scanned-protect-ai-hugging-face-6-months.md](../../ai/models/4m-models-scanned-protect-ai-hugging-face-6-months.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Nyströmformer: Approximating self-attention in linear time and memory via the Nyström method
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/nystromformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-nystromformer.md](file:///../../ai/models/nystromformer-approximating-self-attention-in-line.md)
+Path: [nystromformer-approximating-self-attention-in-line.md](../../ai/models/nystromformer-approximating-self-attention-in-line.md)

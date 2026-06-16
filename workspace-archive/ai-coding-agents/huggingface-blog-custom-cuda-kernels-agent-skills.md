@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Custom Kernels for All from Codex and Claude
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/custom-cuda-kernels-agent-skill
 
 ## Local Vault File
 
-Path: [huggingface-blog-custom-cuda-kernels-agent-skills.md](file:///../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)
+Path: [custom-kernels-for-all-from-codex-and-claude.md](../../ai/models/custom-kernels-for-all-from-codex-and-claude.md)

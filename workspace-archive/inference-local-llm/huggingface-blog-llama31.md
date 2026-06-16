@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Llama 3.1 - 405B, 70B & 8B with multilinguality and long context
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama31
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama31.md](file:///../../ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md)
+Path: [llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md](../../ai/models/llama-3-1-405b-70b-8b-with-multilinguality-and-lon.md)

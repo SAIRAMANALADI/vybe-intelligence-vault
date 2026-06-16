@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Waypoint-1: Real-time interactive video diffusion from Overworld
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/waypoint-1
 
 ## Local Vault File
 
-Path: [huggingface-blog-waypoint-1.md](file:///../../ai/models/introducing-waypoint-1-real-time-interactive-video.md)
+Path: [introducing-waypoint-1-real-time-interactive-video.md](../../ai/models/introducing-waypoint-1-real-time-interactive-video.md)

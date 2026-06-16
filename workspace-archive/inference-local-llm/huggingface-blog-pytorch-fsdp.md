@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate Large Model Training using PyTorch Fully Sharded Data Parallel
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-fsdp
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-fsdp.md](file:///../../ai/models/accelerate-large-model-training-using-pytorch-full.md)
+Path: [accelerate-large-model-training-using-pytorch-full.md](../../ai/models/accelerate-large-model-training-using-pytorch-full.md)

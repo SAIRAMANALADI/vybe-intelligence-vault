@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From OpenAI to Open LLMs with Messages API on Hugging Face
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/tgi-messages-api
 
 ## Local Vault File
 
-Path: [huggingface-blog-tgi-messages-api.md](file:///../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)
+Path: [from-openai-to-open-llms-with-messages-api-on-hugg.md](../../ai/models/from-openai-to-open-llms-with-messages-api-on-hugg.md)

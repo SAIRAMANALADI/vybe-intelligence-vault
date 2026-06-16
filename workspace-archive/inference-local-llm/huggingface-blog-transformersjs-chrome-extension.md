@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to Use Transformers.js in a Chrome Extension
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformersjs-chrome-extension
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformersjs-chrome-extension.md](file:///../../ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)
+Path: [how-to-use-transformers-js-in-a-chrome-extension.md](../../ai/models/how-to-use-transformers-js-in-a-chrome-extension.md)

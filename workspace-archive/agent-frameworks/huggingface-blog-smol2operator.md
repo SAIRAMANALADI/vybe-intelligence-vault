@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Smol2Operator: Post-Training GUI Agents for Computer Use
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/smol2operator
 
 ## Local Vault File
 
-Path: [huggingface-blog-smol2operator.md](file:///../../ai/agents/smol2operator-post-training-gui-agents-for-compute.md)
+Path: [smol2operator-post-training-gui-agents-for-compute.md](../../ai/agents/smol2operator-post-training-gui-agents-for-compute.md)

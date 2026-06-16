@@ -15,7 +15,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Upskill your LLMs With Gradio MCP Servers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-servers
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-mcp-servers.md](file:///../../ai/models/upskill-your-llms-with-gradio-mcp-servers.md)
+Path: [upskill-your-llms-with-gradio-mcp-servers.md](../../ai/models/upskill-your-llms-with-gradio-mcp-servers.md)

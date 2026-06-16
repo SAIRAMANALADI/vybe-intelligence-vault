@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy Meta Llama 3.1 405B on Google Cloud Vertex AI
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama31-on-vertex-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama31-on-vertex-ai.md](file:///../../ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)
+Path: [deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md](../../ai/models/deploy-meta-llama-3-1-405b-on-google-cloud-vertex.md)

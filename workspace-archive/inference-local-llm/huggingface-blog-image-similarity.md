@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Image Similarity with Hugging Face Datasets and Transformers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/image-similarity
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-similarity.md](file:///../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)
+Path: [image-similarity-with-hugging-face-datasets-and-tr.md](../../ai/models/image-similarity-with-hugging-face-datasets-and-tr.md)

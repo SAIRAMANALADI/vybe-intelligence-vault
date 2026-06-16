@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face's TensorFlow Philosophy
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tensorflow-philosophy
 
 ## Local Vault File
 
-Path: [huggingface-blog-tensorflow-philosophy.md](file:///../../ai/models/hugging-face-s-tensorflow-philosophy.md)
+Path: [hugging-face-s-tensorflow-philosophy.md](../../ai/models/hugging-face-s-tensorflow-philosophy.md)

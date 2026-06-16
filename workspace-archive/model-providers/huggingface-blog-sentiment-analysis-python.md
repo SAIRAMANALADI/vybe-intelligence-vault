@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Getting Started with Sentiment Analysis using Python
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sentiment-analysis-python
 
 ## Local Vault File
 
-Path: [huggingface-blog-sentiment-analysis-python.md](file:///../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)
+Path: [getting-started-with-sentiment-analysis-using-pyth.md](../../ai/models/getting-started-with-sentiment-analysis-using-pyth.md)

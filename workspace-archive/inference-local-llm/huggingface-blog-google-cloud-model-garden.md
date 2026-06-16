@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Making thousands of open LLMs bloom in the Vertex AI Model Garden
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/google-cloud-model-garden
 
 ## Local Vault File
 
-Path: [huggingface-blog-google-cloud-model-garden.md](file:///../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)
+Path: [making-thousands-of-open-llms-bloom-in-the-vertex.md](../../ai/models/making-thousands-of-open-llms-bloom-in-the-vertex.md)

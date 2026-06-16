@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Bringing serverless GPU inference to Hugging Face users
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/cloudflare-workers-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-cloudflare-workers-ai.md](file:///../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)
+Path: [bringing-serverless-gpu-inference-to-hugging-face.md](../../ai/models/bringing-serverless-gpu-inference-to-hugging-face.md)

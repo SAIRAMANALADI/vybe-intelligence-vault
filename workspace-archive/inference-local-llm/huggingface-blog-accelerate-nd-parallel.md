@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerate ND-Parallel: A guide to Efficient Multi-GPU Training
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerate-nd-parallel
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerate-nd-parallel.md](file:///../../ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)
+Path: [accelerate-nd-parallel-a-guide-to-efficient-multi.md](../../ai/models/accelerate-nd-parallel-a-guide-to-efficient-multi.md)

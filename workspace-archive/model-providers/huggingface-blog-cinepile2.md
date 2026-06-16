@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CinePile 2.0 - making stronger datasets with adversarial refinement
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/cinepile2
 
 ## Local Vault File
 
-Path: [huggingface-blog-cinepile2.md](file:///../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)
+Path: [cinepile-2-0-making-stronger-datasets-with-adversa.md](../../ai/models/cinepile-2-0-making-stronger-datasets-with-adversa.md)

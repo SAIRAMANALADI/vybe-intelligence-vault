@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating over 130,000 Hugging Face models with ONNX Runtime
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ort-accelerating-hf-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-ort-accelerating-hf-models.md](file:///../../ai/models/accelerating-over-130000-hugging-face-models-with.md)
+Path: [accelerating-over-130000-hugging-face-models-with.md](../../ai/models/accelerating-over-130000-hugging-face-models-with.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ethics and Society Newsletter #5: Hugging Face Goes To Washington and Other Summer 2023 Musings
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-5.md](file:///../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)
+Path: [ethics-and-society-newsletter-5-hugging-face-goes.md](../../ai/models/ethics-and-society-newsletter-5-hugging-face-goes.md)

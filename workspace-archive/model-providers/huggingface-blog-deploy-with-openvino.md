@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Optimize and deploy with Optimum-Intel and OpenVINO GenAI
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-with-openvino
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-with-openvino.md](file:///../../ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)
+Path: [optimize-and-deploy-with-optimum-intel-and-openvin.md](../../ai/models/optimize-and-deploy-with-optimum-intel-and-openvin.md)

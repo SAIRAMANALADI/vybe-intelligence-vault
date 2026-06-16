@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Benchmarking Language Model Performance on 5th Gen Xeon at GCP
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-gcp-c4
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-gcp-c4.md](file:///../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)
+Path: [benchmarking-language-model-performance-on-5th-gen.md](../../ai/models/benchmarking-language-model-performance-on-5th-gen.md)

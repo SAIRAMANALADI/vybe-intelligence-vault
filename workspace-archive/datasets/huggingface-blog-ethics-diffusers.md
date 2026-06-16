@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Ethical Guidelines for developing the Diffusers library
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-diffusers
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-diffusers.md](file:///../../ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)
+Path: [ethical-guidelines-for-developing-the-diffusers-li.md](../../ai/models/ethical-guidelines-for-developing-the-diffusers-li.md)

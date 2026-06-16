@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Scaling AI-based Data Processing with Hugging Face + Dask
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dask-scaling
 
 ## Local Vault File
 
-Path: [huggingface-blog-dask-scaling.md](file:///../../ai/models/scaling-ai-based-data-processing-with-hugging-face.md)
+Path: [scaling-ai-based-data-processing-with-hugging-face.md](../../ai/models/scaling-ai-based-data-processing-with-hugging-face.md)

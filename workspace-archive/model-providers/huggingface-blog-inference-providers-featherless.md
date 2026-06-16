@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Featherless AI on Hugging Face Inference Providers 🔥
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-featherless
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-featherless.md](file:///../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)
+Path: [featherless-ai-on-hugging-face-inference-providers.md](../../ai/models/featherless-ai-on-hugging-face-inference-providers.md)

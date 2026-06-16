@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Visual Document Retrieval Goes Multilingual
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/vdr-2b-multilingual
 
 ## Local Vault File
 
-Path: [huggingface-blog-vdr-2b-multilingual.md](file:///../../ai/models/visual-document-retrieval-goes-multilingual.md)
+Path: [visual-document-retrieval-goes-multilingual.md](../../ai/models/visual-document-retrieval-goes-multilingual.md)

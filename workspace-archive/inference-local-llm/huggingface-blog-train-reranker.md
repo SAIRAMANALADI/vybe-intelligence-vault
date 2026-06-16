@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training and Finetuning Reranker Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-reranker
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-reranker.md](file:///../../ai/models/training-and-finetuning-reranker-models-with-sente.md)
+Path: [training-and-finetuning-reranker-models-with-sente.md](../../ai/models/training-and-finetuning-reranker-models-with-sente.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Würstchen: Fast Diffusion for Image Generation
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/wuerstchen
 
 ## Local Vault File
 
-Path: [huggingface-blog-wuerstchen.md](file:///../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)
+Path: [introducing-wurstchen-fast-diffusion-for-image-gen.md](../../ai/models/introducing-wurstchen-fast-diffusion-for-image-gen.md)

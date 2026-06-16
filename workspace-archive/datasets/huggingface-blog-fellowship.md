@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Announcing the Hugging Face Fellowship Program
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fellowship
 
 ## Local Vault File
 
-Path: [huggingface-blog-fellowship.md](file:///../../ai/models/announcing-the-hugging-face-fellowship-program.md)
+Path: [announcing-the-hugging-face-fellowship-program.md](../../ai/models/announcing-the-hugging-face-fellowship-program.md)

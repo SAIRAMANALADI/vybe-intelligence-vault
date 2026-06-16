@@ -15,7 +15,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Five Big Improvements to Gradio MCP Servers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gradio-mcp-updates
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-mcp-updates.md](file:///../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)
+Path: [five-big-improvements-to-gradio-mcp-servers.md](../../ai/models/five-big-improvements-to-gradio-mcp-servers.md)

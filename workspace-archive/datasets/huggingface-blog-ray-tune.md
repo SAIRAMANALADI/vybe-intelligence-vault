@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hyperparameter Search with Transformers and Ray Tune
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ray-tune
 
 ## Local Vault File
 
-Path: [huggingface-blog-ray-tune.md](file:///../../ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)
+Path: [hyperparameter-search-with-transformers-and-ray-tu.md](../../ai/models/hyperparameter-search-with-transformers-and-ray-tu.md)

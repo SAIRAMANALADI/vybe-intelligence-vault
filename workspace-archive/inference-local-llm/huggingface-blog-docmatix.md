@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Docmatix - a huge dataset for Document Visual Question Answering
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/docmatix
 
 ## Local Vault File
 
-Path: [huggingface-blog-docmatix.md](file:///../../ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)
+Path: [docmatix-a-huge-dataset-for-document-visual-questi.md](../../ai/models/docmatix-a-huge-dataset-for-document-visual-questi.md)

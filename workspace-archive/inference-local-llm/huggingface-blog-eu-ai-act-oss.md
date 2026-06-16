@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Policy @🤗: Open ML Considerations in the EU AI Act
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/eu-ai-act-oss
 
 ## Local Vault File
 
-Path: [huggingface-blog-eu-ai-act-oss.md](file:///../../ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act.md)
+Path: [ai-policy-open-ml-considerations-in-the-eu-ai-act.md](../../ai/models/ai-policy-open-ml-considerations-in-the-eu-ai-act.md)

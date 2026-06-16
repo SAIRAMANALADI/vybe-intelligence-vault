@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy LLMs with Hugging Face Inference Endpoints
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-endpoints-llm
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-endpoints-llm.md](file:///../../ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)
+Path: [deploy-llms-with-hugging-face-inference-endpoints.md](../../ai/models/deploy-llms-with-hugging-face-inference-endpoints.md)

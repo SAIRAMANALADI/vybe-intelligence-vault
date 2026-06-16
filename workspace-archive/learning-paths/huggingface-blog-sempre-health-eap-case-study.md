@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/sempre-health-eap-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-sempre-health-eap-case-study.md](file:///../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)
+Path: [how-sempre-health-is-leveraging-the-expert-acceler.md](../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Technology Behind BLOOM Training
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/bloom-megatron-deepspeed
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-megatron-deepspeed.md](file:///../../ai/models/the-technology-behind-bloom-training.md)
+Path: [the-technology-behind-bloom-training.md](../../ai/models/the-technology-behind-bloom-training.md)

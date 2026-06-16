@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Zero-shot image segmentation with CLIPSeg
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/clipseg-zero-shot
 
 ## Local Vault File
 
-Path: [huggingface-blog-clipseg-zero-shot.md](file:///../../ai/models/zero-shot-image-segmentation-with-clipseg.md)
+Path: [zero-shot-image-segmentation-with-clipseg.md](../../ai/models/zero-shot-image-segmentation-with-clipseg.md)

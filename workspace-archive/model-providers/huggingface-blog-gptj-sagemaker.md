@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gptj-sagemaker
 
 ## Local Vault File
 
-Path: [huggingface-blog-gptj-sagemaker.md](file:///../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)
+Path: [deploy-gpt-j-6b-for-inference-using-hugging-face-t.md](../../ai/models/deploy-gpt-j-6b-for-inference-using-hugging-face-t.md)

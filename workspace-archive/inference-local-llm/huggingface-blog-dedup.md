@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Large-scale Near-deduplication Behind BigCode
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dedup
 
 ## Local Vault File
 
-Path: [huggingface-blog-dedup.md](file:///../../ai/models/large-scale-near-deduplication-behind-bigcode.md)
+Path: [large-scale-near-deduplication-behind-bigcode.md](../../ai/models/large-scale-near-deduplication-behind-bigcode.md)

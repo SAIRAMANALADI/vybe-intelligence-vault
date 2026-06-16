@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ethics and Society Newsletter #4: Bias in Text-to-Image Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ethics-soc-4
 
 ## Local Vault File
 
-Path: [huggingface-blog-ethics-soc-4.md](file:///../../ai/models/ethics-and-society-newsletter-4-bias-in-text-to-im.md)
+Path: [ethics-and-society-newsletter-4-bias-in-text-to-im.md](../../ai/models/ethics-and-society-newsletter-4-bias-in-text-to-im.md)

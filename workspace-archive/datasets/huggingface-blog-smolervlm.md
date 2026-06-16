@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolVLM Grows Smaller – Introducing the 256M & 500M Models!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolervlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolervlm.md](file:///../../ai/models/smolvlm-grows-smaller-introducing-the-256m-500m-mo.md)
+Path: [smolvlm-grows-smaller-introducing-the-256m-500m-mo.md](../../ai/models/smolvlm-grows-smaller-introducing-the-256m-500m-mo.md)

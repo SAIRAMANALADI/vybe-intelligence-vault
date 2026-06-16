@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CodeGemma - an official Google release for code LLMs
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/codegemma
 
 ## Local Vault File
 
-Path: [huggingface-blog-codegemma.md](file:///../../ai/models/codegemma-an-official-google-release-for-code-llms.md)
+Path: [codegemma-an-official-google-release-for-code-llms.md](../../ai/models/codegemma-an-official-google-release-for-code-llms.md)

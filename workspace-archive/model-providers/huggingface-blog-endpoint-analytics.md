@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The New and Fresh analytics in Inference Endpoints
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/endpoint-analytics
 
 ## Local Vault File
 
-Path: [huggingface-blog-endpoint-analytics.md](file:///../../ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)
+Path: [the-new-and-fresh-analytics-in-inference-endpoints.md](../../ai/models/the-new-and-fresh-analytics-in-inference-endpoints.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training and Finetuning Sparse Embedding Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-sparse-encoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-sparse-encoder.md](file:///../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)
+Path: [training-and-finetuning-sparse-embedding-models-wi.md](../../ai/models/training-and-finetuning-sparse-embedding-models-wi.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Results of the Open Source AI Game Jam
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/game-jam-first-edition-results
 
 ## Local Vault File
 
-Path: [huggingface-blog-game-jam-first-edition-results.md](file:///../../ai/models/results-of-the-open-source-ai-game-jam.md)
+Path: [results-of-the-open-source-ai-game-jam.md](../../ai/models/results-of-the-open-source-ai-game-jam.md)

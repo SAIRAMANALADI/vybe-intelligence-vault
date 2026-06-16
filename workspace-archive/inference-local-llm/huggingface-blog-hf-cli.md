@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Say hello to `hf`: a faster, friendlier Hugging Face CLI ✨
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/hf-cli
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-cli.md](file:///../../ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-c.md)
+Path: [say-hello-to-hf-a-faster-friendlier-hugging-face-c.md](../../ai/models/say-hello-to-hf-a-faster-friendlier-hugging-face-c.md)

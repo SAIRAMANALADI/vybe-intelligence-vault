@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/idefics
 
 ## Local Vault File
 
-Path: [huggingface-blog-idefics.md](file:///../../ai/models/introducing-idefics-an-open-reproduction-of-state.md)
+Path: [introducing-idefics-an-open-reproduction-of-state.md](../../ai/models/introducing-idefics-an-open-reproduction-of-state.md)

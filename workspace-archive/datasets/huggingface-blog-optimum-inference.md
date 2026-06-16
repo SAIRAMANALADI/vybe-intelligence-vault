@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerated Inference with Optimum and Transformers Pipelines
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/optimum-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-optimum-inference.md](file:///../../ai/models/accelerated-inference-with-optimum-and-transformer.md)
+Path: [accelerated-inference-with-optimum-and-transformer.md](../../ai/models/accelerated-inference-with-optimum-and-transformer.md)

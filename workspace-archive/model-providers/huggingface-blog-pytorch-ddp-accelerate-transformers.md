@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From PyTorch DDP to Accelerate to Trainer, mastery of distributed training with ease
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/pytorch-ddp-accelerate-transfor
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-ddp-accelerate-transformers.md](file:///../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)
+Path: [from-pytorch-ddp-to-accelerate-to-trainer-mastery.md](../../ai/models/from-pytorch-ddp-to-accelerate-to-trainer-mastery.md)

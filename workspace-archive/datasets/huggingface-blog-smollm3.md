@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolLM3: smol, multilingual, long-context reasoner
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smollm3
 
 ## Local Vault File
 
-Path: [huggingface-blog-smollm3.md](file:///../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)
+Path: [smollm3-smol-multilingual-long-context-reasoner.md](../../ai/models/smollm3-smol-multilingual-long-context-reasoner.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Zero-shot image-to-text generation with BLIP-2
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/blip-2
 
 ## Local Vault File
 
-Path: [huggingface-blog-blip-2.md](file:///../../ai/models/zero-shot-image-to-text-generation-with-blip-2.md)
+Path: [zero-shot-image-to-text-generation-with-blip-2.md](../../ai/models/zero-shot-image-to-text-generation-with-blip-2.md)

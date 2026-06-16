@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-livecodebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-livecodebench.md](file:///../../ai/models/introducing-the-livecodebench-leaderboard-holistic.md)
+Path: [introducing-the-livecodebench-leaderboard-holistic.md](../../ai/models/introducing-the-livecodebench-leaderboard-holistic.md)

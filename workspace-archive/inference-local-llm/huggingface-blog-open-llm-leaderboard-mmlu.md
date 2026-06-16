@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # What's going on with the Open LLM Leaderboard?
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-mmlu
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-llm-leaderboard-mmlu.md](file:///../../ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)
+Path: [what-s-going-on-with-the-open-llm-leaderboard.md](../../ai/models/what-s-going-on-with-the-open-llm-leaderboard.md)

@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # DeepMath: A lightweight math reasoning Agent with smolagents
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/intel-deepmath
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-deepmath.md](file:///../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)
+Path: [deepmath-a-lightweight-math-reasoning-agent-with-s.md](../../ai/agents/deepmath-a-lightweight-math-reasoning-agent-with-s.md)

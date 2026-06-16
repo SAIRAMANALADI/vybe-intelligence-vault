@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Graph Classification with Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphml-classification
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphml-classification.md](file:///../../ai/models/graph-classification-with-transformers.md)
+Path: [graph-classification-with-transformers.md](../../ai/models/graph-classification-with-transformers.md)

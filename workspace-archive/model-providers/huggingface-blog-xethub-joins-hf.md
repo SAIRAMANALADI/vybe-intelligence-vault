@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # XetHub is joining Hugging Face!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/xethub-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-xethub-joins-hf.md](file:///../../ai/models/xethub-is-joining-hugging-face.md)
+Path: [xethub-is-joining-hugging-face.md](../../ai/models/xethub-is-joining-hugging-face.md)

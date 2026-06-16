@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infinity-cpu-performance
 
 ## Local Vault File
 
-Path: [huggingface-blog-infinity-cpu-performance.md](file:///../../ai/models/case-study-millisecond-latency-using-hugging-face.md)
+Path: [case-study-millisecond-latency-using-hugging-face.md](../../ai/models/case-study-millisecond-latency-using-hugging-face.md)

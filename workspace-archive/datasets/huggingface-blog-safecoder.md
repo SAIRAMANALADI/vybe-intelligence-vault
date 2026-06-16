@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing SafeCoder
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safecoder
 
 ## Local Vault File
 
-Path: [huggingface-blog-safecoder.md](file:///../../ai/models/introducing-safecoder.md)
+Path: [introducing-safecoder.md](../../ai/models/introducing-safecoder.md)

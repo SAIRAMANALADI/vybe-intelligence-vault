@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # BigCodeBench: The Next Generation of HumanEval
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-bigcodebench
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-bigcodebench.md](file:///../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)
+Path: [bigcodebench-the-next-generation-of-humaneval.md](../../ai/models/bigcodebench-the-next-generation-of-humaneval.md)

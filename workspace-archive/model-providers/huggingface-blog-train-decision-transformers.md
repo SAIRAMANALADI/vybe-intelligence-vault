@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train your first Decision Transformer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-decision-transformers
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-decision-transformers.md](file:///../../ai/models/train-your-first-decision-transformer.md)
+Path: [train-your-first-decision-transformer.md](../../ai/models/train-your-first-decision-transformer.md)

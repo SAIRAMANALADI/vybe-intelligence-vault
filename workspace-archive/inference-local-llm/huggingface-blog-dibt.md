@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Data Is Better Together: A Look Back and Forward
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/dibt
 
 ## Local Vault File
 
-Path: [huggingface-blog-dibt.md](file:///../../ai/models/data-is-better-together-a-look-back-and-forward.md)
+Path: [data-is-better-together-a-look-back-and-forward.md](../../ai/models/data-is-better-together-a-look-back-and-forward.md)

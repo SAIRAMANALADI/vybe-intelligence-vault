@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Universal Image Segmentation with Mask2Former and OneFormer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mask2former
 
 ## Local Vault File
 
-Path: [huggingface-blog-mask2former.md](file:///../../ai/models/universal-image-segmentation-with-mask2former-and.md)
+Path: [universal-image-segmentation-with-mask2former-and.md](../../ai/models/universal-image-segmentation-with-mask2former-and.md)

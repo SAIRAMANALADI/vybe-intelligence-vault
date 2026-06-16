@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train a Sentence Embedding Model with 1B Training Pairs
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/1b-sentence-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-1b-sentence-embeddings.md](file:///../../ai/models/train-a-sentence-embedding-model-with-1b-training.md)
+Path: [train-a-sentence-embedding-model-with-1b-training.md](../../ai/models/train-a-sentence-embedding-model-with-1b-training.md)

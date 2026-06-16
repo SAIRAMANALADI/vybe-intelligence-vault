@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🐶Safetensors audited as really safe and becoming the default
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/safetensors-security-audit
 
 ## Local Vault File
 
-Path: [huggingface-blog-safetensors-security-audit.md](file:///../../ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)
+Path: [safetensors-audited-as-really-safe-and-becoming-th.md](../../ai/models/safetensors-audited-as-really-safe-and-becoming-th.md)

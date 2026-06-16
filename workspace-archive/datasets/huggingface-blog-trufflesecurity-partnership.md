@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face partners with TruffleHog to Scan for Secrets
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/trufflesecurity-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-trufflesecurity-partnership.md](file:///../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)
+Path: [hugging-face-partners-with-trufflehog-to-scan-for.md](../../ai/models/hugging-face-partners-with-trufflehog-to-scan-for.md)

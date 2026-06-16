@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing ConTextual: How well can your Multimodal model jointly reason over text and image in text-rich scenes?
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-contextual
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-contextual.md](file:///../../ai/models/introducing-contextual-how-well-can-your-multimoda.md)
+Path: [introducing-contextual-how-well-can-your-multimoda.md](../../ai/models/introducing-contextual-how-well-can-your-multimoda.md)

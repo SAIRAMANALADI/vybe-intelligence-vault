@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Inference for PROs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-pro
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-pro.md](file:///../../ai/models/inference-for-pros.md)
+Path: [inference-for-pros.md](../../ai/models/inference-for-pros.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # OpenRAIL: Towards open and responsible AI licensing frameworks
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open_rail
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-rail.md](file:///../../ai/models/openrail-towards-open-and-responsible-ai-licensing.md)
+Path: [openrail-towards-open-and-responsible-ai-licensing.md](../../ai/models/openrail-towards-open-and-responsible-ai-licensing.md)

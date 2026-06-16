@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Falcon has landed in the Hugging Face ecosystem
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon.md](file:///../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)
+Path: [the-falcon-has-landed-in-the-hugging-face-ecosyste.md](../../ai/models/the-falcon-has-landed-in-the-hugging-face-ecosyste.md)

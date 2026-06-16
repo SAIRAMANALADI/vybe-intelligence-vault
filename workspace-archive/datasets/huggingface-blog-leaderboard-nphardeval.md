@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # NPHardEval Leaderboard: Unveiling the Reasoning Abilities of Large Language Models through Complexity Classes and Dynamic Updates
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-nphardeval
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-nphardeval.md](file:///../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)
+Path: [nphardeval-leaderboard-unveiling-the-reasoning-abi.md](../../ai/models/nphardeval-leaderboard-unveiling-the-reasoning-abi.md)

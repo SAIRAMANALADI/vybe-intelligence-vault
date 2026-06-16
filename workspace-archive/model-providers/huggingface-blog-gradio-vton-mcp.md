@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-vton-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-vton-mcp.md](file:///../../ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)
+Path: [implementing-mcp-servers-in-python-an-ai-shopping.md](../../ai/models/implementing-mcp-servers-in-python-an-ai-shopping.md)

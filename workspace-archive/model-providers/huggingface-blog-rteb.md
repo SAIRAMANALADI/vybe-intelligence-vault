@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing RTEB: A New Standard for Retrieval Evaluation
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/rteb
 
 ## Local Vault File
 
-Path: [huggingface-blog-rteb.md](file:///../../ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md)
+Path: [introducing-rteb-a-new-standard-for-retrieval-eval.md](../../ai/models/introducing-rteb-a-new-standard-for-retrieval-eval.md)

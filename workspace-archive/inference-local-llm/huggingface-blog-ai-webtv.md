@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Building an AI WebTV
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-webtv
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-webtv.md](file:///../../ai/models/building-an-ai-webtv.md)
+Path: [building-an-ai-webtv.md](../../ai/models/building-an-ai-webtv.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating Stable Diffusion Inference on Intel CPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable-diffusion-inference-inte
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-inference-intel.md](file:///../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)
+Path: [accelerating-stable-diffusion-inference-on-intel-c.md](../../ai/models/accelerating-stable-diffusion-inference-on-intel-c.md)

@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # We Got Claude to Fine-Tune an Open Source LLM
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-skills-training.md](file:///../../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)
+Path: [we-got-claude-to-fine-tune-an-open-source-llm.md](../../ai/models/we-got-claude-to-fine-tune-an-open-source-llm.md)

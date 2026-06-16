@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🧨 Stable Diffusion in JAX / Flax !
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/stable_diffusion_jax
 
 ## Local Vault File
 
-Path: [huggingface-blog-stable-diffusion-jax.md](file:///../../ai/models/stable-diffusion-in-jax-flax.md)
+Path: [stable-diffusion-in-jax-flax.md](../../ai/models/stable-diffusion-in-jax-flax.md)

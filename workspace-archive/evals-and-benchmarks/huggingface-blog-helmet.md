@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing HELMET: Holistically Evaluating Long-context Language Models
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/helmet
 
 ## Local Vault File
 
-Path: [huggingface-blog-helmet.md](file:///../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)
+Path: [introducing-helmet-holistically-evaluating-long-co.md](../../ai/models/introducing-helmet-holistically-evaluating-long-co.md)

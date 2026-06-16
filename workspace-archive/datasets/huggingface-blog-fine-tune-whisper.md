@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-whisper
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-whisper.md](file:///../../ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)
+Path: [fine-tune-whisper-for-multilingual-asr-with-transf.md](../../ai/models/fine-tune-whisper-for-multilingual-asr-with-transf.md)

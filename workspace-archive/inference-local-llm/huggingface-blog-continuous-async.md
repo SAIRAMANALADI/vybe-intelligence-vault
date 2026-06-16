@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Unlocking asynchronicity in continuous batching
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/continuous_async
 
 ## Local Vault File
 
-Path: [huggingface-blog-continuous-async.md](file:///../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)
+Path: [unlocking-asynchronicity-in-continuous-batching.md](../../ai/models/unlocking-asynchronicity-in-continuous-batching.md)

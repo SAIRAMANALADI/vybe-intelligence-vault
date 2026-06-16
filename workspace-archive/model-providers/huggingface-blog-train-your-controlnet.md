@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train your ControlNet with diffusers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-your-controlnet
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-your-controlnet.md](file:///../../ai/models/train-your-controlnet-with-diffusers.md)
+Path: [train-your-controlnet-with-diffusers.md](../../ai/models/train-your-controlnet-with-diffusers.md)

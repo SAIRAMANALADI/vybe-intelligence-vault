@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Daggr: Chain apps programmatically, inspect visually
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/daggr
 
 ## Local Vault File
 
-Path: [huggingface-blog-daggr.md](file:///../../ai/models/introducing-daggr-chain-apps-programmatically-insp.md)
+Path: [introducing-daggr-chain-apps-programmatically-insp.md](../../ai/models/introducing-daggr-chain-apps-programmatically-insp.md)

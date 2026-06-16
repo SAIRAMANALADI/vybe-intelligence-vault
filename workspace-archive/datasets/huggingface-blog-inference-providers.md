@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome to Inference Providers on the Hub 🔥
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers.md](file:///../../ai/models/welcome-to-inference-providers-on-the-hub.md)
+Path: [welcome-to-inference-providers-on-the-hub.md](../../ai/models/welcome-to-inference-providers-on-the-hub.md)

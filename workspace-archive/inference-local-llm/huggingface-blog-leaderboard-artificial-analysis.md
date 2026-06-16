@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Bringing the Artificial Analysis LLM Performance Leaderboard to Hugging Face
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-artificial-analysis.md](file:///../../ai/models/bringing-the-artificial-analysis-llm-performance-l.md)
+Path: [bringing-the-artificial-analysis-llm-performance-l.md](../../ai/models/bringing-the-artificial-analysis-llm-performance-l.md)

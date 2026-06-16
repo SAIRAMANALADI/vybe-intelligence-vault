@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Experimenting with Automatic PII Detection on the Hub using Presidio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/presidio-pii-detection
 
 ## Local Vault File
 
-Path: [huggingface-blog-presidio-pii-detection.md](file:///../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)
+Path: [experimenting-with-automatic-pii-detection-on-the.md](../../ai/models/experimenting-with-automatic-pii-detection-on-the.md)

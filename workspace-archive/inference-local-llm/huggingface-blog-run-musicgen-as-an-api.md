@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy MusicGen in no time with Inference Endpoints
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/run-musicgen-as-an-api
 
 ## Local Vault File
 
-Path: [huggingface-blog-run-musicgen-as-an-api.md](file:///../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)
+Path: [deploy-musicgen-in-no-time-with-inference-endpoint.md](../../ai/models/deploy-musicgen-in-no-time-with-inference-endpoint.md)

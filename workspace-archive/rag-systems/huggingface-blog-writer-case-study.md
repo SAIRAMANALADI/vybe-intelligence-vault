@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Leveraging Hugging Face for complex generative AI use cases
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/writer-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-writer-case-study.md](file:///../../ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)
+Path: [leveraging-hugging-face-for-complex-generative-ai.md](../../ai/rag/leveraging-hugging-face-for-complex-generative-ai.md)

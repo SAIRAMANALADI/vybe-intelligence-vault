@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Falcon Mamba: The first strong attention-free 7B model
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falconmamba
 
 ## Local Vault File
 
-Path: [huggingface-blog-falconmamba.md](file:///../../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)
+Path: [welcome-falcon-mamba-the-first-strong-attention-fr.md](../../ai/models/welcome-falcon-mamba-the-first-strong-attention-fr.md)

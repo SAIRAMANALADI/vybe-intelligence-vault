@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Snowball Fight ☃️, our first ML-Agents environment
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/snowball-fight
 
 ## Local Vault File
 
-Path: [huggingface-blog-snowball-fight.md](file:///../../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)
+Path: [introducing-snowball-fight-our-first-ml-agents-env.md](../../ai/agents/introducing-snowball-fight-our-first-ml-agents-env.md)

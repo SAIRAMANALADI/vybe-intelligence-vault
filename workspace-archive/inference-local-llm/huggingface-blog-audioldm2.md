@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AudioLDM 2, but faster ⚡️
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/audioldm2
 
 ## Local Vault File
 
-Path: [huggingface-blog-audioldm2.md](file:///../../ai/models/audioldm-2-but-faster.md)
+Path: [audioldm-2-but-faster.md](../../ai/models/audioldm-2-but-faster.md)

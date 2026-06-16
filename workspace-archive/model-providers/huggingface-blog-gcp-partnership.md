@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and Google partner for open AI collaboration
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gcp-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-gcp-partnership.md](file:///../../ai/models/hugging-face-and-google-partner-for-open-ai-collab.md)
+Path: [hugging-face-and-google-partner-for-open-ai-collab.md](../../ai/models/hugging-face-and-google-partner-for-open-ai-collab.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/train-multimodal-sentence-trans
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-multimodal-sentence-transformers.md](file:///../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)
+Path: [training-and-finetuning-multimodal-embedding-reran.md](../../ai/models/training-and-finetuning-multimodal-embedding-reran.md)

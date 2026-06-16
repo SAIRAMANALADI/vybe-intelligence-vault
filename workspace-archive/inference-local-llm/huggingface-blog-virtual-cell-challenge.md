@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Arc Virtual Cell Challenge: A Primer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/virtual-cell-challenge
 
 ## Local Vault File
 
-Path: [huggingface-blog-virtual-cell-challenge.md](file:///../../ai/models/arc-virtual-cell-challenge-a-primer.md)
+Path: [arc-virtual-cell-challenge-a-primer.md](../../ai/models/arc-virtual-cell-challenge-a-primer.md)

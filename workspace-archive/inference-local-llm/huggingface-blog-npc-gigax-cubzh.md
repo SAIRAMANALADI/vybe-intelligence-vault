@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing NPC-Playground, a 3D playground to interact with LLM-powered NPCs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/npc-gigax-cubzh
 
 ## Local Vault File
 
-Path: [huggingface-blog-npc-gigax-cubzh.md](file:///../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)
+Path: [introducing-npc-playground-a-3d-playground-to-inte.md](../../ai/models/introducing-npc-playground-a-3d-playground-to-inte.md)

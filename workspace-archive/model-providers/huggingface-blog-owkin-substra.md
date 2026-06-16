@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Creating Privacy Preserving AI with Substra
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/owkin-substra
 
 ## Local Vault File
 
-Path: [huggingface-blog-owkin-substra.md](file:///../../ai/models/creating-privacy-preserving-ai-with-substra.md)
+Path: [creating-privacy-preserving-ai-with-substra.md](../../ai/models/creating-privacy-preserving-ai-with-substra.md)

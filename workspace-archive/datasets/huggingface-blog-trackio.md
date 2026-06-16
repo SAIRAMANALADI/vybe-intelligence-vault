@@ -15,7 +15,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Introducing Trackio: A Lightweight Experiment Tracking Library from Hugging Face
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/trackio
 
 ## Local Vault File
 
-Path: [huggingface-blog-trackio.md](file:///../../ai/models/introducing-trackio-a-lightweight-experiment-track.md)
+Path: [introducing-trackio-a-lightweight-experiment-track.md](../../ai/models/introducing-trackio-a-lightweight-experiment-track.md)

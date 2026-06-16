@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # nanoVLM: The simplest repository to train your VLM in pure PyTorch
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/nanovlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-nanovlm.md](file:///../../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)
+Path: [nanovlm-the-simplest-repository-to-train-your-vlm.md](../../ai/models/nanovlm-the-simplest-repository-to-train-your-vlm.md)

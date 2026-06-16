@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to train a new language model from scratch using Transformers and Tokenizers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-train
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-train.md](file:///../../ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)
+Path: [how-to-train-a-new-language-model-from-scratch-usi.md](../../ai/models/how-to-train-a-new-language-model-from-scratch-usi.md)

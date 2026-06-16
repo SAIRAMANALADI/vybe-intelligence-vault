@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Hugging Face Embedding Container for Amazon SageMaker
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sagemaker-huggingface-embedding
 
 ## Local Vault File
 
-Path: [huggingface-blog-sagemaker-huggingface-embedding.md](file:///../../ai/models/introducing-the-hugging-face-embedding-container-f.md)
+Path: [introducing-the-hugging-face-embedding-container-f.md](../../ai/models/introducing-the-hugging-face-embedding-container-f.md)

@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-3c3h-aragen-ifeval.md](file:///../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)
+Path: [arabic-leaderboards-introducing-arabic-instruction.md](../../ai/rag/arabic-leaderboards-introducing-arabic-instruction.md)

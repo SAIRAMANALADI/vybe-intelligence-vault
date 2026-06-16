@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing the Open Ko-LLM Leaderboard: Leading the Korean LLM Evaluation Ecosystem
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-upstage
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-upstage.md](file:///../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)
+Path: [introducing-the-open-ko-llm-leaderboard-leading-th.md](../../ai/models/introducing-the-open-ko-llm-leaderboard-leading-th.md)

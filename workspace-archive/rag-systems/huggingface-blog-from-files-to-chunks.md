@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # From Files to Chunks: Improving HF Storage Efficiency
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/from-files-to-chunks
 
 ## Local Vault File
 
-Path: [huggingface-blog-from-files-to-chunks.md](file:///../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)
+Path: [from-files-to-chunks-improving-hf-storage-efficien.md](../../ai/rag/from-files-to-chunks-improving-hf-storage-efficien.md)

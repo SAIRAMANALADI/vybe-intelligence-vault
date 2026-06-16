@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Llama 3 - Meta's new open LLM
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama3
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama3.md](file:///../../ai/models/welcome-llama-3-meta-s-new-open-llm.md)
+Path: [welcome-llama-3-meta-s-new-open-llm.md](../../ai/models/welcome-llama-3-meta-s-new-open-llm.md)

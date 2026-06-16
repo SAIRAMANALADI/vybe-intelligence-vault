@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to deploy and fine-tune DeepSeek models on AWS
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deepseek-r1-aws
 
 ## Local Vault File
 
-Path: [huggingface-blog-deepseek-r1-aws.md](file:///../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)
+Path: [how-to-deploy-and-fine-tune-deepseek-models-on-aws.md](../../ai/models/how-to-deploy-and-fine-tune-deepseek-models-on-aws.md)

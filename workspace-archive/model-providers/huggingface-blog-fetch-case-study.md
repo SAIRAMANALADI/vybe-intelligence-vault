@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fetch-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-fetch-case-study.md](file:///../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)
+Path: [fetch-cuts-ml-processing-latency-by-50-using-amazo.md](../../ai/models/fetch-cuts-ml-processing-latency-by-50-using-amazo.md)

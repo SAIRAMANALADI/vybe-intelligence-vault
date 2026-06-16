@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune W2V2-Bert for low-resource ASR with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-w2v2-bert
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-w2v2-bert.md](file:///../../ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)
+Path: [fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md](../../ai/models/fine-tune-w2v2-bert-for-low-resource-asr-with-tran.md)

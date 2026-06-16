@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/infrastructure-alerting
 
 ## Local Vault File
 
-Path: [huggingface-blog-infrastructure-alerting.md](file:///../../ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)
+Path: [three-mighty-alerts-supporting-hugging-faces-produ.md](../../ai/models/three-mighty-alerts-supporting-hugging-faces-produ.md)

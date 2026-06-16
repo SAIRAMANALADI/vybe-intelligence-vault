@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Proximal Policy Optimization (PPO)
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deep-rl-ppo
 
 ## Local Vault File
 
-Path: [huggingface-blog-deep-rl-ppo.md](file:///../../ai/models/proximal-policy-optimization-ppo.md)
+Path: [proximal-policy-optimization-ppo.md](../../ai/models/proximal-policy-optimization-ppo.md)

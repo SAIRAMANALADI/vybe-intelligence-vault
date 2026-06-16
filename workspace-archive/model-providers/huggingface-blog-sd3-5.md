@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Diffusers welcomes Stable Diffusion 3.5 Large
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sd3-5
 
 ## Local Vault File
 
-Path: [huggingface-blog-sd3-5.md](file:///../../ai/models/diffusers-welcomes-stable-diffusion-3-5-large.md)
+Path: [diffusers-welcomes-stable-diffusion-3-5-large.md](../../ai/models/diffusers-welcomes-stable-diffusion-3-5-large.md)

@@ -12,9 +12,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `web-crawled`
   * Source URL: <https://pypi.org/project/autogen>
 
-* **[melvin112/https](ai/agents/melvin112-https-github-com-bitcoin-bitcoin-cd-bitcoin.md)** (`reference` | `useful` tier)
-  * Summary: ./autogen.sh
-
 ## Ai Browser Computer Use
 
 * **[(Human) Attention Is (Still) All You Need: Human oversight makes AI-assisted social science reliable](ai/agents/arxiv-2606-12848.md)** (`framework` | `useful` tier)

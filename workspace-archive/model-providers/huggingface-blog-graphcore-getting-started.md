@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Getting Started with Hugging Face Transformers for IPUs with Optimum
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/graphcore-getting-started
 
 ## Local Vault File
 
-Path: [huggingface-blog-graphcore-getting-started.md](file:///../../ai/models/getting-started-with-hugging-face-transformers-for.md)
+Path: [getting-started-with-hugging-face-transformers-for.md](../../ai/models/getting-started-with-hugging-face-transformers-for.md)

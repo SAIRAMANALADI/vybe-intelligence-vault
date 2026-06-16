@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # BERT 101 - State Of The Art NLP Model Explained
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bert-101
 
 ## Local Vault File
 
-Path: [huggingface-blog-bert-101.md](file:///../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md)
+Path: [bert-101-state-of-the-art-nlp-model-explained.md](../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md)

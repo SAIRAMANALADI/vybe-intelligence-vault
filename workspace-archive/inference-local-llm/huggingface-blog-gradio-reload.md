@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Apps in a Flash with Gradio's Reload Mode
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-reload
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-reload.md](file:///../../ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)
+Path: [ai-apps-in-a-flash-with-gradio-s-reload-mode.md](../../ai/models/ai-apps-in-a-flash-with-gradio-s-reload-mode.md)

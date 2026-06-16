@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/trl-peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-trl-peft.md](file:///../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)
+Path: [fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md](../../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md)

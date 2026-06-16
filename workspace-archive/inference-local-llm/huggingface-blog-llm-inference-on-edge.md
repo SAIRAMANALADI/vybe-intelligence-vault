@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LLM Inference on Edge: A Fun and Easy Guide to run LLMs via React Native on your Phone!
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llm-inference-on-edge
 
 ## Local Vault File
 
-Path: [huggingface-blog-llm-inference-on-edge.md](file:///../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)
+Path: [llm-inference-on-edge-a-fun-and-easy-guide-to-run.md](../../ai/models/llm-inference-on-edge-a-fun-and-easy-guide-to-run.md)

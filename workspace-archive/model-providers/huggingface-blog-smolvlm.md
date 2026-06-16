@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SmolVLM - small yet mighty Vision Language Model
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/smolvlm
 
 ## Local Vault File
 
-Path: [huggingface-blog-smolvlm.md](file:///../../ai/models/smolvlm-small-yet-mighty-vision-language-model.md)
+Path: [smolvlm-small-yet-mighty-vision-language-model.md](../../ai/models/smolvlm-small-yet-mighty-vision-language-model.md)

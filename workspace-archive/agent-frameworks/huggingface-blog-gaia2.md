@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Gaia2 and ARE: Empowering the community to study agents
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/gaia2
 
 ## Local Vault File
 
-Path: [huggingface-blog-gaia2.md](file:///../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)
+Path: [gaia2-and-are-empowering-the-community-to-study-ag.md](../../ai/agents/gaia2-and-are-empowering-the-community-to-study-ag.md)

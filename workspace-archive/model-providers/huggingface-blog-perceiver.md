@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Perceiver IO: a scalable, fully-attentional model that works on any modality
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/perceiver
 
 ## Local Vault File
 
-Path: [huggingface-blog-perceiver.md](file:///../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)
+Path: [perceiver-io-a-scalable-fully-attentional-model-th.md](../../ai/models/perceiver-io-a-scalable-fully-attentional-model-th.md)

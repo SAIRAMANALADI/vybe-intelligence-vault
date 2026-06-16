@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deprecation of Git Authentication using password
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/password-git-deprecation
 
 ## Local Vault File
 
-Path: [huggingface-blog-password-git-deprecation.md](file:///../../ai/models/deprecation-of-git-authentication-using-password.md)
+Path: [deprecation-of-git-authentication-using-password.md](../../ai/models/deprecation-of-git-authentication-using-password.md)

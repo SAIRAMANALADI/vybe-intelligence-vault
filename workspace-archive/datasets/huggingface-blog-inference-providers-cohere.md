@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Cohere on Hugging Face Inference Providers 🔥
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inference-providers-cohere
 
 ## Local Vault File
 
-Path: [huggingface-blog-inference-providers-cohere.md](file:///../../ai/models/cohere-on-hugging-face-inference-providers.md)
+Path: [cohere-on-hugging-face-inference-providers.md](../../ai/models/cohere-on-hugging-face-inference-providers.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How we sped up transformer inference 100x for 🤗 API customers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/accelerated-inference
 
 ## Local Vault File
 
-Path: [huggingface-blog-accelerated-inference.md](file:///../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)
+Path: [how-we-sped-up-transformer-inference-100x-for-api.md](../../ai/models/how-we-sped-up-transformer-inference-100x-for-api.md)

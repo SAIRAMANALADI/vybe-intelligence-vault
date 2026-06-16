@@ -18,7 +18,7 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 947 resources matched in the intelligence vault.
+Active signals: 948 resources matched in the intelligence vault.
 Recently detected signals:
 - [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) (Source: Unknown Source) - Collected 2026-06-16
 - [AutoGen: LLM-Driven Multi-Agent Framework](../ai/rag/autogen-llm-driven-multi-agent-framework.md) (Source: Unknown Source) - Collected 2026-06-16
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:14.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T21:16:45.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

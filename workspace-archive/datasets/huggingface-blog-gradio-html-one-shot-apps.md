@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # One-Shot Any Web App with Gradio's gr.HTML
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-html-one-shot-apps
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-html-one-shot-apps.md](file:///../../ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md)
+Path: [one-shot-any-web-app-with-gradio-s-gr-html.md](../../ai/models/one-shot-any-web-app-with-gradio-s-gr-html.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Accelerating Document AI
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/document-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-document-ai.md](file:///../../ai/models/accelerating-document-ai.md)
+Path: [accelerating-document-ai.md](../../ai/models/accelerating-document-ai.md)

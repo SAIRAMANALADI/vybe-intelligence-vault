@@ -18,7 +18,7 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 81 resources matched in the intelligence vault.
+Active signals: 82 resources matched in the intelligence vault.
 Recently detected signals:
 - [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](../ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md) (Source: Unknown Source) - Collected 2026-06-16
 - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-16
@@ -100,4 +100,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T19:38:14.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T21:16:45.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

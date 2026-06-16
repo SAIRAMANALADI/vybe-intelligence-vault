@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # My Journey to a serverless transformers pipeline on Google Cloud
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/how-to-deploy-a-pipeline-to-goo
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-deploy-a-pipeline-to-google-clouds.md](file:///../../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)
+Path: [my-journey-to-a-serverless-transformers-pipeline-o.md](../../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)

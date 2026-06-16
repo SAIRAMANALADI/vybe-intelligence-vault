@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # ScreenEnv: Deploy your full stack Desktop Agent
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/screenenv
 
 ## Local Vault File
 
-Path: [huggingface-blog-screenenv.md](file:///../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)
+Path: [screenenv-deploy-your-full-stack-desktop-agent.md](../../ai/agents/screenenv-deploy-your-full-stack-desktop-agent.md)

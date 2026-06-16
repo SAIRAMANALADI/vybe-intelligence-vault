@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/ecom-rlve
 
 ## Local Vault File
 
-Path: [huggingface-blog-ecom-rlve.md](file:///../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)
+Path: [ecom-rlve-adaptive-verifiable-environments-for-e-c.md](../../ai/agents/ecom-rlve-adaptive-verifiable-environments-for-e-c.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Useful for project building
 ---
 
-
 # Chat Templates: An End to the Silent Performance Killer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chat-templates
 
 ## Local Vault File
 
-Path: [huggingface-blog-chat-templates.md](file:///../../ai/models/chat-templates-an-end-to-the-silent-performance-ki.md)
+Path: [chat-templates-an-end-to-the-silent-performance-ki.md](../../ai/models/chat-templates-an-end-to-the-silent-performance-ki.md)

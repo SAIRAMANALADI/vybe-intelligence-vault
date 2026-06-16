@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy Hugging Face models easily with Amazon SageMaker
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/deploy-hugging-face-models-easi
 
 ## Local Vault File
 
-Path: [huggingface-blog-deploy-hugging-face-models-easily-with-amazon-sagemaker.md](file:///../../ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)
+Path: [deploy-hugging-face-models-easily-with-amazon-sage.md](../../ai/models/deploy-hugging-face-models-easily-with-amazon-sage.md)

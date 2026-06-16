@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Complete Guide to Audio Datasets
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/audio-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-audio-datasets.md](file:///../../ai/models/a-complete-guide-to-audio-datasets.md)
+Path: [a-complete-guide-to-audio-datasets.md](../../ai/models/a-complete-guide-to-audio-datasets.md)

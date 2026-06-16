@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Efficient Controllable Generation for SDXL with T2I-Adapters
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/t2i-sdxl-adapters
 
 ## Local Vault File
 
-Path: [huggingface-blog-t2i-sdxl-adapters.md](file:///../../ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)
+Path: [efficient-controllable-generation-for-sdxl-with-t2.md](../../ai/models/efficient-controllable-generation-for-sdxl-with-t2.md)

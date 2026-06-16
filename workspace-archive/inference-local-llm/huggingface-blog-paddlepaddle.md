@@ -1,11 +1,10 @@
 ---
-title: 'PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers
-  Backend'
+title: Welcome PaddlePaddle to the Hugging Face Hub
 archive_category: inference-local-llm
 source_category: ai/models
 source_url: https://huggingface.co/blog/paddlepaddle
 resource_id: huggingface:blog/paddlepaddle
-local_vault_path: ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md
+local_vault_path: ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
@@ -15,8 +14,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
-# PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+# Welcome PaddlePaddle to the Hugging Face Hub
 
 ## Why This Is In The Archive
 
@@ -28,7 +26,7 @@ selection_reason:
 
 ## Summary
 
-No summary provided. Reference resource: PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend
+No summary provided. Reference resource: Welcome PaddlePaddle to the Hugging Face Hub
 
 ## Use Cases
 
@@ -42,4 +40,4 @@ Original source URL: https://huggingface.co/blog/paddlepaddle
 
 ## Local Vault File
 
-Path: [huggingface-blog-paddlepaddle.md](file:///../../ai/models/paddleocr-3-5-running-ocr-and-document-parsing-tas.md)
+Path: [welcome-paddlepaddle-to-the-hugging-face-hub.md](../../ai/models/welcome-paddlepaddle-to-the-hugging-face-hub.md)

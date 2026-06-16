@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fit More and Train Faster With ZeRO via DeepSpeed and FairScale
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/zero-deepspeed-fairscale
 
 ## Local Vault File
 
-Path: [huggingface-blog-zero-deepspeed-fairscale.md](file:///../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)
+Path: [fit-more-and-train-faster-with-zero-via-deepspeed.md](../../ai/models/fit-more-and-train-faster-with-zero-via-deepspeed.md)

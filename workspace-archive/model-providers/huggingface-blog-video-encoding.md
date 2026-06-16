@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Scaling robotics datasets with video encoding
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/video-encoding
 
 ## Local Vault File
 
-Path: [huggingface-blog-video-encoding.md](file:///../../ai/models/scaling-robotics-datasets-with-video-encoding.md)
+Path: [scaling-robotics-datasets-with-video-encoding.md](../../ai/models/scaling-robotics-datasets-with-video-encoding.md)

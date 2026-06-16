@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Code Llama: Llama 2 learns to code
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/codellama
 
 ## Local Vault File
 
-Path: [huggingface-blog-codellama.md](file:///../../ai/models/code-llama-llama-2-learns-to-code.md)
+Path: [code-llama-llama-2-learns-to-code.md](../../ai/models/code-llama-llama-2-learns-to-code.md)

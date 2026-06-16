@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face on PyTorch / XLA TPUs
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pytorch-xla
 
 ## Local Vault File
 
-Path: [huggingface-blog-pytorch-xla.md](file:///../../ai/models/hugging-face-on-pytorch-xla-tpus.md)
+Path: [hugging-face-on-pytorch-xla-tpus.md](../../ai/models/hugging-face-on-pytorch-xla-tpus.md)

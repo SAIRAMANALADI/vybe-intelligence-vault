@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # CodeAgents + Structure: A Better Way to Execute Actions
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/structured-codeagent
 
 ## Local Vault File
 
-Path: [huggingface-blog-structured-codeagent.md](file:///../../ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)
+Path: [codeagents-structure-a-better-way-to-execute-actio.md](../../ai/agents/codeagents-structure-a-better-way-to-execute-actio.md)

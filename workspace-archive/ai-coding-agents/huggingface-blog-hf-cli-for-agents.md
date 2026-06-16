@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Designing the hf CLI as an agent-optimized way to work with the Hub
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-cli-for-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-cli-for-agents.md](file:///../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)
+Path: [designing-the-hf-cli-as-an-agent-optimized-way-to.md](../../ai/agents/designing-the-hf-cli-as-an-agent-optimized-way-to.md)

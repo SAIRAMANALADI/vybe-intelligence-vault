@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # π0 and π0-FAST: Vision-Language-Action Models for General Robot Control
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pi0
 
 ## Local Vault File
 
-Path: [huggingface-blog-pi0.md](file:///../../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)
+Path: [p0-and-p0-fast-vision-language-action-models-for-g.md](../../ai/models/p0-and-p0-fast-vision-language-action-models-for-g.md)

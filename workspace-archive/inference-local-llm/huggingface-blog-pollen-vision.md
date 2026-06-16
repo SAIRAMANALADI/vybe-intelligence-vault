@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Pollen-Vision: Unified interface for Zero-Shot vision models in robotics
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/pollen-vision
 
 ## Local Vault File
 
-Path: [huggingface-blog-pollen-vision.md](file:///../../ai/models/pollen-vision-unified-interface-for-zero-shot-visi.md)
+Path: [pollen-vision-unified-interface-for-zero-shot-visi.md](../../ai/models/pollen-vision-unified-interface-for-zero-shot-visi.md)

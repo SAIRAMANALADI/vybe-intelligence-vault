@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The PR you would have opened yourself
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/transformers-to-mlx
 
 ## Local Vault File
 
-Path: [huggingface-blog-transformers-to-mlx.md](file:///../../ai/models/the-pr-you-would-have-opened-yourself.md)
+Path: [the-pr-you-would-have-opened-yourself.md](../../ai/models/the-pr-you-would-have-opened-yourself.md)

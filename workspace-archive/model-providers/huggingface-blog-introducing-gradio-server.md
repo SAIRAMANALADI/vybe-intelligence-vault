@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Any Custom Frontend with Gradio's Backend
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-gradio-server
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-gradio-server.md](file:///../../ai/models/any-custom-frontend-with-gradio-s-backend.md)
+Path: [any-custom-frontend-with-gradio-s-backend.md](../../ai/models/any-custom-frontend-with-gradio-s-backend.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AMD Pervasive AI Developer Contest!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/amd_pervasive_developer_ai_cont
 
 ## Local Vault File
 
-Path: [huggingface-blog-amd-pervasive-developer-ai-contest.md](file:///../../ai/models/amd-pervasive-ai-developer-contest.md)
+Path: [amd-pervasive-ai-developer-contest.md](../../ai/models/amd-pervasive-ai-developer-contest.md)

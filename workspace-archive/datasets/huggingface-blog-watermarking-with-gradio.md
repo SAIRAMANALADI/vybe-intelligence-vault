@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Visible Watermarking with Gradio
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/watermarking-with-gradio
 
 ## Local Vault File
 
-Path: [huggingface-blog-watermarking-with-gradio.md](file:///../../ai/models/visible-watermarking-with-gradio.md)
+Path: [visible-watermarking-with-gradio.md](../../ai/models/visible-watermarking-with-gradio.md)

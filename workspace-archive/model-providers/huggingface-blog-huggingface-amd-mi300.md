@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face on AMD Instinct MI300 GPU
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/huggingface-amd-mi300
 
 ## Local Vault File
 
-Path: [huggingface-blog-huggingface-amd-mi300.md](file:///../../ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)
+Path: [hugging-face-on-amd-instinct-mi300-gpu.md](../../ai/models/hugging-face-on-amd-instinct-mi300-gpu.md)

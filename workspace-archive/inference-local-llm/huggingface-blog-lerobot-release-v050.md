@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LeRobot v0.5.0: Scaling Every Dimension
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/lerobot-release-v050
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-release-v050.md](file:///../../ai/models/lerobot-v0-5-0-scaling-every-dimension.md)
+Path: [lerobot-v0-5-0-scaling-every-dimension.md](../../ai/models/lerobot-v0-5-0-scaling-every-dimension.md)

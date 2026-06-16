@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Democratizing AI Safety with RiskRubric.ai
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/riskrubric
 
 ## Local Vault File
 
-Path: [huggingface-blog-riskrubric.md](file:///../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)
+Path: [democratizing-ai-safety-with-riskrubric-ai.md](../../ai/models/democratizing-ai-safety-with-riskrubric-ai.md)

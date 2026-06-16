@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face Hub on the AWS Marketplace: Pay with your AWS Account
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/aws-marketplace
 
 ## Local Vault File
 
-Path: [huggingface-blog-aws-marketplace.md](file:///../../ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-y.md)
+Path: [hugging-face-hub-on-the-aws-marketplace-pay-with-y.md](../../ai/models/hugging-face-hub-on-the-aws-marketplace-pay-with-y.md)

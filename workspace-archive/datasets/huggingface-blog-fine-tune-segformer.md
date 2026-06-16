@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune a Semantic Segmentation Model with a Custom Dataset
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-segformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-segformer.md](file:///../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)
+Path: [fine-tune-a-semantic-segmentation-model-with-a-cus.md](../../ai/models/fine-tune-a-semantic-segmentation-model-with-a-cus.md)

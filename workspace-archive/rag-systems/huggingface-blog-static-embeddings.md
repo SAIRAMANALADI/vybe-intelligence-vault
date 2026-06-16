@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Train 400x faster Static Embedding Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/static-embeddings
 
 ## Local Vault File
 
-Path: [huggingface-blog-static-embeddings.md](file:///../../ai/models/train-400x-faster-static-embedding-models-with-sen.md)
+Path: [train-400x-faster-static-embedding-models-with-sen.md](../../ai/models/train-400x-faster-static-embedding-models-with-sen.md)

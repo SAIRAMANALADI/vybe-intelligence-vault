@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Open Source Community is backing OpenEnv for Agentic RL
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/openenv-agentic-rl
 
 ## Local Vault File
 
-Path: [huggingface-blog-openenv-agentic-rl.md](file:///../../ai/agents/the-open-source-community-is-backing-openenv-for-a.md)
+Path: [the-open-source-community-is-backing-openenv-for-a.md](../../ai/agents/the-open-source-community-is-backing-openenv-for-a.md)

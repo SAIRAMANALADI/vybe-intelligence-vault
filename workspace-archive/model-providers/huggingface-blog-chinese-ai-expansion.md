@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # A Short Summary of Chinese AI Global Expansion
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/chinese-ai-expansion
 
 ## Local Vault File
 
-Path: [huggingface-blog-chinese-ai-expansion.md](file:///../../ai/models/a-short-summary-of-chinese-ai-global-expansion.md)
+Path: [a-short-summary-of-chinese-ai-global-expansion.md](../../ai/models/a-short-summary-of-chinese-ai-global-expansion.md)

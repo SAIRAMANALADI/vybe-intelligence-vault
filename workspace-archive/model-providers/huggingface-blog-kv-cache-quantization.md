@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Unlocking Longer Generation with Key-Value Cache Quantization
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/kv-cache-quantization
 
 ## Local Vault File
 
-Path: [huggingface-blog-kv-cache-quantization.md](file:///../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)
+Path: [unlocking-longer-generation-with-key-value-cache-q.md](../../ai/models/unlocking-longer-generation-with-key-value-cache-q.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Controlling Language Model Generation with NVIDIA's LogitsProcessorZoo
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/logits-processor-zoo
 
 ## Local Vault File
 
-Path: [huggingface-blog-logits-processor-zoo.md](file:///../../ai/models/controlling-language-model-generation-with-nvidia.md)
+Path: [controlling-language-model-generation-with-nvidia.md](../../ai/models/controlling-language-model-generation-with-nvidia.md)

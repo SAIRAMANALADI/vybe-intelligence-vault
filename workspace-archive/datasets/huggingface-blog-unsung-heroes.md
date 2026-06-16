@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The 5 Most Under-Rated Tools on Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unsung-heroes
 
 ## Local Vault File
 
-Path: [huggingface-blog-unsung-heroes.md](file:///../../ai/models/the-5-most-under-rated-tools-on-hugging-face.md)
+Path: [the-5-most-under-rated-tools-on-hugging-face.md](../../ai/models/the-5-most-under-rated-tools-on-hugging-face.md)

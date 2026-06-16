@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # State of open video generation models in Diffusers
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/video_gen
 
 ## Local Vault File
 
-Path: [huggingface-blog-video-gen.md](file:///../../ai/models/state-of-open-video-generation-models-in-diffusers.md)
+Path: [state-of-open-video-generation-models-in-diffusers.md](../../ai/models/state-of-open-video-generation-models-in-diffusers.md)

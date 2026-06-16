@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Multivariate Probabilistic Time Series Forecasting with Informer
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/informer
 
 ## Local Vault File
 
-Path: [huggingface-blog-informer.md](file:///../../ai/models/multivariate-probabilistic-time-series-forecasting.md)
+Path: [multivariate-probabilistic-time-series-forecasting.md](../../ai/models/multivariate-probabilistic-time-series-forecasting.md)

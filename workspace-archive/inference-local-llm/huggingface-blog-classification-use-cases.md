@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How Hugging Face Accelerated Development of Witty Works Writing Assistant
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/classification-use-cases
 
 ## Local Vault File
 
-Path: [huggingface-blog-classification-use-cases.md](file:///../../ai/models/how-hugging-face-accelerated-development-of-witty.md)
+Path: [how-hugging-face-accelerated-development-of-witty.md](../../ai/models/how-hugging-face-accelerated-development-of-witty.md)

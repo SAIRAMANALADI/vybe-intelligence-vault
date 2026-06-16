@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Easily Train Models with H100 GPUs on NVIDIA DGX Cloud
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/train-dgx-cloud
 
 ## Local Vault File
 
-Path: [huggingface-blog-train-dgx-cloud.md](file:///../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)
+Path: [easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md](../../ai/models/easily-train-models-with-h100-gpus-on-nvidia-dgx-c.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Tool Use, Unified
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/unified-tool-use
 
 ## Local Vault File
 
-Path: [huggingface-blog-unified-tool-use.md](file:///../../ai/models/tool-use-unified.md)
+Path: [tool-use-unified.md](../../ai/models/tool-use-unified.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Liftoff! How to get started with your first ML project 🚀
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/your-first-ml-project
 
 ## Local Vault File
 
-Path: [huggingface-blog-your-first-ml-project.md](file:///../../ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)
+Path: [liftoff-how-to-get-started-with-your-first-ml-proj.md](../../ai/models/liftoff-how-to-get-started-with-your-first-ml-proj.md)

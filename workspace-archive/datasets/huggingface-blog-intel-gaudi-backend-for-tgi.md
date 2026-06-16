@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🚀 Accelerating LLM Inference with TGI on Intel Gaudi
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intel-gaudi-backend-for-tgi
 
 ## Local Vault File
 
-Path: [huggingface-blog-intel-gaudi-backend-for-tgi.md](file:///../../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)
+Path: [accelerating-llm-inference-with-tgi-on-intel-gaudi.md](../../ai/models/accelerating-llm-inference-with-tgi-on-intel-gaudi.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Image Classification with AutoTrain
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/autotrain-image-classification
 
 ## Local Vault File
 
-Path: [huggingface-blog-autotrain-image-classification.md](file:///../../ai/models/image-classification-with-autotrain.md)
+Path: [image-classification-with-autotrain.md](../../ai/models/image-classification-with-autotrain.md)

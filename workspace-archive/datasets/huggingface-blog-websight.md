@@ -18,7 +18,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset
 
 ## Why This Is In The Archive
@@ -46,4 +45,4 @@ Original source URL: https://huggingface.co/blog/websight
 
 ## Local Vault File
 
-Path: [huggingface-blog-websight.md](file:///../../ai/models/unlocking-the-conversion-of-web-screenshots-into-h.md)
+Path: [unlocking-the-conversion-of-web-screenshots-into-h.md](../../ai/models/unlocking-the-conversion-of-web-screenshots-into-h.md)

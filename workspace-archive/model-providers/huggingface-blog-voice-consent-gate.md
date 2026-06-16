@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Voice Cloning with Consent
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/voice-consent-gate
 
 ## Local Vault File
 
-Path: [huggingface-blog-voice-consent-gate.md](file:///../../ai/models/voice-cloning-with-consent.md)
+Path: [voice-cloning-with-consent.md](../../ai/models/voice-cloning-with-consent.md)

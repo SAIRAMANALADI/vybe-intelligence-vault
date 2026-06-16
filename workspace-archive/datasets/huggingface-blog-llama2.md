@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Llama 2 is here - get it on Hugging Face
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama2
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama2.md](file:///../../ai/models/llama-2-is-here-get-it-on-hugging-face.md)
+Path: [llama-2-is-here-get-it-on-hugging-face.md](../../ai/models/llama-2-is-here-get-it-on-hugging-face.md)

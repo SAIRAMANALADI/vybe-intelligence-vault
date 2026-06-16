@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Simple considerations for simple people building fancy neural networks
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple-considerations
 
 ## Local Vault File
 
-Path: [huggingface-blog-simple-considerations.md](file:///../../ai/models/simple-considerations-for-simple-people-building-f.md)
+Path: [simple-considerations-for-simple-people-building-f.md](../../ai/models/simple-considerations-for-simple-people-building-f.md)

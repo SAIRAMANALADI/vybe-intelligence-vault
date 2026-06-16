@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Using & Mixing Hugging Face Models with Gradio 2.0
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio.md](file:///../../ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md)
+Path: [using-mixing-hugging-face-models-with-gradio-2-0.md](../../ai/models/using-mixing-hugging-face-models-with-gradio-2-0.md)

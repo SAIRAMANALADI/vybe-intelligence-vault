@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The AI tools for Art Newsletter - Issue 1
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ai-art-newsletter-jan-25
 
 ## Local Vault File
 
-Path: [huggingface-blog-ai-art-newsletter-jan-25.md](file:///../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)
+Path: [the-ai-tools-for-art-newsletter-issue-1.md](../../ai/models/the-ai-tools-for-art-newsletter-issue-1.md)

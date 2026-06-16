@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Tiny Agents: an MCP-powered agent in 50 lines of code
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/tiny-agents
 
 ## Local Vault File
 
-Path: [huggingface-blog-tiny-agents.md](file:///../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)
+Path: [tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md](../../ai/agents/tiny-agents-an-mcp-powered-agent-in-50-lines-of-co.md)

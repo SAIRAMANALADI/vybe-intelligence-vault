@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Idefics2: A Powerful 8B Vision-Language Model for the community
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/idefics2
 
 ## Local Vault File
 
-Path: [huggingface-blog-idefics2.md](file:///../../ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)
+Path: [introducing-idefics2-a-powerful-8b-vision-language.md](../../ai/models/introducing-idefics2-a-powerful-8b-vision-language.md)

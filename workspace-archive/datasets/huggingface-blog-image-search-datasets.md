@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Image search with 🤗 datasets
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/image-search-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-image-search-datasets.md](file:///../../ai/models/image-search-with-datasets.md)
+Path: [image-search-with-datasets.md](../../ai/models/image-search-with-datasets.md)

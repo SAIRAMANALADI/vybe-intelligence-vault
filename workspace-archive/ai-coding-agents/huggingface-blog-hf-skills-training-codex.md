@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Codex is Open Sourcing AI models
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/hf-skills-training-codex
 
 ## Local Vault File
 
-Path: [huggingface-blog-hf-skills-training-codex.md](file:///../../ai/models/codex-is-open-sourcing-ai-models.md)
+Path: [codex-is-open-sourcing-ai-models.md](../../ai/models/codex-is-open-sourcing-ai-models.md)

@@ -12,8 +12,8 @@ Below is the file distribution across the vault categories.
 | `ai/companies/deepmind/` | 5 |
 | `ai/companies/mistral/` | 10 |
 | `ai/companies/openai/` | 4 |
-| `ai/models/` | 734 |
-| `ai/rag/` | 945 |
+| `ai/models/` | 744 |
+| `ai/rag/` | 946 |
 | `ai/releases/` | 3 |
 | `ai/research/` | 1214 |
 | `ai/resources/` | 27 |

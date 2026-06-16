@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # The Age of Machine Learning As Code Has Arrived
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/the-age-of-ml-as-code
 
 ## Local Vault File
 
-Path: [huggingface-blog-the-age-of-ml-as-code.md](file:///../../ai/models/the-age-of-machine-learning-as-code-has-arrived.md)
+Path: [the-age-of-machine-learning-as-code-has-arrived.md](../../ai/models/the-age-of-machine-learning-as-code-has-arrived.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Databricks ❤️ Hugging Face: up to 40% faster training and tuning of Large Language Models
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/databricks-case-study
 
 ## Local Vault File
 
-Path: [huggingface-blog-databricks-case-study.md](file:///../../ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)
+Path: [databricks-hugging-face-up-to-40-faster-training-a.md](../../ai/models/databricks-hugging-face-up-to-40-faster-training-a.md)

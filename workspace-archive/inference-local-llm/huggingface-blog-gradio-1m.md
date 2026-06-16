@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Journey to 1 Million Gradio Users!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-1m
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-1m.md](file:///../../ai/models/journey-to-1-million-gradio-users.md)
+Path: [journey-to-1-million-gradio-users.md](../../ai/models/journey-to-1-million-gradio-users.md)

@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Faster assisted generation support for Intel Gaudi
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/assisted-generation-support-gau
 
 ## Local Vault File
 
-Path: [huggingface-blog-assisted-generation-support-gaudi.md](file:///../../ai/models/faster-assisted-generation-support-for-intel-gaudi.md)
+Path: [faster-assisted-generation-support-for-intel-gaudi.md](../../ai/models/faster-assisted-generation-support-for-intel-gaudi.md)

@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Hugging Face and FriendliAI partner to supercharge model deployment on the Hub
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/friendliai-partnership
 
 ## Local Vault File
 
-Path: [huggingface-blog-friendliai-partnership.md](file:///../../ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)
+Path: [hugging-face-and-friendliai-partner-to-supercharge.md](../../ai/models/hugging-face-and-friendliai-partner-to-supercharge.md)

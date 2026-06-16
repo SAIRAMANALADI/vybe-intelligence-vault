@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Parameter-Efficient Fine-Tuning using 🤗 PEFT
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/peft
 
 ## Local Vault File
 
-Path: [huggingface-blog-peft.md](file:///../../ai/models/parameter-efficient-fine-tuning-using-peft.md)
+Path: [parameter-efficient-fine-tuning-using-peft.md](../../ai/models/parameter-efficient-fine-tuning-using-peft.md)

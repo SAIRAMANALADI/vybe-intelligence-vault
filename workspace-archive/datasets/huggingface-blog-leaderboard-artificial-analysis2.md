@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Launching the Artificial Analysis Text to Image Leaderboard & Arena
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/leaderboard-artificial-analysis
 
 ## Local Vault File
 
-Path: [huggingface-blog-leaderboard-artificial-analysis2.md](file:///../../ai/models/launching-the-artificial-analysis-text-to-image-le.md)
+Path: [launching-the-artificial-analysis-text-to-image-le.md](../../ai/models/launching-the-artificial-analysis-text-to-image-le.md)

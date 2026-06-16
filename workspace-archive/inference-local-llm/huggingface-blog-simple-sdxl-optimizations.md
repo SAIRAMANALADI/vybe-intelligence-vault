@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Exploring simple optimizations for SDXL
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/simple_sdxl_optimizations
 
 ## Local Vault File
 
-Path: [huggingface-blog-simple-sdxl-optimizations.md](file:///../../ai/models/exploring-simple-optimizations-for-sdxl.md)
+Path: [exploring-simple-optimizations-for-sdxl.md](../../ai/models/exploring-simple-optimizations-for-sdxl.md)

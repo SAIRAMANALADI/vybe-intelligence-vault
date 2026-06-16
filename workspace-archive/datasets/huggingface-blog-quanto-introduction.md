@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Quanto: a PyTorch quantization backend for Optimum
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/quanto-introduction
 
 ## Local Vault File
 
-Path: [huggingface-blog-quanto-introduction.md](file:///../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)
+Path: [quanto-a-pytorch-quantization-backend-for-optimum.md](../../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)

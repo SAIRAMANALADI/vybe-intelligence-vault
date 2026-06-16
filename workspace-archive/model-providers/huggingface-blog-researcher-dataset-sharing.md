@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Share your open ML datasets on Hugging Face Hub!
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/researcher-dataset-sharing
 
 ## Local Vault File
 
-Path: [huggingface-blog-researcher-dataset-sharing.md](file:///../../ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)
+Path: [share-your-open-ml-datasets-on-hugging-face-hub.md](../../ai/models/share-your-open-ml-datasets-on-hugging-face-hub.md)

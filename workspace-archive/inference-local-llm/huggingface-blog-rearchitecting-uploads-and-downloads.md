@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Rearchitecting Hugging Face Uploads and Downloads
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/rearchitecting-uploads-and-down
 
 ## Local Vault File
 
-Path: [huggingface-blog-rearchitecting-uploads-and-downloads.md](file:///../../ai/models/rearchitecting-hugging-face-uploads-and-downloads.md)
+Path: [rearchitecting-hugging-face-uploads-and-downloads.md](../../ai/models/rearchitecting-hugging-face-uploads-and-downloads.md)

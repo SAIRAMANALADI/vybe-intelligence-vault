@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Fine-Tune ViT for Image Classification with 🤗 Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fine-tune-vit
 
 ## Local Vault File
 
-Path: [huggingface-blog-fine-tune-vit.md](file:///../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)
+Path: [fine-tune-vit-for-image-classification-with-transf.md](../../ai/models/fine-tune-vit-for-image-classification-with-transf.md)

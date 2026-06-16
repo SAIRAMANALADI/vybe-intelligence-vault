@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Model Cards
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/model-cards
 
 ## Local Vault File
 
-Path: [huggingface-blog-model-cards.md](file:///../../ai/models/model-cards.md)
+Path: [model-cards.md](../../ai/models/model-cards.md)

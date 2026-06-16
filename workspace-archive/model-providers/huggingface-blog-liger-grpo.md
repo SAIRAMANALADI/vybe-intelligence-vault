@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🐯 Liger GRPO meets TRL
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/liger-grpo
 
 ## Local Vault File
 
-Path: [huggingface-blog-liger-grpo.md](file:///../../ai/models/liger-grpo-meets-trl.md)
+Path: [liger-grpo-meets-trl.md](../../ai/models/liger-grpo-meets-trl.md)

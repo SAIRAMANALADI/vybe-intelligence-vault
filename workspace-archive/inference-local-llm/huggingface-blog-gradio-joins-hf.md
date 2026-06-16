@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Gradio is joining Hugging Face!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-joins-hf
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-joins-hf.md](file:///../../ai/models/gradio-is-joining-hugging-face.md)
+Path: [gradio-is-joining-hugging-face.md](../../ai/models/gradio-is-joining-hugging-face.md)

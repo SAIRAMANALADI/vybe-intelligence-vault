@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Run ComfyUI workflows for free with Gradio on Hugging Face Spaces
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/run-comfyui-workflows-on-spaces
 
 ## Local Vault File
 
-Path: [huggingface-blog-run-comfyui-workflows-on-spaces.md](file:///../../ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)
+Path: [run-comfyui-workflows-for-free-with-gradio-on-hugg.md](../../ai/models/run-comfyui-workflows-for-free-with-gradio-on-hugg.md)

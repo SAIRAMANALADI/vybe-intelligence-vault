@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # 🧨 Accelerating Stable Diffusion XL Inference with JAX on Cloud TPU v5e
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/sdxl_jax
 
 ## Local Vault File
 
-Path: [huggingface-blog-sdxl-jax.md](file:///../../ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)
+Path: [accelerating-stable-diffusion-xl-inference-with-ja.md](../../ai/models/accelerating-stable-diffusion-xl-inference-with-ja.md)

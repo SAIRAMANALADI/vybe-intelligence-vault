@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Storage Regions on the HF Hub
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/regions
 
 ## Local Vault File
 
-Path: [huggingface-blog-regions.md](file:///../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)
+Path: [introducing-storage-regions-on-the-hf-hub.md](../../ai/rag/introducing-storage-regions-on-the-hf-hub.md)

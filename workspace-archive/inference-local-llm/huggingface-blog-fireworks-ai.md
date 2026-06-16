@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcome Fireworks.ai on the Hub 🎆
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/fireworks-ai
 
 ## Local Vault File
 
-Path: [huggingface-blog-fireworks-ai.md](file:///../../ai/models/welcome-fireworks-ai-on-the-hub.md)
+Path: [welcome-fireworks-ai-on-the-hub.md](../../ai/models/welcome-fireworks-ai-on-the-hub.md)

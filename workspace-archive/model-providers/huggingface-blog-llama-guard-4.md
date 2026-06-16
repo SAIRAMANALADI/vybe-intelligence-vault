@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Welcoming Llama Guard 4 on Hugging Face Hub
 
 ## Why This Is In The Archive
@@ -44,4 +43,4 @@ Original source URL: https://huggingface.co/blog/llama-guard-4
 
 ## Local Vault File
 
-Path: [huggingface-blog-llama-guard-4.md](file:///../../ai/models/welcoming-llama-guard-4-on-hugging-face-hub.md)
+Path: [welcoming-llama-guard-4-on-hugging-face-hub.md](../../ai/models/welcoming-llama-guard-4-on-hugging-face-hub.md)

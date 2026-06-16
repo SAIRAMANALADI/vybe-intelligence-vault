@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Multimodal Embedding & Reranker Models with Sentence Transformers
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/multimodal-sentence-transformer
 
 ## Local Vault File
 
-Path: [huggingface-blog-multimodal-sentence-transformers.md](file:///../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)
+Path: [multimodal-embedding-reranker-models-with-sentence.md](../../ai/models/multimodal-embedding-reranker-models-with-sentence.md)

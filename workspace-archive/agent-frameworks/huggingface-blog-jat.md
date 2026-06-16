@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/jat
 
 ## Local Vault File
 
-Path: [huggingface-blog-jat.md](file:///../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)
+Path: [jack-of-all-trades-master-of-some-a-multi-purpose.md](../../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)

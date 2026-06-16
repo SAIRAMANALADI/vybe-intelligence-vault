@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploy models on AWS Inferentia2 from Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/inferentia-inference-endpoints
 
 ## Local Vault File
 
-Path: [huggingface-blog-inferentia-inference-endpoints.md](file:///../../ai/models/deploy-models-on-aws-inferentia2-from-hugging-face.md)
+Path: [deploy-models-on-aws-inferentia2-from-hugging-face.md](../../ai/models/deploy-models-on-aws-inferentia2-from-hugging-face.md)

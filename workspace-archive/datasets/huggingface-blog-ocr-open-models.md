@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Supercharge your OCR Pipelines with Open Models
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/ocr-open-models
 
 ## Local Vault File
 
-Path: [huggingface-blog-ocr-open-models.md](file:///../../ai/models/supercharge-your-ocr-pipelines-with-open-models.md)
+Path: [supercharge-your-ocr-pipelines-with-open-models.md](../../ai/models/supercharge-your-ocr-pipelines-with-open-models.md)

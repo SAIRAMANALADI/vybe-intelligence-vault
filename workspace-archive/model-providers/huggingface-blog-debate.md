@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Letting Large Models Debate: The First Multilingual LLM Debate Competition
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/debate
 
 ## Local Vault File
 
-Path: [huggingface-blog-debate.md](file:///../../ai/models/letting-large-models-debate-the-first-multilingual.md)
+Path: [letting-large-models-debate-the-first-multilingual.md](../../ai/models/letting-large-models-debate-the-first-multilingual.md)

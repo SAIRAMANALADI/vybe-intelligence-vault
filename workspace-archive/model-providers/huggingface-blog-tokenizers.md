@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Tokenization in Transformers v5: Simpler, Clearer, and More Modular
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/tokenizers
 
 ## Local Vault File
 
-Path: [huggingface-blog-tokenizers.md](file:///../../ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)
+Path: [tokenization-in-transformers-v5-simpler-clearer-an.md](../../ai/models/tokenization-in-transformers-v5-simpler-clearer-an.md)

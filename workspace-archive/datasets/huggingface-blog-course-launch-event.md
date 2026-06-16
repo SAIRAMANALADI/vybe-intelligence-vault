@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Course Launch Community Event
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/course-launch-event
 
 ## Local Vault File
 
-Path: [huggingface-blog-course-launch-event.md](file:///../../ai/models/course-launch-community-event.md)
+Path: [course-launch-community-event.md](../../ai/models/course-launch-community-event.md)

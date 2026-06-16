@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # PatchTSMixer in HuggingFace
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/patchtsmixer
 
 ## Local Vault File
 
-Path: [huggingface-blog-patchtsmixer.md](file:///../../ai/models/patchtsmixer-in-huggingface.md)
+Path: [patchtsmixer-in-huggingface.md](../../ai/models/patchtsmixer-in-huggingface.md)

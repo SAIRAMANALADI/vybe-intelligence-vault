@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Spaces Dev Mode for a seamless developer experience
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/spaces-dev-mode
 
 ## Local Vault File
 
-Path: [huggingface-blog-spaces-dev-mode.md](file:///../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)
+Path: [introducing-spaces-dev-mode-for-a-seamless-develop.md](../../ai/models/introducing-spaces-dev-mode-for-a-seamless-develop.md)

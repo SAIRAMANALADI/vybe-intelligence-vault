@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Incredibly Fast BLOOM Inference with DeepSpeed and Accelerate
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/bloom-inference-pytorch-scripts
 
 ## Local Vault File
 
-Path: [huggingface-blog-bloom-inference-pytorch-scripts.md](file:///../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)
+Path: [incredibly-fast-bloom-inference-with-deepspeed-and.md](../../ai/models/incredibly-fast-bloom-inference-with-deepspeed-and.md)

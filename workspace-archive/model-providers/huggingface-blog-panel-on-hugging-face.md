@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Panel on Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/panel-on-hugging-face
 
 ## Local Vault File
 
-Path: [huggingface-blog-panel-on-hugging-face.md](file:///../../ai/models/panel-on-hugging-face.md)
+Path: [panel-on-hugging-face.md](../../ai/models/panel-on-hugging-face.md)

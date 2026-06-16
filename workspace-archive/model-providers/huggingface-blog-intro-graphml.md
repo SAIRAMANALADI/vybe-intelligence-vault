@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introduction to Graph Machine Learning
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/intro-graphml
 
 ## Local Vault File
 
-Path: [huggingface-blog-intro-graphml.md](file:///../../ai/models/introduction-to-graph-machine-learning.md)
+Path: [introduction-to-graph-machine-learning.md](../../ai/models/introduction-to-graph-machine-learning.md)

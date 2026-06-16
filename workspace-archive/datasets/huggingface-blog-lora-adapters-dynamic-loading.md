@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Goodbye cold boot - how we made LoRA Inference 300% faster
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lora-adapters-dynamic-loading
 
 ## Local Vault File
 
-Path: [huggingface-blog-lora-adapters-dynamic-loading.md](file:///../../ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)
+Path: [goodbye-cold-boot-how-we-made-lora-inference-300-f.md](../../ai/models/goodbye-cold-boot-how-we-made-lora-inference-300-f.md)

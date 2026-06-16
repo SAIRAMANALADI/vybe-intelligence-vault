@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # SigLIP 2: A better multilingual vision language encoder
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/siglip2
 
 ## Local Vault File
 
-Path: [huggingface-blog-siglip2.md](file:///../../ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)
+Path: [siglip-2-a-better-multilingual-vision-language-enc.md](../../ai/models/siglip-2-a-better-multilingual-vision-language-enc.md)

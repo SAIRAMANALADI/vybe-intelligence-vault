@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Efficient MultiModal Data Pipeline
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/mmdp
 
 ## Local Vault File
 
-Path: [huggingface-blog-mmdp.md](file:///../../ai/models/efficient-multimodal-data-pipeline.md)
+Path: [efficient-multimodal-data-pipeline.md](../../ai/models/efficient-multimodal-data-pipeline.md)

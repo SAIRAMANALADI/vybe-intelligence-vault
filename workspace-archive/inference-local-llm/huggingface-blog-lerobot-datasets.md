@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # LeRobot Community Datasets: The “ImageNet” of Robotics — When and How?
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-datasets.md](file:///../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)
+Path: [lerobot-community-datasets-the-imagenet-of-robotic.md](../../ai/models/lerobot-community-datasets-the-imagenet-of-robotic.md)

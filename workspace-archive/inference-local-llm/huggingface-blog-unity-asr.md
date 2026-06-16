@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # AI Speech Recognition in Unity
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/unity-asr
 
 ## Local Vault File
 
-Path: [huggingface-blog-unity-asr.md](file:///../../ai/models/ai-speech-recognition-in-unity.md)
+Path: [ai-speech-recognition-in-unity.md](../../ai/models/ai-speech-recognition-in-unity.md)

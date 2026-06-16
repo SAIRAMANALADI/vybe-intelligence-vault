@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Can foundation models label data like humans?
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/open-llm-leaderboard-rlhf
 
 ## Local Vault File
 
-Path: [huggingface-blog-open-llm-leaderboard-rlhf.md](file:///../../ai/models/can-foundation-models-label-data-like-humans.md)
+Path: [can-foundation-models-label-data-like-humans.md](../../ai/models/can-foundation-models-label-data-like-humans.md)

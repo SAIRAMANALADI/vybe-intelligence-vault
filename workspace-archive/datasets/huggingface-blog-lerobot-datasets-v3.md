@@ -17,7 +17,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # `LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`
 
 ## Why This Is In The Archive
@@ -45,4 +44,4 @@ Original source URL: https://huggingface.co/blog/lerobot-datasets-v3
 
 ## Local Vault File
 
-Path: [huggingface-blog-lerobot-datasets-v3.md](file:///../../ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md)
+Path: [lerobotdataset-v3-0-bringing-large-scale-datasets.md](../../ai/models/lerobotdataset-v3-0-bringing-large-scale-datasets.md)

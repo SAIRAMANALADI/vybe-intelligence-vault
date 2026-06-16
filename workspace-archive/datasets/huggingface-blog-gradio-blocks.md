@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Gradio 3.0 is Out!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-blocks
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-blocks.md](file:///../../ai/models/gradio-3-0-is-out.md)
+Path: [gradio-3-0-is-out.md](../../ai/models/gradio-3-0-is-out.md)

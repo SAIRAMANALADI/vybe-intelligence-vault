@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Supercharged Searching on the 🤗 Hub
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/searching-the-hub
 
 ## Local Vault File
 
-Path: [huggingface-blog-searching-the-hub.md](file:///../../ai/models/supercharged-searching-on-the-hub.md)
+Path: [supercharged-searching-on-the-hub.md](../../ai/models/supercharged-searching-on-the-hub.md)

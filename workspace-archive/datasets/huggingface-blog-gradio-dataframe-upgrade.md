@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Introducing Gradio's new Dataframe!
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/gradio-dataframe-upgrade
 
 ## Local Vault File
 
-Path: [huggingface-blog-gradio-dataframe-upgrade.md](file:///../../ai/models/introducing-gradio-s-new-dataframe.md)
+Path: [introducing-gradio-s-new-dataframe.md](../../ai/models/introducing-gradio-s-new-dataframe.md)

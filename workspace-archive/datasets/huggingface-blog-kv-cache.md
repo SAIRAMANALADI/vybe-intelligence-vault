@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # KV Cache from scratch in nanoVLM
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/kv-cache
 
 ## Local Vault File
 
-Path: [huggingface-blog-kv-cache.md](file:///../../ai/models/kv-cache-from-scratch-in-nanovlm.md)
+Path: [kv-cache-from-scratch-in-nanovlm.md](../../ai/models/kv-cache-from-scratch-in-nanovlm.md)

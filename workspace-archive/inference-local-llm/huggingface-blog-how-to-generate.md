@@ -15,7 +15,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # How to generate text: using different decoding methods for language generation with Transformers
 
 ## Why This Is In The Archive
@@ -42,4 +41,4 @@ Original source URL: https://huggingface.co/blog/how-to-generate
 
 ## Local Vault File
 
-Path: [huggingface-blog-how-to-generate.md](file:///../../ai/models/how-to-generate-text-using-different-decoding-meth.md)
+Path: [how-to-generate-text-using-different-decoding-meth.md](../../ai/models/how-to-generate-text-using-different-decoding-meth.md)

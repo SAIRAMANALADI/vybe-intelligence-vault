@@ -16,7 +16,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Generate Images with Claude and Hugging Face
 
 ## Why This Is In The Archive
@@ -43,4 +42,4 @@ Original source URL: https://huggingface.co/blog/claude-and-mcp
 
 ## Local Vault File
 
-Path: [huggingface-blog-claude-and-mcp.md](file:///../../ai/models/generate-images-with-claude-and-hugging-face.md)
+Path: [generate-images-with-claude-and-hugging-face.md](../../ai/models/generate-images-with-claude-and-hugging-face.md)

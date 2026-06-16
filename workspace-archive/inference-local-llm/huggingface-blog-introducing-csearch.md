@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Generating Human-level Text with Contrastive Search in Transformers 🤗
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/introducing-csearch
 
 ## Local Vault File
 
-Path: [huggingface-blog-introducing-csearch.md](file:///../../ai/models/generating-human-level-text-with-contrastive-searc.md)
+Path: [generating-human-level-text-with-contrastive-searc.md](../../ai/models/generating-human-level-text-with-contrastive-searc.md)

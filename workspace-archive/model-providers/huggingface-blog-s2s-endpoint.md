@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Deploying Speech-to-Speech on Hugging Face
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/s2s_endpoint
 
 ## Local Vault File
 
-Path: [huggingface-blog-s2s-endpoint.md](file:///../../ai/models/deploying-speech-to-speech-on-hugging-face.md)
+Path: [deploying-speech-to-speech-on-hugging-face.md](../../ai/models/deploying-speech-to-speech-on-hugging-face.md)

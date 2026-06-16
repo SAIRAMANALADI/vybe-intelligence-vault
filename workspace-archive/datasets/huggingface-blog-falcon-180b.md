@@ -14,7 +14,6 @@ selection_reason:
 - Valuable developer reference
 ---
 
-
 # Spread Your Wings: Falcon 180B is here
 
 ## Why This Is In The Archive
@@ -41,4 +40,4 @@ Original source URL: https://huggingface.co/blog/falcon-180b
 
 ## Local Vault File
 
-Path: [huggingface-blog-falcon-180b.md](file:///../../ai/models/spread-your-wings-falcon-180b-is-here.md)
+Path: [spread-your-wings-falcon-180b-is-here.md](../../ai/models/spread-your-wings-falcon-180b-is-here.md)
