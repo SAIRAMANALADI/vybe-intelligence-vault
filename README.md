@@ -44,29 +44,29 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3823 |
+| Resources tracked | 3824 |
 | Active resources | 3750 |
-| Inactive resources | 73 |
-| Archive files | 18575 |
+| Inactive resources | 74 |
+| Archive files | 18576 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 22:04 IST |
+| Last meaningful update | 2026-06-16 22:54 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +2) (+166 points)
-- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +94)
-- **[19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)** (Rank: +202)
-- **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (Rank: +105)
-- **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (Rank: +100)
+- **[Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +2) (+197 points)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +92)
+- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +93)
+- **[The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)** (Rank: +103)
+- **[Google Colab](ai/rag/google-colab.md)** (Rank: +203)
 
 #### ✨ New Discoveries
-- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 673)
-- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)** (Score: 90)
+- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 716)
+- **[After AI Takes Everything](ai/community/after-ai-takes-everything.md)** (Score: 17)
 - **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)** (Score: 0)
 - **[AI for Game Development: Creating a Farming Game in 5 Days. Part 1](ai/models/huggingface-blog-ml-for-games-1.md)** (Score: 0)
 - **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](ai/models/huggingface-blog-intel-sapphire-rapids.md)** (Score: 0)

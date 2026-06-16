@@ -856,8 +856,8 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
-  - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
+  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
 
 ## animation
@@ -941,7 +941,6 @@ Resources organized by keyword tags.
   - [Embedded Arena: Iterative Optimization via Hardware Feedback](../ai/agents/arxiv-2606-16190.md)
   - [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](../ai/agents/arxiv-2606-13602.md)
   - [Evolutionary Dynamics of Cooperation in Next-Generation LLM Agent Systems: A Cross-Provider Empirical Extension](../ai/rag/arxiv-2605-29874.md)
-  - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
   - [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
   - [From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails](../ai/agents/arxiv-2606-14517.md)
@@ -3233,6 +3232,7 @@ Resources organized by keyword tags.
   - [Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems](../ai/rag/arxiv-2606-12337.md)
   - [Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](../ai/rag/arxiv-2606-11615.md)
   - [Advanced Machine Learning and Deep Learning Techniques for Enhanced Cattle Identification and Detection: A Comprehensive Review](../ai/research/arxiv-2606-15655.md)
+  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
   - [Agent trajectories as programs: fingerprinting and programming coding-agent behavior](../ai/agents/arxiv-2606-16988.md)
   - [Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems](../ai/rag/arxiv-2606-15591.md)
   - [Agentomics: Economic Foundations for the Valuation, Attribution, and Pricing of AI Agents in Human-AI Workflows](../ai/agents/arxiv-2606-14769.md)
@@ -3326,9 +3326,8 @@ Resources organized by keyword tags.
   - [Evolving Agents in the Dark: Retrospective Harness Optimization via Self-Preference](../ai/agents/arxiv-2606-05922.md)
   - [Explainable deep learning improves human mental models of self-driving cars](../ai/agents/arxiv-2411-18714.md)
   - [Exploiting Search in Symbolic Numeric Planning with Patterns](../ai/research/arxiv-2606-16329.md)
-  - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
   - [Family-Aware Residual Architecture for Predicting Quantum Circuit Simulation Performance](../ai/research/arxiv-2606-11620.md)
-  - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training](../ai/research/arxiv-2606-11854.md)
   - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](../ai/rag/five-guides-to-building-and-scaling-production-rea.md)
   - [Fodor and Pylyshyn's Systematicity Challenge Still Stands](../ai/research/arxiv-2606-14512.md)
@@ -6232,7 +6231,7 @@ Resources organized by keyword tags.
   - [Epiczzor/r3f-template](../web-development/react-three-fiber/epiczzor-r3f-template.md)
   - [Fast-dLLM++: Fr\'{e}chet Profile Decoding for Faster Diffusion LLM Inference](../ai/research/arxiv-2606-02955.md)
   - [Feature Attribution in Directed Acyclic Graphs Using Edge Intervention](../ai/research/arxiv-2606-15273.md)
-  - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [Fortifying AutoGen](../ai/rag/fortifying-autogen.md)
   - [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../ai/rag/free-project-status-report-template-weekly-monthly.md)
   - [Free RAG Status Report Template to Edit Online](../ai/rag/free-rag-status-report-template-to-edit-online.md)
@@ -7181,4 +7180,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-16T22:03:31.616371+05:30*
+*Index generated on 2026-06-16T22:53:40.999274+05:30*

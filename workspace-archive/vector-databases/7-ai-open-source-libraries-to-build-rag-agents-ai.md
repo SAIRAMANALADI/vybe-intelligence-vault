@@ -35,7 +35,7 @@ selection_reason:
 
 ## Summary
 
-𝚂𝚊𝚞𝚛𝚊𝚋𝚑 𝚁𝚊𝚒 for Vector Podcast Posted on Nov 14, 2024 • Edited on Nov 22, 2024 • Originally published at vectorpodcast.com 7 AI Open Source Libraries To Build RAG, Agents & AI Search #ai #opensource #python #beginners What is Retrieval Augmented Gene...
+𝚂𝚊𝚞𝚛𝚊𝚋𝚑 𝚁𝚊𝚒 for Vector Podcast Posted on Nov 14, 2024 • Edited on Nov 22, 2024 • Originally published at vectorpodcast.com 7 AI Open Source Libraries To Build RAG, Agents & AI Search #opensource #ai #python #beginners What is Retrieval Augmented Gene...
 
 ## Use Cases
 

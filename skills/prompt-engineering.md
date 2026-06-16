@@ -20,11 +20,11 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 108 resources matched in the intelligence vault.
 Recently detected signals:
-- [K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model](../ai/rag/arxiv-2509-25594.md) (Source: Unknown Source) - Collected 2026-06-16
-- [The Illusion of Multi-Agent Advantage](../ai/agents/arxiv-2606-13003.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](../ai/agents/arxiv-2603-15952.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts](../ai/research/arxiv-2606-16845.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Tyler: Typed Latent Reasoning for Language Models -- When to Think, What to Compute, and How Much to Allocate](../ai/research/arxiv-2606-16360.md) (Source: Unknown Source) - Collected 2026-06-16
+- [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Acoustic Prompting via Stage-wise Modulation for Few-Shot Learning in Audio Language Models](../ai/research/arxiv-2606-15751.md) (Source: Unknown Source) - Collected 2026-06-16
+- [DLWM: Diverse Latent World Models for Efficient Multimodal Reasoning](../ai/research/arxiv-2606-15160.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Think Less, Act Early: Reinforced Latent Reasoning with Early Exit in Vision-Language-Action Models](../ai/rag/arxiv-2606-15099.md) (Source: Unknown Source) - Collected 2026-06-16
+- [LLM-Based Synthetic Ground Truth Generation for Audio-Based Emotion Classification via In-Context Learning](../ai/rag/arxiv-2606-14784.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -60,4 +60,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T22:03:29.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T22:53:38.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

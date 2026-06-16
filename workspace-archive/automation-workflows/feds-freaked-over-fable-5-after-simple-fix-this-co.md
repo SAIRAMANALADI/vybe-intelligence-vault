@@ -1,5 +1,5 @@
 ---
-title: Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak
+title: Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
@@ -19,7 +19,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak
+# Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers
 
 ## Why This Is In The Archive
 
@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by _tk_. Score: 418, Comments: 233.
+Hacker News story by _tk_. Score: 449, Comments: 276.
 Original Link: https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827
 
 ## Use Cases

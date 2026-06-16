@@ -2754,8 +2754,8 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
-  - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
+  - [After AI Takes Everything](../ai/community/after-ai-takes-everything.md)
+  - [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
 
 ## Unknown Source (type: huggingface)
@@ -3783,4 +3783,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-16T22:03:31.653995+05:30*
+*Index generated on 2026-06-16T22:53:41.040389+05:30*

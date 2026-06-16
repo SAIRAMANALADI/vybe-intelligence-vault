@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://rag.readthedocs.io
-published_at: '2026-06-16T22:01:51.358343+05:30'
-collected_at: '2026-06-16T22:01:51.358357+05:30'
+published_at: '2026-06-16T22:52:00.173726+05:30'
+collected_at: '2026-06-16T22:52:00.173740+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:retrieval-augmented-generation-rag-rag-multi-model
-first_seen: '2026-06-16T22:01:51.358357+05:30'
-last_seen: '2026-06-16T22:01:51.358357+05:30'
-last_checked: '2026-06-16T22:01:51.358357+05:30'
+first_seen: '2026-06-16T22:52:00.173740+05:30'
+last_seen: '2026-06-16T22:52:00.173740+05:30'
+last_checked: '2026-06-16T22:52:00.173740+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-16T22:01:51.358343+05:30
+- Published: 2026-06-16T22:52:00.173726+05:30
 
 ## Related Tags
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-16T22:04:03.632847+05:30`
+Generated at: `2026-06-16T22:54:15.538591+05:30`
 
 ## Executive Summary
 
@@ -8,8 +8,8 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **I admire Fabrice Bellard. He is almost certainly a better overall programmer** - Score: `673` in category `ai/community` ([Link](https://twitter.com/id_aa_carmack/status/2064095424420487226)) ([File](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md))
-- **Fable ban was never about a jailbreak** - Score: `90` in category `ai/community` ([Link](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak)) ([File](../ai/community/fable-ban-was-never-about-a-jailbreak.md))
+- **I admire Fabrice Bellard. He is almost certainly a better overall programmer** - Score: `716` in category `ai/community` ([Link](https://twitter.com/id_aa_carmack/status/2064095424420487226)) ([File](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md))
+- **After AI Takes Everything** - Score: `17` in category `ai/community` ([Link](https://ursb.me/en/posts/after-ai-takes-everything)) ([File](../ai/community/after-ai-takes-everything.md))
 - **rmyndharis/OpenWA** - Score: `0` in category `ai/trending` ([Link](https://github.com/rmyndharis/openwa)) ([File](../ai/trending/rmyndharis-openwa.md))
 - **AI for Game Development: Creating a Farming Game in 5 Days. Part 1** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/ml-for-games-1)) ([File](../ai/models/huggingface-blog-ml-for-games-1.md))
 - **Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/intel-sapphire-rapids)) ([File](../ai/models/huggingface-blog-intel-sapphire-rapids.md))
@@ -26,29 +26,29 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## 🔥 Top Trending Resources
 
-- **Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak** - Score: `418` (+166), Rank Change: `+2` ([File](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md))
-- **datawhalechina/hello-agents** - Score: `0` (0), Rank Change: `+94` ([File](../ai/rag/datawhalechina-hello-agents.md))
-- **19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations** - Score: `0` (0), Rank Change: `+202` ([File](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md))
-- **Build a RAG agent with LangChain - Docs by LangChain** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+100` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - Score: `0` (0), Rank Change: `+1325` ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
-- **Build a RAG Chatbot in 30 Min with Python + LangChain [2026]** - Score: `0` (0), Rank Change: `+105` ([File](../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md))
-- **Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech** - Score: `0` (0), Rank Change: `+102` ([File](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md))
-- **Google Colab** - Score: `0` (0), Rank Change: `+199` ([File](../ai/rag/google-colab.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - Score: `0` (0), Rank Change: `+200` ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
+- **Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers** - Score: `449` (+197), Rank Change: `+2` ([File](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md))
+- **patchy631/ai-engineering-hub** - Score: `0` (0), Rank Change: `+92` ([File](../ai/rag/patchy631-ai-engineering-hub.md))
+- **datawhalechina/hello-agents** - Score: `0` (0), Rank Change: `+93` ([File](../ai/rag/datawhalechina-hello-agents.md))
+- **The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte** - Score: `0` (0), Rank Change: `+103` ([File](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md))
+- **Google Colab** - Score: `0` (0), Rank Change: `+203` ([File](../ai/rag/google-colab.md))
+- **Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech** - Score: `0` (0), Rank Change: `+104` ([File](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md))
+- **The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all** - Score: `0` (0), Rank Change: `+107` ([File](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md))
+- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - Score: `0` (0), Rank Change: `+100` ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
+- **Build a RAG agent with LangChain - Docs by LangChain** - Score: `0` (0), Rank Change: `+100` ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
+- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - Score: `0` (0), Rank Change: `+87` ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **pguso/rag-from-scratch** - (Rank Change: `+1354`) ([File](../ai/rag/pguso-rag-from-scratch.md))
-- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+1328`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
-- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - (Rank Change: `+1325`) ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+1324`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations** - (Rank Change: `+202`) ([File](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md))
-- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - (Rank Change: `+200`) ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
-- **Google Colab** - (Rank Change: `+199`) ([File](../ai/rag/google-colab.md))
-- **Code a simple RAG from scratch** - (Rank Change: `+195`) ([File](../ai/rag/code-a-simple-rag-from-scratch.md))
-- **How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn** - (Rank Change: `+193`) ([File](../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md))
-- **Build a RAG agent with LangChain - Docs by LangChain** - (Rank Change: `+105`) ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
+- **7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community** - (Rank Change: `+3347`) ([File](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md))
+- **pguso/rag-from-scratch** - (Rank Change: `+1348`) ([File](../ai/rag/pguso-rag-from-scratch.md))
+- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+1333`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
+- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+1317`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
+- **RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary** - (Rank Change: `+1309`) ([File](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md))
+- **Google Colab** - (Rank Change: `+203`) ([File](../ai/rag/google-colab.md))
+- **The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar** - (Rank Change: `+198`) ([File](../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
+- **19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations** - (Rank Change: `+194`) ([File](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md))
+- **Code a simple RAG from scratch** - (Rank Change: `+193`) ([File](../ai/rag/code-a-simple-rag-from-scratch.md))
+- **How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn** - (Rank Change: `+184`) ([File](../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md))
 
 ## 🔄 Essential Tier Transitions
 

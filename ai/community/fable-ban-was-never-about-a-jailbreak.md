@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:fable-ban-was-never-about-a-jailbreak
 first_seen: '2026-06-16T21:39:06.944296+05:30'
 last_seen: '2026-06-16T22:00:51.370456+05:30'
 last_checked: '2026-06-16T22:00:51.370456+05:30'
 health_score: 100
 ---
+
 
 # Fable ban was never about a jailbreak
 

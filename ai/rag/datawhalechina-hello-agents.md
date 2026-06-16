@@ -4,14 +4,14 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/datawhalechina/hello-agents
-collected_at: '2026-06-16T22:02:43.616771+05:30'
-published_at: '2026-06-16T16:29:20Z'
+collected_at: '2026-06-16T22:52:52.744826+05:30'
+published_at: '2026-06-16T17:19:00Z'
 tags:
 - agents
 - github-repo
 - python
 - rag
-stars: 59712
+stars: 59715
 language: Python
 status: active
 license: NOASSERTION
@@ -19,9 +19,9 @@ archived: false
 created_at: '2025-09-07T09:50:24Z'
 pushed_at: '2026-06-11T10:28:14Z'
 resource_id: github:datawhalechina/hello-agents
-first_seen: '2026-06-16T22:02:43.616771+05:30'
-last_seen: '2026-06-16T22:02:43.616771+05:30'
-last_checked: '2026-06-16T22:02:43.616771+05:30'
+first_seen: '2026-06-16T22:52:52.744826+05:30'
+last_seen: '2026-06-16T22:52:52.744826+05:30'
+last_checked: '2026-06-16T22:52:52.744826+05:30'
 health_score: 100
 ---
 
@@ -38,11 +38,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: datawhalechina
-- Stars: 59712
+- Stars: 59715
 - Forks: 7345
 - Language: Python
 - Topics: agent, llm, rag, tutorial
-- Last Updated: 2026-06-16T16:29:20Z
+- Last Updated: 2026-06-16T17:19:00Z
 - License: NOASSERTION
 - Archived: No
 - Created At: 2025-09-07T09:50:24Z
