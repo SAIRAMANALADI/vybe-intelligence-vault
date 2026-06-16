@@ -13,13 +13,14 @@ collected_at: '2026-06-16T21:39:08.380237+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:tinywind-a-pixel-pirate-sailing-game-with-real-win
 first_seen: '2026-06-16T04:26:22.544357+00:00'
 last_seen: '2026-06-16T21:39:08.380237+05:30'
 last_checked: '2026-06-16T21:39:08.380237+05:30'
 health_score: 100
 ---
+
 
 # TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)
 

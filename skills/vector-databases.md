@@ -20,11 +20,11 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 930 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-16
-- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-16
-- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-16
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-16
-- [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-16
+- [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-16
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-16
+- [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -100,50 +100,50 @@ Recently detected signals:
 - Language: Unknown
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 15. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
-- Stars: 0
-- Language: Unknown
-- Description: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. /AI.
-
-### 16. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
-- Stars: 0
-- Language: Unknown
-- Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
-
-### 17. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
-- Stars: 0
-- Language: Unknown
-- Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-
-### 18. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
-- Stars: 0
-- Language: Unknown
-- Description: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
-
-### 19. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
-- Stars: 0
-- Language: Unknown
-- Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
-
-### 20. [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: crewAIInc/crewAI
-
-### 21. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 15. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-### 22. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 16. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
+- Stars: 0
+- Language: Unknown
+- Description: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. /AI.
+
+### 17. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+- Stars: 0
+- Language: Unknown
+- Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
+
+### 18. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+- Stars: 0
+- Language: Unknown
+- Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+
+### 19. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
 - Stars: 0
 - Language: Unknown
 - Description: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-### 23. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 20. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
+- Stars: 0
+- Language: Unknown
+- Description: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
+
+### 21. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+
+### 22. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+- Stars: 0
+- Language: Unknown
+- Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
+
+### 23. [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: crewAIInc/crewAI
 
 ### 24. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
 - Stars: 0
@@ -260,15 +260,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: A curated collection of AI architecture patterns, research papers, and engineering best practices for scalable, efficient, and secure AI systems. Covers LLMs, RAG, inference optimization, MLOps, qu...
 
-### 47. [alibaba/zvec](../ai/rag/alibaba-zvec.md) ([GitHub](https://github.com/alibaba/zvec))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: alibaba/zvec
-
-### 48. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+### 47. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
 - Stars: 0
 - Language: Unknown
 - Description: RAG https://datawhalechina.github.io/all-in-rag/
+
+### 48. [alibaba/zvec](../ai/rag/alibaba-zvec.md) ([GitHub](https://github.com/alibaba/zvec))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: alibaba/zvec
 
 ### 49. [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md) ([GitHub](https://github.com/techwithtim/langflow-rag-tutorial))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T21:41:43.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T22:03:29.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

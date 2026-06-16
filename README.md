@@ -45,38 +45,38 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Metric | Count |
 |---|---:|
 | Resources tracked | 3823 |
-| Active resources | 3752 |
-| Inactive resources | 71 |
+| Active resources | 3750 |
+| Inactive resources | 73 |
 | Archive files | 18575 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-16 21:42 IST |
+| Last meaningful update | 2026-06-16 22:04 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +1) (+152 points)
-- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)** (Rank: +1) (+32 points)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +1370)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +89)
-- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +89)
+- **[Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)** (Rank: +2) (+166 points)
+- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +94)
+- **[19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)** (Rank: +202)
+- **[Build a RAG agent with LangChain - Docs by LangChain](ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md)** (Rank: +105)
+- **[7 Best GitHub Repositories For Mastering RAG Systems](ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)** (Rank: +100)
 
 #### ✨ New Discoveries
-- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 648)
-- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)** (Score: 46)
-- **[Show HN: Hackers for Granny (defense against industrialized elder fraud)](ai/community/show-hn-hackers-for-granny-defense-against-industr.md)** (Score: 40)
-- **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (Score: 0)
+- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (Score: 673)
+- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)** (Score: 90)
 - **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)** (Score: 0)
+- **[AI for Game Development: Creating a Farming Game in 5 Days. Part 1](ai/models/huggingface-blog-ml-for-games-1.md)** (Score: 0)
+- **[Accelerating PyTorch Transformers with Intel Sapphire Rapids - part 1](ai/models/huggingface-blog-intel-sapphire-rapids.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
 - **[Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](ai/community/ask-hn-has-anyone-replaced-claude-gpt-with-a-local.md)**
+- **[TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)**
 - **[My Homelab AI Dev Platform](ai/community/my-homelab-ai-dev-platform.md)**
 - **[Why I email complete strangers](ai/community/why-i-email-complete-strangers.md)**
 - **[Import AI 442: Winners and losers in the AI economy; math proof automation; and industrialization of cyber espionage](ai/rag/import-ai-442-winners-and-losers-in-the-ai-economy.md)**
-- **[Import AI 443: Into the mist: Moltbook, agent ecologies, and the internet in transition](ai/rag/import-ai-443-into-the-mist-moltbook-agent-ecologi.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

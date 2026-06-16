@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide
-published_at: '2026-06-15T23:09:25.906741+00:00'
-collected_at: '2026-06-15T23:09:25.906748+00:00'
+published_at: '2026-06-16T22:01:56.988219+05:30'
+collected_at: '2026-06-16T22:01:56.988232+05:30'
 tags:
 - agents
 - anthropic
@@ -19,9 +19,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:rag-production-guide-2026-retrieval-augmented-gene
-first_seen: '2026-06-15T23:09:25.906748+00:00'
-last_seen: '2026-06-15T23:09:25.906748+00:00'
-last_checked: '2026-06-15T23:09:25.906748+00:00'
+first_seen: '2026-06-16T22:01:56.988232+05:30'
+last_seen: '2026-06-16T22:01:56.988232+05:30'
+last_checked: '2026-06-16T22:01:56.988232+05:30'
 health_score: 100
 ---
 
@@ -39,7 +39,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:25.906741+00:00
+- Published: 2026-06-16T22:01:56.988219+05:30
 
 ## Related Tags
 

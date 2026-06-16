@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 211 resources matched in the intelligence vault.
 Recently detected signals:
-- [Adaptive Kernel Density Estimation with Pre-training](../ai/research/arxiv-2605-13092.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Contrastive Regularization for Accent-Robust ASR](../ai/research/arxiv-2605-03297.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Time-Varying Audio Effect Modeling by End-to-End Adversarial Training](../ai/research/arxiv-2512-15313.md) (Source: Unknown Source) - Collected 2026-06-16
-- [Navigating Distribution Shifts in Medical Image Analysis: A Survey](../ai/research/arxiv-2411-05824.md) (Source: Unknown Source) - Collected 2026-06-16
-- [MolE-RAG: Molecular Structure-Enhanced Retrieval-Augmented Generation for Chemistry](../ai/rag/arxiv-2606-05693.md) (Source: Unknown Source) - Collected 2026-06-16
+- [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) (Source: Unknown Source) - Collected 2026-06-16
+- [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](../ai/rag/arxiv-2606-11751.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md) (Source: Unknown Source) - Collected 2026-06-16
+- [ACC: Compiling Agent Trajectories for Long-Context Training](../ai/agents/arxiv-2605-21850.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Wasserstein Equilibrium Decoding for Reliable Medical Visual Question Answering](../ai/rag/arxiv-2605-18313.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T21:41:42.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T22:03:29.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

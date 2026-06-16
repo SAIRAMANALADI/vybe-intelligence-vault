@@ -859,8 +859,6 @@ Resources organized by keyword tags.
   - [Fable ban was never about a jailbreak](../ai/community/fable-ban-was-never-about-a-jailbreak.md)
   - [Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak](../ai/community/feds-freaked-over-fable-5-after-simple-fix-this-co.md)
   - [I admire Fabrice Bellard. He is almost certainly a better overall programmer](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)
-  - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](../ai/community/show-hn-hackers-for-granny-defense-against-industr.md)
-  - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
 
 ## animation
 
@@ -3439,7 +3437,6 @@ Resources organized by keyword tags.
   - [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md)
   - [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](../ai/rag/arxiv-2606-15155.md)
   - [Semi-Supervised Speech Confidence Detection using Pseudo-Labelling and Whisper Embeddings](../ai/rag/arxiv-2606-16505.md)
-  - [Show HN: Hackers for Granny (defense against industrialized elder fraud)](../ai/community/show-hn-hackers-for-granny-defense-against-industr.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
   - [Smoothness Errors in Dynamics Models and How to Avoid Them](../ai/research/arxiv-2602-05352.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -3467,7 +3464,6 @@ Resources organized by keyword tags.
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
-  - [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](../ai/community/tinywind-a-pixel-pirate-sailing-game-with-real-win.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
@@ -7185,4 +7181,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-16T21:41:45.002223+05:30*
+*Index generated on 2026-06-16T22:03:31.616371+05:30*

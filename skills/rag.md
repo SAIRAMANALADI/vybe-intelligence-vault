@@ -21,11 +21,11 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 1666 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-16
-- [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-16
-- [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-16
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-16
-- [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-16
+- [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) (Source: Unknown Source) - Collected 2026-06-16
+- [Build a RAG agent with LangChain - Docs by LangChain](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-16
+- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-16
+- [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) (Source: Unknown Source) - Collected 2026-06-16
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -81,15 +81,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: A simple and trans-platform rag framework and tutorial
 
-### 11. [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) ([GitHub](https://github.com/pytorch/pytorch))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: pytorch/pytorch
-
-### 12. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+### 11. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
 - Stars: 0
 - Language: Unknown
 - Description: RAG https://datawhalechina.github.io/all-in-rag/
+
+### 12. [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) ([GitHub](https://github.com/pytorch/pytorch))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: pytorch/pytorch
 
 ### 13. [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md) ([GitHub](https://github.com/sjseo298/spring-ai-template))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-16T21:41:42.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-16T22:03:29.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

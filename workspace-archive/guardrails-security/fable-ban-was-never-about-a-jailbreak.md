@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by amarant. Score: 46, Comments: 11.
+Hacker News story by amarant. Score: 90, Comments: 25.
 Original Link: https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/
 
 ## Use Cases
