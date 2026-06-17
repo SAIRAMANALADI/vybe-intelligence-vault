@@ -4,17 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template
-published_at: '2026-06-15T23:09:15.191717+00:00'
-collected_at: '2026-06-15T23:09:15.191726+00:00'
+published_at: '2026-06-17T20:13:10.092863+05:30'
+collected_at: '2026-06-17T20:13:10.092880+05:30'
 tags:
-- hackernews
 - rag
 - web-crawled
 status: active
 resource_id: blog:rag-status-dashboard-roadmap-template-wordlayouts
-first_seen: '2026-06-15T23:09:15.191726+00:00'
-last_seen: '2026-06-15T23:09:15.191726+00:00'
-last_checked: '2026-06-15T23:09:15.191726+00:00'
+first_seen: '2026-06-17T20:13:10.092880+05:30'
+last_seen: '2026-06-17T20:13:10.092880+05:30'
+last_checked: '2026-06-17T20:13:10.092880+05:30'
 health_score: 100
 ---
 
@@ -32,11 +31,10 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:15.191717+00:00
+- Published: 2026-06-17T20:13:10.092863+05:30
 
 ## Related Tags
 
-- hackernews
 - rag
 - web-crawled
 

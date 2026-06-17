@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mastt.com/resources/rag-status-template
-published_at: '2026-06-15T23:09:16.340098+00:00'
-collected_at: '2026-06-15T23:09:16.340105+00:00'
+published_at: '2026-06-17T20:13:16.973165+05:30'
+collected_at: '2026-06-17T20:13:16.973182+05:30'
 tags:
 - creative_dev
 - hackernews
@@ -15,9 +15,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:rag-status-template-word-excel
-first_seen: '2026-06-15T23:09:16.340105+00:00'
-last_seen: '2026-06-15T23:09:16.340105+00:00'
-last_checked: '2026-06-15T23:09:16.340105+00:00'
+first_seen: '2026-06-17T20:13:16.973182+05:30'
+last_seen: '2026-06-17T20:13:16.973182+05:30'
+last_checked: '2026-06-17T20:13:16.973182+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:16.340098+00:00
+- Published: 2026-06-17T20:13:16.973165+05:30
 
 ## Related Tags
 

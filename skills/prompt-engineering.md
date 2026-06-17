@@ -20,11 +20,11 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 123 resources matched in the intelligence vault.
 Recently detected signals:
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-17
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-17
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md) (Source: Unknown Source) - Collected 2026-06-17
 - [LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](../ai/rag/arxiv-2501-00826.md) (Source: Unknown Source) - Collected 2026-06-17
 - [LATTEArena: An Evaluation Framework for LLM-powered Tabular Feature Engineering (Extended Version)](../ai/research/arxiv-2606-09004.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Querying an astronomical database using large language models: the ALeRCE text-to-SQL system](../ai/research/arxiv-2606-18108.md) (Source: Unknown Source) - Collected 2026-06-17
+- [When English Isn't the Best Teacher: Source Language Effects in Cross-Lingual In-Context Learning](../ai/research/arxiv-2606-18033.md) (Source: Unknown Source) - Collected 2026-06-17
+- [SuCo: Sufficiency-guided Continuous Adaptive Reasoning](../ai/agents/arxiv-2606-17687.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -60,4 +60,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T16:49:55.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T20:14:47.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

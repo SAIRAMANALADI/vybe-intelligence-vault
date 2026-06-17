@@ -3816,6 +3816,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `benchmark`, `hackernews`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents>
 
+* **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by wizardforhire. Score: 72, Comments: 13. Original Link: https://airfields-freeman.com/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://airfields-freeman.com>
+
 * **[Agent Factory: Creating a blueprint for safe and secure AI agents | Microsoft Azure Blog](ai/rag/agent-factory-creating-a-blueprint-for-safe-and-se.md)** (`benchmark` | `useful` tier)
   * Summary: Azure AI Foundry brings together security, safety, and governance in a layered process enterprises can follow to build trust in their agents. This blog post is the sixth out of a six-part blog series called Agent Factory which shares best practices,
   * Tags: `agents`, `benchmark`, `leaderboard`, `rag`, `web-crawled`, `workflows`
@@ -3860,6 +3865,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Artificial AnalysisArtificial AnalysisModelsCoding AgentsSpeech, Image, Video, MusicHardwareLeaderboardsAboutAI TrendsArenasKArtificial Analysis Coding Agent BenchmarksWe measure real-world performance of coding agents on software engineering tasks,
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
+
+* **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by BerislavLopac. Score: 22, Comments: 0. Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline>
 
 * **[AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude](ai/research/arxiv-2606-12424.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.12424v1 Announce Type: cross Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful,
@@ -4102,7 +4112,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14975>
 
 * **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by imakwana. Score: 320, Comments: 360. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
+  * Summary: Hacker News story by imakwana. Score: 366, Comments: 414. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction>
 
@@ -4127,7 +4137,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17824>
 
 * **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by denysvitali. Score: 279, Comments: 65. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
+  * Summary: Hacker News story by denysvitali. Score: 313, Comments: 78. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time>
 
@@ -4251,11 +4261,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.14373>
 
-* **[Making 'food out of thin air' (2024)](ai/community/making-food-out-of-thin-air-2024.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by muchweight. Score: 23, Comments: 5. Original Link: https://www.noemamag.com/making-food-out-of-thin-air/
-  * Tags: `ai`, `hackernews`, `reddit`
-  * Source URL: <https://noemamag.com/making-food-out-of-thin-air>
-
 * **[Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)** (`dataset` | `useful` tier)
   * Summary: Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers David Richards 🚀 Agency Owner or Entrepreneur? Build your own branded AI platform with Parallel AI’s white-label solutions. Complete customization, API access, and ente
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `models`, `openai`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
@@ -4351,6 +4356,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `web-crawled`, `workflows`
   * Source URL: <https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide>
 
+* **[RAG Rating Tracker Template in Apple Numbers, Word, Excel, Pages, Google Sheets, Google Docs - Download | Template.net](ai/rag/rag-rating-tracker-template-in-apple-numbers-word.md)** (`template` | `useful` tier)
+  * Summary: HomeTemplatesTrackerTask TrackerRAG Rating Tracker TemplateRAG Rating Tracker TemplateDownload this RAG Rating Tracker Template Design in Word, Google Docs, Excel, Google Sheets, Apple Pages, Apple Numbers Format. Easily Editable, Printable, Download
+  * Tags: `benchmark`, `creative_dev`, `rag`, `web-crawled`, `workflows`
+  * Source URL: <https://www.template.net/editable/46057/rag-rating-tracker>
+
 * **[Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study](ai/rag/arxiv-2606-12231.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.12231v1 Announce Type: cross Abstract: The adoption of AI-powered Integrated Development Environments (AI IDEs) has introduced "Rules" as a novel software artifact, allowing developers to persistently inject project-specific constraints an
   * Tags: `rag`, `workflows`
@@ -4370,6 +4380,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Skip to main content Add as a preferred source on Google HomeNewsTips & How-ToNewslettersWhite PapersWebcastsAdvertiseAbout UsTrainingMore.NET Tips and TricksThe Data Science LabPractical .NETThe Practical ClientData DriverC# CornerIn-DepthPDF Back I
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx>
+
+* **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by ruimbarreira. Score: 32, Comments: 10. Original Link: https://brevio.pro
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://brevio.pro>
+
+* **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by thm. Score: 425, Comments: 231. Original Link: https://wpvip.com/future-of-the-web-2026/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://wpvip.com/future-of-the-web-2026>
 
 * **[SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing](ai/rag/arxiv-2606-14239.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14239v1 Announce Type: new Abstract: Agent skills are structured procedural packages that guide frozen LLM agents in specialized workflows. Skills rarely remain sufficient after deployment: edge cases, API changes, and deployment constrain
@@ -4400,11 +4420,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16989v1 Announce Type: cross Abstract: Using an open problem from the EC 2025 paper "Stable Menus of Public Goods" as a testbed, we conduct experiments to understand the effectiveness of different AI-for-EconCS research workflows. Specific
   * Tags: `paper`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16989>
-
-* **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by slymax. Score: 270, Comments: 189. Original Link: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431>
 
 * **[Structured Testbench Generation for LLM-Driven HDL Design and Verification-Oriented Data Curation](ai/rag/arxiv-2606-12983.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12983v1 Announce Type: new Abstract: Automated testbench generation has become a critical bottleneck in large language model (LLM)-driven Register Transfer Level (RTL) workflows, where large numbers of candidate designs must be verified ra
@@ -15402,7 +15417,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[RAG Status Dashboard Roadmap Template - WordLayouts](ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)** (`template` | `useful` tier)
   * Summary: 5 WhysChore ChartsColor WheelFamily TreeFishbone DiagramsGenogramsKanbanLogic ModelsMilitary Time ChartsRACIReflexologyRoadmapsRoot Cause AnalysisRubricSMART GoalsStool Color ChartsSWOTTimelineUrine Color ChartsVenn DiagramsWork Breakdown Structure (
-  * Tags: `hackernews`, `rag`, `web-crawled`
+  * Tags: `rag`, `web-crawled`
   * Source URL: <https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template>
 
 * **[RAG Status Reports, Dashboards, and Templates: Red Amber Green](ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)** (`template` | `useful` tier)
@@ -16459,7 +16474,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://github.com/shadcnstore/shadcn-dashboard-landing-template>
 
 * **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by e2e4. Score: 102, Comments: 93. Original Link: https://claude.com/blog/the-founders-playbook
+  * Summary: Hacker News story by e2e4. Score: 135, Comments: 122. Original Link: https://claude.com/blog/the-founders-playbook
   * Tags: `ai`, `anthropic`, `hackernews`
   * Source URL: <https://claude.com/blog/the-founders-playbook>
 

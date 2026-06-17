@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by imakwana. Score: 320, Comments: 360.
+Hacker News story by imakwana. Score: 366, Comments: 414.
 Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
 
 ## Use Cases

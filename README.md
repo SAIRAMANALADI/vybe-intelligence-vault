@@ -44,39 +44,36 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4330 |
-| Active resources | 4242 |
-| Inactive resources | 88 |
-| Archive files | 20666 |
+| Resources tracked | 4335 |
+| Active resources | 4245 |
+| Inactive resources | 90 |
+| Archive files | 20674 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-17 16:50 IST |
+| Last meaningful update | 2026-06-17 20:15 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)** (Rank: +3) (+186 points)
-- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (Rank: +1) (+117 points)
-- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Rank: +1) (+102 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +1)
-- **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (Rank: +1847)
+- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (+46 points)
+- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (+34 points)
+- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (+33 points)
+- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Rank: +1820)
+- **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)** (Rank: +2)
 
 #### ✨ New Discoveries
-- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (Score: 102)
-- **[Making 'food out of thin air' (2024)](ai/community/making-food-out-of-thin-air-2024.md)** (Score: 23)
-- **[bytedance/UI-TARS-desktop](ai/agents/bytedance-ui-tars-desktop.md)** (Score: 0)
-- **[yairm210/Unciv](ai/trending/yairm210-unciv.md)** (Score: 0)
-- **[mattpocock/skills](ai/trending/mattpocock-skills.md)** (Score: 0)
+- **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)** (Score: 425)
+- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (Score: 72)
+- **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)** (Score: 32)
+- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (Score: 22)
+- **[RAG Rating Tracker Template in Apple Numbers, Word, Excel, Pages, Google Sheets, Google Docs - Download | Template.net](ai/rag/rag-rating-tracker-template-in-apple-numbers-word.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)**
-- **[Leaked OpenAI financials show $38.5B loss and compute burn](ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)**
-- **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)**
-- **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)**
-- **[alibaba/zvec](ai/rag/alibaba-zvec.md)**
+- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)**
+- **[Making 'food out of thin air' (2024)](ai/community/making-food-out-of-thin-air-2024.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

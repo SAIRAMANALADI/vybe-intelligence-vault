@@ -4,18 +4,18 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/jolbol1/nextjs-velite-blog-template
-collected_at: '2026-06-16T17:27:23.991232+05:30'
-published_at: '2026-05-15T21:21:04Z'
+collected_at: '2026-06-17T20:12:13.616750+05:30'
+published_at: '2026-06-17T13:03:12Z'
 tags:
 - frontend_ui
 - youtube
-stars: 194
+stars: 193
 language: TypeScript
 status: active
 resource_id: github:jolbol1/nextjs-velite-blog-template
 first_seen: '2026-06-12T10:40:20.338189+00:00'
-last_seen: '2026-06-16T17:27:23.991232+05:30'
-last_checked: '2026-06-16T17:27:23.991232+05:30'
+last_seen: '2026-06-17T20:12:13.616750+05:30'
+last_checked: '2026-06-17T20:12:13.616750+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: jolbol1
-- Stars: 194
+- Stars: 193
 - Forks: 54
 - Language: TypeScript
 - Topics: mdx, nextjs, shadcn, tailwind, velite
-- Last Updated: 2026-05-15T21:21:04Z
+- Last Updated: 2026-06-17T13:03:12Z
 
 ## Possible Use Cases
 

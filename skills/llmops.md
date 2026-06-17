@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 248 resources matched in the intelligence vault.
 Recently detected signals:
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Fine-tuning Stable Diffusion models on Intel CPUs](../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md) (Source: Unknown Source) - Collected 2026-06-17
+- [LLMCodec: Adapting Video Codecs for Efficient Weight Compression of Large Language Models](../ai/rag/arxiv-2606-05861.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking](../ai/research/arxiv-2605-23733.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Rethinking Cross-Layer Information Routing in Diffusion Transformers](../ai/research/arxiv-2605-20708.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion](../ai/research/arxiv-2603-03485.md) (Source: Unknown Source) - Collected 2026-06-17
+- [m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning](../ai/rag/arxiv-2601-19099.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T16:49:55.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T20:14:47.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

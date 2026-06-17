@@ -3,9 +3,9 @@
 ## Latest Update
 
 <!-- LATEST:START -->
-* Last updated: 2026-06-17 16:50 IST
-* Resources tracked: 4239
-* Archive files: 20643
+* Last updated: 2026-06-17 20:15 IST
+* Resources tracked: 4242
+* Archive files: 20666
 * Archive categories: 34
 * Changed sections: Refreshed all active archive directories and living skill guides
 * Safety scan: Passed
@@ -17,7 +17,7 @@
 ### Daily Summaries
 
 <!-- DAILY:START -->
-* **2026-06-17**: Added 579 resources. Rebuilt archive and search index.
+* **2026-06-17**: Added 616 resources. Rebuilt archive and search index.
 * **2026-06-16**: Added 2363 resources. Rebuilt archive and search index.
 * **2026-06-15**: Added 9179 resources. Rebuilt archive and search index.
 * **2026-06-12**: Added 1964 resources. Rebuilt archive and search index.

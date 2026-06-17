@@ -4,17 +4,17 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.template.net/edit-online/394147/rag-status-report
-published_at: '2026-06-15T23:09:14.187325+00:00'
-collected_at: '2026-06-15T23:09:14.187337+00:00'
+published_at: '2026-06-17T20:13:09.178007+05:30'
+collected_at: '2026-06-17T20:13:09.178021+05:30'
 tags:
 - rag
 - reddit
 - web-crawled
 status: active
 resource_id: blog:free-rag-status-report-template-to-edit-online
-first_seen: '2026-06-15T23:09:14.187337+00:00'
-last_seen: '2026-06-15T23:09:14.187337+00:00'
-last_checked: '2026-06-15T23:09:14.187337+00:00'
+first_seen: '2026-06-17T20:13:09.178021+05:30'
+last_seen: '2026-06-17T20:13:09.178021+05:30'
+last_checked: '2026-06-17T20:13:09.178021+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:14.187325+00:00
+- Published: 2026-06-17T20:13:09.178007+05:30
 
 ## Related Tags
 

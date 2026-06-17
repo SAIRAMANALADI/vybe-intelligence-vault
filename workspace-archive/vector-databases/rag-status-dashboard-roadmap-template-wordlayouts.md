@@ -11,7 +11,6 @@ archive_tier: useful
 resource_kind: template
 importance: medium
 tags:
-- hackernews
 - rag
 - web-crawled
 selection_reason:

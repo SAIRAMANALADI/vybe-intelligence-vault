@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:making-food-out-of-thin-air-2024
 first_seen: '2026-06-17T16:47:27.764339+05:30'
 last_seen: '2026-06-17T16:47:27.764339+05:30'
 last_checked: '2026-06-17T16:47:27.764339+05:30'
 health_score: 100
 ---
+
 
 # Making 'food out of thin air' (2024)
 

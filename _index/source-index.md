@@ -3242,10 +3242,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
+  - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
   - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
-  - [Making 'food out of thin air' (2024)](../ai/community/making-food-out-of-thin-air-2024.md)
-  - [Stop Killing Games fails to secure EU law despite 1.3M signatures](../ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)
+  - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
+  - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
   - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
 
 ## Unknown Source (type: huggingface)
@@ -4233,6 +4235,7 @@ Resources organized by publisher feed and query sources.
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
   - [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../ai/rag/rag-project-status-report-template-document-templa.md)
+  - [RAG Rating Tracker Template in Apple Numbers, Word, Excel, Pages, Google Sheets, Google Docs - Download | Template.net](../ai/rag/rag-rating-tracker-template-in-apple-numbers-word.md)
   - [RAG Status Dashboard Roadmap Template - WordLayouts](../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md)
   - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md)
   - [RAG Status Template (Word, Excel)](../ai/rag/rag-status-template-word-excel.md)
@@ -4275,4 +4278,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-17T16:49:58.048422+05:30*
+*Index generated on 2026-06-17T20:14:50.035791+05:30*

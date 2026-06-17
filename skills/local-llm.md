@@ -23,8 +23,8 @@ Recently detected signals:
 - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-17
 - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-17
 - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md) (Source: Unknown Source) - Collected 2026-06-17
+- [LLMCodec: Adapting Video Codecs for Efficient Weight Compression of Large Language Models](../ai/rag/arxiv-2606-05861.md) (Source: Unknown Source) - Collected 2026-06-17
+- [RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models](../ai/research/arxiv-2506-17639.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -100,4 +100,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T16:49:55.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T20:14:47.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

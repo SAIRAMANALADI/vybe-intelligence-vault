@@ -5,16 +5,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.itsm-docs.com/en-gb/products/rag-status-template
-published_at: '2026-06-15T23:09:16.963831+00:00'
-collected_at: '2026-06-15T23:09:16.963838+00:00'
+published_at: '2026-06-17T20:13:08.882458+05:30'
+collected_at: '2026-06-17T20:13:08.882475+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:rag-project-status-report-template-document-templa
-first_seen: '2026-06-15T23:09:16.963838+00:00'
-last_seen: '2026-06-15T23:09:16.963838+00:00'
-last_checked: '2026-06-15T23:09:16.963838+00:00'
+first_seen: '2026-06-17T20:13:08.882475+05:30'
+last_seen: '2026-06-17T20:13:08.882475+05:30'
+last_checked: '2026-06-17T20:13:08.882475+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-15T23:09:16.963831+00:00
+- Published: 2026-06-17T20:13:08.882458+05:30
 
 ## Related Tags
 

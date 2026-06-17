@@ -7,15 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **13** new resources across our source networks.
-
-#### 🔄 Resource Revivals
-- **krahets/hello-algo** (`ai/trending`): Resource reactivated (previously inactive).
-- **Panniantong/Agent-Reach** (`ai/agents`): Resource reactivated (previously inactive).
-
-### 🚀 Rising Projects & Revivals
-1. [Panniantong/Agent-Reach](https://github.com/panniantong/agent-reach) - `ai/agents`
-2. [krahets/hello-algo](https://github.com/krahets/hello-algo) - `ai/trending`
+During this cycle, we discovered **4** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -31,11 +23,11 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 |---|---:|
 | ai/research | 1062 |
 | ai/models | 736 |
-| ai/rag | 721 |
+| ai/rag | 723 |
 | ai/agents | 435 |
 | web-development/nextjs | 75 |
-| web-development/react-three-fiber | 25 |
 | web-development/framer-motion | 25 |
+| web-development/react-three-fiber | 25 |
 | web-development/webgpu | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/threejs | 24 |
@@ -43,8 +35,8 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/companies/mistral | 10 |
 | ai/companies | 10 |
 | ai/companies/anthropic | 8 |
+| ai/community | 7 |
 | web-development/gsap | 6 |
-| ai/community | 5 |
 | ai/companies/deepmind | 5 |
 | ai/companies/openai | 4 |
 | web-development | 3 |
@@ -57,189 +49,192 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| benchmark | 878 |
-| rag | 721 |
+| benchmark | 879 |
+| rag | 723 |
 | agents | 614 |
 | models | 523 |
 | dataset | 521 |
 | paper | 400 |
-| hackernews | 251 |
+| hackernews | 252 |
 | frontend_ui | 216 |
 | youtube | 169 |
-| workflows | 150 |
+| workflows | 151 |
 | openai | 114 |
 | meta-ai | 98 |
 | anthropic | 95 |
 | threejs | 86 |
-| reddit | 84 |
+| reddit | 83 |
 
 ## Weekly Community Updates
 
-1. [Has AI already killed self-help nonfiction books?](../../ai/community/has-ai-already-killed-self-help-nonfiction-books.md) ([Source](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction)) (HN Score: 320) - `ai/community`
-2. [Humiliating IIS servers for fun and jail time](../../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md) ([Source](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time)) (HN Score: 279) - `ai/community`
-3. [Stop Killing Games fails to secure EU law despite 1.3M signatures](../../ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md) ([Source](https://dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431)) (HN Score: 270) - `ai/community`
-4. [The founder's playbook: Building an AI-native startup](../../ai/community/the-founder-s-playbook-building-an-ai-native-start.md) ([Source](https://claude.com/blog/the-founders-playbook)) (HN Score: 102) - `ai/community`
-5. [Making 'food out of thin air' (2024)](../../ai/community/making-food-out-of-thin-air-2024.md) ([Source](https://noemamag.com/making-food-out-of-thin-air)) (HN Score: 23) - `ai/community`
-6. [Free Project Status Report Template](../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
-7. [Client Challenge](../../ai/resources/client-challenge.md) ([Source](https://pypi.org/project/autogen)) - `ai/resources`
-8. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
-9. [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md) ([Source](https://mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide)) - `ai/rag`
-10. [Best AI Agent Frameworks 2026: LangChain, CrewAI, AutoGen](../../ai/rag/best-ai-agent-frameworks-2026-langchain-crewai-aut.md) ([Source](https://cordum.io/blog/ai-agent-frameworks-comparison)) - `ai/rag`
-11. [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../../ai/rag/rag-status-template-excel-free-download-techno-pm.md) ([Source](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) - `ai/rag`
-12. [Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md) ([Source](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation)) - `ai/rag`
-13. [Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md) ([Source](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) - `ai/rag`
-14. [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md) ([Source](https://business-docs.co.uk/downloads/category/rag)) - `ai/rag`
+1. [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md) ([Source](https://wpvip.com/future-of-the-web-2026)) (HN Score: 425) - `ai/community`
+2. [Has AI already killed self-help nonfiction books?](../../ai/community/has-ai-already-killed-self-help-nonfiction-books.md) ([Source](https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction)) (HN Score: 366) - `ai/community`
+3. [Humiliating IIS servers for fun and jail time](../../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md) ([Source](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time)) (HN Score: 313) - `ai/community`
+4. [The founder's playbook: Building an AI-native startup](../../ai/community/the-founder-s-playbook-building-an-ai-native-start.md) ([Source](https://claude.com/blog/the-founders-playbook)) (HN Score: 135) - `ai/community`
+5. [Abandoned and Little-Known Airfields](../../ai/community/abandoned-and-little-known-airfields.md) ([Source](https://airfields-freeman.com)) (HN Score: 72) - `ai/community`
+6. [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md) ([Source](https://brevio.pro)) (HN Score: 32) - `ai/community`
+7. [AI demands more engineering discipline. Not less](../../ai/community/ai-demands-more-engineering-discipline-not-less.md) ([Source](https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline)) (HN Score: 22) - `ai/community`
+8. [Free Project Status Report Template](../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
+9. [Client Challenge](../../ai/resources/client-challenge.md) ([Source](https://pypi.org/project/autogen)) - `ai/resources`
+10. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
+11. [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md) ([Source](https://mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide)) - `ai/rag`
+12. [Best AI Agent Frameworks 2026: LangChain, CrewAI, AutoGen](../../ai/rag/best-ai-agent-frameworks-2026-langchain-crewai-aut.md) ([Source](https://cordum.io/blog/ai-agent-frameworks-comparison)) - `ai/rag`
+13. [Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md) ([Source](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation)) - `ai/rag`
+14. [Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md) ([Source](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) - `ai/rag`
 15. [AutoGen — AutoGen](../../ai/rag/autogen-autogen.md) ([Source](https://microsoft.github.io/autogen/stable/index.html)) - `ai/rag`
 16. [The next evolution of the Agents SDK | OpenAI](../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
-17. [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../../ai/rag/rag-project-status-report-template-document-templa.md) ([Source](https://itsm-docs.com/en-gb/products/rag-status-template)) - `ai/rag`
-18. [Building Smarter Cybersecurity with Agentic AI and the AutoGen Framework - XSignOn Blog](../../ai/rag/building-smarter-cybersecurity-with-agentic-ai-and.md) ([Source](https://xsignon.com/blog/agentic-ai-and-autogen-framework)) - `ai/rag`
-19. [Top 5 Open-Source Agentic AI Frameworks in 2026](../../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md) ([Source](https://aimultiple.com/agentic-frameworks)) - `ai/rag`
-20. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-21. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
-22. [CrewAI Production: 5 Practices That Actually Scale | Markaicode](../../ai/rag/crewai-production-5-practices-that-actually-scale.md) ([Source](https://markaicode.com/best/best-crewai-production-practices)) - `ai/rag`
-23. [AutoGen: LLM-Driven Multi-Agent Framework](../../ai/rag/autogen-llm-driven-multi-agent-framework.md) ([Source](https://emergentmind.com/topics/autogen)) - `ai/rag`
-24. [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md) ([Source](https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx)) - `ai/rag`
-25. [CrewAI Best Practices: Production Pitfalls | DevShelfHub](../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md) ([Source](https://devshelfhub.com/tutorials/crewai/best-practices)) - `ai/rag`
-26. [RAG Status Template | Red, Amber, Green Status | Project Slides](../../ai/rag/rag-status-template-red-amber-green-status-project.md) ([Source](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) - `ai/rag`
-27. [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md) ([Source](https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch)) - `ai/rag`
-28. [CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community](../../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md) ([Source](https://dev.to/vishva_ram/crewai-crews-flows-the-complete-guide-to-ai-workflow-orchestration-328n)) - `ai/rag`
-29. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag)) - `ai/rag`
-30. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
-31. [Free RAG Status Report Template to Edit Online](../../ai/rag/free-rag-status-report-template-to-edit-online.md) ([Source](https://template.net/edit-online/394147/rag-status-report)) - `ai/rag`
-32. [RAGFlow](../../ai/rag/ragflow.md) ([Source](https://ragflow.io)) - `ai/rag`
-33. [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../../ai/rag/free-project-status-report-template-weekly-monthly.md) ([Source](https://analysistabs.com/templates/project-status-report)) - `ai/rag`
-34. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
-35. [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md) ([Source](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)) - `ai/rag`
-36. [RAG Status Dashboard Roadmap Template - WordLayouts](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md) ([Source](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) - `ai/rag`
-37. [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md) ([Source](https://aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026)) - `ai/rag`
-38. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
-39. [Crafting Effective Agents - CrewAI](../../ai/rag/crafting-effective-agents-crewai.md) ([Source](https://docs.crewai.com/en/guides/agents/crafting-effective-agents)) - `ai/rag`
-40. [Sovereign, Open Source Retrieval-Augmented Generation](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md) ([Source](https://open-rag.ai)) - `ai/rag`
-41. [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md) ([Source](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour)) - `ai/rag`
-42. [10 Best CrewAI Projects You Must Build in 2026](../../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md) ([Source](https://projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)) - `ai/rag`
-43. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
-44. [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md) ([Source](https://tech-insider.org/openai-agents-sdk-tutorial-python-13-steps-2026)) - `ai/rag`
-45. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb)) - `ai/rag`
-46. [What is RAG Status Reporting in Project Management? | PM Study Circle](../../ai/rag/what-is-rag-status-reporting-in-project-management.md) ([Source](https://pmstudycircle.com/rag-status-reporting)) - `ai/rag`
-47. [Code a simple RAG from scratch](../../ai/rag/code-a-simple-rag-from-scratch.md) ([Source](https://huggingface.co/blog/ngxson/make-your-own-rag)) - `ai/rag`
-48. [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) ([Source](https://medevel.com/open-source-rag-1900)) - `ai/rag`
-49. [RAG Status Template (Word, Excel)](../../ai/rag/rag-status-template-word-excel.md) ([Source](https://mastt.com/resources/rag-status-template)) - `ai/rag`
-50. [Data Security – AutogenAI](../../ai/rag/data-security-autogenai.md) ([Source](https://support.autogenai.com/hc/en-gb/articles/4930062028447-data-security)) - `ai/rag`
-51. [Agents SDK | OpenAI API](../../ai/rag/agents-sdk-openai-api.md) ([Source](https://developers.openai.com/api/docs/guides/agents)) - `ai/rag`
-52. [Fortifying AutoGen](../../ai/rag/fortifying-autogen.md) ([Source](https://procodebase.com/article/fortifying-autogen)) - `ai/rag`
-53. [Introducing the Agent Governance Toolkit: Open-source runtime security for AI agents | Microsoft Open Source Blog](../../ai/agents/introducing-the-agent-governance-toolkit-open-sour.md) ([Source](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents)) - `ai/agents`
-54. [CrewAI: A Practical Guide to Role-Based Agent Orchestration â w3reference.com](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md) ([Source](https://w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration)) - `ai/agents`
-55. [10 Best CrewAI Tutorials to Master Multi‑Agent Workflows (2025 Guide)](../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md) ([Source](https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-master-multi-agent-workflows-2025-guide)) - `ai/agents`
-56. [OpenAI Agents SDK](../../ai/agents/openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-python)) - `ai/agents`
-57. [AutoGen - Microsoft Research](../../ai/agents/autogen-microsoft-research.md) ([Source](https://microsoft.com/en-us/research/project/autogen)) - `ai/agents`
-58. [CrewAI vs LangGraph vs AutoGen vs OpenAgents — Best AI Agent Framework (2026) | OpenAgents Blog](../../ai/agents/crewai-vs-langgraph-vs-autogen-vs-openagents-best.md) ([Source](https://openagents.org/blog/posts/2026-02-23-open-source-ai-agent-frameworks-compared)) - `ai/agents`
-59. [OpenAI Agents SDK: Complete Setup Guide (2026)](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md) ([Source](https://aimadetools.com/blog/openai-agents-sdk-setup-guide)) - `ai/agents`
-60. [Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](../../ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md) ([Source](https://markaicode.com/autogen-zero-day-vulnerabilities-2025)) - `ai/agents`
-61. [AG2: Build Systems, Not Prompts | Open-Source Multi-Agent AI Framework](../../ai/agents/ag2-build-systems-not-prompts-open-source-multi-ag.md) ([Source](https://ag2.ai)) - `ai/agents`
-62. [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-js)) - `ai/agents`
-63. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-64. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-65. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-66. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
-67. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-68. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-69. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-70. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-71. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-72. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-73. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-74. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-75. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-76. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-77. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-78. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-79. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-80. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-81. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-82. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-83. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-84. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-85. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-86. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-87. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-88. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-89. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-90. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-91. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-92. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-93. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-94. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-95. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-96. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-97. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-98. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-99. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-100. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-101. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-102. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-103. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-104. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-105. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-106. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-107. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-108. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-109. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-110. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-111. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-112. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-113. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-114. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-115. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-116. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-117. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-118. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-119. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-120. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-121. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-122. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-123. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-124. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-125. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-126. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-127. [DeusData/codebase-memory-mcp](../../ai/rag/deusdata-codebase-memory-mcp.md) ([Source](https://github.com/deusdata/codebase-memory-mcp)) - `ai/rag`
-128. [n0-computer/iroh](../../ai/trending/n0-computer-iroh.md) ([Source](https://github.com/n0-computer/iroh)) - `ai/trending`
-129. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) - `ai/agents`
-130. [meshery/meshery](../../ai/trending/meshery-meshery.md) ([Source](https://github.com/meshery/meshery)) - `ai/trending`
-131. [obra/superpowers](../../ai/agents/obra-superpowers.md) ([Source](https://github.com/obra/superpowers)) - `ai/agents`
-132. [google-research/timesfm](../../ai/trending/google-research-timesfm.md) ([Source](https://github.com/google-research/timesfm)) - `ai/trending`
-133. [RocketChat/Rocket.Chat](../../ai/trending/rocketchat-rocket-chat.md) ([Source](https://github.com/rocketchat/rocket.chat)) - `ai/trending`
-134. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) - `ai/agents`
-135. [penpot/penpot](../../ai/trending/penpot-penpot.md) ([Source](https://github.com/penpot/penpot)) - `ai/trending`
-136. [krahets/hello-algo](../../ai/trending/krahets-hello-algo.md) ([Source](https://github.com/krahets/hello-algo)) - `ai/trending`
-137. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md) ([Source](https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation)) - `ai/trending`
-138. [mattpocock/skills](../../ai/trending/mattpocock-skills.md) ([Source](https://github.com/mattpocock/skills)) - `ai/trending`
-139. [yairm210/Unciv](../../ai/trending/yairm210-unciv.md) ([Source](https://github.com/yairm210/unciv)) - `ai/trending`
-140. [freeCodeCamp/freeCodeCamp](../../ai/trending/freecodecamp-freecodecamp.md) ([Source](https://github.com/freecodecamp/freecodecamp)) - `ai/trending`
-141. [bytedance/UI-TARS-desktop](../../ai/agents/bytedance-ui-tars-desktop.md) ([Source](https://github.com/bytedance/ui-tars-desktop)) - `ai/agents`
-142. [pytorch/pytorch Release: PyTorch 2.12.0 Release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
-143. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
-144. [langchain-ai/langchain Release: langchain-openai==1.3.2](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
-145. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
-146. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/rag`
-147. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
-148. [crewAIInc/crewAI Release: 1.14.7](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/rag`
-149. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-150. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
-151. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-152. [Build a RAG agent with LangChain - Docs by LangChain](../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
-153. [RAG System with LangChain and LangGraph - GeeksforGeeks](../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) ([Source](https://geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph)) - `ai/rag`
-154. [LightRAG](../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
-155. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md) ([Source](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14)) - `ai/rag`
-156. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
-157. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
-158. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
-159. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
-160. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md) ([Source](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)) - `ai/rag`
-161. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
-162. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
-163. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
-164. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
-165. [Building a RAG Application - GeeksforGeeks](../../ai/rag/building-a-rag-application-geeksforgeeks.md) ([Source](https://geeksforgeeks.org/data-science/building-a-rag-application)) - `ai/rag`
+17. [Building Smarter Cybersecurity with Agentic AI and the AutoGen Framework - XSignOn Blog](../../ai/rag/building-smarter-cybersecurity-with-agentic-ai-and.md) ([Source](https://xsignon.com/blog/agentic-ai-and-autogen-framework)) - `ai/rag`
+18. [Top 5 Open-Source Agentic AI Frameworks in 2026](../../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md) ([Source](https://aimultiple.com/agentic-frameworks)) - `ai/rag`
+19. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+20. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
+21. [CrewAI Production: 5 Practices That Actually Scale | Markaicode](../../ai/rag/crewai-production-5-practices-that-actually-scale.md) ([Source](https://markaicode.com/best/best-crewai-production-practices)) - `ai/rag`
+22. [AutoGen: LLM-Driven Multi-Agent Framework](../../ai/rag/autogen-llm-driven-multi-agent-framework.md) ([Source](https://emergentmind.com/topics/autogen)) - `ai/rag`
+23. [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md) ([Source](https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx)) - `ai/rag`
+24. [CrewAI Best Practices: Production Pitfalls | DevShelfHub](../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md) ([Source](https://devshelfhub.com/tutorials/crewai/best-practices)) - `ai/rag`
+25. [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md) ([Source](https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch)) - `ai/rag`
+26. [CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community](../../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md) ([Source](https://dev.to/vishva_ram/crewai-crews-flows-the-complete-guide-to-ai-workflow-orchestration-328n)) - `ai/rag`
+27. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag)) - `ai/rag`
+28. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
+29. [RAGFlow](../../ai/rag/ragflow.md) ([Source](https://ragflow.io)) - `ai/rag`
+30. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
+31. [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md) ([Source](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)) - `ai/rag`
+32. [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md) ([Source](https://aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026)) - `ai/rag`
+33. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
+34. [Crafting Effective Agents - CrewAI](../../ai/rag/crafting-effective-agents-crewai.md) ([Source](https://docs.crewai.com/en/guides/agents/crafting-effective-agents)) - `ai/rag`
+35. [Sovereign, Open Source Retrieval-Augmented Generation](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md) ([Source](https://open-rag.ai)) - `ai/rag`
+36. [How to Set Up Your First RAG System Using GitHub Copilot in Under 1 Hour | Ryz Labs | Ryz Labs Learn](../../ai/rag/how-to-set-up-your-first-rag-system-using-github-c.md) ([Source](https://learn.ryzlabs.com/ai-coding-assistants/how-to-set-up-your-first-rag-system-using-github-copilot-in-under-1-hour)) - `ai/rag`
+37. [10 Best CrewAI Projects You Must Build in 2026](../../ai/rag/10-best-crewai-projects-you-must-build-in-2026.md) ([Source](https://projectpro.io/article/crew-ai-projects-ideas-and-examples/1117)) - `ai/rag`
+38. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
+39. [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md) ([Source](https://tech-insider.org/openai-agents-sdk-tutorial-python-13-steps-2026)) - `ai/rag`
+40. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb)) - `ai/rag`
+41. [Code a simple RAG from scratch](../../ai/rag/code-a-simple-rag-from-scratch.md) ([Source](https://huggingface.co/blog/ngxson/make-your-own-rag)) - `ai/rag`
+42. [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) ([Source](https://medevel.com/open-source-rag-1900)) - `ai/rag`
+43. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
+44. [Data Security – AutogenAI](../../ai/rag/data-security-autogenai.md) ([Source](https://support.autogenai.com/hc/en-gb/articles/4930062028447-data-security)) - `ai/rag`
+45. [Agents SDK | OpenAI API](../../ai/rag/agents-sdk-openai-api.md) ([Source](https://developers.openai.com/api/docs/guides/agents)) - `ai/rag`
+46. [Fortifying AutoGen](../../ai/rag/fortifying-autogen.md) ([Source](https://procodebase.com/article/fortifying-autogen)) - `ai/rag`
+47. [Introducing the Agent Governance Toolkit: Open-source runtime security for AI agents | Microsoft Open Source Blog](../../ai/agents/introducing-the-agent-governance-toolkit-open-sour.md) ([Source](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents)) - `ai/agents`
+48. [CrewAI: A Practical Guide to Role-Based Agent Orchestration â w3reference.com](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md) ([Source](https://w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration)) - `ai/agents`
+49. [10 Best CrewAI Tutorials to Master Multi‑Agent Workflows (2025 Guide)](../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md) ([Source](https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-master-multi-agent-workflows-2025-guide)) - `ai/agents`
+50. [OpenAI Agents SDK](../../ai/agents/openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-python)) - `ai/agents`
+51. [AutoGen - Microsoft Research](../../ai/agents/autogen-microsoft-research.md) ([Source](https://microsoft.com/en-us/research/project/autogen)) - `ai/agents`
+52. [CrewAI vs LangGraph vs AutoGen vs OpenAgents — Best AI Agent Framework (2026) | OpenAgents Blog](../../ai/agents/crewai-vs-langgraph-vs-autogen-vs-openagents-best.md) ([Source](https://openagents.org/blog/posts/2026-02-23-open-source-ai-agent-frameworks-compared)) - `ai/agents`
+53. [OpenAI Agents SDK: Complete Setup Guide (2026)](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md) ([Source](https://aimadetools.com/blog/openai-agents-sdk-setup-guide)) - `ai/agents`
+54. [Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](../../ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md) ([Source](https://markaicode.com/autogen-zero-day-vulnerabilities-2025)) - `ai/agents`
+55. [AG2: Build Systems, Not Prompts | Open-Source Multi-Agent AI Framework](../../ai/agents/ag2-build-systems-not-prompts-open-source-multi-ag.md) ([Source](https://ag2.ai)) - `ai/agents`
+56. [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-js)) - `ai/agents`
+57. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+58. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+59. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+60. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+61. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
+62. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
+63. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+64. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+65. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+66. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+67. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+68. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+69. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+70. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+71. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+72. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+73. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+74. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+75. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+76. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+77. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+78. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+79. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+80. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+81. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+82. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+83. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+84. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+85. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+86. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+87. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+88. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+89. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+90. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+91. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+92. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+93. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+94. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+95. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+96. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+97. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+98. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+99. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+100. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+101. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+102. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+103. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+104. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+105. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+106. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+107. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+108. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+109. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+110. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+111. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+112. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+113. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+114. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+115. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+116. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+117. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+118. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+119. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+120. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+121. [DeusData/codebase-memory-mcp](../../ai/rag/deusdata-codebase-memory-mcp.md) ([Source](https://github.com/deusdata/codebase-memory-mcp)) - `ai/rag`
+122. [n0-computer/iroh](../../ai/trending/n0-computer-iroh.md) ([Source](https://github.com/n0-computer/iroh)) - `ai/trending`
+123. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) - `ai/agents`
+124. [meshery/meshery](../../ai/trending/meshery-meshery.md) ([Source](https://github.com/meshery/meshery)) - `ai/trending`
+125. [obra/superpowers](../../ai/agents/obra-superpowers.md) ([Source](https://github.com/obra/superpowers)) - `ai/agents`
+126. [google-research/timesfm](../../ai/trending/google-research-timesfm.md) ([Source](https://github.com/google-research/timesfm)) - `ai/trending`
+127. [RocketChat/Rocket.Chat](../../ai/trending/rocketchat-rocket-chat.md) ([Source](https://github.com/rocketchat/rocket.chat)) - `ai/trending`
+128. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) - `ai/agents`
+129. [penpot/penpot](../../ai/trending/penpot-penpot.md) ([Source](https://github.com/penpot/penpot)) - `ai/trending`
+130. [krahets/hello-algo](../../ai/trending/krahets-hello-algo.md) ([Source](https://github.com/krahets/hello-algo)) - `ai/trending`
+131. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md) ([Source](https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation)) - `ai/trending`
+132. [mattpocock/skills](../../ai/trending/mattpocock-skills.md) ([Source](https://github.com/mattpocock/skills)) - `ai/trending`
+133. [yairm210/Unciv](../../ai/trending/yairm210-unciv.md) ([Source](https://github.com/yairm210/unciv)) - `ai/trending`
+134. [freeCodeCamp/freeCodeCamp](../../ai/trending/freecodecamp-freecodecamp.md) ([Source](https://github.com/freecodecamp/freecodecamp)) - `ai/trending`
+135. [bytedance/UI-TARS-desktop](../../ai/agents/bytedance-ui-tars-desktop.md) ([Source](https://github.com/bytedance/ui-tars-desktop)) - `ai/agents`
+136. [pytorch/pytorch Release: PyTorch 2.12.0 Release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
+137. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
+138. [langchain-ai/langchain Release: langchain-openai==1.3.2](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
+139. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
+140. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/rag`
+141. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
+142. [crewAIInc/crewAI Release: 1.14.7](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/rag`
+143. [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../../ai/rag/rag-status-template-excel-free-download-techno-pm.md) ([Source](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) - `ai/rag`
+144. [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md) ([Source](https://business-docs.co.uk/downloads/category/rag)) - `ai/rag`
+145. [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../../ai/rag/rag-project-status-report-template-document-templa.md) ([Source](https://itsm-docs.com/en-gb/products/rag-status-template)) - `ai/rag`
+146. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
+147. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+148. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+149. [RAG Status Template | Red, Amber, Green Status | Project Slides](../../ai/rag/rag-status-template-red-amber-green-status-project.md) ([Source](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) - `ai/rag`
+150. [Build a RAG agent with LangChain - Docs by LangChain](../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
+151. [RAG System with LangChain and LangGraph - GeeksforGeeks](../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) ([Source](https://geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph)) - `ai/rag`
+152. [LightRAG](../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
+153. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md) ([Source](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14)) - `ai/rag`
+154. [Free RAG Status Report Template to Edit Online](../../ai/rag/free-rag-status-report-template-to-edit-online.md) ([Source](https://template.net/edit-online/394147/rag-status-report)) - `ai/rag`
+155. [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../../ai/rag/free-project-status-report-template-weekly-monthly.md) ([Source](https://analysistabs.com/templates/project-status-report)) - `ai/rag`
+156. [RAG Status Dashboard Roadmap Template - WordLayouts](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md) ([Source](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) - `ai/rag`
+157. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
+158. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
+159. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+160. [RAG Rating Tracker Template in Apple Numbers, Word, Excel, Pages, Google Sheets, Google Docs - Download | Template.net](../../ai/rag/rag-rating-tracker-template-in-apple-numbers-word.md) ([Source](https://template.net/editable/46057/rag-rating-tracker)) - `ai/rag`
+161. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
+162. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md) ([Source](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)) - `ai/rag`
+163. [What is RAG Status Reporting in Project Management? | PM Study Circle](../../ai/rag/what-is-rag-status-reporting-in-project-management.md) ([Source](https://pmstudycircle.com/rag-status-reporting)) - `ai/rag`
+164. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
+165. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
+166. [RAG Status Template (Word, Excel)](../../ai/rag/rag-status-template-word-excel.md) ([Source](https://mastt.com/resources/rag-status-template)) - `ai/rag`
+167. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
+168. [Building a RAG Application - GeeksforGeeks](../../ai/rag/building-a-rag-application-geeksforgeeks.md) ([Source](https://geeksforgeeks.org/data-science/building-a-rag-application)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -3086,237 +3081,238 @@ No updates collected under this section this week.
 ## Weekly Product Launches
 
 1. [ParticleMedia/RAGTruth](../../ai/rag/particlemedia-ragtruth.md) ([Source](https://github.com/particlemedia/ragtruth)) (Stars: 0, Language: Unknown) - `ai/rag`
-2. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+2. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
 3. [rokbenko/ai-playground](../../ai/rag/rokbenko-ai-playground.md) ([Source](https://github.com/rokbenko/ai-playground)) (Stars: 0, Language: Unknown) - `ai/rag`
 4. [pguso/rag-from-scratch](../../ai/rag/pguso-rag-from-scratch.md) ([Source](https://github.com/pguso/rag-from-scratch)) (Stars: 0, Language: Unknown) - `ai/rag`
-5. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
-6. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
-7. [lancedb/vectordb-recipes](../../ai/rag/lancedb-vectordb-recipes.md) ([Source](https://github.com/lancedb/vectordb-recipes)) (Stars: 0, Language: Unknown) - `ai/rag`
-8. [shivayapandey/product-doc-crewai](../../ai/rag/shivayapandey-product-doc-crewai.md) ([Source](https://github.com/shivayapandey/product-doc-crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
-9. [curiousily/AI-Bootcamp](../../ai/rag/curiousily-ai-bootcamp.md) ([Source](https://github.com/curiousily/ai-bootcamp)) (Stars: 0, Language: Unknown) - `ai/rag`
-10. [junwoojeong100/azure-intelligent-app-labs](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([Source](https://github.com/junwoojeong100/azure-intelligent-app-labs)) (Stars: 0, Language: Unknown) - `ai/rag`
-11. [riolaf05/blog-writer-crewai](../../ai/agents/riolaf05-blog-writer-crewai.md) ([Source](https://github.com/riolaf05/blog-writer-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
-12. [ilexistools/agents-sdk-templates](../../ai/agents/ilexistools-agents-sdk-templates.md) ([Source](https://github.com/ilexistools/agents-sdk-templates)) (Stars: 0, Language: Unknown) - `ai/agents`
-13. [jmahoro2022/GitHub-Start-up-project](../../ai/agents/jmahoro2022-github-start-up-project.md) ([Source](https://github.com/jmahoro2022/github-start-up-project)) (Stars: 0, Language: Unknown) - `ai/agents`
-14. [kno2gether/crewai-examples](../../ai/agents/kno2gether-crewai-examples.md) ([Source](https://github.com/kno2gether/crewai-examples)) (Stars: 0, Language: Unknown) - `ai/agents`
-15. [Ammumammu/https-github.com-majacinka-crewai-experiments](../../ai/agents/ammumammu-https-github-com-majacinka-crewai-experiments.md) ([Source](https://github.com/ammumammu/https-github.com-majacinka-crewai-experiments)) (Stars: 0, Language: Unknown) - `ai/agents`
-16. [ahsen-adil/Learn_OpenAI_Agents_SDK](../../ai/agents/ahsen-adil-learn-openai-agents-sdk.md) ([Source](https://github.com/ahsen-adil/learn_openai_agents_sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
-17. [dorisoy/FFmpeg.AutoGen.Toolkit](../../ai/agents/dorisoy-ffmpeg-autogen-toolkit.md) ([Source](https://github.com/dorisoy/ffmpeg.autogen.toolkit)) (Stars: 0, Language: Unknown) - `ai/agents`
-18. [CS-433/ml-project-2-nlp_of_autogentext](../../ai/agents/cs-433-ml-project-2-nlp-of-autogentext.md) ([Source](https://github.com/cs-433/ml-project-2-nlp_of_autogentext)) (Stars: 0, Language: Unknown) - `ai/agents`
-19. [bhancockio/crewai-groq-tutorial](../../ai/agents/bhancockio-crewai-groq-tutorial.md) ([Source](https://github.com/bhancockio/crewai-groq-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-20. [imzodev/openai-agents-sdk-js-tutorial](../../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md) ([Source](https://github.com/imzodev/openai-agents-sdk-js-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-21. [seehiong/seehiong.github.io](../../ai/agents/seehiong-seehiong-github-io.md) ([Source](https://github.com/seehiong/seehiong.github.io)) (Stars: 0, Language: Unknown) - `ai/agents`
-22. [akihirookuda95/openai-agents-sdk-tutorial](../../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md) ([Source](https://github.com/akihirookuda95/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-23. [bhancockio/nextjs-crewai-basic-tutorial](../../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md) ([Source](https://github.com/bhancockio/nextjs-crewai-basic-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-24. [alejandro-ao/crewai-crash-course](../../ai/agents/alejandro-ao-crewai-crash-course.md) ([Source](https://github.com/alejandro-ao/crewai-crash-course)) (Stars: 0, Language: Unknown) - `ai/agents`
-25. [denniszielke/agentic-playground](../../ai/agents/denniszielke-agentic-playground.md) ([Source](https://github.com/denniszielke/agentic-playground)) (Stars: 0, Language: Unknown) - `ai/agents`
-26. [bluehands/GirlsDay2026](../../ai/agents/bluehands-girlsday2026.md) ([Source](https://github.com/bluehands/girlsday2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-27. [G1o22/awesome-ai-agents-2026](../../ai/agents/g1o22-awesome-ai-agents-2026.md) ([Source](https://github.com/g1o22/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-28. [Sameera-Nazneen/AutogeneratedCV.github.io](../../ai/agents/sameera-nazneen-autogeneratedcv-github-io.md) ([Source](https://github.com/sameera-nazneen/autogeneratedcv.github.io)) (Stars: 0, Language: Unknown) - `ai/agents`
-29. [Nithador/crewai_demo](../../ai/agents/nithador-crewai-demo.md) ([Source](https://github.com/nithador/crewai_demo)) (Stars: 0, Language: Unknown) - `ai/agents`
-30. [zahere-dev/openai-agents-sdk-tutorial](../../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md) ([Source](https://github.com/zahere-dev/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-31. [agruai/ai-book-writer](../../ai/agents/agruai-ai-book-writer.md) ([Source](https://github.com/agruai/ai-book-writer)) (Stars: 0, Language: Unknown) - `ai/agents`
-32. [AarohiSingla/CrewAI_tutorials](../../ai/agents/aarohisingla-crewai-tutorials.md) ([Source](https://github.com/aarohisingla/crewai_tutorials)) (Stars: 0, Language: Unknown) - `ai/agents`
-33. [8500GIRISH/CrewAI-2026](../../ai/agents/8500girish-crewai-2026.md) ([Source](https://github.com/8500girish/crewai-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-34. [lchen4-godaddy/agent-template-openai-agents-sdk](../../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md) ([Source](https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
-35. [mkrl/e0](../../ai/agents/mkrl-e0.md) ([Source](https://github.com/mkrl/e0)) (Stars: 0, Language: Unknown) - `ai/agents`
-36. [abuzarmahmood/blech_github_bot](../../ai/agents/abuzarmahmood-blech-github-bot.md) ([Source](https://github.com/abuzarmahmood/blech_github_bot)) (Stars: 0, Language: Unknown) - `ai/agents`
-37. [tonykipkemboi/crewai-jobs](../../ai/agents/tonykipkemboi-crewai-jobs.md) ([Source](https://github.com/tonykipkemboi/crewai-jobs)) (Stars: 0, Language: Unknown) - `ai/agents`
-38. [HeadyZhang/agent-audit](../../ai/agents/headyzhang-agent-audit.md) ([Source](https://github.com/headyzhang/agent-audit)) (Stars: 0, Language: Unknown) - `ai/agents`
-39. [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) ([Source](https://github.com/hamzaahmedsheikh/fastapi-openai-agents-sdk-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-40. [prompten-2026bahar/PE-2026-CrewAI](../../ai/agents/prompten-2026bahar-pe-2026-crewai.md) ([Source](https://github.com/prompten-2026bahar/pe-2026-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
-41. [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md) ([Source](https://github.com/rehan-ul-haq/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-42. [HA2345567/awesome-autonomus-ai-agents](../../ai/agents/ha2345567-awesome-autonomus-ai-agents.md) ([Source](https://github.com/ha2345567/awesome-autonomus-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
-43. [purduehackers/coding-agent-workshop-template](../../ai/agents/purduehackers-coding-agent-workshop-template.md) ([Source](https://github.com/purduehackers/coding-agent-workshop-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-44. [rominirani/autogen-experiments](../../ai/agents/rominirani-autogen-experiments.md) ([Source](https://github.com/rominirani/autogen-experiments)) (Stars: 0, Language: Unknown) - `ai/agents`
-45. [dabidstudio/openai-agents-sdk-tutorial](../../ai/agents/dabidstudio-openai-agents-sdk-tutorial.md) ([Source](https://github.com/dabidstudio/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-46. [tylerprogramming/ai](../../ai/agents/tylerprogramming-ai.md) ([Source](https://github.com/tylerprogramming/ai)) (Stars: 0, Language: Unknown) - `ai/agents`
-47. [codewithaarohi/OpenAI-Agents-SDK](../../ai/agents/codewithaarohi-openai-agents-sdk.md) ([Source](https://github.com/codewithaarohi/openai-agents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
-48. [alirazapoonja/OpenAIAgents-SDK](../../ai/agents/alirazapoonja-openaiagents-sdk.md) ([Source](https://github.com/alirazapoonja/openaiagents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
-49. [valory-xyz/langchain-hello-world](../../ai/agents/valory-xyz-langchain-hello-world.md) ([Source](https://github.com/valory-xyz/langchain-hello-world)) (Stars: 0, Language: Unknown) - `ai/agents`
-50. [okahu-demos/crewai-travel-agent](../../ai/agents/okahu-demos-crewai-travel-agent.md) ([Source](https://github.com/okahu-demos/crewai-travel-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-51. [bhancockio/crewai-updated-tutorial-hierarchical](../../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md) ([Source](https://github.com/bhancockio/crewai-updated-tutorial-hierarchical)) (Stars: 0, Language: Unknown) - `ai/agents`
-52. [masumi-network/crewai-masumi-quickstart-template](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([Source](https://github.com/masumi-network/crewai-masumi-quickstart-template)) (Stars: 0, Language: Unknown) - `ai/agents`
-53. [Deepakyati/CrewAI_2026](../../ai/agents/deepakyati-crewai-2026.md) ([Source](https://github.com/deepakyati/crewai_2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-54. [Jhonata-Matias/crewai-hackathon-2026](../../ai/agents/jhonata-matias-crewai-hackathon-2026.md) ([Source](https://github.com/jhonata-matias/crewai-hackathon-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
-55. [neocypher-x/openai-agents-sdk-tutorial](../../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md) ([Source](https://github.com/neocypher-x/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-56. [croppers/crewai](../../ai/agents/croppers-crewai.md) ([Source](https://github.com/croppers/crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
-57. [maunappl8/openai-agents-ts-kit](../../ai/agents/maunappl8-openai-agents-ts-kit.md) ([Source](https://github.com/maunappl8/openai-agents-ts-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
-58. [parallel75/Microsoft_AutoGen_Tutorial](../../ai/agents/parallel75-microsoft-autogen-tutorial.md) ([Source](https://github.com/parallel75/microsoft_autogen_tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
-59. [questcollector/autogen-kubernetes](../../ai/agents/questcollector-autogen-kubernetes.md) ([Source](https://github.com/questcollector/autogen-kubernetes)) (Stars: 0, Language: Unknown) - `ai/agents`
-60. [mjunaidca/create-daca](../../ai/agents/mjunaidca-create-daca.md) ([Source](https://github.com/mjunaidca/create-daca)) (Stars: 0, Language: Unknown) - `ai/agents`
-61. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([Source](https://github.com/chinskikaczynski/awesome-openai-agent-templates)) (Stars: 0, Language: Unknown) - `ai/agents`
-62. [kkdai/linebot-openai-agent](../../ai/agents/kkdai-linebot-openai-agent.md) ([Source](https://github.com/kkdai/linebot-openai-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
-63. [codewithaarohi/OpenAI-Agents-SDK-](../../ai/agents/codewithaarohi-openai-agents-sdk-2.md) ([Source](https://github.com/codewithaarohi/openai-agents-sdk-)) (Stars: 0, Language: Unknown) - `ai/agents`
-64. [codebasics/crewai-crash-course](../../ai/agents/codebasics-crewai-crash-course.md) ([Source](https://github.com/codebasics/crewai-crash-course)) (Stars: 0, Language: Unknown) - `ai/agents`
-65. [alphardex/kokomi.js](../../web-development/threejs/alphardex-kokomi-js.md) ([Source](https://github.com/alphardex/kokomi.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-66. [codrops/ScrollBasedLayoutAnimations](../../web-development/gsap/codrops-scrollbasedlayoutanimations.md) ([Source](https://github.com/codrops/scrollbasedlayoutanimations)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-67. [chrisgannon/ScrollLottie](../../web-development/gsap/chrisgannon-scrolllottie.md) ([Source](https://github.com/chrisgannon/scrolllottie)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-68. [codebucks27/The-Weirdos-NFT-Website-Starter-Code](../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md) ([Source](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-69. [codebucks27/3D-Landing-page-for-Apple-iPhone](../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) ([Source](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-70. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([Source](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-71. [ShowravKormokar/capsule](../../web-development/gsap/showravkormokar-capsule.md) ([Source](https://github.com/showravkormokar/capsule)) (Stars: 0, Language: Unknown) - `web-development/gsap`
-72. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
-73. [ykob/sketch-threejs](../../web-development/threejs/ykob-sketch-threejs.md) ([Source](https://github.com/ykob/sketch-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-74. [mrdoob/three.js](../../web-development/threejs/mrdoob-three-js.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-75. [luosijie/threejs-examples](../../web-development/threejs/luosijie-threejs-examples.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-76. [davidlyons/threejs-intro](../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-77. [fireship-io/threejs-scroll-animation-demo](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-78. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
-79. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-80. [mkkellogg/GaussianSplats3D](../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-81. [vasturiano/3d-force-graph](../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-82. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-83. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-84. [gkjohnson/threejs-sandbox](../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-85. [xiao149/ThreeJsDemo](../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-86. [puxiao/threejs-tutorial](../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-87. [z2586300277/three-cesium-examples](../../web-development/threejs/z2586300277-three-cesium-examples.md) ([Source](https://github.com/z2586300277/three-cesium-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-88. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([Source](https://github.com/dhruvmisra/pathfinding-visualizer-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-89. [wechat-miniprogram/threejs-miniprogram](../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([Source](https://github.com/wechat-miniprogram/threejs-miniprogram)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-90. [wolfwind521/indoor3D](../../web-development/threejs/wolfwind521-indoor3d.md) ([Source](https://github.com/wolfwind521/indoor3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-91. [chenjsh36/ThreeJSForFun](../../web-development/threejs/chenjsh36-threejsforfun.md) ([Source](https://github.com/chenjsh36/threejsforfun)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-92. [sanderblue/solar-system-threejs](../../web-development/threejs/sanderblue-solar-system-threejs.md) ([Source](https://github.com/sanderblue/solar-system-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-93. [fritx/vue-threejs](../../web-development/threejs/fritx-vue-threejs.md) ([Source](https://github.com/fritx/vue-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-94. [spite/Wagner](../../web-development/threejs/spite-wagner.md) ([Source](https://github.com/spite/wagner)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-95. [Mario343214420/Webgl-Data-Demo](../../web-development/threejs/mario343214420-webgl-data-demo.md) ([Source](https://github.com/mario343214420/webgl-data-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-96. [josdirksen/learning-threejs-third](../../web-development/threejs/josdirksen-learning-threejs-third.md) ([Source](https://github.com/josdirksen/learning-threejs-third)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-97. [nklsrh/BuildNewGames_ThreeJSGame](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([Source](https://github.com/nklsrh/buildnewgames_threejsgame)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-98. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-99. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-100. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-101. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-102. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-103. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-104. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-105. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-106. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-107. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-108. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-109. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-110. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-111. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-112. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-113. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-114. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-115. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-116. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-117. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-118. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-119. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-120. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-121. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-122. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-123. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-124. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-125. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-126. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-127. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-128. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-129. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-130. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-131. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-132. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-133. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-134. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-135. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-136. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-137. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-138. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-139. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-140. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-141. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-142. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-143. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-144. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-145. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-146. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-147. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-148. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-149. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-150. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-151. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-152. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-153. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-154. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-155. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-156. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-157. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-158. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-159. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-160. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-161. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-162. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-163. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-164. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-165. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-166. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-167. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-168. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-169. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-170. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-171. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-172. [nobruf/shadcn-landing-page](../../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source](https://github.com/nobruf/shadcn-landing-page)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-173. [shadcnblocks/mainline-nextjs-template](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md) ([Source](https://github.com/shadcnblocks/mainline-nextjs-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-174. [shadcnstore/shadcn-dashboard-landing-template](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source](https://github.com/shadcnstore/shadcn-dashboard-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-175. [saasykits/nextjs-sessionauth-template](../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md) ([Source](https://github.com/saasykits/nextjs-sessionauth-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-176. [ChangoMan/nextjs-mdx-blog](../../web-development/nextjs/changoman-nextjs-mdx-blog.md) ([Source](https://github.com/changoman/nextjs-mdx-blog)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-177. [jolbol1/nextjs-velite-blog-template](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md) ([Source](https://github.com/jolbol1/nextjs-velite-blog-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-178. [shadcnspace/shadcnspace](../../web-development/nextjs/shadcnspace-shadcnspace.md) ([Source](https://github.com/shadcnspace/shadcnspace)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-179. [ixartz/SaaS-Boilerplate](../../web-development/nextjs/ixartz-saas-boilerplate.md) ([Source](https://github.com/ixartz/saas-boilerplate)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-180. [linkb15/turborepo-shadcn-ui-tailwind-4](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md) ([Source](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-181. [enesien/venefish](../../web-development/nextjs/enesien-venefish.md) ([Source](https://github.com/enesien/venefish)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-182. [danybeltran/nextjs-typescript-and-postgresql](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md) ([Source](https://github.com/danybeltran/nextjs-typescript-and-postgresql)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-183. [NotStark/portfolio](../../web-development/nextjs/notstark-portfolio.md) ([Source](https://github.com/notstark/portfolio)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-184. [gonzalochale/saas-landing-template](../../web-development/nextjs/gonzalochale-saas-landing-template.md) ([Source](https://github.com/gonzalochale/saas-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-185. [reliverse/relivator](../../web-development/nextjs/reliverse-relivator.md) ([Source](https://github.com/reliverse/relivator)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-186. [pdsuwwz/nextjs-nextra-starter](../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md) ([Source](https://github.com/pdsuwwz/nextjs-nextra-starter)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-187. [redpangilinan/next-entree](../../web-development/nextjs/redpangilinan-next-entree.md) ([Source](https://github.com/redpangilinan/next-entree)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-188. [asbhogal/Fyrre-Magazine](../../web-development/nextjs/asbhogal-fyrre-magazine.md) ([Source](https://github.com/asbhogal/fyrre-magazine)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
-189. [shadcn-ui/ui](../../web-development/shadcn-ui/shadcn-ui-ui.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-190. [birobirobiro/awesome-shadcn-ui](../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-191. [shadcn-ui/taxonomy](../../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([Source](https://github.com/shadcn-ui/taxonomy)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-192. [unovue/shadcn-vue](../../web-development/shadcn-ui/unovue-shadcn-vue.md) ([Source](https://github.com/unovue/shadcn-vue)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-193. [satnaing/shadcn-admin](../../web-development/shadcn-ui/satnaing-shadcn-admin.md) ([Source](https://github.com/satnaing/shadcn-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-194. [huntabyte/shadcn-svelte](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([Source](https://github.com/huntabyte/shadcn-svelte)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-195. [udecode/plate](../../web-development/shadcn-ui/udecode-plate.md) ([Source](https://github.com/udecode/plate)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-196. [Jpisnice/shadcn-ui-mcp-server](../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([Source](https://github.com/jpisnice/shadcn-ui-mcp-server)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-197. [nank1ro/flutter-shadcn-ui](../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md) ([Source](https://github.com/nank1ro/flutter-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-198. [salimi-my/shadcn-ui-sidebar](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([Source](https://github.com/salimi-my/shadcn-ui-sidebar)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-199. [nextjs/saas-starter](../../web-development/shadcn-ui/nextjs-saas-starter.md) ([Source](https://github.com/nextjs/saas-starter)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-200. [ln-dev7/square-ui](../../web-development/shadcn-ui/ln-dev7-square-ui.md) ([Source](https://github.com/ln-dev7/square-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-201. [vbenjs/vue-vben-admin](../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-202. [hsuanyi-chou/shadcn-ui-expansions](../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md) ([Source](https://github.com/hsuanyi-chou/shadcn-ui-expansions)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-203. [dan5py/turborepo-shadcn-ui](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([Source](https://github.com/dan5py/turborepo-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-204. [jnsahaj/tweakcn](../../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([Source](https://github.com/jnsahaj/tweakcn)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-205. [ObservedObserver/streamlit-shadcn-ui](../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([Source](https://github.com/observedobserver/streamlit-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-206. [dan5py/react-vite-shadcn-ui](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md) ([Source](https://github.com/dan5py/react-vite-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-207. [bytefer/awesome-shadcn-ui](../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md) ([Source](https://github.com/bytefer/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-208. [akash3444/shadcn-ui-blocks](../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md) ([Source](https://github.com/akash3444/shadcn-ui-blocks)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-209. [shadcn-ui/next-template](../../web-development/shadcn-ui/shadcn-ui-next-template.md) ([Source](https://github.com/shadcn-ui/next-template)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-210. [marmelab/atomic-crm](../../web-development/shadcn-ui/marmelab-atomic-crm.md) ([Source](https://github.com/marmelab/atomic-crm)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-211. [sadmann7/file-uploader](../../web-development/shadcn-ui/sadmann7-file-uploader.md) ([Source](https://github.com/sadmann7/file-uploader)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-212. [magicuidesign/portfolio](../../web-development/shadcn-ui/magicuidesign-portfolio.md) ([Source](https://github.com/magicuidesign/portfolio)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-213. [jln13x/ui.jln.dev](../../web-development/shadcn-ui/jln13x-ui-jln-dev.md) ([Source](https://github.com/jln13x/ui.jln.dev)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
-214. [datawhalechina/hello-agents](../../ai/rag/datawhalechina-hello-agents.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
-215. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-216. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
-217. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
-218. [HKUDS/RAG-Anything](../../ai/rag/hkuds-rag-anything.md) ([Source](https://github.com/hkuds/rag-anything)) (Stars: 0, Language: Unknown) - `ai/rag`
-219. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
-220. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
-221. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
-222. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+5. [HKUDS/RAG-Anything](../../ai/rag/hkuds-rag-anything.md) ([Source](https://github.com/hkuds/rag-anything)) (Stars: 0, Language: Unknown) - `ai/rag`
+6. [datawhalechina/llm-universe](../../ai/rag/datawhalechina-llm-universe.md) ([Source](https://github.com/datawhalechina/llm-universe)) (Stars: 0, Language: Unknown) - `ai/rag`
+7. [pixegami/rag-tutorial-v2](../../ai/rag/pixegami-rag-tutorial-v2.md) ([Source](https://github.com/pixegami/rag-tutorial-v2)) (Stars: 0, Language: Unknown) - `ai/rag`
+8. [adongwanai/AgentGuide](../../ai/rag/adongwanai-agentguide.md) ([Source](https://github.com/adongwanai/agentguide)) (Stars: 0, Language: Unknown) - `ai/rag`
+9. [lancedb/vectordb-recipes](../../ai/rag/lancedb-vectordb-recipes.md) ([Source](https://github.com/lancedb/vectordb-recipes)) (Stars: 0, Language: Unknown) - `ai/rag`
+10. [shivayapandey/product-doc-crewai](../../ai/rag/shivayapandey-product-doc-crewai.md) ([Source](https://github.com/shivayapandey/product-doc-crewai)) (Stars: 0, Language: Unknown) - `ai/rag`
+11. [curiousily/AI-Bootcamp](../../ai/rag/curiousily-ai-bootcamp.md) ([Source](https://github.com/curiousily/ai-bootcamp)) (Stars: 0, Language: Unknown) - `ai/rag`
+12. [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag1-hw01_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+13. [krishnaik06/RAG-Tutorials](../../ai/rag/krishnaik06-rag-tutorials.md) ([Source](https://github.com/krishnaik06/rag-tutorials)) (Stars: 0, Language: Unknown) - `ai/rag`
+14. [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md) ([Source](https://github.com/icensraghomework/icensraghomework-classroom01-rag2-hw02_workflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+15. [junwoojeong100/azure-intelligent-app-labs](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([Source](https://github.com/junwoojeong100/azure-intelligent-app-labs)) (Stars: 0, Language: Unknown) - `ai/rag`
+16. [riolaf05/blog-writer-crewai](../../ai/agents/riolaf05-blog-writer-crewai.md) ([Source](https://github.com/riolaf05/blog-writer-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
+17. [ilexistools/agents-sdk-templates](../../ai/agents/ilexistools-agents-sdk-templates.md) ([Source](https://github.com/ilexistools/agents-sdk-templates)) (Stars: 0, Language: Unknown) - `ai/agents`
+18. [jmahoro2022/GitHub-Start-up-project](../../ai/agents/jmahoro2022-github-start-up-project.md) ([Source](https://github.com/jmahoro2022/github-start-up-project)) (Stars: 0, Language: Unknown) - `ai/agents`
+19. [kno2gether/crewai-examples](../../ai/agents/kno2gether-crewai-examples.md) ([Source](https://github.com/kno2gether/crewai-examples)) (Stars: 0, Language: Unknown) - `ai/agents`
+20. [Ammumammu/https-github.com-majacinka-crewai-experiments](../../ai/agents/ammumammu-https-github-com-majacinka-crewai-experiments.md) ([Source](https://github.com/ammumammu/https-github.com-majacinka-crewai-experiments)) (Stars: 0, Language: Unknown) - `ai/agents`
+21. [ahsen-adil/Learn_OpenAI_Agents_SDK](../../ai/agents/ahsen-adil-learn-openai-agents-sdk.md) ([Source](https://github.com/ahsen-adil/learn_openai_agents_sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
+22. [dorisoy/FFmpeg.AutoGen.Toolkit](../../ai/agents/dorisoy-ffmpeg-autogen-toolkit.md) ([Source](https://github.com/dorisoy/ffmpeg.autogen.toolkit)) (Stars: 0, Language: Unknown) - `ai/agents`
+23. [CS-433/ml-project-2-nlp_of_autogentext](../../ai/agents/cs-433-ml-project-2-nlp-of-autogentext.md) ([Source](https://github.com/cs-433/ml-project-2-nlp_of_autogentext)) (Stars: 0, Language: Unknown) - `ai/agents`
+24. [bhancockio/crewai-groq-tutorial](../../ai/agents/bhancockio-crewai-groq-tutorial.md) ([Source](https://github.com/bhancockio/crewai-groq-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+25. [imzodev/openai-agents-sdk-js-tutorial](../../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md) ([Source](https://github.com/imzodev/openai-agents-sdk-js-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+26. [seehiong/seehiong.github.io](../../ai/agents/seehiong-seehiong-github-io.md) ([Source](https://github.com/seehiong/seehiong.github.io)) (Stars: 0, Language: Unknown) - `ai/agents`
+27. [akihirookuda95/openai-agents-sdk-tutorial](../../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md) ([Source](https://github.com/akihirookuda95/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+28. [bhancockio/nextjs-crewai-basic-tutorial](../../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md) ([Source](https://github.com/bhancockio/nextjs-crewai-basic-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+29. [alejandro-ao/crewai-crash-course](../../ai/agents/alejandro-ao-crewai-crash-course.md) ([Source](https://github.com/alejandro-ao/crewai-crash-course)) (Stars: 0, Language: Unknown) - `ai/agents`
+30. [denniszielke/agentic-playground](../../ai/agents/denniszielke-agentic-playground.md) ([Source](https://github.com/denniszielke/agentic-playground)) (Stars: 0, Language: Unknown) - `ai/agents`
+31. [bluehands/GirlsDay2026](../../ai/agents/bluehands-girlsday2026.md) ([Source](https://github.com/bluehands/girlsday2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+32. [G1o22/awesome-ai-agents-2026](../../ai/agents/g1o22-awesome-ai-agents-2026.md) ([Source](https://github.com/g1o22/awesome-ai-agents-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+33. [Sameera-Nazneen/AutogeneratedCV.github.io](../../ai/agents/sameera-nazneen-autogeneratedcv-github-io.md) ([Source](https://github.com/sameera-nazneen/autogeneratedcv.github.io)) (Stars: 0, Language: Unknown) - `ai/agents`
+34. [Nithador/crewai_demo](../../ai/agents/nithador-crewai-demo.md) ([Source](https://github.com/nithador/crewai_demo)) (Stars: 0, Language: Unknown) - `ai/agents`
+35. [zahere-dev/openai-agents-sdk-tutorial](../../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md) ([Source](https://github.com/zahere-dev/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+36. [agruai/ai-book-writer](../../ai/agents/agruai-ai-book-writer.md) ([Source](https://github.com/agruai/ai-book-writer)) (Stars: 0, Language: Unknown) - `ai/agents`
+37. [AarohiSingla/CrewAI_tutorials](../../ai/agents/aarohisingla-crewai-tutorials.md) ([Source](https://github.com/aarohisingla/crewai_tutorials)) (Stars: 0, Language: Unknown) - `ai/agents`
+38. [8500GIRISH/CrewAI-2026](../../ai/agents/8500girish-crewai-2026.md) ([Source](https://github.com/8500girish/crewai-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+39. [lchen4-godaddy/agent-template-openai-agents-sdk](../../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md) ([Source](https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
+40. [mkrl/e0](../../ai/agents/mkrl-e0.md) ([Source](https://github.com/mkrl/e0)) (Stars: 0, Language: Unknown) - `ai/agents`
+41. [abuzarmahmood/blech_github_bot](../../ai/agents/abuzarmahmood-blech-github-bot.md) ([Source](https://github.com/abuzarmahmood/blech_github_bot)) (Stars: 0, Language: Unknown) - `ai/agents`
+42. [tonykipkemboi/crewai-jobs](../../ai/agents/tonykipkemboi-crewai-jobs.md) ([Source](https://github.com/tonykipkemboi/crewai-jobs)) (Stars: 0, Language: Unknown) - `ai/agents`
+43. [HeadyZhang/agent-audit](../../ai/agents/headyzhang-agent-audit.md) ([Source](https://github.com/headyzhang/agent-audit)) (Stars: 0, Language: Unknown) - `ai/agents`
+44. [HamzaAhmedSheikh/fastapi-openai-agents-sdk-template](../../ai/agents/hamzaahmedsheikh-fastapi-openai-agents-sdk-template.md) ([Source](https://github.com/hamzaahmedsheikh/fastapi-openai-agents-sdk-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+45. [prompten-2026bahar/PE-2026-CrewAI](../../ai/agents/prompten-2026bahar-pe-2026-crewai.md) ([Source](https://github.com/prompten-2026bahar/pe-2026-crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
+46. [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md) ([Source](https://github.com/rehan-ul-haq/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+47. [HA2345567/awesome-autonomus-ai-agents](../../ai/agents/ha2345567-awesome-autonomus-ai-agents.md) ([Source](https://github.com/ha2345567/awesome-autonomus-ai-agents)) (Stars: 0, Language: Unknown) - `ai/agents`
+48. [purduehackers/coding-agent-workshop-template](../../ai/agents/purduehackers-coding-agent-workshop-template.md) ([Source](https://github.com/purduehackers/coding-agent-workshop-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+49. [rominirani/autogen-experiments](../../ai/agents/rominirani-autogen-experiments.md) ([Source](https://github.com/rominirani/autogen-experiments)) (Stars: 0, Language: Unknown) - `ai/agents`
+50. [dabidstudio/openai-agents-sdk-tutorial](../../ai/agents/dabidstudio-openai-agents-sdk-tutorial.md) ([Source](https://github.com/dabidstudio/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+51. [tylerprogramming/ai](../../ai/agents/tylerprogramming-ai.md) ([Source](https://github.com/tylerprogramming/ai)) (Stars: 0, Language: Unknown) - `ai/agents`
+52. [codewithaarohi/OpenAI-Agents-SDK](../../ai/agents/codewithaarohi-openai-agents-sdk.md) ([Source](https://github.com/codewithaarohi/openai-agents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
+53. [alirazapoonja/OpenAIAgents-SDK](../../ai/agents/alirazapoonja-openaiagents-sdk.md) ([Source](https://github.com/alirazapoonja/openaiagents-sdk)) (Stars: 0, Language: Unknown) - `ai/agents`
+54. [valory-xyz/langchain-hello-world](../../ai/agents/valory-xyz-langchain-hello-world.md) ([Source](https://github.com/valory-xyz/langchain-hello-world)) (Stars: 0, Language: Unknown) - `ai/agents`
+55. [okahu-demos/crewai-travel-agent](../../ai/agents/okahu-demos-crewai-travel-agent.md) ([Source](https://github.com/okahu-demos/crewai-travel-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+56. [bhancockio/crewai-updated-tutorial-hierarchical](../../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md) ([Source](https://github.com/bhancockio/crewai-updated-tutorial-hierarchical)) (Stars: 0, Language: Unknown) - `ai/agents`
+57. [masumi-network/crewai-masumi-quickstart-template](../../ai/agents/masumi-network-crewai-masumi-quickstart-template.md) ([Source](https://github.com/masumi-network/crewai-masumi-quickstart-template)) (Stars: 0, Language: Unknown) - `ai/agents`
+58. [Deepakyati/CrewAI_2026](../../ai/agents/deepakyati-crewai-2026.md) ([Source](https://github.com/deepakyati/crewai_2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+59. [Jhonata-Matias/crewai-hackathon-2026](../../ai/agents/jhonata-matias-crewai-hackathon-2026.md) ([Source](https://github.com/jhonata-matias/crewai-hackathon-2026)) (Stars: 0, Language: Unknown) - `ai/agents`
+60. [neocypher-x/openai-agents-sdk-tutorial](../../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md) ([Source](https://github.com/neocypher-x/openai-agents-sdk-tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+61. [croppers/crewai](../../ai/agents/croppers-crewai.md) ([Source](https://github.com/croppers/crewai)) (Stars: 0, Language: Unknown) - `ai/agents`
+62. [maunappl8/openai-agents-ts-kit](../../ai/agents/maunappl8-openai-agents-ts-kit.md) ([Source](https://github.com/maunappl8/openai-agents-ts-kit)) (Stars: 0, Language: Unknown) - `ai/agents`
+63. [parallel75/Microsoft_AutoGen_Tutorial](../../ai/agents/parallel75-microsoft-autogen-tutorial.md) ([Source](https://github.com/parallel75/microsoft_autogen_tutorial)) (Stars: 0, Language: Unknown) - `ai/agents`
+64. [questcollector/autogen-kubernetes](../../ai/agents/questcollector-autogen-kubernetes.md) ([Source](https://github.com/questcollector/autogen-kubernetes)) (Stars: 0, Language: Unknown) - `ai/agents`
+65. [mjunaidca/create-daca](../../ai/agents/mjunaidca-create-daca.md) ([Source](https://github.com/mjunaidca/create-daca)) (Stars: 0, Language: Unknown) - `ai/agents`
+66. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([Source](https://github.com/chinskikaczynski/awesome-openai-agent-templates)) (Stars: 0, Language: Unknown) - `ai/agents`
+67. [kkdai/linebot-openai-agent](../../ai/agents/kkdai-linebot-openai-agent.md) ([Source](https://github.com/kkdai/linebot-openai-agent)) (Stars: 0, Language: Unknown) - `ai/agents`
+68. [codewithaarohi/OpenAI-Agents-SDK-](../../ai/agents/codewithaarohi-openai-agents-sdk-2.md) ([Source](https://github.com/codewithaarohi/openai-agents-sdk-)) (Stars: 0, Language: Unknown) - `ai/agents`
+69. [codebasics/crewai-crash-course](../../ai/agents/codebasics-crewai-crash-course.md) ([Source](https://github.com/codebasics/crewai-crash-course)) (Stars: 0, Language: Unknown) - `ai/agents`
+70. [alphardex/kokomi.js](../../web-development/threejs/alphardex-kokomi-js.md) ([Source](https://github.com/alphardex/kokomi.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+71. [codrops/ScrollBasedLayoutAnimations](../../web-development/gsap/codrops-scrollbasedlayoutanimations.md) ([Source](https://github.com/codrops/scrollbasedlayoutanimations)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+72. [chrisgannon/ScrollLottie](../../web-development/gsap/chrisgannon-scrolllottie.md) ([Source](https://github.com/chrisgannon/scrolllottie)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+73. [codebucks27/The-Weirdos-NFT-Website-Starter-Code](../../web-development/gsap/codebucks27-the-weirdos-nft-website-starter-code.md) ([Source](https://github.com/codebucks27/the-weirdos-nft-website-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+74. [codebucks27/3D-Landing-page-for-Apple-iPhone](../../web-development/gsap/codebucks27-3d-landing-page-for-apple-iphone.md) ([Source](https://github.com/codebucks27/3d-landing-page-for-apple-iphone)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+75. [codebucks27/Apple-iphone-3d-landing-page-starter-Code](../../web-development/gsap/codebucks27-apple-iphone-3d-landing-page-starter-code.md) ([Source](https://github.com/codebucks27/apple-iphone-3d-landing-page-starter-code)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+76. [ShowravKormokar/capsule](../../web-development/gsap/showravkormokar-capsule.md) ([Source](https://github.com/showravkormokar/capsule)) (Stars: 0, Language: Unknown) - `web-development/gsap`
+77. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
+78. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+79. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+80. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+81. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+82. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+83. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+84. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+85. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+86. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+87. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+88. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+89. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+90. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+91. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+92. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+93. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+94. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+95. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+96. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+97. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+98. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+99. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+100. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+101. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+102. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+103. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+104. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+105. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+106. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+107. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+108. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+109. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+110. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+111. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+112. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+113. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+114. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+115. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+116. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+117. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+118. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+119. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+120. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+121. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+122. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+123. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+124. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+125. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+126. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+127. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+128. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+129. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+130. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+131. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+132. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+133. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+134. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+135. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+136. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+137. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+138. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+139. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+140. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+141. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+142. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+143. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+144. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+145. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+146. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+147. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+148. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+149. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+150. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+151. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+152. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+153. [nobruf/shadcn-landing-page](../../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source](https://github.com/nobruf/shadcn-landing-page)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+154. [shadcnblocks/mainline-nextjs-template](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md) ([Source](https://github.com/shadcnblocks/mainline-nextjs-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+155. [shadcnstore/shadcn-dashboard-landing-template](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source](https://github.com/shadcnstore/shadcn-dashboard-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+156. [saasykits/nextjs-sessionauth-template](../../web-development/nextjs/saasykits-nextjs-sessionauth-template.md) ([Source](https://github.com/saasykits/nextjs-sessionauth-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+157. [ChangoMan/nextjs-mdx-blog](../../web-development/nextjs/changoman-nextjs-mdx-blog.md) ([Source](https://github.com/changoman/nextjs-mdx-blog)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+158. [jolbol1/nextjs-velite-blog-template](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md) ([Source](https://github.com/jolbol1/nextjs-velite-blog-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+159. [shadcnspace/shadcnspace](../../web-development/nextjs/shadcnspace-shadcnspace.md) ([Source](https://github.com/shadcnspace/shadcnspace)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+160. [ixartz/SaaS-Boilerplate](../../web-development/nextjs/ixartz-saas-boilerplate.md) ([Source](https://github.com/ixartz/saas-boilerplate)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+161. [linkb15/turborepo-shadcn-ui-tailwind-4](../../web-development/nextjs/linkb15-turborepo-shadcn-ui-tailwind-4.md) ([Source](https://github.com/linkb15/turborepo-shadcn-ui-tailwind-4)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+162. [enesien/venefish](../../web-development/nextjs/enesien-venefish.md) ([Source](https://github.com/enesien/venefish)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+163. [danybeltran/nextjs-typescript-and-postgresql](../../web-development/nextjs/danybeltran-nextjs-typescript-and-postgresql.md) ([Source](https://github.com/danybeltran/nextjs-typescript-and-postgresql)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+164. [NotStark/portfolio](../../web-development/nextjs/notstark-portfolio.md) ([Source](https://github.com/notstark/portfolio)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+165. [gonzalochale/saas-landing-template](../../web-development/nextjs/gonzalochale-saas-landing-template.md) ([Source](https://github.com/gonzalochale/saas-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+166. [reliverse/relivator](../../web-development/nextjs/reliverse-relivator.md) ([Source](https://github.com/reliverse/relivator)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+167. [pdsuwwz/nextjs-nextra-starter](../../web-development/nextjs/pdsuwwz-nextjs-nextra-starter.md) ([Source](https://github.com/pdsuwwz/nextjs-nextra-starter)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+168. [redpangilinan/next-entree](../../web-development/nextjs/redpangilinan-next-entree.md) ([Source](https://github.com/redpangilinan/next-entree)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+169. [asbhogal/Fyrre-Magazine](../../web-development/nextjs/asbhogal-fyrre-magazine.md) ([Source](https://github.com/asbhogal/fyrre-magazine)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
+170. [ykob/sketch-threejs](../../web-development/threejs/ykob-sketch-threejs.md) ([Source](https://github.com/ykob/sketch-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+171. [mrdoob/three.js](../../web-development/threejs/mrdoob-three-js.md) ([Source](https://github.com/mrdoob/three.js)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+172. [luosijie/threejs-examples](../../web-development/threejs/luosijie-threejs-examples.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+173. [davidlyons/threejs-intro](../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+174. [fireship-io/threejs-scroll-animation-demo](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+175. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
+176. [mkkellogg/GaussianSplats3D](../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+177. [vasturiano/3d-force-graph](../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+178. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+179. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+180. [gkjohnson/threejs-sandbox](../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+181. [xiao149/ThreeJsDemo](../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+182. [puxiao/threejs-tutorial](../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+183. [z2586300277/three-cesium-examples](../../web-development/threejs/z2586300277-three-cesium-examples.md) ([Source](https://github.com/z2586300277/three-cesium-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+184. [dhruvmisra/Pathfinding-Visualizer-ThreeJS](../../web-development/threejs/dhruvmisra-pathfinding-visualizer-threejs.md) ([Source](https://github.com/dhruvmisra/pathfinding-visualizer-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+185. [wechat-miniprogram/threejs-miniprogram](../../web-development/threejs/wechat-miniprogram-threejs-miniprogram.md) ([Source](https://github.com/wechat-miniprogram/threejs-miniprogram)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+186. [wolfwind521/indoor3D](../../web-development/threejs/wolfwind521-indoor3d.md) ([Source](https://github.com/wolfwind521/indoor3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+187. [chenjsh36/ThreeJSForFun](../../web-development/threejs/chenjsh36-threejsforfun.md) ([Source](https://github.com/chenjsh36/threejsforfun)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+188. [fritx/vue-threejs](../../web-development/threejs/fritx-vue-threejs.md) ([Source](https://github.com/fritx/vue-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+189. [sanderblue/solar-system-threejs](../../web-development/threejs/sanderblue-solar-system-threejs.md) ([Source](https://github.com/sanderblue/solar-system-threejs)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+190. [spite/Wagner](../../web-development/threejs/spite-wagner.md) ([Source](https://github.com/spite/wagner)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+191. [Mario343214420/Webgl-Data-Demo](../../web-development/threejs/mario343214420-webgl-data-demo.md) ([Source](https://github.com/mario343214420/webgl-data-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+192. [josdirksen/learning-threejs-third](../../web-development/threejs/josdirksen-learning-threejs-third.md) ([Source](https://github.com/josdirksen/learning-threejs-third)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+193. [nklsrh/BuildNewGames_ThreeJSGame](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([Source](https://github.com/nklsrh/buildnewgames_threejsgame)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+194. [shadcn-ui/ui](../../web-development/shadcn-ui/shadcn-ui-ui.md) ([Source](https://github.com/shadcn-ui/ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+195. [birobirobiro/awesome-shadcn-ui](../../web-development/shadcn-ui/birobirobiro-awesome-shadcn-ui.md) ([Source](https://github.com/birobirobiro/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+196. [shadcn-ui/taxonomy](../../web-development/shadcn-ui/shadcn-ui-taxonomy.md) ([Source](https://github.com/shadcn-ui/taxonomy)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+197. [unovue/shadcn-vue](../../web-development/shadcn-ui/unovue-shadcn-vue.md) ([Source](https://github.com/unovue/shadcn-vue)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+198. [satnaing/shadcn-admin](../../web-development/shadcn-ui/satnaing-shadcn-admin.md) ([Source](https://github.com/satnaing/shadcn-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+199. [huntabyte/shadcn-svelte](../../web-development/shadcn-ui/huntabyte-shadcn-svelte.md) ([Source](https://github.com/huntabyte/shadcn-svelte)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+200. [udecode/plate](../../web-development/shadcn-ui/udecode-plate.md) ([Source](https://github.com/udecode/plate)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+201. [Jpisnice/shadcn-ui-mcp-server](../../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) ([Source](https://github.com/jpisnice/shadcn-ui-mcp-server)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+202. [nank1ro/flutter-shadcn-ui](../../web-development/shadcn-ui/nank1ro-flutter-shadcn-ui.md) ([Source](https://github.com/nank1ro/flutter-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+203. [salimi-my/shadcn-ui-sidebar](../../web-development/shadcn-ui/salimi-my-shadcn-ui-sidebar.md) ([Source](https://github.com/salimi-my/shadcn-ui-sidebar)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+204. [nextjs/saas-starter](../../web-development/shadcn-ui/nextjs-saas-starter.md) ([Source](https://github.com/nextjs/saas-starter)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+205. [ln-dev7/square-ui](../../web-development/shadcn-ui/ln-dev7-square-ui.md) ([Source](https://github.com/ln-dev7/square-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+206. [vbenjs/vue-vben-admin](../../web-development/shadcn-ui/vbenjs-vue-vben-admin.md) ([Source](https://github.com/vbenjs/vue-vben-admin)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+207. [hsuanyi-chou/shadcn-ui-expansions](../../web-development/shadcn-ui/hsuanyi-chou-shadcn-ui-expansions.md) ([Source](https://github.com/hsuanyi-chou/shadcn-ui-expansions)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+208. [dan5py/turborepo-shadcn-ui](../../web-development/shadcn-ui/dan5py-turborepo-shadcn-ui.md) ([Source](https://github.com/dan5py/turborepo-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+209. [jnsahaj/tweakcn](../../web-development/shadcn-ui/jnsahaj-tweakcn.md) ([Source](https://github.com/jnsahaj/tweakcn)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+210. [ObservedObserver/streamlit-shadcn-ui](../../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md) ([Source](https://github.com/observedobserver/streamlit-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+211. [dan5py/react-vite-shadcn-ui](../../web-development/shadcn-ui/dan5py-react-vite-shadcn-ui.md) ([Source](https://github.com/dan5py/react-vite-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+212. [bytefer/awesome-shadcn-ui](../../web-development/shadcn-ui/bytefer-awesome-shadcn-ui.md) ([Source](https://github.com/bytefer/awesome-shadcn-ui)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+213. [akash3444/shadcn-ui-blocks](../../web-development/shadcn-ui/akash3444-shadcn-ui-blocks.md) ([Source](https://github.com/akash3444/shadcn-ui-blocks)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+214. [shadcn-ui/next-template](../../web-development/shadcn-ui/shadcn-ui-next-template.md) ([Source](https://github.com/shadcn-ui/next-template)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+215. [marmelab/atomic-crm](../../web-development/shadcn-ui/marmelab-atomic-crm.md) ([Source](https://github.com/marmelab/atomic-crm)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+216. [sadmann7/file-uploader](../../web-development/shadcn-ui/sadmann7-file-uploader.md) ([Source](https://github.com/sadmann7/file-uploader)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+217. [magicuidesign/portfolio](../../web-development/shadcn-ui/magicuidesign-portfolio.md) ([Source](https://github.com/magicuidesign/portfolio)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+218. [jln13x/ui.jln.dev](../../web-development/shadcn-ui/jln13x-ui-jln-dev.md) ([Source](https://github.com/jln13x/ui.jln.dev)) (Stars: 0, Language: Unknown) - `web-development/shadcn-ui`
+219. [datawhalechina/hello-agents](../../ai/rag/datawhalechina-hello-agents.md) ([Source](https://github.com/datawhalechina/hello-agents)) (Stars: 0, Language: Unknown) - `ai/rag`
+220. [infiniflow/ragflow](../../ai/rag/infiniflow-ragflow.md) ([Source](https://github.com/infiniflow/ragflow)) (Stars: 0, Language: Unknown) - `ai/rag`
+221. [datawhalechina/all-in-rag](../../ai/rag/datawhalechina-all-in-rag.md) ([Source](https://github.com/datawhalechina/all-in-rag)) (Stars: 0, Language: Unknown) - `ai/rag`
+222. [pixegami/langchain-rag-tutorial](../../ai/rag/pixegami-langchain-rag-tutorial.md) ([Source](https://github.com/pixegami/langchain-rag-tutorial)) (Stars: 0, Language: Unknown) - `ai/rag`
 223. [patchy631/ai-engineering-hub](../../ai/rag/patchy631-ai-engineering-hub.md) ([Source](https://github.com/patchy631/ai-engineering-hub)) (Stars: 0, Language: Unknown) - `ai/rag`
-224. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
+224. [SylphAI-Inc/GithubChat](../../ai/rag/sylphai-inc-githubchat.md) ([Source](https://github.com/sylphai-inc/githubchat)) (Stars: 0, Language: Unknown) - `ai/rag`
+225. [NirDiamant/RAG_Techniques](../../ai/rag/nirdiamant-rag-techniques.md) ([Source](https://github.com/nirdiamant/rag_techniques)) (Stars: 0, Language: Unknown) - `ai/rag`
 
 ## Most Updated Skills
 
-- [RAG](../../skills/rag.md) (1732 updates)
-- [Vector Databases](../../skills/vector-databases.md) (722 updates)
+- [RAG](../../skills/rag.md) (1734 updates)
+- [Vector Databases](../../skills/vector-databases.md) (724 updates)
 - [AI Agents](../../skills/ai-agents.md) (533 updates)
-- [Workflow Automation](../../skills/automation.md) (524 updates)
-- [AI Coding Agents](../../skills/ai-coding-agents.md) (305 updates)
+- [Workflow Automation](../../skills/automation.md) (526 updates)
+- [AI Coding Agents](../../skills/ai-coding-agents.md) (306 updates)
 - [LLMOps](../../skills/llmops.md) (176 updates)
 - [Three.js & WebGL](../../skills/threejs.md) (86 updates)
 - [Prompt Engineering](../../skills/prompt-engineering.md) (84 updates)
@@ -3330,4 +3326,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-17T16:49:57.395752+05:30
+2026-06-17T20:14:49.386417+05:30

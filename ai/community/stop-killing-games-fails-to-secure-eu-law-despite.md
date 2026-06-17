@@ -13,13 +13,14 @@ collected_at: '2026-06-17T16:47:27.604994+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:stop-killing-games-fails-to-secure-eu-law-despite
 first_seen: '2026-06-17T10:46:13.287167+05:30'
 last_seen: '2026-06-17T16:47:27.604994+05:30'
 last_checked: '2026-06-17T16:47:27.604994+05:30'
 health_score: 100
 ---
+
 
 # Stop Killing Games fails to secure EU law despite 1.3M signatures
 

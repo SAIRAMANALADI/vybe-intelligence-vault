@@ -4,8 +4,8 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/reliverse/relivator
-collected_at: '2026-06-17T16:47:26.171343+05:30'
-published_at: '2026-06-17T07:57:22Z'
+collected_at: '2026-06-17T20:12:13.616887+05:30'
+published_at: '2026-06-17T14:15:16Z'
 tags:
 - frontend_ui
 stars: 1555
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:reliverse/relivator
 first_seen: '2026-06-15T12:42:33.302514+00:00'
-last_seen: '2026-06-17T16:47:26.171343+05:30'
-last_checked: '2026-06-17T16:47:26.171343+05:30'
+last_seen: '2026-06-17T20:12:13.616887+05:30'
+last_checked: '2026-06-17T20:12:13.616887+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 - Forks: 276
 - Language: TypeScript
 - Topics: drizzle-orm, e-commerce, ecommerce, next-auth, nextauthjs, nextjs, nextjs-boilerplate, nextjs-example, nextjs-starter, nextjs-tailwind, nextjs-template, nextjs14, nextjs15, radix-ui, shadcn, shadcn-ui, starter, stripe, t3-stack, template
-- Last Updated: 2026-06-17T07:57:22Z
+- Last Updated: 2026-06-17T14:15:16Z
 
 ## Possible Use Cases
 

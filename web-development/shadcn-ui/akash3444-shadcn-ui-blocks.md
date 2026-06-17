@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/akash3444/shadcn-ui-blocks
-collected_at: '2026-06-17T02:49:09.908413+05:30'
-published_at: '2026-06-16T20:39:41Z'
+collected_at: '2026-06-17T20:12:13.924263+05:30'
+published_at: '2026-06-17T13:05:06Z'
 tags:
 - frontend_ui
-stars: 616
+stars: 615
 language: TypeScript
 status: active
 resource_id: github:akash3444/shadcn-ui-blocks
 first_seen: '2026-06-12T10:40:21.841653+00:00'
-last_seen: '2026-06-17T02:49:09.908413+05:30'
-last_checked: '2026-06-17T02:49:09.908413+05:30'
+last_seen: '2026-06-17T20:12:13.924263+05:30'
+last_checked: '2026-06-17T20:12:13.924263+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: akash3444
-- Stars: 616
+- Stars: 615
 - Forks: 55
 - Language: TypeScript
 - Topics: shadcn-ui, shadcn-ui-blocks, shadcn-ui-customized-components
-- Last Updated: 2026-06-16T20:39:41Z
+- Last Updated: 2026-06-17T13:05:06Z
 
 ## Possible Use Cases
 
