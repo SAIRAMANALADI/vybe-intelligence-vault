@@ -490,7 +490,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107277+05:30"
+    "last_updated": "2026-06-17T21:32:23.427021+05:30"
   },
   {
     "title": "Human-computer interaction",
@@ -507,7 +507,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107256+05:30"
+    "last_updated": "2026-06-17T21:32:23.427001+05:30"
   },
   {
     "title": "Publications",
@@ -524,7 +524,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107034+05:30"
+    "last_updated": "2026-06-17T21:32:23.426796+05:30"
   },
   {
     "title": "Audio & acoustics",
@@ -541,7 +541,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107186+05:30"
+    "last_updated": "2026-06-17T21:32:23.426939+05:30"
   },
   {
     "title": "Microsoft Research blog",
@@ -558,7 +558,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107124+05:30"
+    "last_updated": "2026-06-17T21:32:23.426890+05:30"
   },
   {
     "title": "Computer vision",
@@ -575,7 +575,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107211+05:30"
+    "last_updated": "2026-06-17T21:32:23.426960+05:30"
   },
   {
     "title": "Code & data",
@@ -592,7 +592,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107093+05:30"
+    "last_updated": "2026-06-17T21:32:23.426859+05:30"
   },
   {
     "title": "Search & information retrieval",
@@ -609,7 +609,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:12:18.107299+05:30"
+    "last_updated": "2026-06-17T21:32:23.427042+05:30"
   },
   {
     "title": "Graphics & multimedia",
@@ -626,7 +626,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107234+05:30"
+    "last_updated": "2026-06-17T21:32:23.426980+05:30"
   },
   {
     "title": "Artificial intelligence",
@@ -643,7 +643,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:18.107163+05:30"
+    "last_updated": "2026-06-17T21:32:23.426916+05:30"
   },
   {
     "title": "Responsible Scaling Policy",
@@ -661,7 +661,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.444127+05:30"
+    "last_updated": "2026-06-17T21:32:20.512971+05:30"
   },
   {
     "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -679,7 +679,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "product",
-    "last_updated": "2026-06-17T20:12:15.443899+05:30"
+    "last_updated": "2026-06-17T21:32:20.512751+05:30"
   },
   {
     "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
@@ -697,7 +697,25 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443877+05:30"
+    "last_updated": "2026-06-17T21:32:20.512729+05:30"
+  },
+  {
+    "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "category": "ai/companies/anthropic",
+    "section": "model-providers",
+    "tags": [
+      "anthropic",
+      "anthropic-news",
+      "blog-post"
+    ],
+    "source_url": "https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "local_path": "ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md",
+    "summary": "Recent update from Anthropic News Blog: Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+    "quality_score": 70,
+    "archive_score": 82,
+    "archive_tier": "useful",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-17T21:32:20.512577+05:30"
   },
   {
     "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -715,7 +733,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443844+05:30"
+    "last_updated": "2026-06-17T21:32:20.512697+05:30"
   },
   {
     "title": "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
@@ -733,7 +751,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443923+05:30"
+    "last_updated": "2026-06-17T21:32:20.512781+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
@@ -751,7 +769,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443754+05:30"
+    "last_updated": "2026-06-17T21:32:20.512647+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -769,25 +787,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443813+05:30"
-  },
-  {
-    "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
-    "category": "ai/companies/anthropic",
-    "section": "model-providers",
-    "tags": [
-      "anthropic",
-      "anthropic-news",
-      "blog-post"
-    ],
-    "source_url": "https://anthropic.com/news/confidential-draft-s1-sec",
-    "local_path": "ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md",
-    "summary": "Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
-    "quality_score": 70,
-    "archive_score": 82,
-    "archive_tier": "useful",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.443957+05:30"
+    "last_updated": "2026-06-17T21:32:20.512674+05:30"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -807,7 +807,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.869933+05:30"
+    "last_updated": "2026-06-17T21:32:21.109038+05:30"
   },
   {
     "title": "AlphaEarthMap our planet in unprecedented detail",
@@ -826,7 +826,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.869902+05:30"
+    "last_updated": "2026-06-17T21:32:21.109006+05:30"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -845,7 +845,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.869983+05:30"
+    "last_updated": "2026-06-17T21:32:21.109085+05:30"
   },
   {
     "title": "Learn more",
@@ -864,7 +864,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.870254+05:30"
+    "last_updated": "2026-06-17T21:32:21.109355+05:30"
   },
   {
     "title": "SIMA 2An agent that plays, reasons, and learns with you",
@@ -884,7 +884,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.869791+05:30"
+    "last_updated": "2026-06-17T21:32:21.108906+05:30"
   },
   {
     "title": "Applied AI",
@@ -902,7 +902,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:13.980630+05:30"
+    "last_updated": "2026-06-17T21:32:20.064878+05:30"
   },
   {
     "title": "AI Adoption",
@@ -920,7 +920,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:13.980607+05:30"
+    "last_updated": "2026-06-17T21:32:20.064855+05:30"
   },
   {
     "title": "Global Affairs",
@@ -938,7 +938,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:13.980579+05:30"
+    "last_updated": "2026-06-17T21:32:20.064829+05:30"
   },
   {
     "title": "Engineering",
@@ -956,7 +956,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:13.980518+05:30"
+    "last_updated": "2026-06-17T21:32:20.064766+05:30"
   },
   {
     "title": "AI Now Summit 2026",
@@ -975,7 +975,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.634193+05:30"
+    "last_updated": "2026-06-17T21:32:21.728309+05:30"
   },
   {
     "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -994,7 +994,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-17T20:12:16.634980+05:30"
+    "last_updated": "2026-06-17T21:32:21.729387+05:30"
   },
   {
     "title": "Vibe gets to work.",
@@ -1014,7 +1014,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.634225+05:30"
+    "last_updated": "2026-06-17T21:32:21.728343+05:30"
   },
   {
     "title": "Introducing Search Toolkit",
@@ -1033,7 +1033,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.634253+05:30"
+    "last_updated": "2026-06-17T21:32:21.728384+05:30"
   },
   {
     "title": "Voxtral TTS",
@@ -1052,7 +1052,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.634100+05:30"
+    "last_updated": "2026-06-17T21:32:21.728206+05:30"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -1071,7 +1071,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.635018+05:30"
+    "last_updated": "2026-06-17T21:32:21.729441+05:30"
   },
   {
     "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI",
@@ -1090,7 +1090,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.635233+05:30"
+    "last_updated": "2026-06-17T21:32:21.729675+05:30"
   },
   {
     "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -1110,7 +1110,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:16.635106+05:30"
+    "last_updated": "2026-06-17T21:32:21.729543+05:30"
   },
   {
     "title": "Mistral Small 4",
@@ -1129,7 +1129,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.634058+05:30"
+    "last_updated": "2026-06-17T21:32:21.728137+05:30"
   },
   {
     "title": "Mistral Medium 3.5",
@@ -1149,7 +1149,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:16.633981+05:30"
+    "last_updated": "2026-06-17T21:32:21.728046+05:30"
   },
   {
     "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
@@ -2252,7 +2252,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:12:14.668781+05:30"
+    "last_updated": "2026-06-17T21:32:20.972213+05:30"
   },
   {
     "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
@@ -2587,7 +2587,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:14:06.490063+05:30"
+    "last_updated": "2026-06-17T21:34:35.596718+05:30"
   },
   {
     "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
@@ -4016,7 +4016,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:14:01.527266+05:30"
+    "last_updated": "2026-06-17T21:34:30.534390+05:30"
   },
   {
     "title": "HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent",
@@ -5835,7 +5835,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:13:11.561913+05:30"
+    "last_updated": "2026-06-17T21:33:41.115314+05:30"
   },
   {
     "title": "From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation",
@@ -7708,7 +7708,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T20:12:57.097656+05:30"
+    "last_updated": "2026-06-17T21:33:29.376107+05:30"
   },
   {
     "title": "Learning Topological Representations for Molecular Dynamics",
@@ -8198,7 +8198,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:13:12.735287+05:30"
+    "last_updated": "2026-06-17T21:33:42.333023+05:30"
   },
   {
     "title": "Numbers Already Carry Their Own Embeddings",
@@ -8338,7 +8338,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T20:13:22.537496+05:30"
+    "last_updated": "2026-06-17T21:33:51.898512+05:30"
   },
   {
     "title": "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning",
@@ -9363,7 +9363,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-17T20:13:14.536643+05:30"
+    "last_updated": "2026-06-17T21:33:44.725606+05:30"
   },
   {
     "title": "CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community",
@@ -9566,7 +9566,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T20:13:13.029133+05:30"
+    "last_updated": "2026-06-17T21:33:48.015768+05:30"
   },
   {
     "title": "Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks",
@@ -9890,7 +9890,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T20:13:04.362624+05:30"
+    "last_updated": "2026-06-17T21:33:37.399611+05:30"
   },
   {
     "title": "CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment",
@@ -12244,6 +12244,7 @@
       "meta-ai",
       "models",
       "openai",
+      "paper",
       "rag",
       "reddit",
       "scripts",
@@ -12257,7 +12258,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T20:13:07.255049+05:30"
+    "last_updated": "2026-06-17T21:33:55.927709+05:30"
   },
   {
     "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
@@ -12418,7 +12419,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:13:16.696725+05:30"
+    "last_updated": "2026-06-17T21:33:39.080514+05:30"
   },
   {
     "title": "TIMAN-group/PlugMem",
@@ -13415,7 +13416,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
-    "last_updated": "2026-06-17T20:12:15.011412+05:30"
+    "last_updated": "2026-06-17T21:32:20.159639+05:30"
   },
   {
     "title": "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention",
@@ -14316,7 +14317,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-17T20:13:02.990302+05:30"
+    "last_updated": "2026-06-17T21:33:35.836723+05:30"
   },
   {
     "title": "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality",
@@ -14647,7 +14648,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:48:00.434636+05:30"
+    "last_updated": "2026-06-17T21:33:40.110965+05:30"
   },
   {
     "title": "Mixtures of Subspaces for Bandwidth Efficient Context Parallel Training",
@@ -15457,7 +15458,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:13:01.696778+05:30"
+    "last_updated": "2026-06-17T21:33:34.221319+05:30"
   },
   {
     "title": "girijesh-ai/ai-interview-codex",
@@ -15780,7 +15781,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:14:16.456593+05:30"
+    "last_updated": "2026-06-17T21:34:45.460029+05:30"
   },
   {
     "title": "FreshRetailNet-LT: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail",
@@ -16314,7 +16315,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:13:06.970052+05:30"
+    "last_updated": "2026-06-17T21:33:39.437628+05:30"
   },
   {
     "title": "The Morse Transform for Discrete Shape Analysis",
@@ -17640,7 +17641,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:13:16.506307+05:30"
+    "last_updated": "2026-06-17T21:33:45.935689+05:30"
   },
   {
     "title": "C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift",
@@ -17699,7 +17700,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T20:13:06.769717+05:30"
+    "last_updated": "2026-06-17T21:33:38.649991+05:30"
   },
   {
     "title": "Online LLM Selection via Constrained Bandits with Time-Varying Demand",
@@ -18676,7 +18677,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:13:04.241793+05:30"
+    "last_updated": "2026-06-17T21:33:37.094311+05:30"
   },
   {
     "title": "Adaptive Nucleus Truncation for Long-Form Reasoning",
@@ -19800,7 +19801,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:14:11.370077+05:30"
+    "last_updated": "2026-06-17T21:34:40.502530+05:30"
   },
   {
     "title": "Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning",
@@ -20805,7 +20806,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T20:13:04.985223+05:30"
+    "last_updated": "2026-06-17T21:33:43.350469+05:30"
   },
   {
     "title": "From Detection to Recovery: Operational Analysis on LLM Pre-training with 504 GPUs",
@@ -20962,7 +20963,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.012488+05:30"
+    "last_updated": "2026-06-17T21:32:20.170099+05:30"
   },
   {
     "title": "meshery/meshery",
@@ -20979,7 +20980,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.011953+05:30"
+    "last_updated": "2026-06-17T21:32:20.160474+05:30"
   },
   {
     "title": "krahets/hello-algo",
@@ -20996,7 +20997,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.012928+05:30"
+    "last_updated": "2026-06-17T21:32:20.170822+05:30"
   },
   {
     "title": "yairm210/Unciv",
@@ -21013,7 +21014,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.013405+05:30"
+    "last_updated": "2026-06-17T21:32:20.171355+05:30"
   },
   {
     "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -21030,7 +21031,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.013080+05:30"
+    "last_updated": "2026-06-17T21:32:20.170980+05:30"
   },
   {
     "title": "mattpocock/skills",
@@ -21048,7 +21049,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:15.013257+05:30"
+    "last_updated": "2026-06-17T21:32:20.171161+05:30"
   },
   {
     "title": "n0-computer/iroh",
@@ -21066,7 +21067,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.011615+05:30"
+    "last_updated": "2026-06-17T21:32:20.159936+05:30"
   },
   {
     "title": "penpot/penpot",
@@ -21083,7 +21084,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.012781+05:30"
+    "last_updated": "2026-06-17T21:32:20.170658+05:30"
   },
   {
     "title": "google-research/timesfm",
@@ -21100,7 +21101,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.012305+05:30"
+    "last_updated": "2026-06-17T21:32:20.169783+05:30"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -21117,7 +21118,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T20:12:15.013572+05:30"
+    "last_updated": "2026-06-17T21:32:20.171541+05:30"
   },
   {
     "title": "Introducing the Red-Teaming Resistance Leaderboard",
@@ -30936,6 +30937,20 @@
     "last_updated": "2026-06-16T17:27:22.375056+05:30"
   },
   {
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [],
+    "source_url": "https://huggingface.co/blog/allenai/molmomotion",
+    "local_path": "ai/models/huggingface-blog-allenai-molmomotion.md",
+    "summary": "No summary provided. Reference resource: MolmoMotion: Language-guided 3D motion forecasting",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T21:32:18.405444+05:30"
+  },
+  {
     "title": "Welcome GPT OSS, the new open-source model family from OpenAI!",
     "category": "ai/models",
     "section": "datasets",
@@ -31939,7 +31954,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:16.251576+05:30"
+    "last_updated": "2026-06-17T21:32:22.516067+05:30"
   },
   {
     "title": "huggingface/transformers Release: Patch release v5.12.1",
@@ -31958,7 +31973,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:15.592867+05:30"
+    "last_updated": "2026-06-17T21:32:21.837445+05:30"
   },
   {
     "title": "MiniMax Sparse Attention",
@@ -35563,7 +35578,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:15.011790+05:30"
+    "last_updated": "2026-06-17T21:32:20.160197+05:30"
   },
   {
     "title": "alejandro-ao/crewai-crash-course",
@@ -36180,7 +36195,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:15.012636+05:30"
+    "last_updated": "2026-06-17T21:32:20.170395+05:30"
   },
   {
     "title": "Sameera-Nazneen/AutogeneratedCV.github.io",
@@ -36480,7 +36495,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:18.042912+05:30"
+    "last_updated": "2026-06-17T21:32:24.264492+05:30"
   },
   {
     "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
@@ -39774,7 +39789,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T20:12:15.013718+05:30"
+    "last_updated": "2026-06-17T21:32:20.171695+05:30"
   },
   {
     "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
@@ -41192,7 +41207,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:12:15.012131+05:30"
+    "last_updated": "2026-06-17T21:32:20.169462+05:30"
   },
   {
     "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
@@ -43487,12 +43502,12 @@
     ],
     "source_url": "https://brevio.pro",
     "local_path": "ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md",
-    "summary": "Hacker News story by ruimbarreira. Score: 32, Comments: 10. Original Link: https://brevio.pro",
+    "summary": "Hacker News story by ruimbarreira. Score: 57, Comments: 14. Original Link: https://brevio.pro",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:15.071396+05:30"
+    "last_updated": "2026-06-17T21:32:22.594955+05:30"
   },
   {
     "title": "Abandoned and Little-Known Airfields",
@@ -43504,12 +43519,12 @@
     ],
     "source_url": "https://airfields-freeman.com",
     "local_path": "ai/community/abandoned-and-little-known-airfields.md",
-    "summary": "Hacker News story by wizardforhire. Score: 72, Comments: 13. Original Link: https://airfields-freeman.com/",
+    "summary": "Hacker News story by wizardforhire. Score: 97, Comments: 23. Original Link: https://airfields-freeman.com/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:14.239424+05:30"
+    "last_updated": "2026-06-17T21:32:21.015040+05:30"
   },
   {
     "title": "Humiliating IIS servers for fun and jail time",
@@ -43521,29 +43536,12 @@
     ],
     "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time",
     "local_path": "ai/community/humiliating-iis-servers-for-fun-and-jail-time.md",
-    "summary": "Hacker News story by denysvitali. Score: 313, Comments: 78. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "summary": "Hacker News story by denysvitali. Score: 330, Comments: 80. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:14.824191+05:30"
-  },
-  {
-    "title": "Has AI already killed self-help nonfiction books?",
-    "category": "ai/community",
-    "section": "automation-workflows",
-    "tags": [
-      "ai",
-      "hackernews"
-    ],
-    "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
-    "local_path": "ai/community/has-ai-already-killed-self-help-nonfiction-books.md",
-    "summary": "Hacker News story by imakwana. Score: 366, Comments: 414. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
-    "quality_score": 70,
-    "archive_score": 72,
-    "archive_tier": "useful",
-    "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:15.471534+05:30"
+    "last_updated": "2026-06-17T21:32:22.254062+05:30"
   },
   {
     "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
@@ -43555,12 +43553,29 @@
     ],
     "source_url": "https://wpvip.com/future-of-the-web-2026",
     "local_path": "ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md",
-    "summary": "Hacker News story by thm. Score: 425, Comments: 231. Original Link: https://wpvip.com/future-of-the-web-2026/",
+    "summary": "Hacker News story by thm. Score: 609, Comments: 316. Original Link: https://wpvip.com/future-of-the-web-2026/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:13.258693+05:30"
+    "last_updated": "2026-06-17T21:32:19.539004+05:30"
+  },
+  {
+    "title": "Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress",
+    "local_path": "ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md",
+    "summary": "Hacker News story by FrustratedMonky. Score: 25, Comments: 22. Original Link: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-17T21:32:21.961373+05:30"
   },
   {
     "title": "AI demands more engineering discipline. Not less",
@@ -43572,30 +43587,12 @@
     ],
     "source_url": "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
     "local_path": "ai/community/ai-demands-more-engineering-discipline-not-less.md",
-    "summary": "Hacker News story by BerislavLopac. Score: 22, Comments: 0. Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
+    "summary": "Hacker News story by BerislavLopac. Score: 91, Comments: 29. Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:14.112139+05:30"
-  },
-  {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "category": "ai/community",
-    "section": "startup-builder",
-    "tags": [
-      "ai",
-      "anthropic",
-      "hackernews"
-    ],
-    "source_url": "https://claude.com/blog/the-founders-playbook",
-    "local_path": "ai/community/the-founder-s-playbook-building-an-ai-native-start.md",
-    "summary": "Hacker News story by e2e4. Score: 135, Comments: 122. Original Link: https://claude.com/blog/the-founders-playbook",
-    "quality_score": 70,
-    "archive_score": 72,
-    "archive_tier": "useful",
-    "resource_kind": "workflow",
-    "last_updated": "2026-06-17T20:12:15.956938+05:30"
+    "last_updated": "2026-06-17T21:32:20.367328+05:30"
   },
   {
     "title": "Haiku to Opus in Just 10 bits: LLMs Unlock Large Compression Gains",
@@ -67260,7 +67257,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T20:12:13.553815+05:30"
+    "last_updated": "2026-06-17T21:32:19.821212+05:30"
   },
   {
     "title": "ChartGPU/ChartGPU",
@@ -67808,7 +67805,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:46:11.725667+05:30"
+    "last_updated": "2026-06-17T21:32:19.585201+05:30"
   },
   {
     "title": "dhruvmisra/Pathfinding-Visualizer-ThreeJS",
@@ -67840,7 +67837,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T20:12:13.677185+05:30"
+    "last_updated": "2026-06-17T21:32:19.585096+05:30"
   },
   {
     "title": "mkkellogg/GaussianSplats3D",
@@ -67904,7 +67901,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T20:12:13.677260+05:30"
+    "last_updated": "2026-06-17T21:32:19.585179+05:30"
   },
   {
     "title": "fireship-io/threejs-scroll-animation-demo",
@@ -69073,7 +69070,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.616787+05:30"
+    "last_updated": "2026-06-17T21:32:19.639151+05:30"
   },
   {
     "title": "Next.js 13.5",
@@ -70256,6 +70253,24 @@
     "last_updated": "2026-06-16T17:27:23.060949+05:30"
   },
   {
+    "title": "Open-source React UI and D-pad focus engine for Meta Ray-Ban Display",
+    "category": "web-development/community",
+    "section": "automation-workflows",
+    "tags": [
+      "frontend_ui",
+      "hackernews",
+      "react"
+    ],
+    "source_url": "https://glasskit.app/ui",
+    "local_path": "web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md",
+    "summary": "Hacker News story by Jeries. Score: 4, Comments: 0. Original Link: https://glasskit.app/ui",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-17T21:32:21.966814+05:30"
+  },
+  {
     "title": "shadcn-ui/ui",
     "category": "web-development/shadcn-ui",
     "section": "frontend-ai-ui",
@@ -70269,7 +70284,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.923904+05:30"
+    "last_updated": "2026-06-17T21:32:20.371811+05:30"
   },
   {
     "title": "hsuanyi-chou/shadcn-ui-expansions",
@@ -70317,7 +70332,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.924009+05:30"
+    "last_updated": "2026-06-17T21:32:20.371924+05:30"
   },
   {
     "title": "magicuidesign/portfolio",
@@ -70334,7 +70349,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.924320+05:30"
+    "last_updated": "2026-06-17T21:32:20.372263+05:30"
   },
   {
     "title": "dan5py/react-vite-shadcn-ui",
@@ -70416,7 +70431,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
-    "last_updated": "2026-06-17T20:12:13.924057+05:30"
+    "last_updated": "2026-06-17T21:32:20.371973+05:30"
   },
   {
     "title": "vbenjs/vue-vben-admin",
@@ -70512,7 +70527,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.923957+05:30"
+    "last_updated": "2026-06-17T21:32:20.371843+05:30"
   },
   {
     "title": "huntabyte/shadcn-svelte",
@@ -70528,7 +70543,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.924026+05:30"
+    "last_updated": "2026-06-17T21:32:20.371941+05:30"
   },
   {
     "title": "sadmann7/file-uploader",
@@ -70592,7 +70607,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T20:12:13.924122+05:30"
+    "last_updated": "2026-06-17T21:32:20.372039+05:30"
   },
   {
     "title": "akash3444/shadcn-ui-blocks",

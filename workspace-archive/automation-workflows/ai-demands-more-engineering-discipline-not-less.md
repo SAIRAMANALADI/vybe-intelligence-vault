@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by BerislavLopac. Score: 22, Comments: 0.
+Hacker News story by BerislavLopac. Score: 91, Comments: 29.
 Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
 
 ## Use Cases

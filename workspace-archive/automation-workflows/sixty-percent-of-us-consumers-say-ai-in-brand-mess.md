@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by thm. Score: 425, Comments: 231.
+Hacker News story by thm. Score: 609, Comments: 316.
 Original Link: https://wpvip.com/future-of-the-web-2026/
 
 ## Use Cases

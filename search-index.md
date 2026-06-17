@@ -3793,7 +3793,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A first intro to Complex RAG (Retrieval Augmented Generation) | by Chia Jeng Yang | Knowledge Graph RAG | Medium](ai/rag/a-first-intro-to-complex-rag-retrieval-augmented-g.md)** (`benchmark` | `useful` tier)
@@ -3817,7 +3817,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents>
 
 * **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by wizardforhire. Score: 72, Comments: 13. Original Link: https://airfields-freeman.com/
+  * Summary: Hacker News story by wizardforhire. Score: 97, Comments: 23. Original Link: https://airfields-freeman.com/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://airfields-freeman.com>
 
@@ -3867,7 +3867,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
 * **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by BerislavLopac. Score: 22, Comments: 0. Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
+  * Summary: Hacker News story by BerislavLopac. Score: 91, Comments: 29. Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
   * Tags: `ai`, `hackernews`
   * Source URL: <https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline>
 
@@ -4111,11 +4111,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `rag`, `scripts`
   * Source URL: <https://arxiv.org/abs/2606.14975>
 
-* **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by imakwana. Score: 366, Comments: 414. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction>
-
 * **[How to Build a RAG System Companies Actually Use (Data Engineering View)](ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)** (`tutorial` | `useful` tier)
   * Summary: Career Development|Success Stories|Tips and Tricks How to Build a RAG System Companies Actually Use (Data Engineering View) By: Chris Garzon | March 4, 2026 | 12 mins read Most people try to break into GenAI work by collecting tools like trophies. Th
   * Tags: `agents`, `hackernews`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
@@ -4137,7 +4132,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.17824>
 
 * **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by denysvitali. Score: 313, Comments: 78. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
+  * Summary: Hacker News story by denysvitali. Score: 330, Comments: 80. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time>
 
@@ -4296,6 +4291,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `meta-ai`, `producthunt`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.12429>
 
+* **[Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Jeries. Score: 4, Comments: 0. Original Link: https://glasskit.app/ui
+  * Tags: `frontend_ui`, `hackernews`, `react`
+  * Source URL: <https://glasskit.app/ui>
+
 * **[OpenAI Agents SDK Tutorial: 13 Steps [2026]](ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)** (`framework` | `useful` tier)
   * Summary: OpenAI Agents SDK Tutorial: Build AI Agents in 13 Steps [2026]Elias VirtanenMay 14, 2026Software Elias Virtanen May 14, 2026 26 min read The OpenAI Agents SDK has become the default starting point for production-grade agentic systems in 2026. The off
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
@@ -4315,6 +4315,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: MHTECHIN Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide Vaishnavi Patil March 30, 2026 Introduction Imagine building a team of AI specialists. One handles research, another writes code, a third reviews o
   * Tags: `agents`, `anthropic`, `benchmark`, `frontend_ui`, `hackernews`, `models`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`
   * Source URL: <https://www.mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide>
+
+* **[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by FrustratedMonky. Score: 25, Comments: 22. Original Link: https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress>
 
 * **[Planning the design of your production-grade RAG system](ai/rag/planning-the-design-of-your-production-grade-rag-s.md)** (`tutorial` | `useful` tier)
   * Summary: Planning the design of your production-grade RAG system March 6, 20264-minute read Artificial intelligence Frank La Vigne AI Principal Technical Marketing Manager Robbie Jerrom Senior Principal Technologist, AI Share Subscribe to RSS Back to all post
@@ -4382,12 +4387,12 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx>
 
 * **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by ruimbarreira. Score: 32, Comments: 10. Original Link: https://brevio.pro
+  * Summary: Hacker News story by ruimbarreira. Score: 57, Comments: 14. Original Link: https://brevio.pro
   * Tags: `ai`, `hackernews`
   * Source URL: <https://brevio.pro>
 
 * **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by thm. Score: 425, Comments: 231. Original Link: https://wpvip.com/future-of-the-web-2026/
+  * Summary: Hacker News story by thm. Score: 609, Comments: 316. Original Link: https://wpvip.com/future-of-the-web-2026/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://wpvip.com/future-of-the-web-2026>
 
@@ -10661,6 +10666,10 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15615v1 Announce Type: new Abstract: Diffusion Transformers with Mixture-of-Experts (DiT-MoE) improve model capacity under sparse activation, but diffusion inference is still bottlenecked by redundant computation across timesteps. Existing
   * Source URL: <https://arxiv.org/abs/2606.15615>
 
+* **[MolmoMotion: Language-guided 3D motion forecasting](ai/models/huggingface-blog-allenai-molmomotion.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: MolmoMotion: Language-guided 3D motion forecasting
+  * Source URL: <https://huggingface.co/blog/allenai/molmomotion>
+
 * **[Momentum-Guided Semantic Forecasting (MoFore) for Self-Supervised Video Representation Learning](ai/rag/arxiv-2606-14765.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14765v1 Announce Type: cross Abstract: Self-supervised video representation learning has recently advanced through contrastive learning, masked reconstruction, and predictive representation learning. Reconstruction-based approaches such as
   * Tags: `dataset`, `rag`, `youtube`
@@ -15569,11 +15578,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `blog-post`, `mistral`, `mistral-ai-news`, `models`
   * Source URL: <https://mistral.ai/news/search-toolkit>
 
-* **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)** (`reference` | `useful` tier)
-  * Summary: Recent update from Anthropic News Blog: Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC
-  * Tags: `anthropic`, `anthropic-news`, `blog-post`
-  * Source URL: <https://anthropic.com/news/confidential-draft-s1-sec>
-
 * **[Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
@@ -15588,6 +15592,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Recent update from Anthropic News Blog: Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries
   * Tags: `anthropic`, `anthropic-news`, `blog-post`
   * Source URL: <https://anthropic.com/news/tcs-anthropic-partnership>
+
+* **[Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)** (`reference` | `useful` tier)
+  * Summary: Recent update from Anthropic News Blog: Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem
+  * Tags: `anthropic`, `anthropic-news`, `blog-post`
+  * Source URL: <https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem>
 
 * **[Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)** (`product` | `useful` tier)
   * Summary: Recent update from Anthropic News Blog: Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network
@@ -16472,11 +16481,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Accelerate your development with a sleek, open-source admin dashboard and landing page built on Vite-React, Next.js, Tailwind CSS, and Shadcn/UI which is fully customizable and production-ready.
   * Tags: `frontend_ui`
   * Source URL: <https://github.com/shadcnstore/shadcn-dashboard-landing-template>
-
-* **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by e2e4. Score: 135, Comments: 122. Original Link: https://claude.com/blog/the-founders-playbook
-  * Tags: `ai`, `anthropic`, `hackernews`
-  * Source URL: <https://claude.com/blog/the-founders-playbook>
 
 * **[Top LLM Observability platforms 2025](ai/rag/top-llm-observability-platforms-2025.md)** (`dataset` | `useful` tier)
   * Summary: PricingDocsBlogResourcesCommunityBook a demoGet startedGet startedPricingDocsBlogResourcesTutorialGet started with Agenta.aiChangelogView our latest releasesRoadmapView our strategyCommunityGithubSlackYoutubeLinkedinX / TwitterBook a demoBook a demoG

@@ -2838,10 +2838,10 @@ Resources organized by publisher feed and query sources.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md)
-  - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
   - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
   - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
+  - [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
@@ -3244,11 +3244,11 @@ Resources organized by publisher feed and query sources.
 
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
   - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
-  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
+  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
+  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
   - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
   - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
-  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -3761,6 +3761,7 @@ Resources organized by publisher feed and query sources.
   - [Mixture of Experts (MoEs) in Transformers](../ai/models/mixture-of-experts-moes-in-transformers.md)
   - [Mixture of Experts Explained](../ai/models/mixture-of-experts-explained.md)
   - [Model Cards](../ai/models/model-cards.md)
+  - [MolmoMotion: Language-guided 3D motion forecasting](../ai/models/huggingface-blog-allenai-molmomotion.md)
   - [Multimodal Embedding & Reranker Models with Sentence Transformers](../ai/models/multimodal-embedding-reranker-models-with-sentence.md)
   - [Multivariate Probabilistic Time Series Forecasting with Informer](../ai/models/multivariate-probabilistic-time-series-forecasting.md)
   - [My Journey to a serverless transformers pipeline on Google Cloud](../ai/models/my-journey-to-a-serverless-transformers-pipeline-o.md)
@@ -4278,4 +4279,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-17T20:14:50.035791+05:30*
+*Index generated on 2026-06-17T21:35:18.953334+05:30*

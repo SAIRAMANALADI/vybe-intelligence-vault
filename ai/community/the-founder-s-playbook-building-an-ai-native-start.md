@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-founder-s-playbook-building-an-ai-native-start
 first_seen: '2026-06-17T16:47:26.603586+05:30'
 last_seen: '2026-06-17T20:12:15.956938+05:30'
 last_checked: '2026-06-17T20:12:15.956938+05:30'
 health_score: 100
 ---
+
 
 # The founder's playbook: Building an AI-native startup
 

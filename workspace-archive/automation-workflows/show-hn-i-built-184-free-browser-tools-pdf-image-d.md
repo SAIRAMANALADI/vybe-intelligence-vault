@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ruimbarreira. Score: 32, Comments: 10.
+Hacker News story by ruimbarreira. Score: 57, Comments: 14.
 Original Link: https://brevio.pro
 
 ## Use Cases

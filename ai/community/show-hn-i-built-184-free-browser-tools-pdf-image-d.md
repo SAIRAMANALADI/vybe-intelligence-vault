@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://brevio.pro
 hn_url: https://news.ycombinator.com/item?id=48568023
-score: 32
+score: 57
 author: ruimbarreira
-comments_count: 10
+comments_count: 14
 published_at: '2026-06-17T15:18:59+05:30'
-collected_at: '2026-06-17T20:12:15.071396+05:30'
+collected_at: '2026-06-17T21:32:22.594955+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:show-hn-i-built-184-free-browser-tools-pdf-image-d
 first_seen: '2026-06-17T20:12:15.071396+05:30'
-last_seen: '2026-06-17T20:12:15.071396+05:30'
-last_checked: '2026-06-17T20:12:15.071396+05:30'
+last_seen: '2026-06-17T21:32:22.594955+05:30'
+last_checked: '2026-06-17T21:32:22.594955+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by ruimbarreira. Score: 32, Comments: 10.
+Hacker News story by ruimbarreira. Score: 57, Comments: 14.
 Original Link: https://brevio.pro
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: ruimbarreira
-- Score: 32 Upvotes
-- Comments: 10 Discussions
+- Score: 57 Upvotes
+- Comments: 14 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48568023
 - Original Article: https://brevio.pro
 

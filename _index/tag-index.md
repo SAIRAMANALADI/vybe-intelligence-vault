@@ -972,11 +972,10 @@ Resources organized by keyword tags.
 
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
   - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
-  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
+  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
   - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
   - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
-  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
 
 ## animation
 
@@ -1078,10 +1077,10 @@ Resources organized by keyword tags.
   - [In-Context Environments Induce Evaluation-Awareness in Language Models](../ai/research/arxiv-2603-03824.md)
   - [Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems](../ai/research/arxiv-2606-17443.md)
   - [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](../ai/agents/arxiv-2606-12924.md)
-  - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
   - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
   - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
+  - [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
@@ -1127,7 +1126,6 @@ Resources organized by keyword tags.
   - [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
-  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
   - [Top 5 Open-Source Agentic AI Frameworks in 2026](../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md)
@@ -1165,10 +1163,10 @@ Resources organized by keyword tags.
 
 ## anthropic-news
 
-  - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
   - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
   - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
+  - [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
@@ -2401,10 +2399,10 @@ Resources organized by keyword tags.
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-computer interaction](../ai/companies/human-computer-interaction.md)
   - [Introducing Search Toolkit](../ai/companies/mistral/introducing-search-toolkit.md)
-  - [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)
   - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md)
   - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md)
   - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md)
+  - [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)
   - [Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network](../ai/companies/anthropic/jun-3-2026announcementsintroducing-the-services-tr.md)
   - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md)
   - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md)
@@ -3299,6 +3297,7 @@ Resources organized by keyword tags.
   - [NotStark/portfolio](../web-development/nextjs/notstark-portfolio.md)
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [OdysSim: Building Foundation Models for Human Behavior Simulation](../ai/research/arxiv-2606-14199.md)
+  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
   - [Operator Boosting Produces Pareto-Efficient PDE Surrogates](../ai/research/arxiv-2606-17460.md)
@@ -3850,7 +3849,6 @@ Resources organized by keyword tags.
   - [Graphical-Probabilistic Modeling of Generative Flows in LLM-Native Software Systems](../ai/rag/arxiv-2606-15943.md)
   - [HAMNO: A Hierarchical Adaptive Multi-scale Neural Operator with Physics-Informed Learning for Dynamical Systems](../ai/research/arxiv-2606-11963.md)
   - [Handling Feature Heterogeneity with Learnable Graph Patches](../ai/rag/arxiv-2606-17667.md)
-  - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [How to Build a RAG System Companies Actually Use (Data Engineering View)](../ai/rag/how-to-build-a-rag-system-companies-actually-use-d.md)
   - [How to Build an AI Agent with LangGraph Python in 14 Steps [2026]](../ai/rag/how-to-build-an-ai-agent-with-langgraph-python-in.md)
   - [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
@@ -3911,6 +3909,7 @@ Resources organized by keyword tags.
   - [On the Energy Distribution of the Galactic Center Excess' Sources](../ai/research/arxiv-2507-17804.md)
   - [Online Convex Optimization with Sublinear Noisy Probes](../ai/research/arxiv-2606-14640.md)
   - [Online Realizable Regression and Applications for ReLU Networks](../ai/research/arxiv-2602-19172.md)
+  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
   - [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
   - [Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory](../ai/rag/arxiv-2606-14289.md)
   - [OptEMA: Adaptive Exponential Moving Average for Stochastic Optimization with Zero-Noise Optimality](../ai/rag/arxiv-2603-09923.md)
@@ -3919,6 +3918,7 @@ Resources organized by keyword tags.
   - [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
   - [Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](../ai/agents/arxiv-2606-05461.md)
   - [Parallel Test-Time Scaling with Multi-Sequence Verifiers](../ai/research/arxiv-2603-03417.md)
+  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
   - [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../ai/research/arxiv-2606-14695.md)
   - [Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling](../ai/research/arxiv-2606-11605.md)
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
@@ -4003,7 +4003,6 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
-  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
@@ -5318,6 +5317,7 @@ Resources organized by keyword tags.
   - [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
   - [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
+  - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](../ai/research/arxiv-2605-04813.md)
   - [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](../ai/agents/arxiv-2606-16944.md)
   - [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](../ai/agents/arxiv-2606-14956.md)
@@ -7088,6 +7088,10 @@ Resources organized by keyword tags.
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
 
+## react
+
+  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
+
 ## reddit
 
   - ["Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System](../ai/research/arxiv-2606-13071.md)
@@ -8158,4 +8162,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-17T20:14:49.991303+05:30*
+*Index generated on 2026-06-17T21:35:18.909084+05:30*

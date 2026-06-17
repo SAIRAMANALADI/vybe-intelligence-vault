@@ -110,11 +110,11 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
 - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](https://anthropic.com/news/claude-fable-5-mythos-5) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md))
+- [Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](https://anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md))
 - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](https://anthropic.com/news/dxc-anthropic-alliance) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md))
 - [Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats](https://anthropic.com/news/ai-enabled-cyber-threats-mitre-attack) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-3-2026policywhat-we-learned-mapping-a-years-wo.md))
 - [Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record](https://anthropic.com/news/anthropic-public-record) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-12-2026announcementsresults-from-the-first-ant.md))
 - [Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries](https://anthropic.com/news/tcs-anthropic-partnership) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-12-2026announcementstcs-and-anthropic-partner.md))
-- [Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](https://anthropic.com/news/confidential-draft-s1-sec) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md))
 - [AlphaEvolveDesign advanced algorithms for math and applications in computing](https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/alphaevolvedesign-advanced-algorithms-for-math-and.md))
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [AI Adoption](https://openai.com/news/ai-adoption) (Tier: `useful` | [`Local File`](../../ai/companies/openai/ai-adoption.md))
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](../../ai/agents/haohao-end-openagent.md))
 
 ---
-*Last updated: 2026-06-17 20:15 IST*
+*Last updated: 2026-06-17 21:35 IST*

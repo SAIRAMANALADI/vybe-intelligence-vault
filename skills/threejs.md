@@ -23,9 +23,9 @@ Active signals: 89 resources matched in the intelligence vault.
 Recently detected signals:
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-17
 - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) (Source: Unknown Source) - Collected 2026-06-17
-- [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) (Source: Unknown Source) - Collected 2026-06-17
-- [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo.md) (Source: Unknown Source) - Collected 2026-06-17
+- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-17
+- [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) (Source: Unknown Source) - Collected 2026-06-17
+- [SuboptimalEng/slime-sim-webgpu](../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -261,25 +261,25 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: pmndrs/triplex
 
-### 47. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: patriciogonzalezvivo/lygia
-
-### 48. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: playcanvas/engine
-
-### 49. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
+### 47. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mkkellogg/GaussianSplats3D
 
-### 50. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
+### 48. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pixiv/three-vrm
+
+### 49. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: wolfwind521/indoor3D
+
+### 50. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: patriciogonzalezvivo/lygia
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T20:14:47.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T21:35:16.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

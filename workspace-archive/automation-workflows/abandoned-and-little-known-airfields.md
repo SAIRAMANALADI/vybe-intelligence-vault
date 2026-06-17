@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by wizardforhire. Score: 72, Comments: 13.
+Hacker News story by wizardforhire. Score: 97, Comments: 23.
 Original Link: https://airfields-freeman.com/
 
 ## Use Cases

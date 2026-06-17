@@ -5,8 +5,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models
-published_at: '2026-06-17T20:12:16.635231+05:30'
-collected_at: '2026-06-17T20:12:16.635233+05:30'
+published_at: '2026-06-17T21:32:21.729672+05:30'
+collected_at: '2026-06-17T21:32:21.729675+05:30'
 tags:
 - blog-post
 - mistral
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: blog:company-mistral-ai-partners-with-nvidia-to-acceler
 first_seen: '2026-06-16T04:26:33.366246+00:00'
-last_seen: '2026-06-17T20:12:16.635233+05:30'
-last_checked: '2026-06-17T20:12:16.635233+05:30'
+last_seen: '2026-06-17T21:32:21.729675+05:30'
+last_checked: '2026-06-17T21:32:21.729675+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models
-- Collected At: 2026-06-17T20:12:16.635233+05:30
+- Collected At: 2026-06-17T21:32:21.729675+05:30
 
 ## Related Tags
 

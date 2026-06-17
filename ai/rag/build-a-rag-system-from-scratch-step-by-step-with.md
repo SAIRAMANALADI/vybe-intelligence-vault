@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://nerdleveltech.com/guides/rag-hands-on-tutorial
-published_at: '2026-06-17T20:13:06.769699+05:30'
-collected_at: '2026-06-17T20:13:06.769717+05:30'
+published_at: '2026-06-17T21:33:38.649974+05:30'
+collected_at: '2026-06-17T21:33:38.649991+05:30'
 tags:
 - agents
 - benchmark
@@ -20,9 +20,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:build-a-rag-system-from-scratch-step-by-step-with
-first_seen: '2026-06-17T20:13:06.769717+05:30'
-last_seen: '2026-06-17T20:13:06.769717+05:30'
-last_checked: '2026-06-17T20:13:06.769717+05:30'
+first_seen: '2026-06-17T21:33:38.649991+05:30'
+last_seen: '2026-06-17T21:33:38.649991+05:30'
+last_checked: '2026-06-17T21:33:38.649991+05:30'
 health_score: 100
 ---
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-17T20:13:06.769699+05:30
+- Published: 2026-06-17T21:33:38.649974+05:30
 
 ## Related Tags
 
