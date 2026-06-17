@@ -13,13 +13,14 @@ collected_at: '2026-06-17T21:32:19.539004+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:sixty-percent-of-us-consumers-say-ai-in-brand-mess
 first_seen: '2026-06-17T20:12:13.258693+05:30'
 last_seen: '2026-06-17T21:32:19.539004+05:30'
 last_checked: '2026-06-17T21:32:19.539004+05:30'
 health_score: 100
 ---
+
 
 # Sixty percent of US consumers say 'AI' in brand messaging is a turnoff
 

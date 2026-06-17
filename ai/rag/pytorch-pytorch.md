@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pytorch/pytorch
 published_at: '2026-05-13T17:38:06Z'
-collected_at: '2026-06-17T21:32:20.972213+05:30'
+collected_at: '2026-06-18T02:03:06.103894+05:30'
 tags:
 - anthropic
 - benchmark
@@ -23,8 +23,8 @@ tags:
 status: active
 resource_id: github:pytorch/pytorch
 first_seen: '2026-06-16T13:57:13.028028+05:30'
-last_seen: '2026-06-17T21:32:20.972213+05:30'
-last_checked: '2026-06-17T21:32:20.972213+05:30'
+last_seen: '2026-06-18T02:03:06.103894+05:30'
+last_checked: '2026-06-18T02:03:06.103894+05:30'
 health_score: 100
 ---
 

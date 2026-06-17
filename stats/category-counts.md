@@ -5,8 +5,8 @@ Below is the file distribution across the vault categories.
 | Folder | Files |
 | :--- | ---: |
 | `/` | 1 |
-| `ai/agents/` | 652 |
-| `ai/community/` | 6 |
+| `ai/agents/` | 653 |
+| `ai/community/` | 9 |
 | `ai/companies/` | 10 |
 | `ai/companies/anthropic/` | 8 |
 | `ai/companies/deepmind/` | 5 |
@@ -19,7 +19,6 @@ Below is the file distribution across the vault categories.
 | `ai/resources/` | 27 |
 | `ai/trending/` | 10 |
 | `web-development/` | 3 |
-| `web-development/community/` | 1 |
 | `web-development/framer-motion/` | 25 |
 | `web-development/gsap/` | 6 |
 | `web-development/nextjs/` | 75 |

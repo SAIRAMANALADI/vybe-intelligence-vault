@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://airfields-freeman.com
 hn_url: https://news.ycombinator.com/item?id=48531590
-score: 97
+score: 136
 author: wizardforhire
-comments_count: 23
+comments_count: 40
 published_at: '2026-06-15T00:55:21+05:30'
-collected_at: '2026-06-17T21:32:21.015040+05:30'
+collected_at: '2026-06-18T02:03:07.973166+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:abandoned-and-little-known-airfields
 first_seen: '2026-06-17T20:12:14.239424+05:30'
-last_seen: '2026-06-17T21:32:21.015040+05:30'
-last_checked: '2026-06-17T21:32:21.015040+05:30'
+last_seen: '2026-06-18T02:03:07.973166+05:30'
+last_checked: '2026-06-18T02:03:07.973166+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by wizardforhire. Score: 97, Comments: 23.
+Hacker News story by wizardforhire. Score: 136, Comments: 40.
 Original Link: https://airfields-freeman.com/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: wizardforhire
-- Score: 97 Upvotes
-- Comments: 23 Discussions
+- Score: 136 Upvotes
+- Comments: 40 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48531590
 - Original Article: https://airfields-freeman.com
 

@@ -3242,13 +3242,15 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
   - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
-  - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
-  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
-  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
-  - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
-  - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
+  - [Anthropic employees accuse Trump administration of targeting them](../ai/community/anthropic-employees-accuse-trump-administration-of.md)
+  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
+  - [TREX: An AI code reviewer that runs your code](../ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)
+  - [The Competitive Moat That AI Can't Replicate](../ai/community/the-competitive-moat-that-ai-can-t-replicate.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
+  - [The hacker sent by Anthropic to calm the government's nerves about AI safety](../ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -3311,6 +3313,7 @@ Resources organized by publisher feed and query sources.
   - [Adding Benchmaxxer Repellant to the Open ASR Leaderboard](../ai/models/adding-benchmaxxer-repellant-to-the-open-asr-leade.md)
   - [Adding MCP Tools to Reachy Mini](../ai/models/adding-mcp-tools-to-reachy-mini.md)
   - [Advantage Actor Critic (A2C)](../ai/models/advantage-actor-critic-a2c.md)
+  - [Agentic Resource Discovery: Let agents search](../ai/agents/huggingface-blog-agentic-resource-discovery-launch.md)
   - [Aligning to What? Rethinking Agent Generalization in MiniMax M2](../ai/agents/aligning-to-what-rethinking-agent-generalization-i.md)
   - [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](../ai/models/alyah-toward-robust-evaluation-of-emirati-dialect.md)
   - [An Introduction to AI Secure LLM Safety Leaderboard](../ai/models/an-introduction-to-ai-secure-llm-safety-leaderboar.md)
@@ -4279,4 +4282,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-17T21:35:18.953334+05:30*
+*Index generated on 2026-06-18T02:05:32.459501+05:30*

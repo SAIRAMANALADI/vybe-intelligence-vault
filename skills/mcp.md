@@ -20,11 +20,11 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 37 resources matched in the intelligence vault.
 Recently detected signals:
-- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-17
-- [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) (Source: Unknown Source) - Collected 2026-06-17
-- [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](../ai/rag/arxiv-2606-18037.md) (Source: Unknown Source) - Collected 2026-06-17
-- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-17
+- [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-18
+- [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-18
+- [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](../ai/rag/arxiv-2606-18037.md) (Source: Unknown Source) - Collected 2026-06-18
+- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -185,4 +185,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T21:35:16.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T02:05:29.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

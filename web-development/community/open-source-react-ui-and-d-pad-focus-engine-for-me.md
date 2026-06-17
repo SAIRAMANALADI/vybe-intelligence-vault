@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:open-source-react-ui-and-d-pad-focus-engine-for-me
 first_seen: '2026-06-17T21:32:21.966814+05:30'
 last_seen: '2026-06-17T21:32:21.966814+05:30'
 last_checked: '2026-06-17T21:32:21.966814+05:30'
 health_score: 100
 ---
+
 
 # Open-source React UI and D-pad focus engine for Meta Ray-Ban Display
 

@@ -13,13 +13,14 @@ collected_at: '2026-06-17T21:32:22.254062+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:humiliating-iis-servers-for-fun-and-jail-time
 first_seen: '2026-06-17T10:46:12.028261+05:30'
 last_seen: '2026-06-17T21:32:22.254062+05:30'
 last_checked: '2026-06-17T21:32:22.254062+05:30'
 health_score: 100
 ---
+
 
 # Humiliating IIS servers for fun and jail time
 

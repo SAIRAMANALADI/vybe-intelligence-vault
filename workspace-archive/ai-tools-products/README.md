@@ -24,6 +24,7 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 - [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai)
 - [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai)
 - [sirius-zuo/devops-skills](https://github.com/sirius-zuo/devops-skills)
+- [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/adam-cad/cadam)
 
 ## Best Learning Resources
 
@@ -40,4 +41,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-17 21:35 IST*
+*Last updated: 2026-06-18 02:06 IST*

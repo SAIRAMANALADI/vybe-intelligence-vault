@@ -44,36 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4339 |
-| Active resources | 4246 |
-| Inactive resources | 93 |
-| Archive files | 20680 |
+| Resources tracked | 4346 |
+| Active resources | 4249 |
+| Inactive resources | 97 |
+| Archive files | 20693 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-17 21:35 IST |
+| Last meaningful update | 2026-06-18 02:06 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)** (+184 points)
-- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (Rank: +3) (+69 points)
-- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (Rank: +2) (+25 points)
-- **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)** (Rank: +1) (+25 points)
-- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (Rank: +1) (+17 points)
+- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (Rank: +3) (+171 points)
+- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (+39 points)
+- **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (Rank: +701)
+- **[Google Colab](ai/rag/google-colab.md)** (Rank: +46)
+- **[RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)** (Rank: +46)
 
 #### ✨ New Discoveries
-- **[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)** (Score: 25)
-- **[Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)** (Score: 4)
-- **[Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem](ai/companies/anthropic/jun-17-2026announcementsanthropic-opens-seoul-offi.md)** (Score: 0)
-- **[MolmoMotion: Language-guided 3D motion forecasting](ai/models/huggingface-blog-allenai-molmomotion.md)** (Score: 0)
+- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (Score: 181)
+- **[Anthropic employees accuse Trump administration of targeting them](ai/community/anthropic-employees-accuse-trump-administration-of.md)** (Score: 134)
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Score: 100)
+- **[The hacker sent by Anthropic to calm the government's nerves about AI safety](ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)** (Score: 60)
+- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)** (Score: 60)
 
 #### 💤 Recently Inactive Resources
-- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)**
-- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)**
-- **[Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC](ai/companies/anthropic/jun-1-2026announcementsanthropic-confidentially-su.md)**
+- **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)**
+- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)**
+- **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)**
+- **[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)**
+- **[Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

@@ -96,6 +96,7 @@ Resources organized by keyword tags.
   - [Agentic Framework for Deep Learning workload migration via In-Context Learning](../ai/agents/arxiv-2606-15994.md)
   - [Agentic Large Language Models for Automated Structural Analysis of 3D Frame Systems](../ai/rag/arxiv-2606-06525.md)
   - [Agentic MPC for Semantic Control System Resynthesis](../ai/agents/arxiv-2606-12774.md)
+  - [Agentic Resource Discovery: Let agents search](../ai/agents/huggingface-blog-agentic-resource-discovery-launch.md)
   - [Agentic Retrieval and Reinforcement Learned Equation Chains: A Controlled Generation Framework for Complex and Novel Physics Word Problems](../ai/rag/arxiv-2606-15591.md)
   - [Agentic Software: How AI Agents Are Restructuring the Software Paradigm](../ai/agents/arxiv-2606-05608.md)
   - [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](../ai/agents/arxiv-2604-22748.md)
@@ -970,12 +971,14 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
   - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
-  - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
-  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
-  - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
-  - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
+  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
+  - [TREX: An AI code reviewer that runs your code](../ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)
+  - [The Competitive Moat That AI Can't Replicate](../ai/community/the-competitive-moat-that-ai-can-t-replicate.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
+  - [The hacker sent by Anthropic to calm the government's nerves about AI safety](../ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)
 
 ## animation
 
@@ -1036,6 +1039,7 @@ Resources organized by keyword tags.
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
   - [All Smoke, No Alarm: Oracle Signals in Agent-Authored Test Code](../ai/agents/arxiv-2606-18168.md)
+  - [Anthropic employees accuse Trump administration of targeting them](../ai/community/anthropic-employees-accuse-trump-administration-of.md)
   - [Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks](../ai/rag/arxiv-2605-23243.md)
   - [Best AI Agent Frameworks 2026: LangChain, CrewAI, AutoGen](../ai/rag/best-ai-agent-frameworks-2026-langchain-crewai-aut.md)
   - [Best Open Source LLM Observability Tools in 2026: Complete Guide - DEV Community](../ai/rag/best-open-source-llm-observability-tools-in-2026-c.md)
@@ -1126,6 +1130,8 @@ Resources organized by keyword tags.
   - [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
+  - [The hacker sent by Anthropic to calm the government's nerves about AI safety](../ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
   - [Top 5 Open-Source Agentic AI Frameworks in 2026](../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md)
@@ -3189,6 +3195,7 @@ Resources organized by keyword tags.
   - [AI Adoption Across a Multinational Workforce: Sociotechnical Conditions for GenAI Acceptance in Human Resources](../ai/research/arxiv-2606-17887.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Engram: In Search of Memory Traces in Artificial Intelligence](../ai/rag/arxiv-2606-14997.md)
+  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [Adaptive Kernel Density Estimation with Pre-training](../ai/research/arxiv-2605-13092.md)
   - [Adjoint Method versus Physics-Informed Neural Networks in PDE-Constrained Inverse Problems](../ai/rag/arxiv-2606-12337.md)
@@ -3297,7 +3304,6 @@ Resources organized by keyword tags.
   - [NotStark/portfolio](../web-development/nextjs/notstark-portfolio.md)
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [OdysSim: Building Foundation Models for Human Behavior Simulation](../ai/research/arxiv-2606-14199.md)
-  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [OpenAI Agents SDK: Complete Setup Guide (2026)](../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md)
   - [Operator Boosting Produces Pareto-Efficient PDE Surrogates](../ai/research/arxiv-2606-17460.md)
@@ -3708,6 +3714,7 @@ Resources organized by keyword tags.
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
   - [AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks](../ai/research/arxiv-2606-11533.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/ai-watermarking-101-tools-and-techniques.md)
+  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
   - [AI-Driven Framework for Adaptive Water Network Management with Proof-of-Concept Implementation: Addressing Non-Revenue Water in Jordan](../ai/rag/arxiv-2606-15709.md)
   - [AI-Driven Test Case Generation from Natural Language Requirements: A Survey of Techniques and Research Gaps](../ai/research/arxiv-2606-06563.md)
@@ -3733,6 +3740,7 @@ Resources organized by keyword tags.
   - [An Integrated System for Real-Time Student Assessment and Career Guidance Using Neural Networks in Computing Disciplines](../ai/research/arxiv-2606-15831.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
+  - [Anthropic employees accuse Trump administration of targeting them](../ai/community/anthropic-employees-accuse-trump-administration-of.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence Index Report 2026](../ai/research/arxiv-2606-15708.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
@@ -3854,7 +3862,6 @@ Resources organized by keyword tags.
   - [How to Improve RAG Performance: 5 Key Techniques with Examples | DataCamp](../ai/rag/how-to-improve-rag-performance-5-key-techniques-wi.md)
   - [Human language technologies](../ai/companies/human-language-technologies.md)
   - [Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows](../ai/research/arxiv-2606-17824.md)
-  - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
   - [HybridCodeAuthorship: A Benchmark Dataset for Line-Level Code Authorship Detection](../ai/rag/arxiv-2606-12620.md)
   - [HyperPotter: Spell the Charm of High-Order Interactions in Audio Deepfake Detection](../ai/rag/arxiv-2602-05670.md)
   - [I'm Sorry Driver, I'm Afraid I Can't Do That: Appraising the Safety of LLMs within Automotive Contexts](../ai/research/arxiv-2606-14327.md)
@@ -3875,6 +3882,7 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
   - [Language Model Circuits Are Sparse in the Neuron Basis](../ai/research/arxiv-2601-22594.md)
+  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
   - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md)
   - [Learning Fair Pareto-Optimal Policies in Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-18111.md)
@@ -3909,7 +3917,6 @@ Resources organized by keyword tags.
   - [On the Energy Distribution of the Galactic Center Excess' Sources](../ai/research/arxiv-2507-17804.md)
   - [Online Convex Optimization with Sublinear Noisy Probes](../ai/research/arxiv-2606-14640.md)
   - [Online Realizable Regression and Applications for ReLU Networks](../ai/research/arxiv-2602-19172.md)
-  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
   - [OpenAI Agents SDK: What It Is and How to Build Production Agents](../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md)
   - [Operator Calculus for Population-Based Optimization: A Mean-Field Convergence Theory](../ai/rag/arxiv-2606-14289.md)
   - [OptEMA: Adaptive Exponential Moving Average for Stochastic Optimization with Zero-Noise Optimality](../ai/rag/arxiv-2603-09923.md)
@@ -3918,7 +3925,6 @@ Resources organized by keyword tags.
   - [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
   - [Output Type Before Quality: A Standards-Derived XAI Admissibility Rubric for Autonomous-Driving Safety](../ai/agents/arxiv-2606-05461.md)
   - [Parallel Test-Time Scaling with Multi-Sequence Verifiers](../ai/research/arxiv-2603-03417.md)
-  - [Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](../ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)
   - [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](../ai/research/arxiv-2606-14695.md)
   - [Physics-Distilled Neural Network enabled by Large Language Models for Manufacturing Process-Property Predictive Modeling](../ai/research/arxiv-2606-11605.md)
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
@@ -3969,9 +3975,7 @@ Resources organized by keyword tags.
   - [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md)
   - [Semantic Reasoning in Medicine: The Role of Knowledge Graphs Across Five Key Domains](../ai/rag/arxiv-2606-15155.md)
   - [Semi-Supervised Speech Confidence Detection using Pseudo-Labelling and Whisper Embeddings](../ai/rag/arxiv-2606-16505.md)
-  - [Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](../ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)
   - [Simplicity Suffices for Parameter Noise Injection in Stochastic Gradient Descent](../ai/rag/arxiv-2606-12054.md)
-  - [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](../ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)
   - [SketchXplain: Intuitive Visual Explanations of Image Classifiers with Sketches](../ai/research/arxiv-2606-17646.md)
   - [Smoothness Errors in Dynamics Models and How to Avoid Them](../ai/research/arxiv-2602-05352.md)
   - [Snyk VulnBench JS 1.0: Can LLMs Find the Same Bugs Twice?](../ai/agents/arxiv-2606-15762.md)
@@ -3986,6 +3990,7 @@ Resources organized by keyword tags.
   - [Succeeding at Scale: Enterprise Retrieval Benchmark Construction and Index-Preserving Query Adaptation for Multi-Tenant Search](../ai/research/arxiv-2601-04646.md)
   - [Surveying GenAI-based Automation in Printed Circuit Board Design and Test](../ai/research/arxiv-2606-17074.md)
   - [Sustainable Materials Discovery in the Era of Artificial Intelligence](../ai/research/arxiv-2601-21527.md)
+  - [TREX: An AI code reviewer that runs your code](../ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)
   - [TWLA: Achieving Ternary Weights and Low-Bit Activations for LLMs via Post-Training Quantization](../ai/research/arxiv-2606-13054.md)
   - [Taming Curvature: Architecture Warm-Up for Stable Transformer Training](../ai/research/arxiv-2606-16768.md)
   - [Teacher-Student Structure for Domain Adaptation in Ensemble Audio-Visual Video Deepfake Detection](../ai/research/arxiv-2606-15117.md)
@@ -3995,6 +4000,7 @@ Resources organized by keyword tags.
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
+  - [The Competitive Moat That AI Can't Replicate](../ai/community/the-competitive-moat-that-ai-can-t-replicate.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The Hidden Power of Scaling Factor in LoRA Optimization](../ai/rag/arxiv-2606-12883.md)
@@ -4003,6 +4009,8 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
+  - [The hacker sent by Anthropic to calm the government's nerves about AI safety](../ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
@@ -5151,6 +5159,7 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
+  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AgentLeak: A Benchmark for Internal-Channel Privacy Leakage in Multi-Agent LLM Systems](../ai/agents/arxiv-2602-11510.md)
   - [AgentOps-AI/agentops](../ai/agents/agentops-ai-agentops.md)
   - [AgentRivet: an automated system for producing Rivet routines from journal publications](../ai/rag/arxiv-2606-13535.md)
@@ -5317,7 +5326,6 @@ Resources organized by keyword tags.
   - [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
   - [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
-  - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](../ai/research/arxiv-2605-04813.md)
   - [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](../ai/agents/arxiv-2606-16944.md)
   - [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](../ai/agents/arxiv-2606-14956.md)
@@ -5879,6 +5887,7 @@ Resources organized by keyword tags.
   - [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)
   - [LangGraph Production Best Practices 2026: Complete Guide | LangChain Tutorials](../ai/rag/langgraph-production-best-practices-2026-complete.md)
   - [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
+  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/launching-the-artificial-analysis-text-to-image-le.md)
   - [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../ai/rag/arxiv-2606-06523.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
@@ -7088,10 +7097,6 @@ Resources organized by keyword tags.
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
 
-## react
-
-  - [Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](../web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)
-
 ## reddit
 
   - ["Is This Not Enough?": Asymmetries in Institutional Accountability and Collective Sensemaking in the Case of Canada's Algorithmic Visa Triage System](../ai/research/arxiv-2606-13071.md)
@@ -8162,4 +8167,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-17T21:35:18.909084+05:30*
+*Index generated on 2026-06-18T02:05:32.414231+05:30*

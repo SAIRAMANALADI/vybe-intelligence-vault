@@ -4,16 +4,16 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/google-research/timesfm
-published_at: '2026-06-17T21:32:20.169777+05:30'
-collected_at: '2026-06-17T21:32:20.169783+05:30'
+published_at: '2026-06-18T02:03:06.332553+05:30'
+collected_at: '2026-06-18T02:03:06.332557+05:30'
 tags:
 - github-trending
 - python
 status: active
 resource_id: github:google-research/timesfm
 first_seen: '2026-06-17T16:47:27.410036+05:30'
-last_seen: '2026-06-17T21:32:20.169783+05:30'
-last_checked: '2026-06-17T21:32:20.169783+05:30'
+last_seen: '2026-06-18T02:03:06.332557+05:30'
+last_checked: '2026-06-18T02:03:06.332557+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-17T21:32:20.169777+05:30
+- Published: 2026-06-18T02:03:06.332553+05:30
 
 ## Related Tags
 

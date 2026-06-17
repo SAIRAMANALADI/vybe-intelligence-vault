@@ -13,13 +13,14 @@ collected_at: '2026-06-17T21:32:21.961373+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:pentagon-boasts-of-using-ai-to-write-reports-manda
 first_seen: '2026-06-17T21:32:21.961373+05:30'
 last_seen: '2026-06-17T21:32:21.961373+05:30'
 last_checked: '2026-06-17T21:32:21.961373+05:30'
 health_score: 100
 ---
+
 
 # Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)
 

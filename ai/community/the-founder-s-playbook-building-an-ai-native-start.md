@@ -5,29 +5,28 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://claude.com/blog/the-founders-playbook
 hn_url: https://news.ycombinator.com/item?id=48566832
-score: 135
+score: 181
 author: e2e4
-comments_count: 122
+comments_count: 140
 published_at: '2026-06-17T12:34:42+05:30'
-collected_at: '2026-06-17T20:12:15.956938+05:30'
+collected_at: '2026-06-18T02:03:07.698781+05:30'
 tags:
 - ai
 - anthropic
 - hackernews
-status: inactive
+status: active
 resource_id: hackernews:the-founder-s-playbook-building-an-ai-native-start
 first_seen: '2026-06-17T16:47:26.603586+05:30'
-last_seen: '2026-06-17T20:12:15.956938+05:30'
-last_checked: '2026-06-17T20:12:15.956938+05:30'
+last_seen: '2026-06-18T02:03:07.698781+05:30'
+last_checked: '2026-06-18T02:03:07.698781+05:30'
 health_score: 100
 ---
-
 
 # The founder's playbook: Building an AI-native startup
 
 ## Summary
 
-Hacker News story by e2e4. Score: 135, Comments: 122.
+Hacker News story by e2e4. Score: 181, Comments: 140.
 Original Link: https://claude.com/blog/the-founders-playbook
 
 ## Why It Matters
@@ -37,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: e2e4
-- Score: 135 Upvotes
-- Comments: 122 Discussions
+- Score: 181 Upvotes
+- Comments: 140 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48566832
 - Original Article: https://claude.com/blog/the-founders-playbook
 
