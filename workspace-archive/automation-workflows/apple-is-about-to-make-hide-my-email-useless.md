@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by SXX. Score: 207, Comments: 87.
+Hacker News story by SXX. Score: 437, Comments: 275.
 Original Link: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/
 
 ## Use Cases

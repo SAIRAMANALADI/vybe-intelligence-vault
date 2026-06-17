@@ -13,9 +13,9 @@ Discovering modern AI productivity tools allows developers to streamline their d
 - [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (framework - USEFUL Tier)
 - [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (framework - USEFUL Tier)
 - [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (framework - USEFUL Tier)
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (framework - USEFUL Tier)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (workflow - USEFUL Tier)
 - [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai) (product - USEFUL Tier)
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) (mcp-server - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -40,4 +40,4 @@ https://github.com/steven-tey/charlie (Charlie Directory App)
 
 ---
 
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

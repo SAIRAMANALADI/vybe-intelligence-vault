@@ -5,8 +5,8 @@ category: ai/companies/mistral
 source_type: company_blog
 source_name: Mistral AI News
 source_url: https://mistral.ai/news/physics-ai-research
-published_at: '2026-06-17T02:49:16.151833+05:30'
-collected_at: '2026-06-17T02:49:16.151837+05:30'
+published_at: '2026-06-17T10:46:13.547413+05:30'
+collected_at: '2026-06-17T10:46:13.547419+05:30'
 tags:
 - blog-post
 - mistral
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: blog:research-physics-ai-research-thats-shaping-the-ind
 first_seen: '2026-06-16T04:26:33.365717+00:00'
-last_seen: '2026-06-17T02:49:16.151837+05:30'
-last_checked: '2026-06-17T02:49:16.151837+05:30'
+last_seen: '2026-06-17T10:46:13.547419+05:30'
+last_checked: '2026-06-17T10:46:13.547419+05:30'
 health_score: 100
 ---
 
@@ -34,7 +34,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Mistral AI News
 - Article URL: https://mistral.ai/news/physics-ai-research
-- Collected At: 2026-06-17T02:49:16.151837+05:30
+- Collected At: 2026-06-17T10:46:13.547419+05:30
 
 ## Related Tags
 

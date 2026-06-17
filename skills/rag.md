@@ -19,13 +19,13 @@ RAG is crucial for mitigating hallucinations, grounding model responses in priva
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 1666 resources matched in the intelligence vault.
+Active signals: 2518 resources matched in the intelligence vault.
 Recently detected signals:
+- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-17
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-17
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-17
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-17
-- [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) (Source: Unknown Source) - Collected 2026-06-17
-- [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-17
+- [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T02:51:54.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T10:49:20.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

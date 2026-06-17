@@ -16,6 +16,7 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
 | [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
 | [langgenius/dify](https://github.com/langgenius/dify) | `mcp-registry/` | 70 |
+| [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](https://arxiv.org/abs/2606.18037) | `mcp-registry/` | 70 |
 | [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | `mcp-registry/` | 70 |
 | [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | `mcp-registry/` | 70 |
 | [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
@@ -23,6 +24,5 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
 | [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
 | [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605) | `mcp-registry/` | 70 |
-| [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

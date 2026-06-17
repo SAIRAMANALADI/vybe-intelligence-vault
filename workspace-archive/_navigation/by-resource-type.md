@@ -27,9 +27,9 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-19502.md))
+- [Kolmogorov Regression for Robust Diffusion Policies](https://arxiv.org/abs/2606.18186) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-18186.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
 - [Human-Guided Agentic AI for Multimodal Clinical Prediction: Lessons from the AgentDS Healthcare Benchmark](https://arxiv.org/abs/2602.19502) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2602-19502.md))
-- [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
 
 ## DATASET
 
@@ -55,11 +55,11 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
 - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `essential` | [`Local File`](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md))
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
+- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-11990.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-08784.md))
+- [MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories](https://arxiv.org/abs/2606.17978) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-17978.md))
 - [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2602-22179.md))
-- [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2603-15481.md))
-- [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-16898.md))
 
 ## MCP-SERVER
 
@@ -95,20 +95,19 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 
 - [AI Coding Agents in Social Science: Methodologically Diverse, Empirically Consistent, Interpretively Vulnerable](https://arxiv.org/abs/2606.11456) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-11456.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
+- [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
+- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
+- [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
+- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
+- [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2604-04089.md))
+- [Evaluating Open-Source LLMs for Multi-Label ATT&CK Technique Classification on CTI Reports](https://arxiv.org/abs/2606.18166) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18166.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
+- [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2604-04089.md))
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
-- [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
-- [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
-- [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11745.md))
-- [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape) (Tier: `useful` | [`Local File`](../../ai/agents/dyronrh-awesome-agentops-landscape.md))
 
 ## REFERENCE
 
-- [Learn more](https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research) (Tier: `useful` | [`Local File`](../../ai/companies/deepmind/learn-more.md))
 - [Responsible Scaling Policy](https://anthropic.com/news/announcing-our-updated-responsible-scaling-policy) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/responsible-scaling-policy.md))
 - [Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5](https://anthropic.com/news/claude-fable-5-mythos-5) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-9-2026announcementsclaude-fable-5-and-claude-m.md))
 - [Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on](https://anthropic.com/news/dxc-anthropic-alliance) (Tier: `useful` | [`Local File`](../../ai/companies/anthropic/jun-11-2026announcementsdxc-will-integrate-claude.md))
@@ -120,6 +119,7 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Applied AI](https://openai.com/news/applied-ai) (Tier: `useful` | [`Local File`](../../ai/companies/openai/applied-ai.md))
 - [AI Adoption](https://openai.com/news/ai-adoption) (Tier: `useful` | [`Local File`](../../ai/companies/openai/ai-adoption.md))
 - [Global Affairs](https://openai.com/news/global-affairs) (Tier: `useful` | [`Local File`](../../ai/companies/openai/global-affairs.md))
+- [Engineering](https://openai.com/news/engineering) (Tier: `useful` | [`Local File`](../../ai/companies/openai/engineering.md))
 
 ## TEMPLATE
 
@@ -182,4 +182,4 @@ This index groups files by resource kind (e.g. frameworks, templates, prompts, e
 - [Haohao-end/openagent](https://github.com/Haohao-end/openagent) (Tier: `useful` | [`Local File`](../../ai/agents/haohao-end-openagent.md))
 
 ---
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

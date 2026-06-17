@@ -4,17 +4,17 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/nank1ro/flutter-shadcn-ui
-collected_at: '2026-06-15T16:20:31.241841+00:00'
-published_at: '2026-06-15T13:03:04Z'
+collected_at: '2026-06-17T10:46:12.147703+05:30'
+published_at: '2026-06-16T21:43:45Z'
 tags:
 - frontend_ui
-stars: 2696
+stars: 2695
 language: Dart
 status: active
 resource_id: github:nank1ro/flutter-shadcn-ui
 first_seen: '2026-06-15T16:20:31.241841+00:00'
-last_seen: '2026-06-15T16:20:31.241841+00:00'
-last_checked: '2026-06-15T16:20:31.241841+00:00'
+last_seen: '2026-06-17T10:46:12.147703+05:30'
+last_checked: '2026-06-17T10:46:12.147703+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: nank1ro
-- Stars: 2696
+- Stars: 2695
 - Forks: 184
 - Language: Dart
 - Topics: flutter, shadcn, shadcn-ui, shadcnui, ui
-- Last Updated: 2026-06-15T13:03:04Z
+- Last Updated: 2026-06-16T21:43:45Z
 
 ## Possible Use Cases
 

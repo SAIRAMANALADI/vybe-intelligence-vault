@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide
-published_at: '2026-06-17T02:50:23.196339+05:30'
-collected_at: '2026-06-17T02:50:23.196352+05:30'
+published_at: '2026-06-17T10:47:48.052374+05:30'
+collected_at: '2026-06-17T10:47:48.052390+05:30'
 tags:
 - agents
 - anthropic
@@ -29,9 +29,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:the-complete-guide-to-rag-naive-advanced-and-graph
-first_seen: '2026-06-17T02:50:23.196352+05:30'
-last_seen: '2026-06-17T02:50:23.196352+05:30'
-last_checked: '2026-06-17T02:50:23.196352+05:30'
+first_seen: '2026-06-17T10:47:48.052390+05:30'
+last_seen: '2026-06-17T10:47:48.052390+05:30'
+last_checked: '2026-06-17T10:47:48.052390+05:30'
 health_score: 100
 ---
 
@@ -49,7 +49,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-17T02:50:23.196339+05:30
+- Published: 2026-06-17T10:47:48.052374+05:30
 
 ## Related Tags
 

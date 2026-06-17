@@ -43,6 +43,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `86` | **Path**: [`the-complete-guide-to-rag-building-retrieval-augme.md`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`arxiv-2505-03509.md`](../../ai/rag/arxiv-2505-03509.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`arxiv-2606-11990.md`](../../ai/rag/arxiv-2606-11990.md)
@@ -53,19 +58,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `86` | **Path**: [`arxiv-2505-08784.md`](../../ai/rag/arxiv-2505-08784.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories](https://arxiv.org/abs/2606.17978)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
+- **Score**: `86` | **Path**: [`arxiv-2606-17978.md`](../../ai/rag/arxiv-2606-17978.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
 - **Score**: `86` | **Path**: [`arxiv-2602-22179.md`](../../ai/rag/arxiv-2602-22179.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2603-15481.md`](../../ai/rag/arxiv-2603-15481.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
-### [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `ESSENTIAL`
-- **Score**: `86` | **Path**: [`arxiv-2606-16898.md`](../../ai/agents/arxiv-2606-16898.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

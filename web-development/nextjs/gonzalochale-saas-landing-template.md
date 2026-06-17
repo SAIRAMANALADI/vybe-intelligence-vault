@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/gonzalochale/saas-landing-template
-collected_at: '2026-06-16T17:27:23.991300+05:30'
-published_at: '2026-06-03T09:37:30Z'
+collected_at: '2026-06-17T10:46:11.569445+05:30'
+published_at: '2026-06-17T02:42:05Z'
 tags:
 - frontend_ui
-stars: 166
+stars: 167
 language: TypeScript
 status: active
 resource_id: github:gonzalochale/saas-landing-template
 first_seen: '2026-06-12T10:40:20.338263+00:00'
-last_seen: '2026-06-16T17:27:23.991300+05:30'
-last_checked: '2026-06-16T17:27:23.991300+05:30'
+last_seen: '2026-06-17T10:46:11.569445+05:30'
+last_checked: '2026-06-17T10:46:11.569445+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: gonzalochale
-- Stars: 166
+- Stars: 167
 - Forks: 20
 - Language: TypeScript
 - Topics: nextjs, nextjs16, nextui, nextui-starter, nextui-template, reactjs, saas, saas-boilerplate, saas-landing-page, sass, shadcn, shadcn-ui, tailwindcss-v4, template
-- Last Updated: 2026-06-03T09:37:30Z
+- Last Updated: 2026-06-17T02:42:05Z
 
 ## Possible Use Cases
 

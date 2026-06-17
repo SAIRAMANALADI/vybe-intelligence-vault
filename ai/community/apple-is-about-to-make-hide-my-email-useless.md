@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless
 hn_url: https://news.ycombinator.com/item?id=48559935
-score: 207
+score: 437
 author: SXX
-comments_count: 87
+comments_count: 275
 published_at: '2026-06-17T00:07:21+05:30'
-collected_at: '2026-06-17T02:49:09.936966+05:30'
+collected_at: '2026-06-17T10:46:15.672738+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:apple-is-about-to-make-hide-my-email-useless
 first_seen: '2026-06-17T02:49:09.936966+05:30'
-last_seen: '2026-06-17T02:49:09.936966+05:30'
-last_checked: '2026-06-17T02:49:09.936966+05:30'
+last_seen: '2026-06-17T10:46:15.672738+05:30'
+last_checked: '2026-06-17T10:46:15.672738+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by SXX. Score: 207, Comments: 87.
+Hacker News story by SXX. Score: 437, Comments: 275.
 Original Link: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: SXX
-- Score: 207 Upvotes
-- Comments: 87 Discussions
+- Score: 437 Upvotes
+- Comments: 275 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48559935
 - Original Article: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless
 

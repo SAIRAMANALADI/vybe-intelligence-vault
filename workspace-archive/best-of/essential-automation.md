@@ -33,6 +33,11 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-11304.md`](../../ai/rag/arxiv-2606-11304.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
+### [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089)
+- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2604-04089.md`](../../ai/rag/arxiv-2604-04089.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
 ### [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-openai-ag.md`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope](https://arxiv.org/abs/2606.07489)
-- **Category**: `ai/agents` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2606-07489.md`](../../ai/agents/arxiv-2606-07489.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

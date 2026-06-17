@@ -14,13 +14,14 @@ tags:
 - frontend_ui
 - hackernews
 - react
-status: active
+status: inactive
 resource_id: hackernews:show-hn-sabela-a-reactive-notebook-for-haskell
 first_seen: '2026-06-17T02:49:12.149398+05:30'
 last_seen: '2026-06-17T02:49:12.149398+05:30'
 last_checked: '2026-06-17T02:49:12.149398+05:30'
 health_score: 100
 ---
+
 
 # Show HN: Sabela – A Reactive Notebook for Haskell
 

@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 108 resources matched in the intelligence vault.
+Active signals: 123 resources matched in the intelligence vault.
 Recently detected signals:
-- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-17
-- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-17
-- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md) (Source: Unknown Source) - Collected 2026-06-17
-- [K-Prism: A Knowledge-Guided and Prompt Integrated Universal Medical Image Segmentation Model](../ai/rag/arxiv-2509-25594.md) (Source: Unknown Source) - Collected 2026-06-17
-- [The Illusion of Multi-Agent Advantage](../ai/agents/arxiv-2606-13003.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Priors Persist Through Suppression: A Stroop Paradigm for Lexical Override](../ai/research/arxiv-2606-07555.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models](../ai/rag/arxiv-2403-18957.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Beyond Visual Cues: CoT-Enhanced Reasoning for Semi-supervised Medical Image Segmentation](../ai/rag/arxiv-2606-17958.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Learning to Refine Hidden States for Reliable LLM Reasoning](../ai/research/arxiv-2606-17524.md) (Source: Unknown Source) - Collected 2026-06-17
+- [LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management](../ai/rag/arxiv-2501-00826.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -60,4 +60,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T02:51:54.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T10:49:20.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

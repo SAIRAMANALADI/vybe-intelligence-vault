@@ -18,13 +18,13 @@ Vector databases form the retrieval core of semantic search, recommendation engi
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 930 resources matched in the intelligence vault.
+Active signals: 1076 resources matched in the intelligence vault.
 Recently detected signals:
+- [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-17
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-17
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-17
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-17
-- [HKUDS/RAG-Anything](../ai/rag/hkuds-rag-anything.md) (Source: Unknown Source) - Collected 2026-06-17
-- [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-17
+- [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T02:51:54.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T10:49:21.029393+05:30.546069+05:30.868173+05:30.672332+05:30.017610+05:30.235319+05:30.032490+05:30.187241+05:30.681147+05:30.814935+05:30.

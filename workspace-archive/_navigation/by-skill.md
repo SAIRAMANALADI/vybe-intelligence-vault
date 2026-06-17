@@ -21,7 +21,7 @@ This index groups curated resources by target developer skills.
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12702.md))
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-04879.md))
-- [Side-Channel Attacks Bypass Protection in 3D Printers](https://arxiv.org/abs/2606.13952) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-13952.md))
+- [MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization](https://arxiv.org/abs/2606.17526) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17526.md))
 
 ## API Design
 
@@ -77,25 +77,25 @@ This index groups curated resources by target developer skills.
 
 ## Data Curation
 
+- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-11990.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-08784.md))
+- [MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories](https://arxiv.org/abs/2606.17978) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-17978.md))
 - [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2602-22179.md))
 - [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2603-15481.md))
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-16898.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2606-11235.md))
-- [DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors](https://arxiv.org/abs/2606.11616) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2606-11616.md))
+- [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-17819.md))
 
 ## Data Engineering
 
+- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation](https://arxiv.org/abs/2606.11990) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-11990.md))
 - [PCS-UQ: Uncertainty Quantification via the Predictability-Computability-Stability Framework](https://arxiv.org/abs/2505.08784) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2505-08784.md))
+- [MoCo-AIS: A Contrastive Learning Framework for Similarity Computation of Vessel Trajectories](https://arxiv.org/abs/2606.17978) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2606-17978.md))
 - [Discovering Subgroups with Exceptional Survival Characteristics](https://arxiv.org/abs/2602.22179) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2602-22179.md))
 - [TabKD: Tabular Knowledge Distillation through Interaction Diversity of Learned Feature Bins](https://arxiv.org/abs/2603.15481) (Tier: `essential` | [`Local File`](../../ai/rag/arxiv-2603-15481.md))
 - [Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-16898.md))
-- [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
-- [Few-Shot Resampling for Scalable Statistically-Sound Data Mining](https://arxiv.org/abs/2606.11235) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2606-11235.md))
-- [DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors](https://arxiv.org/abs/2606.11616) (Tier: `essential` | [`Local File`](../../ai/research/arxiv-2606-11616.md))
+- [A Framework for Evaluating Agentic Skills at Scale](https://arxiv.org/abs/2606.17819) (Tier: `essential` | [`Local File`](../../ai/agents/arxiv-2606-17819.md))
 
 ## Data Redaction
 
@@ -106,18 +106,18 @@ This index groups curated resources by target developer skills.
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12702.md))
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-04879.md))
-- [Side-Channel Attacks Bypass Protection in 3D Printers](https://arxiv.org/abs/2606.13952) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-13952.md))
+- [MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization](https://arxiv.org/abs/2606.17526) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17526.md))
 
 ## Distributed Tracing
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
+- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15349.md))
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-16316.md))
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-02355.md))
-- [Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator](https://arxiv.org/abs/2606.15512) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-15512.md))
+- [Damage Adaptation in Seconds for Architected Materials](https://arxiv.org/abs/2606.17394) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17394.md))
 
 ## Embedding Vectors
 
@@ -179,33 +179,33 @@ This index groups curated resources by target developer skills.
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
+- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
 - [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-05167.md))
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11751.md))
 - [MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability](https://arxiv.org/abs/2504.20908) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2504-20908.md))
-- [Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14159) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14159.md))
 
 ## LLMOps Observability
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2511-05522.md))
+- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15349.md))
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2505-18227.md))
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-16316.md))
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2504-03686.md))
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-02355.md))
-- [Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator](https://arxiv.org/abs/2606.15512) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-15512.md))
+- [Damage Adaptation in Seconds for Architected Materials](https://arxiv.org/abs/2606.17394) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17394.md))
 
 ## Local LLMs
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
+- [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17118.md))
+- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost](https://arxiv.org/abs/2602.03120) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-03120.md))
 - [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (Tier: `useful` | [`Local File`](../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md))
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (Tier: `useful` | [`Local File`](../../ai/models/you-could-have-designed-state-of-the-art-positiona.md))
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily/tavily-deep-research) (Tier: `useful` | [`Local File`](../../ai/models/building-deep-research-how-we-achieved-state-of-th.md))
-- [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily) (Tier: `useful` | [`Local File`](../../ai/models/huggingface-blog-tavily.md))
-- [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (Tier: `useful` | [`Local File`](../../ai/models/codegemma-an-official-google-release-for-code-llms.md))
 
 ## MCP Integrations
 
@@ -236,13 +236,13 @@ This index groups curated resources by target developer skills.
 ## Model Optimization
 
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
+- [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17118.md))
+- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
 - [Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost](https://arxiv.org/abs/2602.03120) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-03120.md))
 - [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 - [BERT 101 - State Of The Art NLP Model Explained](https://huggingface.co/blog/bert-101) (Tier: `useful` | [`Local File`](../../ai/models/bert-101-state-of-the-art-nlp-model-explained.md))
 - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding) (Tier: `useful` | [`Local File`](../../ai/models/you-could-have-designed-state-of-the-art-positiona.md))
 - [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily/tavily-deep-research) (Tier: `useful` | [`Local File`](../../ai/models/building-deep-research-how-we-achieved-state-of-th.md))
-- [Building Deep Research: How we Achieved State of the Art](https://huggingface.co/blog/tavily) (Tier: `useful` | [`Local File`](../../ai/models/huggingface-blog-tavily.md))
-- [CodeGemma - an official Google release for code LLMs](https://huggingface.co/blog/codegemma) (Tier: `useful` | [`Local File`](../../ai/models/codegemma-an-official-google-release-for-code-llms.md))
 
 ## Model Selection
 
@@ -284,9 +284,9 @@ This index groups curated resources by target developer skills.
 - [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (Tier: `useful` | [`Local File`](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md))
 - [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-14654.md))
 - [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-14718.md))
+- [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-01241.md))
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (Tier: `useful` | [`Local File`](../../ai/resources/cyproxio-mcp-for-security.md))
 - [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai) (Tier: `useful` | [`Local File`](../../ai/rag/shivayapandey-product-doc-crewai.md))
-- [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) (Tier: `useful` | [`Local File`](../../ai/agents/hammadhaqqani-awesome-devops-ai.md))
 
 ## Prompt Curation
 
@@ -295,13 +295,13 @@ This index groups curated resources by target developer skills.
 ## Prompt Engineering
 
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
+- [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 - [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
 - [Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection](https://arxiv.org/abs/2606.16344) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16344.md))
-- [Aligned but Stereotypical? How System Prompts Shape Demographic Bias in LLM-Based Text-to-Image Models](https://arxiv.org/abs/2512.04981) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2512-04981.md))
 
 ## REST API Integration
 
@@ -323,11 +323,11 @@ This index groups curated resources by target developer skills.
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
+- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
 - [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-05167.md))
 - [AnchorEdit: Maintaining Temporal Consistency in Multi-turn Image Editing via Causal Memory](https://arxiv.org/abs/2606.11751) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11751.md))
 - [MOSIC: Model-Agnostic Optimal Subgroup Identification with Multi-Constraint for Improved Reliability](https://arxiv.org/abs/2504.20908) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2504-20908.md))
-- [Curvature-Guided Geometric Representation for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/2606.14159) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14159.md))
 
 ## Reranking Pipelines
 
@@ -346,10 +346,10 @@ This index groups curated resources by target developer skills.
 - [Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap](https://arxiv.org/abs/2606.15091) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15091.md))
 - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](https://business-docs.co.uk/downloads/category/rag) (Tier: `useful` | [`Local File`](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
 - [Overcoming the Impedance Mismatch: A Theoretical Roadmap for Fusing Foundation Models and Knowledge Graphs](https://arxiv.org/abs/2606.15656) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15656.md))
+- [Position: Modular Memory is the Key to Continual Learning Agents](https://arxiv.org/abs/2603.01761) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-01761.md))
 - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](https://huggingface.co/blog/prezi-case-study) (Tier: `useful` | [`Local File`](../../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md))
 - [How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap](https://huggingface.co/blog/sempre-health-eap-case-study) (Tier: `useful` | [`Local File`](../../ai/rag/how-sempre-health-is-leveraging-the-expert-acceler.md))
 - [RAG Status Dashboard Roadmap Template - WordLayouts](https://www.wordlayouts.com/template/rag-status-dashboard-roadmap-template) (Tier: `useful` | [`Local File`](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md))
-- [Top LLM Observability platforms 2025](https://agenta.ai/blog/top-llm-observability-platforms) (Tier: `useful` | [`Local File`](../../ai/rag/top-llm-observability-platforms-2025.md))
 
 ## SaaS Architectures
 
@@ -369,9 +369,9 @@ This index groups curated resources by target developer skills.
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
+- [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2604-04089.md))
 - [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
 
 ## Similarity Search
 
@@ -420,13 +420,13 @@ This index groups curated resources by target developer skills.
 ## Structured Outputs
 
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
+- [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 - [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
 - [Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection](https://arxiv.org/abs/2606.16344) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16344.md))
-- [Aligned but Stereotypical? How System Prompts Shape Demographic Bias in LLM-Based Text-to-Image Models](https://arxiv.org/abs/2512.04981) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2512-04981.md))
 
 ## TailwindCSS
 
@@ -490,9 +490,9 @@ This index groups curated resources by target developer skills.
 - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](https://mistral.ai/news/workflows) (Tier: `useful` | [`Local File`](../../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md))
 - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
+- [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2604-04089.md))
 - [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
-- [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
 
 ---
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

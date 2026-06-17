@@ -13,13 +13,14 @@ collected_at: '2026-06-17T02:49:11.398800+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:i-admire-fabrice-bellard-he-is-almost-certainly-a
 first_seen: '2026-06-16T21:39:07.275632+05:30'
 last_seen: '2026-06-17T02:49:11.398800+05:30'
 last_checked: '2026-06-17T02:49:11.398800+05:30'
 health_score: 100
 ---
+
 
 # I admire Fabrice Bellard. He is almost certainly a better overall programmer
 

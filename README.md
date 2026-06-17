@@ -44,33 +44,36 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 3827 |
-| Active resources | 3751 |
-| Inactive resources | 76 |
-| Archive files | 18579 |
+| Resources tracked | 4317 |
+| Active resources | 4239 |
+| Inactive resources | 78 |
+| Archive files | 20643 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-17 02:52 IST |
+| Last meaningful update | 2026-06-17 10:49 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)** (+152 points)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +18)
-- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +18)
-- **[HKUDS/RAG-Anything](ai/rag/hkuds-rag-anything.md)** (Rank: +3339)
-- **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (Rank: +16)
+- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)** (Rank: +1) (+230 points)
+- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Rank: +1) (+165 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +101)
+- **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** (Rank: +100)
+- **[Google Colab](ai/rag/google-colab.md)** (Rank: +15)
 
 #### ✨ New Discoveries
-- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)** (Score: 207)
-- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Score: 53)
-- **[Show HN: Sabela – A Reactive Notebook for Haskell](web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)** (Score: 15)
+- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (Score: 162)
+- **[Leaked OpenAI financials show $38.5B loss and compute burn](ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)** (Score: 128)
+- **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)** (Score: 123)
+- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)** (Score: 84)
+- **[Estimating Individualized Treatment Effects in Acute Ischemic Stroke with Causal Transformation Models (TRAM-DAG): A Multi-Centre Observational Study with External RCT Validation](ai/rag/arxiv-2606-12623.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[Fable ban was never about a jailbreak](ai/community/fable-ban-was-never-about-a-jailbreak.md)**
+- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)**
+- **[Show HN: Sabela – A Reactive Notebook for Haskell](web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

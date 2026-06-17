@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 211 resources matched in the intelligence vault.
+Active signals: 248 resources matched in the intelligence vault.
 Recently detected signals:
-- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md) (Source: Unknown Source) - Collected 2026-06-17
-- [Fine-tuning Stable Diffusion models on Intel CPUs](../ai/models/fine-tuning-stable-diffusion-models-on-intel-cpus.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md) (Source: Unknown Source) - Collected 2026-06-17
+- [DVD: Discrete Voxel Diffusion for 3D Generation and Editing](../ai/rag/arxiv-2605-07971.md) (Source: Unknown Source) - Collected 2026-06-17
+- [Learning Upper Lower Value Envelopes to Shape Online RL: A Principled Approach](../ai/rag/arxiv-2510-19528.md) (Source: Unknown Source) - Collected 2026-06-17
+- [X-REFINE: XAI-based RElevance input-Filtering and archItecture fiNe-tuning for channel Estimation](../ai/research/arxiv-2602-22277.md) (Source: Unknown Source) - Collected 2026-06-17
+- [DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels](../ai/rag/arxiv-2602-11715.md) (Source: Unknown Source) - Collected 2026-06-17
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-17T02:51:54.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-17T10:49:20.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

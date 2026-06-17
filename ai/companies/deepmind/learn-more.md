@@ -3,11 +3,10 @@ title: Learn more
 category: ai/companies/deepmind
 source_type: company_blog
 source_name: Google DeepMind Blog
-source_url: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research
-published_at: '2026-06-17T02:49:15.668855+05:30'
-collected_at: '2026-06-17T02:49:15.668858+05:30'
+source_url: https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning
+published_at: '2026-06-17T10:46:12.987337+05:30'
+collected_at: '2026-06-17T10:46:12.987338+05:30'
 tags:
-- agents
 - blog-post
 - deepmind
 - google-deepmind-blog
@@ -15,8 +14,8 @@ tags:
 status: active
 resource_id: blog:learn-more
 first_seen: '2026-06-16T04:26:32.686042+00:00'
-last_seen: '2026-06-17T02:49:15.668858+05:30'
-last_checked: '2026-06-17T02:49:15.668858+05:30'
+last_seen: '2026-06-17T10:46:12.987338+05:30'
+last_checked: '2026-06-17T10:46:12.987338+05:30'
 health_score: 100
 ---
 
@@ -33,12 +32,11 @@ Official release, policy update, or technical blog post from a core AI company.
 ## Blog Post Details
 
 - Company: Google DeepMind Blog
-- Article URL: https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research
-- Collected At: 2026-06-17T02:49:15.668858+05:30
+- Article URL: https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning
+- Collected At: 2026-06-17T10:46:12.987338+05:30
 
 ## Related Tags
 
-- agents
 - blog-post
 - deepmind
 - google-deepmind-blog

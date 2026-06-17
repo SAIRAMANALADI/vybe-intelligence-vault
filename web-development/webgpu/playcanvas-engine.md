@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/playcanvas/engine
-collected_at: '2026-06-17T02:49:08.854787+05:30'
-published_at: '2026-06-16T20:04:12Z'
+collected_at: '2026-06-17T10:46:11.814595+05:30'
+published_at: '2026-06-17T04:37:01Z'
 tags:
 - threejs
-stars: 16047
+stars: 16051
 language: JavaScript
 status: active
 resource_id: github:playcanvas/engine
 first_seen: '2026-06-16T04:26:16.637267+00:00'
-last_seen: '2026-06-17T02:49:08.854787+05:30'
-last_checked: '2026-06-17T02:49:08.854787+05:30'
+last_seen: '2026-06-17T10:46:11.814595+05:30'
+last_checked: '2026-06-17T10:46:11.814595+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: playcanvas
-- Stars: 16047
-- Forks: 1921
+- Stars: 16051
+- Forks: 1920
 - Language: JavaScript
 - Topics: 3d-gaussian-splatting, 3dgs, game-development, game-engine, gamedev, gaussian-splatting, gltf, hacktoberfest, javascript, nodejs, playcanvas, typescript, virtual-reality, webgl, webgl2, webgpu, webxr
-- Last Updated: 2026-06-16T20:04:12Z
+- Last Updated: 2026-06-17T04:37:01Z
 
 ## Possible Use Cases
 

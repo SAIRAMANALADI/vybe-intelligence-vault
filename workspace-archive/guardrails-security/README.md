@@ -15,7 +15,7 @@ Security guardrails defend against malicious inputs, prompt injections, and data
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (framework - USEFUL Tier)
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (framework - USEFUL Tier)
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (framework - USEFUL Tier)
-- [Side-Channel Attacks Bypass Protection in 3D Printers](https://arxiv.org/abs/2606.13952) (framework - USEFUL Tier)
+- [MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization](https://arxiv.org/abs/2606.17526) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

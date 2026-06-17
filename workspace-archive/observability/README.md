@@ -10,12 +10,12 @@ LLMOps observability tracks costs, latencies, tokens, and trace histories of act
 
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [AIRMap: AI-Generated Radio Maps for Wireless Digital Twins](https://arxiv.org/abs/2511.05522) (framework - USEFUL Tier)
+- [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (framework - USEFUL Tier)
 - [LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization](https://arxiv.org/abs/2606.15349) (dataset - USEFUL Tier)
 - [Token Reduction Should Go Beyond Efficiency in Generative Models -- From Vision, Language to Multimodality](https://arxiv.org/abs/2505.18227) (framework - USEFUL Tier)
 - [RL-Index: Reinforcement Learning for Retrieval Index Reasoning](https://arxiv.org/abs/2606.16316) (framework - USEFUL Tier)
 - [Revisiting Outage for Edge Inference Systems](https://arxiv.org/abs/2504.03686) (framework - USEFUL Tier)
-- [Mitigating Heterogeneity-Induced Drift in Hierarchical Sign-Based Federated Learning](https://arxiv.org/abs/2602.02355) (framework - USEFUL Tier)
-- [Towards Data-Efficient Cross-Device Generalization of Grad-Shafranov Equilibria via Transfer Learning Neural Operator](https://arxiv.org/abs/2606.15512) (framework - USEFUL Tier)
+- [Damage Adaptation in Seconds for Architected Materials](https://arxiv.org/abs/2606.17394) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-17 02:52 IST*
+*Last updated: 2026-06-17 10:49 IST*

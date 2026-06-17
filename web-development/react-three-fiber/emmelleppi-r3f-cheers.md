@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/emmelleppi/r3f-cheers
-collected_at: '2026-06-16T04:26:15.324170+00:00'
-published_at: '2026-06-15T23:53:32Z'
+collected_at: '2026-06-17T10:46:11.694314+05:30'
+published_at: '2026-06-16T22:00:29Z'
 tags:
 - frontend_ui
 - threejs
-stars: 62
+stars: 63
 language: JavaScript
 status: active
 resource_id: github:emmelleppi/r3f-cheers
 first_seen: '2026-06-16T04:26:15.324170+00:00'
-last_seen: '2026-06-16T04:26:15.324170+00:00'
-last_checked: '2026-06-16T04:26:15.324170+00:00'
+last_seen: '2026-06-17T10:46:11.694314+05:30'
+last_checked: '2026-06-17T10:46:11.694314+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: emmelleppi
-- Stars: 62
+- Stars: 63
 - Forks: 8
 - Language: JavaScript
 - Topics: drei, javascript, r3f, react-three-fiber, reactjs, three-js, threejs
-- Last Updated: 2026-06-15T23:53:32Z
+- Last Updated: 2026-06-16T22:00:29Z
 
 ## Possible Use Cases
 
