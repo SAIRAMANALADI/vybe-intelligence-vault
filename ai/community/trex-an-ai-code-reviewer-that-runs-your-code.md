@@ -13,13 +13,14 @@ collected_at: '2026-06-18T02:03:06.907068+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:trex-an-ai-code-reviewer-that-runs-your-code
 first_seen: '2026-06-18T02:03:06.907068+05:30'
 last_seen: '2026-06-18T02:03:06.907068+05:30'
 last_checked: '2026-06-18T02:03:06.907068+05:30'
 health_score: 100
 ---
+
 
 # TREX: An AI code reviewer that runs your code
 

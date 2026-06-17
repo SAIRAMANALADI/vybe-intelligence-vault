@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
 hn_url: https://news.ycombinator.com/item?id=48570948
-score: 262
+score: 312
 author: BerislavLopac
-comments_count: 130
+comments_count: 150
 published_at: '2026-06-17T19:50:44+05:30'
-collected_at: '2026-06-18T02:03:07.436393+05:30'
+collected_at: '2026-06-18T04:23:27.993587+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:ai-demands-more-engineering-discipline-not-less
 first_seen: '2026-06-17T20:12:14.112139+05:30'
-last_seen: '2026-06-18T02:03:07.436393+05:30'
-last_checked: '2026-06-18T02:03:07.436393+05:30'
+last_seen: '2026-06-18T04:23:27.993587+05:30'
+last_checked: '2026-06-18T04:23:27.993587+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by BerislavLopac. Score: 262, Comments: 130.
+Hacker News story by BerislavLopac. Score: 312, Comments: 150.
 Original Link: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: BerislavLopac
-- Score: 262 Upvotes
-- Comments: 130 Discussions
+- Score: 312 Upvotes
+- Comments: 150 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48570948
 - Original Article: https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline
 

@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by zachdive. Score: 100, Comments: 49.
+Hacker News story by zachdive. Score: 133, Comments: 68.
 Original Link: https://github.com/Adam-CAD/CADAM
 
 ## Use Cases

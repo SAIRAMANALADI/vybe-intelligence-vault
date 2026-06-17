@@ -14,13 +14,14 @@ tags:
 - ai
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-hacker-sent-by-anthropic-to-calm-the-governmen
 first_seen: '2026-06-18T02:03:07.787319+05:30'
 last_seen: '2026-06-18T02:03:07.787319+05:30'
 last_checked: '2026-06-18T02:03:07.787319+05:30'
 health_score: 100
 ---
+
 
 # The hacker sent by Anthropic to calm the government's nerves about AI safety
 

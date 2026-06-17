@@ -1,5 +1,5 @@
 ---
-title: AI chemist improves a challenging reaction in medicinal chemistry
+title: Using AI to improve a challenging reaction in medicinal chemistry
 archive_category: model-providers
 source_category: ai/community
 source_url: https://openai.com/index/ai-chemist-improves-reaction
@@ -20,7 +20,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# AI chemist improves a challenging reaction in medicinal chemistry
+# Using AI to improve a challenging reaction in medicinal chemistry
 
 ## Why This Is In The Archive
 
@@ -33,7 +33,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by ilreb. Score: 32, Comments: 12.
+Hacker News story by ilreb. Score: 42, Comments: 17.
 Original Link: https://openai.com/index/ai-chemist-improves-reaction/
 
 ## Use Cases

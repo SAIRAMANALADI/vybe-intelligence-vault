@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by e2e4. Score: 181, Comments: 140.
+Hacker News story by e2e4. Score: 198, Comments: 151.
 Original Link: https://claude.com/blog/the-founders-playbook
 
 ## Use Cases

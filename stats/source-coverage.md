@@ -31,11 +31,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | benchmarkingagents.com | 2 |
 | charitydotwtf.substack.com | 1 |
 | claude.com | 1 |
-| airfields-freeman.com | 1 |
-| nytimes.com | 1 |
-| wsj.com | 1 |
+| arstechnica.com | 1 |
 | ghostinthedata.info | 1 |
-| greptile.com | 1 |
 | mrlatte.net | 1 |
 | colab.research.google.com | 1 |
 | superml.org | 1 |

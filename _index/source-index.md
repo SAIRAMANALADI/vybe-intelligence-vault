@@ -3242,15 +3242,12 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
-  - [AI chemist improves a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
   - [AI demands more engineering discipline. Not less](../ai/community/ai-demands-more-engineering-discipline-not-less.md)
-  - [Abandoned and Little-Known Airfields](../ai/community/abandoned-and-little-known-airfields.md)
-  - [Anthropic employees accuse Trump administration of targeting them](../ai/community/anthropic-employees-accuse-trump-administration-of.md)
   - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
-  - [TREX: An AI code reviewer that runs your code](../ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)
+  - [Leaked financial docs show OpenAI is losing billions of dollars a year](../ai/community/leaked-financial-docs-show-openai-is-losing-billio.md)
   - [The Competitive Moat That AI Can't Replicate](../ai/community/the-competitive-moat-that-ai-can-t-replicate.md)
   - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
-  - [The hacker sent by Anthropic to calm the government's nerves about AI safety](../ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)
+  - [Using AI to improve a challenging reaction in medicinal chemistry](../ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -4282,4 +4279,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-18T02:05:32.459501+05:30*
+*Index generated on 2026-06-18T04:26:09.482810+05:30*

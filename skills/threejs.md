@@ -21,11 +21,11 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 89 resources matched in the intelligence vault.
 Recently detected signals:
-- [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-18
 - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md) (Source: Unknown Source) - Collected 2026-06-18
 - [TiagoCavalcante/r3f-native-orbitcontrols](../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) (Source: Unknown Source) - Collected 2026-06-18
 - [emmelleppi/r3f-cheers](../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) (Source: Unknown Source) - Collected 2026-06-18
 - [ektogamat/r3f-webgpu-starter](../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) (Source: Unknown Source) - Collected 2026-06-18
+- [whoisryosuke/r3f-next-starter](../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T02:05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T04:26:06.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

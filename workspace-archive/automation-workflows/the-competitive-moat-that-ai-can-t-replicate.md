@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by speckx. Score: 60, Comments: 34.
+Hacker News story by speckx. Score: 93, Comments: 76.
 Original Link: https://ghostinthedata.info/posts/2026/2026-06-13-human-connection-moat/
 
 ## Use Cases

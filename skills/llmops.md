@@ -21,11 +21,11 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 248 resources matched in the intelligence vault.
 Recently detected signals:
-- [Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model](../ai/rag/arxiv-2606-09770.md) (Source: Unknown Source) - Collected 2026-06-18
-- [DVD: Discrete Voxel Diffusion for 3D Generation and Editing](../ai/rag/arxiv-2605-07971.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Learning Upper Lower Value Envelopes to Shape Online RL: A Principled Approach](../ai/rag/arxiv-2510-19528.md) (Source: Unknown Source) - Collected 2026-06-18
-- [X-REFINE: XAI-based RElevance input-Filtering and archItecture fiNe-tuning for channel Estimation](../ai/research/arxiv-2602-22277.md) (Source: Unknown Source) - Collected 2026-06-18
-- [DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels](../ai/rag/arxiv-2602-11715.md) (Source: Unknown Source) - Collected 2026-06-18
+- [LLMCodec: Adapting Video Codecs for Efficient Weight Compression of Large Language Models](../ai/rag/arxiv-2606-05861.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking](../ai/research/arxiv-2605-23733.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Rethinking Cross-Layer Information Routing in Diffusion Transformers](../ai/research/arxiv-2605-20708.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion](../ai/research/arxiv-2603-03485.md) (Source: Unknown Source) - Collected 2026-06-18
+- [m2sv: A Scalable Benchmark for Map-to-Street-View Spatial Reasoning](../ai/rag/arxiv-2601-19099.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T02:05:29.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T04:26:06.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

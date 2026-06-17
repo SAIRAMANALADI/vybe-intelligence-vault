@@ -44,39 +44,34 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4346 |
-| Active resources | 4249 |
-| Inactive resources | 97 |
-| Archive files | 20693 |
+| Resources tracked | 4347 |
+| Active resources | 4246 |
+| Inactive resources | 101 |
+| Archive files | 20695 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 02:06 IST |
+| Last meaningful update | 2026-06-18 04:26 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (Rank: +3) (+171 points)
-- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)** (+39 points)
-- **[pixegami/rag-tutorial-v2](ai/rag/pixegami-rag-tutorial-v2.md)** (Rank: +701)
-- **[Google Colab](ai/rag/google-colab.md)** (Rank: +46)
-- **[RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md)** (Rank: +46)
+- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (+50 points)
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Rank: +2) (+33 points)
+- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)** (Rank: +2) (+33 points)
+- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (+17 points)
+- **[Using AI to improve a challenging reaction in medicinal chemistry](ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)** (Rank: +3) (+10 points)
 
 #### ✨ New Discoveries
-- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (Score: 181)
-- **[Anthropic employees accuse Trump administration of targeting them](ai/community/anthropic-employees-accuse-trump-administration-of.md)** (Score: 134)
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Score: 100)
-- **[The hacker sent by Anthropic to calm the government's nerves about AI safety](ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)** (Score: 60)
-- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)** (Score: 60)
+- **[Leaked financial docs show OpenAI is losing billions of dollars a year](ai/community/leaked-financial-docs-show-openai-is-losing-billio.md)** (Score: 95)
 
 #### 💤 Recently Inactive Resources
-- **[Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](ai/community/sixty-percent-of-us-consumers-say-ai-in-brand-mess.md)**
-- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)**
-- **[Show HN: I built 184 free browser tools – PDF, image, dev, AI tasks, no upload](ai/community/show-hn-i-built-184-free-browser-tools-pdf-image-d.md)**
-- **[Pentagon boasts of using AI to write reports mandated by Congress (1.5mil users)](ai/community/pentagon-boasts-of-using-ai-to-write-reports-manda.md)**
-- **[Open-source React UI and D-pad focus engine for Meta Ray-Ban Display](web-development/community/open-source-react-ui-and-d-pad-focus-engine-for-me.md)**
+- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)**
+- **[Anthropic employees accuse Trump administration of targeting them](ai/community/anthropic-employees-accuse-trump-administration-of.md)**
+- **[The hacker sent by Anthropic to calm the government's nerves about AI safety](ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)**
+- **[TREX: An AI code reviewer that runs your code](ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
