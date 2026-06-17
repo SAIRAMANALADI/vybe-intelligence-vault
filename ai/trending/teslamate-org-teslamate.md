@@ -9,13 +9,14 @@ collected_at: '2026-06-17T10:46:11.978782+05:30'
 tags:
 - elixir
 - github-trending
-status: active
+status: inactive
 resource_id: github:teslamate-org/teslamate
 first_seen: '2026-06-16T13:57:13.167539+05:30'
 last_seen: '2026-06-17T10:46:11.978782+05:30'
 last_checked: '2026-06-17T10:46:11.978782+05:30'
 health_score: 100
 ---
+
 
 # teslamate-org/teslamate
 

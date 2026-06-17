@@ -13,13 +13,14 @@ collected_at: '2026-06-17T10:46:15.672738+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:apple-is-about-to-make-hide-my-email-useless
 first_seen: '2026-06-17T02:49:09.936966+05:30'
 last_seen: '2026-06-17T10:46:15.672738+05:30'
 last_checked: '2026-06-17T10:46:15.672738+05:30'
 health_score: 100
 ---
+
 
 # Apple is about to make Hide My Email useless
 

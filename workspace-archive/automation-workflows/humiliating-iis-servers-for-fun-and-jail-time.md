@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by denysvitali. Score: 162, Comments: 31.
+Hacker News story by denysvitali. Score: 279, Comments: 65.
 Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
 
 ## Use Cases

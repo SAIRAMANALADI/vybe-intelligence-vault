@@ -4,19 +4,18 @@ category: ai/trending
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/krahets/hello-algo
-published_at: '2026-06-16T13:57:13.168229+05:30'
-collected_at: '2026-06-16T13:57:13.168232+05:30'
+published_at: '2026-06-17T16:47:27.411206+05:30'
+collected_at: '2026-06-17T16:47:27.411209+05:30'
 tags:
 - github-trending
 - java
-status: inactive
+status: active
 resource_id: github:krahets/hello-algo
 first_seen: '2026-06-16T13:57:13.168232+05:30'
-last_seen: '2026-06-16T13:57:13.168232+05:30'
-last_checked: '2026-06-16T13:57:13.168232+05:30'
+last_seen: '2026-06-17T16:47:27.411209+05:30'
+last_checked: '2026-06-17T16:47:27.411209+05:30'
 health_score: 100
 ---
-
 
 # krahets/hello-algo
 
@@ -32,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/trending
-- Published: 2026-06-16T13:57:13.168229+05:30
+- Published: 2026-06-17T16:47:27.411206+05:30
 
 ## Related Tags
 

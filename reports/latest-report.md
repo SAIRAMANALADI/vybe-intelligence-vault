@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-17T10:49:51.550836+05:30`
+Generated at: `2026-06-17T16:50:41.706451+05:30`
 
 ## Executive Summary
 
@@ -8,47 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **Humiliating IIS servers for fun and jail time** - Score: `162` in category `ai/community` ([Link](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time)) ([File](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md))
-- **Leaked OpenAI financials show $38.5B loss and compute burn** - Score: `128` in category `ai/community` ([Link](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)) ([File](../ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md))
-- **Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More** - Score: `123` in category `ai/community` ([Link](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality)) ([File](../ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md))
-- **Stop Killing Games fails to secure EU law despite 1.3M signatures** - Score: `84` in category `ai/community` ([Link](https://dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431)) ([File](../ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md))
-- **Estimating Individualized Treatment Effects in Acute Ischemic Stroke with Causal Transformation Models (TRAM-DAG): A Multi-Centre Observational Study with External RCT Validation** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.12623)) ([File](../ai/rag/arxiv-2606-12623.md))
-- **Discovering Functionally Selective Brain Regions with a Deep Topographic Multimodal Model** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.09770)) ([File](../ai/rag/arxiv-2606-09770.md))
-- **Data augmented bootstrap: Unifying confidence interval construction by approximate invariance** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.09049)) ([File](../ai/rag/arxiv-2606-09049.md))
-- **Continuous Language Diffusion as a Decoder-Interface Problem** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.08810)) ([File](../ai/rag/arxiv-2606-08810.md))
-- **Priors Persist Through Suppression: A Stroop Paradigm for Lexical Override** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2606.07555)) ([File](../ai/research/arxiv-2606-07555.md))
-- **Reward hacking in physical reinforcement learning revealed by turbulent drag reduction** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2606.06227)) ([File](../ai/rag/arxiv-2606-06227.md))
-- **A 3D Isovist World Model -- Revealing a City's Unseen Geometry and Its Emergent Cross-City Signature** - Score: `0` in category `ai/agents` ([Link](https://arxiv.org/abs/2606.03609)) ([File](../ai/agents/arxiv-2606-03609.md))
-- **Eigen-Spike Emergence and Quadratic Equivalents for Conjugate Kernels on Nonlinearly Separable Data** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2605.29669)) ([File](../ai/research/arxiv-2605-29669.md))
-- **DVD: Discrete Voxel Diffusion for 3D Generation and Editing** - Score: `0` in category `ai/rag` ([Link](https://arxiv.org/abs/2605.07971)) ([File](../ai/rag/arxiv-2605-07971.md))
-- **Dissociating Decodability and Causal Use in Bracket-Sequence Transformers** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2604.22128)) ([File](../ai/research/arxiv-2604-22128.md))
-- **Evaluating Intersectional Fairness across Clinical Machine Learning Use Cases using Fairlogue and the All of Us Research Program** - Score: `0` in category `ai/research` ([Link](https://arxiv.org/abs/2604.16450)) ([File](../ai/research/arxiv-2604-16450.md))
+- **The founder's playbook: Building an AI-native startup** - Score: `102` in category `ai/community` ([Link](https://claude.com/blog/the-founders-playbook)) ([File](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md))
+- **Making 'food out of thin air' (2024)** - Score: `23` in category `ai/community` ([Link](https://noemamag.com/making-food-out-of-thin-air)) ([File](../ai/community/making-food-out-of-thin-air-2024.md))
+- **bytedance/UI-TARS-desktop** - Score: `0` in category `ai/agents` ([Link](https://github.com/bytedance/ui-tars-desktop)) ([File](../ai/agents/bytedance-ui-tars-desktop.md))
+- **yairm210/Unciv** - Score: `0` in category `ai/trending` ([Link](https://github.com/yairm210/unciv)) ([File](../ai/trending/yairm210-unciv.md))
+- **mattpocock/skills** - Score: `0` in category `ai/trending` ([Link](https://github.com/mattpocock/skills)) ([File](../ai/trending/mattpocock-skills.md))
+- **penpot/penpot** - Score: `0` in category `ai/trending` ([Link](https://github.com/penpot/penpot)) ([File](../ai/trending/penpot-penpot.md))
+- **continuedev/continue** - Score: `0` in category `ai/agents` ([Link](https://github.com/continuedev/continue)) ([File](../ai/agents/continuedev-continue.md))
+- **RocketChat/Rocket.Chat** - Score: `0` in category `ai/trending` ([Link](https://github.com/rocketchat/rocket.chat)) ([File](../ai/trending/rocketchat-rocket-chat.md))
+- **google-research/timesfm** - Score: `0` in category `ai/trending` ([Link](https://github.com/google-research/timesfm)) ([File](../ai/trending/google-research-timesfm.md))
+- **obra/superpowers** - Score: `0` in category `ai/agents` ([Link](https://github.com/obra/superpowers)) ([File](../ai/agents/obra-superpowers.md))
+- **DeusData/codebase-memory-mcp** - Score: `0` in category `ai/rag` ([Link](https://github.com/deusdata/codebase-memory-mcp)) ([File](../ai/rag/deusdata-codebase-memory-mcp.md))
+- **GLM-5.2: Built for Long-Horizon Tasks** - Score: `0` in category `ai/models` ([Link](https://huggingface.co/blog/zai-org/glm-52-blog)) ([File](../ai/models/huggingface-blog-zai-org-glm-52-blog.md))
+- **From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot** - Score: `0` in category `ai/agents` ([Link](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware)) ([File](../ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md))
+- **krahets/hello-algo** - Score: `0` in category `ai/trending` ([Link](https://github.com/krahets/hello-algo)) ([File](../ai/trending/krahets-hello-algo.md))
+- **Panniantong/Agent-Reach** - Score: `0` in category `ai/agents` ([Link](https://github.com/panniantong/agent-reach)) ([File](../ai/agents/panniantong-agent-reach.md))
 
 ## 🔥 Top Trending Resources
 
-- **Apple is about to make Hide My Email useless** - Score: `437` (+230), Rank Change: `+1` ([File](../ai/community/apple-is-about-to-make-hide-my-email-useless.md))
-- **Has AI already killed self-help nonfiction books?** - Score: `218` (+165), Rank Change: `+1` ([File](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md))
-- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+101` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium** - Score: `0` (0), Rank Change: `+100` ([File](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md))
-- **Google Colab** - Score: `0` (0), Rank Change: `+15` ([File](../ai/rag/google-colab.md))
-- **RAG System with LangChain and LangGraph - GeeksforGeeks** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
-- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - Score: `0` (0), Rank Change: `+2` ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
-- **Building a RAG Application - GeeksforGeeks** - Score: `0` (0), Rank Change: `+4` ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - Score: `0` (0), Rank Change: `+5` ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+16` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **Stop Killing Games fails to secure EU law despite 1.3M signatures** - Score: `270` (+186), Rank Change: `+3` ([File](../ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md))
+- **Humiliating IIS servers for fun and jail time** - Score: `279` (+117), Rank Change: `+1` ([File](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md))
+- **Has AI already killed self-help nonfiction books?** - Score: `320` (+102), Rank Change: `+1` ([File](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md))
+- **krishnaik06/RAG-Tutorials** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/krishnaik06-rag-tutorials.md))
+- **pixegami/langchain-rag-tutorial** - Score: `0` (0), Rank Change: `+1847` ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **HKUDS/RAG-Anything** - Score: `0` (0), Rank Change: `+505` ([File](../ai/rag/hkuds-rag-anything.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+2668` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+2668` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+2668` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - Score: `0` (0), Rank Change: `+507` ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **Unlocking the power of unstructured data with RAG - The GitHub Blog** - (Rank Change: `+2174`) ([File](../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md))
-- **krishnaik06/RAG-Tutorials** - (Rank Change: `+101`) ([File](../ai/rag/krishnaik06-rag-tutorials.md))
-- **RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium** - (Rank Change: `+100`) ([File](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md))
-- **datawhalechina/llm-universe** - (Rank Change: `+16`) ([File](../ai/rag/datawhalechina-llm-universe.md))
-- **Google Colab** - (Rank Change: `+15`) ([File](../ai/rag/google-colab.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+8`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org** - (Rank Change: `+7`) ([File](../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md))
-- **7 Best GitHub Repositories For Mastering RAG Systems** - (Rank Change: `+5`) ([File](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md))
-- **Building a RAG Application - GeeksforGeeks** - (Rank Change: `+4`) ([File](../ai/rag/building-a-rag-application-geeksforgeeks.md))
-- **19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations** - (Rank Change: `+4`) ([File](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+2668`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+2668`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+2668`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **pixegami/langchain-rag-tutorial** - (Rank Change: `+1847`) ([File](../ai/rag/pixegami-langchain-rag-tutorial.md))
+- **LightRAG** - (Rank Change: `+572`) ([File](../ai/rag/lightrag.md))
+- **Retrieval-Augmented Generation (RAG) — RAG multi model documentation** - (Rank Change: `+508`) ([File](../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md))
+- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+507`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
+- **HKUDS/RAG-Anything** - (Rank Change: `+505`) ([File](../ai/rag/hkuds-rag-anything.md))
+- **Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium** - (Rank Change: `+497`) ([File](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md))
+- **Build a RAG agent with LangChain - Docs by LangChain** - (Rank Change: `+492`) ([File](../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -59,5 +59,13 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-- **I admire Fabrice Bellard. He is almost certainly a better overall programmer** (Category: `ai/community`) ([File](../ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md))
-- **Show HN: Sabela – A Reactive Notebook for Haskell** (Category: `web-development/community`) ([File](../web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md))
+- **Apple is about to make Hide My Email useless** (Category: `ai/community`) ([File](../ai/community/apple-is-about-to-make-hide-my-email-useless.md))
+- **Leaked OpenAI financials show $38.5B loss and compute burn** (Category: `ai/community`) ([File](../ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md))
+- **Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More** (Category: `ai/community`) ([File](../ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md))
+- **rmyndharis/OpenWA** (Category: `ai/trending`) ([File](../ai/trending/rmyndharis-openwa.md))
+- **alibaba/zvec** (Category: `ai/rag`) ([File](../ai/rag/alibaba-zvec.md))
+- **OpenBMB/VoxCPM** (Category: `ai/trending`) ([File](../ai/trending/openbmb-voxcpm.md))
+- **cypress-io/cypress** (Category: `ai/trending`) ([File](../ai/trending/cypress-io-cypress.md))
+- **puppeteer/puppeteer** (Category: `ai/trending`) ([File](../ai/trending/puppeteer-puppeteer.md))
+- **swc-project/swc** (Category: `ai/trending`) ([File](../ai/trending/swc-project-swc.md))
+- **music-assistant/server** (Category: `ai/trending`) ([File](../ai/trending/music-assistant-server.md))

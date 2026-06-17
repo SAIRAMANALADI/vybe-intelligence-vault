@@ -4,8 +4,8 @@ category: ai/companies/openai
 source_type: company_blog
 source_name: OpenAI News
 source_url: https://openai.com/news/applied-ai
-published_at: '2026-06-17T10:46:12.016832+05:30'
-collected_at: '2026-06-17T10:46:12.016833+05:30'
+published_at: '2026-06-17T16:47:26.006075+05:30'
+collected_at: '2026-06-17T16:47:26.006078+05:30'
 tags:
 - blog-post
 - openai
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: blog:applied-ai
 first_seen: '2026-06-16T04:26:31.360519+00:00'
-last_seen: '2026-06-17T10:46:12.016833+05:30'
-last_checked: '2026-06-17T10:46:12.016833+05:30'
+last_seen: '2026-06-17T16:47:26.006078+05:30'
+last_checked: '2026-06-17T16:47:26.006078+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: OpenAI News
 - Article URL: https://openai.com/news/applied-ai
-- Collected At: 2026-06-17T10:46:12.016833+05:30
+- Collected At: 2026-06-17T16:47:26.006078+05:30
 
 ## Related Tags
 

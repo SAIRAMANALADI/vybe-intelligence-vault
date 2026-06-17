@@ -46,4 +46,4 @@ Original source URL: https://github.com/panniantong/agent-reach
 
 ## Local Vault File
 
-Path: [panniantong-agent-reach.md](file:///../../ai/agents/panniantong-agent-reach.md)
+Path: [panniantong-agent-reach.md](../../ai/agents/panniantong-agent-reach.md)

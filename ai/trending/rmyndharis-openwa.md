@@ -9,13 +9,14 @@ collected_at: '2026-06-17T10:46:11.979916+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:rmyndharis/openwa
 first_seen: '2026-06-16T21:39:07.966821+05:30'
 last_seen: '2026-06-17T10:46:11.979916+05:30'
 last_checked: '2026-06-17T10:46:11.979916+05:30'
 health_score: 100
 ---
+
 
 # rmyndharis/OpenWA
 

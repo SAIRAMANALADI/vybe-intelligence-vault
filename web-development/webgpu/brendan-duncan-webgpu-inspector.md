@@ -4,7 +4,7 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/brendan-duncan/webgpu_inspector
-collected_at: '2026-06-16T04:26:16.637147+00:00'
+collected_at: '2026-06-17T16:47:25.859809+05:30'
 published_at: '2026-06-16T01:42:31Z'
 tags:
 - threejs
@@ -13,8 +13,8 @@ language: JavaScript
 status: active
 resource_id: github:brendan-duncan/webgpu_inspector
 first_seen: '2026-06-16T04:26:16.637147+00:00'
-last_seen: '2026-06-16T04:26:16.637147+00:00'
-last_checked: '2026-06-16T04:26:16.637147+00:00'
+last_seen: '2026-06-17T16:47:25.859809+05:30'
+last_checked: '2026-06-17T16:47:25.859809+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: brendan-duncan
 - Stars: 338
-- Forks: 19
+- Forks: 20
 - Language: JavaScript
 - Topics: chrome-extensions, developer-tools, graphics, webgpu, wgsl
 - Last Updated: 2026-06-16T01:42:31Z

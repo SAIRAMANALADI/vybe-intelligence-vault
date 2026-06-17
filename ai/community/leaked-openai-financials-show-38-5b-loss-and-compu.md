@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:leaked-openai-financials-show-38-5b-loss-and-compu
 first_seen: '2026-06-17T10:46:11.523723+05:30'
 last_seen: '2026-06-17T10:46:11.523723+05:30'
 last_checked: '2026-06-17T10:46:11.523723+05:30'
 health_score: 100
 ---
+
 
 # Leaked OpenAI financials show $38.5B loss and compute burn
 

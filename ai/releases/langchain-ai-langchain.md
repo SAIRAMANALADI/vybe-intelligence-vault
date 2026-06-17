@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/langchain-ai/langchain
 published_at: '2026-06-13T05:42:30Z'
-collected_at: '2026-06-17T10:46:14.042427+05:30'
+collected_at: '2026-06-17T16:47:27.809443+05:30'
 tags:
 - github-release
 - langchain-ai-langchain
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:langchain-ai/langchain
 first_seen: '2026-06-16T13:57:14.246405+05:30'
-last_seen: '2026-06-17T10:46:14.042427+05:30'
-last_checked: '2026-06-17T10:46:14.042427+05:30'
+last_seen: '2026-06-17T16:47:27.809443+05:30'
+last_checked: '2026-06-17T16:47:27.809443+05:30'
 health_score: 100
 ---
 

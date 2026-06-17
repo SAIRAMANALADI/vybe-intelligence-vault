@@ -10,13 +10,14 @@ tags:
 - github-trending
 - reddit
 - typescript
-status: active
+status: inactive
 resource_id: github:puppeteer/puppeteer
 first_seen: '2026-06-16T17:27:26.088950+05:30'
 last_seen: '2026-06-17T10:46:11.979076+05:30'
 last_checked: '2026-06-17T10:46:11.979076+05:30'
 health_score: 100
 ---
+
 
 # puppeteer/puppeteer
 

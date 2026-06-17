@@ -9,13 +9,14 @@ collected_at: '2026-06-17T10:46:11.979688+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:openbmb/voxcpm
 first_seen: '2026-06-16T17:27:26.089978+05:30'
 last_seen: '2026-06-17T10:46:11.979688+05:30'
 last_checked: '2026-06-17T10:46:11.979688+05:30'
 health_score: 100
 ---
+
 
 # OpenBMB/VoxCPM
 

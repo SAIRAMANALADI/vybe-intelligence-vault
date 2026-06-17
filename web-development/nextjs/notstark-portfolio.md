@@ -4,18 +4,18 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/notstark/portfolio
-collected_at: '2026-06-16T17:27:23.991291+05:30'
-published_at: '2026-06-07T16:07:29Z'
+collected_at: '2026-06-17T16:47:26.171322+05:30'
+published_at: '2026-06-17T05:33:40Z'
 tags:
 - creative_dev
 - frontend_ui
-stars: 122
+stars: 121
 language: TypeScript
 status: active
 resource_id: github:notstark/portfolio
 first_seen: '2026-06-11T08:45:43.851307+00:00'
-last_seen: '2026-06-16T17:27:23.991291+05:30'
-last_checked: '2026-06-16T17:27:23.991291+05:30'
+last_seen: '2026-06-17T16:47:26.171322+05:30'
+last_checked: '2026-06-17T16:47:26.171322+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: NotStark
-- Stars: 122
+- Stars: 121
 - Forks: 31
 - Language: TypeScript
 - Topics: developer-portfolio, inspiration, nextjs, nextjs15, portfolio, postgress, prisma, prisma-orm, react, shadcn
-- Last Updated: 2026-06-07T16:07:29Z
+- Last Updated: 2026-06-17T05:33:40Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: ai/rag
 source_type: github
 source_name: GitHub Discovery
 source_url: https://github.com/pixegami/langchain-rag-tutorial
-collected_at: '2026-06-15T06:38:16.098835+00:00'
+collected_at: '2026-06-17T16:49:29.512231+05:30'
 published_at: '2026-06-14T14:09:13Z'
 tags:
 - github-repo
@@ -17,9 +17,9 @@ archived: false
 created_at: '2023-11-13T09:14:54Z'
 pushed_at: '2024-07-31T23:46:44Z'
 resource_id: github:pixegami/langchain-rag-tutorial
-first_seen: '2026-06-15T06:38:16.098835+00:00'
-last_seen: '2026-06-15T06:38:16.098835+00:00'
-last_checked: '2026-06-15T06:38:16.098835+00:00'
+first_seen: '2026-06-17T16:49:29.512231+05:30'
+last_seen: '2026-06-17T16:49:29.512231+05:30'
+last_checked: '2026-06-17T16:49:29.512231+05:30'
 health_score: 100
 ---
 
@@ -37,7 +37,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 
 - Owner: pixegami
 - Stars: 962
-- Forks: 516
+- Forks: 517
 - Language: Python
 - Topics: None
 - Last Updated: 2026-06-14T14:09:13Z

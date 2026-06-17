@@ -9,13 +9,14 @@ collected_at: '2026-06-17T10:46:11.978642+05:30'
 tags:
 - github-trending
 - rust
-status: active
+status: inactive
 resource_id: github:swc-project/swc
 first_seen: '2026-06-16T17:27:26.088490+05:30'
 last_seen: '2026-06-17T10:46:11.978642+05:30'
 last_checked: '2026-06-17T10:46:11.978642+05:30'
 health_score: 100
 ---
+
 
 # swc-project/swc
 

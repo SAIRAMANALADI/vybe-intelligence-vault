@@ -44,36 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4317 |
-| Active resources | 4239 |
-| Inactive resources | 78 |
-| Archive files | 20643 |
+| Resources tracked | 4330 |
+| Active resources | 4242 |
+| Inactive resources | 88 |
+| Archive files | 20666 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-17 10:49 IST |
+| Last meaningful update | 2026-06-17 16:50 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)** (Rank: +1) (+230 points)
-- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Rank: +1) (+165 points)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +101)
-- **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** (Rank: +100)
-- **[Google Colab](ai/rag/google-colab.md)** (Rank: +15)
+- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)** (Rank: +3) (+186 points)
+- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (Rank: +1) (+117 points)
+- **[Has AI already killed self-help nonfiction books?](ai/community/has-ai-already-killed-self-help-nonfiction-books.md)** (Rank: +1) (+102 points)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +1)
+- **[pixegami/langchain-rag-tutorial](ai/rag/pixegami-langchain-rag-tutorial.md)** (Rank: +1847)
 
 #### ✨ New Discoveries
-- **[Humiliating IIS servers for fun and jail time](ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)** (Score: 162)
-- **[Leaked OpenAI financials show $38.5B loss and compute burn](ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)** (Score: 128)
-- **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)** (Score: 123)
-- **[Stop Killing Games fails to secure EU law despite 1.3M signatures](ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)** (Score: 84)
-- **[Estimating Individualized Treatment Effects in Acute Ischemic Stroke with Causal Transformation Models (TRAM-DAG): A Multi-Centre Observational Study with External RCT Validation](ai/rag/arxiv-2606-12623.md)** (Score: 0)
+- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (Score: 102)
+- **[Making 'food out of thin air' (2024)](ai/community/making-food-out-of-thin-air-2024.md)** (Score: 23)
+- **[bytedance/UI-TARS-desktop](ai/agents/bytedance-ui-tars-desktop.md)** (Score: 0)
+- **[yairm210/Unciv](ai/trending/yairm210-unciv.md)** (Score: 0)
+- **[mattpocock/skills](ai/trending/mattpocock-skills.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[I admire Fabrice Bellard. He is almost certainly a better overall programmer](ai/community/i-admire-fabrice-bellard-he-is-almost-certainly-a.md)**
-- **[Show HN: Sabela – A Reactive Notebook for Haskell](web-development/community/show-hn-sabela-a-reactive-notebook-for-haskell.md)**
+- **[Apple is about to make Hide My Email useless](ai/community/apple-is-about-to-make-hide-my-email-useless.md)**
+- **[Leaked OpenAI financials show $38.5B loss and compute burn](ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)**
+- **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)**
+- **[rmyndharis/OpenWA](ai/trending/rmyndharis-openwa.md)**
+- **[alibaba/zvec](ai/rag/alibaba-zvec.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

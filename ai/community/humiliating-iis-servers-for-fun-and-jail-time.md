@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time
 hn_url: https://news.ycombinator.com/item?id=48563394
-score: 162
+score: 279
 author: denysvitali
-comments_count: 31
+comments_count: 65
 published_at: '2026-06-17T04:23:34+05:30'
-collected_at: '2026-06-17T10:46:12.028261+05:30'
+collected_at: '2026-06-17T16:47:26.108684+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:humiliating-iis-servers-for-fun-and-jail-time
 first_seen: '2026-06-17T10:46:12.028261+05:30'
-last_seen: '2026-06-17T10:46:12.028261+05:30'
-last_checked: '2026-06-17T10:46:12.028261+05:30'
+last_seen: '2026-06-17T16:47:26.108684+05:30'
+last_checked: '2026-06-17T16:47:26.108684+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by denysvitali. Score: 162, Comments: 31.
+Hacker News story by denysvitali. Score: 279, Comments: 65.
 Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: denysvitali
-- Score: 162 Upvotes
-- Comments: 31 Discussions
+- Score: 279 Upvotes
+- Comments: 65 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48563394
 - Original Article: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time
 

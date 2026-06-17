@@ -10,13 +10,14 @@ tags:
 - github-trending
 - typescript
 - youtube
-status: active
+status: inactive
 resource_id: github:iptv-org/iptv
 first_seen: '2026-06-16T13:57:13.167327+05:30'
 last_seen: '2026-06-17T10:46:11.978904+05:30'
 last_checked: '2026-06-17T10:46:11.978904+05:30'
 health_score: 100
 ---
+
 
 # iptv-org/iptv
 

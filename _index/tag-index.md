@@ -329,6 +329,7 @@ Resources organized by keyword tags.
   - [From Shield to Target: Denial-of-Service Attacks on LLM-Based Agent Guardrails](../ai/agents/arxiv-2606-14517.md)
   - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](../ai/rag/arxiv-2606-16231.md)
   - [From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification](../ai/rag/arxiv-2606-13262.md)
+  - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](../ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md)
   - [FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback](../ai/rag/arxiv-2601-04203.md)
   - [Frontier: Towards Comprehensive and Accurate LLM Inference Simulation](../ai/rag/arxiv-2605-21312.md)
   - [Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents](../ai/rag/arxiv-2606-13097.md)
@@ -573,6 +574,7 @@ Resources organized by keyword tags.
   - [PRISM: Perception Reasoning Interleaved for Sequential Decision Making](../ai/agents/arxiv-2605-05407.md)
   - [PRInTS: Reward Modeling for Long-Horizon Information Seeking](../ai/agents/arxiv-2511-19314.md)
   - [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](../ai/rag/arxiv-2606-12329.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving](../ai/rag/arxiv-2603-18897.md)
   - [ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking](../ai/rag/arxiv-2606-17082.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
@@ -869,12 +871,14 @@ Resources organized by keyword tags.
   - [bhancockio/crewai-updated-tutorial-hierarchical](../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md)
   - [bhancockio/nextjs-crewai-basic-tutorial](../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md)
   - [bluehands/GirlsDay2026](../ai/agents/bluehands-girlsday2026.md)
+  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
   - [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026.md)
   - [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md)
   - [codebasics/crewai-crash-course](../ai/agents/codebasics-crewai-crash-course.md)
   - [codewithaarohi/OpenAI-Agents-SDK](../ai/agents/codewithaarohi-openai-agents-sdk.md)
   - [codewithaarohi/OpenAI-Agents-SDK-](../ai/agents/codewithaarohi-openai-agents-sdk-2.md)
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md)
+  - [continuedev/continue](../ai/agents/continuedev-continue.md)
   - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [croppers/crewai](../ai/agents/croppers-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
@@ -927,6 +931,7 @@ Resources organized by keyword tags.
   - [neocypher-x/openai-agents-sdk-tutorial](../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
   - [nixopus/nixopus](../ai/agents/nixopus-nixopus.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
+  - [obra/superpowers](../ai/agents/obra-superpowers.md)
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [parallel75/Microsoft_AutoGen_Tutorial](../ai/agents/parallel75-microsoft-autogen-tutorial.md)
@@ -965,12 +970,11 @@ Resources organized by keyword tags.
 
 ## ai
 
-  - [Apple is about to make Hide My Email useless](../ai/community/apple-is-about-to-make-hide-my-email-useless.md)
   - [Has AI already killed self-help nonfiction books?](../ai/community/has-ai-already-killed-self-help-nonfiction-books.md)
   - [Humiliating IIS servers for fun and jail time](../ai/community/humiliating-iis-servers-for-fun-and-jail-time.md)
-  - [Leaked OpenAI financials show $38.5B loss and compute burn](../ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)
+  - [Making 'food out of thin air' (2024)](../ai/community/making-food-out-of-thin-air-2024.md)
   - [Stop Killing Games fails to secure EU law despite 1.3M signatures](../ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md)
-  - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](../ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
 
 ## animation
 
@@ -1121,6 +1125,7 @@ Resources organized by keyword tags.
   - [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md)
   - [Top 5 Open-Source Agentic AI Frameworks in 2026](../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md)
@@ -1145,6 +1150,7 @@ Resources organized by keyword tags.
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
+  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md)
@@ -2415,11 +2421,12 @@ Resources organized by keyword tags.
 
 ## c
 
+  - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
   - [dorisoy/FFmpeg.AutoGen.Toolkit](../ai/agents/dorisoy-ffmpeg-autogen-toolkit.md)
 
-## c++
+## clojure
 
-  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
+  - [penpot/penpot](../ai/trending/penpot-penpot.md)
 
 ## creative_dev
 
@@ -3163,10 +3170,6 @@ Resources organized by keyword tags.
 
   - [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md)
 
-## elixir
-
-  - [teslamate-org/teslamate](../ai/trending/teslamate-org-teslamate.md)
-
 ## framer_motion
 
   - [SVoT: State-aware Visualization-of-Thought for Spatial Reasoning via Reinforcement Learning](../ai/research/arxiv-2606-11770.md)
@@ -3638,19 +3641,21 @@ Resources organized by keyword tags.
 
 ## github-trending
 
-  - [OpenBMB/VoxCPM](../ai/trending/openbmb-voxcpm.md)
+  - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
+  - [RocketChat/Rocket.Chat](../ai/trending/rocketchat-rocket-chat.md)
   - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)
-  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
-  - [cypress-io/cypress](../ai/trending/cypress-io-cypress.md)
+  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
+  - [continuedev/continue](../ai/agents/continuedev-continue.md)
   - [freeCodeCamp/freeCodeCamp](../ai/trending/freecodecamp-freecodecamp.md)
-  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
+  - [google-research/timesfm](../ai/trending/google-research-timesfm.md)
+  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
+  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
   - [meshery/meshery](../ai/trending/meshery-meshery.md)
-  - [music-assistant/server](../ai/trending/music-assistant-server.md)
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
-  - [puppeteer/puppeteer](../ai/trending/puppeteer-puppeteer.md)
-  - [rmyndharis/OpenWA](../ai/trending/rmyndharis-openwa.md)
-  - [swc-project/swc](../ai/trending/swc-project-swc.md)
-  - [teslamate-org/teslamate](../ai/trending/teslamate-org-teslamate.md)
+  - [obra/superpowers](../ai/agents/obra-superpowers.md)
+  - [penpot/penpot](../ai/trending/penpot-penpot.md)
+  - [yairm210/Unciv](../ai/trending/yairm210-unciv.md)
 
 ## go
 
@@ -3723,7 +3728,6 @@ Resources organized by keyword tags.
   - [An Integrated System for Real-Time Student Assessment and Career Guidance Using Neural Networks in Computing Disciplines](../ai/research/arxiv-2606-15831.md)
   - [An integrated interpretable control effectiveness learning and nonlinear control allocation methodology for overactuated aircrafts](../ai/research/arxiv-2606-13794.md)
   - [Analytic Bijections for Smooth and Interpretable Normalizing Flows](../ai/research/arxiv-2601-10774.md)
-  - [Apple is about to make Hide My Email useless](../ai/community/apple-is-about-to-make-hide-my-email-useless.md)
   - [Application of Artificial Intelligence and Machine Learning in Libraries: A Systematic Review](../ai/research/arxiv-2112-04573.md)
   - [Artificial Intelligence Index Report 2026](../ai/research/arxiv-2606-15708.md)
   - [Artificial Intelligence in Ship Finance: Applications, Opportunities, and a Case Study in AI-Augmented Loan Origination](../ai/agents/arxiv-2606-11238.md)
@@ -3867,7 +3871,6 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
   - [Language Model Circuits Are Sparse in the Neuron Basis](../ai/research/arxiv-2601-22594.md)
-  - [Leaked OpenAI financials show $38.5B loss and compute burn](../ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
   - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md)
   - [Learning Fair Pareto-Optimal Policies in Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-18111.md)
@@ -3881,6 +3884,7 @@ Resources organized by keyword tags.
   - [Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale](../ai/agents/arxiv-2606-15079.md)
   - [Lyapunov-Based Sample Complexity Analysis for Weakly-Coupled MDPs](../ai/rag/arxiv-2606-14095.md)
   - [Machine learning enables roughness-driven inverse design of milling processes](../ai/rag/arxiv-2606-16032.md)
+  - [Making 'food out of thin air' (2024)](../ai/community/making-food-out-of-thin-air-2024.md)
   - [Market Design for AI: Beyond the Copyright Binary](../ai/research/arxiv-2606-12260.md)
   - [Mastering Chunking Strategies for RAG: Best Practices & Code Examples](../ai/rag/mastering-chunking-strategies-for-rag-best-practic.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
@@ -3994,6 +3998,7 @@ Resources organized by keyword tags.
   - [The Integrator Advantage: Controlled Agentic AI for Small and Medium-Sized Companies](../ai/agents/arxiv-2606-16649.md)
   - [The Technology Behind BLOOM Training](../ai/models/the-technology-behind-bloom-training.md)
   - [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md)
+  - [The founder's playbook: Building an AI-native startup](../ai/community/the-founder-s-playbook-building-an-ai-native-start.md)
   - [Thinking Outside the [Chat]Box: Bridging Computer Science and Industrial Design for Cognitive-Inclusive Generative AI](../ai/rag/arxiv-2606-14306.md)
   - [Top 10 LLM observability tools: Complete guide for 2025 - Articles - Braintrust](../ai/rag/top-10-llm-observability-tools-complete-guide-for.md)
   - [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md)
@@ -4019,7 +4024,6 @@ Resources organized by keyword tags.
   - [What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](../ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)
   - [What is Retrieval-Augmented Generation (RAG) - GeeksforGeeks](../ai/rag/what-is-retrieval-augmented-generation-rag-geeksfo.md)
   - [Who Pays the Price? Stakeholder-Centric Prompt Injection Benchmarking for Real-world Web Agents](../ai/agents/arxiv-2606-13385.md)
-  - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](../ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)
   - [XRDiff: Crystal Structure Prediction from Powder X-Ray Diffraction Data Using Diffusion Models](../ai/research/arxiv-2606-14003.md)
   - [YTClickbait21K: Human-Annotated Multimodal Dataset for YouTube Clickbait Detection Across Diverse Channels and Content Categories](../ai/research/arxiv-2606-14780.md)
   - [Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](../ai/rag/arxiv-2606-17035.md)
@@ -4049,6 +4053,7 @@ Resources organized by keyword tags.
 ## java
 
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
+  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
   - [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md)
 
 ## javascript
@@ -4079,6 +4084,10 @@ Resources organized by keyword tags.
   - [riolaf05/blog-writer-crewai](../ai/agents/riolaf05-blog-writer-crewai.md)
   - [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
+
+## kotlin
+
+  - [yairm210/Unciv](../ai/trending/yairm210-unciv.md)
 
 ## langchain-ai-langchain
 
@@ -5203,7 +5212,6 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [Last-Iterate Convergence of Optimistic Multiplicative Weight Update](../ai/research/arxiv-2606-11773.md)
-  - [Leaked OpenAI financials show $38.5B loss and compute burn](../ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md)
   - [LightRAG](../ai/rag/lightrag.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
   - [Multimodal Evaluator Preference Collapse: Cross-Modal Contagion in Self-Evolving Agents](../ai/agents/arxiv-2606-16682.md)
@@ -5305,7 +5313,6 @@ Resources organized by keyword tags.
   - [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
   - [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
-  - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](../ai/research/arxiv-2605-04813.md)
   - [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](../ai/agents/arxiv-2606-16944.md)
   - [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](../ai/agents/arxiv-2606-14956.md)
@@ -5876,7 +5883,6 @@ Resources organized by keyword tags.
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
   - [The next evolution of the Agents SDK | OpenAI](../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)
-  - [Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](../ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
 
@@ -5911,7 +5917,7 @@ Resources organized by keyword tags.
   - [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)
-  - [OpenBMB/VoxCPM](../ai/trending/openbmb-voxcpm.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent.md)
@@ -5947,6 +5953,7 @@ Resources organized by keyword tags.
   - [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md)
   - [github/awesome-copilot](../ai/agents/github-awesome-copilot.md)
   - [golf-mcp/golf](../ai/agents/golf-mcp-golf.md)
+  - [google-research/timesfm](../ai/trending/google-research-timesfm.md)
   - [grafana/o11y-bench](../ai/agents/grafana-o11y-bench.md)
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [humanlaya/OneMillion-Bench](../ai/agents/humanlaya-onemillion-bench.md)
@@ -5966,7 +5973,6 @@ Resources organized by keyword tags.
   - [mjunaidca/create-daca](../ai/agents/mjunaidca-create-daca.md)
   - [modelscope/evalscope](../ai/rag/modelscope-evalscope.md)
   - [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md)
-  - [music-assistant/server](../ai/trending/music-assistant-server.md)
   - [neocypher-x/openai-agents-sdk-tutorial](../ai/agents/neocypher-x-openai-agents-sdk-tutorial.md)
   - [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md)
   - [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md)
@@ -6272,6 +6278,7 @@ Resources organized by keyword tags.
   - [Designing a Production-Grade RAG Architecture | by Matt Bentley | Level Up Coding](../ai/rag/designing-a-production-grade-rag-architecture-by-m.md)
   - [Detail++: Training-Free Detail Enhancer for Text-to-Image Diffusion Models](../ai/rag/arxiv-2507-17853.md)
   - [Detect Before You Leap: Mirage Detection in Vision-Language Models](../ai/rag/arxiv-2606-00435.md)
+  - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
   - [DiRecT: Safe Diffusion-Based Planning via Receding-Horizon Denoising](../ai/rag/arxiv-2606-15359.md)
   - [DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation](../ai/rag/arxiv-2606-12245.md)
   - [Diffusing to Coordinate: Efficient Online Multi-Agent Diffusion Policies](../ai/rag/arxiv-2602-18291.md)
@@ -6415,8 +6422,8 @@ Resources organized by keyword tags.
   - [Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap](../ai/rag/going-multimodal-how-prezi-is-leveraging-the-hub-a.md)
   - [Google Colab](../ai/rag/google-colab.md)
   - [Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code](../ai/rag/arxiv-2606-11817.md)
-  - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
   - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/huggingface-blog-ibm-granite.md)
+  - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](../ai/rag/granite-embedding-multilingual-r2-open-apache-2-0.md)
   - [Graph Diffusion Residuals for Control-Function Instrumental Variables](../ai/rag/arxiv-2606-14636.md)
   - [Graph Neural Networks for Semi-Supervised Image Classification with Multi-Feature Aggregation](../ai/rag/arxiv-2606-17406.md)
   - [Graph Structured Combinatorial Semi-Bandit with Nonlinear Reward Associations through Separable Signals](../ai/rag/arxiv-2606-14650.md)
@@ -7033,7 +7040,6 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
-  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
   - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
@@ -7144,6 +7150,7 @@ Resources organized by keyword tags.
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
   - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Like a Hammer, It Can Build, It Can Break: Large Language Model Uses, Perceptions, and Adoption in Cybersecurity Operations on Reddit](../ai/agents/arxiv-2604-09998.md)
+  - [Making 'food out of thin air' (2024)](../ai/community/making-food-out-of-thin-air-2024.md)
   - [Mastering Chunking Strategies for RAG: Best Practices & Code Examples](../ai/rag/mastering-chunking-strategies-for-rag-best-practic.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
   - [MiroBench: Benchmarking Realism in Agentic Simulation of Real-world Discussions](../ai/rag/arxiv-2606-14715.md)
@@ -7155,6 +7162,7 @@ Resources organized by keyword tags.
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Prediction Bottlenecks Don't Discover Causal Structure (But Here's What They Actually Do)](../ai/research/arxiv-2605-09169.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
@@ -7196,7 +7204,6 @@ Resources organized by keyword tags.
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
   - [pmndrs/xr](../web-development/react-three-fiber/pmndrs-xr.md)
   - [prompten-2026bahar/PE-2026-CrewAI](../ai/agents/prompten-2026bahar-pe-2026-crewai.md)
-  - [puppeteer/puppeteer](../ai/trending/puppeteer-puppeteer.md)
   - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [questcollector/autogen-kubernetes](../ai/agents/questcollector-autogen-kubernetes.md)
   - [wgsl-analyzer/wgsl-analyzer](../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md)
@@ -7205,7 +7212,6 @@ Resources organized by keyword tags.
 
   - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
-  - [swc-project/swc](../ai/trending/swc-project-swc.md)
 
 ## scripts
 
@@ -7332,6 +7338,8 @@ Resources organized by keyword tags.
 ## shell
 
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
+  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
+  - [obra/superpowers](../ai/agents/obra-superpowers.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
   - [tensorchord/awesome-llmops](../ai/resources/tensorchord-awesome-llmops.md)
@@ -7433,10 +7441,12 @@ Resources organized by keyword tags.
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio.md)
   - [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md)
+  - [RocketChat/Rocket.Chat](../ai/trending/rocketchat-rocket-chat.md)
   - [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
   - [akihirookuda95/openai-agents-sdk-tutorial](../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md)
-  - [cypress-io/cypress](../ai/trending/cypress-io-cypress.md)
+  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
+  - [continuedev/continue](../ai/agents/continuedev-continue.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md)
@@ -7444,16 +7454,13 @@ Resources organized by keyword tags.
   - [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
-  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
   - [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md)
   - [meshery/meshery](../ai/trending/meshery-meshery.md)
   - [mkrl/e0](../ai/agents/mkrl-e0.md)
-  - [puppeteer/puppeteer](../ai/trending/puppeteer-puppeteer.md)
   - [purduehackers/coding-agent-workshop-template](../ai/agents/purduehackers-coding-agent-workshop-template.md)
   - [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md)
-  - [rmyndharis/OpenWA](../ai/trending/rmyndharis-openwa.md)
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
 
 ## unknown
@@ -8046,6 +8053,7 @@ Resources organized by keyword tags.
   - [Orchestra-o1: Omnimodal Agent Orchestration](../ai/agents/arxiv-2606-13707.md)
   - [PAL-Bench: Evidence-Grounded Profile Reconstruction from Longitudinal Personal Albums](../ai/agents/arxiv-2606-16175.md)
   - [PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](../ai/research/arxiv-2606-15654.md)
+  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion](../ai/research/arxiv-2603-03485.md)
   - [Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection](../ai/rag/arxiv-2510-08073.md)
   - [Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video](../ai/rag/arxiv-2606-13302.md)
@@ -8137,11 +8145,10 @@ Resources organized by keyword tags.
   - [google-research/frame-interpolation](../web-development/framer-motion/google-research-frame-interpolation.md)
   - [iamshaunjp/firegram](../web-development/framer-motion/iamshaunjp-firegram.md)
   - [iamshaunjp/framer-motion](../web-development/framer-motion/iamshaunjp-framer-motion.md)
-  - [iptv-org/iptv](../ai/trending/iptv-org-iptv.md)
   - [jolbol1/nextjs-velite-blog-template](../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
   - [pytorch/pytorch Release: PyTorch 2.12.0 Release](../ai/rag/pytorch-pytorch.md)
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-17T10:49:22.916665+05:30*
+*Index generated on 2026-06-17T16:49:58.003220+05:30*

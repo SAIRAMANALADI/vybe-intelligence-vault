@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by slymax. Score: 84, Comments: 20.
+Hacker News story by slymax. Score: 270, Comments: 189.
 Original Link: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/
 
 ## Use Cases

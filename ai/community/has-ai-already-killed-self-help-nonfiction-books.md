@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction
 hn_url: https://news.ycombinator.com/item?id=48558489
-score: 218
+score: 320
 author: imakwana
-comments_count: 231
+comments_count: 360
 published_at: '2026-06-16T22:41:05+05:30'
-collected_at: '2026-06-17T10:46:12.982779+05:30'
+collected_at: '2026-06-17T16:47:26.872687+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:has-ai-already-killed-self-help-nonfiction-books
 first_seen: '2026-06-17T02:49:11.763181+05:30'
-last_seen: '2026-06-17T10:46:12.982779+05:30'
-last_checked: '2026-06-17T10:46:12.982779+05:30'
+last_seen: '2026-06-17T16:47:26.872687+05:30'
+last_checked: '2026-06-17T16:47:26.872687+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by imakwana. Score: 218, Comments: 231.
+Hacker News story by imakwana. Score: 320, Comments: 360.
 Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: imakwana
-- Score: 218 Upvotes
-- Comments: 231 Discussions
+- Score: 320 Upvotes
+- Comments: 360 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48558489
 - Original Article: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction
 

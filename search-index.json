@@ -490,7 +490,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048202+05:30"
+    "last_updated": "2026-06-17T16:47:30.663807+05:30"
   },
   {
     "title": "Human-computer interaction",
@@ -507,7 +507,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048185+05:30"
+    "last_updated": "2026-06-17T16:47:30.663783+05:30"
   },
   {
     "title": "Publications",
@@ -524,7 +524,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048019+05:30"
+    "last_updated": "2026-06-17T16:47:30.663562+05:30"
   },
   {
     "title": "Audio & acoustics",
@@ -541,7 +541,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048133+05:30"
+    "last_updated": "2026-06-17T16:47:30.663706+05:30"
   },
   {
     "title": "Microsoft Research blog",
@@ -558,7 +558,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048094+05:30"
+    "last_updated": "2026-06-17T16:47:30.663651+05:30"
   },
   {
     "title": "Computer vision",
@@ -575,7 +575,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048150+05:30"
+    "last_updated": "2026-06-17T16:47:30.663732+05:30"
   },
   {
     "title": "Code & data",
@@ -592,7 +592,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048070+05:30"
+    "last_updated": "2026-06-17T16:47:30.663619+05:30"
   },
   {
     "title": "Search & information retrieval",
@@ -609,7 +609,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:46:15.048219+05:30"
+    "last_updated": "2026-06-17T16:47:30.663831+05:30"
   },
   {
     "title": "Graphics & multimedia",
@@ -626,7 +626,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048168+05:30"
+    "last_updated": "2026-06-17T16:47:30.663758+05:30"
   },
   {
     "title": "Artificial intelligence",
@@ -643,7 +643,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:15.048114+05:30"
+    "last_updated": "2026-06-17T16:47:30.663679+05:30"
   },
   {
     "title": "Responsible Scaling Policy",
@@ -661,7 +661,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370863+05:30"
+    "last_updated": "2026-06-17T16:47:28.394173+05:30"
   },
   {
     "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -679,7 +679,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "product",
-    "last_updated": "2026-06-17T10:46:12.370331+05:30"
+    "last_updated": "2026-06-17T16:47:28.393927+05:30"
   },
   {
     "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
@@ -697,7 +697,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370312+05:30"
+    "last_updated": "2026-06-17T16:47:28.393898+05:30"
   },
   {
     "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -715,7 +715,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370285+05:30"
+    "last_updated": "2026-06-17T16:47:28.393857+05:30"
   },
   {
     "title": "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
@@ -733,7 +733,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370349+05:30"
+    "last_updated": "2026-06-17T16:47:28.393955+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
@@ -751,7 +751,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370215+05:30"
+    "last_updated": "2026-06-17T16:47:28.393773+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -769,7 +769,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370264+05:30"
+    "last_updated": "2026-06-17T16:47:28.393825+05:30"
   },
   {
     "title": "Jun 1, 2026AnnouncementsAnthropic confidentially submits draft S-1 to the SEC",
@@ -787,7 +787,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.370634+05:30"
+    "last_updated": "2026-06-17T16:47:28.393994+05:30"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -807,7 +807,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.987100+05:30"
+    "last_updated": "2026-06-17T16:47:28.732941+05:30"
   },
   {
     "title": "AlphaEarthMap our planet in unprecedented detail",
@@ -826,7 +826,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.987076+05:30"
+    "last_updated": "2026-06-17T16:47:28.732907+05:30"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -845,7 +845,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.987135+05:30"
+    "last_updated": "2026-06-17T16:47:28.732988+05:30"
   },
   {
     "title": "Learn more",
@@ -864,7 +864,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.987338+05:30"
+    "last_updated": "2026-06-17T16:47:28.733254+05:30"
   },
   {
     "title": "SIMA 2An agent that plays, reasons, and learns with you",
@@ -884,7 +884,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.987013+05:30"
+    "last_updated": "2026-06-17T16:47:28.732813+05:30"
   },
   {
     "title": "Applied AI",
@@ -902,7 +902,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.016833+05:30"
+    "last_updated": "2026-06-17T16:47:26.006078+05:30"
   },
   {
     "title": "AI Adoption",
@@ -920,7 +920,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.016816+05:30"
+    "last_updated": "2026-06-17T16:47:26.006038+05:30"
   },
   {
     "title": "Global Affairs",
@@ -938,7 +938,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.016791+05:30"
+    "last_updated": "2026-06-17T16:47:26.005989+05:30"
   },
   {
     "title": "Engineering",
@@ -956,7 +956,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:12.016745+05:30"
+    "last_updated": "2026-06-17T16:47:26.005906+05:30"
   },
   {
     "title": "AI Now Summit 2026",
@@ -975,7 +975,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546169+05:30"
+    "last_updated": "2026-06-17T16:47:29.276321+05:30"
   },
   {
     "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -994,7 +994,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-17T10:46:13.547419+05:30"
+    "last_updated": "2026-06-17T16:47:29.277132+05:30"
   },
   {
     "title": "Vibe gets to work.",
@@ -1014,7 +1014,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546193+05:30"
+    "last_updated": "2026-06-17T16:47:29.276354+05:30"
   },
   {
     "title": "Introducing Search Toolkit",
@@ -1033,7 +1033,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546216+05:30"
+    "last_updated": "2026-06-17T16:47:29.276410+05:30"
   },
   {
     "title": "Voxtral TTS",
@@ -1052,7 +1052,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546116+05:30"
+    "last_updated": "2026-06-17T16:47:29.276249+05:30"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -1071,7 +1071,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.547457+05:30"
+    "last_updated": "2026-06-17T16:47:29.277174+05:30"
   },
   {
     "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI",
@@ -1090,7 +1090,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.547661+05:30"
+    "last_updated": "2026-06-17T16:47:29.277411+05:30"
   },
   {
     "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -1110,7 +1110,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:13.547562+05:30"
+    "last_updated": "2026-06-17T16:47:29.277268+05:30"
   },
   {
     "title": "Mistral Small 4",
@@ -1129,7 +1129,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546081+05:30"
+    "last_updated": "2026-06-17T16:47:29.276202+05:30"
   },
   {
     "title": "Mistral Medium 3.5",
@@ -1149,7 +1149,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:13.546021+05:30"
+    "last_updated": "2026-06-17T16:47:29.276137+05:30"
   },
   {
     "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
@@ -1299,12 +1299,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17667",
     "local_path": "ai/rag/arxiv-2606-17667.md",
-    "summary": "arXiv:2606.17667v1 Announce Type: cross Abstract: In recent years, the rapid development of foundation models and graph pre-training technologies has spurred increasing interest in constructing a universal pre-trained graph model or Graph Foundation",
+    "summary": "arXiv:2606.17667v1 Announce Type: new Abstract: In recent years, the rapid development of foundation models and graph pre-training technologies has spurred increasing interest in constructing a universal pre-trained graph model or Graph Foundation Mo",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853074+05:30"
+    "last_updated": "2026-06-17T16:47:25.183842+05:30"
   },
   {
     "title": "TokaMark: A Comprehensive Benchmark for MAST Tokamak Plasma Models",
@@ -2252,7 +2252,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:46:12.846846+05:30"
+    "last_updated": "2026-06-17T16:47:26.772134+05:30"
   },
   {
     "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
@@ -2587,7 +2587,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:48:35.100343+05:30"
+    "last_updated": "2026-06-17T16:49:14.592708+05:30"
   },
   {
     "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
@@ -2858,12 +2858,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17513",
     "local_path": "ai/rag/arxiv-2606-17513.md",
-    "summary": "arXiv:2606.17513v1 Announce Type: cross Abstract: Neural operators provide fast surrogates for PDEs but their deterministic predictions limit their use in tasks requiring uncertainty quantification (UQ), especially under geometric variability. Existi",
+    "summary": "arXiv:2606.17513v1 Announce Type: new Abstract: Neural operators provide fast surrogates for PDEs but their deterministic predictions limit their use in tasks requiring uncertainty quantification (UQ), especially under geometric variability. Existing",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852828+05:30"
+    "last_updated": "2026-06-17T16:47:25.183596+05:30"
   },
   {
     "title": "AnalogFed: Privacy-Preserving Discovery of Analog Circuits at Scale with Federated Generative AI",
@@ -2876,12 +2876,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2507.15104",
     "local_path": "ai/rag/arxiv-2507-15104.md",
-    "summary": "arXiv:2507.15104v2 Announce Type: replace-cross Abstract: Recent advances in generative AI (GenAI) have shown transformative potential for modern hardware design. However, existing GenAI-driven approaches fall short of enabling large-scale electronic",
+    "summary": "arXiv:2507.15104v2 Announce Type: replace Abstract: Recent advances in generative AI (GenAI) have shown transformative potential for modern hardware design. However, existing GenAI-driven approaches fall short of enabling large-scale electronic desig",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854387+05:30"
+    "last_updated": "2026-06-17T16:47:25.191127+05:30"
   },
   {
     "title": "TencentCloudADP/youtu-graphrag",
@@ -2950,12 +2950,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2510.11709",
     "local_path": "ai/rag/arxiv-2510-11709.md",
-    "summary": "arXiv:2510.11709v2 Announce Type: replace-cross Abstract: Why do adversarial examples exist, and why do they transfer between models? Existing explanations appeal to high-dimensional geometry, non-robust patterns in the input, and decision boundary s",
+    "summary": "arXiv:2510.11709v2 Announce Type: replace Abstract: Why do adversarial examples exist, and why do they transfer between models? Existing explanations appeal to high-dimensional geometry, non-robust patterns in the input, and decision boundary structu",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854509+05:30"
+    "last_updated": "2026-06-17T16:47:25.191214+05:30"
   },
   {
     "title": "Learning Survival Models with Right-Censored Reporting Delays",
@@ -4865,12 +4865,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2603.01761",
     "local_path": "ai/rag/arxiv-2603-01761.md",
-    "summary": "arXiv:2603.01761v2 Announce Type: replace-cross Abstract: Foundation models have transformed machine learning through large-scale pretraining and increased test-time compute. Despite surpassing human performance in several domains, these models remai",
+    "summary": "arXiv:2603.01761v2 Announce Type: replace Abstract: Foundation models have transformed machine learning through large-scale pretraining and increased test-time compute. Despite surpassing human performance in several domains, these models remain fund",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854772+05:30"
+    "last_updated": "2026-06-17T16:47:25.191558+05:30"
   },
   {
     "title": "PATCH: Action-Chunk-Conditioned Latent Patch Innovation Monitoring for Robot Manipulation",
@@ -5004,12 +5004,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16590",
     "local_path": "ai/rag/arxiv-2606-16590.md",
-    "summary": "arXiv:2606.16590v2 Announce Type: replace-cross Abstract: Exploration in deep reinforcement learning (RL) is commonly implemented as temporally uncorrelated white noise. However, recent works show that temporally correlated colored noise can improve",
+    "summary": "arXiv:2606.16590v2 Announce Type: replace Abstract: Exploration in deep reinforcement learning (RL) is commonly implemented as temporally uncorrelated white noise. However, recent works show that temporally correlated colored noise can improve explor",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.855384+05:30"
+    "last_updated": "2026-06-17T16:47:25.191930+05:30"
   },
   {
     "title": "Ternary Mamba: Grouped Quantization-Aware Training of W1.58A16 State Space Models",
@@ -5021,12 +5021,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18114",
     "local_path": "ai/rag/arxiv-2606-18114.md",
-    "summary": "arXiv:2606.18114v1 Announce Type: cross Abstract: State Space Models (SSMs) such as Mamba-2 offer linear-time inference but their memory footprint limits edge deployment. Prior ternary SSM work (Slender-Mamba) trains from scratch on 150B tokens; we s",
+    "summary": "arXiv:2606.18114v1 Announce Type: new Abstract: State Space Models (SSMs) such as Mamba-2 offer linear-time inference but their memory footprint limits edge deployment. Prior ternary SSM work (Slender-Mamba) trains from scratch on 150B tokens; we sho",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853667+05:30"
+    "last_updated": "2026-06-17T16:47:25.184490+05:30"
   },
   {
     "title": "XMUDeepLIT/MemGraphRAG",
@@ -5698,7 +5698,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-12T10:41:44.101003+00:00"
+    "last_updated": "2026-06-17T16:48:54.595841+05:30"
   },
   {
     "title": "A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation",
@@ -5835,7 +5835,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T02:50:14.414924+05:30"
+    "last_updated": "2026-06-17T16:48:19.601615+05:30"
   },
   {
     "title": "From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation",
@@ -6543,12 +6543,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17118",
     "local_path": "ai/rag/arxiv-2606-17118.md",
-    "summary": "arXiv:2606.17118v1 Announce Type: cross Abstract: Mixture-of-Experts Multimodal Large Language Models (MoE-MLLMs) offer remarkable performance but incur prohibitive GPU memory costs, making compression essential. Among PTQ methods, expert-level mixed",
+    "summary": "arXiv:2606.17118v1 Announce Type: new Abstract: Mixture-of-Experts Multimodal Large Language Models (MoE-MLLMs) offer remarkable performance but incur prohibitive GPU memory costs, making compression essential. Among PTQ methods, expert-level mixed-p",
     "quality_score": 70,
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852122+05:30"
+    "last_updated": "2026-06-17T16:47:25.183061+05:30"
   },
   {
     "title": "Test-Time Compute Scaling for ASR with Depth-Conditioned Looped Transformers",
@@ -6706,12 +6706,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17551",
     "local_path": "ai/rag/arxiv-2606-17551.md",
-    "summary": "arXiv:2606.17551v1 Announce Type: cross Abstract: Iterative generative modeling techniques, such as flow matching, provide powerful tools to model complex behaviors for effective offline reinforcement learning (RL). In this work, we propose a new off",
+    "summary": "arXiv:2606.17551v1 Announce Type: new Abstract: Iterative generative modeling techniques, such as flow matching, provide powerful tools to model complex behaviors for effective offline reinforcement learning (RL). In this work, we propose a new off-p",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852914+05:30"
+    "last_updated": "2026-06-17T16:47:25.183704+05:30"
   },
   {
     "title": "Going multimodal: How Prezi is leveraging the Hub and the Expert Support Program to accelerate their ML roadmap",
@@ -6884,12 +6884,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2404.01965",
     "local_path": "ai/rag/arxiv-2404-01965.md",
-    "summary": "arXiv:2404.01965v3 Announce Type: replace-cross Abstract: Deep Learning (DL) has advanced various fields by extracting complex patterns from large datasets. However, the computational demands of DL models pose environmental and resource challenges. D",
+    "summary": "arXiv:2404.01965v3 Announce Type: replace Abstract: Deep Learning (DL) has advanced various fields by extracting complex patterns from large datasets. However, the computational demands of DL models pose environmental and resource challenges. Deep sh",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854215+05:30"
+    "last_updated": "2026-06-17T16:47:25.190916+05:30"
   },
   {
     "title": "PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation",
@@ -7708,7 +7708,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:47:35.676100+05:30"
+    "last_updated": "2026-06-17T16:48:07.605987+05:30"
   },
   {
     "title": "Learning Topological Representations for Molecular Dynamics",
@@ -7797,7 +7797,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-15T06:38:16.098835+00:00"
+    "last_updated": "2026-06-17T16:49:29.512231+05:30"
   },
   {
     "title": "Binary Black Hole Parameter Estimation with Hybrid CNN-Transformer Neural Networks",
@@ -8198,7 +8198,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:47:41.045871+05:30"
+    "last_updated": "2026-06-17T16:48:15.630046+05:30"
   },
   {
     "title": "Numbers Already Carry Their Own Embeddings",
@@ -8338,7 +8338,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T10:47:48.052390+05:30"
+    "last_updated": "2026-06-17T16:48:22.200228+05:30"
   },
   {
     "title": "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning",
@@ -8648,12 +8648,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.11990",
     "local_path": "ai/rag/arxiv-2606-11990.md",
-    "summary": "arXiv:2606.11990v2 Announce Type: replace-cross Abstract: Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to",
+    "summary": "arXiv:2606.11990v2 Announce Type: replace Abstract: Remaining Useful Life (RUL) prediction is essential for industrial predictive maintenance, yet many learning-based approaches rely on extensive feature engineering or large labeled datasets to train",
     "quality_score": 70,
     "archive_score": 86,
     "archive_tier": "essential",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.855224+05:30"
+    "last_updated": "2026-06-17T16:47:25.191804+05:30"
   },
   {
     "title": "Stop the Sampler! Classifier-Based Adaptive Stopping for Sampling Kernels",
@@ -9119,12 +9119,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2510.19838",
     "local_path": "ai/rag/arxiv-2510-19838.md",
-    "summary": "arXiv:2510.19838v2 Announce Type: replace Abstract: Autonomous web agents powered by large language models (LLMs) show strong potential for performing goal-oriented tasks such as information retrieval, report generation, and online transactions. Thes",
+    "summary": "arXiv:2510.19838v2 Announce Type: replace-cross Abstract: Autonomous web agents powered by large language models (LLMs) show strong potential for performing goal-oriented tasks such as information retrieval, report generation, and online transactions",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853869+05:30"
+    "last_updated": "2026-06-17T16:47:25.192236+05:30"
   },
   {
     "title": "Towards Functional Correctness of Large Code Models with Selective Generation",
@@ -9243,12 +9243,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18021",
     "local_path": "ai/rag/arxiv-2606-18021.md",
-    "summary": "arXiv:2606.18021v1 Announce Type: new Abstract: AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving compliance",
+    "summary": "arXiv:2606.18021v1 Announce Type: cross Abstract: AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving complianc",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851662+05:30"
+    "last_updated": "2026-06-17T16:47:25.190568+05:30"
   },
   {
     "title": "EMS: Multi-Agent Voting via Efficient Majority-then-Stopping",
@@ -9363,7 +9363,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-17T02:50:25.143134+05:30"
+    "last_updated": "2026-06-17T16:48:18.797602+05:30"
   },
   {
     "title": "CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community",
@@ -9566,7 +9566,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T10:47:54.102279+05:30"
+    "last_updated": "2026-06-17T16:48:21.295679+05:30"
   },
   {
     "title": "Discovery under Hypothesis Redundancy: A Geometric Theory of Discovery Bottlenecks",
@@ -9890,7 +9890,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-16T13:58:09.626048+05:30"
+    "last_updated": "2026-06-17T16:48:15.833281+05:30"
   },
   {
     "title": "CHILLGuard: Towards Fine-Grained Chinese LLM Safety Guardrail with Scalable Data Construction and Model-aware Preference Alignment",
@@ -9996,7 +9996,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T02:51:08.459975+05:30"
+    "last_updated": "2026-06-17T16:49:09.556358+05:30"
   },
   {
     "title": "When Probing Accuracy Saturates, Fragility Resolves: A Complementary Metric for LLM Pre-Training Analysis",
@@ -10099,12 +10099,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2502.00241",
     "local_path": "ai/rag/arxiv-2502-00241.md",
-    "summary": "arXiv:2502.00241v2 Announce Type: replace-cross Abstract: Incorporating multiple modalities into large language models (LLMs) is a powerful way to enhance their understanding of non-textual data, enabling them to perform multimodal tasks. Vision lang",
+    "summary": "arXiv:2502.00241v2 Announce Type: replace Abstract: Incorporating multiple modalities into large language models (LLMs) is a powerful way to enhance their understanding of non-textual data, enabling them to perform multimodal tasks. Vision language m",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854250+05:30"
+    "last_updated": "2026-06-17T16:47:25.190967+05:30"
   },
   {
     "title": "Functional Cache Grafting: Robust and Rapid Code-Policy Synthesis for Embodied Agents",
@@ -10472,7 +10472,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T02:50:13.127664+05:30"
+    "last_updated": "2026-06-17T16:48:34.668866+05:30"
   },
   {
     "title": "LatticeBridge: Rare-Event Sequential Inference for Faithful Structured Sequence Synthesis",
@@ -10809,7 +10809,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:47:44.990544+05:30"
+    "last_updated": "2026-06-17T16:48:19.305497+05:30"
   },
   {
     "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
@@ -12245,7 +12245,6 @@
       "meta-ai",
       "models",
       "openai",
-      "paper",
       "rag",
       "reddit",
       "scripts",
@@ -12259,7 +12258,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T10:47:49.307881+05:30"
+    "last_updated": "2026-06-17T16:48:29.288888+05:30"
   },
   {
     "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
@@ -12420,7 +12419,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:47:44.273030+05:30"
+    "last_updated": "2026-06-17T16:48:24.937506+05:30"
   },
   {
     "title": "TIMAN-group/PlugMem",
@@ -12684,12 +12683,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17199",
     "local_path": "ai/rag/arxiv-2606-17199.md",
-    "summary": "arXiv:2606.17199v1 Announce Type: cross Abstract: Standard on-policy distillation (OPD) for large language models estimates the reverse-KL objective using student-sampled tokens, yielding an unbiased single-sample Monte Carlo estimator that avoids vo",
+    "summary": "arXiv:2606.17199v1 Announce Type: new Abstract: Standard on-policy distillation (OPD) for large language models estimates the reverse-KL objective using student-sampled tokens, yielding an unbiased single-sample Monte Carlo estimator that avoids voca",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852225+05:30"
+    "last_updated": "2026-06-17T16:47:25.183159+05:30"
   },
   {
     "title": "Tensor-Coord: Algebraic Decomposition of Joint Plan Tensors for Conflict-Free Multi-Agent LLM Planning",
@@ -12758,12 +12757,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17847",
     "local_path": "ai/rag/arxiv-2606-17847.md",
-    "summary": "arXiv:2606.17847v1 Announce Type: new Abstract: WallGo is a recently introduced strategic board game popularized by the 2025 Netflix series The Devil's Plan. Although played on a small 7 x 7 board, its combination of stone movement and wall placement",
+    "summary": "arXiv:2606.17847v1 Announce Type: cross Abstract: WallGo is a recently introduced strategic board game popularized by the 2025 Netflix series The Devil's Plan. Although played on a small 7 x 7 board, its combination of stone movement and wall placeme",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851442+05:30"
+    "last_updated": "2026-06-17T16:47:25.190495+05:30"
   },
   {
     "title": "When Does q-error Predict Plan Regret? Three Regimes of Cardinality-Estimation Error",
@@ -13400,6 +13399,24 @@
     "archive_tier": "useful",
     "resource_kind": "dataset",
     "last_updated": "2026-06-16T17:31:22.098818+05:30"
+  },
+  {
+    "title": "DeusData/codebase-memory-mcp",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "c",
+      "github-trending",
+      "rag"
+    ],
+    "source_url": "https://github.com/deusdata/codebase-memory-mcp",
+    "local_path": "ai/rag/deusdata-codebase-memory-mcp.md",
+    "summary": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "mcp-server",
+    "last_updated": "2026-06-17T16:47:27.408481+05:30"
   },
   {
     "title": "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention",
@@ -14300,7 +14317,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-17T10:47:47.285972+05:30"
+    "last_updated": "2026-06-17T16:48:14.314637+05:30"
   },
   {
     "title": "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality",
@@ -14819,7 +14836,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-12T10:41:34.115971+00:00"
+    "last_updated": "2026-06-17T16:48:44.600243+05:30"
   },
   {
     "title": "Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study",
@@ -14941,7 +14958,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:48:59.926416+05:30"
+    "last_updated": "2026-06-17T16:49:39.477110+05:30"
   },
   {
     "title": "Towards End-to-End Automation of AI Research",
@@ -15421,7 +15438,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:47:39.358648+05:30"
+    "last_updated": "2026-06-17T16:48:12.997554+05:30"
   },
   {
     "title": "girijesh-ai/ai-interview-codex",
@@ -15553,7 +15570,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-12T10:41:39.107360+00:00"
+    "last_updated": "2026-06-17T16:48:49.567759+05:30"
   },
   {
     "title": "E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems",
@@ -15728,24 +15745,6 @@
     "last_updated": "2026-06-11T18:21:27.122841+00:00"
   },
   {
-    "title": "alibaba/zvec",
-    "category": "ai/rag",
-    "section": "vector-databases",
-    "tags": [
-      "c++",
-      "github-trending",
-      "rag"
-    ],
-    "source_url": "https://github.com/alibaba/zvec",
-    "local_path": "ai/rag/alibaba-zvec.md",
-    "summary": "A lightweight, lightning-fast, in-process vector database",
-    "quality_score": 70,
-    "archive_score": 77,
-    "archive_tier": "useful",
-    "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:46:11.979804+05:30"
-  },
-  {
     "title": "patchy631/ai-engineering-hub",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -15762,7 +15761,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:48:44.862056+05:30"
+    "last_updated": "2026-06-17T16:49:24.511912+05:30"
   },
   {
     "title": "FreshRetailNet-LT: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail",
@@ -16296,7 +16295,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:47:49.032241+05:30"
+    "last_updated": "2026-06-17T16:48:18.994112+05:30"
   },
   {
     "title": "The Morse Transform for Discrete Shape Analysis",
@@ -16751,12 +16750,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18111",
     "local_path": "ai/rag/arxiv-2606-18111.md",
-    "summary": "arXiv:2606.18111v1 Announce Type: cross Abstract: Fairness is an important aspect of decision-making in multi-objective reinforcement learning (MORL), where policies must ensure both optimality and equity across multiple, potentially conflicting obje",
+    "summary": "arXiv:2606.18111v1 Announce Type: new Abstract: Fairness is an important aspect of decision-making in multi-objective reinforcement learning (MORL), where policies must ensure both optimality and equity across multiple, potentially conflicting object",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853655+05:30"
+    "last_updated": "2026-06-17T16:47:25.184475+05:30"
   },
   {
     "title": "MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions",
@@ -16838,12 +16837,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.06523",
     "local_path": "ai/rag/arxiv-2606-06523.md",
-    "summary": "arXiv:2606.06523v2 Announce Type: replace Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities, most",
+    "summary": "arXiv:2606.06523v2 Announce Type: replace-cross Abstract: Equipping Large Language Models (LLMs) to execute reliable multi-step workflows has become a central challenge in artificial intelligence. Despite recent advances in LLMs' agentic capabilities",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854076+05:30"
+    "last_updated": "2026-06-17T16:47:25.192830+05:30"
   },
   {
     "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
@@ -16856,12 +16855,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17645",
     "local_path": "ai/rag/arxiv-2606-17645.md",
-    "summary": "arXiv:2606.17645v1 Announce Type: new Abstract: Large language model (LLM) web agents are usually deployed as tool callers: each turn, the model reads a fresh page observation and emits one structured tool action. When every action is a low-level pri",
+    "summary": "arXiv:2606.17645v1 Announce Type: cross Abstract: Large language model (LLM) web agents are usually deployed as tool callers: each turn, the model reads a fresh page observation and emits one structured tool action. When every action is a low-level p",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851269+05:30"
+    "last_updated": "2026-06-17T16:47:25.190435+05:30"
   },
   {
     "title": "LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai",
@@ -17622,7 +17621,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:47:50.288036+05:30"
+    "last_updated": "2026-06-17T16:48:19.778065+05:30"
   },
   {
     "title": "C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift",
@@ -17633,12 +17632,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18003",
     "local_path": "ai/rag/arxiv-2606-18003.md",
-    "summary": "arXiv:2606.18003v1 Announce Type: cross Abstract: Collective Adaptive Systems (CAS) increasingly rely on machine learning to let each node learn from locally sensed data, aligning its behavior with the surrounding environment. Scaling this intelligen",
+    "summary": "arXiv:2606.18003v1 Announce Type: new Abstract: Collective Adaptive Systems (CAS) increasingly rely on machine learning to let each node learn from locally sensed data, aligning its behavior with the surrounding environment. Scaling this intelligence",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853528+05:30"
+    "last_updated": "2026-06-17T16:47:25.184287+05:30"
   },
   {
     "title": "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings",
@@ -17681,7 +17680,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T10:47:43.998598+05:30"
+    "last_updated": "2026-06-17T16:48:17.809283+05:30"
   },
   {
     "title": "Online LLM Selection via Constrained Bandits with Time-Varying Demand",
@@ -17693,12 +17692,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17489",
     "local_path": "ai/rag/arxiv-2606-17489.md",
-    "summary": "arXiv:2606.17489v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly deployed in edge-cloud inference systems to handle diverse user tasks with heterogeneous accuracy, latency, and cost profiles. Selecting the appropriate L",
+    "summary": "arXiv:2606.17489v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in edge-cloud inference systems to handle diverse user tasks with heterogeneous accuracy, latency, and cost profiles. Selecting the appropriate LLM",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852806+05:30"
+    "last_updated": "2026-06-17T16:47:25.183551+05:30"
   },
   {
     "title": "HalluJudge: A Reference-Free Hallucination Detection for Context Misalignment in Code Review Automation",
@@ -18564,7 +18563,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-16T22:52:00.173740+05:30"
+    "last_updated": "2026-06-17T16:48:29.982541+05:30"
   },
   {
     "title": "CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?",
@@ -18658,7 +18657,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:47:40.130682+05:30"
+    "last_updated": "2026-06-17T16:48:24.706709+05:30"
   },
   {
     "title": "Adaptive Nucleus Truncation for Long-Form Reasoning",
@@ -19020,12 +19019,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2502.17518",
     "local_path": "ai/rag/arxiv-2502-17518.md",
-    "summary": "arXiv:2502.17518v3 Announce Type: replace-cross Abstract: This paper presents a comprehensive study on the use of ensemble Reinforcement Learning (RL) models in financial trading strategies, leveraging classifier models to enhance performance. By com",
+    "summary": "arXiv:2502.17518v3 Announce Type: replace Abstract: This paper presents a comprehensive study on the use of ensemble Reinforcement Learning (RL) models in financial trading strategies, leveraging classifier models to enhance performance. By combining",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854273+05:30"
+    "last_updated": "2026-06-17T16:47:25.190982+05:30"
   },
   {
     "title": "Architectural Wisdom: A Framework for Governing Optimization in AI Systems",
@@ -19782,7 +19781,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:48:39.913016+05:30"
+    "last_updated": "2026-06-17T16:49:19.503941+05:30"
   },
   {
     "title": "Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning",
@@ -20064,12 +20063,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2602.03300",
     "local_path": "ai/rag/arxiv-2602-03300.md",
-    "summary": "arXiv:2602.03300v2 Announce Type: replace-cross Abstract: In this work, we aim to develop effective data synthesis techniques that autonomously synthesize multimodal training data for enhancing MLLMs in solving complex real-world tasks. To this end,",
+    "summary": "arXiv:2602.03300v2 Announce Type: replace Abstract: In this work, we aim to develop effective data synthesis techniques that autonomously synthesize multimodal training data for enhancing MLLMs in solving complex real-world tasks. To this end, we pro",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854693+05:30"
+    "last_updated": "2026-06-17T16:47:25.191344+05:30"
   },
   {
     "title": "STaR-DRO: Stateful Tsallis Reweighting for Group-Robust Structured Prediction",
@@ -20787,7 +20786,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:47:48.697209+05:30"
+    "last_updated": "2026-06-17T16:48:16.227227+05:30"
   },
   {
     "title": "From Detection to Recovery: Operational Analysis on LLM Pre-training with 504 GPUs",
@@ -20930,6 +20929,23 @@
     "last_updated": "2026-06-15T06:03:39.933760+00:00"
   },
   {
+    "title": "RocketChat/Rocket.Chat",
+    "category": "ai/trending",
+    "section": "ai/trending",
+    "tags": [
+      "github-trending",
+      "typescript"
+    ],
+    "source_url": "https://github.com/rocketchat/rocket.chat",
+    "local_path": "ai/trending/rocketchat-rocket-chat.md",
+    "summary": "The Secure CommsOS™ for mission-critical operations",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-17T16:47:27.410624+05:30"
+  },
+  {
     "title": "meshery/meshery",
     "category": "ai/trending",
     "section": "ai/trending",
@@ -20944,111 +20960,41 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979188+05:30"
+    "last_updated": "2026-06-17T16:47:27.409083+05:30"
   },
   {
-    "title": "swc-project/swc",
+    "title": "krahets/hello-algo",
     "category": "ai/trending",
     "section": "ai/trending",
     "tags": [
       "github-trending",
-      "rust"
+      "java"
     ],
-    "source_url": "https://github.com/swc-project/swc",
-    "local_path": "ai/trending/swc-project-swc.md",
-    "summary": "Rust-based platform for the Web",
+    "source_url": "https://github.com/krahets/hello-algo",
+    "local_path": "ai/trending/krahets-hello-algo.md",
+    "summary": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.978642+05:30"
+    "last_updated": "2026-06-17T16:47:27.411209+05:30"
   },
   {
-    "title": "puppeteer/puppeteer",
+    "title": "yairm210/Unciv",
     "category": "ai/trending",
     "section": "ai/trending",
     "tags": [
       "github-trending",
-      "reddit",
-      "typescript"
+      "kotlin"
     ],
-    "source_url": "https://github.com/puppeteer/puppeteer",
-    "local_path": "ai/trending/puppeteer-puppeteer.md",
-    "summary": "JavaScript API for Chrome and Firefox",
+    "source_url": "https://github.com/yairm210/unciv",
+    "local_path": "ai/trending/yairm210-unciv.md",
+    "summary": "Open-source Android/Desktop remake of Civ V",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979076+05:30"
-  },
-  {
-    "title": "OpenBMB/VoxCPM",
-    "category": "ai/trending",
-    "section": "ai/trending",
-    "tags": [
-      "github-trending",
-      "python"
-    ],
-    "source_url": "https://github.com/openbmb/voxcpm",
-    "local_path": "ai/trending/openbmb-voxcpm.md",
-    "summary": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979688+05:30"
-  },
-  {
-    "title": "iptv-org/iptv",
-    "category": "ai/trending",
-    "section": "ai/trending",
-    "tags": [
-      "github-trending",
-      "typescript",
-      "youtube"
-    ],
-    "source_url": "https://github.com/iptv-org/iptv",
-    "local_path": "ai/trending/iptv-org-iptv.md",
-    "summary": "Collection of publicly available IPTV channels from all over the world",
-    "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.978904+05:30"
-  },
-  {
-    "title": "music-assistant/server",
-    "category": "ai/trending",
-    "section": "ai/trending",
-    "tags": [
-      "github-trending",
-      "python"
-    ],
-    "source_url": "https://github.com/music-assistant/server",
-    "local_path": "ai/trending/music-assistant-server.md",
-    "summary": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspb",
-    "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979444+05:30"
-  },
-  {
-    "title": "teslamate-org/teslamate",
-    "category": "ai/trending",
-    "section": "ai/trending",
-    "tags": [
-      "elixir",
-      "github-trending"
-    ],
-    "source_url": "https://github.com/teslamate-org/teslamate",
-    "local_path": "ai/trending/teslamate-org-teslamate.md",
-    "summary": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-    "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.978782+05:30"
+    "last_updated": "2026-06-17T16:47:27.411818+05:30"
   },
   {
     "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -21065,24 +21011,25 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979571+05:30"
+    "last_updated": "2026-06-17T16:47:27.411427+05:30"
   },
   {
-    "title": "cypress-io/cypress",
+    "title": "mattpocock/skills",
     "category": "ai/trending",
-    "section": "ai/trending",
+    "section": "model-providers",
     "tags": [
+      "anthropic",
       "github-trending",
-      "typescript"
+      "shell"
     ],
-    "source_url": "https://github.com/cypress-io/cypress",
-    "local_path": "ai/trending/cypress-io-cypress.md",
-    "summary": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "source_url": "https://github.com/mattpocock/skills",
+    "local_path": "ai/trending/mattpocock-skills.md",
+    "summary": "Skills for Real Engineers. Straight from my .claude directory.",
     "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979307+05:30"
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:27.411641+05:30"
   },
   {
     "title": "n0-computer/iroh",
@@ -21100,7 +21047,41 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.980027+05:30"
+    "last_updated": "2026-06-17T16:47:27.408703+05:30"
+  },
+  {
+    "title": "penpot/penpot",
+    "category": "ai/trending",
+    "section": "ai/trending",
+    "tags": [
+      "clojure",
+      "github-trending"
+    ],
+    "source_url": "https://github.com/penpot/penpot",
+    "local_path": "ai/trending/penpot-penpot.md",
+    "summary": "Penpot: The open-source design tool for design and code collaboration",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-17T16:47:27.411033+05:30"
+  },
+  {
+    "title": "google-research/timesfm",
+    "category": "ai/trending",
+    "section": "ai/trending",
+    "tags": [
+      "github-trending",
+      "python"
+    ],
+    "source_url": "https://github.com/google-research/timesfm",
+    "local_path": "ai/trending/google-research-timesfm.md",
+    "summary": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-17T16:47:27.410036+05:30"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -21117,24 +21098,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.978440+05:30"
-  },
-  {
-    "title": "rmyndharis/OpenWA",
-    "category": "ai/trending",
-    "section": "ai/trending",
-    "tags": [
-      "github-trending",
-      "typescript"
-    ],
-    "source_url": "https://github.com/rmyndharis/openwa",
-    "local_path": "ai/trending/rmyndharis-openwa.md",
-    "summary": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
-    "quality_score": 70,
-    "archive_score": 70,
-    "archive_tier": "reference",
-    "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.979916+05:30"
+    "last_updated": "2026-06-17T16:47:27.412020+05:30"
   },
   {
     "title": "Introducing the Red-Teaming Resistance Leaderboard",
@@ -24301,6 +24265,20 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.378279+05:30"
+  },
+  {
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [],
+    "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "local_path": "ai/models/huggingface-blog-zai-org-glm-52-blog.md",
+    "summary": "No summary provided. Reference resource: GLM-5.2: Built for Long-Horizon Tasks",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:25.203240+05:30"
   },
   {
     "title": "Diffusion Models Live Event",
@@ -31942,7 +31920,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:46:14.042427+05:30"
+    "last_updated": "2026-06-17T16:47:27.809443+05:30"
   },
   {
     "title": "huggingface/transformers Release: Patch release v5.12.1",
@@ -31961,7 +31939,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:46:13.557459+05:30"
+    "last_updated": "2026-06-17T16:47:27.425072+05:30"
   },
   {
     "title": "MiniMax Sparse Attention",
@@ -32594,12 +32572,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18023",
     "local_path": "ai/agents/arxiv-2606-18023.md",
-    "summary": "arXiv:2606.18023v1 Announce Type: cross Abstract: Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) al",
+    "summary": "arXiv:2606.18023v1 Announce Type: new Abstract: Looped Transformers scale latent computation by repeatedly applying shared blocks, but sequential looping increases latency and KV-cache memory with the loop count. Parallel loop Transformers (PLT) alle",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853539+05:30"
+    "last_updated": "2026-06-17T16:47:25.184318+05:30"
   },
   {
     "title": "A Study of Belief Revision Postulates in Multi-Agent Systems (Extended Version)",
@@ -33462,12 +33440,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17229",
     "local_path": "ai/agents/arxiv-2606-17229.md",
-    "summary": "arXiv:2606.17229v1 Announce Type: cross Abstract: A model that lies while knowing the truth is the central case ELK cannot handle with behavioral evaluation alone. We ask whether such deception leaves an internal signature distinguishing it from hone",
+    "summary": "arXiv:2606.17229v1 Announce Type: new Abstract: A model that lies while knowing the truth is the central case ELK cannot handle with behavioral evaluation alone. We ask whether such deception leaves an internal signature distinguishing it from honest",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852248+05:30"
+    "last_updated": "2026-06-17T16:47:25.183188+05:30"
   },
   {
     "title": "ScreenEnv: Deploy your full stack Desktop Agent",
@@ -34164,12 +34142,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17454",
     "local_path": "ai/agents/arxiv-2606-17454.md",
-    "summary": "arXiv:2606.17454v1 Announce Type: new Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model assum",
+    "summary": "arXiv:2606.17454v1 Announce Type: cross Abstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through agent harnesses. Therefore, a gap between model ass",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851152+05:30"
+    "last_updated": "2026-06-17T16:47:25.190247+05:30"
   },
   {
     "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
@@ -35549,6 +35527,26 @@
     "last_updated": "2026-06-15T06:03:39.933074+00:00"
   },
   {
+    "title": "Panniantong/Agent-Reach",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-trending",
+      "python",
+      "reddit",
+      "youtube"
+    ],
+    "source_url": "https://github.com/panniantong/agent-reach",
+    "local_path": "ai/agents/panniantong-agent-reach.md",
+    "summary": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:27.408898+05:30"
+  },
+  {
     "title": "alejandro-ao/crewai-crash-course",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -35881,12 +35879,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17107",
     "local_path": "ai/agents/arxiv-2606-17107.md",
-    "summary": "arXiv:2606.17107v1 Announce Type: cross Abstract: Prefix caching reuses prefill only across an exactly shared prefix, so one changed field invalidates the entire downstream cache. Yet overwriting the field's own key/value vectors and reusing the rest",
+    "summary": "arXiv:2606.17107v1 Announce Type: new Abstract: Prefix caching reuses prefill only across an exactly shared prefix, so one changed field invalidates the entire downstream cache. Yet overwriting the field's own key/value vectors and reusing the rest l",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852072+05:30"
+    "last_updated": "2026-06-17T16:47:25.183003+05:30"
   },
   {
     "title": "MODF-SIR: A Multi-agent Omni-modal Distilled Framework for Social Intelligence Reasoning",
@@ -36146,6 +36144,24 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-16T04:25:58.979681+00:00"
+  },
+  {
+    "title": "continuedev/continue",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-trending",
+      "typescript"
+    ],
+    "source_url": "https://github.com/continuedev/continue",
+    "local_path": "ai/agents/continuedev-continue.md",
+    "summary": "open-source coding agent",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:27.410850+05:30"
   },
   {
     "title": "Sameera-Nazneen/AutogeneratedCV.github.io",
@@ -36445,7 +36461,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-17T10:46:15.414889+05:30"
+    "last_updated": "2026-06-17T16:47:29.284444+05:30"
   },
   {
     "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
@@ -37305,12 +37321,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17541",
     "local_path": "ai/agents/arxiv-2606-17541.md",
-    "summary": "arXiv:2606.17541v1 Announce Type: cross Abstract: Offline evaluation of agentic systems often collapses trajectories to terminal success, discarding information about partial progress and inducing widespread ties, creating substantial statistical ine",
+    "summary": "arXiv:2606.17541v1 Announce Type: new Abstract: Offline evaluation of agentic systems often collapses trajectories to terminal success, discarding information about partial progress and inducing widespread ties, creating substantial statistical ineff",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852902+05:30"
+    "last_updated": "2026-06-17T16:47:25.183673+05:30"
   },
   {
     "title": "Deep Learning-Based Lunar Crater Terrain Relative Navigation",
@@ -37838,12 +37854,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18144",
     "local_path": "ai/agents/arxiv-2606-18144.md",
-    "summary": "arXiv:2606.18144v1 Announce Type: new Abstract: A robot's flash endurance is a non-renewable stock: every persisted write spends one of a few thousand program/erase cycles and never refills, yet no fielded robot memory system prices which memories ar",
+    "summary": "arXiv:2606.18144v1 Announce Type: cross Abstract: A robot's flash endurance is a non-renewable stock: every persisted write spends one of a few thousand program/erase cycles and never refills, yet no fielded robot memory system prices which memories",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851786+05:30"
+    "last_updated": "2026-06-17T16:47:25.190704+05:30"
   },
   {
     "title": "CoAgent: Concurrency Control for Multi-Agent Systems",
@@ -38677,12 +38693,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2507.05169",
     "local_path": "ai/agents/arxiv-2507-05169.md",
-    "summary": "arXiv:2507.05169v4 Announce Type: replace-cross Abstract: World Model, the algorithmic simulator of the real-world environment which biological agents experience and act upon, has been an emerging topic in recent years due to the rising need to devel",
+    "summary": "arXiv:2507.05169v4 Announce Type: replace Abstract: World Model, the algorithmic simulator of the real-world environment which biological agents experience and act upon, has been an emerging topic in recent years due to the rising need to develop vir",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854365+05:30"
+    "last_updated": "2026-06-17T16:47:25.191099+05:30"
   },
   {
     "title": "Not All Skills Help: Measuring and Repairing Agent Knowledge",
@@ -39722,6 +39738,24 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-12T10:40:03.102081+00:00"
+  },
+  {
+    "title": "bytedance/UI-TARS-desktop",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-trending",
+      "typescript"
+    ],
+    "source_url": "https://github.com/bytedance/ui-tars-desktop",
+    "local_path": "ai/agents/bytedance-ui-tars-desktop.md",
+    "summary": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:27.412203+05:30"
   },
   {
     "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
@@ -41124,6 +41158,24 @@
     "last_updated": "2026-06-16T04:26:04.048848+00:00"
   },
   {
+    "title": "obra/superpowers",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "github-trending",
+      "shell"
+    ],
+    "source_url": "https://github.com/obra/superpowers",
+    "local_path": "ai/agents/obra-superpowers.md",
+    "summary": "An agentic skills framework & software development methodology that works.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-17T16:47:27.409567+05:30"
+  },
+  {
     "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -41770,6 +41822,22 @@
     "last_updated": "2026-06-16T04:25:58.974754+00:00"
   },
   {
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents"
+    ],
+    "source_url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "local_path": "ai/agents/huggingface-blog-amazon-strands-lerobot-hub-to-hardware.md",
+    "summary": "No summary provided. Reference resource: From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-17T16:47:25.203206+05:30"
+  },
+  {
     "title": "A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -42113,12 +42181,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2507.18623",
     "local_path": "ai/agents/arxiv-2507-18623.md",
-    "summary": "arXiv:2507.18623v4 Announce Type: replace-cross Abstract: The ability to adapt to physical actions and constraints in an environment is crucial for embodied agents (e.g., robots) to effectively collaborate with humans. Such physically grounded human-",
+    "summary": "arXiv:2507.18623v4 Announce Type: replace Abstract: The ability to adapt to physical actions and constraints in an environment is crucial for embodied agents (e.g., robots) to effectively collaborate with humans. Such physically grounded human-AI col",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854421+05:30"
+    "last_updated": "2026-06-17T16:47:25.191141+05:30"
   },
   {
     "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
@@ -43400,30 +43468,12 @@
     ],
     "source_url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time",
     "local_path": "ai/community/humiliating-iis-servers-for-fun-and-jail-time.md",
-    "summary": "Hacker News story by denysvitali. Score: 162, Comments: 31. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+    "summary": "Hacker News story by denysvitali. Score: 279, Comments: 65. Original Link: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:12.028261+05:30"
-  },
-  {
-    "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-    "category": "ai/community",
-    "section": "automation-workflows",
-    "tags": [
-      "ai",
-      "hackernews",
-      "producthunt"
-    ],
-    "source_url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-    "local_path": "ai/community/wolfram-language-and-mathematica-version-15-ai-ass.md",
-    "summary": "Hacker News story by alok-g. Score: 123, Comments: 41. Original Link: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-    "quality_score": 70,
-    "archive_score": 72,
-    "archive_tier": "useful",
-    "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:12.210845+05:30"
+    "last_updated": "2026-06-17T16:47:26.108684+05:30"
   },
   {
     "title": "Has AI already killed self-help nonfiction books?",
@@ -43435,12 +43485,30 @@
     ],
     "source_url": "https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction",
     "local_path": "ai/community/has-ai-already-killed-self-help-nonfiction-books.md",
-    "summary": "Hacker News story by imakwana. Score: 218, Comments: 231. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
+    "summary": "Hacker News story by imakwana. Score: 320, Comments: 360. Original Link: https://tim.blog/2026/06/12/has-ai-already-killed-nonfiction/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:12.982779+05:30"
+    "last_updated": "2026-06-17T16:47:26.872687+05:30"
+  },
+  {
+    "title": "Making 'food out of thin air' (2024)",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews",
+      "reddit"
+    ],
+    "source_url": "https://noemamag.com/making-food-out-of-thin-air",
+    "local_path": "ai/community/making-food-out-of-thin-air-2024.md",
+    "summary": "Hacker News story by muchweight. Score: 23, Comments: 5. Original Link: https://www.noemamag.com/making-food-out-of-thin-air/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-17T16:47:27.764339+05:30"
   },
   {
     "title": "Stop Killing Games fails to secure EU law despite 1.3M signatures",
@@ -43452,47 +43520,30 @@
     ],
     "source_url": "https://dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431",
     "local_path": "ai/community/stop-killing-games-fails-to-secure-eu-law-despite.md",
-    "summary": "Hacker News story by slymax. Score: 84, Comments: 20. Original Link: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
+    "summary": "Hacker News story by slymax. Score: 270, Comments: 189. Original Link: https://www.dexerto.com/gaming/stop-killing-games-fails-to-secure-eu-law-despite-1-3m-signatures-3376431/",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:13.287167+05:30"
+    "last_updated": "2026-06-17T16:47:27.604994+05:30"
   },
   {
-    "title": "Apple is about to make Hide My Email useless",
+    "title": "The founder's playbook: Building an AI-native startup",
     "category": "ai/community",
-    "section": "automation-workflows",
+    "section": "startup-builder",
     "tags": [
       "ai",
+      "anthropic",
       "hackernews"
     ],
-    "source_url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless",
-    "local_path": "ai/community/apple-is-about-to-make-hide-my-email-useless.md",
-    "summary": "Hacker News story by SXX. Score: 437, Comments: 275. Original Link: https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "source_url": "https://claude.com/blog/the-founders-playbook",
+    "local_path": "ai/community/the-founder-s-playbook-building-an-ai-native-start.md",
+    "summary": "Hacker News story by e2e4. Score: 102, Comments: 93. Original Link: https://claude.com/blog/the-founders-playbook",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:15.672738+05:30"
-  },
-  {
-    "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
-    "category": "ai/community",
-    "section": "automation-workflows",
-    "tags": [
-      "ai",
-      "hackernews",
-      "openai"
-    ],
-    "source_url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-    "local_path": "ai/community/leaked-openai-financials-show-38-5b-loss-and-compu.md",
-    "summary": "Hacker News story by TechApocalypse. Score: 128, Comments: 100. Original Link: https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-    "quality_score": 70,
-    "archive_score": 72,
-    "archive_tier": "useful",
-    "resource_kind": "workflow",
-    "last_updated": "2026-06-17T10:46:11.523723+05:30"
+    "last_updated": "2026-06-17T16:47:26.603586+05:30"
   },
   {
     "title": "Haiku to Opus in Just 10 bits: LLMs Unlock Large Compression Gains",
@@ -43749,12 +43800,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17399",
     "local_path": "ai/research/arxiv-2606-17399.md",
-    "summary": "arXiv:2606.17399v1 Announce Type: cross Abstract: When small transformers grok modular multiplication, prior work reports that the learned embedding has a \"dense\" Fourier spectrum requiring all frequencies. This contrasts with modular addition, where",
+    "summary": "arXiv:2606.17399v1 Announce Type: new Abstract: When small transformers grok modular multiplication, prior work reports that the learned embedding has a \"dense\" Fourier spectrum requiring all frequencies. This contrasts with modular addition, where o",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852509+05:30"
+    "last_updated": "2026-06-17T16:47:25.183310+05:30"
   },
   {
     "title": "A Theory of Training Profit-Optimal LLMs",
@@ -44648,12 +44699,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.16337",
     "local_path": "ai/research/arxiv-2606-16337.md",
-    "summary": "arXiv:2606.16337v2 Announce Type: replace Abstract: Predictive modeling for clinical tabular data is central to clinical decision support and therefore requires not only strong predictive performance but also transparent decision logic. Although deep",
+    "summary": "arXiv:2606.16337v2 Announce Type: replace-cross Abstract: Predictive modeling for clinical tabular data is central to clinical decision support and therefore requires not only strong predictive performance but also transparent decision logic. Althoug",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854180+05:30"
+    "last_updated": "2026-06-17T16:47:25.192967+05:30"
   },
   {
     "title": "The Quality-Utility Paradox: Why High-Reward Data Impairs Small Model Mathematical Reasoning",
@@ -45030,12 +45081,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18071",
     "local_path": "ai/research/arxiv-2606-18071.md",
-    "summary": "arXiv:2606.18071v1 Announce Type: cross Abstract: Score-based diffusion models typically use Brownian perturbations, which provide tractable reverse-time dynamics but impose memoryless noising. We introduce Volterra generative models, a continuous-ti",
+    "summary": "arXiv:2606.18071v1 Announce Type: new Abstract: Score-based diffusion models typically use Brownian perturbations, which provide tractable reverse-time dynamics but impose memoryless noising. We introduce Volterra generative models, a continuous-time",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853610+05:30"
+    "last_updated": "2026-06-17T16:47:25.184398+05:30"
   },
   {
     "title": "Non-negative Matrix Factorisation with Topological Regularisation",
@@ -45058,12 +45109,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17889",
     "local_path": "ai/research/arxiv-2606-17889.md",
-    "summary": "arXiv:2606.17889v1 Announce Type: cross Abstract: Compositional learning systems must balance plasticity, the ability to acquire new knowledge, with stability, the preservation of previously learned components, especially when tasks share structure a",
+    "summary": "arXiv:2606.17889v1 Announce Type: new Abstract: Compositional learning systems must balance plasticity, the ability to acquire new knowledge, with stability, the preservation of previously learned components, especially when tasks share structure and",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853373+05:30"
+    "last_updated": "2026-06-17T16:47:25.184083+05:30"
   },
   {
     "title": "NetBurst: Event-Centric Forecasting of Bursty, Intermittent Time Series",
@@ -45761,12 +45812,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2605.12646",
     "local_path": "ai/research/arxiv-2605-12646.md",
-    "summary": "arXiv:2605.12646v2 Announce Type: replace-cross Abstract: It is widely agreed that when AI models assist decision-makers in high-stakes domains by predicting an outcome of interest, they should communicate the confidence of their predictions. However",
+    "summary": "arXiv:2605.12646v2 Announce Type: replace Abstract: It is widely agreed that when AI models assist decision-makers in high-stakes domains by predicting an outcome of interest, they should communicate the confidence of their predictions. However, empi",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:10.855010+05:30"
+    "last_updated": "2026-06-17T16:47:25.191732+05:30"
   },
   {
     "title": "RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs",
@@ -48222,12 +48273,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17057",
     "local_path": "ai/research/arxiv-2606-17057.md",
-    "summary": "arXiv:2606.17057v1 Announce Type: cross Abstract: Although Knowledge Editing provides an efficient mechanism for updating the knowledge of Multimodal Large Language Models (MLLMs), we find that current paradigms still suffer from an important yet rem",
+    "summary": "arXiv:2606.17057v1 Announce Type: new Abstract: Although Knowledge Editing provides an efficient mechanism for updating the knowledge of Multimodal Large Language Models (MLLMs), we find that current paradigms still suffer from an important yet remai",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.851876+05:30"
+    "last_updated": "2026-06-17T16:47:25.182918+05:30"
   },
   {
     "title": "From Observation to Intervention: A Causal Audit of Expert Importance in Mixture-of-Experts Models",
@@ -48948,12 +48999,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2602.10635",
     "local_path": "ai/research/arxiv-2602-10635.md",
-    "summary": "arXiv:2602.10635v3 Announce Type: replace Abstract: Socially intelligent AI systems must reason across diverse human behavioral tasks and generalize to new social contexts. However, behavioral data is inherently heterogeneous, comprising diverse moda",
+    "summary": "arXiv:2602.10635v3 Announce Type: replace-cross Abstract: Socially intelligent AI systems must reason across diverse human behavioral tasks and generalize to new social contexts. However, behavioral data is inherently heterogeneous, comprising divers",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853902+05:30"
+    "last_updated": "2026-06-17T16:47:25.192436+05:30"
   },
   {
     "title": "In-Context Environments Induce Evaluation-Awareness in Language Models",
@@ -48968,12 +49019,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2603.03824",
     "local_path": "ai/research/arxiv-2603-03824.md",
-    "summary": "arXiv:2603.03824v2 Announce Type: replace Abstract: Humans often become more self-aware under threat, yet can lose self-awareness when absorbed in a task; we hypothesize that language models exhibit environment-dependent \\textit{evaluation awareness}",
+    "summary": "arXiv:2603.03824v2 Announce Type: replace-cross Abstract: Humans often become more self-aware under threat, yet can lose self-awareness when absorbed in a task; we hypothesize that language models exhibit environment-dependent \\textit{evaluation awar",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853963+05:30"
+    "last_updated": "2026-06-17T16:47:25.192567+05:30"
   },
   {
     "title": "Topological Flow Matching",
@@ -49351,12 +49402,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.18208",
     "local_path": "ai/research/arxiv-2606-18208.md",
-    "summary": "arXiv:2606.18208v1 Announce Type: cross Abstract: Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this b",
+    "summary": "arXiv:2606.18208v1 Announce Type: new Abstract: Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this by",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853800+05:30"
+    "last_updated": "2026-06-17T16:47:25.184536+05:30"
   },
   {
     "title": "Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era",
@@ -49398,12 +49449,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.03089",
     "local_path": "ai/research/arxiv-2606-03089.md",
-    "summary": "arXiv:2606.03089v2 Announce Type: replace-cross Abstract: On-policy self-distillation (OPSD) has emerged as an efficient post-training paradigm by using a teacher conditioned on privileged information to provide dense token-level supervision. Prior w",
+    "summary": "arXiv:2606.03089v2 Announce Type: replace Abstract: On-policy self-distillation (OPSD) has emerged as an efficient post-training paradigm by using a teacher conditioned on privileged information to provide dense token-level supervision. Prior work ha",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.855169+05:30"
+    "last_updated": "2026-06-17T16:47:25.191746+05:30"
   },
   {
     "title": "Physics-Informed Attention Mechanism and Generalization Capability of Deep Learning-Based Grain Growth Evolution Prediction",
@@ -49846,12 +49897,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2603.22372",
     "local_path": "ai/research/arxiv-2603-22372.md",
-    "summary": "arXiv:2603.22372v2 Announce Type: replace-cross Abstract: Recent advances in multimodal learning have motivated the integration of auxiliary modalities such as text or vision into time series (TS) forecasting. However, most existing methods provide l",
+    "summary": "arXiv:2603.22372v2 Announce Type: replace Abstract: Recent advances in multimodal learning have motivated the integration of auxiliary modalities such as text or vision into time series (TS) forecasting. However, most existing methods provide limited",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854838+05:30"
+    "last_updated": "2026-06-17T16:47:25.191617+05:30"
   },
   {
     "title": "Continual Backdoor Training in IoT/CPS",
@@ -50529,12 +50580,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2604.18701",
     "local_path": "ai/research/arxiv-2604-18701.md",
-    "summary": "arXiv:2604.18701v3 Announce Type: replace-cross Abstract: Local prediction-error-based curiosity rewards focus on the current transition without considering the world model's cumulative prediction error across all visited transitions. We introduce Cu",
+    "summary": "arXiv:2604.18701v3 Announce Type: replace Abstract: Local prediction-error-based curiosity rewards focus on the current transition without considering the world model's cumulative prediction error across all visited transitions. We introduce Curiosit",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854964+05:30"
+    "last_updated": "2026-06-17T16:47:25.191675+05:30"
   },
   {
     "title": "SciText2Eq: Assessing LLMs for Explainable Equation Generation for Scientific Creativity",
@@ -51045,12 +51096,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.14990",
     "local_path": "ai/research/arxiv-2606-14990.md",
-    "summary": "arXiv:2606.14990v2 Announce Type: replace-cross Abstract: Sparse autoencoders (SAEs) are standard tools for mechanistic interpretability, but current SAE families are constrained by fixed encoder nonlinearities such as ReLU, JumpReLU, and TopK. This",
+    "summary": "arXiv:2606.14990v2 Announce Type: replace Abstract: Sparse autoencoders (SAEs) are standard tools for mechanistic interpretability, but current SAE families are constrained by fixed encoder nonlinearities such as ReLU, JumpReLU, and TopK. This hard-c",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.855321+05:30"
+    "last_updated": "2026-06-17T16:47:25.191874+05:30"
   },
   {
     "title": "Democracy in the Era of Artificial Intelligence",
@@ -51076,12 +51127,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17660",
     "local_path": "ai/research/arxiv-2606-17660.md",
-    "summary": "arXiv:2606.17660v1 Announce Type: cross Abstract: Fine-tuning large language models (LLMs) is compute-intensive and error-prone: model performance depends sensitively on data quality and hyperparameter choices, and na\\\"ive runs can even degrade model",
+    "summary": "arXiv:2606.17660v1 Announce Type: new Abstract: Fine-tuning large language models (LLMs) is compute-intensive and error-prone: model performance depends sensitively on data quality and hyperparameter choices, and na\\\"ive runs can even degrade model p",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853040+05:30"
+    "last_updated": "2026-06-17T16:47:25.183827+05:30"
   },
   {
     "title": "Prism: Cost-Efficient Multi-LLM Serving via GPU Memory Ballooning",
@@ -51136,12 +51187,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17952",
     "local_path": "ai/research/arxiv-2606-17952.md",
-    "summary": "arXiv:2606.17952v1 Announce Type: cross Abstract: Sparse Mixture-of-Experts (MoE) architectures enable scaling LLM parameters under a fixed inference budget by activating only a small subset of experts via top-$k$ routing. While this preserves causal",
+    "summary": "arXiv:2606.17952v1 Announce Type: new Abstract: Sparse Mixture-of-Experts (MoE) architectures enable scaling LLM parameters under a fixed inference budget by activating only a small subset of experts via top-$k$ routing. While this preserves causalit",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853442+05:30"
+    "last_updated": "2026-06-17T16:47:25.184128+05:30"
   },
   {
     "title": "Optimism Stabilizes Thompson Sampling for Adaptive Inference",
@@ -51152,12 +51203,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2602.06014",
     "local_path": "ai/research/arxiv-2602-06014.md",
-    "summary": "arXiv:2602.06014v2 Announce Type: replace-cross Abstract: Thompson sampling (TS) is widely used for stochastic multi-armed bandits, yet its inferential properties under adaptive data collection are subtle. Classical asymptotic theory for sample means",
+    "summary": "arXiv:2602.06014v2 Announce Type: replace Abstract: Thompson sampling (TS) is widely used for stochastic multi-armed bandits, yet its inferential properties under adaptive data collection are subtle. Classical asymptotic theory for sample means can f",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854715+05:30"
+    "last_updated": "2026-06-17T16:47:25.191392+05:30"
   },
   {
     "title": "Quantum-classical hybrid models based on error correction for time series forecasting",
@@ -51224,12 +51275,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17345",
     "local_path": "ai/research/arxiv-2606-17345.md",
-    "summary": "arXiv:2606.17345v1 Announce Type: cross Abstract: Although pitch sequencing is a central topic in baseball analytics, previous studies have primarily focused on optimizing the final pitch within a single plate appearance, leaving the role of precedin",
+    "summary": "arXiv:2606.17345v1 Announce Type: new Abstract: Although pitch sequencing is a central topic in baseball analytics, previous studies have primarily focused on optimizing the final pitch within a single plate appearance, leaving the role of preceding",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852362+05:30"
+    "last_updated": "2026-06-17T16:47:25.183263+05:30"
   },
   {
     "title": "Aligning Quantum Operators with Large Language Models",
@@ -52908,12 +52959,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17409",
     "local_path": "ai/research/arxiv-2606-17409.md",
-    "summary": "arXiv:2606.17409v1 Announce Type: cross Abstract: Planar path synthesis requires mechanisms whose coupler curves match a prescribed trajectory; the mapping from curve to linkage is inherently one-to-many across four-, six-, and eight-bar topologies.",
+    "summary": "arXiv:2606.17409v1 Announce Type: new Abstract: Planar path synthesis requires mechanisms whose coupler curves match a prescribed trajectory; the mapping from curve to linkage is inherently one-to-many across four-, six-, and eight-bar topologies. We",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852544+05:30"
+    "last_updated": "2026-06-17T16:47:25.183325+05:30"
   },
   {
     "title": "Operator Boosting Produces Pareto-Efficient PDE Surrogates",
@@ -53751,12 +53802,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17579",
     "local_path": "ai/research/arxiv-2606-17579.md",
-    "summary": "arXiv:2606.17579v1 Announce Type: cross Abstract: Adding LLM-generated node features to graph neural networks (GNNs) is widely reported to improve accuracy on standard benchmarks. We document a contrasting observation: when LLM features are introduce",
+    "summary": "arXiv:2606.17579v1 Announce Type: new Abstract: Adding LLM-generated node features to graph neural networks (GNNs) is widely reported to improve accuracy on standard benchmarks. We document a contrasting observation: when LLM features are introduced",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-17T10:46:10.852948+05:30"
+    "last_updated": "2026-06-17T16:47:25.183765+05:30"
   },
   {
     "title": "From Drift to Coherence: Stabilizing Beliefs in LLMs",
@@ -54126,12 +54177,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2602.03846",
     "local_path": "ai/research/arxiv-2602-03846.md",
-    "summary": "arXiv:2602.03846v2 Announce Type: replace-cross Abstract: We develop a continual learning method for pretrained models that \\emph{requires no access to old-task data}, addressing a practical barrier in foundation model adaptation where pretraining di",
+    "summary": "arXiv:2602.03846v2 Announce Type: replace Abstract: We develop a continual learning method for pretrained models that \\emph{requires no access to old-task data}, addressing a practical barrier in foundation model adaptation where pretraining distribu",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854704+05:30"
+    "last_updated": "2026-06-17T16:47:25.191359+05:30"
   },
   {
     "title": "Can Vision Foundation Models Navigate? Zero-Shot Real-World Evaluation and Lessons Learned",
@@ -54411,12 +54462,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17649",
     "local_path": "ai/research/arxiv-2606-17649.md",
-    "summary": "arXiv:2606.17649v1 Announce Type: cross Abstract: The high cost of fine-tuning LLMs poses a significant economic barrier; pre-hoc performance prediction offers a critical solution to substantially reduce this expense. However, the theoretical limits",
+    "summary": "arXiv:2606.17649v1 Announce Type: new Abstract: The high cost of fine-tuning LLMs poses a significant economic barrier; pre-hoc performance prediction offers a critical solution to substantially reduce this expense. However, the theoretical limits of",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853029+05:30"
+    "last_updated": "2026-06-17T16:47:25.183796+05:30"
   },
   {
     "title": "Towards Distributed Inference of LLMs on a P2P Network",
@@ -55679,12 +55730,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18122",
     "local_path": "ai/research/arxiv-2606-18122.md",
-    "summary": "arXiv:2606.18122v1 Announce Type: cross Abstract: Embedded machine learning moves inference from cloud services to resource-constrained devices that must acquire data, preprocess signals, run a model, and act within tight limits on memory, energy, an",
+    "summary": "arXiv:2606.18122v1 Announce Type: new Abstract: Embedded machine learning moves inference from cloud services to resource-constrained devices that must acquire data, preprocess signals, run a model, and act within tight limits on memory, energy, and",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853689+05:30"
+    "last_updated": "2026-06-17T16:47:25.184505+05:30"
   },
   {
     "title": "Anatomy of Post-Training: Using Interpretability to Characterize Data and Shape the Learning Signal",
@@ -55761,12 +55812,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17115",
     "local_path": "ai/research/arxiv-2606-17115.md",
-    "summary": "arXiv:2606.17115v1 Announce Type: cross Abstract: Foundation models (FMs) have emerged as powerful representation extractors for medical data, yet their generalizability to datasets under distribution shift remains underexplored. This work systematic",
+    "summary": "arXiv:2606.17115v1 Announce Type: new Abstract: Foundation models (FMs) have emerged as powerful representation extractors for medical data, yet their generalizability to datasets under distribution shift remains underexplored. This work systematical",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.852110+05:30"
+    "last_updated": "2026-06-17T16:47:25.183042+05:30"
   },
   {
     "title": "The Weight Norm Sets the Grokking Timescale: A Causal Delay Law",
@@ -57436,12 +57487,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17810",
     "local_path": "ai/research/arxiv-2606-17810.md",
-    "summary": "arXiv:2606.17810v1 Announce Type: cross Abstract: In this paper, we establish a set of theoretical impossibility results, termed the No-Free-Fairness theorems, that identify three fundamental sources of disparity in learning systems. First, we show t",
+    "summary": "arXiv:2606.17810v1 Announce Type: new Abstract: In this paper, we establish a set of theoretical impossibility results, termed the No-Free-Fairness theorems, that identify three fundamental sources of disparity in learning systems. First, we show tha",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853247+05:30"
+    "last_updated": "2026-06-17T16:47:25.183978+05:30"
   },
   {
     "title": "SupraBench: A Benchmark for Supramolecular Chemistry",
@@ -57523,12 +57574,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2507.11178",
     "local_path": "ai/research/arxiv-2507-11178.md",
-    "summary": "arXiv:2507.11178v3 Announce Type: replace-cross Abstract: With the advancement of deep learning technologies, various neural network-based Granger causality models have been proposed. Although these models have demonstrated notable improvements, seve",
+    "summary": "arXiv:2507.11178v3 Announce Type: replace Abstract: With the advancement of deep learning technologies, various neural network-based Granger causality models have been proposed. Although these models have demonstrated notable improvements, several li",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854376+05:30"
+    "last_updated": "2026-06-17T16:47:25.191113+05:30"
   },
   {
     "title": "Functional Equivalence in Attention: A Comprehensive Study with Applications to Linear Mode Connectivity",
@@ -57537,12 +57588,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17830",
     "local_path": "ai/research/arxiv-2606-17830.md",
-    "summary": "arXiv:2606.17830v1 Announce Type: cross Abstract: Neural network parameter spaces are inherently non-injective, as distinct parameter configurations can realize identical functions through functional equivalence. While this symmetry is well understoo",
+    "summary": "arXiv:2606.17830v1 Announce Type: new Abstract: Neural network parameter spaces are inherently non-injective, as distinct parameter configurations can realize identical functions through functional equivalence. While this symmetry is well understood",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853304+05:30"
+    "last_updated": "2026-06-17T16:47:25.184008+05:30"
   },
   {
     "title": "SegDINO: Introducing Multi-Scale Structure into DINO for Efficient Medical Image Segmentation",
@@ -57987,12 +58038,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17706",
     "local_path": "ai/research/arxiv-2606-17706.md",
-    "summary": "arXiv:2606.17706v1 Announce Type: cross Abstract: Curriculum learning couples two design choices, how samples are scored by difficulty and how harder samples are paced into training, making it difficult to attribute observed gains to either component",
+    "summary": "arXiv:2606.17706v1 Announce Type: new Abstract: Curriculum learning couples two design choices, how samples are scored by difficulty and how harder samples are paced into training, making it difficult to attribute observed gains to either component.",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853132+05:30"
+    "last_updated": "2026-06-17T16:47:25.183903+05:30"
   },
   {
     "title": "ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation",
@@ -58799,12 +58850,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2602.07429",
     "local_path": "ai/research/arxiv-2602-07429.md",
-    "summary": "arXiv:2602.07429v2 Announce Type: replace-cross Abstract: Boundary representation (B-rep) is the industry standard for computer-aided design (CAD). While deep learning shows promise in processing B-rep models, existing methods suffer from a represent",
+    "summary": "arXiv:2602.07429v2 Announce Type: replace Abstract: Boundary representation (B-rep) is the industry standard for computer-aided design (CAD). While deep learning shows promise in processing B-rep models, existing methods suffer from a representation",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854726+05:30"
+    "last_updated": "2026-06-17T16:47:25.191454+05:30"
   },
   {
     "title": "Incentives and Evidence in Learned Service Orchestration",
@@ -58863,12 +58914,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17996",
     "local_path": "ai/research/arxiv-2606-17996.md",
-    "summary": "arXiv:2606.17996v1 Announce Type: cross Abstract: Cyclicity and trend are important components of time series data and many studies based on cyclicity and trend have achieved good results in long-term time series forecasting. However, we believe that",
+    "summary": "arXiv:2606.17996v1 Announce Type: new Abstract: Cyclicity and trend are important components of time series data and many studies based on cyclicity and trend have achieved good results in long-term time series forecasting. However, we believe that c",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853497+05:30"
+    "last_updated": "2026-06-17T16:47:25.184143+05:30"
   },
   {
     "title": "Neural Variability Enhances Artificial Network Robustness",
@@ -59575,12 +59626,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17668",
     "local_path": "ai/research/arxiv-2606-17668.md",
-    "summary": "arXiv:2606.17668v1 Announce Type: cross Abstract: Molecular dynamics (MD) simulation is computationally demanding, particularly for large-scale systems requiring long-term analysis. Accurate forecast of the outcomes of a MD simulation is not only an",
+    "summary": "arXiv:2606.17668v1 Announce Type: new Abstract: Molecular dynamics (MD) simulation is computationally demanding, particularly for large-scale systems requiring long-term analysis. Accurate forecast of the outcomes of a MD simulation is not only an at",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853086+05:30"
+    "last_updated": "2026-06-17T16:47:25.183857+05:30"
   },
   {
     "title": "StagePilot: Stage-Level Planning for Long-Horizon Dialogue Simulation in Cybergrooming",
@@ -60513,12 +60564,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17516",
     "local_path": "ai/research/arxiv-2606-17516.md",
-    "summary": "arXiv:2606.17516v1 Announce Type: cross Abstract: Causal discovery from observational data remains challenging due to the need to recover directed structure and latent confounding without interventions. We propose FoundCause, an amortized causal disc",
+    "summary": "arXiv:2606.17516v1 Announce Type: new Abstract: Causal discovery from observational data remains challenging due to the need to recover directed structure and latent confounding without interventions. We propose FoundCause, an amortized causal discov",
     "quality_score": 70,
     "archive_score": 76,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-17T10:46:10.852854+05:30"
+    "last_updated": "2026-06-17T16:47:25.183611+05:30"
   },
   {
     "title": "Auditing Machine Unlearning: A Systematic Research on Whether Models Truly Forget",
@@ -61068,12 +61119,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18096",
     "local_path": "ai/research/arxiv-2606-18096.md",
-    "summary": "arXiv:2606.18096v1 Announce Type: cross Abstract: Structured State Space Models (SSMs), including the S4 and S4D architectures, have recently emerged as powerful alternatives to attention-based models for capturing long-range dependencies in sequenti",
+    "summary": "arXiv:2606.18096v1 Announce Type: new Abstract: Structured State Space Models (SSMs), including the S4 and S4D architectures, have recently emerged as powerful alternatives to attention-based models for capturing long-range dependencies in sequential",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853633+05:30"
+    "last_updated": "2026-06-17T16:47:25.184445+05:30"
   },
   {
     "title": "Position: Align AI to Our Aspirations, Not Our Flaws",
@@ -63699,12 +63750,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2603.26592",
     "local_path": "ai/research/arxiv-2603-26592.md",
-    "summary": "arXiv:2603.26592v2 Announce Type: replace-cross Abstract: Reliable machine-learning models in biomedical settings depend on accurate labels, yet annotating biomedical time-series data remains challenging. Algorithmic sample selection may support anno",
+    "summary": "arXiv:2603.26592v2 Announce Type: replace Abstract: Reliable machine-learning models in biomedical settings depend on accurate labels, yet annotating biomedical time-series data remains challenging. Algorithmic sample selection may support annotation",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:46:10.854886+05:30"
+    "last_updated": "2026-06-17T16:47:25.191631+05:30"
   },
   {
     "title": "A Dynamical Systems Perspective on the Analysis of Neural Networks",
@@ -63729,12 +63780,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17816",
     "local_path": "ai/research/arxiv-2606-17816.md",
-    "summary": "arXiv:2606.17816v1 Announce Type: cross Abstract: Understanding gradient descent dynamics is key to explaining the success of over-parameterized models, where implicit bias manifests through conservation laws in gradient flow. While such laws are wel",
+    "summary": "arXiv:2606.17816v1 Announce Type: new Abstract: Understanding gradient descent dynamics is key to explaining the success of over-parameterized models, where implicit bias manifests through conservation laws in gradient flow. While such laws are well",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853258+05:30"
+    "last_updated": "2026-06-17T16:47:25.183994+05:30"
   },
   {
     "title": "From inverse problems to neural operators: prediction, mechanism, and generalization of data-driven models",
@@ -63807,12 +63858,12 @@
     "tags": [],
     "source_url": "https://arxiv.org/abs/2606.17872",
     "local_path": "ai/research/arxiv-2606-17872.md",
-    "summary": "arXiv:2606.17872v1 Announce Type: cross Abstract: Large language models (LLMs) outperform earlier architectures on generative inference and long-context tasks, but their large size introduces significant challenges in memory usage, energy cost, and o",
+    "summary": "arXiv:2606.17872v1 Announce Type: new Abstract: Large language models (LLMs) outperform earlier architectures on generative inference and long-context tasks, but their large size introduces significant challenges in memory usage, energy cost, and on-",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853350+05:30"
+    "last_updated": "2026-06-17T16:47:25.184053+05:30"
   },
   {
     "title": "Minimal surfaces, Knots, and Neural Networks",
@@ -63874,12 +63925,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2503.10945",
     "local_path": "ai/research/arxiv-2503-10945.md",
-    "summary": "arXiv:2503.10945v3 Announce Type: replace-cross Abstract: Current practices for reporting differential privacy (DP) guarantees for machine learning (ML) algorithms such as DP-SGD provide an incomplete and potentially misleading picture. For instance,",
+    "summary": "arXiv:2503.10945v3 Announce Type: replace Abstract: Current practices for reporting differential privacy (DP) guarantees for machine learning (ML) algorithms such as DP-SGD provide an incomplete and potentially misleading picture. For instance, if on",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854296+05:30"
+    "last_updated": "2026-06-17T16:47:25.190997+05:30"
   },
   {
     "title": "Free Energy Heuristics: Fast-And-Frugal Cognition as Active Inference Under Uncertain Precision",
@@ -63986,12 +64037,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18024",
     "local_path": "ai/research/arxiv-2606-18024.md",
-    "summary": "arXiv:2606.18024v1 Announce Type: cross Abstract: Catastrophic forgetting in continual adaptation is usually studied through parameter drift, replay, or distillation, but these views do not identify which output-space directions are vulnerable. We gi",
+    "summary": "arXiv:2606.18024v1 Announce Type: new Abstract: Catastrophic forgetting in continual adaptation is usually studied through parameter drift, replay, or distillation, but these views do not identify which output-space directions are vulnerable. We give",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853551+05:30"
+    "last_updated": "2026-06-17T16:47:25.184334+05:30"
   },
   {
     "title": "Order Is Not Control: Driven-Dissipative Response Laws Across Artificial and Biological Systems",
@@ -64862,12 +64913,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2604.24357",
     "local_path": "ai/research/arxiv-2604-24357.md",
-    "summary": "arXiv:2604.24357v2 Announce Type: replace-cross Abstract: Diffusion language models generate without a fixed left-to-right order, leaving token ordering as a central algorithmic choice. Existing systems mainly use random masking or confidence-driven",
+    "summary": "arXiv:2604.24357v2 Announce Type: replace Abstract: Diffusion language models generate without a fixed left-to-right order, leaving token ordering as a central algorithmic choice. Existing systems mainly use random masking or confidence-driven orderi",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854976+05:30"
+    "last_updated": "2026-06-17T16:47:25.191688+05:30"
   },
   {
     "title": "Integrating Reasoning and Generalization in Text-to-SQL via Self-Enhanced Fine-Tuning",
@@ -65351,12 +65402,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.18186",
     "local_path": "ai/research/arxiv-2606-18186.md",
-    "summary": "arXiv:2606.18186v1 Announce Type: cross Abstract: Finite-dimensional (FD) diffusion policies exhibit temporal drift owing to discretization artifacts that degrade long-horizon performance (when deployed on physical systems). We introduce a backward K",
+    "summary": "arXiv:2606.18186v1 Announce Type: new Abstract: Finite-dimensional (FD) diffusion policies exhibit temporal drift owing to discretization artifacts that degrade long-horizon performance (when deployed on physical systems). We introduce a backward Kol",
     "quality_score": 70,
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-17T10:46:10.853766+05:30"
+    "last_updated": "2026-06-17T16:47:25.184520+05:30"
   },
   {
     "title": "KANLib -- An Modular, Extensible and Fast Kolmogorov-Arnold Network Implementation",
@@ -65370,12 +65421,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2606.17927",
     "local_path": "ai/research/arxiv-2606-17927.md",
-    "summary": "arXiv:2606.17927v1 Announce Type: cross Abstract: Kolmogorov-Arnold Networks (KANs) have recently emerged as a promising alternative to traditional multilayer perceptrons by replacing linear weights with learnable univariate functions. Despite their",
+    "summary": "arXiv:2606.17927v1 Announce Type: new Abstract: Kolmogorov-Arnold Networks (KANs) have recently emerged as a promising alternative to traditional multilayer perceptrons by replacing linear weights with learnable univariate functions. Despite their th",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853420+05:30"
+    "last_updated": "2026-06-17T16:47:25.184098+05:30"
   },
   {
     "title": "Non-Parametric Machine Text Detection via Multi-View Gaussian Processes",
@@ -65935,12 +65986,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2512.04524",
     "local_path": "ai/research/arxiv-2512-04524.md",
-    "summary": "arXiv:2512.04524v4 Announce Type: replace-cross Abstract: Domain adaptive retrieval aims to transfer knowledge from a labeled source domain to an unlabeled target domain, enabling effective retrieval while mitigating domain discrepancies. However, ex",
+    "summary": "arXiv:2512.04524v4 Announce Type: replace Abstract: Domain adaptive retrieval aims to transfer knowledge from a labeled source domain to an unlabeled target domain, enabling effective retrieval while mitigating domain discrepancies. However, existing",
     "quality_score": 70,
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.854604+05:30"
+    "last_updated": "2026-06-17T16:47:25.191244+05:30"
   },
   {
     "title": "Efficient On-Device Diffusion LLM Inference with Mobile NPU",
@@ -66499,12 +66550,12 @@
     ],
     "source_url": "https://arxiv.org/abs/2603.18104",
     "local_path": "ai/research/arxiv-2603-18104.md",
-    "summary": "arXiv:2603.18104v5 Announce Type: replace Abstract: Prevailing AI training assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative to inference, optimizer complexity, and structural degradatio",
+    "summary": "arXiv:2603.18104v5 Announce Type: replace-cross Abstract: Prevailing AI training assumes reverse-mode automatic differentiation over IEEE-754 arithmetic. The memory overhead of training relative to inference, optimizer complexity, and structural degr",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:10.853975+05:30"
+    "last_updated": "2026-06-17T16:47:25.192608+05:30"
   },
   {
     "title": "Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding",
@@ -67157,7 +67208,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:46:11.814595+05:30"
+    "last_updated": "2026-06-17T16:47:25.860000+05:30"
   },
   {
     "title": "ChartGPU/ChartGPU",
@@ -67173,7 +67224,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:11.814520+05:30"
+    "last_updated": "2026-06-17T16:47:25.859845+05:30"
   },
   {
     "title": "webgpu/webgpu-samples",
@@ -67238,7 +67289,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-16T17:27:23.807256+05:30"
+    "last_updated": "2026-06-17T16:47:25.859979+05:30"
   },
   {
     "title": "PolyMeilex/vscode-wgsl",
@@ -67398,7 +67449,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-16T04:26:16.637147+00:00"
+    "last_updated": "2026-06-17T16:47:25.859809+05:30"
   },
   {
     "title": "hjlld/LearningWebGPU",
@@ -67479,7 +67530,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-16T17:27:23.807329+05:30"
+    "last_updated": "2026-06-17T16:47:25.860123+05:30"
   },
   {
     "title": "Scthe/nanite-webgpu",
@@ -67544,7 +67595,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-16T17:27:23.807123+05:30"
+    "last_updated": "2026-06-17T16:47:25.859715+05:30"
   },
   {
     "title": "rajveermalviya/go-webgpu",
@@ -67625,7 +67676,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T02:49:08.935265+05:30"
+    "last_updated": "2026-06-17T16:47:25.656561+05:30"
   },
   {
     "title": "alphardex/kokomi.js",
@@ -67737,7 +67788,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-17T10:46:11.725584+05:30"
+    "last_updated": "2026-06-17T16:47:25.656452+05:30"
   },
   {
     "title": "mkkellogg/GaussianSplats3D",
@@ -67753,7 +67804,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-16T21:39:06.465276+05:30"
+    "last_updated": "2026-06-17T16:47:25.656520+05:30"
   },
   {
     "title": "wechat-miniprogram/threejs-miniprogram",
@@ -67801,7 +67852,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T02:49:08.935233+05:30"
+    "last_updated": "2026-06-17T16:47:25.656530+05:30"
   },
   {
     "title": "fireship-io/threejs-scroll-animation-demo",
@@ -67850,7 +67901,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:46:11.725704+05:30"
+    "last_updated": "2026-06-17T16:47:25.656594+05:30"
   },
   {
     "title": "wolfwind521/indoor3D",
@@ -68239,7 +68290,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-17T10:46:11.985075+05:30"
+    "last_updated": "2026-06-17T16:47:25.678469+05:30"
   },
   {
     "title": "kartikk-k/dashboard-ui",
@@ -68478,7 +68529,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:46:11.694265+05:30"
+    "last_updated": "2026-06-17T16:47:25.689722+05:30"
   },
   {
     "title": "gsimone/r3f-bubbles",
@@ -68600,7 +68651,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T02:49:09.022827+05:30"
+    "last_updated": "2026-06-17T16:47:25.689308+05:30"
   },
   {
     "title": "ektogamat/r3f-webgpu-starter",
@@ -68686,7 +68737,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T10:46:11.694024+05:30"
+    "last_updated": "2026-06-17T16:47:25.656509+05:30"
   },
   {
     "title": "benjaminmiles/react-three-vite",
@@ -68805,7 +68856,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-16T17:27:23.737429+05:30"
+    "last_updated": "2026-06-17T16:47:25.689742+05:30"
   },
   {
     "title": "emmelleppi/codrops-r3f-mirrors",
@@ -69915,7 +69966,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-16T17:27:23.991311+05:30"
+    "last_updated": "2026-06-17T16:47:26.171343+05:30"
   },
   {
     "title": "Next.js 11.1",
@@ -69965,7 +70016,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-16T17:27:23.991291+05:30"
+    "last_updated": "2026-06-17T16:47:26.171322+05:30"
   },
   {
     "title": "danybeltran/nextjs-typescript-and-postgresql",
@@ -70166,7 +70217,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147578+05:30"
+    "last_updated": "2026-06-17T16:47:26.535783+05:30"
   },
   {
     "title": "hsuanyi-chou/shadcn-ui-expansions",
@@ -70198,7 +70249,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147635+05:30"
+    "last_updated": "2026-06-17T16:47:26.535850+05:30"
   },
   {
     "title": "satnaing/shadcn-admin",
@@ -70214,7 +70265,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147651+05:30"
+    "last_updated": "2026-06-17T16:47:26.535885+05:30"
   },
   {
     "title": "magicuidesign/portfolio",
@@ -70231,7 +70282,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-16T04:26:21.211426+00:00"
+    "last_updated": "2026-06-17T16:47:26.536215+05:30"
   },
   {
     "title": "dan5py/react-vite-shadcn-ui",
@@ -70281,7 +70332,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147793+05:30"
+    "last_updated": "2026-06-17T16:47:26.536139+05:30"
   },
   {
     "title": "salimi-my/shadcn-ui-sidebar",
@@ -70329,7 +70380,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147734+05:30"
+    "last_updated": "2026-06-17T16:47:26.536029+05:30"
   },
   {
     "title": "dan5py/turborepo-shadcn-ui",
@@ -70361,7 +70412,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147671+05:30"
+    "last_updated": "2026-06-17T16:47:26.535920+05:30"
   },
   {
     "title": "shadcn-ui/next-template",
@@ -70409,7 +70460,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147623+05:30"
+    "last_updated": "2026-06-17T16:47:26.535829+05:30"
   },
   {
     "title": "huntabyte/shadcn-svelte",
@@ -70425,7 +70476,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-16T19:32:39.882556+05:30"
+    "last_updated": "2026-06-17T16:47:26.535903+05:30"
   },
   {
     "title": "sadmann7/file-uploader",
@@ -70457,7 +70508,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147719+05:30"
+    "last_updated": "2026-06-17T16:47:26.535991+05:30"
   },
   {
     "title": "jnsahaj/tweakcn",
@@ -70473,7 +70524,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147763+05:30"
+    "last_updated": "2026-06-17T16:47:26.536090+05:30"
   },
   {
     "title": "ln-dev7/square-ui",
@@ -70489,7 +70540,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T02:49:09.908323+05:30"
+    "last_updated": "2026-06-17T16:47:26.536009+05:30"
   },
   {
     "title": "akash3444/shadcn-ui-blocks",
@@ -70537,7 +70588,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-17T10:46:12.147644+05:30"
+    "last_updated": "2026-06-17T16:47:26.535868+05:30"
   },
   {
     "title": "marmelab/atomic-crm",

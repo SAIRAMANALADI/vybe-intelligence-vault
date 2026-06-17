@@ -10,13 +10,14 @@ tags:
 - c++
 - github-trending
 - rag
-status: active
+status: inactive
 resource_id: github:alibaba/zvec
 first_seen: '2026-06-16T17:27:26.090157+05:30'
 last_seen: '2026-06-17T10:46:11.979804+05:30'
 last_checked: '2026-06-17T10:46:11.979804+05:30'
 health_score: 100
 ---
+
 
 # alibaba/zvec
 
