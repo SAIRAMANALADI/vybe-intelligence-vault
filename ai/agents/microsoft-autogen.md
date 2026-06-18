@@ -1,55 +1,66 @@
 ---
-title: 'microsoft/autogen Release: python-v0.7.5'
+title: microsoft/autogen
 category: ai/agents
-source_type: github_releases
-source_name: GitHub Releases AI
+source_type: github
+source_name: GitHub Discovery
 source_url: https://github.com/microsoft/autogen
-published_at: '2025-09-30T06:18:26Z'
-collected_at: '2026-06-18T23:35:23.565876+05:30'
+collected_at: '2026-06-18T23:57:40.196582+05:30'
+published_at: '2026-06-18T18:19:19Z'
 tags:
 - agents
-- anthropic
-- github-release
-- meta-ai
-- microsoft-autogen
-- models
+- github-repo
 - openai
+- python
+stars: 59059
+language: Python
 status: active
+license: CC-BY-4.0
+archived: false
+created_at: '2023-08-18T11:43:45Z'
+pushed_at: '2026-04-15T11:59:09Z'
 resource_id: github:microsoft/autogen
-first_seen: '2026-06-16T13:57:15.726917+05:30'
-last_seen: '2026-06-18T23:35:23.565876+05:30'
-last_checked: '2026-06-18T23:35:23.565876+05:30'
+first_seen: '2026-06-18T23:57:40.196582+05:30'
+last_seen: '2026-06-18T23:57:40.196582+05:30'
+last_checked: '2026-06-18T23:57:40.196582+05:30'
 health_score: 100
 ---
 
-# microsoft/autogen Release: python-v0.7.5
+# microsoft/autogen
 
 ## Summary
 
-## What's Changed
-* Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950
-* Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
-* Support linear memory in RedisMemory by @just...
+A programming framework for agentic AI
 
 ## Why It Matters
 
-General public resource representing technology updates, guides, or tutorials.
+Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
 
-## Details
+## Repository Details
 
-- Source: GitHub Releases AI
-- Category: ai/agents
-- Published: 2025-09-30T06:18:26Z
+- Owner: microsoft
+- Stars: 59059
+- Forks: 8907
+- Language: Python
+- Topics: agentic, agentic-agi, agents, ai, autogen, autogen-ecosystem, chatgpt, framework, llm-agent, llm-framework
+- Last Updated: 2026-06-18T18:19:19Z
+- License: CC-BY-4.0
+- Archived: No
+- Created At: 2023-08-18T11:43:45Z
+- Pushed At: 2026-04-15T11:59:09Z
 
-## Related Tags
+## Possible Use Cases
 
-- agents
-- anthropic
-- github-release
-- meta-ai
-- microsoft-autogen
-- models
-- openai
+- Learn implementation patterns
+- Extract reusable components
+- Study architecture
+- Build similar project
+- Add to skill file references
+
+## Related Skills
+
+- Frontend Development
+- JavaScript
+- HTML/CSS
 
 ## Source
 
