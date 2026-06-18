@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://todap.github.io/RAG
-published_at: '2026-06-18T14:44:51.824810+05:30'
-collected_at: '2026-06-18T14:44:51.824822+05:30'
+published_at: '2026-06-18T16:18:37.116641+05:30'
+collected_at: '2026-06-18T16:18:37.116656+05:30'
 tags:
 - mistral
 - models
@@ -13,9 +13,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-chatbot-application-rag
-first_seen: '2026-06-18T14:44:51.824822+05:30'
-last_seen: '2026-06-18T14:44:51.824822+05:30'
-last_checked: '2026-06-18T14:44:51.824822+05:30'
+first_seen: '2026-06-18T16:18:37.116656+05:30'
+last_seen: '2026-06-18T16:18:37.116656+05:30'
+last_checked: '2026-06-18T16:18:37.116656+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T14:44:51.824810+05:30
+- Published: 2026-06-18T16:18:37.116641+05:30
 
 ## Related Tags
 

@@ -47,26 +47,25 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 | Resources tracked | 4793 |
 | Active resources | 4687 |
 | Inactive resources | 106 |
-| Archive files | 22543 |
+| Archive files | 22544 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 14:47 IST |
+| Last meaningful update | 2026-06-18 16:21 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (+13 points)
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (+10 points)
-- **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (Rank: +9)
-- **[RAG System with LangChain and LangGraph - GeeksforGeeks](ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)** (Rank: +2)
-- **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)** (Rank: +465)
+- **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (+14 points)
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (+4 points)
+- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +997)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +486)
+- **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)** (Rank: +2)
 
 #### ✨ New Discoveries
-- **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (Score: 87)
-- **[RAG Chatbot Application🤖 | RAG](ai/rag/rag-chatbot-application-rag.md)** (Score: 0)
+- **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (Score: 37)
 
 #### 💤 Recently Inactive Resources
 - None.

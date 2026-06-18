@@ -4040,7 +4040,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14718>
 
 * **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zachdive. Score: 182, Comments: 86. Original Link: https://github.com/Adam-CAD/CADAM
+  * Summary: Hacker News story by zachdive. Score: 186, Comments: 87. Original Link: https://github.com/Adam-CAD/CADAM
   * Tags: `ai`, `hackernews`, `producthunt`
   * Source URL: <https://github.com/adam-cad/cadam>
 
@@ -4185,7 +4185,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies](ai/research/arxiv-2606-19174.md)** (`framework` | `useful` tier)
@@ -4259,7 +4259,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
 
 * **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 34, Comments: 16. Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
+  * Summary: Hacker News story by matt_d. Score: 37, Comments: 16. Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
   * Tags: `ai`, `hackernews`
   * Source URL: <https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification>
 
@@ -4854,7 +4854,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2602.08306>
 
 * **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by anitil. Score: 87, Comments: 47. Original Link: https://www.acma.gov.au/sms-sender-id-register
+  * Summary: Hacker News story by anitil. Score: 101, Comments: 57. Original Link: https://www.acma.gov.au/sms-sender-id-register
   * Tags: `ai`, `hackernews`
   * Source URL: <https://acma.gov.au/sms-sender-id-register>
 

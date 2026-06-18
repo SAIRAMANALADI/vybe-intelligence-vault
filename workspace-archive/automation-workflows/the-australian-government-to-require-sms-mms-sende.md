@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by anitil. Score: 87, Comments: 47.
+Hacker News story by anitil. Score: 101, Comments: 57.
 Original Link: https://www.acma.gov.au/sms-sender-id-register
 
 ## Use Cases

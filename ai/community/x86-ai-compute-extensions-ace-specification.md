@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification
 hn_url: https://news.ycombinator.com/item?id=48579913
-score: 34
+score: 37
 author: matt_d
 comments_count: 16
 published_at: '2026-06-18T08:02:01+05:30'
-collected_at: '2026-06-18T14:43:55.519518+05:30'
+collected_at: '2026-06-18T16:17:23.618059+05:30'
 tags:
 - ai
 - hackernews
 status: active
-resource_id: hackernews:x86-ai-compute-extensions-ace-specification
+resource_id: hackernews:ai-compute-extensions-ace-specification
 first_seen: '2026-06-18T10:31:16.221123+05:30'
-last_seen: '2026-06-18T14:43:55.519518+05:30'
-last_checked: '2026-06-18T14:43:55.519518+05:30'
+last_seen: '2026-06-18T16:17:23.618059+05:30'
+last_checked: '2026-06-18T16:17:23.618059+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by matt_d. Score: 34, Comments: 16.
+Hacker News story by matt_d. Score: 37, Comments: 16.
 Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
 
 ## Why It Matters
@@ -35,7 +35,7 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: matt_d
-- Score: 34 Upvotes
+- Score: 37 Upvotes
 - Comments: 16 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48579913
 - Original Article: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification

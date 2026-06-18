@@ -5865,6 +5865,7 @@ Resources organized by keyword tags.
   - [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
   - [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
+  - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](../ai/research/arxiv-2605-04813.md)
   - [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](../ai/agents/arxiv-2606-16944.md)
   - [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](../ai/agents/arxiv-2606-14956.md)
@@ -8964,4 +8965,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-18T14:46:35.171979+05:30*
+*Index generated on 2026-06-18T16:20:20.132234+05:30*
