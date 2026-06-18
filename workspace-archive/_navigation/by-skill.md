@@ -34,9 +34,9 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `essential` | [`Local File`](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md))
 
 ## Agentic Coding
 
@@ -57,8 +57,8 @@ This index groups curated resources by target developer skills.
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](../../ai/agents/golf-mcp-golf.md))
 
 ## Computer Use Integration
 
@@ -68,8 +68,8 @@ This index groups curated resources by target developer skills.
 - [redhat-data-and-ai/template-mcp-server](https://github.com/redhat-data-and-ai/template-mcp-server) (Tier: `essential` | [`Local File`](../../ai/agents/redhat-data-and-ai-template-mcp-server.md))
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [golf-mcp/golf](https://github.com/golf-mcp/golf) (Tier: `essential` | [`Local File`](../../ai/agents/golf-mcp-golf.md))
 
 ## Context Window Engineering
 
@@ -137,9 +137,9 @@ This index groups curated resources by target developer skills.
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Next.js 7](https://nextjs.org/blog/next-7) (Tier: `useful` | [`Local File`](../../web-development/nextjs/next-js-7.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](../../ai/rag/patchy631-ai-engineering-hub.md))
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) (Tier: `useful` | [`Local File`](../../ai/agents/tencent-ai-infra-guard.md))
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](../../ai/agents/secureagentics-adrian.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (Tier: `useful` | [`Local File`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md))
 
 ## GLSL Shaders
 
@@ -176,6 +176,7 @@ This index groups curated resources by target developer skills.
 
 ## LLM Evaluation
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
@@ -183,7 +184,6 @@ This index groups curated resources by target developer skills.
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
-- [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-05167.md))
 
 ## LLMOps Observability
 
@@ -251,9 +251,9 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (Tier: `essential` | [`Local File`](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md))
 
 ## Multi-Agent Design
 
@@ -320,6 +320,7 @@ This index groups curated resources by target developer skills.
 
 ## Regression Testing
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
@@ -327,7 +328,6 @@ This index groups curated resources by target developer skills.
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 - [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
-- [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-05167.md))
 
 ## Reranking Pipelines
 
@@ -413,9 +413,9 @@ This index groups curated resources by target developer skills.
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Next.js 7](https://nextjs.org/blog/next-7) (Tier: `useful` | [`Local File`](../../web-development/nextjs/next-js-7.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](../../ai/rag/patchy631-ai-engineering-hub.md))
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) (Tier: `useful` | [`Local File`](../../ai/agents/tencent-ai-infra-guard.md))
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](../../ai/agents/secureagentics-adrian.md))
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (Tier: `useful` | [`Local File`](../../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md))
 
 ## Structured Outputs
 
@@ -495,4 +495,4 @@ This index groups curated resources by target developer skills.
 - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
 
 ---
-*Last updated: 2026-06-18 20:52 IST*
+*Last updated: 2026-06-18 23:39 IST*

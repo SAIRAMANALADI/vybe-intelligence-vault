@@ -18,13 +18,13 @@ MCP provides a unified way for LLMs to securely interact with file systems, data
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 38 resources matched in the intelligence vault.
+Active signals: 40 resources matched in the intelligence vault.
 Recently detected signals:
 - [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) (Source: Unknown Source) - Collected 2026-06-18
 - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) (Source: Unknown Source) - Collected 2026-06-18
+- [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) (Source: Unknown Source) - Collected 2026-06-18
 - [Jpisnice/shadcn-ui-mcp-server](../web-development/shadcn-ui/jpisnice-shadcn-ui-mcp-server.md) (Source: Unknown Source) - Collected 2026-06-18
-- [How to Build an MCP Server with Gradio](../ai/models/how-to-build-an-mcp-server-with-gradio.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Upskill your LLMs With Gradio MCP Servers](../ai/models/upskill-your-llms-with-gradio-mcp-servers.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -75,92 +75,102 @@ Recently detected signals:
 - Language: Unknown
 - Description: Production-ready MCP server for PDF processing - 5-10x faster with parallel processing and 94%+ test coverage
 
-### 10. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
+### 10. [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) ([GitHub](https://github.com/oxbshw/llm-agents-ecosystem-handbook))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: oxbshw/LLM-Agents-Ecosystem-Handbook
+
+### 11. [Flux159/mcp-chat](../ai/agents/flux159-mcp-chat.md) ([GitHub](https://github.com/flux159/mcp-chat))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: Flux159/mcp-chat
+
+### 12. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
 - Stars: 0
 - Language: Unknown
 - Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
 
-### 11. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md) ([GitHub](https://github.com/demcp/awesome-web3-mcp-servers))
+### 13. [demcp/awesome-web3-mcp-servers](../ai/resources/demcp-awesome-web3-mcp-servers.md) ([GitHub](https://github.com/demcp/awesome-web3-mcp-servers))
 - Stars: 0
 - Language: Unknown
 - Description: DeMCP is the first Decentralized MCP network, offering SSE proxies for MCP services and mainstream LLMs, tackling trust and security with TEE and blockchain.
 
-### 12. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 14. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
-### 13. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+### 15. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - Stars: 0
 - Language: Unknown
 - Description: Scan MCP servers for potential threats & security findings.
 
-### 14. [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) ([GitHub](https://github.com/deusdata/codebase-memory-mcp))
+### 16. [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md) ([GitHub](https://github.com/deusdata/codebase-memory-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: DeusData/codebase-memory-mcp
 
-### 15. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
+### 17. [hammadhaqqani/awesome-devops-ai](../ai/agents/hammadhaqqani-awesome-devops-ai.md) ([GitHub](https://github.com/hammadhaqqani/awesome-devops-ai))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of 459 AI tools, agents, MCP servers, and resources for DevOps, SRE, and Platform Engineering
 
-### 16. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
+### 18. [0x4m4/hexstrike-ai](../ai/agents/0x4m4-hexstrike-ai.md) ([GitHub](https://github.com/0x4m4/hexstrike-ai))
 - Stars: 0
 - Language: Unknown
 - Description: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug b...
 
-### 17. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
+### 19. [snyk/agent-scan](../ai/agents/snyk-agent-scan.md) ([GitHub](https://github.com/snyk/agent-scan))
 - Stars: 0
 - Language: Unknown
 - Description: Security scanner for AI agents, MCP servers and agent skills.
 
-### 18. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
+### 20. [FuzzingLabs/secpipe](../ai/agents/fuzzinglabs-secpipe.md) ([GitHub](https://github.com/fuzzinglabs/secpipe))
 - Stars: 0
 - Language: Unknown
 - Description: MCP server for AI-driven security pipelines
 
-### 19. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
+### 21. [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md) ([GitHub](https://github.com/affaan-m/agentshield))
 - Stars: 0
 - Language: Unknown
 - Description: AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration.
 
-### 20. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
+### 22. [FuzzingLabs/mcp-security-hub](../ai/resources/fuzzinglabs-mcp-security-hub.md) ([GitHub](https://github.com/fuzzinglabs/mcp-security-hub))
 - Stars: 0
 - Language: Unknown
 - Description: A growing collection of MCP servers bringing offensive security tools to AI assistants. Nmap, Ghidra, Nuclei, SQLMap, Hashcat and more.
 
-### 21. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
+### 23. [jlbadano/ig-mcp](../ai/resources/jlbadano-ig-mcp.md) ([GitHub](https://github.com/jlbadano/ig-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A production-ready Model Context Protocol (MCP) server that enables AI applications to seamlessly interact with Instagram Business accounts.
 
-### 22. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
+### 24. [semgrep/mcp](../ai/resources/semgrep-mcp.md) ([GitHub](https://github.com/semgrep/mcp))
 - Stars: 0
 - Language: Unknown
 - Description: A MCP server for using Semgrep to scan code for security vulnerabilities.
 
-### 23. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
+### 25. [tavily-ai/tavily-mcp](../ai/resources/tavily-ai-tavily-mcp.md) ([GitHub](https://github.com/tavily-ai/tavily-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Production ready MCP server with real-time search, extract, map & crawl.
 
-### 24. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
+### 26. [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md) ([GitHub](https://github.com/cyproxio/mcp-for-security))
 - Stars: 0
 - Language: Unknown
 - Description: MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI wor...
 
-### 25. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
+### 27. [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md) ([GitHub](https://github.com/riseandignite/mcp-shield))
 - Stars: 0
 - Language: Unknown
 - Description: Security scanner for MCP servers
 
-### 26. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
+### 28. [acuvity/minibridge](../ai/resources/acuvity-minibridge.md) ([GitHub](https://github.com/acuvity/minibridge))
 - Stars: 0
 - Language: Unknown
 - Description: Make your MCP servers secure and production ready
 
-### 27. [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) ([GitHub](https://github.com/modelcontextprotocol/servers))
+### 29. [modelcontextprotocol/servers Release: Release 2026.1.26](../ai/releases/modelcontextprotocol-servers.md) ([GitHub](https://github.com/modelcontextprotocol/servers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: modelcontextprotocol/servers
@@ -185,4 +195,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T20:51:15.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T23:39:11.857034+05:30.854349+05:30.158097+05:30.151960+05:30.613998+05:30.612259+05:30.743764+05:30.219495+05:30.226409+05:30.308267+05:30.671842+05:30.192408+05:30.489920+05:30.324090+05:30.681655+05:30.831238+05:30.300012+05:30.282249+05:30.

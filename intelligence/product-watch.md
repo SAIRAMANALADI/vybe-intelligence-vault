@@ -23,6 +23,6 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [DeusData/codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | `mcp-registry/` | 70 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
 | [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
-| [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605) | `mcp-registry/` | 70 |
+| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

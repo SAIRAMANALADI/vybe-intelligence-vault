@@ -2,7 +2,7 @@
 title: VoltAgent/awesome-ai-agent-papers
 archive_category: automation-workflows
 source_category: ai/rag
-source_url: https://github.com/VoltAgent/awesome-ai-agent-papers
+source_url: https://github.com/voltagent/awesome-ai-agent-papers
 resource_id: github:voltagent/awesome-ai-agent-papers
 local_vault_path: ai/rag/voltagent-awesome-ai-agent-papers.md
 quality_score: 70
@@ -13,10 +13,8 @@ importance: medium
 tags:
 - agents
 - benchmark
-- github-repo
 - paper
 - rag
-- unknown
 - workflows
 selection_reason:
 - Strong keyword match
@@ -46,7 +44,7 @@ A curated collection of AI agent research papers released in 2026, covering agen
 
 ## Source
 
-Original source URL: https://github.com/VoltAgent/awesome-ai-agent-papers
+Original source URL: https://github.com/voltagent/awesome-ai-agent-papers
 
 ## Local Vault File
 

@@ -13,9 +13,9 @@ Understanding the pricing, capabilities, and APIs of different model providers i
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (mcp-server - ESSENTIAL Tier)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (api - ESSENTIAL Tier)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (template - ESSENTIAL Tier)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (template - ESSENTIAL Tier)
 - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (framework - ESSENTIAL Tier)
-- [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide) (framework - ESSENTIAL Tier)
 
 ## Best GitHub Repositories
 
@@ -26,7 +26,7 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp)
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit)
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)
-- [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/google/generative-ai-python (Gemini SDK)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

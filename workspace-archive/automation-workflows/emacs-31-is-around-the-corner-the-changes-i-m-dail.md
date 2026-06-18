@@ -1,5 +1,5 @@
 ---
-title: 'Emacs 31 Is Around the Corner: The Changes I''m Daily Driving'
+title: 'Emacs 31 is around the corner: The changes I''m daily driving'
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://rahuljuliato.com/posts/emacs-31-around-the-corner
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# Emacs 31 Is Around the Corner: The Changes I'm Daily Driving
+# Emacs 31 is around the corner: The changes I'm daily driving
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by frou_dh. Score: 212, Comments: 89.
+Hacker News story by frou_dh. Score: 310, Comments: 159.
 Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
 
 ## Use Cases

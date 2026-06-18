@@ -877,7 +877,7 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `models`, `openai`, `paper`, `web-crawled`, `workflows`
   * Source URL: <https://www.w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration>
 
-* **[crewAIInc/crewAI Release: 1.14.8a](ai/rag/crewaiinc-crewai.md)** (`tutorial` | `useful` tier)
+* **[crewAIInc/crewAI Release: 1.14.8a1](ai/rag/crewaiinc-crewai.md)** (`tutorial` | `useful` tier)
   * Summary: ## What's Changed
   * Tags: `agents`, `crewaiinc-crewai`, `github-release`
   * Source URL: <https://github.com/crewaiinc/crewai>
@@ -1303,6 +1303,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.13817>
 
+* **[Flux159/mcp-chat](ai/agents/flux159-mcp-chat.md)** (`mcp-server` | `useful` tier)
+  * Summary: Open Source Generic MCP Client for testing & evaluating mcp servers and agents
+  * Tags: `agents`
+  * Source URL: <https://github.com/flux159/mcp-chat>
+
 * **[Forecasting what Matters: Decision-Focused RL for Controlled EV Charging with Unknown Departure Times](ai/agents/arxiv-2606-19199.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.19199v1 Announce Type: cross Abstract: The recent growth of EV adoption poses challenges for power systems, including increased peak demand and potential grid instability. Smart control of EV charging -- e.g., based on reinforcement learni
   * Tags: `agents`
@@ -1473,6 +1478,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
   * Tags: `agents`, `github-repo`, `python`
   * Source URL: <https://github.com/golf-mcp/golf>
+
+* **[google/adk-go](ai/agents/google-adk-go.md)** (`framework` | `useful` tier)
+  * Summary: An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+  * Tags: `agents`
+  * Source URL: <https://github.com/google/adk-go>
+
+* **[GoogleCloudPlatform/agent-starter-pack](ai/agents/googlecloudplatform-agent-starter-pack.md)** (`template` | `essential` tier)
+  * Summary: Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://github.com/googlecloudplatform/agent-starter-pack>
 
 * **[GRACE-DS: a Guarded Reward-guided Agent Correction Environment in Data Science](ai/agents/arxiv-2606-16000.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.16000v2 Announce Type: replace-cross Abstract: We introduce GRACE-DS, a Guarded Reward-guided Agent Correction Environment in Data Science for pre-deployment evaluation of LLM-powered AutoML agents. GRACE-DS is a set of evaluation metrics
@@ -1753,6 +1768,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `paper`
   * Source URL: <https://arxiv.org/abs/2512.09831>
 
+* **[interviewstreet/hiring-agent](ai/agents/interviewstreet-hiring-agent.md)** (`benchmark` | `useful` tier)
+  * Summary: AI agent to evaluate and score resumes.
+  * Tags: `agents`
+  * Source URL: <https://github.com/interviewstreet/hiring-agent>
+
 * **[Intrinsic Computational Functionalism and Simulated Consciousness](ai/agents/arxiv-2606-15348.md)** (`reference` | `useful` tier)
   * Summary: arXiv:2606.15348v1 Announce Type: cross Abstract: A common objection to artificial or simulated consciousness is that a simulated brain is no more conscious than simulated water is wet. We address this from the perspective of Intrinsic Computational
   * Tags: `agents`
@@ -1952,6 +1972,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: ← Back to Knowledge benchmarkscomparisonperformance LangGraph vs fast-langraph: side-by-side benchmarks Neul Labs · April 5, 2026 · Category: comparison TL;DR Across every operation we measured, fast-langraph equals or beats vanilla LangGraph. The bi
   * Tags: `agents`, `benchmark`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://fast-langgraph.neullabs.com/articles/langgraph-vs-fast-langraph-benchmarks>
+
+* **[langwatch/langwatch](ai/agents/langwatch-langwatch.md)** (`prompt` | `useful` tier)
+  * Summary: The platform for LLM evaluations and AI agent testing
+  * Tags: `agents`, `benchmark`, `dataset`, `openai`
+  * Source URL: <https://github.com/langwatch/langwatch>
 
 * **[Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States](ai/rag/arxiv-2605-28690.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.28690v3 Announce Type: replace-cross Abstract: Many applications in quantum simulation, quantum chemistry, and quantum machine learning require not a single quantum state but an ensemble of states characterizing the heterogeneity of a targ
@@ -2320,6 +2345,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2507.18623v4 Announce Type: replace Abstract: The ability to adapt to physical actions and constraints in an environment is crucial for embodied agents (e.g., robots) to effectively collaborate with humans. Such physically grounded human-AI col
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2507.18623>
+
+* **[mozilla-ai/any-agent](ai/agents/mozilla-ai-any-agent.md)** (`framework` | `useful` tier)
+  * Summary: A single interface to use and evaluate different agent frameworks
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://github.com/mozilla-ai/any-agent>
 
 * **[MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation](ai/agents/arxiv-2606-11416.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11416v1 Announce Type: cross Abstract: Repository-level benchmarks for evaluating Large Language Model (LLM) code repair on Secure Multi-Party Computation (MPC) software do not yet exist, and directly transplanting general-purpose benchmar
@@ -2778,6 +2808,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15573v2 Announce Type: replace Abstract: In agentic systems, human-generated data records anchor the value of AI services. Yet cloud compute pipelines centralize processing on remote servers. Data centralization reduces personal data sover
   * Tags: `agents`, `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.15573>
+
+* **[qualifire-dev/rogue](ai/agents/qualifire-dev-rogue.md)** (`framework` | `useful` tier)
+  * Summary: AI Agent Evaluator & Red Team Platform
+  * Tags: `agents`
+  * Source URL: <https://github.com/qualifire-dev/rogue>
 
 * **[Quantization Robustness of Monotone Operator Equilibrium Networks](ai/research/arxiv-2603-10562.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.10562v2 Announce Type: replace-cross Abstract: Monotone operator equilibrium networks are implicit-layer models whose output is the unique equilibrium of a monotone operator, guaranteeing existence, uniqueness, and convergence. When deploy
@@ -3408,6 +3443,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.13848>
 
+* **[Tencent/AICGSecEval](ai/agents/tencent-aicgseceval.md)** (`benchmark` | `useful` tier)
+  * Summary: A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://github.com/tencent/aicgseceval>
+
 * **[TERMS-Bench: Diagnosing LLM Negotiation Agents Beyond Deal Rate](ai/agents/arxiv-2605-13909.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.13909v2 Announce Type: replace-cross Abstract: Negotiation is a central mechanism of economic exchange, shaping markets, procurement, labor agreements, and resource allocation. It is also a canonical testbed for agentic language models, re
   * Tags: `agents`, `benchmark`
@@ -3651,6 +3691,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.18308v1 Announce Type: cross Abstract: Safe coordination in networked cyber-physical systems forces learning algorithms to simultaneously handle hybrid discrete-continuous actions, hard training-time safety constraints, and physics-governe
   * Tags: `agents`
   * Source URL: <https://arxiv.org/abs/2606.18308>
+
+* **[truera/trulens](ai/agents/truera-trulens.md)** (`benchmark` | `useful` tier)
+  * Summary: Evaluation and Tracking for LLM Experiments and AI Agents
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://github.com/truera/trulens>
 
 * **[Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems](ai/agents/arxiv-2606-14923.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14923v1 Announce Type: new Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measur
@@ -4418,8 +4463,8 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16985>
 
-* **[Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by frou_dh. Score: 212, Comments: 89. Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
+* **[Emacs 31 is around the corner: The changes I'm daily driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by frou_dh. Score: 310, Comments: 159. Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
   * Tags: `ai`, `hackernews`
   * Source URL: <https://rahuljuliato.com/posts/emacs-31-around-the-corner>
 
@@ -4629,7 +4674,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2605.12729>
 
 * **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by okwasniewski. Score: 12, Comments: 2. Original Link: https://tester.army
+  * Summary: Hacker News story by okwasniewski. Score: 50, Comments: 26. Original Link: https://tester.army
   * Tags: `agents`, `hackernews`, `producthunt`
   * Source URL: <https://tester.army>
 
@@ -4798,6 +4843,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx>
 
+* **[Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by realmofthemad. Score: 50, Comments: 19. Original Link: https://gerrymandle.cc/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://gerrymandle.cc>
+
 * **[Signature filtering: a lightweight enhancement for statistical watermark detection in large language models](ai/research/arxiv-2606-18430.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18430v1 Announce Type: new Abstract: Statistical watermarks help organizations attribute large language model (LLM) outputs, yet existing detectors often struggle when watermark signals are weak, texts are repetitive, or watermarks are edi
   * Tags: `benchmark`, `meta-ai`, `models`, `workflows`
@@ -4863,6 +4913,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `leaderboard`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `producthunt`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://www.mrlatte.net/en/research/2026/04/27/rag-complete-guide>
 
+* **[The founder of Craigslist has given away half a billion dollars](ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by Tomte. Score: 55, Comments: 13. Original Link: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html>
+
 * **[The next evolution of the Agents SDK | OpenAI](ai/rag/the-next-evolution-of-the-agents-sdk-openai.md)** (`framework` | `useful` tier)
   * Summary: April 15, 2026ProductThe next evolution of the Agents SDKThe updated Agents SDK helps developers build agents that can inspect files, run commands, edit code, and work on long-horizon tasks within controlled sandbox environments.Loading…ShareA more c
   * Tags: `agents`, `openai`, `producthunt`, `rag`, `web-crawled`, `workflows`
@@ -4918,6 +4973,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `workflows`
   * Source URL: <https://arxiv.org/abs/2606.15449>
 
+* **[trpc-group/trpc-agent-go](ai/rag/trpc-group-trpc-agent-go.md)** (`framework` | `useful` tier)
+  * Summary: A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.
+  * Tags: `agents`, `benchmark`, `rag`, `workflows`
+  * Source URL: <https://github.com/trpc-group/trpc-agent-go>
+
 * **[Unlocking Latent Dimensions: Exploring Representations of Large-Scale X-ray Scattering Data using Variational Autoencoders](ai/research/arxiv-2606-14999.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14999v1 Announce Type: new Abstract: Scientific user facilities generate X-ray scattering data faster than traditional workflows can process them. We address this challenge across two settings, offline dataset exploration and live on-the-f
   * Tags: `benchmark`, `dataset`, `models`, `workflows`
@@ -4930,8 +4990,8 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[VoltAgent/awesome-ai-agent-papers](ai/rag/voltagent-awesome-ai-agent-papers.md)** (`benchmark` | `useful` tier)
   * Summary: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
-  * Tags: `agents`, `benchmark`, `github-repo`, `paper`, `rag`, `unknown`, `workflows`
-  * Source URL: <https://github.com/VoltAgent/awesome-ai-agent-papers>
+  * Tags: `agents`, `benchmark`, `paper`, `rag`, `workflows`
+  * Source URL: <https://github.com/voltagent/awesome-ai-agent-papers>
 
 * **[What is RAG? - Retrieval-Augmented Generation AI Explained - AWS](ai/rag/what-is-rag-retrieval-augmented-generation-ai-expl.md)** (`benchmark` | `useful` tier)
   * Summary: What is Cloud Computing? Cloud Computing Concepts Hub Artificial Intelligence Generative AI What is RAG (Retrieval-Augmented Generation)? Create an AWS Account Page topics What is Retrieval-Augmented Generation? Why is Retrieval-Augmented Generation
@@ -5999,6 +6059,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `youtube`
   * Source URL: <https://arxiv.org/abs/2606.17566>
 
+* **[AP123/IllusionDiffusion](ai/models/huggingface-spaces-ap123.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5413, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/ap123>
+
 * **[Apertus LLM Family Expansion via Distillation and Quantization](ai/research/arxiv-2605-29128.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2605.29128v2 Announce Type: replace Abstract: The wide adoption of LLMs has led to their use in great variety of applications and scenarios, such as chatbot assistants and data annotation, creating the need for the models to satisfy certain bud
   * Tags: `models`, `paper`
@@ -6063,6 +6128,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](ai/research/arxiv-2606-11670.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11670v1 Announce Type: cross Abstract: Subject-preserving video generation is not solved by frontal-face similarity alone: a generated person must remain recognizable across motion, large viewpoint changes, expression shifts, occlusion, sc
   * Source URL: <https://arxiv.org/abs/2606.11670>
+
+* **[Arize-ai/phoenix](ai/rag/arize-ai-phoenix.md)** (`prompt` | `useful` tier)
+  * Summary: AI Observability & Evaluation
+  * Tags: `agents`, `anthropic`, `benchmark`, `dataset`, `meta-ai`, `models`, `openai`, `rag`
+  * Source URL: <https://github.com/arize-ai/phoenix>
 
 * **[Arm & ExecuTorch 0.7: Bringing Generative AI to the masses](ai/models/arm-executorch-0-7-bringing-generative-ai-to-the-m.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Arm & ExecuTorch 0.7: Bringing Generative AI to the masses
@@ -6233,6 +6303,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2410.15051>
 
+* **[ayuo/hd_tmp](ai/models/huggingface-datasets-ayuo.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 17, Downloads: 1471257)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/ayuo>
+
 * **[Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns](ai/research/arxiv-2606-12629.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.12629v2 Announce Type: replace-cross Abstract: We show the standard basis of transformer hidden states already provides a training-free, architecture-general feature basis. Individual dimensions encode semantic content via their signs (+/-
   * Tags: `mistral`, `models`
@@ -6241,6 +6316,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[Bamba: Inference-Efficient Hybrid Mamba2 Model](ai/models/bamba-inference-efficient-hybrid-mamba2-model.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Bamba: Inference-Efficient Hybrid Mamba2 Model
   * Source URL: <https://huggingface.co/blog/bamba>
+
+* **[banned-historical-archives/banned-historical-archives](ai/models/huggingface-datasets-banned-historical-archives.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 46, Downloads: 1236080)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/banned-historical-archives>
 
 * **[Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution](ai/models/banque-des-territoires-cdc-group-x-polyconseil-x-h.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Banque des Territoires (CDC Group) x Polyconseil x Hugging Face: Enhancing a Major French Environmental Program with a Sovereign Data Solution
@@ -6495,6 +6575,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.10135v2 Announce Type: replace-cross Abstract: Transitioning bidirectional video diffusion models into an autoregressive paradigm improves the interactivity of video world models, but existing causal pipelines need many stages (control fin
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.10135>
+
+* **[black-forest-labs/FLUX.1-dev](ai/models/huggingface-spaces-black-forest-labs.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9468, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/black-forest-labs>
 
 * **[BLADE: Scalable Bi-level Adaptive Data Selection for LLM Training](ai/research/arxiv-2606-18650.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18650v1 Announce Type: new Abstract: As Large Language Model (LLM) datasets scale to trillions of tokens, data selection has emerged as a critical frontier to filter out uninformative noise and construct adaptive learning trajectories. Bey
@@ -7343,6 +7428,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`
   * Source URL: <https://arxiv.org/abs/2606.13684>
 
+* **[cross-encoder/ms-marco-MiniLM-L6-v2](ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 266, Downloads: 68562031)
+  * Tags: `dataset`, `hf-model`, `huggingface`, `rag`, `reddit`
+  * Source URL: <https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2>
+
 * **[Cross-modal Identity Mapping: Minimizing Information Loss in Modality Conversion via Reinforcement Learning](ai/research/arxiv-2603-01696.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.01696v2 Announce Type: replace-cross Abstract: Large Vision-Language Models (LVLMs) often omit or misrepresent critical visual content in generated image captions. Minimizing such information loss will force LVLMs to focus on image details
   * Tags: `benchmark`, `models`, `paper`
@@ -7417,6 +7507,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2501.19401v5 Announce Type: replace Abstract: We introduce a practical, black-box framework termed Detection Augmented Learning (DAL) for the problem of piecewise stationary bandits without knowledge of the underlying non-stationarity. DAL acce
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2501.19401>
+
+* **[dalle-mini/dalle-mini](ai/models/huggingface-spaces-dalle-mini.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5690, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/dalle-mini>
 
 * **[Damage Adaptation in Seconds for Architected Materials](ai/research/arxiv-2606-17394.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.17394v1 Announce Type: cross Abstract: Adaptation to damages and in-situ physical repairs is essential for long-term robot autonomy, yet challenging outside of narrowly defined and well-anticipated bounds. In this work we proprioceptively
@@ -8348,6 +8443,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.15240>
 
+* **[enzostvs/deepsite](ai/models/huggingface-spaces-enzostvs.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: enzostvs/deepsite (Likes: 16617, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/enzostvs>
+
 * **[Epileptic Seizure Detection in Separate Frequency Bands Using Feature Analysis and Graph Convolutional Neural Network (GCN) from Electroencephalogram (EEG) Signals](ai/research/arxiv-2604-00163.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2604.00163v2 Announce Type: replace Abstract: Epileptic seizures are neurological disorders characterized by abnormal and excessive electrical activity in the brain, resulting in recurrent seizure events. Electroencephalogram (EEG) signals are
   * Tags: `dataset`
@@ -8599,6 +8699,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.15129v1 Announce Type: cross Abstract: Color fundus photography (CFP) is the mainstay for large-scale retinal screening, yet its diagnostic capacity is constrained by the lack of depth-resolved structural information. Optical coherence tom
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.15129>
+
+* **[facebook/MusicGen](ai/models/huggingface-spaces-facebook.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: facebook/MusicGen (Likes: 5073, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/facebook>
 
 * **[FAConformer: Frequency-Aware Convolutional Transformer for Auditory Attention Decoding](ai/rag/arxiv-2606-14120.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14120v1 Announce Type: cross Abstract: Auditory attention decoding (AAD) aims to infer the attended speaker from neural responses in multi-speaker acoustic environments and is a key problem for neuro-steered hearing systems. Although recen
@@ -9514,6 +9619,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/gemma-july-update>
 
+* **[google-bert/bert-base-uncased](ai/models/huggingface-google-bert-bert-base-uncased.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2684, Downloads: 45272769)
+  * Tags: `dataset`, `hf-model`, `huggingface`
+  * Source URL: <https://huggingface.co/google-bert/bert-base-uncased>
+
+* **[google/electra-base-discriminator](ai/models/huggingface-google-electra-base-discriminator.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: google/electra-base-discriminator (Likes: 124, Downloads: 36326257)
+  * Tags: `hf-model`, `huggingface`
+  * Source URL: <https://huggingface.co/google/electra-base-discriminator>
+
 * **[GOT-JEPA: Generic Object Tracking with Model Adaptation and Occlusion Handling using Joint-Embedding Predictive Architecture](ai/research/arxiv-2602-14771.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.14771v5 Announce Type: replace-cross Abstract: The human visual system tracks objects by integrating current observations with previously observed information, adapting to target and scene changes, and reasoning about occlusion at fine gra
   * Tags: `benchmark`
@@ -10020,6 +10135,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[HuggingFace, IISc partner to supercharge model building on India's diverse languages](ai/models/huggingface-iisc-partner-to-supercharge-model-buil.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: HuggingFace, IISc partner to supercharge model building on India's diverse languages
   * Source URL: <https://huggingface.co/blog/iisc-huggingface-collab>
+
+* **[huggingface/documentation-images](ai/models/huggingface-datasets-huggingface.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: huggingface/documentation-images (Likes: 156, Downloads: 2562950)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/huggingface>
 
 * **[huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning](ai/models/huggingface-hub-v1-0-five-years-of-building-the-fo.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: huggingface_hub v1.0: Five Years of Building the Foundation of Open Machine Learning
@@ -10673,6 +10793,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Japanese Stable Diffusion
   * Source URL: <https://huggingface.co/blog/japanese-stable-diffusion>
 
+* **[jbilcke-hf/ai-comic-factory](ai/models/huggingface-spaces-jbilcke-hf.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11127, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/jbilcke-hf>
+
 * **[JetParticle-JEPA: An Efficient Self-Supervised Representation Learning method for Jet Tagging in High-Energy Physics](ai/research/arxiv-2606-14813.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14813v1 Announce Type: cross Abstract: Jet tagging at the Large Hadron Collider increasingly relies on deep learning models trained on massive simulated datasets, leading to high computational costs and limited robustness to detector mismo
   * Tags: `benchmark`, `dataset`
@@ -10717,6 +10842,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16533v2 Announce Type: replace Abstract: World models are transitioning from passive visual generators to foundational, operational infrastructure for Physical AI: they must natively acquire world knowledge from heterogeneous experience, m
   * Tags: `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.16533>
+
+* **[KakologArchives/KakologArchives](ai/models/huggingface-datasets-kakologarchives.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 55, Downloads: 1792685)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/kakologarchives>
 
 * **[Kalman Linear Attention: Parallel Bayesian Filtering For Efficient Language Modelling and State Tracking](ai/research/arxiv-2602-10743.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.10743v2 Announce Type: replace Abstract: State-space language models such as Mamba and gated linear attention (GLA) offer linear-complexity, parallelisable alternatives to transformers, but their linear state updates limit expressivity and
@@ -10784,6 +10914,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`
   * Source URL: <https://arxiv.org/abs/2606.15883>
 
+* **[ksolovev/FineNews](ai/models/huggingface-datasets-ksolovev.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: ksolovev/FineNews (Likes: 14, Downloads: 970053)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/ksolovev>
+
 * **[Kuramoto Attention: Synchronizing Self-Attention on the Torus](ai/research/arxiv-2606-11585.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11585v1 Announce Type: new Abstract: We introduce Kuramoto attention, a self-attention layer in which each hidden coordinate is an angle. The layer scores tokens by gated cosine similarity, attends over previous phase states, and updates e
   * Tags: `models`
@@ -10797,6 +10932,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17034v1 Announce Type: cross Abstract: Post-hoc context erasing over the KV cache is challenging because a local edit has a global consequence: once a span has been processed, its influence propagates into the cached states of all subseque
   * Tags: `models`
   * Source URL: <https://arxiv.org/abs/2606.17034>
+
+* **[Kwai-Kolors/Kolors-Virtual-Try-On](ai/models/huggingface-spaces-kwai-kolors.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10106, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/kwai-kolors>
 
 * **[LakeFM: Toward a Foundation Model for Aquatic Ecosystems Using Irregular Multivariate Multi-depth Time Series Data](ai/research/arxiv-2606-11268.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11268v1 Announce Type: new Abstract: Understanding and forecasting lake dynamics is critical for monitoring water quality and ecosystem health across lakes and reservoirs. While machine learning methods have been recently applied to ecolog
@@ -11799,6 +11939,16 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `dataset`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.13119>
 
+* **[mteb/leaderboard](ai/models/huggingface-spaces-mteb.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: mteb/leaderboard (Likes: 7482, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`, `leaderboard`
+  * Source URL: <https://huggingface.co/spaces/mteb>
+
+* **[mteb/results](ai/models/huggingface-datasets-mteb.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: mteb/results (Likes: 3, Downloads: 1154347)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/mteb>
+
 * **[MTEB: Massive Text Embedding Benchmark](ai/models/mteb-massive-text-embedding-benchmark.md)** (`benchmark` | `useful` tier)
   * Summary: No summary provided. Reference resource: MTEB: Massive Text Embedding Benchmark
   * Tags: `benchmark`
@@ -12372,6 +12522,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Open Source Developers Guide to the EU AI Act
   * Source URL: <https://huggingface.co/blog/eu-ai-act-for-oss-developers>
 
+* **[open-llm-leaderboard/open_llm_leaderboard](ai/models/huggingface-spaces-open-llm-leaderboard.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14025, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`, `leaderboard`
+  * Source URL: <https://huggingface.co/spaces/open-llm-leaderboard>
+
 * **[Open-R1: a fully open reproduction of DeepSeek-R1](ai/models/open-r1-a-fully-open-reproduction-of-deepseek-r1.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Open-R1: a fully open reproduction of DeepSeek-R1
   * Source URL: <https://huggingface.co/blog/open-r1>
@@ -12388,6 +12543,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Open-sourcing Knowledge Distillation Code and Weights of SD-Small and SD-Tiny
   * Tags: `models`
   * Source URL: <https://huggingface.co/blog/sd_distillation>
+
+* **[openai/clip-vit-base-patch32](ai/models/huggingface-openai-clip-vit-base-patch32.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: openai/clip-vit-base-patch32 (Likes: 960, Downloads: 20528683)
+  * Tags: `hf-model`, `huggingface`, `openai`
+  * Source URL: <https://huggingface.co/openai/clip-vit-base-patch32>
 
 * **[OpenAnt: LLM-Powered Vulnerability Discovery Through Code Decomposition, Adversarial Verification, and Dynamic Testing](ai/research/arxiv-2606-19149.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.19149v1 Announce Type: cross Abstract: Automated vulnerability discovery in large codebases remains challenging: traditional static analysis produces high false-positive rates, while dynamic approaches such as fuzzing require substantial i
@@ -12473,6 +12633,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.19145v1 Announce Type: cross Abstract: Dynamical systems are fundamental to modeling the natural world, yet modeling them involves a persistent trade-off: manually prescribed mechanistic models are interpretable by design but often overly
   * Tags: `benchmark`
   * Source URL: <https://arxiv.org/abs/2606.19145>
+
+* **[osv5m/osv5m](ai/models/huggingface-datasets-osv5m.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: osv5m/osv5m (Likes: 53, Downloads: 1285308)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/osv5m>
 
 * **[Otters++: A Time-to-first-spike Based Energy Efficient Optical Spiking Transformer](ai/rag/arxiv-2606-13016.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13016v1 Announce Type: new Abstract: Spiking neural networks (SNNs) are promising for energy-efficient inference, and time-to-first-spike (TTFS) coding is especially attractive because each neuron fires at most once. In practice, however,
@@ -13170,6 +13335,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `dataset`, `frontend_ui`, `hackernews`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.17846>
 
+* **[Qwen/Qwen3-0.6B](ai/models/huggingface-qwen-qwen3-0-6b.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1342, Downloads: 24499972)
+  * Tags: `hf-model`, `huggingface`
+  * Source URL: <https://huggingface.co/qwen/qwen3-0.6b>
+
 * **[R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?](ai/rag/arxiv-2602-03300.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2602.03300v2 Announce Type: replace Abstract: In this work, we aim to develop effective data synthesis techniques that autonomously synthesize multimodal training data for enhancing MLLMs in solving complex real-world tasks. To this end, we pro
   * Tags: `agents`, `benchmark`, `hackernews`, `rag`
@@ -13731,6 +13901,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: No summary provided. Reference resource: Running Privacy-Preserving Inferences on Hugging Face Endpoints
   * Source URL: <https://huggingface.co/blog/fhe-endpoints>
 
+* **[ryanmarten/OpenThoughts-1k-sample](ai/models/huggingface-datasets-ryanmarten.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 27, Downloads: 1134459)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/ryanmarten>
+
 * **[Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face](ai/models/ryghts-journey-to-empower-healthcare-and-life-scie.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face
   * Source URL: <https://huggingface.co/blog/ryght-case-study>
@@ -13780,6 +13955,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence](ai/models/sair-accelerating-pharma-r-d-with-ai-powered-struc.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: SAIR: Accelerating Pharma R&D with AI-Powered Structural Intelligence
   * Source URL: <https://huggingface.co/blog/sandboxaq/sair-data-accelerating-drug-discovery-with-ai>
+
+* **[Salesforce/wikitext](ai/models/huggingface-datasets-salesforce.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: Salesforce/wikitext (Likes: 714, Downloads: 1332657)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/salesforce>
 
 * **[Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation](ai/research/arxiv-2512-07212.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2512.07212v3 Announce Type: replace-cross Abstract: Imitation learning with diffusion models has advanced robotic control by capturing the multi-modal action distributions. However, existing methods typically treat observations only as high-lev
@@ -14060,6 +14240,16 @@ All resources are linked to their local vault paths and preserve original source
 * **[Sentence Transformers is joining Hugging Face!](ai/models/sentence-transformers-is-joining-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Sentence Transformers is joining Hugging Face!
   * Source URL: <https://huggingface.co/blog/sentence-transformers-joins-hf>
+
+* **[sentence-transformers/all-MiniLM-L6-v2](ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 4971, Downloads: 216288695)
+  * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
+  * Source URL: <https://huggingface.co/sentence-transformers/all-minilm-l6-v2>
+
+* **[sentence-transformers/all-mpnet-base-v2](ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1307, Downloads: 30837547)
+  * Tags: `dataset`, `hf-model`, `huggingface`, `rag`
+  * Source URL: <https://huggingface.co/sentence-transformers/all-mpnet-base-v2>
 
 * **[Sentiment Analysis on Encrypted Data with Homomorphic Encryption](ai/models/sentiment-analysis-on-encrypted-data-with-homomorp.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: Sentiment Analysis on Encrypted Data with Homomorphic Encryption
@@ -15906,6 +16096,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2512.25065>
 
+* **[Wan-AI/Wan2.2-Animate](ai/models/huggingface-spaces-wan-ai.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5115, Downloads: 0)
+  * Tags: `hf-space`, `huggingface`
+  * Source URL: <https://huggingface.co/spaces/wan-ai>
+
 * **[Wasserstein Convergence of ODE-Based Samplers in Decentralized Diffusion Model via Velocity Field Decomposition](ai/research/arxiv-2606-15835.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15835v1 Announce Type: new Abstract: Diffusion models have achieved impressive empirical success in generative tasks, and their convergence theory is now relatively well understood. Motivated by privacy and scalability, recent decentralize
   * Source URL: <https://arxiv.org/abs/2606.15835>
@@ -16288,6 +16483,11 @@ All resources are linked to their local vault paths and preserve original source
 * **[XetHub is joining Hugging Face!](ai/models/xethub-is-joining-hugging-face.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: XetHub is joining Hugging Face!
   * Source URL: <https://huggingface.co/blog/xethub-joins-hf>
+
+* **[xlangai/ubuntu_osworld_file_cache](ai/models/huggingface-datasets-xlangai.md)** (`dataset` | `useful` tier)
+  * Summary: Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 30, Downloads: 1312963)
+  * Tags: `dataset`, `hf-dataset`, `huggingface`
+  * Source URL: <https://huggingface.co/datasets/xlangai>
 
 * **[XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face](ai/models/xlscout-unveils-paraembed-2-0-a-powerful-embedding.md)** (`tutorial` | `useful` tier)
   * Summary: No summary provided. Reference resource: XLSCOUT Unveils ParaEmbed 2.0: a Powerful Embedding Model Tailored for Patents and IP with Expert Support from Hugging Face
@@ -16933,6 +17133,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Excel RAID Logs RAG RAG Status RAG Status Template RAG Status Template Excel Free Download Oct 21, 2023by Kishan Tambralli What is RAG Status? RAG is an acronym that stands for Red, Amber, and Green. RAG status comes into the picture when you track t
   * Tags: `creative_dev`, `hackernews`, `rag`, `scripts`, `web-crawled`
   * Source URL: <https://www.techno-pm.com/blogs/project-dashboard/rag-status-template-excel>
+
+* **[raga-ai-hub/RagaAI-Catalyst](ai/rag/raga-ai-hub-ragaai-catalyst.md)** (`framework` | `useful` tier)
+  * Summary: Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view
+  * Tags: `agents`, `benchmark`, `rag`
+  * Source URL: <https://github.com/raga-ai-hub/ragaai-catalyst>
 
 * **[realstoman/react-tailwindcss-portfolio](web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md)** (`template` | `useful` tier)
   * Summary: A simple React app that uses Context API, custom Hooks, Tailwind CSS & Framer Motion.
@@ -17871,6 +18076,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11853v1 Announce Type: cross Abstract: Multi-modal large language models (MLLMs) depend on in-context learning (ICL) for rapid task adaptation, but their scalability is severely limited by finite context windows and the growing cost of key
   * Source URL: <https://arxiv.org/abs/2606.11853>
 
+* **[Tencent/AI-Infra-Guard](ai/agents/tencent-ai-infra-guard.md)** (`prompt` | `useful` tier)
+  * Summary: A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://github.com/tencent/ai-infra-guard>
+
 * **[TextHOI-3D: Text-to-3D Hand-Object Interaction via Discrete Multi-View Generation and Joint Mesh Optimization](ai/research/arxiv-2606-11805.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.11805v1 Announce Type: cross Abstract: Text-conditioned 3D generation has progressed rapidly for images and isolated objects, but producing a hand-object mesh remains challenging: the output must preserve language semantics, cross-view con
   * Source URL: <https://arxiv.org/abs/2606.11805>
@@ -18552,6 +18762,16 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16751v1 Announce Type: cross Abstract: Large language models (LLMs) have demonstrated remarkable capabilities across a wide range of tasks. However, their safety remains a critical concern due to their susceptibility to adversarial prompt-
   * Tags: `benchmark`, `paper`, `rag`, `reddit`
   * Source URL: <https://arxiv.org/abs/2606.16751>
+
+* **[BAAI/bge-m3](ai/rag/huggingface-baai-bge-m3.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: BAAI/bge-m3 (Likes: 3127, Downloads: 27841022)
+  * Tags: `hf-model`, `huggingface`, `rag`
+  * Source URL: <https://huggingface.co/baai/bge-m3>
+
+* **[BAAI/bge-small-en-v1.5](ai/rag/huggingface-baai-bge-small-en-v1-5.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 491, Downloads: 52151567)
+  * Tags: `hf-model`, `huggingface`, `rag`
+  * Source URL: <https://huggingface.co/baai/bge-small-en-v1.5>
 
 * **[Bayesian Optimization for Learning Nonlinear MPC in Autonomous Agent Navigation](ai/rag/arxiv-2606-14763.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14763v1 Announce Type: cross Abstract: Real-time autonomous navigation in dynamic, unknown environments remains a fundamental challenge for mobile robotics. We propose a map-free framework that tightly integrates reactive rolling-horizon p
@@ -20573,6 +20793,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `github-repo`, `rag`, `unknown`
   * Source URL: <https://github.com/our-never-ending-job/awesome-rag-debugging>
 
+* **[oxbshw/LLM-Agents-Ecosystem-Handbook](ai/rag/oxbshw-llm-agents-ecosystem-handbook.md)** (`mcp-server` | `useful` tier)
+  * Summary: One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.
+  * Tags: `agents`, `benchmark`, `models`, `rag`
+  * Source URL: <https://github.com/oxbshw/llm-agents-ecosystem-handbook>
+
 * **[PaLMR: Towards Faithful Visual Reasoning via Multimodal Process Alignment](ai/rag/arxiv-2603-06652.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2603.06652v2 Announce Type: replace-cross Abstract: Reinforcement learning has recently improved the reasoning ability of Large Language Models and Multimodal LLMs, yet prevailing reward designs emphasise final-answer correctness and consequent
   * Tags: `rag`
@@ -21178,6 +21403,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `rag`
   * Source URL: <https://arxiv.org/abs/2606.00558>
 
+* **[sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md)** (`tutorial` | `useful` tier)
+  * Summary: Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1272, Downloads: 43843739)
+  * Tags: `hf-model`, `huggingface`, `rag`
+  * Source URL: <https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2>
+
 * **[Sentinel: Decoding Context Utilization via Attention Probing for Efficient LLM Context Compression](ai/rag/arxiv-2505-23277.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2505.23277v3 Announce Type: replace-cross Abstract: Retrieval-augmented generation (RAG) often suffers from long and noisy retrieved contexts. Existing context compression methods typically rely on heuristic relevance estimation or supervised c
   * Tags: `rag`
@@ -21372,6 +21602,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.11712v1 Announce Type: cross Abstract: User-side memory in LLMs is typically scored as a single "personalization" capability: given a user's history, is the output more user-aware? We show this aggregate metric hides opposite-direction fai
   * Tags: `meta-ai`, `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.11712>
+
+* **[Sunsetting Create React App](ai/rag/sunsetting-create-react-app.md)** (`framework` | `useful` tier)
+  * Summary: Today, we’re deprecating Create React App for new apps, and encouraging existing apps to migrate to a framework, or to migrate to a build tool like Vite, Parcel, or RSBuild. We’re also providing docs for when a framework isn’t a good fit for your pro
+  * Tags: `frontend_ui`, `rag`
+  * Source URL: <https://react.dev/blog/2025/02/14/sunsetting-create-react-app>
 
 * **[Surprise-Guided MergeSort: Budget-Efficient Human-in-the-Loop Ranking via Adaptive Comparison Scheduling](ai/rag/arxiv-2606-15623.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15623v1 Announce Type: new Abstract: Pairwise comparison is the gold standard for subjective ranking tasks; however, exhaustive annotation requires a massive number of human comparisons ($O(n^2)$). While sorting-based methods have reduced
@@ -21774,7 +22009,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://pmstudycircle.com/rag-status-reporting>
 
 * **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (`benchmark` | `useful` tier)
-  * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
+  * Summary: Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #beginners #rag #tutorial If you've ever wondered how ChatGPT-style apps can suddenly "know" about your company's int
   * Tags: `anthropic`, `frontend_ui`, `meta-ai`, `mistral`, `models`, `openai`, `paper`, `rag`, `web-crawled`
   * Source URL: <https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm>
 
@@ -21900,15 +22135,125 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Web Development
 
+* **[Critical Security Vulnerability in React Server Components](web-development/critical-security-vulnerability-in-react-server-co.md)** (`reference` | `reference` tier)
+  * Summary: There is an unauthenticated remote code execution vulnerability in React Server Components. A fix has been published in versions 19.0.1, 19.1.2, and 19.2.1. We recommend upgrading immediately.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components>
+
+* **[Denial of Service and Source Code Exposure in React Server Components](web-development/denial-of-service-and-source-code-exposure-in-reac.md)** (`reference` | `reference` tier)
+  * Summary: Security researchers have found and disclosed two additional vulnerabilities in React Server Components while attempting to exploit the patches in last week’s critical vulnerability. High vulnerability Denial of Service (CVE-2025-55184), and medium v
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components>
+
+* **[How to Upgrade to React 18](web-development/how-to-upgrade-to-react-18.md)** (`reference` | `reference` tier)
+  * Summary: As we shared in the release post, React 18 introduces features powered by our new concurrent renderer, with a gradual adoption strategy for existing applications. In this post, we will guide you through the steps for upgrading to React 18.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2022/03/08/react-18-upgrade-guide>
+
+* **[Introducing react.dev](web-development/introducing-react-dev.md)** (`reference` | `reference` tier)
+  * Summary: Today we are thrilled to launch react.dev, the new home for React and its documentation. In this post, we would like to give you a tour of the new site.
+  * Tags: `frontend_ui`, `producthunt`
+  * Source URL: <https://react.dev/blog/2023/03/16/introducing-react-dev>
+
+* **[Introducing the React Foundation](web-development/introducing-the-react-foundation.md)** (`reference` | `reference` tier)
+  * Summary: Today, we're announcing our plans to create the React Foundation a new technical governance structure
+  * Tags: `frontend_ui`, `hackernews`
+  * Source URL: <https://react.dev/blog/2025/10/07/introducing-the-react-foundation>
+
+* **[Introducing Zero-Bundle-Size React Server Components](web-development/introducing-zero-bundle-size-react-server-componen.md)** (`reference` | `reference` tier)
+  * Summary: 2020 has been a long year. As it comes to an end we wanted to share a special Holiday Update on our research into zero-bundle-size React Server Components.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components>
+
 * **[Layouts RFC](web-development/layouts-rfc.md)** (`reference` | `reference` tier)
   * Summary: Nested routes and layouts, client and server routing, React 18 features, and designed for Server Components.
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/layouts-rfc>
 
+* **[React 19 Upgrade Guide](web-development/react-19-upgrade-guide.md)** (`reference` | `reference` tier)
+  * Summary: The improvements added to React 19 require some breaking changes, but we've worked to make the upgrade as smooth as possible and we don't expect the changes to impact most apps. In this post, we will guide you through the steps for upgrading apps and
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2024/04/25/react-19-upgrade-guide>
+
+* **[React 19.2](web-development/react-19-2.md)** (`reference` | `reference` tier)
+  * Summary: React 19.2 adds new features like Activity, React Performance Tracks, useEffectEvent, and more.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/10/01/react-19-2>
+
+* **[React Canaries: Enabling Incremental Feature Rollout Outside Meta](ai/rag/react-canaries-enabling-incremental-feature-rollou.md)** (`reference` | `reference` tier)
+  * Summary: We'd like to offer the React community an option to adopt individual new features as soon as their design is close to final, before they're released in a stable version--similar to how Meta has long used bleeding-edge versions of React internally. We
+  * Tags: `frontend_ui`, `youtube`
+  * Source URL: <https://react.dev/blog/2023/05/03/react-canaries>
+
+* **[React Compiler Beta Release](web-development/react-compiler-beta-release.md)** (`reference` | `reference` tier)
+  * Summary: At React Conf 2024, we announced the experimental release of React Compiler, a build-time tool that optimizes your React app through automatic memoization. In this post, we want to share what's next for open source, and our progress on the compiler.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2024/10/21/react-compiler-beta-release>
+
+* **[React Compiler v1.0](web-development/react-compiler-v1-0.md)** (`reference` | `reference` tier)
+  * Summary: We are releasing the compiler's first stable release today.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/10/07/react-compiler-1>
+
+* **[React Conf 2021 Recap](web-development/react-conf-2021-recap.md)** (`reference` | `reference` tier)
+  * Summary: Last week we hosted our 6th React Conf. In previous years, we've used the React Conf stage to deliver industry changing announcements such as React Native and React Hooks. This year, we shared our multi-platform vision for React, starting with the re
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2021/12/17/react-conf-2021-recap>
+
+* **[React Conf 2024 Recap](web-development/react-conf-2024-recap.md)** (`reference` | `reference` tier)
+  * Summary: Last week we hosted React Conf 2024, a two-day conference in Henderson, Nevada where 700+ attendees gathered in-person to discuss the latest in UI engineering. In this post, we'll summarize the talks and announcements from the event.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2024/05/22/react-conf-2024-recap>
+
+* **[React Conf 2025 Recap](web-development/react-conf-2025-recap.md)** (`reference` | `reference` tier)
+  * Summary: Last week we hosted React Conf 2025, in this post, we summarize the talks and announcements from the event...
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/10/16/react-conf-2025-recap>
+
+* **[React Labs: View Transitions, Activity, and more](web-development/react-labs-view-transitions-activity-and-more.md)** (`reference` | `reference` tier)
+  * Summary: In React Labs posts, we write about projects in active research and development. In this post, we're sharing two new experimental features that are ready to try today, and updates on other areas we're working on now.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more>
+
+* **[React Labs: What We've Been Working On – February 2024](web-development/react-labs-what-we-ve-been-working-on-february-202.md)** (`reference` | `reference` tier)
+  * Summary: In React Labs posts, we write about projects in active research and development. We’ve made significant progress since our last update, and we’d like to share our progress.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024>
+
+* **[React Labs: What We've Been Working On – June 2022](web-development/react-labs-what-we-ve-been-working-on-june-2022.md)** (`reference` | `reference` tier)
+  * Summary: React 18 was years in the making, and with it brought valuable lessons for the React team. Its release was the result of many years of research and exploring many paths. Some of those paths were successful; many more were dead-ends that led to new in
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022>
+
+* **[React Labs: What We've Been Working On – March 2023](web-development/react-labs-what-we-ve-been-working-on-march-2023.md)** (`reference` | `reference` tier)
+  * Summary: In React Labs posts, we write about projects in active research and development. We've made significant progress on them since our last update, and we'd like to share what we learned.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023>
+
+* **[React v18.0](web-development/react-v18-0.md)** (`reference` | `reference` tier)
+  * Summary: React 18 is now available on npm! In our last post, we shared step-by-step instructions for upgrading your app to React 18. In this post, we'll give an overview of what's new in React 18, and what it means for the future.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2022/03/29/react-v18>
+
+* **[React v19](web-development/react-v19.md)** (`reference` | `reference` tier)
+  * Summary: React 19 is now available on npm! In this post, we'll give an overview of the new features in React 19, and how you can adopt them.
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2024/12/05/react-19>
+
 * **[Security Advisory: CVE-2025-66478](web-development/security-advisory-cve-2025-66478.md)** (`reference` | `reference` tier)
   * Summary: A critical vulnerability (CVE-2025-66478) has been identified in the React Server Components protocol. Users should upgrade to patched versions immediately.
   * Tags: `frontend_ui`
   * Source URL: <https://nextjs.org/blog/cve-2025-66478>
+
+* **[The Plan for React 18](web-development/the-plan-for-react-18.md)** (`reference` | `reference` tier)
+  * Summary: The React team is excited to share a few updates. We’ve started work on the React 18 release, which will be our next major version. We’ve created a Working Group to prepare the community for gradual adoption of new features in React 18. We’ve publish
+  * Tags: `frontend_ui`
+  * Source URL: <https://react.dev/blog/2021/06/08/the-plan-for-react-18>
+
+* **[The React Foundation: A New Home for React Hosted by the Linux Foundation](web-development/the-react-foundation-a-new-home-for-react-hosted-b.md)** (`reference` | `reference` tier)
+  * Summary: The React Foundation has officially launched, hosted by the Linux Foundation.
+  * Tags: `frontend_ui`, `producthunt`
+  * Source URL: <https://react.dev/blog/2026/02/24/the-react-foundation>
 
 * **[Turbopack Dev is Now Stable](web-development/turbopack-dev-is-now-stable.md)** (`reference` | `reference` tier)
   * Summary: It's been a long road, but we are happy to announce that `next dev --turbo` is now stable and ready to speed up your development experience.

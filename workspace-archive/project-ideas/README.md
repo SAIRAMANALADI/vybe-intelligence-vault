@@ -19,7 +19,7 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ## Best GitHub Repositories
 
-- None listed yet.
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 
 ## Best Learning Resources
 
@@ -35,4 +35,4 @@ Hands-on projects are the only way to build real competency in agent orchestrati
 
 ---
 
-*Last updated: 2026-06-18 20:52 IST*
+*Last updated: 2026-06-18 23:39 IST*

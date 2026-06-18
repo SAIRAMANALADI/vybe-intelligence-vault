@@ -1,31 +1,31 @@
 ---
-title: 'Emacs 31 Is Around the Corner: The Changes I''m Daily Driving'
+title: 'Emacs 31 is around the corner: The changes I''m daily driving'
 category: ai/community
 source_type: hackernews
 source_name: Hacker News AI
 source_url: https://rahuljuliato.com/posts/emacs-31-around-the-corner
 hn_url: https://news.ycombinator.com/item?id=48584135
-score: 212
+score: 310
 author: frou_dh
-comments_count: 89
+comments_count: 159
 published_at: '2026-06-18T17:40:53+05:30'
-collected_at: '2026-06-18T20:48:16.511406+05:30'
+collected_at: '2026-06-18T23:35:18.399500+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:emacs-31-is-around-the-corner-the-changes-i-m-dail
 first_seen: '2026-06-18T20:48:16.511406+05:30'
-last_seen: '2026-06-18T20:48:16.511406+05:30'
-last_checked: '2026-06-18T20:48:16.511406+05:30'
+last_seen: '2026-06-18T23:35:18.399500+05:30'
+last_checked: '2026-06-18T23:35:18.399500+05:30'
 health_score: 100
 ---
 
-# Emacs 31 Is Around the Corner: The Changes I'm Daily Driving
+# Emacs 31 is around the corner: The changes I'm daily driving
 
 ## Summary
 
-Hacker News story by frou_dh. Score: 212, Comments: 89.
+Hacker News story by frou_dh. Score: 310, Comments: 159.
 Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: frou_dh
-- Score: 212 Upvotes
-- Comments: 89 Discussions
+- Score: 310 Upvotes
+- Comments: 159 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48584135
 - Original Article: https://rahuljuliato.com/posts/emacs-31-around-the-corner
 

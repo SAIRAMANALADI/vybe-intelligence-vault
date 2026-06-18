@@ -23,10 +23,10 @@ https://github.com/langfuse/langfuse (Langfuse)
 https://github.com/Arize-AI/phoenix (Arize Phoenix)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
+- [raga-ai-hub/RagaAI-Catalyst](https://github.com/raga-ai-hub/ragaai-catalyst)
+- [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)
 - [ChiggyJain/PythonLangSmithTutorial](https://github.com/ChiggyJain/PythonLangSmithTutorial)
 - [Sampath8989/langgraph-topology-benchmarks](https://github.com/Sampath8989/langgraph-topology-benchmarks)
-- [danielt69/awesome-agent-observability](https://github.com/danielt69/awesome-agent-observability)
-- [iris-eval/mcp-server](https://github.com/iris-eval/mcp-server)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/Arize-AI/phoenix (Arize Phoenix)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

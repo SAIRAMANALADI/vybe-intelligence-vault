@@ -42,11 +42,12 @@ This index groups resources by direct developer use-cases and design goals.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Category: `model-providers` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Category: `model-providers` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Category: `model-providers` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `model-providers` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `model-providers` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Category: `inference-local-llm` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 
 ## Production Auditing & Prompt Injection Protection
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Category: `guardrails-security` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2601-21714.md))
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
@@ -54,7 +55,6 @@ This index groups resources by direct developer use-cases and design goals.
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
-- [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (Category: `evals-and-benchmarks` | [`Local File`](../../ai/rag/arxiv-2606-14081.md))
 
 ## Script Automations & External API Integration
 
@@ -101,4 +101,4 @@ This index groups resources by direct developer use-cases and design goals.
 - [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Category: `project-ideas` | [`Local File`](../../ai/research/arxiv-2606-11197.md))
 
 ---
-*Last updated: 2026-06-18 20:52 IST*
+*Last updated: 2026-06-18 23:39 IST*

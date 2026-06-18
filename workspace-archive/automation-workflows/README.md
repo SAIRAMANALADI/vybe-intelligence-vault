@@ -24,7 +24,7 @@ https://github.com/n8n-io/n8n (n8n)
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit)
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security)
 - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow)
-- [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers)
+- [VoltAgent/awesome-ai-agent-papers](https://github.com/voltagent/awesome-ai-agent-papers)
 - [fzn0x/watchtower](https://github.com/fzn0x/watchtower)
 
 ## Best Learning Resources
@@ -43,4 +43,4 @@ https://github.com/n8n-io/n8n (n8n)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

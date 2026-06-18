@@ -4,20 +4,20 @@ category: web-development/framer-motion
 source_type: github
 source_name: GitHub Framer Motion Resources
 source_url: https://github.com/braydoncoyer/braydoncoyer.dev
-collected_at: '2026-06-16T17:27:23.872088+05:30'
-published_at: '2026-06-14T05:54:53Z'
+collected_at: '2026-06-18T23:35:17.803681+05:30'
+published_at: '2026-06-18T17:47:01Z'
 tags:
 - animation
 - creative_dev
 - frontend_ui
 - reddit
-stars: 794
+stars: 795
 language: TypeScript
 status: active
 resource_id: github:braydoncoyer/braydoncoyer.dev
 first_seen: '2026-06-12T10:40:18.783025+00:00'
-last_seen: '2026-06-16T17:27:23.872088+05:30'
-last_checked: '2026-06-16T17:27:23.872088+05:30'
+last_seen: '2026-06-18T23:35:17.803681+05:30'
+last_checked: '2026-06-18T23:35:17.803681+05:30'
 health_score: 100
 ---
 
@@ -34,11 +34,11 @@ This repository demonstrates layout animation techniques, micro-interactions, or
 ## Repository Details
 
 - Owner: braydoncoyer
-- Stars: 794
+- Stars: 795
 - Forks: 123
 - Language: TypeScript
 - Topics: blog, cloudinary, nextjs, portfolio-website, react, supabase, tailwind-css, tailwindcss, vercel
-- Last Updated: 2026-06-14T05:54:53Z
+- Last Updated: 2026-06-18T17:47:01Z
 
 ## Possible Use Cases
 

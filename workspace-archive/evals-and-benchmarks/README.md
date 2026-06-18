@@ -8,6 +8,7 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 
 ## Top Matched Resources
 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (template - ESSENTIAL Tier)
 - [E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory](https://arxiv.org/abs/2601.21714) (framework - USEFUL Tier)
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (framework - USEFUL Tier)
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (framework - USEFUL Tier)
@@ -15,18 +16,17 @@ Rigorous evaluations protect against regressions in model behavior, prompt drift
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (framework - USEFUL Tier)
 - [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (framework - USEFUL Tier)
 - [Clay-CNN Hybrids: Leveraging Geospatial Foundation Models as Auxiliary Context for Landslide Detection](https://arxiv.org/abs/2606.14081) (framework - USEFUL Tier)
-- [C2-Faith: Benchmarking LLM Judges for Causal and Coverage Faithfulness in Chain-of-Thought Reasoning](https://arxiv.org/abs/2603.05167) (framework - USEFUL Tier)
 
 ## Best GitHub Repositories
 
 https://github.com/tylerwince/promptfoo (Promptfoo)
 https://github.com/confident-ai/deepeval (DeepEval)
 https://github.com/explodinggradients/ragas (Ragas)
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack)
 - [FormulaMonks/llm-benchmarker-suite](https://github.com/FormulaMonks/llm-benchmarker-suite)
 - [flexpa/llm-fhir-eval](https://github.com/flexpa/llm-fhir-eval)
 - [openai/evals](https://github.com/openai/evals)
 - [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
-- [modelscope/evalscope](https://github.com/modelscope/evalscope)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/explodinggradients/ragas (Ragas)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

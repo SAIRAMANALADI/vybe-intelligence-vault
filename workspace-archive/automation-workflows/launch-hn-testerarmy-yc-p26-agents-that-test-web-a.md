@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by okwasniewski. Score: 12, Comments: 2.
+Hacker News story by okwasniewski. Score: 50, Comments: 26.
 Original Link: https://tester.army
 
 ## Use Cases

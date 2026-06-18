@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch
-published_at: '2026-06-18T20:49:39.058717+05:30'
-collected_at: '2026-06-18T20:49:39.058728+05:30'
+published_at: '2026-06-18T23:37:20.041109+05:30'
+collected_at: '2026-06-18T23:37:20.041124+05:30'
 tags:
 - agents
 - anthropic
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:7-steps-to-build-a-simple-rag-system-from-scratch
-first_seen: '2026-06-18T20:49:39.058728+05:30'
-last_seen: '2026-06-18T20:49:39.058728+05:30'
-last_checked: '2026-06-18T20:49:39.058728+05:30'
+first_seen: '2026-06-18T23:37:20.041124+05:30'
+last_seen: '2026-06-18T23:37:20.041124+05:30'
+last_checked: '2026-06-18T23:37:20.041124+05:30'
 health_score: 100
 ---
 
@@ -41,7 +41,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T20:49:39.058717+05:30
+- Published: 2026-06-18T23:37:20.041109+05:30
 
 ## Related Tags
 

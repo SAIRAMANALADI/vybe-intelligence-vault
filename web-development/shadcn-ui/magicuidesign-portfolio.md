@@ -4,18 +4,18 @@ category: web-development/shadcn-ui
 source_type: github
 source_name: GitHub shadcn/ui Resources
 source_url: https://github.com/magicuidesign/portfolio
-collected_at: '2026-06-18T04:23:23.845411+05:30'
-published_at: '2026-06-17T22:16:35Z'
+collected_at: '2026-06-18T23:35:18.325408+05:30'
+published_at: '2026-06-18T17:08:59Z'
 tags:
 - creative_dev
 - frontend_ui
-stars: 1393
+stars: 1394
 language: TypeScript
 status: active
 resource_id: github:magicuidesign/portfolio
 first_seen: '2026-06-16T04:26:21.211426+00:00'
-last_seen: '2026-06-18T04:23:23.845411+05:30'
-last_checked: '2026-06-18T04:23:23.845411+05:30'
+last_seen: '2026-06-18T23:35:18.325408+05:30'
+last_checked: '2026-06-18T23:35:18.325408+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: magicuidesign
-- Stars: 1393
+- Stars: 1394
 - Forks: 385
 - Language: TypeScript
 - Topics: None
-- Last Updated: 2026-06-17T22:16:35Z
+- Last Updated: 2026-06-18T17:08:59Z
 
 ## Possible Use Cases
 

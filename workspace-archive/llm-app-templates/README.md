@@ -13,9 +13,9 @@ Starter kits and application templates drastically accelerate the deployment of 
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (prompt - USEFUL Tier)
 - [Next.js 7](https://nextjs.org/blog/next-7) (tutorial - USEFUL Tier)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (tutorial - USEFUL Tier)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) (prompt - USEFUL Tier)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (prompt - USEFUL Tier)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (template - USEFUL Tier)
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template) (template - USEFUL Tier)
 
 ## Best GitHub Repositories
 
@@ -24,9 +24,9 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template)
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template)
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian)
 - [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine)
-- [jolbol1/nextjs-velite-blog-template](https://github.com/jolbol1/nextjs-velite-blog-template)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/steven-tey/precedent (Precedent Next.js Template)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

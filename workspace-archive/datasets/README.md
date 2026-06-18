@@ -21,6 +21,8 @@ High quality data determines the effectiveness of evaluations, fine-tuning, and 
 
 https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [onejune2018/Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)
+- [Arize-ai/phoenix](https://github.com/arize-ai/phoenix)
+- [langwatch/langwatch](https://github.com/langwatch/langwatch)
 - [glgh/awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets)
 
 ## Best Learning Resources
@@ -39,4 +41,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*

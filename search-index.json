@@ -490,7 +490,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646922+05:30"
+    "last_updated": "2026-06-18T23:35:25.016119+05:30"
   },
   {
     "title": "Human-computer interaction",
@@ -507,7 +507,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646896+05:30"
+    "last_updated": "2026-06-18T23:35:25.016094+05:30"
   },
   {
     "title": "Publications",
@@ -524,7 +524,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646645+05:30"
+    "last_updated": "2026-06-18T23:35:25.015866+05:30"
   },
   {
     "title": "Audio & acoustics",
@@ -541,7 +541,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646819+05:30"
+    "last_updated": "2026-06-18T23:35:25.016017+05:30"
   },
   {
     "title": "Microsoft Research blog",
@@ -558,7 +558,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646736+05:30"
+    "last_updated": "2026-06-18T23:35:25.015960+05:30"
   },
   {
     "title": "Computer vision",
@@ -575,7 +575,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646846+05:30"
+    "last_updated": "2026-06-18T23:35:25.016042+05:30"
   },
   {
     "title": "Code & data",
@@ -592,7 +592,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646704+05:30"
+    "last_updated": "2026-06-18T23:35:25.015926+05:30"
   },
   {
     "title": "Search & information retrieval",
@@ -609,7 +609,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:48:21.646948+05:30"
+    "last_updated": "2026-06-18T23:35:25.016143+05:30"
   },
   {
     "title": "Graphics & multimedia",
@@ -626,7 +626,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646872+05:30"
+    "last_updated": "2026-06-18T23:35:25.016067+05:30"
   },
   {
     "title": "Artificial intelligence",
@@ -643,7 +643,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:21.646785+05:30"
+    "last_updated": "2026-06-18T23:35:25.015989+05:30"
   },
   {
     "title": "Responsible Scaling Policy",
@@ -661,7 +661,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.836148+05:30"
+    "last_updated": "2026-06-18T23:35:21.606474+05:30"
   },
   {
     "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -679,7 +679,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "product",
-    "last_updated": "2026-06-18T20:48:18.835923+05:30"
+    "last_updated": "2026-06-18T23:35:21.606252+05:30"
   },
   {
     "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
@@ -697,7 +697,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835894+05:30"
+    "last_updated": "2026-06-18T23:35:21.606223+05:30"
   },
   {
     "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
@@ -715,7 +715,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835698+05:30"
+    "last_updated": "2026-06-18T23:35:21.606053+05:30"
   },
   {
     "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -733,7 +733,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835855+05:30"
+    "last_updated": "2026-06-18T23:35:21.606178+05:30"
   },
   {
     "title": "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
@@ -751,7 +751,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835951+05:30"
+    "last_updated": "2026-06-18T23:35:21.606280+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
@@ -769,7 +769,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835790+05:30"
+    "last_updated": "2026-06-18T23:35:21.606118+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -787,7 +787,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.835825+05:30"
+    "last_updated": "2026-06-18T23:35:21.606149+05:30"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -807,7 +807,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:19.477273+05:30"
+    "last_updated": "2026-06-18T23:35:22.201850+05:30"
   },
   {
     "title": "AlphaEarthMap our planet in unprecedented detail",
@@ -826,7 +826,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:19.477239+05:30"
+    "last_updated": "2026-06-18T23:35:22.201812+05:30"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -845,7 +845,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:19.477320+05:30"
+    "last_updated": "2026-06-18T23:35:22.201900+05:30"
   },
   {
     "title": "Learn more",
@@ -865,7 +865,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:19.477585+05:30"
+    "last_updated": "2026-06-18T23:35:22.202177+05:30"
   },
   {
     "title": "SIMA 2An agent that plays, reasons, and learns with you",
@@ -885,7 +885,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:19.477142+05:30"
+    "last_updated": "2026-06-18T23:35:22.201689+05:30"
   },
   {
     "title": "Applied AI",
@@ -903,7 +903,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:17.033890+05:30"
+    "last_updated": "2026-06-18T23:35:17.735710+05:30"
   },
   {
     "title": "AI Adoption",
@@ -921,7 +921,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:17.033840+05:30"
+    "last_updated": "2026-06-18T23:35:17.735682+05:30"
   },
   {
     "title": "Global Affairs",
@@ -939,7 +939,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:17.033808+05:30"
+    "last_updated": "2026-06-18T23:35:17.735651+05:30"
   },
   {
     "title": "Engineering",
@@ -957,7 +957,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:17.033730+05:30"
+    "last_updated": "2026-06-18T23:35:17.735594+05:30"
   },
   {
     "title": "AI Now Summit 2026",
@@ -976,7 +976,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230705+05:30"
+    "last_updated": "2026-06-18T23:35:22.499679+05:30"
   },
   {
     "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -995,7 +995,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-18T20:48:20.231561+05:30"
+    "last_updated": "2026-06-18T23:35:22.500660+05:30"
   },
   {
     "title": "Vibe gets to work.",
@@ -1015,7 +1015,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230740+05:30"
+    "last_updated": "2026-06-18T23:35:22.499714+05:30"
   },
   {
     "title": "Introducing Search Toolkit",
@@ -1034,7 +1034,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230795+05:30"
+    "last_updated": "2026-06-18T23:35:22.499773+05:30"
   },
   {
     "title": "Voxtral TTS",
@@ -1053,7 +1053,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230628+05:30"
+    "last_updated": "2026-06-18T23:35:22.499602+05:30"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -1072,7 +1072,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.231606+05:30"
+    "last_updated": "2026-06-18T23:35:22.500756+05:30"
   },
   {
     "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI",
@@ -1091,7 +1091,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.231863+05:30"
+    "last_updated": "2026-06-18T23:35:22.501061+05:30"
   },
   {
     "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -1111,7 +1111,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-18T20:48:20.231703+05:30"
+    "last_updated": "2026-06-18T23:35:22.500913+05:30"
   },
   {
     "title": "Mistral Small 4",
@@ -1130,7 +1130,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230579+05:30"
+    "last_updated": "2026-06-18T23:35:22.499551+05:30"
   },
   {
     "title": "Mistral Medium 3.5",
@@ -1150,7 +1150,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:20.230511+05:30"
+    "last_updated": "2026-06-18T23:35:22.499482+05:30"
   },
   {
     "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
@@ -1455,7 +1455,7 @@
     "last_updated": "2026-06-11T14:02:29.799638+00:00"
   },
   {
-    "title": "crewAIInc/crewAI Release: 1.14.8a",
+    "title": "crewAIInc/crewAI Release: 1.14.8a1",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
     "tags": [
@@ -1470,7 +1470,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:22.444697+05:30"
+    "last_updated": "2026-06-18T23:35:24.237700+05:30"
   },
   {
     "title": "Model Validation of Agentic AI Systems: A POMDP-Based Framework for Belief-State, Forecast, and Policy Validation",
@@ -2419,7 +2419,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:18.386339+05:30"
+    "last_updated": "2026-06-18T23:35:19.406782+05:30"
   },
   {
     "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
@@ -2754,7 +2754,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:50:35.032275+05:30"
+    "last_updated": "2026-06-18T23:38:29.081043+05:30"
   },
   {
     "title": "Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving",
@@ -3053,6 +3053,24 @@
     "last_updated": "2026-06-15T06:03:39.933295+00:00"
   },
   {
+    "title": "BAAI/bge-m3",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "hf-model",
+      "huggingface",
+      "rag"
+    ],
+    "source_url": "https://huggingface.co/baai/bge-m3",
+    "local_path": "ai/rag/huggingface-baai-bge-m3.md",
+    "summary": "Trending Hugging Face model: BAAI/bge-m3 (Likes: 3127, Downloads: 27841022)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374836+05:30"
+  },
+  {
     "title": "Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning",
     "category": "ai/rag",
     "section": "ai-browser-computer-use",
@@ -3086,6 +3104,25 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-18T04:23:22.597284+05:30"
+  },
+  {
+    "title": "sentence-transformers/all-mpnet-base-v2",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-model",
+      "huggingface",
+      "rag"
+    ],
+    "source_url": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
+    "local_path": "ai/rag/huggingface-sentence-transformers-all-mpnet-base-v2.md",
+    "summary": "Trending Hugging Face model: sentence-transformers/all-mpnet-base-v2 (Likes: 1307, Downloads: 30837547)",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.374822+05:30"
   },
   {
     "title": "TencentCloudADP/youtu-graphrag",
@@ -3810,6 +3847,26 @@
     "last_updated": "2026-06-17T10:46:10.993813+05:30"
   },
   {
+    "title": "cross-encoder/ms-marco-MiniLM-L6-v2",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-model",
+      "huggingface",
+      "rag",
+      "reddit"
+    ],
+    "source_url": "https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2",
+    "local_path": "ai/rag/huggingface-cross-encoder-ms-marco-minilm-l6-v2.md",
+    "summary": "Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 266, Downloads: 68562031)",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.374698+05:30"
+  },
+  {
     "title": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -3941,6 +3998,24 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-18T10:31:14.808279+05:30"
+  },
+  {
+    "title": "raga-ai-hub/RagaAI-Catalyst",
+    "category": "ai/rag",
+    "section": "frontend-ai-ui",
+    "tags": [
+      "agents",
+      "benchmark",
+      "rag"
+    ],
+    "source_url": "https://github.com/raga-ai-hub/ragaai-catalyst",
+    "local_path": "ai/rag/raga-ai-hub-ragaai-catalyst.md",
+    "summary": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboard and advanced analytics with timeline and execution graph view",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.966556+05:30"
   },
   {
     "title": "PI-Hunter: Automated Red-Teaming for Exposing and Localizing Prompt Injections",
@@ -4309,7 +4384,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:50:24.960831+05:30"
+    "last_updated": "2026-06-18T23:38:23.956198+05:30"
   },
   {
     "title": "HiGR: Industrial-Scale Hierarchical Generative Slate Recommendation Framework in Tencent",
@@ -6387,7 +6462,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:49:40.429581+05:30"
+    "last_updated": "2026-06-18T23:37:24.992111+05:30"
   },
   {
     "title": "From Paper to Program: Externalizing and Diagnosing Knowledge Bottlenecks in AI-Assisted Quantum Many-Body Code Generation",
@@ -6414,20 +6489,18 @@
     "tags": [
       "agents",
       "benchmark",
-      "github-repo",
       "paper",
       "rag",
-      "unknown",
       "workflows"
     ],
-    "source_url": "https://github.com/VoltAgent/awesome-ai-agent-papers",
+    "source_url": "https://github.com/voltagent/awesome-ai-agent-papers",
     "local_path": "ai/rag/voltagent-awesome-ai-agent-papers.md",
     "summary": "A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-11T13:06:36.034473+00:00"
+    "last_updated": "2026-06-18T23:35:18.966657+05:30"
   },
   {
     "title": "PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable J\\\"ackel Operator",
@@ -8384,7 +8457,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-18T20:49:28.886822+05:30"
+    "last_updated": "2026-06-18T23:36:50.888538+05:30"
   },
   {
     "title": "Learning Topological Representations for Molecular Dynamics",
@@ -8929,7 +9002,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:49:37.743665+05:30"
+    "last_updated": "2026-06-18T23:37:28.005401+05:30"
   },
   {
     "title": "Numbers Already Carry Their Own Embeddings",
@@ -9087,7 +9160,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T20:49:51.033052+05:30"
+    "last_updated": "2026-06-18T23:37:46.414870+05:30"
   },
   {
     "title": "NTS-CoT: Mitigating Hallucinations in LLM-based News Timeline Summarization with Chain-of-Thought Reasoning",
@@ -10145,7 +10218,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-18T20:49:58.734967+05:30"
+    "last_updated": "2026-06-18T23:37:34.023537+05:30"
   },
   {
     "title": "CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community",
@@ -10383,7 +10456,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T16:18:43.156838+05:30"
+    "last_updated": "2026-06-18T23:37:30.410350+05:30"
   },
   {
     "title": "Bridging Data Gaps in Structural Fragility Modeling through Transfer Learning: Methodology and Case Studies",
@@ -10646,7 +10719,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:18.208613+05:30"
+    "last_updated": "2026-06-18T23:35:19.450664+05:30"
   },
   {
     "title": "A Multi-Center Benchmark for Abdominal Disease Diagnosis and Report Generation from Non-Contrast CT",
@@ -11501,7 +11574,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T16:18:57.002904+05:30"
+    "last_updated": "2026-06-18T23:37:40.995604+05:30"
   },
   {
     "title": "Zero-Shot Cross-City Generalization in End-to-End Autonomous Driving: Self-Supervised versus Supervised Representations",
@@ -11893,7 +11966,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-18T20:49:40.028493+05:30"
+    "last_updated": "2026-06-18T23:37:22.589707+05:30"
   },
   {
     "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
@@ -12716,7 +12789,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-12T10:41:29.082807+00:00"
+    "last_updated": "2026-06-18T23:37:53.934086+05:30"
   },
   {
     "title": "Self-Evolving Multi-Agent Systems via Textual Backpropagation",
@@ -13415,7 +13488,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T20:49:39.058728+05:30"
+    "last_updated": "2026-06-18T23:37:20.041124+05:30"
   },
   {
     "title": "Uncertainty-Aware Hybrid Retrieval for Long-Document RAG",
@@ -13576,7 +13649,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T16:18:49.305657+05:30"
+    "last_updated": "2026-06-18T23:37:13.941109+05:30"
   },
   {
     "title": "TIMAN-group/PlugMem",
@@ -14664,7 +14737,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
-    "last_updated": "2026-06-18T20:48:18.207665+05:30"
+    "last_updated": "2026-06-18T23:35:19.449743+05:30"
   },
   {
     "title": "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention",
@@ -14835,7 +14908,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T20:48:15.829381+05:30"
+    "last_updated": "2026-06-18T23:35:16.539202+05:30"
   },
   {
     "title": "Where Does Texture Evidence Live in SAM? Features, Proposal Masks, and Texture Segmentation",
@@ -15636,7 +15709,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-18T20:49:36.778937+05:30"
+    "last_updated": "2026-06-18T23:37:03.795446+05:30"
   },
   {
     "title": "Hubs or Fringes: Pretraining Data Selection via Web Graph Centrality",
@@ -16527,6 +16600,25 @@
     "last_updated": "2026-06-18T10:31:14.887125+05:30"
   },
   {
+    "title": "sentence-transformers/all-MiniLM-L6-v2",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-model",
+      "huggingface",
+      "rag"
+    ],
+    "source_url": "https://huggingface.co/sentence-transformers/all-minilm-l6-v2",
+    "local_path": "ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md",
+    "summary": "Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 4971, Downloads: 216288695)",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.374658+05:30"
+  },
+  {
     "title": "Information-Theoretic Decomposition for Multimodal Interaction Learning",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -16789,6 +16881,24 @@
     "last_updated": "2026-06-17T02:49:08.616991+05:30"
   },
   {
+    "title": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "hf-model",
+      "huggingface",
+      "rag"
+    ],
+    "source_url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
+    "local_path": "ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md",
+    "summary": "Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1272, Downloads: 43843739)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374787+05:30"
+  },
+  {
     "title": "How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -17024,7 +17134,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:49:35.029121+05:30"
+    "last_updated": "2026-06-18T23:36:59.199447+05:30"
   },
   {
     "title": "girijesh-ai/ai-interview-codex",
@@ -17380,7 +17490,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:18.207868+05:30"
+    "last_updated": "2026-06-18T23:35:19.449928+05:30"
   },
   {
     "title": "patchy631/ai-engineering-hub",
@@ -17399,7 +17509,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:50:44.909212+05:30"
+    "last_updated": "2026-06-18T23:38:38.944972+05:30"
   },
   {
     "title": "FreshRetailNet-LT: A Stockout-Annotated Censored Demand Dataset for Latent Demand Recovery and Forecasting in Fresh Retail",
@@ -17614,7 +17724,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-17T20:13:26.509446+05:30"
+    "last_updated": "2026-06-18T23:37:48.873434+05:30"
   },
   {
     "title": "Reward Modeling for Multi-Agent Orchestration",
@@ -18036,12 +18146,12 @@
     ],
     "source_url": "https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm",
     "local_path": "ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md",
-    "summary": "Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #rag #ai #tutorial #beginners If you've ever wondered how ChatGPT-style apps can suddenly \"know\" about your company's int",
+    "summary": "Ege Pakten Posted on Apr 18 What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) #ai #beginners #rag #tutorial If you've ever wondered how ChatGPT-style apps can suddenly \"know\" about your company's int",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:49:38.763301+05:30"
+    "last_updated": "2026-06-18T23:37:51.514185+05:30"
   },
   {
     "title": "The Morse Transform for Discrete Shape Analysis",
@@ -19510,7 +19620,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:49:40.926533+05:30"
+    "last_updated": "2026-06-18T23:37:06.414691+05:30"
   },
   {
     "title": "C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift",
@@ -19569,7 +19679,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-18T20:49:46.873465+05:30"
+    "last_updated": "2026-06-18T23:37:17.700917+05:30"
   },
   {
     "title": "Online LLM Selection via Constrained Bandits with Time-Varying Demand",
@@ -20744,7 +20854,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:49:45.443958+05:30"
+    "last_updated": "2026-06-18T23:37:38.795402+05:30"
   },
   {
     "title": "Adaptive Nucleus Truncation for Long-Form Reasoning",
@@ -20931,6 +21041,25 @@
     "last_updated": "2026-06-17T02:49:08.632628+05:30"
   },
   {
+    "title": "trpc-group/trpc-agent-go",
+    "category": "ai/rag",
+    "section": "automation-workflows",
+    "tags": [
+      "agents",
+      "benchmark",
+      "rag",
+      "workflows"
+    ],
+    "source_url": "https://github.com/trpc-group/trpc-agent-go",
+    "local_path": "ai/rag/trpc-group-trpc-agent-go.md",
+    "summary": "A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability.",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.966633+05:30"
+  },
+  {
     "title": "Canonical Variates in Wasserstein Metric Space",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -20983,6 +21112,25 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T19:36:25.850518+05:30"
+  },
+  {
+    "title": "oxbshw/LLM-Agents-Ecosystem-Handbook",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "agents",
+      "benchmark",
+      "models",
+      "rag"
+    ],
+    "source_url": "https://github.com/oxbshw/llm-agents-ecosystem-handbook",
+    "local_path": "ai/rag/oxbshw-llm-agents-ecosystem-handbook.md",
+    "summary": "One-stop handbook for building, deploying, and understanding LLM agents with 60+ skeletons, tutorials, ecosystem guides, and evaluation tools.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "mcp-server",
+    "last_updated": "2026-06-18T23:35:18.966710+05:30"
   },
   {
     "title": "Maximum Entropy Inverse Reinforcement Learning for Mean-Field Games with Average Reward",
@@ -21268,6 +21416,29 @@
     "last_updated": "2026-06-15T06:03:45.858097+00:00"
   },
   {
+    "title": "Arize-ai/phoenix",
+    "category": "ai/rag",
+    "section": "datasets",
+    "tags": [
+      "agents",
+      "anthropic",
+      "benchmark",
+      "dataset",
+      "meta-ai",
+      "models",
+      "openai",
+      "rag"
+    ],
+    "source_url": "https://github.com/arize-ai/phoenix",
+    "local_path": "ai/rag/arize-ai-phoenix.md",
+    "summary": "AI Observability & Evaluation",
+    "quality_score": 70,
+    "archive_score": 81,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-18T23:35:18.966700+05:30"
+  },
+  {
     "title": "Bootstrapped Monitoring: Leveraging Transparent Reasoning to Oversee Stronger AI Agents",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -21403,6 +21574,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.376596+05:30"
+  },
+  {
+    "title": "BAAI/bge-small-en-v1.5",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "hf-model",
+      "huggingface",
+      "rag"
+    ],
+    "source_url": "https://huggingface.co/baai/bge-small-en-v1.5",
+    "local_path": "ai/rag/huggingface-baai-bge-small-en-v1-5.md",
+    "summary": "Trending Hugging Face model: BAAI/bge-small-en-v1.5 (Likes: 491, Downloads: 52151567)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374715+05:30"
   },
   {
     "title": "STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability",
@@ -21883,6 +22072,23 @@
     "last_updated": "2026-06-17T10:46:10.854455+05:30"
   },
   {
+    "title": "Sunsetting Create React App",
+    "category": "ai/rag",
+    "section": "vector-databases",
+    "tags": [
+      "frontend_ui",
+      "rag"
+    ],
+    "source_url": "https://react.dev/blog/2025/02/14/sunsetting-create-react-app",
+    "local_path": "ai/rag/sunsetting-create-react-app.md",
+    "summary": "Today, we’re deprecating Create React App for new apps, and encouraging existing apps to migrate to a framework, or to migrate to a build tool like Vite, Parcel, or RSBuild. We’re also providing docs for when a framework isn’t a good fit for your pro",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.731871+05:30"
+  },
+  {
     "title": "NirDiamant/RAG_Techniques",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -21903,7 +22109,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:50:39.878871+05:30"
+    "last_updated": "2026-06-18T23:38:33.939347+05:30"
   },
   {
     "title": "Multi-Modal Attention for Automated Disaster Damage Assessment Using Remote Sensing Imagery and Deep Learning",
@@ -22012,6 +22218,23 @@
     "last_updated": "2026-06-12T10:40:03.102249+00:00"
   },
   {
+    "title": "React Canaries: Enabling Incremental Feature Rollout Outside Meta",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui",
+      "youtube"
+    ],
+    "source_url": "https://react.dev/blog/2023/05/03/react-canaries",
+    "local_path": "ai/rag/react-canaries-enabling-incremental-feature-rollou.md",
+    "summary": "We'd like to offer the React community an option to adopt individual new features as soon as their design is close to final, before they're released in a stable version--similar to how Meta has long used bleeding-edge versions of React internally. We",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732040+05:30"
+  },
+  {
     "title": "Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories",
     "category": "ai/rag",
     "section": "vector-databases",
@@ -22112,7 +22335,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T10:32:18.793759+05:30"
+    "last_updated": "2026-06-18T23:37:09.059949+05:30"
   },
   {
     "title": "Decentralized Autoregressive Generation",
@@ -22997,7 +23220,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-18T20:49:38.444115+05:30"
+    "last_updated": "2026-06-18T23:37:11.520335+05:30"
   },
   {
     "title": "SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests",
@@ -23243,7 +23466,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.209196+05:30"
+    "last_updated": "2026-06-18T23:35:19.451391+05:30"
   },
   {
     "title": "makeplane/plane",
@@ -23260,7 +23483,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.208438+05:30"
+    "last_updated": "2026-06-18T23:35:19.450492+05:30"
   },
   {
     "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -23277,7 +23500,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.208819+05:30"
+    "last_updated": "2026-06-18T23:35:19.450958+05:30"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -23294,7 +23517,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.209013+05:30"
+    "last_updated": "2026-06-18T23:35:19.451198+05:30"
   },
   {
     "title": "Lightricks/LTX-2",
@@ -23313,7 +23536,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.209379+05:30"
+    "last_updated": "2026-06-18T23:35:19.451567+05:30"
   },
   {
     "title": "n0-computer/iroh",
@@ -23331,7 +23554,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.206831+05:30"
+    "last_updated": "2026-06-18T23:35:19.448935+05:30"
   },
   {
     "title": "google-research/timesfm",
@@ -23348,7 +23571,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.206572+05:30"
+    "last_updated": "2026-06-18T23:35:19.448691+05:30"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -23365,7 +23588,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-18T20:48:18.207068+05:30"
+    "last_updated": "2026-06-18T23:35:19.449158+05:30"
   },
   {
     "title": "Introducing the Red-Teaming Resistance Leaderboard",
@@ -23876,6 +24099,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.377044+05:30"
+  },
+  {
+    "title": "Wan-AI/Wan2.2-Animate",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/wan-ai",
+    "local_path": "ai/models/huggingface-spaces-wan-ai.md",
+    "summary": "Trending Hugging Face space: Wan-AI/Wan2.2-Animate (Likes: 5115, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515084+05:30"
   },
   {
     "title": "Efficient Controllable Generation for SDXL with T2I-Adapters",
@@ -24805,6 +25045,24 @@
     "last_updated": "2026-06-16T17:27:22.374458+05:30"
   },
   {
+    "title": "openai/clip-vit-base-patch32",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-model",
+      "huggingface",
+      "openai"
+    ],
+    "source_url": "https://huggingface.co/openai/clip-vit-base-patch32",
+    "local_path": "ai/models/huggingface-openai-clip-vit-base-patch32.md",
+    "summary": "Trending Hugging Face model: openai/clip-vit-base-patch32 (Likes: 960, Downloads: 20528683)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374861+05:30"
+  },
+  {
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "category": "ai/models",
     "section": "datasets",
@@ -24988,6 +25246,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.380616+05:30"
+  },
+  {
+    "title": "mteb/leaderboard",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface",
+      "leaderboard"
+    ],
+    "source_url": "https://huggingface.co/spaces/mteb",
+    "local_path": "ai/models/huggingface-spaces-mteb.md",
+    "summary": "Trending Hugging Face space: mteb/leaderboard (Likes: 7482, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515022+05:30"
   },
   {
     "title": "Vision Language Models Explained",
@@ -25490,6 +25766,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.380875+05:30"
+  },
+  {
+    "title": "ksolovev/FineNews",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/ksolovev",
+    "local_path": "ai/models/huggingface-datasets-ksolovev.md",
+    "summary": "Trending Hugging Face dataset: ksolovev/FineNews (Likes: 14, Downloads: 970053)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472316+05:30"
   },
   {
     "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
@@ -26446,6 +26740,24 @@
     "last_updated": "2026-06-16T17:27:22.374360+05:30"
   },
   {
+    "title": "Salesforce/wikitext",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/salesforce",
+    "local_path": "ai/models/huggingface-datasets-salesforce.md",
+    "summary": "Trending Hugging Face dataset: Salesforce/wikitext (Likes: 714, Downloads: 1332657)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472194+05:30"
+  },
+  {
     "title": "How to Build a Healthcare Robot from Simulation to Deployment with NVIDIA Isaac for Healthcare",
     "category": "ai/models",
     "section": "datasets",
@@ -26797,6 +27109,24 @@
     "last_updated": "2026-06-16T17:27:22.381545+05:30"
   },
   {
+    "title": "huggingface/documentation-images",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/huggingface",
+    "local_path": "ai/models/huggingface-datasets-huggingface.md",
+    "summary": "Trending Hugging Face dataset: huggingface/documentation-images (Likes: 156, Downloads: 2562950)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472104+05:30"
+  },
+  {
     "title": "Accelerating over 130,000 Hugging Face models with ONNX Runtime",
     "category": "ai/models",
     "section": "datasets",
@@ -26923,6 +27253,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.379974+05:30"
+  },
+  {
+    "title": "jbilcke-hf/ai-comic-factory",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/jbilcke-hf",
+    "local_path": "ai/models/huggingface-spaces-jbilcke-hf.md",
+    "summary": "Trending Hugging Face space: jbilcke-hf/ai-comic-factory (Likes: 11127, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.514966+05:30"
   },
   {
     "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
@@ -27724,6 +28071,23 @@
     "last_updated": "2026-06-16T17:27:22.376759+05:30"
   },
   {
+    "title": "facebook/MusicGen",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/facebook",
+    "local_path": "ai/models/huggingface-spaces-facebook.md",
+    "summary": "Trending Hugging Face space: facebook/MusicGen (Likes: 5073, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515105+05:30"
+  },
+  {
     "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
     "category": "ai/models",
     "section": "datasets",
@@ -28171,6 +28535,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.380549+05:30"
+  },
+  {
+    "title": "KakologArchives/KakologArchives",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/kakologarchives",
+    "local_path": "ai/models/huggingface-datasets-kakologarchives.md",
+    "summary": "Trending Hugging Face dataset: KakologArchives/KakologArchives (Likes: 55, Downloads: 1792685)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472147+05:30"
   },
   {
     "title": "Subscribe to Enterprise Hub with your AWS Account",
@@ -28845,6 +29227,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.376674+05:30"
+  },
+  {
+    "title": "ryanmarten/OpenThoughts-1k-sample",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/ryanmarten",
+    "local_path": "ai/models/huggingface-datasets-ryanmarten.md",
+    "summary": "Trending Hugging Face dataset: ryanmarten/OpenThoughts-1k-sample (Likes: 27, Downloads: 1134459)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472297+05:30"
   },
   {
     "title": "How Hugging Face Accelerated Development of Witty Works Writing Assistant",
@@ -30083,6 +30483,23 @@
     "last_updated": "2026-06-16T17:27:22.375789+05:30"
   },
   {
+    "title": "Qwen/Qwen3-0.6B",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-model",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/qwen/qwen3-0.6b",
+    "local_path": "ai/models/huggingface-qwen-qwen3-0-6b.md",
+    "summary": "Trending Hugging Face model: Qwen/Qwen3-0.6B (Likes: 1342, Downloads: 24499972)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374849+05:30"
+  },
+  {
     "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
     "category": "ai/models",
     "section": "datasets",
@@ -30201,6 +30618,24 @@
     "last_updated": "2026-06-16T17:27:22.377276+05:30"
   },
   {
+    "title": "ayuo/hd_tmp",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/ayuo",
+    "local_path": "ai/models/huggingface-datasets-ayuo.md",
+    "summary": "Trending Hugging Face dataset: ayuo/hd_tmp (Likes: 17, Downloads: 1471257)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472171+05:30"
+  },
+  {
     "title": "Deploy GPT-J 6B for inference using Hugging Face Transformers and Amazon SageMaker",
     "category": "ai/models",
     "section": "datasets",
@@ -30317,6 +30752,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.376729+05:30"
+  },
+  {
+    "title": "enzostvs/deepsite",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/enzostvs",
+    "local_path": "ai/models/huggingface-spaces-enzostvs.md",
+    "summary": "Trending Hugging Face space: enzostvs/deepsite (Likes: 16617, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.514900+05:30"
   },
   {
     "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
@@ -30691,6 +31143,23 @@
     "last_updated": "2026-06-16T17:27:22.376606+05:30"
   },
   {
+    "title": "black-forest-labs/FLUX.1-dev",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/black-forest-labs",
+    "local_path": "ai/models/huggingface-spaces-black-forest-labs.md",
+    "summary": "Trending Hugging Face space: black-forest-labs/FLUX.1-dev (Likes: 9468, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515004+05:30"
+  },
+  {
     "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
     "category": "ai/models",
     "section": "datasets",
@@ -30815,6 +31284,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.377170+05:30"
+  },
+  {
+    "title": "mteb/results",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/mteb",
+    "local_path": "ai/models/huggingface-datasets-mteb.md",
+    "summary": "Trending Hugging Face dataset: mteb/results (Likes: 3, Downloads: 1154347)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472276+05:30"
   },
   {
     "title": "The New and Fresh analytics in Inference Endpoints",
@@ -31258,6 +31745,24 @@
     "last_updated": "2026-06-16T17:27:22.381515+05:30"
   },
   {
+    "title": "osv5m/osv5m",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/osv5m",
+    "local_path": "ai/models/huggingface-datasets-osv5m.md",
+    "summary": "Trending Hugging Face dataset: osv5m/osv5m (Likes: 53, Downloads: 1285308)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472234+05:30"
+  },
+  {
     "title": "Learn the Hugging Face Kernel Hub in 5 Minutes",
     "category": "ai/models",
     "section": "datasets",
@@ -31372,6 +31877,24 @@
     "last_updated": "2026-06-16T17:27:22.376450+05:30"
   },
   {
+    "title": "open-llm-leaderboard/open_llm_leaderboard",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface",
+      "leaderboard"
+    ],
+    "source_url": "https://huggingface.co/spaces/open-llm-leaderboard",
+    "local_path": "ai/models/huggingface-spaces-open-llm-leaderboard.md",
+    "summary": "Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14025, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.514943+05:30"
+  },
+  {
     "title": "Ethics and Society Newsletter #4: Bias in Text-to-Image Models",
     "category": "ai/models",
     "section": "datasets",
@@ -31428,6 +31951,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.376006+05:30"
+  },
+  {
+    "title": "banned-historical-archives/banned-historical-archives",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/banned-historical-archives",
+    "local_path": "ai/models/huggingface-datasets-banned-historical-archives.md",
+    "summary": "Trending Hugging Face dataset: banned-historical-archives/banned-historical-archives (Likes: 46, Downloads: 1236080)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472255+05:30"
   },
   {
     "title": "Introducing the Chatbot Guardrails Arena",
@@ -32006,6 +32547,23 @@
     "last_updated": "2026-06-16T17:27:22.378820+05:30"
   },
   {
+    "title": "AP123/IllusionDiffusion",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/ap123",
+    "local_path": "ai/models/huggingface-spaces-ap123.md",
+    "summary": "Trending Hugging Face space: AP123/IllusionDiffusion (Likes: 5413, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515064+05:30"
+  },
+  {
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "category": "ai/models",
     "section": "datasets",
@@ -32378,6 +32936,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.378144+05:30"
+  },
+  {
+    "title": "dalle-mini/dalle-mini",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/dalle-mini",
+    "local_path": "ai/models/huggingface-spaces-dalle-mini.md",
+    "summary": "Trending Hugging Face space: dalle-mini/dalle-mini (Likes: 5690, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.515042+05:30"
   },
   {
     "title": "Deep Learning with Proteins",
@@ -32813,6 +33388,23 @@
     "last_updated": "2026-06-16T17:27:22.373997+05:30"
   },
   {
+    "title": "Kwai-Kolors/Kolors-Virtual-Try-On",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-space",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/spaces/kwai-kolors",
+    "local_path": "ai/models/huggingface-spaces-kwai-kolors.md",
+    "summary": "Trending Hugging Face space: Kwai-Kolors/Kolors-Virtual-Try-On (Likes: 10106, Downloads: 0)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.514985+05:30"
+  },
+  {
     "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
     "category": "ai/models",
     "section": "datasets",
@@ -33117,6 +33709,24 @@
     "last_updated": "2026-06-16T17:27:22.376220+05:30"
   },
   {
+    "title": "google-bert/bert-base-uncased",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-model",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/google-bert/bert-base-uncased",
+    "local_path": "ai/models/huggingface-google-bert-bert-base-uncased.md",
+    "summary": "Trending Hugging Face model: google-bert/bert-base-uncased (Likes: 2684, Downloads: 45272769)",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.374767+05:30"
+  },
+  {
     "title": "Can foundation models label data like humans?",
     "category": "ai/models",
     "section": "datasets",
@@ -33331,6 +33941,24 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.374782+05:30"
+  },
+  {
+    "title": "xlangai/ubuntu_osworld_file_cache",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "dataset",
+      "hf-dataset",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/datasets/xlangai",
+    "local_path": "ai/models/huggingface-datasets-xlangai.md",
+    "summary": "Trending Hugging Face dataset: xlangai/ubuntu_osworld_file_cache (Likes: 30, Downloads: 1312963)",
+    "quality_score": 70,
+    "archive_score": 74,
+    "archive_tier": "useful",
+    "resource_kind": "dataset",
+    "last_updated": "2026-06-18T23:35:18.472214+05:30"
   },
   {
     "title": "Putting RL back in RLHF",
@@ -33573,6 +34201,23 @@
     "archive_tier": "useful",
     "resource_kind": "tutorial",
     "last_updated": "2026-06-16T17:27:22.373975+05:30"
+  },
+  {
+    "title": "google/electra-base-discriminator",
+    "category": "ai/models",
+    "section": "datasets",
+    "tags": [
+      "hf-model",
+      "huggingface"
+    ],
+    "source_url": "https://huggingface.co/google/electra-base-discriminator",
+    "local_path": "ai/models/huggingface-google-electra-base-discriminator.md",
+    "summary": "Trending Hugging Face model: google/electra-base-discriminator (Likes: 124, Downloads: 36326257)",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "useful",
+    "resource_kind": "tutorial",
+    "last_updated": "2026-06-18T23:35:18.374802+05:30"
   },
   {
     "title": "Hugging Face partners with Wiz Research to Improve AI Security",
@@ -34218,7 +34863,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:20.074032+05:30"
+    "last_updated": "2026-06-18T23:35:21.239370+05:30"
   },
   {
     "title": "huggingface/transformers Release: Patch release v5.12.1",
@@ -34237,7 +34882,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:19.504040+05:30"
+    "last_updated": "2026-06-18T23:35:20.420102+05:30"
   },
   {
     "title": "MiniMax Sparse Attention",
@@ -36169,6 +36814,39 @@
     "last_updated": "2026-06-18T02:03:03.892475+05:30"
   },
   {
+    "title": "interviewstreet/hiring-agent",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents"
+    ],
+    "source_url": "https://github.com/interviewstreet/hiring-agent",
+    "local_path": "ai/agents/interviewstreet-hiring-agent.md",
+    "summary": "AI agent to evaluate and score resumes.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-18T23:35:18.966794+05:30"
+  },
+  {
+    "title": "Tencent/AI-Infra-Guard",
+    "category": "ai/agents",
+    "section": "project-ideas",
+    "tags": [
+      "agents",
+      "benchmark"
+    ],
+    "source_url": "https://github.com/tencent/ai-infra-guard",
+    "local_path": "ai/agents/tencent-ai-infra-guard.md",
+    "summary": "A full-stack AI Red Teaming platform securing AI ecosystems via OpenClaw Security Scan, Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+    "quality_score": 70,
+    "archive_score": 77,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-18T23:35:18.966608+05:30"
+  },
+  {
     "title": "0x4m4/hexstrike-ai",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -36986,7 +37664,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:18.208256+05:30"
+    "last_updated": "2026-06-18T23:35:19.450310+05:30"
   },
   {
     "title": "VeriGeo: Controllable Geometry Question Generation with Numerical and Analytical Verification",
@@ -37950,6 +38628,23 @@
     "last_updated": "2026-06-12T10:40:03.102192+00:00"
   },
   {
+    "title": "Tencent/AICGSecEval",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark"
+    ],
+    "source_url": "https://github.com/tencent/aicgseceval",
+    "local_path": "ai/agents/tencent-aicgseceval.md",
+    "summary": "A.S.E (AICGSecEval) is a repository-level AI-generated code security evaluation benchmark developed by Tencent Wukong Code Security Team.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-18T23:35:18.966678+05:30"
+  },
+  {
     "title": "Trace & Evaluate your Agent with Arize Phoenix",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -38328,6 +39023,23 @@
     "last_updated": "2026-06-17T10:46:10.854134+05:30"
   },
   {
+    "title": "truera/trulens",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark"
+    ],
+    "source_url": "https://github.com/truera/trulens",
+    "local_path": "ai/agents/truera-trulens.md",
+    "summary": "Evaluation and Tracking for LLM Experiments and AI Agents",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-18T23:35:18.966594+05:30"
+  },
+  {
     "title": "denniszielke/agentic-playground",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -38432,6 +39144,22 @@
     "archive_tier": "useful",
     "resource_kind": "reference",
     "last_updated": "2026-06-15T06:03:39.934352+00:00"
+  },
+  {
+    "title": "qualifire-dev/rogue",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents"
+    ],
+    "source_url": "https://github.com/qualifire-dev/rogue",
+    "local_path": "ai/agents/qualifire-dev-rogue.md",
+    "summary": "AI Agent Evaluator & Red Team Platform",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.966689+05:30"
   },
   {
     "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
@@ -39271,7 +39999,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:21.857585+05:30"
+    "last_updated": "2026-06-18T23:35:23.565876+05:30"
   },
   {
     "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
@@ -39311,6 +40039,22 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T14:03:13.546566+00:00"
+  },
+  {
+    "title": "google/adk-go",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents"
+    ],
+    "source_url": "https://github.com/google/adk-go",
+    "local_path": "ai/agents/google-adk-go.md",
+    "summary": "An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.966776+05:30"
   },
   {
     "title": "agruai/ai-book-writer",
@@ -39527,6 +40271,22 @@
     "archive_tier": "useful",
     "resource_kind": "framework",
     "last_updated": "2026-06-18T10:31:14.814963+05:30"
+  },
+  {
+    "title": "Flux159/mcp-chat",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents"
+    ],
+    "source_url": "https://github.com/flux159/mcp-chat",
+    "local_path": "ai/agents/flux159-mcp-chat.md",
+    "summary": "Open Source Generic MCP Client for testing & evaluating mcp servers and agents",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "mcp-server",
+    "last_updated": "2026-06-18T23:35:18.966645+05:30"
   },
   {
     "title": "Credibility-Weighted Pricing of Autonomous Vehicle Liability Under Operational Design Domain Shift",
@@ -40703,6 +41463,25 @@
     "last_updated": "2026-06-11T08:37:58.323259+00:00"
   },
   {
+    "title": "langwatch/langwatch",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark",
+      "dataset",
+      "openai"
+    ],
+    "source_url": "https://github.com/langwatch/langwatch",
+    "local_path": "ai/agents/langwatch-langwatch.md",
+    "summary": "The platform for LLM evaluations and AI agent testing",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "prompt",
+    "last_updated": "2026-06-18T23:35:18.966621+05:30"
+  },
+  {
     "title": "abuzarmahmood/blech_github_bot",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -41022,7 +41801,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:48:18.208078+05:30"
+    "last_updated": "2026-06-18T23:35:19.450136+05:30"
   },
   {
     "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
@@ -44137,7 +44916,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-18T20:48:18.207477+05:30"
+    "last_updated": "2026-06-18T23:35:19.449542+05:30"
   },
   {
     "title": "FlowMo-WM: A World Model with Object Momentum and Hidden Ambient Drift",
@@ -44506,7 +45285,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:48:18.207291+05:30"
+    "last_updated": "2026-06-18T23:35:19.449365+05:30"
   },
   {
     "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
@@ -44614,6 +45393,23 @@
     "last_updated": "2026-06-12T10:40:03.105348+00:00"
   },
   {
+    "title": "mozilla-ai/any-agent",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark"
+    ],
+    "source_url": "https://github.com/mozilla-ai/any-agent",
+    "local_path": "ai/agents/mozilla-ai-any-agent.md",
+    "summary": "A single interface to use and evaluate different agent frameworks",
+    "quality_score": 70,
+    "archive_score": 75,
+    "archive_tier": "useful",
+    "resource_kind": "framework",
+    "last_updated": "2026-06-18T23:35:18.966747+05:30"
+  },
+  {
     "title": "A Statistical and Machine Learning Framework for Operational Threshold Detection and Deployable Dispatch Controller Development in Hydrogen Multi-Energy Systems",
     "category": "ai/agents",
     "section": "ai-browser-computer-use",
@@ -44693,6 +45489,23 @@
     "archive_tier": "useful",
     "resource_kind": "benchmark",
     "last_updated": "2026-06-11T08:37:53.521959+00:00"
+  },
+  {
+    "title": "GoogleCloudPlatform/agent-starter-pack",
+    "category": "ai/agents",
+    "section": "ai-browser-computer-use",
+    "tags": [
+      "agents",
+      "benchmark"
+    ],
+    "source_url": "https://github.com/googlecloudplatform/agent-starter-pack",
+    "local_path": "ai/agents/googlecloudplatform-agent-starter-pack.md",
+    "summary": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+    "quality_score": 70,
+    "archive_score": 85,
+    "archive_tier": "essential",
+    "resource_kind": "template",
+    "last_updated": "2026-06-18T23:35:18.966667+05:30"
   },
   {
     "title": "MedCTA: A Benchmark for Clinical Tool Agents",
@@ -46954,6 +47767,23 @@
     "last_updated": "2026-06-16T04:25:58.972467+00:00"
   },
   {
+    "title": "The founder of Craigslist has given away half a billion dollars",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+    "local_path": "ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md",
+    "summary": "Hacker News story by Tomte. Score: 55, Comments: 13. Original Link: https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-18T23:35:17.957249+05:30"
+  },
+  {
     "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
     "category": "ai/community",
     "section": "automation-workflows",
@@ -46964,15 +47794,15 @@
     ],
     "source_url": "https://tester.army",
     "local_path": "ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md",
-    "summary": "Hacker News story by okwasniewski. Score: 12, Comments: 2. Original Link: https://tester.army",
+    "summary": "Hacker News story by okwasniewski. Score: 50, Comments: 26. Original Link: https://tester.army",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-18T20:48:17.308867+05:30"
+    "last_updated": "2026-06-18T23:35:17.239055+05:30"
   },
   {
-    "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
     "category": "ai/community",
     "section": "automation-workflows",
     "tags": [
@@ -46981,12 +47811,29 @@
     ],
     "source_url": "https://rahuljuliato.com/posts/emacs-31-around-the-corner",
     "local_path": "ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md",
-    "summary": "Hacker News story by frou_dh. Score: 212, Comments: 89. Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "summary": "Hacker News story by frou_dh. Score: 310, Comments: 159. Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-18T20:48:16.511406+05:30"
+    "last_updated": "2026-06-18T23:35:18.399500+05:30"
+  },
+  {
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://gerrymandle.cc",
+    "local_path": "ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md",
+    "summary": "Hacker News story by realmofthemad. Score: 50, Comments: 19. Original Link: https://gerrymandle.cc/",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-18T23:35:18.656185+05:30"
   },
   {
     "title": "Haiku to Opus in Just 10 bits: LLMs Unlock Large Compression Gains",
@@ -74595,6 +75442,70 @@
     "last_updated": "2026-06-17T02:49:08.617087+05:30"
   },
   {
+    "title": "React Labs: What We've Been Working On – March 2023",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023",
+    "local_path": "web-development/react-labs-what-we-ve-been-working-on-march-2023.md",
+    "summary": "In React Labs posts, we write about projects in active research and development. We've made significant progress on them since our last update, and we'd like to share what we learned.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732071+05:30"
+  },
+  {
+    "title": "How to Upgrade to React 18",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2022/03/08/react-18-upgrade-guide",
+    "local_path": "web-development/how-to-upgrade-to-react-18.md",
+    "summary": "As we shared in the release post, React 18 introduces features powered by our new concurrent renderer, with a gradual adoption strategy for existing applications. In this post, we will guide you through the steps for upgrading to React 18.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732203+05:30"
+  },
+  {
+    "title": "React Labs: What We've Been Working On – June 2022",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2022/06/15/react-labs-what-we-have-been-working-on-june-2022",
+    "local_path": "web-development/react-labs-what-we-ve-been-working-on-june-2022.md",
+    "summary": "React 18 was years in the making, and with it brought valuable lessons for the React team. Its release was the result of many years of research and exploring many paths. Some of those paths were successful; many more were dead-ends that led to new in",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732140+05:30"
+  },
+  {
+    "title": "React v18.0",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2022/03/29/react-v18",
+    "local_path": "web-development/react-v18-0.md",
+    "summary": "React 18 is now available on npm! In our last post, we shared step-by-step instructions for upgrading your app to React 18. In this post, we'll give an overview of what's new in React 18, and what it means for the future.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732173+05:30"
+  },
+  {
     "title": "Turbopack Dev is Now Stable",
     "category": "web-development",
     "section": "web-development",
@@ -74609,6 +75520,119 @@
     "archive_tier": "reference",
     "resource_kind": "reference",
     "last_updated": "2026-06-16T13:57:12.035794+05:30"
+  },
+  {
+    "title": "React Compiler Beta Release",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2024/10/21/react-compiler-beta-release",
+    "local_path": "web-development/react-compiler-beta-release.md",
+    "summary": "At React Conf 2024, we announced the experimental release of React Compiler, a build-time tool that optimizes your React app through automatic memoization. In this post, we want to share what's next for open source, and our progress on the compiler.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731931+05:30"
+  },
+  {
+    "title": "React Conf 2021 Recap",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2021/12/17/react-conf-2021-recap",
+    "local_path": "web-development/react-conf-2021-recap.md",
+    "summary": "Last week we hosted our 6th React Conf. In previous years, we've used the React Conf stage to deliver industry changing announcements such as React Native and React Hooks. This year, we shared our multi-platform vision for React, starting with the re",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732220+05:30"
+  },
+  {
+    "title": "Introducing the React Foundation",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui",
+      "hackernews"
+    ],
+    "source_url": "https://react.dev/blog/2025/10/07/introducing-the-react-foundation",
+    "local_path": "web-development/introducing-the-react-foundation.md",
+    "summary": "Today, we're announcing our plans to create the React Foundation a new technical governance structure",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731787+05:30"
+  },
+  {
+    "title": "React 19.2",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/10/01/react-19-2",
+    "local_path": "web-development/react-19-2.md",
+    "summary": "React 19.2 adds new features like Activity, React Performance Tracks, useEffectEvent, and more.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731819+05:30"
+  },
+  {
+    "title": "React Labs: View Transitions, Activity, and more",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/04/23/react-labs-view-transitions-activity-and-more",
+    "local_path": "web-development/react-labs-view-transitions-activity-and-more.md",
+    "summary": "In React Labs posts, we write about projects in active research and development. In this post, we're sharing two new experimental features that are ready to try today, and updates on other areas we're working on now.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731846+05:30"
+  },
+  {
+    "title": "React Labs: What We've Been Working On – February 2024",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024",
+    "local_path": "web-development/react-labs-what-we-ve-been-working-on-february-202.md",
+    "summary": "In React Labs posts, we write about projects in active research and development. We’ve made significant progress since our last update, and we’d like to share our progress.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732011+05:30"
+  },
+  {
+    "title": "Introducing Zero-Bundle-Size React Server Components",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2020/12/21/data-fetching-with-react-server-components",
+    "local_path": "web-development/introducing-zero-bundle-size-react-server-componen.md",
+    "summary": "2020 has been a long year. As it comes to an end we wanted to share a special Holiday Update on our research into zero-bundle-size React Server Components.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732252+05:30"
   },
   {
     "title": "Security Advisory: CVE-2025-66478",
@@ -74643,6 +75667,168 @@
     "last_updated": "2026-06-16T13:57:12.036028+05:30"
   },
   {
+    "title": "Introducing react.dev",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui",
+      "producthunt"
+    ],
+    "source_url": "https://react.dev/blog/2023/03/16/introducing-react-dev",
+    "local_path": "web-development/introducing-react-dev.md",
+    "summary": "Today we are thrilled to launch react.dev, the new home for React and its documentation. In this post, we would like to give you a tour of the new site.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732102+05:30"
+  },
+  {
+    "title": "Denial of Service and Source Code Exposure in React Server Components",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components",
+    "local_path": "web-development/denial-of-service-and-source-code-exposure-in-reac.md",
+    "summary": "Security researchers have found and disclosed two additional vulnerabilities in React Server Components while attempting to exploit the patches in last week’s critical vulnerability. High vulnerability Denial of Service (CVE-2025-55184), and medium v",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731642+05:30"
+  },
+  {
+    "title": "The Plan for React 18",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2021/06/08/the-plan-for-react-18",
+    "local_path": "web-development/the-plan-for-react-18.md",
+    "summary": "The React team is excited to share a few updates. We’ve started work on the React 18 release, which will be our next major version. We’ve created a Working Group to prepare the community for gradual adoption of new features in React 18. We’ve publish",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.732237+05:30"
+  },
+  {
+    "title": "Critical Security Vulnerability in React Server Components",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+    "local_path": "web-development/critical-security-vulnerability-in-react-server-co.md",
+    "summary": "There is an unauthenticated remote code execution vulnerability in React Server Components. A fix has been published in versions 19.0.1, 19.1.2, and 19.2.1. We recommend upgrading immediately.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731673+05:30"
+  },
+  {
+    "title": "React Conf 2025 Recap",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/10/16/react-conf-2025-recap",
+    "local_path": "web-development/react-conf-2025-recap.md",
+    "summary": "Last week we hosted React Conf 2025, in this post, we summarize the talks and announcements from the event...",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731700+05:30"
+  },
+  {
+    "title": "The React Foundation: A New Home for React Hosted by the Linux Foundation",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui",
+      "producthunt"
+    ],
+    "source_url": "https://react.dev/blog/2026/02/24/the-react-foundation",
+    "local_path": "web-development/the-react-foundation-a-new-home-for-react-hosted-b.md",
+    "summary": "The React Foundation has officially launched, hosted by the Linux Foundation.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731596+05:30"
+  },
+  {
+    "title": "React Conf 2024 Recap",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2024/05/22/react-conf-2024-recap",
+    "local_path": "web-development/react-conf-2024-recap.md",
+    "summary": "Last week we hosted React Conf 2024, a two-day conference in Henderson, Nevada where 700+ attendees gathered in-person to discuss the latest in UI engineering. In this post, we'll summarize the talks and announcements from the event.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731960+05:30"
+  },
+  {
+    "title": "React Compiler v1.0",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2025/10/07/react-compiler-1",
+    "local_path": "web-development/react-compiler-v1-0.md",
+    "summary": "We are releasing the compiler's first stable release today.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731751+05:30"
+  },
+  {
+    "title": "React 19 Upgrade Guide",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2024/04/25/react-19-upgrade-guide",
+    "local_path": "web-development/react-19-upgrade-guide.md",
+    "summary": "The improvements added to React 19 require some breaking changes, but we've worked to make the upgrade as smooth as possible and we don't expect the changes to impact most apps. In this post, we will guide you through the steps for upgrading apps and",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731986+05:30"
+  },
+  {
+    "title": "React v19",
+    "category": "web-development",
+    "section": "web-development",
+    "tags": [
+      "frontend_ui"
+    ],
+    "source_url": "https://react.dev/blog/2024/12/05/react-19",
+    "local_path": "web-development/react-v19.md",
+    "summary": "React 19 is now available on npm! In this post, we'll give an overview of the new features in React 19, and how you can adopt them.",
+    "quality_score": 70,
+    "archive_score": 70,
+    "archive_tier": "reference",
+    "resource_kind": "reference",
+    "last_updated": "2026-06-18T23:35:18.731899+05:30"
+  },
+  {
     "title": "playcanvas/engine",
     "category": "web-development/webgpu",
     "section": "webdev-3d-creative",
@@ -74656,7 +75842,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-18T20:48:17.037134+05:30"
+    "last_updated": "2026-06-18T23:35:17.520636+05:30"
   },
   {
     "title": "ChartGPU/ChartGPU",
@@ -74737,7 +75923,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:48:17.037123+05:30"
+    "last_updated": "2026-06-18T23:35:17.520626+05:30"
   },
   {
     "title": "PolyMeilex/vscode-wgsl",
@@ -75236,7 +76422,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-18T20:48:16.844614+05:30"
+    "last_updated": "2026-06-18T23:35:17.425004+05:30"
   },
   {
     "title": "mkkellogg/GaussianSplats3D",
@@ -75548,7 +76734,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-16T17:27:23.872088+05:30"
+    "last_updated": "2026-06-18T23:35:17.803681+05:30"
   },
   {
     "title": "sanidhyy/modern-portfolio",
@@ -76185,7 +77371,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-18T20:48:16.687444+05:30"
+    "last_updated": "2026-06-18T23:35:17.425097+05:30"
   },
   {
     "title": "benjaminmiles/react-three-vite",
@@ -76517,7 +77703,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T14:43:53.608870+05:30"
+    "last_updated": "2026-06-18T23:35:18.225213+05:30"
   },
   {
     "title": "Next.js 8",
@@ -77665,7 +78851,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.346922+05:30"
+    "last_updated": "2026-06-18T23:35:18.325151+05:30"
   },
   {
     "title": "hsuanyi-chou/shadcn-ui-expansions",
@@ -77713,7 +78899,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.347028+05:30"
+    "last_updated": "2026-06-18T23:35:18.325221+05:30"
   },
   {
     "title": "magicuidesign/portfolio",
@@ -77730,7 +78916,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T04:23:23.845411+05:30"
+    "last_updated": "2026-06-18T23:35:18.325408+05:30"
   },
   {
     "title": "dan5py/react-vite-shadcn-ui",
@@ -77908,7 +79094,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.346970+05:30"
+    "last_updated": "2026-06-18T23:35:18.325185+05:30"
   },
   {
     "title": "huntabyte/shadcn-svelte",
@@ -77924,7 +79110,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.347047+05:30"
+    "last_updated": "2026-06-18T23:35:18.325232+05:30"
   },
   {
     "title": "sadmann7/file-uploader",
@@ -77956,7 +79142,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.347132+05:30"
+    "last_updated": "2026-06-18T23:35:18.325283+05:30"
   },
   {
     "title": "jnsahaj/tweakcn",
@@ -77988,7 +79174,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.347149+05:30"
+    "last_updated": "2026-06-18T23:35:18.325293+05:30"
   },
   {
     "title": "akash3444/shadcn-ui-blocks",
@@ -78036,7 +79222,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T16:17:20.830178+05:30"
+    "last_updated": "2026-06-18T23:35:18.325211+05:30"
   },
   {
     "title": "marmelab/atomic-crm",
@@ -78052,6 +79238,6 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-18T20:48:17.347300+05:30"
+    "last_updated": "2026-06-18T23:35:18.325380+05:30"
   }
 ]

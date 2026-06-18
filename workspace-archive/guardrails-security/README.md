@@ -24,9 +24,9 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit)
 - [sbalnojan/ai-chaos-awesome](https://github.com/sbalnojan/ai-chaos-awesome)
 - [adisystems/fmbench-assistant](https://github.com/adisystems/fmbench-assistant)
+- [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard)
 - [dyronrh/awesome-agentops-landscape](https://github.com/dyronrh/awesome-agentops-landscape)
 - [affaan-m/agentshield](https://github.com/affaan-m/agentshield)
-- [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit)
 
 ## Best Learning Resources
 
@@ -44,4 +44,4 @@ https://github.com/neuri-ai/llm-guard (LLM Guard)
 
 ---
 
-*Last updated: 2026-06-18 20:51 IST*
+*Last updated: 2026-06-18 23:39 IST*
