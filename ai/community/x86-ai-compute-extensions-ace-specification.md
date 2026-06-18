@@ -13,13 +13,14 @@ collected_at: '2026-06-18T16:17:23.618059+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:ai-compute-extensions-ace-specification
 first_seen: '2026-06-18T10:31:16.221123+05:30'
 last_seen: '2026-06-18T16:17:23.618059+05:30'
 last_checked: '2026-06-18T16:17:23.618059+05:30'
 health_score: 100
 ---
+
 
 # AI Compute Extensions (ACE) Specification
 

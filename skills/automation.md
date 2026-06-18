@@ -20,7 +20,7 @@ It saves hours of repetitive development tasks, guarantees operational consisten
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 1014 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-18
+- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-18
 - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md) (Source: Unknown Source) - Collected 2026-06-18
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-18
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-18
@@ -100,15 +100,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
 
-### 15. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
-- Stars: 0
-- Language: Unknown
-- Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-
-### 16. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 15. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
+
+### 16. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+- Stars: 0
+- Language: Unknown
+- Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
 ### 17. [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md) ([GitHub](https://github.com/icensraghomework/icensraghomework-classroom01-rag3-hw03_workflow))
 - Stars: 0
@@ -240,45 +240,45 @@ Recently detected signals:
 - Language: Unknown
 - Description: First LLM Studio: local-first LLM studio for Apple Silicon with MLX runtimes, Compare Lab, benchmark ops, replay, and runtime telemetry.
 
-### 43. [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md) ([GitHub](https://github.com/imzodev/openai-agents-sdk-js-tutorial))
+### 43. [withastro/flue](../ai/agents/withastro-flue.md) ([GitHub](https://github.com/withastro/flue))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: withastro/flue
+
+### 44. [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md) ([GitHub](https://github.com/imzodev/openai-agents-sdk-js-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: No description provided.
 
-### 44. [akihirookuda95/openai-agents-sdk-tutorial](../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md) ([GitHub](https://github.com/akihirookuda95/openai-agents-sdk-tutorial))
+### 45. [akihirookuda95/openai-agents-sdk-tutorial](../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md) ([GitHub](https://github.com/akihirookuda95/openai-agents-sdk-tutorial))
 - Stars: 0
 - Language: Unknown
 - Description: No description provided.
 
-### 45. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
+### 46. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
 - Stars: 0
 - Language: Unknown
 - Description: Build production-ready AI agents in both Python and Typescript.
 
-### 46. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md) ([GitHub](https://github.com/duanyytop/agents-radar))
+### 47. [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md) ([GitHub](https://github.com/duanyytop/agents-radar))
 - Stars: 0
 - Language: Unknown
 - Description: Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions.
 
-### 47. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
+### 48. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
 - Language: Unknown
 - Description: AI-powered book-writing system that converts ideas into full manuscripts in hours with multi-agent collaboration, real-time streaming, and built-in cost control. Tech Stack: FastAPI · PostgreSQL · ...
 
-### 48. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
+### 49. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [ICLR 2026] Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning
 
-### 49. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
+### 50. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
-
-### 50. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
-- Stars: 0
-- Language: Unknown
-- Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: DevOps Engineer, Site Reliability Engineer, Workflow A
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T16:20:17.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T20:51:16.179391+05:30.532735+05:30.477001+05:30.000572+05:30.921794+05:30.064247+05:30.541110+05:30.559052+05:30.616814+05:30.943958+05:30.463577+05:30.779450+05:30.588992+05:30.937697+05:30.142229+05:30.913410+05:30.103213+05:30.590016+05:30.675711+05:30.

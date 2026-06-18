@@ -692,11 +692,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `frontend_ui`, `web-crawled`, `workflows`
   * Source URL: <https://medium.com/@elisheba.t.anderson/building-with-ai-coding-agents-best-practices-for-agent-workflows-be1d7095901b>
 
-* **[bytedance/UI-TARS-desktop](ai/agents/bytedance-ui-tars-desktop.md)** (`tutorial` | `useful` tier)
-  * Summary: The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-  * Tags: `agents`, `github-trending`, `typescript`
-  * Source URL: <https://github.com/bytedance/ui-tars-desktop>
-
 * **[CADET: Physics-Grounded Causal Auditing and Training-Free Deconfounding of End-to-End Driving Planners](ai/agents/arxiv-2606-14438.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14438v2 Announce Type: replace-cross Abstract: End-to-end (E2E) autonomous-driving planners trained by imitation are prone to statistical shortcuts: they associate scene elements that merely co-occur with expert actions (a roadside object,
   * Tags: `agents`, `benchmark`
@@ -856,11 +851,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2603.02274v3 Announce Type: replace-cross Abstract: Precision oncology is currently limited by the small-N, large-P paradox, where high-dimensional genomic data is abundant but pharmacological response samples are sparse. While deep learning ac
   * Tags: `agents`, `dataset`
   * Source URL: <https://arxiv.org/abs/2603.02274>
-
-* **[continuedev/continue](ai/agents/continuedev-continue.md)** (`tutorial` | `useful` tier)
-  * Summary: open-source coding agent
-  * Tags: `agents`, `github-trending`, `typescript`
-  * Source URL: <https://github.com/continuedev/continue>
 
 * **[ControlMap: Controllable High-Definition Map Generation for Traffic Scenario Simulation](ai/agents/arxiv-2606-15930.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.15930v1 Announce Type: cross Abstract: Simulation is central to validating autonomous driving systems, yet current pipelines are limited by insufficient scenario diversity due to costly High Definition (HD) map creation. Scaling HD maps re
@@ -1813,6 +1803,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `benchmark`, `github-repo`, `typescript`
   * Source URL: <https://github.com/iris-eval/mcp-server>
 
+* **[Is it agentic enough? Benchmarking open models on your own tooling](ai/agents/huggingface-blog-is-it-agentic-enough.md)** (`benchmark` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Is it agentic enough? Benchmarking open models on your own tooling
+  * Tags: `agents`, `benchmark`
+  * Source URL: <https://huggingface.co/blog/is-it-agentic-enough>
+
 * **[Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis](ai/agents/arxiv-2606-14831.md)** (`prompt` | `useful` tier)
   * Summary: arXiv:2606.14831v1 Announce Type: cross Abstract: This paper presents and characterizes a spectrum of previously unreported behaviours we term Constraint-Evasive Fabrication (CEF): when an LLM agent operates under irreconcilable constraints (where no
   * Tags: `agents`, `benchmark`, `models`, `openai`, `paper`
@@ -1887,6 +1882,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.12634v1 Announce Type: cross Abstract: Long-horizon tool-use reinforcement learning can learn from outcome verification, but its trajectory-level advantage is broadcast across many reasoning, API, and answer tokens. Self-distillation promi
   * Tags: `agents`, `models`, `reddit`
   * Source URL: <https://arxiv.org/abs/2606.12634>
+
+* **[Kilo-Org/kilocode](ai/agents/kilo-org-kilocode.md)** (`tutorial` | `useful` tier)
+  * Summary: Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
+  * Tags: `agents`, `github-trending`, `typescript`
+  * Source URL: <https://github.com/kilo-org/kilocode>
 
 * **[kkdai/linebot-openai-agent](ai/agents/kkdai-linebot-openai-agent.md)** (`template` | `useful` tier)
   * Summary: LINEBot template with OpenAI Agent SDK but using Google Gemini custom provider.
@@ -2630,11 +2630,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16175v1 Announce Type: new Abstract: Longitudinal personal albums are weak-schema multimodal databases: noisy perceptual records whose key facts require joins across faces, text, timestamps, locations, and repeated events. Existing visual,
   * Tags: `agents`, `benchmark`, `youtube`
   * Source URL: <https://arxiv.org/abs/2606.16175>
-
-* **[Panniantong/Agent-Reach](ai/agents/panniantong-agent-reach.md)** (`tutorial` | `useful` tier)
-  * Summary: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-  * Tags: `agents`, `github-trending`, `python`, `reddit`, `youtube`
-  * Source URL: <https://github.com/panniantong/agent-reach>
 
 * **[parallel75/Microsoft_AutoGen_Tutorial](ai/agents/parallel75-microsoft-autogen-tutorial.md)** (`tutorial` | `useful` tier)
   * Summary: 微软 AutoGen 框架 Demo
@@ -3900,6 +3895,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`
   * Source URL: <https://arxiv.org/abs/2606.12852>
 
+* **[withastro/flue](ai/agents/withastro-flue.md)** (`framework` | `useful` tier)
+  * Summary: The sandbox agent framework.
+  * Tags: `agents`, `github-trending`, `typescript`
+  * Source URL: <https://github.com/withastro/flue>
+
 * **[WorkBench Revisited: Workplace Agents Two Years On](ai/agents/arxiv-2606-13715.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.13715v1 Announce Type: new Abstract: The best agent on WorkBench in March 2024, GPT-4, completed 43% of tasks and took an unintended harmful action, such as emailing the wrong person, on 26% of them. We re-visit the benchmark in June 2026
   * Tags: `agents`, `anthropic`, `benchmark`, `models`, `openai`
@@ -3944,6 +3944,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: We'll explore how to create agents using OpenAI's Agent SDK
   * Tags: `agents`, `github-repo`, `jupyter notebook`, `openai`
   * Source URL: <https://github.com/zahere-dev/openai-agents-sdk-tutorial>
+
+* **[zai-org/GLM-5](ai/agents/zai-org-glm-5.md)** (`tutorial` | `useful` tier)
+  * Summary: GLM-5: From Vibe Coding to Agentic Engineering
+  * Tags: `agents`, `github-trending`, `unknown`
+  * Source URL: <https://github.com/zai-org/glm-5>
 
 * **[Zero-shot generalization of transformer neural operators to larger domains](ai/rag/arxiv-2606-14597.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14597v1 Announce Type: new Abstract: Transformer-based neural operators have shown remarkable performance for approximating solution operators of partial differential equations on complex geometries. However, existing approaches implicitly
@@ -4039,11 +4044,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.14718v1 Announce Type: cross Abstract: As Artificial Intelligence (AI) literacy initiatives expand in K-12 settings, understanding how gender shapes student baseline perceptions, tool-use, and responsiveness to interventions is essential f
   * Source URL: <https://arxiv.org/abs/2606.14718>
 
-* **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zachdive. Score: 186, Comments: 87. Original Link: https://github.com/Adam-CAD/CADAM
-  * Tags: `ai`, `hackernews`, `producthunt`
-  * Source URL: <https://github.com/adam-cad/cadam>
-
 * **[PLAIground: SLO-Driven Runtime Model Selection for Compound AI Systems in the Edge-Cloud-Space Continuum](ai/research/arxiv-2606-14356.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.14356v1 Announce Type: cross Abstract: Applications in the 3D Computing Continuum, which unifies edge, cloud, and space, require combining multiple AI tasks such as object detection, time-series analytics, and natural language processing i
   * Tags: `benchmark`, `workflows`
@@ -4101,6 +4101,11 @@ All resources are linked to their local vault paths and preserve original source
 
 ## Ai — Trending
 
+* **[dotnet/aspnetcore](ai/trending/dotnet-aspnetcore.md)** (`reference` | `reference` tier)
+  * Summary: ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+  * Tags: `c#`, `github-trending`
+  * Source URL: <https://github.com/dotnet/aspnetcore>
+
 * **[freeCodeCamp/freeCodeCamp](ai/trending/freecodecamp-freecodecamp.md)** (`reference` | `reference` tier)
   * Summary: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
   * Tags: `github-trending`, `typescript`
@@ -4111,40 +4116,30 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `github-trending`, `python`
   * Source URL: <https://github.com/google-research/timesfm>
 
-* **[krahets/hello-algo](ai/trending/krahets-hello-algo.md)** (`reference` | `reference` tier)
-  * Summary: 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-  * Tags: `github-trending`, `java`
-  * Source URL: <https://github.com/krahets/hello-algo>
+* **[Lightricks/LTX-2](ai/trending/lightricks-ltx-2.md)** (`reference` | `reference` tier)
+  * Summary: Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.
+  * Tags: `github-trending`, `models`, `python`, `youtube`
+  * Source URL: <https://github.com/lightricks/ltx-2>
 
-* **[meshery/meshery](ai/trending/meshery-meshery.md)** (`reference` | `reference` tier)
-  * Summary: Meshery, the cloud native manager
+* **[makeplane/plane](ai/trending/makeplane-plane.md)** (`reference` | `reference` tier)
+  * Summary: 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
   * Tags: `github-trending`, `typescript`
-  * Source URL: <https://github.com/meshery/meshery>
+  * Source URL: <https://github.com/makeplane/plane>
 
 * **[n0-computer/iroh](ai/trending/n0-computer-iroh.md)** (`reference` | `reference` tier)
   * Summary: IP addresses break, dial keys instead. Modular networking stack in Rust.
   * Tags: `github-trending`, `reddit`, `rust`
   * Source URL: <https://github.com/n0-computer/iroh>
 
-* **[penpot/penpot](ai/trending/penpot-penpot.md)** (`reference` | `reference` tier)
-  * Summary: Penpot: The open-source design tool for design and code collaboration
-  * Tags: `clojure`, `github-trending`
-  * Source URL: <https://github.com/penpot/penpot>
-
-* **[RocketChat/Rocket.Chat](ai/trending/rocketchat-rocket-chat.md)** (`reference` | `reference` tier)
-  * Summary: The Secure CommsOS™ for mission-critical operations
-  * Tags: `github-trending`, `typescript`
-  * Source URL: <https://github.com/rocketchat/rocket.chat>
+* **[owainlewis/awesome-artificial-intelligence](ai/trending/owainlewis-awesome-artificial-intelligence.md)** (`reference` | `reference` tier)
+  * Summary: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+  * Tags: `github-trending`, `paper`, `unknown`, `youtube`
+  * Source URL: <https://github.com/owainlewis/awesome-artificial-intelligence>
 
 * **[Universal-Debloater-Alliance/universal-android-debloater-next-generation](ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)** (`reference` | `reference` tier)
   * Summary: Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
   * Tags: `github-trending`, `rust`
   * Source URL: <https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation>
-
-* **[yairm210/Unciv](ai/trending/yairm210-unciv.md)** (`reference` | `reference` tier)
-  * Summary: Open-source Android/Desktop remake of Civ V
-  * Tags: `github-trending`, `kotlin`
-  * Source URL: <https://github.com/yairm210/unciv>
 
 ## Automation Workflows
 
@@ -4185,7 +4180,7 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (`dataset` | `useful` tier)
   * Summary: Blog Top Posts About Topics AI Career Advice Computer Vision Data Engineering Data Science Language Models Machine Learning MLOps NLP Programming Python SQL Datasets Events Resources Cheat Sheets Recommendations Tech Briefs Advertise Join Newsletter
-  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `paper`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
+  * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
 * **[A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies](ai/research/arxiv-2606-19174.md)** (`framework` | `useful` tier)
@@ -4257,11 +4252,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Artificial AnalysisArtificial AnalysisModelsCoding AgentsSpeech, Image, Video, MusicHardwareLeaderboardsAboutAI TrendsArenasKArtificial Analysis Coding Agent BenchmarksWe measure real-world performance of coding agents on software engineering tasks,
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
-
-* **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 37, Comments: 16. Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification>
 
 * **[AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude](ai/research/arxiv-2606-12424.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.12424v1 Announce Type: cross Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful,
@@ -4427,6 +4417,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.16985v1 Announce Type: cross Abstract: State-space models (SSMs) are the standard formalism for Bayesian treatment of dynamical systems, with natural applications in statistics, signal processing, and machine learning. Despite their import
   * Tags: `workflows`
   * Source URL: <https://arxiv.org/abs/2606.16985>
+
+* **[Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by frou_dh. Score: 212, Comments: 89. Original Link: https://www.rahuljuliato.com/posts/emacs-31-around-the-corner
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://rahuljuliato.com/posts/emacs-31-around-the-corner>
 
 * **[Embedded Machine Learning for Microcontroller-Class Edge Devices: Data, Feature, Evaluation, and Deployment Pipelines](ai/research/arxiv-2606-18122.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.18122v1 Announce Type: new Abstract: Embedded machine learning moves inference from cloud services to resource-constrained devices that must acquire data, preprocess signals, run a model, and act within tight limits on memory, energy, and
@@ -4632,6 +4627,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2605.12729v2 Announce Type: replace-cross Abstract: Large language models are increasingly being used to support network operations (NetOps) and artificial intelligence for IT operations (AIOps), including incident investigation, root-cause ana
   * Tags: `agents`, `benchmark`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2605.12729>
+
+* **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by okwasniewski. Score: 12, Comments: 2. Original Link: https://tester.army
+  * Tags: `agents`, `hackernews`, `producthunt`
+  * Source URL: <https://tester.army>
 
 * **[Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](ai/rag/arxiv-2606-11686.md)** (`benchmark` | `useful` tier)
   * Summary: arXiv:2606.11686v1 Announce Type: cross Abstract: End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering age
@@ -4852,11 +4852,6 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.08306v2 Announce Type: replace Abstract: Textual Gradient-style optimizers (TextGrad) enable gradient-like feedback propagation through compound AI systems. However, they do not work well for deep chains. The root cause of this limitation
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2602.08306>
-
-* **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by anitil. Score: 101, Comments: 57. Original Link: https://www.acma.gov.au/sms-sender-id-register
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://acma.gov.au/sms-sender-id-register>
 
 * **[The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)** (`framework` | `useful` tier)
   * Summary: Home » PostsThe Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation SystemsJanuary 6, 2026 · 5 min · 944 words · martinuke0Table of ContentsWhat is RAG and Why Frameworks MatterTop 5 Best RAG Framewo
@@ -6384,6 +6379,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.17523v1 Announce Type: cross Abstract: Information-Geometric Optimization (IGO) provides a unified framework for black-box optimization by interpreting the adaptation of a search distribution as a natural gradient update. Despite its conce
   * Tags: `models`, `paper`
   * Source URL: <https://arxiv.org/abs/2606.17523>
+
+* **[Beyond LoRA: Can you beat the most popular fine-tuning technique?](ai/models/huggingface-blog-peft-beyond-lora.md)** (`tutorial` | `useful` tier)
+  * Summary: No summary provided. Reference resource: Beyond LoRA: Can you beat the most popular fine-tuning technique?
+  * Tags: `hackernews`, `models`
+  * Source URL: <https://huggingface.co/blog/peft-beyond-lora>
 
 * **[Beyond LoRA: Is Sparsity-Induced Adaptation Better?](ai/research/arxiv-2606-13767.md)** (`dataset` | `useful` tier)
   * Summary: arXiv:2606.13767v1 Announce Type: cross Abstract: Low-rank adaptation (LoRA) and its variants provide a memory- and compute-efficient alternative to full fine-tuning of pre-trained models. However, questions remain about the comparative generalizabil
@@ -17320,13 +17320,8 @@ All resources are linked to their local vault paths and preserve original source
 
 * **[Learn more](ai/companies/deepmind/learn-more.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Google DeepMind Blog Blog: Learn more
-  * Tags: `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
-  * Source URL: <https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning>
-
-* **[mattpocock/skills](ai/trending/mattpocock-skills.md)** (`tutorial` | `useful` tier)
-  * Summary: Skills for Real Engineers. Straight from my .claude directory.
-  * Tags: `anthropic`, `github-trending`, `shell`
-  * Source URL: <https://github.com/mattpocock/skills>
+  * Tags: `agents`, `blog-post`, `deepmind`, `google-deepmind-blog`, `reddit`
+  * Source URL: <https://deepmind.google/blog/securing-the-future-of-ai-agents>
 
 * **[Microsoft Research blog](ai/companies/microsoft-research-blog.md)** (`reference` | `useful` tier)
   * Summary: Recent update from Microsoft Research Blog Blog: Microsoft Research blog
@@ -18438,6 +18433,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `benchmark`, `rag`, `reddit`
   * Source URL: <https://arxiv.org/abs/2512.18295>
 
+* **[alibaba/zvec](ai/rag/alibaba-zvec.md)** (`tutorial` | `useful` tier)
+  * Summary: A lightweight, lightning-fast, in-process vector database
+  * Tags: `c++`, `github-trending`, `rag`
+  * Source URL: <https://github.com/alibaba/zvec>
+
 * **[AlignCoder: Aligning Retrieval with Target Intent for Repository-Level Code Completion](ai/rag/arxiv-2601-19697.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.19697v2 Announce Type: replace-cross Abstract: Repository-level code completion remains a challenging task for existing code large language models (code LLMs) due to their limited understanding of repository-specific context and domain kno
   * Tags: `benchmark`, `rag`
@@ -18804,7 +18804,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.15549>
 
 * **[Code a simple RAG from scratch](ai/rag/code-a-simple-rag-from-scratch.md)** (`tutorial` | `useful` tier)
-  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.45k • 16
+  * Summary: CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.69k • 16
   * Tags: `rag`, `web-crawled`
   * Source URL: <https://huggingface.co/blog/ngxson/make-your-own-rag>
 
@@ -19927,6 +19927,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2606.14047v1 Announce Type: cross Abstract: Long-context language modeling requires not only extending context windows but maintaining coherent understanding of entity states and relationships across thousands of tokens -- a challenge that sema
   * Tags: `models`, `rag`
   * Source URL: <https://arxiv.org/abs/2606.14047>
+
+* **[Kong/insomnia](ai/rag/kong-insomnia.md)** (`tutorial` | `useful` tier)
+  * Summary: The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
+  * Tags: `github-trending`, `rag`, `typescript`
+  * Source URL: <https://github.com/kong/insomnia>
 
 * **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (`tutorial` | `useful` tier)
   * Summary: No description provided.

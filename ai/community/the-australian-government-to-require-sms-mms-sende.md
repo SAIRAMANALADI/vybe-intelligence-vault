@@ -13,13 +13,14 @@ collected_at: '2026-06-18T16:17:21.797635+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-australian-government-to-require-sms-mms-sende
 first_seen: '2026-06-18T14:43:53.367248+05:30'
 last_seen: '2026-06-18T16:17:21.797635+05:30'
 last_checked: '2026-06-18T16:17:21.797635+05:30'
 health_score: 100
 ---
+
 
 # The Australian Government to Require SMS/MMS Sender ID Registraion
 

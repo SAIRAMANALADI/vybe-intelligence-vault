@@ -3668,26 +3668,25 @@ Resources organized by publisher feed and query sources.
 ## Unknown Source (type: github_trending)
 
   - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
-  - [RocketChat/Rocket.Chat](../ai/trending/rocketchat-rocket-chat.md)
+  - [Kilo-Org/kilocode](../ai/agents/kilo-org-kilocode.md)
+  - [Kong/insomnia](../ai/rag/kong-insomnia.md)
+  - [Lightricks/LTX-2](../ai/trending/lightricks-ltx-2.md)
   - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)
-  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
-  - [continuedev/continue](../ai/agents/continuedev-continue.md)
+  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
+  - [dotnet/aspnetcore](../ai/trending/dotnet-aspnetcore.md)
   - [freeCodeCamp/freeCodeCamp](../ai/trending/freecodecamp-freecodecamp.md)
   - [google-research/timesfm](../ai/trending/google-research-timesfm.md)
-  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
-  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
-  - [meshery/meshery](../ai/trending/meshery-meshery.md)
+  - [makeplane/plane](../ai/trending/makeplane-plane.md)
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
   - [obra/superpowers](../ai/agents/obra-superpowers.md)
-  - [penpot/penpot](../ai/trending/penpot-penpot.md)
-  - [yairm210/Unciv](../ai/trending/yairm210-unciv.md)
+  - [owainlewis/awesome-artificial-intelligence](../ai/trending/owainlewis-awesome-artificial-intelligence.md)
+  - [withastro/flue](../ai/agents/withastro-flue.md)
+  - [zai-org/GLM-5](../ai/agents/zai-org-glm-5.md)
 
 ## Unknown Source (type: hackernews)
 
-  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
-  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
-  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
+  - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](../ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)
+  - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -3786,6 +3785,7 @@ Resources organized by publisher feed and query sources.
   - [Benchmarking Language Model Performance on 5th Gen Xeon at GCP](../ai/models/benchmarking-language-model-performance-on-5th-gen.md)
   - [Benchmarking Text Generation Inference](../ai/models/benchmarking-text-generation-inference.md)
   - [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](../ai/agents/beyond-llms-why-scalable-enterprise-ai-adoption-de.md)
+  - [Beyond LoRA: Can you beat the most popular fine-tuning technique?](../ai/models/huggingface-blog-peft-beyond-lora.md)
   - [BigCodeArena: Judging code generations end to end with code executions](../ai/models/huggingface-blog-bigcode.md)
   - [BigCodeArena: Judging code generations end to end with code executions](../ai/models/bigcodearena-judging-code-generations-end-to-end-w.md)
   - [BigCodeBench: The Next Generation of HumanEval](../ai/models/bigcodebench-the-next-generation-of-humaneval.md)
@@ -4141,6 +4141,7 @@ Resources organized by publisher feed and query sources.
   - [Introduction to Graph Machine Learning](../ai/models/introduction-to-graph-machine-learning.md)
   - [Introduction to ggml](../ai/models/introduction-to-ggml.md)
   - [Investing in Performance: Fine-tune small models with LLM insights - a CFM case study](../ai/models/investing-in-performance-fine-tune-small-models-wi.md)
+  - [Is it agentic enough? Benchmarking open models on your own tooling](../ai/agents/huggingface-blog-is-it-agentic-enough.md)
   - [Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent](../ai/agents/jack-of-all-trades-master-of-some-a-multi-purpose.md)
   - [Japanese Stable Diffusion](../ai/models/japanese-stable-diffusion.md)
   - [Join the AMD Open Robotics Hackathon](../ai/models/join-the-amd-open-robotics-hackathon.md)
@@ -4720,4 +4721,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-18T16:20:20.182464+05:30*
+*Index generated on 2026-06-18T20:51:18.945751+05:30*

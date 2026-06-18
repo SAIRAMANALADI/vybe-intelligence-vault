@@ -44,31 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4793 |
-| Active resources | 4687 |
-| Inactive resources | 106 |
-| Archive files | 22544 |
+| Resources tracked | 4805 |
+| Active resources | 4688 |
+| Inactive resources | 117 |
+| Archive files | 22564 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 16:21 IST |
+| Last meaningful update | 2026-06-18 20:52 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (+14 points)
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (+4 points)
-- **[pguso/rag-from-scratch](ai/rag/pguso-rag-from-scratch.md)** (Rank: +997)
-- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +486)
-- **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)** (Rank: +2)
+- **[lancedb/vectordb-recipes](ai/rag/lancedb-vectordb-recipes.md)** (Rank: +2303)
+- **[krishnaik06/RAG-Tutorials](ai/rag/krishnaik06-rag-tutorials.md)** (Rank: +1)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +1)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +1)
+- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +1)
 
 #### ✨ New Discoveries
-- **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (Score: 37)
+- **[Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (Score: 212)
+- **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)** (Score: 12)
+- **[Lightricks/LTX-2](ai/trending/lightricks-ltx-2.md)** (Score: 0)
+- **[owainlewis/awesome-artificial-intelligence](ai/trending/owainlewis-awesome-artificial-intelligence.md)** (Score: 0)
+- **[dotnet/aspnetcore](ai/trending/dotnet-aspnetcore.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- None.
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)**
+- **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)**
+- **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)**
+- **[bytedance/UI-TARS-desktop](ai/agents/bytedance-ui-tars-desktop.md)**
+- **[yairm210/Unciv](ai/trending/yairm210-unciv.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

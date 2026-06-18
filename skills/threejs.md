@@ -22,10 +22,10 @@ It enables immersive, interactive 3D visualizations, interactive landing pages, 
 Active signals: 91 resources matched in the intelligence vault.
 Recently detected signals:
 - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) (Source: Unknown Source) - Collected 2026-06-18
-- [nklsrh/BuildNewGames_ThreeJSGame](../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) (Source: Unknown Source) - Collected 2026-06-18
-- [josdirksen/learning-threejs-third](../web-development/threejs/josdirksen-learning-threejs-third.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Mario343214420/Webgl-Data-Demo](../web-development/threejs/mario343214420-webgl-data-demo.md) (Source: Unknown Source) - Collected 2026-06-18
-- [spite/Wagner](../web-development/threejs/spite-wagner.md) (Source: Unknown Source) - Collected 2026-06-18
+- [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) (Source: Unknown Source) - Collected 2026-06-18
+- [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) (Source: Unknown Source) - Collected 2026-06-18
+- [SuboptimalEng/slime-sim-webgpu](../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) (Source: Unknown Source) - Collected 2026-06-18
+- [gnikoloff/webgpu-raytracer](../web-development/webgpu/gnikoloff-webgpu-raytracer.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -256,30 +256,30 @@ Recently detected signals:
 - Language: Unknown
 - Description: Repository: pmndrs/triplex
 
-### 46. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: patriciogonzalezvivo/lygia
-
-### 47. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: playcanvas/engine
-
-### 48. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
+### 46. [mkkellogg/GaussianSplats3D](../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([GitHub](https://github.com/mkkellogg/gaussiansplats3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: mkkellogg/GaussianSplats3D
 
-### 49. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
+### 47. [pixiv/three-vrm](../web-development/threejs/pixiv-three-vrm.md) ([GitHub](https://github.com/pixiv/three-vrm))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pixiv/three-vrm
 
-### 50. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
+### 48. [wolfwind521/indoor3D](../web-development/threejs/wolfwind521-indoor3d.md) ([GitHub](https://github.com/wolfwind521/indoor3d))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: wolfwind521/indoor3D
+
+### 49. [patriciogonzalezvivo/lygia](../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([GitHub](https://github.com/patriciogonzalezvivo/lygia))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: patriciogonzalezvivo/lygia
+
+### 50. [playcanvas/engine](../web-development/webgpu/playcanvas-engine.md) ([GitHub](https://github.com/playcanvas/engine))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: playcanvas/engine
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: Frontend Engineer, Creative Developer, WebGL Animator,
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T16:20:17.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T20:51:16.119037+05:30.468914+05:30.415146+05:30.934005+05:30.861220+05:30.001644+05:30.478803+05:30.494249+05:30.556817+05:30.891404+05:30.410092+05:30.722170+05:30.536294+05:30.885217+05:30.833116+05:30.048946+05:30.533801+05:30.607031+05:30.

@@ -9,13 +9,14 @@ collected_at: '2026-06-18T16:17:22.094227+05:30'
 tags:
 - github-trending
 - kotlin
-status: active
+status: inactive
 resource_id: github:yairm210/unciv
 first_seen: '2026-06-17T16:47:27.411818+05:30'
 last_seen: '2026-06-18T16:17:22.094227+05:30'
 last_checked: '2026-06-18T16:17:22.094227+05:30'
 health_score: 100
 ---
+
 
 # yairm210/Unciv
 

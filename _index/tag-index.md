@@ -448,6 +448,7 @@ Resources organized by keyword tags.
   - [Investigation of Neural Network Methods for Reconstruction and Classification of Texture Images Under Conditions of Incomplete Information](../ai/agents/arxiv-2204-14224.md)
   - [Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis](../ai/agents/arxiv-2606-14831.md)
   - [Is Your Trajectory Displacement Safe in Long-tail?](../ai/rag/arxiv-2606-16313.md)
+  - [Is it agentic enough? Benchmarking open models on your own tooling](../ai/agents/huggingface-blog-is-it-agentic-enough.md)
   - [It's About Time: Temporal References in Emergent Communication](../ai/agents/arxiv-2310-06555.md)
   - [IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](../ai/agents/arxiv-2606-13368.md)
   - [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](../ai/agents/arxiv-2606-12924.md)
@@ -458,6 +459,7 @@ Resources organized by keyword tags.
   - [Jupyter Agents: training LLMs to reason with notebooks](../ai/agents/jupyter-agents-training-llms-to-reason-with-notebo.md)
   - [KATANA: A Fast, Low-Power Mapping of Kalman Filters onto Edge NPUs for Real-Time Tracking](../ai/agents/arxiv-2606-14992.md)
   - [Keep Policy Gradient in Charge: Sibling-Guided Credit Distillation for Long-Horizon Tool-Use Agents](../ai/agents/arxiv-2606-12634.md)
+  - [Kilo-Org/kilocode](../ai/agents/kilo-org-kilocode.md)
   - [Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents](../ai/agents/arxiv-2606-11349.md)
   - [Knowledge Reutilization in Meta-Reinforcement Learning](../ai/agents/arxiv-2606-18132.md)
   - [Knowledge-Based Zero-Replay Debugging of Multi-Agent LLM Traces](../ai/agents/arxiv-2606-14805.md)
@@ -486,9 +488,11 @@ Resources organized by keyword tags.
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
   - [Large Language Models for Agentic NetOps and AIOps: Architectures, Evaluation, and Safety](../ai/rag/arxiv-2605-12729.md)
   - [LatentGym: A Testbed For Cross-Task Experiential Learning With Controllable Latent Structure](../ai/agents/arxiv-2606-15306.md)
+  - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)
   - [Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness](../ai/rag/arxiv-2606-11686.md)
   - [Leadership as Coordination Control: Behavioral Signatures and the Recovery-Advantage Boundary in Multi-Agent LLM Teams](../ai/agents/arxiv-2606-19111.md)
   - [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../ai/rag/arxiv-2606-06523.md)
+  - [Learn more](../ai/companies/deepmind/learn-more.md)
   - [Learn to Quantify Social Interaction with Constraints for Pedestrian Walking](../ai/agents/arxiv-2606-17897.md)
   - [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](../ai/agents/arxiv-2606-18154.md)
   - [Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning](../ai/agents/arxiv-2606-14693.md)
@@ -627,7 +631,6 @@ Resources organized by keyword tags.
   - [PRISM: Perception Reasoning Interleaved for Sequential Decision Making](../ai/agents/arxiv-2605-05407.md)
   - [PRInTS: Reward Modeling for Long-Horizon Information Seeking](../ai/agents/arxiv-2511-19314.md)
   - [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](../ai/rag/arxiv-2606-12329.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Parallelizing Tool Execution and LLM Generation for Low-Latency Agent Serving](../ai/rag/arxiv-2603-18897.md)
   - [ParkingTransformer: LLM-Enhanced End-to-End Trajectory Planning for Autonomous Parking](../ai/rag/arxiv-2606-17082.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
@@ -963,14 +966,12 @@ Resources organized by keyword tags.
   - [bhancockio/crewai-updated-tutorial-hierarchical](../ai/agents/bhancockio-crewai-updated-tutorial-hierarchical.md)
   - [bhancockio/nextjs-crewai-basic-tutorial](../ai/agents/bhancockio-nextjs-crewai-basic-tutorial.md)
   - [bluehands/GirlsDay2026](../ai/agents/bluehands-girlsday2026.md)
-  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
   - [caramaschiHG/awesome-ai-agents-2026](../ai/agents/caramaschihg-awesome-ai-agents-2026.md)
   - [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md)
   - [codebasics/crewai-crash-course](../ai/agents/codebasics-crewai-crash-course.md)
   - [codewithaarohi/OpenAI-Agents-SDK](../ai/agents/codewithaarohi-openai-agents-sdk.md)
   - [codewithaarohi/OpenAI-Agents-SDK-](../ai/agents/codewithaarohi-openai-agents-sdk-2.md)
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md)
-  - [continuedev/continue](../ai/agents/continuedev-continue.md)
   - [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md)
   - [croppers/crewai](../ai/agents/croppers-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
@@ -1055,16 +1056,16 @@ Resources organized by keyword tags.
   - [valory-xyz/langchain-hello-world](../ai/agents/valory-xyz-langchain-hello-world.md)
   - [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md)
   - [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md)
+  - [withastro/flue](../ai/agents/withastro-flue.md)
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
+  - [zai-org/GLM-5](../ai/agents/zai-org-glm-5.md)
   - [zhihao1998/LLM4NetLab](../ai/agents/zhihao1998-llm4netlab.md)
   - [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md)
 
 ## ai
 
-  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
-  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
-  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
+  - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](../ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)
 
 ## animation
 
@@ -1244,7 +1245,6 @@ Resources organized by keyword tags.
   - [hoodini/ai-agents-skills](../ai/agents/hoodini-ai-agents-skills.md)
   - [idosal/git-mcp](../ai/agents/idosal-git-mcp.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
-  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
   - [mergisi/awesome-openclaw-agents](../ai/agents/mergisi-awesome-openclaw-agents.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
   - [mukul975/cve-mcp-server](../ai/resources/mukul975-cve-mcp-server.md)
@@ -1915,6 +1915,7 @@ Resources organized by keyword tags.
   - [Is Code Better Than Language for Algorithmic Reasoning](../ai/rag/arxiv-2606-15589.md)
   - [Is Your Agent Playing Dead? Deployed LLM Agents Exhibit Constraint-Evasive Fabrication and Thanatosis](../ai/agents/arxiv-2606-14831.md)
   - [Is Your Trajectory Displacement Safe in Long-tail?](../ai/rag/arxiv-2606-16313.md)
+  - [Is it agentic enough? Benchmarking open models on your own tooling](../ai/agents/huggingface-blog-is-it-agentic-enough.md)
   - [IterCAD: An Iterative Multimodal Agent for Visually-Grounded CAD Generation and Editing](../ai/agents/arxiv-2606-13368.md)
   - [Iterating Toward Better Search: A Two-Agent Simulation Framework for Evaluating Agentic Search Architectures in E-Commerce](../ai/agents/arxiv-2606-12924.md)
   - [Iterative Visual Thinking: Teaching Vision-Language Models Spatial Self-Correction through Visual Feedback](../ai/research/arxiv-2606-13156.md)
@@ -2710,9 +2711,13 @@ Resources organized by keyword tags.
   - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
   - [dorisoy/FFmpeg.AutoGen.Toolkit](../ai/agents/dorisoy-ffmpeg-autogen-toolkit.md)
 
-## clojure
+## c#
 
-  - [penpot/penpot](../ai/trending/penpot-penpot.md)
+  - [dotnet/aspnetcore](../ai/trending/dotnet-aspnetcore.md)
+
+## c++
+
+  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
 
 ## creative_dev
 
@@ -4050,20 +4055,20 @@ Resources organized by keyword tags.
 ## github-trending
 
   - [DeusData/codebase-memory-mcp](../ai/rag/deusdata-codebase-memory-mcp.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
-  - [RocketChat/Rocket.Chat](../ai/trending/rocketchat-rocket-chat.md)
+  - [Kilo-Org/kilocode](../ai/agents/kilo-org-kilocode.md)
+  - [Kong/insomnia](../ai/rag/kong-insomnia.md)
+  - [Lightricks/LTX-2](../ai/trending/lightricks-ltx-2.md)
   - [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md)
-  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
-  - [continuedev/continue](../ai/agents/continuedev-continue.md)
+  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
+  - [dotnet/aspnetcore](../ai/trending/dotnet-aspnetcore.md)
   - [freeCodeCamp/freeCodeCamp](../ai/trending/freecodecamp-freecodecamp.md)
   - [google-research/timesfm](../ai/trending/google-research-timesfm.md)
-  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
-  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
-  - [meshery/meshery](../ai/trending/meshery-meshery.md)
+  - [makeplane/plane](../ai/trending/makeplane-plane.md)
   - [n0-computer/iroh](../ai/trending/n0-computer-iroh.md)
   - [obra/superpowers](../ai/agents/obra-superpowers.md)
-  - [penpot/penpot](../ai/trending/penpot-penpot.md)
-  - [yairm210/Unciv](../ai/trending/yairm210-unciv.md)
+  - [owainlewis/awesome-artificial-intelligence](../ai/trending/owainlewis-awesome-artificial-intelligence.md)
+  - [withastro/flue](../ai/agents/withastro-flue.md)
+  - [zai-org/GLM-5](../ai/agents/zai-org-glm-5.md)
 
 ## go
 
@@ -4115,7 +4120,6 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
-  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
   - [AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks](../ai/research/arxiv-2606-11533.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/ai-watermarking-101-tools-and-techniques.md)
@@ -4165,6 +4169,7 @@ Resources organized by keyword tags.
   - [Beyond Accuracy: A Multi-Dimensional Framework for Evaluating Enterprise Agentic AI Systems](../ai/rag/beyond-accuracy-a-multi-dimensional-framework-for.md)
   - [Beyond Continuity: Simulation-free Reconstruction of Discrete Branching Dynamics from Single-cell Snapshots](../ai/research/arxiv-2605-00545.md)
   - [Beyond Dark Knowledge: Mixup-Based Distillation for Reliable Predictions](../ai/research/arxiv-2606-12171.md)
+  - [Beyond LoRA: Can you beat the most popular fine-tuning technique?](../ai/models/huggingface-blog-peft-beyond-lora.md)
   - [Beyond Predefined Schemas: TRACE-KG for Context-Enriched Knowledge Graph Generation](../ai/rag/arxiv-2604-03496.md)
   - [Beyond Rebalancing: Benchmarking Binary Classifiers Under Class Imbalance Without Rebalancing Techniques](../ai/research/arxiv-2509-07605.md)
   - [Beyond Self-Attention: Sub-Quadratic Vision Transformers for Fast Image Captioning](../ai/research/arxiv-2606-14753.md)
@@ -4236,6 +4241,7 @@ Resources organized by keyword tags.
   - [Efficient Reinforcement Learning by Guiding World Models with Non-Curated Data](../ai/rag/arxiv-2502-19544.md)
   - [Efficient Zeroth-Order Federated Finetuning of Language Models on Resource-Constrained Devices](../ai/research/arxiv-2502-10239.md)
   - [EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts](../ai/agents/arxiv-2606-18967.md)
+  - [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](../ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)
   - [EmbodiTTA: Resource-Efficient Test-Time Adaptation for Embodied Visual Systems](../ai/research/arxiv-2505-00986.md)
   - [End-to-End Machine Learning for Depressive State Classification via EEG and fNIRS](../ai/research/arxiv-2606-11555.md)
   - [Energy-Conserved Neural Pipelines: Attenuating Error Propagation in Modular Neural Networks via Physical Conservation Constraints](../ai/rag/arxiv-2606-11341.md)
@@ -4299,7 +4305,7 @@ Resources organized by keyword tags.
   - [LangGraph vs CrewAI vs AutoGen: Agent Framework Comparison | Lushbinary](../ai/rag/langgraph-vs-crewai-vs-autogen-agent-framework-com.md)
   - [LangGraph: Agent Orchestration Framework for Reliable AI Agents](../ai/rag/langgraph-agent-orchestration-framework-for-reliab.md)
   - [Language Model Circuits Are Sparse in the Neuron Basis](../ai/research/arxiv-2601-22594.md)
-  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
+  - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)
   - [Learn RAG from Scratch – Python AI Tutorial from a LangChain Engineer](../ai/rag/learn-rag-from-scratch-python-ai-tutorial-from-a-l.md)
   - [Learn from Your Mistakes: Tree-like Self-Play for Secure Code LLMs](../ai/research/arxiv-2606-03489.md)
   - [Learning Fair Pareto-Optimal Policies in Multi-Objective Reinforcement Learning](../ai/rag/arxiv-2606-18111.md)
@@ -4436,7 +4442,6 @@ Resources organized by keyword tags.
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
-  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -4503,7 +4508,6 @@ Resources organized by keyword tags.
 ## java
 
   - [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md)
-  - [krahets/hello-algo](../ai/trending/krahets-hello-algo.md)
   - [sjseo298/spring-ai-template](../ai/rag/sjseo298-spring-ai-template.md)
 
 ## javascript
@@ -4534,10 +4538,6 @@ Resources organized by keyword tags.
   - [riolaf05/blog-writer-crewai](../ai/agents/riolaf05-blog-writer-crewai.md)
   - [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md)
   - [zahere-dev/openai-agents-sdk-tutorial](../ai/agents/zahere-dev-openai-agents-sdk-tutorial.md)
-
-## kotlin
-
-  - [yairm210/Unciv](../ai/trending/yairm210-unciv.md)
 
 ## langchain-ai-langchain
 
@@ -4937,6 +4937,7 @@ Resources organized by keyword tags.
   - [Beyond Accuracy: Measuring Bias Acknowledgment in Chain-of-Thought Reasoning for Responsible AI Evaluation](../ai/research/arxiv-2606-15127.md)
   - [Beyond Correctness: Enhancing Architectural Reasoning in Code LLMs via Scalable Labeling with Agentic Judgment](../ai/agents/arxiv-2606-14948.md)
   - [Beyond IGO-Flow: Toward Convergence Analysis of IGO in Continuous Spaces](../ai/research/arxiv-2606-17523.md)
+  - [Beyond LoRA: Can you beat the most popular fine-tuning technique?](../ai/models/huggingface-blog-peft-beyond-lora.md)
   - [Beyond LoRA: Is Sparsity-Induced Adaptation Better?](../ai/research/arxiv-2606-13767.md)
   - [Beyond Uniform Token-Level Trust Region in LLM Reinforcement Learning](../ai/research/arxiv-2606-10968.md)
   - [Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages](../ai/research/arxiv-2606-16891.md)
@@ -5235,6 +5236,7 @@ Resources organized by keyword tags.
   - [Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot](../ai/rag/arxiv-2606-15810.md)
   - [LiFT: Local Search via Linear Programming for Overfitting-Controlled Transformers](../ai/research/arxiv-2606-16243.md)
   - [LightRAG](../ai/rag/lightrag.md)
+  - [Lightricks/LTX-2](../ai/trending/lightricks-ltx-2.md)
   - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](../ai/rag/arxiv-2606-17123.md)
   - [LiteOdyssey: A Lightweight Reasoning AI Agent for Interpretable Rare-Disease Diagnosis](../ai/agents/arxiv-2606-16149.md)
   - [Litespark Inference For CPUs: Ultra-Fast SIMD Framework for Ternary (1.58-bit) Language Models](../ai/research/arxiv-2605-06485.md)
@@ -5865,7 +5867,6 @@ Resources organized by keyword tags.
   - [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md)
   - [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md)
   - [7 Best GitHub Repositories For Mastering RAG Systems](../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md)
-  - [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)
   - [A Biased Nonnegative Block Term Tensor Decomposition Model for Dynamic QoS Prediction](../ai/research/arxiv-2605-04813.md)
   - [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](../ai/agents/arxiv-2606-16944.md)
   - [A Comparative Study of Graph Neural Network Layer Selection for Interaction Modelling in Driving Trajectory Prediction](../ai/agents/arxiv-2606-14956.md)
@@ -6469,6 +6470,7 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [deFOREST: Fusing Optical and Radar satellite data for Enhanced Sensing of Tree-loss](../ai/research/arxiv-2510-14092.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
+  - [owainlewis/awesome-artificial-intelligence](../ai/trending/owainlewis-awesome-artificial-intelligence.md)
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
   - [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md)
   - [scGTN: Deep Siamese Graph Transformer Network for Single-cell RNA Sequencing Clustering](../ai/research/arxiv-2606-18672.md)
@@ -6503,7 +6505,7 @@ Resources organized by keyword tags.
   - [Hugging Face Collaborates with Microsoft to launch Hugging Face Model Catalog on Azure](../ai/models/hugging-face-collaborates-with-microsoft-to-launch.md)
   - [LangGraph Production Best Practices 2026: Complete Guide | LangChain Tutorials](../ai/rag/langgraph-production-best-practices-2026-complete.md)
   - [LangGraph vs CrewAI vs AutoGen: AI Agent Framework Comparison [2026]](../ai/rag/langgraph-vs-crewai-vs-autogen-ai-agent-framework.md)
-  - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
+  - [Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)
   - [Launching the Artificial Analysis Text to Image Leaderboard & Arena](../ai/models/launching-the-artificial-analysis-text-to-image-le.md)
   - [Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory](../ai/rag/arxiv-2606-06523.md)
   - [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md)
@@ -6549,7 +6551,7 @@ Resources organized by keyword tags.
   - [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)
   - [IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
+  - [Lightricks/LTX-2](../ai/trending/lightricks-ltx-2.md)
   - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Rehan-Ul-Haq/openai-agents-sdk-tutorial](../ai/agents/rehan-ul-haq-openai-agents-sdk-tutorial.md)
   - [SWE-agent/SWE-agent](../ai/agents/swe-agent-swe-agent.md)
@@ -7195,6 +7197,7 @@ Resources organized by keyword tags.
   - [KFTD: Koopman-Fourier Time-Differentiable Network for Continuous Ocean Spatiotemporal Forecasting](../ai/rag/arxiv-2606-17070.md)
   - [Know Your Limits : On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning](../ai/rag/arxiv-2606-16118.md)
   - [Knowledge Graph Enhanced Memory-Augmented Retrieval for Long Context Modeling](../ai/rag/arxiv-2606-14047.md)
+  - [Kong/insomnia](../ai/rag/kong-insomnia.md)
   - [L-Proto: Language-Aware Episodic Prototypical Training for Multilingual Speaker Verification](../ai/rag/arxiv-2606-17416.md)
   - [LASA: A Weak Supervision Method for Open-Vocabulary Scene Sketch Semantic Segmentation](../ai/rag/arxiv-2606-11837.md)
   - [LEPO: Latent Reasoning Policy Optimization for Large Language Models](../ai/rag/arxiv-2604-17892.md)
@@ -7799,6 +7802,7 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
+  - [alibaba/zvec](../ai/rag/alibaba-zvec.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
@@ -7924,7 +7928,6 @@ Resources organized by keyword tags.
   - [ObservedObserver/streamlit-shadcn-ui](../web-development/shadcn-ui/observedobserver-streamlit-shadcn-ui.md)
   - [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md)
   - [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Prediction Bottlenecks Don't Discover Causal Structure (But Here's What They Actually Do)](../ai/research/arxiv-2605-09169.md)
   - [ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL](../ai/research/arxiv-2606-19103.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
@@ -8103,7 +8106,6 @@ Resources organized by keyword tags.
 ## shell
 
   - [addyosmani/agent-skills](../ai/agents/addyosmani-agent-skills.md)
-  - [mattpocock/skills](../ai/trending/mattpocock-skills.md)
   - [obra/superpowers](../ai/agents/obra-superpowers.md)
   - [omrylcn/python-vs-js-langgraph](../ai/agents/omrylcn-python-vs-js-langgraph.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
@@ -8208,12 +8210,11 @@ Resources organized by keyword tags.
   - [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md)
   - [ChrisChen667788/Your-First-LLM-Studio](../ai/agents/chrischen667788-your-first-llm-studio.md)
   - [Code-and-Sorts/awesome-copilot-agents](../ai/agents/code-and-sorts-awesome-copilot-agents.md)
-  - [RocketChat/Rocket.Chat](../ai/trending/rocketchat-rocket-chat.md)
+  - [Kilo-Org/kilocode](../ai/agents/kilo-org-kilocode.md)
+  - [Kong/insomnia](../ai/rag/kong-insomnia.md)
   - [SylphxAI/pdf-reader-mcp](../ai/rag/sylphxai-pdf-reader-mcp.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
   - [akihirookuda95/openai-agents-sdk-tutorial](../ai/agents/akihirookuda95-openai-agents-sdk-tutorial.md)
-  - [bytedance/UI-TARS-desktop](../ai/agents/bytedance-ui-tars-desktop.md)
-  - [continuedev/continue](../ai/agents/continuedev-continue.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [flexpa/llm-fhir-eval](../ai/resources/flexpa-llm-fhir-eval.md)
@@ -8223,11 +8224,12 @@ Resources organized by keyword tags.
   - [imzodev/openai-agents-sdk-js-tutorial](../ai/agents/imzodev-openai-agents-sdk-js-tutorial.md)
   - [iris-eval/mcp-server](../ai/agents/iris-eval-mcp-server.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
+  - [makeplane/plane](../ai/trending/makeplane-plane.md)
   - [maunappl8/openai-agents-ts-kit](../ai/agents/maunappl8-openai-agents-ts-kit.md)
-  - [meshery/meshery](../ai/trending/meshery-meshery.md)
   - [mkrl/e0](../ai/agents/mkrl-e0.md)
   - [purduehackers/coding-agent-workshop-template](../ai/agents/purduehackers-coding-agent-workshop-template.md)
   - [riseandignite/mcp-shield](../ai/resources/riseandignite-mcp-shield.md)
+  - [withastro/flue](../ai/agents/withastro-flue.md)
   - [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md)
 
 ## unknown
@@ -8262,9 +8264,11 @@ Resources organized by keyword tags.
   - [microsoft/agentsleague](../ai/agents/microsoft-agentsleague.md)
   - [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md)
   - [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md)
+  - [owainlewis/awesome-artificial-intelligence](../ai/trending/owainlewis-awesome-artificial-intelligence.md)
   - [sbalnojan/ai-chaos-awesome](../ai/rag/sbalnojan-ai-chaos-awesome.md)
   - [techwithtim/Langflow-RAG-Tutorial](../ai/rag/techwithtim-langflow-rag-tutorial.md)
   - [vstorm-co/awesome-pydantic-ai](../ai/agents/vstorm-co-awesome-pydantic-ai.md)
+  - [zai-org/GLM-5](../ai/agents/zai-org-glm-5.md)
 
 ## web-crawled
 
@@ -8827,6 +8831,7 @@ Resources organized by keyword tags.
   - [Learning QoE from Packet-Level Measurements in Encrypted Video Conferencing Traffic](../ai/research/arxiv-2601-06862.md)
   - [Learning and Generating Mixed States Prepared by Shallow Channel Circuits](../ai/research/arxiv-2604-01197.md)
   - [LightRAG](../ai/rag/lightrag.md)
+  - [Lightricks/LTX-2](../ai/trending/lightricks-ltx-2.md)
   - [Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics](../ai/rag/arxiv-2604-27128.md)
   - [LivePI: More Realistic Benchmarking of Agents Against Indirect Prompt Injection](../ai/agents/arxiv-2605-17986.md)
   - [LiveStarPro: Proactive Streaming Video Understanding with Hierarchical Memory for Long-Horizon Streams](../ai/agents/arxiv-2606-17798.md)
@@ -8860,7 +8865,6 @@ Resources organized by keyword tags.
   - [Orchestra-o1: Omnimodal Agent Orchestration](../ai/agents/arxiv-2606-13707.md)
   - [PAL-Bench: Evidence-Grounded Profile Reconstruction from Longitudinal Personal Albums](../ai/agents/arxiv-2606-16175.md)
   - [PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty](../ai/research/arxiv-2606-15654.md)
-  - [Panniantong/Agent-Reach](../ai/agents/panniantong-agent-reach.md)
   - [Phys4D: Fine-Grained Physics-Consistent 4D Modeling from Video Diffusion](../ai/research/arxiv-2603-03485.md)
   - [Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection](../ai/rag/arxiv-2510-08073.md)
   - [Physics-Guided Spatiotemporal Learning for Coastal Wave Peak Period Estimation from Video](../ai/rag/arxiv-2606-13302.md)
@@ -8962,7 +8966,8 @@ Resources organized by keyword tags.
   - [iamshaunjp/framer-motion](../web-development/framer-motion/iamshaunjp-framer-motion.md)
   - [jolbol1/nextjs-velite-blog-template](../web-development/nextjs/jolbol1-nextjs-velite-blog-template.md)
   - [nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding](../ai/rag/arxiv-2606-12146.md)
+  - [owainlewis/awesome-artificial-intelligence](../ai/trending/owainlewis-awesome-artificial-intelligence.md)
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-18T16:20:20.132234+05:30*
+*Index generated on 2026-06-18T20:51:18.894571+05:30*

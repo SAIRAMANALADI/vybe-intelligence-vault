@@ -18,9 +18,9 @@ tags:
 - meta-ai
 - models
 - openai
-- paper
 - rag
 - reddit
+- scripts
 selection_reason:
 - Strong keyword match
 - Valuable developer reference

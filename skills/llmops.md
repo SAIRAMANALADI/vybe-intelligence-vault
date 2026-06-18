@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 273 resources matched in the intelligence vault.
+Active signals: 274 resources matched in the intelligence vault.
 Recently detected signals:
-- [Adv-TGD: Adversarial Text-Guided Diffusion for Face Recognition Impersonation Attacks](../ai/rag/arxiv-2606-11615.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Task-Adaptive Parameter-Efficient Fine-Tuning for Weather Foundation Models](../ai/rag/arxiv-2509-22020.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Quantifying and Auditing LLM Evaluation via Positive--Unlabeled Learning](../ai/research/arxiv-2606-19057.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models](../ai/agents/arxiv-2606-19297.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Stealthy World Model Manipulation via Data Poisoning](../ai/rag/arxiv-2606-18697.md) (Source: Unknown Source) - Collected 2026-06-18
+- [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Accelerating PyTorch distributed fine-tuning with Intel technologies](../ai/models/accelerating-pytorch-distributed-fine-tuning-with.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Using LoRA for Efficient Stable Diffusion Fine-Tuning](../ai/models/using-lora-for-efficient-stable-diffusion-fine-tun.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](../ai/models/fine-tuning-20b-llms-with-rlhf-on-a-24gb-consumer.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -91,4 +91,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T16:20:17.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T20:51:15.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

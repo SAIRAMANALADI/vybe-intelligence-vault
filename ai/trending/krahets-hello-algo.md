@@ -9,13 +9,14 @@ collected_at: '2026-06-18T16:17:22.093763+05:30'
 tags:
 - github-trending
 - java
-status: active
+status: inactive
 resource_id: github:krahets/hello-algo
 first_seen: '2026-06-16T13:57:13.168232+05:30'
 last_seen: '2026-06-18T16:17:22.093763+05:30'
 last_checked: '2026-06-18T16:17:22.093763+05:30'
 health_score: 100
 ---
+
 
 # krahets/hello-algo
 

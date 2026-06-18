@@ -14,13 +14,14 @@ tags:
 - ai
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: github:adam-cad/cadam
 first_seen: '2026-06-18T02:03:05.167057+05:30'
 last_seen: '2026-06-18T16:17:22.986758+05:30'
 last_checked: '2026-06-18T16:17:22.986758+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: Adam (YC W25) – Open-Source AI CAD
 

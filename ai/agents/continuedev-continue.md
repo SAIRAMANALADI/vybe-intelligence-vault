@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:continuedev/continue
 first_seen: '2026-06-17T16:47:27.410850+05:30'
 last_seen: '2026-06-18T16:17:22.093456+05:30'
 last_checked: '2026-06-18T16:17:22.093456+05:30'
 health_score: 100
 ---
+
 
 # continuedev/continue
 

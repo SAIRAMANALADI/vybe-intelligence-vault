@@ -20,11 +20,11 @@ Running models locally eliminates API costs, guarantees complete data privacy, a
 <!-- GENERATED:CURRENT_SIGNAL_START -->
 Active signals: 98 resources matched in the intelligence vault.
 Recently detected signals:
-- [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Code a simple RAG from scratch](../ai/rag/code-a-simple-rag-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-18
 - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) (Source: Unknown Source) - Collected 2026-06-18
 - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](../ai/research/arxiv-2602-02056.md) (Source: Unknown Source) - Collected 2026-06-18
-- [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](../ai/research/arxiv-2512-12850.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](../ai/models/making-llms-even-more-accessible-with-bitsandbytes.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Stable Diffusion XL on Mac with Advanced Core ML Quantization](../ai/models/stable-diffusion-xl-on-mac-with-advanced-core-ml-q.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -95,4 +95,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T16:20:17.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T20:51:16.326328+05:30.690199+05:30.625588+05:30.160508+05:30.066218+05:30.214083+05:30.692289+05:30.716163+05:30.758491+05:30.072306+05:30.587361+05:30.912845+05:30.713486+05:30.057085+05:30.279498+05:30.095745+05:30.229013+05:30.726067+05:30.881805+05:30.

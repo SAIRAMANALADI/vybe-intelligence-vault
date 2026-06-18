@@ -5,7 +5,7 @@ source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/microsoft/autogen
 published_at: '2025-09-30T06:18:26Z'
-collected_at: '2026-06-18T16:17:25.248931+05:30'
+collected_at: '2026-06-18T20:48:21.857585+05:30'
 tags:
 - agents
 - anthropic
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:microsoft/autogen
 first_seen: '2026-06-16T13:57:15.726917+05:30'
-last_seen: '2026-06-18T16:17:25.248931+05:30'
-last_checked: '2026-06-18T16:17:25.248931+05:30'
+last_seen: '2026-06-18T20:48:21.857585+05:30'
+last_checked: '2026-06-18T20:48:21.857585+05:30'
 health_score: 100
 ---
 

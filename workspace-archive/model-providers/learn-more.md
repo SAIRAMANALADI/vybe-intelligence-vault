@@ -2,7 +2,7 @@
 title: Learn more
 archive_category: model-providers
 source_category: ai/companies/deepmind
-source_url: https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning
+source_url: https://deepmind.google/blog/securing-the-future-of-ai-agents
 resource_id: blog:learn-more
 local_vault_path: ai/companies/deepmind/learn-more.md
 quality_score: 70
@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: reference
 importance: high
 tags:
+- agents
 - blog-post
 - deepmind
 - google-deepmind-blog
@@ -41,7 +42,7 @@ Recent update from Google DeepMind Blog Blog: Learn more
 
 ## Source
 
-Original source URL: https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning
+Original source URL: https://deepmind.google/blog/securing-the-future-of-ai-agents
 
 ## Local Vault File
 

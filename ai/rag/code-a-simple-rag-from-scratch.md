@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/blog/ngxson/make-your-own-rag
-published_at: '2026-06-18T10:32:23.595776+05:30'
-collected_at: '2026-06-18T10:32:23.595792+05:30'
+published_at: '2026-06-18T20:49:39.511566+05:30'
+collected_at: '2026-06-18T20:49:39.511578+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: huggingface:blog/ngxson/make-your-own-rag
-first_seen: '2026-06-18T10:32:23.595792+05:30'
-last_seen: '2026-06-18T10:32:23.595792+05:30'
-last_checked: '2026-06-18T10:32:23.595792+05:30'
+first_seen: '2026-06-18T20:49:39.511578+05:30'
+last_seen: '2026-06-18T20:49:39.511578+05:30'
+last_checked: '2026-06-18T20:49:39.511578+05:30'
 health_score: 100
 ---
 
@@ -21,7 +21,7 @@ health_score: 100
 
 ## Summary
 
-CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.45k • 16
+CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.69k • 16
 
 ## Why It Matters
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T10:32:23.595776+05:30
+- Published: 2026-06-18T20:49:39.511566+05:30
 
 ## Related Tags
 

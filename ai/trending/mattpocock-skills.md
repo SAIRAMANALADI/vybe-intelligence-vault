@@ -10,13 +10,14 @@ tags:
 - anthropic
 - github-trending
 - shell
-status: active
+status: inactive
 resource_id: github:mattpocock/skills
 first_seen: '2026-06-17T16:47:27.411641+05:30'
 last_seen: '2026-06-18T16:17:22.094077+05:30'
 last_checked: '2026-06-18T16:17:22.094077+05:30'
 health_score: 100
 ---
+
 
 # mattpocock/skills
 
