@@ -4,6 +4,7 @@ Curated highlights from the current week's collection, representing high-quality
 
 ## Top Highlights
 
+*   [crewAIInc/crewAI Release: 1.14.8a](https://github.com/crewaiinc/crewai) (Score: 70) - Category: `ai-coding-agents/`
 *   [CmdNeedle: Measuring the Incompleteness of Command Denylists for AI Agents](https://arxiv.org/abs/2606.15549) (Score: 70) - Category: `ai-coding-agents/`
 *   [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) (Score: 70) - Category: `ai-coding-agents/`
 *   [When Generic Prompt Improvements Hurt: Evaluation-Driven Iteration for LLM Applications](https://arxiv.org/abs/2601.22025) (Score: 70) - Category: `ai-coding-agents/`
@@ -18,6 +19,5 @@ Curated highlights from the current week's collection, representing high-quality
 *   [Toward Generalist Autonomous Research via Hypothesis-Tree Refinement](https://arxiv.org/abs/2606.11926) (Score: 70) - Category: `ai-coding-agents/`
 *   [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Score: 70) - Category: `ai-coding-agents/`
 *   [Understanding Diversity Collapse in RLVR via the Lens of Overtraining](https://arxiv.org/abs/2606.15455) (Score: 70) - Category: `ai-coding-agents/`
-*   [PROJECTMEM: A Local-First, Event-Sourced Memory and Judgment Layer for AI Coding Agents](https://arxiv.org/abs/2606.12329) (Score: 70) - Category: `ai-coding-agents/`
 
 More resources will appear as the harvester collects them.

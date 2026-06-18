@@ -7,7 +7,7 @@ Auto-generated weekly report from the local AI + Web Development Harvester.
 ## Ecosystem Shifts & Project Velocity
 
 ### Ecosystem Shift Synthesis (Last 7 Days)
-During this cycle, we discovered **444** new resources across our source networks.
+During this cycle, we discovered **1** new resources across our source networks.
 
 ## AI Trend Summary
 
@@ -24,11 +24,11 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/research | 1317 |
 | ai/rag | 852 |
 | ai/models | 737 |
-| ai/agents | 504 |
+| ai/agents | 505 |
 | web-development/nextjs | 75 |
 | web-development/react-three-fiber | 25 |
-| web-development/webgpu | 25 |
 | web-development/framer-motion | 25 |
+| web-development/webgpu | 25 |
 | web-development/shadcn-ui | 25 |
 | web-development/threejs | 24 |
 | ai/trending | 10 |
@@ -39,9 +39,9 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 | ai/companies/deepmind | 5 |
 | ai/companies/openai | 4 |
 | web-development | 3 |
+| ai/community | 3 |
 | ai/releases | 3 |
 | ai/resources | 2 |
-| ai/community | 2 |
 | web-development/webgl | 1 |
 | web-development/tailwind | 1 |
 
@@ -49,61 +49,61 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 
 | Tag | Count |
 |---|---:|
-| benchmark | 1076 |
+| benchmark | 1075 |
 | rag | 852 |
 | agents | 707 |
 | dataset | 638 |
-| models | 606 |
+| models | 607 |
 | paper | 476 |
-| hackernews | 294 |
+| hackernews | 295 |
 | frontend_ui | 222 |
 | youtube | 190 |
 | workflows | 174 |
 | openai | 119 |
 | meta-ai | 109 |
-| anthropic | 100 |
+| anthropic | 99 |
 | reddit | 89 |
 | threejs | 88 |
 
 ## Weekly Community Updates
 
-1. [Launch HN: Adam (YC W25) – Open-Source AI CAD](../../ai/community/adam-cad-cadam.md) ([Source](https://github.com/adam-cad/cadam)) (HN Score: 172) - `ai/community`
-2. [[x86] AI Compute Extensions (ACE) Specification](../../ai/community/x86-ai-compute-extensions-ace-specification.md) ([Source](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification)) (HN Score: 21) - `ai/community`
-3. [Free Project Status Report Template](../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
-4. [Client Challenge](../../ai/resources/client-challenge.md) ([Source](https://pypi.org/project/autogen)) - `ai/resources`
-5. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
-6. [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md) ([Source](https://mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide)) - `ai/rag`
-7. [Best AI Agent Frameworks 2026: LangChain, CrewAI, AutoGen](../../ai/rag/best-ai-agent-frameworks-2026-langchain-crewai-aut.md) ([Source](https://cordum.io/blog/ai-agent-frameworks-comparison)) - `ai/rag`
-8. [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../../ai/rag/rag-status-template-excel-free-download-techno-pm.md) ([Source](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) - `ai/rag`
-9. [Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md) ([Source](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation)) - `ai/rag`
-10. [Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md) ([Source](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) - `ai/rag`
-11. [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md) ([Source](https://business-docs.co.uk/downloads/category/rag)) - `ai/rag`
-12. [AutoGen — AutoGen](../../ai/rag/autogen-autogen.md) ([Source](https://microsoft.github.io/autogen/stable/index.html)) - `ai/rag`
-13. [The next evolution of the Agents SDK | OpenAI](../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
-14. [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../../ai/rag/rag-project-status-report-template-document-templa.md) ([Source](https://itsm-docs.com/en-gb/products/rag-status-template)) - `ai/rag`
-15. [Building Smarter Cybersecurity with Agentic AI and the AutoGen Framework - XSignOn Blog](../../ai/rag/building-smarter-cybersecurity-with-agentic-ai-and.md) ([Source](https://xsignon.com/blog/agentic-ai-and-autogen-framework)) - `ai/rag`
-16. [Top 5 Open-Source Agentic AI Frameworks in 2026](../../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md) ([Source](https://aimultiple.com/agentic-frameworks)) - `ai/rag`
-17. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
-18. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
-19. [CrewAI Production: 5 Practices That Actually Scale | Markaicode](../../ai/rag/crewai-production-5-practices-that-actually-scale.md) ([Source](https://markaicode.com/best/best-crewai-production-practices)) - `ai/rag`
-20. [AutoGen: LLM-Driven Multi-Agent Framework](../../ai/rag/autogen-llm-driven-multi-agent-framework.md) ([Source](https://emergentmind.com/topics/autogen)) - `ai/rag`
-21. [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md) ([Source](https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx)) - `ai/rag`
-22. [CrewAI Best Practices: Production Pitfalls | DevShelfHub](../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md) ([Source](https://devshelfhub.com/tutorials/crewai/best-practices)) - `ai/rag`
-23. [RAG Status Template | Red, Amber, Green Status | Project Slides](../../ai/rag/rag-status-template-red-amber-green-status-project.md) ([Source](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) - `ai/rag`
-24. [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md) ([Source](https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch)) - `ai/rag`
-25. [Build a RAG agent with LangChain - Docs by LangChain](../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
+1. [Launch HN: Adam (YC W25) – Open-Source AI CAD](../../ai/community/adam-cad-cadam.md) ([Source](https://github.com/adam-cad/cadam)) (HN Score: 182) - `ai/community`
+2. [The Australian Government to Require SMS/MMS Sender ID Registraion](../../ai/community/the-australian-government-to-require-sms-mms-sende.md) ([Source](https://acma.gov.au/sms-sender-id-register)) (HN Score: 87) - `ai/community`
+3. [AI Compute Extensions (ACE) Specification](../../ai/community/x86-ai-compute-extensions-ace-specification.md) ([Source](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification)) (HN Score: 34) - `ai/community`
+4. [Free Project Status Report Template](../../ai/resources/free-project-status-report-template.md) ([Source](https://safetyculture.com/checklists/operations/project-status-report)) - `ai/resources`
+5. [Client Challenge](../../ai/resources/client-challenge.md) ([Source](https://pypi.org/project/autogen)) - `ai/resources`
+6. [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md) ([Source](https://lushbinary.com/blog/rag-retrieval-augmented-generation-production-guide)) - `ai/rag`
+7. [Orchestration Frameworks for Agentic AI: LangChain, AutoGen, CrewAI – The Complete 2026 Guide – MHTECHIN Technologies](../../ai/rag/orchestration-frameworks-for-agentic-ai-langchain.md) ([Source](https://mhtechin.com/support/orchestration-frameworks-for-agentic-ai-langchain-autogen-crewai-the-complete-2026-guide)) - `ai/rag`
+8. [Best AI Agent Frameworks 2026: LangChain, CrewAI, AutoGen](../../ai/rag/best-ai-agent-frameworks-2026-langchain-crewai-aut.md) ([Source](https://cordum.io/blog/ai-agent-frameworks-comparison)) - `ai/rag`
+9. [RAG Status Template Excel Free Download – Techno PM - Project Management Templates Download](../../ai/rag/rag-status-template-excel-free-download-techno-pm.md) ([Source](https://techno-pm.com/blogs/project-dashboard/rag-status-template-excel)) - `ai/rag`
+10. [Simple RAG Explained: A Beginner’s Guide to Retrieval-Augmented Generation (RAG) - machinelearningplus](../../ai/rag/simple-rag-explained-a-beginners-guide-to-retrieva.md) ([Source](https://machinelearningplus.com/gen-ai/simple-rag-explained-a-beginners-guide-to-retrieval-augmented-generation)) - `ai/rag`
+11. [Build a RAG Chatbot in 30 Min with Python + LangChain [2026]](../../ai/rag/build-a-rag-chatbot-in-30-min-with-python-langchai.md) ([Source](https://tech-insider.org/how-to-build-rag-chatbot-python-langchain-tutorial)) - `ai/rag`
+12. [RAG Status Reports, Dashboards, and Templates: Red Amber Green](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md) ([Source](https://business-docs.co.uk/downloads/category/rag)) - `ai/rag`
+13. [AutoGen — AutoGen](../../ai/rag/autogen-autogen.md) ([Source](https://microsoft.github.io/autogen/stable/index.html)) - `ai/rag`
+14. [The next evolution of the Agents SDK | OpenAI](../../ai/rag/the-next-evolution-of-the-agents-sdk-openai.md) ([Source](https://openai.com/index/the-next-evolution-of-the-agents-sdk)) - `ai/rag`
+15. [RAG Project Status Report Template › Document-Templates – ITSM Docs - ITSM Documents & Templates](../../ai/rag/rag-project-status-report-template-document-templa.md) ([Source](https://itsm-docs.com/en-gb/products/rag-status-template)) - `ai/rag`
+16. [Building Smarter Cybersecurity with Agentic AI and the AutoGen Framework - XSignOn Blog](../../ai/rag/building-smarter-cybersecurity-with-agentic-ai-and.md) ([Source](https://xsignon.com/blog/agentic-ai-and-autogen-framework)) - `ai/rag`
+17. [Top 5 Open-Source Agentic AI Frameworks in 2026](../../ai/rag/top-5-open-source-agentic-ai-frameworks-in-2026.md) ([Source](https://aimultiple.com/agentic-frameworks)) - `ai/rag`
+18. [Using a knowledge graph to implement a RAG application](../../ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md) ([Source](https://neo4j.com/blog/developer/rag-tutorial)) - `ai/rag`
+19. [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md) ([Source](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)) - `ai/rag`
+20. [CrewAI Production: 5 Practices That Actually Scale | Markaicode](../../ai/rag/crewai-production-5-practices-that-actually-scale.md) ([Source](https://markaicode.com/best/best-crewai-production-practices)) - `ai/rag`
+21. [AutoGen: LLM-Driven Multi-Agent Framework](../../ai/rag/autogen-llm-driven-multi-agent-framework.md) ([Source](https://emergentmind.com/topics/autogen)) - `ai/rag`
+22. [Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework' -- Visual Studio Magazine](../../ai/rag/semantic-kernel-autogen-open-source-microsoft-agen.md) ([Source](https://visualstudiomagazine.com/articles/2025/10/01/semantic-kernel-autogen--open-source-microsoft-agent-framework.aspx)) - `ai/rag`
+23. [CrewAI Best Practices: Production Pitfalls | DevShelfHub](../../ai/rag/crewai-best-practices-production-pitfalls-devshelf.md) ([Source](https://devshelfhub.com/tutorials/crewai/best-practices)) - `ai/rag`
+24. [RAG Status Template | Red, Amber, Green Status | Project Slides](../../ai/rag/rag-status-template-red-amber-green-status-project.md) ([Source](https://powerslides.com/powerpoint-business/project-management-templates/rag-status)) - `ai/rag`
+25. [Build RAG From Scratch: Step-by-Step Tutorial for Beginners - BuildRag](../../ai/rag/build-rag-from-scratch-step-by-step-tutorial-for-b.md) ([Source](https://buildrag.com/tutorials/build-your-first-rag/build-rag-from-scratch)) - `ai/rag`
 26. [CrewAI Crews & Flows: The Complete Guide to AI Workflow Orchestration - DEV Community](../../ai/rag/crewai-crews-flows-the-complete-guide-to-ai-workfl.md) ([Source](https://dev.to/vishva_ram/crewai-crews-flows-the-complete-guide-to-ai-workflow-orchestration-328n)) - `ai/rag`
 27. [Unlocking the power of unstructured data with RAG - The GitHub Blog](../../ai/rag/unlocking-the-power-of-unstructured-data-with-rag.md) ([Source](https://github.blog/ai-and-ml/llms/unlocking-the-power-of-unstructured-data-with-rag)) - `ai/rag`
 28. [LightRAG](../../ai/rag/lightrag.md) ([Source](https://lightrag.github.io)) - `ai/rag`
-29. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md) ([Source](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14)) - `ai/rag`
-30. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
-31. [Free RAG Status Report Template to Edit Online](../../ai/rag/free-rag-status-report-template-to-edit-online.md) ([Source](https://template.net/edit-online/394147/rag-status-report)) - `ai/rag`
-32. [RAGFlow](../../ai/rag/ragflow.md) ([Source](https://ragflow.io)) - `ai/rag`
-33. [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../../ai/rag/free-project-status-report-template-weekly-monthly.md) ([Source](https://analysistabs.com/templates/project-status-report)) - `ai/rag`
-34. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
-35. [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md) ([Source](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)) - `ai/rag`
-36. [RAG Status Dashboard Roadmap Template - WordLayouts](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md) ([Source](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) - `ai/rag`
-37. [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md) ([Source](https://aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026)) - `ai/rag`
+29. [RAG Tutorial: Step-by-Step Guide to Retrieval-Augmented Generation (2026) — SuperML.org](../../ai/rag/rag-tutorial-step-by-step-guide-to-retrieval-augme.md) ([Source](https://superml.org/tutorials/rag-beginner)) - `ai/rag`
+30. [Free RAG Status Report Template to Edit Online](../../ai/rag/free-rag-status-report-template-to-edit-online.md) ([Source](https://template.net/edit-online/394147/rag-status-report)) - `ai/rag`
+31. [RAGFlow](../../ai/rag/ragflow.md) ([Source](https://ragflow.io)) - `ai/rag`
+32. [Free Project Status Report Template — Weekly & Monthly Excel/PPT [2026] - Analysistabs](../../ai/rag/free-project-status-report-template-weekly-monthly.md) ([Source](https://analysistabs.com/templates/project-status-report)) - `ai/rag`
+33. [UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities](../../ai/rag/universalrag-retrieval-augmented-generation-over-c.md) ([Source](https://universalrag.github.io)) - `ai/rag`
+34. [7 AI Open Source Libraries To Build RAG, Agents & AI Search - DEV Community](../../ai/rag/7-ai-open-source-libraries-to-build-rag-agents-ai.md) ([Source](https://dev.to/vectorpodcast/7-ai-open-source-libraries-to-build-rag-agents-ai-search-27bm)) - `ai/rag`
+35. [RAG Status Dashboard Roadmap Template - WordLayouts](../../ai/rag/rag-status-dashboard-roadmap-template-wordlayouts.md) ([Source](https://wordlayouts.com/template/rag-status-dashboard-roadmap-template)) - `ai/rag`
+36. [The Best Open-Source AI Agent Frameworks in 2026: OpenClaw, AutoGen, CrewAI, LangGraph, and More | AI Magicx Blog | AI M](../../ai/rag/the-best-open-source-ai-agent-frameworks-in-2026-o.md) ([Source](https://aimagicx.com/blog/best-open-source-ai-agent-frameworks-2026)) - `ai/rag`
+37. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
 38. [OpenAI Agents SDK: What It Is and How to Build Production Agents](../../ai/rag/openai-agents-sdk-what-it-is-and-how-to-build-prod.md) ([Source](https://c-sharpcorner.com/article/openai-agents-sdk-what-it-is-and-how-to-build-production-agents)) - `ai/rag`
 39. [Crafting Effective Agents - CrewAI](../../ai/rag/crafting-effective-agents-crewai.md) ([Source](https://docs.crewai.com/en/guides/agents/crafting-effective-agents)) - `ai/rag`
 40. [Sovereign, Open Source Retrieval-Augmented Generation](../../ai/rag/sovereign-open-source-retrieval-augmented-generati.md) ([Source](https://open-rag.ai)) - `ai/rag`
@@ -112,125 +112,127 @@ This week had strong activity around Three.js & React Three Fiber 3D visual setu
 43. [OpenAI Agents SDK Tutorial: 13 Steps [2026]](../../ai/rag/openai-agents-sdk-tutorial-13-steps-2026.md) ([Source](https://tech-insider.org/openai-agents-sdk-tutorial-python-13-steps-2026)) - `ai/rag`
 44. [RAG Rating Tracker Template in Apple Numbers, Word, Excel, Pages, Google Sheets, Google Docs - Download | Template.net](../../ai/rag/rag-rating-tracker-template-in-apple-numbers-word.md) ([Source](https://template.net/editable/46057/rag-rating-tracker)) - `ai/rag`
 45. [What is RAG Status Reporting in Project Management? | PM Study Circle](../../ai/rag/what-is-rag-status-reporting-in-project-management.md) ([Source](https://pmstudycircle.com/rag-status-reporting)) - `ai/rag`
-46. [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) ([Source](https://medevel.com/open-source-rag-1900)) - `ai/rag`
-47. [RAG Status Template (Word, Excel)](../../ai/rag/rag-status-template-word-excel.md) ([Source](https://mastt.com/resources/rag-status-template)) - `ai/rag`
-48. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
-49. [Data Security – AutogenAI](../../ai/rag/data-security-autogenai.md) ([Source](https://support.autogenai.com/hc/en-gb/articles/4930062028447-data-security)) - `ai/rag`
-50. [Agents SDK | OpenAI API](../../ai/rag/agents-sdk-openai-api.md) ([Source](https://developers.openai.com/api/docs/guides/agents)) - `ai/rag`
-51. [Fortifying AutoGen](../../ai/rag/fortifying-autogen.md) ([Source](https://procodebase.com/article/fortifying-autogen)) - `ai/rag`
-52. [Introducing the Agent Governance Toolkit: Open-source runtime security for AI agents | Microsoft Open Source Blog](../../ai/agents/introducing-the-agent-governance-toolkit-open-sour.md) ([Source](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents)) - `ai/agents`
-53. [CrewAI: A Practical Guide to Role-Based Agent Orchestration â w3reference.com](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md) ([Source](https://w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration)) - `ai/agents`
-54. [10 Best CrewAI Tutorials to Master Multi‑Agent Workflows (2025 Guide)](../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md) ([Source](https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-master-multi-agent-workflows-2025-guide)) - `ai/agents`
-55. [OpenAI Agents SDK](../../ai/agents/openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-python)) - `ai/agents`
-56. [AutoGen - Microsoft Research](../../ai/agents/autogen-microsoft-research.md) ([Source](https://microsoft.com/en-us/research/project/autogen)) - `ai/agents`
-57. [CrewAI vs LangGraph vs AutoGen vs OpenAgents — Best AI Agent Framework (2026) | OpenAgents Blog](../../ai/agents/crewai-vs-langgraph-vs-autogen-vs-openagents-best.md) ([Source](https://openagents.org/blog/posts/2026-02-23-open-source-ai-agent-frameworks-compared)) - `ai/agents`
-58. [OpenAI Agents SDK: Complete Setup Guide (2026)](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md) ([Source](https://aimadetools.com/blog/openai-agents-sdk-setup-guide)) - `ai/agents`
-59. [Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](../../ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md) ([Source](https://markaicode.com/autogen-zero-day-vulnerabilities-2025)) - `ai/agents`
-60. [AG2: Build Systems, Not Prompts | Open-Source Multi-Agent AI Framework](../../ai/agents/ag2-build-systems-not-prompts-open-source-multi-ag.md) ([Source](https://ag2.ai)) - `ai/agents`
-61. [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-js)) - `ai/agents`
-62. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
-63. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
-64. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
-65. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
-66. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
-67. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
-68. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
-69. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
-70. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
-71. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
-72. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
-73. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
-74. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
-75. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
-76. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
-77. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
-78. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
-79. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
-80. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
-81. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
-82. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
-83. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
-84. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
-85. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
-86. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
-87. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
-88. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
-89. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
-90. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
-91. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
-92. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
-93. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
-94. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
-95. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
-96. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
-97. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
-98. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
-99. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
-100. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
-101. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
-102. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
-103. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
-104. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
-105. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
-106. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
-107. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
-108. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
-109. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
-110. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
-111. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
-112. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
-113. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
-114. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
-115. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
-116. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
-117. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
-118. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
-119. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
-120. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
-121. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
-122. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
-123. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
-124. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
-125. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
-126. [DeusData/codebase-memory-mcp](../../ai/rag/deusdata-codebase-memory-mcp.md) ([Source](https://github.com/deusdata/codebase-memory-mcp)) - `ai/rag`
-127. [n0-computer/iroh](../../ai/trending/n0-computer-iroh.md) ([Source](https://github.com/n0-computer/iroh)) - `ai/trending`
-128. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) - `ai/agents`
-129. [meshery/meshery](../../ai/trending/meshery-meshery.md) ([Source](https://github.com/meshery/meshery)) - `ai/trending`
-130. [obra/superpowers](../../ai/agents/obra-superpowers.md) ([Source](https://github.com/obra/superpowers)) - `ai/agents`
-131. [google-research/timesfm](../../ai/trending/google-research-timesfm.md) ([Source](https://github.com/google-research/timesfm)) - `ai/trending`
-132. [RocketChat/Rocket.Chat](../../ai/trending/rocketchat-rocket-chat.md) ([Source](https://github.com/rocketchat/rocket.chat)) - `ai/trending`
-133. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) - `ai/agents`
-134. [penpot/penpot](../../ai/trending/penpot-penpot.md) ([Source](https://github.com/penpot/penpot)) - `ai/trending`
-135. [krahets/hello-algo](../../ai/trending/krahets-hello-algo.md) ([Source](https://github.com/krahets/hello-algo)) - `ai/trending`
-136. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md) ([Source](https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation)) - `ai/trending`
-137. [mattpocock/skills](../../ai/trending/mattpocock-skills.md) ([Source](https://github.com/mattpocock/skills)) - `ai/trending`
-138. [yairm210/Unciv](../../ai/trending/yairm210-unciv.md) ([Source](https://github.com/yairm210/unciv)) - `ai/trending`
-139. [freeCodeCamp/freeCodeCamp](../../ai/trending/freecodecamp-freecodecamp.md) ([Source](https://github.com/freecodecamp/freecodecamp)) - `ai/trending`
-140. [bytedance/UI-TARS-desktop](../../ai/agents/bytedance-ui-tars-desktop.md) ([Source](https://github.com/bytedance/ui-tars-desktop)) - `ai/agents`
-141. [pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
-142. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
-143. [langchain-ai/langchain Release: langchain-openai==1.3.2](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
-144. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
-145. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/rag`
-146. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
-147. [crewAIInc/crewAI Release: 1.14.7](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/rag`
-148. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
-149. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
-150. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
-151. [RAG System with LangChain and LangGraph - GeeksforGeeks](../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) ([Source](https://geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph)) - `ai/rag`
-152. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
-153. [Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium](../../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md) ([Source](https://medium.com/@amalhan43/build-rag-from-scratch-a-beginners-step-by-step-guide-fd3cbdc0b2fd)) - `ai/rag`
-154. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
-155. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
-156. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
-157. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb)) - `ai/rag`
-158. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md) ([Source](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)) - `ai/rag`
-159. [Code a simple RAG from scratch](../../ai/rag/code-a-simple-rag-from-scratch.md) ([Source](https://huggingface.co/blog/ngxson/make-your-own-rag)) - `ai/rag`
-160. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
-161. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
-162. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
-163. [All-in-RAG | 大模型应用开发实战：RAG技术全栈指南](../../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md) ([Source](https://datawhalechina.github.io/all-in-rag)) - `ai/rag`
-164. [Building a RAG Application - GeeksforGeeks](../../ai/rag/building-a-rag-application-geeksforgeeks.md) ([Source](https://geeksforgeeks.org/data-science/building-a-rag-application)) - `ai/rag`
+46. [Code a simple RAG from scratch](../../ai/rag/code-a-simple-rag-from-scratch.md) ([Source](https://huggingface.co/blog/ngxson/make-your-own-rag)) - `ai/rag`
+47. [19 Open-source Free RAG Frameworks and Solution for AI Engineers and Developers - Limit AI Hallucinations](../../ai/rag/19-open-source-free-rag-frameworks-and-solution-fo.md) ([Source](https://medevel.com/open-source-rag-1900)) - `ai/rag`
+48. [RAG Status Template (Word, Excel)](../../ai/rag/rag-status-template-word-excel.md) ([Source](https://mastt.com/resources/rag-status-template)) - `ai/rag`
+49. [Retrieval-Augmented Generation (RAG) — RAG multi model documentation](../../ai/rag/retrieval-augmented-generation-rag-rag-multi-model.md) ([Source](https://rag.readthedocs.io)) - `ai/rag`
+50. [Data Security – AutogenAI](../../ai/rag/data-security-autogenai.md) ([Source](https://support.autogenai.com/hc/en-gb/articles/4930062028447-data-security)) - `ai/rag`
+51. [Agents SDK | OpenAI API](../../ai/rag/agents-sdk-openai-api.md) ([Source](https://developers.openai.com/api/docs/guides/agents)) - `ai/rag`
+52. [All-in-RAG | 大模型应用开发实战：RAG技术全栈指南](../../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md) ([Source](https://datawhalechina.github.io/all-in-rag)) - `ai/rag`
+53. [Fortifying AutoGen](../../ai/rag/fortifying-autogen.md) ([Source](https://procodebase.com/article/fortifying-autogen)) - `ai/rag`
+54. [Introducing the Agent Governance Toolkit: Open-source runtime security for AI agents | Microsoft Open Source Blog](../../ai/agents/introducing-the-agent-governance-toolkit-open-sour.md) ([Source](https://opensource.microsoft.com/blog/2026/04/02/introducing-the-agent-governance-toolkit-open-source-runtime-security-for-ai-agents)) - `ai/agents`
+55. [CrewAI: A Practical Guide to Role-Based Agent Orchestration â w3reference.com](../../ai/agents/crewai-a-practical-guide-to-role-based-agent-orche.md) ([Source](https://w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration)) - `ai/agents`
+56. [10 Best CrewAI Tutorials to Master Multi‑Agent Workflows (2025 Guide)](../../ai/agents/10-best-crewai-tutorials-to-master-multi-agent-wor.md) ([Source](https://sider.ai/blog/ai-tools/best-crewai-tutorials-to-master-multi-agent-workflows-2025-guide)) - `ai/agents`
+57. [OpenAI Agents SDK](../../ai/agents/openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-python)) - `ai/agents`
+58. [AutoGen - Microsoft Research](../../ai/agents/autogen-microsoft-research.md) ([Source](https://microsoft.com/en-us/research/project/autogen)) - `ai/agents`
+59. [CrewAI vs LangGraph vs AutoGen vs OpenAgents — Best AI Agent Framework (2026) | OpenAgents Blog](../../ai/agents/crewai-vs-langgraph-vs-autogen-vs-openagents-best.md) ([Source](https://openagents.org/blog/posts/2026-02-23-open-source-ai-agent-frameworks-compared)) - `ai/agents`
+60. [OpenAI Agents SDK: Complete Setup Guide (2026)](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md) ([Source](https://aimadetools.com/blog/openai-agents-sdk-setup-guide)) - `ai/agents`
+61. [Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](../../ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md) ([Source](https://markaicode.com/autogen-zero-day-vulnerabilities-2025)) - `ai/agents`
+62. [AG2: Build Systems, Not Prompts | Open-Source Multi-Agent AI Framework](../../ai/agents/ag2-build-systems-not-prompts-open-source-multi-ag.md) ([Source](https://ag2.ai)) - `ai/agents`
+63. [OpenAI Agents SDK TypeScript | OpenAI Agents SDK](../../ai/agents/openai-agents-sdk-typescript-openai-agents-sdk.md) ([Source](https://openai.github.io/openai-agents-js)) - `ai/agents`
+64. [Next.js Across Platforms: Adapters, OpenNext, and Our Commitments](../../web-development/nextjs/next-js-across-platforms-adapters-opennext-and-our.md) ([Source](https://nextjs.org/blog/nextjs-across-platforms)) - `web-development/nextjs`
+65. [Next.js 16.2: AI Improvements](../../ai/agents/next-js-16-2-ai-improvements.md) ([Source](https://nextjs.org/blog/next-16-2-ai)) - `ai/agents`
+66. [Turbopack: What's New in Next.js 16.2](../../web-development/nextjs/turbopack-what-s-new-in-next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2-turbopack)) - `web-development/nextjs`
+67. [Next.js 16.2](../../web-development/nextjs/next-js-16-2.md) ([Source](https://nextjs.org/blog/next-16-2)) - `web-development/nextjs`
+68. [Building Next.js for an agentic future](../../ai/agents/building-next-js-for-an-agentic-future.md) ([Source](https://nextjs.org/blog/agentic-future)) - `ai/agents`
+69. [Inside Turbopack: Building Faster by Building Less](../../web-development/nextjs/inside-turbopack-building-faster-by-building-less.md) ([Source](https://nextjs.org/blog/turbopack-incremental-computation)) - `web-development/nextjs`
+70. [Next.js 16.1](../../web-development/nextjs/next-js-16-1.md) ([Source](https://nextjs.org/blog/next-16-1)) - `web-development/nextjs`
+71. [Next.js Security Update: December 11, 2025](../../web-development/nextjs/next-js-security-update-december-11-2025.md) ([Source](https://nextjs.org/blog/security-update-2025-12-11)) - `web-development/nextjs`
+72. [Security Advisory: CVE-2025-66478](../../web-development/security-advisory-cve-2025-66478.md) ([Source](https://nextjs.org/blog/cve-2025-66478)) - `web-development`
+73. [Next.js 16](../../web-development/nextjs/next-js-16.md) ([Source](https://nextjs.org/blog/next-16)) - `web-development/nextjs`
+74. [Next.js 16 (beta)](../../web-development/nextjs/next-js-16-beta.md) ([Source](https://nextjs.org/blog/next-16-beta)) - `web-development/nextjs`
+75. [Next.js 15.5](../../web-development/nextjs/next-js-15-5.md) ([Source](https://nextjs.org/blog/next-15-5)) - `web-development/nextjs`
+76. [Next.js 15.4](../../web-development/nextjs/next-js-15-4.md) ([Source](https://nextjs.org/blog/next-15-4)) - `web-development/nextjs`
+77. [Next.js 15.3](../../web-development/nextjs/next-js-15-3.md) ([Source](https://nextjs.org/blog/next-15-3)) - `web-development/nextjs`
+78. [Building APIs with Next.js](../../web-development/nextjs/building-apis-with-next-js.md) ([Source](https://nextjs.org/blog/building-apis-with-nextjs)) - `web-development/nextjs`
+79. [Next.js 15.2](../../web-development/nextjs/next-js-15-2.md) ([Source](https://nextjs.org/blog/next-15-2)) - `web-development/nextjs`
+80. [Composable Caching with Next.js](../../web-development/nextjs/composable-caching-with-next-js.md) ([Source](https://nextjs.org/blog/composable-caching)) - `web-development/nextjs`
+81. [Next.js 15.1](../../web-development/nextjs/next-js-15-1.md) ([Source](https://nextjs.org/blog/next-15-1)) - `web-development/nextjs`
+82. [Our Journey with Caching](../../web-development/nextjs/our-journey-with-caching.md) ([Source](https://nextjs.org/blog/our-journey-with-caching)) - `web-development/nextjs`
+83. [Next.js 15](../../web-development/nextjs/next-js-15.md) ([Source](https://nextjs.org/blog/next-15)) - `web-development/nextjs`
+84. [Turbopack Dev is Now Stable](../../web-development/turbopack-dev-is-now-stable.md) ([Source](https://nextjs.org/blog/turbopack-for-development-stable)) - `web-development`
+85. [Next.js 15 RC 2](../../web-development/nextjs/next-js-15-rc-2.md) ([Source](https://nextjs.org/blog/next-15-rc2)) - `web-development/nextjs`
+86. [Next.js 15 RC](../../web-development/nextjs/next-js-15-rc.md) ([Source](https://nextjs.org/blog/next-15-rc)) - `web-development/nextjs`
+87. [Next.js 14.2](../../web-development/nextjs/next-js-14-2.md) ([Source](https://nextjs.org/blog/next-14-2)) - `web-development/nextjs`
+88. [Next.js 14.1](../../web-development/nextjs/next-js-14-1.md) ([Source](https://nextjs.org/blog/next-14-1)) - `web-development/nextjs`
+89. [Next.js 14](../../web-development/nextjs/next-js-14.md) ([Source](https://nextjs.org/blog/next-14)) - `web-development/nextjs`
+90. [How to Think About Security in Next.js](../../web-development/nextjs/how-to-think-about-security-in-next-js.md) ([Source](https://nextjs.org/blog/security-nextjs-server-components-actions)) - `web-development/nextjs`
+91. [Next.js 13.5](../../web-development/nextjs/next-js-13-5.md) ([Source](https://nextjs.org/blog/next-13-5)) - `web-development/nextjs`
+92. [Next.js App Router Update](../../web-development/nextjs/next-js-app-router-update.md) ([Source](https://nextjs.org/blog/june-2023-update)) - `web-development/nextjs`
+93. [Next.js 13.4](../../web-development/nextjs/next-js-13-4.md) ([Source](https://nextjs.org/blog/next-13-4)) - `web-development/nextjs`
+94. [Next.js 13.3](../../web-development/nextjs/next-js-13-3.md) ([Source](https://nextjs.org/blog/next-13-3)) - `web-development/nextjs`
+95. [Next.js 13.2](../../web-development/nextjs/next-js-13-2.md) ([Source](https://nextjs.org/blog/next-13-2)) - `web-development/nextjs`
+96. [Next.js 13.1](../../web-development/nextjs/next-js-13-1.md) ([Source](https://nextjs.org/blog/next-13-1)) - `web-development/nextjs`
+97. [Next.js 13](../../web-development/nextjs/next-js-13.md) ([Source](https://nextjs.org/blog/next-13)) - `web-development/nextjs`
+98. [Next.js 12.3](../../web-development/nextjs/next-js-12-3.md) ([Source](https://nextjs.org/blog/next-12-3)) - `web-development/nextjs`
+99. [Next.js 12.2](../../web-development/nextjs/next-js-12-2.md) ([Source](https://nextjs.org/blog/next-12-2)) - `web-development/nextjs`
+100. [Layouts RFC](../../web-development/layouts-rfc.md) ([Source](https://nextjs.org/blog/layouts-rfc)) - `web-development`
+101. [Next.js 12.1](../../web-development/nextjs/next-js-12-1.md) ([Source](https://nextjs.org/blog/next-12-1)) - `web-development/nextjs`
+102. [Next.js 12](../../web-development/nextjs/next-js-12.md) ([Source](https://nextjs.org/blog/next-12)) - `web-development/nextjs`
+103. [Next.js 11.1](../../web-development/nextjs/next-js-11-1.md) ([Source](https://nextjs.org/blog/next-11-1)) - `web-development/nextjs`
+104. [Next.js 11](../../web-development/nextjs/next-js-11.md) ([Source](https://nextjs.org/blog/next-11)) - `web-development/nextjs`
+105. [Next.js 10.2](../../web-development/nextjs/next-js-10-2.md) ([Source](https://nextjs.org/blog/next-10-2)) - `web-development/nextjs`
+106. [Next.js 10.1](../../web-development/nextjs/next-js-10-1.md) ([Source](https://nextjs.org/blog/next-10-1)) - `web-development/nextjs`
+107. [Incrementally Adopting Next.js](../../web-development/nextjs/incrementally-adopting-next-js.md) ([Source](https://nextjs.org/blog/incremental-adoption)) - `web-development/nextjs`
+108. [Next.js 10](../../web-development/nextjs/next-js-10.md) ([Source](https://nextjs.org/blog/next-10)) - `web-development/nextjs`
+109. [Next.js 9.5](../../web-development/nextjs/next-js-9-5.md) ([Source](https://nextjs.org/blog/next-9-5)) - `web-development/nextjs`
+110. [Next.js 9.4](../../web-development/nextjs/next-js-9-4.md) ([Source](https://nextjs.org/blog/next-9-4)) - `web-development/nextjs`
+111. [Next.js 9.3](../../web-development/nextjs/next-js-9-3.md) ([Source](https://nextjs.org/blog/next-9-3)) - `web-development/nextjs`
+112. [Next.js 9.2](../../web-development/nextjs/next-js-9-2.md) ([Source](https://nextjs.org/blog/next-9-2)) - `web-development/nextjs`
+113. [Next.js 9.1.7](../../web-development/nextjs/next-js-9-1-7.md) ([Source](https://nextjs.org/blog/next-9-1-7)) - `web-development/nextjs`
+114. [Introducing Create Next App](../../web-development/nextjs/introducing-create-next-app.md) ([Source](https://nextjs.org/blog/create-next-app)) - `web-development/nextjs`
+115. [Next.js 9.1](../../ai/rag/next-js-9-1.md) ([Source](https://nextjs.org/blog/next-9-1)) - `ai/rag`
+116. [Next.js 9.0.7](../../web-development/nextjs/next-js-9-0-7.md) ([Source](https://nextjs.org/blog/next-9-0-7)) - `web-development/nextjs`
+117. [Next.js 9](../../web-development/nextjs/next-js-9.md) ([Source](https://nextjs.org/blog/next-9)) - `web-development/nextjs`
+118. [Next.js 8.1](../../web-development/nextjs/next-js-8-1.md) ([Source](https://nextjs.org/blog/next-8-1)) - `web-development/nextjs`
+119. [Next.js 8.0.4](../../web-development/nextjs/next-js-8-0-4.md) ([Source](https://nextjs.org/blog/next-8-0-4)) - `web-development/nextjs`
+120. [Styling Next.js with Styled JSX](../../web-development/nextjs/styling-next-js-with-styled-jsx.md) ([Source](https://nextjs.org/blog/styling-next-with-styled-jsx)) - `web-development/nextjs`
+121. [Next.js 8 Webpack Memory Improvements](../../web-development/nextjs/next-js-8-webpack-memory-improvements.md) ([Source](https://nextjs.org/blog/webpack-memory)) - `web-development/nextjs`
+122. [Next.js 8](../../web-development/nextjs/next-js-8.md) ([Source](https://nextjs.org/blog/next-8)) - `web-development/nextjs`
+123. [Next.js 7](../../web-development/nextjs/next-js-7.md) ([Source](https://nextjs.org/blog/next-7)) - `web-development/nextjs`
+124. [Next.js 6.1](../../web-development/nextjs/next-js-6-1.md) ([Source](https://nextjs.org/blog/next-6-1)) - `web-development/nextjs`
+125. [Next.js 6 and Nextjs.org](../../web-development/nextjs/next-js-6-and-nextjs-org.md) ([Source](https://nextjs.org/blog/next-6)) - `web-development/nextjs`
+126. [Next.js 5.1: Faster Page Resolution, Environment Config & More](../../web-development/nextjs/next-js-5-1-faster-page-resolution-environment-con.md) ([Source](https://nextjs.org/blog/next-5-1)) - `web-development/nextjs`
+127. [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](../../web-development/nextjs/next-js-5-universal-webpack-css-imports-plugins-an.md) ([Source](https://nextjs.org/blog/next-5)) - `web-development/nextjs`
+128. [DeusData/codebase-memory-mcp](../../ai/rag/deusdata-codebase-memory-mcp.md) ([Source](https://github.com/deusdata/codebase-memory-mcp)) - `ai/rag`
+129. [n0-computer/iroh](../../ai/trending/n0-computer-iroh.md) ([Source](https://github.com/n0-computer/iroh)) - `ai/trending`
+130. [Panniantong/Agent-Reach](../../ai/agents/panniantong-agent-reach.md) ([Source](https://github.com/panniantong/agent-reach)) - `ai/agents`
+131. [meshery/meshery](../../ai/trending/meshery-meshery.md) ([Source](https://github.com/meshery/meshery)) - `ai/trending`
+132. [obra/superpowers](../../ai/agents/obra-superpowers.md) ([Source](https://github.com/obra/superpowers)) - `ai/agents`
+133. [google-research/timesfm](../../ai/trending/google-research-timesfm.md) ([Source](https://github.com/google-research/timesfm)) - `ai/trending`
+134. [RocketChat/Rocket.Chat](../../ai/trending/rocketchat-rocket-chat.md) ([Source](https://github.com/rocketchat/rocket.chat)) - `ai/trending`
+135. [continuedev/continue](../../ai/agents/continuedev-continue.md) ([Source](https://github.com/continuedev/continue)) - `ai/agents`
+136. [penpot/penpot](../../ai/trending/penpot-penpot.md) ([Source](https://github.com/penpot/penpot)) - `ai/trending`
+137. [krahets/hello-algo](../../ai/trending/krahets-hello-algo.md) ([Source](https://github.com/krahets/hello-algo)) - `ai/trending`
+138. [Universal-Debloater-Alliance/universal-android-debloater-next-generation](../../ai/trending/universal-debloater-alliance-universal-android-debloater-next-generation.md) ([Source](https://github.com/universal-debloater-alliance/universal-android-debloater-next-generation)) - `ai/trending`
+139. [mattpocock/skills](../../ai/trending/mattpocock-skills.md) ([Source](https://github.com/mattpocock/skills)) - `ai/trending`
+140. [yairm210/Unciv](../../ai/trending/yairm210-unciv.md) ([Source](https://github.com/yairm210/unciv)) - `ai/trending`
+141. [freeCodeCamp/freeCodeCamp](../../ai/trending/freecodecamp-freecodecamp.md) ([Source](https://github.com/freecodecamp/freecodecamp)) - `ai/trending`
+142. [bytedance/UI-TARS-desktop](../../ai/agents/bytedance-ui-tars-desktop.md) ([Source](https://github.com/bytedance/ui-tars-desktop)) - `ai/agents`
+143. [pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release](../../ai/rag/pytorch-pytorch.md) ([Source](https://github.com/pytorch/pytorch)) - `ai/rag`
+144. [huggingface/transformers Release: Patch release v5.12.1](../../ai/releases/huggingface-transformers.md) ([Source](https://github.com/huggingface/transformers)) - `ai/releases`
+145. [langchain-ai/langchain Release: langchain-openai==1.3.2](../../ai/releases/langchain-ai-langchain.md) ([Source](https://github.com/langchain-ai/langchain)) - `ai/releases`
+146. [modelcontextprotocol/servers Release: Release 2026.1.26](../../ai/releases/modelcontextprotocol-servers.md) ([Source](https://github.com/modelcontextprotocol/servers)) - `ai/releases`
+147. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../../ai/rag/pydantic-pydantic-ai.md) ([Source](https://github.com/pydantic/pydantic-ai)) - `ai/rag`
+148. [microsoft/autogen Release: python-v0.7.5](../../ai/agents/microsoft-autogen.md) ([Source](https://github.com/microsoft/autogen)) - `ai/agents`
+149. [crewAIInc/crewAI Release: 1.14.8a](../../ai/rag/crewaiinc-crewai.md) ([Source](https://github.com/crewaiinc/crewai)) - `ai/agents`
+150. [Top 10 RAG Frameworks on GitHub (By Stars) — January 2026 | by florinelchis | Medium](../../ai/rag/top-10-rag-frameworks-on-github-by-stars-january-2.md) ([Source](https://florinelchis.medium.com/top-10-rag-frameworks-on-github-by-stars-january-2026-e6edff1e0d91)) - `ai/rag`
+151. [15 Best Open-Source RAG Frameworks in 2026](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md) ([Source](https://firecrawl.dev/blog/best-open-source-rag-frameworks)) - `ai/rag`
+152. [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md) ([Source](https://mrlatte.net/en/research/2026/04/27/rag-complete-guide)) - `ai/rag`
+153. [Build a RAG agent with LangChain - Docs by LangChain](../../ai/rag/build-a-rag-agent-with-langchain-docs-by-langchain.md) ([Source](https://docs.langchain.com/oss/python/langchain/rag)) - `ai/rag`
+154. [RAG System with LangChain and LangGraph - GeeksforGeeks](../../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) ([Source](https://geeksforgeeks.org/artificial-intelligence/rag-system-with-langchain-and-langgraph)) - `ai/rag`
+155. [Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](../../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md) ([Source](https://medium.com/@anish.chitturu/building-your-own-rag-system-from-scratch-a-step-by-step-guide-7186fcbb3b14)) - `ai/rag`
+156. [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) ([Source](https://kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch)) - `ai/rag`
+157. [7 Best GitHub Repositories For Mastering RAG Systems](../../ai/rag/7-best-github-repositories-for-mastering-rag-syste.md) ([Source](https://analyticsvidhya.com/blog/2025/10/github-repositories-for-mastering-rag-systems)) - `ai/rag`
+158. [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md) ([Source](https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-notes-part-1-d10bb5769280)) - `ai/rag`
+159. [RAG Chatbot Application🤖 | RAG](../../ai/rag/rag-chatbot-application-rag.md) ([Source](https://todap.github.io/rag)) - `ai/rag`
+160. [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md) ([Source](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355)) - `ai/rag`
+161. [Google Colab](../../ai/rag/google-colab.md) ([Source](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb)) - `ai/rag`
+162. [What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](../../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md) ([Source](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)) - `ai/rag`
+163. [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md) ([Source](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems)) - `ai/rag`
+164. [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) ([Source](https://nerdleveltech.com/guides/rag-hands-on-tutorial)) - `ai/rag`
+165. [The Ultimate List of Python RAG Projects on GitHub · Technical news about AI, coding and all](../../ai/rag/the-ultimate-list-of-python-rag-projects-on-github.md) ([Source](https://dasroot.net/posts/2026/03/python-rag-projects-github)) - `ai/rag`
+166. [Building a RAG Application - GeeksforGeeks](../../ai/rag/building-a-rag-application-geeksforgeeks.md) ([Source](https://geeksforgeeks.org/data-science/building-a-rag-application)) - `ai/rag`
 
 ## Weekly Research Insights
 
@@ -3611,12 +3613,12 @@ No updates collected under this section this week.
 80. [luosijie/threejs-examples](../../web-development/threejs/luosijie-threejs-examples.md) ([Source](https://github.com/luosijie/threejs-examples)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 81. [davidlyons/threejs-intro](../../web-development/threejs/davidlyons-threejs-intro.md) ([Source](https://github.com/davidlyons/threejs-intro)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 82. [fireship-io/threejs-scroll-animation-demo](../../web-development/threejs/fireship-io-threejs-scroll-animation-demo.md) ([Source](https://github.com/fireship-io/threejs-scroll-animation-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-83. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
-84. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+83. [pmndrs/react-three-fiber](../../web-development/react-three-fiber/pmndrs-react-three-fiber.md) ([Source](https://github.com/pmndrs/react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+84. [idflood/ThreeNodes.js](../../web-development/webgl/idflood-threenodes-js.md) ([Source](https://github.com/idflood/threenodes.js)) (Stars: 0, Language: Unknown) - `web-development/webgl`
 85. [mkkellogg/GaussianSplats3D](../../web-development/threejs/mkkellogg-gaussiansplats3d.md) ([Source](https://github.com/mkkellogg/gaussiansplats3d)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 86. [vasturiano/3d-force-graph](../../web-development/threejs/vasturiano-3d-force-graph.md) ([Source](https://github.com/vasturiano/3d-force-graph)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-87. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-88. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+87. [creativelifeform/three-nebula](../../web-development/threejs/creativelifeform-three-nebula.md) ([Source](https://github.com/creativelifeform/three-nebula)) (Stars: 0, Language: Unknown) - `web-development/threejs`
+88. [pixiv/three-vrm](../../web-development/threejs/pixiv-three-vrm.md) ([Source](https://github.com/pixiv/three-vrm)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 89. [gkjohnson/threejs-sandbox](../../web-development/threejs/gkjohnson-threejs-sandbox.md) ([Source](https://github.com/gkjohnson/threejs-sandbox)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 90. [xiao149/ThreeJsDemo](../../web-development/threejs/xiao149-threejsdemo.md) ([Source](https://github.com/xiao149/threejsdemo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 91. [puxiao/threejs-tutorial](../../web-development/threejs/puxiao-threejs-tutorial.md) ([Source](https://github.com/puxiao/threejs-tutorial)) (Stars: 0, Language: Unknown) - `web-development/threejs`
@@ -3631,81 +3633,81 @@ No updates collected under this section this week.
 100. [Mario343214420/Webgl-Data-Demo](../../web-development/threejs/mario343214420-webgl-data-demo.md) ([Source](https://github.com/mario343214420/webgl-data-demo)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 101. [josdirksen/learning-threejs-third](../../web-development/threejs/josdirksen-learning-threejs-third.md) ([Source](https://github.com/josdirksen/learning-threejs-third)) (Stars: 0, Language: Unknown) - `web-development/threejs`
 102. [nklsrh/BuildNewGames_ThreeJSGame](../../web-development/threejs/nklsrh-buildnewgames-threejsgame.md) ([Source](https://github.com/nklsrh/buildnewgames_threejsgame)) (Stars: 0, Language: Unknown) - `web-development/threejs`
-103. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-104. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-105. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-106. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-107. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-108. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-109. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-110. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-111. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-112. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-113. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-114. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-115. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-116. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-117. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-118. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-119. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-120. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-121. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-122. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-123. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-124. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-125. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-126. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
-127. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-128. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-129. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-130. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-131. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-132. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-133. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-134. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-135. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-136. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-137. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-138. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-139. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-140. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-141. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-142. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-143. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-144. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-145. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-146. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-147. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-148. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-149. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-150. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-151. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
-152. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
-153. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-154. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-155. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-156. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-157. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-158. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-159. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-160. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-161. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-162. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-163. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-164. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-165. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-166. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-167. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-168. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-169. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-170. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-171. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-172. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-173. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-174. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-175. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-176. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
-177. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+103. [EasyFrontendHQ/html-tailwindcss-components](../../web-development/tailwind/easyfrontendhq-html-tailwindcss-components.md) ([Source](https://github.com/easyfrontendhq/html-tailwindcss-components)) (Stars: 0, Language: Unknown) - `web-development/tailwind`
+104. [pmndrs/drei](../../web-development/react-three-fiber/pmndrs-drei.md) ([Source](https://github.com/pmndrs/drei)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+105. [wrongakram/R3F-Chairs](../../web-development/react-three-fiber/wrongakram-r3f-chairs.md) ([Source](https://github.com/wrongakram/r3f-chairs)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+106. [emmelleppi/codrops-r3f-mirrors](../../web-development/react-three-fiber/emmelleppi-codrops-r3f-mirrors.md) ([Source](https://github.com/emmelleppi/codrops-r3f-mirrors)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+107. [pmndrs/uikit](../../web-development/react-three-fiber/pmndrs-uikit.md) ([Source](https://github.com/pmndrs/uikit)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+108. [mohitvirli/mohitvirli.github.io](../../web-development/react-three-fiber/mohitvirli-mohitvirli-github-io.md) ([Source](https://github.com/mohitvirli/mohitvirli.github.io)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+109. [coldi/r3f-game-demo](../../web-development/react-three-fiber/coldi-r3f-game-demo.md) ([Source](https://github.com/coldi/r3f-game-demo)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+110. [pmndrs/react-three-next](../../web-development/react-three-fiber/pmndrs-react-three-next.md) ([Source](https://github.com/pmndrs/react-three-next)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+111. [gsimone/r3f-bubbles](../../web-development/react-three-fiber/gsimone-r3f-bubbles.md) ([Source](https://github.com/gsimone/r3f-bubbles)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+112. [14islands/r3f-scroll-rig](../../web-development/react-three-fiber/14islands-r3f-scroll-rig.md) ([Source](https://github.com/14islands/r3f-scroll-rig)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+113. [wass08/r3f-ultimate-character-configurator](../../web-development/react-three-fiber/wass08-r3f-ultimate-character-configurator.md) ([Source](https://github.com/wass08/r3f-ultimate-character-configurator)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+114. [pmndrs/react-three-flex](../../web-development/react-three-fiber/pmndrs-react-three-flex.md) ([Source](https://github.com/pmndrs/react-three-flex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+115. [anyone-yuren/degital-twin-3d](../../web-development/react-three-fiber/anyone-yuren-degital-twin-3d.md) ([Source](https://github.com/anyone-yuren/degital-twin-3d)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+116. [pmndrs/xr](../../web-development/react-three-fiber/pmndrs-xr.md) ([Source](https://github.com/pmndrs/xr)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+117. [Epiczzor/r3f-template](../../web-development/react-three-fiber/epiczzor-r3f-template.md) ([Source](https://github.com/epiczzor/r3f-template)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+118. [benjaminmiles/react-three-vite](../../web-development/react-three-fiber/benjaminmiles-react-three-vite.md) ([Source](https://github.com/benjaminmiles/react-three-vite)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+119. [juniorxsound/R3F.Multiplayer](../../web-development/react-three-fiber/juniorxsound-r3f-multiplayer.md) ([Source](https://github.com/juniorxsound/r3f.multiplayer)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+120. [pmndrs/react-postprocessing](../../web-development/react-three-fiber/pmndrs-react-postprocessing.md) ([Source](https://github.com/pmndrs/react-postprocessing)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+121. [gsimone/awesome-react-three-fiber](../../web-development/react-three-fiber/gsimone-awesome-react-three-fiber.md) ([Source](https://github.com/gsimone/awesome-react-three-fiber)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+122. [pmndrs/triplex](../../web-development/react-three-fiber/pmndrs-triplex.md) ([Source](https://github.com/pmndrs/triplex)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+123. [pmndrs/use-cannon](../../web-development/react-three-fiber/pmndrs-use-cannon.md) ([Source](https://github.com/pmndrs/use-cannon)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+124. [whoisryosuke/r3f-next-starter](../../web-development/react-three-fiber/whoisryosuke-r3f-next-starter.md) ([Source](https://github.com/whoisryosuke/r3f-next-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+125. [ektogamat/r3f-webgpu-starter](../../web-development/react-three-fiber/ektogamat-r3f-webgpu-starter.md) ([Source](https://github.com/ektogamat/r3f-webgpu-starter)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+126. [emmelleppi/r3f-cheers](../../web-development/react-three-fiber/emmelleppi-r3f-cheers.md) ([Source](https://github.com/emmelleppi/r3f-cheers)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+127. [TiagoCavalcante/r3f-native-orbitcontrols](../../web-development/react-three-fiber/tiagocavalcante-r3f-native-orbitcontrols.md) ([Source](https://github.com/tiagocavalcante/r3f-native-orbitcontrols)) (Stars: 0, Language: Unknown) - `web-development/react-three-fiber`
+128. [iamshaunjp/framer-motion](../../web-development/framer-motion/iamshaunjp-framer-motion.md) ([Source](https://github.com/iamshaunjp/framer-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+129. [google-research/frame-interpolation](../../web-development/framer-motion/google-research-frame-interpolation.md) ([Source](https://github.com/google-research/frame-interpolation)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+130. [adrianhajdin/project_metaverse](../../web-development/framer-motion/adrianhajdin-project-metaverse.md) ([Source](https://github.com/adrianhajdin/project_metaverse)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+131. [sanidhyy/modern-portfolio](../../web-development/framer-motion/sanidhyy-modern-portfolio.md) ([Source](https://github.com/sanidhyy/modern-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+132. [builduilabs/framer-motion-recipes](../../web-development/framer-motion/builduilabs-framer-motion-recipes.md) ([Source](https://github.com/builduilabs/framer-motion-recipes)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+133. [TomIsLoading/framer-motion-crash-course](../../web-development/framer-motion/tomisloading-framer-motion-crash-course.md) ([Source](https://github.com/tomisloading/framer-motion-crash-course)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+134. [frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects](../../web-development/framer-motion/frontendfyi-scroll-animations-with-framer-motion-codesandbox-projects.md) ([Source](https://github.com/frontendfyi/scroll-animations-with-framer-motion-codesandbox-projects)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+135. [wrongakram/framermotion-react-router](../../web-development/framer-motion/wrongakram-framermotion-react-router.md) ([Source](https://github.com/wrongakram/framermotion-react-router)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+136. [uixmat/onborda](../../web-development/framer-motion/uixmat-onborda.md) ([Source](https://github.com/uixmat/onborda)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+137. [anl331/goey-toast](../../web-development/framer-motion/anl331-goey-toast.md) ([Source](https://github.com/anl331/goey-toast)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+138. [wrongakram/nextjs-page-transitions](../../web-development/framer-motion/wrongakram-nextjs-page-transitions.md) ([Source](https://github.com/wrongakram/nextjs-page-transitions)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+139. [realstoman/react-tailwindcss-portfolio](../../web-development/framer-motion/realstoman-react-tailwindcss-portfolio.md) ([Source](https://github.com/realstoman/react-tailwindcss-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+140. [frontendfyi/rebuilding-linear.app](../../web-development/framer-motion/frontendfyi-rebuilding-linear-app.md) ([Source](https://github.com/frontendfyi/rebuilding-linear.app)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+141. [K-H-Rayhan/nextjs-animated-slider](../../web-development/framer-motion/k-h-rayhan-nextjs-animated-slider.md) ([Source](https://github.com/k-h-rayhan/nextjs-animated-slider)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+142. [ChrisAbdo/MotionVariants](../../web-development/framer-motion/chrisabdo-motionvariants.md) ([Source](https://github.com/chrisabdo/motionvariants)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+143. [iamshaunjp/firegram](../../web-development/framer-motion/iamshaunjp-firegram.md) ([Source](https://github.com/iamshaunjp/firegram)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+144. [jiangbo2015/framer-motion-carousel](../../web-development/framer-motion/jiangbo2015-framer-motion-carousel.md) ([Source](https://github.com/jiangbo2015/framer-motion-carousel)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+145. [Codefreyy/joy-personal-portfolio](../../web-development/framer-motion/codefreyy-joy-personal-portfolio.md) ([Source](https://github.com/codefreyy/joy-personal-portfolio)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+146. [kheruc/rt-next-motion](../../web-development/framer-motion/kheruc-rt-next-motion.md) ([Source](https://github.com/kheruc/rt-next-motion)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+147. [fireship-io/framer-demo](../../web-development/framer-motion/fireship-io-framer-demo.md) ([Source](https://github.com/fireship-io/framer-demo)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+148. [SikandarJODD/svelte-animations](../../web-development/framer-motion/sikandarjodd-svelte-animations.md) ([Source](https://github.com/sikandarjodd/svelte-animations)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+149. [itsfaqih/fama](../../web-development/framer-motion/itsfaqih-fama.md) ([Source](https://github.com/itsfaqih/fama)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+150. [braydoncoyer/braydoncoyer.dev](../../web-development/framer-motion/braydoncoyer-braydoncoyer-dev.md) ([Source](https://github.com/braydoncoyer/braydoncoyer.dev)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+151. [codebucks27/react-portfolio-final](../../web-development/framer-motion/codebucks27-react-portfolio-final.md) ([Source](https://github.com/codebucks27/react-portfolio-final)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+152. [kartikk-k/dashboard-ui](../../web-development/framer-motion/kartikk-k-dashboard-ui.md) ([Source](https://github.com/kartikk-k/dashboard-ui)) (Stars: 0, Language: Unknown) - `web-development/framer-motion`
+153. [gpuweb/gpuweb](../../web-development/webgpu/gpuweb-gpuweb.md) ([Source](https://github.com/gpuweb/gpuweb)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+154. [brendan-duncan/wgsl_reflect](../../web-development/webgpu/brendan-duncan-wgsl-reflect.md) ([Source](https://github.com/brendan-duncan/wgsl_reflect)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+155. [hjlld/LearningWebGPU](../../web-development/webgpu/hjlld-learningwebgpu.md) ([Source](https://github.com/hjlld/learningwebgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+156. [google/tour-of-wgsl](../../web-development/webgpu/google-tour-of-wgsl.md) ([Source](https://github.com/google/tour-of-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+157. [Orillusion/orillusion](../../web-development/webgpu/orillusion-orillusion.md) ([Source](https://github.com/orillusion/orillusion)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+158. [webgpu/webgpu-samples](../../web-development/webgpu/webgpu-webgpu-samples.md) ([Source](https://github.com/webgpu/webgpu-samples)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+159. [brendan-duncan/webgpu_inspector](../../web-development/webgpu/brendan-duncan-webgpu-inspector.md) ([Source](https://github.com/brendan-duncan/webgpu_inspector)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+160. [ChartGPU/ChartGPU](../../web-development/webgpu/chartgpu-chartgpu.md) ([Source](https://github.com/chartgpu/chartgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+161. [doodlewind/beam](../../web-development/webgpu/doodlewind-beam.md) ([Source](https://github.com/doodlewind/beam)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+162. [szebniok/tree-sitter-wgsl](../../web-development/webgpu/szebniok-tree-sitter-wgsl.md) ([Source](https://github.com/szebniok/tree-sitter-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+163. [takahirox/online-wgsl-editor](../../web-development/webgpu/takahirox-online-wgsl-editor.md) ([Source](https://github.com/takahirox/online-wgsl-editor)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+164. [redcamel/RedGPU](../../web-development/webgpu/redcamel-redgpu.md) ([Source](https://github.com/redcamel/redgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+165. [wgsl-analyzer/wgsl-analyzer](../../web-development/webgpu/wgsl-analyzer-wgsl-analyzer.md) ([Source](https://github.com/wgsl-analyzer/wgsl-analyzer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+166. [PolyMeilex/vscode-wgsl](../../web-development/webgpu/polymeilex-vscode-wgsl.md) ([Source](https://github.com/polymeilex/vscode-wgsl)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+167. [webgpu-tools/wesl-rs](../../web-development/webgpu/webgpu-tools-wesl-rs.md) ([Source](https://github.com/webgpu-tools/wesl-rs)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+168. [webgpu/webgpufundamentals](../../web-development/webgpu/webgpu-webgpufundamentals.md) ([Source](https://github.com/webgpu/webgpufundamentals)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+169. [patriciogonzalezvivo/lygia](../../web-development/webgpu/patriciogonzalezvivo-lygia.md) ([Source](https://github.com/patriciogonzalezvivo/lygia)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+170. [playcanvas/engine](../../web-development/webgpu/playcanvas-engine.md) ([Source](https://github.com/playcanvas/engine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+171. [GEngine-js/GEngine](../../web-development/webgpu/gengine-js-gengine.md) ([Source](https://github.com/gengine-js/gengine)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+172. [mikbry/awesome-webgpu](../../web-development/webgpu/mikbry-awesome-webgpu.md) ([Source](https://github.com/mikbry/awesome-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+173. [rajveermalviya/go-webgpu](../../web-development/webgpu/rajveermalviya-go-webgpu.md) ([Source](https://github.com/rajveermalviya/go-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+174. [gnikoloff/webgpu-raytracer](../../web-development/webgpu/gnikoloff-webgpu-raytracer.md) ([Source](https://github.com/gnikoloff/webgpu-raytracer)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+175. [SuboptimalEng/slime-sim-webgpu](../../web-development/webgpu/suboptimaleng-slime-sim-webgpu.md) ([Source](https://github.com/suboptimaleng/slime-sim-webgpu)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+176. [gnikoloff/webgpu-sponza-demo](../../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md) ([Source](https://github.com/gnikoloff/webgpu-sponza-demo)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
+177. [dgreenheck/webgpu-claude-skill](../../web-development/webgpu/dgreenheck-webgpu-claude-skill.md) ([Source](https://github.com/dgreenheck/webgpu-claude-skill)) (Stars: 0, Language: Unknown) - `web-development/webgpu`
 178. [nobruf/shadcn-landing-page](../../web-development/nextjs/nobruf-shadcn-landing-page.md) ([Source](https://github.com/nobruf/shadcn-landing-page)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
 179. [shadcnblocks/mainline-nextjs-template](../../web-development/nextjs/shadcnblocks-mainline-nextjs-template.md) ([Source](https://github.com/shadcnblocks/mainline-nextjs-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
 180. [shadcnstore/shadcn-dashboard-landing-template](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md) ([Source](https://github.com/shadcnstore/shadcn-dashboard-landing-template)) (Stars: 0, Language: Unknown) - `web-development/nextjs`
@@ -3766,7 +3768,7 @@ No updates collected under this section this week.
 - [Prompt Engineering](../../skills/prompt-engineering.md) (93 updates)
 - [Three.js & WebGL](../../skills/threejs.md) (88 updates)
 - [Local LLMs & Inference](../../skills/local-llm.md) (75 updates)
-- [FastAPI](../../skills/fastapi.md) (33 updates)
+- [FastAPI](../../skills/fastapi.md) (32 updates)
 
 ## Recommended Projects To Build
 
@@ -3775,4 +3777,4 @@ No updates collected under this section this week.
 
 ## Generated At
 
-2026-06-18T10:34:01.997356+05:30
+2026-06-18T14:46:34.481781+05:30

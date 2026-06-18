@@ -887,6 +887,11 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `hackernews`, `models`, `openai`, `paper`, `web-crawled`, `workflows`
   * Source URL: <https://www.w3reference.com/blog/crewai-a-practical-guide-to-role-based-agent-orchestration>
 
+* **[crewAIInc/crewAI Release: 1.14.8a](ai/rag/crewaiinc-crewai.md)** (`tutorial` | `useful` tier)
+  * Summary: ## What's Changed
+  * Tags: `agents`, `crewaiinc-crewai`, `github-release`
+  * Source URL: <https://github.com/crewaiinc/crewai>
+
 * **[Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security Flaws | Markaicode](ai/agents/critical-zero-day-vulnerabilities-in-ai-agent-fram.md)** (`framework` | `useful` tier)
   * Summary: Critical Zero-Day Vulnerabilities in AI Agent Frameworks (2025): Patching AutoGen 2.8 Security FlawsLearn how to patch critical zero-day vulnerabilities in AutoGen 2.8 AI agent frameworks. Essential security fixes for AI developers using Microsoft's
   * Tags: `agents`, `mistral`, `models`, `web-crawled`
@@ -4035,7 +4040,7 @@ All resources are linked to their local vault paths and preserve original source
   * Source URL: <https://arxiv.org/abs/2606.14718>
 
 * **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by zachdive. Score: 172, Comments: 84. Original Link: https://github.com/Adam-CAD/CADAM
+  * Summary: Hacker News story by zachdive. Score: 182, Comments: 86. Original Link: https://github.com/Adam-CAD/CADAM
   * Tags: `ai`, `hackernews`, `producthunt`
   * Source URL: <https://github.com/adam-cad/cadam>
 
@@ -4183,11 +4188,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `anthropic`, `dataset`, `hackernews`, `meta-ai`, `models`, `openai`, `rag`, `reddit`, `scripts`, `web-crawled`, `workflows`
   * Source URL: <https://www.kdnuggets.com/7-steps-to-build-a-simple-rag-system-from-scratch>
 
-* **[[x86] AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (`workflow` | `useful` tier)
-  * Summary: Hacker News story by matt_d. Score: 21, Comments: 10. Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
-  * Tags: `ai`, `hackernews`
-  * Source URL: <https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification>
-
 * **[A Clinician-Centered Pipeline for Annotation and Evaluation in Ultrasound AI Studies](ai/research/arxiv-2606-19174.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2606.19174v1 Announce Type: cross Abstract: Clinician-centered evaluation is critical for validating medical AI systems, especially in ultrasound imaging where quantitative metrics do not always capture clinical usability. Existing medical imag
   * Tags: `benchmark`, `dataset`, `workflows`
@@ -4257,6 +4257,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: Artificial AnalysisArtificial AnalysisModelsCoding AgentsSpeech, Image, Video, MusicHardwareLeaderboardsAboutAI TrendsArenasKArtificial Analysis Coding Agent BenchmarksWe measure real-world performance of coding agents on software engineering tasks,
   * Tags: `agents`, `anthropic`, `benchmark`, `hackernews`, `leaderboard`, `openai`, `rag`, `reddit`, `web-crawled`, `workflows`, `youtube`
   * Source URL: <https://artificialanalysis.ai/agents/coding-agents>
+
+* **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by matt_d. Score: 34, Comments: 16. Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification>
 
 * **[AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude](ai/research/arxiv-2606-12424.md)** (`workflow` | `useful` tier)
   * Summary: arXiv:2606.12424v1 Announce Type: cross Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful,
@@ -4847,6 +4852,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: arXiv:2602.08306v2 Announce Type: replace Abstract: Textual Gradient-style optimizers (TextGrad) enable gradient-like feedback propagation through compound AI systems. However, they do not work well for deep chains. The root cause of this limitation
   * Tags: `agents`, `rag`, `workflows`
   * Source URL: <https://arxiv.org/abs/2602.08306>
+
+* **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (`workflow` | `useful` tier)
+  * Summary: Hacker News story by anitil. Score: 87, Comments: 47. Original Link: https://www.acma.gov.au/sms-sender-id-register
+  * Tags: `ai`, `hackernews`
+  * Source URL: <https://acma.gov.au/sms-sender-id-register>
 
 * **[The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md)** (`framework` | `useful` tier)
   * Summary: Home » PostsThe Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation SystemsJanuary 6, 2026 · 5 min · 944 words · martinuke0Table of ContentsWhat is RAG and Why Frameworks MatterTop 5 Best RAG Framewo
@@ -18933,11 +18943,6 @@ All resources are linked to their local vault paths and preserve original source
   * Tags: `agents`, `models`, `openai`, `rag`, `scripts`, `web-crawled`, `youtube`
   * Source URL: <https://www.devshelfhub.com/tutorials/crewai/best-practices>
 
-* **[crewAIInc/crewAI Release: 1.14.7](ai/rag/crewaiinc-crewai.md)** (`benchmark` | `useful` tier)
-  * Summary: ## What's Changed
-  * Tags: `agents`, `anthropic`, `benchmark`, `crewaiinc-crewai`, `github-release`, `rag`
-  * Source URL: <https://github.com/crewaiinc/crewai>
-
 * **[Critically Engaged Pragmatism: Scientific Norm and Social, Pragmatist Epistemology for AI Science Evaluation Tools](ai/rag/arxiv-2601-09753.md)** (`framework` | `useful` tier)
   * Summary: arXiv:2601.09753v2 Announce Type: replace-cross Abstract: AI science evaluation tools aim to assess research credibility. As with traditional metrics such as impact factors, their edicts can be decontextualised and repurposed in problematic ways. To
   * Tags: `benchmark`, `rag`
@@ -20832,6 +20837,11 @@ All resources are linked to their local vault paths and preserve original source
   * Summary: AGENTS 🤖: if you were sent here for guidelines, keep your context small and stay in the TREC RAG 2026 Track Guidelines SKILL. For other track skills, use TREC-RAG/trec-rag-skills 🙂 Key Information (New) Guidelines have been released! You can find the
   * Tags: `agents`, `benchmark`, `rag`, `web-crawled`
   * Source URL: <https://trec-rag.github.io>
+
+* **[RAG Chatbot Application🤖 | RAG](ai/rag/rag-chatbot-application-rag.md)** (`benchmark` | `useful` tier)
+  * Summary: RAG RAG Chatbot Application🤖 Introduction This project implements a Context-Awarew Retrieval-Augmented Generation (RAG) chatbot using Streamlit.The chatbot is powered by the Mistral-7B-Instruct-v0.3 language model integrated with ChromaDB as vector d
+  * Tags: `mistral`, `models`, `rag`, `web-crawled`
+  * Source URL: <https://todap.github.io/RAG>
 
 * **[RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)** (`benchmark` | `useful` tier)
   * Summary: RAG Tutorial 2025: Complete Course Notes — Part 1Pragati Mehra41 min read·Jan 27, 2026--ListenShareThanks to Harish Neel Sir for this amazing tutorial.Note: This is a raw word-to-word transcript of the entire video. It requires editing.VIDEO 01: Comp

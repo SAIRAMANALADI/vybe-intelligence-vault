@@ -25,7 +25,7 @@ Recently detected signals:
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-18
 - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md) (Source: Unknown Source) - Collected 2026-06-18
 - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) (Source: Unknown Source) - Collected 2026-06-18
+- [7 Steps to Build a Simple RAG System from Scratch - KDnuggets](../ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -226,60 +226,60 @@ Recently detected signals:
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 40. [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: crewAIInc/crewAI
-
-### 41. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
+### 40. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
 - Stars: 0
 - Language: Unknown
 - Description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task b...
 
-### 42. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 41. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 43. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md) ([GitHub](https://github.com/davidzwz/awesome-deep-research))
+### 42. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md) ([GitHub](https://github.com/davidzwz/awesome-deep-research))
 - Stars: 0
 - Language: Unknown
 - Description: [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources
 
-### 44. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 43. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 45. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
+### 44. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: AI Assistant for FMBench (foundation model benchmarking tool)
 
-### 46. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) ([GitHub](https://github.com/pydantic/pydantic-ai))
+### 45. [pydantic/pydantic-ai Release: v2.0.0b7 (2026-06-10)](../ai/rag/pydantic-pydantic-ai.md) ([GitHub](https://github.com/pydantic/pydantic-ai))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: pydantic/pydantic-ai
 
-### 47. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([GitHub](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
+### 46. [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md) ([GitHub](https://github.com/community-dreams-foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-template-repository))
 - Stars: 0
 - Language: Unknown
 - Description: agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository created by GitHub Classroom
 
-### 48. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
+### 47. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
 - Stars: 0
 - Language: Unknown
 - Description: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate...
 
-### 49. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md) ([GitHub](https://github.com/timan-group/plugmem))
+### 48. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md) ([GitHub](https://github.com/timan-group/plugmem))
 - Stars: 0
 - Language: Unknown
 - Description: ICML 2026 · Plug-and-play long-term memory for LLM agents
 
-### 50. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
+### 49. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: This project leverages AI tools to automate the process of fetching code from a GitHub repository and generating comprehensive documentation for it.
+
+### 50. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
+- Stars: 0
+- Language: Unknown
+- Description: Comprehensive ML/AI interview codex with iterative system design, production-ready code, and 2026 standards. Includes LLM/GenAI, RAG systems, agentic AI, and algorithms from scratch.
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T10:33:59.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T14:46:32.108888+05:30.566526+05:30.572879+05:30.703581+05:30.178034+05:30.184557+05:30.269178+05:30.637403+05:30.157896+05:30.453953+05:30.290326+05:30.650269+05:30.834135+05:30.447268+05:30.796297+05:30.263474+05:30.223560+05:30.

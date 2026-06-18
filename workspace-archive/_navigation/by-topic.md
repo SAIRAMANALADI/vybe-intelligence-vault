@@ -3,11 +3,11 @@ This index groups the workspace archive categories into high-level thematic clus
 
 ## Agentic AI Development
 
-- **[AI Coding Agents](../ai-coding-agents/README.md)** (755 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
+- **[AI Coding Agents](../ai-coding-agents/README.md)** (756 files): Coding agents, AI IDEs, software engineering agents, and repository workflows for AI-assisted development.
 - **[Agent Instructions](../agent-instructions/README.md)** (1 files): Repository instruction files and coding-agent rule formats such as AGENTS.md, CLAUDE.md, cursor rules, and copilot instructions.
 - **[MCP Registry](../mcp-registry/README.md)** (67 files): Public MCP server registries, MCP server metadata, MCP tool directories, and MCP integration guidance.
 - **[Agent Frameworks](../agent-frameworks/README.md)** (816 files): Frameworks and examples for tool calling, agent orchestration, and multi-agent systems.
-- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (840 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
+- **[AI Browser and Computer Use](../ai-browser-computer-use/README.md)** (841 files): Browser agents, computer-use agents, Playwright automation, Selenium automation, web navigation agents, and UI automation.
 
 ## Retrieval & Knowledge Stack (RAG)
 
@@ -26,7 +26,7 @@ This index groups the workspace archive categories into high-level thematic clus
 ## Prompt Libraries & Automation Workflows
 
 - **[Prompt Libraries](../prompt-libraries/README.md)** (29 files): System prompts, agent prompts, coding prompts, prompt templates, role prompts, and prompt engineering examples.
-- **[Automation Workflows](../automation-workflows/README.md)** (296 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
+- **[Automation Workflows](../automation-workflows/README.md)** (297 files): Local automation, n8n, browser automation, GitHub Actions examples, Python scripts, cron, and task scheduler workflows.
 - **[AI Tools and Products](../ai-tools-products/README.md)** (32 files): AI tools, product directories, launch directories, open-source AI products, productivity tools, and developer tooling.
 
 ## Creative 3D Dev & Frontend Interfaces
@@ -43,4 +43,4 @@ This index groups the workspace archive categories into high-level thematic clus
 - **[Startup Builder](../startup-builder/README.md)** (36 files): AI startup ideas, SaaS ideas, MVP templates, launch checklists, pricing examples, landing pages, and growth automation.
 
 ---
-*Last updated: 2026-06-18 10:34 IST*
+*Last updated: 2026-06-18 14:47 IST*

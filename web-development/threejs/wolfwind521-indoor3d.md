@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/wolfwind521/indoor3d
-collected_at: '2026-06-16T17:27:23.869412+05:30'
-published_at: '2026-06-12T07:42:00Z'
+collected_at: '2026-06-18T14:43:52.983115+05:30'
+published_at: '2026-06-18T07:02:09Z'
 tags:
 - threejs
-stars: 758
+stars: 757
 language: JavaScript
 status: active
 resource_id: github:wolfwind521/indoor3d
 first_seen: '2026-06-12T10:40:14.585903+00:00'
-last_seen: '2026-06-16T17:27:23.869412+05:30'
-last_checked: '2026-06-16T17:27:23.869412+05:30'
+last_seen: '2026-06-18T14:43:52.983115+05:30'
+last_checked: '2026-06-18T14:43:52.983115+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: wolfwind521
-- Stars: 758
+- Stars: 757
 - Forks: 243
 - Language: JavaScript
 - Topics: 3d-map, canvas, indoormap, javascript, threejs, webgl
-- Last Updated: 2026-06-12T07:42:00Z
+- Last Updated: 2026-06-18T07:02:09Z
 
 ## Possible Use Cases
 

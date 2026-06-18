@@ -5,11 +5,11 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://github.com/adam-cad/cadam
 hn_url: https://news.ycombinator.com/item?id=48572553
-score: 172
+score: 182
 author: zachdive
-comments_count: 84
+comments_count: 86
 published_at: '2026-06-17T21:44:04+05:30'
-collected_at: '2026-06-18T10:31:16.900221+05:30'
+collected_at: '2026-06-18T14:43:55.322814+05:30'
 tags:
 - ai
 - hackernews
@@ -17,8 +17,8 @@ tags:
 status: active
 resource_id: github:adam-cad/cadam
 first_seen: '2026-06-18T02:03:05.167057+05:30'
-last_seen: '2026-06-18T10:31:16.900221+05:30'
-last_checked: '2026-06-18T10:31:16.900221+05:30'
+last_seen: '2026-06-18T14:43:55.322814+05:30'
+last_checked: '2026-06-18T14:43:55.322814+05:30'
 health_score: 100
 ---
 
@@ -26,7 +26,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by zachdive. Score: 172, Comments: 84.
+Hacker News story by zachdive. Score: 182, Comments: 86.
 Original Link: https://github.com/Adam-CAD/CADAM
 
 ## Why It Matters
@@ -36,8 +36,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: zachdive
-- Score: 172 Upvotes
-- Comments: 84 Discussions
+- Score: 182 Upvotes
+- Comments: 86 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48572553
 - Original Article: https://github.com/adam-cad/cadam
 

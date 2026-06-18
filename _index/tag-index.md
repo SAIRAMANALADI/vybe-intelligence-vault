@@ -971,7 +971,7 @@ Resources organized by keyword tags.
   - [codewithaarohi/OpenAI-Agents-SDK-](../ai/agents/codewithaarohi-openai-agents-sdk-2.md)
   - [coleam00/pydantic-ai-github-agent](../ai/agents/coleam00-pydantic-ai-github-agent.md)
   - [continuedev/continue](../ai/agents/continuedev-continue.md)
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
+  - [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md)
   - [croppers/crewai](../ai/agents/croppers-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](../ai/agents/arxiv-2606-16497.md)
@@ -1062,8 +1062,9 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
   - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
-  - [[x86] AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
+  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
 
 ## animation
 
@@ -1237,7 +1238,6 @@ Resources organized by keyword tags.
   - [aden-hive/hive](../ai/agents/aden-hive-hive.md)
   - [affaan-m/agentshield](../ai/agents/affaan-m-agentshield.md)
   - [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md)
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [dgreenheck/webgpu-claude-skill](../web-development/webgpu/dgreenheck-webgpu-claude-skill.md)
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
@@ -2635,7 +2635,6 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [abacaj/code-eval](../ai/resources/abacaj-code-eval.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md)
   - [dyronrh/awesome-agentops-landscape](../ai/agents/dyronrh-awesome-agentops-landscape.md)
   - [findsylls: A Language-Agnostic Toolkit for Syllable-Level Speech Tokenization and Embedding](../ai/rag/arxiv-2603-26292.md)
@@ -2754,7 +2753,7 @@ Resources organized by keyword tags.
 
 ## crewaiinc-crewai
 
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
+  - [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md)
 
 ## dataset
 
@@ -3837,7 +3836,7 @@ Resources organized by keyword tags.
 
 ## github-release
 
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
+  - [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md)
   - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
   - [langchain-ai/langchain Release: langchain-openai==1.3.2](../ai/releases/langchain-ai-langchain.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
@@ -4116,6 +4115,7 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
+  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
   - [AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks](../ai/research/arxiv-2606-11533.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/ai-watermarking-101-tools-and-techniques.md)
@@ -4436,6 +4436,7 @@ Resources organized by keyword tags.
   - [Testing For Distribution Shifts with Conditional Conformal Test Martingales](../ai/research/arxiv-2602-13848.md)
   - [The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance](../ai/rag/arxiv-2606-12415.md)
   - [The Accountability Paradox: How Platform API Restrictions Undermine AI Transparency Mandates](../ai/research/arxiv-2505-11577.md)
+  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
   - [The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review](../ai/rag/arxiv-2606-12423.md)
   - [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md)
   - [The Complete Guide to RAG: Naive, Advanced, and Graph RAG in One Document | Mr. Latte](../ai/rag/the-complete-guide-to-rag-naive-advanced-and-graph.md)
@@ -4479,7 +4480,6 @@ Resources organized by keyword tags.
   - [Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning](../ai/rag/arxiv-2606-17035.md)
   - [Z-Plane Neural Networks: Bounded Geometric Activation Replaces ReLU and LayerNorm](../ai/research/arxiv-2606-15669.md)
   - [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/arxiv-2501-07391.md)
-  - [[x86] AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
   - [daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](../ai/agents/arxiv-2606-16497.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md)
@@ -4808,6 +4808,7 @@ Resources organized by keyword tags.
   - [PermDoRA -- Understanding Adapter Interference in Language Models: Limits of Parameter-Space Geometry](../ai/rag/arxiv-2606-11262.md)
   - [Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI](../ai/companies/mistral/product-workflows-for-work-that-runs-the-business.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Tutorial 2025: Complete Course Notes — Part 1 | by Pragati Mehra | Medium](../ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md)
   - [Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral](../ai/companies/mistral/research-physics-ai-research-thats-shaping-the-ind.md)
   - [RippleBench: Capturing Ripple Effects Using Existing Knowledge Repositories](../ai/rag/arxiv-2512-04144.md)
@@ -5389,6 +5390,7 @@ Resources organized by keyword tags.
   - [Quanto: a PyTorch quantization backend for Optimum](../ai/models/quanto-a-pytorch-quantization-backend-for-optimum.md)
   - [Quantum Annealing Enhanced Reinforcement Learning for Accurate Remaining Useful Lifetime Prediction](../ai/rag/arxiv-2606-18503.md)
   - [Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models](../ai/research/arxiv-2606-17102.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
@@ -7465,6 +7467,7 @@ Resources organized by keyword tags.
   - [Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics](../ai/rag/arxiv-2606-12476.md)
   - [R1-SyntheticVL: Is Synthetic Data from Generative Models Ready for Multimodal Large Language Model?](../ai/rag/arxiv-2602-03300.md)
   - [RAG](../ai/rag/rag.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
@@ -7795,7 +7798,6 @@ Resources organized by keyword tags.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
   - [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md)
   - [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md)
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
   - [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md)
   - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/hello-agents](../ai/rag/datawhalechina-hello-agents.md)
@@ -8363,6 +8365,7 @@ Resources organized by keyword tags.
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
   - [RAG](../ai/rag/rag.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
@@ -8961,4 +8964,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-18T10:34:02.685725+05:30*
+*Index generated on 2026-06-18T14:46:35.171979+05:30*

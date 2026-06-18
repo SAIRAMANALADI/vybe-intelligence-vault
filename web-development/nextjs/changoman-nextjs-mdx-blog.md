@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/changoman/nextjs-mdx-blog
-collected_at: '2026-06-17T20:12:13.616734+05:30'
-published_at: '2026-06-17T12:56:43Z'
+collected_at: '2026-06-18T14:43:53.608949+05:30'
+published_at: '2026-06-18T06:38:48Z'
 tags:
 - frontend_ui
-stars: 431
+stars: 432
 language: TypeScript
 status: active
 resource_id: github:changoman/nextjs-mdx-blog
 first_seen: '2026-06-11T08:45:43.851251+00:00'
-last_seen: '2026-06-17T20:12:13.616734+05:30'
-last_checked: '2026-06-17T20:12:13.616734+05:30'
+last_seen: '2026-06-18T14:43:53.608949+05:30'
+last_checked: '2026-06-18T14:43:53.608949+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: ChangoMan
-- Stars: 431
+- Stars: 432
 - Forks: 172
 - Language: TypeScript
 - Topics: mdx, nextjs, tailwindcss, typescript
-- Last Updated: 2026-06-17T12:56:43Z
+- Last Updated: 2026-06-18T06:38:48Z
 
 ## Possible Use Cases
 

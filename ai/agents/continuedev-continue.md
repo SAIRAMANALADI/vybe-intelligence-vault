@@ -4,8 +4,8 @@ category: ai/agents
 source_type: github_trending
 source_name: GitHub Trending AI
 source_url: https://github.com/continuedev/continue
-published_at: '2026-06-18T10:31:16.679997+05:30'
-collected_at: '2026-06-18T10:31:16.679999+05:30'
+published_at: '2026-06-18T14:43:54.587201+05:30'
+collected_at: '2026-06-18T14:43:54.587204+05:30'
 tags:
 - agents
 - github-trending
@@ -13,8 +13,8 @@ tags:
 status: active
 resource_id: github:continuedev/continue
 first_seen: '2026-06-17T16:47:27.410850+05:30'
-last_seen: '2026-06-18T10:31:16.679999+05:30'
-last_checked: '2026-06-18T10:31:16.679999+05:30'
+last_seen: '2026-06-18T14:43:54.587204+05:30'
+last_checked: '2026-06-18T14:43:54.587204+05:30'
 health_score: 100
 ---
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Trending AI
 - Category: ai/agents
-- Published: 2026-06-18T10:31:16.679997+05:30
+- Published: 2026-06-18T14:43:54.587201+05:30
 
 ## Related Tags
 

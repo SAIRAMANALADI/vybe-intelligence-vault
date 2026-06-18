@@ -1,5 +1,5 @@
 ---
-title: '[x86] AI Compute Extensions (ACE) Specification'
+title: AI Compute Extensions (ACE) Specification
 archive_category: automation-workflows
 source_category: ai/community
 source_url: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification
@@ -18,7 +18,7 @@ selection_reason:
 - Valuable developer reference
 ---
 
-# [x86] AI Compute Extensions (ACE) Specification
+# AI Compute Extensions (ACE) Specification
 
 ## Why This Is In The Archive
 
@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by matt_d. Score: 21, Comments: 10.
+Hacker News story by matt_d. Score: 34, Comments: 16.
 Original Link: https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/
 
 ## Use Cases

@@ -4,6 +4,7 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
+| [crewAIInc/crewAI Release: 1.14.8a](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) | `ai-coding-agents/` | 70 |
 | [ed-donner/production](https://github.com/ed-donner/production) | `ai-coding-agents/` | 70 |
 | [razzant/ouroboros](https://github.com/razzant/ouroboros) | `ai-coding-agents/` | 70 |
-| [hoodini/ai-agents-skills](https://github.com/hoodini/ai-agents-skills) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

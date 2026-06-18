@@ -3657,7 +3657,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: github_releases)
 
-  - [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md)
+  - [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md)
   - [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md)
   - [langchain-ai/langchain Release: langchain-openai==1.3.2](../ai/releases/langchain-ai-langchain.md)
   - [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md)
@@ -3685,8 +3685,9 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
   - [Launch HN: Adam (YC W25) – Open-Source AI CAD](../ai/community/adam-cad-cadam.md)
-  - [[x86] AI Compute Extensions (ACE) Specification](../ai/community/x86-ai-compute-extensions-ace-specification.md)
+  - [The Australian Government to Require SMS/MMS Sender ID Registraion](../ai/community/the-australian-government-to-require-sms-mms-sende.md)
 
 ## Unknown Source (type: huggingface)
 
@@ -4671,6 +4672,7 @@ Resources organized by publisher feed and query sources.
   - [Planning the design of your production-grade RAG system](../ai/rag/planning-the-design-of-your-production-grade-rag-s.md)
   - [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
   - [RAG](../ai/rag/rag.md)
+  - [RAG Chatbot Application🤖 | RAG](../ai/rag/rag-chatbot-application-rag.md)
   - [RAG Examples: 15 Real Use Cases from Companies in 2026](../ai/rag/rag-examples-15-real-use-cases-from-companies-in-2.md)
   - [RAG Frameworks: LangChain vs LangGraph vs LlamaIndex](../ai/rag/rag-frameworks-langchain-vs-langgraph-vs-llamainde.md)
   - [RAG Production Guide 2026: Retrieval-Augmented Generation | Lushbinary](../ai/rag/rag-production-guide-2026-retrieval-augmented-gene.md)
@@ -4718,4 +4720,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-18T10:34:02.738270+05:30*
+*Index generated on 2026-06-18T14:46:35.222790+05:30*

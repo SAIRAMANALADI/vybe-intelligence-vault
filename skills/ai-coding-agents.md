@@ -80,205 +80,205 @@ Recently detected signals:
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 11. [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: crewAIInc/crewAI
-
-### 12. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
+### 11. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [ICLR 2026] Youtu-GraphRAG: Vertically Unified Agents for Graph Retrieval-Augmented Complex Reasoning
 
-### 13. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
+### 12. [XMUDeepLIT/MemGraphRAG](../ai/rag/xmudeeplit-memgraphrag.md) ([GitHub](https://github.com/xmudeeplit/memgraphrag))
 - Stars: 0
 - Language: Unknown
 - Description: [KDD 2026] MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation
 
-### 14. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
+### 13. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 15. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
+### 14. [VoltAgent/awesome-ai-agent-papers](../ai/rag/voltagent-awesome-ai-agent-papers.md) ([GitHub](https://github.com/voltagent/awesome-ai-agent-papers))
 - Stars: 0
 - Language: Unknown
 - Description: A curated collection of AI agent research papers released in 2026, covering agent engineering, memory, evaluation, workflows, and autonomous systems.
 
-### 16. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
+### 15. [safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System](../ai/rag/safishamsi-knowledge-graph-based-hybrid-rag-system.md) ([GitHub](https://github.com/safishamsi/knowledge-graph-based-hybrid-rag-system))
 - Stars: 0
 - Language: Unknown
 - Description: Knowledge Graph-RAG system using Neo4j, LangChain, LangGraph, Claude-3.5-Sonnet. Hybrid retrieval: SBERT embeddings + graph traversal + BM25. 61K papers, 190K authors from Scopus. 50% NDCG improvem...
 
-### 17. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
+### 16. [pguso/rag-from-scratch](../ai/rag/pguso-rag-from-scratch.md) ([GitHub](https://github.com/pguso/rag-from-scratch))
 - Stars: 0
 - Language: Unknown
 - Description: Demystify RAG by building it from scratch. Local LLMs, no black boxes - real understanding of embeddings, vector search, retrieval, and context-augmented generation.
 
-### 18. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
+### 17. [onejune2018/Awesome-LLM-Eval](../ai/rag/onejune2018-awesome-llm-eval.md) ([GitHub](https://github.com/onejune2018/awesome-llm-eval))
 - Stars: 0
 - Language: Unknown
 - Description: Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs. /AI.
 
-### 19. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
+### 18. [lancedb/vectordb-recipes](../ai/rag/lancedb-vectordb-recipes.md) ([GitHub](https://github.com/lancedb/vectordb-recipes))
 - Stars: 0
 - Language: Unknown
 - Description: Resource, examples & tutorials for multimodal AI, RAG and agents using vector search and LLMs
 
-### 20. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
+### 19. [humanlayer/12-factor-agents](../ai/rag/humanlayer-12-factor-agents.md) ([GitHub](https://github.com/humanlayer/12-factor-agents))
 - Stars: 0
 - Language: Unknown
 - Description: What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 
-### 21. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
+### 20. [modelscope/evalscope](../ai/rag/modelscope-evalscope.md) ([GitHub](https://github.com/modelscope/evalscope))
 - Stars: 0
 - Language: Unknown
 - Description: A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 
-### 22. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
+### 21. [yonatangross/orchestkit](../ai/rag/yonatangross-orchestkit.md) ([GitHub](https://github.com/yonatangross/orchestkit))
 - Stars: 0
 - Language: Unknown
 - Description: The Complete AI Development Toolkit for Claude Code — 103 skills, 36 agents, 172 hooks. Production-ready patterns for full-stack development.
 
-### 23. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
+### 22. [AlexPEClub/ai-coding-starter-kit](../ai/agents/alexpeclub-ai-coding-starter-kit.md) ([GitHub](https://github.com/alexpeclub/ai-coding-starter-kit))
 - Stars: 0
 - Language: Unknown
 - Description: Production-ready Next.js template with AI-powered development workflow using 6 specialized agents
 
-### 24. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
+### 23. [danielt69/awesome-agent-observability](../ai/agents/danielt69-awesome-agent-observability.md) ([GitHub](https://github.com/danielt69/awesome-agent-observability))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools for observability, evaluation, tracing, and guardrails of production LLM agents.
 
-### 25. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([GitHub](https://github.com/chinskikaczynski/awesome-openai-agent-templates))
+### 24. [ChinskiKaczynski/Awesome-OpenAI-Agent-Templates](../ai/agents/chinskikaczynski-awesome-openai-agent-templates.md) ([GitHub](https://github.com/chinskikaczynski/awesome-openai-agent-templates))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of OpenAI agent templates, workflows, and starters built with Agent Builder, Agents SDK, and ChatKit.
 
-### 26. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
+### 25. [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) ([GitHub](https://github.com/infiniflow/ragflow))
 - Stars: 0
 - Language: Unknown
 - Description: RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
-### 27. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
+### 26. [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) ([GitHub](https://github.com/patchy631/ai-engineering-hub))
 - Stars: 0
 - Language: Unknown
 - Description: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
-### 28. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
+### 27. [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) ([GitHub](https://github.com/nirdiamant/rag_techniques))
 - Stars: 0
 - Language: Unknown
 - Description: This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
 
-### 29. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
+### 28. [shivayapandey/product-doc-crewai](../ai/rag/shivayapandey-product-doc-crewai.md) ([GitHub](https://github.com/shivayapandey/product-doc-crewai))
 - Stars: 0
 - Language: Unknown
 - Description: This project leverages AI tools to automate the process of fetching code from a GitHub repository and generating comprehensive documentation for it.
 
-### 30. [ilexistools/agents-sdk-templates](../ai/agents/ilexistools-agents-sdk-templates.md) ([GitHub](https://github.com/ilexistools/agents-sdk-templates))
+### 29. [ilexistools/agents-sdk-templates](../ai/agents/ilexistools-agents-sdk-templates.md) ([GitHub](https://github.com/ilexistools/agents-sdk-templates))
 - Stars: 0
 - Language: Unknown
 - Description: OpenAI Agents SDK templates for easy implementation.
 
-### 31. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
+### 30. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
 - Stars: 0
 - Language: Unknown
 - Description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task b...
 
-### 32. [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) ([GitHub](https://github.com/rokbenko/ai-playground))
+### 31. [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md) ([GitHub](https://github.com/rokbenko/ai-playground))
 - Stars: 0
 - Language: Unknown
 - Description: Code from tutorials presented on the "Code AI with Rok" YouTube channel
 
-### 33. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
+### 32. [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md) ([GitHub](https://github.com/fzn0x/watchtower))
 - Stars: 0
 - Language: Unknown
 - Description: Watchtower is a simple AI-powered penetration testing automation CLI tool that leverages LLMs and LangGraph to orchestrate agentic workflows that you can use to test your websites locally. Generate...
 
-### 34. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
+### 33. [our-never-ending-job/awesome-rag-debugging](../ai/rag/our-never-ending-job-awesome-rag-debugging.md) ([GitHub](https://github.com/our-never-ending-job/awesome-rag-debugging))
 - Stars: 0
 - Language: Unknown
 - Description: A curated list of tools, frameworks, failure maps, observability platforms, and practical resources for debugging RAG systems.
 
-### 35. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md) ([GitHub](https://github.com/timan-group/plugmem))
+### 34. [TIMAN-group/PlugMem](../ai/rag/timan-group-plugmem.md) ([GitHub](https://github.com/timan-group/plugmem))
 - Stars: 0
 - Language: Unknown
 - Description: ICML 2026 · Plug-and-play long-term memory for LLM agents
 
-### 36. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
+### 35. [adongwanai/AgentGuide](../ai/rag/adongwanai-agentguide.md) ([GitHub](https://github.com/adongwanai/agentguide))
 - Stars: 0
 - Language: Unknown
 - Description: https://adongwanai.github.io/AgentGuide | AI Agent | LangGraph | RAG |  |  |  |  |
 
-### 37. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
+### 36. [curiousily/AI-Bootcamp](../ai/rag/curiousily-ai-bootcamp.md) ([GitHub](https://github.com/curiousily/ai-bootcamp))
 - Stars: 0
 - Language: Unknown
 - Description: Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, L...
 
-### 38. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md) ([GitHub](https://github.com/davidzwz/awesome-deep-research))
+### 37. [DavidZWZ/Awesome-Deep-Research](../ai/rag/davidzwz-awesome-deep-research.md) ([GitHub](https://github.com/davidzwz/awesome-deep-research))
 - Stars: 0
 - Language: Unknown
 - Description: [ACL 2026 KnowFM] Awesome Agentic Deep Research Resources
 
-### 39. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
+### 38. [girijesh-ai/ai-interview-codex](../ai/rag/girijesh-ai-ai-interview-codex.md) ([GitHub](https://github.com/girijesh-ai/ai-interview-codex))
 - Stars: 0
 - Language: Unknown
 - Description: Comprehensive ML/AI interview codex with iterative system design, production-ready code, and 2026 standards. Includes LLM/GenAI, RAG systems, agentic AI, and algorithms from scratch.
 
-### 40. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
+### 39. [junwoojeong100/azure-intelligent-app-labs](../ai/rag/junwoojeong100-azure-intelligent-app-labs.md) ([GitHub](https://github.com/junwoojeong100/azure-intelligent-app-labs))
 - Stars: 0
 - Language: Unknown
 - Description: Labs for Prompt Engineering, AutoGen, AI Agents, Vibe Coding, GitHub Copilot, AKS, RAG, and Azure AI Search.
 
-### 41. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
+### 40. [adisystems/fmbench-assistant](../ai/rag/adisystems-fmbench-assistant.md) ([GitHub](https://github.com/adisystems/fmbench-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: AI Assistant for FMBench (foundation model benchmarking tool)
 
-### 42. [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md) ([GitHub](https://github.com/zjunlp/lightmem))
+### 41. [zjunlp/LightMem](../ai/rag/zjunlp-lightmem.md) ([GitHub](https://github.com/zjunlp/lightmem))
 - Stars: 0
 - Language: Unknown
 - Description: [ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation
 
-### 43. [kno2gether/crewai-examples](../ai/agents/kno2gether-crewai-examples.md) ([GitHub](https://github.com/kno2gether/crewai-examples))
+### 42. [kno2gether/crewai-examples](../ai/agents/kno2gether-crewai-examples.md) ([GitHub](https://github.com/kno2gether/crewai-examples))
 - Stars: 0
 - Language: Unknown
 - Description: This repo is forked and maintained separately to apply changes locally without impacting creator's branch https://github.com/joaomdmoura/crewAI-examples
 
-### 44. [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md) ([GitHub](https://github.com/failproofai/ai-reliability-standards))
+### 43. [FailproofAI/ai-reliability-standards](../ai/agents/failproofai-ai-reliability-standards.md) ([GitHub](https://github.com/failproofai/ai-reliability-standards))
 - Stars: 0
 - Language: Unknown
 - Description: Architectural standards and best practices for building reliable AI Agents and LLM workflows. Defining the framework for AI Reliability Engineering (AIRE).
 
-### 45. [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md) ([GitHub](https://github.com/sonarsource/sonarqube-mcp-server))
+### 44. [SonarSource/sonarqube-mcp-server](../ai/agents/sonarsource-sonarqube-mcp-server.md) ([GitHub](https://github.com/sonarsource/sonarqube-mcp-server))
 - Stars: 0
 - Language: Unknown
 - Description: Official SonarQube MCP Server for code quality and security in AI agents
 
-### 46. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
+### 45. [idosal/git-mcp](../ai/agents/idosal-git-mcp.md) ([GitHub](https://github.com/idosal/git-mcp))
 - Stars: 0
 - Language: Unknown
 - Description: Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
 
-### 47. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
+### 46. [i-am-bee/beeai-framework](../ai/agents/i-am-bee-beeai-framework.md) ([GitHub](https://github.com/i-am-bee/beeai-framework))
 - Stars: 0
 - Language: Unknown
 - Description: Build production-ready AI agents in both Python and Typescript.
 
-### 48. [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md) ([GitHub](https://github.com/nithador/crewai_demo))
+### 47. [Nithador/crewai_demo](../ai/agents/nithador-crewai-demo.md) ([GitHub](https://github.com/nithador/crewai_demo))
 - Stars: 0
 - Language: Unknown
 - Description: Demo of the crewAI for EuroHPC Summit 2026
 
-### 49. [lchen4-godaddy/agent-template-openai-agents-sdk](../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md) ([GitHub](https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk))
+### 48. [lchen4-godaddy/agent-template-openai-agents-sdk](../ai/agents/lchen4-godaddy-agent-template-openai-agents-sdk.md) ([GitHub](https://github.com/lchen4-godaddy/agent-template-openai-agents-sdk))
 - Stars: 0
 - Language: Unknown
 - Description: Template for building an agent using the OpenAI Agents SDK.
 
-### 50. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
+### 49. [cisco-ai-defense/mcp-scanner](../ai/agents/cisco-ai-defense-mcp-scanner.md) ([GitHub](https://github.com/cisco-ai-defense/mcp-scanner))
 - Stars: 0
 - Language: Unknown
 - Description: Scan MCP servers for potential threats & security findings.
+
+### 50. [nottelabs/open-operator-evals](../ai/agents/nottelabs-open-operator-evals.md) ([GitHub](https://github.com/nottelabs/open-operator-evals))
+- Stars: 0
+- Language: Unknown
+- Description: Opensource benchmark evaluating web operators/agents performance
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T10:33:59.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T14:46:32.315116+05:30.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.

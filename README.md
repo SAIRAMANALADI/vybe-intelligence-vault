@@ -44,38 +44,32 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4791 |
-| Active resources | 4685 |
+| Resources tracked | 4793 |
+| Active resources | 4687 |
 | Inactive resources | 106 |
-| Archive files | 22536 |
+| Archive files | 22543 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 10:34 IST |
+| Last meaningful update | 2026-06-18 14:47 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Rank: +2) (+39 points)
-- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +8)
-- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +3)
-- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +3)
-- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Rank: +6)
+- **[AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (+13 points)
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (+10 points)
+- **[7 Steps to Build a Simple RAG System from Scratch - KDnuggets](ai/rag/7-steps-to-build-a-simple-rag-system-from-scratch.md)** (Rank: +9)
+- **[RAG System with LangChain and LangGraph - GeeksforGeeks](ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md)** (Rank: +2)
+- **[Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium](ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md)** (Rank: +465)
 
 #### ✨ New Discoveries
-- **[[x86] AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (Score: 21)
-- **[Graph Reinforcement Learning for Calibration-Aware Quantum Circuit Routing](ai/research/arxiv-2606-12816.md)** (Score: 0)
-- **[SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests](ai/rag/arxiv-2606-08206.md)** (Score: 0)
-- **[Knockoffs-based False Discovery Rate Control and Simplification for Deep Neural Networks](ai/research/arxiv-2606-04404.md)** (Score: 0)
-- **[Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States](ai/rag/arxiv-2605-28690.md)** (Score: 0)
+- **[The Australian Government to Require SMS/MMS Sender ID Registraion](ai/community/the-australian-government-to-require-sms-mms-sende.md)** (Score: 87)
+- **[RAG Chatbot Application🤖 | RAG](ai/rag/rag-chatbot-application-rag.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)**
-- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)**
-- **[Leaked financial docs show OpenAI is losing billions of dollars a year](ai/community/leaked-financial-docs-show-openai-is-losing-billio.md)**
-- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

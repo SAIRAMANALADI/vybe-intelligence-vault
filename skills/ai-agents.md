@@ -24,47 +24,47 @@ Recently detected signals:
 - [patchy631/ai-engineering-hub](../ai/rag/patchy631-ai-engineering-hub.md) (Source: Unknown Source) - Collected 2026-06-18
 - [NirDiamant/RAG_Techniques](../ai/rag/nirdiamant-rag-techniques.md) (Source: Unknown Source) - Collected 2026-06-18
 - [infiniflow/ragflow](../ai/rag/infiniflow-ragflow.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) (Source: Unknown Source) - Collected 2026-06-18
 - [RAG System with LangChain and LangGraph - GeeksforGeeks](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md) (Source: Unknown Source) - Collected 2026-06-18
+- [Build a RAG System from Scratch: Step-by-Step with Real Output 2026 | Nerd Level Tech](../ai/rag/build-a-rag-system-from-scratch-step-by-step-with.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
 
 <!-- GENERATED:BEST_REPOS_START -->
-### 1. [crewAIInc/crewAI Release: 1.14.7](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
-- Stars: 0
-- Language: Unknown
-- Description: Repository: crewAIInc/crewAI
-
-### 2. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
+### 1. [okahu-demos/crewai-travel-agent](../ai/agents/okahu-demos-crewai-travel-agent.md) ([GitHub](https://github.com/okahu-demos/crewai-travel-agent))
 - Stars: 0
 - Language: Unknown
 - Description: A travel agent python app built with CrewAI framework using GPT model from OpenAI to be run locally or on CI/CD with Github Actions.
 
-### 3. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
+### 2. [wassim249/fastapi-langgraph-agent-production-ready-template](../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md) ([GitHub](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template))
 - Stars: 0
 - Language: Unknown
 - Description: A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agen...
 
-### 4. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
+### 3. [sahithirmaryada/RareDx-Agentic-Diagnostic-Assistant](../ai/rag/sahithirmaryada-raredx-agentic-diagnostic-assistant.md) ([GitHub](https://github.com/sahithirmaryada/raredx-agentic-diagnostic-assistant))
 - Stars: 0
 - Language: Unknown
 - Description: Evidence-grounded rare disease diagnostic assistant using LangGraph, Neo4j, ChromaDB, biomedical embeddings, PubMed citations, and benchmark-based evaluation.
 
-### 5. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([GitHub](https://github.com/microsoft/autogen))
+### 4. [microsoft/autogen Release: python-v0.7.5](../ai/agents/microsoft-autogen.md) ([GitHub](https://github.com/microsoft/autogen))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: microsoft/autogen
 
-### 6. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
+### 5. [FareedKhan-dev/all-agentic-architectures](../ai/rag/fareedkhan-dev-all-agentic-architectures.md) ([GitHub](https://github.com/fareedkhan-dev/all-agentic-architectures))
 - Stars: 0
 - Language: Unknown
 - Description: 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task b...
 
-### 7. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
+### 6. [FareedKhan-dev/production-grade-mcp-agentic-system](../ai/agents/fareedkhan-dev-production-grade-mcp-agentic-system.md) ([GitHub](https://github.com/fareedkhan-dev/production-grade-mcp-agentic-system))
 - Stars: 0
 - Language: Unknown
 - Description: Building a Production-Grade MCP Server Architecture with a Multi-Agent System
+
+### 7. [crewAIInc/crewAI Release: 1.14.8a](../ai/rag/crewaiinc-crewai.md) ([GitHub](https://github.com/crewaiinc/crewai))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: crewAIInc/crewAI
 
 ### 8. [kno2gether/crewai-examples](../ai/agents/kno2gether-crewai-examples.md) ([GitHub](https://github.com/kno2gether/crewai-examples))
 - Stars: 0
@@ -301,4 +301,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T10:33:59.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-18T14:46:32.077525+05:30.531231+05:30.539572+05:30.671032+05:30.145013+05:30.149869+05:30.236624+05:30.608028+05:30.124735+05:30.420008+05:30.259612+05:30.621412+05:30.398950+05:30.766203+05:30.229664+05:30.167707+05:30.
