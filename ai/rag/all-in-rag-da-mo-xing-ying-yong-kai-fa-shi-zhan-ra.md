@@ -4,16 +4,16 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://datawhalechina.github.io/all-in-rag
-published_at: '2026-06-18T02:03:51.200277+05:30'
-collected_at: '2026-06-18T02:03:51.200289+05:30'
+published_at: '2026-06-18T10:32:18.793745+05:30'
+collected_at: '2026-06-18T10:32:18.793759+05:30'
 tags:
 - rag
 - web-crawled
 status: active
 resource_id: blog:all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra
-first_seen: '2026-06-18T02:03:51.200289+05:30'
-last_seen: '2026-06-18T02:03:51.200289+05:30'
-last_checked: '2026-06-18T02:03:51.200289+05:30'
+first_seen: '2026-06-18T10:32:18.793759+05:30'
+last_seen: '2026-06-18T10:32:18.793759+05:30'
+last_checked: '2026-06-18T10:32:18.793759+05:30'
 health_score: 100
 ---
 
@@ -31,7 +31,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-18T02:03:51.200277+05:30
+- Published: 2026-06-18T10:32:18.793745+05:30
 
 ## Related Tags
 

@@ -21,8 +21,8 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | `mcp-registry/` | 70 |
 | [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
 | [DeusData/codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | `mcp-registry/` | 70 |
-| [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150) | `mcp-registry/` | 70 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
 | [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
+| [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

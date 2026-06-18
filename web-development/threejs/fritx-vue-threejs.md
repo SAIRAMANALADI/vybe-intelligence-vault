@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/fritx/vue-threejs
-collected_at: '2026-06-16T17:27:23.869435+05:30'
-published_at: '2026-04-24T03:52:59Z'
+collected_at: '2026-06-18T10:31:15.207055+05:30'
+published_at: '2026-06-17T23:29:54Z'
 tags:
 - threejs
-stars: 780
+stars: 778
 language: JavaScript
 status: active
 resource_id: github:fritx/vue-threejs
 first_seen: '2026-06-12T10:40:14.585922+00:00'
-last_seen: '2026-06-16T17:27:23.869435+05:30'
-last_checked: '2026-06-16T17:27:23.869435+05:30'
+last_seen: '2026-06-18T10:31:15.207055+05:30'
+last_checked: '2026-06-18T10:31:15.207055+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: fritx
-- Stars: 780
+- Stars: 778
 - Forks: 113
 - Language: JavaScript
 - Topics: bindings, threejs, vue
-- Last Updated: 2026-04-24T03:52:59Z
+- Last Updated: 2026-06-17T23:29:54Z
 
 ## Possible Use Cases
 

@@ -4,7 +4,7 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/mohitvirli/mohitvirli.github.io
-collected_at: '2026-06-15T12:42:28.518156+00:00'
+collected_at: '2026-06-18T10:31:15.235581+05:30'
 published_at: '2026-06-15T08:53:34Z'
 tags:
 - animation
@@ -16,8 +16,8 @@ language: TypeScript
 status: active
 resource_id: github:mohitvirli/mohitvirli.github.io
 first_seen: '2026-06-15T12:42:28.518156+00:00'
-last_seen: '2026-06-15T12:42:28.518156+00:00'
-last_checked: '2026-06-15T12:42:28.518156+00:00'
+last_seen: '2026-06-18T10:31:15.235581+05:30'
+last_checked: '2026-06-18T10:31:15.235581+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: mohitvirli
 - Stars: 314
-- Forks: 47
+- Forks: 48
 - Language: TypeScript
 - Topics: drei, gsap, nextjs, portfolio, react, react-three-fiber, zustand
 - Last Updated: 2026-06-15T08:53:34Z

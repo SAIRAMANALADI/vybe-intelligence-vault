@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.3k • 16
+CompendiumLabs/bge-base-en-v1.5-gguf 0.1B • Updated Feb 17, 2024 • 1.45k • 16
 
 ## Use Cases
 

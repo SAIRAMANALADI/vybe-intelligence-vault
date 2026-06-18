@@ -4,7 +4,7 @@ Distribution of original signal ingestion sources across processed URLs:
 
 | Source Domain | Resource Count |
 | :--- | ---: |
-| arxiv | 2813 |
+| arxiv | 3256 |
 | huggingface | 814 |
 | github | 373 |
 | nextjs.org | 64 |
@@ -12,8 +12,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | mistral.ai | 10 |
 | anthropic.com | 9 |
 | medium.com | 8 |
-| openai.com | 7 |
 | dev.to | 6 |
+| openai.com | 6 |
 | deepmind.google | 5 |
 | geeksforgeeks.org | 3 |
 | tech-insider.org | 3 |
@@ -29,23 +29,20 @@ Distribution of original signal ingestion sources across processed URLs:
 | cloud.google.com | 2 |
 | confident-ai.com | 2 |
 | benchmarkingagents.com | 2 |
-| charitydotwtf.substack.com | 1 |
-| claude.com | 1 |
-| arstechnica.com | 1 |
-| ghostinthedata.info | 1 |
-| mrlatte.net | 1 |
+| x86ecosystem.org | 1 |
 | colab.research.google.com | 1 |
-| superml.org | 1 |
 | dasroot.net | 1 |
-| docs.langchain.com | 1 |
+| pragatimehraa.medium.com | 1 |
 | firecrawl.dev | 1 |
 | florinelchis.medium.com | 1 |
-| pragatimehraa.medium.com | 1 |
 | kdnuggets.com | 1 |
+| mrlatte.net | 1 |
 | datawhalechina.github.io | 1 |
 | martinuke0.github.io | 1 |
 | analyticsvidhya.com | 1 |
 | rowanblackwoon.medium.com | 1 |
+| superml.org | 1 |
+| docs.langchain.com | 1 |
 | lightrag.github.io | 1 |
 | business-docs.co.uk | 1 |
 | mastt.com | 1 |

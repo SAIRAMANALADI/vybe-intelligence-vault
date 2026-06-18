@@ -15,13 +15,14 @@ tags:
 - frontend_ui
 - hackernews
 - openai
-status: active
+status: inactive
 resource_id: hackernews:ai-chemist-improves-a-challenging-reaction-in-medi
 first_seen: '2026-06-18T02:03:07.015802+05:30'
 last_seen: '2026-06-18T04:23:27.427446+05:30'
 last_checked: '2026-06-18T04:23:27.427446+05:30'
 health_score: 100
 ---
+
 
 # Using AI to improve a challenging reaction in medicinal chemistry
 

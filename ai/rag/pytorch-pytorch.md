@@ -1,47 +1,30 @@
 ---
-title: 'pytorch/pytorch Release: PyTorch 2.12.0 Release'
+title: 'pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release'
 category: ai/rag
 source_type: github_releases
 source_name: GitHub Releases AI
 source_url: https://github.com/pytorch/pytorch
-published_at: '2026-05-13T17:38:06Z'
-collected_at: '2026-06-18T04:23:24.449882+05:30'
+published_at: '2026-06-18T00:41:17Z'
+collected_at: '2026-06-18T10:31:16.064832+05:30'
 tags:
-- anthropic
-- benchmark
 - github-release
-- hackernews
-- models
-- producthunt
 - pytorch-pytorch
 - rag
-- reddit
-- scripts
-- threejs
-- workflows
-- youtube
 status: active
 resource_id: github:pytorch/pytorch
 first_seen: '2026-06-16T13:57:13.028028+05:30'
-last_seen: '2026-06-18T04:23:24.449882+05:30'
-last_checked: '2026-06-18T04:23:24.449882+05:30'
+last_seen: '2026-06-18T10:31:16.064832+05:30'
+last_checked: '2026-06-18T10:31:16.064832+05:30'
 health_score: 100
 ---
 
-# pytorch/pytorch Release: PyTorch 2.12.0 Release
+# pytorch/pytorch Release: PyTorch 2.12.1 Release, bug fix release
 
 ## Summary
 
-# PyTorch 2.12.0 Release Notes
-
-- [Highlights](#highlights)
-- [Backwards Incompatible Changes](#backwards-incompatible-changes)
-- [Deprecations](#deprecations)
-- [New Features](#new-features)
-- [Improvements](#improvements)
-- [Bug fixes](#bug-fixes)
-- [Performance](#performance)
-- [Document...
+This release is meant to fix the following regressions and silent correctness issues:
+## Regression fixes
+- Fix nondeterministic outputs in test_batch_invariance with FLASH_ATTN on NVIDIA B200 GPUs ([#181248](https://github.com/pytorch/pytorch/issues/181248)), fixed by updating Triton to 3.7.1 ([#...
 
 ## Why It Matters
 
@@ -51,23 +34,13 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: GitHub Releases AI
 - Category: ai/rag
-- Published: 2026-05-13T17:38:06Z
+- Published: 2026-06-18T00:41:17Z
 
 ## Related Tags
 
-- anthropic
-- benchmark
 - github-release
-- hackernews
-- models
-- producthunt
 - pytorch-pytorch
 - rag
-- reddit
-- scripts
-- threejs
-- workflows
-- youtube
 
 ## Source
 

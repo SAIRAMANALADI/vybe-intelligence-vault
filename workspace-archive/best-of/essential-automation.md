@@ -33,11 +33,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-11304.md`](../../ai/rag/arxiv-2606-11304.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [From Paper to Program: Knowledge Externalization for AI-Assisted Quantum Many-Body Code Generation](https://arxiv.org/abs/2604.04089)
-- **Category**: `ai/rag` | **Kind**: `PROMPT` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`arxiv-2604-04089.md`](../../ai/rag/arxiv-2604-04089.md)
-- **Selection Reason**: Strong keyword match, Valuable developer reference
-
 ### [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
 - **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-openai-ag.md`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
@@ -58,15 +53,20 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md`](../../ai/rag/ai-agent-benchmarks-2026-swe-bench-webarena-agentb.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
+### [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150)
+- **Category**: `ai/agents` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-07150.md`](../../ai/rag/arxiv-2606-07150.md)
+- **Selection Reason**: Strong keyword match, Valuable developer reference
+
+### [DN-Hypo-Pipeline: An AI-Driven Workflow for Hypothesis Generation via Large Language Models and Scientific Explanations](https://arxiv.org/abs/2606.08532)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`arxiv-2606-08532.md`](../../ai/rag/arxiv-2606-08532.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
 ### [Building Production-Ready RAG Systems: Best Practices and Latest Tools | by Meeran Malik | Medium](https://medium.com/@meeran03/building-production-ready-rag-systems-best-practices-and-latest-tools-581cae9518e7)
 - **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`building-production-ready-rag-systems-best-practic.md`](../../ai/rag/building-production-ready-rag-systems-best-practic.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
-
-### [Production-Ready RAG Systems: End to End Guide | Saumil Srivastava's Blog](https://www.saumilsrivastava.ai/blog/production-ready-rag-systems-end-to-end-guide)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`production-ready-rag-systems-end-to-end-guide-saum.md`](../../ai/rag/production-ready-rag-systems-end-to-end-guide-saum.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
 
 
 ## Recommended Learning Path
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-18 04:26 IST*
+*Last updated: 2026-06-18 10:34 IST*

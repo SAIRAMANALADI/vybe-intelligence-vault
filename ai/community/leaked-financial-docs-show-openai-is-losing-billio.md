@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:leaked-financial-docs-show-openai-is-losing-billio
 first_seen: '2026-06-18T04:23:24.413211+05:30'
 last_seen: '2026-06-18T04:23:24.413211+05:30'
 last_checked: '2026-06-18T04:23:24.413211+05:30'
 health_score: 100
 ---
+
 
 # Leaked financial docs show OpenAI is losing billions of dollars a year
 

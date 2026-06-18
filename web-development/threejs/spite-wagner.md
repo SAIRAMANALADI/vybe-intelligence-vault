@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/spite/wagner
-collected_at: '2026-06-16T17:27:23.869428+05:30'
-published_at: '2026-06-01T07:18:09Z'
+collected_at: '2026-06-18T10:31:15.207075+05:30'
+published_at: '2026-06-17T23:29:23Z'
 tags:
 - threejs
-stars: 1085
+stars: 1084
 language: JavaScript
 status: active
 resource_id: github:spite/wagner
 first_seen: '2026-06-11T08:45:35.488511+00:00'
-last_seen: '2026-06-16T17:27:23.869428+05:30'
-last_checked: '2026-06-16T17:27:23.869428+05:30'
+last_seen: '2026-06-18T10:31:15.207075+05:30'
+last_checked: '2026-06-18T10:31:15.207075+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: spite
-- Stars: 1085
+- Stars: 1084
 - Forks: 130
 - Language: JavaScript
 - Topics: effects-composer, glsl, javascript, postprocessing, shaders, threejs, webgl
-- Last Updated: 2026-06-01T07:18:09Z
+- Last Updated: 2026-06-17T23:29:23Z
 
 ## Possible Use Cases
 

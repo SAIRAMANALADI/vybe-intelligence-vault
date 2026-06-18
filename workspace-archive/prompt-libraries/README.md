@@ -13,7 +13,7 @@ Well-crafted system and user prompts are the primary mechanism for directing LLM
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (prompt - USEFUL Tier)
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (prompt - USEFUL Tier)
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (framework - USEFUL Tier)
-- [Formalizing and Mitigating Structural Distortion in LLM Attention for Zero-Shot Graph Reasoning](https://arxiv.org/abs/2606.15633) (framework - USEFUL Tier)
+- [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (framework - USEFUL Tier)
 - [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (framework - USEFUL Tier)
 - [Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection](https://arxiv.org/abs/2606.16344) (template - USEFUL Tier)
 
@@ -40,4 +40,4 @@ https://github.com/f/awesome-chatgpt-prompts (Awesome Prompts)
 
 ---
 
-*Last updated: 2026-06-18 04:26 IST*
+*Last updated: 2026-06-18 10:34 IST*

@@ -44,34 +44,38 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4347 |
-| Active resources | 4246 |
-| Inactive resources | 101 |
-| Archive files | 20695 |
+| Resources tracked | 4791 |
+| Active resources | 4685 |
+| Inactive resources | 106 |
+| Archive files | 22536 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 04:26 IST |
+| Last meaningful update | 2026-06-18 10:34 IST |
 
 ### Trend Intelligence Dashboard
 
 #### 🔥 Trending Resources
-- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)** (+50 points)
-- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Rank: +2) (+33 points)
-- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)** (Rank: +2) (+33 points)
-- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)** (+17 points)
-- **[Using AI to improve a challenging reaction in medicinal chemistry](ai/community/ai-chemist-improves-a-challenging-reaction-in-medi.md)** (Rank: +3) (+10 points)
+- **[Launch HN: Adam (YC W25) – Open-Source AI CAD](ai/community/adam-cad-cadam.md)** (Rank: +2) (+39 points)
+- **[patchy631/ai-engineering-hub](ai/rag/patchy631-ai-engineering-hub.md)** (Rank: +8)
+- **[NirDiamant/RAG_Techniques](ai/rag/nirdiamant-rag-techniques.md)** (Rank: +3)
+- **[datawhalechina/hello-agents](ai/rag/datawhalechina-hello-agents.md)** (Rank: +3)
+- **[infiniflow/ragflow](ai/rag/infiniflow-ragflow.md)** (Rank: +6)
 
 #### ✨ New Discoveries
-- **[Leaked financial docs show OpenAI is losing billions of dollars a year](ai/community/leaked-financial-docs-show-openai-is-losing-billio.md)** (Score: 95)
+- **[[x86] AI Compute Extensions (ACE) Specification](ai/community/x86-ai-compute-extensions-ace-specification.md)** (Score: 21)
+- **[Graph Reinforcement Learning for Calibration-Aware Quantum Circuit Routing](ai/research/arxiv-2606-12816.md)** (Score: 0)
+- **[SegmentAnyTreeV2: Scaling Transformer-Based Tree Instance Segmentation Across Sensors, Platforms, and Forests](ai/rag/arxiv-2606-08206.md)** (Score: 0)
+- **[Knockoffs-based False Discovery Rate Control and Simplification for Deep Neural Networks](ai/research/arxiv-2606-04404.md)** (Score: 0)
+- **[Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States](ai/rag/arxiv-2605-28690.md)** (Score: 0)
 
 #### 💤 Recently Inactive Resources
-- **[Abandoned and Little-Known Airfields](ai/community/abandoned-and-little-known-airfields.md)**
-- **[Anthropic employees accuse Trump administration of targeting them](ai/community/anthropic-employees-accuse-trump-administration-of.md)**
-- **[The hacker sent by Anthropic to calm the government's nerves about AI safety](ai/community/the-hacker-sent-by-anthropic-to-calm-the-governmen.md)**
-- **[TREX: An AI code reviewer that runs your code](ai/community/trex-an-ai-code-reviewer-that-runs-your-code.md)**
+- **[AI demands more engineering discipline. Not less](ai/community/ai-demands-more-engineering-discipline-not-less.md)**
+- **[The founder's playbook: Building an AI-native startup](ai/community/the-founder-s-playbook-building-an-ai-native-start.md)**
+- **[Leaked financial docs show OpenAI is losing billions of dollars a year](ai/community/leaked-financial-docs-show-openai-is-losing-billio.md)**
+- **[The Competitive Moat That AI Can't Replicate](ai/community/the-competitive-moat-that-ai-can-t-replicate.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 
