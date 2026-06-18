@@ -57,21 +57,21 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 ### Trend Intelligence Dashboard
 
-#### 🔥 Trending Resources
+#### Trending Resources
 - **[Emacs 31 is around the corner: The changes I'm daily driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (+98 points)
 - **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)** (+38 points)
 - **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (Rank: +3125)
 - **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (Rank: +10)
 - **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (Rank: +481)
 
-#### ✨ New Discoveries
+#### New Discoveries
 - **[The founder of Craigslist has given away half a billion dollars](ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md)** (Score: 55)
 - **[Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md)** (Score: 50)
 - **[interviewstreet/hiring-agent](ai/agents/interviewstreet-hiring-agent.md)** (Score: 0)
 - **[google/adk-go](ai/agents/google-adk-go.md)** (Score: 0)
 - **[mozilla-ai/any-agent](ai/agents/mozilla-ai-any-agent.md)** (Score: 0)
 
-#### 💤 Recently Inactive Resources
+#### Recently Inactive Resources
 - None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
