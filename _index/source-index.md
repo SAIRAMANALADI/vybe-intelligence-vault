@@ -3700,6 +3700,7 @@ Resources organized by publisher feed and query sources.
 
 ## Unknown Source (type: hackernews)
 
+  - [AI Has Broken Hiring](../ai/community/ai-has-broken-hiring.md)
   - [Building reliable agentic AI systems](../ai/community/building-reliable-agentic-ai-systems.md)
   - [Loupe – A iOS app that raises awareness about what native apps can see](../ai/community/mysk-research-loupe.md)
   - [Slow breathing modulates brain function and risk behavior](../ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)
@@ -4813,4 +4814,4 @@ Resources organized by publisher feed and query sources.
   - [[2510.12323] RAG-Anything: All-in-One RAG Framework](../ai/rag/arxiv-2510-12323.md)
 
 ---
-*Index generated on 2026-06-21T20:21:12.494742+05:30*
+*Index generated on 2026-06-21T22:27:00.305382+05:30*

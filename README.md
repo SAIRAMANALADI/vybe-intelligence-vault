@@ -44,39 +44,30 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4909 |
-| Active resources | 4771 |
+| Resources tracked | 4910 |
+| Active resources | 4772 |
 | Inactive resources | 138 |
-| Archive files | 22801 |
+| Archive files | 22805 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-21 20:22 IST |
+| Last meaningful update | 2026-06-21 22:27 IST |
 
 ### Trend Intelligence Dashboard
 
 #### Trending Resources
-- **[Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)** (Rank: +3198)
-- **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (Rank: +568)
-- **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (Rank: +568)
-- **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (Rank: +568)
-- **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (Rank: +1)
+- **[Loupe – A iOS app that raises awareness about what native apps can see](ai/community/mysk-research-loupe.md)** (+45 points)
+- **[Slow breathing modulates brain function and risk behavior](ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)** (+41 points)
+- **[Building reliable agentic AI systems](ai/community/building-reliable-agentic-ai-systems.md)** (+26 points)
+- **[The case against geometric algebra (2024)](ai/community/the-case-against-geometric-algebra-2024.md)** (+18 points)
 
 #### New Discoveries
-- **[Loupe – A iOS app that raises awareness about what native apps can see](ai/community/mysk-research-loupe.md)** (Score: 395)
-- **[Slow breathing modulates brain function and risk behavior](ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)** (Score: 278)
-- **[Building reliable agentic AI systems](ai/community/building-reliable-agentic-ai-systems.md)** (Score: 131)
-- **[The case against geometric algebra (2024)](ai/community/the-case-against-geometric-algebra-2024.md)** (Score: 79)
-- **[asgeirtj/system_prompts_leaks](ai/trending/asgeirtj-system-prompts-leaks.md)** (Score: 0)
+- **[AI Has Broken Hiring](ai/community/ai-has-broken-hiring.md)** (Score: 15)
 
 #### Recently Inactive Resources
-- **[Emacs 31 is around the corner: The changes I'm daily driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)**
-- **[The founder of Craigslist has given away half a billion dollars](ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md)**
-- **[Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md)**
-- **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)**
-- **[Lightricks/LTX-2](ai/trending/lightricks-ltx-2.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

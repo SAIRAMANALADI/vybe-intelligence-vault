@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Hbruz0. Score: 79, Comments: 52.
+Hacker News story by Hbruz0. Score: 97, Comments: 84.
 Original Link: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html
 
 ## Use Cases

@@ -490,7 +490,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497963+05:30"
+    "last_updated": "2026-06-21T22:25:34.568946+05:30"
   },
   {
     "title": "Human-computer interaction",
@@ -507,7 +507,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497938+05:30"
+    "last_updated": "2026-06-21T22:25:34.568924+05:30"
   },
   {
     "title": "Publications",
@@ -524,7 +524,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497733+05:30"
+    "last_updated": "2026-06-21T22:25:34.568701+05:30"
   },
   {
     "title": "Audio & acoustics",
@@ -541,7 +541,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497863+05:30"
+    "last_updated": "2026-06-21T22:25:34.568858+05:30"
   },
   {
     "title": "Microsoft Research blog",
@@ -558,7 +558,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497810+05:30"
+    "last_updated": "2026-06-21T22:25:34.568809+05:30"
   },
   {
     "title": "Computer vision",
@@ -575,7 +575,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497888+05:30"
+    "last_updated": "2026-06-21T22:25:34.568880+05:30"
   },
   {
     "title": "Code & data",
@@ -592,7 +592,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497777+05:30"
+    "last_updated": "2026-06-21T22:25:34.568778+05:30"
   },
   {
     "title": "Search & information retrieval",
@@ -609,7 +609,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-21T20:19:19.497987+05:30"
+    "last_updated": "2026-06-21T22:25:34.568967+05:30"
   },
   {
     "title": "Graphics & multimedia",
@@ -626,7 +626,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497913+05:30"
+    "last_updated": "2026-06-21T22:25:34.568903+05:30"
   },
   {
     "title": "Artificial intelligence",
@@ -643,7 +643,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:19.497837+05:30"
+    "last_updated": "2026-06-21T22:25:34.568835+05:30"
   },
   {
     "title": "Responsible Scaling Policy",
@@ -661,7 +661,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.471059+05:30"
+    "last_updated": "2026-06-21T22:25:32.618209+05:30"
   },
   {
     "title": "Jun 3, 2026AnnouncementsIntroducing the Services Track and Partner Hub of the Claude Partner Network",
@@ -679,7 +679,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "product",
-    "last_updated": "2026-06-21T20:19:17.470841+05:30"
+    "last_updated": "2026-06-21T22:25:32.617993+05:30"
   },
   {
     "title": "Jun 9, 2026AnnouncementsClaude Fable 5 and Claude Mythos 5",
@@ -697,7 +697,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470813+05:30"
+    "last_updated": "2026-06-21T22:25:32.617968+05:30"
   },
   {
     "title": "Jun 17, 2026AnnouncementsAnthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
@@ -715,7 +715,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470659+05:30"
+    "last_updated": "2026-06-21T22:25:32.617805+05:30"
   },
   {
     "title": "Jun 11, 2026AnnouncementsDXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
@@ -733,7 +733,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470773+05:30"
+    "last_updated": "2026-06-21T22:25:32.617935+05:30"
   },
   {
     "title": "Jun 3, 2026PolicyWhat we learned mapping a year’s worth of AI-enabled cyber threats",
@@ -751,7 +751,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470869+05:30"
+    "last_updated": "2026-06-21T22:25:32.618017+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsResults from the first Anthropic Public Record",
@@ -769,7 +769,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470714+05:30"
+    "last_updated": "2026-06-21T22:25:32.617882+05:30"
   },
   {
     "title": "Jun 12, 2026AnnouncementsTCS and Anthropic partner to bring Claude to regulated industries",
@@ -787,7 +787,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:17.470744+05:30"
+    "last_updated": "2026-06-21T22:25:32.617910+05:30"
   },
   {
     "title": "AlphaEvolveDesign advanced algorithms for math and applications in computing",
@@ -807,7 +807,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.051633+05:30"
+    "last_updated": "2026-06-21T22:25:33.166090+05:30"
   },
   {
     "title": "AlphaEarthMap our planet in unprecedented detail",
@@ -826,7 +826,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.051599+05:30"
+    "last_updated": "2026-06-21T22:25:33.166057+05:30"
   },
   {
     "title": "NewsDiscover our latest AI breakthroughs, projects, and updates",
@@ -845,7 +845,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.051680+05:30"
+    "last_updated": "2026-06-21T22:25:33.166135+05:30"
   },
   {
     "title": "Learn more",
@@ -865,7 +865,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.051940+05:30"
+    "last_updated": "2026-06-21T22:25:33.166386+05:30"
   },
   {
     "title": "SIMA 2An agent that plays, reasons, and learns with you",
@@ -885,7 +885,7 @@
     "archive_score": 80,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.051518+05:30"
+    "last_updated": "2026-06-21T22:25:33.165955+05:30"
   },
   {
     "title": "Applied AI",
@@ -903,7 +903,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:13.500128+05:30"
+    "last_updated": "2026-06-21T22:25:29.171492+05:30"
   },
   {
     "title": "AI Adoption",
@@ -921,7 +921,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:13.500095+05:30"
+    "last_updated": "2026-06-21T22:25:29.171468+05:30"
   },
   {
     "title": "Global Affairs",
@@ -939,7 +939,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:13.499512+05:30"
+    "last_updated": "2026-06-21T22:25:29.171439+05:30"
   },
   {
     "title": "Engineering",
@@ -957,7 +957,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:13.499455+05:30"
+    "last_updated": "2026-06-21T22:25:29.171302+05:30"
   },
   {
     "title": "AI Now Summit 2026",
@@ -976,7 +976,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373368+05:30"
+    "last_updated": "2026-06-21T22:25:33.454599+05:30"
   },
   {
     "title": "Research Physics AI research that’s shaping the industry. Published breakthroughs pushing the state of the art. May 27, 2026 Mistral",
@@ -995,7 +995,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "api",
-    "last_updated": "2026-06-21T20:19:18.374142+05:30"
+    "last_updated": "2026-06-21T22:25:33.455515+05:30"
   },
   {
     "title": "Vibe gets to work.",
@@ -1015,7 +1015,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373405+05:30"
+    "last_updated": "2026-06-21T22:25:33.454630+05:30"
   },
   {
     "title": "Introducing Search Toolkit",
@@ -1034,7 +1034,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373438+05:30"
+    "last_updated": "2026-06-21T22:25:33.454663+05:30"
   },
   {
     "title": "Voxtral TTS",
@@ -1053,7 +1053,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373278+05:30"
+    "last_updated": "2026-06-21T22:25:33.454520+05:30"
   },
   {
     "title": "Company Emmi joins Mistral to accelerate the AI-native industry May 23, 2026 Mistral AI",
@@ -1072,7 +1072,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.374184+05:30"
+    "last_updated": "2026-06-21T22:25:33.455555+05:30"
   },
   {
     "title": "Company Mistral AI partners with NVIDIA to accelerate open frontier models March 16, 2026 Mistral AI",
@@ -1091,7 +1091,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.374412+05:30"
+    "last_updated": "2026-06-21T22:25:33.455785+05:30"
   },
   {
     "title": "Product Workflows for work that runs the business Workflows is now in public preview. April 27, 2026 Mistral AI",
@@ -1111,7 +1111,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-21T20:19:18.374278+05:30"
+    "last_updated": "2026-06-21T22:25:33.455656+05:30"
   },
   {
     "title": "Mistral Small 4",
@@ -1130,7 +1130,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373229+05:30"
+    "last_updated": "2026-06-21T22:25:33.454474+05:30"
   },
   {
     "title": "Mistral Medium 3.5",
@@ -1150,7 +1150,7 @@
     "archive_score": 82,
     "archive_tier": "useful",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:18.373169+05:30"
+    "last_updated": "2026-06-21T22:25:33.454400+05:30"
   },
   {
     "title": "Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain",
@@ -1470,7 +1470,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:18.601887+05:30"
+    "last_updated": "2026-06-21T22:25:32.301575+05:30"
   },
   {
     "title": "Model Validation of Agentic AI Systems: A POMDP-Based Framework for Belief-State, Forecast, and Policy Validation",
@@ -2341,18 +2341,17 @@
       "dataset",
       "github-repo",
       "hackernews",
-      "models",
       "python",
       "rag"
     ],
     "source_url": "https://github.com/ParticleMedia/RAGTruth",
     "local_path": "ai/rag/particlemedia-ragtruth.md",
-    "summary": "- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs. - **T",
+    "summary": "- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs. - **",
     "quality_score": 70,
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:20:32.556995+05:30"
+    "last_updated": "2026-06-21T22:26:21.101625+05:30"
   },
   {
     "title": "Physically Constrained Ensemble Gaussian Process Modelling for Expensive Quantum Systems with Heteroskedastic Noise",
@@ -2423,7 +2422,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.862060+05:30"
+    "last_updated": "2026-06-21T22:25:30.014176+05:30"
   },
   {
     "title": "A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle",
@@ -3072,7 +3071,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501641+05:30"
+    "last_updated": "2026-06-21T22:25:29.201361+05:30"
   },
   {
     "title": "Geometry-Aware Post-Hoc Uncertainty Quantification in Operator Learning",
@@ -3126,7 +3125,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:19:13.501612+05:30"
+    "last_updated": "2026-06-21T22:25:29.201331+05:30"
   },
   {
     "title": "TencentCloudADP/youtu-graphrag",
@@ -3892,7 +3891,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:19:13.501499+05:30"
+    "last_updated": "2026-06-21T22:25:29.201226+05:30"
   },
   {
     "title": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
@@ -4224,12 +4223,12 @@
     ],
     "source_url": "https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository",
     "local_path": "ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md",
-    "summary": "- **Template Repository**: GitHub Classroom-created starter for an **Agentic RAG Chatbot** hackathon project, structured for Python-based development. - **Metadata**: 0 stars, 68 forks, last updated **2026-02-17T18:07:23Z**, with no additional topics",
+    "summary": "- **Repository**: `Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository` (0 stars, 68 forks), last updated **2026-02-17T18:07:23Z**. - **Language**: Python-based template repository for building **agentic",
     "quality_score": 70,
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:21:05.422452+05:30"
+    "last_updated": "2026-06-21T22:26:53.087426+05:30"
   },
   {
     "title": "ANCHOR: Error-Controlled Adaptive Numerical Correction for Neural Operator Time Marching",
@@ -4304,7 +4303,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
-    "last_updated": "2026-06-21T20:19:14.644952+05:30"
+    "last_updated": "2026-06-21T22:25:29.974787+05:30"
   },
   {
     "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
@@ -6366,12 +6365,12 @@
     ],
     "source_url": "https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow",
     "local_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md",
-    "summary": "- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (Python-based), forked 66 times with no stars. - **Purpose**: Likely a GitHub Classroom assignment template for RAG (Retrieval-Augmented Generation) workflow develop",
+    "summary": "- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow` (0 stars, 66 forks) - **Language**: Python-based workflow for RAG (Retrieval-Augmented Generation) homework assignment - **Last Updated**: 2025-02-14T09:55:08Z (GitH",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:21:00.348179+05:30"
+    "last_updated": "2026-06-21T22:26:48.058477+05:30"
   },
   {
     "title": "A Unified Framework for Context-Aware and Relation-Aware Graph Retrieval-Augmented Generation",
@@ -6562,7 +6561,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "benchmark",
-    "last_updated": "2026-06-21T20:19:14.233740+05:30"
+    "last_updated": "2026-06-21T22:25:29.822925+05:30"
   },
   {
     "title": "PIVOT: Bridging Black-Scholes Implied-Volatility and Price Objectives via Differentiable J\\\"ackel Operator",
@@ -8542,24 +8541,22 @@
   {
     "title": "datawhalechina/all-in-rag",
     "category": "ai/rag",
-    "section": "automation-workflows",
+    "section": "vector-databases",
     "tags": [
       "github-repo",
-      "hackernews",
       "meta-ai",
       "models",
       "python",
-      "rag",
-      "workflows"
+      "rag"
     ],
     "source_url": "https://github.com/datawhalechina/all-in-rag",
     "local_path": "ai/rag/datawhalechina-all-in-rag.md",
-    "summary": "- **Comprehensive RAG Guide**: Repository provides a full-stack technical guide for developing Retrieval-Augmented Generation (RAG) applications with large language models (LLMs), covering embedding, retrieval, and generation workflows. - **Multi-Too",
+    "summary": "- **Comprehensive RAG Implementation Guide**: Covers end-to-end RAG (Retrieval-Augmented Generation) development, including LangChain, LlamaIndex, and multimodal integration with models like DeepSeek and Kimi-K2. - **Advanced Vector & Graph Databases",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
-    "resource_kind": "framework",
-    "last_updated": "2026-06-21T20:20:13.045202+05:30"
+    "resource_kind": "benchmark",
+    "last_updated": "2026-06-21T22:26:02.849848+05:30"
   },
   {
     "title": "Learning Topological Representations for Molecular Dynamics",
@@ -9403,7 +9400,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.645860+05:30"
+    "last_updated": "2026-06-21T22:25:29.975629+05:30"
   },
   {
     "title": "safishamsi/Knowledge-Graph-Based-Hybrid-RAG-System",
@@ -12099,12 +12096,12 @@
     ],
     "source_url": "https://github.com/datawhalechina/llm-universe",
     "local_path": "ai/rag/datawhalechina-llm-universe.md",
-    "summary": "- **Educational Resource**: A beginner-friendly LLM application development tutorial repository with online documentation hosted via GitHub Pages (`datawhalechina/llm-universe`). - **Technical Focus**: Implements **LangChain** and **RAG (Retrieval-Au",
+    "summary": "- **Educational Resource**: A beginner-friendly tutorial for developing large language model (LLM) applications, structured as Jupyter Notebooks and hosted online for interactive learning. - **Technical Focus**: Covers LangChain and Retrieval-Augment",
     "quality_score": 70,
     "archive_score": 75,
     "archive_tier": "useful",
-    "resource_kind": "benchmark",
-    "last_updated": "2026-06-21T20:20:22.586299+05:30"
+    "resource_kind": "framework",
+    "last_updated": "2026-06-21T22:26:11.108313+05:30"
   },
   {
     "title": "KAN-MLP-Mixer: A comprehensive investigation of the usage of Kolmogorov-Arnold Networks (KANs) for improving IMU-based Human Activity Recognition",
@@ -12930,21 +12927,21 @@
   {
     "title": "malonge/RaGOO",
     "category": "ai/rag",
-    "section": "vector-databases",
+    "section": "automation-workflows",
     "tags": [
       "github-repo",
-      "hackernews",
       "python",
-      "rag"
+      "rag",
+      "workflows"
     ],
     "source_url": "https://github.com/malonge/RaGOO",
     "local_path": "ai/rag/malonge-ragoo.md",
-    "summary": "- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to **RagTag** (`malonge/RagTag`) as its successor. - **Technical Scope**: Designed for **genome assembly and scaffolding** in bioinformatics, implemented in **Python**. - **M",
+    "summary": "- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, **RagTag** ([GitHub](https://github.com/malonge/RagTag)). - **Functionality**: Designed for **genome assembly scaffolding** and **chromo",
     "quality_score": 70,
-    "archive_score": 75,
+    "archive_score": 77,
     "archive_tier": "useful",
-    "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:20:45.274080+05:30"
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-21T22:26:31.019645+05:30"
   },
   {
     "title": "Self-Evolving Multi-Agent Systems via Textual Backpropagation",
@@ -14910,7 +14907,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "mcp-server",
-    "last_updated": "2026-06-21T20:19:14.646030+05:30"
+    "last_updated": "2026-06-21T22:25:29.975800+05:30"
   },
   {
     "title": "Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention",
@@ -16482,19 +16479,18 @@
     "section": "automation-workflows",
     "tags": [
       "github-repo",
-      "hackernews",
       "python",
       "rag",
       "workflows"
     ],
     "source_url": "https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow",
     "local_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md",
-    "summary": "- **Repository Purpose**: GitHub Classroom assignment template for RAG (Retrieval-Augmented Generation) workflow implementation. - **Technical Stack**: Python-based repository with no additional language dependencies. - **Metadata**: Last updated on",
+    "summary": "- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow` (Python-based, last updated 2025-01-08) - **Forks**: 101 (indicating high adoption or reuse in educational contexts) - **Purpose**: Likely a GitHub Classroom assignm",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:20:50.398449+05:30"
+    "last_updated": "2026-06-21T22:26:36.079678+05:30"
   },
   {
     "title": "Rule Taxonomy and Evolution in AI IDEs: A Mining and Survey Study",
@@ -16809,12 +16805,12 @@
     ],
     "source_url": "https://huggingface.co/sentence-transformers/all-minilm-l6-v2",
     "local_path": "ai/rag/huggingface-sentence-transformers-all-minilm-l6-v2.md",
-    "summary": "Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 4980, Downloads: 245673576)",
+    "summary": "Trending Hugging Face model: sentence-transformers/all-MiniLM-L6-v2 (Likes: 4981, Downloads: 245673576)",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:19:13.501465+05:30"
+    "last_updated": "2026-06-21T22:25:29.201169+05:30"
   },
   {
     "title": "Information-Theoretic Decomposition for Multimodal Interaction Learning",
@@ -17089,12 +17085,12 @@
     ],
     "source_url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-minilm-l12-v2",
     "local_path": "ai/rag/huggingface-sentence-transformers-paraphrase-multilingual-minilm-l12-v2.md",
-    "summary": "Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1278, Downloads: 51822085)",
+    "summary": "Trending Hugging Face model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 (Likes: 1279, Downloads: 51822085)",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501569+05:30"
+    "last_updated": "2026-06-21T22:25:29.201290+05:30"
   },
   {
     "title": "How do Self-Supervised Remote Sensing Vision Models Transfer to Downstream Tasks?",
@@ -17475,12 +17471,12 @@
     ],
     "source_url": "https://github.com/IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow",
     "local_path": "ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md",
-    "summary": "- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), Python-based, last updated **2025-09-16T07:09:35Z**. - **Purpose**: GitHub Classroom assignment for RAG (Retrieval-Augmented Generation) workflow",
+    "summary": "- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), last updated **2025-09-16T07:09:35Z**. - **Language**: Primary implementation in **Python**, no additional topics specified. - **Purpose**: GitHu",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
-    "resource_kind": "benchmark",
-    "last_updated": "2026-06-21T20:20:55.341991+05:30"
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-21T22:26:43.071852+05:30"
   },
   {
     "title": "E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems",
@@ -17908,20 +17904,21 @@
   {
     "title": "SylphAI-Inc/GithubChat",
     "category": "ai/rag",
-    "section": "vector-databases",
+    "section": "automation-workflows",
     "tags": [
       "github-repo",
       "python",
-      "rag"
+      "rag",
+      "workflows"
     ],
     "source_url": "https://github.com/SylphAI-Inc/GithubChat",
     "local_path": "ai/rag/sylphai-inc-githubchat.md",
-    "summary": "- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language. - **Python-Based Architecture**: Built in Python, leveraging modular compon",
+    "summary": "- **Practical RAG Implementation**: GitHubChat enables local deployment of a Retrieval-Augmented Generation (RAG) system for querying GitHub repositories, facilitating offline interaction with repository content. - **Python-Based Architecture**: The",
     "quality_score": 70,
-    "archive_score": 75,
+    "archive_score": 77,
     "archive_tier": "useful",
-    "resource_kind": "benchmark",
-    "last_updated": "2026-06-21T20:20:37.555879+05:30"
+    "resource_kind": "framework",
+    "last_updated": "2026-06-21T22:26:26.058005+05:30"
   },
   {
     "title": "Reward Modeling for Multi-Agent Orchestration",
@@ -19241,12 +19238,12 @@
     ],
     "source_url": "https://github.com/raganwald/raganwald.github.com",
     "local_path": "ai/rag/raganwald-raganwald-github-com.md",
-    "summary": "- **Jekyll-based static site generator**: Repository contains the source for `raganwald.com`, a static website built using Jekyll, a Ruby-based static site generator. - **Minimalist structure**: The repository is primarily composed of HTML files, ind",
+    "summary": "- **Static Site Generator**: Jekyll-based repository generating `raganwald.com` with HTML output. - **GitHub Pages Hosting**: Deployed via GitHub Pages, with last update timestamped **2026-06-20T15:41:20Z**. - **Minimal Metadata**: No additional topi",
     "quality_score": 70,
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:20:27.524041+05:30"
+    "last_updated": "2026-06-21T22:26:16.036904+05:30"
   },
   {
     "title": "Code a simple RAG from scratch",
@@ -21788,7 +21785,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501524+05:30"
+    "last_updated": "2026-06-21T22:25:29.201250+05:30"
   },
   {
     "title": "STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability",
@@ -22429,7 +22426,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:13.866149+05:30"
+    "last_updated": "2026-06-21T22:25:29.428438+05:30"
   },
   {
     "title": "Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories",
@@ -23693,7 +23690,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.646963+05:30"
+    "last_updated": "2026-06-21T22:25:29.976716+05:30"
   },
   {
     "title": "mikumifa/biliTickerBuy",
@@ -23710,7 +23707,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.646418+05:30"
+    "last_updated": "2026-06-21T22:25:29.976133+05:30"
   },
   {
     "title": "smicallef/spiderfoot",
@@ -23727,7 +23724,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.646592+05:30"
+    "last_updated": "2026-06-21T22:25:29.976294+05:30"
   },
   {
     "title": "ZhuLinsen/daily_stock_analysis",
@@ -23744,7 +23741,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.645505+05:30"
+    "last_updated": "2026-06-21T22:25:29.975300+05:30"
   },
   {
     "title": "koala73/worldmonitor",
@@ -23761,7 +23758,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.645687+05:30"
+    "last_updated": "2026-06-21T22:25:29.975465+05:30"
   },
   {
     "title": "palmier-io/palmier-pro",
@@ -23779,7 +23776,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.644527+05:30"
+    "last_updated": "2026-06-21T22:25:29.974329+05:30"
   },
   {
     "title": "asgeirtj/system_prompts_leaks",
@@ -23798,7 +23795,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "prompt",
-    "last_updated": "2026-06-21T20:19:14.647167+05:30"
+    "last_updated": "2026-06-21T22:25:29.976917+05:30"
   },
   {
     "title": "penpot/penpot",
@@ -23815,7 +23812,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.645305+05:30"
+    "last_updated": "2026-06-21T22:25:29.975134+05:30"
   },
   {
     "title": "tursodatabase/turso",
@@ -23832,7 +23829,7 @@
     "archive_score": 70,
     "archive_tier": "reference",
     "resource_kind": "reference",
-    "last_updated": "2026-06-21T20:19:14.645132+05:30"
+    "last_updated": "2026-06-21T22:25:29.974965+05:30"
   },
   {
     "title": "Introducing the Red-Teaming Resistance Leaderboard",
@@ -24359,7 +24356,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748244+05:30"
+    "last_updated": "2026-06-21T22:25:29.302255+05:30"
   },
   {
     "title": "Efficient Controllable Generation for SDXL with T2I-Adapters",
@@ -25304,7 +25301,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501685+05:30"
+    "last_updated": "2026-06-21T22:25:29.201403+05:30"
   },
   {
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
@@ -25502,12 +25499,12 @@
     ],
     "source_url": "https://huggingface.co/spaces/mteb",
     "local_path": "ai/models/huggingface-spaces-mteb.md",
-    "summary": "Trending Hugging Face space: mteb/leaderboard (Likes: 7492, Downloads: 0)",
+    "summary": "Trending Hugging Face space: mteb/leaderboard (Likes: 7493, Downloads: 0)",
     "quality_score": 70,
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748203+05:30"
+    "last_updated": "2026-06-21T22:25:29.302199+05:30"
   },
   {
     "title": "Vision Language Models Explained",
@@ -27513,7 +27510,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748157+05:30"
+    "last_updated": "2026-06-21T22:25:29.302140+05:30"
   },
   {
     "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
@@ -28329,7 +28326,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748258+05:30"
+    "last_updated": "2026-06-21T22:25:29.302274+05:30"
   },
   {
     "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
@@ -28796,7 +28793,7 @@
     "archive_score": 74,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:19:13.632140+05:30"
+    "last_updated": "2026-06-21T22:25:29.276018+05:30"
   },
   {
     "title": "Subscribe to Enterprise Hub with your AWS Account",
@@ -30741,7 +30738,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501664+05:30"
+    "last_updated": "2026-06-21T22:25:29.201383+05:30"
   },
   {
     "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
@@ -31012,7 +31009,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748102+05:30"
+    "last_updated": "2026-06-21T22:25:29.302060+05:30"
   },
   {
     "title": "Introducing HuggingFace blog for Chinese speakers: Fostering Collaboration with the Chinese AI community",
@@ -31401,7 +31398,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748188+05:30"
+    "last_updated": "2026-06-21T22:25:29.302180+05:30"
   },
   {
     "title": "Fine-tune Any LLM from the Hugging Face Hub with Together AI",
@@ -32136,7 +32133,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748138+05:30"
+    "last_updated": "2026-06-21T22:25:29.302116+05:30"
   },
   {
     "title": "Ethics and Society Newsletter #4: Bias in Text-to-Image Models",
@@ -32805,7 +32802,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748231+05:30"
+    "last_updated": "2026-06-21T22:25:29.302235+05:30"
   },
   {
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
@@ -33196,7 +33193,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748217+05:30"
+    "last_updated": "2026-06-21T22:25:29.302216+05:30"
   },
   {
     "title": "Deep Learning with Proteins",
@@ -33646,7 +33643,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.748173+05:30"
+    "last_updated": "2026-06-21T22:25:29.302160+05:30"
   },
   {
     "title": "Run a Chatgpt-like Chatbot on a Single GPU with ROCm",
@@ -33968,7 +33965,7 @@
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "dataset",
-    "last_updated": "2026-06-21T20:19:13.501547+05:30"
+    "last_updated": "2026-06-21T22:25:29.201270+05:30"
   },
   {
     "title": "Can foundation models label data like humans?",
@@ -34461,7 +34458,7 @@
     "archive_score": 70,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:13.501590+05:30"
+    "last_updated": "2026-06-21T22:25:29.201310+05:30"
   },
   {
     "title": "Hugging Face partners with Wiz Research to Improve AI Security",
@@ -35127,7 +35124,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:15.682146+05:30"
+    "last_updated": "2026-06-21T22:25:30.476017+05:30"
   },
   {
     "title": "MiniMax Sparse Attention",
@@ -40204,7 +40201,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.646789+05:30"
+    "last_updated": "2026-06-21T22:25:29.976472+05:30"
   },
   {
     "title": "github/awesome-copilot",
@@ -40244,7 +40241,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:18.057053+05:30"
+    "last_updated": "2026-06-21T22:25:31.985029+05:30"
   },
   {
     "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
@@ -40299,7 +40296,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-21T20:19:14.233811+05:30"
+    "last_updated": "2026-06-21T22:25:29.823001+05:30"
   },
   {
     "title": "agruai/ai-book-writer",
@@ -43201,7 +43198,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-21T20:19:14.646224+05:30"
+    "last_updated": "2026-06-21T22:25:29.975979+05:30"
   },
   {
     "title": "RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents",
@@ -43556,7 +43553,7 @@
     "archive_score": 75,
     "archive_tier": "useful",
     "resource_kind": "tutorial",
-    "last_updated": "2026-06-21T20:19:14.644733+05:30"
+    "last_updated": "2026-06-21T22:25:29.974544+05:30"
   },
   {
     "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
@@ -48042,12 +48039,12 @@
     ],
     "source_url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
     "local_path": "ai/community/building-reliable-agentic-ai-systems.md",
-    "summary": "Hacker News story by sarangk90. Score: 131, Comments: 34. Original Link: https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "summary": "Hacker News story by sarangk90. Score: 157, Comments: 37. Original Link: https://martinfowler.com/articles/reliable-llm-bayer.html",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-21T20:19:16.301880+05:30"
+    "last_updated": "2026-06-21T22:25:31.395785+05:30"
   },
   {
     "title": "Loupe – A iOS app that raises awareness about what native apps can see",
@@ -48059,12 +48056,29 @@
     ],
     "source_url": "https://github.com/mysk-research/loupe",
     "local_path": "ai/community/mysk-research-loupe.md",
-    "summary": "Hacker News story by Cider9986. Score: 395, Comments: 159. Original Link: https://github.com/mysk-research/loupe",
+    "summary": "Hacker News story by Cider9986. Score: 440, Comments: 176. Original Link: https://github.com/mysk-research/loupe",
     "quality_score": 70,
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-21T20:19:13.892760+05:30"
+    "last_updated": "2026-06-21T22:25:29.605572+05:30"
+  },
+  {
+    "title": "AI Has Broken Hiring",
+    "category": "ai/community",
+    "section": "automation-workflows",
+    "tags": [
+      "ai",
+      "hackernews"
+    ],
+    "source_url": "https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "local_path": "ai/community/ai-has-broken-hiring.md",
+    "summary": "Hacker News story by ChrisArchitect. Score: 15, Comments: 10. Original Link: https://hbr.org/2026/06/ai-has-broken-hiring-heres-how-to-fix-it",
+    "quality_score": 70,
+    "archive_score": 72,
+    "archive_tier": "useful",
+    "resource_kind": "workflow",
+    "last_updated": "2026-06-21T22:25:30.449231+05:30"
   },
   {
     "title": "Slow breathing modulates brain function and risk behavior",
@@ -48076,12 +48090,12 @@
     ],
     "source_url": "https://cell.com/neuron/fulltext/s0896-6273(26)00339-9",
     "local_path": "ai/community/slow-breathing-modulates-brain-function-and-risk-b.md",
-    "summary": "Hacker News story by croes. Score: 278, Comments: 79. Original Link: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "summary": "Hacker News story by croes. Score: 319, Comments: 93. Original Link: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-21T20:19:14.430885+05:30"
+    "last_updated": "2026-06-21T22:25:30.051477+05:30"
   },
   {
     "title": "The case against geometric algebra (2024)",
@@ -48093,12 +48107,12 @@
     ],
     "source_url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
     "local_path": "ai/community/the-case-against-geometric-algebra-2024.md",
-    "summary": "Hacker News story by Hbruz0. Score: 79, Comments: 52. Original Link: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
+    "summary": "Hacker News story by Hbruz0. Score: 97, Comments: 84. Original Link: https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
     "quality_score": 70,
     "archive_score": 72,
     "archive_tier": "useful",
     "resource_kind": "workflow",
-    "last_updated": "2026-06-21T20:19:13.299001+05:30"
+    "last_updated": "2026-06-21T22:25:30.355433+05:30"
   },
   {
     "title": "Haiku to Opus in Just 10 bits: LLMs Unlock Large Compression Gains",
@@ -76107,7 +76121,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:19:13.372200+05:30"
+    "last_updated": "2026-06-21T22:25:29.032196+05:30"
   },
   {
     "title": "ChartGPU/ChartGPU",
@@ -76687,7 +76701,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "framework",
-    "last_updated": "2026-06-21T20:19:13.244801+05:30"
+    "last_updated": "2026-06-21T22:25:28.882161+05:30"
   },
   {
     "title": "mkkellogg/GaussianSplats3D",
@@ -76751,7 +76765,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:19:13.244917+05:30"
+    "last_updated": "2026-06-21T22:25:28.882609+05:30"
   },
   {
     "title": "fireship-io/threejs-scroll-animation-demo",
@@ -77636,7 +77650,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:19:13.238264+05:30"
+    "last_updated": "2026-06-21T22:25:28.882214+05:30"
   },
   {
     "title": "benjaminmiles/react-three-vite",
@@ -77721,7 +77735,7 @@
     "archive_score": 83,
     "archive_tier": "useful",
     "resource_kind": "tool",
-    "last_updated": "2026-06-21T20:19:13.238339+05:30"
+    "last_updated": "2026-06-21T22:25:29.035105+05:30"
   },
   {
     "title": "wass08/r3f-ultimate-character-configurator",
@@ -77920,7 +77934,7 @@
     "archive_score": 77,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.339670+05:30"
+    "last_updated": "2026-06-21T22:25:29.086848+05:30"
   },
   {
     "title": "Next.js 13.5",
@@ -78849,7 +78863,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-16T13:57:11.478284+05:30"
+    "last_updated": "2026-06-21T22:25:29.086689+05:30"
   },
   {
     "title": "reliverse/relivator",
@@ -79116,7 +79130,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595224+05:30"
+    "last_updated": "2026-06-21T22:25:29.243797+05:30"
   },
   {
     "title": "hsuanyi-chou/shadcn-ui-expansions",
@@ -79164,7 +79178,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595307+05:30"
+    "last_updated": "2026-06-21T22:25:29.243884+05:30"
   },
   {
     "title": "magicuidesign/portfolio",
@@ -79279,7 +79293,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595473+05:30"
+    "last_updated": "2026-06-21T22:25:29.243971+05:30"
   },
   {
     "title": "dan5py/turborepo-shadcn-ui",
@@ -79375,7 +79389,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595349+05:30"
+    "last_updated": "2026-06-21T22:25:29.243896+05:30"
   },
   {
     "title": "sadmann7/file-uploader",
@@ -79407,7 +79421,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595440+05:30"
+    "last_updated": "2026-06-21T22:25:29.243950+05:30"
   },
   {
     "title": "jnsahaj/tweakcn",
@@ -79423,7 +79437,7 @@
     "archive_score": 81,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595522+05:30"
+    "last_updated": "2026-06-21T22:25:29.244002+05:30"
   },
   {
     "title": "ln-dev7/square-ui",
@@ -79439,7 +79453,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595456+05:30"
+    "last_updated": "2026-06-21T22:25:29.243961+05:30"
   },
   {
     "title": "akash3444/shadcn-ui-blocks",
@@ -79487,7 +79501,7 @@
     "archive_score": 79,
     "archive_tier": "useful",
     "resource_kind": "template",
-    "last_updated": "2026-06-21T20:19:13.595290+05:30"
+    "last_updated": "2026-06-21T22:25:29.243873+05:30"
   },
   {
     "title": "marmelab/atomic-crm",

@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by croes. Score: 278, Comments: 79.
+Hacker News story by croes. Score: 319, Comments: 93.
 Original Link: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
 
 ## Use Cases

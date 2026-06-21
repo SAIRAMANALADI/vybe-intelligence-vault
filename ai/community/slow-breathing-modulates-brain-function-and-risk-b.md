@@ -5,19 +5,19 @@ source_type: hackernews
 source_name: Hacker News AI
 source_url: https://cell.com/neuron/fulltext/s0896-6273(26)00339-9
 hn_url: https://news.ycombinator.com/item?id=48613555
-score: 278
+score: 319
 author: croes
-comments_count: 79
+comments_count: 93
 published_at: '2026-06-21T03:52:52+05:30'
-collected_at: '2026-06-21T20:19:14.430885+05:30'
+collected_at: '2026-06-21T22:25:30.051477+05:30'
 tags:
 - ai
 - hackernews
 status: active
 resource_id: hackernews:slow-breathing-modulates-brain-function-and-risk-b
 first_seen: '2026-06-21T20:19:14.430885+05:30'
-last_seen: '2026-06-21T20:19:14.430885+05:30'
-last_checked: '2026-06-21T20:19:14.430885+05:30'
+last_seen: '2026-06-21T22:25:30.051477+05:30'
+last_checked: '2026-06-21T22:25:30.051477+05:30'
 health_score: 100
 ---
 
@@ -25,7 +25,7 @@ health_score: 100
 
 ## Summary
 
-Hacker News story by croes. Score: 278, Comments: 79.
+Hacker News story by croes. Score: 319, Comments: 93.
 Original Link: https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9
 
 ## Why It Matters
@@ -35,8 +35,8 @@ This is a trending discussion or resource collected from the Hacker News communi
 ## Discussion Details
 
 - Author: croes
-- Score: 278 Upvotes
-- Comments: 79 Discussions
+- Score: 319 Upvotes
+- Comments: 93 Discussions
 - Hacker News Link: https://news.ycombinator.com/item?id=48613555
 - Original Article: https://cell.com/neuron/fulltext/s0896-6273(26)00339-9
 

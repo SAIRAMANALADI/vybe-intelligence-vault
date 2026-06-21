@@ -15,7 +15,6 @@ tags:
 - dataset
 - github-repo
 - hackernews
-- models
 - python
 - rag
 selection_reason:
@@ -36,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and mitigating hallucinations in generated outputs.
+- **Dataset Purpose**: Introduces *RAGTruth*, a hallucination corpus designed to evaluate and improve the trustworthiness of Retrieval-Augmented Generation (RAG) language models by identifying and quantifying hallucinations in generated outputs.
 
-- **Technical Scope**: Provides a structured dataset with annotated hallucinations, enabling fine-tuning and benchmarking of RAG models for factual accuracy and reliability in real-world applications.
+- **Technical Scope**: Provides a structured dataset with annotated instances of hallucinations, enabling fine-grained analysis of RAG model failures in factual consistency, context adherence, and retrieval accuracy.
 
-- **Implementation**: Python-based repository with t
+- **Implementation**: Python-based
 
 ## Use Cases
 

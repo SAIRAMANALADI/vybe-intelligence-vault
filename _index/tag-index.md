@@ -1082,6 +1082,7 @@ Resources organized by keyword tags.
 
 ## ai
 
+  - [AI Has Broken Hiring](../ai/community/ai-has-broken-hiring.md)
   - [Building reliable agentic AI systems](../ai/community/building-reliable-agentic-ai-systems.md)
   - [Loupe – A iOS app that raises awareness about what native apps can see](../ai/community/mysk-research-loupe.md)
   - [Slow breathing modulates brain function and risk behavior](../ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)
@@ -4199,6 +4200,7 @@ Resources organized by keyword tags.
   - [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](../ai/rag/ai-agent-benchmarks-2026-who-leads-swe-bench-gaia.md)
   - [AI Benchmarks 2026: Compare 300+ LLM Benchmarks & Tests](../ai/rag/ai-benchmarks-2026-compare-300-llm-benchmarks-test.md)
   - [AI Coding Agent Benchmarks & Leaderboard | Artificial Analysis](../ai/rag/ai-coding-agent-benchmarks-leaderboard-artificial.md)
+  - [AI Has Broken Hiring](../ai/community/ai-has-broken-hiring.md)
   - [AI Pluralism and the Worlds It Misses](../ai/research/arxiv-2606-16167.md)
   - [AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks](../ai/research/arxiv-2606-11533.md)
   - [AI Watermarking 101: Tools and Techniques](../ai/models/ai-watermarking-101-tools-and-techniques.md)
@@ -4369,7 +4371,6 @@ Resources organized by keyword tags.
   - [IBM RAG and Agentic AI Professional Certificate | Coursera](../ai/rag/ibm-rag-and-agentic-ai-professional-certificate-co.md)
   - [IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset](../ai/research/arxiv-2606-16910.md)
   - [IOAH3: Importance-Driven Adaptive Spatial Partitioning](../ai/rag/arxiv-2606-18280.md)
-  - [IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)
   - [Implicit Variational Rejection Sampling](../ai/rag/arxiv-2606-14235.md)
   - [Improving Pre-trained Adult Glioma Segmentation Models Using only Post-processing Techniques](../ai/research/arxiv-2512-14937.md)
   - [Incentives and Evidence in Learned Service Orchestration](../ai/research/arxiv-2606-16555.md)
@@ -4572,13 +4573,11 @@ Resources organized by keyword tags.
   - [Z-Plane Neural Networks: Bounded Geometric Activation Replaces ReLU and LayerNorm](../ai/research/arxiv-2606-15669.md)
   - [[2501.07391] Enhancing Retrieval-Augmented Generation: A Study of Best Practices](../ai/rag/arxiv-2501-07391.md)
   - [daVinci-kernel: Co-Evolving Skill Selection, Summarization, and Utilization via RL for GPU Kernel Optimization](../ai/agents/arxiv-2606-16497.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [datawhalechina/llm-universe](../ai/rag/datawhalechina-llm-universe.md)
   - [duanyytop/agents-radar](../ai/agents/duanyytop-agents-radar.md)
   - [gkjohnson/threejs-sandbox](../web-development/threejs/gkjohnson-threejs-sandbox.md)
   - [gnikoloff/webgpu-sponza-demo](../web-development/webgpu/gnikoloff-webgpu-sponza-demo.md)
   - [krishnaik06/RAG-Tutorials](../ai/rag/krishnaik06-rag-tutorials.md)
-  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [p-PSO: A Penalized Particle Swarm Optimization Technique for Finding D-Optimal Designs with Mixed Factors in Generalized Linear Models](../ai/research/arxiv-2606-15962.md)
 
 ## hf-dataset
@@ -5514,7 +5513,6 @@ Resources organized by keyword tags.
   - [Parameter-Efficient Adapter Tuning for Tabular-Image Multimodal Learning](../ai/research/arxiv-2606-11682.md)
   - [Parameter-Efficient Fine-Tuning using 🤗 PEFT](../ai/models/parameter-efficient-fine-tuning-using-peft.md)
   - [Parthenon Law: A Self-Evolving Legal-Agent Framework](../ai/agents/arxiv-2606-04602.md)
-  - [ParticleMedia/RAGTruth](../ai/rag/particlemedia-ragtruth.md)
   - [Pass@K Policy Optimization: Solving Harder Reinforcement Learning Problems](../ai/research/arxiv-2505-15201.md)
   - [Patcher: Post-Hoc Patching of Backdoored Large Language Models](../ai/research/arxiv-2606-02995.md)
   - [PermDoRA -- Understanding Adapter Interference in Language Models: Limits of Parameter-Space Geometry](../ai/rag/arxiv-2606-11262.md)
@@ -8868,6 +8866,7 @@ Resources organized by keyword tags.
   - [Step-by-step implementation guide: Build GraphRAG systems that connect the dots your traditional RAG is missing. | by Ak](../ai/rag/step-by-step-implementation-guide-build-graphrag-s.md)
   - [Structured Testbench Generation for LLM-Driven HDL Design and Verification-Oriented Data Curation](../ai/rag/arxiv-2606-12983.md)
   - [Surrogate Assisted Pedestrian Protection Design via a Foundation Model Orchestrated Workflow](../ai/rag/arxiv-2606-17577.md)
+  - [SylphAI-Inc/GithubChat](../ai/rag/sylphai-inc-githubchat.md)
   - [TAHOE: Text-to-SQL with Automated Hint Optimization from Experience](../ai/rag/arxiv-2606-12387.md)
   - [TRAP: Benchmark for Task-completion and Resistance to Active Privacy-extraction](../ai/agents/arxiv-2606-18996.md)
   - [TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?](../ai/agents/arxiv-2606-13148.md)
@@ -8916,11 +8915,11 @@ Resources organized by keyword tags.
   - [XFlow: An Executable Protocol Programming System for Reliable Multi-Agent Workflows](../ai/agents/arxiv-2606-14790.md)
   - [XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Systems](../ai/agents/arxiv-2606-14766.md)
   - [cyproxio/mcp-for-security](../ai/resources/cyproxio-mcp-for-security.md)
-  - [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md)
   - [fzn0x/watchtower](../ai/rag/fzn0x-watchtower.md)
   - [infiniumtek/terraform-review-agent](../ai/agents/infiniumtek-terraform-review-agent.md)
   - [iuyup/AgentFlow](../ai/agents/iuyup-agentflow.md)
   - [langgenius/dify](../ai/rag/langgenius-dify.md)
+  - [malonge/RaGOO](../ai/rag/malonge-ragoo.md)
   - [sirius-zuo/devops-skills](../ai/agents/sirius-zuo-devops-skills.md)
   - [trpc-group/trpc-agent-go](../ai/rag/trpc-group-trpc-agent-go.md)
 
@@ -9191,4 +9190,4 @@ Resources organized by keyword tags.
   - [rokbenko/ai-playground](../ai/rag/rokbenko-ai-playground.md)
 
 ---
-*Index generated on 2026-06-21T20:21:12.444400+05:30*
+*Index generated on 2026-06-21T22:27:00.250247+05:30*

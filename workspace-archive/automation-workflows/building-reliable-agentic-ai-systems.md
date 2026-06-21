@@ -32,7 +32,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by sarangk90. Score: 131, Comments: 34.
+Hacker News story by sarangk90. Score: 157, Comments: 37.
 Original Link: https://martinfowler.com/articles/reliable-llm-bayer.html
 
 ## Use Cases

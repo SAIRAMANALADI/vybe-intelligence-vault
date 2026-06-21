@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by Cider9986. Score: 395, Comments: 159.
+Hacker News story by Cider9986. Score: 440, Comments: 176.
 Original Link: https://github.com/mysk-research/loupe
 
 ## Use Cases

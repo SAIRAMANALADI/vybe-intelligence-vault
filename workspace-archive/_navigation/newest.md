@@ -27,7 +27,7 @@ The latest resources synchronized from public feeds, ordered chronologically.
 | 2026-03-01 | [humanlaya/OneMillion-Bench](https://github.com/humanlaya/OneMillion-Bench) | `ai-coding-agents/` |
 | 2026-02-28 | [ilexistools/agents-sdk-templates](https://github.com/ilexistools/agents-sdk-templates) | `ai-coding-agents/` |
 | 2026-02-25 | [8500GIRISH/CrewAI-2026](https://github.com/8500GIRISH/CrewAI-2026) | `ai-coding-agents/` |
-| 2026-02-16 | [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository) | `rag-systems/` |
+| 2026-02-16 | [Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](https://github.com/Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository) | `agent-frameworks/` |
 | 2026-02-16 | [hammadhaqqani/awesome-devops-ai](https://github.com/hammadhaqqani/awesome-devops-ai) | `ai-coding-agents/` |
 | 2026-02-15 | [prompten-2026bahar/PE-2026-CrewAI](https://github.com/prompten-2026bahar/PE-2026-CrewAI) | `ai-coding-agents/` |
 | 2026-02-03 | [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) | `ai-coding-agents/` |

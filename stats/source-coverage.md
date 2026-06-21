@@ -35,6 +35,7 @@ Distribution of original signal ingestion sources across processed URLs:
 | cell.com | 1 |
 | martinfowler.com | 1 |
 | alexkritchevsky.com | 1 |
+| hbr.org | 1 |
 | speechify.com | 1 |
 | play.google.com | 1 |
 | help.medium.com | 1 |
