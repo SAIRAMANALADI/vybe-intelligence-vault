@@ -1,9 +1,10 @@
 ---
 name: Quality Feedback
 about: Report poor classification, inaccurate descriptions, or bad tags on a resource.
-title: "[QUALITY] - "
+title: '[QUALITY] - '
 labels: quality-feedback
 assignees: ''
+resource_id: blog:quality
 ---
 
 Please describe the quality issue below.

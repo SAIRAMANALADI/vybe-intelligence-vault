@@ -1,9 +1,11 @@
 ---
 name: Resource Suggestion
-about: Suggest a new developer tool, framework, dataset, or article for the intelligence vault.
-title: "[SUGGEST] - "
+about: Suggest a new developer tool, framework, dataset, or article for the intelligence
+  vault.
+title: '[SUGGEST] - '
 labels: resource-suggestion
 assignees: ''
+resource_id: blog:suggest
 ---
 
 Please provide details about the suggested resource below.

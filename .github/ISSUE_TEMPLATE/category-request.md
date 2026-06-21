@@ -1,9 +1,10 @@
 ---
 name: Category Request
 about: Request a new classification category for organizing intelligence resources.
-title: "[CATEGORY] - "
+title: '[CATEGORY] - '
 labels: category-request
 assignees: ''
+resource_id: blog:category
 ---
 
 Please details your category suggestion below.

@@ -1,9 +1,10 @@
 ---
 name: Broken Link Report
 about: Report a dead or incorrect URL inside the vault.
-title: "[BROKEN LINK] - "
+title: '[BROKEN LINK] - '
 labels: broken-link
 assignees: ''
+resource_id: blog:broken-link
 ---
 
 Please report the broken link details below.
