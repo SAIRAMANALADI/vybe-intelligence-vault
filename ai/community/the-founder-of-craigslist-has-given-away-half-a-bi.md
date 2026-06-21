@@ -13,13 +13,14 @@ collected_at: '2026-06-18T23:35:17.957249+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-founder-of-craigslist-has-given-away-half-a-bi
 first_seen: '2026-06-18T23:35:17.957249+05:30'
 last_seen: '2026-06-18T23:35:17.957249+05:30'
 last_checked: '2026-06-18T23:35:17.957249+05:30'
 health_score: 100
 ---
+
 
 # The founder of Craigslist has given away half a billion dollars
 

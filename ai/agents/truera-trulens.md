@@ -4,18 +4,18 @@ category: ai/agents
 source_type: github
 source_name: GitHub Topics AI Search
 source_url: https://github.com/truera/trulens
-collected_at: '2026-06-18T23:35:18.966594+05:30'
-published_at: '2026-06-18T14:12:58Z'
+collected_at: '2026-06-21T20:19:14.233683+05:30'
+published_at: '2026-06-20T21:12:11Z'
 tags:
 - agents
 - benchmark
-stars: 3387
+stars: 3392
 language: Python
 status: active
 resource_id: github:truera/trulens
 first_seen: '2026-06-18T23:35:18.966594+05:30'
-last_seen: '2026-06-18T23:35:18.966594+05:30'
-last_checked: '2026-06-18T23:35:18.966594+05:30'
+last_seen: '2026-06-21T20:19:14.233683+05:30'
+last_checked: '2026-06-21T20:19:14.233683+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: truera
-- Stars: 3387
-- Forks: 299
+- Stars: 3392
+- Forks: 302
 - Language: Python
 - Topics: agent-evaluation, agentops, ai-agents, ai-monitoring, ai-observability, evals, explainable-ml, llm-eval, llm-evaluation, llmops, llms, machine-learning, neural-networks
-- Last Updated: 2026-06-18T14:12:58Z
+- Last Updated: 2026-06-20T21:12:11Z
 
 ## Possible Use Cases
 

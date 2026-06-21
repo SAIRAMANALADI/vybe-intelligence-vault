@@ -4,17 +4,17 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/webgpu/webgpufundamentals
-collected_at: '2026-06-15T16:20:25.621205+00:00'
-published_at: '2026-06-15T16:02:08Z'
+collected_at: '2026-06-21T20:19:13.372182+05:30'
+published_at: '2026-06-21T02:31:31Z'
 tags:
 - threejs
-stars: 988
+stars: 987
 language: HTML
 status: active
 resource_id: github:webgpu/webgpufundamentals
 first_seen: '2026-06-15T16:20:25.621205+00:00'
-last_seen: '2026-06-15T16:20:25.621205+00:00'
-last_checked: '2026-06-15T16:20:25.621205+00:00'
+last_seen: '2026-06-21T20:19:13.372182+05:30'
+last_checked: '2026-06-21T20:19:13.372182+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 ## Repository Details
 
 - Owner: webgpu
-- Stars: 988
+- Stars: 987
 - Forks: 147
 - Language: HTML
 - Topics: graphics, webgpu
-- Last Updated: 2026-06-15T16:02:08Z
+- Last Updated: 2026-06-21T02:31:31Z
 
 ## Possible Use Cases
 

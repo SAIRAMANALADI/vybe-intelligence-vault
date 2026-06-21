@@ -8,7 +8,7 @@ local_vault_path: ai/rag/sylphai-inc-githubchat.md
 quality_score: 70
 archive_score: 75
 archive_tier: useful
-resource_kind: tool
+resource_kind: benchmark
 importance: medium
 tags:
 - github-repo
@@ -24,13 +24,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 75 (useful)
-- Resource kind: tool
+- Resource kind: benchmark
 - Selection reasons:
   - Active open-source repository
 
 ## Summary
 
-A practical RAG where you can download and chat with github repo
+- **Practical RAG Implementation**: A Retrieval-Augmented Generation (RAG) system enabling users to download and interactively query GitHub repositories via natural language.
+- **Python-Based Architecture**: Built in Python, leveraging modular components for document ingestion, embedding, retrieval, and LLM-based response generation.
+- **Static Repository Snapshot**: Last updated on 2026-06-18, with no active development topics or recent commits, indicating a stable but unmaintained state.
 
 ## Use Cases
 

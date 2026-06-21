@@ -4,8 +4,8 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-three-next
-collected_at: '2026-06-17T20:12:13.505776+05:30'
-published_at: '2026-06-17T12:35:26Z'
+collected_at: '2026-06-21T20:19:13.238339+05:30'
+published_at: '2026-06-20T19:26:54Z'
 tags:
 - frontend_ui
 - threejs
@@ -14,8 +14,8 @@ language: JavaScript
 status: active
 resource_id: github:pmndrs/react-three-next
 first_seen: '2026-06-12T10:40:15.865466+00:00'
-last_seen: '2026-06-17T20:12:13.505776+05:30'
-last_checked: '2026-06-17T20:12:13.505776+05:30'
+last_seen: '2026-06-21T20:19:13.238339+05:30'
+last_checked: '2026-06-21T20:19:13.238339+05:30'
 health_score: 100
 ---
 
@@ -33,10 +33,10 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: pmndrs
 - Stars: 2839
-- Forks: 397
+- Forks: 398
 - Language: JavaScript
 - Topics: react, react-three-fiber, starter, tailwind, threejs, webgl
-- Last Updated: 2026-06-17T12:35:26Z
+- Last Updated: 2026-06-20T19:26:54Z
 
 ## Possible Use Cases
 

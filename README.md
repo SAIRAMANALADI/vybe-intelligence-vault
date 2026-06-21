@@ -44,35 +44,39 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 4874 |
-| Active resources | 4757 |
-| Inactive resources | 117 |
-| Archive files | 22728 |
+| Resources tracked | 4909 |
+| Active resources | 4771 |
+| Inactive resources | 138 |
+| Archive files | 22801 |
 | Archive categories | 34 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-18 23:40 IST |
+| Last meaningful update | 2026-06-21 20:22 IST |
 
 ### Trend Intelligence Dashboard
 
 #### Trending Resources
-- **[Emacs 31 is around the corner: The changes I'm daily driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)** (+98 points)
-- **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)** (+38 points)
-- **[malonge/RaGOO](ai/rag/malonge-ragoo.md)** (Rank: +3125)
-- **[What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community](ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md)** (Rank: +10)
-- **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (Rank: +481)
+- **[Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository](ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md)** (Rank: +3198)
+- **[IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md)** (Rank: +568)
+- **[IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md)** (Rank: +568)
+- **[IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow](ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md)** (Rank: +568)
+- **[SylphAI-Inc/GithubChat](ai/rag/sylphai-inc-githubchat.md)** (Rank: +1)
 
 #### New Discoveries
-- **[The founder of Craigslist has given away half a billion dollars](ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md)** (Score: 55)
-- **[Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md)** (Score: 50)
-- **[interviewstreet/hiring-agent](ai/agents/interviewstreet-hiring-agent.md)** (Score: 0)
-- **[google/adk-go](ai/agents/google-adk-go.md)** (Score: 0)
-- **[mozilla-ai/any-agent](ai/agents/mozilla-ai-any-agent.md)** (Score: 0)
+- **[Loupe – A iOS app that raises awareness about what native apps can see](ai/community/mysk-research-loupe.md)** (Score: 395)
+- **[Slow breathing modulates brain function and risk behavior](ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)** (Score: 278)
+- **[Building reliable agentic AI systems](ai/community/building-reliable-agentic-ai-systems.md)** (Score: 131)
+- **[The case against geometric algebra (2024)](ai/community/the-case-against-geometric-algebra-2024.md)** (Score: 79)
+- **[asgeirtj/system_prompts_leaks](ai/trending/asgeirtj-system-prompts-leaks.md)** (Score: 0)
 
 #### Recently Inactive Resources
-- None.
+- **[Emacs 31 is around the corner: The changes I'm daily driving](ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md)**
+- **[The founder of Craigslist has given away half a billion dollars](ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md)**
+- **[Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts](ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md)**
+- **[Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps](ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md)**
+- **[Lightricks/LTX-2](ai/trending/lightricks-ltx-2.md)**
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

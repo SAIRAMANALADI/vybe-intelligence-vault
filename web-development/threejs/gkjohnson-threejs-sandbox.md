@@ -4,7 +4,7 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/gkjohnson/threejs-sandbox
-collected_at: '2026-06-18T02:03:04.714825+05:30'
+collected_at: '2026-06-21T20:19:13.244946+05:30'
 published_at: '2026-06-17T19:04:28Z'
 tags:
 - hackernews
@@ -14,8 +14,8 @@ language: Roff
 status: active
 resource_id: github:gkjohnson/threejs-sandbox
 first_seen: '2026-06-16T04:26:13.956565+00:00'
-last_seen: '2026-06-18T02:03:04.714825+05:30'
-last_checked: '2026-06-18T02:03:04.714825+05:30'
+last_seen: '2026-06-21T20:19:13.244946+05:30'
+last_checked: '2026-06-21T20:19:13.244946+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 
 - Owner: gkjohnson
 - Stars: 853
-- Forks: 104
+- Forks: 105
 - Language: Roff
 - Topics: 3d, effects, experiments, geometry, memory, optimize, shaders, three-js, threejs, webgl
 - Last Updated: 2026-06-17T19:04:28Z

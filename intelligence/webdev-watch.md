@@ -4,6 +4,8 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 
 | Creative Resource | Category | Score |
 | :--- | :--- | :--- |
+| [ZhuLinsen/daily_stock_analysis](https://github.com/zhulinsen/daily_stock_analysis) | `frontend-ai-ui/` | 70 |
+| [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | `frontend-ai-ui/` | 70 |
 | [Codefreyy/joy-personal-portfolio](https://github.com/codefreyy/joy-personal-portfolio) | `frontend-ai-ui/` | 70 |
 | [braydoncoyer/braydoncoyer.dev](https://github.com/braydoncoyer/braydoncoyer.dev) | `frontend-ai-ui/` | 70 |
 | [ChrisAbdo/MotionVariants](https://github.com/chrisabdo/motionvariants) | `frontend-ai-ui/` | 70 |
@@ -22,7 +24,5 @@ Frontend libraries, Three.js shaders, WebGPU concepts, chatbot interfaces, and i
 | [webgpu/webgpu-samples](https://github.com/webgpu/webgpu-samples) | `webdev-3d-creative/` | 70 |
 | [gnikoloff/webgpu-sponza-demo](https://github.com/gnikoloff/webgpu-sponza-demo) | `webdev-3d-creative/` | 70 |
 | [Orillusion/orillusion](https://github.com/orillusion/orillusion) | `webdev-3d-creative/` | 70 |
-| [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) | `webdev-3d-creative/` | 70 |
-| [PolyMeilex/vscode-wgsl](https://github.com/polymeilex/vscode-wgsl) | `webdev-3d-creative/` | 70 |
 
 More resources will appear as the harvester collects them.

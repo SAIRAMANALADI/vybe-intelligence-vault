@@ -14,13 +14,14 @@ tags:
 - agents
 - hackernews
 - producthunt
-status: active
+status: inactive
 resource_id: hackernews:launch-hn-testerarmy-yc-p26-agents-that-test-web-a
 first_seen: '2026-06-18T20:48:17.308867+05:30'
 last_seen: '2026-06-18T23:35:17.239055+05:30'
 last_checked: '2026-06-18T23:35:17.239055+05:30'
 health_score: 100
 ---
+
 
 # Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps
 

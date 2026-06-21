@@ -1,66 +1,55 @@
 ---
-title: microsoft/autogen
+title: 'microsoft/autogen Release: python-v0.7.5'
 category: ai/agents
-source_type: github
-source_name: GitHub Discovery
+source_type: github_releases
+source_name: GitHub Releases AI
 source_url: https://github.com/microsoft/autogen
-collected_at: '2026-06-18T23:57:40.196582+05:30'
-published_at: '2026-06-18T18:19:19Z'
+published_at: '2025-09-30T06:18:26Z'
+collected_at: '2026-06-21T20:19:18.057053+05:30'
 tags:
 - agents
-- github-repo
+- anthropic
+- github-release
+- meta-ai
+- microsoft-autogen
+- models
 - openai
-- python
-stars: 59059
-language: Python
 status: active
-license: CC-BY-4.0
-archived: false
-created_at: '2023-08-18T11:43:45Z'
-pushed_at: '2026-04-15T11:59:09Z'
 resource_id: github:microsoft/autogen
 first_seen: '2026-06-18T23:57:40.196582+05:30'
-last_seen: '2026-06-18T23:57:40.196582+05:30'
-last_checked: '2026-06-18T23:57:40.196582+05:30'
+last_seen: '2026-06-21T20:19:18.057053+05:30'
+last_checked: '2026-06-21T20:19:18.057053+05:30'
 health_score: 100
 ---
 
-# microsoft/autogen
+# microsoft/autogen Release: python-v0.7.5
 
 ## Summary
 
-A programming framework for agentic AI
+## What's Changed
+* Fix docs dotnet core typo by @lach-g in https://github.com/microsoft/autogen/pull/6950
+* Fix loading streaming Bedrock response with tool usage with empty argument by @pawel-dabro in https://github.com/microsoft/autogen/pull/6979
+* Support linear memory in RedisMemory by @just...
 
 ## Why It Matters
 
-Explain why this repository is useful for advanced web development, 3D frontend, animations, UI systems, or creative development.
+General public resource representing technology updates, guides, or tutorials.
 
-## Repository Details
+## Details
 
-- Owner: microsoft
-- Stars: 59059
-- Forks: 8907
-- Language: Python
-- Topics: agentic, agentic-agi, agents, ai, autogen, autogen-ecosystem, chatgpt, framework, llm-agent, llm-framework
-- Last Updated: 2026-06-18T18:19:19Z
-- License: CC-BY-4.0
-- Archived: No
-- Created At: 2023-08-18T11:43:45Z
-- Pushed At: 2026-04-15T11:59:09Z
+- Source: GitHub Releases AI
+- Category: ai/agents
+- Published: 2025-09-30T06:18:26Z
 
-## Possible Use Cases
+## Related Tags
 
-- Learn implementation patterns
-- Extract reusable components
-- Study architecture
-- Build similar project
-- Add to skill file references
-
-## Related Skills
-
-- Frontend Development
-- JavaScript
-- HTML/CSS
+- agents
+- anthropic
+- github-release
+- meta-ai
+- microsoft-autogen
+- models
+- openai
 
 ## Source
 

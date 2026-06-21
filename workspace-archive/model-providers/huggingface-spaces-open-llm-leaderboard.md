@@ -30,7 +30,7 @@ selection_reason:
 
 ## Summary
 
-Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14025, Downloads: 0)
+Trending Hugging Face space: open-llm-leaderboard/open_llm_leaderboard (Likes: 14027, Downloads: 0)
 
 ## Use Cases
 

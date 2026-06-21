@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - unknown
-status: active
+status: inactive
 resource_id: github:zai-org/glm-5
 first_seen: '2026-06-18T20:48:18.207477+05:30'
 last_seen: '2026-06-18T23:35:19.449542+05:30'
 last_checked: '2026-06-18T23:35:19.449542+05:30'
 health_score: 100
 ---
+
 
 # zai-org/GLM-5
 

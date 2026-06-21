@@ -4,18 +4,18 @@ category: web-development/react-three-fiber
 source_type: github
 source_name: GitHub React Three Fiber Resources
 source_url: https://github.com/pmndrs/react-postprocessing
-collected_at: '2026-06-16T17:27:23.737383+05:30'
-published_at: '2026-06-16T11:03:26Z'
+collected_at: '2026-06-21T20:19:13.238458+05:30'
+published_at: '2026-06-18T21:45:39Z'
 tags:
 - frontend_ui
 - threejs
-stars: 1323
+stars: 1324
 language: TypeScript
 status: active
 resource_id: github:pmndrs/react-postprocessing
 first_seen: '2026-06-15T23:08:33.907400+00:00'
-last_seen: '2026-06-16T17:27:23.737383+05:30'
-last_checked: '2026-06-16T17:27:23.737383+05:30'
+last_seen: '2026-06-21T20:19:13.238458+05:30'
+last_checked: '2026-06-21T20:19:13.238458+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: pmndrs
-- Stars: 1323
-- Forks: 127
+- Stars: 1324
+- Forks: 128
 - Language: TypeScript
 - Topics: 3d, postprocessing, react, react-postprocessing, react-three-fiber, threejs, webgl
-- Last Updated: 2026-06-16T11:03:26Z
+- Last Updated: 2026-06-18T21:45:39Z
 
 ## Possible Use Cases
 

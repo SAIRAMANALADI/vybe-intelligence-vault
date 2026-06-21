@@ -9,13 +9,14 @@ collected_at: '2026-06-18T23:35:19.451198+05:30'
 tags:
 - c#
 - github-trending
-status: active
+status: inactive
 resource_id: github:dotnet/aspnetcore
 first_seen: '2026-06-18T20:48:18.209013+05:30'
 last_seen: '2026-06-18T23:35:19.451198+05:30'
 last_checked: '2026-06-18T23:35:19.451198+05:30'
 health_score: 100
 ---
+
 
 # dotnet/aspnetcore
 

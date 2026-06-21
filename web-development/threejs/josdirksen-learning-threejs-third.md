@@ -4,17 +4,17 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/josdirksen/learning-threejs-third
-collected_at: '2026-06-16T17:27:23.869459+05:30'
-published_at: '2026-05-17T09:26:43Z'
+collected_at: '2026-06-21T20:19:13.245061+05:30'
+published_at: '2026-06-19T15:40:43Z'
 tags:
 - threejs
-stars: 599
+stars: 600
 language: JavaScript
 status: active
 resource_id: github:josdirksen/learning-threejs-third
 first_seen: '2026-06-12T10:40:14.585960+00:00'
-last_seen: '2026-06-16T17:27:23.869459+05:30'
-last_checked: '2026-06-16T17:27:23.869459+05:30'
+last_seen: '2026-06-21T20:19:13.245061+05:30'
+last_checked: '2026-06-21T20:19:13.245061+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: josdirksen
-- Stars: 599
+- Stars: 600
 - Forks: 241
 - Language: JavaScript
 - Topics: None
-- Last Updated: 2026-05-17T09:26:43Z
+- Last Updated: 2026-06-19T15:40:43Z
 
 ## Possible Use Cases
 

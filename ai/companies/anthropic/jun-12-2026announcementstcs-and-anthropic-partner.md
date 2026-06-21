@@ -5,8 +5,8 @@ category: ai/companies/anthropic
 source_type: company_blog
 source_name: Anthropic News
 source_url: https://anthropic.com/news/tcs-anthropic-partnership
-published_at: '2026-06-18T23:35:21.606146+05:30'
-collected_at: '2026-06-18T23:35:21.606149+05:30'
+published_at: '2026-06-21T20:19:17.470742+05:30'
+collected_at: '2026-06-21T20:19:17.470744+05:30'
 tags:
 - anthropic
 - anthropic-news
@@ -14,8 +14,8 @@ tags:
 status: active
 resource_id: blog:jun-12-2026announcementstcs-and-anthropic-partner
 first_seen: '2026-06-16T04:26:32.176037+00:00'
-last_seen: '2026-06-18T23:35:21.606149+05:30'
-last_checked: '2026-06-18T23:35:21.606149+05:30'
+last_seen: '2026-06-21T20:19:17.470744+05:30'
+last_checked: '2026-06-21T20:19:17.470744+05:30'
 health_score: 100
 ---
 
@@ -33,7 +33,7 @@ Official release, policy update, or technical blog post from a core AI company.
 
 - Company: Anthropic News
 - Article URL: https://anthropic.com/news/tcs-anthropic-partnership
-- Collected At: 2026-06-18T23:35:21.606149+05:30
+- Collected At: 2026-06-21T20:19:17.470744+05:30
 
 ## Related Tags
 

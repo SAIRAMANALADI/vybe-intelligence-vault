@@ -9,13 +9,14 @@ collected_at: '2026-06-18T23:35:19.450492+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:makeplane/plane
 first_seen: '2026-06-18T20:48:18.208438+05:30'
 last_seen: '2026-06-18T23:35:19.450492+05:30'
 last_checked: '2026-06-18T23:35:19.450492+05:30'
 health_score: 100
 ---
+
 
 # makeplane/plane
 

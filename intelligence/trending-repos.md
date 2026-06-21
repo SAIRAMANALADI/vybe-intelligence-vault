@@ -4,10 +4,11 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 
 | Repository | Focus Category | Quality Score |
 | :--- | :--- | :--- |
-| [crewAIInc/crewAI Release: 1.14.8a1](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
+| [crewAIInc/crewAI Release: 1.14.8a2](https://github.com/crewaiinc/crewai) | `ai-coding-agents/` | 70 |
 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | `ai-coding-agents/` | 70 |
 | [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) | `ai-coding-agents/` | 70 |
 | [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) | `ai-coding-agents/` | 70 |
+| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | `ai-coding-agents/` | 70 |
 | [HeJiguang/codescan](https://github.com/HeJiguang/codescan) | `ai-coding-agents/` | 70 |
 | [riolaf05/blog-writer-crewai](https://github.com/riolaf05/blog-writer-crewai) | `ai-coding-agents/` | 70 |
 | [Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents) | `ai-coding-agents/` | 70 |
@@ -28,6 +29,5 @@ Open-source codebases, libraries, and developer configurations indexed on GitHub
 | [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | `ai-coding-agents/` | 70 |
 | [SonarSource/sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) | `ai-coding-agents/` | 70 |
 | [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) | `ai-coding-agents/` | 70 |
-| [infiniumtek/terraform-review-agent](https://github.com/infiniumtek/terraform-review-agent) | `ai-coding-agents/` | 70 |
 
 More resources will appear as the harvester collects them.

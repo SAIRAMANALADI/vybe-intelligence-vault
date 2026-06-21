@@ -297,11 +297,11 @@ This index groups curated resources by target developer skills.
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (Tier: `useful` | [`Local File`](../../ai/trending/asgeirtj-system-prompts-leaks.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 - [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
-- [Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection](https://arxiv.org/abs/2606.16344) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16344.md))
 
 ## REST API Integration
 
@@ -422,11 +422,11 @@ This index groups curated resources by target developer skills.
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) (Tier: `useful` | [`Local File`](../../ai/trending/asgeirtj-system-prompts-leaks.md))
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
 - [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 - [Scribby: A Multi-Level LLM Framework for Semantic Video Analysis](https://arxiv.org/abs/2606.14762) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-14762.md))
-- [Whose hotel does the AI recommend? An algorithm audit of reputation signals in LLM-assisted hotel selection](https://arxiv.org/abs/2606.16344) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16344.md))
 
 ## TailwindCSS
 
@@ -495,4 +495,4 @@ This index groups curated resources by target developer skills.
 - [Building Production-Ready AI Agents with LangGraph: A Real-Life Use Case | by Nir Bar | CyberArk Engineering | Medium](https://medium.com/cyberark-engineering/building-production-ready-ai-agents-with-langgraph-a-real-life-use-case-7bda34c7f4e4) (Tier: `useful` | [`Local File`](../../ai/rag/building-production-ready-ai-agents-with-langgraph.md))
 
 ---
-*Last updated: 2026-06-18 23:39 IST*
+*Last updated: 2026-06-21 20:21 IST*

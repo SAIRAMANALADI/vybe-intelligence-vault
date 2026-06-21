@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:kilo-org/kilocode
 first_seen: '2026-06-18T20:48:18.208256+05:30'
 last_seen: '2026-06-18T23:35:19.450310+05:30'
 last_checked: '2026-06-18T23:35:19.450310+05:30'
 health_score: 100
 ---
+
 
 # Kilo-Org/kilocode
 

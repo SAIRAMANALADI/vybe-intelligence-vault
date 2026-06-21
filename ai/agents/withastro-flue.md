@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:withastro/flue
 first_seen: '2026-06-18T20:48:18.208078+05:30'
 last_seen: '2026-06-18T23:35:19.450136+05:30'
 last_checked: '2026-06-18T23:35:19.450136+05:30'
 health_score: 100
 ---
+
 
 # withastro/flue
 

@@ -1,6 +1,6 @@
 # Vybe AI Intelligence Synthesis Report
 
-Generated at: `2026-06-18T23:40:03.827132+05:30`
+Generated at: `2026-06-21T20:22:00.975629+05:30`
 
 ## Executive Summary
 
@@ -8,45 +8,47 @@ This report summarizes the major shifts, new entries, and delta movements across
 
 ## ✨ New Discoveries
 
-- **The founder of Craigslist has given away half a billion dollars** - Score: `55` in category `ai/community` ([Link](https://independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html)) ([File](../ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md))
-- **Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts** - Score: `50` in category `ai/community` ([Link](https://gerrymandle.cc)) ([File](../ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md))
-- **interviewstreet/hiring-agent** - Score: `0` in category `ai/agents` ([Link](https://github.com/interviewstreet/hiring-agent)) ([File](../ai/agents/interviewstreet-hiring-agent.md))
-- **google/adk-go** - Score: `0` in category `ai/agents` ([Link](https://github.com/google/adk-go)) ([File](../ai/agents/google-adk-go.md))
-- **mozilla-ai/any-agent** - Score: `0` in category `ai/agents` ([Link](https://github.com/mozilla-ai/any-agent)) ([File](../ai/agents/mozilla-ai-any-agent.md))
-- **oxbshw/LLM-Agents-Ecosystem-Handbook** - Score: `0` in category `ai/rag` ([Link](https://github.com/oxbshw/llm-agents-ecosystem-handbook)) ([File](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md))
-- **Arize-ai/phoenix** - Score: `0` in category `ai/rag` ([Link](https://github.com/arize-ai/phoenix)) ([File](../ai/rag/arize-ai-phoenix.md))
-- **qualifire-dev/rogue** - Score: `0` in category `ai/agents` ([Link](https://github.com/qualifire-dev/rogue)) ([File](../ai/agents/qualifire-dev-rogue.md))
-- **Tencent/AICGSecEval** - Score: `0` in category `ai/agents` ([Link](https://github.com/tencent/aicgseceval)) ([File](../ai/agents/tencent-aicgseceval.md))
-- **GoogleCloudPlatform/agent-starter-pack** - Score: `0` in category `ai/agents` ([Link](https://github.com/googlecloudplatform/agent-starter-pack)) ([File](../ai/agents/googlecloudplatform-agent-starter-pack.md))
-- **Flux159/mcp-chat** - Score: `0` in category `ai/agents` ([Link](https://github.com/flux159/mcp-chat)) ([File](../ai/agents/flux159-mcp-chat.md))
-- **trpc-group/trpc-agent-go** - Score: `0` in category `ai/rag` ([Link](https://github.com/trpc-group/trpc-agent-go)) ([File](../ai/rag/trpc-group-trpc-agent-go.md))
-- **langwatch/langwatch** - Score: `0` in category `ai/agents` ([Link](https://github.com/langwatch/langwatch)) ([File](../ai/agents/langwatch-langwatch.md))
-- **Tencent/AI-Infra-Guard** - Score: `0` in category `ai/agents` ([Link](https://github.com/tencent/ai-infra-guard)) ([File](../ai/agents/tencent-ai-infra-guard.md))
-- **truera/trulens** - Score: `0` in category `ai/agents` ([Link](https://github.com/truera/trulens)) ([File](../ai/agents/truera-trulens.md))
+- **Loupe – A iOS app that raises awareness about what native apps can see** - Score: `395` in category `ai/community` ([Link](https://github.com/mysk-research/loupe)) ([File](../ai/community/mysk-research-loupe.md))
+- **Slow breathing modulates brain function and risk behavior** - Score: `278` in category `ai/community` ([Link](https://cell.com/neuron/fulltext/s0896-6273(26)00339-9)) ([File](../ai/community/slow-breathing-modulates-brain-function-and-risk-b.md))
+- **Building reliable agentic AI systems** - Score: `131` in category `ai/community` ([Link](https://martinfowler.com/articles/reliable-llm-bayer.html)) ([File](../ai/community/building-reliable-agentic-ai-systems.md))
+- **The case against geometric algebra (2024)** - Score: `79` in category `ai/community` ([Link](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)) ([File](../ai/community/the-case-against-geometric-algebra-2024.md))
+- **asgeirtj/system_prompts_leaks** - Score: `0` in category `ai/trending` ([Link](https://github.com/asgeirtj/system_prompts_leaks)) ([File](../ai/trending/asgeirtj-system-prompts-leaks.md))
+- **byoungd/English-level-up-tips** - Score: `0` in category `ai/trending` ([Link](https://github.com/byoungd/english-level-up-tips)) ([File](../ai/trending/byoungd-english-level-up-tips.md))
+- **topoteretes/cognee** - Score: `0` in category `ai/agents` ([Link](https://github.com/topoteretes/cognee)) ([File](../ai/agents/topoteretes-cognee.md))
+- **smicallef/spiderfoot** - Score: `0` in category `ai/trending` ([Link](https://github.com/smicallef/spiderfoot)) ([File](../ai/trending/smicallef-spiderfoot.md))
+- **mikumifa/biliTickerBuy** - Score: `0` in category `ai/trending` ([Link](https://github.com/mikumifa/bilitickerbuy)) ([File](../ai/trending/mikumifa-bilitickerbuy.md))
+- **mukul975/Anthropic-Cybersecurity-Skills** - Score: `0` in category `ai/agents` ([Link](https://github.com/mukul975/anthropic-cybersecurity-skills)) ([File](../ai/agents/mukul975-anthropic-cybersecurity-skills.md))
+- **bytedance/deer-flow** - Score: `0` in category `ai/rag` ([Link](https://github.com/bytedance/deer-flow)) ([File](../ai/rag/bytedance-deer-flow.md))
+- **koala73/worldmonitor** - Score: `0` in category `ai/trending` ([Link](https://github.com/koala73/worldmonitor)) ([File](../ai/trending/koala73-worldmonitor.md))
+- **ZhuLinsen/daily_stock_analysis** - Score: `0` in category `ai/trending` ([Link](https://github.com/zhulinsen/daily_stock_analysis)) ([File](../ai/trending/zhulinsen-daily-stock-analysis.md))
+- **tursodatabase/turso** - Score: `0` in category `ai/trending` ([Link](https://github.com/tursodatabase/turso)) ([File](../ai/trending/tursodatabase-turso.md))
+- **chopratejas/headroom** - Score: `0` in category `ai/rag` ([Link](https://github.com/chopratejas/headroom)) ([File](../ai/rag/chopratejas-headroom.md))
 
-## 🔥 Top Trending Resources
+## Top Trending Resources
 
-- **Emacs 31 is around the corner: The changes I'm daily driving** - Score: `310` (+98), Rank Change: `0` ([File](../ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md))
-- **Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps** - Score: `50` (+38), Rank Change: `-2` ([File](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md))
-- **malonge/RaGOO** - Score: `0` (0), Rank Change: `+3125` ([File](../ai/rag/malonge-ragoo.md))
-- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - Score: `0` (0), Rank Change: `+10` ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
-- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+481` ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - Score: `0` (0), Rank Change: `+25` ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
-- **RAG System with LangChain and LangGraph - GeeksforGeeks** - Score: `0` (0), Rank Change: `+24` ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
-- **15 Best Open-Source RAG Frameworks in 2026** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - Score: `0` (0), Rank Change: `+17` ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **All-in-RAG | 大模型应用开发实战：RAG技术全栈指南** - Score: `0` (0), Rank Change: `+19` ([File](../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - Score: `0` (0), Rank Change: `+3198` ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - Score: `0` (0), Rank Change: `+568` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - Score: `0` (0), Rank Change: `+568` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - Score: `0` (0), Rank Change: `+568` ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **SylphAI-Inc/GithubChat** - Score: `0` (0), Rank Change: `+1` ([File](../ai/rag/sylphai-inc-githubchat.md))
+- **ParticleMedia/RAGTruth** - Score: `0` (0), Rank Change: `+1132` ([File](../ai/rag/particlemedia-ragtruth.md))
+- **raganwald/raganwald.github.com** - Score: `0` (0), Rank Change: `+3193` ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **datawhalechina/llm-universe** - Score: `0` (0), Rank Change: `+6` ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **datawhalechina/all-in-rag** - Score: `0` (0), Rank Change: `+14` ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **microsoft/autogen Release: python-v0.7.5** - Score: `0` (0), Rank Change: `+1104` ([File](../ai/agents/microsoft-autogen.md))
 
 ## 🚀 Fastest Rising Tools
 
-- **malonge/RaGOO** - (Rank Change: `+3125`) ([File](../ai/rag/malonge-ragoo.md))
-- **SylphAI-Inc/GithubChat** - (Rank Change: `+481`) ([File](../ai/rag/sylphai-inc-githubchat.md))
-- **Building Your Own RAG System from Scratch: A Step-by-Step Guide | by Anish Chitturu | Medium** - (Rank Change: `+25`) ([File](../ai/rag/building-your-own-rag-system-from-scratch-a-step-b.md))
-- **RAG System with LangChain and LangGraph - GeeksforGeeks** - (Rank Change: `+24`) ([File](../ai/rag/rag-system-with-langchain-and-langgraph-geeksforge.md))
-- **All-in-RAG | 大模型应用开发实战：RAG技术全栈指南** - (Rank Change: `+19`) ([File](../ai/rag/all-in-rag-da-mo-xing-ying-yong-kai-fa-shi-zhan-ra.md))
-- **Build RAG From Scratch: A Beginner’s Step-by-Step Guide | by Vivek Malhan | Medium** - (Rank Change: `+17`) ([File](../ai/rag/build-rag-from-scratch-a-beginners-step-by-step-gu.md))
-- **What is RAG? A Beginner's Guide to Retrieval-Augmented Generation (With a Full Pipeline Walkthrough) - DEV Community** - (Rank Change: `+10`) ([File](../ai/rag/what-is-rag-a-beginner-s-guide-to-retrieval-augmen.md))
-- **15 Best Open-Source RAG Frameworks in 2026** - (Rank Change: `+6`) ([File](../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
+- **Community-Dreams-Foundation/agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository** - (Rank Change: `+3198`) ([File](../ai/rag/community-dreams-foundation-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-te.md))
+- **raganwald/raganwald.github.com** - (Rank Change: `+3193`) ([File](../ai/rag/raganwald-raganwald-github-com.md))
+- **ParticleMedia/RAGTruth** - (Rank Change: `+1132`) ([File](../ai/rag/particlemedia-ragtruth.md))
+- **microsoft/autogen Release: python-v0.7.5** - (Rank Change: `+1104`) ([File](../ai/agents/microsoft-autogen.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag3-hw03_workflow** - (Rank Change: `+568`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag3-hw03-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow** - (Rank Change: `+568`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag2-hw02-workflow.md))
+- **IcensRAGHomework/icensraghomework-classroom01-rag1-hw01_workflow** - (Rank Change: `+568`) ([File](../ai/rag/icensraghomework-icensraghomework-classroom01-rag1-hw01-workflow.md))
+- **datawhalechina/all-in-rag** - (Rank Change: `+14`) ([File](../ai/rag/datawhalechina-all-in-rag.md))
+- **datawhalechina/llm-universe** - (Rank Change: `+6`) ([File](../ai/rag/datawhalechina-llm-universe.md))
+- **SylphAI-Inc/GithubChat** - (Rank Change: `+1`) ([File](../ai/rag/sylphai-inc-githubchat.md))
 
 ## 🔄 Essential Tier Transitions
 
@@ -57,5 +59,13 @@ No resources left the Essential tier in this run.
 
 ## 💤 Recently Inactive Resources
 
-No recently active resources transitioned to inactive.
-
+- **Emacs 31 is around the corner: The changes I'm daily driving** (Category: `ai/community`) ([File](../ai/community/emacs-31-is-around-the-corner-the-changes-i-m-dail.md))
+- **The founder of Craigslist has given away half a billion dollars** (Category: `ai/community`) ([File](../ai/community/the-founder-of-craigslist-has-given-away-half-a-bi.md))
+- **Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts** (Category: `ai/community`) ([File](../ai/community/show-hn-gerrymandle-daily-puzzle-game-where-you-re.md))
+- **Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps** (Category: `ai/community`) ([File](../ai/community/launch-hn-testerarmy-yc-p26-agents-that-test-web-a.md))
+- **Lightricks/LTX-2** (Category: `ai/trending`) ([File](../ai/trending/lightricks-ltx-2.md))
+- **owainlewis/awesome-artificial-intelligence** (Category: `ai/trending`) ([File](../ai/trending/owainlewis-awesome-artificial-intelligence.md))
+- **dotnet/aspnetcore** (Category: `ai/trending`) ([File](../ai/trending/dotnet-aspnetcore.md))
+- **Kong/insomnia** (Category: `ai/rag`) ([File](../ai/rag/kong-insomnia.md))
+- **makeplane/plane** (Category: `ai/trending`) ([File](../ai/trending/makeplane-plane.md))
+- **Kilo-Org/kilocode** (Category: `ai/agents`) ([File](../ai/agents/kilo-org-kilocode.md))

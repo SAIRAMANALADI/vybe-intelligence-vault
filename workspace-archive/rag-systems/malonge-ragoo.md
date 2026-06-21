@@ -12,6 +12,7 @@ resource_kind: tool
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
 selection_reason:
@@ -32,7 +33,9 @@ selection_reason:
 
 ## Summary
 
-RaGOO is no longer supported. Please use RagTag instead: https://github.com/malonge/RagTag
+- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to **RagTag** (`malonge/RagTag`) as its successor.
+- **Technical Scope**: Designed for **genome assembly and scaffolding** in bioinformatics, implemented in **Python**.
+- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
 
 ## Use Cases
 

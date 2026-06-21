@@ -10,13 +10,14 @@ tags:
 - agents
 - github-trending
 - shell
-status: active
+status: inactive
 resource_id: github:obra/superpowers
 first_seen: '2026-06-17T16:47:27.409567+05:30'
 last_seen: '2026-06-18T23:35:19.449365+05:30'
 last_checked: '2026-06-18T23:35:19.449365+05:30'
 health_score: 100
 ---
+
 
 # obra/superpowers
 

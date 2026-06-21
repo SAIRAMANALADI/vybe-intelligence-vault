@@ -5,14 +5,14 @@ Distribution of original signal ingestion sources across processed URLs:
 | Source Domain | Resource Count |
 | :--- | ---: |
 | arxiv | 3256 |
-| huggingface | 846 |
-| github | 386 |
+| huggingface | 848 |
+| github | 388 |
 | nextjs.org | 64 |
 | react.dev | 23 |
-| microsoft.com | 11 |
+| microsoft.com | 12 |
+| medium.com | 11 |
 | mistral.ai | 10 |
 | anthropic.com | 9 |
-| medium.com | 8 |
 | dev.to | 6 |
 | openai.com | 6 |
 | deepmind.google | 5 |
@@ -20,6 +20,8 @@ Distribution of original signal ingestion sources across processed URLs:
 | tech-insider.org | 3 |
 | markaicode.com | 3 |
 | evidentlyai.com | 3 |
+| neo4j.com | 2 |
+| aws.amazon.com | 2 |
 | nerdleveltech.com | 2 |
 | template.net | 2 |
 | github.blog | 2 |
@@ -30,10 +32,14 @@ Distribution of original signal ingestion sources across processed URLs:
 | cloud.google.com | 2 |
 | confident-ai.com | 2 |
 | benchmarkingagents.com | 2 |
-| rahuljuliato.com | 1 |
-| independent.co.uk | 1 |
-| gerrymandle.cc | 1 |
-| tester.army | 1 |
+| cell.com | 1 |
+| martinfowler.com | 1 |
+| alexkritchevsky.com | 1 |
+| speechify.com | 1 |
+| play.google.com | 1 |
+| help.medium.com | 1 |
+| blog.medium.com | 1 |
+| graphrag.com | 1 |
 | mrlatte.net | 1 |
 | dasroot.net | 1 |
 | docs.langchain.com | 1 |
@@ -84,7 +90,6 @@ Distribution of original signal ingestion sources across processed URLs:
 | buildrag.com | 1 |
 | machinelearningplus.com | 1 |
 | safetyculture.com | 1 |
-| neo4j.com | 1 |
 | aimadetools.com | 1 |
 | c-sharpcorner.com | 1 |
 | developers.openai.com | 1 |
@@ -122,5 +127,4 @@ Distribution of original signal ingestion sources across processed URLs:
 | askpython.com | 1 |
 | botpenguin.com | 1 |
 | startdesigns.com | 1 |
-| aws.amazon.com | 1 |
 | signitysolutions.com | 1 |

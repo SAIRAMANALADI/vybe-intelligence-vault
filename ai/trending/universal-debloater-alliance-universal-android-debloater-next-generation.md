@@ -9,13 +9,14 @@ collected_at: '2026-06-18T23:35:19.450958+05:30'
 tags:
 - github-trending
 - rust
-status: active
+status: inactive
 resource_id: github:universal-debloater-alliance/universal-android-debloater-next-generation
 first_seen: '2026-06-16T17:27:26.089793+05:30'
 last_seen: '2026-06-18T23:35:19.450958+05:30'
 last_checked: '2026-06-18T23:35:19.450958+05:30'
 health_score: 100
 ---
+
 
 # Universal-Debloater-Alliance/universal-android-debloater-next-generation
 

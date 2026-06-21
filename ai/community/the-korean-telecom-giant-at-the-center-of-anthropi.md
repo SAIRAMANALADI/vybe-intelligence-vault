@@ -13,13 +13,14 @@ collected_at: '2026-06-19T03:46:04.964876+05:30'
 tags:
 - anthropic
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:the-korean-telecom-giant-at-the-center-of-anthropi
 first_seen: '2026-06-19T03:46:04.964876+05:30'
 last_seen: '2026-06-19T03:46:04.964876+05:30'
 last_checked: '2026-06-19T03:46:04.964876+05:30'
 health_score: 100
 ---
+
 
 # The Korean telecom giant at the center of Anthropic's Mythos controversy
 

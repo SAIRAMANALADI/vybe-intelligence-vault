@@ -9,13 +9,14 @@ collected_at: '2026-06-18T23:35:19.448691+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:google-research/timesfm
 first_seen: '2026-06-17T16:47:27.410036+05:30'
 last_seen: '2026-06-18T23:35:19.448691+05:30'
 last_checked: '2026-06-18T23:35:19.448691+05:30'
 health_score: 100
 ---
+
 
 # google-research/timesfm
 

@@ -11,13 +11,14 @@ tags:
 - paper
 - unknown
 - youtube
-status: active
+status: inactive
 resource_id: github:owainlewis/awesome-artificial-intelligence
 first_seen: '2026-06-18T20:48:18.209196+05:30'
 last_seen: '2026-06-18T23:35:19.451391+05:30'
 last_checked: '2026-06-18T23:35:19.451391+05:30'
 health_score: 100
 ---
+
 
 # owainlewis/awesome-artificial-intelligence
 

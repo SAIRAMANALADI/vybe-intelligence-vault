@@ -9,13 +9,14 @@ collected_at: '2026-06-19T03:45:59.571067+05:30'
 tags:
 - github-trending
 - python
-status: active
+status: inactive
 resource_id: github:yifanfeng97/hyper-extract
 first_seen: '2026-06-19T03:45:59.571067+05:30'
 last_seen: '2026-06-19T03:45:59.571067+05:30'
 last_checked: '2026-06-19T03:45:59.571067+05:30'
 health_score: 100
 ---
+
 
 # yifanfeng97/Hyper-Extract
 

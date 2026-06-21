@@ -13,13 +13,14 @@ collected_at: '2026-06-18T23:35:18.399500+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:emacs-31-is-around-the-corner-the-changes-i-m-dail
 first_seen: '2026-06-18T20:48:16.511406+05:30'
 last_seen: '2026-06-18T23:35:18.399500+05:30'
 last_checked: '2026-06-18T23:35:18.399500+05:30'
 health_score: 100
 ---
+
 
 # Emacs 31 is around the corner: The changes I'm daily driving
 

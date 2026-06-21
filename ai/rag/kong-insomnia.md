@@ -10,13 +10,14 @@ tags:
 - github-trending
 - rag
 - typescript
-status: active
+status: inactive
 resource_id: github:kong/insomnia
 first_seen: '2026-06-18T20:48:18.208613+05:30'
 last_seen: '2026-06-18T23:35:19.450664+05:30'
 last_checked: '2026-06-18T23:35:19.450664+05:30'
 health_score: 100
 ---
+
 
 # Kong/insomnia
 

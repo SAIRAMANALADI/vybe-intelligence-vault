@@ -4,18 +4,18 @@ category: web-development/threejs
 source_type: github
 source_name: GitHub Three.js Resources
 source_url: https://github.com/puxiao/threejs-tutorial
-collected_at: '2026-06-18T14:43:52.983027+05:30'
-published_at: '2026-06-18T05:53:00Z'
+collected_at: '2026-06-21T20:19:13.244966+05:30'
+published_at: '2026-06-19T07:56:14Z'
 tags:
 - frontend_ui
 - threejs
-stars: 1331
+stars: 1333
 language: Unknown
 status: active
 resource_id: github:puxiao/threejs-tutorial
 first_seen: '2026-06-12T10:40:14.585861+00:00'
-last_seen: '2026-06-18T14:43:52.983027+05:30'
-last_checked: '2026-06-18T14:43:52.983027+05:30'
+last_seen: '2026-06-21T20:19:13.244966+05:30'
+last_checked: '2026-06-21T20:19:13.244966+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ This repository contains advanced 3D frontend assets, graphics rendering, shader
 ## Repository Details
 
 - Owner: puxiao
-- Stars: 1331
-- Forks: 180
+- Stars: 1333
+- Forks: 181
 - Language: Unknown
 - Topics: react, threejs, typescript
-- Last Updated: 2026-06-18T05:53:00Z
+- Last Updated: 2026-06-19T07:56:14Z
 
 ## Possible Use Cases
 

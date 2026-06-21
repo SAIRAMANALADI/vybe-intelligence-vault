@@ -4,17 +4,17 @@ category: web-development/nextjs
 source_type: github
 source_name: GitHub Next.js Templates
 source_url: https://github.com/ixartz/saas-boilerplate
-collected_at: '2026-06-18T16:17:20.476149+05:30'
-published_at: '2026-06-18T09:51:06Z'
+collected_at: '2026-06-21T20:19:13.339670+05:30'
+published_at: '2026-06-21T12:21:03Z'
 tags:
 - frontend_ui
-stars: 7192
+stars: 7198
 language: TypeScript
 status: active
 resource_id: github:ixartz/saas-boilerplate
 first_seen: '2026-06-16T04:26:19.642069+00:00'
-last_seen: '2026-06-18T16:17:20.476149+05:30'
-last_checked: '2026-06-18T16:17:20.476149+05:30'
+last_seen: '2026-06-21T20:19:13.339670+05:30'
+last_checked: '2026-06-21T20:19:13.339670+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ This repository serves as a utility boilerplate, dashboard layout, or component 
 ## Repository Details
 
 - Owner: ixartz
-- Stars: 7192
-- Forks: 1317
+- Stars: 7198
+- Forks: 1314
 - Language: TypeScript
 - Topics: authentication, boilerplate, multi-tenancy, nextjs, react, reactjs, saas, saas-app, saas-application, saas-boilerplate, saas-kit, shadcn-ui, stack, starter, starter-kit, starter-project, starter-template, template, template-project, typescript
-- Last Updated: 2026-06-18T09:51:06Z
+- Last Updated: 2026-06-21T12:21:03Z
 
 ## Possible Use Cases
 

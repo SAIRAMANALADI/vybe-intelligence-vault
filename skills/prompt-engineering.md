@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 130 resources matched in the intelligence vault.
+Active signals: 131 resources matched in the intelligence vault.
 Recently detected signals:
+- [asgeirtj/system_prompts_leaks](../ai/trending/asgeirtj-system-prompts-leaks.md) (Source: Unknown Source) - Collected 2026-06-21
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-21
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-21
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md) (Source: Unknown Source) - Collected 2026-06-21
 - [All Eyes on the Workflow: Automated and Efficient Event Discovery from Video Streams](../ai/rag/arxiv-2604-22476.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](../ai/rag/arxiv-2606-15633.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Investigating Faithfulness in Large Audio Language Models](../ai/research/arxiv-2509-22363.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed Story Retelling](../ai/research/arxiv-2601-17226.md) (Source: Unknown Source) - Collected 2026-06-18
-- [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](../ai/agents/arxiv-2606-18142.md) (Source: Unknown Source) - Collected 2026-06-18
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -39,6 +39,11 @@ Recently detected signals:
 - Stars: 0
 - Language: Unknown
 - Description: A advanced web app | api project: Production AI Agents and LLM Platform. The Production AI Agents and LLM Platform is designed to streamline the deployment and management of AI agents and large lan...
+
+### 3. [asgeirtj/system_prompts_leaks](../ai/trending/asgeirtj-system-prompts-leaks.md) ([GitHub](https://github.com/asgeirtj/system_prompts_leaks))
+- Stars: 0
+- Language: Unknown
+- Description: Repository: asgeirtj/system_prompts_leaks
 <!-- GENERATED:BEST_REPOS_END -->
 
 ## Project Ideas
@@ -60,4 +65,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-18T23:39:11.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-21T20:21:09.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

@@ -4,8 +4,8 @@ category: ai/rag
 source_type: huggingface_model
 source_name: Hugging Face Trending Models
 source_url: https://huggingface.co/cross-encoder/ms-marco-minilm-l6-v2
-published_at: '2026-06-18T23:35:18.374684+05:30'
-collected_at: '2026-06-18T23:35:18.374698+05:30'
+published_at: '2026-06-21T20:19:13.501489+05:30'
+collected_at: '2026-06-21T20:19:13.501499+05:30'
 tags:
 - dataset
 - hf-model
@@ -15,8 +15,8 @@ tags:
 status: active
 resource_id: huggingface:cross-encoder/ms-marco-minilm-l6-v2
 first_seen: '2026-06-18T23:35:18.374698+05:30'
-last_seen: '2026-06-18T23:35:18.374698+05:30'
-last_checked: '2026-06-18T23:35:18.374698+05:30'
+last_seen: '2026-06-21T20:19:13.501499+05:30'
+last_checked: '2026-06-21T20:19:13.501499+05:30'
 health_score: 100
 ---
 
@@ -24,7 +24,7 @@ health_score: 100
 
 ## Summary
 
-Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 266, Downloads: 68562031)
+Trending Hugging Face model: cross-encoder/ms-marco-MiniLM-L6-v2 (Likes: 267, Downloads: 79932064)
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Hugging Face Trending Models
 - Category: ai/rag
-- Published: 2026-06-18T23:35:18.374684+05:30
+- Published: 2026-06-21T20:19:13.501489+05:30
 
 ## Related Tags
 

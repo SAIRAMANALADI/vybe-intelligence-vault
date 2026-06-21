@@ -31,7 +31,9 @@ selection_reason:
 
 ## Summary
 
-agentic-rag-chatbot-hackathon-agentic-rag-chatbot-Template-repository created by GitHub Classroom
+- **Template Repository**: GitHub Classroom-created starter for an **Agentic RAG Chatbot** hackathon project, structured for Python-based development.
+- **Metadata**: 0 stars, 68 forks, last updated **2026-02-17T18:07:23Z**, with no additional topics tagged.
+- **Purpose**: Designed as a foundational template for building **agentic Retrieval-Augmented Generation (RAG) chatbots**, likely integrating LLM agents with retrieval mechanisms.
 
 ## Use Cases
 

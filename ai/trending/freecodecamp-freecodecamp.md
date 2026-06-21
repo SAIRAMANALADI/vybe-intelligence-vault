@@ -9,13 +9,14 @@ collected_at: '2026-06-18T23:35:19.449158+05:30'
 tags:
 - github-trending
 - typescript
-status: active
+status: inactive
 resource_id: github:freecodecamp/freecodecamp
 first_seen: '2026-06-16T13:57:13.168406+05:30'
 last_seen: '2026-06-18T23:35:19.449158+05:30'
 last_checked: '2026-06-18T23:35:19.449158+05:30'
 health_score: 100
 ---
+
 
 # freeCodeCamp/freeCodeCamp
 

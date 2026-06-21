@@ -54,7 +54,7 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150)
-- **Category**: `ai/agents` | **Kind**: `DATASET` | **Tier**: `USEFUL`
+- **Category**: `ai/rag` | **Kind**: `DATASET` | **Tier**: `USEFUL`
 - **Score**: `82` | **Path**: [`arxiv-2606-07150.md`](../../ai/rag/arxiv-2606-07150.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-18 23:39 IST*
+*Last updated: 2026-06-21 20:21 IST*

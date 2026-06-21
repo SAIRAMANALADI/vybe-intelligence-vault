@@ -11,13 +11,14 @@ tags:
 - models
 - python
 - youtube
-status: active
+status: inactive
 resource_id: github:lightricks/ltx-2
 first_seen: '2026-06-18T20:48:18.209379+05:30'
 last_seen: '2026-06-18T23:35:19.451567+05:30'
 last_checked: '2026-06-18T23:35:19.451567+05:30'
 health_score: 100
 ---
+
 
 # Lightricks/LTX-2
 

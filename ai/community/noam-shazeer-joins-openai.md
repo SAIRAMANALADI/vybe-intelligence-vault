@@ -15,13 +15,14 @@ tags:
 - hackernews
 - openai
 - reddit
-status: active
+status: inactive
 resource_id: hackernews:noam-shazeer-joins-openai
 first_seen: '2026-06-19T03:45:59.202147+05:30'
 last_seen: '2026-06-19T03:45:59.202147+05:30'
 last_checked: '2026-06-19T03:45:59.202147+05:30'
 health_score: 100
 ---
+
 
 # Noam Shazeer Joins OpenAI
 

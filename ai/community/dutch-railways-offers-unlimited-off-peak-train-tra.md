@@ -13,13 +13,14 @@ collected_at: '2026-06-19T03:46:21.963257+05:30'
 tags:
 - ai
 - hackernews
-status: active
+status: inactive
 resource_id: hackernews:dutch-railways-offers-unlimited-off-peak-train-tra
 first_seen: '2026-06-19T03:46:21.963257+05:30'
 last_seen: '2026-06-19T03:46:21.963257+05:30'
 last_checked: '2026-06-19T03:46:21.963257+05:30'
 health_score: 100
 ---
+
 
 # Dutch Railways offers unlimited off-peak train travel nationwide for €49/month
 

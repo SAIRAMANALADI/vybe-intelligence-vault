@@ -15,14 +15,14 @@ New AI templates, platforms, context servers, and interface boilerplates for dev
 | [riseandignite/mcp-shield](https://github.com/riseandignite/mcp-shield) | `mcp-registry/` | 70 |
 | [jlbadano/ig-mcp](https://github.com/jlbadano/ig-mcp) | `mcp-registry/` | 70 |
 | [AI Agent Benchmarks 2026: Who Leads SWE-bench & GAIA](https://codersera.com/blog/ai-agent-benchmarks-state-of-leaderboard-may-2026) | `mcp-registry/` | 70 |
+| [chopratejas/headroom](https://github.com/chopratejas/headroom) | `mcp-registry/` | 70 |
 | [langgenius/dify](https://github.com/langgenius/dify) | `mcp-registry/` | 70 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](https://arxiv.org/abs/2606.18037) | `mcp-registry/` | 70 |
 | [WagnerAgent/awesome-mcp-servers-devops](https://github.com/WagnerAgent/awesome-mcp-servers-devops) | `mcp-registry/` | 70 |
 | [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | `mcp-registry/` | 70 |
 | [EffGen: Enabling Small Language Models as Capable Autonomous Agents](https://arxiv.org/abs/2602.00887) | `mcp-registry/` | 70 |
 | [DeusData/codebase-memory-mcp](https://github.com/deusdata/codebase-memory-mcp) | `mcp-registry/` | 70 |
+| [From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability](https://arxiv.org/abs/2606.07150) | `mcp-registry/` | 70 |
 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | `mcp-registry/` | 70 |
-| [LLM Agent & Tool-Use Benchmarks — Function Calling, MCP, Structured Output Rankings (2026) | BenchLM.ai](https://benchlm.ai/llm-agent-benchmarks) | `mcp-registry/` | 70 |
-| [trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) | `mcp-registry/` | 70 |
 
 More resources will appear as the harvester collects them.

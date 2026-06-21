@@ -24,6 +24,7 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 - [Arize-ai/phoenix](https://github.com/arize-ai/phoenix)
 - [langwatch/langwatch](https://github.com/langwatch/langwatch)
 - [glgh/awesome-llm-human-preference-datasets](https://github.com/glgh/awesome-llm-human-preference-datasets)
+- [ParticleMedia/RAGTruth](https://github.com/ParticleMedia/RAGTruth)
 
 ## Best Learning Resources
 
@@ -41,4 +42,4 @@ https://github.com/huggingface/datasets (Hugging Face Datasets)
 
 ---
 
-*Last updated: 2026-06-18 23:39 IST*
+*Last updated: 2026-06-21 20:21 IST*
