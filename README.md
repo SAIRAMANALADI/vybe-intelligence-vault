@@ -31,41 +31,56 @@ The velocity of the AI landscape is unprecedented. Curation of tools, retrieval 
 
 <!-- VAULT_STATS:START -->
 
-## Vault Stats
+<div align="center">
+  <h2>📊 Intelligence Analytics Dashboard</h2>
+  <p><em>Real-time metrics generated from active vault contents.</em></p>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🗄️ Core Storage</h3>
+        <p><b>Resources tracked:</b> 6,053</p>
+        <p><b>Active:</b> 5,785 | <b>Inactive:</b> 268</p>
+      </td>
+      <td align="center">
+        <h3>📂 Archives & Maps</h3>
+        <p><b>Archive Files:</b> 24,573</p>
+        <p><b>Builder Maps:</b> 8</p>
+      </td>
+      <td align="center">
+        <h3>⚡ Status</h3>
+        <p><b>Last Update:</b> 2026-06-22 23:05 IST</p>
+        <p><b>Health:</b> 🟢 Optimal</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-| Metric | Count |
-|---|---:|
-| Resources tracked | 5927 |
-| Active resources | 5784 |
-| Inactive resources | 143 |
-| Archive files | 24571 |
-| Archive categories | 35 |
-| Builder maps | 8 |
-| Learning paths | 8 |
-| Build ideas | 8 |
-| Best-of guides | 6 |
-| Last meaningful update | 2026-06-22 15:59 IST |
+<br/>
 
-### Trend Intelligence Dashboard
+### 📈 Trending Signals
+> Top rising resources based on momentum and community velocity.
 
-#### Trending Resources
-- **[Danish privacy activist Lars Andersen raided by police](ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md)** (Rank: +2) (+195 points)
-- **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)** (+82 points)
-- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)** (+51 points)
-- **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)** (+28 points)
-- **[PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org](ai/rag/pep-0-index-of-python-enhancement-proposals-peps-p.md)** (Rank: +125)
+- 🔼 **[Medium Help Center](ai/rag/medium-help-center.md)** • Rank: <kbd>+1</kbd>
+- 🔼 **[Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify](ai/rag/medium-members-can-listen-to-any-medium-story-with.md)** • Rank: <kbd>+2</kbd>
 
-#### New Discoveries
-- **[Munich 1991: The Roots of the Current AI Boom](ai/community/munich-1991-the-roots-of-the-current-ai-boom.md)** (Score: 53)
-- **[Customer Support](ai/resources/customer-support.md)** (Score: 0)
-- **[How to Apply for a Federal Funding Opportunity on Grants.gov – Grants.gov Community Blog](ai/resources/how-to-apply-for-a-federal-funding-opportunity-on.md)** (Score: 0)
-- **[Tanium Titans Community](ai/resources/tanium-titans-community.md)** (Score: 0)
-- **[Solodit](ai/resources/solodit.md)** (Score: 0)
+### 🌟 New Discoveries
+> Fresh intelligence recently indexed into the vault.
 
-#### Recently Inactive Resources
-- **[chopratejas/headroom](ai/rag/chopratejas-headroom.md)**
+- 🆕 **[Denis2054/Context-Engineering-for-Multi-Agent-Systems](ai/rag/denis2054-context-engineering-for-multi-agent-systems.md)** • Score: `0`
+- 🆕 **[How Long Prompts Block Other Requests - Optimizing LLM Performance](ai/models/huggingface-blog-tngtech.md)** • Score: `0`
+- 🆕 **[Fine-tune Any LLM from the Hugging Face Hub with Together AI](ai/models/huggingface-blog-togethercomputer.md)** • Score: `0`
+- 🆕 **[BigCodeArena: Judging code generations end to end with code executions](ai/models/huggingface-blog-bigcode.md)** • Score: `0`
+- 🆕 **[AI for Food Allergies](ai/models/huggingface-blog-hugging-science.md)** • Score: `0`
+
+### 💤 Recently Inactive
+> Resources showing declined activity or relevance.
+
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
+
+<!-- Automated Stats Injection Block -->
 
 <!-- VAULT_STATS:END -->
 
