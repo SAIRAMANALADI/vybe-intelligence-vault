@@ -207,8 +207,10 @@ def query_eval_llm(prompt, system_prompt, force_cloud=True):
                 return raw_text, cloud_model, total_tokens, cost
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                log("Cloud LLM rate limited (HTTP 429). Retrying after 15s...")
-                time.sleep(15)
+                import random
+                sleep_time = 15 + random.uniform(5, 20)
+                log(f"Cloud LLM rate limited (HTTP 429). Throttling with jitter... retrying after {sleep_time:.1f}s")
+                time.sleep(sleep_time)
                 raise e
             if force_cloud:
                 log(f"Cloud LLM HTTP error: {e}. Retrying in cloud mode...")

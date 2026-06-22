@@ -74,6 +74,7 @@ jobs:
     if: needs.discover.outputs.has_repos == 'true'
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 2
       matrix:
         repo: ${{ fromJSON(needs.discover.outputs.repos) }}
       fail-fast: false
