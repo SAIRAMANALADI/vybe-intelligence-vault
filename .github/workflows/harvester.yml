@@ -16,7 +16,7 @@ on:
         default: "5"
         type: string
       force_cloud_llm:
-        description: "Force Cloud LLM (GPT-4o-mini) instead of Local Ollama"
+        description: "Force Cloud LLM (Mistral) instead of Local Ollama"
         required: false
         default: true
         type: boolean
@@ -94,8 +94,8 @@ jobs:
       - name: Run LLM Evaluation
         env:
           GITHUB_TOKEN: ${{ secrets.VAULT_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          LLM_PROVIDER: "openai"
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+          LLM_PROVIDER: "mistral"
         run: |
           FORCE_CLOUD="${{ github.event.inputs.force_cloud_llm != 'false' }}"
           CLOUD_ARG=""
