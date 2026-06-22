@@ -15,13 +15,7 @@ An automated, self-reinforcing knowledge repository for AI Engineering, Agentic 
 
 </div>
 
----
 
-> [!NOTE]
-> ### 🌐 [Launch Interactive 3D Web Dashboard (Local: 5173)](http://localhost:5173/)
-> Experience the vault in a premium WebGL environment. Paired with dynamic D3-force physical layouts, cylinder shaders, and scroll-driven GSAP camera flight path trajectories.
-
----
 
 ## ── Dossier Overview
 
