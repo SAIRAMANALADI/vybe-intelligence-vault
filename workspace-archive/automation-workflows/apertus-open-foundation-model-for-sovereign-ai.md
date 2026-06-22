@@ -31,7 +31,7 @@ selection_reason:
 
 ## Summary
 
-Hacker News story by T-A. Score: 277, Comments: 101.
+Hacker News story by T-A. Score: 294, Comments: 108.
 Original Link: https://apertvs.ai/
 
 ## Use Cases

@@ -36,11 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:GetReplicationConfiguration`, `s3:ReplicateObject`), incorrect bucket policy configurations, or replication timeouts due to large object sizes (>5GB) requiring multipart uploads.
-
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups, disabled SSH access, or incorrect key pair associations (`~/.ssh/authorized_keys` corruption).
-
-- **API
+- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or disabled versioning on source/destination buckets.
+- **EC2 SSH Connection Issues**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups, incorrect key pair associations, or disabled SSH access in the instance.
+- **API Gateway 403 Errors**: Usually result from missing or misconfigured resource policies, incorrect IAM roles, or in
 
 ## Use Cases
 

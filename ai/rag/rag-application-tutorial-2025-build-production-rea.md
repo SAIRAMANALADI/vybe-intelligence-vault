@@ -5,8 +5,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
-published_at: '2026-06-22T10:22:56.350278+05:30'
-collected_at: '2026-06-22T10:22:56.350289+05:30'
+published_at: '2026-06-22T11:13:18.255955+05:30'
+collected_at: '2026-06-22T11:13:18.255970+05:30'
 tags:
 - agents
 - benchmark
@@ -21,9 +21,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
-first_seen: '2026-06-22T10:22:56.350289+05:30'
-last_seen: '2026-06-22T10:22:56.350289+05:30'
-last_checked: '2026-06-22T10:22:56.350289+05:30'
+first_seen: '2026-06-22T11:13:18.255970+05:30'
+last_seen: '2026-06-22T11:13:18.255970+05:30'
+last_checked: '2026-06-22T11:13:18.255970+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, Supabase vector DB) and generation (LangChain) with chunking strategies, embedding optimization, and hybrid search (dense+sparse retrieval) for production-grade systems.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), optimized embeddings (e.g., Sentence-BERT, VoyageAI), and vector databases (e.g., Supabase, Pinecone) for efficient retrieval; advanced retrieval combines dense (vector) and sparse (BM25) methods.
 
-- **Production Hardening**: Implements caching, load balancing, Cloudflare Workers for deployment, Sentry for observability, and token optimization to balance cost/performance while mitigating hallucinations and latency issues.
+- **Production Optimization**: Implements caching (e.g., Redis), load balancing across multiple LLM instances, and deployment via Cloudflare Workers; token usage is minimized via prompt compression and selective context inclusion.
 
-- **Advanced Patterns & Testing**: Supports multi-modal RAG (text+images/PDFs), conversational memory, unit/integration testing, and query expansion/rewriting, with benchmarks for latency breakdown and optimization trade-offs.
+- **Monitoring & Scalability**: Integrates Sentry for observability, tracks latency metrics (e.g., retrieval vs. generation time), and addresses common issues like poor retrieval (via hybrid search tuning) or hallucinations (via context validation and reranking).
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:22:56.350278+05:30
+- Published: 2026-06-22T11:13:18.255955+05:30
 
 ## Related Tags
 

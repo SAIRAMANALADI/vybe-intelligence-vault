@@ -32,11 +32,8 @@ selection_reason:
 
 ## Summary
 
-- **Scale & Coverage**: AWS operates **39 geographic regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs** and **45 Local Zones/Wavelength Zones**, enabling low-latency, high-performance global deployments.
-
-- **Resilience & Security**: Each region contains **≥3 isolated AZs**, ensuring high availability, while AWS’s **20M+ km fiber network** optimizes latency and throughput for secure, reliable workloads.
-
-- **Edge & Hybrid Solutions**: Supports **Local Zones, Dedicated
+- **Coverage & Scale**: AWS operates **39 geographic regions** with **123 Availability Zones (AZs)**, plus **750+ CloudFront POPs**, **45 Local Zones**, and **33 Wavelength Zones**, enabling low-latency, high-performance deployments across **7 continents**.
+- **Resilience & Security**: Each AWS Region contains **≥3 isolated AZs**, interconnected via **~20M km of fiber**, ensuring **high availability, fault tolerance, and sub-millisecond latency** while adhering to **global compliance standards**
 
 ## Use Cases
 

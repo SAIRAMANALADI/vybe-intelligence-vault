@@ -8,7 +8,7 @@ local_vault_path: ai/resources/welcome-to-python-org.md
 quality_score: 70
 archive_score: 72
 archive_tier: useful
-resource_kind: framework
+resource_kind: tutorial
 importance: medium
 tags:
 - anthropic
@@ -17,7 +17,7 @@ tags:
 - web-crawled
 selection_reason:
 - Strong keyword match
-- Useful for project building
+- Valuable developer reference
 ---
 
 # Welcome to Python.org
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `Model Providers`
 - Quality score: 70 | Archive score: 72 (useful)
-- Resource kind: framework
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
-  - Useful for project building
+  - Valuable developer reference
 
 ## Summary
 
-- Python 3.14.6 and 3.13.14 released with new features and security updates, per [Python 3.14.6 and 3.13.14 are now available!](https://blog.python.org/2026/06/python-3146-31314/)
-- Python supports advanced arithmetic operations (`/`, `//`, `**`), list comprehensions, and built-in functions like `enumerate()` for efficient data manipulation.
-- Python's ecosystem includes frameworks for AI/ML (PyTorch, TensorFlow), scientific computing (SciPy, Pandas), and web development (Django, FastAPI).
+- Python supports **arithmetic operations** (`+`, `-`, `*`, `/`, `//`, `**`) with straightforward syntax, including true division (`/`) and floor division (`//`), and allows grouping via parentheses.
+- Python’s **compound data types** (e.g., lists) support indexing, slicing, and operations like list comprehensions (`[fruit.upper() for fruit in fruits]`), alongside built-in functions like `enumerate()`.
+- Python’s **control flow** includes standard constructs (`if`, `for`, `while`, `range`) and s
 
 ## Use Cases
 

@@ -36,9 +36,9 @@ selection_reason:
 
 ## Summary
 
-- **PEP Indexing & Metadata**: PEP 0 serves as a centralized index for all Python Enhancement Proposals (PEPs), with immutable PEP numbers assigned by editors and version-controlled via GitHub; a public JSON API (`peps.json`) provides structured metadata for all published PEPs.
+- **PEP Indexing System**: PEPs are permanently assigned unique numbers by editors; version-controlled GitHub history maintains their authoritative record, with metadata exposed via a public JSON API (`peps.json`).
 
-- **Categorization & Status Workflow**: PEPs are classified into categories (e.g., Process, Informational, Provisional) and statuses (e.g., Accepted, Finished, Rejected), with governance policies defined in meta-PEPs lik
+- **Categorization & Status**: PEPs are classified into **Process/Meta-PEPs**, **Informational**, **Provisional**, **Accepted**, **Open**, **Finished**, **Deferred**, or **Rejected**, with status tracked via standardized keys (e.g., PA = Process Accepted, IA = Informational Accepted)
 
 ## Use Cases
 

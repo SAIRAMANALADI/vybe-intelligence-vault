@@ -3,18 +3,18 @@ title: Index - Uvicorn
 category: ai/resources
 source_type: web
 source_name: Web Discovery
-source_url: https://uvicorn.dev
-published_at: '2026-06-22T10:47:00.363881+05:30'
-collected_at: '2026-06-22T10:47:00.363889+05:30'
+source_url: https://www.uvicorn.dev
+published_at: '2026-06-22T11:24:51.338749+05:30'
+collected_at: '2026-06-22T11:24:51.338762+05:30'
 tags:
 - reddit
 - web-crawled
 - workflows
 status: active
 resource_id: blog:index-uvicorn
-first_seen: '2026-06-22T10:47:00.363889+05:30'
-last_seen: '2026-06-22T10:47:00.363889+05:30'
-last_checked: '2026-06-22T10:47:00.363889+05:30'
+first_seen: '2026-06-22T11:24:51.338762+05:30'
+last_seen: '2026-06-22T11:24:51.338762+05:30'
+last_checked: '2026-06-22T11:24:51.338762+05:30'
 health_score: 100
 ---
 
@@ -22,9 +22,9 @@ health_score: 100
 
 ## Summary
 
-- **ASGI Web Server**: Uvicorn is a lightweight ASGI (Asynchronous Server Gateway Interface) web server implementation for Python, supporting HTTP/1.1 and WebSockets, designed to fill the gap in Python's async framework tooling.
-- **Deployment Flexibility**: Supports multiple execution modes, including CLI (`uvicorn main:app`), programmatic (`uvicorn.run()`), embedded server (`uvicorn.Server`), and integration with Gunicorn for production-grade process management.
-- **Performance & Extensibility**: Optimized for async I/O with minimal overhead, and extensible via worker classes (e.g., `UvicornWorker` for Gunicorn) for scalable deployments.
+- **ASGI Implementation**: Uvicorn is a lightweight ASGI (Asynchronous Server Gateway Interface) web server for Python, supporting HTTP/1.1 and WebSockets, designed to bridge the gap between async frameworks and low-level server interfaces.
+- **Deployment Flexibility**: Supports multiple execution modes, including CLI (`uvicorn main:app`), programmatic (`uvicorn.run()`), Gunicorn integration (via `uvicorn-worker`), and factory-based app loading (`--factory` flag).
+- **Performance & Scalability**: Optimized for async I/O with options for multi-worker scaling (e.g., `gunicorn example:app -w 4 -k uvicorn.workers.UvicornWorker`) and production-grade process management.
 
 ## Why It Matters
 
@@ -34,7 +34,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:47:00.363881+05:30
+- Published: 2026-06-22T11:24:51.338749+05:30
 
 ## Related Tags
 
@@ -44,4 +44,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://uvicorn.dev
+Original source: https://www.uvicorn.dev

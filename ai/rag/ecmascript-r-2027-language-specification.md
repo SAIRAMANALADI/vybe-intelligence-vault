@@ -3,9 +3,9 @@ title: ECMAScript® 2027 Language Specification
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://tc39.es/ecma262/#surrounding-agent
-published_at: '2026-06-22T11:06:18.425413+05:30'
-collected_at: '2026-06-22T11:06:18.425444+05:30'
+source_url: https://tc39.es/ecma262/#sec-list-and-record-specification-type
+published_at: '2026-06-22T11:35:11.017116+05:30'
+collected_at: '2026-06-22T11:35:11.017134+05:30'
 tags:
 - agents
 - benchmark
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:ecmascript-r-2027-language-specification
-first_seen: '2026-06-22T11:06:18.425444+05:30'
-last_seen: '2026-06-22T11:06:18.425444+05:30'
-last_checked: '2026-06-22T11:06:18.425444+05:30'
+first_seen: '2026-06-22T11:35:11.017134+05:30'
+last_seen: '2026-06-22T11:35:11.017134+05:30'
+last_checked: '2026-06-22T11:35:11.017134+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,11 @@ health_score: 100
 
 ## Summary
 
-- ECMAScript 262 specification defines 44+ language types (e.g., Undefined, Null, Boolean, String, Symbol, Number, BigInt) with normative algorithms for operations like `unaryMinus`, `bitwiseNOT`, `exponentiate`, and comparison methods (`lessThan`, `equal`, `sameValue`).
+- **ECMAScript Specification Structure**: Defines language types (Undefined, Null, Boolean, String, Symbol, Numeric), abstract operations, and grammar conventions (lexical, syntactic, numeric string) with detailed subsections for each type (e.g., `Number::add`, `BigInt::multiply`).
 
-- Numeric types (Number/BigInt) include 20+ abstract operations for arithmetic, bitwise, and type conversion (e.g., `Number::add`, `BigInt::multiply`, `Number::toString`).
+- **Runtime & Static Semantics**: Specifies evaluation order, completion records, and runtime semantics (e.g., `Throw`, `Completion (completionRecord)`) alongside static semantics for grammar rules and mathematical operations.
 
-- Specification uses formal grammars (lexical/syntactic) and algorithm conventions (e.g., completion records, runtime semantics) to define evaluation order and static semantics for ECMAScript constructs.
+- **Host & Implementation Definitions**: Includes normative references, conformance clauses (e.g., `implementation-defined`, `host-defined`), and terms for exotic/standard objects, built-ins, and host environments (e.g., web scripting).
 
 ## Why It Matters
 
@@ -42,7 +42,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:06:18.425413+05:30
+- Published: 2026-06-22T11:35:11.017116+05:30
 
 ## Related Tags
 
@@ -58,4 +58,4 @@ General public resource representing technology updates, guides, or tutorials.
 
 ## Source
 
-Original source: https://tc39.es/ecma262/#surrounding-agent
+Original source: https://tc39.es/ecma262/#sec-list-and-record-specification-type

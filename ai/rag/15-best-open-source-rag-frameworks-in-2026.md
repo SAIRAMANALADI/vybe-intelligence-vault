@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://www.firecrawl.dev/blog/best-open-source-rag-frameworks
-published_at: '2026-06-22T10:24:14.472329+05:30'
-collected_at: '2026-06-22T10:24:14.472341+05:30'
+published_at: '2026-06-22T11:15:27.572261+05:30'
+collected_at: '2026-06-22T11:15:27.572272+05:30'
 tags:
 - agents
 - benchmark
@@ -23,9 +23,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:15-best-open-source-rag-frameworks-in-2026
-first_seen: '2026-06-22T10:24:14.472341+05:30'
-last_seen: '2026-06-22T10:24:14.472341+05:30'
-last_checked: '2026-06-22T10:24:14.472341+05:30'
+first_seen: '2026-06-22T11:15:27.572272+05:30'
+last_seen: '2026-06-22T11:15:27.572272+05:30'
+last_checked: '2026-06-22T11:15:27.572272+05:30'
 health_score: 100
 ---
 
@@ -33,11 +33,11 @@ health_score: 100
 
 ## Summary
 
-- **Firecrawl**: AI-powered web scraping engine for LLM-friendly data extraction, supporting structured document generation (Markdown/HTML), agent-based data retrieval, and deep research endpoints via API (`scrape()`, `crawl()`, `agent()` methods).
+- **LangChain**: Modular framework (105k ⭐) for chaining LLM components with flexible data connections, retrieval strategies, and evaluation tools; integrates with LangSmith/LangGraph for debugging/workflow management.
 
-- **RAGFlow**: Open-source RAG engine with deep document parsing (tables/layouts) and GraphRAG support, offering visual web UI, Elasticsearch/Infinity storage backends, and Python/REST APIs for structured RAG workflows.
+- **RAGFlow**: Open-source RAG engine (48.5k ⭐) specializing in deep document parsing (PDFs/tables) with GraphRAG support, agentic reasoning, and dual storage backends (Elasticsearch/Infinity).
 
-- **Milvus**: Cloud-native vector database optimized for ANN search, enabling hybrid (vector + scalar) queries, multi-modal embeddings, and horizontal scalability for production RAG systems (Docker deployment: `milvusdb/milvus:latest`).
+- **Milvus**: High-performance vector database (33.9k ⭐) optimized for ANN search with hybrid query capabilities, horizontal scalability, and enterprise-grade consistency for production RAG systems.
 
 ## Why It Matters
 
@@ -47,7 +47,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:24:14.472329+05:30
+- Published: 2026-06-22T11:15:27.572261+05:30
 
 ## Related Tags
 

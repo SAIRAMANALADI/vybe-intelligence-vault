@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://android.googlesource.com
-published_at: '2026-06-22T10:35:43.752336+05:30'
-collected_at: '2026-06-22T10:35:43.752351+05:30'
+published_at: '2026-06-22T11:30:02.231145+05:30'
+collected_at: '2026-06-22T11:30:02.231156+05:30'
 tags:
 - benchmark
 - frontend_ui
@@ -22,9 +22,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:android-git-repositories-git-at-google
-first_seen: '2026-06-22T10:35:43.752351+05:30'
-last_seen: '2026-06-22T10:35:43.752351+05:30'
-last_checked: '2026-06-22T10:35:43.752351+05:30'
+first_seen: '2026-06-22T11:30:02.231156+05:30'
+last_seen: '2026-06-22T11:30:02.231156+05:30'
+last_checked: '2026-06-22T11:30:02.231156+05:30'
 health_score: 100
 ---
 
@@ -32,11 +32,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosted Git Infrastructure**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS development, kernel modules, device-specific configurations, and accessory support.
+- **Primary Git Repository Host**: The Android Open Source Project (AOSP) maintains its official Git repositories at [android.googlesource.com](https://android.googlesource.com/), providing version-controlled access to Android's source code, device-specific configurations, and kernel branches.
 
-- **Device-Specific Repositories**: Contains kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and platform-specific code for Google and partner devices (e.g., Pixel, Coral, Cuttlefish) across multiple Android versions (5.10, 6.1, etc.).
+- **Device-Specific Branches & Kernels**: AOSP includes dedicated repositories for device-specific implementations (e.g., `device/google/bluejay`, `device/google/taimen`) with parallel kernel (`*-kernel`) and SELinux policy (`*-sepolicy`) branches, often tracking multiple kernel versions (e.g., 5.10, 6.1) per device.
 
-- **Accessory & Emulator Support**: Includes repositories for hardware accessories (e.g., Arduino, ADK) and emulator targets (e.g., `goldfish`, `qemu`, `mini-emulator-*`) for development and testing.
+- **Code Review & Access Control**: Gerrit-based code review is facilitated via [android-review.googlesource.com](https://android-review.googlesource.com/), with authentication managed through Google OAuth2, enabling secure access control and permission revocation via [Google Security Settings](https://security.google.com/settings/security/permissions).
 
 ## Why It Matters
 
@@ -46,7 +46,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:35:43.752336+05:30
+- Published: 2026-06-22T11:30:02.231145+05:30
 
 ## Related Tags
 

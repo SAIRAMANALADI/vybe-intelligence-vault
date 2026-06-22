@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://huggingface.co/docs/hub/spaces
-published_at: '2026-06-22T10:34:16.609234+05:30'
-collected_at: '2026-06-22T10:34:16.609247+05:30'
+published_at: '2026-06-22T11:15:57.435161+05:30'
+collected_at: '2026-06-22T11:15:57.435175+05:30'
 tags:
 - agents
 - creative_dev
@@ -21,9 +21,9 @@ tags:
 - workflows
 status: active
 resource_id: huggingface:docs/hub
-first_seen: '2026-06-22T10:34:16.609247+05:30'
-last_seen: '2026-06-22T10:34:16.609247+05:30'
-last_checked: '2026-06-22T10:34:16.609247+05:30'
+first_seen: '2026-06-22T11:15:57.435175+05:30'
+last_seen: '2026-06-22T11:15:57.435175+05:30'
+last_checked: '2026-06-22T11:15:57.435175+05:30'
 health_score: 100
 ---
 
@@ -31,11 +31,11 @@ health_score: 100
 
 ## Summary
 
-- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo apps directly on user/organization profiles with built-in support for Gradio, Docker, and static HTML/JavaScript applications, including GPU acceleration options.
+- **Hosting & Deployment**: Hugging Face Spaces enables hosting ML demo applications directly on user/organization profiles with support for Gradio, Docker, and static HTML/JavaScript frontends, including GPU acceleration for performance-critical workloads.
 
-- **Storage & Compute**: Supports GPU upgrades, disk usage tracking, and custom domain configurations; enables embedding Spaces as MCP servers, API endpoints, or agent tools with Docker-based execution.
+- **Storage & Compute**: Offers configurable storage limits, GPU upgrades (including ZeroGPU), and disk usage monitoring for Spaces, with options for custom domains and embedded deployment.
 
-- **Integration & Extensibility**: Provides SDKs for Gradio/Streamlit, static HTML, and Docker; supports GitHub Actions for CI/CD, OAuth for authentication, and advanced features like ZeroGPU and agent-based workflows.
+- **Integration & Automation**: Supports GitHub Actions for CI/CD, OAuth-based authentication, and MCP server integration for agent-based workflows, with SDKs for Python and JavaScript/HTML customization.
 
 ## Why It Matters
 
@@ -45,7 +45,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:34:16.609234+05:30
+- Published: 2026-06-22T11:15:57.435161+05:30
 
 ## Related Tags
 

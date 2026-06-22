@@ -7,9 +7,9 @@ source_url: https://sysdebug.com/posts/rag-application-tutorial-production-guide
 resource_id: blog:rag-application-tutorial-2025-build-production-rea
 local_vault_path: ai/rag/rag-application-tutorial-2025-build-production-rea.md
 quality_score: 70
-archive_score: 80
+archive_score: 84
 archive_tier: useful
-resource_kind: dataset
+resource_kind: prompt
 importance: high
 tags:
 - agents
@@ -23,6 +23,7 @@ tags:
 - rag
 - reddit
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -31,18 +32,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 80 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 84 (useful)
+- Resource kind: prompt
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Core RAG Architecture**: Combines retrieval (dense/sparse embeddings, Supabase vector DB) and generation (LangChain) with chunking strategies, embedding optimization, and hybrid search (dense+sparse retrieval) for production-grade systems.
+- **RAG Pipeline Architecture**: Core components include document chunking strategies (e.g., semantic, fixed-size), optimized embeddings (e.g., Sentence-BERT, VoyageAI), and vector databases (e.g., Supabase, Pinecone) for efficient retrieval; advanced retrieval combines dense (vector) and sparse (BM25) methods.
 
-- **Production Hardening**: Implements caching, load balancing, Cloudflare Workers for deployment, Sentry for observability, and token optimization to balance cost/performance while mitigating hallucinations and latency issues.
-
-- **Advanced Patterns & Te
+- **Production Optimization**: Implements caching (e.g., Redis), load balancing across multiple LLM instances, and deployment via Cloudflare Workers; token usage is minimized via prompt
 
 ## Use Cases
 

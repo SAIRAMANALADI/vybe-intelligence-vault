@@ -26,9 +26,9 @@ selection_reason:
 
 ## Summary
 
-- **System Status**: Medium reports 100% uptime for all components (3 web services, 2 mobile apps) from March 2026 to June 2026 with no detected operational issues.
-- **Component Breakdown**: Web services consist of 3 distinct components; mobile apps include 2 separate components, all maintaining full operational status.
-- **Calendar Integration**: The status page includes a static calendar for June 2026 with no dynamic updates or embedded functionality.
+- **Operational Status**: Medium reports 100% uptime for both Web Services (3 components) and Mobile Apps (2 components) as of June 2026.
+- **System Monitoring**: No known issues affecting Medium’s infrastructure during the reported period (March–June 2026).
+- **Components Tracked**: Web Services and Mobile Apps are monitored separately, each with distinct component counts (3 and 2, respectively).
 
 ## Use Cases
 

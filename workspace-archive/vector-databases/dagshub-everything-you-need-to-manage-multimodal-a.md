@@ -8,7 +8,7 @@ local_vault_path: ai/rag/dagshub-everything-you-need-to-manage-multimodal-a.md
 quality_score: 70
 archive_score: 70
 archive_tier: useful
-resource_kind: dataset
+resource_kind: framework
 importance: medium
 tags:
 - dataset
@@ -18,7 +18,7 @@ tags:
 - workflows
 - youtube
 selection_reason:
-- Valuable developer reference
+- Useful for project building
 ---
 
 # DagsHub: Everything you need to manage multimodal AI
@@ -27,17 +27,15 @@ selection_reason:
 
 - Matched archive category: `Vector Databases`
 - Quality score: 70 | Archive score: 70 (useful)
-- Resource kind: dataset
+- Resource kind: framework
 - Selection reasons:
-  - Valuable developer reference
+  - Useful for project building
 
 ## Summary
 
-- **Unified AI Data & Model Management Platform**: Supports curation, annotation, and versioning of multimodal datasets (vision, audio, LLM) with lineage tracking, experiment management, and model registry, integrating with MLflow and cloud/on-prem storage.
+- **Unified AI Data & Model Management**: Platform supports multimodal (vision, audio, LLM) data curation, annotation, experiment tracking, and model versioning with lineage, integrating seamlessly with ML frameworks and MLOps tools.
 
-- **Tiered Pricing & Scalability**:
-  - **Individual**: Free tier with public repos, 100 private experiments, 2 collaborators, and 20GB storage.
-  - **Team**: $99/user/month with private repos, multimodal auto-labeling, 1TB storage, and RBAC
+- **Scalable Plans**: Free tier offers public repos, limited private storage, and experiment tracking; Team ($99/user/month) adds multimodal annotation, RBAC, and 1TB storage; Enterprise supports petabyte-scale data, on-premise/VPC deployments, and SSO/LDAP integra
 
 ## Use Cases
 

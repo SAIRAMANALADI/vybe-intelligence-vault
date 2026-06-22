@@ -31,7 +31,11 @@ selection_reason:
 
 ## Summary
 
-Nicole Choi @nicchoi29
+- **GitHub Contributions**: Nicole Choi is a documented contributor on GitHub, associated with [GitHub Blog](https://github.blog/author/nicchoi29/) and holds the username [@nicchoi29](https://github.com/nicchoi29).
+
+- **Profile Metadata**: The provided profile image URL (`https://avatars.githubusercontent.com/u/121124774?v=4&s=200`) indicates a GitHub user ID of `121124774` with a custom avatar of size `200x200`.
+
+- **Author Affiliation**: Nicole Choi is listed as an author on the GitHub Blog, c
 
 ## Use Cases
 

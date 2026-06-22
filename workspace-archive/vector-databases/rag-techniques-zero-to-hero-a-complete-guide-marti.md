@@ -6,7 +6,7 @@ source_url: https://martinuke0.github.io/posts/2025-12-20-rag-techniques-zero-to
 resource_id: blog:rag-techniques-zero-to-hero-a-complete-guide-marti
 local_vault_path: ai/rag/rag-techniques-zero-to-hero-a-complete-guide-marti.md
 quality_score: 70
-archive_score: 70
+archive_score: 72
 archive_tier: useful
 resource_kind: dataset
 importance: medium
@@ -22,6 +22,7 @@ tags:
 - rag
 - reddit
 selection_reason:
+- Strong keyword match
 - Valuable developer reference
 ---
 
@@ -30,18 +31,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 70 (useful)
+- Quality score: 70 | Archive score: 72 (useful)
 - Resource kind: dataset
 - Selection reasons:
+  - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **RAG Pipeline Architecture**: Core components include a retriever (vector/lexical), vector store/index, LLM generator, and optional reranker/query-rewriter; orchestration layers manage caching, latency, and cost optimization.
+- **Core RAG Pipeline**: Combines a retriever (vector/lexical), vector store/index, and LLM generator; optionally includes rerankers, query rewriting, caching, and orchestration for precision and efficiency.
 
-- **Advanced Retrieval Techniques**: Hybrid search (BM25 + vector fusion), multi-hop iterative retrieval, and cross-encoder reranking improve precision/recall, while query rewriting and semantic chunking enhance semantic alignment and context coherence.
+- **Chunking Strategies**: Fixed-size, overlap/stride, semantic, structure-aware, and LLM-based chunking transform documents into retrieval units; structure-aware + overlap is a practical baseline with semantic chunking for coherence.
 
-- **Context Opt
+- **Hybrid Retrieval & Reranking**: ANN-based vector se
 
 ## Use Cases
 

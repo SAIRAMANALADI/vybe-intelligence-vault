@@ -2,7 +2,7 @@
 title: ECMAScript® 2027 Language Specification
 archive_category: evals-and-benchmarks
 source_category: ai/rag
-source_url: https://tc39.es/ecma262/#surrounding-agent
+source_url: https://tc39.es/ecma262/#sec-list-and-record-specification-type
 resource_id: blog:ecmascript-r-2027-language-specification
 local_vault_path: ai/rag/ecmascript-r-2027-language-specification.md
 quality_score: 70
@@ -38,11 +38,9 @@ selection_reason:
 
 ## Summary
 
-- ECMAScript 262 specification defines 44+ language types (e.g., Undefined, Null, Boolean, String, Symbol, Number, BigInt) with normative algorithms for operations like `unaryMinus`, `bitwiseNOT`, `exponentiate`, and comparison methods (`lessThan`, `equal`, `sameValue`).
+- **ECMAScript Specification Structure**: Defines language types (Undefined, Null, Boolean, String, Symbol, Numeric), abstract operations, and grammar conventions (lexical, syntactic, numeric string) with detailed subsections for each type (e.g., `Number::add`, `BigInt::multiply`).
 
-- Numeric types (Number/BigInt) include 20+ abstract operations for arithmetic, bitwise, and type conversion (e.g., `Number::add`, `BigInt::multiply`, `Number::toString`).
-
-- Specification uses formal grammars (lexical/syntacti
+- **Runtime & Static Semantics**: Specifies evaluation order, completion records, and runtime semantics (e.g., `Throw`, `Completion (completionRecord)`) alongside static semantics for grammar rules and mathematical o
 
 ## Use Cases
 
@@ -52,7 +50,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://tc39.es/ecma262/#surrounding-agent
+Original source URL: https://tc39.es/ecma262/#sec-list-and-record-specification-type
 
 ## Local Vault File
 

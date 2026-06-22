@@ -37,11 +37,9 @@ selection_reason:
 
 ## Summary
 
-- **Hosted Git Infrastructure**: Android's official Git repositories are hosted on `android.googlesource.com`, providing version control for Android OS development, kernel modules, device-specific configurations, and accessory support.
+- **Primary Git Repository Host**: The Android Open Source Project (AOSP) maintains its official Git repositories at [android.googlesource.com](https://android.googlesource.com/), providing version-controlled access to Android's source code, device-specific configurations, and kernel branches.
 
-- **Device-Specific Repositories**: Contains kernel (`*-kernel`), SELinux policy (`*-sepolicy`), and platform-specific code for Google and partner devices (e.g., Pixel, Coral, Cuttlefish) across multiple Android versions (5.10, 6.1, etc.).
-
-- **Accessory & Emulat
+- **Device-Specific Branches & Kernels**: AOSP includes dedicated repositories for device-specific implementations (e.g., `device/google/bluejay`, `device/google/taimen`) with parallel kernel (`*-kernel`)
 
 ## Use Cases
 

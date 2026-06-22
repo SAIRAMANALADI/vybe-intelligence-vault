@@ -34,11 +34,9 @@ selection_reason:
 
 ## Summary
 
-- **Setup & Build Process**: Fork and clone the [CPython repository](https://github.com/python/cpython), then compile using platform-specific commands (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix) with debug flags enabled for testing.
+- **CPython Development Workflow**: Requires forking the [CPython repository](https://github.com/python/cpython), setting up Git, and building Python from source using platform-specific commands (e.g., `./configure --with-pydebug && make -j $(nproc)` for Unix). Tests are executed via `./python -m test -j3`.
 
-- **Contribution Workflow**: Create a dedicated branch (e.g., `git checkout -b fix-issue-12345 main`), implement changes, and submit a pull request with a `gh-NNNNNN:` prefixed title; include a `Misc/NEWS.d/` entry via `blurb` tool.
-
-- **Key Re
+- **Contribution Process**: Contributors must sign the [Contributor Licensing Agreement (CLA)](https://devguide.python.org/getting-started/pull-request-lifecycle/#cla), submit pull requests
 
 ## Use Cases
 

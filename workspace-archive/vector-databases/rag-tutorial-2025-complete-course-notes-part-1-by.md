@@ -6,7 +6,7 @@ source_url: https://pragatimehraa.medium.com/rag-tutorial-2025-complete-course-n
 resource_id: blog:rag-tutorial-2025-complete-course-notes-part-1-by
 local_vault_path: ai/rag/rag-tutorial-2025-complete-course-notes-part-1-by.md
 quality_score: 70
-archive_score: 78
+archive_score: 74
 archive_tier: useful
 resource_kind: benchmark
 importance: medium
@@ -31,7 +31,7 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Vector Databases`
-- Quality score: 70 | Archive score: 78 (useful)
+- Quality score: 70 | Archive score: 74 (useful)
 - Resource kind: benchmark
 - Selection reasons:
   - Strong keyword match
@@ -39,9 +39,11 @@ selection_reason:
 
 ## Summary
 
-- **RAG Architecture**: Combines LLMs with retrieval systems to fetch relevant external data (documents, databases) for accurate responses, avoiding context window overload; splits into **Injection Pipeline** (data ingestion, chunking, embeddings) and **Retrieval Pipeline** (query embedding, similarity search, LLM augmentation).
+- **RAG Fundamentals**: Combines LLMs with retrieval systems to fetch external context (e.g., documents) for accurate responses, bypassing context window limits (e.g., GPT-4.1 handles 1M tokens vs. enterprise data in petabytes).
 
-- **Embeddings & Vector Databases**: Text is converted into high-dimensional vectors (e.g., OpenAI’s 3,072-dim embeddings) using embedding models; vector databases (Pin
+- **Embedding Pipeline**: Chunks documents (e.g., 1,000 tokens) into 10K segments, converts them to high-dimensional vectors (e.g., 3,072D via OpenAI's `text-embedding-3-large`) using semantic similarity for retrieval.
+
+- **Two-Phase Workflow**: Injection pipeline (chun
 
 ## Use Cases
 

@@ -44,36 +44,35 @@ Vybe Intelligence Vault is not a static dump. It is a live AI builder intelligen
 
 | Metric | Count |
 |---|---:|
-| Resources tracked | 5351 |
-| Active resources | 5208 |
+| Resources tracked | 5550 |
+| Active resources | 5407 |
 | Inactive resources | 143 |
-| Archive files | 23542 |
+| Archive files | 23959 |
 | Archive categories | 35 |
 | Builder maps | 8 |
 | Learning paths | 8 |
 | Build ideas | 8 |
 | Best-of guides | 6 |
-| Last meaningful update | 2026-06-22 11:10 IST |
+| Last meaningful update | 2026-06-22 13:13 IST |
 
 ### Trend Intelligence Dashboard
 
 #### Trending Resources
-- **[Client Challenge](ai/resources/client-challenge.md)** (Rank: +1091)
-- **[Using a knowledge graph to implement a RAG application](ai/rag/using-a-knowledge-graph-to-implement-a-rag-applica.md)** (Rank: +1954)
+- **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)** (+17 points)
+- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)** (+15 points)
+- **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)** (+3 points)
+- **[Welcome to Mozilla Foundation - Mozilla Foundation](ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md)** (Rank: +14)
+- **[Font Awesome](ai/resources/font-awesome.md)** (Rank: +310)
 
 #### New Discoveries
-- **[Apertus – Open Foundation Model for Sovereign AI](ai/community/apertus-open-foundation-model-for-sovereign-ai.md)** (Score: 277)
-- **[JSON-LD explained for personal websites](ai/community/json-ld-explained-for-personal-websites.md)** (Score: 186)
-- **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](ai/community/good-results-fine-tuning-a-local-llm-like-qwen-3-0.md)** (Score: 64)
-- **[NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md)** (Score: 0)
-- **[Science ouverte](ai/resources/science-ouverte.md)** (Score: 0)
+- **[Danish privacy activist Lars Andersen raided by police](ai/community/danish-privacy-activist-lars-andersen-raided-by-po.md)** (Score: 62)
+- **[FAQ - Unicode Frequently Asked Questions](ai/resources/faq-unicode-frequently-asked-questions.md)** (Score: 0)
+- **[NIST Guidelines, Information Quality Standards and Administrative Mechanism | NIST](ai/rag/nist-guidelines-information-quality-standards-and.md)** (Score: 0)
+- **[First Citizens Bank Responsible Disclosure](ai/resources/first-citizens-bank-responsible-disclosure.md)** (Score: 0)
+- **[EditPad® Pro: Text Editor for Windows](ai/resources/editpad-r-pro-text-editor-for-windows.md)** (Score: 0)
 
 #### Recently Inactive Resources
-- **[Loupe – A iOS app that raises awareness about what native apps can see](ai/community/mysk-research-loupe.md)**
-- **[Slow breathing modulates brain function and risk behavior](ai/community/slow-breathing-modulates-brain-function-and-risk-b.md)**
-- **[Building reliable agentic AI systems](ai/community/building-reliable-agentic-ai-systems.md)**
-- **[The case against geometric algebra (2024)](ai/community/the-case-against-geometric-algebra-2024.md)**
-- **[AI Has Broken Hiring](ai/community/ai-has-broken-hiring.md)**
+- None.
 
 The stats shown here are generated from the current vault content. They refresh automatically when the bot finds changes.
 

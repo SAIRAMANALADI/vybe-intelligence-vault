@@ -4,8 +4,8 @@ category: web-development/webgpu
 source_type: github
 source_name: GitHub WebGPU Resources
 source_url: https://github.com/redcamel/redgpu
-collected_at: '2026-06-21T20:19:13.372155+05:30'
-published_at: '2026-06-21T09:11:43Z'
+collected_at: '2026-06-22T11:11:59.419610+05:30'
+published_at: '2026-06-22T04:57:35Z'
 tags:
 - threejs
 stars: 380
@@ -13,8 +13,8 @@ language: TypeScript
 status: active
 resource_id: github:redcamel/redgpu
 first_seen: '2026-06-11T08:45:39.177185+00:00'
-last_seen: '2026-06-21T20:19:13.372155+05:30'
-last_checked: '2026-06-21T20:19:13.372155+05:30'
+last_seen: '2026-06-22T11:11:59.419610+05:30'
+last_checked: '2026-06-22T11:11:59.419610+05:30'
 health_score: 100
 ---
 
@@ -35,7 +35,7 @@ Explain why this repository is useful for advanced web development, 3D frontend,
 - Forks: 22
 - Language: TypeScript
 - Topics: 3d, javascript, javascript-webgpu-engine, javascript-webgpu-library, redgpu, typescript, webgpu, wgsl
-- Last Updated: 2026-06-21T09:11:43Z
+- Last Updated: 2026-06-22T04:57:35Z
 
 ## Possible Use Cases
 

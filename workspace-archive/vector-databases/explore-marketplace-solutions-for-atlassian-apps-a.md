@@ -13,7 +13,6 @@ importance: medium
 tags:
 - agents
 - rag
-- reddit
 - web-crawled
 - workflows
 selection_reason:
@@ -32,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- **AI-Powered Workflow Enhancement**: Atlassian Marketplace offers curated AI-driven apps to optimize productivity and automate workflows, including specialized collections like *Artificial Intelligence* and *Atlassian Rovo* for agent-enhanced experiences.
-
-- **Cross-Functional Tool Integration**: Apps span critical categories such as *Project Management*, *Software Development*, *Data & Analytics*, and *Content & Communication*, enabling seamless team collaboration and lifecycle tracking withi
+- **Admin Tools**: Apps for managing users, security, and system settings within Atlassian ecosystems.
+- **Runs on Atlassian**: Apps leveraging Atlassian infrastructure for secure, in-platform data storage.
+- **Artificial Intelligence**: AI-powered apps to optimize workflows and enhance productivity in Atlassian environments.
 
 ## Use Cases
 

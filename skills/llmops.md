@@ -19,13 +19,13 @@ LLMOps ensures the reliability, efficiency, performance, and security of product
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 283 resources matched in the intelligence vault.
+Active signals: 286 resources matched in the intelligence vault.
 Recently detected signals:
-- [Google AI Studio](../ai/resources/google-ai-studio.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Train deep learning PyTorch models (SDK v2) - Azure Machine Learning | Microsoft Learn](../ai/rag/train-deep-learning-pytorch-models-sdk-v2-azure-ma.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Teaching OPT to Paraphrase through Soft Prompt Tuning | by AI Singapore | AI Singapore TechBytes | Medium](../ai/rag/teaching-opt-to-paraphrase-through-soft-prompt-tun.md) (Source: Unknown Source) - Collected 2026-06-22
 - [RAG (Retrieval Augmented Generation) Guide 2025: Implementation, Vector Databases & Best Practices](../ai/rag/rag-retrieval-augmented-generation-guide-2025-impl.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Design and Develop a RAG Solution - Azure Architecture Center | Microsoft Learn](../ai/rag/design-and-develop-a-rag-solution-azure-architectu.md) (Source: Unknown Source) - Collected 2026-06-22
 - [oxbshw/LLM-Agents-Ecosystem-Handbook](../ai/rag/oxbshw-llm-agents-ecosystem-handbook.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Arize-ai/phoenix](../ai/rag/arize-ai-phoenix.md) (Source: Unknown Source) - Collected 2026-06-22
-- [GoogleCloudPlatform/agent-starter-pack](../ai/agents/googlecloudplatform-agent-starter-pack.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -121,4 +121,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T13:12:11.432114+05:30.104129+05:30.234164+05:30.617111+05:30.955613+05:30.953111+05:30.261657+05:30.249964+05:30.752890+05:30.702899+05:30.837744+05:30.313634+05:30.324083+05:30.399621+05:30.752625+05:30.271921+05:30.573809+05:30.401016+05:30.754483+05:30.616097+05:30.910300+05:30.384552+05:30.409985+05:30.

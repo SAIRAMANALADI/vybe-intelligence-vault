@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://repost.aws/knowledge-center?nc1=f_dr
-published_at: '2026-06-22T10:27:40.210252+05:30'
-collected_at: '2026-06-22T10:27:40.210265+05:30'
+published_at: '2026-06-22T11:17:45.128465+05:30'
+collected_at: '2026-06-22T11:17:45.128478+05:30'
 tags:
 - dataset
 - frontend_ui
@@ -18,9 +18,9 @@ tags:
 - youtube
 status: active
 resource_id: blog:discover-aws-official-knowledge-center-articles-aw
-first_seen: '2026-06-22T10:27:40.210265+05:30'
-last_seen: '2026-06-22T10:27:40.210265+05:30'
-last_checked: '2026-06-22T10:27:40.210265+05:30'
+first_seen: '2026-06-22T11:17:45.128478+05:30'
+last_seen: '2026-06-22T11:17:45.128478+05:30'
+last_checked: '2026-06-22T11:17:45.128478+05:30'
 health_score: 100
 ---
 
@@ -28,11 +28,9 @@ health_score: 100
 
 ## Summary
 
-- **S3 Replication Failures**: Common causes include missing IAM permissions (`s3:GetReplicationConfiguration`, `s3:ReplicateObject`), incorrect bucket policy configurations, or replication timeouts due to large object sizes (>5GB) requiring multipart uploads.
-
-- **EC2 SSH Connection Errors**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups, disabled SSH access, or incorrect key pair associations (`~/.ssh/authorized_keys` corruption).
-
-- **API Gateway 403 Errors**: Root causes often include missing or misconfigured resource policies, incorrect IAM execution roles, or CORS misconfigurations blocking preflight requests.
+- **S3 Replication Failures**: Common causes include missing IAM permissions, incorrect bucket policy configurations, or disabled versioning on source/destination buckets.
+- **EC2 SSH Connection Issues**: "Connection refused" or "Permission denied" errors typically stem from misconfigured security groups, incorrect key pair associations, or disabled SSH access in the instance.
+- **API Gateway 403 Errors**: Usually result from missing or misconfigured resource policies, incorrect IAM roles, or invalid API Gateway authorizers.
 
 ## Why It Matters
 
@@ -42,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:27:40.210252+05:30
+- Published: 2026-06-22T11:17:45.128465+05:30
 
 ## Related Tags
 

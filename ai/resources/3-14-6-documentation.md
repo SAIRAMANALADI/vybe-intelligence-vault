@@ -4,15 +4,15 @@ category: ai/resources
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.python.org
-published_at: '2026-06-22T10:26:08.982304+05:30'
-collected_at: '2026-06-22T10:26:08.982312+05:30'
+published_at: '2026-06-22T11:21:58.614904+05:30'
+collected_at: '2026-06-22T11:21:58.614914+05:30'
 tags:
 - web-crawled
 status: active
 resource_id: blog:3-14-6-documentation
-first_seen: '2026-06-22T10:26:08.982312+05:30'
-last_seen: '2026-06-22T10:26:08.982312+05:30'
-last_checked: '2026-06-22T10:26:08.982312+05:30'
+first_seen: '2026-06-22T11:21:58.614914+05:30'
+last_seen: '2026-06-22T11:21:58.614914+05:30'
+last_checked: '2026-06-22T11:21:58.614914+05:30'
 health_score: 100
 ---
 
@@ -20,9 +20,9 @@ health_score: 100
 
 ## Summary
 
-- Python 3.14.6 is the latest stable release, with documentation hosted at `https://docs.python.org/3.14/`, featuring sections for tutorials, library references, language specs, and C API documentation.
-- The Python Software Foundation (PSF) provides versioned docs (e.g., 3.16 dev, 3.15 pre-release) and deprecated versions (EOL), alongside auxiliary resources like PEPs, packaging guides, and static typing docs.
-- Official docs are generated via Sphinx 8.2.3, licensed under PSF v2/Zero-Clause BSD, with source issues tracked at `https://docs.python.org/bugs.html`.
+- **Python 3.14.6** is the latest stable release, with documentation hosted at `docs.python.org/3.14`, including "What's new" notes, tutorials, and language reference.
+- **Legacy versions** (3.9–2.6) are marked EOL, while 3.10–3.12 receive security fixes; 3.15 is pre-release, and 3.16 is in development.
+- **Documentation resources** include PEPs, packaging guides, C API references, and Sphinx-generated static docs with version-specific archives.
 
 ## Why It Matters
 
@@ -32,7 +32,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/resources
-- Published: 2026-06-22T10:26:08.982304+05:30
+- Published: 2026-06-22T11:21:58.614904+05:30
 
 ## Related Tags
 

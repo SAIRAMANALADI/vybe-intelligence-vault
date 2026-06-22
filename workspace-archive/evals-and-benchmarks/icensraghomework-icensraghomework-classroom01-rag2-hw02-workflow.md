@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (1 star, 68 forks), Python-based, last updated **2025-09-16T07:09:35Z**.
-- **Purpose**: GitHub Classroom assignment for RAG (Retrieval-Augmented Generation) workflow implementation (hw02).
-- **Metadata**: No topics assigned; hosted at the provided URL.
+- **Repository**: `IcensRAGHomework/icensraghomework-classroom01-rag2-hw02_workflow` (Python-based)
+- **Metrics**: 1 star, 68 forks, last updated 2025-09-16T07:09:35Z
+- **Purpose**: GitHub Classroom-assigned RAG (Retrieval-Augmented Generation) workflow repository
 
 ## Use Cases
 

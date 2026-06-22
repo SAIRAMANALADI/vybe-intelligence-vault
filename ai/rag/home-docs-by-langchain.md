@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://docs.langchain.com
-published_at: '2026-06-22T10:31:24.493142+05:30'
-collected_at: '2026-06-22T10:31:24.493154+05:30'
+published_at: '2026-06-22T11:17:19.161871+05:30'
+collected_at: '2026-06-22T11:17:19.161886+05:30'
 tags:
 - agents
 - benchmark
@@ -14,9 +14,9 @@ tags:
 - web-crawled
 status: active
 resource_id: blog:home-docs-by-langchain
-first_seen: '2026-06-22T10:31:24.493154+05:30'
-last_seen: '2026-06-22T10:31:24.493154+05:30'
-last_checked: '2026-06-22T10:31:24.493154+05:30'
+first_seen: '2026-06-22T11:17:19.161886+05:30'
+last_seen: '2026-06-22T11:17:19.161886+05:30'
+last_checked: '2026-06-22T11:17:19.161886+05:30'
 health_score: 100
 ---
 
@@ -24,9 +24,11 @@ health_score: 100
 
 ## Summary
 
-- LangChain provides a centralized [/llms.txt](https://docs.langchain.com/llms.txt) index for all documentation pages, enabling structured discovery of resources.
-- The platform supports agent development lifecycle phases: **Build** (LangChain, LangGraph, Deep Agents), **Test** (evaluations, prompt engineering), **Deploy** (scaling), **Monitor** (tracing/debugging), and **Govern** (access control).
-- LangSmith offers **no-code agent creation** (LangSmith Fleet) and **automated failure detection** (Engine), alongside compliance certifications (HIPAA, SOC 2, GDPR) and free educational resources (LangChain Academy).
+- **LangChain Documentation Index**: Centralized `/llms.txt` file lists all available documentation pages for LangChain, LangGraph, and Deep Agents.
+
+- **Agent Development Lifecycle Platform**: Supports **build** (LangChain/LangGraph/Deep Agents), **test** (datasets/evaluations), **deploy**, **monitor**, and **govern** phases for reliable agent deployment.
+
+- **LangSmith Features**: Includes **Engine** (automated failure detection), **Fleet** (no-code agent builder), **Academy** (training courses), **Community Forum**, **Support Portal**, and **Trust Center** (compliance: HIPAA/SOC 2/GDPR).
 
 ## Why It Matters
 
@@ -36,7 +38,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:31:24.493142+05:30
+- Published: 2026-06-22T11:17:19.161871+05:30
 
 ## Related Tags
 

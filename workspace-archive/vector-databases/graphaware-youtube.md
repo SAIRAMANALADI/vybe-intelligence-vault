@@ -11,6 +11,7 @@ archive_tier: useful
 resource_kind: tutorial
 importance: medium
 tags:
+- hackernews
 - rag
 - web-crawled
 - youtube
@@ -30,9 +31,9 @@ selection_reason:
 
 ## Summary
 
-- YouTube operates under Google LLC, with core infrastructure and APIs managed via [Google Developers](https://developers.google.com/youtube), enabling programmatic access to video data, uploads, and analytics.
-- Monetization and content policies are governed by [YouTube’s Terms of Service](https://www.youtube.com/t/terms), [Privacy Policy](https://www.youtube.com/t/privacy), and [Advertising Guidelines](https://www.youtube.com/ads/), ensuring compliance for creators and advertisers.
-- The [How
+- **Platform Overview**: YouTube is a video-sharing platform owned by Google LLC, enabling users to upload, share, and view videos, with additional services like live streaming, monetization (via YouTube Partners), and subscription features (YouTube Premium, YouTube Music).
+
+- **Technical Infrastructure**: Utilizes Google’s distributed systems for scalable video delivery, including CDN optimization, adaptive bitrate streaming (DASH), and AI-driven content recommendation algorithms (e.g., deep ne
 
 ## Use Cases
 

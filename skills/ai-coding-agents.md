@@ -18,13 +18,13 @@ AI coding agents significantly accelerate software development, automate repetit
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 822 resources matched in the intelligence vault.
+Active signals: 864 resources matched in the intelligence vault.
 Recently detected signals:
-- [NSF SAGE: Data Services: Nodes: DMC: Software: Complete List of Software Downloads](../ai/rag/nsf-sage-data-services-nodes-dmc-software-complete.md) (Source: Unknown Source) - Collected 2026-06-22
-- [International Real-time Magnetic Observatory Network](../ai/rag/international-real-time-magnetic-observatory-netwo.md) (Source: Unknown Source) - Collected 2026-06-22
-- [GDAL — GDAL documentation](../ai/rag/gdal-gdal-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Alabaster: a Sphinx theme — Alabaster documentation](../ai/resources/alabaster-a-sphinx-theme-alabaster-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
-- [libdatachannel](../ai/resources/libdatachannel.md) (Source: Unknown Source) - Collected 2026-06-22
+- [FAQ - Unicode Frequently Asked Questions](../ai/resources/faq-unicode-frequently-asked-questions.md) (Source: Unknown Source) - Collected 2026-06-22
+- [HelpScribble - Complete Help Authoring Tool - WinHelp hlp, HTML Help chm, Printed Manual and Web Help](../ai/resources/helpscribble-complete-help-authoring-tool-winhelp.md) (Source: Unknown Source) - Collected 2026-06-22
+- [BP Team Updates | Follow BuddyPress development & documentation latest news](../ai/rag/bp-team-updates-follow-buddypress-development-docu.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Redirecting to Unicode Resources page](../ai/resources/redirecting-to-unicode-resources-page.md) (Source: Unknown Source) - Collected 2026-06-22
+- [PowerGREP: Windows grep Software to Search (and Replace) through Files and Folders on Your PC and Network](../ai/resources/powergrep-windows-grep-software-to-search-and-repl.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -80,10 +80,10 @@ Recently detected signals:
 - Language: Unknown
 - Description: Production-Ready MCP Server Framework • Build, deploy & scale secure AI agent infrastructure • Includes Auth, Observability, Debugger, Telemetry & Runtime • Run real-world MCPs powering AI Agents
 
-### 11. [datawhalechina/all-in-rag](../ai/rag/datawhalechina-all-in-rag.md) ([GitHub](https://github.com/datawhalechina/all-in-rag))
+### 11. [CodeQL documentation](../ai/rag/codeql-documentation.md) ([GitHub](https://codeql.github.com/docs))
 - Stars: 0
 - Language: Unknown
-- Description: - **Comprehensive RAG Stack Guide**: Covers end-to-end RAG development with frameworks like LangChain, LlamaIndex, and deep learning models (DeepSeek, Kimi-K2), including embedding, retrieval, and ...
+- Description: - **CodeQL Overview**: CodeQL treats code as data, enabling vulnerability detection via custom queries and sharing to mitigate threats across projects.
 
 ### 12. [TencentCloudADP/youtu-graphrag](../ai/rag/tencentcloudadp-youtu-graphrag.md) ([GitHub](https://github.com/tencentcloudadp/youtu-graphrag))
 - Stars: 0
@@ -300,4 +300,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.175469+05:30.305821+05:30.680986+05:30.021592+05:30.018335+05:30.331226+05:30.315116+05:30.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T13:12:11.505232+05:30.175469+05:30.305821+05:30.680986+05:30.021592+05:30.018335+05:30.331226+05:30.315116+05:30.824967+05:30.766293+05:30.903732+05:30.380272+05:30.392506+05:30.462736+05:30.808132+05:30.328060+05:30.633954+05:30.456034+05:30.807694+05:30.009886+05:30.700572+05:30.962828+05:30.444093+05:30.493168+05:30.

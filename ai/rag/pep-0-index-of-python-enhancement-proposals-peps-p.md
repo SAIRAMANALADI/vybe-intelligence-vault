@@ -4,8 +4,8 @@ category: ai/rag
 source_type: web
 source_name: Web Discovery
 source_url: https://peps.python.org
-published_at: '2026-06-22T10:27:23.820712+05:30'
-collected_at: '2026-06-22T10:27:23.820726+05:30'
+published_at: '2026-06-22T11:23:58.553758+05:30'
+collected_at: '2026-06-22T11:23:58.553771+05:30'
 tags:
 - benchmark
 - hackernews
@@ -16,9 +16,9 @@ tags:
 - workflows
 status: active
 resource_id: blog:pep-0-index-of-python-enhancement-proposals-peps-p
-first_seen: '2026-06-22T10:27:23.820726+05:30'
-last_seen: '2026-06-22T10:27:23.820726+05:30'
-last_checked: '2026-06-22T10:27:23.820726+05:30'
+first_seen: '2026-06-22T11:23:58.553771+05:30'
+last_seen: '2026-06-22T11:23:58.553771+05:30'
+last_checked: '2026-06-22T11:23:58.553771+05:30'
 health_score: 100
 ---
 
@@ -26,11 +26,11 @@ health_score: 100
 
 ## Summary
 
-- **PEP Indexing & Metadata**: PEP 0 serves as a centralized index for all Python Enhancement Proposals (PEPs), with immutable PEP numbers assigned by editors and version-controlled via GitHub; a public JSON API (`peps.json`) provides structured metadata for all published PEPs.
+- **PEP Indexing System**: PEPs are permanently assigned unique numbers by editors; version-controlled GitHub history maintains their authoritative record, with metadata exposed via a public JSON API (`peps.json`).
 
-- **Categorization & Status Workflow**: PEPs are classified into categories (e.g., Process, Informational, Provisional) and statuses (e.g., Accepted, Finished, Rejected), with governance policies defined in meta-PEPs like PEP 1 (guidelines) and PEP 13 (Python Language Governance).
+- **Categorization & Status**: PEPs are classified into **Process/Meta-PEPs**, **Informational**, **Provisional**, **Accepted**, **Open**, **Finished**, **Deferred**, or **Rejected**, with status tracked via standardized keys (e.g., PA = Process Accepted, IA = Informational Accepted).
 
-- **Specialized PEPs & APIs**: PEPs cover domain-specific topics (e.g., PEP 333/WSGI, PEP 249/DB-API) and infrastructure (e.g., PEP 588/GitHub migration, PEP 630/extension isolation), with reserved numbers (e.g., 999–9999) and structured release schedules (e.g., PEP 619).
+- **Specialized Subsets**: PEPs are indexed by topic (e.g., **Governance**, **Packaging**, **Typing**) and include critical infrastructure PEPs (e.g., PEP 333/WSGI, PEP 482/Type Hints) alongside release-specific PEPs (e.g., PEP 619 for Python 3.10).
 
 ## Why It Matters
 
@@ -40,7 +40,7 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T10:27:23.820712+05:30
+- Published: 2026-06-22T11:23:58.553758+05:30
 
 ## Related Tags
 

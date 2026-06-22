@@ -33,9 +33,9 @@ selection_reason:
 
 ## Summary
 
-- **JupyterLab** is a modular, extensible IDE for computational notebooks, integrating code execution, data visualization, and rich text in a single interface, built atop **Project Jupyter**'s ecosystem.
-- Supports **real-time collaboration**, **Language Server Protocol (LSP)**, and **customizable workspaces** via plugins, with advanced features like a built-in debugger and terminal integration.
-- Enables **extension development** (frontend/backend) using **TypeScript/JavaScript**, with structur
+- **JupyterLab** is a modular, extensible IDE for computational notebooks (combining code, visualizations, and markdown) and a successor to Jupyter Notebook, offering advanced features like real-time collaboration, debugging, and multi-language support via the Language Server Protocol (LSP).
+
+- **Architecture**: Built as a client-server application with a React-based frontend (using `@jupyterlab` npm packages) and a Python-based Jupyter Server backend, enabling plugin-based extensibility and wor
 
 ## Use Cases
 

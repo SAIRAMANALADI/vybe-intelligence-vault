@@ -6,10 +6,10 @@ source_url: https://jupyterlab.rtfd.io/en/latest/getting_started/installation.ht
 resource_id: blog:installation-jupyterlab-4-6-0-documentation
 local_vault_path: ai/resources/installation-jupyterlab-4-6-0-documentation.md
 quality_score: 70
-archive_score: 82
+archive_score: 72
 archive_tier: useful
-resource_kind: dataset
-importance: high
+resource_kind: tutorial
+importance: medium
 tags:
 - producthunt
 - reddit
@@ -25,17 +25,17 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Automation Workflows`
-- Quality score: 70 | Archive score: 82 (useful)
-- Resource kind: dataset
+- Quality score: 70 | Archive score: 72 (useful)
+- Resource kind: tutorial
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- **Installation Methods**: JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `pip` (`pip install jupyterlab`), `pipenv` (`pipenv install jupyterlab`), or Docker (using Jupyter Team-maintained images with `-e JUPYTER_ENABLE_LAB=yes` flag).
+- JupyterLab can be installed via `conda` (`conda install -c conda-forge jupyterlab`), `mamba` (`mamba install -c conda-forge jupyterlab`), `uv` (`uv tool install jupyterlab --with pip`), `pip` (`pip install jupyterlab`), or Docker (using `-e JUPYTER_ENABLE_LAB=yes` flag in the container).
 
-- **Proxy/Firewall Workarounds**: For corporate networks, set `HTTP_PROXY`/`HTTPS_PROXY` environment variables or configure `conda`/`pip`/`npm` to bypass SSL (e.g., `conda
+- Proxy/firewall issues during installation can be mitigated by configuring `HTTP_PROXY`/`HTTPS_PROXY` environment variables or disabling SSL verification (not recommended) with `conda config --set ssl_verify
 
 ## Use Cases
 

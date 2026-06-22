@@ -2,7 +2,7 @@
 title: Welcome to Mozilla Foundation - Mozilla Foundation
 archive_category: vector-databases
 source_category: ai/rag
-source_url: https://mozillafoundation.org/?form=blog-footer
+source_url: https://foundation.mozilla.org
 resource_id: blog:welcome-to-mozilla-foundation-mozilla-foundation
 local_vault_path: ai/rag/welcome-to-mozilla-foundation-mozilla-foundation.md
 quality_score: 70
@@ -29,9 +29,9 @@ selection_reason:
 
 ## Summary
 
-- **AI Ethics in Media**: Focuses on leveraging media as a tool to drive social impact through AI ethics, emphasizing responsible and inclusive tech development.
-- **Community-Centric Tech**: Advocates for diverse stakeholder involvement in co-designing and co-creating AI-driven solutions to ensure public interest alignment.
-- **Intersectional Approach**: Integrates media, AI ethics, and social impact to empower marginalized groups, ensuring equitable decision-making power in tech governance.
+- **Intersection of Media & AI Ethics**: Focuses on leveraging media as a tool to drive social impact while addressing ethical considerations in AI applications.
+- **Public Interest Tech**: Advocates for inclusive decision-making in tech development, ensuring diverse communities have a voice in co-designing solutions.
+- **Role at RNW Media**: Works at RNW Media in the Netherlands, specializing in media strategies that align with societal and ethical tech advancements.
 
 ## Use Cases
 
@@ -41,7 +41,7 @@ selection_reason:
 
 ## Source
 
-Original source URL: https://mozillafoundation.org/?form=blog-footer
+Original source URL: https://foundation.mozilla.org
 
 ## Local Vault File
 

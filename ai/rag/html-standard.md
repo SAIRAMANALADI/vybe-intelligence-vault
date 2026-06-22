@@ -3,25 +3,23 @@ title: HTML Standard
 category: ai/rag
 source_type: web
 source_name: Web Discovery
-source_url: https://html.spec.whatwg.org/multipage/dom.html#the-directionality
-published_at: '2026-06-22T11:01:48.639347+05:30'
-collected_at: '2026-06-22T11:01:48.639361+05:30'
+source_url: https://html.spec.whatwg.org/multipage/nav-history-apis.html#the-location-interface
+published_at: '2026-06-22T11:34:25.115883+05:30'
+collected_at: '2026-06-22T11:34:25.115895+05:30'
 tags:
 - agents
-- dataset
+- animation
 - frontend_ui
 - hackernews
-- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - youtube
 status: active
 resource_id: blog:html-standard
-first_seen: '2026-06-22T11:01:48.639361+05:30'
-last_seen: '2026-06-22T11:01:48.639361+05:30'
-last_checked: '2026-06-22T11:01:48.639361+05:30'
+first_seen: '2026-06-22T11:34:25.115895+05:30'
+last_seen: '2026-06-22T11:34:25.115895+05:30'
+last_checked: '2026-06-22T11:34:25.115895+05:30'
 health_score: 100
 ---
 
@@ -29,11 +27,11 @@ health_score: 100
 
 ## Summary
 
-- The `Document` object in HTML UA represents both XML and HTML documents, with its URL and origin dynamically modifiable via navigation or `pushState()`; its origin may differ from the URL's origin due to inheritance in child navigables.
+- **Cross-origin security model for `Window`, `WindowProxy`, and `Location` objects**: Defines security checks via `[[CrossOriginPropertyDescriptorMap]]` internal slot, restricting property access across origins unless explicitly allowed (e.g., `href`, `location`, `postMessage`). Throws `SecurityError` if cross-origin access violates policies.
 
-- The `Document` interface extends DOM significantly, including resource metadata management (e.g., `location`, `cookie`, `readyState`), DOM tree accessors (e.g., `getElementsByName`, `currentScript`), and dynamic markup insertion methods (`open`, `write`, `writeln`).
+- **Abstract operations for cross-origin property handling**: `CrossOriginProperties(O)` returns a predefined list of accessible properties for `Window`/`Location` objects, while `CrossOriginPropertyFallback(P)` handles fallback cases (e.g., `then`, `Symbol` properties) to ensure consistent behavior across origins.
 
-- Each `Document` maintains auxiliary states like policy container, permissions policy, module map, opener policy, and BFCache blocking details, alongside specialized attributes for WebDriver BiDi and `about:`-schemed documents.
+- **Internal slot and garbage collection rules**: The `[[CrossOriginPropertyDescriptorMap]]` caches property descriptors for cross-origin access, with garbage collection tied to reference lifetimes. User agents may optimize by clearing entries when `document.domain` changes, as prior origins become inaccessible.
 
 ## Why It Matters
 
@@ -43,21 +41,19 @@ General public resource representing technology updates, guides, or tutorials.
 
 - Source: Web Discovery
 - Category: ai/rag
-- Published: 2026-06-22T11:01:48.639347+05:30
+- Published: 2026-06-22T11:34:25.115883+05:30
 
 ## Related Tags
 
 - agents
-- dataset
+- animation
 - frontend_ui
 - hackernews
-- producthunt
 - rag
 - reddit
-- scripts
 - web-crawled
 - youtube
 
 ## Source
 
-Original source: https://html.spec.whatwg.org/multipage/dom.html#the-directionality
+Original source: https://html.spec.whatwg.org/multipage/nav-history-apis.html#the-location-interface

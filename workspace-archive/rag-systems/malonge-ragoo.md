@@ -8,13 +8,13 @@ local_vault_path: ai/rag/malonge-ragoo.md
 quality_score: 70
 archive_score: 77
 archive_tier: useful
-resource_kind: workflow
+resource_kind: tool
 importance: medium
 tags:
 - github-repo
+- hackernews
 - python
 - rag
-- workflows
 selection_reason:
 - Strong keyword match
 - Active open-source repository
@@ -26,16 +26,16 @@ selection_reason:
 
 - Matched archive category: `RAG Systems`
 - Quality score: 70 | Archive score: 77 (useful)
-- Resource kind: workflow
+- Resource kind: tool
 - Selection reasons:
   - Strong keyword match
   - Active open-source repository
 
 ## Summary
 
-- **Deprecation Notice**: RaGOO (Python-based tool) is no longer maintained; users are directed to its successor, [RagTag](https://github.com/malonge/RagTag).
-- **Functionality**: Designed for **genome assembly scaffolding** and **chromosome-scale assembly** in bioinformatics workflows.
-- **Metadata**: 173 stars, 28 forks; last updated **2026-06-18**.
+- **Deprecation Notice**: RaGOO is no longer maintained; users are directed to its successor, **RagTag** ([malonge/RagTag](https://github.com/malonge/RagTag)), for continued development.
+- **Technical Scope**: Designed for **bioinformatics**, specifically **genome assembly** and **scaffolding**, leveraging Python for computational efficiency.
+- **Repository Metrics**: 173 stars, 28 forks, last updated **2026-06-18**; classified under topics: *bioinformatics*, *genome-assembly*, *genome-scaffoldi
 
 ## Use Cases
 

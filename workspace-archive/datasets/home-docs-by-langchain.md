@@ -6,9 +6,9 @@ source_url: https://docs.langchain.com
 resource_id: blog:home-docs-by-langchain
 local_vault_path: ai/rag/home-docs-by-langchain.md
 quality_score: 70
-archive_score: 74
+archive_score: 76
 archive_tier: useful
-resource_kind: prompt
+resource_kind: dataset
 importance: medium
 tags:
 - agents
@@ -26,17 +26,19 @@ selection_reason:
 ## Why This Is In The Archive
 
 - Matched archive category: `Datasets`
-- Quality score: 70 | Archive score: 74 (useful)
-- Resource kind: prompt
+- Quality score: 70 | Archive score: 76 (useful)
+- Resource kind: dataset
 - Selection reasons:
   - Strong keyword match
   - Valuable developer reference
 
 ## Summary
 
-- LangChain provides a centralized [/llms.txt](https://docs.langchain.com/llms.txt) index for all documentation pages, enabling structured discovery of resources.
-- The platform supports agent development lifecycle phases: **Build** (LangChain, LangGraph, Deep Agents), **Test** (evaluations, prompt engineering), **Deploy** (scaling), **Monitor** (tracing/debugging), and **Govern** (access control).
-- LangSmith offers **no-code agent creation** (LangSmith Fleet) and **automated failure detection*
+- **LangChain Documentation Index**: Centralized `/llms.txt` file lists all available documentation pages for LangChain, LangGraph, and Deep Agents.
+
+- **Agent Development Lifecycle Platform**: Supports **build** (LangChain/LangGraph/Deep Agents), **test** (datasets/evaluations), **deploy**, **monitor**, and **govern** phases for reliable agent deployment.
+
+- **LangSmith Features**: Includes **Engine** (automated failure detection), **Fleet** (no-code agent builder), **Academy** (training course
 
 ## Use Cases
 

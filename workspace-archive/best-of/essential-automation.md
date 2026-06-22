@@ -23,9 +23,14 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `84` | **Path**: [`how-to-contribute-contributing-to-godot.md`](../../ai/rag/how-to-contribute-contributing-to-godot.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
-### [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html)
-- **Category**: `ai/resources` | **Kind**: `DATASET` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`installation-jupyterlab-4-6-0-documentation.md`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md)
+### [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev)
+- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
+- **Score**: `84` | **Path**: [`genkit-open-source-ai-framework-by-google-in-javas.md`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md)
+- **Selection Reason**: Strong keyword match, Useful for project building
+
+### [Introduction | Electron](https://electronjs.org/docs/latest)
+- **Category**: `ai/resources` | **Kind**: `TUTORIAL` | **Tier**: `USEFUL`
+- **Score**: `82` | **Path**: [`introduction-electron.md`](../../ai/resources/introduction-electron.md)
 - **Selection Reason**: Strong keyword match, Valuable developer reference
 
 ### [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code)
@@ -63,11 +68,6 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 - **Score**: `82` | **Path**: [`arxiv-2606-11304.md`](../../ai/rag/arxiv-2606-11304.md)
 - **Selection Reason**: Strong keyword match, Useful for project building
 
-### [Building Production-Ready AI Agents with OpenAI Agents SDK and FastAPI - DEV Community](https://dev.to/parupati/building-production-ready-ai-agents-with-openai-agents-sdk-and-fastapi-abd)
-- **Category**: `ai/rag` | **Kind**: `FRAMEWORK` | **Tier**: `USEFUL`
-- **Score**: `82` | **Path**: [`building-production-ready-ai-agents-with-openai-ag.md`](../../ai/rag/building-production-ready-ai-agents-with-openai-ag.md)
-- **Selection Reason**: Strong keyword match, Useful for project building
-
 
 ## Recommended Learning Path
 
@@ -89,4 +89,4 @@ This guide consolidates the highest-priority tools, frameworks, and reference fi
 
 *Curated by Harvester Engine*
 
-*Last updated: 2026-06-22 11:10 IST*
+*Last updated: 2026-06-22 13:12 IST*

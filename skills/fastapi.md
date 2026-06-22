@@ -18,13 +18,13 @@ It provides rapid API development speed, automatic OpenAPI documentation, asynch
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 73 resources matched in the intelligence vault.
+Active signals: 83 resources matched in the intelligence vault.
 Recently detected signals:
-- [libdatachannel](../ai/resources/libdatachannel.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Installation — JupyterLab 4.6.0 documentation](../ai/resources/installation-jupyterlab-4-6-0-documentation.md) (Source: Unknown Source) - Collected 2026-06-22
-- [The Jira Service Management ops REST API](../ai/resources/the-jira-service-management-ops-rest-api.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Give users admin permissions | Atlassian Support](../ai/resources/give-users-admin-permissions-atlassian-support.md) (Source: Unknown Source) - Collected 2026-06-22
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](../ai/resources/buddypress-developer-resources-your-best-buddies-e.md) (Source: Unknown Source) - Collected 2026-06-22
+- [BuddyPress Codex](../ai/resources/buddypress-codex.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Pydantic Docs - Validation, AI Agents, Logfire Observability](../ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md) (Source: Unknown Source) - Collected 2026-06-22
+- [SQLModel](../ai/rag/sqlmodel.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Gunicorn - Python WSGI HTTP Server for UNIX](../ai/resources/gunicorn-python-wsgi-http-server-for-unix.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -70,15 +70,15 @@ Recently detected signals:
 - Language: Unknown
 - Description: Template for agentic Chat & Memory Agents with Dapr runtime, UV simplicity, and OpenAI Agents SDK.
 
-### 9. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
-- Stars: 0
-- Language: Unknown
-- Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
-
-### 10. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
+### 9. [Kludex/uvicorn](../ai/rag/kludex-uvicorn.md) ([GitHub](https://github.com/kludex/uvicorn))
 - Stars: 0
 - Language: Unknown
 - Description: - **ASGI Server Implementation**: Uvicorn is a lightning-fast ASGI (Asynchronous Server Gateway Interface) server implementation for Python, leveraging `asyncio` for high-performance I/O-bound oper...
+
+### 10. [AgentTeam-TaichuAI/ScienceClaw](../ai/agents/agentteam-taichuai-scienceclaw.md) ([GitHub](https://github.com/agentteam-taichuai/scienceclaw))
+- Stars: 0
+- Language: Unknown
+- Description: ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a completely new architecture beyond OpenClaw. It offers stronger security, bet...
 
 ### 11. [agruai/ai-book-writer](../ai/agents/agruai-ai-book-writer.md) ([GitHub](https://github.com/agruai/ai-book-writer))
 - Stars: 0
@@ -90,7 +90,12 @@ Recently detected signals:
 - Language: Unknown
 - Description: Simple benchmark: FastAPI vs Bun/Elysia with LangGraph and llama.cpp
 
-### 13. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
+### 13. [raganwald/raganwald.github.com](../ai/rag/raganwald-raganwald-github-com.md) ([GitHub](https://github.com/raganwald/raganwald.github.com))
+- Stars: 0
+- Language: Unknown
+- Description: - **Jekyll Static Site Generator**: Repository contains the source for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`).
+
+### 14. [huggingface/transformers Release: Patch release v5.12.1](../ai/releases/huggingface-transformers.md) ([GitHub](https://github.com/huggingface/transformers))
 - Stars: 0
 - Language: Unknown
 - Description: Repository: huggingface/transformers
@@ -115,4 +120,4 @@ Useful for roles such as: Full Stack Engineer, General Software Developer.
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T13:12:11.745367+05:30.412597+05:30.537921+05:30.886696+05:30.234825+05:30.231199+05:30.586852+05:30.528114+05:30.056055+05:30.971532+05:30.116346+05:30.593635+05:30.613397+05:30.665609+05:30.987729+05:30.505777+05:30.824934+05:30.632015+05:30.978685+05:30.193594+05:30.968527+05:30.145967+05:30.636606+05:30.745557+05:30.

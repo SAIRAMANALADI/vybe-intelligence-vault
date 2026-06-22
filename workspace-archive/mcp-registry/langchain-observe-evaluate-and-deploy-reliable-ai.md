@@ -32,11 +32,11 @@ selection_reason:
 
 ## Summary
 
-- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, identifies root causes in traces/code, and proposes fixes to accelerate agent improvement cycles.
+- **Multi-language SDK Support**: LangSmith provides Python, TypeScript, Go, and Java SDKs for framework-agnostic agent tracing and integration, enabling cross-platform agent development and observability.
 
-- **Multi-Framework Observability**: Provides native tracing for popular agent frameworks (via OpenTelemetry) with SDKs in Python/TypeScript/Go/Java, enabling structured debugging of long-context, multi-turn agent interactions.
+- **Autonomous Agent Debugging**: LangSmith Engine autonomously clusters production failures, identifies root causes in traces/code, and proposes fixes, accelerating agent improvement cycles.
 
-- **Production-Grade Deployment**: Offers a fault-tolerant agent server with d
+- **Production-Grade Agent Deployment**: LangSmith’s agent server supports long-running async intera
 
 ## Use Cases
 

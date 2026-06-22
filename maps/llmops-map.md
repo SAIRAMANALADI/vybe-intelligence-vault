@@ -10,11 +10,11 @@ Quantization, inference optimization, model evaluations, security guardrails.
 Langfuse, Ollama, llama.cpp, vLLM, Phoenix.
 
 ## Recommended Resources from the Vault
+*   [Apple Vision Pro - Apple](https://www.apple.com/apple-vision-pro)
+*   [DagsHub - YouTube](https://youtube.com/c/dagshub)
 *   [The Linux Kernel documentation — The Linux Kernel documentation](https://docs.kernel.org)
+*   [Overview Â· Cloudflare Workers AI docs](https://developers.cloudflare.com/workers-ai)
 *   [Case Study: Millisecond Latency using Hugging Face Infinity and modern CPUs](https://huggingface.co/blog/infinity-cpu-performance)
-*   [Fetch Cuts ML Processing Latency by 50% Using Amazon SageMaker & Hugging Face](https://huggingface.co/blog/fetch-case-study)
-*   [Assisted Generation: a new direction toward low-latency text generation](https://huggingface.co/blog/assisted-generation)
-*   [gnikoloff/webgpu-raytracer](https://github.com/gnikoloff/webgpu-raytracer)
 
 ## Project Ideas
 *   Self-hosted Ollama server with custom evaluators verifying response quality.

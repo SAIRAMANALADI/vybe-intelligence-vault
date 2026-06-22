@@ -17,33 +17,33 @@ This index groups curated resources by target developer skills.
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
 - [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-16835.md))
+- [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (Tier: `useful` | [`Local File`](../../ai/rag/trec-autojudge-trec-autojudge.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12702.md))
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-04879.md))
-- [MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization](https://arxiv.org/abs/2606.17526) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17526.md))
 
 ## API Design
 
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Tier: `useful` | [`Local File`](../../ai/resources/buddypress-developer-resources-your-best-buddies-e.md))
+- [Improve Transparency with Statuspage | Atlassian](https://www.atlassian.com/software/statuspage?utm_campaign=status.npmjs.org&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp) (Tier: `useful` | [`Local File`](../../ai/resources/improve-transparency-with-statuspage-atlassian.md))
 - [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (Tier: `useful` | [`Local File`](../../ai/resources/fdsnws-event-web-service-interface-documentation-i.md))
+- [DagsHub - YouTube](https://youtube.com/c/dagshub) (Tier: `useful` | [`Local File`](../../ai/resources/dagshub-youtube.md))
 - [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (Tier: `useful` | [`Local File`](../../ai/resources/microsoft-graph-support.md))
+- [Build third-party apps with Bitbucket Cloud REST API | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api) (Tier: `useful` | [`Local File`](../../ai/resources/build-third-party-apps-with-bitbucket-cloud-rest-a.md))
 - [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (Tier: `useful` | [`Local File`](../../ai/resources/alerts-and-notifications-texts-and-emails-twilio.md))
 - [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (Tier: `useful` | [`Local File`](../../ai/resources/the-compass-rest-api.md))
-- [The Jira Service Management ops REST API](https://developer.atlassian.com/cloud/jira/service-desk-ops/rest/v2/intro/#jira-cloud-platform-apis) (Tier: `useful` | [`Local File`](../../ai/resources/the-jira-service-management-ops-rest-api.md))
-- [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) (Tier: `useful` | [`Local File`](../../ai/rag/cloud-developer-documentation-atlassian-developer.md))
-- [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks) (Tier: `useful` | [`Local File`](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
-- [Platform Marketplace](https://developer.atlassian.com/platform/marketplace) (Tier: `useful` | [`Local File`](../../ai/rag/platform-marketplace.md))
 
 ## API Routing
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `essential` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
 
 ## Agentic Coding
 
@@ -80,6 +80,8 @@ This index groups curated resources by target developer skills.
 
 ## Context Window Engineering
 
+- [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/rec/T-REC-X.680/en) (Tier: `useful` | [`Local File`](../../ai/resources/x-680-information-technology-abstract-syntax-notat.md))
+- [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](https://www.itu.int/rec/T-REC-X.690/en) (Tier: `useful` | [`Local File`](../../ai/resources/x-690-information-technology-asn-1-encoding-rules.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 
 ## Data Curation
@@ -109,11 +111,11 @@ This index groups curated resources by target developer skills.
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
 - [Computational Safety for Generative AI: A Hypothesis Testing Perspective](https://arxiv.org/abs/2502.12445) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2502-12445.md))
 - [NeST: Neuron Selective Tuning for LLM Safety](https://arxiv.org/abs/2602.16835) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2602-16835.md))
+- [TREC AutoJudge ← TREC AutoJudge](https://trec-auto-judge.cs.unh.edu) (Tier: `useful` | [`Local File`](../../ai/rag/trec-autojudge-trec-autojudge.md))
 - [SkillVetBench: LLM-as-Judge for Multi-Dimensional Security Risk Evaluation in Open-Source LLM Agent Skills](https://arxiv.org/abs/2606.15899) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-15899.md))
 - [Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda](https://arxiv.org/abs/2606.13405) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13405.md))
 - [Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System](https://arxiv.org/abs/2606.12702) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-12702.md))
 - [Rethinking the Trust Region in LLM Reinforcement Learning](https://arxiv.org/abs/2602.04879) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-04879.md))
-- [MGUP: A Momentum-Gradient Alignment Update Policy for Stochastic Optimization](https://arxiv.org/abs/2606.17526) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17526.md))
 
 ## Distributed Tracing
 
@@ -141,12 +143,12 @@ This index groups curated resources by target developer skills.
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Next.js 7](https://nextjs.org/blog/next-7) (Tier: `useful` | [`Local File`](../../web-development/nextjs/next-js-7.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](../../ai/rag/patchy631-ai-engineering-hub.md))
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) (Tier: `useful` | [`Local File`](../../ai/agents/tencent-ai-infra-guard.md))
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](../../ai/agents/secureagentics-adrian.md))
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
 
 ## GLSL Shaders
 
@@ -189,8 +191,8 @@ This index groups curated resources by target developer skills.
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
+- [TREC RAGTIME | Official website for the TREC RAGTIME track](https://trec-ragtime.github.io) (Tier: `useful` | [`Local File`](../../ai/rag/trec-ragtime-official-website-for-the-trec-ragtime.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
-- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 
 ## LLMOps Observability
 
@@ -208,11 +210,11 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17118.md))
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `useful` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-12850.md))
 - [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-02056.md))
 - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 - [Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost](https://arxiv.org/abs/2602.03120) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-03120.md))
-- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 
 ## MCP Integrations
 
@@ -245,22 +247,22 @@ This index groups curated resources by target developer skills.
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [MODE: Modality-Decomposed Expert-Level Mixed-Precision Quantization for MoE Multimodal LLMs](https://arxiv.org/abs/2606.17118) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17118.md))
 - [LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains](https://arxiv.org/abs/2606.17123) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-17123.md))
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `useful` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [KANEL\'E: Kolmogorov-Arnold Networks for Efficient LUT-based Evaluation](https://arxiv.org/abs/2512.12850) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-12850.md))
 - [Ultrafast On-chip Online Learning via Spline Locality in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2602.02056) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-02056.md))
 - [HeRo-Q: A General Framework for Stable Low Bit Quantization via Hessian Conditioning](https://arxiv.org/abs/2601.21626) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2601-21626.md))
 - [Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost](https://arxiv.org/abs/2602.03120) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2602-03120.md))
-- [Shift-and-Sum Quantization for Visual Autoregressive Models](https://arxiv.org/abs/2606.16131) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-16131.md))
 
 ## Model Selection
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `essential` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [llamasearchai/OpenAGI-Customization](https://github.com/llamasearchai/OpenAGI-Customization) (Tier: `essential` | [`Local File`](../../ai/resources/llamasearchai-openagi-customization.md))
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) (Tier: `essential` | [`Local File`](../../ai/agents/mergisi-awesome-openclaw-agents.md))
 - [GoogleCloudPlatform/agent-starter-pack](https://github.com/googlecloudplatform/agent-starter-pack) (Tier: `essential` | [`Local File`](../../ai/agents/googlecloudplatform-agent-starter-pack.md))
 - [maunappl8/openai-agents-ts-kit](https://github.com/maunappl8/openai-agents-ts-kit) (Tier: `essential` | [`Local File`](../../ai/agents/maunappl8-openai-agents-ts-kit.md))
-- [The Complete Guide to RAG: Building Retrieval-Augmented Generation Systems 2026 | Nerd Level Tech](https://nerdleveltech.com/guides/rag-systems) (Tier: `essential` | [`Local File`](../../ai/rag/the-complete-guide-to-rag-building-retrieval-augme.md))
 
 ## Multi-Agent Design
 
@@ -277,30 +279,33 @@ This index groups curated resources by target developer skills.
 
 - [LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems](https://arxiv.org/abs/2606.11560) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11560.md))
 - [DataEvolver: Automatic Data Preparation for Large Language Models through Multi-Level Self-Evolving](https://arxiv.org/abs/2606.07001) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-07001.md))
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health](https://arxiv.org/abs/2606.11214) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11214.md))
 - [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11337.md))
 - [AutoMine Solution for AV2 2026 Scenario Mining Challenge](https://arxiv.org/abs/2606.11874) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-11874.md))
 - [From Prompts to Tokens: Internalizing Causal Supervision in Vision-Language Model for Multi-Image Causal Reasoning](https://arxiv.org/abs/2606.11745) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11745.md))
 - [Modeling Complex Behaviors: Multi-Personality Composition and Dynamic Switching in Vision-Language Models](https://arxiv.org/abs/2606.11074) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11074.md))
-- [MA-DLE: Speech-based Automatic Depression Level Estimation via Memory Augmentation](https://arxiv.org/abs/2606.11197) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-11197.md))
 
 ## Productivity Optimization
 
+- [Genkit - Open-source AI framework by Google in JavaScript, Go and Python](https://genkit.dev) (Tier: `useful` | [`Local File`](../../ai/rag/genkit-open-source-ai-framework-by-google-in-javas.md))
 - [Five guides to building and scaling production-ready AI agents | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/five-guides-to-building-and-scaling-production-ready-ai-agents) (Tier: `useful` | [`Local File`](../../ai/rag/five-guides-to-building-and-scaling-production-rea.md))
+- [Docker Hub Container Image Library | App Containerization](https://hub.docker.com) (Tier: `useful` | [`Local File`](../../ai/rag/docker-hub-container-image-library-app-containeriz.md))
 - [Mining Architectural Quality Under Agentic AI Adoption: A Causal Study of Java Repositories](https://arxiv.org/abs/2606.13298) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-13298.md))
 - [OpenAI Agents SDK: Complete Setup Guide (2026)](https://www.aimadetools.com/blog/openai-agents-sdk-setup-guide) (Tier: `useful` | [`Local File`](../../ai/agents/openai-agents-sdk-complete-setup-guide-2026.md))
 - [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-14654.md))
 - [Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement](https://arxiv.org/abs/2606.14718) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-14718.md))
 - [First, do NOHARM: towards clinically safe large language models](https://arxiv.org/abs/2512.01241) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2512-01241.md))
-- [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) (Tier: `useful` | [`Local File`](../../ai/resources/cyproxio-mcp-for-security.md))
-- [shivayapandey/product-doc-crewai](https://github.com/shivayapandey/product-doc-crewai) (Tier: `useful` | [`Local File`](../../ai/rag/shivayapandey-product-doc-crewai.md))
 
 ## Prompt Curation
 
+- [X.680 : Information technology - Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/rec/T-REC-X.680/en) (Tier: `useful` | [`Local File`](../../ai/resources/x-680-information-technology-abstract-syntax-notat.md))
+- [X.690 : Information technology - ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding R](https://www.itu.int/rec/T-REC-X.690/en) (Tier: `useful` | [`Local File`](../../ai/resources/x-690-information-technology-asn-1-encoding-rules.md))
 - [Next.js 16.2: AI Improvements](https://nextjs.org/blog/next-16-2-ai) (Tier: `useful` | [`Local File`](../../ai/agents/next-js-16-2-ai-improvements.md))
 
 ## Prompt Engineering
 
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
@@ -308,18 +313,17 @@ This index groups curated resources by target developer skills.
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [Google AI Studio](https://aistudio.google.com) (Tier: `useful` | [`Local File`](../../ai/resources/google-ai-studio.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
-- [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 
 ## REST API Integration
 
+- [BuddyPress Developer Resources | Your best buddies ever to help you code.](https://developer.buddypress.org) (Tier: `useful` | [`Local File`](../../ai/resources/buddypress-developer-resources-your-best-buddies-e.md))
+- [Improve Transparency with Statuspage | Atlassian](https://www.atlassian.com/software/statuspage?utm_campaign=status.npmjs.org&utm_content=SP-notifications&utm_medium=powered-by&utm_source=inapp) (Tier: `useful` | [`Local File`](../../ai/resources/improve-transparency-with-statuspage-atlassian.md))
 - [fdsnws-event Web Service Interface Documentation | IPGP Data Center Web Services](http://ws.ipgp.fr/fdsnws/event/1) (Tier: `useful` | [`Local File`](../../ai/resources/fdsnws-event-web-service-interface-documentation-i.md))
+- [DagsHub - YouTube](https://youtube.com/c/dagshub) (Tier: `useful` | [`Local File`](../../ai/resources/dagshub-youtube.md))
 - [Microsoft Graph | Support](https://developer.microsoft.com/en-us/graph/support) (Tier: `useful` | [`Local File`](../../ai/resources/microsoft-graph-support.md))
+- [Build third-party apps with Bitbucket Cloud REST API | Bitbucket Cloud | Atlassian Support](https://support.atlassian.com/bitbucket-cloud/docs/build-third-party-apps-with-bitbucket-cloud-rest-api) (Tier: `useful` | [`Local File`](../../ai/resources/build-third-party-apps-with-bitbucket-cloud-rest-a.md))
 - [Alerts and notifications: Texts and emails | Twilio](https://www.twilio.com/en-us/use-cases/alerts-and-notifications) (Tier: `useful` | [`Local File`](../../ai/resources/alerts-and-notifications-texts-and-emails-twilio.md))
 - [The Compass REST API](https://developer.atlassian.com/cloud/compass/rest/v1/intro/#about) (Tier: `useful` | [`Local File`](../../ai/resources/the-compass-rest-api.md))
-- [The Jira Service Management ops REST API](https://developer.atlassian.com/cloud/jira/service-desk-ops/rest/v2/intro/#jira-cloud-platform-apis) (Tier: `useful` | [`Local File`](../../ai/resources/the-jira-service-management-ops-rest-api.md))
-- [Cloud developer documentation - Atlassian Developer](https://developer.atlassian.com/docs) (Tier: `useful` | [`Local File`](../../ai/rag/cloud-developer-documentation-atlassian-developer.md))
-- [15 Best Open-Source RAG Frameworks in 2026](https://www.firecrawl.dev/blog/best-open-source-rag-frameworks) (Tier: `useful` | [`Local File`](../../ai/rag/15-best-open-source-rag-frameworks-in-2026.md))
-- [Platform Marketplace](https://developer.atlassian.com/platform/marketplace) (Tier: `useful` | [`Local File`](../../ai/rag/platform-marketplace.md))
 
 ## React Layouts
 
@@ -340,8 +344,8 @@ This index groups curated resources by target developer skills.
 - [InTrain: Intrinsic Trainability for Zero-Cost Neural Architecture Search](https://arxiv.org/abs/2606.18676) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18676.md))
 - [SPADE: Split-and-Delay Embeddings for Autoregressive High-Granularity Calorimeter Simulation](https://arxiv.org/abs/2606.11304) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11304.md))
 - [Generating Natural and Expressive Robot Gestures through Iterative Reinforcement Learning with Human Feedback using LLMs](https://arxiv.org/abs/2606.18747) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-18747.md))
+- [TREC RAGTIME | Official website for the TREC RAGTIME track](https://trec-ragtime.github.io) (Tier: `useful` | [`Local File`](../../ai/rag/trec-ragtime-official-website-for-the-trec-ragtime.md))
 - [From Tokens to Regions: CUDA-Sensitive Instruction Tuning for GPU Kernel Generation](https://arxiv.org/abs/2606.16231) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-16231.md))
-- [AnomalyMatch: Discovering Rare Objects of Interest with Semi-supervised and Active Learning](https://arxiv.org/abs/2505.03509) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2505-03509.md))
 
 ## Reranking Pipelines
 
@@ -356,14 +360,14 @@ This index groups curated resources by target developer skills.
 
 ## Roadmap Planning
 
+- [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) (Tier: `useful` | [`Local File`](../../ai/rag/datawhalechina-llm-universe.md))
 - [iamshaunjp/framer-motion](https://github.com/iamshaunjp/framer-motion) (Tier: `useful` | [`Local File`](../../web-development/framer-motion/iamshaunjp-framer-motion.md))
+- [Web & Application Development - Linux Foundation - Education](https://training.linuxfoundation.org/application-development) (Tier: `useful` | [`Local File`](../../ai/rag/web-application-development-linux-foundation-educa.md))
 - [Resources - Linux Foundation - Education](https://training.linuxfoundation.org/resources) (Tier: `useful` | [`Local File`](../../ai/rag/resources-linux-foundation-education.md))
 - [Python Packaging Authority — PyPA documentation](https://www.pypa.io/en/latest) (Tier: `useful` | [`Local File`](../../ai/resources/python-packaging-authority-pypa-documentation.md))
 - [Streamlining RIPEstat: Building an Interface for the Future | RIPE Labs](https://labs.ripe.net/author/adonis_stergiopoulos/streamlining-ripestat-building-an-interface-for-the-future) (Tier: `useful` | [`Local File`](../../ai/resources/streamlining-ripestat-building-an-interface-for-th.md))
 - [Sensory Restoration via Brain-Computer Interfaces: A Unified 2 x 2 Framework and Convergence Roadmap](https://arxiv.org/abs/2606.15091) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15091.md))
 - [RAG Status Reports, Dashboards, and Templates: Red Amber Green](https://business-docs.co.uk/downloads/category/rag) (Tier: `useful` | [`Local File`](../../ai/rag/rag-status-reports-dashboards-and-templates-red-am.md))
-- [Overcoming the Impedance Mismatch: A Theoretical Roadmap for Fusing Foundation Models and Knowledge Graphs](https://arxiv.org/abs/2606.15656) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15656.md))
-- [Position: Modular Memory is the Key to Continual Learning Agents](https://arxiv.org/abs/2603.01761) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2603-01761.md))
 
 ## SaaS Architectures
 
@@ -381,7 +385,7 @@ This index groups curated resources by target developer skills.
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
-- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (Tier: `useful` | [`Local File`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md))
+- [Introduction | Electron](https://electronjs.org/docs/latest) (Tier: `useful` | [`Local File`](../../ai/resources/introduction-electron.md))
 - [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Tier: `useful` | [`Local File`](../../ai/resources/get-source-code.md))
 - [Git](https://git-scm.com) (Tier: `useful` | [`Local File`](../../ai/resources/git.md))
 - [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
@@ -395,8 +399,8 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
-- [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355) (Tier: `useful` | [`Local File`](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems) (Tier: `useful` | [`Local File`](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
 
 ## Software Engineering Automation
 
@@ -424,15 +428,16 @@ This index groups curated resources by target developer skills.
 
 - [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) (Tier: `essential` | [`Local File`](../../ai/agents/wassim249-fastapi-langgraph-agent-production-ready-template.md))
 - [shadcnstore/shadcn-dashboard-landing-template](https://github.com/shadcnstore/shadcn-dashboard-landing-template) (Tier: `essential` | [`Local File`](../../web-development/nextjs/shadcnstore-shadcn-dashboard-landing-template.md))
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks](https://arxiv.org/abs/2606.12344) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2606-12344.md))
 - [Next.js 7](https://nextjs.org/blog/next-7) (Tier: `useful` | [`Local File`](../../web-development/nextjs/next-js-7.md))
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) (Tier: `useful` | [`Local File`](../../ai/rag/patchy631-ai-engineering-hub.md))
 - [Tencent/AI-Infra-Guard](https://github.com/tencent/ai-infra-guard) (Tier: `useful` | [`Local File`](../../ai/agents/tencent-ai-infra-guard.md))
 - [secureagentics/Adrian](https://github.com/secureagentics/Adrian) (Tier: `useful` | [`Local File`](../../ai/agents/secureagentics-adrian.md))
-- [asbhogal/Fyrre-Magazine](https://github.com/asbhogal/fyrre-magazine) (Tier: `useful` | [`Local File`](../../web-development/nextjs/asbhogal-fyrre-magazine.md))
 
 ## Structured Outputs
 
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](https://firebase.google.com/products/generative-ai) (Tier: `useful` | [`Local File`](../../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md))
 - [Protein Design with Agent Rosetta: A Case Study for Specialized Scientific Agents](https://arxiv.org/abs/2603.15952) (Tier: `useful` | [`Local File`](../../ai/agents/arxiv-2603-15952.md))
 - [LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline](https://arxiv.org/abs/2606.17507) (Tier: `useful` | [`Local File`](../../ai/research/arxiv-2606-17507.md))
 - [junwoojeong100/azure-intelligent-app-labs](https://github.com/junwoojeong100/azure-intelligent-app-labs) (Tier: `useful` | [`Local File`](../../ai/rag/junwoojeong100-azure-intelligent-app-labs.md))
@@ -440,7 +445,6 @@ This index groups curated resources by target developer skills.
 - [jaypanchal18/production-ai-agents-and-llm-platform](https://github.com/jaypanchal18/production-ai-agents-and-llm-platform) (Tier: `useful` | [`Local File`](../../ai/agents/jaypanchal18-production-ai-agents-and-llm-platform.md))
 - [Google AI Studio](https://aistudio.google.com) (Tier: `useful` | [`Local File`](../../ai/resources/google-ai-studio.md))
 - [APEX: Automated Prompt Engineering eXpert with Dynamic Data Selection](https://arxiv.org/abs/2606.11459) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-11459.md))
-- [Formalizing and Mitigating Structural Distortion in LLM Attention for Graph Reasoning](https://arxiv.org/abs/2606.15633) (Tier: `useful` | [`Local File`](../../ai/rag/arxiv-2606-15633.md))
 
 ## TailwindCSS
 
@@ -494,19 +498,19 @@ This index groups curated resources by target developer skills.
 - [SylphxAI/pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) (Tier: `essential` | [`Local File`](../../ai/rag/sylphxai-pdf-reader-mcp.md))
 - [girijesh-ai/ai-interview-codex](https://github.com/girijesh-ai/ai-interview-codex) (Tier: `essential` | [`Local File`](../../ai/rag/girijesh-ai-ai-interview-codex.md))
 - [yonatangross/orchestkit](https://github.com/yonatangross/orchestkit) (Tier: `essential` | [`Local File`](../../ai/rag/yonatangross-orchestkit.md))
-- [Top 10 RAG Frameworks Github Repos 2025 | by Rowan Blackwoon | Medium](https://rowanblackwoon.medium.com/top-10-rag-frameworks-github-repos-2025-dba899ae0355) (Tier: `useful` | [`Local File`](../../ai/rag/top-10-rag-frameworks-github-repos-2025-by-rowan-b.md))
-- [Mastering LangGraph: A Production-Ready Coding Walkthrough for Software Engineers - News from generation RAG](https://ragaboutit.com/mastering-langgraph-a-production-ready-coding-walkthrough-for-software-engineers) (Tier: `useful` | [`Local File`](../../ai/rag/mastering-langgraph-a-production-ready-coding-walk.md))
+- [RAG Application Tutorial 2025: Build Production-Ready Retrieval Augmented Generation Systems · System Debug](https://sysdebug.com/posts/rag-application-tutorial-production-guide) (Tier: `useful` | [`Local File`](../../ai/rag/rag-application-tutorial-2025-build-production-rea.md))
+- [The Best RAG Frameworks in 2026: A Comprehensive Guide to Building Superior Retrieval-Augmented Generation Systems | mar](https://martinuke0.github.io/posts/2026-01-06-the-best-rag-frameworks-in-2026-a-comprehensive-guide-to-building-superior-retrieval-augmented-generation-systems) (Tier: `useful` | [`Local File`](../../ai/rag/the-best-rag-frameworks-in-2026-a-comprehensive-gu.md))
 
 ## Workflow Automation
 
 - [langgenius/dify](https://github.com/langgenius/dify) (Tier: `essential` | [`Local File`](../../ai/rag/langgenius-dify.md))
 - [AlexPEClub/ai-coding-starter-kit](https://github.com/AlexPEClub/ai-coding-starter-kit) (Tier: `essential` | [`Local File`](../../ai/agents/alexpeclub-ai-coding-starter-kit.md))
 - [How to contribute — Contributing to Godot](https://contributing.godotengine.org/en/latest/organization/how_to_contribute.html) (Tier: `useful` | [`Local File`](../../ai/rag/how-to-contribute-contributing-to-godot.md))
-- [Installation — JupyterLab 4.6.0 documentation](https://jupyterlab.rtfd.io/en/latest/getting_started/installation.html) (Tier: `useful` | [`Local File`](../../ai/resources/installation-jupyterlab-4-6-0-documentation.md))
+- [Introduction | Electron](https://electronjs.org/docs/latest) (Tier: `useful` | [`Local File`](../../ai/resources/introduction-electron.md))
 - [get-source-code](https://documentation.ubuntu.com/launchpad/developer/how-to/get-source-code) (Tier: `useful` | [`Local File`](../../ai/resources/get-source-code.md))
 - [Git](https://git-scm.com) (Tier: `useful` | [`Local File`](../../ai/resources/git.md))
 - [Anaconda Documentation - Anaconda](https://www.anaconda.com/docs/main) (Tier: `useful` | [`Local File`](../../ai/resources/anaconda-documentation-anaconda.md))
 - [Twilio SendGrid developer documentation | SendGrid Docs | Twilio](https://sendgrid.com/docs/for-developers) (Tier: `useful` | [`Local File`](../../ai/resources/twilio-sendgrid-developer-documentation-sendgrid-d.md))
 
 ---
-*Last updated: 2026-06-22 11:10 IST*
+*Last updated: 2026-06-22 13:12 IST*

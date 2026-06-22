@@ -12,6 +12,7 @@ resource_kind: framework
 importance: medium
 tags:
 - github-repo
+- hackernews
 - meta-ai
 - models
 - python
@@ -34,11 +35,11 @@ selection_reason:
 
 ## Summary
 
-- **Comprehensive RAG Stack Guide**: Covers end-to-end RAG development with frameworks like LangChain, LlamaIndex, and deep learning models (DeepSeek, Kimi-K2), including embedding, retrieval, and multimodal integration.
+- **Comprehensive RAG Guide**: A full-stack technical resource covering Retrieval-Augmented Generation (RAG) development, integrating frameworks like LangChain and LlamaIndex, with practical implementations in Python.
 
-- **Advanced Vector & Graph Databases**: Demonstrates integration with Milvus (vector DB) and Neo4j (graph DB) for scalable retrieval and structured knowledge representation.
+- **Multi-Technology Integration**: Incorporates diverse tools (e.g., Milvus for vector DB, Neo4j for graph DB, embedding models, and LLMs like DeepSeek/Kimi-K2) for multimodal and advanced RAG pipelines.
 
-- **Python-Based Implementation**: Provides practical code examples in Python for deploying RAG pipeli
+- **Updated Tooling & Best Practices**: Focuses on modern AI/ML stacks (e.g
 
 ## Use Cases
 

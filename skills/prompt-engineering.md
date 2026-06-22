@@ -18,13 +18,13 @@ Well-engineered prompts reduce downstream parsing failures, control costs throug
 ## Current Signal
 
 <!-- GENERATED:CURRENT_SIGNAL_START -->
-Active signals: 135 resources matched in the intelligence vault.
+Active signals: 134 resources matched in the intelligence vault.
 Recently detected signals:
-- [Google AI Studio](../ai/resources/google-ai-studio.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Gemini API | Google AI for Developers](../ai/agents/gemini-api-google-ai-for-developers.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Home - Docs by LangChain](../ai/rag/home-docs-by-langchain.md) (Source: Unknown Source) - Collected 2026-06-22
-- [Pydantic Docs - Validation, AI Agents, Logfire Observability](../ai/agents/pydantic-docs-validation-ai-agents-logfire-observa.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Generative AI | Build AI-powered apps with speed, security, and scalability | Firebase](../ai/rag/generative-ai-build-ai-powered-apps-with-speed-sec.md) (Source: Unknown Source) - Collected 2026-06-22
 - [asgeirtj/system_prompts_leaks](../ai/trending/asgeirtj-system-prompts-leaks.md) (Source: Unknown Source) - Collected 2026-06-22
+- [Few-shot learning in practice: GPT-Neo and the 🤗 Accelerated Inference API](../ai/models/few-shot-learning-in-practice-gpt-neo-and-the-acce.md) (Source: Unknown Source) - Collected 2026-06-22
+- [SetFit: Efficient Few-Shot Learning Without Prompts](../ai/models/setfit-efficient-few-shot-learning-without-prompts.md) (Source: Unknown Source) - Collected 2026-06-22
+- [SetFitABSA: Few-Shot Aspect Based Sentiment Analysis using SetFit](../ai/models/setfitabsa-few-shot-aspect-based-sentiment-analysi.md) (Source: Unknown Source) - Collected 2026-06-22
 <!-- GENERATED:CURRENT_SIGNAL_END -->
 
 ## Best Repositories
@@ -65,4 +65,4 @@ Useful for roles such as: AI Engineer, ML Engineer, NLP Architect, RAG Pipeline 
 
 ## Last Updated
 
-Auto-updated by Local AI + Web Harvester on 2026-06-22T11:09:29.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.
+Auto-updated by Local AI + Web Harvester on 2026-06-22T13:12:11.369157+05:30.042780+05:30.172643+05:30.562942+05:30.900875+05:30.896989+05:30.203766+05:30.195583+05:30.685581+05:30.652618+05:30.785597+05:30.261200+05:30.269860+05:30.348616+05:30.707889+05:30.228218+05:30.527145+05:30.358265+05:30.714081+05:30.549717+05:30.866125+05:30.337322+05:30.341801+05:30.

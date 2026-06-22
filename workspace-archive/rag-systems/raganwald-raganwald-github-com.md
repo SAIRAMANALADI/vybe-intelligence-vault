@@ -32,9 +32,9 @@ selection_reason:
 
 ## Summary
 
-- **Static Site Generator**: Uses Jekyll to convert Markdown, Textile, etc. into static HTML for deployment on GitHub Pages.
-- **GitHub Pages Hosting**: Repository serves as the source for `raganwald.github.com`, a personal website hosted via GitHub Pages.
-- **Minimalist Structure**: HTML-based with no additional dependencies or complex build tools, relying solely on Jekyll’s default configuration.
+- **Jekyll Static Site Generator**: Repository contains the source for a Jekyll-based static website hosted on GitHub Pages (`raganwald.github.com`).
+- **HTML-Centric Structure**: Entire site is built using HTML, with no additional templating or dynamic backend logic.
+- **Minimal Maintenance**: Last updated in 2026, indicating a static, low-maintenance deployment with 30 stars and 60 forks.
 
 ## Use Cases
 
