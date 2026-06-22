@@ -1,25 +1,27 @@
 ---
-title: "shareAI-lab/learn-claude-code"
-category: "Orchestrator"
-tech_stack: ["Python", "Bash", "Claude Code", "LLM APIs", "MCP (Model Context Protocol)", "Async Programming", "Sandboxing", "Git"]
-quality_score: 9
-rag_relevance: 8
-tags: ["AI agent harness", "LLM tooling", "agent infrastructure", "model deployment", "coding agents"]
-source: "https://github.com/shareAI-lab/learn-claude-code"
-discovered_at: "2026-06-22T15:56:25Z"
+title: "jafini/learn-claude-code"
+category: "Agent Framework"
+tech_stack: ["Python", "Bash", "TypeScript", "Windows CLI"]
+quality_score: 7
+rag_relevance: 6
+tags: ["AI agent learning", "Claude Code alternative", "Bash scripting", "Windows application", "educational tool"]
+source: "https://github.com/jafini/learn-claude-code"
+discovered_at: "2026-06-22T18:48:33Z"
 evaluated_by: "mistral-small-latest"
 ---
 
 ## Summary
-A comprehensive tutorial repository teaching how to build harnesses for AI agents, focusing on the distinction between model intelligence and operational infrastructure. It provides hands-on lessons for creating environments where LLMs can act as agents with tools, context management, and permission controls.
+A lightweight Windows-based AI agent designed to teach users how simple AI agents work by mimicking Claude Code's functionality. It provides an interactive command-line interface for learning AI agent concepts without requiring advanced programming knowledge.
 
 ## Key Features
-- Teaches the core pattern of agent harnesses with a minimal, reusable loop structure for LLM tool use
-- Provides 20 structured tutorials covering tools, context management, permissions, and subagent coordination
-- Demonstrates real-world agent patterns with Claude Code as a reference implementation
+- Simple command-line interface for interacting with an AI agent
+- Step-by-step prompts to teach AI concepts and agent behaviors
+- Supports custom Bash commands for hands-on learning
+- Lightweight design with minimal resource requirements
+- Built-in help and troubleshooting commands
 
 ## Why It Matters for RAG Builders
-It clarifies the critical role of harness engineering in transforming trained LLMs into functional agents, providing practical patterns for building scalable and secure agent infrastructures.
+It provides an accessible way for developers and learners to understand AI agent mechanics through a minimal, functional implementation.
 
 ## Tech Stack Deep Dive
 ### Python
@@ -28,23 +30,11 @@ Automated review identified **Python** as a key module contributing to infrastru
 ### Bash
 Automated review identified **Bash** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### Claude Code
-Automated review identified **Claude Code** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### TypeScript
+Automated review identified **TypeScript** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
-### LLM APIs
-Automated review identified **LLM APIs** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### MCP (Model Context Protocol)
-Automated review identified **MCP (Model Context Protocol)** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Async Programming
-Automated review identified **Async Programming** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Sandboxing
-Automated review identified **Sandboxing** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
-
-### Git
-Automated review identified **Git** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
+### Windows CLI
+Automated review identified **Windows CLI** as a key module contributing to infrastructure orchestration or cognitive reasoning boundaries in this project.
 
 
 

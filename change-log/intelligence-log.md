@@ -2,6 +2,23 @@
 
 This file tracks all chronological shifts, score changes, tier promotions, and deactivations.
 
+### Run: 2026-06-23T00:27:33.786380+05:30
+- **[New Discovery]** `How Long Prompts Block Other Requests - Optimizing LLM Performance` registered with score `0` in `ai/models`
+- **[New Discovery]** `Fine-tune Any LLM from the Hugging Face Hub with Together AI` registered with score `0` in `ai/models`
+- **[New Discovery]** `BigCodeArena: Judging code generations end to end with code executions` registered with score `0` in `ai/models`
+- **[New Discovery]** `AI for Food Allergies` registered with score `0` in `ai/models`
+- **[New Discovery]** `Building Deep Research: How we Achieved State of the Art` registered with score `0` in `ai/models`
+- **[New Discovery]** `Differential Transformer V2` registered with score `0` in `ai/models`
+- **[New Discovery]** `Building Blocks for Foundation Model Training and Inference on AWS` registered with score `0` in `ai/models`
+- **[New Discovery]** `Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality` registered with score `0` in `ai/rag`
+- **[New Discovery]** `Direct Preference Optimization Beyond Chatbots` registered with score `0` in `ai/models`
+- **[New Discovery]** `Introducing North Mini Code: Cohere’s First Model For Developers` registered with score `0` in `ai/models`
+- **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
+- **[Rank Rise]** `The Medium Blog`: Rank rose by +4
+- **[Rank Rise]** `Medium Status`: Rank rose by +1
+- **[Rank Drop]** `Medium Help Center`: Rank dropped by -2
+- **[Rank Drop]** `Medium Members Can Listen To Any Medium Story With The Speechify Play Button | Speechify`: Rank dropped by -3
+
 ### Run: 2026-06-22T23:58:24.634564+05:30
 - **[New Discovery]** `Denis2054/Context-Engineering-for-Multi-Agent-Systems` registered with score `0` in `ai/rag`
 - **[New Discovery]** `[BROKEN LINK] - ` registered with score `0` in ``
